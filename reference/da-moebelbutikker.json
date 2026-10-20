@@ -1,0 +1,1661 @@
+{
+  "id": "da-moebelbutikker",
+  "name": "Møbelbutikker i Danmark (Furniture stores in Denmark)",
+  "title": "Møbelbutikker i Danmark (Furniture stores in Denmark)",
+  "description": "Furniture stores in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=furniture.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 324,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "&tradition",
+      "latitude": 55.682852,
+      "longitude": 12.581114
+    },
+    {
+      "name": "2nd hand furniture",
+      "latitude": 55.949747,
+      "longitude": 9.119103
+    },
+    {
+      "name": "A. Block",
+      "latitude": 55.667259,
+      "longitude": 12.502746
+    },
+    {
+      "name": "An-Bo Møbler",
+      "latitude": 55.694889,
+      "longitude": 12.549221
+    },
+    {
+      "name": "Another Classic",
+      "latitude": 55.502438,
+      "longitude": 8.456662
+    },
+    {
+      "name": "Artium",
+      "latitude": 55.675081,
+      "longitude": 12.566665
+    },
+    {
+      "name": "Berg Furniture",
+      "latitude": 55.468431,
+      "longitude": 8.674926
+    },
+    {
+      "name": "Bindzus Lamper",
+      "latitude": 54.840313,
+      "longitude": 9.447602
+    },
+    {
+      "name": "Bolia",
+      "latitude": 55.396915,
+      "longitude": 10.389449
+    },
+    {
+      "name": "Bolia",
+      "latitude": 55.672597,
+      "longitude": 12.551455
+    },
+    {
+      "name": "Bolia",
+      "latitude": 55.682404,
+      "longitude": 12.580611
+    },
+    {
+      "name": "Bolia",
+      "latitude": 55.699839,
+      "longitude": 12.577699
+    },
+    {
+      "name": "Bolia",
+      "latitude": 57.045324,
+      "longitude": 9.922192
+    },
+    {
+      "name": "Bolig og Tæppegården",
+      "latitude": 55.468696,
+      "longitude": 8.672463
+    },
+    {
+      "name": "Bolig Punkt",
+      "latitude": 56.695447,
+      "longitude": 9.510261
+    },
+    {
+      "name": "Bolig-Nyt Ans",
+      "latitude": 56.30696,
+      "longitude": 9.594721
+    },
+    {
+      "name": "Bolighuset Thisted",
+      "latitude": 56.966032,
+      "longitude": 8.730868
+    },
+    {
+      "name": "BOOA",
+      "latitude": 55.568392,
+      "longitude": 9.709292
+    },
+    {
+      "name": "BOOA",
+      "latitude": 55.703347,
+      "longitude": 11.671238
+    },
+    {
+      "name": "BoShop",
+      "latitude": 56.202798,
+      "longitude": 10.245963
+    },
+    {
+      "name": "Brdr. Friis",
+      "latitude": 55.73432,
+      "longitude": 12.486836
+    },
+    {
+      "name": "Brdr. Friis Møbler",
+      "latitude": 55.70923,
+      "longitude": 12.508336
+    },
+    {
+      "name": "Bredebro Møbelhus",
+      "latitude": 55.057719,
+      "longitude": 8.824209
+    },
+    {
+      "name": "Brødrene Sørensen Møbler",
+      "latitude": 57.019522,
+      "longitude": 9.897836
+    },
+    {
+      "name": "Buehøjgård møbler",
+      "latitude": 55.72701,
+      "longitude": 12.237851
+    },
+    {
+      "name": "Buhl Jensens Bolighus",
+      "latitude": 55.191614,
+      "longitude": 9.063009
+    },
+    {
+      "name": "By Adelborg",
+      "latitude": 55.666309,
+      "longitude": 12.531819
+    },
+    {
+      "name": "Carl Hansen & Son",
+      "latitude": 55.681819,
+      "longitude": 12.588017
+    },
+    {
+      "name": "Carl Hansen & Søn",
+      "latitude": 54.934655,
+      "longitude": 8.866526
+    },
+    {
+      "name": "Casa Shop",
+      "latitude": 55.681223,
+      "longitude": 12.581539
+    },
+    {
+      "name": "Central Møbler",
+      "latitude": 55.356384,
+      "longitude": 10.340118
+    },
+    {
+      "name": "Daell's Bolighus Glostrup",
+      "latitude": 55.694471,
+      "longitude": 12.412906
+    },
+    {
+      "name": "Daells Bolighus",
+      "latitude": 55.382576,
+      "longitude": 10.417487
+    },
+    {
+      "name": "Daells Bolighus",
+      "latitude": 55.727221,
+      "longitude": 9.579931
+    },
+    {
+      "name": "Damborg Havemøbelland",
+      "latitude": 55.92839,
+      "longitude": 11.660168
+    },
+    {
+      "name": "Damborg Outlet",
+      "latitude": 54.98478,
+      "longitude": 12.28636
+    },
+    {
+      "name": "Dan Line",
+      "latitude": 55.550784,
+      "longitude": 11.947304
+    },
+    {
+      "name": "Danbo",
+      "latitude": 55.505667,
+      "longitude": 8.406453
+    },
+    {
+      "name": "Danbo",
+      "latitude": 55.724711,
+      "longitude": 12.427702
+    },
+    {
+      "name": "Danbo Møbler",
+      "latitude": 56.126941,
+      "longitude": 10.159883
+    },
+    {
+      "name": "Danske Design Møbler",
+      "latitude": 55.706557,
+      "longitude": 12.57769
+    },
+    {
+      "name": "Decorate",
+      "latitude": 55.490217,
+      "longitude": 9.474893
+    },
+    {
+      "name": "Den 7. himmel",
+      "latitude": 55.672124,
+      "longitude": 12.465236
+    },
+    {
+      "name": "Design Center Roskilde",
+      "latitude": 55.64003,
+      "longitude": 12.076215
+    },
+    {
+      "name": "Din Møbelpolstrer",
+      "latitude": 56.729463,
+      "longitude": 9.603008
+    },
+    {
+      "name": "Djurs Møbler",
+      "latitude": 56.409523,
+      "longitude": 10.570313
+    },
+    {
+      "name": "Dokk16",
+      "latitude": 56.154766,
+      "longitude": 10.220156
+    },
+    {
+      "name": "Duxiana",
+      "latitude": 55.68341,
+      "longitude": 12.577551
+    },
+    {
+      "name": "EFA Møbler",
+      "latitude": 55.498101,
+      "longitude": 12.196192
+    },
+    {
+      "name": "Engelbrechts",
+      "latitude": 55.678781,
+      "longitude": 12.572982
+    },
+    {
+      "name": "Epokerum",
+      "latitude": 55.689555,
+      "longitude": 12.543121
+    },
+    {
+      "name": "Erling Christensen Møbler",
+      "latitude": 57.466332,
+      "longitude": 10.253899
+    },
+    {
+      "name": "Fair Retro",
+      "latitude": 56.167498,
+      "longitude": 9.547288
+    },
+    {
+      "name": "Farstrup Comfort",
+      "latitude": 56.156063,
+      "longitude": 10.181845
+    },
+    {
+      "name": "FDB Møbler",
+      "latitude": 55.709417,
+      "longitude": 9.533101
+    },
+    {
+      "name": "FDB Møbler",
+      "latitude": 55.770624,
+      "longitude": 12.504273
+    },
+    {
+      "name": "FDB Møbler",
+      "latitude": 56.124418,
+      "longitude": 12.304631
+    },
+    {
+      "name": "FDB Møbler",
+      "latitude": 56.168246,
+      "longitude": 9.545617
+    },
+    {
+      "name": "FDB Møbler",
+      "latitude": 57.048054,
+      "longitude": 9.92397
+    },
+    {
+      "name": "FDB Møbler Middelfart",
+      "latitude": 55.53219,
+      "longitude": 9.776421
+    },
+    {
+      "name": "FDB Møbler Århus",
+      "latitude": 56.151675,
+      "longitude": 10.205138
+    },
+    {
+      "name": "Formel A",
+      "latitude": 56.160511,
+      "longitude": 10.208705
+    },
+    {
+      "name": "FROST Denmark",
+      "latitude": 56.317295,
+      "longitude": 10.084163
+    },
+    {
+      "name": "Futon House",
+      "latitude": 56.168915,
+      "longitude": 10.21874
+    },
+    {
+      "name": "Gades Møbelcenter",
+      "latitude": 57.005376,
+      "longitude": 9.871536
+    },
+    {
+      "name": "Gammelt Guld",
+      "latitude": 57.365565,
+      "longitude": 10.190297
+    },
+    {
+      "name": "Great Africa",
+      "latitude": 55.705531,
+      "longitude": 12.577697
+    },
+    {
+      "name": "Habengood",
+      "latitude": 55.678718,
+      "longitude": 12.50143
+    },
+    {
+      "name": "Halling Møbler",
+      "latitude": 56.157579,
+      "longitude": 10.204495
+    },
+    {
+      "name": "Havemøbelland",
+      "latitude": 56.028551,
+      "longitude": 12.571486
+    },
+    {
+      "name": "Havemøbelshoppen",
+      "latitude": 55.558044,
+      "longitude": 11.954233
+    },
+    {
+      "name": "Hay House",
+      "latitude": 55.678976,
+      "longitude": 12.580137
+    },
+    {
+      "name": "Hebru",
+      "latitude": 54.909546,
+      "longitude": 9.588942
+    },
+    {
+      "name": "HEP Møbler",
+      "latitude": 55.011626,
+      "longitude": 11.912184
+    },
+    {
+      "name": "Hjemme hos Rødovre Bolighus",
+      "latitude": 55.672452,
+      "longitude": 12.468445
+    },
+    {
+      "name": "HJEMME HOS | Toft Bolighus",
+      "latitude": 55.568487,
+      "longitude": 9.703189
+    },
+    {
+      "name": "Hoka",
+      "latitude": 54.922375,
+      "longitude": 9.809314
+    },
+    {
+      "name": "Home Sweet Home",
+      "latitude": 55.277696,
+      "longitude": 14.801761
+    },
+    {
+      "name": "Hotkotyr",
+      "latitude": 55.691476,
+      "longitude": 12.553379
+    },
+    {
+      "name": "House",
+      "latitude": 55.727057,
+      "longitude": 12.57719
+    },
+    {
+      "name": "Hvass Design Møbler",
+      "latitude": 56.965914,
+      "longitude": 8.731014
+    },
+    {
+      "name": "Høgh Interieur",
+      "latitude": 57.460461,
+      "longitude": 9.986277
+    },
+    {
+      "name": "Høgh Møbler",
+      "latitude": 57.047922,
+      "longitude": 9.915111
+    },
+    {
+      "name": "I.P. Boligcenter",
+      "latitude": 56.622003,
+      "longitude": 9.805526
+    },
+    {
+      "name": "Ide Møbler",
+      "latitude": 55.617247,
+      "longitude": 12.611512
+    },
+    {
+      "name": "IDE Møbler",
+      "latitude": 56.997456,
+      "longitude": 9.867796
+    },
+    {
+      "name": "IDEmøbler",
+      "latitude": 55.496538,
+      "longitude": 9.020345
+    },
+    {
+      "name": "IDEmøbler",
+      "latitude": 55.856623,
+      "longitude": 9.85339
+    },
+    {
+      "name": "IDEmøbler",
+      "latitude": 55.933962,
+      "longitude": 12.261575
+    },
+    {
+      "name": "IKEA",
+      "latitude": 55.380716,
+      "longitude": 10.429999
+    },
+    {
+      "name": "IKEA",
+      "latitude": 56.203118,
+      "longitude": 10.180816
+    },
+    {
+      "name": "IKEA",
+      "latitude": 56.995802,
+      "longitude": 9.865328
+    },
+    {
+      "name": "IKEA Gentofte",
+      "latitude": 55.753419,
+      "longitude": 12.520347
+    },
+    {
+      "name": "IKEA København",
+      "latitude": 55.664188,
+      "longitude": 12.561763
+    },
+    {
+      "name": "Ikea Plan & Order Point",
+      "latitude": 56.135812,
+      "longitude": 8.997281
+    },
+    {
+      "name": "IKEA Plan and order point",
+      "latitude": 54.920289,
+      "longitude": 9.808601
+    },
+    {
+      "name": "IKEA Planning studio",
+      "latitude": 55.504714,
+      "longitude": 8.457076
+    },
+    {
+      "name": "Ikea Taastrup",
+      "latitude": 55.659747,
+      "longitude": 12.286736
+    },
+    {
+      "name": "Illums Bolighus",
+      "latitude": 55.67889,
+      "longitude": 12.578573
+    },
+    {
+      "name": "ILVA",
+      "latitude": 54.919974,
+      "longitude": 9.808748
+    },
+    {
+      "name": "Ilva",
+      "latitude": 55.254413,
+      "longitude": 11.794656
+    },
+    {
+      "name": "Ilva",
+      "latitude": 55.260564,
+      "longitude": 9.47418
+    },
+    {
+      "name": "Ilva",
+      "latitude": 55.383654,
+      "longitude": 10.421214
+    },
+    {
+      "name": "Ilva",
+      "latitude": 55.389347,
+      "longitude": 11.327065
+    },
+    {
+      "name": "ILVA",
+      "latitude": 55.403878,
+      "longitude": 10.42428
+    },
+    {
+      "name": "Ilva",
+      "latitude": 55.482597,
+      "longitude": 12.181216
+    },
+    {
+      "name": "ILVA",
+      "latitude": 55.503122,
+      "longitude": 8.453744
+    },
+    {
+      "name": "ILVA",
+      "latitude": 55.513635,
+      "longitude": 9.462408
+    },
+    {
+      "name": "ILVA",
+      "latitude": 55.568743,
+      "longitude": 9.716408
+    },
+    {
+      "name": "Ilva",
+      "latitude": 55.618616,
+      "longitude": 12.337087
+    },
+    {
+      "name": "ILVA",
+      "latitude": 55.657601,
+      "longitude": 12.392648
+    },
+    {
+      "name": "ILVA",
+      "latitude": 55.702893,
+      "longitude": 11.671422
+    },
+    {
+      "name": "ILVA",
+      "latitude": 55.774987,
+      "longitude": 12.500681
+    },
+    {
+      "name": "Ilva",
+      "latitude": 56.131084,
+      "longitude": 10.159246
+    },
+    {
+      "name": "ILVA",
+      "latitude": 56.182292,
+      "longitude": 10.119068
+    },
+    {
+      "name": "ILVA",
+      "latitude": 56.185945,
+      "longitude": 9.54367
+    },
+    {
+      "name": "ILVA",
+      "latitude": 56.204782,
+      "longitude": 10.179826
+    },
+    {
+      "name": "Ilva",
+      "latitude": 56.426632,
+      "longitude": 10.059112
+    },
+    {
+      "name": "Ilva",
+      "latitude": 56.447218,
+      "longitude": 9.362267
+    },
+    {
+      "name": "ILVA",
+      "latitude": 56.569882,
+      "longitude": 8.99584
+    },
+    {
+      "name": "ILVA",
+      "latitude": 57.033468,
+      "longitude": 9.929619
+    },
+    {
+      "name": "ILVA Roskilde",
+      "latitude": 55.642702,
+      "longitude": 12.115451
+    },
+    {
+      "name": "Indretningsfabrikken",
+      "latitude": 55.665236,
+      "longitude": 12.54994
+    },
+    {
+      "name": "Ingvard Christensen",
+      "latitude": 55.507739,
+      "longitude": 8.468732
+    },
+    {
+      "name": "Ingvard Christensen",
+      "latitude": 55.771655,
+      "longitude": 12.499642
+    },
+    {
+      "name": "Ingvard Christensen",
+      "latitude": 56.202204,
+      "longitude": 10.247736
+    },
+    {
+      "name": "Interstudio",
+      "latitude": 55.658153,
+      "longitude": 12.513532
+    },
+    {
+      "name": "Inventarland",
+      "latitude": 55.388181,
+      "longitude": 11.358222
+    },
+    {
+      "name": "Istikbal",
+      "latitude": 55.663285,
+      "longitude": 12.458193
+    },
+    {
+      "name": "Jacobsen Plus",
+      "latitude": 56.152259,
+      "longitude": 10.205823
+    },
+    {
+      "name": "JENSENplus",
+      "latitude": 56.147504,
+      "longitude": 10.20382
+    },
+    {
+      "name": "Juhls Bolighus",
+      "latitude": 54.911335,
+      "longitude": 9.791443
+    },
+    {
+      "name": "JYSK",
+      "latitude": 54.759395,
+      "longitude": 11.854158
+    },
+    {
+      "name": "JYSK",
+      "latitude": 54.829371,
+      "longitude": 11.142974
+    },
+    {
+      "name": "JYSK",
+      "latitude": 54.921179,
+      "longitude": 9.807258
+    },
+    {
+      "name": "JYSK",
+      "latitude": 54.950931,
+      "longitude": 8.886158
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.045155,
+      "longitude": 9.420167
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.062836,
+      "longitude": 10.590582
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.092829,
+      "longitude": 14.730829
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.099431,
+      "longitude": 10.243079
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.237136,
+      "longitude": 10.489409
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.253281,
+      "longitude": 9.504838
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.254424,
+      "longitude": 11.794041
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.259202,
+      "longitude": 9.475874
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.259386,
+      "longitude": 9.909854
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.308392,
+      "longitude": 10.805025
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.318264,
+      "longitude": 10.7898
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.334289,
+      "longitude": 8.772289
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.379045,
+      "longitude": 10.432649
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.395595,
+      "longitude": 10.366829
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.403458,
+      "longitude": 10.424277
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.468823,
+      "longitude": 8.678834
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.468948,
+      "longitude": 9.472143
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.481882,
+      "longitude": 12.183817
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.508053,
+      "longitude": 9.765477
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.50999,
+      "longitude": 8.455629
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.513605,
+      "longitude": 9.454497
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.568194,
+      "longitude": 9.698282
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.609073,
+      "longitude": 8.49551
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.615873,
+      "longitude": 12.612753
+    },
+    {
+      "name": "Jysk",
+      "latitude": 55.618332,
+      "longitude": 12.336048
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.630756,
+      "longitude": 12.576466
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.646853,
+      "longitude": 12.135278
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.65766,
+      "longitude": 12.28551
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.661173,
+      "longitude": 12.56089
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.663162,
+      "longitude": 12.379554
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.667378,
+      "longitude": 12.438213
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.668518,
+      "longitude": 12.607002
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.672887,
+      "longitude": 12.559261
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.676578,
+      "longitude": 11.138611
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.680971,
+      "longitude": 12.519764
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.68685,
+      "longitude": 12.49052
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.693173,
+      "longitude": 12.433973
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.700799,
+      "longitude": 12.536456
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.703799,
+      "longitude": 11.671777
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.705706,
+      "longitude": 12.575873
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.708107,
+      "longitude": 9.543245
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.712901,
+      "longitude": 12.469151
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.717794,
+      "longitude": 12.449498
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.722783,
+      "longitude": 12.380958
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.725416,
+      "longitude": 9.584086
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.754613,
+      "longitude": 12.519326
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.760091,
+      "longitude": 12.452167
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.765672,
+      "longitude": 9.686568
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.772334,
+      "longitude": 12.505021
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.777472,
+      "longitude": 12.183835
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.816394,
+      "longitude": 12.374218
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.844079,
+      "longitude": 12.075432
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.857808,
+      "longitude": 9.849832
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.90424,
+      "longitude": 12.482991
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.926929,
+      "longitude": 11.660905
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.954302,
+      "longitude": 8.512505
+    },
+    {
+      "name": "Jysk",
+      "latitude": 55.960271,
+      "longitude": 9.105559
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.978245,
+      "longitude": 12.004862
+    },
+    {
+      "name": "JYSK",
+      "latitude": 55.982673,
+      "longitude": 10.151497
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.021375,
+      "longitude": 12.175004
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.0489,
+      "longitude": 9.941344
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.086328,
+      "longitude": 8.271604
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.133991,
+      "longitude": 9.000803
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.148988,
+      "longitude": 10.205425
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.155942,
+      "longitude": 10.178988
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.182279,
+      "longitude": 10.099206
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.185746,
+      "longitude": 9.54606
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.206074,
+      "longitude": 10.26181
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.321897,
+      "longitude": 10.043454
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.374811,
+      "longitude": 9.659669
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.428501,
+      "longitude": 10.056709
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.569208,
+      "longitude": 9.003417
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.626288,
+      "longitude": 9.805043
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.728854,
+      "longitude": 10.135306
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.790057,
+      "longitude": 8.832496
+    },
+    {
+      "name": "JYSK",
+      "latitude": 56.812224,
+      "longitude": 9.501586
+    },
+    {
+      "name": "Jysk",
+      "latitude": 57.456454,
+      "longitude": 10.022024
+    },
+    {
+      "name": "JYSK",
+      "latitude": 57.727037,
+      "longitude": 10.56813
+    },
+    {
+      "name": "KAIKU",
+      "latitude": 56.163477,
+      "longitude": 10.101746
+    },
+    {
+      "name": "Kant designstudio",
+      "latitude": 55.491042,
+      "longitude": 9.472208
+    },
+    {
+      "name": "Kartell",
+      "latitude": 55.680661,
+      "longitude": 12.58207
+    },
+    {
+      "name": "Karup Møbler",
+      "latitude": 56.426487,
+      "longitude": 10.057756
+    },
+    {
+      "name": "Kind",
+      "latitude": 55.700638,
+      "longitude": 12.579124
+    },
+    {
+      "name": "Kollund Møbler",
+      "latitude": 54.840812,
+      "longitude": 9.447116
+    },
+    {
+      "name": "Kumo Outlet",
+      "latitude": 56.389304,
+      "longitude": 8.798799
+    },
+    {
+      "name": "Kustomhouse",
+      "latitude": 56.157303,
+      "longitude": 10.195064
+    },
+    {
+      "name": "Kvik Køkken",
+      "latitude": 56.446699,
+      "longitude": 9.365138
+    },
+    {
+      "name": "LEKI Møbler",
+      "latitude": 54.962636,
+      "longitude": 8.700466
+    },
+    {
+      "name": "Liljehøj",
+      "latitude": 55.701718,
+      "longitude": 11.672105
+    },
+    {
+      "name": "Livingbykolster ApS",
+      "latitude": 55.440754,
+      "longitude": 9.946304
+    },
+    {
+      "name": "Livingdezigns",
+      "latitude": 55.709382,
+      "longitude": 12.579356
+    },
+    {
+      "name": "louis poulsen",
+      "latitude": 55.058632,
+      "longitude": 10.605612
+    },
+    {
+      "name": "Lystrup Møbelgenbrug",
+      "latitude": 56.232372,
+      "longitude": 10.24847
+    },
+    {
+      "name": "Læderland",
+      "latitude": 55.640597,
+      "longitude": 12.123736
+    },
+    {
+      "name": "LéLé",
+      "latitude": 55.703822,
+      "longitude": 12.590803
+    },
+    {
+      "name": "Maiken Mann",
+      "latitude": 55.670915,
+      "longitude": 12.531817
+    },
+    {
+      "name": "MAKE nordic",
+      "latitude": 55.472843,
+      "longitude": 8.430837
+    },
+    {
+      "name": "Make Nordic",
+      "latitude": 56.160952,
+      "longitude": 10.214006
+    },
+    {
+      "name": "Maretti Møbelpolstring",
+      "latitude": 55.673644,
+      "longitude": 12.541027
+    },
+    {
+      "name": "Max Jessen",
+      "latitude": 56.804682,
+      "longitude": 10.057142
+    },
+    {
+      "name": "Min Stil",
+      "latitude": 55.662191,
+      "longitude": 12.520425
+    },
+    {
+      "name": "Mini Design",
+      "latitude": 56.147937,
+      "longitude": 10.196012
+    },
+    {
+      "name": "MIPA møbler",
+      "latitude": 55.931908,
+      "longitude": 12.28532
+    },
+    {
+      "name": "Montana by Brdr. Sørensen",
+      "latitude": 57.044837,
+      "longitude": 9.921995
+    },
+    {
+      "name": "Montana Mobile",
+      "latitude": 55.682037,
+      "longitude": 12.588533
+    },
+    {
+      "name": "My Home",
+      "latitude": 55.389063,
+      "longitude": 11.326303
+    },
+    {
+      "name": "My Home",
+      "latitude": 55.479053,
+      "longitude": 12.185713
+    },
+    {
+      "name": "My Home",
+      "latitude": 55.613647,
+      "longitude": 12.614446
+    },
+    {
+      "name": "My Home",
+      "latitude": 55.727068,
+      "longitude": 9.581647
+    },
+    {
+      "name": "My Home",
+      "latitude": 56.177831,
+      "longitude": 10.138401
+    },
+    {
+      "name": "My Home",
+      "latitude": 56.376465,
+      "longitude": 8.616447
+    },
+    {
+      "name": "My Home",
+      "latitude": 56.960592,
+      "longitude": 8.71572
+    },
+    {
+      "name": "My Home",
+      "latitude": 56.998049,
+      "longitude": 9.869456
+    },
+    {
+      "name": "My Home Møbler",
+      "latitude": 55.036183,
+      "longitude": 9.415736
+    },
+    {
+      "name": "My Home Møbler",
+      "latitude": 56.395891,
+      "longitude": 10.876109
+    },
+    {
+      "name": "Møbel",
+      "latitude": 55.681171,
+      "longitude": 12.5788
+    },
+    {
+      "name": "Møbelhuset 2",
+      "latitude": 54.934656,
+      "longitude": 8.866399
+    },
+    {
+      "name": "Møbelhuset Silkeborg",
+      "latitude": 56.186859,
+      "longitude": 9.5642
+    },
+    {
+      "name": "Møbelkæden",
+      "latitude": 55.070458,
+      "longitude": 9.35457
+    },
+    {
+      "name": "Møbelpolsteren",
+      "latitude": 55.659402,
+      "longitude": 12.473602
+    },
+    {
+      "name": "Møbelpolstrer Busse",
+      "latitude": 56.413739,
+      "longitude": 10.881348
+    },
+    {
+      "name": "Møbler - Danbo Skanderborg",
+      "latitude": 56.048924,
+      "longitude": 9.941464
+    },
+    {
+      "name": "Møblér",
+      "latitude": 56.450854,
+      "longitude": 9.367844
+    },
+    {
+      "name": "Møblér med Bo Bedst",
+      "latitude": 55.84452,
+      "longitude": 12.066047
+    },
+    {
+      "name": "Møblér med Schmidt",
+      "latitude": 56.41249,
+      "longitude": 10.877213
+    },
+    {
+      "name": "Møblér med Senius",
+      "latitude": 57.725193,
+      "longitude": 10.562024
+    },
+    {
+      "name": "Norrlitt Design Showroom",
+      "latitude": 55.685554,
+      "longitude": 12.588601
+    },
+    {
+      "name": "Nova møbler",
+      "latitude": 55.691725,
+      "longitude": 12.553028
+    },
+    {
+      "name": "Nova Møbler",
+      "latitude": 56.159678,
+      "longitude": 10.207609
+    },
+    {
+      "name": "Nænsom Nostalgi",
+      "latitude": 55.466109,
+      "longitude": 8.450374
+    },
+    {
+      "name": "Officely ApS",
+      "latitude": 57.006642,
+      "longitude": 9.954725
+    },
+    {
+      "name": "Olsson møbler",
+      "latitude": 55.686671,
+      "longitude": 12.566169
+    },
+    {
+      "name": "P. Thorsen",
+      "latitude": 56.169734,
+      "longitude": 10.159081
+    },
+    {
+      "name": "PP Møbler",
+      "latitude": 55.666469,
+      "longitude": 12.532799
+    },
+    {
+      "name": "Puma Bolig Univers",
+      "latitude": 55.504589,
+      "longitude": 8.404522
+    },
+    {
+      "name": "Reform Furmiture",
+      "latitude": 55.674312,
+      "longitude": 12.551334
+    },
+    {
+      "name": "Reick Møbler",
+      "latitude": 55.469021,
+      "longitude": 8.454121
+    },
+    {
+      "name": "Rene's Sengenyt",
+      "latitude": 54.92025,
+      "longitude": 9.814632
+    },
+    {
+      "name": "Rosborg Møbler",
+      "latitude": 56.324208,
+      "longitude": 10.125151
+    },
+    {
+      "name": "Ryesberg Møbelfabrik",
+      "latitude": 56.143359,
+      "longitude": 10.152532
+    },
+    {
+      "name": "Røde Kors Butik",
+      "latitude": 55.121825,
+      "longitude": 12.041125
+    },
+    {
+      "name": "Sambo Møbler",
+      "latitude": 55.38733,
+      "longitude": 10.19489
+    },
+    {
+      "name": "Schiang Living",
+      "latitude": 55.058726,
+      "longitude": 10.605489
+    },
+    {
+      "name": "Selta",
+      "latitude": 56.449131,
+      "longitude": 9.369226
+    },
+    {
+      "name": "Sengekompagniet",
+      "latitude": 55.681769,
+      "longitude": 12.554444
+    },
+    {
+      "name": "Sengekompagniet",
+      "latitude": 55.704213,
+      "longitude": 11.672971
+    },
+    {
+      "name": "Sinnerup",
+      "latitude": 55.488164,
+      "longitude": 9.473388
+    },
+    {
+      "name": "Sit’n Sleep",
+      "latitude": 56.175247,
+      "longitude": 10.14906
+    },
+    {
+      "name": "SkabPluz",
+      "latitude": 55.662267,
+      "longitude": 12.52076
+    },
+    {
+      "name": "Skousen",
+      "latitude": 56.446327,
+      "longitude": 9.365298
+    },
+    {
+      "name": "Skumgaarden ApS",
+      "latitude": 55.440818,
+      "longitude": 9.946312
+    },
+    {
+      "name": "Skærbæk Møbler & Tæpper",
+      "latitude": 55.167229,
+      "longitude": 8.75467
+    },
+    {
+      "name": "Smag og Behag skive",
+      "latitude": 56.585385,
+      "longitude": 9.026535
+    },
+    {
+      "name": "Sofa nova",
+      "latitude": 55.67282,
+      "longitude": 12.557351
+    },
+    {
+      "name": "Sofacompany",
+      "latitude": 55.664233,
+      "longitude": 12.622213
+    },
+    {
+      "name": "SOFACOMPANY",
+      "latitude": 56.152375,
+      "longitude": 10.204924
+    },
+    {
+      "name": "Sofakompagniet",
+      "latitude": 56.151465,
+      "longitude": 10.169885
+    },
+    {
+      "name": "Solkilde",
+      "latitude": 57.590989,
+      "longitude": 10.185873
+    },
+    {
+      "name": "Sovesofa CPH",
+      "latitude": 55.681955,
+      "longitude": 12.557144
+    },
+    {
+      "name": "Supell",
+      "latitude": 56.194114,
+      "longitude": 10.668705
+    },
+    {
+      "name": "Svends Møbler",
+      "latitude": 56.266174,
+      "longitude": 8.789969
+    },
+    {
+      "name": "Sydjysk Outlet",
+      "latitude": 54.888962,
+      "longitude": 9.66736
+    },
+    {
+      "name": "Søvn & Comfort",
+      "latitude": 56.347349,
+      "longitude": 8.628385
+    },
+    {
+      "name": "TEC OUT",
+      "latitude": 55.896509,
+      "longitude": 9.752226
+    },
+    {
+      "name": "Thorsen",
+      "latitude": 56.15887,
+      "longitude": 10.207907
+    },
+    {
+      "name": "time2sleep Senge & Madrasser",
+      "latitude": 55.655326,
+      "longitude": 12.394633
+    },
+    {
+      "name": "tinekhome",
+      "latitude": 55.397288,
+      "longitude": 10.391112
+    },
+    {
+      "name": "Trend -Lux",
+      "latitude": 55.501179,
+      "longitude": 9.458656
+    },
+    {
+      "name": "Trend Bazaar",
+      "latitude": 55.241123,
+      "longitude": 10.487278
+    },
+    {
+      "name": "Trend-Lux",
+      "latitude": 55.501731,
+      "longitude": 9.458684
+    },
+    {
+      "name": "Trip Trap",
+      "latitude": 55.69527,
+      "longitude": 12.594731
+    },
+    {
+      "name": "Træfolk",
+      "latitude": 55.673434,
+      "longitude": 12.554346
+    },
+    {
+      "name": "Trævarefabrikernes Udsalg",
+      "latitude": 55.470367,
+      "longitude": 8.438927
+    },
+    {
+      "name": "Trævarefabrikernes Udsalg",
+      "latitude": 55.70391,
+      "longitude": 12.577688
+    },
+    {
+      "name": "Trævarefabrikernes Udsalg",
+      "latitude": 56.148745,
+      "longitude": 10.197585
+    },
+    {
+      "name": "Trævarefabrikernes Udsalg",
+      "latitude": 57.044907,
+      "longitude": 9.918479
+    },
+    {
+      "name": "Trævarefabrikkernes Udsalg",
+      "latitude": 55.67165,
+      "longitude": 12.546258
+    },
+    {
+      "name": "Ulf Bolighus",
+      "latitude": 57.013503,
+      "longitude": 9.894661
+    },
+    {
+      "name": "VELA",
+      "latitude": 57.021161,
+      "longitude": 9.894183
+    },
+    {
+      "name": "Vestergaard Møbler",
+      "latitude": 55.67161,
+      "longitude": 12.593343
+    },
+    {
+      "name": "Vestmark A/S",
+      "latitude": 55.275041,
+      "longitude": 9.910071
+    },
+    {
+      "name": "Viladeco Outlet",
+      "latitude": 56.413443,
+      "longitude": 10.877431
+    },
+    {
+      "name": "Villumsens Bolighus",
+      "latitude": 56.34334,
+      "longitude": 8.343933
+    },
+    {
+      "name": "Vines Erhvervsmøbler",
+      "latitude": 56.568364,
+      "longitude": 8.99857
+    },
+    {
+      "name": "Wabi Sabi",
+      "latitude": 56.147551,
+      "longitude": 10.203449
+    },
+    {
+      "name": "Wengberg Møbler",
+      "latitude": 55.35605,
+      "longitude": 11.686696
+    },
+    {
+      "name": "XL Møbler",
+      "latitude": 55.567702,
+      "longitude": 9.704077
+    },
+    {
+      "name": "York Living aps",
+      "latitude": 55.640597,
+      "longitude": 12.076097
+    }
+  ],
+  "meta": {
+    "title": "Møbelbutikker i Danmark (Furniture stores in Denmark) - Gratis download",
+    "description": "Furniture stores in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=furniture. Indeholder 324 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Møbelbutikker i Danmark (Furniture stores in Denmark) | ListBase",
+    "seo_description": "Download Møbelbutikker i Danmark (Furniture stores in Denmark) — 324 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 324 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

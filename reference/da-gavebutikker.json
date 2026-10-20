@@ -1,0 +1,1321 @@
+{
+  "id": "da-gavebutikker",
+  "name": "Gavebutikker i Danmark (Gift shops in Denmark)",
+  "title": "Gavebutikker i Danmark (Gift shops in Denmark)",
+  "description": "Gift shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=gift.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 256,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "10-20-30 Blåvand",
+      "latitude": 55.554953,
+      "longitude": 8.128765
+    },
+    {
+      "name": "2HOT",
+      "latitude": 56.059192,
+      "longitude": 12.069745
+    },
+    {
+      "name": "3D Kunst",
+      "latitude": 57.088079,
+      "longitude": 9.268946
+    },
+    {
+      "name": "Aagaardens Lys",
+      "latitude": 55.502096,
+      "longitude": 9.974334
+    },
+    {
+      "name": "African Touch",
+      "latitude": 55.683824,
+      "longitude": 12.571623
+    },
+    {
+      "name": "Akimbo",
+      "latitude": 55.678215,
+      "longitude": 12.576587
+    },
+    {
+      "name": "Amarkaner",
+      "latitude": 55.665191,
+      "longitude": 12.606556
+    },
+    {
+      "name": "Andelslandsbyen Nyvang Museumsbutik",
+      "latitude": 55.693429,
+      "longitude": 11.74786
+    },
+    {
+      "name": "Antik",
+      "latitude": 55.397399,
+      "longitude": 10.392316
+    },
+    {
+      "name": "Anya Glas",
+      "latitude": 55.13625,
+      "longitude": 15.141411
+    },
+    {
+      "name": "Aquadome Shop",
+      "latitude": 56.120233,
+      "longitude": 8.119621
+    },
+    {
+      "name": "ARoS Shoppen",
+      "latitude": 56.15399,
+      "longitude": 10.19976
+    },
+    {
+      "name": "Bach-Firmagaver.dk",
+      "latitude": 56.133905,
+      "longitude": 9.075498
+    },
+    {
+      "name": "Birkegårdens Butik",
+      "latitude": 55.557677,
+      "longitude": 11.448498
+    },
+    {
+      "name": "Biti",
+      "latitude": 55.328492,
+      "longitude": 8.762093
+    },
+    {
+      "name": "Blåvand Lys",
+      "latitude": 55.555227,
+      "longitude": 8.128661
+    },
+    {
+      "name": "Botanisk Haves Butik",
+      "latitude": 55.68489,
+      "longitude": 12.573176
+    },
+    {
+      "name": "Boutique Soavita",
+      "latitude": 55.681708,
+      "longitude": 12.579498
+    },
+    {
+      "name": "Boys & Girls",
+      "latitude": 56.118269,
+      "longitude": 8.117279
+    },
+    {
+      "name": "Brink Isenkram",
+      "latitude": 56.118679,
+      "longitude": 8.115714
+    },
+    {
+      "name": "Brohuset",
+      "latitude": 55.271396,
+      "longitude": 14.759802
+    },
+    {
+      "name": "Brændesgårdshaven Souvenir",
+      "latitude": 55.129075,
+      "longitude": 15.103612
+    },
+    {
+      "name": "Butik",
+      "latitude": 55.402566,
+      "longitude": 10.38667
+    },
+    {
+      "name": "Butik 1000 Ting",
+      "latitude": 56.14795,
+      "longitude": 10.19826
+    },
+    {
+      "name": "Butik De Flittige Hænder",
+      "latitude": 55.170451,
+      "longitude": 11.160257
+    },
+    {
+      "name": "Butik Hjortshøj",
+      "latitude": 54.935359,
+      "longitude": 10.716214
+    },
+    {
+      "name": "Butik Kamille",
+      "latitude": 55.237395,
+      "longitude": 10.479324
+    },
+    {
+      "name": "Butik Knag",
+      "latitude": 54.93532,
+      "longitude": 10.715418
+    },
+    {
+      "name": "Butik Krøjeværket",
+      "latitude": 55.278186,
+      "longitude": 8.53746
+    },
+    {
+      "name": "Butik Orkidé",
+      "latitude": 54.965953,
+      "longitude": 12.548291
+    },
+    {
+      "name": "Butik Salam",
+      "latitude": 55.679751,
+      "longitude": 12.574547
+    },
+    {
+      "name": "Butik Square",
+      "latitude": 55.795626,
+      "longitude": 12.472178
+    },
+    {
+      "name": "Butik-Caféen",
+      "latitude": 57.034613,
+      "longitude": 10.007674
+    },
+    {
+      "name": "Butikken",
+      "latitude": 55.61513,
+      "longitude": 11.942924
+    },
+    {
+      "name": "by Dorthe",
+      "latitude": 55.929327,
+      "longitude": 12.302224
+    },
+    {
+      "name": "Bævershop",
+      "latitude": 55.260882,
+      "longitude": 11.866319
+    },
+    {
+      "name": "Castle Shop",
+      "latitude": 56.038737,
+      "longitude": 12.62154
+    },
+    {
+      "name": "Christiana Art Gallery",
+      "latitude": 55.673412,
+      "longitude": 12.602324
+    },
+    {
+      "name": "Clinig - Det Skønne Hjørne",
+      "latitude": 56.65042,
+      "longitude": 9.982579
+    },
+    {
+      "name": "Coca Cola Store",
+      "latitude": 56.42414,
+      "longitude": 10.549471
+    },
+    {
+      "name": "Copenhagen Souvenir",
+      "latitude": 55.682711,
+      "longitude": 12.580995
+    },
+    {
+      "name": "COPENHAGEN SOUVENIR & GIFTS",
+      "latitude": 55.680011,
+      "longitude": 12.583901
+    },
+    {
+      "name": "Copenhagen Tourist Point",
+      "latitude": 55.673672,
+      "longitude": 12.560742
+    },
+    {
+      "name": "Cowboyshoppen",
+      "latitude": 55.260585,
+      "longitude": 11.862142
+    },
+    {
+      "name": "Danish Souvenirs",
+      "latitude": 55.673019,
+      "longitude": 12.590601
+    },
+    {
+      "name": "Danish souvenirs",
+      "latitude": 55.676845,
+      "longitude": 12.570025
+    },
+    {
+      "name": "Danish Souvenirs",
+      "latitude": 55.680296,
+      "longitude": 12.58463
+    },
+    {
+      "name": "Danish Souvenirs",
+      "latitude": 55.680605,
+      "longitude": 12.573114
+    },
+    {
+      "name": "Danish Souvenirs & Gift",
+      "latitude": 55.678671,
+      "longitude": 12.578599
+    },
+    {
+      "name": "Danish Souvenirs Christianshavn",
+      "latitude": 55.672962,
+      "longitude": 12.590708
+    },
+    {
+      "name": "Danmarks Borgcenter",
+      "latitude": 55.006985,
+      "longitude": 11.910883
+    },
+    {
+      "name": "Den gamle butik",
+      "latitude": 56.954892,
+      "longitude": 8.366681
+    },
+    {
+      "name": "Den Gamle Købmandsgård",
+      "latitude": 55.177838,
+      "longitude": 11.646124
+    },
+    {
+      "name": "Den Gamle Smedje",
+      "latitude": 55.210545,
+      "longitude": 11.189768
+    },
+    {
+      "name": "Den Kinesiske Butik",
+      "latitude": 55.682279,
+      "longitude": 12.572292
+    },
+    {
+      "name": "Den Lille Butik",
+      "latitude": 55.825645,
+      "longitude": 10.081092
+    },
+    {
+      "name": "Den Skæve Gryde",
+      "latitude": 55.863444,
+      "longitude": 9.843775
+    },
+    {
+      "name": "Designkollektivet",
+      "latitude": 55.696013,
+      "longitude": 12.544216
+    },
+    {
+      "name": "Det Gamle Apotek",
+      "latitude": 54.935929,
+      "longitude": 8.870664
+    },
+    {
+      "name": "Det Grønlandske Hus i Aarhus",
+      "latitude": 56.13965,
+      "longitude": 10.204969
+    },
+    {
+      "name": "Det Portugisiske Hus",
+      "latitude": 55.541384,
+      "longitude": 11.591032
+    },
+    {
+      "name": "Dimseriet",
+      "latitude": 55.695042,
+      "longitude": 12.543586
+    },
+    {
+      "name": "Dora",
+      "latitude": 55.673337,
+      "longitude": 12.55009
+    },
+    {
+      "name": "Dream Art",
+      "latitude": 55.48374,
+      "longitude": 9.010006
+    },
+    {
+      "name": "Drommehuset",
+      "latitude": 56.098102,
+      "longitude": 12.390333
+    },
+    {
+      "name": "Dronninglund Kunstcenter",
+      "latitude": 57.167676,
+      "longitude": 10.258039
+    },
+    {
+      "name": "Drud Design",
+      "latitude": 54.85551,
+      "longitude": 10.51836
+    },
+    {
+      "name": "Duck Haven",
+      "latitude": 55.678507,
+      "longitude": 12.574427
+    },
+    {
+      "name": "Dueslaget",
+      "latitude": 54.993624,
+      "longitude": 15.078085
+    },
+    {
+      "name": "Dybkærgaard",
+      "latitude": 55.407551,
+      "longitude": 11.211973
+    },
+    {
+      "name": "E & B Gram",
+      "latitude": 55.210236,
+      "longitude": 14.971111
+    },
+    {
+      "name": "Fair Trade Butik Karibu",
+      "latitude": 55.641455,
+      "longitude": 12.084974
+    },
+    {
+      "name": "Fanø Bolsjer Sønderho",
+      "latitude": 55.349106,
+      "longitude": 8.467101
+    },
+    {
+      "name": "Farvehjørnet",
+      "latitude": 55.71772,
+      "longitude": 11.712701
+    },
+    {
+      "name": "Firmagaver Deluxe",
+      "latitude": 54.924509,
+      "longitude": 9.80954
+    },
+    {
+      "name": "Frama",
+      "latitude": 55.68692,
+      "longitude": 12.585951
+    },
+    {
+      "name": "friendship",
+      "latitude": 55.136414,
+      "longitude": 15.144339
+    },
+    {
+      "name": "Fru B",
+      "latitude": 56.112111,
+      "longitude": 8.188825
+    },
+    {
+      "name": "Fru Boes",
+      "latitude": 56.842965,
+      "longitude": 8.773811
+    },
+    {
+      "name": "Fru Kronborg",
+      "latitude": 56.967787,
+      "longitude": 9.252935
+    },
+    {
+      "name": "Fru Lunds Butik",
+      "latitude": 56.459197,
+      "longitude": 10.037619
+    },
+    {
+      "name": "Frydendahls.dk",
+      "latitude": 55.073609,
+      "longitude": 10.622156
+    },
+    {
+      "name": "Fyrkat",
+      "latitude": 56.624974,
+      "longitude": 9.772464
+    },
+    {
+      "name": "Gavefabrikken Aarhus - Showroom",
+      "latitude": 56.188414,
+      "longitude": 10.188444
+    },
+    {
+      "name": "Gavlhuset",
+      "latitude": 56.783224,
+      "longitude": 9.693572
+    },
+    {
+      "name": "Gericke",
+      "latitude": 55.307362,
+      "longitude": 12.198682
+    },
+    {
+      "name": "Givskud Zoo Souvenirshop",
+      "latitude": 55.811824,
+      "longitude": 9.350803
+    },
+    {
+      "name": "Glaskunst",
+      "latitude": 55.327687,
+      "longitude": 8.76403
+    },
+    {
+      "name": "Glasmagerne",
+      "latitude": 54.977787,
+      "longitude": 10.653031
+    },
+    {
+      "name": "Glasrøgeriet",
+      "latitude": 55.213722,
+      "longitude": 14.969754
+    },
+    {
+      "name": "Godthåb Hammerværk Museumscafé",
+      "latitude": 56.968267,
+      "longitude": 9.81233
+    },
+    {
+      "name": "Grenen Kiosk",
+      "latitude": 57.738743,
+      "longitude": 10.633844
+    },
+    {
+      "name": "Grosisten",
+      "latitude": 55.779353,
+      "longitude": 8.288516
+    },
+    {
+      "name": "Guld & Mønthandel",
+      "latitude": 55.397603,
+      "longitude": 10.387538
+    },
+    {
+      "name": "Guldgraveren",
+      "latitude": 56.423425,
+      "longitude": 10.549064
+    },
+    {
+      "name": "Gutemensch",
+      "latitude": 55.103488,
+      "longitude": 14.699493
+    },
+    {
+      "name": "Hans Christian Andersen Copenhagen",
+      "latitude": 55.679577,
+      "longitude": 12.590341
+    },
+    {
+      "name": "HaoHao multi house",
+      "latitude": 55.232436,
+      "longitude": 11.758507
+    },
+    {
+      "name": "happywife.dk",
+      "latitude": 54.912815,
+      "longitude": 9.792644
+    },
+    {
+      "name": "Harlequin Foto",
+      "latitude": 55.67429,
+      "longitude": 12.567201
+    },
+    {
+      "name": "Henrys Slaraffenland",
+      "latitude": 55.259417,
+      "longitude": 11.860769
+    },
+    {
+      "name": "Historisk- Arkæologisk Forsøgs- og formidlingscenter",
+      "latitude": 55.615734,
+      "longitude": 11.943019
+    },
+    {
+      "name": "Historiske Ting",
+      "latitude": 55.183576,
+      "longitude": 11.848514
+    },
+    {
+      "name": "HN Gavekurve",
+      "latitude": 56.154201,
+      "longitude": 10.14803
+    },
+    {
+      "name": "Hornvarefabrikken",
+      "latitude": 56.435551,
+      "longitude": 8.204902
+    },
+    {
+      "name": "Hvide Sande Lys",
+      "latitude": 56.008109,
+      "longitude": 8.12732
+    },
+    {
+      "name": "Hygge.",
+      "latitude": 55.679874,
+      "longitude": 12.584785
+    },
+    {
+      "name": "Hyggeli",
+      "latitude": 55.270147,
+      "longitude": 9.895932
+    },
+    {
+      "name": "Høkerens Lade",
+      "latitude": 55.136181,
+      "longitude": 15.142295
+    },
+    {
+      "name": "Illums Bolighus Tivoli Hjørnet",
+      "latitude": 55.673882,
+      "longitude": 12.565703
+    },
+    {
+      "name": "Indgangsbutikken",
+      "latitude": 56.425625,
+      "longitude": 10.550304
+    },
+    {
+      "name": "Interpresent.dk",
+      "latitude": 56.231909,
+      "longitude": 10.109986
+    },
+    {
+      "name": "Isangs Hair & Body",
+      "latitude": 55.667926,
+      "longitude": 12.547056
+    },
+    {
+      "name": "Issalonen",
+      "latitude": 55.973042,
+      "longitude": 12.021527
+    },
+    {
+      "name": "Jan Ehlers Juvel & Urhus",
+      "latitude": 55.930295,
+      "longitude": 12.299631
+    },
+    {
+      "name": "Janne K.",
+      "latitude": 55.278316,
+      "longitude": 14.800888
+    },
+    {
+      "name": "Jannie Petersen Antik",
+      "latitude": 55.678997,
+      "longitude": 12.573537
+    },
+    {
+      "name": "JavaHuset",
+      "latitude": 55.404133,
+      "longitude": 11.354136
+    },
+    {
+      "name": "Jungleshoppen",
+      "latitude": 56.760801,
+      "longitude": 8.820156
+    },
+    {
+      "name": "Juvelen Fotobutik",
+      "latitude": 56.424245,
+      "longitude": 10.547013
+    },
+    {
+      "name": "Kahytten",
+      "latitude": 56.70011,
+      "longitude": 9.192011
+    },
+    {
+      "name": "Karen Blixen Museum - butikken",
+      "latitude": 55.883443,
+      "longitude": 12.543431
+    },
+    {
+      "name": "Keramikhuset",
+      "latitude": 56.957794,
+      "longitude": 8.367945
+    },
+    {
+      "name": "Kirk",
+      "latitude": 55.677311,
+      "longitude": 12.576039
+    },
+    {
+      "name": "Klokkeblomsten",
+      "latitude": 54.825725,
+      "longitude": 9.360539
+    },
+    {
+      "name": "Klosterbutikken",
+      "latitude": 57.368885,
+      "longitude": 9.801333
+    },
+    {
+      "name": "Klosterskovhuset",
+      "latitude": 55.518912,
+      "longitude": 12.018536
+    },
+    {
+      "name": "KnAsT",
+      "latitude": 55.696325,
+      "longitude": 12.544869
+    },
+    {
+      "name": "Kollegie-Butikken",
+      "latitude": 56.264272,
+      "longitude": 10.061316
+    },
+    {
+      "name": "KongChristian X",
+      "latitude": 54.934958,
+      "longitude": 8.864124
+    },
+    {
+      "name": "Kongernes Jelling Café & Butik",
+      "latitude": 55.756938,
+      "longitude": 9.41829
+    },
+    {
+      "name": "Konya Import",
+      "latitude": 55.668913,
+      "longitude": 12.552858
+    },
+    {
+      "name": "Koustrup & Co.",
+      "latitude": 55.555479,
+      "longitude": 8.133219
+    },
+    {
+      "name": "Kronborg Slotsbutik",
+      "latitude": 56.039572,
+      "longitude": 12.619484
+    },
+    {
+      "name": "Kræmmerhus",
+      "latitude": 55.231647,
+      "longitude": 11.757017
+    },
+    {
+      "name": "Kuboshop",
+      "latitude": 55.55598,
+      "longitude": 8.135103
+    },
+    {
+      "name": "Kun Det Bedste",
+      "latitude": 56.205036,
+      "longitude": 9.599529
+    },
+    {
+      "name": "Kunst og Gaveboden",
+      "latitude": 54.997351,
+      "longitude": 12.158463
+    },
+    {
+      "name": "KunstHuset",
+      "latitude": 57.585585,
+      "longitude": 10.188116
+    },
+    {
+      "name": "Kunstladen",
+      "latitude": 55.42075,
+      "longitude": 8.397977
+    },
+    {
+      "name": "La Mer",
+      "latitude": 55.855091,
+      "longitude": 11.985882
+    },
+    {
+      "name": "Lauraella",
+      "latitude": 55.593895,
+      "longitude": 12.672783
+    },
+    {
+      "name": "Le Bix",
+      "latitude": 55.682179,
+      "longitude": 12.572998
+    },
+    {
+      "name": "Lejre Museum Hestebjerggård",
+      "latitude": 55.615306,
+      "longitude": 11.969421
+    },
+    {
+      "name": "Letkøb Julemarked",
+      "latitude": 55.63813,
+      "longitude": 12.635179
+    },
+    {
+      "name": "Liebe",
+      "latitude": 55.676844,
+      "longitude": 12.575129
+    },
+    {
+      "name": "Life Stone",
+      "latitude": 55.025673,
+      "longitude": 15.118643
+    },
+    {
+      "name": "LifeStone",
+      "latitude": 55.210229,
+      "longitude": 14.970904
+    },
+    {
+      "name": "Liliana",
+      "latitude": 57.721223,
+      "longitude": 10.589167
+    },
+    {
+      "name": "Lilli's Glasdesign",
+      "latitude": 55.276799,
+      "longitude": 14.802503
+    },
+    {
+      "name": "Limfjordsmuseet",
+      "latitude": 56.964431,
+      "longitude": 9.240502
+    },
+    {
+      "name": "Lousiana Butik",
+      "latitude": 55.969187,
+      "longitude": 12.542485
+    },
+    {
+      "name": "Lykkesholm.nu",
+      "latitude": 55.858614,
+      "longitude": 12.156725
+    },
+    {
+      "name": "Lyø Ko",
+      "latitude": 55.041979,
+      "longitude": 10.148999
+    },
+    {
+      "name": "Maduro",
+      "latitude": 55.685581,
+      "longitude": 12.56627
+    },
+    {
+      "name": "Mai Mai",
+      "latitude": 56.125753,
+      "longitude": 12.302362
+    },
+    {
+      "name": "Manta Gaveartikler",
+      "latitude": 55.699938,
+      "longitude": 12.541535
+    },
+    {
+      "name": "Mariager Saltcenter Butik",
+      "latitude": 56.654118,
+      "longitude": 9.979494
+    },
+    {
+      "name": "Mariager Turistbureau",
+      "latitude": 56.637796,
+      "longitude": 9.799969
+    },
+    {
+      "name": "Michael Andersen - Bornholmsk Keramik",
+      "latitude": 55.100785,
+      "longitude": 14.701124
+    },
+    {
+      "name": "Mit Hjem",
+      "latitude": 56.25643,
+      "longitude": 9.868363
+    },
+    {
+      "name": "Moesgaard Shop",
+      "latitude": 56.088957,
+      "longitude": 10.223102
+    },
+    {
+      "name": "Museumsbutik",
+      "latitude": 55.175103,
+      "longitude": 14.956414
+    },
+    {
+      "name": "Museumsbutikken",
+      "latitude": 56.159626,
+      "longitude": 10.191379
+    },
+    {
+      "name": "Museumsbutikken Det Grønne Museum",
+      "latitude": 56.43814,
+      "longitude": 10.341978
+    },
+    {
+      "name": "Møllebutikken",
+      "latitude": 54.964335,
+      "longitude": 8.693333
+    },
+    {
+      "name": "Nationalmuseets Museumsbutik",
+      "latitude": 55.674962,
+      "longitude": 12.576033
+    },
+    {
+      "name": "Naturlic",
+      "latitude": 55.695165,
+      "longitude": 9.524996
+    },
+    {
+      "name": "Nepal Touch",
+      "latitude": 55.67872,
+      "longitude": 12.569626
+    },
+    {
+      "name": "Nissekram og Brugskunst",
+      "latitude": 54.836688,
+      "longitude": 11.126012
+    },
+    {
+      "name": "No7",
+      "latitude": 55.006355,
+      "longitude": 10.470154
+    },
+    {
+      "name": "Nonboe Danish Design",
+      "latitude": 56.607638,
+      "longitude": 9.283402
+    },
+    {
+      "name": "Nordic Selection",
+      "latitude": 55.680083,
+      "longitude": 12.582769
+    },
+    {
+      "name": "Panduro Hobby",
+      "latitude": 55.641829,
+      "longitude": 12.101027
+    },
+    {
+      "name": "Pelle",
+      "latitude": 55.212643,
+      "longitude": 14.970374
+    },
+    {
+      "name": "Pernille Bülow By You",
+      "latitude": 55.136308,
+      "longitude": 15.142496
+    },
+    {
+      "name": "Philbert Danish Design",
+      "latitude": 55.059663,
+      "longitude": 10.61399
+    },
+    {
+      "name": "Pieces",
+      "latitude": 55.664856,
+      "longitude": 12.510903
+    },
+    {
+      "name": "Pigekammeret",
+      "latitude": 54.935124,
+      "longitude": 10.716718
+    },
+    {
+      "name": "Plusbutikken",
+      "latitude": 55.677214,
+      "longitude": 12.569272
+    },
+    {
+      "name": "Polar Shop",
+      "latitude": 55.737074,
+      "longitude": 9.121866
+    },
+    {
+      "name": "Posterland",
+      "latitude": 55.682443,
+      "longitude": 12.581175
+    },
+    {
+      "name": "Qookshop",
+      "latitude": 55.177258,
+      "longitude": 11.646912
+    },
+    {
+      "name": "Redningsstationen",
+      "latitude": 55.274148,
+      "longitude": 8.53493
+    },
+    {
+      "name": "Ree Park Zooshop",
+      "latitude": 56.263335,
+      "longitude": 10.737448
+    },
+    {
+      "name": "Rememo",
+      "latitude": 55.676744,
+      "longitude": 12.570106
+    },
+    {
+      "name": "Ribe Vikinge Center Museumsbutik",
+      "latitude": 55.310695,
+      "longitude": 8.768279
+    },
+    {
+      "name": "Ribe Vikingecenter Entrance and Giftshop",
+      "latitude": 55.309912,
+      "longitude": 8.766235
+    },
+    {
+      "name": "Royal Copenhagen",
+      "latitude": 55.62903,
+      "longitude": 12.646331
+    },
+    {
+      "name": "Ruben og Bobby",
+      "latitude": 55.692278,
+      "longitude": 12.5454
+    },
+    {
+      "name": "Rumligt / AG Avanti",
+      "latitude": 55.03993,
+      "longitude": 11.95455
+    },
+    {
+      "name": "Rømø Lys",
+      "latitude": 55.146373,
+      "longitude": 8.497665
+    },
+    {
+      "name": "Safari Shop",
+      "latitude": 55.809773,
+      "longitude": 9.355225
+    },
+    {
+      "name": "Sagnlandet Lejre Kongehallen",
+      "latitude": 55.615774,
+      "longitude": 11.945084
+    },
+    {
+      "name": "Schlotfeldts Glas",
+      "latitude": 55.136324,
+      "longitude": 15.141592
+    },
+    {
+      "name": "Science Museerne - Væksthusene",
+      "latitude": 56.160299,
+      "longitude": 10.193325
+    },
+    {
+      "name": "Seaside Living",
+      "latitude": 56.704641,
+      "longitude": 8.220344
+    },
+    {
+      "name": "Season",
+      "latitude": 56.120935,
+      "longitude": 8.115327
+    },
+    {
+      "name": "Second beat records shop",
+      "latitude": 55.697581,
+      "longitude": 12.552214
+    },
+    {
+      "name": "SexDiscount",
+      "latitude": 54.84422,
+      "longitude": 9.4005
+    },
+    {
+      "name": "Shop Universe",
+      "latitude": 55.041323,
+      "longitude": 9.809933
+    },
+    {
+      "name": "Sinnerup",
+      "latitude": 55.862104,
+      "longitude": 9.845305
+    },
+    {
+      "name": "Slotsbutik",
+      "latitude": 55.686161,
+      "longitude": 12.576541
+    },
+    {
+      "name": "Slotsbutikken",
+      "latitude": 55.175952,
+      "longitude": 10.489546
+    },
+    {
+      "name": "Smag & Velbehag",
+      "latitude": 55.397745,
+      "longitude": 10.392988
+    },
+    {
+      "name": "Smartbox",
+      "latitude": 55.674096,
+      "longitude": 12.541288
+    },
+    {
+      "name": "Snedkergaarden",
+      "latitude": 57.334723,
+      "longitude": 10.522305
+    },
+    {
+      "name": "Sohu-Sønderborg",
+      "latitude": 54.920071,
+      "longitude": 9.808056
+    },
+    {
+      "name": "Souveniers",
+      "latitude": 55.629039,
+      "longitude": 12.645138
+    },
+    {
+      "name": "Souvenir",
+      "latitude": 55.678276,
+      "longitude": 12.578669
+    },
+    {
+      "name": "Souvenir",
+      "latitude": 55.681782,
+      "longitude": 12.574614
+    },
+    {
+      "name": "Souvenir",
+      "latitude": 55.683052,
+      "longitude": 12.572808
+    },
+    {
+      "name": "Souvenir Aqua",
+      "latitude": 57.270902,
+      "longitude": 9.644663
+    },
+    {
+      "name": "Souvenir Forretning",
+      "latitude": 56.137109,
+      "longitude": 10.195812
+    },
+    {
+      "name": "Souvenir Forretning Tivoli Friheden",
+      "latitude": 56.136472,
+      "longitude": 10.196143
+    },
+    {
+      "name": "Souvenir Gift Shop",
+      "latitude": 55.674962,
+      "longitude": 12.564646
+    },
+    {
+      "name": "Souvenirhytten",
+      "latitude": 55.062135,
+      "longitude": 15.134681
+    },
+    {
+      "name": "Souvenirs",
+      "latitude": 55.628385,
+      "longitude": 12.649145
+    },
+    {
+      "name": "Stenhuset",
+      "latitude": 55.087345,
+      "longitude": 8.561144
+    },
+    {
+      "name": "Stormbringer",
+      "latitude": 55.857944,
+      "longitude": 9.481595
+    },
+    {
+      "name": "Svanebro",
+      "latitude": 56.958098,
+      "longitude": 8.367473
+    },
+    {
+      "name": "Svanehuset",
+      "latitude": 56.104263,
+      "longitude": 9.686694
+    },
+    {
+      "name": "Sæbemageriet Bornholm",
+      "latitude": 55.170873,
+      "longitude": 14.961674
+    },
+    {
+      "name": "Tante K",
+      "latitude": 55.714398,
+      "longitude": 10.011514
+    },
+    {
+      "name": "Tatol",
+      "latitude": 55.302311,
+      "longitude": 10.472853
+    },
+    {
+      "name": "Tax Free",
+      "latitude": 55.627755,
+      "longitude": 12.650264
+    },
+    {
+      "name": "Tessies",
+      "latitude": 55.680438,
+      "longitude": 12.573204
+    },
+    {
+      "name": "THEA",
+      "latitude": 54.765789,
+      "longitude": 11.867223
+    },
+    {
+      "name": "Thors Hammer Fotobutik",
+      "latitude": 56.422778,
+      "longitude": 10.546329
+    },
+    {
+      "name": "Thrysøe lys the gaver",
+      "latitude": 56.45029,
+      "longitude": 9.405132
+    },
+    {
+      "name": "Trønninge Brugs",
+      "latitude": 55.695514,
+      "longitude": 11.742632
+    },
+    {
+      "name": "Udsigten",
+      "latitude": 55.026037,
+      "longitude": 15.119598
+    },
+    {
+      "name": "Ulvedahl's Design & Genbrug",
+      "latitude": 55.543497,
+      "longitude": 9.688286
+    },
+    {
+      "name": "Unika",
+      "latitude": 55.677616,
+      "longitude": 12.576686
+    },
+    {
+      "name": "Utzon Center Butik",
+      "latitude": 57.049538,
+      "longitude": 9.926053
+    },
+    {
+      "name": "Victoria House",
+      "latitude": 57.394408,
+      "longitude": 9.78289
+    },
+    {
+      "name": "Victoria's",
+      "latitude": 55.680096,
+      "longitude": 12.580319
+    },
+    {
+      "name": "Victoria's",
+      "latitude": 55.705019,
+      "longitude": 12.578678
+    },
+    {
+      "name": "Viking Souvenirs",
+      "latitude": 55.677097,
+      "longitude": 12.570542
+    },
+    {
+      "name": "Villa Mia",
+      "latitude": 55.770145,
+      "longitude": 9.697532
+    },
+    {
+      "name": "Villes Des Roses",
+      "latitude": 56.65175,
+      "longitude": 9.983594
+    },
+    {
+      "name": "Virou",
+      "latitude": 55.681539,
+      "longitude": 12.549529
+    },
+    {
+      "name": "Vitrinen",
+      "latitude": 55.456885,
+      "longitude": 12.179778
+    },
+    {
+      "name": "welcome Vesterbrogade",
+      "latitude": 55.675133,
+      "longitude": 12.566822
+    },
+    {
+      "name": "Westlys",
+      "latitude": 55.555728,
+      "longitude": 8.133059
+    },
+    {
+      "name": "Wonderful Souvenirs",
+      "latitude": 55.676553,
+      "longitude": 12.569718
+    },
+    {
+      "name": "World of Memories",
+      "latitude": 55.676824,
+      "longitude": 12.570342
+    },
+    {
+      "name": "World of Memories",
+      "latitude": 55.677349,
+      "longitude": 12.571507
+    },
+    {
+      "name": "Wyatt Earp",
+      "latitude": 56.424093,
+      "longitude": 10.550402
+    },
+    {
+      "name": "Zane",
+      "latitude": 55.681011,
+      "longitude": 12.587697
+    },
+    {
+      "name": "ZOOButikken",
+      "latitude": 55.378672,
+      "longitude": 10.371672
+    },
+    {
+      "name": "Zooshoppen",
+      "latitude": 57.038232,
+      "longitude": 9.89994
+    },
+    {
+      "name": "Ærø Gårdbutik Uldgården",
+      "latitude": 54.892054,
+      "longitude": 10.309857
+    },
+    {
+      "name": "Øklip",
+      "latitude": 55.210832,
+      "longitude": 14.970697
+    },
+    {
+      "name": "Ørneboden",
+      "latitude": 56.103827,
+      "longitude": 9.686917
+    },
+    {
+      "name": "Østfyns Museer Høkeren",
+      "latitude": 55.449949,
+      "longitude": 10.658957
+    }
+  ],
+  "meta": {
+    "title": "Gavebutikker i Danmark (Gift shops in Denmark) - Gratis download",
+    "description": "Gift shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=gift. Indeholder 256 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Gavebutikker i Danmark (Gift shops in Denmark) | ListBase",
+    "seo_description": "Download Gavebutikker i Danmark (Gift shops in Denmark) — 256 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 256 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

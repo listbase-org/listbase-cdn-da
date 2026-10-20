@@ -1,0 +1,144 @@
+{
+  "id": "da-datofelter-zone",
+  "name": "Relative datofelter: tidszone (CLDR da)",
+  "title": "Relative datofelter: tidszone (CLDR da)",
+  "description": "CLDR-navne for datofeltet 'tidszone' (zone) i standard-, kort- og smal-bredde.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "felt_kode",
+      "label": "Felt Kode",
+      "type": "string"
+    },
+    {
+      "key": "felt",
+      "label": "Felt",
+      "type": "string"
+    },
+    {
+      "key": "bredde",
+      "label": "Bredde",
+      "type": "string"
+    },
+    {
+      "key": "displaynavn",
+      "label": "Displaynavn",
+      "type": "string"
+    },
+    {
+      "key": "relativ_minus2",
+      "label": "Relativ Minus2",
+      "type": "string"
+    },
+    {
+      "key": "relativ_minus1",
+      "label": "Relativ Minus1",
+      "type": "string"
+    },
+    {
+      "key": "relativ_0",
+      "label": "Relativ 0",
+      "type": "string"
+    },
+    {
+      "key": "relativ_plus1",
+      "label": "Relativ Plus1",
+      "type": "string"
+    },
+    {
+      "key": "relativ_plus2",
+      "label": "Relativ Plus2",
+      "type": "string"
+    },
+    {
+      "key": "fremtid_en",
+      "label": "Fremtid En",
+      "type": "string"
+    },
+    {
+      "key": "fremtid_flere",
+      "label": "Fremtid Flere",
+      "type": "string"
+    },
+    {
+      "key": "fortid_en",
+      "label": "Fortid En",
+      "type": "string"
+    },
+    {
+      "key": "fortid_flere",
+      "label": "Fortid Flere",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "felt_kode": "zone",
+      "felt": "zone",
+      "bredde": "standard",
+      "displaynavn": "tidszone",
+      "relativ_minus2": "",
+      "relativ_minus1": "",
+      "relativ_0": "",
+      "relativ_plus1": "",
+      "relativ_plus2": "",
+      "fremtid_en": "",
+      "fremtid_flere": "",
+      "fortid_en": "",
+      "fortid_flere": ""
+    },
+    {
+      "id": 2,
+      "felt_kode": "zone-short",
+      "felt": "zone",
+      "bredde": "short",
+      "displaynavn": "zone",
+      "relativ_minus2": "",
+      "relativ_minus1": "",
+      "relativ_0": "",
+      "relativ_plus1": "",
+      "relativ_plus2": "",
+      "fremtid_en": "",
+      "fremtid_flere": "",
+      "fortid_en": "",
+      "fortid_flere": ""
+    },
+    {
+      "id": 3,
+      "felt_kode": "zone-narrow",
+      "felt": "zone",
+      "bredde": "narrow",
+      "displaynavn": "zone",
+      "relativ_minus2": "",
+      "relativ_minus1": "",
+      "relativ_0": "",
+      "relativ_plus1": "",
+      "relativ_plus2": "",
+      "fremtid_en": "",
+      "fremtid_flere": "",
+      "fortid_en": "",
+      "fortid_flere": ""
+    }
+  ],
+  "meta": {
+    "title": "Relative datofelter: tidszone (CLDR da) - Gratis download",
+    "description": "CLDR-navne for datofeltet 'tidszone' (zone) i standard-, kort- og smal-bredde. Indeholder 3 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Relative datofelter: tidszone (CLDR da) | ListBase",
+    "seo_description": "Download Relative datofelter: tidszone (CLDR da) — 3 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 3 poster / 14 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

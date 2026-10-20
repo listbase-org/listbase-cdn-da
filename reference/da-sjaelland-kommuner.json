@@ -1,0 +1,170 @@
+{
+  "id": "da-sjaelland-kommuner",
+  "name": "Kommuner i Region Sjælland",
+  "title": "Kommuner i Region Sjælland",
+  "description": "Kommuner tilhørende Region Sjælland (i alt 17). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 + editorial kommune→region map per Lov om regioner (2007 reform).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "0320",
+      "name": "Faxe",
+      "slug": "faxe",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0253",
+      "name": "Greve",
+      "slug": "greve",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0376",
+      "name": "Guldborgsund",
+      "slug": "guldborgsund",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0316",
+      "name": "Holbæk",
+      "slug": "holbaek",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0326",
+      "name": "Kalundborg",
+      "slug": "kalundborg",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0259",
+      "name": "Køge",
+      "slug": "koege",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0350",
+      "name": "Lejre",
+      "slug": "lejre",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0360",
+      "name": "Lolland",
+      "slug": "lolland",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0370",
+      "name": "Næstved",
+      "slug": "naestved",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0306",
+      "name": "Odsherred",
+      "slug": "odsherred",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0329",
+      "name": "Ringsted",
+      "slug": "ringsted",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0265",
+      "name": "Roskilde",
+      "slug": "roskilde",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0330",
+      "name": "Slagelse",
+      "slug": "slagelse",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0269",
+      "name": "Solrød",
+      "slug": "solroed",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0340",
+      "name": "Sorø",
+      "slug": "soroe",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0336",
+      "name": "Stevns",
+      "slug": "stevns",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0390",
+      "name": "Vordingborg",
+      "slug": "vordingborg",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Region Sjælland - Gratis download",
+    "description": "Kommuner tilhørende Region Sjælland (i alt 17). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 + editorial kommune→region map per Lov om regioner (2007 reform). Indeholder 17 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Region Sjælland | ListBase",
+    "seo_description": "Download Kommuner i Region Sjælland — 17 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 17 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

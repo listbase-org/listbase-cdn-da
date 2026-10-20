@@ -1,0 +1,212 @@
+{
+  "id": "da-uge-og-tidstermer",
+  "name": "Ugedage, kvartaler, dagsperioder og æraer (CLDR da, 23)",
+  "title": "Ugedage, kvartaler, dagsperioder og æraer (CLDR da, 23)",
+  "description": "Danske CLDR-navne og forkortelser for ugedage, kvartaler, dagsperioder og æraer (gregoriansk kalender).",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "kode",
+      "label": "Kode",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "forkortelse",
+      "label": "Forkortelse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "kategori": "ugedag",
+      "kode": "sun",
+      "navn": "søndag",
+      "forkortelse": "søn."
+    },
+    {
+      "id": 2,
+      "kategori": "ugedag",
+      "kode": "mon",
+      "navn": "mandag",
+      "forkortelse": "man."
+    },
+    {
+      "id": 3,
+      "kategori": "ugedag",
+      "kode": "tue",
+      "navn": "tirsdag",
+      "forkortelse": "tirs."
+    },
+    {
+      "id": 4,
+      "kategori": "ugedag",
+      "kode": "wed",
+      "navn": "onsdag",
+      "forkortelse": "ons."
+    },
+    {
+      "id": 5,
+      "kategori": "ugedag",
+      "kode": "thu",
+      "navn": "torsdag",
+      "forkortelse": "tors."
+    },
+    {
+      "id": 6,
+      "kategori": "ugedag",
+      "kode": "fri",
+      "navn": "fredag",
+      "forkortelse": "fre."
+    },
+    {
+      "id": 7,
+      "kategori": "ugedag",
+      "kode": "sat",
+      "navn": "lørdag",
+      "forkortelse": "lør."
+    },
+    {
+      "id": 8,
+      "kategori": "kvartal",
+      "kode": "1",
+      "navn": "1. kvartal",
+      "forkortelse": "1. kvt."
+    },
+    {
+      "id": 9,
+      "kategori": "kvartal",
+      "kode": "2",
+      "navn": "2. kvartal",
+      "forkortelse": "2. kvt."
+    },
+    {
+      "id": 10,
+      "kategori": "kvartal",
+      "kode": "3",
+      "navn": "3. kvartal",
+      "forkortelse": "3. kvt."
+    },
+    {
+      "id": 11,
+      "kategori": "kvartal",
+      "kode": "4",
+      "navn": "4. kvartal",
+      "forkortelse": "4. kvt."
+    },
+    {
+      "id": 12,
+      "kategori": "dagsperiode",
+      "kode": "midnight",
+      "navn": "midnat",
+      "forkortelse": ""
+    },
+    {
+      "id": 13,
+      "kategori": "dagsperiode",
+      "kode": "am",
+      "navn": "AM",
+      "forkortelse": ""
+    },
+    {
+      "id": 14,
+      "kategori": "dagsperiode",
+      "kode": "pm",
+      "navn": "PM",
+      "forkortelse": ""
+    },
+    {
+      "id": 15,
+      "kategori": "dagsperiode",
+      "kode": "morning1",
+      "navn": "om morgenen",
+      "forkortelse": ""
+    },
+    {
+      "id": 16,
+      "kategori": "dagsperiode",
+      "kode": "morning2",
+      "navn": "om formiddagen",
+      "forkortelse": ""
+    },
+    {
+      "id": 17,
+      "kategori": "dagsperiode",
+      "kode": "afternoon1",
+      "navn": "om eftermiddagen",
+      "forkortelse": ""
+    },
+    {
+      "id": 18,
+      "kategori": "dagsperiode",
+      "kode": "evening1",
+      "navn": "om aftenen",
+      "forkortelse": ""
+    },
+    {
+      "id": 19,
+      "kategori": "dagsperiode",
+      "kode": "night1",
+      "navn": "om natten",
+      "forkortelse": ""
+    },
+    {
+      "id": 20,
+      "kategori": "aera",
+      "kode": "0",
+      "navn": "før Kristus",
+      "forkortelse": "f.Kr."
+    },
+    {
+      "id": 21,
+      "kategori": "aera",
+      "kode": "0-alt-variant",
+      "navn": "før vesterlandsk tidsregning",
+      "forkortelse": "f.v.t."
+    },
+    {
+      "id": 22,
+      "kategori": "aera",
+      "kode": "1",
+      "navn": "efter Kristus",
+      "forkortelse": "e.Kr."
+    },
+    {
+      "id": 23,
+      "kategori": "aera",
+      "kode": "1-alt-variant",
+      "navn": "vesterlandsk tidsregning",
+      "forkortelse": "v.t."
+    }
+  ],
+  "meta": {
+    "title": "Ugedage, kvartaler, dagsperioder og æraer (CLDR da, 23) - Gratis download",
+    "description": "Danske CLDR-navne og forkortelser for ugedage, kvartaler, dagsperioder og æraer (gregoriansk kalender). Indeholder 23 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Ugedage, kvartaler, dagsperioder og æraer (CLDR da, 23) | ListBase",
+    "seo_description": "Download Ugedage, kvartaler, dagsperioder og æraer (CLDR da, 23) — 23 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 23 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

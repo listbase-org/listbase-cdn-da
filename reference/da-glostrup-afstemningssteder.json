@@ -1,0 +1,104 @@
+{
+  "id": "da-glostrup-afstemningssteder",
+  "name": "Afstemningssteder i Glostrup Kommune",
+  "title": "Afstemningssteder i Glostrup Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Glostrup Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Nordvangskolen",
+      "kommune_kode": 161,
+      "kommune": "Glostrup",
+      "opstillingskreds_nummer": 20,
+      "opstillingskreds": "Ballerup"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Sognegården",
+      "kommune_kode": 161,
+      "kommune": "Glostrup",
+      "opstillingskreds_nummer": 20,
+      "opstillingskreds": "Ballerup"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Søndervangskolen",
+      "kommune_kode": 161,
+      "kommune": "Glostrup",
+      "opstillingskreds_nummer": 20,
+      "opstillingskreds": "Ballerup"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Vestervangskolen",
+      "kommune_kode": 161,
+      "kommune": "Glostrup",
+      "opstillingskreds_nummer": 20,
+      "opstillingskreds": "Ballerup"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Ejbyskolen",
+      "kommune_kode": 161,
+      "kommune": "Glostrup",
+      "opstillingskreds_nummer": 20,
+      "opstillingskreds": "Ballerup"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Hvissingehallen",
+      "kommune_kode": 161,
+      "kommune": "Glostrup",
+      "opstillingskreds_nummer": 20,
+      "opstillingskreds": "Ballerup"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Glostrup Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Glostrup Kommune med opstillingskreds. Indeholder 6 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Glostrup Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Glostrup Kommune — 6 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 6 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

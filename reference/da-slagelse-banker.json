@@ -1,0 +1,79 @@
+{
+  "id": "da-slagelse-banker",
+  "name": "Banker i Slagelse — SWIFT/BIC-koder",
+  "title": "Banker i Slagelse — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Slagelse, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"SLAGELSE\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 10,
+      "bank": "ANDELSKASSEN J-A-K. SLAGELSE",
+      "city": "SLAGELSE",
+      "branch": "",
+      "swift_code": "ANJSDK21"
+    },
+    {
+      "id": 110,
+      "bank": "DANSKE BANK A/S",
+      "city": "SLAGELSE",
+      "branch": "",
+      "swift_code": "DABADKKKSLA"
+    },
+    {
+      "id": 178,
+      "bank": "FLAKKEBERG OG OMEGNS SPAREKASSE",
+      "city": "SLAGELSE",
+      "branch": "",
+      "swift_code": "FLAKDK21"
+    },
+    {
+      "id": 478,
+      "bank": "SYDBANK A/S",
+      "city": "SLAGELSE",
+      "branch": "(SLAGELSE BRANCH)",
+      "swift_code": "SYBKDK22SLA"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Slagelse — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Slagelse, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"SLAGELSE\"). Delmængde af det nationale da-banker-datasæt. Indeholder 4 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Slagelse — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Slagelse — SWIFT/BIC-koder — 4 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 4 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

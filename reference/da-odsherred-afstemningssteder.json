@@ -1,0 +1,152 @@
+{
+  "id": "da-odsherred-afstemningssteder",
+  "name": "Afstemningssteder i Odsherred Kommune",
+  "title": "Afstemningssteder i Odsherred Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Odsherred Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Asnæs",
+      "kommune_kode": 306,
+      "kommune": "Odsherred",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Fårevejle",
+      "kommune_kode": 306,
+      "kommune": "Odsherred",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Grevinge",
+      "kommune_kode": 306,
+      "kommune": "Odsherred",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Hørve",
+      "kommune_kode": 306,
+      "kommune": "Odsherred",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Odden",
+      "kommune_kode": 306,
+      "kommune": "Odsherred",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Vig",
+      "kommune_kode": 306,
+      "kommune": "Odsherred",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Nykøbing",
+      "kommune_kode": 306,
+      "kommune": "Odsherred",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Rørvig",
+      "kommune_kode": 306,
+      "kommune": "Odsherred",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Egebjerg",
+      "kommune_kode": 306,
+      "kommune": "Odsherred",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Højby",
+      "kommune_kode": 306,
+      "kommune": "Odsherred",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Lumsås",
+      "kommune_kode": 306,
+      "kommune": "Odsherred",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Nr. Asmindrup",
+      "kommune_kode": 306,
+      "kommune": "Odsherred",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Odsherred Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Odsherred Kommune med opstillingskreds. Indeholder 12 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Odsherred Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Odsherred Kommune — 12 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 12 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

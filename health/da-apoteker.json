@@ -1,0 +1,741 @@
+{
+  "id": "da-apoteker",
+  "name": "Apoteker i Danmark – OpenStreetMap (Pharmacies in Denmark, OSM)",
+  "title": "Apoteker i Danmark – OpenStreetMap (Pharmacies in Denmark, OSM)",
+  "description": "Liste over 140 apoteker i Danmark fra OpenStreetMap (amenity=pharmacy) — navn og koordinater (WGS84).",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 140,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aabenraa Hjorte Apotek",
+      "latitude": 55.045832,
+      "longitude": 9.419886
+    },
+    {
+      "name": "Aabybro Apotek",
+      "latitude": 57.159456,
+      "longitude": 9.73258
+    },
+    {
+      "name": "Aalestrup Apotek",
+      "latitude": 56.694544,
+      "longitude": 9.495429
+    },
+    {
+      "name": "Aars Apotek",
+      "latitude": 56.802027,
+      "longitude": 9.519372
+    },
+    {
+      "name": "Albertslund apotek",
+      "latitude": 55.656506,
+      "longitude": 12.353635
+    },
+    {
+      "name": "Apopro",
+      "latitude": 55.602724,
+      "longitude": 12.288763
+    },
+    {
+      "name": "Apotek Spinderiet",
+      "latitude": 55.664672,
+      "longitude": 12.511545
+    },
+    {
+      "name": "Apotek Stationsvej",
+      "latitude": 55.417108,
+      "longitude": 12.140946
+    },
+    {
+      "name": "Apoteket City2",
+      "latitude": 55.643778,
+      "longitude": 12.274777
+    },
+    {
+      "name": "Apoteket i Ballerup Centret",
+      "latitude": 55.728984,
+      "longitude": 12.355967
+    },
+    {
+      "name": "Apoteket Lille Torv Thisted",
+      "latitude": 56.955204,
+      "longitude": 8.691285
+    },
+    {
+      "name": "Apoteket Nørregade-Odder",
+      "latitude": 55.974524,
+      "longitude": 10.148583
+    },
+    {
+      "name": "Apoteket Taastrup Torv",
+      "latitude": 55.651945,
+      "longitude": 12.302443
+    },
+    {
+      "name": "Apotekudsalg",
+      "latitude": 55.752397,
+      "longitude": 11.453817
+    },
+    {
+      "name": "Arden Apoteksudsalg",
+      "latitude": 56.769315,
+      "longitude": 9.858918
+    },
+    {
+      "name": "Asnæs Apotek",
+      "latitude": 55.811871,
+      "longitude": 11.500498
+    },
+    {
+      "name": "Augustenborg Apotek",
+      "latitude": 54.946049,
+      "longitude": 9.87138
+    },
+    {
+      "name": "Aulum Apoteksudsalg",
+      "latitude": 56.265755,
+      "longitude": 8.797115
+    },
+    {
+      "name": "Auning Apotek",
+      "latitude": 56.431479,
+      "longitude": 10.375031
+    },
+    {
+      "name": "Beder-Malling Apotek",
+      "latitude": 56.058953,
+      "longitude": 10.20653
+    },
+    {
+      "name": "Bramdrupdam Apotek",
+      "latitude": 55.521931,
+      "longitude": 9.478938
+    },
+    {
+      "name": "Bredballe apoteksudsalg",
+      "latitude": 55.718964,
+      "longitude": 9.609171
+    },
+    {
+      "name": "Brønderslev Apotek",
+      "latitude": 57.268755,
+      "longitude": 9.9485
+    },
+    {
+      "name": "Buddinge Apotek",
+      "latitude": 55.741894,
+      "longitude": 12.497622
+    },
+    {
+      "name": "Bøvlingbjerg Apotek",
+      "latitude": 56.438584,
+      "longitude": 8.202457
+    },
+    {
+      "name": "Christiansfeld Apotek",
+      "latitude": 55.356313,
+      "longitude": 9.486439
+    },
+    {
+      "name": "Egedal Apotek",
+      "latitude": 55.780845,
+      "longitude": 12.187099
+    },
+    {
+      "name": "Egtved Apotek",
+      "latitude": 55.619696,
+      "longitude": 9.306639
+    },
+    {
+      "name": "Egå Apotek",
+      "latitude": 56.211187,
+      "longitude": 10.279409
+    },
+    {
+      "name": "Engelsborg Apotek",
+      "latitude": 56.466838,
+      "longitude": 9.400145
+    },
+    {
+      "name": "Fakse Apotek",
+      "latitude": 55.255598,
+      "longitude": 12.116172
+    },
+    {
+      "name": "Fensmark Apoteksudsalg",
+      "latitude": 55.280017,
+      "longitude": 11.804601
+    },
+    {
+      "name": "Ferritslev Apotek",
+      "latitude": 55.30837,
+      "longitude": 10.5841
+    },
+    {
+      "name": "Firkløver Apoteket Stensballe",
+      "latitude": 55.872534,
+      "longitude": 9.902837
+    },
+    {
+      "name": "Fjerritslev Apoteksfilial",
+      "latitude": 57.088272,
+      "longitude": 9.267701
+    },
+    {
+      "name": "Folkebo Apotek",
+      "latitude": 55.375489,
+      "longitude": 10.395873
+    },
+    {
+      "name": "Folkebo Apoteksudsalg",
+      "latitude": 55.374903,
+      "longitude": 10.395719
+    },
+    {
+      "name": "Frederikshavn Løve Apotek",
+      "latitude": 57.4387,
+      "longitude": 10.534228
+    },
+    {
+      "name": "Fuglebjerg Apotek",
+      "latitude": 55.301877,
+      "longitude": 11.544643
+    },
+    {
+      "name": "Fønix Apoteket",
+      "latitude": 55.966139,
+      "longitude": 9.395052
+    },
+    {
+      "name": "Fønix Apoteket - Tørring",
+      "latitude": 55.850413,
+      "longitude": 9.480843
+    },
+    {
+      "name": "Gilleleje Apotek",
+      "latitude": 56.12581,
+      "longitude": 12.304399
+    },
+    {
+      "name": "Glejbjerg Håndkøbsudsalg",
+      "latitude": 55.554784,
+      "longitude": 8.823263
+    },
+    {
+      "name": "Gram Apotek",
+      "latitude": 55.28857,
+      "longitude": 9.048883
+    },
+    {
+      "name": "Grindsted Apotek",
+      "latitude": 55.75627,
+      "longitude": 8.931145
+    },
+    {
+      "name": "Gråsten Apotek",
+      "latitude": 54.910842,
+      "longitude": 9.588825
+    },
+    {
+      "name": "Guderup Apoteksudsalg",
+      "latitude": 54.990284,
+      "longitude": 9.865716
+    },
+    {
+      "name": "Gørlev Apotek",
+      "latitude": 55.539274,
+      "longitude": 11.22676
+    },
+    {
+      "name": "Haarby Apotek",
+      "latitude": 55.223317,
+      "longitude": 10.124089
+    },
+    {
+      "name": "Hammel Frijsenborg Apotek",
+      "latitude": 56.256174,
+      "longitude": 9.864971
+    },
+    {
+      "name": "Hammershøj Apotek",
+      "latitude": 56.499403,
+      "longitude": 9.751923
+    },
+    {
+      "name": "Hasseris Apotek",
+      "latitude": 57.03634,
+      "longitude": 9.883627
+    },
+    {
+      "name": "Havnegade Krone Apotek",
+      "latitude": 54.828857,
+      "longitude": 11.137367
+    },
+    {
+      "name": "Hedegårdens Apotek",
+      "latitude": 55.718924,
+      "longitude": 12.358184
+    },
+    {
+      "name": "Hedensted Apotek",
+      "latitude": 55.769286,
+      "longitude": 9.701899
+    },
+    {
+      "name": "Herfølge Apotek",
+      "latitude": 55.41596,
+      "longitude": 12.139755
+    },
+    {
+      "name": "Herlev Apotek",
+      "latitude": 55.724156,
+      "longitude": 12.438885
+    },
+    {
+      "name": "Hesselager apotek",
+      "latitude": 55.169324,
+      "longitude": 10.734138
+    },
+    {
+      "name": "Hinnerup Apotek",
+      "latitude": 56.264158,
+      "longitude": 10.06182
+    },
+    {
+      "name": "Hjortespring",
+      "latitude": 55.742885,
+      "longitude": 12.423367
+    },
+    {
+      "name": "Hjultorvets Apotek",
+      "latitude": 56.449544,
+      "longitude": 9.408422
+    },
+    {
+      "name": "Hobro Apotek",
+      "latitude": 56.639391,
+      "longitude": 9.793276
+    },
+    {
+      "name": "Hornbæk Apotek",
+      "latitude": 56.089827,
+      "longitude": 12.456438
+    },
+    {
+      "name": "Hornsyld Apotek",
+      "latitude": 55.753902,
+      "longitude": 9.852158
+    },
+    {
+      "name": "Hovedgård apotek",
+      "latitude": 55.938268,
+      "longitude": 9.955847
+    },
+    {
+      "name": "Hvidovre Apotek Bredalsparken",
+      "latitude": 55.639073,
+      "longitude": 12.478992
+    },
+    {
+      "name": "Hvidovre Stationsapotek",
+      "latitude": 55.663633,
+      "longitude": 12.474676
+    },
+    {
+      "name": "Hårlev Apoteksudsalg",
+      "latitude": 55.352185,
+      "longitude": 12.234355
+    },
+    {
+      "name": "Højvang Apotek Skanderborg",
+      "latitude": 56.043843,
+      "longitude": 9.947305
+    },
+    {
+      "name": "Høng Apotek",
+      "latitude": 55.504311,
+      "longitude": 11.288954
+    },
+    {
+      "name": "Islev Apotek",
+      "latitude": 55.695885,
+      "longitude": 12.458648
+    },
+    {
+      "name": "Jerne Apotek",
+      "latitude": 55.47877,
+      "longitude": 8.480186
+    },
+    {
+      "name": "Juelsminde Apotek",
+      "latitude": 55.715177,
+      "longitude": 10.01108
+    },
+    {
+      "name": "Karup Apotek",
+      "latitude": 56.309073,
+      "longitude": 9.165642
+    },
+    {
+      "name": "Kerteminde Apotek",
+      "latitude": 55.450712,
+      "longitude": 10.657932
+    },
+    {
+      "name": "Kjellerup Apotek",
+      "latitude": 56.288684,
+      "longitude": 9.430955
+    },
+    {
+      "name": "Kolding Løve Apotek",
+      "latitude": 55.507441,
+      "longitude": 9.508914
+    },
+    {
+      "name": "Korup Apotek",
+      "latitude": 55.41796,
+      "longitude": 10.273872
+    },
+    {
+      "name": "Lundby Apotek",
+      "latitude": 55.108982,
+      "longitude": 11.876395
+    },
+    {
+      "name": "Lyngby Løve Apotek",
+      "latitude": 55.768396,
+      "longitude": 12.5034
+    },
+    {
+      "name": "Løgten Apoteksudsalg",
+      "latitude": 56.276459,
+      "longitude": 10.315564
+    },
+    {
+      "name": "Løgumkloster Apotek",
+      "latitude": 55.058753,
+      "longitude": 8.9538
+    },
+    {
+      "name": "Løsning Apotek",
+      "latitude": 55.803675,
+      "longitude": 9.701976
+    },
+    {
+      "name": "Løve Apotek",
+      "latitude": 55.043619,
+      "longitude": 9.420572
+    },
+    {
+      "name": "Mariager Apotek",
+      "latitude": 56.651509,
+      "longitude": 9.983623
+    },
+    {
+      "name": "Middelfart Løve Apotek Kløvervej",
+      "latitude": 55.496018,
+      "longitude": 9.757495
+    },
+    {
+      "name": "Nibe Apotek",
+      "latitude": 56.982556,
+      "longitude": 9.63805
+    },
+    {
+      "name": "Nysted Apotek",
+      "latitude": 54.669,
+      "longitude": 11.728811
+    },
+    {
+      "name": "Nørre Alslev Apotek",
+      "latitude": 54.898735,
+      "longitude": 11.879237
+    },
+    {
+      "name": "Odder Apotek",
+      "latitude": 55.972551,
+      "longitude": 10.1474
+    },
+    {
+      "name": "Otterup Apotek",
+      "latitude": 55.513969,
+      "longitude": 10.399034
+    },
+    {
+      "name": "Otterup apotek",
+      "latitude": 55.515308,
+      "longitude": 10.39809
+    },
+    {
+      "name": "Padborg Apotek",
+      "latitude": 54.825699,
+      "longitude": 9.360387
+    },
+    {
+      "name": "Præstø Apotek",
+      "latitude": 55.121916,
+      "longitude": 12.040147
+    },
+    {
+      "name": "Roslev Apotek",
+      "latitude": 56.702873,
+      "longitude": 8.99074
+    },
+    {
+      "name": "Rødding Apotek",
+      "latitude": 55.36899,
+      "longitude": 9.059741
+    },
+    {
+      "name": "Rødekro Apotek",
+      "latitude": 55.069969,
+      "longitude": 9.336139
+    },
+    {
+      "name": "Rødovre Apotek",
+      "latitude": 55.68013,
+      "longitude": 12.455631
+    },
+    {
+      "name": "Rødovre Krone Apotek",
+      "latitude": 55.679891,
+      "longitude": 12.457821
+    },
+    {
+      "name": "Sakskøbing Løve Apotek",
+      "latitude": 54.798721,
+      "longitude": 11.636813
+    },
+    {
+      "name": "Sankt Nicolai Apotek",
+      "latitude": 55.058854,
+      "longitude": 10.608745
+    },
+    {
+      "name": "Sct. Mathias Apotek",
+      "latitude": 56.448192,
+      "longitude": 9.405355
+    },
+    {
+      "name": "Sindal Apotek",
+      "latitude": 57.471018,
+      "longitude": 10.201572
+    },
+    {
+      "name": "Skalborg Apotek",
+      "latitude": 57.01489,
+      "longitude": 9.893934
+    },
+    {
+      "name": "Skibby Apotek",
+      "latitude": 55.75143,
+      "longitude": 11.959355
+    },
+    {
+      "name": "Slangerup Apotek",
+      "latitude": 55.846083,
+      "longitude": 12.171938
+    },
+    {
+      "name": "Smørum Apotek",
+      "latitude": 55.732726,
+      "longitude": 12.305231
+    },
+    {
+      "name": "Solrød Apotek",
+      "latitude": 55.532983,
+      "longitude": 12.219564
+    },
+    {
+      "name": "Sorgenfri Løve Apotek",
+      "latitude": 55.782178,
+      "longitude": 12.483139
+    },
+    {
+      "name": "Stenløse Apotek",
+      "latitude": 55.768232,
+      "longitude": 12.194803
+    },
+    {
+      "name": "Stevns Apotek",
+      "latitude": 55.309765,
+      "longitude": 12.387794
+    },
+    {
+      "name": "Stilling Apotek",
+      "latitude": 56.061461,
+      "longitude": 9.985354
+    },
+    {
+      "name": "Stoholm Apotek",
+      "latitude": 56.485752,
+      "longitude": 9.149159
+    },
+    {
+      "name": "Struer Apotek",
+      "latitude": 56.492167,
+      "longitude": 8.593391
+    },
+    {
+      "name": "Stubbekøbing Apotek",
+      "latitude": 54.890384,
+      "longitude": 12.043066
+    },
+    {
+      "name": "Støvring Apotek",
+      "latitude": 56.890307,
+      "longitude": 9.836823
+    },
+    {
+      "name": "Svane Apoteket",
+      "latitude": 56.448371,
+      "longitude": 9.407776
+    },
+    {
+      "name": "Svane Apoteket Lyngby",
+      "latitude": 55.771534,
+      "longitude": 12.502452
+    },
+    {
+      "name": "SvaneApoteket",
+      "latitude": 57.437647,
+      "longitude": 10.534819
+    },
+    {
+      "name": "Svinninge Apoteksudsalg",
+      "latitude": 55.722298,
+      "longitude": 11.463949
+    },
+    {
+      "name": "Sygehusapoteket",
+      "latitude": 57.024027,
+      "longitude": 9.892044
+    },
+    {
+      "name": "Søborg Apotek",
+      "latitude": 55.734791,
+      "longitude": 12.513758
+    },
+    {
+      "name": "Søndervig Løve Apotek",
+      "latitude": 56.118896,
+      "longitude": 8.11642
+    },
+    {
+      "name": "Thisted Svane Apotek",
+      "latitude": 56.969349,
+      "longitude": 8.687293
+    },
+    {
+      "name": "Tinglev Apotek",
+      "latitude": 54.936599,
+      "longitude": 9.257244
+    },
+    {
+      "name": "Toftlund Apotek",
+      "latitude": 55.192511,
+      "longitude": 9.063797
+    },
+    {
+      "name": "Ulfborg Apotek",
+      "latitude": 56.272197,
+      "longitude": 8.322182
+    },
+    {
+      "name": "Ulve Apoteket - Munkebo",
+      "latitude": 55.501359,
+      "longitude": 9.456513
+    },
+    {
+      "name": "Valby Apotek",
+      "latitude": 55.666463,
+      "longitude": 12.517088
+    },
+    {
+      "name": "Varde apotek",
+      "latitude": 55.620832,
+      "longitude": 8.479631
+    },
+    {
+      "name": "Vejen og Egtved Apoteker",
+      "latitude": 55.474916,
+      "longitude": 9.138012
+    },
+    {
+      "name": "Vester Skerninge Apotek",
+      "latitude": 55.074237,
+      "longitude": 10.454418
+    },
+    {
+      "name": "VetPharm Løgstør Apotek",
+      "latitude": 56.96821,
+      "longitude": 9.252605
+    },
+    {
+      "name": "Viborg Løve Apotek",
+      "latitude": 56.430338,
+      "longitude": 9.387424
+    },
+    {
+      "name": "Videbæk Apotek",
+      "latitude": 56.091353,
+      "longitude": 8.630627
+    },
+    {
+      "name": "Vrå Apotek",
+      "latitude": 57.353977,
+      "longitude": 9.942195
+    },
+    {
+      "name": "Ålbæk Apoteksudsalg",
+      "latitude": 57.593502,
+      "longitude": 10.411954
+    },
+    {
+      "name": "Ålsgårde Apotek",
+      "latitude": 56.075447,
+      "longitude": 12.539643
+    },
+    {
+      "name": "Østerbro Apotekudsalg",
+      "latitude": 54.754831,
+      "longitude": 11.890198
+    },
+    {
+      "name": "Østervrå Apotek",
+      "latitude": 57.340562,
+      "longitude": 10.23822
+    }
+  ],
+  "meta": {
+    "title": "Apoteker i Danmark – OpenStreetMap (Pharmacies in Denmark, OSM) - Gratis download",
+    "description": "Liste over 140 apoteker i Danmark fra OpenStreetMap (amenity=pharmacy) — navn og koordinater (WGS84). Indeholder 140 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Apoteker i Danmark – OpenStreetMap (Pharmacies in Denmark, OSM) | ListBase",
+    "seo_description": "Download Apoteker i Danmark – OpenStreetMap (Pharmacies in Denmark, OSM) — 140 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 140 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

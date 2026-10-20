@@ -1,0 +1,93 @@
+{
+  "id": "da-aalborg-banker",
+  "name": "Banker i Aalborg — SWIFT/BIC-koder",
+  "title": "Banker i Aalborg — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Aalborg, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"AALBORG\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 61,
+      "bank": "DANSKE BANK A/S",
+      "city": "AALBORG",
+      "branch": "",
+      "swift_code": "DABADKKKAAL"
+    },
+    {
+      "id": 333,
+      "bank": "MERKUR ANDELSKASSE",
+      "city": "AALBORG",
+      "branch": "",
+      "swift_code": "MEKUDK21"
+    },
+    {
+      "id": 339,
+      "bank": "NE FONDSMAEGLERSELSKAB A/S (NE CAPITAL MANAGEMENT A/S)",
+      "city": "AALBORG",
+      "branch": "",
+      "swift_code": "FOCMDK21"
+    },
+    {
+      "id": 389,
+      "bank": "O. W. BUNKER AND TRADING A/S",
+      "city": "AALBORG",
+      "branch": "",
+      "swift_code": "BUTDDK21SUP"
+    },
+    {
+      "id": 450,
+      "bank": "SPAR NORD BANK A/S",
+      "city": "AALBORG",
+      "branch": "",
+      "swift_code": "SPNODK22"
+    },
+    {
+      "id": 469,
+      "bank": "SYDBANK A/S",
+      "city": "AALBORG",
+      "branch": "",
+      "swift_code": "SYBKDK22AAL"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Aalborg — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Aalborg, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"AALBORG\"). Delmængde af det nationale da-banker-datasæt. Indeholder 6 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Aalborg — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Aalborg — SWIFT/BIC-koder — 6 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 6 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

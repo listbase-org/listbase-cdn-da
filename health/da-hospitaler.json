@@ -1,0 +1,216 @@
+{
+  "id": "da-hospitaler",
+  "name": "Hospitaler i Danmark – OpenStreetMap (Hospitals in Denmark, OSM)",
+  "title": "Hospitaler i Danmark – OpenStreetMap (Hospitals in Denmark, OSM)",
+  "description": "Liste over 35 hospitaler/sygehuse i Danmark fra OpenStreetMap (amenity=hospital) — navn og koordinater (WGS84).",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Center for det Maritime Sundhedsvæsen",
+      "latitude": 55.449891,
+      "longitude": 8.402794
+    },
+    {
+      "name": "Epilepsi Moniterings Enhed",
+      "latitude": 55.530107,
+      "longitude": 11.502346
+    },
+    {
+      "name": "Hammel Neurocenter",
+      "latitude": 56.255487,
+      "longitude": 9.869981
+    },
+    {
+      "name": "Hammel Neurocenter afd. H1 og H2",
+      "latitude": 56.25573,
+      "longitude": 9.869575
+    },
+    {
+      "name": "Hammel Neurocenter afd. H3 og H4.",
+      "latitude": 56.255864,
+      "longitude": 9.86975
+    },
+    {
+      "name": "Hammel Neurocenter afd. H5",
+      "latitude": 56.255544,
+      "longitude": 9.86972
+    },
+    {
+      "name": "Hammel Neurocenter afd. HB 1",
+      "latitude": 56.255645,
+      "longitude": 9.86964
+    },
+    {
+      "name": "Hospice Sydfyn",
+      "latitude": 55.054909,
+      "longitude": 10.572184
+    },
+    {
+      "name": "Hospice Søndergård",
+      "latitude": 55.743865,
+      "longitude": 12.323515
+    },
+    {
+      "name": "Hospice Sønderjylland",
+      "latitude": 55.246217,
+      "longitude": 9.444467
+    },
+    {
+      "name": "Kragskovhede Syge- og Isolationsafdeling",
+      "latitude": 57.52304,
+      "longitude": 10.397036
+    },
+    {
+      "name": "Middelfart Sygehus",
+      "latitude": 55.496604,
+      "longitude": 9.738597
+    },
+    {
+      "name": "Nakskov Sundhedscenter",
+      "latitude": 54.833408,
+      "longitude": 11.145846
+    },
+    {
+      "name": "Nyt Aalborg Universitetshospital (NAU)",
+      "latitude": 57.010729,
+      "longitude": 9.999909
+    },
+    {
+      "name": "OUH Svendborg Sygehus",
+      "latitude": 55.056192,
+      "longitude": 10.608359
+    },
+    {
+      "name": "Patienthotellet Regionshospital Viborg",
+      "latitude": 56.444776,
+      "longitude": 9.406135
+    },
+    {
+      "name": "Privathospitalet Danmark",
+      "latitude": 55.753611,
+      "longitude": 12.571778
+    },
+    {
+      "name": "Psykiatrien i Region Syddanmark",
+      "latitude": 55.064905,
+      "longitude": 9.375863
+    },
+    {
+      "name": "Psykiatrien i Region Syddanmark - Syddansk Universitetshospital",
+      "latitude": 55.494107,
+      "longitude": 8.44266
+    },
+    {
+      "name": "Psykiatrisk akutmodtagelse",
+      "latitude": 55.929884,
+      "longitude": 12.328904
+    },
+    {
+      "name": "Psykiatrisk Center Ballerup",
+      "latitude": 55.721745,
+      "longitude": 12.361097
+    },
+    {
+      "name": "Psykiatrisk Center Nordsjælland - Afdeling Hillerød",
+      "latitude": 55.929759,
+      "longitude": 12.328588
+    },
+    {
+      "name": "Regionshospital Nordjylland, Frederikshavn",
+      "latitude": 57.446732,
+      "longitude": 10.532739
+    },
+    {
+      "name": "Regionshospitalet Lemvig",
+      "latitude": 56.549699,
+      "longitude": 8.314564
+    },
+    {
+      "name": "Regionspsykiatrien Viborg",
+      "latitude": 56.446913,
+      "longitude": 9.409908
+    },
+    {
+      "name": "Rehabiliteringscentret Hedebo",
+      "latitude": 55.594041,
+      "longitude": 12.248839
+    },
+    {
+      "name": "Samsø Sundheds- og Akuthus",
+      "latitude": 55.830883,
+      "longitude": 10.591052
+    },
+    {
+      "name": "Sano Skælskør",
+      "latitude": 55.260413,
+      "longitude": 11.282423
+    },
+    {
+      "name": "Sct. Maria Hospice Center",
+      "latitude": 55.726012,
+      "longitude": 9.596347
+    },
+    {
+      "name": "Skanderborg Sundhedscenter",
+      "latitude": 56.034085,
+      "longitude": 9.928372
+    },
+    {
+      "name": "Støttecenter Saxenhøj",
+      "latitude": 54.799849,
+      "longitude": 11.62162
+    },
+    {
+      "name": "Sundhedsområdet Klostergården",
+      "latitude": 55.500879,
+      "longitude": 9.482353
+    },
+    {
+      "name": "Sygehus Sønderjylland, Aabenraa",
+      "latitude": 55.063025,
+      "longitude": 9.377053
+    },
+    {
+      "name": "Tønder Sygehus",
+      "latitude": 54.941065,
+      "longitude": 8.875259
+    },
+    {
+      "name": "Vestdansk Center for Rygmarvsskade",
+      "latitude": 56.447679,
+      "longitude": 9.412831
+    }
+  ],
+  "meta": {
+    "title": "Hospitaler i Danmark – OpenStreetMap (Hospitals in Denmark, OSM) - Gratis download",
+    "description": "Liste over 35 hospitaler/sygehuse i Danmark fra OpenStreetMap (amenity=hospital) — navn og koordinater (WGS84). Indeholder 35 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Hospitaler i Danmark – OpenStreetMap (Hospitals in Denmark, OSM) | ListBase",
+    "seo_description": "Download Hospitaler i Danmark – OpenStreetMap (Hospitals in Denmark, OSM) — 35 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 35 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

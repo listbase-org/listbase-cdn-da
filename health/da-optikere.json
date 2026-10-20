@@ -1,0 +1,1791 @@
+{
+  "id": "da-optikere",
+  "name": "Optikere i Danmark (Opticians in Denmark)",
+  "title": "Optikere i Danmark (Opticians in Denmark)",
+  "description": "Opticians in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=optician.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 350,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "2 Eyes",
+      "latitude": 55.763111,
+      "longitude": 12.577549
+    },
+    {
+      "name": "Aalestrup Optik",
+      "latitude": 56.693939,
+      "longitude": 9.49358
+    },
+    {
+      "name": "Aalestrup Optik",
+      "latitude": 56.696105,
+      "longitude": 9.492385
+    },
+    {
+      "name": "Ace & Tate",
+      "latitude": 55.682011,
+      "longitude": 12.581572
+    },
+    {
+      "name": "Algade Optik",
+      "latitude": 57.267637,
+      "longitude": 9.947152
+    },
+    {
+      "name": "Anytime Hedehusene ApS",
+      "latitude": 55.649803,
+      "longitude": 12.200232
+    },
+    {
+      "name": "Anytime Smykker Ure & Optik",
+      "latitude": 56.272095,
+      "longitude": 8.321114
+    },
+    {
+      "name": "Askholm Optik",
+      "latitude": 55.731694,
+      "longitude": 9.113636
+    },
+    {
+      "name": "Bleshøy Optik",
+      "latitude": 54.909764,
+      "longitude": 9.789977
+    },
+    {
+      "name": "Blikfang Optik",
+      "latitude": 55.544036,
+      "longitude": 9.716981
+    },
+    {
+      "name": "Bolbro Specialoptik",
+      "latitude": 55.394005,
+      "longitude": 10.349386
+    },
+    {
+      "name": "Brauner Profil Optik",
+      "latitude": 55.664674,
+      "longitude": 12.399137
+    },
+    {
+      "name": "Breinholdt Bleshøy Optometri",
+      "latitude": 56.565381,
+      "longitude": 9.030501
+    },
+    {
+      "name": "Brille Galleriet",
+      "latitude": 56.157656,
+      "longitude": 10.211004
+    },
+    {
+      "name": "Brillebaren",
+      "latitude": 55.382953,
+      "longitude": 10.427489
+    },
+    {
+      "name": "Brillebutikken",
+      "latitude": 55.465535,
+      "longitude": 8.700193
+    },
+    {
+      "name": "Brillebutikken",
+      "latitude": 55.679167,
+      "longitude": 12.568818
+    },
+    {
+      "name": "Brillebørn",
+      "latitude": 56.15868,
+      "longitude": 10.208743
+    },
+    {
+      "name": "Brillecentret",
+      "latitude": 55.245841,
+      "longitude": 9.292259
+    },
+    {
+      "name": "Brillegalleriet",
+      "latitude": 57.047609,
+      "longitude": 9.924208
+    },
+    {
+      "name": "Brillehuset Dronninglund",
+      "latitude": 57.159509,
+      "longitude": 10.292404
+    },
+    {
+      "name": "Briller By LEI",
+      "latitude": 55.760195,
+      "longitude": 12.45532
+    },
+    {
+      "name": "Brilleværk",
+      "latitude": 55.689422,
+      "longitude": 12.557694
+    },
+    {
+      "name": "Brotorvets optik",
+      "latitude": 57.167407,
+      "longitude": 10.14624
+    },
+    {
+      "name": "Buris Briller",
+      "latitude": 56.154326,
+      "longitude": 10.207847
+    },
+    {
+      "name": "Byens Ure & Optik",
+      "latitude": 57.460597,
+      "longitude": 9.986477
+    },
+    {
+      "name": "Bytorvets Optik",
+      "latitude": 56.276917,
+      "longitude": 10.316233
+    },
+    {
+      "name": "City Briller",
+      "latitude": 55.682033,
+      "longitude": 12.570852
+    },
+    {
+      "name": "City Optik",
+      "latitude": 55.465483,
+      "longitude": 8.45185
+    },
+    {
+      "name": "Claudi & Hjelm Optik",
+      "latitude": 57.059591,
+      "longitude": 9.91804
+    },
+    {
+      "name": "Cornelius K Optik",
+      "latitude": 55.770594,
+      "longitude": 12.504159
+    },
+    {
+      "name": "Cross Eyes",
+      "latitude": 55.685613,
+      "longitude": 12.537791
+    },
+    {
+      "name": "CrossEyes",
+      "latitude": 55.466414,
+      "longitude": 8.447796
+    },
+    {
+      "name": "CrossEyes",
+      "latitude": 56.157391,
+      "longitude": 10.209054
+    },
+    {
+      "name": "CrossEyes",
+      "latitude": 56.167558,
+      "longitude": 9.547906
+    },
+    {
+      "name": "crossEyes",
+      "latitude": 57.046592,
+      "longitude": 9.925411
+    },
+    {
+      "name": "Democratic",
+      "latitude": 55.697502,
+      "longitude": 12.579363
+    },
+    {
+      "name": "Din Optiker",
+      "latitude": 55.922064,
+      "longitude": 11.666615
+    },
+    {
+      "name": "FAHRENDORFF OPTIK",
+      "latitude": 54.910275,
+      "longitude": 9.790577
+    },
+    {
+      "name": "Farstad Optik",
+      "latitude": 56.092175,
+      "longitude": 9.758684
+    },
+    {
+      "name": "Farstad Optik",
+      "latitude": 56.168539,
+      "longitude": 9.549584
+    },
+    {
+      "name": "Finn Ravn",
+      "latitude": 55.450431,
+      "longitude": 10.658098
+    },
+    {
+      "name": "Fiol Optik",
+      "latitude": 55.682061,
+      "longitude": 12.57221
+    },
+    {
+      "name": "Foss Briller",
+      "latitude": 55.504667,
+      "longitude": 9.734394
+    },
+    {
+      "name": "Friis optik",
+      "latitude": 55.860985,
+      "longitude": 9.84551
+    },
+    {
+      "name": "Friis Optik",
+      "latitude": 55.972835,
+      "longitude": 9.61162
+    },
+    {
+      "name": "Ganer & Robenhagen",
+      "latitude": 57.048587,
+      "longitude": 9.917315
+    },
+    {
+      "name": "Glas - Christianshavn Optik",
+      "latitude": 55.673389,
+      "longitude": 12.589908
+    },
+    {
+      "name": "Guldbjerg Optik",
+      "latitude": 55.861658,
+      "longitude": 9.8454
+    },
+    {
+      "name": "Hadsten Optik",
+      "latitude": 56.327264,
+      "longitude": 10.044917
+    },
+    {
+      "name": "Hallman Optik",
+      "latitude": 55.468262,
+      "longitude": 8.452444
+    },
+    {
+      "name": "Hallmann",
+      "latitude": 55.567669,
+      "longitude": 9.755213
+    },
+    {
+      "name": "Hallmann",
+      "latitude": 56.155841,
+      "longitude": 10.208535
+    },
+    {
+      "name": "Hallmann Optik",
+      "latitude": 55.489556,
+      "longitude": 9.474158
+    },
+    {
+      "name": "Hamm & Steenfeldt",
+      "latitude": 55.370457,
+      "longitude": 10.371056
+    },
+    {
+      "name": "Havnens Optik",
+      "latitude": 55.964299,
+      "longitude": 11.847592
+    },
+    {
+      "name": "heiko stumbeck",
+      "latitude": 55.059157,
+      "longitude": 10.607603
+    },
+    {
+      "name": "Heiko Stumbeck",
+      "latitude": 55.503619,
+      "longitude": 9.738722
+    },
+    {
+      "name": "Heiko Stumbeck",
+      "latitude": 55.709266,
+      "longitude": 12.576979
+    },
+    {
+      "name": "Hinnerup Optik & Guld",
+      "latitude": 56.263624,
+      "longitude": 10.061747
+    },
+    {
+      "name": "Ho og Huuse Optik",
+      "latitude": 56.449302,
+      "longitude": 9.405026
+    },
+    {
+      "name": "Holstebro Kontaktlinseklinik",
+      "latitude": 56.358337,
+      "longitude": 8.618585
+    },
+    {
+      "name": "Husum Special Optik",
+      "latitude": 55.711119,
+      "longitude": 12.475908
+    },
+    {
+      "name": "Ilkjær",
+      "latitude": 56.158228,
+      "longitude": 10.208558
+    },
+    {
+      "name": "Infinity Optik",
+      "latitude": 55.466886,
+      "longitude": 8.443495
+    },
+    {
+      "name": "Jessen Briller",
+      "latitude": 56.15673,
+      "longitude": 10.20846
+    },
+    {
+      "name": "JM Optik",
+      "latitude": 55.373379,
+      "longitude": 10.369506
+    },
+    {
+      "name": "Koldby Optik",
+      "latitude": 55.703516,
+      "longitude": 12.5777
+    },
+    {
+      "name": "Kontaktlinsefabrikken",
+      "latitude": 55.46546,
+      "longitude": 8.451841
+    },
+    {
+      "name": "Koss & Krasnik",
+      "latitude": 55.455661,
+      "longitude": 12.181944
+    },
+    {
+      "name": "Langskov Optik",
+      "latitude": 55.102999,
+      "longitude": 14.699099
+    },
+    {
+      "name": "Lindberg Optik",
+      "latitude": 56.156354,
+      "longitude": 10.20648
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 54.766942,
+      "longitude": 11.868543
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 54.910317,
+      "longitude": 9.792286
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.010071,
+      "longitude": 11.907004
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.045386,
+      "longitude": 9.418455
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.046541,
+      "longitude": 9.418405
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.059517,
+      "longitude": 10.607236
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.095369,
+      "longitude": 10.241017
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.103199,
+      "longitude": 14.699364
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.329254,
+      "longitude": 8.764493
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.377501,
+      "longitude": 10.432146
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.384151,
+      "longitude": 10.425096
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.390733,
+      "longitude": 11.356408
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.395788,
+      "longitude": 10.382251
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.465916,
+      "longitude": 8.453656
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.49007,
+      "longitude": 9.473779
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.513432,
+      "longitude": 9.460026
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.567049,
+      "longitude": 9.756127
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.621152,
+      "longitude": 8.479446
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.641121,
+      "longitude": 12.086652
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.662383,
+      "longitude": 12.602329
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.666334,
+      "longitude": 12.400456
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.666544,
+      "longitude": 12.516397
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.680459,
+      "longitude": 12.533666
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.681891,
+      "longitude": 12.574813
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.700081,
+      "longitude": 12.577218
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.704435,
+      "longitude": 12.500701
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.708871,
+      "longitude": 9.533164
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.75776,
+      "longitude": 8.927188
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 55.77135,
+      "longitude": 12.50211
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 56.089151,
+      "longitude": 8.245177
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 56.12957,
+      "longitude": 10.162375
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 56.151988,
+      "longitude": 10.204783
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 56.168343,
+      "longitude": 9.54974
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 56.412399,
+      "longitude": 10.875769
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 56.449476,
+      "longitude": 9.404795
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 56.565173,
+      "longitude": 9.025721
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 56.954932,
+      "longitude": 8.688432
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 57.005404,
+      "longitude": 9.874088
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 57.047973,
+      "longitude": 9.920777
+    },
+    {
+      "name": "Louis Nielsen",
+      "latitude": 57.458648,
+      "longitude": 9.990454
+    },
+    {
+      "name": "Luis Nielsen",
+      "latitude": 56.135907,
+      "longitude": 9.001875
+    },
+    {
+      "name": "Lyngby Special Optik",
+      "latitude": 55.771857,
+      "longitude": 12.501487
+    },
+    {
+      "name": "MadsenOptik",
+      "latitude": 56.358266,
+      "longitude": 8.618569
+    },
+    {
+      "name": "Magnussen Optik",
+      "latitude": 55.614655,
+      "longitude": 12.355076
+    },
+    {
+      "name": "Mathiasen",
+      "latitude": 55.158315,
+      "longitude": 8.767761
+    },
+    {
+      "name": "Min Optik",
+      "latitude": 55.542866,
+      "longitude": 12.116147
+    },
+    {
+      "name": "Moscot",
+      "latitude": 55.681099,
+      "longitude": 12.576581
+    },
+    {
+      "name": "Møller & Sandahl",
+      "latitude": 56.156963,
+      "longitude": 10.20791
+    },
+    {
+      "name": "noor",
+      "latitude": 55.05915,
+      "longitude": 10.609162
+    },
+    {
+      "name": "Nyt syn",
+      "latitude": 55.432838,
+      "longitude": 11.557108
+    },
+    {
+      "name": "Nyt Syn",
+      "latitude": 55.46526,
+      "longitude": 8.699757
+    },
+    {
+      "name": "Nyt Syn",
+      "latitude": 55.526915,
+      "longitude": 11.497732
+    },
+    {
+      "name": "Nyt Syn",
+      "latitude": 55.732587,
+      "longitude": 12.517145
+    },
+    {
+      "name": "Nyt Syn",
+      "latitude": 56.136061,
+      "longitude": 8.973392
+    },
+    {
+      "name": "Nyt Syn",
+      "latitude": 56.154385,
+      "longitude": 10.203898
+    },
+    {
+      "name": "Nyt Syn",
+      "latitude": 56.167741,
+      "longitude": 9.54923
+    },
+    {
+      "name": "Nyt syn",
+      "latitude": 56.171449,
+      "longitude": 10.21648
+    },
+    {
+      "name": "Nyt Syn",
+      "latitude": 56.189339,
+      "longitude": 10.215581
+    },
+    {
+      "name": "Nyt Syn",
+      "latitude": 56.450504,
+      "longitude": 9.407624
+    },
+    {
+      "name": "Nyt Syn",
+      "latitude": 56.966695,
+      "longitude": 9.252488
+    },
+    {
+      "name": "Nyt Syn",
+      "latitude": 57.046539,
+      "longitude": 9.919545
+    },
+    {
+      "name": "Nyt Syn Brillehuset",
+      "latitude": 55.870717,
+      "longitude": 12.355389
+    },
+    {
+      "name": "Nyt Syn Egå",
+      "latitude": 56.21817,
+      "longitude": 10.292661
+    },
+    {
+      "name": "Nyt Syn Nyborg",
+      "latitude": 55.312157,
+      "longitude": 10.792344
+    },
+    {
+      "name": "nyt syn.",
+      "latitude": 55.450126,
+      "longitude": 10.65772
+    },
+    {
+      "name": "Optica Thordsen",
+      "latitude": 54.911849,
+      "longitude": 9.792077
+    },
+    {
+      "name": "Optik",
+      "latitude": 56.180279,
+      "longitude": 10.097497
+    },
+    {
+      "name": "Optik Amager",
+      "latitude": 55.656908,
+      "longitude": 12.609161
+    },
+    {
+      "name": "Optik Hallmann",
+      "latitude": 54.825862,
+      "longitude": 9.361544
+    },
+    {
+      "name": "Optik-Hallmann",
+      "latitude": 55.490043,
+      "longitude": 9.476104
+    },
+    {
+      "name": "Optik-Hallmann",
+      "latitude": 55.687173,
+      "longitude": 9.55265
+    },
+    {
+      "name": "Optiker Finn Ravn",
+      "latitude": 55.058985,
+      "longitude": 10.608343
+    },
+    {
+      "name": "Optiker Finn Ravn",
+      "latitude": 55.39509,
+      "longitude": 10.382883
+    },
+    {
+      "name": "Optiker Golf Iversen",
+      "latitude": 55.678765,
+      "longitude": 12.569737
+    },
+    {
+      "name": "Optiker Lars Isak Jensen",
+      "latitude": 54.983492,
+      "longitude": 12.284654
+    },
+    {
+      "name": "Optiker Sommer",
+      "latitude": 55.67859,
+      "longitude": 12.505561
+    },
+    {
+      "name": "Optiker Wichmann",
+      "latitude": 56.136266,
+      "longitude": 8.971687
+    },
+    {
+      "name": "Optikerne på Værdedamsvej",
+      "latitude": 55.67383,
+      "longitude": 12.549971
+    },
+    {
+      "name": "Optikhuset",
+      "latitude": 55.684422,
+      "longitude": 12.537367
+    },
+    {
+      "name": "Optikjær",
+      "latitude": 55.490125,
+      "longitude": 9.474512
+    },
+    {
+      "name": "Optikkens Hus",
+      "latitude": 55.681582,
+      "longitude": 12.575108
+    },
+    {
+      "name": "Optimal Optik",
+      "latitude": 55.46471,
+      "longitude": 8.70189
+    },
+    {
+      "name": "Pandrup Optik",
+      "latitude": 57.225092,
+      "longitude": 9.677055
+    },
+    {
+      "name": "Poul Stig",
+      "latitude": 55.674559,
+      "longitude": 12.549113
+    },
+    {
+      "name": "Poul Stig",
+      "latitude": 55.679946,
+      "longitude": 12.583119
+    },
+    {
+      "name": "Poul Stig",
+      "latitude": 55.700924,
+      "longitude": 12.577704
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 54.910296,
+      "longitude": 9.792661
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 54.922084,
+      "longitude": 9.594767
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.008686,
+      "longitude": 11.908855
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.045597,
+      "longitude": 9.418639
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.095772,
+      "longitude": 10.241072
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.101825,
+      "longitude": 14.69869
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.231232,
+      "longitude": 11.758234
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.238006,
+      "longitude": 10.479007
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.246188,
+      "longitude": 9.292135
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.253526,
+      "longitude": 11.293437
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.330885,
+      "longitude": 8.767164
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.384639,
+      "longitude": 10.425665
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.466165,
+      "longitude": 8.44987
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.489444,
+      "longitude": 9.474418
+    },
+    {
+      "name": "Profil optik",
+      "latitude": 55.490129,
+      "longitude": 9.474431
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.514187,
+      "longitude": 9.458976
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.567049,
+      "longitude": 9.756281
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.638355,
+      "longitude": 12.634866
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.659778,
+      "longitude": 11.39885
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.662727,
+      "longitude": 12.602372
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.665138,
+      "longitude": 12.512322
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.671568,
+      "longitude": 12.592613
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.675721,
+      "longitude": 12.544073
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.683237,
+      "longitude": 12.572391
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.685375,
+      "longitude": 12.539021
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.687987,
+      "longitude": 12.56077
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.698837,
+      "longitude": 12.578022
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.73124,
+      "longitude": 12.36071
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.756839,
+      "longitude": 8.9285
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.771136,
+      "longitude": 12.502924
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.841868,
+      "longitude": 12.432034
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 55.861788,
+      "longitude": 9.847609
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.033491,
+      "longitude": 9.931659
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.090128,
+      "longitude": 8.242989
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.136279,
+      "longitude": 8.970426
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.158064,
+      "longitude": 10.207138
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.168835,
+      "longitude": 9.549378
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.199731,
+      "longitude": 10.678686
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.300577,
+      "longitude": 10.477097
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.359788,
+      "longitude": 8.617155
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.414357,
+      "longitude": 10.873551
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.449202,
+      "longitude": 9.405717
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.565589,
+      "longitude": 9.026083
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.65042,
+      "longitude": 9.982483
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.803076,
+      "longitude": 9.51693
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 56.955394,
+      "longitude": 8.691479
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 57.047308,
+      "longitude": 9.921545
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 57.159511,
+      "longitude": 10.289542
+    },
+    {
+      "name": "Profil Optik",
+      "latitude": 57.459511,
+      "longitude": 9.98813
+    },
+    {
+      "name": "Profil Optik Brøbecher",
+      "latitude": 56.152549,
+      "longitude": 10.204954
+    },
+    {
+      "name": "Profil Optik by Synsam",
+      "latitude": 55.505062,
+      "longitude": 9.733554
+    },
+    {
+      "name": "Profil Optik by SynSam",
+      "latitude": 55.723488,
+      "longitude": 12.439666
+    },
+    {
+      "name": "Profil Optik Hillerød",
+      "latitude": 55.930255,
+      "longitude": 12.299888
+    },
+    {
+      "name": "Profile Optik",
+      "latitude": 55.703629,
+      "longitude": 12.577701
+    },
+    {
+      "name": "Profiloptik",
+      "latitude": 55.814557,
+      "longitude": 12.381055
+    },
+    {
+      "name": "ProfilOptik",
+      "latitude": 56.358094,
+      "longitude": 8.618551
+    },
+    {
+      "name": "Qvist Briller",
+      "latitude": 56.155283,
+      "longitude": 10.207337
+    },
+    {
+      "name": "Rokkjaer",
+      "latitude": 55.759233,
+      "longitude": 12.457257
+    },
+    {
+      "name": "Rosendal Optik",
+      "latitude": 55.645019,
+      "longitude": 12.547495
+    },
+    {
+      "name": "Rs optik",
+      "latitude": 55.594232,
+      "longitude": 12.6715
+    },
+    {
+      "name": "Salling C Optik",
+      "latitude": 55.694057,
+      "longitude": 12.549554
+    },
+    {
+      "name": "Samsø Optik",
+      "latitude": 55.833013,
+      "longitude": 10.594098
+    },
+    {
+      "name": "Seerup optics",
+      "latitude": 55.488537,
+      "longitude": 9.472852
+    },
+    {
+      "name": "Skagen Optik",
+      "latitude": 57.722452,
+      "longitude": 10.590553
+    },
+    {
+      "name": "Skejby-Optik",
+      "latitude": 56.193971,
+      "longitude": 10.194646
+    },
+    {
+      "name": "Skovlunde Specialoptik",
+      "latitude": 55.718835,
+      "longitude": 12.400978
+    },
+    {
+      "name": "Smart Eyes",
+      "latitude": 56.362379,
+      "longitude": 8.620105
+    },
+    {
+      "name": "Smarteyes",
+      "latitude": 55.466738,
+      "longitude": 8.446083
+    },
+    {
+      "name": "Smarteyes",
+      "latitude": 55.663673,
+      "longitude": 12.601359
+    },
+    {
+      "name": "smarteyes",
+      "latitude": 55.814476,
+      "longitude": 12.379798
+    },
+    {
+      "name": "Smarteyes",
+      "latitude": 56.136017,
+      "longitude": 9.00208
+    },
+    {
+      "name": "Smarteyes",
+      "latitude": 56.149755,
+      "longitude": 10.204787
+    },
+    {
+      "name": "Smarteyes",
+      "latitude": 56.449092,
+      "longitude": 9.4065
+    },
+    {
+      "name": "smarteyes",
+      "latitude": 56.460552,
+      "longitude": 10.038042
+    },
+    {
+      "name": "Smarteyes",
+      "latitude": 57.004152,
+      "longitude": 9.874767
+    },
+    {
+      "name": "Sorgenfri Optik",
+      "latitude": 55.78108,
+      "longitude": 12.482469
+    },
+    {
+      "name": "Spetzler Optik",
+      "latitude": 55.566959,
+      "longitude": 9.756586
+    },
+    {
+      "name": "Steffensen Optik",
+      "latitude": 57.459329,
+      "longitude": 9.989359
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 54.766628,
+      "longitude": 11.869014
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 54.910339,
+      "longitude": 9.791861
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 54.984026,
+      "longitude": 12.28549
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.009961,
+      "longitude": 11.907132
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.095029,
+      "longitude": 10.243807
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.101415,
+      "longitude": 14.69945
+    },
+    {
+      "name": "synoptik",
+      "latitude": 55.312279,
+      "longitude": 10.791075
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.384052,
+      "longitude": 10.426232
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.395869,
+      "longitude": 10.382175
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.409792,
+      "longitude": 10.337363
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.46633,
+      "longitude": 8.449823
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.488914,
+      "longitude": 9.473036
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.505484,
+      "longitude": 9.732027
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.508331,
+      "longitude": 8.449082
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.513445,
+      "longitude": 9.459181
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.566449,
+      "longitude": 9.756869
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.581938,
+      "longitude": 12.294443
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.614314,
+      "longitude": 12.355159
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.65346,
+      "longitude": 12.474894
+    },
+    {
+      "name": "synoptik",
+      "latitude": 55.655583,
+      "longitude": 12.609434
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.66272,
+      "longitude": 12.604663
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.663511,
+      "longitude": 12.476499
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.664071,
+      "longitude": 12.602085
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.665946,
+      "longitude": 12.399652
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.666711,
+      "longitude": 12.517486
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.672501,
+      "longitude": 12.55513
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.679814,
+      "longitude": 12.579294
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.68137,
+      "longitude": 12.532551
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.68401,
+      "longitude": 12.571101
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.685505,
+      "longitude": 12.538594
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.688286,
+      "longitude": 12.489706
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.695062,
+      "longitude": 12.547474
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.697968,
+      "longitude": 12.579062
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.70118,
+      "longitude": 12.536155
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.709179,
+      "longitude": 9.533023
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.72516,
+      "longitude": 12.43911
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.729619,
+      "longitude": 9.116237
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.741867,
+      "longitude": 12.497753
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.771338,
+      "longitude": 12.505096
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.783273,
+      "longitude": 12.37377
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 55.841034,
+      "longitude": 12.431688
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 56.129864,
+      "longitude": 10.161421
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 56.136389,
+      "longitude": 8.974825
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 56.149143,
+      "longitude": 10.204609
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 56.154094,
+      "longitude": 10.20614
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 56.168639,
+      "longitude": 9.547365
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 56.170572,
+      "longitude": 10.187938
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 56.181961,
+      "longitude": 10.099049
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 56.358521,
+      "longitude": 8.616948
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 56.449338,
+      "longitude": 9.407311
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 56.565628,
+      "longitude": 9.025767
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 56.954934,
+      "longitude": 8.691007
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 57.00418,
+      "longitude": 9.874456
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 57.047356,
+      "longitude": 9.921349
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 57.049475,
+      "longitude": 9.918983
+    },
+    {
+      "name": "Synoptik",
+      "latitude": 57.459782,
+      "longitude": 9.986553
+    },
+    {
+      "name": "Søndergades optik",
+      "latitude": 56.327172,
+      "longitude": 10.044512
+    },
+    {
+      "name": "Sørens",
+      "latitude": 54.765874,
+      "longitude": 11.872883
+    },
+    {
+      "name": "Theilgaard Optik",
+      "latitude": 55.465247,
+      "longitude": 8.450772
+    },
+    {
+      "name": "Thiele",
+      "latitude": 54.767079,
+      "longitude": 11.868293
+    },
+    {
+      "name": "Thiele",
+      "latitude": 54.935238,
+      "longitude": 8.868934
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.009721,
+      "longitude": 11.907073
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.045479,
+      "longitude": 9.418614
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.232119,
+      "longitude": 11.757856
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.329857,
+      "longitude": 8.766119
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.466405,
+      "longitude": 8.447872
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.505669,
+      "longitude": 9.731296
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.513914,
+      "longitude": 9.461492
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.661356,
+      "longitude": 12.60356
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.663293,
+      "longitude": 12.476413
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.663434,
+      "longitude": 12.605201
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.664814,
+      "longitude": 12.512421
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.672551,
+      "longitude": 12.550336
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.675867,
+      "longitude": 12.543438
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.679557,
+      "longitude": 12.579182
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.681606,
+      "longitude": 12.53216
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.696492,
+      "longitude": 12.545368
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.698452,
+      "longitude": 12.578733
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.703608,
+      "longitude": 12.538311
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.723549,
+      "longitude": 12.439668
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.814271,
+      "longitude": 12.380051
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.861681,
+      "longitude": 9.845656
+    },
+    {
+      "name": "Thiele",
+      "latitude": 55.880345,
+      "longitude": 12.498344
+    },
+    {
+      "name": "Thiele",
+      "latitude": 56.135852,
+      "longitude": 9.001754
+    },
+    {
+      "name": "Thiele",
+      "latitude": 56.136333,
+      "longitude": 8.968575
+    },
+    {
+      "name": "Thiele",
+      "latitude": 56.149314,
+      "longitude": 10.204978
+    },
+    {
+      "name": "Thiele",
+      "latitude": 56.152263,
+      "longitude": 10.204893
+    },
+    {
+      "name": "Thiele",
+      "latitude": 56.15727,
+      "longitude": 10.207319
+    },
+    {
+      "name": "Thiele",
+      "latitude": 56.168879,
+      "longitude": 9.549567
+    },
+    {
+      "name": "Thiele",
+      "latitude": 56.199923,
+      "longitude": 10.679089
+    },
+    {
+      "name": "THIELE",
+      "latitude": 56.288807,
+      "longitude": 9.430662
+    },
+    {
+      "name": "Thiele",
+      "latitude": 56.449565,
+      "longitude": 9.404429
+    },
+    {
+      "name": "Thiele",
+      "latitude": 57.004831,
+      "longitude": 9.873665
+    },
+    {
+      "name": "Thiele",
+      "latitude": 57.049444,
+      "longitude": 9.920609
+    },
+    {
+      "name": "Thiele",
+      "latitude": 57.72148,
+      "longitude": 10.586722
+    },
+    {
+      "name": "Thiele Briller & Kontaktlinser",
+      "latitude": 55.382441,
+      "longitude": 10.428268
+    },
+    {
+      "name": "Thiele Optik",
+      "latitude": 56.359295,
+      "longitude": 8.617243
+    },
+    {
+      "name": "Tonny Jepsen",
+      "latitude": 56.167468,
+      "longitude": 9.548789
+    },
+    {
+      "name": "Torvets Optik",
+      "latitude": 56.412994,
+      "longitude": 10.875521
+    },
+    {
+      "name": "Unik Optik",
+      "latitude": 55.667067,
+      "longitude": 12.597614
+    },
+    {
+      "name": "Ure & Briller",
+      "latitude": 55.05908,
+      "longitude": 10.610601
+    },
+    {
+      "name": "Vedi Optik",
+      "latitude": 55.666046,
+      "longitude": 12.579369
+    },
+    {
+      "name": "Vega Optik",
+      "latitude": 56.157581,
+      "longitude": 10.206272
+    },
+    {
+      "name": "Vision",
+      "latitude": 55.678109,
+      "longitude": 12.533689
+    },
+    {
+      "name": "Vraa Optik",
+      "latitude": 57.353653,
+      "longitude": 9.941379
+    },
+    {
+      "name": "Værløse Optik",
+      "latitude": 55.78316,
+      "longitude": 12.374833
+    },
+    {
+      "name": "Wichmann Optik",
+      "latitude": 55.059388,
+      "longitude": 10.60921
+    },
+    {
+      "name": "WiumOptik",
+      "latitude": 56.358519,
+      "longitude": 8.617225
+    },
+    {
+      "name": "Zeiss Vision Center",
+      "latitude": 55.466101,
+      "longitude": 8.457453
+    },
+    {
+      "name": "Zeizz Nyt syn",
+      "latitude": 55.862128,
+      "longitude": 9.846096
+    },
+    {
+      "name": "Zoffman Optik",
+      "latitude": 55.564882,
+      "longitude": 9.75685
+    },
+    {
+      "name": "Øjenkrogen",
+      "latitude": 55.236668,
+      "longitude": 10.480214
+    },
+    {
+      "name": "øjesten",
+      "latitude": 55.491409,
+      "longitude": 9.47167
+    },
+    {
+      "name": "Østerbro Optik",
+      "latitude": 55.702421,
+      "longitude": 12.577682
+    }
+  ],
+  "meta": {
+    "title": "Optikere i Danmark (Opticians in Denmark) - Gratis download",
+    "description": "Opticians in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=optician. Indeholder 350 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Optikere i Danmark (Opticians in Denmark) | ListBase",
+    "seo_description": "Download Optikere i Danmark (Opticians in Denmark) — 350 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 350 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

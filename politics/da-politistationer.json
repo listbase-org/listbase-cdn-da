@@ -1,0 +1,761 @@
+{
+  "id": "da-politistationer",
+  "name": "Politistationer i Danmark – OpenStreetMap (Police stations in Denmark, OSM)",
+  "title": "Politistationer i Danmark – OpenStreetMap (Police stations in Denmark, OSM)",
+  "description": "Liste over 144 politistationer i Danmark fra OpenStreetMap (amenity=police) — navn og koordinater (WGS84).",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 144,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aabenraa Beredskabsstation",
+      "latitude": 55.045577,
+      "longitude": 9.421426
+    },
+    {
+      "name": "Aalborg Politigård",
+      "latitude": 57.042932,
+      "longitude": 9.924653
+    },
+    {
+      "name": "Aalborg Øst Politikontor",
+      "latitude": 57.026602,
+      "longitude": 10.004014
+    },
+    {
+      "name": "Aarhus Hovedpolitistation",
+      "latitude": 56.152692,
+      "longitude": 10.210708
+    },
+    {
+      "name": "Aarhus Vest Politistation",
+      "latitude": 56.161641,
+      "longitude": 10.134096
+    },
+    {
+      "name": "Albertslund Politigård",
+      "latitude": 55.667109,
+      "longitude": 12.348008
+    },
+    {
+      "name": "Asnæs Nærpoliti",
+      "latitude": 55.810778,
+      "longitude": 11.500015
+    },
+    {
+      "name": "Assens Nærpolitienhed",
+      "latitude": 55.26585,
+      "longitude": 9.892447
+    },
+    {
+      "name": "Bornholms Politi",
+      "latitude": 55.095422,
+      "longitude": 14.710628
+    },
+    {
+      "name": "Bramming Politiekspedition",
+      "latitude": 55.465457,
+      "longitude": 8.698444
+    },
+    {
+      "name": "Brande Nærpolitiekspedition",
+      "latitude": 55.940675,
+      "longitude": 9.125193
+    },
+    {
+      "name": "Bredebro Landpoliti",
+      "latitude": 55.053635,
+      "longitude": 8.82434
+    },
+    {
+      "name": "Bredsten og Give Lokalpoliti",
+      "latitude": 55.845449,
+      "longitude": 9.235451
+    },
+    {
+      "name": "Brædstrup Lokalpoliti",
+      "latitude": 55.97424,
+      "longitude": 9.609923
+    },
+    {
+      "name": "Børkop Lokalpoliti",
+      "latitude": 55.643351,
+      "longitude": 9.654198
+    },
+    {
+      "name": "Christiansfeld Lokalpoliti",
+      "latitude": 55.353865,
+      "longitude": 9.48533
+    },
+    {
+      "name": "Dianalund Nærpoliti",
+      "latitude": 55.526565,
+      "longitude": 11.498253
+    },
+    {
+      "name": "Egedal Politibutik",
+      "latitude": 55.780067,
+      "longitude": 12.187199
+    },
+    {
+      "name": "Egtved Lokalpoliti",
+      "latitude": 55.619842,
+      "longitude": 9.311444
+    },
+    {
+      "name": "Esbjerg Hovedpolitistation",
+      "latitude": 55.472751,
+      "longitude": 8.450393
+    },
+    {
+      "name": "Esbjerg Øst Nærpoliti",
+      "latitude": 55.48513,
+      "longitude": 8.491556
+    },
+    {
+      "name": "Faaborg-Midtfyn Politibutik",
+      "latitude": 55.097328,
+      "longitude": 10.2415
+    },
+    {
+      "name": "Fanø Landpoliti",
+      "latitude": 55.446228,
+      "longitude": 8.402283
+    },
+    {
+      "name": "Faxe Politiekspedition",
+      "latitude": 55.251267,
+      "longitude": 12.120255
+    },
+    {
+      "name": "Fredensborg Politibutik",
+      "latitude": 55.905094,
+      "longitude": 12.473985
+    },
+    {
+      "name": "Fredericia Politistation",
+      "latitude": 55.569053,
+      "longitude": 9.758286
+    },
+    {
+      "name": "Frederikshavn Politistation",
+      "latitude": 57.44378,
+      "longitude": 10.540143
+    },
+    {
+      "name": "Furesø Politibutik",
+      "latitude": 55.819611,
+      "longitude": 12.373525
+    },
+    {
+      "name": "Fyns Politi Hittegodskontor",
+      "latitude": 55.415907,
+      "longitude": 10.34374
+    },
+    {
+      "name": "Fyns Politi Hovedpolitistation",
+      "latitude": 55.39866,
+      "longitude": 10.395227
+    },
+    {
+      "name": "Galten Lokalpoliti",
+      "latitude": 56.155431,
+      "longitude": 9.905054
+    },
+    {
+      "name": "Grenaa Politistation",
+      "latitude": 56.410587,
+      "longitude": 10.920954
+    },
+    {
+      "name": "Gribskov Nærpoliti",
+      "latitude": 56.022459,
+      "longitude": 12.196521
+    },
+    {
+      "name": "Grindsted Nærpolitistation",
+      "latitude": 55.759954,
+      "longitude": 8.916615
+    },
+    {
+      "name": "Grænsekontrolenheden, Billund Lufthavn",
+      "latitude": 55.745693,
+      "longitude": 9.146462
+    },
+    {
+      "name": "Grønlands Torv Nærstation",
+      "latitude": 57.023011,
+      "longitude": 9.942993
+    },
+    {
+      "name": "Gørlev Politiekspedition",
+      "latitude": 55.53938,
+      "longitude": 11.225466
+    },
+    {
+      "name": "Haderslev Politistation",
+      "latitude": 55.25397,
+      "longitude": 9.489224
+    },
+    {
+      "name": "Halsnæs Politibutik",
+      "latitude": 55.97696,
+      "longitude": 12.015755
+    },
+    {
+      "name": "Haslev Nærpoliti",
+      "latitude": 55.329424,
+      "longitude": 11.961215
+    },
+    {
+      "name": "Hedensted Nærpolitistation",
+      "latitude": 55.767691,
+      "longitude": 9.698597
+    },
+    {
+      "name": "Herning Lokalstation",
+      "latitude": 56.132217,
+      "longitude": 8.989513
+    },
+    {
+      "name": "Hittegodskontor",
+      "latitude": 56.153402,
+      "longitude": 10.209503
+    },
+    {
+      "name": "Hjørring Politistation",
+      "latitude": 57.457349,
+      "longitude": 10.015771
+    },
+    {
+      "name": "Hobro Politistation",
+      "latitude": 56.654705,
+      "longitude": 9.793392
+    },
+    {
+      "name": "Holbæk Lokalstation",
+      "latitude": 55.702217,
+      "longitude": 11.706812
+    },
+    {
+      "name": "Holstebro Lokalstation",
+      "latitude": 56.370603,
+      "longitude": 8.624354
+    },
+    {
+      "name": "Horsens Politistation",
+      "latitude": 55.857113,
+      "longitude": 9.846582
+    },
+    {
+      "name": "Hovedgård Lokalpoliti",
+      "latitude": 55.946088,
+      "longitude": 9.962611
+    },
+    {
+      "name": "Hundige Nærpoliti",
+      "latitude": 55.597812,
+      "longitude": 12.326391
+    },
+    {
+      "name": "Højer Politiekspedition",
+      "latitude": 54.964754,
+      "longitude": 8.695153
+    },
+    {
+      "name": "Høng Politiekspedition",
+      "latitude": 55.508798,
+      "longitude": 11.295749
+    },
+    {
+      "name": "Hørning Lokalpoliti",
+      "latitude": 56.08507,
+      "longitude": 10.035902
+    },
+    {
+      "name": "Ikast Nærstation",
+      "latitude": 56.139185,
+      "longitude": 9.155499
+    },
+    {
+      "name": "Jelling Lokalpoliti",
+      "latitude": 55.754798,
+      "longitude": 9.418053
+    },
+    {
+      "name": "Juelsminde Lokalpoliti",
+      "latitude": 55.708633,
+      "longitude": 9.988184
+    },
+    {
+      "name": "Kaas Politikontor",
+      "latitude": 57.196198,
+      "longitude": 9.673935
+    },
+    {
+      "name": "Kalundborg Lokalstation",
+      "latitude": 55.677717,
+      "longitude": 11.087868
+    },
+    {
+      "name": "Kolding Politistation",
+      "latitude": 55.512287,
+      "longitude": 9.504499
+    },
+    {
+      "name": "Korsør Nærpoliti",
+      "latitude": 55.347285,
+      "longitude": 11.136774
+    },
+    {
+      "name": "Københavns Lufthavn Politiekspedition",
+      "latitude": 55.629238,
+      "longitude": 12.656292
+    },
+    {
+      "name": "Københavns Politi Beredskabsafsnittet. Rigsp. Afd.",
+      "latitude": 55.66346,
+      "longitude": 12.583983
+    },
+    {
+      "name": "Københavns Politi Hittegodskontor",
+      "latitude": 55.67023,
+      "longitude": 12.571637
+    },
+    {
+      "name": "Københavns Politi, Depot",
+      "latitude": 55.835818,
+      "longitude": 12.307979
+    },
+    {
+      "name": "Københavns Politi, Færdselsafdelingen",
+      "latitude": 55.660548,
+      "longitude": 12.518147
+    },
+    {
+      "name": "Københavns Politi, Station Bellahøj",
+      "latitude": 55.704031,
+      "longitude": 12.519222
+    },
+    {
+      "name": "Københavns Politigård",
+      "latitude": 55.670829,
+      "longitude": 12.572505
+    },
+    {
+      "name": "Københavns Politis ekspedition Hovedbanegården",
+      "latitude": 55.672385,
+      "longitude": 12.563912
+    },
+    {
+      "name": "Køge Lokalstation",
+      "latitude": 55.454815,
+      "longitude": 12.173593
+    },
+    {
+      "name": "Langeland Politibutik",
+      "latitude": 54.936638,
+      "longitude": 10.719486
+    },
+    {
+      "name": "Lemvig Nærstation",
+      "latitude": 56.549562,
+      "longitude": 8.311368
+    },
+    {
+      "name": "Lindved og Tørring Lokalpoliti",
+      "latitude": 55.860437,
+      "longitude": 9.482964
+    },
+    {
+      "name": "Lokalpoliti Vest - Taastrup",
+      "latitude": 55.657453,
+      "longitude": 12.275756
+    },
+    {
+      "name": "Lokalpolitiet i Allingåbro",
+      "latitude": 56.464331,
+      "longitude": 10.334052
+    },
+    {
+      "name": "Lokalpolitiet i Ebeltoft",
+      "latitude": 56.178836,
+      "longitude": 10.675472
+    },
+    {
+      "name": "Lokalpolitiet i Hadsten",
+      "latitude": 56.327146,
+      "longitude": 10.051155
+    },
+    {
+      "name": "Lokalpolitiet i Hammel",
+      "latitude": 56.254646,
+      "longitude": 9.86614
+    },
+    {
+      "name": "Lokalpolitiet i Odder",
+      "latitude": 55.973712,
+      "longitude": 10.149588
+    },
+    {
+      "name": "Lokalpolitiet i Rønde",
+      "latitude": 56.301704,
+      "longitude": 10.47051
+    },
+    {
+      "name": "Lokalpolitiet Ringkøbing",
+      "latitude": 56.087117,
+      "longitude": 8.247522
+    },
+    {
+      "name": "Lunderskov og Vamdrup Lokalpoliti",
+      "latitude": 55.431585,
+      "longitude": 9.278264
+    },
+    {
+      "name": "Læsø Landpoliti",
+      "latitude": 57.255872,
+      "longitude": 11.000053
+    },
+    {
+      "name": "Maribo Nærpoliti",
+      "latitude": 54.773786,
+      "longitude": 11.501765
+    },
+    {
+      "name": "Middelfart Politibutik",
+      "latitude": 55.504329,
+      "longitude": 9.737443
+    },
+    {
+      "name": "Munkebo Politiekspedition",
+      "latitude": 55.459765,
+      "longitude": 10.559605
+    },
+    {
+      "name": "Møn Nærpolite",
+      "latitude": 54.987497,
+      "longitude": 12.288001
+    },
+    {
+      "name": "Nakskov Lokalpoliti",
+      "latitude": 54.829065,
+      "longitude": 11.140295
+    },
+    {
+      "name": "National enhed for Særlig Kriminalitet",
+      "latitude": 55.56733,
+      "longitude": 12.270325
+    },
+    {
+      "name": "Nivå Nærpoliti",
+      "latitude": 55.939269,
+      "longitude": 12.503251
+    },
+    {
+      "name": "Nykøbing Falster Lokalpoliti",
+      "latitude": 54.76852,
+      "longitude": 11.86577
+    },
+    {
+      "name": "Nykøbing Sjælland Nærstation",
+      "latitude": 55.927209,
+      "longitude": 11.662643
+    },
+    {
+      "name": "Nykøbing-Mors Nærstation",
+      "latitude": 56.798179,
+      "longitude": 8.865995
+    },
+    {
+      "name": "Nærpoliti Vollsmose",
+      "latitude": 55.406703,
+      "longitude": 10.438805
+    },
+    {
+      "name": "Nærpolitienheden i Høje Gladsaxe",
+      "latitude": 55.729531,
+      "longitude": 12.497916
+    },
+    {
+      "name": "Nærpolitienheden i Ishøj",
+      "latitude": 55.613114,
+      "longitude": 12.356786
+    },
+    {
+      "name": "Nærpolitistation",
+      "latitude": 55.702559,
+      "longitude": 12.550308
+    },
+    {
+      "name": "Nærstation Brønderslev",
+      "latitude": 57.27228,
+      "longitude": 9.94291
+    },
+    {
+      "name": "Nærstation Vesthimmerland",
+      "latitude": 56.802824,
+      "longitude": 9.502563
+    },
+    {
+      "name": "Næstved Lokalpoliti",
+      "latitude": 55.214503,
+      "longitude": 11.76048
+    },
+    {
+      "name": "Nørre Snede Landpoliti",
+      "latitude": 55.968792,
+      "longitude": 9.385723
+    },
+    {
+      "name": "Oksbøl Landpoliti",
+      "latitude": 55.626671,
+      "longitude": 8.290448
+    },
+    {
+      "name": "Politibutik Nyborg",
+      "latitude": 55.305604,
+      "longitude": 10.816849
+    },
+    {
+      "name": "Politicenter Aalborg Lufthavn",
+      "latitude": 57.085111,
+      "longitude": 9.873503
+    },
+    {
+      "name": "Randers Politistation",
+      "latitude": 56.463358,
+      "longitude": 10.04138
+    },
+    {
+      "name": "Ribe Politistation",
+      "latitude": 55.32824,
+      "longitude": 8.769944
+    },
+    {
+      "name": "Rigspolitiet",
+      "latitude": 55.67027,
+      "longitude": 12.570044
+    },
+    {
+      "name": "Ringsted Lokalstation",
+      "latitude": 55.442789,
+      "longitude": 11.790508
+    },
+    {
+      "name": "Roskilde Hovedpolitistation",
+      "latitude": 55.637083,
+      "longitude": 12.077453
+    },
+    {
+      "name": "Ry Lokalpoliti",
+      "latitude": 56.091698,
+      "longitude": 9.756944
+    },
+    {
+      "name": "Rødding Landpoliti",
+      "latitude": 55.365737,
+      "longitude": 9.063315
+    },
+    {
+      "name": "Rømø Landpoliti",
+      "latitude": 55.14385,
+      "longitude": 8.545269
+    },
+    {
+      "name": "Sakskøbing Nærpoliti",
+      "latitude": 54.798808,
+      "longitude": 11.635829
+    },
+    {
+      "name": "Samsø Politi",
+      "latitude": 55.834773,
+      "longitude": 10.584092
+    },
+    {
+      "name": "Silkeborg Lokalstation",
+      "latitude": 56.188569,
+      "longitude": 9.560679
+    },
+    {
+      "name": "Skanderborg Politistation",
+      "latitude": 56.050049,
+      "longitude": 9.962646
+    },
+    {
+      "name": "Skive Lokalstation",
+      "latitude": 56.570209,
+      "longitude": 9.030167
+    },
+    {
+      "name": "Skjern Nærstation",
+      "latitude": 55.947523,
+      "longitude": 8.496238
+    },
+    {
+      "name": "Skælskør Lokalpoliti",
+      "latitude": 55.25432,
+      "longitude": 11.287289
+    },
+    {
+      "name": "Skælskør Politiekspedition",
+      "latitude": 55.25441,
+      "longitude": 11.291101
+    },
+    {
+      "name": "Skærbæk Politiekspedition",
+      "latitude": 55.158058,
+      "longitude": 8.760336
+    },
+    {
+      "name": "Slagelse Lokalpoliti",
+      "latitude": 55.393606,
+      "longitude": 11.352288
+    },
+    {
+      "name": "Sorø Nærpoliti",
+      "latitude": 55.435257,
+      "longitude": 11.561367
+    },
+    {
+      "name": "Station Midt",
+      "latitude": 55.929341,
+      "longitude": 12.305487
+    },
+    {
+      "name": "Station Nord",
+      "latitude": 56.019182,
+      "longitude": 12.573298
+    },
+    {
+      "name": "Station Syd",
+      "latitude": 55.758562,
+      "longitude": 12.520154
+    },
+    {
+      "name": "Station Vest",
+      "latitude": 55.843212,
+      "longitude": 12.065136
+    },
+    {
+      "name": "Store Heddinge Politiekspedition",
+      "latitude": 55.312112,
+      "longitude": 12.386798
+    },
+    {
+      "name": "Struer Nærstation",
+      "latitude": 56.491086,
+      "longitude": 8.597918
+    },
+    {
+      "name": "Svendborg Lokalpolitistation",
+      "latitude": 55.067457,
+      "longitude": 10.616211
+    },
+    {
+      "name": "Syd og Sønderjyllands Politi, Rømø Landpoliti",
+      "latitude": 55.144021,
+      "longitude": 8.545456
+    },
+    {
+      "name": "Sønderborg Politistation",
+      "latitude": 54.906292,
+      "longitude": 9.800525
+    },
+    {
+      "name": "Thisted Lokalstation",
+      "latitude": 56.963933,
+      "longitude": 8.706052
+    },
+    {
+      "name": "Toftlund Nærpoliti",
+      "latitude": 55.192091,
+      "longitude": 9.063925
+    },
+    {
+      "name": "Tårnby nærpolitistation",
+      "latitude": 55.632782,
+      "longitude": 12.623632
+    },
+    {
+      "name": "Tønder Beredskabsstation",
+      "latitude": 54.9377,
+      "longitude": 8.871807
+    },
+    {
+      "name": "Udlændingekontrolafdeling Vest",
+      "latitude": 54.828222,
+      "longitude": 9.346487
+    },
+    {
+      "name": "Varde Beredskabsstation",
+      "latitude": 55.623904,
+      "longitude": 8.480508
+    },
+    {
+      "name": "Vejen Beredskabsstation",
+      "latitude": 55.476592,
+      "longitude": 9.135701
+    },
+    {
+      "name": "Vejle Politistation",
+      "latitude": 55.711489,
+      "longitude": 9.526533
+    },
+    {
+      "name": "Viborg Lokalstation",
+      "latitude": 56.454665,
+      "longitude": 9.405695
+    },
+    {
+      "name": "Vojens Politiekspedition",
+      "latitude": 55.246424,
+      "longitude": 9.29135
+    },
+    {
+      "name": "Vollsmose Nærpolitistation",
+      "latitude": 55.40654,
+      "longitude": 10.440256
+    },
+    {
+      "name": "Vordingborg Lokalpoliti",
+      "latitude": 55.012136,
+      "longitude": 11.917298
+    },
+    {
+      "name": "Ærø Politibutik",
+      "latitude": 54.892764,
+      "longitude": 10.406133
+    }
+  ],
+  "meta": {
+    "title": "Politistationer i Danmark – OpenStreetMap (Police stations in Denmark, OSM) - Gratis download",
+    "description": "Liste over 144 politistationer i Danmark fra OpenStreetMap (amenity=police) — navn og koordinater (WGS84). Indeholder 144 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Politistationer i Danmark – OpenStreetMap (Police stations in Denmark, OSM) | ListBase",
+    "seo_description": "Download Politistationer i Danmark – OpenStreetMap (Police stations in Denmark, OSM) — 144 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 144 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

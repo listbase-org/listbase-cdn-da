@@ -1,0 +1,736 @@
+{
+  "id": "da-iata-icao-lufthavne",
+  "name": "IATA/ICAO-koder for lufthavne i Danmark, Grønland og Færøerne",
+  "title": "IATA/ICAO-koder for lufthavne i Danmark, Grønland og Færøerne",
+  "description": "Liste over lufthavne i Danmark, Grønland og Færøerne med IATA- (3 tegn) og ICAO-koder (4 tegn) ifølge IP2Location-databasen.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "airport",
+      "label": "Airport",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country_code": "DK",
+      "region_name": "Hovedstaden",
+      "iata": "CPH",
+      "icao": "EKCH",
+      "airport": "Copenhagen Airport",
+      "latitude": 55.6179,
+      "longitude": 12.656
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Hovedstaden",
+      "iata": "RNN",
+      "icao": "EKRN",
+      "airport": "Bornholm Airport",
+      "latitude": 55.0633,
+      "longitude": 14.7596
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Midtjylland",
+      "iata": "AAR",
+      "icao": "EKAH",
+      "airport": "Aarhus Airport",
+      "latitude": 56.3,
+      "longitude": 10.619
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Midtjylland",
+      "iata": "KRP",
+      "icao": "EKKA",
+      "airport": "Karup Airport",
+      "latitude": 56.2975,
+      "longitude": 9.12463
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Midtjylland",
+      "iata": "SQW",
+      "icao": "EKSV",
+      "airport": "Skive Airport",
+      "latitude": 56.5502,
+      "longitude": 9.17298
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Midtjylland",
+      "iata": "STA",
+      "icao": "EKVJ",
+      "airport": "Stauning Vestjylland Airport",
+      "latitude": 55.9901,
+      "longitude": 8.35391
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Nordjylland",
+      "iata": "AAL",
+      "icao": "EKYT",
+      "airport": "Aalborg Airport",
+      "latitude": 57.0928,
+      "longitude": 9.84924
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Nordjylland",
+      "iata": "BYR",
+      "icao": "EKLS",
+      "airport": "Laesoe Airport",
+      "latitude": 57.2772,
+      "longitude": 11.0001
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Nordjylland",
+      "iata": "CNL",
+      "icao": "EKSN",
+      "airport": "Sindal Airport",
+      "latitude": 57.5035,
+      "longitude": 10.2294
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Nordjylland",
+      "iata": "TED",
+      "icao": "EKTS",
+      "airport": "Thisted Airport",
+      "latitude": 57.0688,
+      "longitude": 8.70522
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Sjaelland",
+      "iata": "MRW",
+      "icao": "EKMB",
+      "airport": "Lolland Falster Airport",
+      "latitude": 54.6993,
+      "longitude": 11.4401
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Sjaelland",
+      "iata": "RKE",
+      "icao": "EKRK",
+      "airport": "Roskilde Airport",
+      "latitude": 55.5856,
+      "longitude": 12.1314
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Syddanmark",
+      "iata": "BLL",
+      "icao": "EKBI",
+      "airport": "Billund Airport",
+      "latitude": 55.7403,
+      "longitude": 9.15178
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Syddanmark",
+      "iata": "EBJ",
+      "icao": "EKEB",
+      "airport": "Esbjerg Airport",
+      "latitude": 55.5259,
+      "longitude": 8.5534
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Syddanmark",
+      "iata": "ODE",
+      "icao": "EKOD",
+      "airport": "Hans Christian Andersen Airport",
+      "latitude": 55.4767,
+      "longitude": 10.3309
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Syddanmark",
+      "iata": "SGD",
+      "icao": "EKSB",
+      "airport": "Sonderborg Airport",
+      "latitude": 54.9644,
+      "longitude": 9.79173
+    },
+    {
+      "country_code": "DK",
+      "region_name": "Syddanmark",
+      "iata": "SKS",
+      "icao": "EKSP",
+      "airport": "Vojens Airport (Skrydstrup Airport)",
+      "latitude": 55.221,
+      "longitude": 9.26702
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "AOQ",
+      "icao": "",
+      "airport": "Aappilattoq Heliport",
+      "latitude": 72.887,
+      "longitude": -55.5961
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "IKE",
+      "icao": "",
+      "airport": "Ikerasak Heliport",
+      "latitude": 70.4981,
+      "longitude": -51.3031
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "IUI",
+      "icao": "",
+      "airport": "Innarsuit Heliport",
+      "latitude": 73.2023,
+      "longitude": -56.0113
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "JAV",
+      "icao": "BGJN",
+      "airport": "Ilulissat Airport",
+      "latitude": 69.2432,
+      "longitude": -51.0571
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "JGO",
+      "icao": "",
+      "airport": "Qeqertarsuaq Heliport",
+      "latitude": 69.2511,
+      "longitude": -53.5153
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "JQA",
+      "icao": "BGUQ",
+      "airport": "Qaarsut Airport (Uummannaq/Qaarsut Airport)",
+      "latitude": 70.7342,
+      "longitude": -52.6962
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "JUK",
+      "icao": "",
+      "airport": "Ukussissat Heliport",
+      "latitude": 71.0512,
+      "longitude": -51.8842
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "JUV",
+      "icao": "BGUK",
+      "airport": "Upernavik Airport",
+      "latitude": 72.7902,
+      "longitude": -56.1306
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "KGQ",
+      "icao": "",
+      "airport": "Kangersuatsiaq Heliport",
+      "latitude": 72.3811,
+      "longitude": -55.5363
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "KHQ",
+      "icao": "",
+      "airport": "Kullorsuaq Heliport",
+      "latitude": 74.5791,
+      "longitude": -57.2351
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "NAQ",
+      "icao": "BGQQ",
+      "airport": "Qaanaaq Airport",
+      "latitude": 77.4886,
+      "longitude": -69.3887
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "NIQ",
+      "icao": "",
+      "airport": "Niaqornat Heliport",
+      "latitude": 70.7896,
+      "longitude": -53.6562
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "NSQ",
+      "icao": "",
+      "airport": "Nussuaq Heliport",
+      "latitude": 74.1095,
+      "longitude": -57.0644
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "PQT",
+      "icao": "",
+      "airport": "Qeqertaq Heliport",
+      "latitude": 69.9994,
+      "longitude": -51.3039
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "QUP",
+      "icao": "",
+      "airport": "Saqqaq Heliport",
+      "latitude": 70.0115,
+      "longitude": -51.9322
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "SAE",
+      "icao": "",
+      "airport": "Saattut Keliport",
+      "latitude": 70.8071,
+      "longitude": -51.6303
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "SRK",
+      "icao": "",
+      "airport": "Siorapaluk Heliport",
+      "latitude": 77.7864,
+      "longitude": -70.6384
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "SVR",
+      "icao": "",
+      "airport": "Savissivik Heliport",
+      "latitude": 76.018,
+      "longitude": -65.1176
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "THU",
+      "icao": "BGTL",
+      "airport": "Pituffik Space Base",
+      "latitude": 76.5312,
+      "longitude": -68.7032
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "TQA",
+      "icao": "",
+      "airport": "Tasiusaq Heliport",
+      "latitude": 73.3735,
+      "longitude": -56.062
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "UMD",
+      "icao": "BGUM",
+      "airport": "Uummannaq Heliport",
+      "latitude": 70.6804,
+      "longitude": -52.1116
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "UPK",
+      "icao": "",
+      "airport": "Upernavik Kujalleq Heliport",
+      "latitude": 72.1527,
+      "longitude": -55.531
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Avannaata Kommunia",
+      "iata": "XIQ",
+      "icao": "",
+      "airport": "Ilimanaq Heliport",
+      "latitude": 69.0822,
+      "longitude": -51.1088
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Kujalleq",
+      "iata": "JJU",
+      "icao": "",
+      "airport": "Mittarfik Qaqortoq Heliport",
+      "latitude": 60.7156,
+      "longitude": -46.0299
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Kujalleq",
+      "iata": "JNN",
+      "icao": "",
+      "airport": "Nanortalik Heliport",
+      "latitude": 60.1418,
+      "longitude": -45.233
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Kujalleq",
+      "iata": "JNS",
+      "icao": "",
+      "airport": "Narsaq Heliport",
+      "latitude": 60.9172,
+      "longitude": -46.06
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Kujalleq",
+      "iata": "LLU",
+      "icao": "",
+      "airport": "Alluitsup Paa Heliport",
+      "latitude": 60.4645,
+      "longitude": -45.5691
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Kujalleq",
+      "iata": "QFN",
+      "icao": "",
+      "airport": "Narsaq Kujalleq Narsarmijit Heliport",
+      "latitude": 60.0051,
+      "longitude": -44.6579
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Kujalleq",
+      "iata": "QUV",
+      "icao": "",
+      "airport": "Aappilattoq-Nanortaliq Heliport",
+      "latitude": 60.1483,
+      "longitude": -44.2869
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Kujalleq",
+      "iata": "QUW",
+      "icao": "",
+      "airport": "Ammassivik Heliport",
+      "latitude": 60.5953,
+      "longitude": -45.382
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Kujalleq",
+      "iata": "UAK",
+      "icao": "BGBW",
+      "airport": "Narsarsuaq Airport",
+      "latitude": 61.1605,
+      "longitude": -45.426
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Kujalleq",
+      "iata": "XEQ",
+      "icao": "",
+      "airport": "Tasiusaq Heliport",
+      "latitude": 60.1937,
+      "longitude": -44.8115
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Qeqertalik",
+      "iata": "JCH",
+      "icao": "BGCH",
+      "airport": "Qasigiannguit Heliport",
+      "latitude": 68.8228,
+      "longitude": -51.1734
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Qeqertalik",
+      "iata": "JEG",
+      "icao": "BGAA",
+      "airport": "Aasiaat Airport",
+      "latitude": 68.7218,
+      "longitude": -52.7847
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Qeqertalik",
+      "iata": "QCU",
+      "icao": "",
+      "airport": "Akunnaaq Heliport",
+      "latitude": 68.7441,
+      "longitude": -52.329
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Qeqertalik",
+      "iata": "QFI",
+      "icao": "",
+      "airport": "Iginniarfik Heliport",
+      "latitude": 68.1458,
+      "longitude": -53.1692
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Qeqertalik",
+      "iata": "QGQ",
+      "icao": "",
+      "airport": "Attu Heliport",
+      "latitude": 67.943,
+      "longitude": -53.6223
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Qeqertalik",
+      "iata": "QJE",
+      "icao": "",
+      "airport": "Kitsissuarsuit Heliport",
+      "latitude": 68.8558,
+      "longitude": -53.1185
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Qeqertalik",
+      "iata": "QJI",
+      "icao": "",
+      "airport": "Ikamiut Heliport",
+      "latitude": 68.6321,
+      "longitude": -51.8337
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Qeqertalik",
+      "iata": "QMK",
+      "icao": "",
+      "airport": "Niaqornaarsuk Heliport",
+      "latitude": 68.2342,
+      "longitude": -52.8546
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Qeqertalik",
+      "iata": "QPW",
+      "icao": "",
+      "airport": "Kangaatsiaq Heliport",
+      "latitude": 68.3079,
+      "longitude": -53.4592
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommune Qeqertalik",
+      "iata": "QRY",
+      "icao": "",
+      "airport": "Ikerasaarsuk Heliport",
+      "latitude": 68.1409,
+      "longitude": -53.4414
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommunegarfik Sermersooq",
+      "iata": "AGM",
+      "icao": "",
+      "airport": "Tasiilaq Heliport",
+      "latitude": 65.6122,
+      "longitude": -37.6184
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommuneqarfik Sermersooq",
+      "iata": "CNP",
+      "icao": "BGCO",
+      "airport": "Nerlerit Inaat Airport",
+      "latitude": 70.7431,
+      "longitude": -22.6505
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommuneqarfik Sermersooq",
+      "iata": "GOH",
+      "icao": "BGGH",
+      "airport": "Nuuk Airport",
+      "latitude": 64.1909,
+      "longitude": -51.6781
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommuneqarfik Sermersooq",
+      "iata": "IOQ",
+      "icao": "",
+      "airport": "Isortoq Heliport",
+      "latitude": 65.5465,
+      "longitude": -38.9778
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommuneqarfik Sermersooq",
+      "iata": "JFR",
+      "icao": "BGPT",
+      "airport": "Paamiut Airport",
+      "latitude": 62.0147,
+      "longitude": -49.6709
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommuneqarfik Sermersooq",
+      "iata": "JRK",
+      "icao": "",
+      "airport": "Arsuk Heliport",
+      "latitude": 61.1768,
+      "longitude": -48.4198
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommuneqarfik Sermersooq",
+      "iata": "KUS",
+      "icao": "BGKK",
+      "airport": "Kulusuk Airport",
+      "latitude": 65.5736,
+      "longitude": -37.1236
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommuneqarfik Sermersooq",
+      "iata": "KUZ",
+      "icao": "",
+      "airport": "Kuummiit Heliport",
+      "latitude": 65.8638,
+      "longitude": -36.9954
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommuneqarfik Sermersooq",
+      "iata": "OBY",
+      "icao": "",
+      "airport": "Ittoqqortoormiit Heliport",
+      "latitude": 70.4881,
+      "longitude": -21.9716
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommuneqarfik Sermersooq",
+      "iata": "SGG",
+      "icao": "",
+      "airport": "Sermiligaaq Heliport",
+      "latitude": 65.9059,
+      "longitude": -36.3781
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Kommuneqarfik Sermersooq",
+      "iata": "TQI",
+      "icao": "",
+      "airport": "Tiniteqilaaq Heliport",
+      "latitude": 65.892,
+      "longitude": -37.7833
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Qeqqata Kommunia",
+      "iata": "JHS",
+      "icao": "BGSS",
+      "airport": "Sisimiut Airport",
+      "latitude": 66.9513,
+      "longitude": -53.7293
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Qeqqata Kommunia",
+      "iata": "JSU",
+      "icao": "BGMQ",
+      "airport": "Maniitsoq Airport",
+      "latitude": 65.4125,
+      "longitude": -52.9394
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Qeqqata Kommunia",
+      "iata": "QJG",
+      "icao": "",
+      "airport": "Itilleq Heliport",
+      "latitude": 66.5791,
+      "longitude": -53.5014
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Qeqqata Kommunia",
+      "iata": "SFJ",
+      "icao": "BGSF",
+      "airport": "Kangerlussuaq Airport",
+      "latitude": 67.0122,
+      "longitude": -50.7116
+    },
+    {
+      "country_code": "GL",
+      "region_name": "Qeqqata Kommunia",
+      "iata": "SZC",
+      "icao": "",
+      "airport": "Sarfannguit Heliport",
+      "latitude": 66.8964,
+      "longitude": -52.8657
+    }
+  ],
+  "meta": {
+    "title": "IATA/ICAO-koder for lufthavne i Danmark, Grønland og Færøerne - Gratis download",
+    "description": "Liste over lufthavne i Danmark, Grønland og Færøerne med IATA- (3 tegn) og ICAO-koder (4 tegn) ifølge IP2Location-databasen. Indeholder 75 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "IATA/ICAO-koder for lufthavne i Danmark, Grønland og Færøerne | ListBase",
+    "seo_description": "Download IATA/ICAO-koder for lufthavne i Danmark, Grønland og Færøerne — 75 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 75 poster / 7 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

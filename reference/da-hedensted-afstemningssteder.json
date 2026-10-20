@@ -1,0 +1,248 @@
+{
+  "id": "da-hedensted-afstemningssteder",
+  "name": "Afstemningssteder i Hedensted Kommune",
+  "title": "Afstemningssteder i Hedensted Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Hedensted Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Hedensted, St.Dalby Og Urlev",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Løsning Sogn",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Ø. Snede Sogn",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Daugård Og Ørum Sogne",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Korning Sogn",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Ølsted Og Eriknauer-Området",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Juelsminde/Klakring",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "As",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Barrit",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Bjerre",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Hornsyld",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Stouby",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Rårup",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Glud",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Hjarnø",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Rask Mølle",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Hvirring",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Hornborg",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Lindved",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Tørring",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Uldum",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Aale",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Ølholm",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Hjortsvang",
+      "kommune_kode": 766,
+      "kommune": "Hedensted",
+      "opstillingskreds_nummer": 72,
+      "opstillingskreds": "Hedensted"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Hedensted Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Hedensted Kommune med opstillingskreds. Indeholder 24 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Hedensted Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Hedensted Kommune — 24 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 24 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

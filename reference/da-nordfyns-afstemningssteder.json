@@ -1,0 +1,160 @@
+{
+  "id": "da-nordfyns-afstemningssteder",
+  "name": "Afstemningssteder i Nordfyns Kommune",
+  "title": "Afstemningssteder i Nordfyns Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Nordfyns Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Bogense",
+      "kommune_kode": 480,
+      "kommune": "Nordfyns",
+      "opstillingskreds_nummer": 45,
+      "opstillingskreds": "Middelfart"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Klinte",
+      "kommune_kode": 480,
+      "kommune": "Nordfyns",
+      "opstillingskreds_nummer": 45,
+      "opstillingskreds": "Middelfart"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Kongslund",
+      "kommune_kode": 480,
+      "kommune": "Nordfyns",
+      "opstillingskreds_nummer": 45,
+      "opstillingskreds": "Middelfart"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Horsebæk",
+      "kommune_kode": 480,
+      "kommune": "Nordfyns",
+      "opstillingskreds_nummer": 45,
+      "opstillingskreds": "Middelfart"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Krogsbølle",
+      "kommune_kode": 480,
+      "kommune": "Nordfyns",
+      "opstillingskreds_nummer": 45,
+      "opstillingskreds": "Middelfart"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Otterup",
+      "kommune_kode": 480,
+      "kommune": "Nordfyns",
+      "opstillingskreds_nummer": 45,
+      "opstillingskreds": "Middelfart"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Løkkemark",
+      "kommune_kode": 480,
+      "kommune": "Nordfyns",
+      "opstillingskreds_nummer": 45,
+      "opstillingskreds": "Middelfart"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Skovløkke",
+      "kommune_kode": 480,
+      "kommune": "Nordfyns",
+      "opstillingskreds_nummer": 45,
+      "opstillingskreds": "Middelfart"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Veflinge",
+      "kommune_kode": 480,
+      "kommune": "Nordfyns",
+      "opstillingskreds_nummer": 45,
+      "opstillingskreds": "Middelfart"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Hårslev",
+      "kommune_kode": 480,
+      "kommune": "Nordfyns",
+      "opstillingskreds_nummer": 45,
+      "opstillingskreds": "Middelfart"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Morud",
+      "kommune_kode": 480,
+      "kommune": "Nordfyns",
+      "opstillingskreds_nummer": 45,
+      "opstillingskreds": "Middelfart"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Særslev",
+      "kommune_kode": 480,
+      "kommune": "Nordfyns",
+      "opstillingskreds_nummer": 45,
+      "opstillingskreds": "Middelfart"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Søndersø",
+      "kommune_kode": 480,
+      "kommune": "Nordfyns",
+      "opstillingskreds_nummer": 45,
+      "opstillingskreds": "Middelfart"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Nordfyns Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Nordfyns Kommune med opstillingskreds. Indeholder 13 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Nordfyns Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Nordfyns Kommune — 13 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 13 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

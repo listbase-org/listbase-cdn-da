@@ -1,0 +1,96 @@
+{
+  "id": "da-halsnaes-afstemningssteder",
+  "name": "Afstemningssteder i Halsnæs Kommune",
+  "title": "Afstemningssteder i Halsnæs Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Halsnæs Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Hundested Hallen",
+      "kommune_kode": 260,
+      "kommune": "Halsnæs",
+      "opstillingskreds_nummer": 24,
+      "opstillingskreds": "Frederikssund"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Enghave Hallen",
+      "kommune_kode": 260,
+      "kommune": "Halsnæs",
+      "opstillingskreds_nummer": 24,
+      "opstillingskreds": "Frederikssund"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Rådhuset",
+      "kommune_kode": 260,
+      "kommune": "Halsnæs",
+      "opstillingskreds_nummer": 24,
+      "opstillingskreds": "Frederikssund"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Ølsted Hallen",
+      "kommune_kode": 260,
+      "kommune": "Halsnæs",
+      "opstillingskreds_nummer": 24,
+      "opstillingskreds": "Frederikssund"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Melby Hallen",
+      "kommune_kode": 260,
+      "kommune": "Halsnæs",
+      "opstillingskreds_nummer": 24,
+      "opstillingskreds": "Frederikssund"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Halsnæs Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Halsnæs Kommune med opstillingskreds. Indeholder 5 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Halsnæs Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Halsnæs Kommune — 5 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 5 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

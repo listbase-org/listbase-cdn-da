@@ -1,0 +1,216 @@
+{
+  "id": "da-jammerbugt-afstemningssteder",
+  "name": "Afstemningssteder i Jammerbugt Kommune",
+  "title": "Afstemningssteder i Jammerbugt Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Jammerbugt Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Aabybro",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Biersted",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Nørhalne",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Vedsted",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Gjøl",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Ingstrup",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "V. Hjermitslev",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Brovst",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Halvrimmen",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Arentsminde",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Tranum",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Skovsgård",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Fjerritslev",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Thorup",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Ørebro",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Trekroner",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Pandrup",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Kaas",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Hune",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Saltum",
+      "kommune_kode": 849,
+      "kommune": "Jammerbugt",
+      "opstillingskreds_nummer": 86,
+      "opstillingskreds": "Brønderslev"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Jammerbugt Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Jammerbugt Kommune med opstillingskreds. Indeholder 20 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Jammerbugt Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Jammerbugt Kommune — 20 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 20 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

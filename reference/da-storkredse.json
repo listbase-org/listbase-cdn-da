@@ -1,0 +1,166 @@
+{
+  "id": "da-storkredse",
+  "name": "Storkredse i Danmark",
+  "title": "Storkredse i Danmark",
+  "description": "10 storkredse (multi-member constituencies) til folketingsvalg per Folketingsvalgloven 2006. Aggregeret fra opstillingskreds-laget. Inkluderer landsdel- og region-link.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "landsdel_id",
+      "label": "Landsdel Id",
+      "type": "number"
+    },
+    {
+      "key": "landsdel_name",
+      "label": "Landsdel Name",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "num_opstillingskredse",
+      "label": "Num Opstillingskredse",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "1",
+      "name": "København",
+      "slug": "koebenhavn",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden",
+      "num_opstillingskredse": 12
+    },
+    {
+      "id": "2",
+      "name": "Københavns Omegn",
+      "slug": "koebenhavns-omegn",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden",
+      "num_opstillingskredse": 8
+    },
+    {
+      "id": "3",
+      "name": "Nordsjælland",
+      "slug": "nordsjaelland",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden",
+      "num_opstillingskredse": 6
+    },
+    {
+      "id": "4",
+      "name": "Bornholm",
+      "slug": "bornholm",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden",
+      "num_opstillingskredse": 2
+    },
+    {
+      "id": "5",
+      "name": "Sjælland",
+      "slug": "sjaelland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1085",
+      "region_name": "Region Sjælland",
+      "num_opstillingskredse": 12
+    },
+    {
+      "id": "6",
+      "name": "Fyn",
+      "slug": "fyn",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark",
+      "num_opstillingskredse": 8
+    },
+    {
+      "id": "7",
+      "name": "Sydjylland",
+      "slug": "sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark",
+      "num_opstillingskredse": 13
+    },
+    {
+      "id": "8",
+      "name": "Østjylland",
+      "slug": "oestjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland",
+      "num_opstillingskredse": 11
+    },
+    {
+      "id": "9",
+      "name": "Vestjylland",
+      "slug": "vestjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland",
+      "num_opstillingskredse": 11
+    },
+    {
+      "id": "10",
+      "name": "Nordjylland",
+      "slug": "nordjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland",
+      "num_opstillingskredse": 9
+    }
+  ],
+  "meta": {
+    "title": "Storkredse i Danmark - Gratis download",
+    "description": "10 storkredse (multi-member constituencies) til folketingsvalg per Folketingsvalgloven 2006. Aggregeret fra opstillingskreds-laget. Inkluderer landsdel- og region-link. Indeholder 10 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Storkredse i Danmark | ListBase",
+    "seo_description": "Download Storkredse i Danmark — 10 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 10 poster / 8 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

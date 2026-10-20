@@ -1,0 +1,851 @@
+{
+  "id": "da-dyrehandlere",
+  "name": "Dyrehandlere i Danmark (Pet shops in Denmark)",
+  "title": "Dyrehandlere i Danmark (Pet shops in Denmark)",
+  "description": "Pet shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=pet.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 162,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "4Benede venner",
+      "latitude": 55.667345,
+      "longitude": 12.597855
+    },
+    {
+      "name": "Akvarie / Dyrecenter West",
+      "latitude": 56.198119,
+      "longitude": 8.768621
+    },
+    {
+      "name": "Akvariebutikken Planteimporten",
+      "latitude": 55.669878,
+      "longitude": 12.548525
+    },
+    {
+      "name": "Aqua-living Room",
+      "latitude": 56.124943,
+      "longitude": 10.15659
+    },
+    {
+      "name": "Arnfred Madsen",
+      "latitude": 56.80571,
+      "longitude": 8.397438
+    },
+    {
+      "name": "Bonnie Dyrecenter",
+      "latitude": 55.31055,
+      "longitude": 10.791509
+    },
+    {
+      "name": "Bonnie Dyrecenter",
+      "latitude": 55.479576,
+      "longitude": 8.469846
+    },
+    {
+      "name": "Bonnie Dyrecenter",
+      "latitude": 55.689948,
+      "longitude": 12.555728
+    },
+    {
+      "name": "Bonnie Dyrecenter",
+      "latitude": 55.694362,
+      "longitude": 12.548251
+    },
+    {
+      "name": "Bonnie Dyrecenter",
+      "latitude": 55.699844,
+      "longitude": 12.577213
+    },
+    {
+      "name": "Bonnie Dyrecenter",
+      "latitude": 55.702164,
+      "longitude": 12.532859
+    },
+    {
+      "name": "Bonnie Dyrecenter",
+      "latitude": 55.814476,
+      "longitude": 12.3806
+    },
+    {
+      "name": "Brians Dyrecenter",
+      "latitude": 55.011804,
+      "longitude": 11.912296
+    },
+    {
+      "name": "Brogaarden",
+      "latitude": 55.876116,
+      "longitude": 12.47756
+    },
+    {
+      "name": "Brogaarden Butik Lynge",
+      "latitude": 55.825479,
+      "longitude": 12.304291
+    },
+    {
+      "name": "Butik Bellamaya",
+      "latitude": 55.947623,
+      "longitude": 8.494567
+    },
+    {
+      "name": "Byens Dyreklinik",
+      "latitude": 54.830538,
+      "longitude": 11.140434
+    },
+    {
+      "name": "Byens Poter",
+      "latitude": 57.049759,
+      "longitude": 9.911459
+    },
+    {
+      "name": "Dalum Dyrehandel",
+      "latitude": 55.371217,
+      "longitude": 10.371656
+    },
+    {
+      "name": "Danish Agro Shoppen",
+      "latitude": 55.346792,
+      "longitude": 10.412546
+    },
+    {
+      "name": "Dansk Websalg",
+      "latitude": 55.250978,
+      "longitude": 11.291802
+    },
+    {
+      "name": "Den Grønne Pote",
+      "latitude": 55.763435,
+      "longitude": 12.579047
+    },
+    {
+      "name": "Digogdyr.dk",
+      "latitude": 57.106868,
+      "longitude": 9.541674
+    },
+    {
+      "name": "dlg Land & fritid Hjørring",
+      "latitude": 57.443064,
+      "longitude": 10.018083
+    },
+    {
+      "name": "Dog In",
+      "latitude": 55.132698,
+      "longitude": 8.550412
+    },
+    {
+      "name": "Doxx Hundecenter",
+      "latitude": 55.544349,
+      "longitude": 9.340361
+    },
+    {
+      "name": "Dronninglund Dyrehandel",
+      "latitude": 57.162056,
+      "longitude": 10.297389
+    },
+    {
+      "name": "Dyr i Centrum",
+      "latitude": 55.643523,
+      "longitude": 12.108249
+    },
+    {
+      "name": "Dyrenes 1 og Alt",
+      "latitude": 56.181873,
+      "longitude": 10.117011
+    },
+    {
+      "name": "Dyrenes Butik",
+      "latitude": 54.938838,
+      "longitude": 10.717025
+    },
+    {
+      "name": "Dyrenes Kongerige",
+      "latitude": 56.311251,
+      "longitude": 9.171108
+    },
+    {
+      "name": "Dyrenes No 1.",
+      "latitude": 55.677535,
+      "longitude": 11.13315
+    },
+    {
+      "name": "DyreRiget",
+      "latitude": 55.620141,
+      "longitude": 12.164158
+    },
+    {
+      "name": "Dyrevennerne",
+      "latitude": 55.869716,
+      "longitude": 12.355265
+    },
+    {
+      "name": "DyreVerdenen",
+      "latitude": 55.415762,
+      "longitude": 12.139564
+    },
+    {
+      "name": "Foderland",
+      "latitude": 57.038499,
+      "longitude": 9.926004
+    },
+    {
+      "name": "Fru Poulsen",
+      "latitude": 55.67395,
+      "longitude": 12.538333
+    },
+    {
+      "name": "Gadekrydset",
+      "latitude": 55.636348,
+      "longitude": 12.642354
+    },
+    {
+      "name": "Grindsted Dyrehandel",
+      "latitude": 55.751659,
+      "longitude": 8.926556
+    },
+    {
+      "name": "Happy Horse Rideudstyr",
+      "latitude": 55.513799,
+      "longitude": 9.631627
+    },
+    {
+      "name": "Hegn Og Grovvarer",
+      "latitude": 56.39029,
+      "longitude": 8.802525
+    },
+    {
+      "name": "Hegnsgaard vild med dyr",
+      "latitude": 55.315377,
+      "longitude": 10.752943
+    },
+    {
+      "name": "Hestens helse",
+      "latitude": 56.206819,
+      "longitude": 10.068915
+    },
+    {
+      "name": "Hooked4pets.dk",
+      "latitude": 55.41095,
+      "longitude": 11.389806
+    },
+    {
+      "name": "Højlund Mølle",
+      "latitude": 55.274138,
+      "longitude": 10.108439
+    },
+    {
+      "name": "Hønsegården",
+      "latitude": 55.794357,
+      "longitude": 12.053279
+    },
+    {
+      "name": "Ibens Hundehus",
+      "latitude": 56.277009,
+      "longitude": 10.316337
+    },
+    {
+      "name": "J S Totalservice",
+      "latitude": 55.543246,
+      "longitude": 11.68838
+    },
+    {
+      "name": "Jekas",
+      "latitude": 57.097328,
+      "longitude": 9.520343
+    },
+    {
+      "name": "Kastrup Dyrecenter",
+      "latitude": 55.637853,
+      "longitude": 12.635233
+    },
+    {
+      "name": "KGS Tropefisk",
+      "latitude": 55.277455,
+      "longitude": 8.729837
+    },
+    {
+      "name": "Kæledyrsshoppen",
+      "latitude": 55.47875,
+      "longitude": 9.139166
+    },
+    {
+      "name": "L. Riisgaard",
+      "latitude": 56.617424,
+      "longitude": 9.506585
+    },
+    {
+      "name": "Lady & Vagabonden",
+      "latitude": 55.238065,
+      "longitude": 10.478972
+    },
+    {
+      "name": "Land og Fritid",
+      "latitude": 55.31961,
+      "longitude": 9.560059
+    },
+    {
+      "name": "Land og Fritid",
+      "latitude": 56.570534,
+      "longitude": 9.051218
+    },
+    {
+      "name": "Luksushund",
+      "latitude": 56.167245,
+      "longitude": 10.226551
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 54.759326,
+      "longitude": 11.852318
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 54.830594,
+      "longitude": 11.141574
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 54.921562,
+      "longitude": 9.809924
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.036139,
+      "longitude": 9.415246
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.061288,
+      "longitude": 10.58529
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.092978,
+      "longitude": 14.73039
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.254768,
+      "longitude": 11.795281
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.259671,
+      "longitude": 9.475387
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.308238,
+      "longitude": 10.806004
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.334869,
+      "longitude": 8.77266
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.387811,
+      "longitude": 11.326996
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.394147,
+      "longitude": 10.345574
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.395427,
+      "longitude": 10.367
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.453791,
+      "longitude": 11.789133
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.469011,
+      "longitude": 9.472433
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.477148,
+      "longitude": 12.185013
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.507952,
+      "longitude": 8.456792
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.508228,
+      "longitude": 9.765662
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.514029,
+      "longitude": 9.454351
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.568779,
+      "longitude": 9.718302
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.592864,
+      "longitude": 12.269178
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.597409,
+      "longitude": 12.327296
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.603479,
+      "longitude": 12.586133
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.623865,
+      "longitude": 12.388934
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.642323,
+      "longitude": 12.103696
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.647114,
+      "longitude": 12.135223
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.653647,
+      "longitude": 12.280987
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.654423,
+      "longitude": 12.488198
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.655238,
+      "longitude": 12.394719
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.663093,
+      "longitude": 12.377583
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.666997,
+      "longitude": 12.414966
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.671303,
+      "longitude": 12.501051
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.676651,
+      "longitude": 11.137849
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.703846,
+      "longitude": 11.672974
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.706219,
+      "longitude": 9.529801
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.709381,
+      "longitude": 12.577876
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.724651,
+      "longitude": 12.420396
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.75471,
+      "longitude": 12.519086
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.816213,
+      "longitude": 12.374847
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.844383,
+      "longitude": 12.075693
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.854453,
+      "longitude": 9.851658
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.888142,
+      "longitude": 12.497528
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 55.932572,
+      "longitude": 12.281291
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.020694,
+      "longitude": 12.569883
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.086458,
+      "longitude": 8.271241
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.115838,
+      "longitude": 10.153339
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.134012,
+      "longitude": 8.99963
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.156048,
+      "longitude": 10.182293
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.180144,
+      "longitude": 10.097939
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.185591,
+      "longitude": 9.545567
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.20138,
+      "longitude": 10.244001
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.202067,
+      "longitude": 10.183006
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.211412,
+      "longitude": 10.278756
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.375586,
+      "longitude": 8.616836
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.37739,
+      "longitude": 8.62045
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.428162,
+      "longitude": 10.059669
+    },
+    {
+      "name": "Maxi ZOO",
+      "latitude": 56.446136,
+      "longitude": 9.366794
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.48383,
+      "longitude": 10.025625
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.569853,
+      "longitude": 9.004608
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.797958,
+      "longitude": 9.505452
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 56.960805,
+      "longitude": 8.716019
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 57.001231,
+      "longitude": 9.870533
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 57.08891,
+      "longitude": 9.977027
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 57.264283,
+      "longitude": 9.948686
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 57.444675,
+      "longitude": 10.500038
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 57.445126,
+      "longitude": 10.495154
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 57.454948,
+      "longitude": 10.016925
+    },
+    {
+      "name": "Maxi Zoo",
+      "latitude": 57.455437,
+      "longitude": 9.994741
+    },
+    {
+      "name": "Maxi Zoo Herlev BIG",
+      "latitude": 55.717808,
+      "longitude": 12.450087
+    },
+    {
+      "name": "Maxi Zoo Søborg",
+      "latitude": 55.747705,
+      "longitude": 12.481039
+    },
+    {
+      "name": "Maxi Zoo XXL",
+      "latitude": 55.381393,
+      "longitude": 10.425303
+    },
+    {
+      "name": "Maxsø Dyrefoder & Grovvarecenter",
+      "latitude": 55.694476,
+      "longitude": 12.434733
+    },
+    {
+      "name": "Maxsøe",
+      "latitude": 55.694878,
+      "longitude": 12.434035
+    },
+    {
+      "name": "Mini Zoo",
+      "latitude": 55.723523,
+      "longitude": 12.440161
+    },
+    {
+      "name": "MiniZoo",
+      "latitude": 55.630414,
+      "longitude": 12.601284
+    },
+    {
+      "name": "MiniZoo",
+      "latitude": 55.687627,
+      "longitude": 12.491779
+    },
+    {
+      "name": "MiniZoo Hunter Valby",
+      "latitude": 55.664446,
+      "longitude": 12.512358
+    },
+    {
+      "name": "Natural Dog Food",
+      "latitude": 55.656614,
+      "longitude": 12.537867
+    },
+    {
+      "name": "Naturligt Dyrefoder",
+      "latitude": 56.27768,
+      "longitude": 10.317552
+    },
+    {
+      "name": "Neonfisken",
+      "latitude": 55.707441,
+      "longitude": 12.485582
+    },
+    {
+      "name": "Nordic Reef Akvarieforretning",
+      "latitude": 56.140151,
+      "longitude": 10.111269
+    },
+    {
+      "name": "NPG Brands",
+      "latitude": 56.252556,
+      "longitude": 10.301607
+    },
+    {
+      "name": "Ofelia",
+      "latitude": 55.387314,
+      "longitude": 10.246006
+    },
+    {
+      "name": "Pethavn",
+      "latitude": 55.665678,
+      "longitude": 12.628432
+    },
+    {
+      "name": "Petlux",
+      "latitude": 55.683543,
+      "longitude": 12.546532
+    },
+    {
+      "name": "Petlux",
+      "latitude": 55.702776,
+      "longitude": 12.577691
+    },
+    {
+      "name": "Petlux",
+      "latitude": 55.71599,
+      "longitude": 12.428266
+    },
+    {
+      "name": "Petlux",
+      "latitude": 55.740628,
+      "longitude": 12.578175
+    },
+    {
+      "name": "Petpower",
+      "latitude": 55.252287,
+      "longitude": 9.501909
+    },
+    {
+      "name": "Pitó",
+      "latitude": 56.300002,
+      "longitude": 10.479812
+    },
+    {
+      "name": "Pitó",
+      "latitude": 56.414671,
+      "longitude": 10.877914
+    },
+    {
+      "name": "Reptilhuset",
+      "latitude": 56.22826,
+      "longitude": 8.730733
+    },
+    {
+      "name": "Roskilde Hundepension",
+      "latitude": 55.635286,
+      "longitude": 11.958798
+    },
+    {
+      "name": "SP Foder og Energilageret",
+      "latitude": 55.960103,
+      "longitude": 9.759473
+    },
+    {
+      "name": "Styr På Dyr",
+      "latitude": 57.00162,
+      "longitude": 9.872434
+    },
+    {
+      "name": "Sund Hund",
+      "latitude": 55.140785,
+      "longitude": 15.012037
+    },
+    {
+      "name": "Sø Pet",
+      "latitude": 55.07055,
+      "longitude": 10.630377
+    },
+    {
+      "name": "TheDogHouse",
+      "latitude": 56.127919,
+      "longitude": 10.161907
+    },
+    {
+      "name": "Tjæreborg Handel og Service",
+      "latitude": 55.494244,
+      "longitude": 8.579728
+    },
+    {
+      "name": "Tropeland",
+      "latitude": 56.033977,
+      "longitude": 9.930488
+    },
+    {
+      "name": "Vejgaard Dyrehandel",
+      "latitude": 57.040313,
+      "longitude": 9.951856
+    },
+    {
+      "name": "Vejle Dyrecenter",
+      "latitude": 55.706306,
+      "longitude": 9.533515
+    },
+    {
+      "name": "Zoo Center Værløse",
+      "latitude": 55.784543,
+      "longitude": 12.372805
+    },
+    {
+      "name": "Zooniverse",
+      "latitude": 55.833179,
+      "longitude": 11.505201
+    },
+    {
+      "name": "Øse Hundepension",
+      "latitude": 55.648085,
+      "longitude": 8.629161
+    }
+  ],
+  "meta": {
+    "title": "Dyrehandlere i Danmark (Pet shops in Denmark) - Gratis download",
+    "description": "Pet shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=pet. Indeholder 162 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Dyrehandlere i Danmark (Pet shops in Denmark) | ListBase",
+    "seo_description": "Download Dyrehandlere i Danmark (Pet shops in Denmark) — 162 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 162 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

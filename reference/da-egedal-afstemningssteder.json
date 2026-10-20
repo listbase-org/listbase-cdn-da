@@ -1,0 +1,136 @@
+{
+  "id": "da-egedal-afstemningssteder",
+  "name": "Afstemningssteder i Egedal Kommune",
+  "title": "Afstemningssteder i Egedal Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Egedal Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Ledøje Forsamlingshus",
+      "kommune_kode": 240,
+      "kommune": "Egedal",
+      "opstillingskreds_nummer": 25,
+      "opstillingskreds": "Egedal"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Ledøje-Smørum Idrætscenter",
+      "kommune_kode": 240,
+      "kommune": "Egedal",
+      "opstillingskreds_nummer": 25,
+      "opstillingskreds": "Egedal"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Stenløse",
+      "kommune_kode": 240,
+      "kommune": "Egedal",
+      "opstillingskreds_nummer": 25,
+      "opstillingskreds": "Egedal"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Veksø",
+      "kommune_kode": 240,
+      "kommune": "Egedal",
+      "opstillingskreds_nummer": 25,
+      "opstillingskreds": "Egedal"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Ganløse",
+      "kommune_kode": 240,
+      "kommune": "Egedal",
+      "opstillingskreds_nummer": 25,
+      "opstillingskreds": "Egedal"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Slagslunde",
+      "kommune_kode": 240,
+      "kommune": "Egedal",
+      "opstillingskreds_nummer": 25,
+      "opstillingskreds": "Egedal"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Toftehøjskolen",
+      "kommune_kode": 240,
+      "kommune": "Egedal",
+      "opstillingskreds_nummer": 25,
+      "opstillingskreds": "Egedal"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Stengårdsskolen",
+      "kommune_kode": 240,
+      "kommune": "Egedal",
+      "opstillingskreds_nummer": 25,
+      "opstillingskreds": "Egedal"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Bækkegårdsskolen",
+      "kommune_kode": 240,
+      "kommune": "Egedal",
+      "opstillingskreds_nummer": 25,
+      "opstillingskreds": "Egedal"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Søsum",
+      "kommune_kode": 240,
+      "kommune": "Egedal",
+      "opstillingskreds_nummer": 25,
+      "opstillingskreds": "Egedal"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Egedal Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Egedal Kommune med opstillingskreds. Indeholder 10 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Egedal Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Egedal Kommune — 10 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 10 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

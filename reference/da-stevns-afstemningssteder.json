@@ -1,0 +1,88 @@
+{
+  "id": "da-stevns-afstemningssteder",
+  "name": "Afstemningssteder i Stevns Kommune",
+  "title": "Afstemningssteder i Stevns Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Stevns Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Hårlevhallen",
+      "kommune_kode": 336,
+      "kommune": "Stevns",
+      "opstillingskreds_nummer": 33,
+      "opstillingskreds": "Faxe"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Strøbyhallen",
+      "kommune_kode": 336,
+      "kommune": "Stevns",
+      "opstillingskreds_nummer": 33,
+      "opstillingskreds": "Faxe"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Stevnshallen",
+      "kommune_kode": 336,
+      "kommune": "Stevns",
+      "opstillingskreds_nummer": 33,
+      "opstillingskreds": "Faxe"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Harmonien",
+      "kommune_kode": 336,
+      "kommune": "Stevns",
+      "opstillingskreds_nummer": 33,
+      "opstillingskreds": "Faxe"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Stevns Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Stevns Kommune med opstillingskreds. Indeholder 4 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Stevns Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Stevns Kommune — 4 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 4 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

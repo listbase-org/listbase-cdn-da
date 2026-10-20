@@ -1,0 +1,216 @@
+{
+  "id": "da-guldborgsund-afstemningssteder",
+  "name": "Afstemningssteder i Guldborgsund Kommune",
+  "title": "Afstemningssteder i Guldborgsund Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Guldborgsund Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Bykredsen",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Østerbro",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Lindeskov",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Ejegod",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Kraghave",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Toreby",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Sundby",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Nysted",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Øster Ulslev",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Nørre Alslev",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Nørre Vedby",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Eskilstrup",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Sakskøbing",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Majbølle",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Våbensted",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Stubbekøbing",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Horreby",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Idestrup",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Væggerløse",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Gedser",
+      "kommune_kode": 376,
+      "kommune": "Guldborgsund",
+      "opstillingskreds_nummer": 30,
+      "opstillingskreds": "Guldborgsund"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Guldborgsund Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Guldborgsund Kommune med opstillingskreds. Indeholder 20 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Guldborgsund Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Guldborgsund Kommune — 20 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 20 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

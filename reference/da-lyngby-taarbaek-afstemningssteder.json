@@ -1,0 +1,136 @@
+{
+  "id": "da-lyngby-taarbaek-afstemningssteder",
+  "name": "Afstemningssteder i Lyngby-Taarbæk Kommune",
+  "title": "Afstemningssteder i Lyngby-Taarbæk Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Lyngby-Taarbæk Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Lyngby Midt",
+      "kommune_kode": 173,
+      "kommune": "Lyngby-Taarbæk",
+      "opstillingskreds_nummer": 14,
+      "opstillingskreds": "Lyngby"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Lindegård",
+      "kommune_kode": 173,
+      "kommune": "Lyngby-Taarbæk",
+      "opstillingskreds_nummer": 14,
+      "opstillingskreds": "Lyngby"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Trongård",
+      "kommune_kode": 173,
+      "kommune": "Lyngby-Taarbæk",
+      "opstillingskreds_nummer": 14,
+      "opstillingskreds": "Lyngby"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Engelsborg",
+      "kommune_kode": 173,
+      "kommune": "Lyngby-Taarbæk",
+      "opstillingskreds_nummer": 14,
+      "opstillingskreds": "Lyngby"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Taarbæk",
+      "kommune_kode": 173,
+      "kommune": "Lyngby-Taarbæk",
+      "opstillingskreds_nummer": 14,
+      "opstillingskreds": "Lyngby"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Virum",
+      "kommune_kode": 173,
+      "kommune": "Lyngby-Taarbæk",
+      "opstillingskreds_nummer": 14,
+      "opstillingskreds": "Lyngby"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Hummeltofte",
+      "kommune_kode": 173,
+      "kommune": "Lyngby-Taarbæk",
+      "opstillingskreds_nummer": 14,
+      "opstillingskreds": "Lyngby"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Fuglsanggård",
+      "kommune_kode": 173,
+      "kommune": "Lyngby-Taarbæk",
+      "opstillingskreds_nummer": 14,
+      "opstillingskreds": "Lyngby"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Kongevej",
+      "kommune_kode": 173,
+      "kommune": "Lyngby-Taarbæk",
+      "opstillingskreds_nummer": 14,
+      "opstillingskreds": "Lyngby"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Lundtofte",
+      "kommune_kode": 173,
+      "kommune": "Lyngby-Taarbæk",
+      "opstillingskreds_nummer": 14,
+      "opstillingskreds": "Lyngby"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Lyngby-Taarbæk Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Lyngby-Taarbæk Kommune med opstillingskreds. Indeholder 10 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Lyngby-Taarbæk Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Lyngby-Taarbæk Kommune — 10 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 10 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

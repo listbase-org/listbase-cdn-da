@@ -1,0 +1,205 @@
+{
+  "id": "da-syddanmark-kommuner",
+  "name": "Kommuner i Region Syddanmark",
+  "title": "Kommuner i Region Syddanmark",
+  "description": "Kommuner tilhørende Region Syddanmark (i alt 22). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 + editorial kommune→region map per Lov om regioner (2007 reform).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "0580",
+      "name": "Aabenraa",
+      "slug": "aabenraa",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0420",
+      "name": "Assens",
+      "slug": "assens",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0530",
+      "name": "Billund",
+      "slug": "billund",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0561",
+      "name": "Esbjerg",
+      "slug": "esbjerg",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0430",
+      "name": "Faaborg-Midtfyn",
+      "slug": "faaborg-midtfyn",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0563",
+      "name": "Fanø",
+      "slug": "fanoe",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0607",
+      "name": "Fredericia",
+      "slug": "fredericia",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0510",
+      "name": "Haderslev",
+      "slug": "haderslev",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0440",
+      "name": "Kerteminde",
+      "slug": "kerteminde",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0621",
+      "name": "Kolding",
+      "slug": "kolding",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0482",
+      "name": "Langeland",
+      "slug": "langeland",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0410",
+      "name": "Middelfart",
+      "slug": "middelfart",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0480",
+      "name": "Nordfyns",
+      "slug": "nordfyns",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0450",
+      "name": "Nyborg",
+      "slug": "nyborg",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0461",
+      "name": "Odense",
+      "slug": "odense",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0479",
+      "name": "Svendborg",
+      "slug": "svendborg",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0540",
+      "name": "Sønderborg",
+      "slug": "soenderborg",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0550",
+      "name": "Tønder",
+      "slug": "toender",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0573",
+      "name": "Varde",
+      "slug": "varde",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0575",
+      "name": "Vejen",
+      "slug": "vejen",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0630",
+      "name": "Vejle",
+      "slug": "vejle",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0492",
+      "name": "Ærø",
+      "slug": "aeroe",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Region Syddanmark - Gratis download",
+    "description": "Kommuner tilhørende Region Syddanmark (i alt 22). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 + editorial kommune→region map per Lov om regioner (2007 reform). Indeholder 22 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Region Syddanmark | ListBase",
+    "seo_description": "Download Kommuner i Region Syddanmark — 22 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 22 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

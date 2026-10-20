@@ -1,0 +1,264 @@
+{
+  "id": "da-zoologiske-haver",
+  "name": "Zoologiske haver i Danmark",
+  "title": "Zoologiske haver i Danmark",
+  "description": "Zoologiske haver (zoos) i Danmark fra Wikidata (P31 = Q43501, P17 = Danmark) med koordinater.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q3253024",
+      "wikidata_id": "Q3253024",
+      "name_da": "Aalborg Zoo",
+      "name_en": "Aalborg Zoo",
+      "latitude": 57.0368,
+      "longitude": 9.8982
+    },
+    {
+      "id": "Q12300349",
+      "wikidata_id": "Q12300349",
+      "name_da": "Aarhus Zoologiske Have",
+      "name_en": "",
+      "latitude": 56.135,
+      "longitude": 10.193
+    },
+    {
+      "id": "Q12303893",
+      "wikidata_id": "Q12303893",
+      "name_da": "Blåvand Zoo",
+      "name_en": "",
+      "latitude": 55.5472,
+      "longitude": 8.15614
+    },
+    {
+      "id": "Q4946120",
+      "wikidata_id": "Q4946120",
+      "name_da": "Bornholms Sommerfuglepark",
+      "name_en": "Bornholm Butterfly Park",
+      "latitude": 55.0637,
+      "longitude": 15.119
+    },
+    {
+      "id": "Q1790875",
+      "wikidata_id": "Q1790875",
+      "name_da": "Givskud Zoo",
+      "name_en": "Givskud Zoo",
+      "latitude": 55.811667,
+      "longitude": 9.351944
+    },
+    {
+      "id": "Q107689682",
+      "wikidata_id": "Q107689682",
+      "name_da": "Glad Zoo",
+      "name_en": "Glad Zoo",
+      "latitude": 55.4112,
+      "longitude": 8.964
+    },
+    {
+      "id": "Q12314978",
+      "wikidata_id": "Q12314978",
+      "name_da": "Hadsund Dyrehave",
+      "name_en": "Hadsund Dyrehave",
+      "latitude": 56.72455,
+      "longitude": 10.11466
+    },
+    {
+      "id": "Q57408994",
+      "wikidata_id": "Q57408994",
+      "name_da": "Hjortdal Dyrefarm",
+      "name_en": "Hjortdal Dyrefarm",
+      "latitude": 57.140389,
+      "longitude": 9.366611
+    },
+    {
+      "id": "Q18199407",
+      "wikidata_id": "Q18199407",
+      "name_da": "Jyllands Park Zoo",
+      "name_en": "Jyllands Park Zoo",
+      "latitude": 56.0962,
+      "longitude": 8.8077
+    },
+    {
+      "id": "Q5187401",
+      "wikidata_id": "Q5187401",
+      "name_da": "Krokodille Zoo",
+      "name_en": "Crocodile Zoo",
+      "latitude": 54.8636,
+      "longitude": 11.9089
+    },
+    {
+      "id": "Q220057",
+      "wikidata_id": "Q220057",
+      "name_da": "Københavns Zoo",
+      "name_en": "Copenhagen Zoo",
+      "latitude": 55.672778,
+      "longitude": 12.521389
+    },
+    {
+      "id": "Q17111098",
+      "wikidata_id": "Q17111098",
+      "name_da": "Marselisborg Dyrehave",
+      "name_en": "Marselisborg Deer Park",
+      "latitude": 56.1208,
+      "longitude": 10.2194
+    },
+    {
+      "id": "Q66371106",
+      "wikidata_id": "Q66371106",
+      "name_da": "Munkholm Zoo",
+      "name_en": "Munkholm Zoo",
+      "latitude": 56.321371,
+      "longitude": 10.783009
+    },
+    {
+      "id": "Q21065243",
+      "wikidata_id": "Q21065243",
+      "name_da": "Nordsjællands Fuglepark",
+      "name_en": "Nordsjællands Fuglepark",
+      "latitude": 56.0647,
+      "longitude": 12.3594
+    },
+    {
+      "id": "Q7077669",
+      "wikidata_id": "Q7077669",
+      "name_da": "Odense Zoo",
+      "name_en": "Odense Zoo",
+      "latitude": 55.378,
+      "longitude": 10.373
+    },
+    {
+      "id": "Q12329909",
+      "wikidata_id": "Q12329909",
+      "name_da": "Odsherred Zoo",
+      "name_en": "",
+      "latitude": 55.8269,
+      "longitude": 11.4931
+    },
+    {
+      "id": "Q136087765",
+      "wikidata_id": "Q136087765",
+      "name_da": "Pangea Park",
+      "name_en": "",
+      "latitude": 55.45102,
+      "longitude": 11.99857
+    },
+    {
+      "id": "Q5617335",
+      "wikidata_id": "Q5617335",
+      "name_da": "Pangea Park Falster",
+      "name_en": "",
+      "latitude": 54.7671,
+      "longitude": 11.8927
+    },
+    {
+      "id": "Q955173",
+      "wikidata_id": "Q955173",
+      "name_da": "Randers Regnskov",
+      "name_en": "Randers Tropical Zoo",
+      "latitude": 56.456944,
+      "longitude": 10.0325
+    },
+    {
+      "id": "Q7306556",
+      "wikidata_id": "Q7306556",
+      "name_da": "Ree Park - Ebeltoft Safari",
+      "name_en": "Ree Park – Ebeltoft Safari",
+      "latitude": 56.2635,
+      "longitude": 10.7368
+    },
+    {
+      "id": "Q3072129",
+      "wikidata_id": "Q3072129",
+      "name_da": "Skandinavisk Dyrepark",
+      "name_en": "Skandinavisk Dyrepark",
+      "latitude": 56.344539,
+      "longitude": 10.65395
+    },
+    {
+      "id": "Q18199507",
+      "wikidata_id": "Q18199507",
+      "name_da": "Skærup Zoo",
+      "name_en": "",
+      "latitude": 55.6388,
+      "longitude": 9.5912
+    },
+    {
+      "id": "Q48215113",
+      "wikidata_id": "Q48215113",
+      "name_da": "Terrariet",
+      "name_en": "",
+      "latitude": 55.3833,
+      "longitude": 10.1305
+    },
+    {
+      "id": "Q12341733",
+      "wikidata_id": "Q12341733",
+      "name_da": "ZOOPARK",
+      "name_en": "ZOOPARK",
+      "latitude": 55.2207,
+      "longitude": 11.7233
+    },
+    {
+      "id": "Q122827791",
+      "wikidata_id": "Q122827791",
+      "name_da": "Øens Dyr",
+      "name_en": "",
+      "latitude": 54.9903,
+      "longitude": 11.8862
+    },
+    {
+      "id": "Q12342054",
+      "wikidata_id": "Q12342054",
+      "name_da": "Ørnereservatet",
+      "name_en": "Ørnereservatet",
+      "latitude": 57.604444,
+      "longitude": 10.315833
+    }
+  ],
+  "meta": {
+    "title": "Zoologiske haver i Danmark - Gratis download",
+    "description": "Zoologiske haver (zoos) i Danmark fra Wikidata (P31 = Q43501, P17 = Danmark) med koordinater. Indeholder 26 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Zoologiske haver i Danmark | ListBase",
+    "seo_description": "Download Zoologiske haver i Danmark — 26 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 26 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,2164 @@
+{
+  "id": "da-copenhagen-swift-koder",
+  "name": "SWIFT/BIC-koder — Copenhagen",
+  "title": "SWIFT/BIC-koder — Copenhagen",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 353 institutioner, som kilden angiver med byen \"COPENHAGEN\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 353,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "A.P. MOLLER-MAERSK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "APMMDKKK"
+    },
+    {
+      "bank": "ABN AMRO ASSET MANAGEMENT A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "AASMDKK1"
+    },
+    {
+      "bank": "ABN AMRO ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "ABKFDKK1"
+    },
+    {
+      "bank": "ACCUNIA FONDSMAEGLERSELSKAB A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "ACFDDKK1"
+    },
+    {
+      "bank": "ALM. BRAND BANK A/S",
+      "city": "COPENHAGEN",
+      "branch": "(SJL-BANKEN)",
+      "swift_code": "ALMBDKKK"
+    },
+    {
+      "bank": "AP PENSION",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "APPNDKK1"
+    },
+    {
+      "bank": "ARBEJDERNES LANDSBANK A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "ALBADKKK"
+    },
+    {
+      "bank": "BANK INVEST",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "BIVEDKK1"
+    },
+    {
+      "bank": "BANKNORDIK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "BANODKKK"
+    },
+    {
+      "bank": "BASISBANK A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "ISNKDKK1"
+    },
+    {
+      "bank": "BI ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "BIAMDKKK"
+    },
+    {
+      "bank": "BI MANAGEMENT A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "MAGGDKK1"
+    },
+    {
+      "bank": "BIL DANMARK, FILIAL AF BANQUE INTERNATIONAL A LUXEMBOURG SA",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "BILLDKKK"
+    },
+    {
+      "bank": "BJOERNSKOV AND CO., A.S.",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "BJSKDKK1"
+    },
+    {
+      "bank": "BNP PARIBAS S.A. DENMARK, FILIAL AF BNP PARIBAS S.A. FRANKRIG",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "FTSBDKKK"
+    },
+    {
+      "bank": "CANEGIE ASSET ADMINISTRATION A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "CADMDKK1"
+    },
+    {
+      "bank": "CAPITAL FOUR AIFM A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "CFAIDKK1"
+    },
+    {
+      "bank": "CAPITAL FOUR MANAGEMENT FONDSMAEGLERSELSKAB A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "CFMFDKK1"
+    },
+    {
+      "bank": "CARLSBERG A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "CARWDKK2"
+    },
+    {
+      "bank": "CARLSBERG BREWERIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "CARWDKK1"
+    },
+    {
+      "bank": "CARNEGIE ASSET MANAGEMENT FONDMAEGLERSELSKAB A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "CARNDK22"
+    },
+    {
+      "bank": "CARNEGIE INVESTMENT BANK, DK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "CARNDKKK"
+    },
+    {
+      "bank": "CARNEGIE KREDITINSTITUT A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "CAJBDKK1"
+    },
+    {
+      "bank": "CITIBANK EUROPE PLC DENMARK BRANCH",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "CITIDKKX"
+    },
+    {
+      "bank": "COMMERCIAL BANKERS TRUST K/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "CTRSDKK1"
+    },
+    {
+      "bank": "DANA INVEST FONDSMAEGLERSELSKAB A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DAIODKK1"
+    },
+    {
+      "bank": "DANMARKS NATIONALBANK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DKNBDKK3"
+    },
+    {
+      "bank": "DANMARKS NATIONALBANK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DKNBDKKC"
+    },
+    {
+      "bank": "DANMARKS NATIONALBANK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DKNBDKKK"
+    },
+    {
+      "bank": "DANMARKS NATIONALBANK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DKNBDKKKASA"
+    },
+    {
+      "bank": "DANMARKS NATIONALBANK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DKNBDKKKTIA"
+    },
+    {
+      "bank": "DANMARKS SKIBSKREDIT A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "SKIBDKK1"
+    },
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "COPENHAGEN",
+      "branch": "(CLS SERVICES)",
+      "swift_code": "DABADKKKCLS"
+    },
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "COPENHAGEN",
+      "branch": "(DANSKE BANK)",
+      "swift_code": "DABADKKK3PT"
+    },
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "COPENHAGEN",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "DABADKKK"
+    },
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "COPENHAGEN",
+      "branch": "(NORDIC CUSTODY)",
+      "swift_code": "DABADKKKCUS"
+    },
+    {
+      "bank": "DANSKE CAPITAL",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DACPDKK1"
+    },
+    {
+      "bank": "DANSKE CIVIL AND AKADEMIINGENIORERS PENSIONSKASSE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DCAKDKK1"
+    },
+    {
+      "bank": "DANSKE INVEST ADMINISTRATION A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DAIDDKK1"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(AKTIER AND OBLIGATIONER-PULJE)",
+      "swift_code": "DEPRDKK1AOP"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(EMERGING MARKETS AKTIER-MANDAT)",
+      "swift_code": "DEPRDKK1EMA"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(GLOBALE AKTIER-MANDAT 2)",
+      "swift_code": "DEPRDKK1GA2"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(GLOBALE AKTIER-MANDAT)",
+      "swift_code": "DEPRDKK1GAM"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(GLOBALE AKTIER-PULJE)",
+      "swift_code": "DEPRDKK1GAP"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(GLOBALE INDEKSOBLIGATIONER-MANDAT)",
+      "swift_code": "DEPRDKK1GIM"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(GULDRANDEDE OBLIGATIONER-MANDAT 1)",
+      "swift_code": "DEPRDKK1GO1"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(GULDRANDEDE OBLIGATIONER-MANDAT 2)",
+      "swift_code": "DEPRDKK1GO2"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(KREDITOBLIGATIONER OG EMERGING MARKETS OBLIGATIONER-MANDAT)",
+      "swift_code": "DEPRDKK1KEO"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(KREDITOBLIGATIONS FONDE- MANDAT)",
+      "swift_code": "DEPRDKK1KOF"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(MILJO AND KLIMA-MANDAT)",
+      "swift_code": "DEPRDKK1MKM"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(MILJO AND KLIMA-PULJE)",
+      "swift_code": "DEPRDKK1MKP"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(MIXED OBLIGATIONER-PULJE)",
+      "swift_code": "DEPRDKK1MOP"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "(STRATEGISKE GLOBAL AKTIER-MANDAT)",
+      "swift_code": "DEPRDKK1SGA"
+    },
+    {
+      "bank": "DEN PROFESSIONELLE FORENING LD",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DEPRDKK1"
+    },
+    {
+      "bank": "DEXIA P-H PRIVATE BANK DENMARK A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "BILLDK21"
+    },
+    {
+      "bank": "DIFKO BORS A/S FONDSMAEGLERSELSKAB",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DIBFDKK1"
+    },
+    {
+      "bank": "DLR KREDIT A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DLKRDKK1"
+    },
+    {
+      "bank": "DNB BANK ASA, FILIAL AF DNB BANK ASA, NORGE",
+      "city": "COPENHAGEN",
+      "branch": "(CLS NOSTRO AGENT CONTROL BRANCH)",
+      "swift_code": "DNBADKKXCLS"
+    },
+    {
+      "bank": "DNB BANK ASA, FILIAL AF DNB BANK ASA, NORGE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DNBADKKX"
+    },
+    {
+      "bank": "FONDSAEGLERSELSKABET MAJ INVEST A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "MAFGDKK1"
+    },
+    {
+      "bank": "FONDSMAEGLERSELSKABET MAJ INVEST A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "FONKDKKK"
+    },
+    {
+      "bank": "FORCA A/S",
+      "city": "COPENHAGEN",
+      "branch": "(BIOANALYTIKERE)",
+      "swift_code": "FOCCDK21BIO"
+    },
+    {
+      "bank": "FORCA A/S",
+      "city": "COPENHAGEN",
+      "branch": "(ERGOTERAPEUTER)",
+      "swift_code": "FOCCDK21ERG"
+    },
+    {
+      "bank": "FORCA A/S",
+      "city": "COPENHAGEN",
+      "branch": "(JORDMOEDRE)",
+      "swift_code": "FOCCDK21JOR"
+    },
+    {
+      "bank": "FORCA A/S",
+      "city": "COPENHAGEN",
+      "branch": "(KONTORFUNKTIONAERER)",
+      "swift_code": "FOCCDK21KON"
+    },
+    {
+      "bank": "FORCA A/S",
+      "city": "COPENHAGEN",
+      "branch": "(KOSTVEJLEDERE)",
+      "swift_code": "FOCCDK21KOS"
+    },
+    {
+      "bank": "FORCA A/S",
+      "city": "COPENHAGEN",
+      "branch": "(LAEGESEKRETAERER)",
+      "swift_code": "FOCCDK21LAG"
+    },
+    {
+      "bank": "FORCA A/S",
+      "city": "COPENHAGEN",
+      "branch": "(PKA PLUS)",
+      "swift_code": "FOCCDK21PKA"
+    },
+    {
+      "bank": "FORCA A/S",
+      "city": "COPENHAGEN",
+      "branch": "(SAMEJE)",
+      "swift_code": "FOCCDK21SAM"
+    },
+    {
+      "bank": "FORCA A/S",
+      "city": "COPENHAGEN",
+      "branch": "(SOCIALPAEDAGOER)",
+      "swift_code": "FOCCDK21SOC"
+    },
+    {
+      "bank": "FORCA A/S",
+      "city": "COPENHAGEN",
+      "branch": "(SYGEPLEJERE)",
+      "swift_code": "FOCCDK21SYG"
+    },
+    {
+      "bank": "FUTOP CLEARING CENTRE, THE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "FTUPDKK1"
+    },
+    {
+      "bank": "GLITNIR BANK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "ISBADKK1"
+    },
+    {
+      "bank": "GUDME RAASCHOU EU HIGH YIELD",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "GRHEDKK1"
+    },
+    {
+      "bank": "GUDME RAASCHOU HEALTH CARE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "GRHCDKK1"
+    },
+    {
+      "bank": "GUDME RAASCHOU INVEST A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "GURIDKK1"
+    },
+    {
+      "bank": "GUDME RAASCHOU INVESTMENT BANK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "GRPBDKK1"
+    },
+    {
+      "bank": "GUDME RAASCHOU NORDIC ALPHA",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "GRNADKK1"
+    },
+    {
+      "bank": "GUDME RAASCHOU SELECTION",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "GRSLDKK1"
+    },
+    {
+      "bank": "GUDME RAASCHOU US HIGH YIELD",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "GRHYDKK1"
+    },
+    {
+      "bank": "HANDELSBANKEN",
+      "city": "COPENHAGEN",
+      "branch": "(NORDIC CUSTODY SERVICES)",
+      "swift_code": "HANDDKKKCUS"
+    },
+    {
+      "bank": "HANDELSBANKEN",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "HANDDKKK"
+    },
+    {
+      "bank": "HP FONDSMAEGLERSELSKAB A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "FONMDKK1"
+    },
+    {
+      "bank": "INDUSTRIENS PENSIONSFORSIKRING A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "INDFDKKK"
+    },
+    {
+      "bank": "INPAY A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NPAYDKKK"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN MS INVESTVALUE AKTIER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "INUKDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST AKTIER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IVNIDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST AKTIER II",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOITDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST DANMARK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIDDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST EMERGING MARKETS",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONMDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST EUROPA",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIEDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST EUROPA SMALL CAP",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIUDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST FJERNEOESTEN",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "INIJDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST FONDE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIFDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST GLOBAL TEKNOLOGI",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONGDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST GLOBAL VAEKST",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIGDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST GLOBALE AKTIER INDEKS",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONLDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST GLOBALE OBLIGATIONER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOILDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST HEALTH CARE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIHDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST INDIEN",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONNDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST JAPAN",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IVNVDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST KINA",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONIDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST KORTE OBLIGATIONER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONKDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST KORTE OBLIGATIONER PRIVAT",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIKDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST LANGE OBLIGATIONER PRIVAT",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIADKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST LATINAMERIKA",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONADKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST MELLEMLANGE OBLIGATIONER PENSION",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIMDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST MELLEMLANGE OBLIGATIONER PRIVAT",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOINDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST NORDIC SMALL CAP",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIODKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST NORDON",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIRDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST OEST-EUROPA",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONODKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST PORTFOELJE FLEKSIBLE - OBLIGATIONER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIJDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST PORTFOLIE, DANMARK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONFDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST SPECIAL      EUROPEAN HIGH YIELD BOND",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOISDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST SPECIAL EUROPAEISKE AKTIER FOKUS",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIPDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST SPECIAL FORMUEFORVALTNING OBLIGATIONER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOICDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST SPECIAL GLOBAL VALUE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONEDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST STABIL AKTIER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONTDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST STABIL BALANCERET",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIIDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST USA",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONUDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST VERDEN",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOIVDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST VIRKSOMHEDSOBLIGATIONER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "INNHDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST, ENGROS KORTE OBLIGATIONER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOEGDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVEST,ENGROS MELLEMLANGE OBLIGATIONER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOERDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTBASIS 1",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVNDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTBASIS 2",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONVDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTBASIS 3",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOONDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTBASIS 4",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOEVDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTENGROS ABSOLUTE RETURN EQUITIES",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVADKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTENGROS ABSOLUTE RETURN EQUITIES II",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVBDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTENGROS ABSOLUTE RETURN EQUITIES II-ETISK VALG",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVODKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTENGROS CORPORATE BONDS",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVCDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTENGROS EURO INVESTMENT GRADE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVRDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTENGROS EUROPAEISKE AKTIER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVUDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTENGROS GLOBAL HIGH YIELD",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVGDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTENGROS INTERNATIONALE AKTIER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVIDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTENGROS INTERNATIONALE AKTIER ETISK VALG",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVTDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTENGROS OBLIGATIONER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONBDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTGLOBALE AKTIER FOKUS",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONRDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTKAPITALSIKRING",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IVNNDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTKLIMA OG MILJOE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "INNJDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTKORTE OBLIGATIONER 2",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOEODKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTLANGE OBLIGATIONER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVLDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE AKTIER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVKDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE EKSTERNE AFDELINGER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOEEDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE EMERGING MARKETS OG ASIEN",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVMDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE KORTE OBLIGATIONER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOEKDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE LANGE OBLIGATIONER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOENDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE USA OG EUROPA",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOEUDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE VERDEN",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVDDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE VERDENS OBLIGATIONSMARKEDER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOVVDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA INVESTVERDENS OBLIGATIONSMARKEDER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IONDDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN NORDEA PORTEFOLIE FLEX",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IOPFDKK1"
+    },
+    {
+      "bank": "INVESTERINGSFORENINGEN PFA INVEST",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IVPIDK21"
+    },
+    {
+      "bank": "INVESTERINGSFORVALLTNINGSSELSKABET SEBINVEST A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "IVSNDKK1"
+    },
+    {
+      "bank": "ISS A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "ISSSDKK1"
+    },
+    {
+      "bank": "J.P. MORGAN EUROPE (UK), COPENHAGEN BR, FILIAL AF J.P. MORGAN EUROPE LTD., STORBRITANNIEN",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "CHASDKKK"
+    },
+    {
+      "bank": "JURISTERNES OG OEKONOMERNES PENSIONKASSE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "JUOPDKK1"
+    },
+    {
+      "bank": "JYSKE BANK A/S",
+      "city": "COPENHAGEN",
+      "branch": "(AND ALL DANISH OFFICES)",
+      "swift_code": "JYBADKKK"
+    },
+    {
+      "bank": "KOBENHAVNS ANDELSKASSE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "KOANDKKK"
+    },
+    {
+      "bank": "KOMMUNEKREDIT",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "KOMMDKK1"
+    },
+    {
+      "bank": "KONGERIGET DANMARKS HYPOTEKBANK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "KDHYDKK1"
+    },
+    {
+      "bank": "KOSMOPOLITEX BANKERS TRUST K/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "KOTUDKK1"
+    },
+    {
+      "bank": "LAN AND SPAR BANK A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "LOSADKKK"
+    },
+    {
+      "bank": "LANDBRUGETS FINANSIERINGSBANK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "LAFIDKK1"
+    },
+    {
+      "bank": "LPI HIGH YIELD GLOBALE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "LHYGDKK1"
+    },
+    {
+      "bank": "LPI INDEKSOBLIGATIONER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "LINMDKK1"
+    },
+    {
+      "bank": "LPI INDEKSOBLIGATIONER II",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "LINPDKK1"
+    },
+    {
+      "bank": "LR REALKREDIT A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "REAKDKK1"
+    },
+    {
+      "bank": "MAERSK TANKERS A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "MRSKDKKK"
+    },
+    {
+      "bank": "MAJ AF 29. AUGUST 2014 A/S (MAJ BANK A/S)",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "MAAJDKL1"
+    },
+    {
+      "bank": "MAJ INVEST A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "MAVVDKK1"
+    },
+    {
+      "bank": "MORE 2 SAVE APS",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "MOVADKK1"
+    },
+    {
+      "bank": "MP PENSION",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PENNDK21"
+    },
+    {
+      "bank": "NI PORTEFOLJE GLOBALE AKTIER STRATEGI KL",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PGASDKK1"
+    },
+    {
+      "bank": "NI PORTEFOLJE PBPM DANSKE OBLIGATIONER KL",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PPDODKK1"
+    },
+    {
+      "bank": "NI PORTEFOLJE PBPM GLOBALE AKTIER FOKUS KL",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PPGADKK1"
+    },
+    {
+      "bank": "NI PORTFOLIE PBPM OBLIGATIONER KL",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PPOLDKK1"
+    },
+    {
+      "bank": "NI PORTFOLJE PBPM BALANCE KL",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PBPMDKK1"
+    },
+    {
+      "bank": "NIE EMERGING MARKET BONDS",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NEMBDKK1"
+    },
+    {
+      "bank": "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE",
+      "city": "COPENHAGEN",
+      "branch": "(BANK CASH CONCENTRATION)",
+      "swift_code": "NDEADKKKBCC"
+    },
+    {
+      "bank": "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE",
+      "city": "COPENHAGEN",
+      "branch": "(EXTERNAL CUSTODIAN)",
+      "swift_code": "NDEADKKKPFR"
+    },
+    {
+      "bank": "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE",
+      "city": "COPENHAGEN",
+      "branch": "(GROUP FUNDING)",
+      "swift_code": "NDEADKKKTSY"
+    },
+    {
+      "bank": "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE",
+      "city": "COPENHAGEN",
+      "branch": "(NORDEA SP DEALING BRANCH)",
+      "swift_code": "NDEADKKKSPX"
+    },
+    {
+      "bank": "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE",
+      "city": "COPENHAGEN",
+      "branch": "(VP INSTRUCTIONS ETC. UNDER CD ID 02064)",
+      "swift_code": "NDEADKKK064"
+    },
+    {
+      "bank": "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE",
+      "city": "COPENHAGEN",
+      "branch": "(VP INSTRUCTIONS ETC. UNDER CD ID 02068)",
+      "swift_code": "NDEADKKK068"
+    },
+    {
+      "bank": "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE",
+      "city": "COPENHAGEN",
+      "branch": "(VP INSTRUCTIONS ETC. UNDER CD ID 02085)",
+      "swift_code": "NDEADKKK085"
+    },
+    {
+      "bank": "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE",
+      "city": "COPENHAGEN",
+      "branch": "(VP INSTRUCTIONS ETC. UNDER CD ID 14224)",
+      "swift_code": "NDEADKKKNKK"
+    },
+    {
+      "bank": "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NDEADKKK"
+    },
+    {
+      "bank": "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NDEADKKKCLS"
+    },
+    {
+      "bank": "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NDEADKKKFSI"
+    },
+    {
+      "bank": "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NDEADKKKNCL"
+    },
+    {
+      "bank": "NORDEA FINANS DANMARK A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "UNREDKK1"
+    },
+    {
+      "bank": "NORDEA INVEST BOLIG 2",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NONLDKK1"
+    },
+    {
+      "bank": "NORDEA INVEST EMERGING STARS",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NIEADKK1"
+    },
+    {
+      "bank": "NORDEA INVEST FUND MANAGEMENT A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NIFNDK21"
+    },
+    {
+      "bank": "NORDEA INVEST HOEJRENTELANDE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NOIHDKK1"
+    },
+    {
+      "bank": "NORDEA INVEST KOMMUNE I",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NOIUDKK1"
+    },
+    {
+      "bank": "NORDEA INVEST KOMMUNE II C/O INVESTERINGSFORENINGEN",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NIKTDKK1"
+    },
+    {
+      "bank": "NORDEA INVEST OBLIGATIONER",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NONBDKK1"
+    },
+    {
+      "bank": "NORDEA INVEST SPECIAL C/O INVESTERINGSFORENINGEN",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NISNDKK1"
+    },
+    {
+      "bank": "NORDEA INVEST STABILE AKTIER AKKUMULERENDE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NISTDKK1"
+    },
+    {
+      "bank": "NORDEA INVEST VIRKSOMHEDSOBLIGATIONER HOEJRENTE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NIVHDKK1"
+    },
+    {
+      "bank": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
+      "city": "COPENHAGEN",
+      "branch": "(INVESTMENT MANAGEMENT)",
+      "swift_code": "NDEADKX1JPM"
+    },
+    {
+      "bank": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NDEADKK2"
+    },
+    {
+      "bank": "NORDIC ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NAMNDKK1"
+    },
+    {
+      "bank": "NORDNET BANK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NODNDKKK"
+    },
+    {
+      "bank": "NORTHERN ROCK BANK DANMARK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NORNDKK1"
+    },
+    {
+      "bank": "NYKREDIT A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NYKRDKKK"
+    },
+    {
+      "bank": "NYKREDIT AM",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NYKEDKK1"
+    },
+    {
+      "bank": "NYKREDIT BANK A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NYKBDKKK"
+    },
+    {
+      "bank": "NYKREDIT PORTFOLIO",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "NYPODKK1"
+    },
+    {
+      "bank": "ORESUNDSBRO KONSORTIET I/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "OKONDKKK"
+    },
+    {
+      "bank": "P.H. BORSMAEGLERSELSKAB",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "BOLEDKK1"
+    },
+    {
+      "bank": "PENSIONDANMARK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PENODK21"
+    },
+    {
+      "bank": "PENSIONDANMARK PENSIONSFORSIKRINGSAKTIESELSKAB",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PNDKDKKK"
+    },
+    {
+      "bank": "PFA ASSET MANAGEMENT A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PAMQDKKK"
+    },
+    {
+      "bank": "PFA BANK A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PFUDDKK1"
+    },
+    {
+      "bank": "PFA KAPITALFORVALTNING",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PFAKDKK1"
+    },
+    {
+      "bank": "PFA PENSION",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PFPEDKK1"
+    },
+    {
+      "bank": "P-H BORSMAEGLERSELSKAB A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PHBSDKK1"
+    },
+    {
+      "bank": "PLACERINGSFORENINGEN PROFIL INVEST",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "PLPIDKK1"
+    },
+    {
+      "bank": "REALDANIA",
+      "city": "COPENHAGEN",
+      "branch": "(KD)",
+      "swift_code": "REKDDKK10KD"
+    },
+    {
+      "bank": "REALDANIA",
+      "city": "COPENHAGEN",
+      "branch": "(KDCAMP401)",
+      "swift_code": "REKDDKK1401"
+    },
+    {
+      "bank": "REALDANIA",
+      "city": "COPENHAGEN",
+      "branch": "(KDCAP245)",
+      "swift_code": "REKDDKK1245"
+    },
+    {
+      "bank": "REALDANIA",
+      "city": "COPENHAGEN",
+      "branch": "(KDCATCO700)",
+      "swift_code": "REKDDKK1700"
+    },
+    {
+      "bank": "REALDANIA",
+      "city": "COPENHAGEN",
+      "branch": "(KDCORD405)",
+      "swift_code": "REKDDKK1405"
+    },
+    {
+      "bank": "REALDANIA",
+      "city": "COPENHAGEN",
+      "branch": "(KDHINES407)",
+      "swift_code": "REKDDKK1407"
+    },
+    {
+      "bank": "REALDANIA",
+      "city": "COPENHAGEN",
+      "branch": "(KDSINAI703)",
+      "swift_code": "REKDDKK1703"
+    },
+    {
+      "bank": "REALDANIA",
+      "city": "COPENHAGEN",
+      "branch": "(KDTIMB402)",
+      "swift_code": "REKDDKK1402"
+    },
+    {
+      "bank": "REALDANIA",
+      "city": "COPENHAGEN",
+      "branch": "(REALDANIA - KDPIN704)",
+      "swift_code": "REKDDKK1704"
+    },
+    {
+      "bank": "REALDANIA",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "REKDDKK1"
+    },
+    {
+      "bank": "REALKREDIT DANMARK",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "RDDKDKKK"
+    },
+    {
+      "bank": "SKANDIA",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "SKADDK21"
+    },
+    {
+      "bank": "SKANDIA ASSET MANAGEMENT",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "SKDADKKK"
+    },
+    {
+      "bank": "SKANDINAVISKA ENSKILDA BANKEN",
+      "city": "COPENHAGEN",
+      "branch": "(ENSKILDA SECURITIES)",
+      "swift_code": "ESSEDKKKENS"
+    },
+    {
+      "bank": "SKANDINAVISKA ENSKILDA BANKEN",
+      "city": "COPENHAGEN",
+      "branch": "(SEB COPENHAGEN - CALYPSO BRANCH CODE)",
+      "swift_code": "ESSEDKKKCAL"
+    },
+    {
+      "bank": "SKANDINAVISKA ENSKILDA BANKEN",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "ESSEDKKK"
+    },
+    {
+      "bank": "SKANDINAVISKA ENSKILDA BANKEN",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "ESSEDKKKCLS"
+    },
+    {
+      "bank": "SKANDINAVISKA ENSKILDA BANKEN, FORMER SEB A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "ESSEDK22"
+    },
+    {
+      "bank": "STEFFEN RONN FONDSMAEGLERSELSKAB A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "STRDDKK1"
+    },
+    {
+      "bank": "SWEDBANK AB",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "SWEDDKKK"
+    },
+    {
+      "bank": "SWISS RE DENMARK REINSURANCE A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "ERFRDKK1"
+    },
+    {
+      "bank": "SYDBANK A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "SYBKDK22CPH"
+    },
+    {
+      "bank": "TDC A/S",
+      "city": "COPENHAGEN",
+      "branch": "(NORDIC TELEPHONE)",
+      "swift_code": "TDCTDKK1NTC"
+    },
+    {
+      "bank": "TDC A/S",
+      "city": "COPENHAGEN",
+      "branch": "(TDC)",
+      "swift_code": "TDCTDKK1TDC"
+    },
+    {
+      "bank": "TDC A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "TDCTDKK1"
+    },
+    {
+      "bank": "TDC PENSIONSKASSE",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "TDCPDKK1"
+    },
+    {
+      "bank": "THE DANISH EMISSION TRADING REGISTRY",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "DETRDKK1"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "(ISSUING AND PAYING AGENT)",
+      "swift_code": "VPDKDKKKIPA"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "(VPDK AS INVESTOR)",
+      "swift_code": "VPDKDKKKINV"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "(VPDK AS ISSUER)",
+      "swift_code": "VPDKDKKKISS"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "(VPLUX)",
+      "swift_code": "VPDKDKKKALU"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK020"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK030"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK031"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK032"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK033"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK034"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK035"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK037"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK038"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK039"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK040"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK042"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK043"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK044"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK045"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK047"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK048"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK049"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK050"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK053"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK054"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK055"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK057"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK058"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK059"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK060"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK061"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK062"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK063"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK070"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK071"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK072"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK073"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK074"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK075"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK091"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK092"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK093"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK094"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK095"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK096"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK097"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK098"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK099"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK100"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK101"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK102"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK103"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK104"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK105"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK106"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK107"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK108"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK109"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK110"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK111"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK112"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK113"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK114"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK115"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK116"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK117"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK118"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK119"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK120"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK121"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK122"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK123"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK124"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK125"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK126"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK127"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK128"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK129"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK130"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK131"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK132"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK133"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK134"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK135"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK200"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK600"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK601"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK602"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK603"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK604"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK605"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK606"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK607"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK608"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK609"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK610"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK700"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK800"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKK900"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKKDIS"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKKLUX"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKKMCF"
+    },
+    {
+      "bank": "VP SECURITIES A/S",
+      "city": "COPENHAGEN",
+      "branch": "",
+      "swift_code": "VPDKDKKKMIG"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Copenhagen - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 353 institutioner, som kilden angiver med byen \"COPENHAGEN\". Indeholder 353 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Copenhagen | ListBase",
+    "seo_description": "Download SWIFT/BIC-koder — Copenhagen — 353 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 353 poster / 4 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

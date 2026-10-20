@@ -1,0 +1,116 @@
+{
+  "id": "da-regioner",
+  "name": "Regioner i Danmark",
+  "title": "Regioner i Danmark",
+  "description": "De fem regioner i Danmark (kommunalreformen 2007). DAGI-koder 1081–1085 samt ISO 3166-2:DK-kodning, regionalt hovedsæde, og antal kommuner pr. region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "num_kommuner",
+      "label": "Num Kommuner",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "1081",
+      "name": "Region Nordjylland",
+      "name_short": "Nordjylland",
+      "name_en": "North Denmark Region",
+      "slug": "nordjylland",
+      "iso_3166_2": "DK-81",
+      "capital": "Aalborg",
+      "num_kommuner": 11
+    },
+    {
+      "id": "1082",
+      "name": "Region Midtjylland",
+      "name_short": "Midtjylland",
+      "name_en": "Central Denmark Region",
+      "slug": "midtjylland",
+      "iso_3166_2": "DK-82",
+      "capital": "Viborg",
+      "num_kommuner": 19
+    },
+    {
+      "id": "1083",
+      "name": "Region Syddanmark",
+      "name_short": "Syddanmark",
+      "name_en": "Region of Southern Denmark",
+      "slug": "syddanmark",
+      "iso_3166_2": "DK-83",
+      "capital": "Vejle",
+      "num_kommuner": 22
+    },
+    {
+      "id": "1084",
+      "name": "Region Hovedstaden",
+      "name_short": "Hovedstaden",
+      "name_en": "Capital Region of Denmark",
+      "slug": "hovedstaden",
+      "iso_3166_2": "DK-84",
+      "capital": "Hillerød",
+      "num_kommuner": 30
+    },
+    {
+      "id": "1085",
+      "name": "Region Sjælland",
+      "name_short": "Sjælland",
+      "name_en": "Region Zealand",
+      "slug": "sjaelland",
+      "iso_3166_2": "DK-85",
+      "capital": "Sorø",
+      "num_kommuner": 17
+    }
+  ],
+  "meta": {
+    "title": "Regioner i Danmark - Gratis download",
+    "description": "De fem regioner i Danmark (kommunalreformen 2007). DAGI-koder 1081–1085 samt ISO 3166-2:DK-kodning, regionalt hovedsæde, og antal kommuner pr. region. Indeholder 5 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Regioner i Danmark | ListBase",
+    "seo_description": "Download Regioner i Danmark — 5 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 5 poster / 8 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

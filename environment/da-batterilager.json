@@ -1,0 +1,289 @@
+{
+  "id": "da-batterilager",
+  "name": "Batterilagre (energilagring) i Danmark",
+  "title": "Batterilagre (energilagring) i Danmark",
+  "description": "Battery power generation/storage units in Denmark (8 of 368), carved from da-kraftvaerker by the native `fueltype` field. Verbatim subset of the powerplantmatching (PyPSA) merged European power plant dataset: name, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes and cross-referenced upstream source IDs.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "string"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "string"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "number"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 25597,
+      "name": "Borup Bess",
+      "fueltype": "Battery",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Denmark",
+      "capacity_mw": 5,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 55.5,
+      "lon": 11.98,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 10,
+      "eic": "",
+      "project_ids": "EESI: EESI-61299"
+    },
+    {
+      "id": 25598,
+      "name": "Boss",
+      "fueltype": "Battery",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Denmark",
+      "capacity_mw": 1,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 55.13,
+      "lon": 14.92,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 1,
+      "eic": "",
+      "project_ids": "EESI: EESI-64169"
+    },
+    {
+      "id": 25759,
+      "name": "Hasle Bess",
+      "fueltype": "Battery",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Denmark",
+      "capacity_mw": 30,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 55.18,
+      "lon": 14.71,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 43,
+      "eic": "",
+      "project_ids": "EESI: EESI-62881"
+    },
+    {
+      "id": 25771,
+      "name": "Husahagi",
+      "fueltype": "Battery",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Denmark",
+      "capacity_mw": 2.1,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 62.02,
+      "lon": -6.83,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 0.7,
+      "eic": "",
+      "project_ids": "EESI: EESI-62715"
+    },
+    {
+      "id": 25830,
+      "name": "Lem Kaer Wind Plus",
+      "fueltype": "Battery",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Denmark",
+      "capacity_mw": 2,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 56.03,
+      "lon": 8.39,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 0.5,
+      "eic": "",
+      "project_ids": "EESI: EESI-61534"
+    },
+    {
+      "id": 25920,
+      "name": "Porkeri Wind Plus",
+      "fueltype": "Battery",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Denmark",
+      "capacity_mw": 6,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 61.49,
+      "lon": -6.78,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 7.45,
+      "eic": "",
+      "project_ids": "EESI: EESI-63053"
+    },
+    {
+      "id": 25951,
+      "name": "Riso Syslab Redox Flow",
+      "fueltype": "Battery",
+      "technology": "V",
+      "set": "Store",
+      "country": "Denmark",
+      "capacity_mw": 0.02,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 55.784638,
+      "lon": 12.50461,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 0.12,
+      "eic": "",
+      "project_ids": "EESI: EESI-61718"
+    },
+    {
+      "id": 26003,
+      "name": "Suduroy Bess",
+      "fueltype": "Battery",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Denmark",
+      "capacity_mw": 6,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 55.670249,
+      "lon": 10.333328,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 7.5,
+      "eic": "",
+      "project_ids": "EESI: EESI-63898"
+    }
+  ],
+  "meta": {
+    "title": "Batterilagre (energilagring) i Danmark - Gratis download",
+    "description": "Battery power generation/storage units in Denmark (8 of 368), carved from da-kraftvaerker by the native `fueltype` field. Verbatim subset of the powerplantmatching (PyPSA) merged European power plant dataset: name, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes and cross-referenced upstream source IDs. Indeholder 8 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Batterilagre (energilagring) i Danmark | ListBase",
+    "seo_description": "Download Batterilagre (energilagring) i Danmark — 8 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 8 poster / 19 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

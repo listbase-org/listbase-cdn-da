@@ -1,0 +1,232 @@
+{
+  "id": "da-sydjylland-opstillingskreds",
+  "name": "Opstillingskredse i Sydjylland-storkredsen",
+  "title": "Opstillingskredse i Sydjylland-storkredsen",
+  "description": "Opstillingskredse i storkredsen Sydjylland (i alt 13). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "valgkreds_nr",
+      "label": "Valgkreds Nr",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_id",
+      "label": "Storkreds Id",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_name",
+      "label": "Storkreds Name",
+      "type": "string"
+    },
+    {
+      "key": "landsdel_id",
+      "label": "Landsdel Id",
+      "type": "number"
+    },
+    {
+      "key": "landsdel_name",
+      "label": "Landsdel Name",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "50",
+      "name": "Aabenraa",
+      "slug": "aabenraa",
+      "valgkreds_nr": "2",
+      "storkreds_id": "7",
+      "storkreds_name": "Sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "52",
+      "name": "Esbjerg By",
+      "slug": "esbjerg-by",
+      "valgkreds_nr": "4",
+      "storkreds_id": "7",
+      "storkreds_name": "Sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "53",
+      "name": "Esbjerg Omegn",
+      "slug": "esbjerg-omegn",
+      "valgkreds_nr": "5",
+      "storkreds_id": "7",
+      "storkreds_name": "Sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "58",
+      "name": "Fredericia",
+      "slug": "fredericia",
+      "valgkreds_nr": "10",
+      "storkreds_id": "7",
+      "storkreds_name": "Sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "61",
+      "name": "Haderslev",
+      "slug": "haderslev",
+      "valgkreds_nr": "13",
+      "storkreds_id": "7",
+      "storkreds_name": "Sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "59",
+      "name": "Kolding Nord",
+      "slug": "kolding-nord",
+      "valgkreds_nr": "11",
+      "storkreds_id": "7",
+      "storkreds_name": "Sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "60",
+      "name": "Kolding Syd",
+      "slug": "kolding-syd",
+      "valgkreds_nr": "12",
+      "storkreds_id": "7",
+      "storkreds_name": "Sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "49",
+      "name": "Sønderborg",
+      "slug": "soenderborg",
+      "valgkreds_nr": "1",
+      "storkreds_id": "7",
+      "storkreds_name": "Sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "51",
+      "name": "Tønder",
+      "slug": "toender",
+      "valgkreds_nr": "3",
+      "storkreds_id": "7",
+      "storkreds_name": "Sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "54",
+      "name": "Varde",
+      "slug": "varde",
+      "valgkreds_nr": "6",
+      "storkreds_id": "7",
+      "storkreds_name": "Sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "55",
+      "name": "Vejen",
+      "slug": "vejen",
+      "valgkreds_nr": "7",
+      "storkreds_id": "7",
+      "storkreds_name": "Sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "56",
+      "name": "Vejle Nord",
+      "slug": "vejle-nord",
+      "valgkreds_nr": "8",
+      "storkreds_id": "7",
+      "storkreds_name": "Sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "57",
+      "name": "Vejle Syd",
+      "slug": "vejle-syd",
+      "valgkreds_nr": "9",
+      "storkreds_id": "7",
+      "storkreds_name": "Sydjylland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    }
+  ],
+  "meta": {
+    "title": "Opstillingskredse i Sydjylland-storkredsen - Gratis download",
+    "description": "Opstillingskredse i storkredsen Sydjylland (i alt 13). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget). Indeholder 13 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Opstillingskredse i Sydjylland-storkredsen | ListBase",
+    "seo_description": "Download Opstillingskredse i Sydjylland-storkredsen — 13 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 13 poster / 10 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

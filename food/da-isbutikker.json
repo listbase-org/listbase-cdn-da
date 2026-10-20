@@ -1,0 +1,2401 @@
+{
+  "id": "da-isbutikker",
+  "name": "Isbutikker i Danmark (Ice cream parlours in Denmark)",
+  "title": "Isbutikker i Danmark (Ice cream parlours in Denmark)",
+  "description": "Ice cream parlours in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=ice_cream.",
+  "category": "food",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 472,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "2 - Fårup sommerland Is Aqua Vest",
+      "latitude": 57.271843,
+      "longitude": 9.645812
+    },
+    {
+      "name": "5eren",
+      "latitude": 55.648511,
+      "longitude": 12.647045
+    },
+    {
+      "name": "Aalborg Isværk",
+      "latitude": 57.049253,
+      "longitude": 9.917447
+    },
+    {
+      "name": "Adventure Park Ishus",
+      "latitude": 56.106104,
+      "longitude": 8.210834
+    },
+    {
+      "name": "Adventure Stop",
+      "latitude": 55.736862,
+      "longitude": 9.123036
+    },
+    {
+      "name": "Adventure Supply Camp",
+      "latitude": 55.736808,
+      "longitude": 9.123298
+    },
+    {
+      "name": "Adventurer's Supply Camp",
+      "latitude": 55.736752,
+      "longitude": 9.124088
+    },
+    {
+      "name": "Allinge Ishus",
+      "latitude": 55.277966,
+      "longitude": 14.801275
+    },
+    {
+      "name": "Amager Strand Ishus",
+      "latitude": 55.662999,
+      "longitude": 12.638537
+    },
+    {
+      "name": "Amagerstrand Minigolf & Is",
+      "latitude": 55.650949,
+      "longitude": 12.646651
+    },
+    {
+      "name": "Ami Isbar",
+      "latitude": 55.774842,
+      "longitude": 12.576916
+    },
+    {
+      "name": "Armandos Gelateria",
+      "latitude": 55.753536,
+      "longitude": 12.538182
+    },
+    {
+      "name": "Aroma Ismageri",
+      "latitude": 54.891001,
+      "longitude": 10.411432
+    },
+    {
+      "name": "Atistico iscafe",
+      "latitude": 55.992461,
+      "longitude": 12.561008
+    },
+    {
+      "name": "Aurora Ismejeri",
+      "latitude": 55.665043,
+      "longitude": 12.535818
+    },
+    {
+      "name": "Ballerup Ismejeri",
+      "latitude": 55.729053,
+      "longitude": 12.356384
+    },
+    {
+      "name": "Ballerup ismejeri / kronen vanløse",
+      "latitude": 55.687481,
+      "longitude": 12.491413
+    },
+    {
+      "name": "Ballerup ismejeri Glostrup",
+      "latitude": 55.665955,
+      "longitude": 12.400389
+    },
+    {
+      "name": "Bamsehuset",
+      "latitude": 55.495569,
+      "longitude": 9.480139
+    },
+    {
+      "name": "Bastian",
+      "latitude": 55.370067,
+      "longitude": 10.381498
+    },
+    {
+      "name": "Bazar Isen",
+      "latitude": 55.673527,
+      "longitude": 12.571253
+    },
+    {
+      "name": "Bellevue Iscafe",
+      "latitude": 56.190529,
+      "longitude": 10.247253
+    },
+    {
+      "name": "Ben & Jerry's",
+      "latitude": 55.383775,
+      "longitude": 10.425878
+    },
+    {
+      "name": "Ben & Jerry's",
+      "latitude": 55.772391,
+      "longitude": 12.505438
+    },
+    {
+      "name": "Ben & Jerry's",
+      "latitude": 56.136158,
+      "longitude": 10.198512
+    },
+    {
+      "name": "Ben & Jerrys",
+      "latitude": 56.092759,
+      "longitude": 12.457254
+    },
+    {
+      "name": "Ben og Jerry",
+      "latitude": 55.736859,
+      "longitude": 9.123108
+    },
+    {
+      "name": "Birkebo Is",
+      "latitude": 57.116066,
+      "longitude": 8.617716
+    },
+    {
+      "name": "Bites & Ice",
+      "latitude": 55.621105,
+      "longitude": 8.482742
+    },
+    {
+      "name": "Blokhusisværk",
+      "latitude": 57.251659,
+      "longitude": 9.586949
+    },
+    {
+      "name": "Bon Bon Ice",
+      "latitude": 55.678709,
+      "longitude": 12.527484
+    },
+    {
+      "name": "Bon Bon Land City Bank Ishus",
+      "latitude": 55.259458,
+      "longitude": 11.860601
+    },
+    {
+      "name": "BonBon-Land Bæver Is",
+      "latitude": 55.259515,
+      "longitude": 11.860643
+    },
+    {
+      "name": "Bornholmer Softice",
+      "latitude": 54.993499,
+      "longitude": 15.077708
+    },
+    {
+      "name": "Bornholms Ismejeri",
+      "latitude": 55.135449,
+      "longitude": 15.143174
+    },
+    {
+      "name": "Bravissimo",
+      "latitude": 55.668802,
+      "longitude": 12.579718
+    },
+    {
+      "name": "Brogaardens Is",
+      "latitude": 57.27059,
+      "longitude": 9.649812
+    },
+    {
+      "name": "Bryggen11",
+      "latitude": 55.668093,
+      "longitude": 12.578662
+    },
+    {
+      "name": "Bubble House",
+      "latitude": 55.644225,
+      "longitude": 12.274916
+    },
+    {
+      "name": "Bugtens Ishus",
+      "latitude": 55.71901,
+      "longitude": 9.997987
+    },
+    {
+      "name": "Byens Is",
+      "latitude": 55.810985,
+      "longitude": 12.470859
+    },
+    {
+      "name": "Byens Ismejeri",
+      "latitude": 56.156463,
+      "longitude": 10.206984
+    },
+    {
+      "name": "Byens Ismejeri",
+      "latitude": 56.164619,
+      "longitude": 10.222303
+    },
+    {
+      "name": "Byens Ismejeri",
+      "latitude": 56.460654,
+      "longitude": 10.03808
+    },
+    {
+      "name": "Cafe Fisk Isbar",
+      "latitude": 57.587532,
+      "longitude": 10.187508
+    },
+    {
+      "name": "Café Frost",
+      "latitude": 54.830219,
+      "longitude": 11.135356
+    },
+    {
+      "name": "Café Stranden",
+      "latitude": 55.744162,
+      "longitude": 8.174209
+    },
+    {
+      "name": "Café Venezia Ice",
+      "latitude": 56.405903,
+      "longitude": 10.924756
+    },
+    {
+      "name": "Café Vivaldi Is pavillon",
+      "latitude": 55.176203,
+      "longitude": 11.647703
+    },
+    {
+      "name": "Casa Tua - Ved Kæret",
+      "latitude": 55.96494,
+      "longitude": 10.553306
+    },
+    {
+      "name": "Casa Tua Ballen",
+      "latitude": 55.81607,
+      "longitude": 10.636387
+    },
+    {
+      "name": "Chokoevents",
+      "latitude": 56.257246,
+      "longitude": 9.868102
+    },
+    {
+      "name": "Chris & Mario",
+      "latitude": 55.062932,
+      "longitude": 15.132587
+    },
+    {
+      "name": "Chris & Mario",
+      "latitude": 55.212645,
+      "longitude": 14.970066
+    },
+    {
+      "name": "Chris og Mario",
+      "latitude": 55.102817,
+      "longitude": 14.699734
+    },
+    {
+      "name": "Christian IX ISboks",
+      "latitude": 56.79587,
+      "longitude": 8.861098
+    },
+    {
+      "name": "Christiania Is",
+      "latitude": 55.673253,
+      "longitude": 12.596594
+    },
+    {
+      "name": "Christiansminde is og minigolf",
+      "latitude": 55.060218,
+      "longitude": 10.63686
+    },
+    {
+      "name": "Cirkus Is",
+      "latitude": 55.442396,
+      "longitude": 11.207729
+    },
+    {
+      "name": "Crazy Softice",
+      "latitude": 55.641403,
+      "longitude": 12.478464
+    },
+    {
+      "name": "DCU Camping Holstebro Sø",
+      "latitude": 56.34961,
+      "longitude": 8.644392
+    },
+    {
+      "name": "De Gyldne Gemakker Orangeriet",
+      "latitude": 54.999839,
+      "longitude": 10.855938
+    },
+    {
+      "name": "Den Bette Blå Iscafé",
+      "latitude": 57.008445,
+      "longitude": 9.286758
+    },
+    {
+      "name": "Den Blå Ged",
+      "latitude": 55.822697,
+      "longitude": 11.403124
+    },
+    {
+      "name": "Den Gamle By Isboden",
+      "latitude": 56.159543,
+      "longitude": 10.191451
+    },
+    {
+      "name": "Den gamle slotsisen",
+      "latitude": 55.492791,
+      "longitude": 9.470316
+    },
+    {
+      "name": "Den Permanente Iscafe",
+      "latitude": 56.176741,
+      "longitude": 10.230403
+    },
+    {
+      "name": "Dessert hytten",
+      "latitude": 55.81986,
+      "longitude": 12.537227
+    },
+    {
+      "name": "Desserthuset",
+      "latitude": 55.685809,
+      "longitude": 12.566522
+    },
+    {
+      "name": "Det Blå Ishus",
+      "latitude": 55.094881,
+      "longitude": 10.242055
+    },
+    {
+      "name": "Det Blå Ishus",
+      "latitude": 55.470457,
+      "longitude": 12.196723
+    },
+    {
+      "name": "Det Blå Ishus",
+      "latitude": 57.595413,
+      "longitude": 10.182789
+    },
+    {
+      "name": "Det Gamle Ishus",
+      "latitude": 56.763559,
+      "longitude": 8.864237
+    },
+    {
+      "name": "Det Grå Ishus",
+      "latitude": 57.595061,
+      "longitude": 10.183577
+    },
+    {
+      "name": "Det Gule Ishus",
+      "latitude": 56.012575,
+      "longitude": 11.963721
+    },
+    {
+      "name": "Det lille ishus",
+      "latitude": 55.009037,
+      "longitude": 11.9084
+    },
+    {
+      "name": "Det lille ishus",
+      "latitude": 55.692386,
+      "longitude": 9.609208
+    },
+    {
+      "name": "Det lille Ishus",
+      "latitude": 56.092486,
+      "longitude": 12.454375
+    },
+    {
+      "name": "Det Søde Hjørne",
+      "latitude": 56.022619,
+      "longitude": 12.200863
+    },
+    {
+      "name": "Deux Fréres",
+      "latitude": 55.922199,
+      "longitude": 11.668164
+    },
+    {
+      "name": "Dinos Is",
+      "latitude": 56.7613,
+      "longitude": 8.822974
+    },
+    {
+      "name": "Dokkens Ishus",
+      "latitude": 55.461808,
+      "longitude": 8.443884
+    },
+    {
+      "name": "Dolce Vita",
+      "latitude": 56.117752,
+      "longitude": 10.194795
+    },
+    {
+      "name": "Dolce Vita",
+      "latitude": 56.163416,
+      "longitude": 10.226935
+    },
+    {
+      "name": "Dolce Vita",
+      "latitude": 56.173821,
+      "longitude": 10.2169
+    },
+    {
+      "name": "Dolce Vita",
+      "latitude": 56.188638,
+      "longitude": 10.215957
+    },
+    {
+      "name": "Dollerup Ishus",
+      "latitude": 56.372776,
+      "longitude": 9.324144
+    },
+    {
+      "name": "Dough & Drizzle",
+      "latitude": 55.687997,
+      "longitude": 12.554155
+    },
+    {
+      "name": "Dragør Is",
+      "latitude": 55.593646,
+      "longitude": 12.674306
+    },
+    {
+      "name": "Dronningborg Grill & Ishus",
+      "latitude": 56.472405,
+      "longitude": 10.066816
+    },
+    {
+      "name": "Emmas Ismejeri",
+      "latitude": 55.706498,
+      "longitude": 9.532517
+    },
+    {
+      "name": "Emmas ismejeri Aarhus",
+      "latitude": 56.156367,
+      "longitude": 10.209358
+    },
+    {
+      "name": "Emmas ismejeri Enø",
+      "latitude": 55.175481,
+      "longitude": 11.649341
+    },
+    {
+      "name": "Familiens Ishus",
+      "latitude": 55.656735,
+      "longitude": 12.474102
+    },
+    {
+      "name": "Ferritslev Is og Pølse Kiosk",
+      "latitude": 55.310076,
+      "longitude": 10.583184
+    },
+    {
+      "name": "Fiskehallen Alexanders Is",
+      "latitude": 56.705816,
+      "longitude": 8.221035
+    },
+    {
+      "name": "Fjellerup Vaffelbageri",
+      "latitude": 56.518524,
+      "longitude": 10.599782
+    },
+    {
+      "name": "Fjordens café og ishus",
+      "latitude": 55.96577,
+      "longitude": 11.847656
+    },
+    {
+      "name": "Frederiksberg Ishus",
+      "latitude": 55.681711,
+      "longitude": 12.510364
+    },
+    {
+      "name": "Frederiksøens Isbar",
+      "latitude": 55.058677,
+      "longitude": 10.61662
+    },
+    {
+      "name": "Fredskovens Ishus",
+      "latitude": 55.548785,
+      "longitude": 11.159411
+    },
+    {
+      "name": "FroYo",
+      "latitude": 55.394396,
+      "longitude": 10.384028
+    },
+    {
+      "name": "Frozen World",
+      "latitude": 55.505566,
+      "longitude": 9.730977
+    },
+    {
+      "name": "Fru Møllers Ishus",
+      "latitude": 55.552374,
+      "longitude": 9.727877
+    },
+    {
+      "name": "Fru Møllers Ismejeri",
+      "latitude": 55.958761,
+      "longitude": 10.205478
+    },
+    {
+      "name": "Frøken Is",
+      "latitude": 57.04411,
+      "longitude": 9.918599
+    },
+    {
+      "name": "Fyns Sommerland Ishus",
+      "latitude": 55.425648,
+      "longitude": 10.039088
+    },
+    {
+      "name": "Fårup Is",
+      "latitude": 57.269587,
+      "longitude": 9.655337
+    },
+    {
+      "name": "Fårup Sommerland Is Fønix Øst",
+      "latitude": 57.268242,
+      "longitude": 9.657643
+    },
+    {
+      "name": "Fårup Sommerland Is Sand Øst",
+      "latitude": 57.27039,
+      "longitude": 9.655688
+    },
+    {
+      "name": "Fårup Sø Kiosk",
+      "latitude": 55.738175,
+      "longitude": 9.416706
+    },
+    {
+      "name": "Gelato",
+      "latitude": 57.459611,
+      "longitude": 9.987256
+    },
+    {
+      "name": "Gelato Copenhagen",
+      "latitude": 55.671746,
+      "longitude": 12.562716
+    },
+    {
+      "name": "Gelato di Natura",
+      "latitude": 55.465755,
+      "longitude": 8.455076
+    },
+    {
+      "name": "Gelato Italia",
+      "latitude": 55.059138,
+      "longitude": 10.608331
+    },
+    {
+      "name": "Gelato Lab",
+      "latitude": 55.686142,
+      "longitude": 12.534206
+    },
+    {
+      "name": "GELATO RAJISSIMO",
+      "latitude": 55.679389,
+      "longitude": 12.458969
+    },
+    {
+      "name": "Gilleleje Labyrinten",
+      "latitude": 56.108758,
+      "longitude": 12.273459
+    },
+    {
+      "name": "GoGO is og Pandekage",
+      "latitude": 55.701616,
+      "longitude": 12.537793
+    },
+    {
+      "name": "Good World Ice",
+      "latitude": 56.413601,
+      "longitude": 10.877218
+    },
+    {
+      "name": "Grann'is Bagsværd",
+      "latitude": 55.761388,
+      "longitude": 12.450947
+    },
+    {
+      "name": "Grann'is Rødovre",
+      "latitude": 55.672192,
+      "longitude": 12.474063
+    },
+    {
+      "name": "Gudhjem is",
+      "latitude": 55.212168,
+      "longitude": 14.971279
+    },
+    {
+      "name": "Guf & Kugler",
+      "latitude": 56.98777,
+      "longitude": 9.635545
+    },
+    {
+      "name": "Guf & Kugler Aalborg",
+      "latitude": 57.04938,
+      "longitude": 9.917502
+    },
+    {
+      "name": "Hansen's",
+      "latitude": 56.091257,
+      "longitude": 12.456621
+    },
+    {
+      "name": "Hansens Flødeis",
+      "latitude": 55.808592,
+      "longitude": 11.982794
+    },
+    {
+      "name": "Hansens Is - Flamingo",
+      "latitude": 55.670473,
+      "longitude": 12.521853
+    },
+    {
+      "name": "Hansens Is - Verdenspladsen",
+      "latitude": 55.672063,
+      "longitude": 12.520469
+    },
+    {
+      "name": "Hansens Is Søndermarken",
+      "latitude": 55.670698,
+      "longitude": 12.520813
+    },
+    {
+      "name": "Hansens isvogn",
+      "latitude": 56.098063,
+      "longitude": 12.159488
+    },
+    {
+      "name": "Hansens på Bryggen",
+      "latitude": 55.666888,
+      "longitude": 12.576075
+    },
+    {
+      "name": "Havfruekiosken",
+      "latitude": 55.693331,
+      "longitude": 12.599319
+    },
+    {
+      "name": "Havnecafeen i Svaneke",
+      "latitude": 55.136036,
+      "longitude": 15.143828
+    },
+    {
+      "name": "Havnehytten Lyngby",
+      "latitude": 55.773792,
+      "longitude": 12.493289
+    },
+    {
+      "name": "Havnens iscafé",
+      "latitude": 57.718319,
+      "longitude": 10.58746
+    },
+    {
+      "name": "Havnens Ishus",
+      "latitude": 56.457095,
+      "longitude": 10.041167
+    },
+    {
+      "name": "Havnens Ishus Ebeltoft",
+      "latitude": 56.193697,
+      "longitude": 10.668861
+    },
+    {
+      "name": "Hebbelstrupgaard Is",
+      "latitude": 57.552726,
+      "longitude": 10.127442
+    },
+    {
+      "name": "Helado Is",
+      "latitude": 55.700647,
+      "longitude": 12.537292
+    },
+    {
+      "name": "Helgenæs Ishus",
+      "latitude": 56.14434,
+      "longitude": 10.515664
+    },
+    {
+      "name": "Hjejlekiosken",
+      "latitude": 56.169804,
+      "longitude": 9.555835
+    },
+    {
+      "name": "Hjortespringbadet",
+      "latitude": 55.744895,
+      "longitude": 12.412385
+    },
+    {
+      "name": "Hos Bang",
+      "latitude": 54.9856,
+      "longitude": 12.288023
+    },
+    {
+      "name": "Hotel Kirkedal - Isbar",
+      "latitude": 57.464435,
+      "longitude": 9.794082
+    },
+    {
+      "name": "Husodde Strand Camping",
+      "latitude": 55.859103,
+      "longitude": 9.917722
+    },
+    {
+      "name": "Hveddegaard Bondegårds Is",
+      "latitude": 56.016416,
+      "longitude": 8.90285
+    },
+    {
+      "name": "Hvidbjerg Strand Camping Is",
+      "latitude": 55.546269,
+      "longitude": 8.134144
+    },
+    {
+      "name": "I's Cream",
+      "latitude": 55.735321,
+      "longitude": 9.129487
+    },
+    {
+      "name": "I'sCream",
+      "latitude": 55.735587,
+      "longitude": 9.130024
+    },
+    {
+      "name": "Ice & Coffee Ebeltoft",
+      "latitude": 56.199688,
+      "longitude": 10.676303
+    },
+    {
+      "name": "Ice Corner",
+      "latitude": 55.775385,
+      "longitude": 12.574747
+    },
+    {
+      "name": "Ice Lagoon",
+      "latitude": 55.735967,
+      "longitude": 9.125876
+    },
+    {
+      "name": "IceQueen",
+      "latitude": 55.679184,
+      "longitude": 12.527957
+    },
+    {
+      "name": "Idas Is",
+      "latitude": 55.878826,
+      "longitude": 11.54599
+    },
+    {
+      "name": "Il Vero Gelato",
+      "latitude": 56.09867,
+      "longitude": 12.386421
+    },
+    {
+      "name": "Indelukkets Snackbar",
+      "latitude": 56.160686,
+      "longitude": 9.560366
+    },
+    {
+      "name": "Is & Kaffehus",
+      "latitude": 57.473635,
+      "longitude": 9.800812
+    },
+    {
+      "name": "Is & pølsehytten",
+      "latitude": 54.954852,
+      "longitude": 12.464466
+    },
+    {
+      "name": "Is & Vaffelhuset",
+      "latitude": 55.960031,
+      "longitude": 11.451947
+    },
+    {
+      "name": "Is a Bella Rødovre",
+      "latitude": 55.680017,
+      "longitude": 12.457797
+    },
+    {
+      "name": "Is Cafeen Rudkøbing",
+      "latitude": 54.935887,
+      "longitude": 10.712097
+    },
+    {
+      "name": "is huset",
+      "latitude": 55.672545,
+      "longitude": 12.594756
+    },
+    {
+      "name": "IS Kompagniet",
+      "latitude": 57.251881,
+      "longitude": 9.583058
+    },
+    {
+      "name": "IS Kompagniet",
+      "latitude": 57.370957,
+      "longitude": 9.71049
+    },
+    {
+      "name": "Is og cafe",
+      "latitude": 55.849215,
+      "longitude": 8.278627
+    },
+    {
+      "name": "Is og pølser",
+      "latitude": 54.767641,
+      "longitude": 11.867301
+    },
+    {
+      "name": "Is Pavillionen",
+      "latitude": 55.745041,
+      "longitude": 12.586914
+    },
+    {
+      "name": "is Rafting",
+      "latitude": 57.269544,
+      "longitude": 9.657498
+    },
+    {
+      "name": "Is Salonen",
+      "latitude": 55.96574,
+      "longitude": 11.846351
+    },
+    {
+      "name": "Is Ved Vandet",
+      "latitude": 57.061573,
+      "longitude": 9.909826
+    },
+    {
+      "name": "Is à Bella",
+      "latitude": 55.709587,
+      "longitude": 12.577803
+    },
+    {
+      "name": "isbar by kitzchen",
+      "latitude": 55.502175,
+      "longitude": 9.710181
+    },
+    {
+      "name": "Isbaren",
+      "latitude": 55.94309,
+      "longitude": 9.128255
+    },
+    {
+      "name": "Isbaren Liseleje",
+      "latitude": 56.012958,
+      "longitude": 11.968381
+    },
+    {
+      "name": "Isbaren Tisvildeleje",
+      "latitude": 56.0593,
+      "longitude": 12.07162
+    },
+    {
+      "name": "Isbjerget",
+      "latitude": 55.673813,
+      "longitude": 12.568379
+    },
+    {
+      "name": "Isboden",
+      "latitude": 55.837175,
+      "longitude": 12.056244
+    },
+    {
+      "name": "Isboden",
+      "latitude": 56.457345,
+      "longitude": 10.029055
+    },
+    {
+      "name": "Isbus- Pier2",
+      "latitude": 57.334653,
+      "longitude": 10.530455
+    },
+    {
+      "name": "Iscafeen Blokhus",
+      "latitude": 57.252134,
+      "longitude": 9.583998
+    },
+    {
+      "name": "ISEN",
+      "latitude": 56.059534,
+      "longitude": 12.074141
+    },
+    {
+      "name": "ISEN",
+      "latitude": 56.125511,
+      "longitude": 12.30568
+    },
+    {
+      "name": "Isfabrikken Bornholm",
+      "latitude": 55.027071,
+      "longitude": 15.118417
+    },
+    {
+      "name": "Isfuglen",
+      "latitude": 56.370711,
+      "longitude": 9.657436
+    },
+    {
+      "name": "Ishus",
+      "latitude": 55.63787,
+      "longitude": 12.656856
+    },
+    {
+      "name": "Ishus Aalborg Zoo",
+      "latitude": 57.03819,
+      "longitude": 9.899586
+    },
+    {
+      "name": "Ishus Skodsborg Strand Premier",
+      "latitude": 55.827722,
+      "longitude": 12.57458
+    },
+    {
+      "name": "Ishuset",
+      "latitude": 54.999314,
+      "longitude": 12.523637
+    },
+    {
+      "name": "Ishuset",
+      "latitude": 55.152903,
+      "longitude": 8.741691
+    },
+    {
+      "name": "Ishuset",
+      "latitude": 55.17524,
+      "longitude": 10.488776
+    },
+    {
+      "name": "Ishuset",
+      "latitude": 55.564095,
+      "longitude": 11.967052
+    },
+    {
+      "name": "Ishuset",
+      "latitude": 55.705061,
+      "longitude": 9.579836
+    },
+    {
+      "name": "Ishuset",
+      "latitude": 55.708221,
+      "longitude": 9.565898
+    },
+    {
+      "name": "Ishuset",
+      "latitude": 55.779499,
+      "longitude": 8.288561
+    },
+    {
+      "name": "Ishuset",
+      "latitude": 56.0224,
+      "longitude": 10.262854
+    },
+    {
+      "name": "Ishuset",
+      "latitude": 56.991635,
+      "longitude": 10.306128
+    },
+    {
+      "name": "Ishuset / paddington antik",
+      "latitude": 55.94211,
+      "longitude": 11.516338
+    },
+    {
+      "name": "Ishuset Boslum Strand",
+      "latitude": 56.202111,
+      "longitude": 10.731787
+    },
+    {
+      "name": "Ishuset Brokmans",
+      "latitude": 56.550593,
+      "longitude": 8.307916
+    },
+    {
+      "name": "Ishuset Følle Strand",
+      "latitude": 56.296052,
+      "longitude": 10.433434
+    },
+    {
+      "name": "Ishuset Gammel Strandvej",
+      "latitude": 55.951253,
+      "longitude": 12.532097
+    },
+    {
+      "name": "Ishuset Hvidbjerg Strand",
+      "latitude": 55.54455,
+      "longitude": 8.133551
+    },
+    {
+      "name": "Ishuset Højeruplund",
+      "latitude": 55.279591,
+      "longitude": 12.444907
+    },
+    {
+      "name": "Ishuset Nanuna",
+      "latitude": 55.253035,
+      "longitude": 11.291488
+    },
+    {
+      "name": "Ishuset Orangeriet",
+      "latitude": 55.511021,
+      "longitude": 8.916979
+    },
+    {
+      "name": "Ishuset på Marselisborg Havn",
+      "latitude": 56.138731,
+      "longitude": 10.215368
+    },
+    {
+      "name": "Ishuset Rungsted Havn",
+      "latitude": 55.884772,
+      "longitude": 12.545195
+    },
+    {
+      "name": "Ishuset Sletten Havn",
+      "latitude": 55.953256,
+      "longitude": 12.53554
+    },
+    {
+      "name": "Ishuset Sletterhage",
+      "latitude": 56.095423,
+      "longitude": 10.512715
+    },
+    {
+      "name": "Ishuset ved Henne Strand",
+      "latitude": 55.740222,
+      "longitude": 8.178326
+    },
+    {
+      "name": "Ishuset ved Møllehuset",
+      "latitude": 57.420765,
+      "longitude": 10.51018
+    },
+    {
+      "name": "Ishytte",
+      "latitude": 57.270023,
+      "longitude": 9.645917
+    },
+    {
+      "name": "Iskagen Skagen",
+      "latitude": 57.721497,
+      "longitude": 10.586269
+    },
+    {
+      "name": "Iskiosk Aalborg Zoo",
+      "latitude": 57.035617,
+      "longitude": 9.89627
+    },
+    {
+      "name": "Iskonditoriet",
+      "latitude": 54.908968,
+      "longitude": 9.785695
+    },
+    {
+      "name": "Iskram Herlufmagle",
+      "latitude": 55.296691,
+      "longitude": 11.755501
+    },
+    {
+      "name": "Iskutteren",
+      "latitude": 54.995567,
+      "longitude": 12.166399
+    },
+    {
+      "name": "Iskutteren Mocca - Vordingborg",
+      "latitude": 55.005173,
+      "longitude": 11.912372
+    },
+    {
+      "name": "Ismageriet",
+      "latitude": 55.660301,
+      "longitude": 12.591537
+    },
+    {
+      "name": "Ismageriet",
+      "latitude": 55.668007,
+      "longitude": 12.560705
+    },
+    {
+      "name": "Ismageriet",
+      "latitude": 55.67218,
+      "longitude": 12.473322
+    },
+    {
+      "name": "Ismageriet",
+      "latitude": 55.731129,
+      "longitude": 12.520561
+    },
+    {
+      "name": "Ismageriet Refshaleøen",
+      "latitude": 55.692565,
+      "longitude": 12.609649
+    },
+    {
+      "name": "Ismejeriet",
+      "latitude": 55.672112,
+      "longitude": 12.568029
+    },
+    {
+      "name": "Isola",
+      "latitude": 55.567461,
+      "longitude": 12.283339
+    },
+    {
+      "name": "Isoteket",
+      "latitude": 55.688494,
+      "longitude": 12.563833
+    },
+    {
+      "name": "Isoteket",
+      "latitude": 55.705056,
+      "longitude": 12.58069
+    },
+    {
+      "name": "Isoteket - Valby Langgade",
+      "latitude": 55.666395,
+      "longitude": 12.514355
+    },
+    {
+      "name": "Isoteket Nordhavn",
+      "latitude": 55.706912,
+      "longitude": 12.596364
+    },
+    {
+      "name": "Isoteket Stefansgade",
+      "latitude": 55.695532,
+      "longitude": 12.544086
+    },
+    {
+      "name": "Isoteket Vesterbros Torv",
+      "latitude": 55.671998,
+      "longitude": 12.555588
+    },
+    {
+      "name": "Istid",
+      "latitude": 55.691967,
+      "longitude": 12.544809
+    },
+    {
+      "name": "Isvaflen",
+      "latitude": 55.328977,
+      "longitude": 8.763228
+    },
+    {
+      "name": "Isvilde",
+      "latitude": 55.979955,
+      "longitude": 11.933233
+    },
+    {
+      "name": "IsVærftet",
+      "latitude": 57.048066,
+      "longitude": 9.937865
+    },
+    {
+      "name": "Isværk",
+      "latitude": 56.280778,
+      "longitude": 10.587399
+    },
+    {
+      "name": "isværket",
+      "latitude": 55.862122,
+      "longitude": 9.846958
+    },
+    {
+      "name": "ISVÆRKET :Langelinje",
+      "latitude": 55.860909,
+      "longitude": 9.875743
+    },
+    {
+      "name": "Isværket Horsens",
+      "latitude": 55.863129,
+      "longitude": 9.84628
+    },
+    {
+      "name": "Isøre Is",
+      "latitude": 55.909171,
+      "longitude": 11.660721
+    },
+    {
+      "name": "Isøre Is Ordrup",
+      "latitude": 55.82342,
+      "longitude": 11.401949
+    },
+    {
+      "name": "Italiano Ice Dream",
+      "latitude": 56.168216,
+      "longitude": 9.544975
+    },
+    {
+      "name": "Italiensk Isbutik Il Gusto",
+      "latitude": 55.397357,
+      "longitude": 10.379809
+    },
+    {
+      "name": "Jambo Feriepark Isbar",
+      "latitude": 57.278619,
+      "longitude": 9.660896
+    },
+    {
+      "name": "Jarsbo Is Torvehal 2 Stade B4",
+      "latitude": 55.684064,
+      "longitude": 12.569242
+    },
+    {
+      "name": "Jels Vikingespil Ishuset",
+      "latitude": 55.359786,
+      "longitude": 9.215363
+    },
+    {
+      "name": "Jesperhus Blomsterpark Skattekisten (P24)",
+      "latitude": 56.761759,
+      "longitude": 8.823043
+    },
+    {
+      "name": "Junior Ranger is",
+      "latitude": 56.26299,
+      "longitude": 10.738214
+    },
+    {
+      "name": "Jægerspris Is",
+      "latitude": 55.855001,
+      "longitude": 11.982092
+    },
+    {
+      "name": "Jørgen Lydolph's Isbar",
+      "latitude": 55.443858,
+      "longitude": 11.789899
+    },
+    {
+      "name": "Jørgen Lydolphs Isbar",
+      "latitude": 54.766723,
+      "longitude": 11.868517
+    },
+    {
+      "name": "Jørgen Lydolphs Isbar",
+      "latitude": 54.830319,
+      "longitude": 11.140242
+    },
+    {
+      "name": "Kajens Is & Sandwich",
+      "latitude": 55.408907,
+      "longitude": 10.383925
+    },
+    {
+      "name": "Kammersgaard Ismejeri",
+      "latitude": 56.589954,
+      "longitude": 8.241213
+    },
+    {
+      "name": "Kaptajn Gammel Havn",
+      "latitude": 55.560962,
+      "longitude": 9.757917
+    },
+    {
+      "name": "Kastrup Ishus",
+      "latitude": 55.63781,
+      "longitude": 12.636648
+    },
+    {
+      "name": "Katrinelund is",
+      "latitude": 56.010026,
+      "longitude": 12.464163
+    },
+    {
+      "name": "Ka’nalu",
+      "latitude": 55.603807,
+      "longitude": 12.385535
+    },
+    {
+      "name": "Kiosk 2",
+      "latitude": 56.423745,
+      "longitude": 10.550434
+    },
+    {
+      "name": "Kjul iskiosk",
+      "latitude": 57.587943,
+      "longitude": 10.027678
+    },
+    {
+      "name": "Kjærstrup",
+      "latitude": 55.212876,
+      "longitude": 14.970895
+    },
+    {
+      "name": "Klinte Is",
+      "latitude": 54.965877,
+      "longitude": 12.548383
+    },
+    {
+      "name": "Klithuset",
+      "latitude": 56.402634,
+      "longitude": 10.917565
+    },
+    {
+      "name": "Klostergydens Is",
+      "latitude": 57.334314,
+      "longitude": 10.527672
+    },
+    {
+      "name": "Knoldens Ishus",
+      "latitude": 55.402644,
+      "longitude": 11.217346
+    },
+    {
+      "name": "Kollerødgård",
+      "latitude": 56.102291,
+      "longitude": 12.243412
+    },
+    {
+      "name": "Krølle-Bølle Isbar Snogebæk",
+      "latitude": 55.027052,
+      "longitude": 15.119559
+    },
+    {
+      "name": "Kulhuse Isbar",
+      "latitude": 55.935071,
+      "longitude": 11.908972
+    },
+    {
+      "name": "Købmandsgårdens Isbar",
+      "latitude": 55.09664,
+      "longitude": 8.544335
+    },
+    {
+      "name": "Kødbyens Is udsalg",
+      "latitude": 55.6682,
+      "longitude": 12.560423
+    },
+    {
+      "name": "Lagoon Slush Ice",
+      "latitude": 55.736391,
+      "longitude": 9.12601
+    },
+    {
+      "name": "Lakeside",
+      "latitude": 56.093262,
+      "longitude": 9.753638
+    },
+    {
+      "name": "Langesø Vaffelhus",
+      "latitude": 55.431756,
+      "longitude": 10.203051
+    },
+    {
+      "name": "LiA Gelato",
+      "latitude": 55.70203,
+      "longitude": 12.53388
+    },
+    {
+      "name": "LiA Luxury Gelato",
+      "latitude": 55.658069,
+      "longitude": 12.635128
+    },
+    {
+      "name": "Lille Søster Is",
+      "latitude": 55.394915,
+      "longitude": 9.093657
+    },
+    {
+      "name": "Lillis isbar",
+      "latitude": 55.492203,
+      "longitude": 9.470773
+    },
+    {
+      "name": "Limfjordens ishus Struer",
+      "latitude": 56.493766,
+      "longitude": 8.592231
+    },
+    {
+      "name": "Louise's",
+      "latitude": 55.717601,
+      "longitude": 11.713071
+    },
+    {
+      "name": "Lulu Is ApS",
+      "latitude": 55.665891,
+      "longitude": 12.512226
+    },
+    {
+      "name": "Lydolph's",
+      "latitude": 55.732648,
+      "longitude": 12.575316
+    },
+    {
+      "name": "Lydolphs isbar Gilleleje",
+      "latitude": 56.125388,
+      "longitude": 12.303161
+    },
+    {
+      "name": "Lønstrup Iscafe",
+      "latitude": 57.47235,
+      "longitude": 9.797485
+    },
+    {
+      "name": "Madam Blå´s Ishus",
+      "latitude": 55.69429,
+      "longitude": 11.74834
+    },
+    {
+      "name": "Madsen's Is-Café",
+      "latitude": 55.841959,
+      "longitude": 12.431782
+    },
+    {
+      "name": "Madumsø ishus",
+      "latitude": 56.80245,
+      "longitude": 9.950673
+    },
+    {
+      "name": "Maggis",
+      "latitude": 55.683667,
+      "longitude": 12.569722
+    },
+    {
+      "name": "Maglehøj Strands Is Café",
+      "latitude": 54.735749,
+      "longitude": 11.126922
+    },
+    {
+      "name": "Mamma Che Gelato - La Fiorita",
+      "latitude": 55.683318,
+      "longitude": 12.565058
+    },
+    {
+      "name": "Mammis Gelato",
+      "latitude": 56.148214,
+      "longitude": 10.199969
+    },
+    {
+      "name": "Mammis Gelato",
+      "latitude": 56.157975,
+      "longitude": 10.209246
+    },
+    {
+      "name": "Mangaba Ishuset",
+      "latitude": 55.593257,
+      "longitude": 12.353816
+    },
+    {
+      "name": "Manolo",
+      "latitude": 55.704766,
+      "longitude": 12.498089
+    },
+    {
+      "name": "Manolo Gelato - Brøndby Strand",
+      "latitude": 55.617934,
+      "longitude": 12.420391
+    },
+    {
+      "name": "Manolo Gelato Isbar",
+      "latitude": 55.704768,
+      "longitude": 12.498038
+    },
+    {
+      "name": "Manolo Greve",
+      "latitude": 55.582632,
+      "longitude": 12.311529
+    },
+    {
+      "name": "Marielyst Is",
+      "latitude": 54.691123,
+      "longitude": 11.964558
+    },
+    {
+      "name": "Marinaens Ishus",
+      "latitude": 54.897115,
+      "longitude": 9.61964
+    },
+    {
+      "name": "Mikkelborg",
+      "latitude": 55.913434,
+      "longitude": 12.52083
+    },
+    {
+      "name": "Mochitimecph",
+      "latitude": 55.684182,
+      "longitude": 12.569574
+    },
+    {
+      "name": "Moesgård Strandkiosk",
+      "latitude": 56.088968,
+      "longitude": 10.247624
+    },
+    {
+      "name": "Monaco Iskiosk",
+      "latitude": 55.775242,
+      "longitude": 12.574603
+    },
+    {
+      "name": "Mormors Kræmmerhus",
+      "latitude": 57.293992,
+      "longitude": 10.923358
+    },
+    {
+      "name": "Mosede havn grill og ishus",
+      "latitude": 55.566464,
+      "longitude": 12.28472
+    },
+    {
+      "name": "Mosens Isbar",
+      "latitude": 55.392686,
+      "longitude": 10.381
+    },
+    {
+      "name": "Mosters Ishus",
+      "latitude": 55.912085,
+      "longitude": 10.255011
+    },
+    {
+      "name": "MRZ IS SKANDERBORG",
+      "latitude": 56.033377,
+      "longitude": 9.931704
+    },
+    {
+      "name": "Myretuen",
+      "latitude": 55.261541,
+      "longitude": 11.864617
+    },
+    {
+      "name": "Mælkevejen Ismejeri",
+      "latitude": 55.693118,
+      "longitude": 12.60987
+    },
+    {
+      "name": "Møn is",
+      "latitude": 54.968591,
+      "longitude": 12.36764
+    },
+    {
+      "name": "Nanas",
+      "latitude": 57.724481,
+      "longitude": 10.595695
+    },
+    {
+      "name": "Nanas Is- og Kaffebar",
+      "latitude": 57.722017,
+      "longitude": 10.587345
+    },
+    {
+      "name": "Neve Gelato",
+      "latitude": 55.687393,
+      "longitude": 12.530181
+    },
+    {
+      "name": "Nila Is",
+      "latitude": 55.686869,
+      "longitude": 12.55893
+    },
+    {
+      "name": "NiVi Gelato",
+      "latitude": 56.118816,
+      "longitude": 8.114987
+    },
+    {
+      "name": "Nordstrandens Ishus",
+      "latitude": 57.461059,
+      "longitude": 10.537482
+    },
+    {
+      "name": "Nordstrands Mums",
+      "latitude": 55.938092,
+      "longitude": 11.664292
+    },
+    {
+      "name": "Nybro Iskiosk",
+      "latitude": 55.774458,
+      "longitude": 12.468308
+    },
+    {
+      "name": "Nyhavn 40",
+      "latitude": 55.679184,
+      "longitude": 12.591807
+    },
+    {
+      "name": "Nymindegab Is",
+      "latitude": 55.817284,
+      "longitude": 8.192687
+    },
+    {
+      "name": "Nødvendigv’is",
+      "latitude": 55.71073,
+      "longitude": 12.51661
+    },
+    {
+      "name": "Odder'Isen",
+      "latitude": 55.972128,
+      "longitude": 10.144604
+    },
+    {
+      "name": "Odense Ismejeri - Gooodis",
+      "latitude": 55.398468,
+      "longitude": 10.389635
+    },
+    {
+      "name": "Okkels Aarhus C",
+      "latitude": 56.160521,
+      "longitude": 10.208769
+    },
+    {
+      "name": "Okkels is Viborg",
+      "latitude": 56.449034,
+      "longitude": 9.4082
+    },
+    {
+      "name": "Okkels Risskov",
+      "latitude": 56.194995,
+      "longitude": 10.24683
+    },
+    {
+      "name": "Orø Strandcamping",
+      "latitude": 55.786897,
+      "longitude": 11.794031
+    },
+    {
+      "name": "OSTERBERG ICE CREAM",
+      "latitude": 55.681288,
+      "longitude": 12.583053
+    },
+    {
+      "name": "Palæ Isbar",
+      "latitude": 55.775601,
+      "longitude": 12.575347
+    },
+    {
+      "name": "Paradis",
+      "latitude": 55.713862,
+      "longitude": 10.015272
+    },
+    {
+      "name": "Paradis",
+      "latitude": 55.714809,
+      "longitude": 10.015289
+    },
+    {
+      "name": "Paradis",
+      "latitude": 57.047611,
+      "longitude": 9.920293
+    },
+    {
+      "name": "Paradis Fisketorvet",
+      "latitude": 55.662121,
+      "longitude": 12.561431
+    },
+    {
+      "name": "Paradis Gentofte",
+      "latitude": 55.747327,
+      "longitude": 12.540853
+    },
+    {
+      "name": "Paradis Hillerød",
+      "latitude": 55.931527,
+      "longitude": 12.298847
+    },
+    {
+      "name": "Paradis Is",
+      "latitude": 55.862383,
+      "longitude": 9.8461
+    },
+    {
+      "name": "Paradis is",
+      "latitude": 56.198191,
+      "longitude": 10.677382
+    },
+    {
+      "name": "Paradis Is",
+      "latitude": 57.049852,
+      "longitude": 9.910869
+    },
+    {
+      "name": "Paradis Is Fields",
+      "latitude": 55.630106,
+      "longitude": 12.577056
+    },
+    {
+      "name": "Paradis Is Havnen",
+      "latitude": 57.051462,
+      "longitude": 9.920957
+    },
+    {
+      "name": "Paradis Is Køge",
+      "latitude": 55.455597,
+      "longitude": 12.18129
+    },
+    {
+      "name": "Paradis is Rosengårdcentret",
+      "latitude": 55.384679,
+      "longitude": 10.425892
+    },
+    {
+      "name": "Paradis is Solrød",
+      "latitude": 55.534236,
+      "longitude": 12.223862
+    },
+    {
+      "name": "Paradis Lyngby",
+      "latitude": 55.770053,
+      "longitude": 12.503882
+    },
+    {
+      "name": "Paradis Marienlyst",
+      "latitude": 54.690861,
+      "longitude": 11.966614
+    },
+    {
+      "name": "Paradis Nørreport",
+      "latitude": 55.684053,
+      "longitude": 12.570055
+    },
+    {
+      "name": "Paradis Odense IS",
+      "latitude": 55.394502,
+      "longitude": 10.385554
+    },
+    {
+      "name": "Paradis Valby",
+      "latitude": 55.66293,
+      "longitude": 12.51619
+    },
+    {
+      "name": "Paradis Vanløse",
+      "latitude": 55.68771,
+      "longitude": 12.489672
+    },
+    {
+      "name": "Pelles Is",
+      "latitude": 55.260258,
+      "longitude": 11.865865
+    },
+    {
+      "name": "Peter Lieps Hus Ishus",
+      "latitude": 55.777465,
+      "longitude": 12.577012
+    },
+    {
+      "name": "Pindisen",
+      "latitude": 54.751203,
+      "longitude": 10.674739
+    },
+    {
+      "name": "Pjerrots Ishus",
+      "latitude": 55.775505,
+      "longitude": 12.574314
+    },
+    {
+      "name": "Popsicle",
+      "latitude": 56.151388,
+      "longitude": 10.209414
+    },
+    {
+      "name": "Poulsens Ishus",
+      "latitude": 55.855149,
+      "longitude": 11.982908
+    },
+    {
+      "name": "Privaten Iscafe",
+      "latitude": 57.168386,
+      "longitude": 9.716773
+    },
+    {
+      "name": "Provianten is",
+      "latitude": 55.470519,
+      "longitude": 12.196254
+    },
+    {
+      "name": "Præstø IS",
+      "latitude": 55.121649,
+      "longitude": 12.039174
+    },
+    {
+      "name": "Rajissimo",
+      "latitude": 55.678202,
+      "longitude": 12.573047
+    },
+    {
+      "name": "Rajissimo",
+      "latitude": 55.680293,
+      "longitude": 12.584608
+    },
+    {
+      "name": "Rajissimo",
+      "latitude": 55.680434,
+      "longitude": 12.589386
+    },
+    {
+      "name": "Rajissimo 10",
+      "latitude": 55.703714,
+      "longitude": 12.600925
+    },
+    {
+      "name": "Rajissimo 5",
+      "latitude": 55.676801,
+      "longitude": 12.570026
+    },
+    {
+      "name": "Rajissimo fisketorvet",
+      "latitude": 55.662395,
+      "longitude": 12.562339
+    },
+    {
+      "name": "Rani Isbar",
+      "latitude": 55.251017,
+      "longitude": 9.485591
+    },
+    {
+      "name": "Ree Park Ishus",
+      "latitude": 56.263035,
+      "longitude": 10.73816
+    },
+    {
+      "name": "Regnbuen",
+      "latitude": 55.776295,
+      "longitude": 12.574676
+    },
+    {
+      "name": "Restaurant Lilleheden Isbod",
+      "latitude": 57.59085,
+      "longitude": 9.955776
+    },
+    {
+      "name": "Roberts Isbar",
+      "latitude": 55.707384,
+      "longitude": 9.538716
+    },
+    {
+      "name": "Roskilde Ismejeri Algade",
+      "latitude": 55.640808,
+      "longitude": 12.088407
+    },
+    {
+      "name": "Ryegaard Ishus",
+      "latitude": 55.673827,
+      "longitude": 11.815652
+    },
+    {
+      "name": "Ryå Is",
+      "latitude": 57.056996,
+      "longitude": 9.900804
+    },
+    {
+      "name": "Rødhus Cafe & Isbar",
+      "latitude": 57.212529,
+      "longitude": 9.51965
+    },
+    {
+      "name": "Rørvig Færgekiosk",
+      "latitude": 55.945682,
+      "longitude": 11.766383
+    },
+    {
+      "name": "Siciliansk Is Skjolds Plads",
+      "latitude": 55.70341,
+      "longitude": 12.549871
+    },
+    {
+      "name": "Simony Gourmet Is",
+      "latitude": 55.403311,
+      "longitude": 11.359547
+    },
+    {
+      "name": "Sissis",
+      "latitude": 55.026985,
+      "longitude": 15.119626
+    },
+    {
+      "name": "Skarø Is",
+      "latitude": 55.006926,
+      "longitude": 10.468389
+    },
+    {
+      "name": "Skattekisten",
+      "latitude": 57.269415,
+      "longitude": 9.651621
+    },
+    {
+      "name": "Skotterup ishus",
+      "latitude": 56.006086,
+      "longitude": 12.579903
+    },
+    {
+      "name": "Skov Vaflen",
+      "latitude": 55.501266,
+      "longitude": 9.712268
+    },
+    {
+      "name": "Skovby Is og Grill",
+      "latitude": 54.883444,
+      "longitude": 9.995014
+    },
+    {
+      "name": "Skovens Fristelser",
+      "latitude": 56.846443,
+      "longitude": 9.468343
+    },
+    {
+      "name": "Skovgrillen",
+      "latitude": 55.502187,
+      "longitude": 9.708454
+    },
+    {
+      "name": "Skovtrolden",
+      "latitude": 55.125244,
+      "longitude": 10.254508
+    },
+    {
+      "name": "Skåstrup ishus",
+      "latitude": 55.530358,
+      "longitude": 10.00951
+    },
+    {
+      "name": "Slette Strand Gamle Iscafe",
+      "latitude": 57.153255,
+      "longitude": 9.364325
+    },
+    {
+      "name": "Slusehuset",
+      "latitude": 55.234246,
+      "longitude": 11.750652
+    },
+    {
+      "name": "Slusen",
+      "latitude": 56.004853,
+      "longitude": 8.130346
+    },
+    {
+      "name": "Slush Ice Bod",
+      "latitude": 57.271835,
+      "longitude": 9.645689
+    },
+    {
+      "name": "Slush Ice Paradise",
+      "latitude": 55.736104,
+      "longitude": 9.125504
+    },
+    {
+      "name": "Slushfabrik",
+      "latitude": 57.27021,
+      "longitude": 9.643744
+    },
+    {
+      "name": "SolKiosken",
+      "latitude": 55.628348,
+      "longitude": 12.486567
+    },
+    {
+      "name": "Solrød Ishus",
+      "latitude": 55.53368,
+      "longitude": 12.215985
+    },
+    {
+      "name": "Stacys Næstved Ishus",
+      "latitude": 55.21974,
+      "longitude": 11.752247
+    },
+    {
+      "name": "Strandcafeen Hesselbjerg",
+      "latitude": 54.802997,
+      "longitude": 10.656073
+    },
+    {
+      "name": "Strandens ishus",
+      "latitude": 55.45479,
+      "longitude": 10.664923
+    },
+    {
+      "name": "Strandens Ishus",
+      "latitude": 56.70657,
+      "longitude": 8.217171
+    },
+    {
+      "name": "Strandhuset Vejers",
+      "latitude": 55.626013,
+      "longitude": 8.124994
+    },
+    {
+      "name": "Strandhytten",
+      "latitude": 55.658248,
+      "longitude": 12.642863
+    },
+    {
+      "name": "Strynø Is",
+      "latitude": 54.904523,
+      "longitude": 10.609273
+    },
+    {
+      "name": "Stubbegaard Ismejeri",
+      "latitude": 56.430258,
+      "longitude": 8.902539
+    },
+    {
+      "name": "Svinkløv Ishus",
+      "latitude": 57.152033,
+      "longitude": 9.328037
+    },
+    {
+      "name": "Sweet & Coffee",
+      "latitude": 55.121431,
+      "longitude": 12.040403
+    },
+    {
+      "name": "Sylles Isfabrik",
+      "latitude": 56.715914,
+      "longitude": 11.513168
+    },
+    {
+      "name": "Søndervig Is & Grill",
+      "latitude": 56.121198,
+      "longitude": 8.114691
+    },
+    {
+      "name": "Søpavillonen Stige Ø",
+      "latitude": 55.448828,
+      "longitude": 10.42655
+    },
+    {
+      "name": "Sørup Is & Kaffestue",
+      "latitude": 55.978667,
+      "longitude": 12.381208
+    },
+    {
+      "name": "Søster Is",
+      "latitude": 55.251056,
+      "longitude": 9.489769
+    },
+    {
+      "name": "Søstrene P",
+      "latitude": 55.612622,
+      "longitude": 12.397464
+    },
+    {
+      "name": "Tante Vaffel",
+      "latitude": 55.667546,
+      "longitude": 12.546437
+    },
+    {
+      "name": "The Elis",
+      "latitude": 55.678369,
+      "longitude": 12.590184
+    },
+    {
+      "name": "The waffle house",
+      "latitude": 55.678528,
+      "longitude": 12.575836
+    },
+    {
+      "name": "TheFrozenFactory",
+      "latitude": 55.648707,
+      "longitude": 12.554702
+    },
+    {
+      "name": "Thurø Strand Camping",
+      "latitude": 55.044763,
+      "longitude": 10.710241
+    },
+    {
+      "name": "Tibberuphus",
+      "latitude": 55.988303,
+      "longitude": 12.249924
+    },
+    {
+      "name": "Tiger-is",
+      "latitude": 55.378869,
+      "longitude": 10.374299
+    },
+    {
+      "name": "Tivoli Friheden Voel Ismejeri",
+      "latitude": 56.136773,
+      "longitude": 10.198201
+    },
+    {
+      "name": "Tivoli Vaffelbageriet",
+      "latitude": 55.674396,
+      "longitude": 12.567776
+    },
+    {
+      "name": "TO-GO Isbar",
+      "latitude": 55.051422,
+      "longitude": 9.834348
+    },
+    {
+      "name": "Tornby Ishus",
+      "latitude": 57.559278,
+      "longitude": 9.91709
+    },
+    {
+      "name": "Torvets Isbar",
+      "latitude": 55.328496,
+      "longitude": 8.761711
+    },
+    {
+      "name": "Torvets Isbutik",
+      "latitude": 57.251953,
+      "longitude": 9.583986
+    },
+    {
+      "name": "Torvets Vaffelhus",
+      "latitude": 55.928878,
+      "longitude": 12.303949
+    },
+    {
+      "name": "Torvets Vaffelhus",
+      "latitude": 55.929958,
+      "longitude": 12.302295
+    },
+    {
+      "name": "Tram grill og is",
+      "latitude": 55.247505,
+      "longitude": 9.492134
+    },
+    {
+      "name": "Trekanten Pizzeria og Ishus",
+      "latitude": 55.980155,
+      "longitude": 10.250653
+    },
+    {
+      "name": "Trekroner Isen",
+      "latitude": 55.648645,
+      "longitude": 12.132696
+    },
+    {
+      "name": "Udsigtens isbod",
+      "latitude": 55.404327,
+      "longitude": 12.289859
+    },
+    {
+      "name": "Uganda Ismejeri",
+      "latitude": 55.611967,
+      "longitude": 12.612453
+    },
+    {
+      "name": "Under Sejlet Iscafeen",
+      "latitude": 55.034067,
+      "longitude": 9.421407
+    },
+    {
+      "name": "Vaffel og pandekagehuset jelling",
+      "latitude": 55.756461,
+      "longitude": 9.418153
+    },
+    {
+      "name": "Vaffel-Hytten Nykøbing",
+      "latitude": 54.766726,
+      "longitude": 11.891104
+    },
+    {
+      "name": "Vaffelbageren",
+      "latitude": 57.252897,
+      "longitude": 9.583212
+    },
+    {
+      "name": "Vaffelbageren & YOCO",
+      "latitude": 56.650405,
+      "longitude": 9.98228
+    },
+    {
+      "name": "Vaffelbageren Faaborg",
+      "latitude": 55.09534,
+      "longitude": 10.241142
+    },
+    {
+      "name": "Vaffelbageriet Dragør",
+      "latitude": 55.593858,
+      "longitude": 12.673195
+    },
+    {
+      "name": "Vaffelbageriet Enø",
+      "latitude": 55.177165,
+      "longitude": 11.650545
+    },
+    {
+      "name": "Vaffelboden",
+      "latitude": 54.911849,
+      "longitude": 9.792326
+    },
+    {
+      "name": "Vaffelboden",
+      "latitude": 56.089976,
+      "longitude": 8.243822
+    },
+    {
+      "name": "Vaffelboden",
+      "latitude": 57.47275,
+      "longitude": 9.797122
+    },
+    {
+      "name": "Vaffelhjørnet",
+      "latitude": 55.966134,
+      "longitude": 11.84942
+    },
+    {
+      "name": "Vaffelhuset",
+      "latitude": 55.057693,
+      "longitude": 9.747454
+    },
+    {
+      "name": "Vaffelhuset",
+      "latitude": 55.750175,
+      "longitude": 11.959244
+    },
+    {
+      "name": "Vaffelhuset",
+      "latitude": 55.811043,
+      "longitude": 9.354391
+    },
+    {
+      "name": "Vaffelhuset",
+      "latitude": 55.979853,
+      "longitude": 12.396917
+    },
+    {
+      "name": "Vaffelhuset",
+      "latitude": 57.055589,
+      "longitude": 10.375938
+    },
+    {
+      "name": "Vaffelhuset Fjellerup Strand",
+      "latitude": 56.51849,
+      "longitude": 10.598301
+    },
+    {
+      "name": "Vaffelhuset is",
+      "latitude": 55.449805,
+      "longitude": 10.65825
+    },
+    {
+      "name": "Vaffelhuset, Rørvig",
+      "latitude": 55.944946,
+      "longitude": 11.765646
+    },
+    {
+      "name": "Vaflen",
+      "latitude": 55.673828,
+      "longitude": 12.082207
+    },
+    {
+      "name": "Vaflen",
+      "latitude": 57.252001,
+      "longitude": 9.584723
+    },
+    {
+      "name": "Vafler & Is",
+      "latitude": 57.270597,
+      "longitude": 9.653641
+    },
+    {
+      "name": "Vanni Is",
+      "latitude": 56.449799,
+      "longitude": 9.409486
+    },
+    {
+      "name": "Varbjerg Ishus",
+      "latitude": 55.516823,
+      "longitude": 9.953227
+    },
+    {
+      "name": "Vebbestrup Ismejeri",
+      "latitude": 56.723851,
+      "longitude": 9.823655
+    },
+    {
+      "name": "Viftens ishus",
+      "latitude": 55.67378,
+      "longitude": 12.570891
+    },
+    {
+      "name": "Viggos Vaffelvogn",
+      "latitude": 55.260915,
+      "longitude": 11.865194
+    },
+    {
+      "name": "Vildglad is",
+      "latitude": 55.651733,
+      "longitude": 12.611602
+    },
+    {
+      "name": "Viola",
+      "latitude": 55.326697,
+      "longitude": 11.963483
+    },
+    {
+      "name": "Voel Ismejeri",
+      "latitude": 56.193206,
+      "longitude": 9.698098
+    },
+    {
+      "name": "Waffles",
+      "latitude": 56.090803,
+      "longitude": 8.245237
+    },
+    {
+      "name": "We love icecream",
+      "latitude": 55.759158,
+      "longitude": 12.601632
+    },
+    {
+      "name": "West Coast Ice",
+      "latitude": 55.999303,
+      "longitude": 8.125726
+    },
+    {
+      "name": "White rabbit",
+      "latitude": 55.693236,
+      "longitude": 12.609487
+    },
+    {
+      "name": "Wildscoop",
+      "latitude": 55.687131,
+      "longitude": 12.548231
+    },
+    {
+      "name": "Zigis dessertcafe",
+      "latitude": 56.155515,
+      "longitude": 10.168867
+    },
+    {
+      "name": "Ærøskøbing Is og Knejpen",
+      "latitude": 54.887981,
+      "longitude": 10.410939
+    },
+    {
+      "name": "Østerberg Ice Cream",
+      "latitude": 55.673406,
+      "longitude": 12.550551
+    },
+    {
+      "name": "Østerberg Ice Cream",
+      "latitude": 55.69896,
+      "longitude": 12.579521
+    },
+    {
+      "name": "Østerberg Ice Cream",
+      "latitude": 55.849669,
+      "longitude": 12.570739
+    }
+  ],
+  "meta": {
+    "title": "Isbutikker i Danmark (Ice cream parlours in Denmark) - Gratis download",
+    "description": "Ice cream parlours in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=ice_cream. Indeholder 472 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Isbutikker i Danmark (Ice cream parlours in Denmark) | ListBase",
+    "seo_description": "Download Isbutikker i Danmark (Ice cream parlours in Denmark) — 472 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 472 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

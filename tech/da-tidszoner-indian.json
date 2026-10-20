@@ -1,0 +1,96 @@
+{
+  "id": "da-tidszoner-indian",
+  "name": "Tidszoner: Indian (5)",
+  "title": "Tidszoner: Indian (5)",
+  "description": "CLDR da-lokalets tidszoner i regionen 'Indian'.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "by_navn",
+      "label": "By Navn",
+      "type": "string"
+    },
+    {
+      "key": "standardtid",
+      "label": "Standardtid",
+      "type": "string"
+    },
+    {
+      "key": "sommertid",
+      "label": "Sommertid",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tz_id": "Indian/Christmas",
+      "region": "Indian",
+      "by_navn": "Juleøen",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 1
+    },
+    {
+      "tz_id": "Indian/Comoro",
+      "region": "Indian",
+      "by_navn": "Comorerne",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 2
+    },
+    {
+      "tz_id": "Indian/Mahe",
+      "region": "Indian",
+      "by_navn": "Mahé",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 3
+    },
+    {
+      "tz_id": "Indian/Maldives",
+      "region": "Indian",
+      "by_navn": "Maldiverne",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 4
+    },
+    {
+      "tz_id": "Indian/Reunion",
+      "region": "Indian",
+      "by_navn": "Réunion",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 5
+    }
+  ],
+  "meta": {
+    "title": "Tidszoner: Indian (5) - Gratis download",
+    "description": "CLDR da-lokalets tidszoner i regionen 'Indian'. Indeholder 5 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Tidszoner: Indian (5) | ListBase",
+    "seo_description": "Download Tidszoner: Indian (5) — 5 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 5 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

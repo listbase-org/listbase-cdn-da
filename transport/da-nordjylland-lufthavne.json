@@ -1,0 +1,211 @@
+{
+  "id": "da-nordjylland-lufthavne",
+  "name": "Lufthavne — Region Nordjylland",
+  "title": "Lufthavne — Region Nordjylland",
+  "description": "Lufthavne og flyvepladser i Region Nordjylland (Danmark / DK) — ICAO/IATA-koder, by, koordinater (WGS84), højde og tidszone. Udsnit af det nationale flagship-datasæt `da-lufthavne` filtreret på Region Nordjylland. (Airports in North Denmark Region — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EKHS",
+      "iata": "",
+      "name": "Hadsund Airport",
+      "city": "Hadsund",
+      "subdivision": "North Denmark Region",
+      "subdivision_native": "Region Nordjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 8,
+      "latitude": 56.75592,
+      "longitude": 10.22883,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKLS",
+      "iata": "BYR",
+      "name": "Laeso Airport",
+      "city": "Laeso",
+      "subdivision": "North Denmark Region",
+      "subdivision_native": "Region Nordjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 25,
+      "latitude": 57.2772,
+      "longitude": 11.0001,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKNM",
+      "iata": "",
+      "name": "Morso Airport Todso",
+      "city": "Morso",
+      "subdivision": "North Denmark Region",
+      "subdivision_native": "Region Nordjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 53,
+      "latitude": 56.8244,
+      "longitude": 8.78667,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKSA",
+      "iata": "",
+      "name": "Saeby (Ottestrup) Airport",
+      "city": "Saeby",
+      "subdivision": "North Denmark Region",
+      "subdivision_native": "Region Nordjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 110,
+      "latitude": 57.3467,
+      "longitude": 10.407,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKSN",
+      "iata": "CNL",
+      "name": "Sindal Airport",
+      "city": "Sindal",
+      "subdivision": "North Denmark Region",
+      "subdivision_native": "Region Nordjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 92,
+      "latitude": 57.5035,
+      "longitude": 10.2294,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKTS",
+      "iata": "TED",
+      "name": "Thisted Airport",
+      "city": "Thisted",
+      "subdivision": "North Denmark Region",
+      "subdivision_native": "Region Nordjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 23,
+      "latitude": 57.0688,
+      "longitude": 8.70522,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKVH",
+      "iata": "",
+      "name": "Aars Airport",
+      "city": "Aars",
+      "subdivision": "North Denmark Region",
+      "subdivision_native": "Region Nordjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 119,
+      "latitude": 56.8469,
+      "longitude": 9.45861,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKYT",
+      "iata": "AAL",
+      "name": "Aalborg Airport",
+      "city": "Aalborg",
+      "subdivision": "North Denmark Region",
+      "subdivision_native": "Region Nordjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 10,
+      "latitude": 57.09276,
+      "longitude": 9.84924,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Lufthavne — Region Nordjylland - Gratis download",
+    "description": "Lufthavne og flyvepladser i Region Nordjylland (Danmark / DK) — ICAO/IATA-koder, by, koordinater (WGS84), højde og tidszone. Udsnit af det nationale flagship-datasæt `da-lufthavne` filtreret på Region Nordjylland. (Airports in North Denmark Region — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.) Indeholder 8 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Lufthavne — Region Nordjylland | ListBase",
+    "seo_description": "Download Lufthavne — Region Nordjylland — 8 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 8 poster / 13 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

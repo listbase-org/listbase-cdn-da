@@ -1,0 +1,1861 @@
+{
+  "id": "da-ejendomsmaeglere",
+  "name": "Ejendomsmæglere i Danmark (Estate agents in Denmark)",
+  "title": "Ejendomsmæglere i Danmark (Estate agents in Denmark)",
+  "description": "Estate agents in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: office=estate_agent.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 364,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "& Living",
+      "latitude": 55.695011,
+      "longitude": 12.580906
+    },
+    {
+      "name": "&Living",
+      "latitude": 57.047412,
+      "longitude": 9.915296
+    },
+    {
+      "name": "Aalborg Boligselskab",
+      "latitude": 57.042671,
+      "longitude": 9.891322
+    },
+    {
+      "name": "Adam Schnack",
+      "latitude": 55.673394,
+      "longitude": 12.547644
+    },
+    {
+      "name": "Admiral Strand",
+      "latitude": 57.248426,
+      "longitude": 9.616904
+    },
+    {
+      "name": "Agat Ejendomme",
+      "latitude": 57.04604,
+      "longitude": 9.922
+    },
+    {
+      "name": "agriteam",
+      "latitude": 55.483571,
+      "longitude": 9.018487
+    },
+    {
+      "name": "Ah Bolig",
+      "latitude": 55.868876,
+      "longitude": 9.845407
+    },
+    {
+      "name": "Als Mægleren",
+      "latitude": 54.913049,
+      "longitude": 9.792954
+    },
+    {
+      "name": "Apartment in Copenhagen",
+      "latitude": 55.706188,
+      "longitude": 12.579687
+    },
+    {
+      "name": "Askaer & Nøhr",
+      "latitude": 55.059246,
+      "longitude": 10.605222
+    },
+    {
+      "name": "Aunbøl",
+      "latitude": 55.468367,
+      "longitude": 8.438167
+    },
+    {
+      "name": "Barfoed Group",
+      "latitude": 55.396934,
+      "longitude": 10.394867
+    },
+    {
+      "name": "Benzon",
+      "latitude": 55.962982,
+      "longitude": 11.851021
+    },
+    {
+      "name": "Billund",
+      "latitude": 55.567046,
+      "longitude": 9.757551
+    },
+    {
+      "name": "Boli.nu",
+      "latitude": 55.56024,
+      "longitude": 9.717463
+    },
+    {
+      "name": "Bolig 24-7",
+      "latitude": 55.497737,
+      "longitude": 8.48264
+    },
+    {
+      "name": "Bolig Butikken Aaskov Ejendomscenter",
+      "latitude": 56.037798,
+      "longitude": 8.858263
+    },
+    {
+      "name": "Bolig Kolding",
+      "latitude": 55.47226,
+      "longitude": 9.470278
+    },
+    {
+      "name": "Boligbutikken",
+      "latitude": 55.56701,
+      "longitude": 9.759001
+    },
+    {
+      "name": "BoligCenter Vestjylland",
+      "latitude": 56.090708,
+      "longitude": 8.241866
+    },
+    {
+      "name": "Boligkontoret Fredericia",
+      "latitude": 55.569214,
+      "longitude": 9.748794
+    },
+    {
+      "name": "Boligselskabet Friheden",
+      "latitude": 55.626022,
+      "longitude": 12.484579
+    },
+    {
+      "name": "Byens Mægler",
+      "latitude": 56.972408,
+      "longitude": 9.853092
+    },
+    {
+      "name": "Byens Service",
+      "latitude": 55.683063,
+      "longitude": 12.483548
+    },
+    {
+      "name": "Charles Andersen",
+      "latitude": 55.634686,
+      "longitude": 12.468032
+    },
+    {
+      "name": "Dahl-Jensen Ejendomme",
+      "latitude": 57.045996,
+      "longitude": 9.912967
+    },
+    {
+      "name": "Dan Center",
+      "latitude": 55.637931,
+      "longitude": 9.700453
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 54.91109,
+      "longitude": 9.788972
+    },
+    {
+      "name": "danbolig",
+      "latitude": 54.983712,
+      "longitude": 12.285276
+    },
+    {
+      "name": "danbolig",
+      "latitude": 55.05959,
+      "longitude": 10.607251
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.231623,
+      "longitude": 11.766686
+    },
+    {
+      "name": "danbolig",
+      "latitude": 55.312432,
+      "longitude": 10.790962
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.374438,
+      "longitude": 10.369527
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.442167,
+      "longitude": 11.210158
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.479523,
+      "longitude": 8.429741
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.504712,
+      "longitude": 9.735053
+    },
+    {
+      "name": "danbolig",
+      "latitude": 55.634285,
+      "longitude": 9.741625
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.646066,
+      "longitude": 12.614698
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.648515,
+      "longitude": 12.533324
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.666472,
+      "longitude": 12.506532
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.691495,
+      "longitude": 12.487607
+    },
+    {
+      "name": "danbolig",
+      "latitude": 55.703249,
+      "longitude": 12.587147
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.723649,
+      "longitude": 12.439049
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.739746,
+      "longitude": 8.179785
+    },
+    {
+      "name": "danbolig",
+      "latitude": 55.783255,
+      "longitude": 12.375531
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.840483,
+      "longitude": 12.431182
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.860483,
+      "longitude": 9.845846
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.884475,
+      "longitude": 11.550607
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 55.964423,
+      "longitude": 11.847948
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 56.033493,
+      "longitude": 8.854298
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 56.128295,
+      "longitude": 10.162995
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 56.149554,
+      "longitude": 10.203437
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 56.163859,
+      "longitude": 10.222217
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 56.450267,
+      "longitude": 9.409358
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 56.457242,
+      "longitude": 10.0392
+    },
+    {
+      "name": "DanBolig",
+      "latitude": 57.0578,
+      "longitude": 9.922598
+    },
+    {
+      "name": "Danbolig",
+      "latitude": 57.459171,
+      "longitude": 9.989045
+    },
+    {
+      "name": "Danbolig Bagsværd",
+      "latitude": 55.759808,
+      "longitude": 12.456209
+    },
+    {
+      "name": "DanBolig Fredensborg",
+      "latitude": 55.97818,
+      "longitude": 12.40178
+    },
+    {
+      "name": "Danbolig Jægerspris",
+      "latitude": 55.855128,
+      "longitude": 11.985464
+    },
+    {
+      "name": "DanBolig Roskilde – Hersegade",
+      "latitude": 55.640548,
+      "longitude": 12.084507
+    },
+    {
+      "name": "Danbolig Trøjborg",
+      "latitude": 56.171618,
+      "longitude": 10.216021
+    },
+    {
+      "name": "danbolig Vejen",
+      "latitude": 55.477823,
+      "longitude": 9.138788
+    },
+    {
+      "name": "danbolig Virum",
+      "latitude": 55.795515,
+      "longitude": 12.472331
+    },
+    {
+      "name": "DanCenter",
+      "latitude": 57.248011,
+      "longitude": 9.62013
+    },
+    {
+      "name": "DanCenter",
+      "latitude": 57.394043,
+      "longitude": 9.781659
+    },
+    {
+      "name": "DanCenter Ålbæk",
+      "latitude": 57.596912,
+      "longitude": 10.415198
+    },
+    {
+      "name": "Danske Lejere",
+      "latitude": 55.863767,
+      "longitude": 9.848175
+    },
+    {
+      "name": "Dit Hjem",
+      "latitude": 57.046576,
+      "longitude": 9.913284
+    },
+    {
+      "name": "DK Boligsalg",
+      "latitude": 55.672226,
+      "longitude": 12.473759
+    },
+    {
+      "name": "EDC",
+      "latitude": 55.239339,
+      "longitude": 10.479981
+    },
+    {
+      "name": "EDC",
+      "latitude": 55.345443,
+      "longitude": 8.776697
+    },
+    {
+      "name": "EDC",
+      "latitude": 55.49014,
+      "longitude": 9.477403
+    },
+    {
+      "name": "EDC",
+      "latitude": 55.567546,
+      "longitude": 9.75898
+    },
+    {
+      "name": "EDC",
+      "latitude": 55.591248,
+      "longitude": 11.862613
+    },
+    {
+      "name": "EDC",
+      "latitude": 55.620245,
+      "longitude": 8.480511
+    },
+    {
+      "name": "EDC",
+      "latitude": 55.689554,
+      "longitude": 12.519536
+    },
+    {
+      "name": "EDC",
+      "latitude": 55.690406,
+      "longitude": 12.487925
+    },
+    {
+      "name": "EDC",
+      "latitude": 55.702127,
+      "longitude": 12.582022
+    },
+    {
+      "name": "EDC",
+      "latitude": 55.783428,
+      "longitude": 12.37228
+    },
+    {
+      "name": "EDC",
+      "latitude": 55.839391,
+      "longitude": 12.43052
+    },
+    {
+      "name": "EDC",
+      "latitude": 55.843203,
+      "longitude": 9.841446
+    },
+    {
+      "name": "EDC",
+      "latitude": 55.923187,
+      "longitude": 11.670503
+    },
+    {
+      "name": "EDC",
+      "latitude": 56.129393,
+      "longitude": 10.164224
+    },
+    {
+      "name": "EDC",
+      "latitude": 56.159749,
+      "longitude": 10.20399
+    },
+    {
+      "name": "EDC",
+      "latitude": 56.174602,
+      "longitude": 10.202366
+    },
+    {
+      "name": "EDC",
+      "latitude": 56.272824,
+      "longitude": 8.320827
+    },
+    {
+      "name": "EDC",
+      "latitude": 56.300725,
+      "longitude": 10.476399
+    },
+    {
+      "name": "EDC",
+      "latitude": 56.375559,
+      "longitude": 8.616167
+    },
+    {
+      "name": "EDC",
+      "latitude": 56.449629,
+      "longitude": 9.408197
+    },
+    {
+      "name": "EDC",
+      "latitude": 56.45058,
+      "longitude": 9.40923
+    },
+    {
+      "name": "EDC",
+      "latitude": 56.716152,
+      "longitude": 10.114249
+    },
+    {
+      "name": "EDC",
+      "latitude": 57.058445,
+      "longitude": 9.923108
+    },
+    {
+      "name": "EDC Blåvand",
+      "latitude": 55.555514,
+      "longitude": 8.13169
+    },
+    {
+      "name": "EDC Danebo",
+      "latitude": 57.159601,
+      "longitude": 10.29055
+    },
+    {
+      "name": "EDC Danebo",
+      "latitude": 57.251589,
+      "longitude": 9.587858
+    },
+    {
+      "name": "EDC Domus",
+      "latitude": 55.47541,
+      "longitude": 9.468689
+    },
+    {
+      "name": "EDC Domus",
+      "latitude": 55.711264,
+      "longitude": 9.536813
+    },
+    {
+      "name": "EDC Fanø",
+      "latitude": 55.438587,
+      "longitude": 8.395295
+    },
+    {
+      "name": "EDC Gilbjerg & Madsen",
+      "latitude": 55.474202,
+      "longitude": 8.44557
+    },
+    {
+      "name": "EDC Huset Hinnerup",
+      "latitude": 56.264995,
+      "longitude": 10.063084
+    },
+    {
+      "name": "EDC Mæglerne",
+      "latitude": 55.45969,
+      "longitude": 9.875887
+    },
+    {
+      "name": "EDC Poul Erik Bech",
+      "latitude": 55.011061,
+      "longitude": 11.907266
+    },
+    {
+      "name": "EDC Poul Erik Bech",
+      "latitude": 55.370193,
+      "longitude": 10.371115
+    },
+    {
+      "name": "EDC Poul Erik Bech",
+      "latitude": 55.465632,
+      "longitude": 8.44886
+    },
+    {
+      "name": "EDC Poul Erik Bech",
+      "latitude": 55.502693,
+      "longitude": 9.742852
+    },
+    {
+      "name": "EDC Poul Erik Bech",
+      "latitude": 55.633284,
+      "longitude": 12.581666
+    },
+    {
+      "name": "EDC Poul Erik Bech",
+      "latitude": 55.700415,
+      "longitude": 12.539633
+    },
+    {
+      "name": "EDC Poul Erik Bech",
+      "latitude": 55.963321,
+      "longitude": 11.850606
+    },
+    {
+      "name": "EDC Poul Erik Bech",
+      "latitude": 56.17031,
+      "longitude": 9.55305
+    },
+    {
+      "name": "EDC Poul Erik Bech AROS",
+      "latitude": 56.146981,
+      "longitude": 10.194596
+    },
+    {
+      "name": "EDC Poul Erik Bech Hedehusene",
+      "latitude": 55.64972,
+      "longitude": 12.199288
+    },
+    {
+      "name": "EDC Skive",
+      "latitude": 56.56873,
+      "longitude": 9.027499
+    },
+    {
+      "name": "EDC Søndervig",
+      "latitude": 56.119251,
+      "longitude": 8.116377
+    },
+    {
+      "name": "EDC Torben Larsen",
+      "latitude": 56.163597,
+      "longitude": 9.551282
+    },
+    {
+      "name": "EDC Vesterholm",
+      "latitude": 54.934322,
+      "longitude": 8.866719
+    },
+    {
+      "name": "EDC Vesterholm",
+      "latitude": 54.93776,
+      "longitude": 9.256048
+    },
+    {
+      "name": "EDC Vesterholm",
+      "latitude": 55.086859,
+      "longitude": 8.560549
+    },
+    {
+      "name": "EDC Åløkken",
+      "latitude": 55.402646,
+      "longitude": 10.368454
+    },
+    {
+      "name": "Ejendomsmæglerfirmaet &LIVING",
+      "latitude": 56.155375,
+      "longitude": 10.212251
+    },
+    {
+      "name": "Ejendomsmæglerfirmaet John Frandsen",
+      "latitude": 55.486011,
+      "longitude": 9.474527
+    },
+    {
+      "name": "Ejendomsmæglerfirmaet John Frandsen",
+      "latitude": 56.327228,
+      "longitude": 10.044716
+    },
+    {
+      "name": "ejendrøm",
+      "latitude": 55.464994,
+      "longitude": 8.701488
+    },
+    {
+      "name": "ejendrøm",
+      "latitude": 55.479606,
+      "longitude": 8.470493
+    },
+    {
+      "name": "ejendrøm",
+      "latitude": 55.615976,
+      "longitude": 8.488562
+    },
+    {
+      "name": "Ejendrøm Paper",
+      "latitude": 55.469488,
+      "longitude": 8.669848
+    },
+    {
+      "name": "EltoftNielsen",
+      "latitude": 56.012697,
+      "longitude": 11.96547
+    },
+    {
+      "name": "Erhvervsparken TEP",
+      "latitude": 55.350506,
+      "longitude": 10.183867
+    },
+    {
+      "name": "Estate",
+      "latitude": 55.625098,
+      "longitude": 8.461662
+    },
+    {
+      "name": "Estate",
+      "latitude": 55.664847,
+      "longitude": 12.599751
+    },
+    {
+      "name": "Estate",
+      "latitude": 55.666217,
+      "longitude": 12.507817
+    },
+    {
+      "name": "Estate",
+      "latitude": 55.712508,
+      "longitude": 12.470727
+    },
+    {
+      "name": "Estate - Knapmann & Rosendal A/S - Karrebæksminde",
+      "latitude": 55.175269,
+      "longitude": 11.65466
+    },
+    {
+      "name": "Estate - Robin Thybo",
+      "latitude": 55.469147,
+      "longitude": 8.452785
+    },
+    {
+      "name": "Estate Aarhus C",
+      "latitude": 56.156596,
+      "longitude": 10.199391
+    },
+    {
+      "name": "Estate Algren",
+      "latitude": 57.053372,
+      "longitude": 9.90462
+    },
+    {
+      "name": "Estate Henrik Bjerre",
+      "latitude": 55.963817,
+      "longitude": 11.85039
+    },
+    {
+      "name": "Estate Lars P. Henriksen",
+      "latitude": 55.49384,
+      "longitude": 9.466422
+    },
+    {
+      "name": "Estate Midtfyn",
+      "latitude": 55.238744,
+      "longitude": 10.479269
+    },
+    {
+      "name": "Estate Mægleren Møldrup",
+      "latitude": 56.61606,
+      "longitude": 9.501983
+    },
+    {
+      "name": "Estate Mæglerne",
+      "latitude": 55.668892,
+      "longitude": 12.579773
+    },
+    {
+      "name": "Estate Mæglerne",
+      "latitude": 55.700747,
+      "longitude": 12.577153
+    },
+    {
+      "name": "Estate mæglerne",
+      "latitude": 55.730635,
+      "longitude": 9.113796
+    },
+    {
+      "name": "Estate Peter Møller",
+      "latitude": 55.544067,
+      "longitude": 9.71682
+    },
+    {
+      "name": "Estate Roskilde & Hornsherred",
+      "latitude": 55.639217,
+      "longitude": 12.076219
+    },
+    {
+      "name": "Estate Sydhavnen",
+      "latitude": 55.652957,
+      "longitude": 12.53871
+    },
+    {
+      "name": "Estate Vestjylland",
+      "latitude": 56.11875,
+      "longitude": 8.114658
+    },
+    {
+      "name": "Estate Vestjylland",
+      "latitude": 56.11884,
+      "longitude": 8.116154
+    },
+    {
+      "name": "Estate Virum & Holte",
+      "latitude": 55.794998,
+      "longitude": 12.471742
+    },
+    {
+      "name": "Feriehusudlejning",
+      "latitude": 55.83315,
+      "longitude": 10.59396
+    },
+    {
+      "name": "Fokusmæglerne Stonor & Schmidt",
+      "latitude": 55.664524,
+      "longitude": 12.604224
+    },
+    {
+      "name": "FrankLauritzen",
+      "latitude": 55.1582,
+      "longitude": 8.76451
+    },
+    {
+      "name": "Gravelstone.dk",
+      "latitude": 56.145774,
+      "longitude": 10.193278
+    },
+    {
+      "name": "Grønne",
+      "latitude": 56.17029,
+      "longitude": 9.551256
+    },
+    {
+      "name": "Hanne & Hugo Larsen",
+      "latitude": 56.95416,
+      "longitude": 8.684576
+    },
+    {
+      "name": "Hanne Løye",
+      "latitude": 55.679854,
+      "longitude": 12.533959
+    },
+    {
+      "name": "Hansen Bolig",
+      "latitude": 55.664558,
+      "longitude": 12.542332
+    },
+    {
+      "name": "Henrik Ejby",
+      "latitude": 55.011675,
+      "longitude": 11.907911
+    },
+    {
+      "name": "Home",
+      "latitude": 54.935136,
+      "longitude": 8.868336
+    },
+    {
+      "name": "home",
+      "latitude": 55.09659,
+      "longitude": 10.241341
+    },
+    {
+      "name": "Home",
+      "latitude": 55.330423,
+      "longitude": 8.76747
+    },
+    {
+      "name": "Home",
+      "latitude": 55.379703,
+      "longitude": 10.048353
+    },
+    {
+      "name": "Home",
+      "latitude": 55.410681,
+      "longitude": 10.394284
+    },
+    {
+      "name": "home",
+      "latitude": 55.450864,
+      "longitude": 10.65941
+    },
+    {
+      "name": "Home",
+      "latitude": 55.46821,
+      "longitude": 8.441212
+    },
+    {
+      "name": "Home",
+      "latitude": 55.491183,
+      "longitude": 9.472249
+    },
+    {
+      "name": "Home",
+      "latitude": 55.501349,
+      "longitude": 9.726297
+    },
+    {
+      "name": "home",
+      "latitude": 55.556552,
+      "longitude": 8.140039
+    },
+    {
+      "name": "Home",
+      "latitude": 55.567697,
+      "longitude": 9.759011
+    },
+    {
+      "name": "Home",
+      "latitude": 55.634576,
+      "longitude": 12.582065
+    },
+    {
+      "name": "home",
+      "latitude": 55.649622,
+      "longitude": 12.55516
+    },
+    {
+      "name": "Home",
+      "latitude": 55.659396,
+      "longitude": 11.401718
+    },
+    {
+      "name": "Home",
+      "latitude": 55.665359,
+      "longitude": 12.598926
+    },
+    {
+      "name": "Home",
+      "latitude": 55.665954,
+      "longitude": 12.396109
+    },
+    {
+      "name": "Home",
+      "latitude": 55.678049,
+      "longitude": 12.533539
+    },
+    {
+      "name": "Home",
+      "latitude": 55.682743,
+      "longitude": 12.549955
+    },
+    {
+      "name": "Home",
+      "latitude": 55.69262,
+      "longitude": 12.546646
+    },
+    {
+      "name": "Home",
+      "latitude": 55.693285,
+      "longitude": 12.490425
+    },
+    {
+      "name": "home",
+      "latitude": 55.704504,
+      "longitude": 9.528632
+    },
+    {
+      "name": "Home",
+      "latitude": 55.714398,
+      "longitude": 12.577305
+    },
+    {
+      "name": "Home",
+      "latitude": 55.729721,
+      "longitude": 9.116372
+    },
+    {
+      "name": "home",
+      "latitude": 55.781931,
+      "longitude": 12.370765
+    },
+    {
+      "name": "HOME",
+      "latitude": 55.839064,
+      "longitude": 12.431159
+    },
+    {
+      "name": "Home",
+      "latitude": 55.846983,
+      "longitude": 9.826246
+    },
+    {
+      "name": "Home",
+      "latitude": 55.860442,
+      "longitude": 11.528557
+    },
+    {
+      "name": "Home",
+      "latitude": 55.863139,
+      "longitude": 9.84822
+    },
+    {
+      "name": "Home",
+      "latitude": 55.868093,
+      "longitude": 12.347439
+    },
+    {
+      "name": "Home",
+      "latitude": 55.961918,
+      "longitude": 11.851601
+    },
+    {
+      "name": "home",
+      "latitude": 55.973816,
+      "longitude": 12.020877
+    },
+    {
+      "name": "Home",
+      "latitude": 56.129704,
+      "longitude": 10.163791
+    },
+    {
+      "name": "Home",
+      "latitude": 56.148731,
+      "longitude": 10.209888
+    },
+    {
+      "name": "Home",
+      "latitude": 56.166847,
+      "longitude": 10.227832
+    },
+    {
+      "name": "Home",
+      "latitude": 56.170153,
+      "longitude": 10.21575
+    },
+    {
+      "name": "Home",
+      "latitude": 56.192089,
+      "longitude": 10.241138
+    },
+    {
+      "name": "Home",
+      "latitude": 56.300385,
+      "longitude": 10.477056
+    },
+    {
+      "name": "home",
+      "latitude": 56.718103,
+      "longitude": 10.115392
+    },
+    {
+      "name": "Home",
+      "latitude": 57.046155,
+      "longitude": 9.937939
+    },
+    {
+      "name": "Home",
+      "latitude": 57.051405,
+      "longitude": 9.916633
+    },
+    {
+      "name": "Home",
+      "latitude": 57.15929,
+      "longitude": 10.288812
+    },
+    {
+      "name": "Home Bagsværd",
+      "latitude": 55.760667,
+      "longitude": 12.45387
+    },
+    {
+      "name": "home Bramming, Behrendsen & Christensen",
+      "latitude": 55.46493,
+      "longitude": 8.70047
+    },
+    {
+      "name": "Home v/ Hanne Faaborg",
+      "latitude": 55.491077,
+      "longitude": 9.479113
+    },
+    {
+      "name": "home Virum",
+      "latitude": 55.795054,
+      "longitude": 12.472197
+    },
+    {
+      "name": "Huseksperten",
+      "latitude": 56.560642,
+      "longitude": 9.046866
+    },
+    {
+      "name": "Ivan Eltoft Nielsen",
+      "latitude": 55.698118,
+      "longitude": 12.57838
+    },
+    {
+      "name": "Ivan Eltoft Nielsen",
+      "latitude": 55.73598,
+      "longitude": 12.574631
+    },
+    {
+      "name": "John Frandsen",
+      "latitude": 55.37927,
+      "longitude": 10.048151
+    },
+    {
+      "name": "John Frandsen",
+      "latitude": 55.504154,
+      "longitude": 9.736461
+    },
+    {
+      "name": "John Frandsen",
+      "latitude": 55.565728,
+      "longitude": 9.757833
+    },
+    {
+      "name": "John Frandsen",
+      "latitude": 56.180651,
+      "longitude": 9.549804
+    },
+    {
+      "name": "John Frandsen",
+      "latitude": 56.263757,
+      "longitude": 10.06219
+    },
+    {
+      "name": "John Frandsen",
+      "latitude": 56.300333,
+      "longitude": 10.478243
+    },
+    {
+      "name": "John Frandsen",
+      "latitude": 57.039302,
+      "longitude": 9.952497
+    },
+    {
+      "name": "John Frandsen Skødstrup",
+      "latitude": 56.276636,
+      "longitude": 10.315612
+    },
+    {
+      "name": "John Fransen A/S",
+      "latitude": 56.716021,
+      "longitude": 10.115474
+    },
+    {
+      "name": "Klein & Adamsen",
+      "latitude": 55.543391,
+      "longitude": 12.116278
+    },
+    {
+      "name": "Kontorhuset Gardinfabrikken",
+      "latitude": 55.774892,
+      "longitude": 12.500801
+    },
+    {
+      "name": "Lars Elbæk",
+      "latitude": 55.667455,
+      "longitude": 12.501817
+    },
+    {
+      "name": "Lassen Erhverv",
+      "latitude": 55.466774,
+      "longitude": 8.444269
+    },
+    {
+      "name": "Lejerbo",
+      "latitude": 57.047967,
+      "longitude": 9.93895
+    },
+    {
+      "name": "Lemvig Ejendomme",
+      "latitude": 56.550055,
+      "longitude": 8.309852
+    },
+    {
+      "name": "Letboligsalg",
+      "latitude": 55.650049,
+      "longitude": 12.269526
+    },
+    {
+      "name": "Liseleje Ejendomskontor",
+      "latitude": 56.012781,
+      "longitude": 11.964827
+    },
+    {
+      "name": "Lokal Bolig",
+      "latitude": 55.062409,
+      "longitude": 10.611324
+    },
+    {
+      "name": "LokalBolig",
+      "latitude": 55.374527,
+      "longitude": 10.369492
+    },
+    {
+      "name": "LokalBolig",
+      "latitude": 55.65669,
+      "longitude": 12.473388
+    },
+    {
+      "name": "LokalBolig",
+      "latitude": 55.666682,
+      "longitude": 12.404508
+    },
+    {
+      "name": "Lokalbolig",
+      "latitude": 55.691686,
+      "longitude": 12.461845
+    },
+    {
+      "name": "Lokalbolig",
+      "latitude": 55.705657,
+      "longitude": 12.580497
+    },
+    {
+      "name": "LokalBolig",
+      "latitude": 55.715553,
+      "longitude": 12.577227
+    },
+    {
+      "name": "LokalBolig",
+      "latitude": 55.782821,
+      "longitude": 12.368282
+    },
+    {
+      "name": "Lokalbolig",
+      "latitude": 55.98157,
+      "longitude": 12.020854
+    },
+    {
+      "name": "LokalBolig",
+      "latitude": 56.012657,
+      "longitude": 11.96506
+    },
+    {
+      "name": "LokalBolig",
+      "latitude": 56.118546,
+      "longitude": 8.114744
+    },
+    {
+      "name": "LokalBolig Birkerød ApS",
+      "latitude": 55.842742,
+      "longitude": 12.433169
+    },
+    {
+      "name": "LokalBolig Hundested",
+      "latitude": 55.966062,
+      "longitude": 11.849656
+    },
+    {
+      "name": "Lokalmægleren",
+      "latitude": 55.759283,
+      "longitude": 12.457146
+    },
+    {
+      "name": "Malling & Ranfelt",
+      "latitude": 55.664556,
+      "longitude": 12.51605
+    },
+    {
+      "name": "Mikkelsens Ejendomskontor",
+      "latitude": 55.191478,
+      "longitude": 9.062559
+    },
+    {
+      "name": "Min Bolighandel",
+      "latitude": 55.54852,
+      "longitude": 12.024294
+    },
+    {
+      "name": "Min Bolighandel Sønderborg & Omegn",
+      "latitude": 54.910826,
+      "longitude": 9.775912
+    },
+    {
+      "name": "Mmliving",
+      "latitude": 55.662021,
+      "longitude": 12.631348
+    },
+    {
+      "name": "Mæglerfirma Asger Larsen",
+      "latitude": 56.966914,
+      "longitude": 9.252085
+    },
+    {
+      "name": "Mæglerhuset",
+      "latitude": 57.047909,
+      "longitude": 9.915768
+    },
+    {
+      "name": "Mæglerringen Hadsund",
+      "latitude": 56.718248,
+      "longitude": 10.114399
+    },
+    {
+      "name": "Nabo",
+      "latitude": 55.46847,
+      "longitude": 8.444175
+    },
+    {
+      "name": "Nem-Ejendomsmægler.dk",
+      "latitude": 55.631674,
+      "longitude": 12.573435
+    },
+    {
+      "name": "Nonbo & Eland",
+      "latitude": 56.156337,
+      "longitude": 10.205699
+    },
+    {
+      "name": "Nordea Pension Ejendomme",
+      "latitude": 56.149462,
+      "longitude": 10.206113
+    },
+    {
+      "name": "Nordicals",
+      "latitude": 55.467451,
+      "longitude": 8.452946
+    },
+    {
+      "name": "Nordicals erhvervsmæglere",
+      "latitude": 55.511594,
+      "longitude": 9.504697
+    },
+    {
+      "name": "Novasol",
+      "latitude": 55.832241,
+      "longitude": 10.59485
+    },
+    {
+      "name": "Novasol",
+      "latitude": 55.850025,
+      "longitude": 8.175033
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 54.918004,
+      "longitude": 9.804717
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 54.936199,
+      "longitude": 8.870826
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.101561,
+      "longitude": 14.697346
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.158474,
+      "longitude": 8.76352
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.239684,
+      "longitude": 10.481078
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.245929,
+      "longitude": 9.292224
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.330687,
+      "longitude": 8.768029
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.357022,
+      "longitude": 10.39992
+    },
+    {
+      "name": "NyBolig",
+      "latitude": 55.372821,
+      "longitude": 10.369854
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.38053,
+      "longitude": 10.048908
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.409203,
+      "longitude": 10.393688
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.487466,
+      "longitude": 9.465157
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.506039,
+      "longitude": 9.731354
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.555515,
+      "longitude": 8.136029
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.56124,
+      "longitude": 9.756419
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.567241,
+      "longitude": 9.754295
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.59442,
+      "longitude": 12.670016
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.615436,
+      "longitude": 12.585702
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.61958,
+      "longitude": 8.481339
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.634473,
+      "longitude": 12.58204
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.657567,
+      "longitude": 12.473459
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.659431,
+      "longitude": 11.401263
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.667892,
+      "longitude": 12.531722
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.673162,
+      "longitude": 12.59029
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.685911,
+      "longitude": 12.535501
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.686164,
+      "longitude": 12.491128
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.689892,
+      "longitude": 12.560714
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.691605,
+      "longitude": 12.462832
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.693179,
+      "longitude": 12.54729
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.701682,
+      "longitude": 12.533264
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.704502,
+      "longitude": 9.528977
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.711321,
+      "longitude": 12.568535
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.721749,
+      "longitude": 12.402122
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.750708,
+      "longitude": 12.109239
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.770351,
+      "longitude": 9.700815
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.78343,
+      "longitude": 12.3724
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.803832,
+      "longitude": 9.69816
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.812089,
+      "longitude": 12.472331
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.822294,
+      "longitude": 11.403308
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.843052,
+      "longitude": 9.841905
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.843071,
+      "longitude": 12.434027
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.862294,
+      "longitude": 9.843087
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 55.922411,
+      "longitude": 11.669048
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 56.11876,
+      "longitude": 8.114973
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 56.128056,
+      "longitude": 10.162064
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 56.149958,
+      "longitude": 10.203347
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 56.167027,
+      "longitude": 9.349243
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 56.263224,
+      "longitude": 10.061846
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 56.299731,
+      "longitude": 10.48014
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 56.355376,
+      "longitude": 8.615585
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 56.715863,
+      "longitude": 10.113554
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 56.966171,
+      "longitude": 9.251486
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 57.039484,
+      "longitude": 9.952428
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 57.046526,
+      "longitude": 9.91416
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 57.057672,
+      "longitude": 9.921616
+    },
+    {
+      "name": "Nybolig",
+      "latitude": 57.088197,
+      "longitude": 9.263933
+    },
+    {
+      "name": "Nybolig Aarhus City",
+      "latitude": 56.154377,
+      "longitude": 10.210958
+    },
+    {
+      "name": "Nybolig Bagsværd",
+      "latitude": 55.759516,
+      "longitude": 12.456683
+    },
+    {
+      "name": "Nybolig Erhverv",
+      "latitude": 56.163371,
+      "longitude": 9.550841
+    },
+    {
+      "name": "Nybolig Esbjerg",
+      "latitude": 55.468633,
+      "longitude": 8.440326
+    },
+    {
+      "name": "Nybolig Hadsten",
+      "latitude": 56.327109,
+      "longitude": 10.043536
+    },
+    {
+      "name": "Nybolig Landbrug",
+      "latitude": 55.381396,
+      "longitude": 10.049254
+    },
+    {
+      "name": "Nybolig Mariann Trolledahl",
+      "latitude": 55.623761,
+      "longitude": 12.388377
+    },
+    {
+      "name": "Nybolig Peter Leander Hornbæk",
+      "latitude": 56.09221,
+      "longitude": 12.456926
+    },
+    {
+      "name": "Nybolig Rekrea",
+      "latitude": 55.472202,
+      "longitude": 8.437749
+    },
+    {
+      "name": "Nybolig Ringkøbing",
+      "latitude": 56.091132,
+      "longitude": 8.240535
+    },
+    {
+      "name": "Nybolig Roskilde",
+      "latitude": 55.637746,
+      "longitude": 12.080932
+    },
+    {
+      "name": "Nybolig Skødstrup",
+      "latitude": 56.270227,
+      "longitude": 10.309945
+    },
+    {
+      "name": "Nybolig Vejen",
+      "latitude": 55.477609,
+      "longitude": 9.138719
+    },
+    {
+      "name": "Nybolig Virum",
+      "latitude": 55.795388,
+      "longitude": 12.471256
+    },
+    {
+      "name": "Per Pedersen",
+      "latitude": 56.95426,
+      "longitude": 8.684203
+    },
+    {
+      "name": "Pierre Ejendomme",
+      "latitude": 55.488879,
+      "longitude": 9.472131
+    },
+    {
+      "name": "Poul Erik Bech",
+      "latitude": 55.177655,
+      "longitude": 11.647994
+    },
+    {
+      "name": "ProDomus",
+      "latitude": 57.046416,
+      "longitude": 9.919347
+    },
+    {
+      "name": "RCNbolig Aarhus City",
+      "latitude": 56.149449,
+      "longitude": 10.20346
+    },
+    {
+      "name": "REAL",
+      "latitude": 55.704742,
+      "longitude": 12.496632
+    },
+    {
+      "name": "Real",
+      "latitude": 57.049901,
+      "longitude": 9.91615
+    },
+    {
+      "name": "Real Mægleme",
+      "latitude": 55.76409,
+      "longitude": 12.580296
+    },
+    {
+      "name": "Real Mæglerne",
+      "latitude": 55.46467,
+      "longitude": 8.70355
+    },
+    {
+      "name": "Real Mæglerne",
+      "latitude": 55.670501,
+      "longitude": 12.49051
+    },
+    {
+      "name": "Realmægleren",
+      "latitude": 55.470882,
+      "longitude": 8.438838
+    },
+    {
+      "name": "RealMæglerne",
+      "latitude": 55.046217,
+      "longitude": 9.418504
+    },
+    {
+      "name": "RealMæglerne",
+      "latitude": 55.39398,
+      "longitude": 10.384355
+    },
+    {
+      "name": "RealMæglerne",
+      "latitude": 55.504081,
+      "longitude": 9.736686
+    },
+    {
+      "name": "RealMæglerne",
+      "latitude": 55.618317,
+      "longitude": 11.213129
+    },
+    {
+      "name": "Realmæglerne",
+      "latitude": 55.668393,
+      "longitude": 12.55108
+    },
+    {
+      "name": "RealMæglerne",
+      "latitude": 55.683592,
+      "longitude": 12.483821
+    },
+    {
+      "name": "Realmæglerne",
+      "latitude": 56.167018,
+      "longitude": 9.548317
+    },
+    {
+      "name": "Realmæglerne Botikken",
+      "latitude": 55.739432,
+      "longitude": 12.504603
+    },
+    {
+      "name": "RealMæglerne Haderslev & Vojens",
+      "latitude": 55.250892,
+      "longitude": 9.489905
+    },
+    {
+      "name": "RealMæglerne Hallberg Bolig",
+      "latitude": 55.666055,
+      "longitude": 12.397362
+    },
+    {
+      "name": "RealMæglerne Odense",
+      "latitude": 55.380519,
+      "longitude": 10.370977
+    },
+    {
+      "name": "RealMæglerne Seeberg",
+      "latitude": 54.908857,
+      "longitude": 9.789264
+    },
+    {
+      "name": "Realmæglerne v Viggo Axelsen",
+      "latitude": 55.793753,
+      "longitude": 12.157021
+    },
+    {
+      "name": "RealMæglerne Villa´sen",
+      "latitude": 55.466713,
+      "longitude": 8.703302
+    },
+    {
+      "name": "Ribe Mæglerne",
+      "latitude": 55.330989,
+      "longitude": 8.7702
+    },
+    {
+      "name": "Safe Ejendomsmæglere",
+      "latitude": 55.664574,
+      "longitude": 12.51605
+    },
+    {
+      "name": "SkagenBolig",
+      "latitude": 57.724331,
+      "longitude": 10.595242
+    },
+    {
+      "name": "Skovly Ejendomme",
+      "latitude": 57.02144,
+      "longitude": 9.900712
+    },
+    {
+      "name": "Skørping mægleren",
+      "latitude": 56.8345,
+      "longitude": 9.888438
+    },
+    {
+      "name": "SommerhusMægleren Odsherred",
+      "latitude": 55.849646,
+      "longitude": 11.508084
+    },
+    {
+      "name": "Sommerhusspecialisten Per Pedersen",
+      "latitude": 57.040118,
+      "longitude": 8.497398
+    },
+    {
+      "name": "Storm & Dubourg",
+      "latitude": 55.057689,
+      "longitude": 10.604106
+    },
+    {
+      "name": "Studiebolig Aalborg",
+      "latitude": 57.048003,
+      "longitude": 9.928491
+    },
+    {
+      "name": "Tetris",
+      "latitude": 55.705369,
+      "longitude": 12.533584
+    },
+    {
+      "name": "Thorkild Kristensen",
+      "latitude": 57.251695,
+      "longitude": 9.586466
+    },
+    {
+      "name": "Villadsen",
+      "latitude": 57.24885,
+      "longitude": 9.614604
+    },
+    {
+      "name": "Wagner Ejendomme",
+      "latitude": 57.049395,
+      "longitude": 9.920031
+    },
+    {
+      "name": "Wennemoes Bolig",
+      "latitude": 55.633972,
+      "longitude": 12.01403
+    },
+    {
+      "name": "Øbolig",
+      "latitude": 54.854262,
+      "longitude": 10.518125
+    }
+  ],
+  "meta": {
+    "title": "Ejendomsmæglere i Danmark (Estate agents in Denmark) - Gratis download",
+    "description": "Estate agents in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: office=estate_agent. Indeholder 364 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Ejendomsmæglere i Danmark (Estate agents in Denmark) | ListBase",
+    "seo_description": "Download Ejendomsmæglere i Danmark (Estate agents in Denmark) — 364 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 364 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

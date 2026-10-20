@@ -1,0 +1,1076 @@
+{
+  "id": "da-brandstationer",
+  "name": "Brandstationer i Danmark – OpenStreetMap (Fire stations in Denmark, OSM)",
+  "title": "Brandstationer i Danmark – OpenStreetMap (Fire stations in Denmark, OSM)",
+  "description": "Liste over 207 brandstationer i Danmark fra OpenStreetMap (amenity=fire_station) — navn og koordinater (WGS84).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 207,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1.Lunderskov Brandvæsen",
+      "latitude": 55.486667,
+      "longitude": 9.289883
+    },
+    {
+      "name": "Aabenraa Friv. Brandværn",
+      "latitude": 55.031084,
+      "longitude": 9.414499
+    },
+    {
+      "name": "Aarhus Brandstation",
+      "latitude": 56.161365,
+      "longitude": 10.202886
+    },
+    {
+      "name": "Agerbæk Brandstation",
+      "latitude": 55.604819,
+      "longitude": 8.803479
+    },
+    {
+      "name": "Agerskov Brandstation",
+      "latitude": 55.131521,
+      "longitude": 9.127608
+    },
+    {
+      "name": "Aller Frivillige Brandværn",
+      "latitude": 55.356797,
+      "longitude": 9.526489
+    },
+    {
+      "name": "Allerød Brandstation",
+      "latitude": 55.865784,
+      "longitude": 12.324325
+    },
+    {
+      "name": "Allinge Brandstation",
+      "latitude": 55.268702,
+      "longitude": 14.800342
+    },
+    {
+      "name": "Arnum Friv. Brandværn",
+      "latitude": 55.247468,
+      "longitude": 8.966204
+    },
+    {
+      "name": "Asnæs Brandstation",
+      "latitude": 55.807536,
+      "longitude": 11.4981
+    },
+    {
+      "name": "Baagø Brandkorps",
+      "latitude": 55.31239,
+      "longitude": 9.808505
+    },
+    {
+      "name": "Bedsted Brandstation",
+      "latitude": 55.064529,
+      "longitude": 9.101255
+    },
+    {
+      "name": "Beredskab Fyn",
+      "latitude": 55.050486,
+      "longitude": 10.585454
+    },
+    {
+      "name": "Beredskab Fyn",
+      "latitude": 55.40029,
+      "longitude": 10.423057
+    },
+    {
+      "name": "Beredskab Kolding",
+      "latitude": 55.469977,
+      "longitude": 9.483551
+    },
+    {
+      "name": "Beredskabscenter Aalborg",
+      "latitude": 57.043152,
+      "longitude": 9.929238
+    },
+    {
+      "name": "Beredskabscenter Kirstinesmindevej",
+      "latitude": 56.195554,
+      "longitude": 10.17125
+    },
+    {
+      "name": "Beredskabsstyrelsen Hovedstaden",
+      "latitude": 55.649499,
+      "longitude": 12.186658
+    },
+    {
+      "name": "Beredskabsstyrelsen Støttepunkt Esbjerg",
+      "latitude": 55.486395,
+      "longitude": 8.463174
+    },
+    {
+      "name": "Billund Brandstation",
+      "latitude": 55.735358,
+      "longitude": 9.109254
+    },
+    {
+      "name": "Bolbro brandstation",
+      "latitude": 55.396519,
+      "longitude": 10.344551
+    },
+    {
+      "name": "Bovrup brandstation",
+      "latitude": 54.997504,
+      "longitude": 9.583301
+    },
+    {
+      "name": "Brand & Redning Sønderjylland",
+      "latitude": 55.031241,
+      "longitude": 9.413742
+    },
+    {
+      "name": "Brand Øvelsesplads",
+      "latitude": 55.127556,
+      "longitude": 14.733918
+    },
+    {
+      "name": "Brandstation",
+      "latitude": 55.631775,
+      "longitude": 8.483491
+    },
+    {
+      "name": "Brandstation Vest",
+      "latitude": 55.607184,
+      "longitude": 12.622072
+    },
+    {
+      "name": "Brandvagt",
+      "latitude": 54.90322,
+      "longitude": 10.613506
+    },
+    {
+      "name": "Brandvagt",
+      "latitude": 55.130729,
+      "longitude": 10.908605
+    },
+    {
+      "name": "Bredebro Friv. Brandværn",
+      "latitude": 55.058278,
+      "longitude": 8.814875
+    },
+    {
+      "name": "Bro Frivillige Brandværn",
+      "latitude": 54.953096,
+      "longitude": 9.891679
+    },
+    {
+      "name": "Broager Frivillige brandværn",
+      "latitude": 54.887982,
+      "longitude": 9.664742
+    },
+    {
+      "name": "Christianshavns Brandstation",
+      "latitude": 55.668329,
+      "longitude": 12.599413
+    },
+    {
+      "name": "Den Gamle Redningsstation",
+      "latitude": 55.111258,
+      "longitude": 8.542055
+    },
+    {
+      "name": "Dragør Brandvæsen",
+      "latitude": 55.592799,
+      "longitude": 12.669706
+    },
+    {
+      "name": "Dragør Brandvæsen",
+      "latitude": 55.596406,
+      "longitude": 12.63815
+    },
+    {
+      "name": "Engesvang Brandvæsen",
+      "latitude": 56.16959,
+      "longitude": 9.351609
+    },
+    {
+      "name": "Espergærde Brandstation",
+      "latitude": 55.995933,
+      "longitude": 12.532838
+    },
+    {
+      "name": "Falck",
+      "latitude": 54.899002,
+      "longitude": 11.915792
+    },
+    {
+      "name": "Falck",
+      "latitude": 55.237344,
+      "longitude": 9.489155
+    },
+    {
+      "name": "Falck",
+      "latitude": 55.242341,
+      "longitude": 9.294435
+    },
+    {
+      "name": "Falck",
+      "latitude": 55.275312,
+      "longitude": 10.107124
+    },
+    {
+      "name": "Falck",
+      "latitude": 55.319024,
+      "longitude": 10.776988
+    },
+    {
+      "name": "Falck",
+      "latitude": 55.377119,
+      "longitude": 10.053155
+    },
+    {
+      "name": "Falck",
+      "latitude": 55.775186,
+      "longitude": 12.505263
+    },
+    {
+      "name": "Falck",
+      "latitude": 55.820869,
+      "longitude": 12.359538
+    },
+    {
+      "name": "Falck",
+      "latitude": 55.962995,
+      "longitude": 9.399303
+    },
+    {
+      "name": "Falck",
+      "latitude": 55.981587,
+      "longitude": 12.016895
+    },
+    {
+      "name": "Falck",
+      "latitude": 56.129964,
+      "longitude": 9.148813
+    },
+    {
+      "name": "Falck",
+      "latitude": 56.200266,
+      "longitude": 8.565242
+    },
+    {
+      "name": "Falck",
+      "latitude": 56.467906,
+      "longitude": 9.401018
+    },
+    {
+      "name": "Falck",
+      "latitude": 56.481481,
+      "longitude": 8.590043
+    },
+    {
+      "name": "Falck",
+      "latitude": 56.565024,
+      "longitude": 9.037662
+    },
+    {
+      "name": "Falck",
+      "latitude": 57.083436,
+      "longitude": 9.264526
+    },
+    {
+      "name": "Falck",
+      "latitude": 57.274512,
+      "longitude": 9.924945
+    },
+    {
+      "name": "Falck - Brand & Redning - station Tarm",
+      "latitude": 55.911434,
+      "longitude": 8.535751
+    },
+    {
+      "name": "FALCK Ballerup",
+      "latitude": 55.731188,
+      "longitude": 12.373063
+    },
+    {
+      "name": "Falck Bogense",
+      "latitude": 55.564634,
+      "longitude": 10.089125
+    },
+    {
+      "name": "Falck Dronninglund",
+      "latitude": 57.158814,
+      "longitude": 10.284864
+    },
+    {
+      "name": "Falck Esbjerg",
+      "latitude": 55.486323,
+      "longitude": 8.46497
+    },
+    {
+      "name": "Falck Gladsaxe",
+      "latitude": 55.735468,
+      "longitude": 12.493338
+    },
+    {
+      "name": "Falck Hjørring",
+      "latitude": 57.456146,
+      "longitude": 10.005002
+    },
+    {
+      "name": "FALCK Hvidovre",
+      "latitude": 55.654317,
+      "longitude": 12.456437
+    },
+    {
+      "name": "Falck Kolding",
+      "latitude": 55.488701,
+      "longitude": 9.483185
+    },
+    {
+      "name": "Falck Nykøbing",
+      "latitude": 54.75889,
+      "longitude": 11.894509
+    },
+    {
+      "name": "Falck Station 4-24 Esbjerg",
+      "latitude": 55.486327,
+      "longitude": 8.46503
+    },
+    {
+      "name": "Fjelstrup Frivillige Brandværn",
+      "latitude": 55.322529,
+      "longitude": 9.560615
+    },
+    {
+      "name": "Fredensborg Brandstation",
+      "latitude": 55.985361,
+      "longitude": 12.420992
+    },
+    {
+      "name": "Fredericia Brandvæsen",
+      "latitude": 55.563521,
+      "longitude": 9.745002
+    },
+    {
+      "name": "Frederiksberg brandstation",
+      "latitude": 55.679956,
+      "longitude": 12.529901
+    },
+    {
+      "name": "Frederikshavn Brandvæsen",
+      "latitude": 57.441142,
+      "longitude": 10.496022
+    },
+    {
+      "name": "Freiwillige Feuerwehr Kupfermühle",
+      "latitude": 54.837823,
+      "longitude": 9.417398
+    },
+    {
+      "name": "Freiwillige Feuerwehr Rosenkranz",
+      "latitude": 54.892024,
+      "longitude": 8.756072
+    },
+    {
+      "name": "Fælledvej Brandstation",
+      "latitude": 55.690079,
+      "longitude": 12.561439
+    },
+    {
+      "name": "Fælledvejens Brandstation",
+      "latitude": 55.690019,
+      "longitude": 12.561651
+    },
+    {
+      "name": "Gedser Brandstation",
+      "latitude": 54.581504,
+      "longitude": 11.926662
+    },
+    {
+      "name": "Gentofte Brandstation",
+      "latitude": 55.748515,
+      "longitude": 12.556685
+    },
+    {
+      "name": "Gilleleje Brandstation",
+      "latitude": 56.11576,
+      "longitude": 12.322323
+    },
+    {
+      "name": "Gram Friv. Brandværn",
+      "latitude": 55.289415,
+      "longitude": 9.049024
+    },
+    {
+      "name": "Gørlev Brandstation",
+      "latitude": 55.547589,
+      "longitude": 11.22069
+    },
+    {
+      "name": "Hellevad Brandstation",
+      "latitude": 55.077176,
+      "longitude": 9.209045
+    },
+    {
+      "name": "Helsingør Brandstation",
+      "latitude": 56.02427,
+      "longitude": 12.572832
+    },
+    {
+      "name": "Hillerød Brandstation (Firestation)",
+      "latitude": 55.933455,
+      "longitude": 12.275478
+    },
+    {
+      "name": "Hirtshals Brandstation",
+      "latitude": 57.582787,
+      "longitude": 9.965838
+    },
+    {
+      "name": "Holbæk Brandstation",
+      "latitude": 55.704278,
+      "longitude": 11.716084
+    },
+    {
+      "name": "Holbæk Frivilligenhed",
+      "latitude": 55.713644,
+      "longitude": 11.724201
+    },
+    {
+      "name": "Hoptrup Friv. Brandværn",
+      "latitude": 55.180278,
+      "longitude": 9.456156
+    },
+    {
+      "name": "Horsens Brand og Redning",
+      "latitude": 55.85176,
+      "longitude": 9.816984
+    },
+    {
+      "name": "Horsens Kommune Service og Beredskab - Brandvæsnet",
+      "latitude": 55.85295,
+      "longitude": 9.854542
+    },
+    {
+      "name": "Hovedbrandstationen",
+      "latitude": 55.674592,
+      "longitude": 12.571522
+    },
+    {
+      "name": "Hovedstadens Beredskab",
+      "latitude": 55.653385,
+      "longitude": 12.456889
+    },
+    {
+      "name": "Hovedstadens Beredskab, Glostrup",
+      "latitude": 55.664834,
+      "longitude": 12.391804
+    },
+    {
+      "name": "Hundested Brandstation",
+      "latitude": 55.962919,
+      "longitude": 11.854083
+    },
+    {
+      "name": "Højer Friv. brandværn",
+      "latitude": 54.961874,
+      "longitude": 8.69689
+    },
+    {
+      "name": "Hørsholm Brandstation",
+      "latitude": 55.901691,
+      "longitude": 12.485341
+    },
+    {
+      "name": "Hørup Frivillige Brandværn",
+      "latitude": 54.913801,
+      "longitude": 9.898082
+    },
+    {
+      "name": "Jels Frivillige Brandvæsen",
+      "latitude": 55.355693,
+      "longitude": 9.20435
+    },
+    {
+      "name": "Jægerspris Brandstation",
+      "latitude": 55.84987,
+      "longitude": 11.987959
+    },
+    {
+      "name": "Kalundborg Brandstation",
+      "latitude": 55.678442,
+      "longitude": 11.110767
+    },
+    {
+      "name": "Kalundborg Frivilligenhed",
+      "latitude": 55.678019,
+      "longitude": 11.108213
+    },
+    {
+      "name": "Kegnæs Friv. Brandværn",
+      "latitude": 54.876563,
+      "longitude": 9.921621
+    },
+    {
+      "name": "Korsør Brandstation",
+      "latitude": 55.349677,
+      "longitude": 11.143178
+    },
+    {
+      "name": "Lolland-Falster Brandvæsen",
+      "latitude": 54.790836,
+      "longitude": 11.468941
+    },
+    {
+      "name": "Lumsås Brandstation",
+      "latitude": 55.943216,
+      "longitude": 11.512102
+    },
+    {
+      "name": "Løjt Friv. Brandværn",
+      "latitude": 55.087253,
+      "longitude": 9.46244
+    },
+    {
+      "name": "Middelfart Brandvæsen",
+      "latitude": 55.504725,
+      "longitude": 9.773762
+    },
+    {
+      "name": "Midt- og Sydsjællands Brand & Redning - St. Haslev",
+      "latitude": 55.328833,
+      "longitude": 11.942048
+    },
+    {
+      "name": "Midt- og Sydsjællands Brand & Redning - St. Næstved",
+      "latitude": 55.215681,
+      "longitude": 11.751345
+    },
+    {
+      "name": "Midt- og Sydsjællands Brand & Redning - St. Ringsted",
+      "latitude": 55.439822,
+      "longitude": 11.796793
+    },
+    {
+      "name": "Midt- Og Sydsjællands Brand & Redning - Station Vordingborg",
+      "latitude": 55.013133,
+      "longitude": 11.918626
+    },
+    {
+      "name": "Midtjysk Brand & Redning",
+      "latitude": 56.193221,
+      "longitude": 9.555652
+    },
+    {
+      "name": "Moltrup Friv. Brandværn",
+      "latitude": 55.283511,
+      "longitude": 9.45252
+    },
+    {
+      "name": "Møldrup Brandstation",
+      "latitude": 56.613167,
+      "longitude": 9.504437
+    },
+    {
+      "name": "Mørkøv Brandstation",
+      "latitude": 55.651444,
+      "longitude": 11.504428
+    },
+    {
+      "name": "Nibe Brandstation",
+      "latitude": 56.978437,
+      "longitude": 9.630855
+    },
+    {
+      "name": "Nordby brandstation",
+      "latitude": 55.445119,
+      "longitude": 8.396959
+    },
+    {
+      "name": "Nordjyllands Beredskab",
+      "latitude": 56.728881,
+      "longitude": 10.106673
+    },
+    {
+      "name": "Nordsjællands Brandvæsen Birkerød",
+      "latitude": 55.850073,
+      "longitude": 12.424694
+    },
+    {
+      "name": "Nykøbing Sj Brandstation",
+      "latitude": 55.93232,
+      "longitude": 11.669778
+    },
+    {
+      "name": "Nærum Brandstation",
+      "latitude": 55.8176,
+      "longitude": 12.527848
+    },
+    {
+      "name": "Omø Brandstation",
+      "latitude": 55.160881,
+      "longitude": 11.156834
+    },
+    {
+      "name": "Orø Brandstation",
+      "latitude": 55.756377,
+      "longitude": 11.802041
+    },
+    {
+      "name": "Ravsted Frivillig Brandværn",
+      "latitude": 55.00987,
+      "longitude": 9.126996
+    },
+    {
+      "name": "Reersø Brandstation",
+      "latitude": 55.522926,
+      "longitude": 11.111331
+    },
+    {
+      "name": "Rinkenæs Brandstation",
+      "latitude": 54.891643,
+      "longitude": 9.550684
+    },
+    {
+      "name": "Roskilde Brandvæsen",
+      "latitude": 55.634543,
+      "longitude": 12.113269
+    },
+    {
+      "name": "Roskilde Brandvæsen Station Nord",
+      "latitude": 55.744433,
+      "longitude": 12.12765
+    },
+    {
+      "name": "Rødding Brandstation",
+      "latitude": 55.368747,
+      "longitude": 9.05984
+    },
+    {
+      "name": "Rønne Brandstation",
+      "latitude": 55.099593,
+      "longitude": 14.715032
+    },
+    {
+      "name": "Sejerø Brandstation",
+      "latitude": 55.889307,
+      "longitude": 11.146432
+    },
+    {
+      "name": "Sindal Brandvæsen",
+      "latitude": 57.470627,
+      "longitude": 10.190823
+    },
+    {
+      "name": "Skelde brandstation",
+      "latitude": 54.860981,
+      "longitude": 9.723831
+    },
+    {
+      "name": "Skjern Brandvæsen",
+      "latitude": 55.953754,
+      "longitude": 8.493611
+    },
+    {
+      "name": "Skodborg Brandstation",
+      "latitude": 55.423029,
+      "longitude": 9.14762
+    },
+    {
+      "name": "Skælskør Falckstation",
+      "latitude": 55.253511,
+      "longitude": 11.28908
+    },
+    {
+      "name": "Skærbæk Brandstation",
+      "latitude": 55.164613,
+      "longitude": 8.76191
+    },
+    {
+      "name": "Slagelse Brand og Redning",
+      "latitude": 55.54067,
+      "longitude": 11.384208
+    },
+    {
+      "name": "Snertinge Brandstation",
+      "latitude": 55.710506,
+      "longitude": 11.380564
+    },
+    {
+      "name": "Sommersted Friv. Brandværn",
+      "latitude": 55.315007,
+      "longitude": 9.291253
+    },
+    {
+      "name": "Station Aarhus Nord",
+      "latitude": 56.212808,
+      "longitude": 10.157685
+    },
+    {
+      "name": "Station Aarhus Syd",
+      "latitude": 56.108332,
+      "longitude": 10.153562
+    },
+    {
+      "name": "Station Allingåbro",
+      "latitude": 56.464644,
+      "longitude": 10.325882
+    },
+    {
+      "name": "Station Anholt",
+      "latitude": 56.703668,
+      "longitude": 11.547849
+    },
+    {
+      "name": "Station Bredsten",
+      "latitude": 55.700898,
+      "longitude": 9.376875
+    },
+    {
+      "name": "Station Brædstrup",
+      "latitude": 55.978821,
+      "longitude": 9.608501
+    },
+    {
+      "name": "Station Brørup",
+      "latitude": 55.488974,
+      "longitude": 9.019432
+    },
+    {
+      "name": "Station Børkop",
+      "latitude": 55.640336,
+      "longitude": 9.669182
+    },
+    {
+      "name": "Station Ebeltoft",
+      "latitude": 56.193429,
+      "longitude": 10.680748
+    },
+    {
+      "name": "Station Egtved",
+      "latitude": 55.621573,
+      "longitude": 9.304095
+    },
+    {
+      "name": "Station Ejby",
+      "latitude": 55.432331,
+      "longitude": 9.933464
+    },
+    {
+      "name": "Station Esbjerg",
+      "latitude": 55.486267,
+      "longitude": 8.464846
+    },
+    {
+      "name": "Station Fjellerup",
+      "latitude": 56.506959,
+      "longitude": 10.587776
+    },
+    {
+      "name": "Station Galten",
+      "latitude": 56.148796,
+      "longitude": 9.929513
+    },
+    {
+      "name": "Station Give",
+      "latitude": 55.849104,
+      "longitude": 9.239374
+    },
+    {
+      "name": "Station Grenaa",
+      "latitude": 56.413356,
+      "longitude": 10.887626
+    },
+    {
+      "name": "Station Greve",
+      "latitude": 55.604916,
+      "longitude": 12.295852
+    },
+    {
+      "name": "Station Grindsted",
+      "latitude": 55.759984,
+      "longitude": 8.916427
+    },
+    {
+      "name": "Station Hadsten",
+      "latitude": 56.317834,
+      "longitude": 10.044059
+    },
+    {
+      "name": "Station Hammel",
+      "latitude": 56.257599,
+      "longitude": 9.859326
+    },
+    {
+      "name": "Station Hedensted",
+      "latitude": 55.781744,
+      "longitude": 9.699058
+    },
+    {
+      "name": "Station Hinnerup",
+      "latitude": 56.253135,
+      "longitude": 10.06956
+    },
+    {
+      "name": "Station Hornslet",
+      "latitude": 56.309146,
+      "longitude": 10.31867
+    },
+    {
+      "name": "Station Hornsyld",
+      "latitude": 55.754904,
+      "longitude": 9.850157
+    },
+    {
+      "name": "Station Hørning",
+      "latitude": 56.079536,
+      "longitude": 10.02961
+    },
+    {
+      "name": "Station Klakring",
+      "latitude": 55.711238,
+      "longitude": 9.968497
+    },
+    {
+      "name": "Station Knebel",
+      "latitude": 56.211956,
+      "longitude": 10.48449
+    },
+    {
+      "name": "Station Kolind",
+      "latitude": 56.354978,
+      "longitude": 10.571572
+    },
+    {
+      "name": "Station Langå",
+      "latitude": 56.394764,
+      "longitude": 9.899458
+    },
+    {
+      "name": "Station Nordby",
+      "latitude": 55.45422,
+      "longitude": 8.398558
+    },
+    {
+      "name": "Station Odder",
+      "latitude": 55.976496,
+      "longitude": 10.150916
+    },
+    {
+      "name": "Station Randers",
+      "latitude": 56.471842,
+      "longitude": 10.042648
+    },
+    {
+      "name": "Station Ry",
+      "latitude": 56.086854,
+      "longitude": 9.778896
+    },
+    {
+      "name": "Station Rønde",
+      "latitude": 56.30285,
+      "longitude": 10.463708
+    },
+    {
+      "name": "Station Samsø - Nordby",
+      "latitude": 55.956604,
+      "longitude": 10.549206
+    },
+    {
+      "name": "Station Samsø - Tranebjerg",
+      "latitude": 55.835941,
+      "longitude": 10.601542
+    },
+    {
+      "name": "Station Skanderborg",
+      "latitude": 56.038463,
+      "longitude": 9.914966
+    },
+    {
+      "name": "Station Slagelse",
+      "latitude": 55.394158,
+      "longitude": 11.35382
+    },
+    {
+      "name": "Station Sorø",
+      "latitude": 55.437259,
+      "longitude": 11.551248
+    },
+    {
+      "name": "Station Stepping",
+      "latitude": 55.36034,
+      "longitude": 9.360121
+    },
+    {
+      "name": "Station Sønderho",
+      "latitude": 55.349946,
+      "longitude": 8.468266
+    },
+    {
+      "name": "Station Taastrup",
+      "latitude": 55.655371,
+      "longitude": 12.280549
+    },
+    {
+      "name": "Station Tinglev",
+      "latitude": 54.934246,
+      "longitude": 9.24044
+    },
+    {
+      "name": "Station Tunø",
+      "latitude": 55.948936,
+      "longitude": 10.44682
+    },
+    {
+      "name": "Station Tørring",
+      "latitude": 55.84848,
+      "longitude": 9.495018
+    },
+    {
+      "name": "Station Vejle",
+      "latitude": 55.732698,
+      "longitude": 9.558623
+    },
+    {
+      "name": "Station Øster Tørslev",
+      "latitude": 56.575298,
+      "longitude": 10.189776
+    },
+    {
+      "name": "Stepping Frivillig Brandværn",
+      "latitude": 55.355391,
+      "longitude": 9.356808
+    },
+    {
+      "name": "Sydvestjydsk Brandvæsen Administration",
+      "latitude": 55.4856,
+      "longitude": 8.464863
+    },
+    {
+      "name": "Sydvestjysk Brandvæsen",
+      "latitude": 55.328315,
+      "longitude": 8.769786
+    },
+    {
+      "name": "Sønderborg Brand & Redning",
+      "latitude": 54.930124,
+      "longitude": 9.78968
+    },
+    {
+      "name": "Tikøb Brandstation",
+      "latitude": 56.020612,
+      "longitude": 12.453074
+    },
+    {
+      "name": "Tinglev Frivillige Brandværn",
+      "latitude": 54.93426,
+      "longitude": 9.24028
+    },
+    {
+      "name": "Toftlund frivillige Brandværn",
+      "latitude": 55.188244,
+      "longitude": 9.065834
+    },
+    {
+      "name": "Tomsgårdens Brandstation",
+      "latitude": 55.705847,
+      "longitude": 12.520868
+    },
+    {
+      "name": "Tuse Næs Brandstation",
+      "latitude": 55.755663,
+      "longitude": 11.697171
+    },
+    {
+      "name": "Tyrstrup Frivillig Brandværn",
+      "latitude": 55.363467,
+      "longitude": 9.486587
+    },
+    {
+      "name": "Tårnby Brandstation",
+      "latitude": 55.631625,
+      "longitude": 12.621919
+    },
+    {
+      "name": "Tølløse Brandstation",
+      "latitude": 55.61006,
+      "longitude": 11.762512
+    },
+    {
+      "name": "Tønder Friv. Brandværn",
+      "latitude": 54.947913,
+      "longitude": 8.869499
+    },
+    {
+      "name": "Ullerup brandstation",
+      "latitude": 54.966066,
+      "longitude": 9.659522
+    },
+    {
+      "name": "Vamdrup Brand og Redning",
+      "latitude": 55.426862,
+      "longitude": 9.283309
+    },
+    {
+      "name": "Vejen Brandstation Falck",
+      "latitude": 55.486882,
+      "longitude": 9.137245
+    },
+    {
+      "name": "Vester Sottrup Frivillige Brandværn",
+      "latitude": 54.949955,
+      "longitude": 9.70048
+    },
+    {
+      "name": "Vesterbro Brandstation",
+      "latitude": 55.6572,
+      "longitude": 12.537934
+    },
+    {
+      "name": "Viborg Brandvæsen",
+      "latitude": 56.467047,
+      "longitude": 9.402949
+    },
+    {
+      "name": "Visby Friv. Brandværn",
+      "latitude": 55.01022,
+      "longitude": 8.777394
+    },
+    {
+      "name": "Ærø Redningskorps",
+      "latitude": 54.848453,
+      "longitude": 10.414036
+    },
+    {
+      "name": "Østerbro Brandstation",
+      "latitude": 55.70155,
+      "longitude": 12.590904
+    }
+  ],
+  "meta": {
+    "title": "Brandstationer i Danmark – OpenStreetMap (Fire stations in Denmark, OSM) - Gratis download",
+    "description": "Liste over 207 brandstationer i Danmark fra OpenStreetMap (amenity=fire_station) — navn og koordinater (WGS84). Indeholder 207 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Brandstationer i Danmark – OpenStreetMap (Fire stations in Denmark, OSM) | ListBase",
+    "seo_description": "Download Brandstationer i Danmark – OpenStreetMap (Fire stations in Denmark, OSM) — 207 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 207 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

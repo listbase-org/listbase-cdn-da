@@ -1,0 +1,168 @@
+{
+  "id": "da-vesthimmerlands-afstemningssteder",
+  "name": "Afstemningssteder i Vesthimmerlands Kommune",
+  "title": "Afstemningssteder i Vesthimmerlands Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Vesthimmerlands Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Aalestrup",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Farsø",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Strandby",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Aars",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Hvalpsund",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Gislum-Vognsild",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Gedsted",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Hornum-Ulstrup",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Vester Hornum",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Løgstør",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Ranum",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Salling",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Overlade",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Skivum-Giver",
+      "kommune_kode": 820,
+      "kommune": "Vesthimmerlands",
+      "opstillingskreds_nummer": 88,
+      "opstillingskreds": "Himmerland"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Vesthimmerlands Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Vesthimmerlands Kommune med opstillingskreds. Indeholder 14 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Vesthimmerlands Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Vesthimmerlands Kommune — 14 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 14 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

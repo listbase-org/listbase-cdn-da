@@ -1,0 +1,86 @@
+{
+  "id": "da-maaleenheder-torque",
+  "name": "Måleenheder: torque (2)",
+  "title": "Måleenheder: torque (2)",
+  "description": "CLDR da-lokalets måleenheder i kategorien 'torque'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "torque-newton-meter",
+      "kategori": "torque",
+      "navn": "newtonmeter",
+      "moenster_en": "{0} newtonmeter",
+      "moenster_flere": "{0} newtonmeter",
+      "kort_moenster": "{0} Nm",
+      "smal_moenster": "{0} Nm"
+    },
+    {
+      "id": 2,
+      "unit_code": "torque-pound-force-foot",
+      "kategori": "torque",
+      "navn": "lbf⋅ft",
+      "moenster_en": "",
+      "moenster_flere": "{0} lbf⋅ft",
+      "kort_moenster": "{0} lbf⋅ft",
+      "smal_moenster": "{0} lbf⋅ft"
+    }
+  ],
+  "meta": {
+    "title": "Måleenheder: torque (2) - Gratis download",
+    "description": "CLDR da-lokalets måleenheder i kategorien 'torque'. Indeholder 2 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Måleenheder: torque (2) | ListBase",
+    "seo_description": "Download Måleenheder: torque (2) — 2 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 2 poster / 8 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

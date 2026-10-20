@@ -1,0 +1,160 @@
+{
+  "id": "da-hoeje-taastrup-afstemningssteder",
+  "name": "Afstemningssteder i Høje Taastrup Kommune",
+  "title": "Afstemningssteder i Høje Taastrup Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Høje Taastrup Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Selsmoseskolen",
+      "kommune_kode": 169,
+      "kommune": "Høje Taastrup",
+      "opstillingskreds_nummer": 19,
+      "opstillingskreds": "Taastrup"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Parkskolen",
+      "kommune_kode": 169,
+      "kommune": "Høje Taastrup",
+      "opstillingskreds_nummer": 19,
+      "opstillingskreds": "Taastrup"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Mølleholmskolen",
+      "kommune_kode": 169,
+      "kommune": "Høje Taastrup",
+      "opstillingskreds_nummer": 19,
+      "opstillingskreds": "Taastrup"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Taastrup Kulturcenter",
+      "kommune_kode": 169,
+      "kommune": "Høje Taastrup",
+      "opstillingskreds_nummer": 19,
+      "opstillingskreds": "Taastrup"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Borgerskolen",
+      "kommune_kode": 169,
+      "kommune": "Høje Taastrup",
+      "opstillingskreds_nummer": 19,
+      "opstillingskreds": "Taastrup"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Gadehaveskolen",
+      "kommune_kode": 169,
+      "kommune": "Høje Taastrup",
+      "opstillingskreds_nummer": 19,
+      "opstillingskreds": "Taastrup"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Rønnevangshallen",
+      "kommune_kode": 169,
+      "kommune": "Høje Taastrup",
+      "opstillingskreds_nummer": 19,
+      "opstillingskreds": "Taastrup"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Torstorp Skole",
+      "kommune_kode": 169,
+      "kommune": "Høje Taastrup",
+      "opstillingskreds_nummer": 19,
+      "opstillingskreds": "Taastrup"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Sengeløse",
+      "kommune_kode": 169,
+      "kommune": "Høje Taastrup",
+      "opstillingskreds_nummer": 19,
+      "opstillingskreds": "Taastrup"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Charlotteskolen",
+      "kommune_kode": 169,
+      "kommune": "Høje Taastrup",
+      "opstillingskreds_nummer": 19,
+      "opstillingskreds": "Taastrup"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Fritidscentret Hedehuset",
+      "kommune_kode": 169,
+      "kommune": "Høje Taastrup",
+      "opstillingskreds_nummer": 19,
+      "opstillingskreds": "Taastrup"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Fløng Hallen",
+      "kommune_kode": 169,
+      "kommune": "Høje Taastrup",
+      "opstillingskreds_nummer": 19,
+      "opstillingskreds": "Taastrup"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Reerslev Skole",
+      "kommune_kode": 169,
+      "kommune": "Høje Taastrup",
+      "opstillingskreds_nummer": 19,
+      "opstillingskreds": "Taastrup"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Høje Taastrup Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Høje Taastrup Kommune med opstillingskreds. Indeholder 13 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Høje Taastrup Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Høje Taastrup Kommune — 13 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 13 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

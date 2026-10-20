@@ -1,0 +1,80 @@
+{
+  "id": "da-laesoe-afstemningssteder",
+  "name": "Afstemningssteder i Læsø Kommune",
+  "title": "Afstemningssteder i Læsø Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Læsø Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Vesterø Havn",
+      "kommune_kode": 825,
+      "kommune": "Læsø",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Byrum",
+      "kommune_kode": 825,
+      "kommune": "Læsø",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Østerby Havn",
+      "kommune_kode": 825,
+      "kommune": "Læsø",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Læsø Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Læsø Kommune med opstillingskreds. Indeholder 3 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Læsø Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Læsø Kommune — 3 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 3 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

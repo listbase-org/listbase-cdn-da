@@ -1,0 +1,70 @@
+{
+  "id": "da-viborg-swift-koder",
+  "name": "SWIFT/BIC-koder — Viborg",
+  "title": "SWIFT/BIC-koder — Viborg",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 4 institutioner, som kilden angiver med byen \"VIBORG\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "ALMIND SPARE- OG LAANEKASSE",
+      "city": "VIBORG",
+      "branch": "",
+      "swift_code": "ALSPDK21"
+    },
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "VIBORG",
+      "branch": "",
+      "swift_code": "DABADKKKVIB"
+    },
+    {
+      "bank": "RINGKJOBING LANDBOBANK A/S",
+      "city": "VIBORG",
+      "branch": "",
+      "swift_code": "RINGDK22VIB"
+    },
+    {
+      "bank": "VESTJYSK BANK",
+      "city": "VIBORG",
+      "branch": "",
+      "swift_code": "VEHODK22VIB"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Viborg - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 4 institutioner, som kilden angiver med byen \"VIBORG\". Indeholder 4 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Viborg | ListBase",
+    "seo_description": "Download SWIFT/BIC-koder — Viborg — 4 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 4 poster / 4 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

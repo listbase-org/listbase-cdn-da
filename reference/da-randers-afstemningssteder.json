@@ -1,0 +1,296 @@
+{
+  "id": "da-randers-afstemningssteder",
+  "name": "Afstemningssteder i Randers Kommune",
+  "title": "Afstemningssteder i Randers Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Randers Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Kulturhuset Langå",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Stevnstrup Forsamlingshus",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Jebjerg Forsamlingshus",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Havndalhallen",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Råby Forsamlingshus",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Øster Tørslev Fritidslokaler",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Korshøjskolen",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Hald Forsamlingshus",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Gjerlev Enslev Skole",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Rismølleskolen",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Rytterskolen",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Hornbækhallen",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Blicherskolen",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Kultur-Aktivitetshuset Gassum",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Asferg Forsamlingshus",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Purhushallen",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Ø. Bjerregrav Forsamlingshus",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Hadsundvejens Skole",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Hobrovejens Skole",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Nyvangsskolen",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "27",
+      "afstemningssted": "Nørrevangsskolen",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "Fritidscentret",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "29",
+      "afstemningssted": "Vestervangsskolen",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "30",
+      "afstemningssted": "Østervangsskolen",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 67,
+      "opstillingskreds": "Randers Nord"
+    },
+    {
+      "afstemningsomraade_kode": "31",
+      "afstemningssted": "Søndermarkskolen",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "32",
+      "afstemningssted": "Kristrup Skole",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "33",
+      "afstemningssted": "Paderup Gymnasium",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "34",
+      "afstemningssted": "Romalt Aktivitetshal",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "36",
+      "afstemningssted": "Assentofthallen",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    },
+    {
+      "afstemningsomraade_kode": "37",
+      "afstemningssted": "Uggelhuse Forsamlingshus",
+      "kommune_kode": 730,
+      "kommune": "Randers",
+      "opstillingskreds_nummer": 68,
+      "opstillingskreds": "Randers Syd"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Randers Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Randers Kommune med opstillingskreds. Indeholder 30 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Randers Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Randers Kommune — 30 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 30 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

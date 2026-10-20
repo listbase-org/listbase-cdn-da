@@ -1,0 +1,76 @@
+{
+  "id": "da-horsens-swift-koder",
+  "name": "SWIFT/BIC-koder — Horsens",
+  "title": "SWIFT/BIC-koder — Horsens",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 5 institutioner, som kilden angiver med byen \"HORSENS\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "DANSK AUTORISERET MARKEDSPLADS A/S",
+      "city": "HORSENS",
+      "branch": "",
+      "swift_code": "DAMKDK21"
+    },
+    {
+      "bank": "DANSK O.T.C FONDSMAEGLERSELSKAB A/S",
+      "city": "HORSENS",
+      "branch": "",
+      "swift_code": "DAOFDK21"
+    },
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "HORSENS",
+      "branch": "",
+      "swift_code": "DABADKKKHOR"
+    },
+    {
+      "bank": "EGNS-INVEST",
+      "city": "HORSENS",
+      "branch": "",
+      "swift_code": "EGNSDK21"
+    },
+    {
+      "bank": "SYDBANK A/S",
+      "city": "HORSENS",
+      "branch": "",
+      "swift_code": "SYBKDK22HOR"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Horsens - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 5 institutioner, som kilden angiver med byen \"HORSENS\". Indeholder 5 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Horsens | ListBase",
+    "seo_description": "Download SWIFT/BIC-koder — Horsens — 5 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 5 poster / 4 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

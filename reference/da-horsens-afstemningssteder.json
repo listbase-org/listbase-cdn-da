@@ -1,0 +1,232 @@
+{
+  "id": "da-horsens-afstemningssteder",
+  "name": "Afstemningssteder i Horsens Kommune",
+  "title": "Afstemningssteder i Horsens Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Horsens Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Sønderbro",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Vestbyen",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Midtbyen",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Endelave",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Forum Horsens",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Dagnæs",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Torsted",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Hatting",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Lund-Vinten",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Egebjerg",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Stensballe",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Højvang",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Ring - Grædstrup",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Nim/Underup - Føvling/Tyrsting",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Sdr. Vissing",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Østbirk",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Gedved",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Hovedgård",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Søvind",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Sejet",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Sundtoppen",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Tønning-Træden",
+      "kommune_kode": 615,
+      "kommune": "Horsens",
+      "opstillingskreds_nummer": 71,
+      "opstillingskreds": "Horsens"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Horsens Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Horsens Kommune med opstillingskreds. Indeholder 22 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Horsens Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Horsens Kommune — 22 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 22 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "da-ryomgaard-banker",
+  "name": "Banker i Ryomgaard — SWIFT/BIC-koder",
+  "title": "Banker i Ryomgaard — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Ryomgaard, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"RYOMGAARD\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 155,
+      "bank": "DJURSLANDS BANK A/S",
+      "city": "RYOMGAARD",
+      "branch": "",
+      "swift_code": "DJURDK22RYO"
+    },
+    {
+      "id": 425,
+      "bank": "RYOMGAARD OG OMEGNS SPAREKASSE",
+      "city": "RYOMGAARD",
+      "branch": "",
+      "swift_code": "RYOMDK21"
+    },
+    {
+      "id": 457,
+      "bank": "SPAREKASSEN MIDTDJURS",
+      "city": "RYOMGAARD",
+      "branch": "",
+      "swift_code": "SPMJDK21"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Ryomgaard — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Ryomgaard, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"RYOMGAARD\"). Delmængde af det nationale da-banker-datasæt. Indeholder 3 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Ryomgaard — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Ryomgaard — SWIFT/BIC-koder — 3 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 3 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

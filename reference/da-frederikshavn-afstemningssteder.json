@@ -1,0 +1,232 @@
+{
+  "id": "da-frederikshavn-afstemningssteder",
+  "name": "Afstemningssteder i Frederikshavn Kommune",
+  "title": "Afstemningssteder i Frederikshavn Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Frederikshavn Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Skagen",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Hulsig",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Ålbæk",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Jerup",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Elling",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Strandby",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Frederikshavn Nord",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Frederikshavn Midt",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Frederikshavn Syd",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Ravnshøj",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Gærum",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Sæby",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Brønden",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Dybvad",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Hørby",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Præstbro",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Thorshøj",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Understed",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Voerså",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Volstrup",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Østervrå",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Lyngså",
+      "kommune_kode": 813,
+      "kommune": "Frederikshavn",
+      "opstillingskreds_nummer": 84,
+      "opstillingskreds": "Frederikshavn"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Frederikshavn Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Frederikshavn Kommune med opstillingskreds. Indeholder 22 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Frederikshavn Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Frederikshavn Kommune — 22 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 22 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

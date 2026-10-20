@@ -1,0 +1,621 @@
+{
+  "id": "da-raadhuse",
+  "name": "Rådhuse i Danmark – OpenStreetMap (Town halls in Denmark, OSM)",
+  "title": "Rådhuse i Danmark – OpenStreetMap (Town halls in Denmark, OSM)",
+  "description": "Liste over 116 rådhuse i Danmark fra OpenStreetMap (amenity=townhall) — navn og koordinater (WGS84).",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 116,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aabenraa Rådhus",
+      "latitude": 55.02375,
+      "longitude": 9.422084
+    },
+    {
+      "name": "Aabybro Rådhus",
+      "latitude": 57.160062,
+      "longitude": 9.741888
+    },
+    {
+      "name": "Aarhus Rådhus",
+      "latitude": 56.152244,
+      "longitude": 10.203057
+    },
+    {
+      "name": "Aars Rådhus",
+      "latitude": 56.799186,
+      "longitude": 9.505432
+    },
+    {
+      "name": "Administrationsbygningen",
+      "latitude": 55.710788,
+      "longitude": 9.528544
+    },
+    {
+      "name": "Administrationscentret i Birkerød",
+      "latitude": 55.840121,
+      "longitude": 12.426792
+    },
+    {
+      "name": "Albertslund Rådhus",
+      "latitude": 55.656865,
+      "longitude": 12.358082
+    },
+    {
+      "name": "Allerød Rådhus",
+      "latitude": 55.865475,
+      "longitude": 12.329851
+    },
+    {
+      "name": "Arden Rådhus",
+      "latitude": 56.767443,
+      "longitude": 9.862042
+    },
+    {
+      "name": "Assens Rådhus",
+      "latitude": 55.26647,
+      "longitude": 9.892869
+    },
+    {
+      "name": "Ballerup Rådhus",
+      "latitude": 55.733894,
+      "longitude": 12.36519
+    },
+    {
+      "name": "Billund Kommune",
+      "latitude": 55.752826,
+      "longitude": 8.927484
+    },
+    {
+      "name": "Bogense Rådhus",
+      "latitude": 55.566791,
+      "longitude": 10.092568
+    },
+    {
+      "name": "Borgerservice",
+      "latitude": 54.769759,
+      "longitude": 11.870209
+    },
+    {
+      "name": "Borgerservice",
+      "latitude": 55.329214,
+      "longitude": 8.76899
+    },
+    {
+      "name": "Borgerservice",
+      "latitude": 55.61504,
+      "longitude": 12.361278
+    },
+    {
+      "name": "Borgerservice Bramming",
+      "latitude": 55.464738,
+      "longitude": 8.70694
+    },
+    {
+      "name": "Bornholms Regions Kommune",
+      "latitude": 55.102522,
+      "longitude": 14.709309
+    },
+    {
+      "name": "Brovst Rådhus",
+      "latitude": 57.100781,
+      "longitude": 9.515475
+    },
+    {
+      "name": "Brøndby Rådhus",
+      "latitude": 55.653296,
+      "longitude": 12.418864
+    },
+    {
+      "name": "Brønderslev Rådhus",
+      "latitude": 57.270757,
+      "longitude": 9.946776
+    },
+    {
+      "name": "Den Blå Diamant",
+      "latitude": 56.566075,
+      "longitude": 9.030821
+    },
+    {
+      "name": "Det Gamle Rådhus",
+      "latitude": 56.460838,
+      "longitude": 10.037042
+    },
+    {
+      "name": "Dragør Rådhus",
+      "latitude": 55.596854,
+      "longitude": 12.637221
+    },
+    {
+      "name": "Dronninglund Rådhus",
+      "latitude": 57.159853,
+      "longitude": 10.290407
+    },
+    {
+      "name": "Esbjerg Rådhus",
+      "latitude": 55.472401,
+      "longitude": 8.452799
+    },
+    {
+      "name": "Faaborg-Midtfyn Kommune",
+      "latitude": 55.234852,
+      "longitude": 10.481676
+    },
+    {
+      "name": "Fanø Rådhus",
+      "latitude": 55.446247,
+      "longitude": 8.402942
+    },
+    {
+      "name": "Favrskov Rådhus",
+      "latitude": 56.261928,
+      "longitude": 10.057244
+    },
+    {
+      "name": "Faxe Kommune Rådhuset",
+      "latitude": 55.32517,
+      "longitude": 11.96197
+    },
+    {
+      "name": "Fjerritslev Rådhus",
+      "latitude": 57.087244,
+      "longitude": 9.265391
+    },
+    {
+      "name": "Fredensborg Kommune",
+      "latitude": 55.905542,
+      "longitude": 12.47381
+    },
+    {
+      "name": "Fredericia Rådhus",
+      "latitude": 55.565164,
+      "longitude": 9.755546
+    },
+    {
+      "name": "Frederiksberg Rådhus",
+      "latitude": 55.678313,
+      "longitude": 12.531311
+    },
+    {
+      "name": "Frederikshavn Rådhus",
+      "latitude": 57.441333,
+      "longitude": 10.533368
+    },
+    {
+      "name": "Frederikssund Rådhus",
+      "latitude": 55.840006,
+      "longitude": 12.059605
+    },
+    {
+      "name": "Furesø Rådhus",
+      "latitude": 55.783187,
+      "longitude": 12.37714
+    },
+    {
+      "name": "Gentofte Rådhus",
+      "latitude": 55.749396,
+      "longitude": 12.556023
+    },
+    {
+      "name": "Gladsaxe Rådhus",
+      "latitude": 55.743173,
+      "longitude": 12.497061
+    },
+    {
+      "name": "Glostrup Rådhus",
+      "latitude": 55.665162,
+      "longitude": 12.394097
+    },
+    {
+      "name": "Greve Rådhus",
+      "latitude": 55.583521,
+      "longitude": 12.291351
+    },
+    {
+      "name": "Guldborgsund Kommune",
+      "latitude": 54.783869,
+      "longitude": 11.865037
+    },
+    {
+      "name": "Haderslev Rådhus",
+      "latitude": 55.251886,
+      "longitude": 9.506097
+    },
+    {
+      "name": "Hadsund Rådhus",
+      "latitude": 56.717095,
+      "longitude": 10.110333
+    },
+    {
+      "name": "Halsnæs Rådhus",
+      "latitude": 55.976961,
+      "longitude": 12.015819
+    },
+    {
+      "name": "Helsinge Rådhus",
+      "latitude": 56.01984,
+      "longitude": 12.197513
+    },
+    {
+      "name": "Herlev Rådhus",
+      "latitude": 55.723219,
+      "longitude": 12.440685
+    },
+    {
+      "name": "Herning Rådhus",
+      "latitude": 56.136916,
+      "longitude": 8.97479
+    },
+    {
+      "name": "Hillerød Rådhus",
+      "latitude": 55.921372,
+      "longitude": 12.284181
+    },
+    {
+      "name": "Hjørring Rådhus",
+      "latitude": 57.460464,
+      "longitude": 9.985612
+    },
+    {
+      "name": "Hobro Rådhus",
+      "latitude": 56.638753,
+      "longitude": 9.798863
+    },
+    {
+      "name": "Holbæk Kommune Borgerservice",
+      "latitude": 55.715631,
+      "longitude": 11.711042
+    },
+    {
+      "name": "Holbæk Rådhus",
+      "latitude": 55.719811,
+      "longitude": 11.714107
+    },
+    {
+      "name": "Holstebro Rådhus",
+      "latitude": 56.360083,
+      "longitude": 8.615671
+    },
+    {
+      "name": "Horsens Rådhus",
+      "latitude": 55.871872,
+      "longitude": 9.885761
+    },
+    {
+      "name": "Hvidovre Rådhus",
+      "latitude": 55.642808,
+      "longitude": 12.477459
+    },
+    {
+      "name": "Høje Taastrup Rådhus",
+      "latitude": 55.64503,
+      "longitude": 12.273626
+    },
+    {
+      "name": "Hørsholm Rådhus",
+      "latitude": 55.877656,
+      "longitude": 12.484277
+    },
+    {
+      "name": "Ikast-Brande Kommune",
+      "latitude": 56.139226,
+      "longitude": 9.155857
+    },
+    {
+      "name": "Ishøj Rådhus",
+      "latitude": 55.614136,
+      "longitude": 12.355902
+    },
+    {
+      "name": "Juelsminde Rådhus",
+      "latitude": 55.708534,
+      "longitude": 9.988069
+    },
+    {
+      "name": "Kalundborg Rådhus",
+      "latitude": 55.680777,
+      "longitude": 11.129613
+    },
+    {
+      "name": "Kerteminde Kommune Rådhuset",
+      "latitude": 55.451146,
+      "longitude": 10.660209
+    },
+    {
+      "name": "Kolding Rådhus",
+      "latitude": 55.490395,
+      "longitude": 9.472996
+    },
+    {
+      "name": "Københavns Rådhus",
+      "latitude": 55.675361,
+      "longitude": 12.570068
+    },
+    {
+      "name": "Køge Rådhus",
+      "latitude": 55.45646,
+      "longitude": 12.184
+    },
+    {
+      "name": "Langeland Kommune",
+      "latitude": 54.936527,
+      "longitude": 10.719072
+    },
+    {
+      "name": "Lejre Kommune",
+      "latitude": 55.601049,
+      "longitude": 11.860878
+    },
+    {
+      "name": "Lemvig Rådhus",
+      "latitude": 56.549601,
+      "longitude": 8.311624
+    },
+    {
+      "name": "Lyngby Rådhus",
+      "latitude": 55.769631,
+      "longitude": 12.502246
+    },
+    {
+      "name": "Mariager Rådhus",
+      "latitude": 56.653176,
+      "longitude": 9.979247
+    },
+    {
+      "name": "Middelfart Rådhus",
+      "latitude": 55.50438,
+      "longitude": 9.737457
+    },
+    {
+      "name": "Morsø Rådhus",
+      "latitude": 56.793023,
+      "longitude": 8.860604
+    },
+    {
+      "name": "Norddjurs Rådhus",
+      "latitude": 56.414531,
+      "longitude": 10.875591
+    },
+    {
+      "name": "Nyborg Rådhus",
+      "latitude": 55.3129,
+      "longitude": 10.790291
+    },
+    {
+      "name": "Næstved Rådhus",
+      "latitude": 55.229451,
+      "longitude": 11.763398
+    },
+    {
+      "name": "Odense Rådhus",
+      "latitude": 55.396101,
+      "longitude": 10.388829
+    },
+    {
+      "name": "Odsherred Rådhus",
+      "latitude": 55.906961,
+      "longitude": 11.59621
+    },
+    {
+      "name": "Områdekontor Brørup",
+      "latitude": 55.491404,
+      "longitude": 9.017884
+    },
+    {
+      "name": "Otterup Kommune Rådhus",
+      "latitude": 55.514176,
+      "longitude": 10.392677
+    },
+    {
+      "name": "Pandrup Rådhus",
+      "latitude": 57.220822,
+      "longitude": 9.679271
+    },
+    {
+      "name": "Randers Rådhus",
+      "latitude": 56.457844,
+      "longitude": 10.035307
+    },
+    {
+      "name": "Rebild Kommune",
+      "latitude": 56.886077,
+      "longitude": 9.836197
+    },
+    {
+      "name": "Ringkøbing Rådhus",
+      "latitude": 56.08656,
+      "longitude": 8.242698
+    },
+    {
+      "name": "Ringkøbing-Skjern Kommune",
+      "latitude": 55.947487,
+      "longitude": 8.496552
+    },
+    {
+      "name": "Rudersdal Kommune",
+      "latitude": 55.810942,
+      "longitude": 12.474087
+    },
+    {
+      "name": "Rådhus",
+      "latitude": 55.767597,
+      "longitude": 9.696892
+    },
+    {
+      "name": "Rådhuset Langeskov",
+      "latitude": 55.360251,
+      "longitude": 10.587094
+    },
+    {
+      "name": "Rådhuset Lolland Kommune",
+      "latitude": 54.775433,
+      "longitude": 11.501339
+    },
+    {
+      "name": "Rådhuset Læsø Kommune",
+      "latitude": 57.256278,
+      "longitude": 10.999435
+    },
+    {
+      "name": "Rådhuset Mariagerfjord Kommune",
+      "latitude": 56.638665,
+      "longitude": 9.798851
+    },
+    {
+      "name": "Rødovre Rådhus",
+      "latitude": 55.681273,
+      "longitude": 12.455792
+    },
+    {
+      "name": "Salten Borgerhus",
+      "latitude": 56.082017,
+      "longitude": 9.567261
+    },
+    {
+      "name": "Samsø Rådhus",
+      "latitude": 55.831334,
+      "longitude": 10.590194
+    },
+    {
+      "name": "Silkeborg Rådhus",
+      "latitude": 56.170802,
+      "longitude": 9.549811
+    },
+    {
+      "name": "Skanderborg Fælled",
+      "latitude": 56.049614,
+      "longitude": 9.963042
+    },
+    {
+      "name": "Skive Rådhus",
+      "latitude": 56.566983,
+      "longitude": 9.028921
+    },
+    {
+      "name": "Slagelse Rådhus",
+      "latitude": 55.405444,
+      "longitude": 11.356099
+    },
+    {
+      "name": "Slangerup Rådhus",
+      "latitude": 55.846465,
+      "longitude": 12.172299
+    },
+    {
+      "name": "Solrød Rådhus",
+      "latitude": 55.533891,
+      "longitude": 12.21427
+    },
+    {
+      "name": "Sorø Rådhus",
+      "latitude": 55.435349,
+      "longitude": 11.562302
+    },
+    {
+      "name": "Struer Rådhus",
+      "latitude": 56.49225,
+      "longitude": 8.593934
+    },
+    {
+      "name": "Svendborg Rådhus",
+      "latitude": 55.059956,
+      "longitude": 10.608274
+    },
+    {
+      "name": "Sønderborg Rådhus",
+      "latitude": 54.908517,
+      "longitude": 9.788696
+    },
+    {
+      "name": "Teknik og Miljø",
+      "latitude": 55.252699,
+      "longitude": 9.473847
+    },
+    {
+      "name": "Thisted Rådhus",
+      "latitude": 56.952843,
+      "longitude": 8.691307
+    },
+    {
+      "name": "Tårnby Rådhus",
+      "latitude": 55.633732,
+      "longitude": 12.618961
+    },
+    {
+      "name": "Tønder Rådhus",
+      "latitude": 54.932489,
+      "longitude": 8.868489
+    },
+    {
+      "name": "Vallensbæk Rådhus",
+      "latitude": 55.62407,
+      "longitude": 12.386736
+    },
+    {
+      "name": "Varde Rådhus",
+      "latitude": 55.626829,
+      "longitude": 8.463672
+    },
+    {
+      "name": "Vejen Rådhus",
+      "latitude": 55.477504,
+      "longitude": 9.137083
+    },
+    {
+      "name": "Vejle Rådhus",
+      "latitude": 55.708042,
+      "longitude": 9.532106
+    },
+    {
+      "name": "Viborg Rådhus",
+      "latitude": 56.458602,
+      "longitude": 9.398347
+    },
+    {
+      "name": "Vordingborg Kommune",
+      "latitude": 54.985098,
+      "longitude": 12.287045
+    },
+    {
+      "name": "Vordingborg Kommune Rådhus",
+      "latitude": 55.011223,
+      "longitude": 11.908479
+    },
+    {
+      "name": "Ærø Kommune",
+      "latitude": 54.889521,
+      "longitude": 10.406517
+    }
+  ],
+  "meta": {
+    "title": "Rådhuse i Danmark – OpenStreetMap (Town halls in Denmark, OSM) - Gratis download",
+    "description": "Liste over 116 rådhuse i Danmark fra OpenStreetMap (amenity=townhall) — navn og koordinater (WGS84). Indeholder 116 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Rådhuse i Danmark – OpenStreetMap (Town halls in Denmark, OSM) | ListBase",
+    "seo_description": "Download Rådhuse i Danmark – OpenStreetMap (Town halls in Denmark, OSM) — 116 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 116 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

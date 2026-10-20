@@ -1,0 +1,632 @@
+{
+  "id": "da-statuer",
+  "name": "Statuer i Danmark",
+  "title": "Statuer i Danmark",
+  "description": "Statuer (statues) i Danmark fra Wikidata (P31 = Q179700, P17 = Danmark) med koordinater.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q61691053",
+      "wikidata_id": "Q61691053",
+      "name_da": "Adam Gottlob Oehlenschläger",
+      "name_en": "Adam Gottlob Oehlenschläger",
+      "latitude": 55.67067,
+      "longitude": 12.52608
+    },
+    {
+      "id": "Q128791688",
+      "wikidata_id": "Q128791688",
+      "name_da": "Adam Oehlenschläger",
+      "name_en": "Adam Oehlenschläger",
+      "latitude": 55.679733,
+      "longitude": 12.586146
+    },
+    {
+      "id": "Q18809149",
+      "wikidata_id": "Q18809149",
+      "name_da": "Agnete og Havmanden",
+      "name_en": "Agnete and the Merman",
+      "latitude": 55.6776,
+      "longitude": 12.5802
+    },
+    {
+      "id": "Q12301254",
+      "wikidata_id": "Q12301254",
+      "name_da": "Amanda",
+      "name_en": "Amanda",
+      "latitude": 55.44727,
+      "longitude": 10.65878
+    },
+    {
+      "id": "Q65990967",
+      "wikidata_id": "Q65990967",
+      "name_da": "Anders Sandøe Ørsted",
+      "name_en": "Statue of Anders Sandøe Ørsted",
+      "latitude": 55.68213,
+      "longitude": 12.56581
+    },
+    {
+      "id": "Q124844438",
+      "wikidata_id": "Q124844438",
+      "name_da": "Anker Jørgensen",
+      "name_en": "",
+      "latitude": 55.651144,
+      "longitude": 12.536393
+    },
+    {
+      "id": "Q22083772",
+      "wikidata_id": "Q22083772",
+      "name_da": "Ansgar",
+      "name_en": "Ribe domkirke - Ansgar",
+      "latitude": 55.327896,
+      "longitude": 8.761616
+    },
+    {
+      "id": "Q113005886",
+      "wikidata_id": "Q113005886",
+      "name_da": "Asmus Jacob Carstens",
+      "name_en": "Asmus Jacob Carstens",
+      "latitude": 55.67249,
+      "longitude": 12.57283
+    },
+    {
+      "id": "Q130219054",
+      "wikidata_id": "Q130219054",
+      "name_da": "Bueskytten",
+      "name_en": "",
+      "latitude": 55.7041,
+      "longitude": 12.576565
+    },
+    {
+      "id": "Q55673371",
+      "wikidata_id": "Q55673371",
+      "name_da": "C.F. Tietgen",
+      "name_en": "Carl Frederik Tietgen",
+      "latitude": 55.68129,
+      "longitude": 12.59241
+    },
+    {
+      "id": "Q61962735",
+      "wikidata_id": "Q61962735",
+      "name_da": "Carl Christian Hall",
+      "name_en": "Carl Christian Hall",
+      "latitude": 55.66836,
+      "longitude": 12.52987
+    },
+    {
+      "id": "Q57542867",
+      "wikidata_id": "Q57542867",
+      "name_da": "Caroline Amalie",
+      "name_en": "Caroline Amalie",
+      "latitude": 55.68628,
+      "longitude": 12.57793
+    },
+    {
+      "id": "Q65230102",
+      "wikidata_id": "Q65230102",
+      "name_da": "Christian 4",
+      "name_en": "",
+      "latitude": 55.6758,
+      "longitude": 12.5825
+    },
+    {
+      "id": "Q60767796",
+      "wikidata_id": "Q60767796",
+      "name_da": "Christian IV",
+      "name_en": "Christian IV",
+      "latitude": 55.69032,
+      "longitude": 12.58673
+    },
+    {
+      "id": "Q12306371",
+      "wikidata_id": "Q12306371",
+      "name_da": "Cimbrertyren",
+      "name_en": "Cimbrian Bull",
+      "latitude": 57.0497,
+      "longitude": 9.91638
+    },
+    {
+      "id": "Q60779620",
+      "wikidata_id": "Q60779620",
+      "name_da": "Danmarksmonumentet",
+      "name_en": "Danmarksmonumentet",
+      "latitude": 55.69028,
+      "longitude": 12.58175
+    },
+    {
+      "id": "Q15645084",
+      "wikidata_id": "Q15645084",
+      "name_da": "Danserindebrønden",
+      "name_en": "Danserindebrønden",
+      "latitude": 56.03868,
+      "longitude": 12.61243
+    },
+    {
+      "id": "Q61736436",
+      "wikidata_id": "Q61736436",
+      "name_da": "Dantesøjlen",
+      "name_en": "Dante Column",
+      "latitude": 55.67319,
+      "longitude": 12.57297
+    },
+    {
+      "id": "Q111893902",
+      "wikidata_id": "Q111893902",
+      "name_da": "Den genmodificerede Havfrue",
+      "name_en": "The Genetically Modified Little Mermaid",
+      "latitude": 55.69839,
+      "longitude": 12.59918
+    },
+    {
+      "id": "Q55635301",
+      "wikidata_id": "Q55635301",
+      "name_da": "Den Humane Sygeplejerske",
+      "name_en": "The Humane Nurse",
+      "latitude": 55.71173,
+      "longitude": 12.54242
+    },
+    {
+      "id": "Q60777644",
+      "wikidata_id": "Q60777644",
+      "name_da": "Det lider mot skymning",
+      "name_en": "Det lider mot skymning",
+      "latitude": 55.6893,
+      "longitude": 12.57549
+    },
+    {
+      "id": "Q73804671",
+      "wikidata_id": "Q73804671",
+      "name_da": "Diskoskasteren",
+      "name_en": "Discobolus in Copenhagen Botanical Garden",
+      "latitude": 55.68691,
+      "longitude": 12.57452
+    },
+    {
+      "id": "Q21976159",
+      "wikidata_id": "Q21976159",
+      "name_da": "Dronning Dagmar",
+      "name_en": "Dagmar of Bohemia",
+      "latitude": 55.330445,
+      "longitude": 8.756244
+    },
+    {
+      "id": "Q57647882",
+      "wikidata_id": "Q57647882",
+      "name_da": "Drukken Faun",
+      "name_en": "A Drunken Faun",
+      "latitude": 55.68158,
+      "longitude": 12.55814
+    },
+    {
+      "id": "Q57527532",
+      "wikidata_id": "Q57527532",
+      "name_da": "En neapolitansk Fisker lærer sin Søn at spille paa Fløjte",
+      "name_en": "En neapolitansk Fisker lærer sin Søn at spille paa Fløjte",
+      "latitude": 55.68131,
+      "longitude": 12.59
+    },
+    {
+      "id": "Q23906159",
+      "wikidata_id": "Q23906159",
+      "name_da": "En neapolitansk fisker lærer sin søn at spille på fløjte",
+      "name_en": "",
+      "latitude": 55.772779,
+      "longitude": 12.497018
+    },
+    {
+      "id": "Q113371300",
+      "wikidata_id": "Q113371300",
+      "name_da": "Fiskerkone",
+      "name_en": "Fishwife",
+      "latitude": 55.67772,
+      "longitude": 12.57937
+    },
+    {
+      "id": "Q56492399",
+      "wikidata_id": "Q56492399",
+      "name_da": "Folke Bernadotte",
+      "name_en": "Folke Bernadotte",
+      "latitude": 54.84837,
+      "longitude": 9.40202
+    },
+    {
+      "id": "Q43799739",
+      "wikidata_id": "Q43799739",
+      "name_da": "Frederik VI",
+      "name_en": "Frederik VI",
+      "latitude": 55.67494,
+      "longitude": 12.53048
+    },
+    {
+      "id": "Q28941974",
+      "wikidata_id": "Q28941974",
+      "name_da": "Frederik VII",
+      "name_en": "Statue of Frederick VII",
+      "latitude": 55.456554,
+      "longitude": 12.181595
+    },
+    {
+      "id": "Q55163026",
+      "wikidata_id": "Q55163026",
+      "name_da": "Frederik VII",
+      "name_en": "Statue of Frederick VII",
+      "latitude": 55.92993,
+      "longitude": 12.30257
+    },
+    {
+      "id": "Q55163198",
+      "wikidata_id": "Q55163198",
+      "name_da": "Frederik VII",
+      "name_en": "Frederick VII",
+      "latitude": 55.39952,
+      "longitude": 10.38638
+    },
+    {
+      "id": "Q77438579",
+      "wikidata_id": "Q77438579",
+      "name_da": "Georg Zoëga",
+      "name_en": "Georg Zoëga",
+      "latitude": 55.67303,
+      "longitude": 12.57177
+    },
+    {
+      "id": "Q21993345",
+      "wikidata_id": "Q21993345",
+      "name_da": "Gærpigen",
+      "name_en": "Gærpigen",
+      "latitude": 55.32777,
+      "longitude": 8.76684
+    },
+    {
+      "id": "Q30591194",
+      "wikidata_id": "Q30591194",
+      "name_da": "H. C. Andersen",
+      "name_en": "Hans Christian Andersen",
+      "latitude": 55.68561,
+      "longitude": 12.5816
+    },
+    {
+      "id": "Q60194370",
+      "wikidata_id": "Q60194370",
+      "name_da": "H.C. Lumbye",
+      "name_en": "H.C. Lumbye",
+      "latitude": 55.67305,
+      "longitude": 12.56819
+    },
+    {
+      "id": "Q16573957",
+      "wikidata_id": "Q16573957",
+      "name_da": "Han",
+      "name_en": "Han",
+      "latitude": 56.037222,
+      "longitude": 12.615833
+    },
+    {
+      "id": "Q21978948",
+      "wikidata_id": "Q21978948",
+      "name_da": "Hans Adolph Brorson",
+      "name_en": "Hans Adolph Brorson",
+      "latitude": 55.327898,
+      "longitude": 8.761149
+    },
+    {
+      "id": "Q60774899",
+      "wikidata_id": "Q60774899",
+      "name_da": "Hans Christian Andersen",
+      "name_en": "Hans Christian Andersen",
+      "latitude": 55.39511,
+      "longitude": 10.38982
+    },
+    {
+      "id": "Q21978968",
+      "wikidata_id": "Q21978968",
+      "name_da": "Hans Tavsen",
+      "name_en": "Hans Tavsen",
+      "latitude": 55.327957,
+      "longitude": 8.761054
+    },
+    {
+      "id": "Q61638237",
+      "wikidata_id": "Q61638237",
+      "name_da": "",
+      "name_en": "I Am Queen Mary",
+      "latitude": 55.686027,
+      "longitude": 12.597104
+    },
+    {
+      "id": "Q55673418",
+      "wikidata_id": "Q55673418",
+      "name_da": "J.P.E. Hartmann",
+      "name_en": "Statue of J.P.E. Hartmann by August Saabye",
+      "latitude": 55.68186,
+      "longitude": 12.59027
+    },
+    {
+      "id": "Q26234999",
+      "wikidata_id": "Q26234999",
+      "name_da": "Kagmanden",
+      "name_en": "Kagmanden",
+      "latitude": 54.93608,
+      "longitude": 8.86976
+    },
+    {
+      "id": "Q29410302",
+      "wikidata_id": "Q29410302",
+      "name_da": "Kains efterkommere",
+      "name_en": "",
+      "latitude": 55.662611,
+      "longitude": 12.516194
+    },
+    {
+      "id": "Q133225918",
+      "wikidata_id": "Q133225918",
+      "name_da": "Karen Blixen statue",
+      "name_en": "",
+      "latitude": 55.681105,
+      "longitude": 12.593168
+    },
+    {
+      "id": "Q5113613",
+      "wikidata_id": "Q5113613",
+      "name_da": "Kristus",
+      "name_en": "Christus",
+      "latitude": 55.679444,
+      "longitude": 12.573056
+    },
+    {
+      "id": "Q12011350",
+      "wikidata_id": "Q12011350",
+      "name_da": "Landsoldaten med den lille hornblæser",
+      "name_en": "Landsoldaten med den lille hornblæser",
+      "latitude": 55.67664,
+      "longitude": 12.56722
+    },
+    {
+      "id": "Q19398985",
+      "wikidata_id": "Q19398985",
+      "name_da": "Liden Gunver",
+      "name_en": "Little Gunver",
+      "latitude": 55.68578,
+      "longitude": 12.57887
+    },
+    {
+      "id": "Q57665457",
+      "wikidata_id": "Q57665457",
+      "name_da": "Ludvig Holberg",
+      "name_en": "Ludvig Holberg",
+      "latitude": 55.67965,
+      "longitude": 12.58579
+    },
+    {
+      "id": "Q12325164",
+      "wikidata_id": "Q12325164",
+      "name_da": "Lurblæserne",
+      "name_en": "The Lure Players",
+      "latitude": 55.67602,
+      "longitude": 12.57015
+    },
+    {
+      "id": "Q17280648",
+      "wikidata_id": "Q17280648",
+      "name_da": "Løven og hesten",
+      "name_en": "Lion and Horse",
+      "latitude": 55.68397,
+      "longitude": 12.57743
+    },
+    {
+      "id": "Q12325912",
+      "wikidata_id": "Q12325912",
+      "name_da": "Maratonløber",
+      "name_en": "",
+      "latitude": 55.704,
+      "longitude": 12.5747
+    },
+    {
+      "id": "Q12011328",
+      "wikidata_id": "Q12011328",
+      "name_da": "Monument for H.C. Ørsted",
+      "name_en": "The Physicist Hans Christian Ørsted",
+      "latitude": 55.6808,
+      "longitude": 12.56737
+    },
+    {
+      "id": "Q93709065",
+      "wikidata_id": "Q93709065",
+      "name_da": "N. F. S. Grundtvig",
+      "name_en": "Statue of N. F. S. Grundtvig",
+      "latitude": 55.67544,
+      "longitude": 12.57194
+    },
+    {
+      "id": "Q98102833",
+      "wikidata_id": "Q98102833",
+      "name_da": "Niels Ebbesen",
+      "name_en": "Niels Ebbesen",
+      "latitude": 56.46087,
+      "longitude": 10.03671
+    },
+    {
+      "id": "Q27862475",
+      "wikidata_id": "Q27862475",
+      "name_da": "Niels Juel",
+      "name_en": "Niels Juel",
+      "latitude": 55.67774,
+      "longitude": 12.586
+    },
+    {
+      "id": "Q48817669",
+      "wikidata_id": "Q48817669",
+      "name_da": "Niels Wilhelm Gade",
+      "name_en": "Niels W. Gade",
+      "latitude": 55.69094,
+      "longitude": 12.5797
+    },
+    {
+      "id": "Q48862486",
+      "wikidata_id": "Q48862486",
+      "name_da": "Peter Wessel Tordenskiold",
+      "name_en": "Peter Jansen Wessel Tordenskiold",
+      "latitude": 55.67662,
+      "longitude": 12.58331
+    },
+    {
+      "id": "Q60889675",
+      "wikidata_id": "Q60889675",
+      "name_da": "Rigskansler Peder Griffenfeld",
+      "name_en": "Peder Griffenfeld",
+      "latitude": 55.67498,
+      "longitude": 12.5806
+    },
+    {
+      "id": "Q55342144",
+      "wikidata_id": "Q55342144",
+      "name_da": "Rimfaxe & Skinfaxe",
+      "name_en": "Hrímfaxi and Skinfaxi statue",
+      "latitude": 55.257353,
+      "longitude": 12.120102
+    },
+    {
+      "id": "Q20033371",
+      "wikidata_id": "Q20033371",
+      "name_da": "Roar og Helge",
+      "name_en": "",
+      "latitude": 55.641754,
+      "longitude": 12.081267
+    },
+    {
+      "id": "Q23753261",
+      "wikidata_id": "Q23753261",
+      "name_da": "Statue of Michael Drewsen",
+      "name_en": "Statue of Michael Drewsen",
+      "latitude": 56.16928,
+      "longitude": 9.54896
+    },
+    {
+      "id": "Q12337119",
+      "wikidata_id": "Q12337119",
+      "name_da": "Steno",
+      "name_en": "Steno",
+      "latitude": 55.6969,
+      "longitude": 12.561
+    },
+    {
+      "id": "Q60771877",
+      "wikidata_id": "Q60771877",
+      "name_da": "Søren Kierkegaard",
+      "name_en": "Søren Kierkegaard",
+      "latitude": 55.67452,
+      "longitude": 12.58099
+    },
+    {
+      "id": "Q23014712",
+      "wikidata_id": "Q23014712",
+      "name_da": "Thistedpigen",
+      "name_en": "",
+      "latitude": 56.95106,
+      "longitude": 8.68755
+    },
+    {
+      "id": "Q12011397",
+      "wikidata_id": "Q12011397",
+      "name_da": "Thor i kamp med jætterne",
+      "name_en": "Thor sculpture",
+      "latitude": 55.6673,
+      "longitude": 12.5325
+    },
+    {
+      "id": "Q12339295",
+      "wikidata_id": "Q12339295",
+      "name_da": "Thors kamp med Jætterne",
+      "name_en": "Thor's Fight with the Giants",
+      "latitude": 55.40878,
+      "longitude": 10.3684
+    },
+    {
+      "id": "Q7845157",
+      "wikidata_id": "Q7845157",
+      "name_da": "Trold, der vejrer kristenblod",
+      "name_en": "Troll smelling christian blood",
+      "latitude": 55.67236,
+      "longitude": 12.5707
+    },
+    {
+      "id": "Q57526211",
+      "wikidata_id": "Q57526211",
+      "name_da": "Tycho Brahe",
+      "name_en": "Tycho Brahe",
+      "latitude": 55.68659,
+      "longitude": 12.57593
+    },
+    {
+      "id": "Q60172976",
+      "wikidata_id": "Q60172976",
+      "name_da": "Valkyria",
+      "name_en": "Valkyria",
+      "latitude": 55.68791,
+      "longitude": 12.59387
+    },
+    {
+      "id": "Q12343738",
+      "wikidata_id": "Q12343738",
+      "name_da": "Ved målet",
+      "name_en": "",
+      "latitude": 55.70409,
+      "longitude": 12.57722
+    },
+    {
+      "id": "Q57628472",
+      "wikidata_id": "Q57628472",
+      "name_da": "Vore Faldne i dansk og i allieret krigstjeneste 1940-1945",
+      "name_en": "Vore Faldne i dansk og i allieret krigstjeneste 1940-1945",
+      "latitude": 55.68931,
+      "longitude": 12.59522
+    }
+  ],
+  "meta": {
+    "title": "Statuer i Danmark - Gratis download",
+    "description": "Statuer (statues) i Danmark fra Wikidata (P31 = Q179700, P17 = Danmark) med koordinater. Indeholder 72 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Statuer i Danmark | ListBase",
+    "seo_description": "Download Statuer i Danmark — 72 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 72 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

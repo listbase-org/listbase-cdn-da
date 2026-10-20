@@ -1,0 +1,254 @@
+{
+  "id": "da-groenland-postnumre",
+  "name": "Grønlandske postnumre (39xx serien)",
+  "title": "Grønlandske postnumre (39xx serien)",
+  "description": "Postnumre for Grønland (Kalaallit Nunaat) — selvstyrende del af Kongeriget Danmark. Grønland anvender det danske postnummersystem med præfikset 39xx. Postal codes for Greenland (Kalaallit Nunaat), an autonomous territory of the Kingdom of Denmark. Greenland uses the Danish postal code system within the 3900-3992 range. Includes 29 settlements from Nuuk to Qaanaaq.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "street",
+      "label": "Street",
+      "type": "string"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "kind",
+      "label": "Kind",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "3900",
+      "city": "Nuuk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3905",
+      "city": "Nuussuaq",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3910",
+      "city": "Kangerlussuaq",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3911",
+      "city": "Sisimiut",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3912",
+      "city": "Maniitsoq",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3913",
+      "city": "Tasiilaq",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3915",
+      "city": "Kulusuk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3919",
+      "city": "Alluitsup Paa",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3920",
+      "city": "Qaqortoq",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3921",
+      "city": "Narsaq",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3922",
+      "city": "Nanortalik",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3923",
+      "city": "Narsarsuaq",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3924",
+      "city": "Ikerasassuaq",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3930",
+      "city": "Kangilinnguit",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3932",
+      "city": "Arsuk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3940",
+      "city": "Paamiut",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3950",
+      "city": "Aasiaat",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3951",
+      "city": "Qasigiannguit",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3952",
+      "city": "Ilulissat",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3953",
+      "city": "Qeqertarsuaq",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3955",
+      "city": "Kangaatsiaq",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3961",
+      "city": "Uummannaq",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3962",
+      "city": "Upernavik",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3964",
+      "city": "Qaarsut",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3970",
+      "city": "Pituffik",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3971",
+      "city": "Qaanaaq",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3980",
+      "city": "Ittoqqortoormiit",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3984",
+      "city": "Danmarkshavn",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3985",
+      "city": "Constable Pynt",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    }
+  ],
+  "meta": {
+    "title": "Grønlandske postnumre (39xx serien) - Gratis download",
+    "description": "Postnumre for Grønland (Kalaallit Nunaat) — selvstyrende del af Kongeriget Danmark. Grønland anvender det danske postnummersystem med præfikset 39xx. Postal codes for Greenland (Kalaallit Nunaat), an autonomous territory of the Kingdom of Denmark. Greenland uses the Danish postal code system within the 3900-3992 range. Includes 29 settlements from Nuuk to Qaanaaq. Indeholder 29 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Grønlandske postnumre (39xx serien) | ListBase",
+    "seo_description": "Download Grønlandske postnumre (39xx serien) — 29 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 29 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

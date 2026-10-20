@@ -1,0 +1,168 @@
+{
+  "id": "da-favrskov-afstemningssteder",
+  "name": "Afstemningssteder i Favrskov Kommune",
+  "title": "Afstemningssteder i Favrskov Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Favrskov Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Hadsten Nord",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Hadsten Syd",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Hadbjerg",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Hammel Nord",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Hammel Syd",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Haldum-Hinnerup/Vitten",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Rønbæk/Grundfør",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Foldby",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Ulstrup",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Thorsø/Haurum/Sall",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Laurbjerg/Houlbjerg",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Søften",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Voldum",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Lading",
+      "kommune_kode": 710,
+      "kommune": "Favrskov",
+      "opstillingskreds_nummer": 69,
+      "opstillingskreds": "Favrskov"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Favrskov Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Favrskov Kommune med opstillingskreds. Indeholder 14 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Favrskov Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Favrskov Kommune — 14 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 14 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,1011 @@
+{
+  "id": "da-boghandlere",
+  "name": "Boghandlere i Danmark (Bookshops in Denmark)",
+  "title": "Boghandlere i Danmark (Bookshops in Denmark)",
+  "description": "Bookshops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=books.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 194,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aabenhus Antikvariat",
+      "latitude": 56.160581,
+      "longitude": 10.209586
+    },
+    {
+      "name": "Aalborg Boghandel",
+      "latitude": 57.048091,
+      "longitude": 9.921252
+    },
+    {
+      "name": "Academic books",
+      "latitude": 55.66408,
+      "longitude": 12.536639
+    },
+    {
+      "name": "Academic Books SDU",
+      "latitude": 55.368253,
+      "longitude": 10.428298
+    },
+    {
+      "name": "Akademisk Antikvariat",
+      "latitude": 55.393383,
+      "longitude": 10.386454
+    },
+    {
+      "name": "Als Antikvariat",
+      "latitude": 54.946185,
+      "longitude": 9.873312
+    },
+    {
+      "name": "Antikvariat 2B",
+      "latitude": 55.672312,
+      "longitude": 12.552304
+    },
+    {
+      "name": "Antikvariat Obscurum",
+      "latitude": 56.134679,
+      "longitude": 8.980611
+    },
+    {
+      "name": "Antikvariatet",
+      "latitude": 55.666304,
+      "longitude": 12.598364
+    },
+    {
+      "name": "Ark Books",
+      "latitude": 55.69085,
+      "longitude": 12.55619
+    },
+    {
+      "name": "Arnold Busck",
+      "latitude": 55.681117,
+      "longitude": 12.576038
+    },
+    {
+      "name": "Balle Aps",
+      "latitude": 56.968373,
+      "longitude": 9.252452
+    },
+    {
+      "name": "Betty Mogensens Boghandel",
+      "latitude": 57.460746,
+      "longitude": 9.986374
+    },
+    {
+      "name": "Billund Lufthavn WH Smith",
+      "latitude": 55.746226,
+      "longitude": 9.148084
+    },
+    {
+      "name": "Billunds Boghandel",
+      "latitude": 55.564186,
+      "longitude": 9.756448
+    },
+    {
+      "name": "Bish Boghandel",
+      "latitude": 55.711267,
+      "longitude": 12.475364
+    },
+    {
+      "name": "Bladr",
+      "latitude": 55.687464,
+      "longitude": 12.5541
+    },
+    {
+      "name": "Bog & ide",
+      "latitude": 56.135442,
+      "longitude": 9.000343
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 54.767422,
+      "longitude": 11.867997
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 54.935702,
+      "longitude": 8.869841
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 54.98318,
+      "longitude": 12.28393
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.00896,
+      "longitude": 11.908459
+    },
+    {
+      "name": "Bog & Idé",
+      "latitude": 55.04599,
+      "longitude": 9.418271
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.062737,
+      "longitude": 15.132496
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.094526,
+      "longitude": 10.246083
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.230824,
+      "longitude": 11.757799
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.329097,
+      "longitude": 8.764092
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.380374,
+      "longitude": 10.048504
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.383294,
+      "longitude": 10.426865
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.395028,
+      "longitude": 10.384417
+    },
+    {
+      "name": "Bog & Idé",
+      "latitude": 55.434466,
+      "longitude": 11.557352
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.465961,
+      "longitude": 8.457435
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.465982,
+      "longitude": 8.453008
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.47707,
+      "longitude": 9.137934
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.489847,
+      "longitude": 9.473963
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.50479,
+      "longitude": 9.733891
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.564606,
+      "longitude": 9.756802
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.565464,
+      "longitude": 10.092164
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.62138,
+      "longitude": 8.478962
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.662074,
+      "longitude": 12.562428
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.663028,
+      "longitude": 12.604418
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.6646,
+      "longitude": 12.399159
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.672595,
+      "longitude": 12.551296
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.676236,
+      "longitude": 12.541798
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.695178,
+      "longitude": 12.547256
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.702957,
+      "longitude": 12.537951
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.7158,
+      "longitude": 11.71602
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.729815,
+      "longitude": 9.1156
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.736646,
+      "longitude": 12.509662
+    },
+    {
+      "name": "Bog & Idé",
+      "latitude": 55.753098,
+      "longitude": 12.572342
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.757419,
+      "longitude": 8.926362
+    },
+    {
+      "name": "Bog & Idé",
+      "latitude": 55.769546,
+      "longitude": 9.701308
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.772288,
+      "longitude": 12.505954
+    },
+    {
+      "name": "Bog & Idé",
+      "latitude": 55.812231,
+      "longitude": 11.501138
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.814304,
+      "longitude": 12.529789
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.814438,
+      "longitude": 12.381074
+    },
+    {
+      "name": "Bog & Idé",
+      "latitude": 55.870274,
+      "longitude": 12.354534
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.92243,
+      "longitude": 11.669263
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 55.947498,
+      "longitude": 8.494581
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 56.0333,
+      "longitude": 12.609696
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 56.034462,
+      "longitude": 9.931902
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 56.090836,
+      "longitude": 8.245521
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 56.149086,
+      "longitude": 10.205578
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 56.152935,
+      "longitude": 10.204516
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 56.15504,
+      "longitude": 10.207083
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 56.168812,
+      "longitude": 9.547498
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 56.29995,
+      "longitude": 10.480377
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 56.362048,
+      "longitude": 8.620222
+    },
+    {
+      "name": "Bog & Idé",
+      "latitude": 56.374746,
+      "longitude": 9.65737
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 56.412893,
+      "longitude": 10.875612
+    },
+    {
+      "name": "Bog & Idé",
+      "latitude": 56.448359,
+      "longitude": 9.405077
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 56.565765,
+      "longitude": 9.031972
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 56.715804,
+      "longitude": 10.114
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 56.803264,
+      "longitude": 9.516156
+    },
+    {
+      "name": "Bog & Idé",
+      "latitude": 56.954924,
+      "longitude": 8.688797
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 57.004871,
+      "longitude": 9.874835
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 57.048657,
+      "longitude": 9.922709
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 57.049533,
+      "longitude": 9.920224
+    },
+    {
+      "name": "Bog & idé",
+      "latitude": 57.590631,
+      "longitude": 9.955204
+    },
+    {
+      "name": "Bog & Mystik",
+      "latitude": 55.666063,
+      "longitude": 12.511734
+    },
+    {
+      "name": "Bog Café",
+      "latitude": 55.050479,
+      "longitude": 12.058222
+    },
+    {
+      "name": "Bog Og ide",
+      "latitude": 55.687653,
+      "longitude": 12.491573
+    },
+    {
+      "name": "Bog og Ide",
+      "latitude": 55.723187,
+      "longitude": 12.44028
+    },
+    {
+      "name": "Bog og Ide",
+      "latitude": 57.268796,
+      "longitude": 9.945811
+    },
+    {
+      "name": "Bog&idé",
+      "latitude": 55.059295,
+      "longitude": 10.607966
+    },
+    {
+      "name": "Bog- og Bladstuen",
+      "latitude": 55.59584,
+      "longitude": 12.32598
+    },
+    {
+      "name": "Bogbiksen",
+      "latitude": 56.146086,
+      "longitude": 10.193897
+    },
+    {
+      "name": "Bogcaféen Almindelig Brand",
+      "latitude": 55.701724,
+      "longitude": 12.548879
+    },
+    {
+      "name": "Bogcentralen",
+      "latitude": 55.864747,
+      "longitude": 9.844676
+    },
+    {
+      "name": "Boghandleren",
+      "latitude": 55.711649,
+      "longitude": 12.577854
+    },
+    {
+      "name": "BOGhandleren Frederiksberg",
+      "latitude": 55.686664,
+      "longitude": 12.533257
+    },
+    {
+      "name": "Bogkælderen",
+      "latitude": 55.929496,
+      "longitude": 12.302335
+    },
+    {
+      "name": "Bogladen ved Søerne",
+      "latitude": 55.697433,
+      "longitude": 12.579427
+    },
+    {
+      "name": "Bogormen",
+      "latitude": 56.327629,
+      "longitude": 10.045423
+    },
+    {
+      "name": "Bogshoppen",
+      "latitude": 56.160821,
+      "longitude": 10.209767
+    },
+    {
+      "name": "Books & Beans",
+      "latitude": 55.489833,
+      "longitude": 9.475861
+    },
+    {
+      "name": "Books and Company",
+      "latitude": 55.732714,
+      "longitude": 12.575095
+    },
+    {
+      "name": "Bruuns Antikvariat",
+      "latitude": 56.173051,
+      "longitude": 10.215717
+    },
+    {
+      "name": "Brøg Litteraturbar",
+      "latitude": 55.68117,
+      "longitude": 12.572584
+    },
+    {
+      "name": "Buchs Boghandel",
+      "latitude": 55.714728,
+      "longitude": 10.010238
+    },
+    {
+      "name": "Buens Bogcafé",
+      "latitude": 57.050226,
+      "longitude": 9.921665
+    },
+    {
+      "name": "Byens Antikvariat",
+      "latitude": 55.684014,
+      "longitude": 12.565902
+    },
+    {
+      "name": "Bøger & Antik",
+      "latitude": 56.166878,
+      "longitude": 9.546215
+    },
+    {
+      "name": "Bøger & Kuriosa",
+      "latitude": 55.678121,
+      "longitude": 12.578258
+    },
+    {
+      "name": "Bøger & Papir",
+      "latitude": 55.059522,
+      "longitude": 8.951136
+    },
+    {
+      "name": "Børnenes boghandel",
+      "latitude": 55.681116,
+      "longitude": 12.576028
+    },
+    {
+      "name": "Café Paludan",
+      "latitude": 55.68039,
+      "longitude": 12.573226
+    },
+    {
+      "name": "Cinnober",
+      "latitude": 55.681832,
+      "longitude": 12.575961
+    },
+    {
+      "name": "Clemens Antikvariat",
+      "latitude": 56.172133,
+      "longitude": 10.216191
+    },
+    {
+      "name": "Comic Express",
+      "latitude": 57.045999,
+      "longitude": 9.913422
+    },
+    {
+      "name": "Creutz Hjørne",
+      "latitude": 54.888205,
+      "longitude": 10.409378
+    },
+    {
+      "name": "Dahls Bøger",
+      "latitude": 55.694446,
+      "longitude": 12.510121
+    },
+    {
+      "name": "Dams Bogbar",
+      "latitude": 55.251795,
+      "longitude": 9.486869
+    },
+    {
+      "name": "Den Franske Bogcafe",
+      "latitude": 55.680512,
+      "longitude": 12.57317
+    },
+    {
+      "name": "Det Ukendtes",
+      "latitude": 55.678019,
+      "longitude": 12.57083
+    },
+    {
+      "name": "Dianalund Boghandel",
+      "latitude": 55.526625,
+      "longitude": 11.499273
+    },
+    {
+      "name": "Eksistensen",
+      "latitude": 55.673269,
+      "longitude": 12.548472
+    },
+    {
+      "name": "Elmegades Antikvariat",
+      "latitude": 55.689785,
+      "longitude": 12.558653
+    },
+    {
+      "name": "English Books",
+      "latitude": 56.150063,
+      "longitude": 10.19912
+    },
+    {
+      "name": "Fantask",
+      "latitude": 55.679103,
+      "longitude": 12.568532
+    },
+    {
+      "name": "Fanø Boghandel",
+      "latitude": 55.44561,
+      "longitude": 8.40454
+    },
+    {
+      "name": "Faraos Cigarer",
+      "latitude": 55.679544,
+      "longitude": 12.574622
+    },
+    {
+      "name": "Faraos Cigarer",
+      "latitude": 56.152718,
+      "longitude": 10.205302
+    },
+    {
+      "name": "Faraos Cigarer Comics og Potter",
+      "latitude": 55.678485,
+      "longitude": 12.574298
+    },
+    {
+      "name": "Fjords Bog & Idé",
+      "latitude": 55.237933,
+      "longitude": 10.478783
+    },
+    {
+      "name": "Forlaget Thankyou",
+      "latitude": 56.158827,
+      "longitude": 10.212243
+    },
+    {
+      "name": "Frederikshavn Boghandel",
+      "latitude": 57.440702,
+      "longitude": 10.536721
+    },
+    {
+      "name": "Frederikshavn Kirkecenter",
+      "latitude": 57.440892,
+      "longitude": 10.528675
+    },
+    {
+      "name": "Fyns Antikvariat",
+      "latitude": 55.399061,
+      "longitude": 10.38049
+    },
+    {
+      "name": "Greens Boghandel",
+      "latitude": 55.781301,
+      "longitude": 12.481658
+    },
+    {
+      "name": "Hollander Boghandel",
+      "latitude": 57.045299,
+      "longitude": 9.918464
+    },
+    {
+      "name": "Jensen & Dalgaard",
+      "latitude": 55.669759,
+      "longitude": 12.539993
+    },
+    {
+      "name": "Juridisk Bogformidling",
+      "latitude": 56.170947,
+      "longitude": 10.202308
+    },
+    {
+      "name": "Kapitel 10",
+      "latitude": 55.83251,
+      "longitude": 10.594604
+    },
+    {
+      "name": "Kjærs Bøger",
+      "latitude": 55.39512,
+      "longitude": 10.386401
+    },
+    {
+      "name": "Kontur",
+      "latitude": 55.451414,
+      "longitude": 10.658142
+    },
+    {
+      "name": "Kontur",
+      "latitude": 56.263942,
+      "longitude": 10.062336
+    },
+    {
+      "name": "Kontur",
+      "latitude": 57.16258,
+      "longitude": 10.29838
+    },
+    {
+      "name": "Kort & Godt",
+      "latitude": 56.886119,
+      "longitude": 10.115166
+    },
+    {
+      "name": "Kristian F. Møller",
+      "latitude": 56.157143,
+      "longitude": 10.208782
+    },
+    {
+      "name": "Kroning",
+      "latitude": 56.111627,
+      "longitude": 8.116739
+    },
+    {
+      "name": "Kælderantikvariatet",
+      "latitude": 56.154781,
+      "longitude": 10.203499
+    },
+    {
+      "name": "Læsehesten",
+      "latitude": 57.049287,
+      "longitude": 9.914085
+    },
+    {
+      "name": "Løve's Antikvariat",
+      "latitude": 56.163331,
+      "longitude": 10.20762
+    },
+    {
+      "name": "Mandøes Antikvariat",
+      "latitude": 55.683594,
+      "longitude": 12.56502
+    },
+    {
+      "name": "Mangaverden",
+      "latitude": 55.278353,
+      "longitude": 11.788799
+    },
+    {
+      "name": "Mariager Boghandel",
+      "latitude": 56.652053,
+      "longitude": 9.982453
+    },
+    {
+      "name": "Martensen's Boghandel.",
+      "latitude": 55.355105,
+      "longitude": 9.483656
+    },
+    {
+      "name": "Mikrolit",
+      "latitude": 56.172572,
+      "longitude": 10.216752
+    },
+    {
+      "name": "NEW MAGS",
+      "latitude": 55.681774,
+      "longitude": 12.58174
+    },
+    {
+      "name": "Nordborg Boghandel",
+      "latitude": 55.057813,
+      "longitude": 9.743121
+    },
+    {
+      "name": "Oktober",
+      "latitude": 55.409353,
+      "longitude": 10.393762
+    },
+    {
+      "name": "Oktober",
+      "latitude": 56.164325,
+      "longitude": 10.201215
+    },
+    {
+      "name": "Oktober Bogbutik",
+      "latitude": 55.669809,
+      "longitude": 12.539934
+    },
+    {
+      "name": "Ordgeist",
+      "latitude": 57.046831,
+      "longitude": 9.920857
+    },
+    {
+      "name": "Pilegaards Antikvariat Og Mønthandel",
+      "latitude": 57.048252,
+      "longitude": 9.916386
+    },
+    {
+      "name": "Politikens Boghal",
+      "latitude": 55.67687,
+      "longitude": 12.56857
+    },
+    {
+      "name": "Polyteknisk Boghandel",
+      "latitude": 55.699348,
+      "longitude": 12.556941
+    },
+    {
+      "name": "Polyteknisk Boghandel",
+      "latitude": 55.731517,
+      "longitude": 12.396728
+    },
+    {
+      "name": "Polyteknisk Boghandel",
+      "latitude": 55.786636,
+      "longitude": 12.523472
+    },
+    {
+      "name": "Ræven og pindsvinet boghandel",
+      "latitude": 55.670557,
+      "longitude": 12.536526
+    },
+    {
+      "name": "Samsø Antikvariat",
+      "latitude": 55.813657,
+      "longitude": 10.603015
+    },
+    {
+      "name": "Schreiners Bog & Idé",
+      "latitude": 55.409369,
+      "longitude": 10.339484
+    },
+    {
+      "name": "Seiers Antikvariat",
+      "latitude": 55.68397,
+      "longitude": 12.565852
+    },
+    {
+      "name": "Shop21.dk",
+      "latitude": 55.665937,
+      "longitude": 12.580555
+    },
+    {
+      "name": "Skive Boglade",
+      "latitude": 56.566064,
+      "longitude": 9.026042
+    },
+    {
+      "name": "Skælskør Boghandel",
+      "latitude": 55.253669,
+      "longitude": 11.294905
+    },
+    {
+      "name": "SMK Shop",
+      "latitude": 55.688553,
+      "longitude": 12.578133
+    },
+    {
+      "name": "Soul books",
+      "latitude": 55.677913,
+      "longitude": 12.577694
+    },
+    {
+      "name": "Spartakus Bogcafé",
+      "latitude": 56.159415,
+      "longitude": 10.210148
+    },
+    {
+      "name": "Stakbogladen",
+      "latitude": 56.171284,
+      "longitude": 10.200543
+    },
+    {
+      "name": "Stakbogladen Naturfagsafdelingen",
+      "latitude": 56.166351,
+      "longitude": 10.199236
+    },
+    {
+      "name": "Staxenshop",
+      "latitude": 55.35303,
+      "longitude": 12.226575
+    },
+    {
+      "name": "stembakevei",
+      "latitude": 54.781952,
+      "longitude": 10.669057
+    },
+    {
+      "name": "Storcenter Nord Boghandel",
+      "latitude": 56.170035,
+      "longitude": 10.187692
+    },
+    {
+      "name": "Stribeladen",
+      "latitude": 56.14801,
+      "longitude": 10.19963
+    },
+    {
+      "name": "SUPeR bookstore",
+      "latitude": 55.685671,
+      "longitude": 12.557457
+    },
+    {
+      "name": "Svalernes Loppemarked",
+      "latitude": 55.697563,
+      "longitude": 12.531961
+    },
+    {
+      "name": "Tallerup Antikvariat",
+      "latitude": 55.347986,
+      "longitude": 10.180448
+    },
+    {
+      "name": "The Book Trader",
+      "latitude": 55.679774,
+      "longitude": 12.574862
+    },
+    {
+      "name": "The Pond",
+      "latitude": 55.692074,
+      "longitude": 12.559221
+    },
+    {
+      "name": "Thiemers Magasin",
+      "latitude": 55.673519,
+      "longitude": 12.55026
+    },
+    {
+      "name": "Thisted Antikvatiat",
+      "latitude": 56.955036,
+      "longitude": 8.693663
+    },
+    {
+      "name": "Tranquebar",
+      "latitude": 55.683036,
+      "longitude": 12.584824
+    },
+    {
+      "name": "Tårnby Boghandel",
+      "latitude": 55.63055,
+      "longitude": 12.601104
+    },
+    {
+      "name": "Vangsgaards",
+      "latitude": 55.681762,
+      "longitude": 12.572435
+    },
+    {
+      "name": "Varmings Boghandel",
+      "latitude": 55.47563,
+      "longitude": 8.435204
+    },
+    {
+      "name": "Vejgaard Boghandel",
+      "latitude": 57.042182,
+      "longitude": 9.950885
+    },
+    {
+      "name": "Veri Center Boghandlen",
+      "latitude": 56.189086,
+      "longitude": 10.215678
+    },
+    {
+      "name": "Vojens Boghandel",
+      "latitude": 55.244695,
+      "longitude": 9.291643
+    },
+    {
+      "name": "WHSmith",
+      "latitude": 55.628375,
+      "longitude": 12.651203
+    },
+    {
+      "name": "WHSmith",
+      "latitude": 55.62865,
+      "longitude": 12.646231
+    },
+    {
+      "name": "WHSmith",
+      "latitude": 55.628668,
+      "longitude": 12.648203
+    },
+    {
+      "name": "William Dam Boghandel",
+      "latitude": 55.101837,
+      "longitude": 14.699423
+    }
+  ],
+  "meta": {
+    "title": "Boghandlere i Danmark (Bookshops in Denmark) - Gratis download",
+    "description": "Bookshops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=books. Indeholder 194 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Boghandlere i Danmark (Bookshops in Denmark) | ListBase",
+    "seo_description": "Download Boghandlere i Danmark (Bookshops in Denmark) — 194 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 194 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

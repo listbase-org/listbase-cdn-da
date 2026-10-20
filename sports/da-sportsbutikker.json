@@ -1,0 +1,1321 @@
+{
+  "id": "da-sportsbutikker",
+  "name": "Sportsbutikker i Danmark (Sports shops in Denmark)",
+  "title": "Sportsbutikker i Danmark (Sports shops in Denmark)",
+  "description": "Sports shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=sports.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 256,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "66 degree North",
+      "latitude": 55.681119,
+      "longitude": 12.581121
+    },
+    {
+      "name": "Adidas",
+      "latitude": 55.679732,
+      "longitude": 12.581139
+    },
+    {
+      "name": "Agger Surf & Events",
+      "latitude": 56.782055,
+      "longitude": 8.232788
+    },
+    {
+      "name": "AL Sport",
+      "latitude": 57.222943,
+      "longitude": 9.67695
+    },
+    {
+      "name": "Attainfit",
+      "latitude": 56.180166,
+      "longitude": 10.197713
+    },
+    {
+      "name": "Blue Spirit",
+      "latitude": 56.200408,
+      "longitude": 10.676607
+    },
+    {
+      "name": "Bodyzen",
+      "latitude": 55.493188,
+      "longitude": 9.467338
+    },
+    {
+      "name": "Bordtennis Experterne",
+      "latitude": 56.145231,
+      "longitude": 10.15434
+    },
+    {
+      "name": "Boulders",
+      "latitude": 55.402576,
+      "longitude": 10.372984
+    },
+    {
+      "name": "Butik Den Grønne Hest",
+      "latitude": 55.61018,
+      "longitude": 12.060451
+    },
+    {
+      "name": "CC Sportswear",
+      "latitude": 55.758988,
+      "longitude": 12.457785
+    },
+    {
+      "name": "CPH RUN SHOP",
+      "latitude": 55.672198,
+      "longitude": 12.473375
+    },
+    {
+      "name": "CSA.dk",
+      "latitude": 55.700219,
+      "longitude": 12.515779
+    },
+    {
+      "name": "Drageshop",
+      "latitude": 55.556806,
+      "longitude": 8.142203
+    },
+    {
+      "name": "Dykker-butikken.dk",
+      "latitude": 56.155387,
+      "longitude": 10.170896
+    },
+    {
+      "name": "Endurance Sport",
+      "latitude": 55.67611,
+      "longitude": 12.543451
+    },
+    {
+      "name": "Ericsson Rideudstyr",
+      "latitude": 55.982136,
+      "longitude": 12.51933
+    },
+    {
+      "name": "Eventyr Sport",
+      "latitude": 55.388256,
+      "longitude": 11.326151
+    },
+    {
+      "name": "Eventyrsport",
+      "latitude": 55.509953,
+      "longitude": 9.457717
+    },
+    {
+      "name": "Eventyrsport",
+      "latitude": 55.931089,
+      "longitude": 12.3065
+    },
+    {
+      "name": "Eventyrsport Running Store - Racingdenmark",
+      "latitude": 56.15456,
+      "longitude": 10.204126
+    },
+    {
+      "name": "Fit4fight.dk",
+      "latitude": 56.105493,
+      "longitude": 10.099864
+    },
+    {
+      "name": "Fitshop",
+      "latitude": 55.711764,
+      "longitude": 12.473532
+    },
+    {
+      "name": "Fun Sport ApS",
+      "latitude": 55.704583,
+      "longitude": 9.538698
+    },
+    {
+      "name": "Gear og Outdoorlir",
+      "latitude": 55.729428,
+      "longitude": 9.115969
+    },
+    {
+      "name": "Gimli Store",
+      "latitude": 56.127766,
+      "longitude": 10.116735
+    },
+    {
+      "name": "Golf Experten",
+      "latitude": 56.13507,
+      "longitude": 9.008225
+    },
+    {
+      "name": "Golf Experten",
+      "latitude": 56.999252,
+      "longitude": 9.870976
+    },
+    {
+      "name": "Golfboksen.dk",
+      "latitude": 55.51491,
+      "longitude": 8.463189
+    },
+    {
+      "name": "Goyogi",
+      "latitude": 55.696065,
+      "longitude": 12.58036
+    },
+    {
+      "name": "Gymnastik & Ridesport",
+      "latitude": 55.46565,
+      "longitude": 8.454333
+    },
+    {
+      "name": "Helles Rideudstyr",
+      "latitude": 55.607294,
+      "longitude": 8.506937
+    },
+    {
+      "name": "Hest & Rytter",
+      "latitude": 55.531446,
+      "longitude": 8.401635
+    },
+    {
+      "name": "Home Fitness",
+      "latitude": 55.389071,
+      "longitude": 10.436726
+    },
+    {
+      "name": "Hoopz",
+      "latitude": 55.682343,
+      "longitude": 12.549713
+    },
+    {
+      "name": "Hummel",
+      "latitude": 55.384192,
+      "longitude": 10.426616
+    },
+    {
+      "name": "Hummel",
+      "latitude": 56.136209,
+      "longitude": 9.00185
+    },
+    {
+      "name": "Hvidovre Sport and Foto",
+      "latitude": 55.654959,
+      "longitude": 12.473366
+    },
+    {
+      "name": "Hyldahl Rideudstyr",
+      "latitude": 55.174411,
+      "longitude": 8.556621
+    },
+    {
+      "name": "Hööks",
+      "latitude": 55.718303,
+      "longitude": 12.45174
+    },
+    {
+      "name": "In Sport",
+      "latitude": 56.15894,
+      "longitude": 10.207292
+    },
+    {
+      "name": "Intersport",
+      "latitude": 54.82993,
+      "longitude": 11.140411
+    },
+    {
+      "name": "Intersport",
+      "latitude": 54.985425,
+      "longitude": 12.286942
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.058864,
+      "longitude": 10.607466
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.095447,
+      "longitude": 10.241593
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.101268,
+      "longitude": 14.698341
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.231799,
+      "longitude": 11.75793
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.253728,
+      "longitude": 11.781999
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.383125,
+      "longitude": 10.427175
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.394644,
+      "longitude": 10.382388
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.409752,
+      "longitude": 10.337688
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.46608,
+      "longitude": 8.450687
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.505056,
+      "longitude": 9.73386
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.555125,
+      "longitude": 8.130453
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.620649,
+      "longitude": 8.481911
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.66589,
+      "longitude": 12.400079
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.679743,
+      "longitude": 12.454636
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.704094,
+      "longitude": 11.670217
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.714874,
+      "longitude": 10.010512
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.77241,
+      "longitude": 12.507392
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.841632,
+      "longitude": 12.431793
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.976121,
+      "longitude": 12.019457
+    },
+    {
+      "name": "Intersport",
+      "latitude": 55.998939,
+      "longitude": 8.125692
+    },
+    {
+      "name": "Intersport",
+      "latitude": 56.136125,
+      "longitude": 8.972845
+    },
+    {
+      "name": "Intersport",
+      "latitude": 56.151825,
+      "longitude": 10.205108
+    },
+    {
+      "name": "Intersport",
+      "latitude": 56.362281,
+      "longitude": 8.619382
+    },
+    {
+      "name": "Intersport",
+      "latitude": 56.414577,
+      "longitude": 10.877559
+    },
+    {
+      "name": "Intersport",
+      "latitude": 56.459045,
+      "longitude": 10.037909
+    },
+    {
+      "name": "Intersport",
+      "latitude": 56.568494,
+      "longitude": 9.027043
+    },
+    {
+      "name": "Intersport",
+      "latitude": 57.003653,
+      "longitude": 9.872589
+    },
+    {
+      "name": "Intersport Outlet",
+      "latitude": 55.385332,
+      "longitude": 10.424196
+    },
+    {
+      "name": "Intersport Outlet",
+      "latitude": 55.568194,
+      "longitude": 9.69785
+    },
+    {
+      "name": "Intersport Outlet",
+      "latitude": 56.184877,
+      "longitude": 9.542008
+    },
+    {
+      "name": "INTERSPORT Outlet Amager",
+      "latitude": 55.668319,
+      "longitude": 12.606695
+    },
+    {
+      "name": "K.Sport Faaborg",
+      "latitude": 55.095478,
+      "longitude": 10.241373
+    },
+    {
+      "name": "Kaiser Sport",
+      "latitude": 56.451081,
+      "longitude": 9.405532
+    },
+    {
+      "name": "Kajakbiksen",
+      "latitude": 55.304841,
+      "longitude": 10.785095
+    },
+    {
+      "name": "Ketcher Sport",
+      "latitude": 57.044713,
+      "longitude": 9.918116
+    },
+    {
+      "name": "KetcherXperten",
+      "latitude": 55.678451,
+      "longitude": 12.501101
+    },
+    {
+      "name": "KETSHOP",
+      "latitude": 55.388217,
+      "longitude": 10.440039
+    },
+    {
+      "name": "KiteDanmark",
+      "latitude": 55.669092,
+      "longitude": 12.61497
+    },
+    {
+      "name": "Kites & Coffee",
+      "latitude": 55.423032,
+      "longitude": 8.3844
+    },
+    {
+      "name": "Kosmoliv",
+      "latitude": 55.491533,
+      "longitude": 9.471659
+    },
+    {
+      "name": "KSOhuset",
+      "latitude": 57.046837,
+      "longitude": 9.913931
+    },
+    {
+      "name": "Lalandia Billund Sport og Bowling",
+      "latitude": 55.733115,
+      "longitude": 9.139141
+    },
+    {
+      "name": "Limasport ApS",
+      "latitude": 57.167689,
+      "longitude": 10.147248
+    },
+    {
+      "name": "Lyndgreen Rideudstyr",
+      "latitude": 55.001441,
+      "longitude": 11.895585
+    },
+    {
+      "name": "Lystfiskeren",
+      "latitude": 56.004661,
+      "longitude": 8.126614
+    },
+    {
+      "name": "Løberen",
+      "latitude": 56.157025,
+      "longitude": 10.199154
+    },
+    {
+      "name": "Løberen",
+      "latitude": 57.04938,
+      "longitude": 9.916046
+    },
+    {
+      "name": "Løberen Hillerød",
+      "latitude": 55.932595,
+      "longitude": 12.297643
+    },
+    {
+      "name": "Løbeshop.dk",
+      "latitude": 56.148168,
+      "longitude": 10.211048
+    },
+    {
+      "name": "Løbeshop.dk",
+      "latitude": 56.321633,
+      "longitude": 10.043373
+    },
+    {
+      "name": "Magos Skateshop",
+      "latitude": 56.159373,
+      "longitude": 10.207884
+    },
+    {
+      "name": "Marathon Sport",
+      "latitude": 55.682086,
+      "longitude": 12.557245
+    },
+    {
+      "name": "Marathon Sport",
+      "latitude": 55.697907,
+      "longitude": 12.578516
+    },
+    {
+      "name": "meer wear",
+      "latitude": 55.740465,
+      "longitude": 8.178271
+    },
+    {
+      "name": "Merch Fabrikken",
+      "latitude": 55.627753,
+      "longitude": 12.083713
+    },
+    {
+      "name": "Nippon Sport",
+      "latitude": 55.670441,
+      "longitude": 12.534963
+    },
+    {
+      "name": "Ny Form",
+      "latitude": 54.910748,
+      "longitude": 9.790671
+    },
+    {
+      "name": "Ny Form",
+      "latitude": 55.176214,
+      "longitude": 11.648347
+    },
+    {
+      "name": "Ny Form",
+      "latitude": 55.328545,
+      "longitude": 8.762875
+    },
+    {
+      "name": "Ny Form",
+      "latitude": 55.555704,
+      "longitude": 8.132844
+    },
+    {
+      "name": "Ny form",
+      "latitude": 55.739582,
+      "longitude": 8.179618
+    },
+    {
+      "name": "Ny Form",
+      "latitude": 57.370494,
+      "longitude": 9.710216
+    },
+    {
+      "name": "Ny Form",
+      "latitude": 57.590706,
+      "longitude": 9.956039
+    },
+    {
+      "name": "Ny Form - Rømø, Havneby",
+      "latitude": 55.088177,
+      "longitude": 8.560942
+    },
+    {
+      "name": "OB Klubhus",
+      "latitude": 55.384593,
+      "longitude": 10.374769
+    },
+    {
+      "name": "One Open Sky",
+      "latitude": 55.694381,
+      "longitude": 12.568168
+    },
+    {
+      "name": "Outdoor Explore",
+      "latitude": 55.685899,
+      "longitude": 12.546256
+    },
+    {
+      "name": "Padel.dk",
+      "latitude": 55.402106,
+      "longitude": 10.371858
+    },
+    {
+      "name": "Para Service",
+      "latitude": 55.409937,
+      "longitude": 10.344448
+    },
+    {
+      "name": "Pasteel",
+      "latitude": 55.685174,
+      "longitude": 12.567313
+    },
+    {
+      "name": "Performsport",
+      "latitude": 57.017999,
+      "longitude": 9.896873
+    },
+    {
+      "name": "Rapha",
+      "latitude": 55.679983,
+      "longitude": 12.582045
+    },
+    {
+      "name": "Repbasics",
+      "latitude": 56.15903,
+      "longitude": 10.205387
+    },
+    {
+      "name": "Riggerloftet",
+      "latitude": 55.398882,
+      "longitude": 10.359083
+    },
+    {
+      "name": "RiggerVærkstedet",
+      "latitude": 55.390737,
+      "longitude": 10.267146
+    },
+    {
+      "name": "Roskilde Dykkercenter",
+      "latitude": 55.642933,
+      "longitude": 12.109714
+    },
+    {
+      "name": "Rømø Fitness",
+      "latitude": 55.132591,
+      "longitude": 8.55044
+    },
+    {
+      "name": "SAGA TRIM ApS",
+      "latitude": 55.716319,
+      "longitude": 12.430856
+    },
+    {
+      "name": "Sidewalk Skateshop",
+      "latitude": 55.667547,
+      "longitude": 12.546559
+    },
+    {
+      "name": "SkaterTown",
+      "latitude": 55.713095,
+      "longitude": 12.468577
+    },
+    {
+      "name": "Skærbæk Sport",
+      "latitude": 55.15819,
+      "longitude": 8.765757
+    },
+    {
+      "name": "Spejder Sport",
+      "latitude": 55.514077,
+      "longitude": 9.460541
+    },
+    {
+      "name": "Spejder Sport",
+      "latitude": 55.662987,
+      "longitude": 12.604966
+    },
+    {
+      "name": "Spejder Sport",
+      "latitude": 55.684721,
+      "longitude": 12.569341
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.384731,
+      "longitude": 10.4249
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.388915,
+      "longitude": 11.325968
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.456565,
+      "longitude": 12.180351
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.466264,
+      "longitude": 8.457818
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.489107,
+      "longitude": 9.47225
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.514197,
+      "longitude": 9.461637
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.51435,
+      "longitude": 9.455202
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.514827,
+      "longitude": 9.461165
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.567217,
+      "longitude": 9.755592
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.662546,
+      "longitude": 12.562366
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.71787,
+      "longitude": 12.449331
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.730212,
+      "longitude": 9.114125
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.758085,
+      "longitude": 8.927095
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 55.861305,
+      "longitude": 9.846853
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 56.149375,
+      "longitude": 10.20547
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 56.413811,
+      "longitude": 10.875195
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 56.71817,
+      "longitude": 10.113855
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 57.046788,
+      "longitude": 9.923481
+    },
+    {
+      "name": "Sport 24",
+      "latitude": 57.45801,
+      "longitude": 9.990842
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 55.061432,
+      "longitude": 10.586348
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 55.100886,
+      "longitude": 10.24183
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 55.308458,
+      "longitude": 10.804387
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 55.334143,
+      "longitude": 8.772239
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 55.379892,
+      "longitude": 10.431831
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 55.502928,
+      "longitude": 8.453476
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 55.509347,
+      "longitude": 9.767029
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 55.514409,
+      "longitude": 9.454802
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 55.568614,
+      "longitude": 9.720885
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 55.6082,
+      "longitude": 8.494003
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 56.145463,
+      "longitude": 8.994408
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 56.186757,
+      "longitude": 9.545831
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 56.414288,
+      "longitude": 10.888289
+    },
+    {
+      "name": "Sport 24 OUTLET",
+      "latitude": 56.426824,
+      "longitude": 10.060551
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 56.960465,
+      "longitude": 8.717167
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 57.059521,
+      "longitude": 9.917767
+    },
+    {
+      "name": "Sport 24 Outlet",
+      "latitude": 57.265068,
+      "longitude": 9.949278
+    },
+    {
+      "name": "SPORT 24 OUTLET",
+      "latitude": 57.446234,
+      "longitude": 10.504687
+    },
+    {
+      "name": "SPORT 24 OUTLET - Aarhus N",
+      "latitude": 56.202068,
+      "longitude": 10.182614
+    },
+    {
+      "name": "SPORT 24 Outlet Holbæk",
+      "latitude": 55.70327,
+      "longitude": 11.667665
+    },
+    {
+      "name": "Sport 24 Outlet Skive",
+      "latitude": 56.569833,
+      "longitude": 8.99657
+    },
+    {
+      "name": "Sport Direct",
+      "latitude": 54.917787,
+      "longitude": 9.804227
+    },
+    {
+      "name": "Sport Houz",
+      "latitude": 55.719047,
+      "longitude": 12.577363
+    },
+    {
+      "name": "Sport og Promotion",
+      "latitude": 55.034221,
+      "longitude": 9.418107
+    },
+    {
+      "name": "Sport Outlet",
+      "latitude": 55.676967,
+      "longitude": 11.136791
+    },
+    {
+      "name": "Sport Outlet",
+      "latitude": 57.24848,
+      "longitude": 9.623506
+    },
+    {
+      "name": "Sport West Fashion",
+      "latitude": 55.329726,
+      "longitude": 8.76557
+    },
+    {
+      "name": "Sport1",
+      "latitude": 54.825402,
+      "longitude": 9.360487
+    },
+    {
+      "name": "Sport24",
+      "latitude": 54.766382,
+      "longitude": 11.869937
+    },
+    {
+      "name": "Sport24",
+      "latitude": 54.935537,
+      "longitude": 8.869549
+    },
+    {
+      "name": "Sport24",
+      "latitude": 55.035898,
+      "longitude": 9.41496
+    },
+    {
+      "name": "Sport24",
+      "latitude": 55.250573,
+      "longitude": 9.487945
+    },
+    {
+      "name": "Sport24",
+      "latitude": 55.814348,
+      "longitude": 12.380166
+    },
+    {
+      "name": "sport24",
+      "latitude": 55.948536,
+      "longitude": 8.492255
+    },
+    {
+      "name": "Sport24",
+      "latitude": 56.03347,
+      "longitude": 9.930527
+    },
+    {
+      "name": "Sport24",
+      "latitude": 56.136149,
+      "longitude": 8.997608
+    },
+    {
+      "name": "Sport24",
+      "latitude": 56.168975,
+      "longitude": 9.548298
+    },
+    {
+      "name": "Sport24",
+      "latitude": 56.360249,
+      "longitude": 8.617983
+    },
+    {
+      "name": "Sport24",
+      "latitude": 56.449235,
+      "longitude": 9.406809
+    },
+    {
+      "name": "Sport24",
+      "latitude": 57.004381,
+      "longitude": 9.87328
+    },
+    {
+      "name": "Sport24 Outlet",
+      "latitude": 54.923374,
+      "longitude": 9.808902
+    },
+    {
+      "name": "SPORT24 Outlet",
+      "latitude": 55.647574,
+      "longitude": 12.13512
+    },
+    {
+      "name": "Sport24 Outlet",
+      "latitude": 55.858802,
+      "longitude": 9.843859
+    },
+    {
+      "name": "Sportens Sommer Sport",
+      "latitude": 55.13616,
+      "longitude": 15.142666
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 55.0584,
+      "longitude": 8.951029
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 55.672632,
+      "longitude": 12.553923
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 55.77109,
+      "longitude": 9.702399
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 55.779177,
+      "longitude": 8.289532
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 55.806599,
+      "longitude": 8.620852
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 55.973244,
+      "longitude": 9.612004
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 56.090429,
+      "longitude": 8.24291
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 56.200022,
+      "longitude": 10.67969
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 56.450405,
+      "longitude": 9.409494
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 56.716953,
+      "longitude": 10.115005
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 56.892279,
+      "longitude": 9.836785
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 56.954944,
+      "longitude": 8.689097
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 56.966413,
+      "longitude": 9.252173
+    },
+    {
+      "name": "Sportigan",
+      "latitude": 56.967015,
+      "longitude": 9.252163
+    },
+    {
+      "name": "Sportigan Hadsten",
+      "latitude": 56.32748,
+      "longitude": 10.04503
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 54.766469,
+      "longitude": 11.870462
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 55.043935,
+      "longitude": 9.419014
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 55.102198,
+      "longitude": 14.698921
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 55.373008,
+      "longitude": 10.369763
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 55.444488,
+      "longitude": 11.790982
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 55.630528,
+      "longitude": 12.578508
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 55.663511,
+      "longitude": 12.476757
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 55.664251,
+      "longitude": 12.512153
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 55.676695,
+      "longitude": 12.569673
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 55.678538,
+      "longitude": 12.575754
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 55.704334,
+      "longitude": 12.57716
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 55.71817,
+      "longitude": 12.448474
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 55.731175,
+      "longitude": 9.113816
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 55.857844,
+      "longitude": 9.848914
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 56.129494,
+      "longitude": 10.161785
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 56.169553,
+      "longitude": 10.188942
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 56.35841,
+      "longitude": 8.616943
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 56.448349,
+      "longitude": 9.405241
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 56.568092,
+      "longitude": 9.027016
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 57.08809,
+      "longitude": 9.268097
+    },
+    {
+      "name": "Sportmaster",
+      "latitude": 57.458258,
+      "longitude": 9.991238
+    },
+    {
+      "name": "SportOne",
+      "latitude": 55.464963,
+      "longitude": 8.697899
+    },
+    {
+      "name": "Sports Authority",
+      "latitude": 57.048862,
+      "longitude": 9.917529
+    },
+    {
+      "name": "Sports World",
+      "latitude": 55.50842,
+      "longitude": 8.447351
+    },
+    {
+      "name": "Sports World",
+      "latitude": 55.835714,
+      "longitude": 12.063347
+    },
+    {
+      "name": "Sports World",
+      "latitude": 57.049312,
+      "longitude": 9.920755
+    },
+    {
+      "name": "Sportscentret",
+      "latitude": 55.672605,
+      "longitude": 12.470543
+    },
+    {
+      "name": "Sportsmaster",
+      "latitude": 55.68028,
+      "longitude": 11.089199
+    },
+    {
+      "name": "Sportsmaster",
+      "latitude": 56.135723,
+      "longitude": 8.997787
+    },
+    {
+      "name": "Sportsmaster outlet",
+      "latitude": 55.9678,
+      "longitude": 10.148303
+    },
+    {
+      "name": "Sportswear",
+      "latitude": 55.683664,
+      "longitude": 12.493058
+    },
+    {
+      "name": "Sportsworld",
+      "latitude": 56.149344,
+      "longitude": 10.204
+    },
+    {
+      "name": "Sportyfied",
+      "latitude": 55.654306,
+      "longitude": 12.372845
+    },
+    {
+      "name": "Supercharged Sportswear",
+      "latitude": 55.51352,
+      "longitude": 10.39596
+    },
+    {
+      "name": "Surf & Ski Aalborg",
+      "latitude": 57.017893,
+      "longitude": 9.896727
+    },
+    {
+      "name": "Surf & Ski Horsens ApS",
+      "latitude": 55.857941,
+      "longitude": 9.872434
+    },
+    {
+      "name": "Surf & Ski Odense",
+      "latitude": 55.39716,
+      "longitude": 10.37388
+    },
+    {
+      "name": "Surf Pro Cold Hawaii",
+      "latitude": 56.958059,
+      "longitude": 8.369334
+    },
+    {
+      "name": "Surfline",
+      "latitude": 56.214986,
+      "longitude": 10.281429
+    },
+    {
+      "name": "SwimOuts Butik",
+      "latitude": 55.741679,
+      "longitude": 12.579978
+    },
+    {
+      "name": "Tempos",
+      "latitude": 56.16423,
+      "longitude": 10.109558
+    },
+    {
+      "name": "Tika Rideudstyr",
+      "latitude": 55.483196,
+      "longitude": 8.564498
+    },
+    {
+      "name": "Unisport",
+      "latitude": 55.67871,
+      "longitude": 12.574382
+    },
+    {
+      "name": "Unisport.dk",
+      "latitude": 55.674986,
+      "longitude": 12.564744
+    },
+    {
+      "name": "West Wind",
+      "latitude": 55.847276,
+      "longitude": 8.278663
+    },
+    {
+      "name": "Westwind",
+      "latitude": 55.739309,
+      "longitude": 8.18001
+    },
+    {
+      "name": "Westwind Sportswear",
+      "latitude": 57.25179,
+      "longitude": 9.585208
+    },
+    {
+      "name": "White Sport",
+      "latitude": 55.712519,
+      "longitude": 12.577822
+    },
+    {
+      "name": "Windsport.dk",
+      "latitude": 55.817445,
+      "longitude": 8.193927
+    },
+    {
+      "name": "Workout & Fitness",
+      "latitude": 55.531548,
+      "longitude": 9.713093
+    },
+    {
+      "name": "Z & Match",
+      "latitude": 55.746275,
+      "longitude": 12.556779
+    }
+  ],
+  "meta": {
+    "title": "Sportsbutikker i Danmark (Sports shops in Denmark) - Gratis download",
+    "description": "Sports shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=sports. Indeholder 256 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Sportsbutikker i Danmark (Sports shops in Denmark) | ListBase",
+    "seo_description": "Download Sportsbutikker i Danmark (Sports shops in Denmark) — 256 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 256 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

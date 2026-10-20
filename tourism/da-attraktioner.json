@@ -1,0 +1,2366 @@
+{
+  "id": "da-attraktioner",
+  "name": "Turistattraktioner i Danmark – OpenStreetMap (Tourist attractions in Denmark, OSM)",
+  "title": "Turistattraktioner i Danmark – OpenStreetMap (Tourist attractions in Denmark, OSM)",
+  "description": "Liste over 465 turistattraktioner i Danmark fra OpenStreetMap (tourism=attraction) — navn og koordinater (WGS84).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 465,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "5. Maj Skoven",
+      "latitude": 56.856328,
+      "longitude": 9.4722
+    },
+    {
+      "name": "Aarhus houses",
+      "latitude": 56.156672,
+      "longitude": 10.202166
+    },
+    {
+      "name": "Abildå Brunkulsleje",
+      "latitude": 56.167812,
+      "longitude": 8.626026
+    },
+    {
+      "name": "Adventure Camp Dream City",
+      "latitude": 55.616508,
+      "longitude": 12.078664
+    },
+    {
+      "name": "Adventure Land",
+      "latitude": 55.73657,
+      "longitude": 9.122815
+    },
+    {
+      "name": "Afrokopperne",
+      "latitude": 55.77507,
+      "longitude": 12.575785
+    },
+    {
+      "name": "Air Zone",
+      "latitude": 55.040249,
+      "longitude": 9.810072
+    },
+    {
+      "name": "Albatrossen",
+      "latitude": 55.260398,
+      "longitude": 11.863758
+    },
+    {
+      "name": "Alpacas of Fredly",
+      "latitude": 57.262447,
+      "longitude": 9.976604
+    },
+    {
+      "name": "Amazonas Junglesafari",
+      "latitude": 55.897374,
+      "longitude": 11.600668
+    },
+    {
+      "name": "Amtmandsstenen",
+      "latitude": 55.224661,
+      "longitude": 14.879655
+    },
+    {
+      "name": "Andebådene",
+      "latitude": 55.259277,
+      "longitude": 11.863572
+    },
+    {
+      "name": "Andelsfrysehuset",
+      "latitude": 55.693129,
+      "longitude": 11.742816
+    },
+    {
+      "name": "Apocalypseburg Sky Battle",
+      "latitude": 55.735976,
+      "longitude": 9.122805
+    },
+    {
+      "name": "Arbejd Sammen",
+      "latitude": 56.045157,
+      "longitude": 8.477499
+    },
+    {
+      "name": "Asiatisk vildhund",
+      "latitude": 55.411974,
+      "longitude": 8.962903
+    },
+    {
+      "name": "Assensbanen",
+      "latitude": 55.253214,
+      "longitude": 10.012611
+    },
+    {
+      "name": "Assensbanen",
+      "latitude": 55.285198,
+      "longitude": 10.118596
+    },
+    {
+      "name": "Assensbanen",
+      "latitude": 55.299965,
+      "longitude": 10.147059
+    },
+    {
+      "name": "Assensbanen",
+      "latitude": 55.309947,
+      "longitude": 10.170198
+    },
+    {
+      "name": "Assensbanen",
+      "latitude": 55.327662,
+      "longitude": 10.190734
+    },
+    {
+      "name": "Augustiana Kunstpark & Kunsthal",
+      "latitude": 54.945098,
+      "longitude": 9.861237
+    },
+    {
+      "name": "Ball Factory",
+      "latitude": 55.042323,
+      "longitude": 9.812037
+    },
+    {
+      "name": "Basketball",
+      "latitude": 55.737655,
+      "longitude": 9.122012
+    },
+    {
+      "name": "Batteriet Sixtus",
+      "latitude": 55.689251,
+      "longitude": 12.606387
+    },
+    {
+      "name": "Beat the Storm",
+      "latitude": 55.040375,
+      "longitude": 9.809701
+    },
+    {
+      "name": "Bedehuset",
+      "latitude": 56.590277,
+      "longitude": 8.173211
+    },
+    {
+      "name": "Bedstemor Anns Bondegård",
+      "latitude": 56.112581,
+      "longitude": 12.285865
+    },
+    {
+      "name": "Benny's Playship",
+      "latitude": 55.736305,
+      "longitude": 9.122594
+    },
+    {
+      "name": "Bianca D'Alessandro",
+      "latitude": 55.67336,
+      "longitude": 12.57806
+    },
+    {
+      "name": "Bisonfortet",
+      "latitude": 55.260753,
+      "longitude": 11.861273
+    },
+    {
+      "name": "Bispehuen",
+      "latitude": 56.836363,
+      "longitude": 9.00715
+    },
+    {
+      "name": "Blokhus Saltcenter",
+      "latitude": 57.208822,
+      "longitude": 9.649947
+    },
+    {
+      "name": "Boats of Ribe",
+      "latitude": 55.329824,
+      "longitude": 8.763061
+    },
+    {
+      "name": "Bonavista",
+      "latitude": 54.852675,
+      "longitude": 10.523094
+    },
+    {
+      "name": "Bondebyen",
+      "latitude": 55.777421,
+      "longitude": 12.504848
+    },
+    {
+      "name": "Bondegård",
+      "latitude": 55.376996,
+      "longitude": 10.37278
+    },
+    {
+      "name": "Borchs Gård",
+      "latitude": 55.490134,
+      "longitude": 9.473328
+    },
+    {
+      "name": "Bornholms Rovfugleshow",
+      "latitude": 55.137054,
+      "longitude": 14.80492
+    },
+    {
+      "name": "Brumleby",
+      "latitude": 55.701093,
+      "longitude": 12.575234
+    },
+    {
+      "name": "Bubble Lab",
+      "latitude": 55.040439,
+      "longitude": 9.810797
+    },
+    {
+      "name": "Bullade",
+      "latitude": 55.260113,
+      "longitude": 9.737208
+    },
+    {
+      "name": "Bungee Jump CPH",
+      "latitude": 55.695958,
+      "longitude": 12.607954
+    },
+    {
+      "name": "Bunker",
+      "latitude": 55.924943,
+      "longitude": 8.148237
+    },
+    {
+      "name": "Bågø Naturcenter",
+      "latitude": 55.312353,
+      "longitude": 9.808796
+    },
+    {
+      "name": "Bæver Rafting",
+      "latitude": 55.260923,
+      "longitude": 11.865643
+    },
+    {
+      "name": "Børnenes Baggård",
+      "latitude": 55.398165,
+      "longitude": 10.394186
+    },
+    {
+      "name": "Børnepariserhjulet",
+      "latitude": 55.774771,
+      "longitude": 12.576533
+    },
+    {
+      "name": "Børnescenen",
+      "latitude": 55.260171,
+      "longitude": 11.865598
+    },
+    {
+      "name": "Chimpanser",
+      "latitude": 55.378037,
+      "longitude": 10.374043
+    },
+    {
+      "name": "Christian den IX's Palæ",
+      "latitude": 55.683454,
+      "longitude": 12.593497
+    },
+    {
+      "name": "Christian den VII's Palæ",
+      "latitude": 55.683772,
+      "longitude": 12.592293
+    },
+    {
+      "name": "Christiania",
+      "latitude": 55.67609,
+      "longitude": 12.60757
+    },
+    {
+      "name": "Cobratårnet",
+      "latitude": 55.26077,
+      "longitude": 11.862987
+    },
+    {
+      "name": "Coles Klatrevæg",
+      "latitude": 55.73436,
+      "longitude": 9.126237
+    },
+    {
+      "name": "Creative Workshop",
+      "latitude": 55.73433,
+      "longitude": 9.128425
+    },
+    {
+      "name": "Damgård",
+      "latitude": 55.529192,
+      "longitude": 9.665677
+    },
+    {
+      "name": "Dampturbine",
+      "latitude": 56.354837,
+      "longitude": 9.595353
+    },
+    {
+      "name": "Danmarks højeste træ",
+      "latitude": 56.119787,
+      "longitude": 9.616877
+    },
+    {
+      "name": "Danmarks sydligste punkt",
+      "latitude": 54.559064,
+      "longitude": 11.970024
+    },
+    {
+      "name": "Dansk motor og maskinsamling",
+      "latitude": 56.490057,
+      "longitude": 8.57194
+    },
+    {
+      "name": "De Syngende Sten",
+      "latitude": 55.476158,
+      "longitude": 9.146529
+    },
+    {
+      "name": "De Vilde Mus",
+      "latitude": 55.775767,
+      "longitude": 12.573209
+    },
+    {
+      "name": "Deep Forest Artland",
+      "latitude": 55.921929,
+      "longitude": 8.910221
+    },
+    {
+      "name": "Den gamle Gaard",
+      "latitude": 55.095288,
+      "longitude": 10.240704
+    },
+    {
+      "name": "Den Gamle Kulkran",
+      "latitude": 56.653708,
+      "longitude": 9.979994
+    },
+    {
+      "name": "Den Gamle Rutschebane",
+      "latitude": 55.776031,
+      "longitude": 12.574562
+    },
+    {
+      "name": "Den Genfundne Bro",
+      "latitude": 55.972907,
+      "longitude": 9.689694
+    },
+    {
+      "name": "Den sorte gryde",
+      "latitude": 55.224952,
+      "longitude": 14.896228
+    },
+    {
+      "name": "Den Våde Delfin",
+      "latitude": 55.26046,
+      "longitude": 11.865453
+    },
+    {
+      "name": "Det gule Palæ",
+      "latitude": 54.575896,
+      "longitude": 11.925319
+    },
+    {
+      "name": "Det Kinesiske Lysthus",
+      "latitude": 55.675551,
+      "longitude": 12.527492
+    },
+    {
+      "name": "Digerne",
+      "latitude": 56.713725,
+      "longitude": 9.333181
+    },
+    {
+      "name": "Dinosaur Park",
+      "latitude": 55.807821,
+      "longitude": 9.356195
+    },
+    {
+      "name": "Dinosaurfodspor",
+      "latitude": 56.156337,
+      "longitude": 10.210825
+    },
+    {
+      "name": "Ditlevsdal Bison Farm",
+      "latitude": 55.456131,
+      "longitude": 10.195581
+    },
+    {
+      "name": "Dizzy Ducks",
+      "latitude": 55.775898,
+      "longitude": 12.57593
+    },
+    {
+      "name": "Double Shot",
+      "latitude": 55.776207,
+      "longitude": 12.573351
+    },
+    {
+      "name": "Dragekongen",
+      "latitude": 56.426634,
+      "longitude": 10.552021
+    },
+    {
+      "name": "Dragen",
+      "latitude": 55.259689,
+      "longitude": 11.862878
+    },
+    {
+      "name": "Dragen",
+      "latitude": 55.73575,
+      "longitude": 9.124946
+    },
+    {
+      "name": "Duplo Flyer",
+      "latitude": 55.734261,
+      "longitude": 9.12748
+    },
+    {
+      "name": "DUPLO FUN",
+      "latitude": 55.734426,
+      "longitude": 9.128803
+    },
+    {
+      "name": "Duplo Land",
+      "latitude": 55.734453,
+      "longitude": 9.127253
+    },
+    {
+      "name": "Duplo Peppa Pig Playground",
+      "latitude": 55.734166,
+      "longitude": 9.125445
+    },
+    {
+      "name": "Dværgged",
+      "latitude": 55.412006,
+      "longitude": 8.961584
+    },
+    {
+      "name": "Dværgodder",
+      "latitude": 55.410588,
+      "longitude": 8.965827
+    },
+    {
+      "name": "Dyregården",
+      "latitude": 57.494997,
+      "longitude": 9.855699
+    },
+    {
+      "name": "Døndalen",
+      "latitude": 55.224183,
+      "longitude": 14.880826
+    },
+    {
+      "name": "Døndalsfaldet",
+      "latitude": 55.222485,
+      "longitude": 14.880867
+    },
+    {
+      "name": "Edderkoppen",
+      "latitude": 56.045417,
+      "longitude": 8.480264
+    },
+    {
+      "name": "Egerntårnet",
+      "latitude": 57.270886,
+      "longitude": 9.648689
+    },
+    {
+      "name": "Egeskov Slot",
+      "latitude": 55.175663,
+      "longitude": 10.489309
+    },
+    {
+      "name": "Elbiler",
+      "latitude": 55.041879,
+      "longitude": 9.810089
+    },
+    {
+      "name": "Elektrisk tog",
+      "latitude": 55.099335,
+      "longitude": 14.690659
+    },
+    {
+      "name": "Emmet’s Flying Adventure - Masters of Flight",
+      "latitude": 55.736339,
+      "longitude": 9.121985
+    },
+    {
+      "name": "Emu",
+      "latitude": 55.411511,
+      "longitude": 8.964538
+    },
+    {
+      "name": "Erslev Kalkovn",
+      "latitude": 56.834134,
+      "longitude": 8.748063
+    },
+    {
+      "name": "Esehusene I Nymindegab",
+      "latitude": 55.815947,
+      "longitude": 8.191715
+    },
+    {
+      "name": "Esehytten",
+      "latitude": 55.4903,
+      "longitude": 8.410271
+    },
+    {
+      "name": "Eshøjhuset",
+      "latitude": 56.201707,
+      "longitude": 9.995088
+    },
+    {
+      "name": "Eventyrdalen",
+      "latitude": 55.823396,
+      "longitude": 11.398197
+    },
+    {
+      "name": "Evolutionære Vildskud",
+      "latitude": 54.776571,
+      "longitude": 11.838659
+    },
+    {
+      "name": "Faaborg Klokketårn",
+      "latitude": 55.094669,
+      "longitude": 10.243573
+    },
+    {
+      "name": "Falck Fire Brigade",
+      "latitude": 55.737327,
+      "longitude": 9.122715
+    },
+    {
+      "name": "Falken",
+      "latitude": 57.269974,
+      "longitude": 9.64583
+    },
+    {
+      "name": "Fanø Strandgalleri",
+      "latitude": 55.422998,
+      "longitude": 8.384013
+    },
+    {
+      "name": "Faurbjerg Blacksmith",
+      "latitude": 55.693035,
+      "longitude": 11.743237
+    },
+    {
+      "name": "Fire Zone",
+      "latitude": 55.040744,
+      "longitude": 9.810387
+    },
+    {
+      "name": "Fiske- og Røghus",
+      "latitude": 55.755807,
+      "longitude": 10.294551
+    },
+    {
+      "name": "Fiskerhytten",
+      "latitude": 54.995001,
+      "longitude": 9.793858
+    },
+    {
+      "name": "Fjerritslev planetarium (Earth and Moon)",
+      "latitude": 57.089816,
+      "longitude": 9.264894
+    },
+    {
+      "name": "Fjerritslev planetarium (Jupiter)",
+      "latitude": 57.095516,
+      "longitude": 9.266235
+    },
+    {
+      "name": "Fjerritslev planetarium (Mars)",
+      "latitude": 57.09093,
+      "longitude": 9.265025
+    },
+    {
+      "name": "Fjerritslev planetarium (Mercure)",
+      "latitude": 57.089091,
+      "longitude": 9.264189
+    },
+    {
+      "name": "Fjerritslev planetarium (Neptune)",
+      "latitude": 57.124687,
+      "longitude": 9.255227
+    },
+    {
+      "name": "Fjerritslev planetarium (Pluto)",
+      "latitude": 57.140377,
+      "longitude": 9.254739
+    },
+    {
+      "name": "Fjerritslev planetarium (Saturn)",
+      "latitude": 57.100706,
+      "longitude": 9.267743
+    },
+    {
+      "name": "Fjerritslev planetarium (Sun)",
+      "latitude": 57.088637,
+      "longitude": 9.264139
+    },
+    {
+      "name": "Fjerritslev planetarium (Uranus)",
+      "latitude": 57.114367,
+      "longitude": 9.266124
+    },
+    {
+      "name": "Fjerritslev planetarium (Venus)",
+      "latitude": 57.089567,
+      "longitude": 9.264508
+    },
+    {
+      "name": "Fjordenhus",
+      "latitude": 55.70584,
+      "longitude": 9.55506
+    },
+    {
+      "name": "Flagermusen",
+      "latitude": 56.045468,
+      "longitude": 8.480453
+    },
+    {
+      "name": "Flyvergraven",
+      "latitude": 55.851507,
+      "longitude": 8.336216
+    },
+    {
+      "name": "Forhindringsbane",
+      "latitude": 55.42497,
+      "longitude": 10.041156
+    },
+    {
+      "name": "Frederik den VIII's Palæ",
+      "latitude": 55.684219,
+      "longitude": 12.594153
+    },
+    {
+      "name": "Frederiksdal Naturcenter",
+      "latitude": 54.906569,
+      "longitude": 11.04307
+    },
+    {
+      "name": "Frederikshåb Møllepark",
+      "latitude": 55.656425,
+      "longitude": 9.208784
+    },
+    {
+      "name": "Frendrup Nihøje",
+      "latitude": 56.947778,
+      "longitude": 9.721409
+    },
+    {
+      "name": "Frog Hopper",
+      "latitude": 55.736103,
+      "longitude": 9.128356
+    },
+    {
+      "name": "Fuglebjerggård",
+      "latitude": 56.056207,
+      "longitude": 12.242747
+    },
+    {
+      "name": "Fun Art Blokhus",
+      "latitude": 57.246956,
+      "longitude": 9.643358
+    },
+    {
+      "name": "Fyns Nordligste Punkt",
+      "latitude": 55.62272,
+      "longitude": 10.300702
+    },
+    {
+      "name": "Fyns Sydligste Punkt",
+      "latitude": 55.026595,
+      "longitude": 10.516444
+    },
+    {
+      "name": "Fyns Tog Park",
+      "latitude": 55.373544,
+      "longitude": 10.104066
+    },
+    {
+      "name": "Fyrbåken Koen",
+      "latitude": 55.335861,
+      "longitude": 11.134773
+    },
+    {
+      "name": "Fyrtårnet",
+      "latitude": 55.736179,
+      "longitude": 9.127497
+    },
+    {
+      "name": "Fårup Bådene",
+      "latitude": 57.268715,
+      "longitude": 9.657018
+    },
+    {
+      "name": "Fængsel og straf",
+      "latitude": 54.776185,
+      "longitude": 11.84165
+    },
+    {
+      "name": "Færdselsskole",
+      "latitude": 57.270626,
+      "longitude": 9.654943
+    },
+    {
+      "name": "Færgen Møn",
+      "latitude": 54.983577,
+      "longitude": 12.280822
+    },
+    {
+      "name": "Fønix",
+      "latitude": 57.268018,
+      "longitude": 9.658295
+    },
+    {
+      "name": "Gadstrup mose",
+      "latitude": 55.560672,
+      "longitude": 12.155709
+    },
+    {
+      "name": "Galgebakken",
+      "latitude": 54.777866,
+      "longitude": 11.839495
+    },
+    {
+      "name": "Gallerie Rasmus",
+      "latitude": 55.393345,
+      "longitude": 10.380702
+    },
+    {
+      "name": "Gammel Dok Pakhus",
+      "latitude": 55.675709,
+      "longitude": 12.591317
+    },
+    {
+      "name": "Geat belt tunnel section",
+      "latitude": 55.34533,
+      "longitude": 10.800418
+    },
+    {
+      "name": "Gedsermøllens Vinger",
+      "latitude": 56.354957,
+      "longitude": 9.597125
+    },
+    {
+      "name": "Generalens Lysthus",
+      "latitude": 54.763433,
+      "longitude": 12.050184
+    },
+    {
+      "name": "Ghost - The Haunted House",
+      "latitude": 55.735778,
+      "longitude": 9.127601
+    },
+    {
+      "name": "Giraf",
+      "latitude": 55.377408,
+      "longitude": 10.374567
+    },
+    {
+      "name": "Giraffer / Zebraer",
+      "latitude": 55.377767,
+      "longitude": 10.374809
+    },
+    {
+      "name": "Gjøl Bjerg",
+      "latitude": 57.074818,
+      "longitude": 9.655146
+    },
+    {
+      "name": "Glumsø Savværk",
+      "latitude": 55.691505,
+      "longitude": 11.749266
+    },
+    {
+      "name": "Gnomeskov",
+      "latitude": 56.31834,
+      "longitude": 8.135408
+    },
+    {
+      "name": "Gram Lergrav",
+      "latitude": 55.306533,
+      "longitude": 9.05879
+    },
+    {
+      "name": "Grubehus",
+      "latitude": 55.83745,
+      "longitude": 8.265731
+    },
+    {
+      "name": "Gråbrødretorv",
+      "latitude": 55.679884,
+      "longitude": 12.576026
+    },
+    {
+      "name": "Guldgraveri",
+      "latitude": 55.260518,
+      "longitude": 11.861708
+    },
+    {
+      "name": "Guldgraveriet",
+      "latitude": 57.269849,
+      "longitude": 9.657995
+    },
+    {
+      "name": "Gåserenden",
+      "latitude": 55.224177,
+      "longitude": 14.898979
+    },
+    {
+      "name": "Halskov Vænge",
+      "latitude": 54.801842,
+      "longitude": 12.085028
+    },
+    {
+      "name": "Han Herred Havbåde",
+      "latitude": 57.154589,
+      "longitude": 9.364804
+    },
+    {
+      "name": "Hangaren & Flyvepladsen",
+      "latitude": 55.690296,
+      "longitude": 11.746074
+    },
+    {
+      "name": "Haralds Bro",
+      "latitude": 55.688718,
+      "longitude": 12.316616
+    },
+    {
+      "name": "Havhaven",
+      "latitude": 57.117765,
+      "longitude": 8.601915
+    },
+    {
+      "name": "Havmine",
+      "latitude": 55.100099,
+      "longitude": 14.690025
+    },
+    {
+      "name": "Havmine",
+      "latitude": 55.100823,
+      "longitude": 14.691986
+    },
+    {
+      "name": "Havsand Lå",
+      "latitude": 55.097053,
+      "longitude": 8.482418
+    },
+    {
+      "name": "Helligkilde",
+      "latitude": 56.213333,
+      "longitude": 10.531005
+    },
+    {
+      "name": "Hestekarrusellen",
+      "latitude": 55.775301,
+      "longitude": 12.57444
+    },
+    {
+      "name": "Hestepærene",
+      "latitude": 55.26024,
+      "longitude": 11.862763
+    },
+    {
+      "name": "Hindsgavl Naturcenter",
+      "latitude": 55.51167,
+      "longitude": 9.700126
+    },
+    {
+      "name": "Hip Hop",
+      "latitude": 55.776119,
+      "longitude": 12.573334
+    },
+    {
+      "name": "Historic wagon",
+      "latitude": 55.196266,
+      "longitude": 11.182256
+    },
+    {
+      "name": "Historiske kalkbrændeovne",
+      "latitude": 56.300506,
+      "longitude": 10.806098
+    },
+    {
+      "name": "Hjelmerstald",
+      "latitude": 57.046665,
+      "longitude": 9.922874
+    },
+    {
+      "name": "Hjortspringbåden",
+      "latitude": 55.051563,
+      "longitude": 9.704949
+    },
+    {
+      "name": "Hopballe Mølle",
+      "latitude": 55.741731,
+      "longitude": 9.469783
+    },
+    {
+      "name": "House of Amber",
+      "latitude": 55.680951,
+      "longitude": 12.587623
+    },
+    {
+      "name": "Humlemagasinet",
+      "latitude": 55.465573,
+      "longitude": 10.025829
+    },
+    {
+      "name": "Hundeprutten",
+      "latitude": 55.259906,
+      "longitude": 11.863918
+    },
+    {
+      "name": "Hvalbenshegn",
+      "latitude": 55.174594,
+      "longitude": 8.557414
+    },
+    {
+      "name": "Hvalgabet",
+      "latitude": 56.994678,
+      "longitude": 10.306036
+    },
+    {
+      "name": "Hvalhuset",
+      "latitude": 55.295148,
+      "longitude": 9.055028
+    },
+    {
+      "name": "Hvepserederne",
+      "latitude": 56.0461,
+      "longitude": 8.480357
+    },
+    {
+      "name": "Hvirvelvinden",
+      "latitude": 57.268904,
+      "longitude": 9.650781
+    },
+    {
+      "name": "Hyacinth ara",
+      "latitude": 55.377819,
+      "longitude": 10.372525
+    },
+    {
+      "name": "Hængebugsvin",
+      "latitude": 55.410503,
+      "longitude": 8.965344
+    },
+    {
+      "name": "Højbro Plads",
+      "latitude": 55.678372,
+      "longitude": 12.579896
+    },
+    {
+      "name": "Ildfluen",
+      "latitude": 56.045395,
+      "longitude": 8.479792
+    },
+    {
+      "name": "Isbjerget",
+      "latitude": 56.164911,
+      "longitude": 10.230092
+    },
+    {
+      "name": "Iskunsten",
+      "latitude": 56.705324,
+      "longitude": 8.220101
+    },
+    {
+      "name": "Jays Reaktionstræning",
+      "latitude": 55.734551,
+      "longitude": 9.125734
+    },
+    {
+      "name": "Jels Vikingeby",
+      "latitude": 55.36171,
+      "longitude": 9.221209
+    },
+    {
+      "name": "Jollmands Gård",
+      "latitude": 55.051417,
+      "longitude": 9.701847
+    },
+    {
+      "name": "Jomfru Ane Gade",
+      "latitude": 57.050082,
+      "longitude": 9.918913
+    },
+    {
+      "name": "Kalkovn",
+      "latitude": 55.25923,
+      "longitude": 12.402835
+    },
+    {
+      "name": "Kanalrundfarten Friheden",
+      "latitude": 55.225685,
+      "longitude": 11.756764
+    },
+    {
+      "name": "Kano",
+      "latitude": 55.424524,
+      "longitude": 10.038092
+    },
+    {
+      "name": "Kano",
+      "latitude": 55.425596,
+      "longitude": 10.041032
+    },
+    {
+      "name": "Kano",
+      "latitude": 57.268881,
+      "longitude": 9.65722
+    },
+    {
+      "name": "Keglebane",
+      "latitude": 55.695745,
+      "longitude": 11.742841
+    },
+    {
+      "name": "Kitespot",
+      "latitude": 57.044213,
+      "longitude": 8.479152
+    },
+    {
+      "name": "Klappegederne",
+      "latitude": 56.044987,
+      "longitude": 8.480618
+    },
+    {
+      "name": "Klaptorsken",
+      "latitude": 55.259307,
+      "longitude": 11.865378
+    },
+    {
+      "name": "Klatrevæg",
+      "latitude": 56.046326,
+      "longitude": 8.480073
+    },
+    {
+      "name": "Knights' Kingdom",
+      "latitude": 55.736216,
+      "longitude": 9.124503
+    },
+    {
+      "name": "Knøsen",
+      "latitude": 55.616105,
+      "longitude": 11.474766
+    },
+    {
+      "name": "Konfluenspunkt 55°N 9°E",
+      "latitude": 54.999886,
+      "longitude": 8.999598
+    },
+    {
+      "name": "Kongens Nytorv",
+      "latitude": 55.680435,
+      "longitude": 12.586043
+    },
+    {
+      "name": "Koordinationsleg",
+      "latitude": 56.044723,
+      "longitude": 8.477496
+    },
+    {
+      "name": "Korsbæk på Bakken",
+      "latitude": 55.775241,
+      "longitude": 12.576421
+    },
+    {
+      "name": "Korsedderkoppen",
+      "latitude": 56.045679,
+      "longitude": 8.479802
+    },
+    {
+      "name": "Kragerup Go High",
+      "latitude": 55.511595,
+      "longitude": 11.378081
+    },
+    {
+      "name": "Kragetræerne",
+      "latitude": 55.2616,
+      "longitude": 11.863932
+    },
+    {
+      "name": "Krakamarken",
+      "latitude": 56.407455,
+      "longitude": 10.105984
+    },
+    {
+      "name": "Krigsmaskiner",
+      "latitude": 54.77781,
+      "longitude": 11.838587
+    },
+    {
+      "name": "Krudtmagasinet",
+      "latitude": 55.31416,
+      "longitude": 10.78538
+    },
+    {
+      "name": "KTASspolehus",
+      "latitude": 55.695685,
+      "longitude": 11.743475
+    },
+    {
+      "name": "Kålorm",
+      "latitude": 55.736051,
+      "longitude": 9.128059
+    },
+    {
+      "name": "Kænguru",
+      "latitude": 55.776294,
+      "longitude": 12.575479
+    },
+    {
+      "name": "Labyrinth",
+      "latitude": 55.512195,
+      "longitude": 9.701775
+    },
+    {
+      "name": "Laesoe Stein",
+      "latitude": 57.300206,
+      "longitude": 10.998975
+    },
+    {
+      "name": "Lalandia",
+      "latitude": 54.66615,
+      "longitude": 11.332905
+    },
+    {
+      "name": "Lama,dådyr",
+      "latitude": 55.412712,
+      "longitude": 8.962175
+    },
+    {
+      "name": "Landsbyskolen",
+      "latitude": 55.694897,
+      "longitude": 11.743872
+    },
+    {
+      "name": "Langhus",
+      "latitude": 55.837617,
+      "longitude": 8.265958
+    },
+    {
+      "name": "Lego Canoe",
+      "latitude": 55.735108,
+      "longitude": 9.125865
+    },
+    {
+      "name": "LEGO House",
+      "latitude": 55.730659,
+      "longitude": 9.114954
+    },
+    {
+      "name": "Lego Safari",
+      "latitude": 55.735714,
+      "longitude": 9.128667
+    },
+    {
+      "name": "Lego Tog",
+      "latitude": 55.735484,
+      "longitude": 9.129165
+    },
+    {
+      "name": "LEGOLAND Gallery",
+      "latitude": 55.735571,
+      "longitude": 9.129491
+    },
+    {
+      "name": "Legoldmine",
+      "latitude": 55.734972,
+      "longitude": 9.12618
+    },
+    {
+      "name": "Legondol",
+      "latitude": 55.734641,
+      "longitude": 9.127154
+    },
+    {
+      "name": "LEGOREDO River Build-A-Boat",
+      "latitude": 55.734931,
+      "longitude": 9.126466
+    },
+    {
+      "name": "Legoredo Town",
+      "latitude": 55.735241,
+      "longitude": 9.126513
+    },
+    {
+      "name": "Lemur",
+      "latitude": 55.378366,
+      "longitude": 10.375053
+    },
+    {
+      "name": "Leo-Farterne",
+      "latitude": 55.259227,
+      "longitude": 11.861716
+    },
+    {
+      "name": "Lift a ca",
+      "latitude": 55.041545,
+      "longitude": 9.809108
+    },
+    {
+      "name": "Lille hus i Rønne",
+      "latitude": 55.09877,
+      "longitude": 14.69986
+    },
+    {
+      "name": "Linkisten",
+      "latitude": 55.084548,
+      "longitude": 15.084293
+    },
+    {
+      "name": "Lion (picture stand)",
+      "latitude": 55.734757,
+      "longitude": 9.127007
+    },
+    {
+      "name": "Lloyds Laser Labyrint",
+      "latitude": 55.734309,
+      "longitude": 9.125854
+    },
+    {
+      "name": "Lotte Lokkeklokke",
+      "latitude": 56.38678,
+      "longitude": 8.364745
+    },
+    {
+      "name": "Lynet",
+      "latitude": 57.269337,
+      "longitude": 9.650571
+    },
+    {
+      "name": "Lyserenden",
+      "latitude": 55.224235,
+      "longitude": 14.898781
+    },
+    {
+      "name": "Læsø Saltsyderi",
+      "latitude": 57.239646,
+      "longitude": 10.990084
+    },
+    {
+      "name": "Løftemaskiner",
+      "latitude": 54.776947,
+      "longitude": 11.838388
+    },
+    {
+      "name": "Løver",
+      "latitude": 55.809357,
+      "longitude": 9.354561
+    },
+    {
+      "name": "M/S Castor",
+      "latitude": 55.568781,
+      "longitude": 10.078967
+    },
+    {
+      "name": "Mads Madsens Hus",
+      "latitude": 57.094988,
+      "longitude": 8.723752
+    },
+    {
+      "name": "Mariehønen",
+      "latitude": 55.774675,
+      "longitude": 12.576674
+    },
+    {
+      "name": "Marinestationen Gedser Odde",
+      "latitude": 54.559762,
+      "longitude": 11.969526
+    },
+    {
+      "name": "Marsvin",
+      "latitude": 55.377911,
+      "longitude": 10.37243
+    },
+    {
+      "name": "Middelalder sildemarkesplads",
+      "latitude": 54.83209,
+      "longitude": 10.961107
+    },
+    {
+      "name": "Mine-Ekspressen",
+      "latitude": 57.26867,
+      "longitude": 9.655467
+    },
+    {
+      "name": "Mini Dumbo",
+      "latitude": 55.774916,
+      "longitude": 12.575786
+    },
+    {
+      "name": "Minibåde",
+      "latitude": 55.735819,
+      "longitude": 9.129178
+    },
+    {
+      "name": "Miniland",
+      "latitude": 55.73545,
+      "longitude": 9.128247
+    },
+    {
+      "name": "Modelbane Europa",
+      "latitude": 56.32772,
+      "longitude": 10.04745
+    },
+    {
+      "name": "Monorail",
+      "latitude": 55.734891,
+      "longitude": 9.128021
+    },
+    {
+      "name": "Monsterwall",
+      "latitude": 55.735937,
+      "longitude": 9.127664
+    },
+    {
+      "name": "MS Aventura/Hvalsafari",
+      "latitude": 55.508073,
+      "longitude": 9.725376
+    },
+    {
+      "name": "MS Mira 3/Hvalsafari",
+      "latitude": 55.507546,
+      "longitude": 9.725751
+    },
+    {
+      "name": "Myretuen",
+      "latitude": 56.045894,
+      "longitude": 8.481434
+    },
+    {
+      "name": "Mågeklatterne",
+      "latitude": 55.260113,
+      "longitude": 11.862308
+    },
+    {
+      "name": "Mølleporten",
+      "latitude": 54.987198,
+      "longitude": 12.289278
+    },
+    {
+      "name": "Møns Klint",
+      "latitude": 54.967005,
+      "longitude": 12.548453
+    },
+    {
+      "name": "Møntnergaarden",
+      "latitude": 55.398019,
+      "longitude": 10.393986
+    },
+    {
+      "name": "Naturbase: Lyde",
+      "latitude": 56.116172,
+      "longitude": 9.652582
+    },
+    {
+      "name": "Naturbase: Mørkebasen",
+      "latitude": 56.114817,
+      "longitude": 9.650665
+    },
+    {
+      "name": "Naturbase: Nature-Tag-Wall",
+      "latitude": 56.115108,
+      "longitude": 9.649024
+    },
+    {
+      "name": "Naturbase: Træbasen",
+      "latitude": 56.112409,
+      "longitude": 9.66322
+    },
+    {
+      "name": "Naturcenter Skjern Å",
+      "latitude": 55.944455,
+      "longitude": 8.581009
+    },
+    {
+      "name": "Naturcenter Syddjurs",
+      "latitude": 56.24152,
+      "longitude": 10.55736
+    },
+    {
+      "name": "Naturcenter Ulvshalegård",
+      "latitude": 55.045094,
+      "longitude": 12.258106
+    },
+    {
+      "name": "Nauster",
+      "latitude": 55.836875,
+      "longitude": 8.265635
+    },
+    {
+      "name": "Nautilen",
+      "latitude": 55.321652,
+      "longitude": 10.537811
+    },
+    {
+      "name": "Netto Boat Tours",
+      "latitude": 55.680196,
+      "longitude": 12.588631
+    },
+    {
+      "name": "Ninjago The Ride",
+      "latitude": 55.734375,
+      "longitude": 9.125771
+    },
+    {
+      "name": "Ninjago World",
+      "latitude": 55.734523,
+      "longitude": 9.126038
+    },
+    {
+      "name": "Nordisk Folkecenter for vedvarende energi",
+      "latitude": 56.691655,
+      "longitude": 8.415771
+    },
+    {
+      "name": "Nøddesvinget",
+      "latitude": 57.269101,
+      "longitude": 9.652608
+    },
+    {
+      "name": "Nøreng Fiskebod",
+      "latitude": 55.690521,
+      "longitude": 8.154847
+    },
+    {
+      "name": "Nøvling gl. Kirkegård",
+      "latitude": 56.187452,
+      "longitude": 8.846901
+    },
+    {
+      "name": "Oceanium",
+      "latitude": 55.3773,
+      "longitude": 10.371974
+    },
+    {
+      "name": "Offerlund",
+      "latitude": 55.837805,
+      "longitude": 8.265388
+    },
+    {
+      "name": "Oplevelsescenter Vestvolden",
+      "latitude": 55.678912,
+      "longitude": 12.429118
+    },
+    {
+      "name": "Oplevelsescenter Vestvolden",
+      "latitude": 55.680604,
+      "longitude": 12.430852
+    },
+    {
+      "name": "Oplevelsescenter Vestvolden",
+      "latitude": 55.689218,
+      "longitude": 12.436505
+    },
+    {
+      "name": "Oplevelsespark Naturkraft",
+      "latitude": 56.100933,
+      "longitude": 8.243009
+    },
+    {
+      "name": "Orkanen",
+      "latitude": 57.269887,
+      "longitude": 9.645278
+    },
+    {
+      "name": "Ormen",
+      "latitude": 55.259528,
+      "longitude": 11.862528
+    },
+    {
+      "name": "Pansergrav",
+      "latitude": 55.418443,
+      "longitude": 8.977032
+    },
+    {
+      "name": "ParadropVR",
+      "latitude": 55.040259,
+      "longitude": 9.808342
+    },
+    {
+      "name": "Pelle Piratsprøjt",
+      "latitude": 55.259955,
+      "longitude": 11.865821
+    },
+    {
+      "name": "Piet Heins Labyrint",
+      "latitude": 55.176171,
+      "longitude": 10.485839
+    },
+    {
+      "name": "Pilen",
+      "latitude": 54.647441,
+      "longitude": 11.361526
+    },
+    {
+      "name": "Pindsvinet",
+      "latitude": 57.270956,
+      "longitude": 9.648215
+    },
+    {
+      "name": "Pingviner",
+      "latitude": 55.377653,
+      "longitude": 10.371763
+    },
+    {
+      "name": "Piratbåde",
+      "latitude": 55.73587,
+      "longitude": 9.125792
+    },
+    {
+      "name": "Pirate Splash Battle",
+      "latitude": 55.736108,
+      "longitude": 9.126801
+    },
+    {
+      "name": "Pirate Wave Breaker",
+      "latitude": 55.736469,
+      "longitude": 9.125774
+    },
+    {
+      "name": "Piraten",
+      "latitude": 56.427139,
+      "longitude": 10.548919
+    },
+    {
+      "name": "Piratkarrusel",
+      "latitude": 55.736271,
+      "longitude": 9.125851
+    },
+    {
+      "name": "Piratland",
+      "latitude": 55.736033,
+      "longitude": 9.126296
+    },
+    {
+      "name": "Planetstien: Jorden og Månen",
+      "latitude": 55.635334,
+      "longitude": 12.504443
+    },
+    {
+      "name": "Planetstien: Jupiter",
+      "latitude": 55.631072,
+      "longitude": 12.502858
+    },
+    {
+      "name": "Planetstien: Mars",
+      "latitude": 55.635318,
+      "longitude": 12.505613
+    },
+    {
+      "name": "Planetstien: Merkur",
+      "latitude": 55.635931,
+      "longitude": 12.505172
+    },
+    {
+      "name": "Planetstien: Neptun",
+      "latitude": 55.61733,
+      "longitude": 12.47547
+    },
+    {
+      "name": "Planetstien: Pluto",
+      "latitude": 55.616237,
+      "longitude": 12.457315
+    },
+    {
+      "name": "Planetstien: Saturn",
+      "latitude": 55.626101,
+      "longitude": 12.49826
+    },
+    {
+      "name": "Planetstien: Solen",
+      "latitude": 55.636304,
+      "longitude": 12.504507
+    },
+    {
+      "name": "Planetstien: Uranus",
+      "latitude": 55.617852,
+      "longitude": 12.497263
+    },
+    {
+      "name": "Planetstien: Venus",
+      "latitude": 55.635688,
+      "longitude": 12.504404
+    },
+    {
+      "name": "Polar Land",
+      "latitude": 55.737019,
+      "longitude": 9.121421
+    },
+    {
+      "name": "Polar X-plorer",
+      "latitude": 55.737154,
+      "longitude": 9.121738
+    },
+    {
+      "name": "Polyppen",
+      "latitude": 55.77689,
+      "longitude": 12.57331
+    },
+    {
+      "name": "Pritzels Fabrik",
+      "latitude": 55.774683,
+      "longitude": 12.496845
+    },
+    {
+      "name": "Præriehund",
+      "latitude": 55.37786,
+      "longitude": 10.372114
+    },
+    {
+      "name": "Randkløve Skår",
+      "latitude": 55.171832,
+      "longitude": 15.040273
+    },
+    {
+      "name": "Rav Museum / Salg",
+      "latitude": 55.551625,
+      "longitude": 8.227639
+    },
+    {
+      "name": "Ravsliber",
+      "latitude": 55.742401,
+      "longitude": 8.175648
+    },
+    {
+      "name": "Rebuild the World",
+      "latitude": 55.734458,
+      "longitude": 9.129007
+    },
+    {
+      "name": "Redningsstation",
+      "latitude": 55.490163,
+      "longitude": 8.410584
+    },
+    {
+      "name": "Redskabsskur",
+      "latitude": 55.490877,
+      "longitude": 8.410938
+    },
+    {
+      "name": "Rensdyr",
+      "latitude": 55.379299,
+      "longitude": 10.374168
+    },
+    {
+      "name": "Retterplads",
+      "latitude": 54.776169,
+      "longitude": 11.842143
+    },
+    {
+      "name": "Ringkast",
+      "latitude": 56.044851,
+      "longitude": 8.47736
+    },
+    {
+      "name": "Ringkloster",
+      "latitude": 56.013083,
+      "longitude": 9.96509
+    },
+    {
+      "name": "Rodeobanen",
+      "latitude": 55.776029,
+      "longitude": 12.575966
+    },
+    {
+      "name": "Rokkestenen",
+      "latitude": 55.125887,
+      "longitude": 14.895474
+    },
+    {
+      "name": "Rosenholm Slot",
+      "latitude": 56.333664,
+      "longitude": 10.329683
+    },
+    {
+      "name": "Rubjerg Knude Fyr",
+      "latitude": 57.449049,
+      "longitude": 9.775482
+    },
+    {
+      "name": "Råbjerg Stene",
+      "latitude": 57.63852,
+      "longitude": 10.342545
+    },
+    {
+      "name": "Rådhuspladsen",
+      "latitude": 55.676157,
+      "longitude": 12.569104
+    },
+    {
+      "name": "Rævehulerne",
+      "latitude": 56.045188,
+      "longitude": 8.479272
+    },
+    {
+      "name": "Rævens Hule",
+      "latitude": 57.269292,
+      "longitude": 9.652197
+    },
+    {
+      "name": "Røsnæs Naturrum",
+      "latitude": 55.722569,
+      "longitude": 11.003652
+    },
+    {
+      "name": "Samsø Labyrinten",
+      "latitude": 55.972199,
+      "longitude": 10.552076
+    },
+    {
+      "name": "Saven",
+      "latitude": 57.26953,
+      "longitude": 9.655324
+    },
+    {
+      "name": "Saxenhøj Økologisk Besøgsgård og Gårdbutik",
+      "latitude": 54.803463,
+      "longitude": 11.621881
+    },
+    {
+      "name": "Science Show",
+      "latitude": 55.039676,
+      "longitude": 9.808768
+    },
+    {
+      "name": "Segway",
+      "latitude": 55.042189,
+      "longitude": 9.810954
+    },
+    {
+      "name": "Shetlandspony",
+      "latitude": 55.41202,
+      "longitude": 8.962129
+    },
+    {
+      "name": "Skagen Fuglestation",
+      "latitude": 57.735526,
+      "longitude": 10.630495
+    },
+    {
+      "name": "Skagen Fuglestation",
+      "latitude": 57.744081,
+      "longitude": 10.636423
+    },
+    {
+      "name": "Skarregaard",
+      "latitude": 56.941188,
+      "longitude": 8.866085
+    },
+    {
+      "name": "Skattejagt",
+      "latitude": 57.269494,
+      "longitude": 9.651617
+    },
+    {
+      "name": "Skibssætningen",
+      "latitude": 55.619681,
+      "longitude": 11.942955
+    },
+    {
+      "name": "Skildpadden",
+      "latitude": 55.260089,
+      "longitude": 11.86307
+    },
+    {
+      "name": "Skildpadder",
+      "latitude": 55.378168,
+      "longitude": 10.375403
+    },
+    {
+      "name": "Skinnecykler",
+      "latitude": 56.064187,
+      "longitude": 8.594157
+    },
+    {
+      "name": "Skovhytten",
+      "latitude": 57.298787,
+      "longitude": 11.002381
+    },
+    {
+      "name": "Skovlabyrint Ullerup Skov",
+      "latitude": 55.971512,
+      "longitude": 11.896083
+    },
+    {
+      "name": "Skovsneglen",
+      "latitude": 56.045492,
+      "longitude": 8.480862
+    },
+    {
+      "name": "Skovturen",
+      "latitude": 57.268519,
+      "longitude": 9.654446
+    },
+    {
+      "name": "Skudhul i rækværk",
+      "latitude": 56.170411,
+      "longitude": 10.201032
+    },
+    {
+      "name": "Sky Trail",
+      "latitude": 55.042025,
+      "longitude": 9.809696
+    },
+    {
+      "name": "SkyRoller",
+      "latitude": 55.7752,
+      "longitude": 12.575267
+    },
+    {
+      "name": "Slangerup Miniby",
+      "latitude": 55.850766,
+      "longitude": 12.160706
+    },
+    {
+      "name": "Smedje",
+      "latitude": 55.490588,
+      "longitude": 8.411055
+    },
+    {
+      "name": "Smedje",
+      "latitude": 55.837679,
+      "longitude": 8.265661
+    },
+    {
+      "name": "Sol-Årskalender",
+      "latitude": 57.084486,
+      "longitude": 9.333371
+    },
+    {
+      "name": "Soluret",
+      "latitude": 54.985174,
+      "longitude": 9.873434
+    },
+    {
+      "name": "Sommerspil",
+      "latitude": 55.425278,
+      "longitude": 10.039839
+    },
+    {
+      "name": "Sparresholm Vognsamling",
+      "latitude": 55.693109,
+      "longitude": 11.749261
+    },
+    {
+      "name": "Spejlhuset",
+      "latitude": 55.697337,
+      "longitude": 12.569941
+    },
+    {
+      "name": "Spor i naturen",
+      "latitude": 55.488882,
+      "longitude": 9.496444
+    },
+    {
+      "name": "Sprutten",
+      "latitude": 55.259856,
+      "longitude": 11.864424
+    },
+    {
+      "name": "Statshusmandsbrug fra Løvenborg",
+      "latitude": 55.692159,
+      "longitude": 11.744181
+    },
+    {
+      "name": "Stavkirken",
+      "latitude": 56.088092,
+      "longitude": 10.22559
+    },
+    {
+      "name": "Steengalleriet",
+      "latitude": 55.86115,
+      "longitude": 11.687963
+    },
+    {
+      "name": "Stejlepladsen",
+      "latitude": 55.945049,
+      "longitude": 11.765131
+    },
+    {
+      "name": "Stenaldergrav",
+      "latitude": 55.61647,
+      "longitude": 11.946684
+    },
+    {
+      "name": "Stenen",
+      "latitude": 57.139734,
+      "longitude": 9.074349
+    },
+    {
+      "name": "Stenmaglehaven",
+      "latitude": 55.554657,
+      "longitude": 11.644251
+    },
+    {
+      "name": "Stenpark",
+      "latitude": 55.117862,
+      "longitude": 9.46637
+    },
+    {
+      "name": "Stevns Klint",
+      "latitude": 55.278731,
+      "longitude": 12.446108
+    },
+    {
+      "name": "Stevns Naturcenter",
+      "latitude": 55.327682,
+      "longitude": 12.450167
+    },
+    {
+      "name": "Store Elmue Jættestue",
+      "latitude": 55.199167,
+      "longitude": 12.110132
+    },
+    {
+      "name": "sumpbæver",
+      "latitude": 55.411299,
+      "longitude": 8.96444
+    },
+    {
+      "name": "Super Nova",
+      "latitude": 55.775406,
+      "longitude": 12.573906
+    },
+    {
+      "name": "Svend Svingarm",
+      "latitude": 55.2611,
+      "longitude": 11.862677
+    },
+    {
+      "name": "Svævebane",
+      "latitude": 55.424517,
+      "longitude": 10.041073
+    },
+    {
+      "name": "Svæveflyveren",
+      "latitude": 55.776181,
+      "longitude": 12.572752
+    },
+    {
+      "name": "Sydfyenske Veteranjernbane",
+      "latitude": 55.094009,
+      "longitude": 10.249925
+    },
+    {
+      "name": "Sydfyenske Veteranjernbane",
+      "latitude": 55.144125,
+      "longitude": 10.333727
+    },
+    {
+      "name": "Sydfyn Alpacas",
+      "latitude": 55.140013,
+      "longitude": 10.75635
+    },
+    {
+      "name": "Søheltepladsen",
+      "latitude": 55.970088,
+      "longitude": 11.366344
+    },
+    {
+      "name": "Søløve",
+      "latitude": 55.377718,
+      "longitude": 10.372202
+    },
+    {
+      "name": "Søløven",
+      "latitude": 55.260002,
+      "longitude": 11.862598
+    },
+    {
+      "name": "Søndervig Ranch",
+      "latitude": 56.116689,
+      "longitude": 8.119734
+    },
+    {
+      "name": "Søndervig Sandskulpturfestival",
+      "latitude": 56.124169,
+      "longitude": 8.115873
+    },
+    {
+      "name": "Søstrup Andelsmejeri",
+      "latitude": 55.694108,
+      "longitude": 11.742258
+    },
+    {
+      "name": "Tangeværket",
+      "latitude": 56.354074,
+      "longitude": 9.602402
+    },
+    {
+      "name": "Temple Games",
+      "latitude": 55.736591,
+      "longitude": 9.122922
+    },
+    {
+      "name": "Test Lab",
+      "latitude": 55.039549,
+      "longitude": 9.809855
+    },
+    {
+      "name": "Thaihuset",
+      "latitude": 56.086381,
+      "longitude": 10.227593
+    },
+    {
+      "name": "The Great LEGO Reef",
+      "latitude": 55.734301,
+      "longitude": 9.128298
+    },
+    {
+      "name": "The LEGO Movie World",
+      "latitude": 55.736266,
+      "longitude": 9.122636
+    },
+    {
+      "name": "Thiesens Gård",
+      "latitude": 54.830064,
+      "longitude": 11.136034
+    },
+    {
+      "name": "Thorup Strand Havnen",
+      "latitude": 57.1402,
+      "longitude": 9.127059
+    },
+    {
+      "name": "Thyborøn Surfcenter",
+      "latitude": 56.69631,
+      "longitude": 8.200677
+    },
+    {
+      "name": "Thyborøn Vandkulturhus",
+      "latitude": 56.695266,
+      "longitude": 8.205102
+    },
+    {
+      "name": "Tidsmaskinen",
+      "latitude": 55.77645,
+      "longitude": 12.574091
+    },
+    {
+      "name": "Tipperne",
+      "latitude": 55.89551,
+      "longitude": 8.21372
+    },
+    {
+      "name": "Tjæregryden",
+      "latitude": 55.51342,
+      "longitude": 9.628788
+    },
+    {
+      "name": "Tjæreovnene",
+      "latitude": 55.978959,
+      "longitude": 8.927632
+    },
+    {
+      "name": "Tothavens Besøgsgård & Gårdmejeri",
+      "latitude": 55.973881,
+      "longitude": 11.880201
+    },
+    {
+      "name": "Tovbanen",
+      "latitude": 55.283056,
+      "longitude": 14.760867
+    },
+    {
+      "name": "Tovtrækning",
+      "latitude": 56.044064,
+      "longitude": 8.478833
+    },
+    {
+      "name": "Trafikskolen",
+      "latitude": 55.734634,
+      "longitude": 9.1277
+    },
+    {
+      "name": "Traktorsamling",
+      "latitude": 55.121287,
+      "longitude": 9.330219
+    },
+    {
+      "name": "Transformatortårn",
+      "latitude": 55.695776,
+      "longitude": 11.743969
+    },
+    {
+      "name": "Trehøje",
+      "latitude": 56.204805,
+      "longitude": 10.531514
+    },
+    {
+      "name": "Trente Mølle",
+      "latitude": 55.175578,
+      "longitude": 10.249841
+    },
+    {
+      "name": "Træstammerne",
+      "latitude": 57.269606,
+      "longitude": 9.657385
+    },
+    {
+      "name": "Tunsindbenet",
+      "latitude": 56.045245,
+      "longitude": 8.477895
+    },
+    {
+      "name": "Turistkontor - VisitVesthimmerland",
+      "latitude": 56.967532,
+      "longitude": 9.247396
+    },
+    {
+      "name": "Tvindkraft",
+      "latitude": 56.255967,
+      "longitude": 8.280004
+    },
+    {
+      "name": "Tyrsgaards rekreative univers",
+      "latitude": 55.590072,
+      "longitude": 11.258647
+    },
+    {
+      "name": "Tørskind Grusgrav",
+      "latitude": 55.648478,
+      "longitude": 9.310995
+    },
+    {
+      "name": "Ulven",
+      "latitude": 55.776397,
+      "longitude": 12.576201
+    },
+    {
+      "name": "Unikitty’s Disco Drop",
+      "latitude": 55.736456,
+      "longitude": 9.122397
+    },
+    {
+      "name": "V6 - Fisher Boat",
+      "latitude": 55.818768,
+      "longitude": 8.184615
+    },
+    {
+      "name": "Vandcyklonen",
+      "latitude": 57.271294,
+      "longitude": 9.643752
+    },
+    {
+      "name": "Vandedderkoppen",
+      "latitude": 56.045512,
+      "longitude": 8.480978
+    },
+    {
+      "name": "Vandløftemaskiner",
+      "latitude": 54.777156,
+      "longitude": 11.840435
+    },
+    {
+      "name": "Vandrefalken",
+      "latitude": 56.044779,
+      "longitude": 8.478014
+    },
+    {
+      "name": "Vandrotten",
+      "latitude": 55.260211,
+      "longitude": 11.864648
+    },
+    {
+      "name": "Vandrutschebanen",
+      "latitude": 55.775664,
+      "longitude": 12.576844
+    },
+    {
+      "name": "Vaskeplads for H. C. Andersens mor",
+      "latitude": 55.396048,
+      "longitude": 10.392735
+    },
+    {
+      "name": "Vejen Kanocenter",
+      "latitude": 55.441545,
+      "longitude": 9.148966
+    },
+    {
+      "name": "Verdens Største Sandslot",
+      "latitude": 57.24816,
+      "longitude": 9.613111
+    },
+    {
+      "name": "Verdenskortet ved Klejtrup Sø",
+      "latitude": 56.59054,
+      "longitude": 9.641473
+    },
+    {
+      "name": "Vesborg Udstilling, Gl. Krudthus",
+      "latitude": 55.770087,
+      "longitude": 10.551739
+    },
+    {
+      "name": "Vigsø Batteriet",
+      "latitude": 57.102313,
+      "longitude": 8.72798
+    },
+    {
+      "name": "Vikingebyen Sebbersund",
+      "latitude": 56.96863,
+      "longitude": 9.554056
+    },
+    {
+      "name": "Vikingelandsbyen Yxenborg",
+      "latitude": 57.5343,
+      "longitude": 9.911636
+    },
+    {
+      "name": "Vikingeskibet Dragen",
+      "latitude": 55.776897,
+      "longitude": 12.57273
+    },
+    {
+      "name": "Virtual Coaster",
+      "latitude": 55.04016,
+      "longitude": 9.808567
+    },
+    {
+      "name": "Virtual Reality",
+      "latitude": 55.040217,
+      "longitude": 9.808438
+    },
+    {
+      "name": "Vodbinderi",
+      "latitude": 55.49077,
+      "longitude": 8.410949
+    },
+    {
+      "name": "Vollum Hjortegård Prærievognskørsel",
+      "latitude": 55.079673,
+      "longitude": 8.810588
+    },
+    {
+      "name": "VR Bumper Cars",
+      "latitude": 55.040064,
+      "longitude": 9.808749
+    },
+    {
+      "name": "VR Raceroom",
+      "latitude": 55.039994,
+      "longitude": 9.808907
+    },
+    {
+      "name": "Vulkanen",
+      "latitude": 57.268804,
+      "longitude": 9.658021
+    },
+    {
+      "name": "Værft",
+      "latitude": 55.490671,
+      "longitude": 8.410526
+    },
+    {
+      "name": "Water Slide",
+      "latitude": 57.271398,
+      "longitude": 9.64397
+    },
+    {
+      "name": "Water Works",
+      "latitude": 55.04099,
+      "longitude": 9.810956
+    },
+    {
+      "name": "Western Ride",
+      "latitude": 55.735052,
+      "longitude": 9.126841
+    },
+    {
+      "name": "Wild River",
+      "latitude": 57.271481,
+      "longitude": 9.64429
+    },
+    {
+      "name": "Witch Well",
+      "latitude": 55.736225,
+      "longitude": 9.125372
+    },
+    {
+      "name": "WW2 Flyverskjul",
+      "latitude": 56.287777,
+      "longitude": 10.631632
+    },
+    {
+      "name": "X-treme Racers",
+      "latitude": 55.736393,
+      "longitude": 9.123581
+    },
+    {
+      "name": "Zebramangust",
+      "latitude": 55.378669,
+      "longitude": 10.372038
+    },
+    {
+      "name": "Zone Redningsstation fra Høng",
+      "latitude": 55.695441,
+      "longitude": 11.741981
+    },
+    {
+      "name": "Åbent Bådmagasin",
+      "latitude": 55.490981,
+      "longitude": 8.410506
+    },
+    {
+      "name": "Æ gammel spælværk i Vorupør",
+      "latitude": 56.958896,
+      "longitude": 8.368199
+    },
+    {
+      "name": "Æsel",
+      "latitude": 55.411211,
+      "longitude": 8.964757
+    },
+    {
+      "name": "Øhavscenter - Faaborg",
+      "latitude": 55.094125,
+      "longitude": 10.236594
+    },
+    {
+      "name": "Øls Skæppe",
+      "latitude": 56.623711,
+      "longitude": 9.714945
+    }
+  ],
+  "meta": {
+    "title": "Turistattraktioner i Danmark – OpenStreetMap (Tourist attractions in Denmark, OSM) - Gratis download",
+    "description": "Liste over 465 turistattraktioner i Danmark fra OpenStreetMap (tourism=attraction) — navn og koordinater (WGS84). Indeholder 465 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Turistattraktioner i Danmark – OpenStreetMap (Tourist attractions in Denmark, OSM) | ListBase",
+    "seo_description": "Download Turistattraktioner i Danmark – OpenStreetMap (Tourist attractions in Denmark, OSM) — 465 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 465 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

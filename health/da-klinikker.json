@@ -1,0 +1,351 @@
+{
+  "id": "da-klinikker",
+  "name": "Klinikker i Danmark (Clinics in Denmark)",
+  "title": "Klinikker i Danmark (Clinics in Denmark)",
+  "description": "Clinics in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=clinic.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aalborg Universitetshospital Syd Mammakirurgisk",
+      "latitude": 57.039028,
+      "longitude": 9.906954
+    },
+    {
+      "name": "Alternativ Behandlings Center",
+      "latitude": 55.851696,
+      "longitude": 11.579492
+    },
+    {
+      "name": "Bauneparken Sundhedscenter",
+      "latitude": 55.909451,
+      "longitude": 12.156824
+    },
+    {
+      "name": "Behandlingscenter Sjælland",
+      "latitude": 55.188791,
+      "longitude": 11.649438
+    },
+    {
+      "name": "Børne- og Ungdomspsykiatri Syddanmark, Esbjerg",
+      "latitude": 55.494787,
+      "longitude": 8.441816
+    },
+    {
+      "name": "Capio CFR Viborg",
+      "latitude": 56.455933,
+      "longitude": 9.401061
+    },
+    {
+      "name": "Center for socialpsykiatri Vordingborg",
+      "latitude": 54.997766,
+      "longitude": 12.282799
+    },
+    {
+      "name": "Copenhagen Eye Clinic",
+      "latitude": 55.679533,
+      "longitude": 12.457469
+    },
+    {
+      "name": "Demensdagcenter Dalgaarden",
+      "latitude": 55.256376,
+      "longitude": 12.030368
+    },
+    {
+      "name": "Den Blå Dør",
+      "latitude": 55.844574,
+      "longitude": 11.669912
+    },
+    {
+      "name": "DEN NYE STIL",
+      "latitude": 54.927016,
+      "longitude": 9.244552
+    },
+    {
+      "name": "Din Sportsbehandler",
+      "latitude": 54.807684,
+      "longitude": 11.423006
+    },
+    {
+      "name": "Esbjerg Døgnrehabilitering",
+      "latitude": 55.484498,
+      "longitude": 8.454237
+    },
+    {
+      "name": "Familier og Spiseforstyrrelser Holmstrupgård",
+      "latitude": 56.17528,
+      "longitude": 10.140647
+    },
+    {
+      "name": "Faxe Sundhedscenter",
+      "latitude": 55.249465,
+      "longitude": 12.106375
+    },
+    {
+      "name": "Forebyggelses og Rehabiliteringscenter",
+      "latitude": 57.074247,
+      "longitude": 10.254373
+    },
+    {
+      "name": "Frederiksborg Fodpleje",
+      "latitude": 55.929028,
+      "longitude": 12.250116
+    },
+    {
+      "name": "Funktionel Fysioterapi",
+      "latitude": 55.41301,
+      "longitude": 10.34128
+    },
+    {
+      "name": "Gittes Zoneklinik",
+      "latitude": 55.02748,
+      "longitude": 9.744375
+    },
+    {
+      "name": "Gråsten Fodterapi",
+      "latitude": 54.913573,
+      "longitude": 9.586184
+    },
+    {
+      "name": "Hadsten Zoneterapi",
+      "latitude": 56.335626,
+      "longitude": 10.035649
+    },
+    {
+      "name": "Heidi R. Lodahl",
+      "latitude": 56.615599,
+      "longitude": 8.175063
+    },
+    {
+      "name": "Helle og Allan Trankjær",
+      "latitude": 55.767472,
+      "longitude": 12.498531
+    },
+    {
+      "name": "Helsecenter",
+      "latitude": 54.986513,
+      "longitude": 9.987139
+    },
+    {
+      "name": "Jordemodercenter",
+      "latitude": 54.921313,
+      "longitude": 9.780027
+    },
+    {
+      "name": "Jørgen Nonnegårds Klinik",
+      "latitude": 55.299395,
+      "longitude": 10.452993
+    },
+    {
+      "name": "Kiropraktor Lystrup",
+      "latitude": 56.233773,
+      "longitude": 10.228034
+    },
+    {
+      "name": "kiropraktor-huset",
+      "latitude": 54.768734,
+      "longitude": 11.877008
+    },
+    {
+      "name": "Livsstilsklinikken v/Hanne Klinge",
+      "latitude": 55.497701,
+      "longitude": 9.444401
+    },
+    {
+      "name": "Lyngsø's Fodklinik",
+      "latitude": 55.481887,
+      "longitude": 9.477313
+    },
+    {
+      "name": "Lystrup Fysioterapi",
+      "latitude": 56.233795,
+      "longitude": 10.228034
+    },
+    {
+      "name": "Lægehuset",
+      "latitude": 55.309472,
+      "longitude": 10.581946
+    },
+    {
+      "name": "Lægerne i Karup",
+      "latitude": 56.308275,
+      "longitude": 9.178504
+    },
+    {
+      "name": "Lærkegård Center",
+      "latitude": 55.740302,
+      "longitude": 12.43342
+    },
+    {
+      "name": "Mit Lægehus Rødovre",
+      "latitude": 55.680056,
+      "longitude": 12.45702
+    },
+    {
+      "name": "Mountain Center",
+      "latitude": 55.149751,
+      "longitude": 8.960395
+    },
+    {
+      "name": "Neuroenhed Nord",
+      "latitude": 57.277764,
+      "longitude": 9.949244
+    },
+    {
+      "name": "Neurologisk Forskningsenhed",
+      "latitude": 54.921177,
+      "longitude": 9.780122
+    },
+    {
+      "name": "Psykiatrisk Afdeling Esbjerg",
+      "latitude": 55.493787,
+      "longitude": 8.44219
+    },
+    {
+      "name": "Regionspsykiatri Randers E2",
+      "latitude": 56.472609,
+      "longitude": 10.046759
+    },
+    {
+      "name": "Rygcenter Syddanmark",
+      "latitude": 54.920956,
+      "longitude": 9.780301
+    },
+    {
+      "name": "Sano Skælskør",
+      "latitude": 55.260431,
+      "longitude": 11.282753
+    },
+    {
+      "name": "Saxild Strand",
+      "latitude": 55.969097,
+      "longitude": 10.257058
+    },
+    {
+      "name": "Smertefri.nu",
+      "latitude": 55.73936,
+      "longitude": 12.504738
+    },
+    {
+      "name": "Stigtebo Terapi",
+      "latitude": 55.136325,
+      "longitude": 10.907241
+    },
+    {
+      "name": "Struer Kommunes Midlertidigt Ophold",
+      "latitude": 56.491923,
+      "longitude": 8.572059
+    },
+    {
+      "name": "Sundhedshus Nordmarken",
+      "latitude": 55.64756,
+      "longitude": 12.358911
+    },
+    {
+      "name": "Sundhedshus Vesterbro",
+      "latitude": 55.670716,
+      "longitude": 12.54266
+    },
+    {
+      "name": "Sundograsknu.dk",
+      "latitude": 55.198046,
+      "longitude": 9.211522
+    },
+    {
+      "name": "TandproteseTeamet v/Flemming Finøen",
+      "latitude": 56.376422,
+      "longitude": 9.654803
+    },
+    {
+      "name": "TandproteseTeamet v/Flemming Finøen",
+      "latitude": 56.448637,
+      "longitude": 9.407715
+    },
+    {
+      "name": "TandproteseTeamet v/Flemming Finøen",
+      "latitude": 56.56533,
+      "longitude": 9.026992
+    },
+    {
+      "name": "Thyborøn Fysioterapi",
+      "latitude": 56.69517,
+      "longitude": 8.204202
+    },
+    {
+      "name": "Tjele Tågelund",
+      "latitude": 55.625016,
+      "longitude": 9.247577
+    },
+    {
+      "name": "Vaccinationscenter Holstebro",
+      "latitude": 56.369563,
+      "longitude": 8.607067
+    },
+    {
+      "name": "Vaccinationscenter Horsens",
+      "latitude": 55.858039,
+      "longitude": 9.812899
+    },
+    {
+      "name": "Vanløse Fodterapi",
+      "latitude": 55.684515,
+      "longitude": 12.484731
+    },
+    {
+      "name": "Vejlefjord Rehabiliteringscenter 3. sal h.",
+      "latitude": 55.683817,
+      "longitude": 9.762346
+    },
+    {
+      "name": "Venera Holistic Production",
+      "latitude": 54.902515,
+      "longitude": 12.112962
+    },
+    {
+      "name": "Zoneterapeut Vinnie Kejser Nielsen",
+      "latitude": 56.406302,
+      "longitude": 10.572965
+    },
+    {
+      "name": "Øjencenter Nord",
+      "latitude": 57.333776,
+      "longitude": 10.5023
+    },
+    {
+      "name": "Øjenlægecenter Viborg",
+      "latitude": 56.456301,
+      "longitude": 9.403115
+    }
+  ],
+  "meta": {
+    "title": "Klinikker i Danmark (Clinics in Denmark) - Gratis download",
+    "description": "Clinics in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=clinic. Indeholder 62 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Klinikker i Danmark (Clinics in Denmark) | ListBase",
+    "seo_description": "Download Klinikker i Danmark (Clinics in Denmark) — 62 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 62 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

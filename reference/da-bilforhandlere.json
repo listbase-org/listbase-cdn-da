@@ -1,0 +1,2816 @@
+{
+  "id": "da-bilforhandlere",
+  "name": "Bilforhandlere i Danmark (Car dealerships in Denmark)",
+  "title": "Bilforhandlere i Danmark (Car dealerships in Denmark)",
+  "description": "Car dealerships in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=car.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 555,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1X2 biler",
+      "latitude": 55.29994,
+      "longitude": 11.75702
+    },
+    {
+      "name": "3B biler",
+      "latitude": 55.748423,
+      "longitude": 12.370829
+    },
+    {
+      "name": "A! Biler",
+      "latitude": 55.472437,
+      "longitude": 9.878733
+    },
+    {
+      "name": "A.V. Vejgaard A/S",
+      "latitude": 56.090631,
+      "longitude": 8.239076
+    },
+    {
+      "name": "A/S Mogens Frederiksen Automobiler - Nyborg",
+      "latitude": 55.319213,
+      "longitude": 10.779157
+    },
+    {
+      "name": "A/S Mogens Frederiksen Automobiler - Svendborg",
+      "latitude": 55.069362,
+      "longitude": 10.585084
+    },
+    {
+      "name": "Aalestrup Motor Co. ApS",
+      "latitude": 56.697946,
+      "longitude": 9.491076
+    },
+    {
+      "name": "Aarhus Nord - Toyota",
+      "latitude": 56.208166,
+      "longitude": 10.269866
+    },
+    {
+      "name": "Aas Automobiler",
+      "latitude": 55.624573,
+      "longitude": 8.462658
+    },
+    {
+      "name": "Aaskov Automobiler",
+      "latitude": 55.627916,
+      "longitude": 8.460583
+    },
+    {
+      "name": "ABS Auto",
+      "latitude": 57.455575,
+      "longitude": 10.029247
+    },
+    {
+      "name": "ADS Biler A/S",
+      "latitude": 57.447588,
+      "longitude": 10.503191
+    },
+    {
+      "name": "Albert V. Jensen",
+      "latitude": 55.853099,
+      "longitude": 9.831969
+    },
+    {
+      "name": "Allan Hansen",
+      "latitude": 55.733192,
+      "longitude": 9.700312
+    },
+    {
+      "name": "AM Bilhus",
+      "latitude": 55.627509,
+      "longitude": 8.460827
+    },
+    {
+      "name": "Anders Hansen Automobiler",
+      "latitude": 55.529101,
+      "longitude": 8.452705
+    },
+    {
+      "name": "Anders Petersen Automobiler",
+      "latitude": 56.20368,
+      "longitude": 10.24856
+    },
+    {
+      "name": "Andersen & Martini",
+      "latitude": 55.665515,
+      "longitude": 12.385976
+    },
+    {
+      "name": "Andersen & Martini",
+      "latitude": 55.736409,
+      "longitude": 12.487165
+    },
+    {
+      "name": "Andersen Automobiler",
+      "latitude": 55.242102,
+      "longitude": 9.254842
+    },
+    {
+      "name": "Andersen Biler",
+      "latitude": 55.723453,
+      "longitude": 12.384232
+    },
+    {
+      "name": "Andersen Biler",
+      "latitude": 55.734606,
+      "longitude": 12.476603
+    },
+    {
+      "name": "Andersen Biler Herlev",
+      "latitude": 55.719627,
+      "longitude": 12.451506
+    },
+    {
+      "name": "Arne Stubbe Automobiler A/S",
+      "latitude": 55.64374,
+      "longitude": 12.124682
+    },
+    {
+      "name": "Arne Stubbe Automobiler A/S - Måløv",
+      "latitude": 55.744933,
+      "longitude": 12.327087
+    },
+    {
+      "name": "Aston Martin",
+      "latitude": 55.716458,
+      "longitude": 12.577694
+    },
+    {
+      "name": "Aston Martin",
+      "latitude": 55.717157,
+      "longitude": 12.577607
+    },
+    {
+      "name": "ATbiler A/S - Fredericia",
+      "latitude": 55.5688,
+      "longitude": 9.714707
+    },
+    {
+      "name": "ATbiler A/S - Give",
+      "latitude": 55.854139,
+      "longitude": 9.24683
+    },
+    {
+      "name": "ATbiler A/S - Horsens",
+      "latitude": 55.850931,
+      "longitude": 9.848315
+    },
+    {
+      "name": "ATbiler A/S - Vejle",
+      "latitude": 55.73239,
+      "longitude": 9.596366
+    },
+    {
+      "name": "Au2spot",
+      "latitude": 55.646655,
+      "longitude": 12.50437
+    },
+    {
+      "name": "Audi",
+      "latitude": 55.393282,
+      "longitude": 10.355943
+    },
+    {
+      "name": "Audi",
+      "latitude": 55.540499,
+      "longitude": 9.674214
+    },
+    {
+      "name": "Audi",
+      "latitude": 55.704814,
+      "longitude": 11.673817
+    },
+    {
+      "name": "Audi",
+      "latitude": 55.904734,
+      "longitude": 12.479747
+    },
+    {
+      "name": "Audi Aalborg",
+      "latitude": 57.032386,
+      "longitude": 9.928517
+    },
+    {
+      "name": "Audi Gladsaxe",
+      "latitude": 55.732838,
+      "longitude": 12.460819
+    },
+    {
+      "name": "Aunsbjerg",
+      "latitude": 56.206838,
+      "longitude": 10.265249
+    },
+    {
+      "name": "Auto C",
+      "latitude": 56.452588,
+      "longitude": 10.050954
+    },
+    {
+      "name": "Auto Fjerritslev",
+      "latitude": 57.08858,
+      "longitude": 9.256216
+    },
+    {
+      "name": "Auto-Centralen",
+      "latitude": 57.035366,
+      "longitude": 9.926595
+    },
+    {
+      "name": "Auto-Cramer",
+      "latitude": 55.351526,
+      "longitude": 8.778574
+    },
+    {
+      "name": "Auto-Cramer Bramming",
+      "latitude": 55.467669,
+      "longitude": 8.688403
+    },
+    {
+      "name": "Auto-Huset Skive",
+      "latitude": 56.559193,
+      "longitude": 9.049375
+    },
+    {
+      "name": "Auto-Sørensen",
+      "latitude": 55.485121,
+      "longitude": 12.188981
+    },
+    {
+      "name": "autobasen",
+      "latitude": 56.204694,
+      "longitude": 10.191395
+    },
+    {
+      "name": "Autocentralen",
+      "latitude": 55.517444,
+      "longitude": 9.460834
+    },
+    {
+      "name": "Autocentralen Esbjerg",
+      "latitude": 55.516717,
+      "longitude": 8.469268
+    },
+    {
+      "name": "Autocentralen Hobro",
+      "latitude": 56.654148,
+      "longitude": 9.793967
+    },
+    {
+      "name": "Autocentralen Skive",
+      "latitude": 56.56844,
+      "longitude": 8.994456
+    },
+    {
+      "name": "Autocentralen Viborg",
+      "latitude": 56.463794,
+      "longitude": 9.371974
+    },
+    {
+      "name": "Autocentrum Odense",
+      "latitude": 55.367116,
+      "longitude": 10.372393
+    },
+    {
+      "name": "Autoforum Ringkøbing A/S",
+      "latitude": 56.086337,
+      "longitude": 8.279753
+    },
+    {
+      "name": "Autogården",
+      "latitude": 55.46532,
+      "longitude": 10.02106
+    },
+    {
+      "name": "Autohallen",
+      "latitude": 55.623064,
+      "longitude": 12.601843
+    },
+    {
+      "name": "Autohallen A/S - Kalundborg",
+      "latitude": 55.663169,
+      "longitude": 11.129027
+    },
+    {
+      "name": "Autohallen A/S - Slagelse",
+      "latitude": 55.387334,
+      "longitude": 11.36381
+    },
+    {
+      "name": "Autohjørnet v/Henrik Larsen",
+      "latitude": 55.757013,
+      "longitude": 12.495672
+    },
+    {
+      "name": "Autohuset Bornholm",
+      "latitude": 55.095826,
+      "longitude": 14.711198
+    },
+    {
+      "name": "Autohuset Glostrup",
+      "latitude": 55.663704,
+      "longitude": 12.376012
+    },
+    {
+      "name": "Autohuset Kronsbjerg",
+      "latitude": 55.077417,
+      "longitude": 10.578962
+    },
+    {
+      "name": "Autohuset Kronsbjerg",
+      "latitude": 55.404241,
+      "longitude": 10.355479
+    },
+    {
+      "name": "Autohuset Vanløse",
+      "latitude": 55.693095,
+      "longitude": 12.489296
+    },
+    {
+      "name": "Autohuset Vestergaard",
+      "latitude": 55.356245,
+      "longitude": 10.402361
+    },
+    {
+      "name": "Autohuset Vestergaard",
+      "latitude": 55.3563,
+      "longitude": 10.404222
+    },
+    {
+      "name": "Autohuset Vestergaard",
+      "latitude": 55.361456,
+      "longitude": 10.350103
+    },
+    {
+      "name": "Autohuset Vestergaard",
+      "latitude": 55.55803,
+      "longitude": 9.729074
+    },
+    {
+      "name": "Autohuset Vestergaard",
+      "latitude": 55.845052,
+      "longitude": 9.834973
+    },
+    {
+      "name": "Autohuset Vestergaard Nærum",
+      "latitude": 55.817379,
+      "longitude": 12.529479
+    },
+    {
+      "name": "Autohuset Vestergaard, Hillerød",
+      "latitude": 55.926967,
+      "longitude": 12.262082
+    },
+    {
+      "name": "Autohuset Vestergaard, Lastvogne",
+      "latitude": 55.361781,
+      "longitude": 10.349794
+    },
+    {
+      "name": "Automester - Klokholm Automobiler",
+      "latitude": 55.37742,
+      "longitude": 10.05532
+    },
+    {
+      "name": "autoMUS ApS",
+      "latitude": 56.141343,
+      "longitude": 9.271601
+    },
+    {
+      "name": "Autotjek Herning",
+      "latitude": 56.151311,
+      "longitude": 8.932591
+    },
+    {
+      "name": "Autotorvet ApS",
+      "latitude": 57.100331,
+      "longitude": 10.019016
+    },
+    {
+      "name": "AviBiler",
+      "latitude": 55.612807,
+      "longitude": 8.491364
+    },
+    {
+      "name": "B&D Biler",
+      "latitude": 56.553269,
+      "longitude": 9.086847
+    },
+    {
+      "name": "Bakke Auto",
+      "latitude": 55.498863,
+      "longitude": 8.467718
+    },
+    {
+      "name": "Bakke Auto - Honda",
+      "latitude": 55.492121,
+      "longitude": 8.472102
+    },
+    {
+      "name": "Bakken's Auto",
+      "latitude": 56.169446,
+      "longitude": 9.567908
+    },
+    {
+      "name": "Bayern Auto Group",
+      "latitude": 55.507748,
+      "longitude": 8.470541
+    },
+    {
+      "name": "Bayern Auto Group",
+      "latitude": 57.041976,
+      "longitude": 9.927256
+    },
+    {
+      "name": "Bayern AutoGroup Aarhus",
+      "latitude": 56.18173,
+      "longitude": 10.125901
+    },
+    {
+      "name": "Bayern AutoGroup Odense A/S",
+      "latitude": 55.354079,
+      "longitude": 10.403151
+    },
+    {
+      "name": "BCA Auto Auktion",
+      "latitude": 55.7507,
+      "longitude": 9.593365
+    },
+    {
+      "name": "BEKA AUTO A/S",
+      "latitude": 54.92621,
+      "longitude": 9.790755
+    },
+    {
+      "name": "Bent Pedersen",
+      "latitude": 55.60341,
+      "longitude": 8.497929
+    },
+    {
+      "name": "Bent Pedersen - Esbjerg Hedelundvej",
+      "latitude": 55.482841,
+      "longitude": 8.49607
+    },
+    {
+      "name": "Bent Pedersen - Storegade",
+      "latitude": 55.48042,
+      "longitude": 8.495679
+    },
+    {
+      "name": "Bentley",
+      "latitude": 55.706346,
+      "longitude": 12.543465
+    },
+    {
+      "name": "Bespoke cars",
+      "latitude": 56.231315,
+      "longitude": 10.238907
+    },
+    {
+      "name": "Bil & Co A/S",
+      "latitude": 54.92354,
+      "longitude": 9.790625
+    },
+    {
+      "name": "Bil & Co. A/S - Aabenraa",
+      "latitude": 55.020926,
+      "longitude": 9.43322
+    },
+    {
+      "name": "Bil & Co. A/S - Haderslev",
+      "latitude": 55.265219,
+      "longitude": 9.497109
+    },
+    {
+      "name": "Bil & Co. A/S - Kolding",
+      "latitude": 55.465172,
+      "longitude": 9.473314
+    },
+    {
+      "name": "Bil-Centrum Ole Garner",
+      "latitude": 56.109237,
+      "longitude": 8.97785
+    },
+    {
+      "name": "BilButikken",
+      "latitude": 56.390538,
+      "longitude": 10.875284
+    },
+    {
+      "name": "Bilbutikken A/S - Randers",
+      "latitude": 56.443183,
+      "longitude": 10.074141
+    },
+    {
+      "name": "Bilcentret",
+      "latitude": 55.65912,
+      "longitude": 12.308003
+    },
+    {
+      "name": "Bilcentret Peer Glad A/S",
+      "latitude": 55.672033,
+      "longitude": 11.109574
+    },
+    {
+      "name": "Bilerne.com",
+      "latitude": 56.655103,
+      "longitude": 9.792936
+    },
+    {
+      "name": "Bilernes Hus A/S",
+      "latitude": 56.188115,
+      "longitude": 9.554302
+    },
+    {
+      "name": "Bilfabrik.dk",
+      "latitude": 55.347169,
+      "longitude": 10.402674
+    },
+    {
+      "name": "Bilgaarden Vejle",
+      "latitude": 55.654002,
+      "longitude": 9.592749
+    },
+    {
+      "name": "Bilgaragen",
+      "latitude": 55.041534,
+      "longitude": 10.611737
+    },
+    {
+      "name": "Bilgruppen.dk",
+      "latitude": 55.643285,
+      "longitude": 12.107053
+    },
+    {
+      "name": "Bilhuset Arnum",
+      "latitude": 55.245467,
+      "longitude": 8.967869
+    },
+    {
+      "name": "Bilhuset Elmer",
+      "latitude": 55.097274,
+      "longitude": 14.715088
+    },
+    {
+      "name": "Bilhuset Elmer Amager",
+      "latitude": 55.615392,
+      "longitude": 12.611063
+    },
+    {
+      "name": "Bilhuset Esbjerg A/S",
+      "latitude": 55.463862,
+      "longitude": 8.459115
+    },
+    {
+      "name": "Bilhuset Haldrup",
+      "latitude": 56.625249,
+      "longitude": 9.803538
+    },
+    {
+      "name": "Bilhuset Midtsjælland ApS",
+      "latitude": 55.639165,
+      "longitude": 11.831711
+    },
+    {
+      "name": "Bilscenen",
+      "latitude": 55.60692,
+      "longitude": 8.497612
+    },
+    {
+      "name": "Bin2Bil",
+      "latitude": 55.386983,
+      "longitude": 11.322744
+    },
+    {
+      "name": "Bin2Bil",
+      "latitude": 55.706622,
+      "longitude": 11.675454
+    },
+    {
+      "name": "Bjarne Nielsen",
+      "latitude": 56.133924,
+      "longitude": 9.004732
+    },
+    {
+      "name": "Bjarne Nielsen",
+      "latitude": 56.360781,
+      "longitude": 8.652442
+    },
+    {
+      "name": "Bjarne Nielsen - Ford & Hyundai",
+      "latitude": 55.480183,
+      "longitude": 8.498705
+    },
+    {
+      "name": "Bjarne Nielsen - Renault, Dacia & Volvo",
+      "latitude": 55.480842,
+      "longitude": 8.498024
+    },
+    {
+      "name": "Bjarne Nielsen Skive",
+      "latitude": 56.570663,
+      "longitude": 9.001893
+    },
+    {
+      "name": "Bjerrum Biler",
+      "latitude": 56.476304,
+      "longitude": 8.579756
+    },
+    {
+      "name": "Blom Biler",
+      "latitude": 56.052894,
+      "longitude": 9.950585
+    },
+    {
+      "name": "Blue Cars",
+      "latitude": 56.180141,
+      "longitude": 10.12361
+    },
+    {
+      "name": "BO Kjeldsmark Automobiler",
+      "latitude": 55.693354,
+      "longitude": 12.432264
+    },
+    {
+      "name": "Borup Bilcenter",
+      "latitude": 55.491648,
+      "longitude": 11.975357
+    },
+    {
+      "name": "Bramming Camper",
+      "latitude": 55.465052,
+      "longitude": 8.674778
+    },
+    {
+      "name": "Brdr. Hosbond",
+      "latitude": 57.030089,
+      "longitude": 9.975345
+    },
+    {
+      "name": "Brdr. Hosbond A/S",
+      "latitude": 57.456608,
+      "longitude": 10.040396
+    },
+    {
+      "name": "Brdr. Jensen Sales ApS",
+      "latitude": 56.156068,
+      "longitude": 9.817208
+    },
+    {
+      "name": "Bredebro Automobiler",
+      "latitude": 55.046049,
+      "longitude": 8.826461
+    },
+    {
+      "name": "Burgaard Sørensen - Isuzu",
+      "latitude": 55.50286,
+      "longitude": 8.406529
+    },
+    {
+      "name": "Burgaard Sørensen - Peugeot",
+      "latitude": 55.502794,
+      "longitude": 8.407367
+    },
+    {
+      "name": "BYD",
+      "latitude": 55.380339,
+      "longitude": 10.424716
+    },
+    {
+      "name": "BYD",
+      "latitude": 55.620795,
+      "longitude": 12.60443
+    },
+    {
+      "name": "Byens Autocenter",
+      "latitude": 55.929108,
+      "longitude": 12.286032
+    },
+    {
+      "name": "Bygholm Biler",
+      "latitude": 55.856274,
+      "longitude": 9.770493
+    },
+    {
+      "name": "Bøje & Brøchner a/s",
+      "latitude": 55.716431,
+      "longitude": 9.127183
+    },
+    {
+      "name": "Børge Hansen Automobiler",
+      "latitude": 56.047704,
+      "longitude": 9.939478
+    },
+    {
+      "name": "Børge Pedersen Automobiler A/S - Næstved",
+      "latitude": 55.25248,
+      "longitude": 11.793302
+    },
+    {
+      "name": "C. A. Larsen",
+      "latitude": 55.413485,
+      "longitude": 10.341897
+    },
+    {
+      "name": "C.A.J. Biler",
+      "latitude": 55.470325,
+      "longitude": 8.495382
+    },
+    {
+      "name": "Camping Parken",
+      "latitude": 56.149154,
+      "longitude": 8.934389
+    },
+    {
+      "name": "Car House",
+      "latitude": 55.723867,
+      "longitude": 12.376438
+    },
+    {
+      "name": "CB  Auto  Erhverv",
+      "latitude": 55.35486,
+      "longitude": 8.775144
+    },
+    {
+      "name": "CB Auto",
+      "latitude": 55.355065,
+      "longitude": 8.773066
+    },
+    {
+      "name": "Cc-Cars",
+      "latitude": 56.310383,
+      "longitude": 9.563512
+    },
+    {
+      "name": "Centrum Biler Haderslev",
+      "latitude": 55.23649,
+      "longitude": 9.503924
+    },
+    {
+      "name": "CH Bilhus",
+      "latitude": 55.355651,
+      "longitude": 9.190874
+    },
+    {
+      "name": "Citroen",
+      "latitude": 55.282851,
+      "longitude": 9.06107
+    },
+    {
+      "name": "Citroén",
+      "latitude": 55.472726,
+      "longitude": 9.143054
+    },
+    {
+      "name": "Citroën Center Birkerød",
+      "latitude": 55.8403,
+      "longitude": 12.438744
+    },
+    {
+      "name": "Cupra",
+      "latitude": 55.393895,
+      "longitude": 10.357224
+    },
+    {
+      "name": "Cupra",
+      "latitude": 55.704768,
+      "longitude": 11.673962
+    },
+    {
+      "name": "Cupra & Seat",
+      "latitude": 56.204811,
+      "longitude": 10.257893
+    },
+    {
+      "name": "CVK Automobiler",
+      "latitude": 55.623025,
+      "longitude": 12.601515
+    },
+    {
+      "name": "Dacia",
+      "latitude": 56.335966,
+      "longitude": 8.645797
+    },
+    {
+      "name": "Dahl Pedersen",
+      "latitude": 56.335786,
+      "longitude": 8.646132
+    },
+    {
+      "name": "Dahl Pedersen",
+      "latitude": 56.563266,
+      "longitude": 9.037084
+    },
+    {
+      "name": "Dalsgaard Biler A/S",
+      "latitude": 57.45646,
+      "longitude": 10.027518
+    },
+    {
+      "name": "Damsgaard Biler",
+      "latitude": 55.476027,
+      "longitude": 8.591679
+    },
+    {
+      "name": "Damtop Biler",
+      "latitude": 55.536348,
+      "longitude": 9.715644
+    },
+    {
+      "name": "DanCamper",
+      "latitude": 55.834831,
+      "longitude": 9.792097
+    },
+    {
+      "name": "Daugaard Biler",
+      "latitude": 55.693878,
+      "longitude": 12.4194
+    },
+    {
+      "name": "Daugaard Biler",
+      "latitude": 55.705693,
+      "longitude": 12.545793
+    },
+    {
+      "name": "De Gamles Hjem",
+      "latitude": 55.711671,
+      "longitude": 9.221999
+    },
+    {
+      "name": "Delta Biler",
+      "latitude": 55.482635,
+      "longitude": 12.126126
+    },
+    {
+      "name": "Donica Biler ApS",
+      "latitude": 55.53187,
+      "longitude": 9.703973
+    },
+    {
+      "name": "Dragsholm Bilsalg",
+      "latitude": 55.80373,
+      "longitude": 11.438801
+    },
+    {
+      "name": "Egå Autoværksted",
+      "latitude": 56.214366,
+      "longitude": 10.266449
+    },
+    {
+      "name": "EJ Biler",
+      "latitude": 55.07556,
+      "longitude": 9.210166
+    },
+    {
+      "name": "Ejner Hessel",
+      "latitude": 55.394938,
+      "longitude": 10.354449
+    },
+    {
+      "name": "Ejner Hessel",
+      "latitude": 55.645616,
+      "longitude": 12.504458
+    },
+    {
+      "name": "Ejner Hessel",
+      "latitude": 55.723339,
+      "longitude": 9.571711
+    },
+    {
+      "name": "Ejner Hessel",
+      "latitude": 56.158162,
+      "longitude": 8.970114
+    },
+    {
+      "name": "Ejner Hessel",
+      "latitude": 56.180645,
+      "longitude": 10.121352
+    },
+    {
+      "name": "Ejner Hessel",
+      "latitude": 56.181118,
+      "longitude": 10.118499
+    },
+    {
+      "name": "Ejner Hessel",
+      "latitude": 56.18624,
+      "longitude": 9.571595
+    },
+    {
+      "name": "Ejner Hessel",
+      "latitude": 57.461607,
+      "longitude": 10.018419
+    },
+    {
+      "name": "Ejner Hessel Kastrup",
+      "latitude": 55.616658,
+      "longitude": 12.609109
+    },
+    {
+      "name": "Ejner Hessel Roskilde",
+      "latitude": 55.645286,
+      "longitude": 12.143136
+    },
+    {
+      "name": "Ejvind Larsen",
+      "latitude": 55.839031,
+      "longitude": 8.889391
+    },
+    {
+      "name": "EK Biler",
+      "latitude": 55.686635,
+      "longitude": 9.024251
+    },
+    {
+      "name": "Eleter Biler ApS",
+      "latitude": 55.546201,
+      "longitude": 9.695643
+    },
+    {
+      "name": "Engelbrecht Biler ApS",
+      "latitude": 55.499501,
+      "longitude": 9.768965
+    },
+    {
+      "name": "EP Engros",
+      "latitude": 55.487545,
+      "longitude": 12.190229
+    },
+    {
+      "name": "ERA Biler",
+      "latitude": 55.933794,
+      "longitude": 12.268204
+    },
+    {
+      "name": "Era Biler A/S - Helsinge",
+      "latitude": 56.017154,
+      "longitude": 12.198521
+    },
+    {
+      "name": "Era Biler Frederikssund",
+      "latitude": 55.824128,
+      "longitude": 12.090512
+    },
+    {
+      "name": "Erik Maibom A/S",
+      "latitude": 57.024985,
+      "longitude": 9.913891
+    },
+    {
+      "name": "Erling Høi-Nielsen",
+      "latitude": 54.925787,
+      "longitude": 9.788965
+    },
+    {
+      "name": "Ernst Jensen Biler",
+      "latitude": 56.558918,
+      "longitude": 9.050035
+    },
+    {
+      "name": "Esbjerg Auto",
+      "latitude": 55.464067,
+      "longitude": 8.486126
+    },
+    {
+      "name": "Esline Auto",
+      "latitude": 56.195643,
+      "longitude": 9.566508
+    },
+    {
+      "name": "Euromaster",
+      "latitude": 54.92343,
+      "longitude": 9.796513
+    },
+    {
+      "name": "Euromaster",
+      "latitude": 57.004805,
+      "longitude": 9.879851
+    },
+    {
+      "name": "F.S. Automobiler",
+      "latitude": 56.585142,
+      "longitude": 9.498751
+    },
+    {
+      "name": "Finn Allan Eriksen automobiler A/S",
+      "latitude": 56.175767,
+      "longitude": 10.143756
+    },
+    {
+      "name": "Ford",
+      "latitude": 55.706236,
+      "longitude": 11.675787
+    },
+    {
+      "name": "Ford",
+      "latitude": 56.176075,
+      "longitude": 10.146506
+    },
+    {
+      "name": "Ford",
+      "latitude": 56.789386,
+      "longitude": 8.829241
+    },
+    {
+      "name": "Ford Brdr. Hosbond",
+      "latitude": 57.259673,
+      "longitude": 9.967922
+    },
+    {
+      "name": "Ford Brdr. Hosbond A/S",
+      "latitude": 57.418602,
+      "longitude": 10.52315
+    },
+    {
+      "name": "Ford Hadsund",
+      "latitude": 56.730938,
+      "longitude": 10.105173
+    },
+    {
+      "name": "Fredericia Auto-service",
+      "latitude": 55.530586,
+      "longitude": 9.717312
+    },
+    {
+      "name": "Fredericia Automobiler",
+      "latitude": 55.569035,
+      "longitude": 9.72252
+    },
+    {
+      "name": "Fredericia Bilhus",
+      "latitude": 55.56965,
+      "longitude": 9.721892
+    },
+    {
+      "name": "Frikke Automobiler",
+      "latitude": 55.530072,
+      "longitude": 8.449861
+    },
+    {
+      "name": "Frimann Biler A/S - Maribo",
+      "latitude": 54.780174,
+      "longitude": 11.514414
+    },
+    {
+      "name": "Frimann Biler, Nyk F.",
+      "latitude": 54.779584,
+      "longitude": 11.882783
+    },
+    {
+      "name": "Fromms Autoservice",
+      "latitude": 54.893502,
+      "longitude": 9.673795
+    },
+    {
+      "name": "Fårevejle Auto- & Pladeværksted",
+      "latitude": 55.804972,
+      "longitude": 11.434863
+    },
+    {
+      "name": "G. Bech-Hansen A/S",
+      "latitude": 56.093149,
+      "longitude": 8.242401
+    },
+    {
+      "name": "Gadeberg Auto",
+      "latitude": 55.593381,
+      "longitude": 9.756547
+    },
+    {
+      "name": "Glejbjerg Autoværksted",
+      "latitude": 55.558573,
+      "longitude": 8.824993
+    },
+    {
+      "name": "GO Biler",
+      "latitude": 56.035782,
+      "longitude": 8.865315
+    },
+    {
+      "name": "GR Biler",
+      "latitude": 56.56751,
+      "longitude": 9.000004
+    },
+    {
+      "name": "Grindsted Autogenbrug",
+      "latitude": 55.73275,
+      "longitude": 8.898791
+    },
+    {
+      "name": "Grome Auto",
+      "latitude": 55.817603,
+      "longitude": 12.375068
+    },
+    {
+      "name": "Gråskov Biler",
+      "latitude": 55.418197,
+      "longitude": 10.302831
+    },
+    {
+      "name": "Gunnar Carlsen & Søn",
+      "latitude": 57.445301,
+      "longitude": 10.532486
+    },
+    {
+      "name": "Gunner Due Biler A/S",
+      "latitude": 55.474721,
+      "longitude": 12.18467
+    },
+    {
+      "name": "Gørding Autohandel",
+      "latitude": 55.467574,
+      "longitude": 8.795856
+    },
+    {
+      "name": "Gørløse Autoimport",
+      "latitude": 55.849544,
+      "longitude": 12.157283
+    },
+    {
+      "name": "H. J. Nielsen",
+      "latitude": 57.096633,
+      "longitude": 9.293073
+    },
+    {
+      "name": "HAC Biler",
+      "latitude": 56.086719,
+      "longitude": 8.268264
+    },
+    {
+      "name": "Hammer Biler",
+      "latitude": 56.650504,
+      "longitude": 9.795069
+    },
+    {
+      "name": "Heiselberg Auto",
+      "latitude": 55.497437,
+      "longitude": 8.53096
+    },
+    {
+      "name": "Helas",
+      "latitude": 55.596907,
+      "longitude": 9.632721
+    },
+    {
+      "name": "Henning Bloch Autoservice",
+      "latitude": 55.468639,
+      "longitude": 8.803449
+    },
+    {
+      "name": "Henrik Christensen",
+      "latitude": 55.529831,
+      "longitude": 9.716998
+    },
+    {
+      "name": "Henrik Hansen Automobiler",
+      "latitude": 54.998104,
+      "longitude": 12.006327
+    },
+    {
+      "name": "Henrik Larsen Automobiler",
+      "latitude": 55.711802,
+      "longitude": 12.555134
+    },
+    {
+      "name": "Henrik Wessel AS",
+      "latitude": 55.770528,
+      "longitude": 12.515333
+    },
+    {
+      "name": "Herlev Biler",
+      "latitude": 55.725861,
+      "longitude": 12.418526
+    },
+    {
+      "name": "Hindsgaul Biler",
+      "latitude": 55.503661,
+      "longitude": 9.75729
+    },
+    {
+      "name": "HJ Biler",
+      "latitude": 56.569915,
+      "longitude": 9.00131
+    },
+    {
+      "name": "Holmland Biler ApS",
+      "latitude": 56.137895,
+      "longitude": 9.142326
+    },
+    {
+      "name": "Holsted Auto & Dækservice",
+      "latitude": 55.493205,
+      "longitude": 8.915786
+    },
+    {
+      "name": "Holsted Biler",
+      "latitude": 55.52253,
+      "longitude": 8.90606
+    },
+    {
+      "name": "Honda",
+      "latitude": 56.133187,
+      "longitude": 8.907493
+    },
+    {
+      "name": "Honda Glejbjerg",
+      "latitude": 55.551418,
+      "longitude": 8.823362
+    },
+    {
+      "name": "Honda Motor Europe - Denmark",
+      "latitude": 55.533475,
+      "longitude": 9.478213
+    },
+    {
+      "name": "Hou Auto v/Ole Steen Jensen",
+      "latitude": 57.058411,
+      "longitude": 10.349806
+    },
+    {
+      "name": "Hovedvejens Autocenter",
+      "latitude": 55.050276,
+      "longitude": 8.829106
+    },
+    {
+      "name": "HTC Biler",
+      "latitude": 56.334258,
+      "longitude": 10.032665
+    },
+    {
+      "name": "Husby Ny Auto",
+      "latitude": 56.280427,
+      "longitude": 8.179382
+    },
+    {
+      "name": "Hyundai",
+      "latitude": 55.706491,
+      "longitude": 12.544225
+    },
+    {
+      "name": "Højland Biler",
+      "latitude": 56.964983,
+      "longitude": 8.726352
+    },
+    {
+      "name": "Høyer Automobiler",
+      "latitude": 55.357969,
+      "longitude": 10.398817
+    },
+    {
+      "name": "Idé Biler Skjern A/S",
+      "latitude": 55.954062,
+      "longitude": 8.513572
+    },
+    {
+      "name": "Indkilde Auto",
+      "latitude": 57.01662,
+      "longitude": 9.896074
+    },
+    {
+      "name": "J. Dawall & Sønner",
+      "latitude": 55.788802,
+      "longitude": 12.473927
+    },
+    {
+      "name": "J.B. Biler",
+      "latitude": 56.271427,
+      "longitude": 8.315343
+    },
+    {
+      "name": "Jakob Automobiler",
+      "latitude": 56.218886,
+      "longitude": 10.168132
+    },
+    {
+      "name": "Jens Buus Biler",
+      "latitude": 56.802793,
+      "longitude": 9.529181
+    },
+    {
+      "name": "Jensen & Nørgaard",
+      "latitude": 55.761129,
+      "longitude": 8.912834
+    },
+    {
+      "name": "Jensen Bike & Cars",
+      "latitude": 57.076716,
+      "longitude": 9.954064
+    },
+    {
+      "name": "Jensen Biler",
+      "latitude": 55.521476,
+      "longitude": 8.769127
+    },
+    {
+      "name": "Jensen Bilsalg",
+      "latitude": 56.422061,
+      "longitude": 8.812242
+    },
+    {
+      "name": "Jes P. Jessen",
+      "latitude": 55.046841,
+      "longitude": 9.422941
+    },
+    {
+      "name": "Johs. Jørgensen & Sønner",
+      "latitude": 54.690331,
+      "longitude": 11.574644
+    },
+    {
+      "name": "Junges Automobiler",
+      "latitude": 56.249409,
+      "longitude": 10.071529
+    },
+    {
+      "name": "Jørgen Hansen Biler",
+      "latitude": 55.161985,
+      "longitude": 8.765016
+    },
+    {
+      "name": "Jørgen Hansen Biler",
+      "latitude": 55.502413,
+      "longitude": 8.406398
+    },
+    {
+      "name": "Jørgen Hansen Biler A/S",
+      "latitude": 55.162534,
+      "longitude": 8.764589
+    },
+    {
+      "name": "Jørgen Jensen Automobiler",
+      "latitude": 56.104833,
+      "longitude": 8.221995
+    },
+    {
+      "name": "Jørgen Laursen",
+      "latitude": 56.565563,
+      "longitude": 8.999386
+    },
+    {
+      "name": "K2 Biler",
+      "latitude": 55.724392,
+      "longitude": 12.381545
+    },
+    {
+      "name": "Kaa Auto",
+      "latitude": 56.257587,
+      "longitude": 9.861284
+    },
+    {
+      "name": "Kaj From Automobiler",
+      "latitude": 55.66599,
+      "longitude": 12.417554
+    },
+    {
+      "name": "Karvil Biler Middelfart A/S",
+      "latitude": 55.496642,
+      "longitude": 9.767736
+    },
+    {
+      "name": "KH Automobiler A/S",
+      "latitude": 55.952438,
+      "longitude": 8.515496
+    },
+    {
+      "name": "Kia",
+      "latitude": 55.931437,
+      "longitude": 12.286334
+    },
+    {
+      "name": "Kia",
+      "latitude": 56.150772,
+      "longitude": 8.934662
+    },
+    {
+      "name": "Kia Ballerup - Andersen & Martini A/S",
+      "latitude": 55.722766,
+      "longitude": 12.379546
+    },
+    {
+      "name": "KIA Carl Edelholt",
+      "latitude": 55.851955,
+      "longitude": 9.845305
+    },
+    {
+      "name": "Kia Motors",
+      "latitude": 57.024924,
+      "longitude": 9.915038
+    },
+    {
+      "name": "Kinnerup Autokommision A/S",
+      "latitude": 57.129679,
+      "longitude": 10.075728
+    },
+    {
+      "name": "Kiri Automobiler",
+      "latitude": 56.31902,
+      "longitude": 10.042203
+    },
+    {
+      "name": "Kirkedalens Auto",
+      "latitude": 55.774525,
+      "longitude": 9.929097
+    },
+    {
+      "name": "Kjær Jensen Automobiler",
+      "latitude": 55.465761,
+      "longitude": 8.496609
+    },
+    {
+      "name": "Kjærsgaard Auto Aalborg A/S",
+      "latitude": 57.032048,
+      "longitude": 9.924132
+    },
+    {
+      "name": "Kjølbys Auto",
+      "latitude": 55.38708,
+      "longitude": 10.19619
+    },
+    {
+      "name": "Kock Biler A/S",
+      "latitude": 56.110084,
+      "longitude": 10.12849
+    },
+    {
+      "name": "Koring & Lund",
+      "latitude": 55.097037,
+      "longitude": 14.716607
+    },
+    {
+      "name": "Korskro Biler",
+      "latitude": 55.52424,
+      "longitude": 8.58948
+    },
+    {
+      "name": "KP Autohandel",
+      "latitude": 57.323423,
+      "longitude": 10.383598
+    },
+    {
+      "name": "Kraft Biler",
+      "latitude": 55.531825,
+      "longitude": 9.715462
+    },
+    {
+      "name": "Kris Petersen",
+      "latitude": 55.46105,
+      "longitude": 9.881789
+    },
+    {
+      "name": "Krogsgaard - Jensen A/S",
+      "latitude": 55.705276,
+      "longitude": 12.545425
+    },
+    {
+      "name": "Krogsgaard-Jensen",
+      "latitude": 55.843343,
+      "longitude": 12.436459
+    },
+    {
+      "name": "Krogsgaard-Jensen Biler A/S - Gentofte",
+      "latitude": 55.754186,
+      "longitude": 12.535051
+    },
+    {
+      "name": "Krogsgaard-Jensen Biler A/S - Rødovre",
+      "latitude": 55.694539,
+      "longitude": 12.432343
+    },
+    {
+      "name": "Kronbiler Hinnerup",
+      "latitude": 56.248762,
+      "longitude": 10.072144
+    },
+    {
+      "name": "KT-S Biler",
+      "latitude": 55.506642,
+      "longitude": 9.453188
+    },
+    {
+      "name": "Kvalitetsbiler.dk",
+      "latitude": 55.843651,
+      "longitude": 9.49862
+    },
+    {
+      "name": "Lars E. Alrø Automobiler",
+      "latitude": 55.709645,
+      "longitude": 9.545332
+    },
+    {
+      "name": "Lars Hein Automobiler",
+      "latitude": 55.35755,
+      "longitude": 8.773382
+    },
+    {
+      "name": "Leif Biler",
+      "latitude": 55.34736,
+      "longitude": 8.778135
+    },
+    {
+      "name": "Leonhard Biler",
+      "latitude": 54.902502,
+      "longitude": 9.513905
+    },
+    {
+      "name": "Lexus København",
+      "latitude": 55.731958,
+      "longitude": 12.461026
+    },
+    {
+      "name": "Lihn & Boi A/S - Hobro",
+      "latitude": 56.625388,
+      "longitude": 9.806942
+    },
+    {
+      "name": "Lillebælt Auto",
+      "latitude": 55.498754,
+      "longitude": 9.761624
+    },
+    {
+      "name": "Lindholm Biler",
+      "latitude": 56.417099,
+      "longitude": 9.410483
+    },
+    {
+      "name": "Lindholm Collection",
+      "latitude": 56.418446,
+      "longitude": 9.408584
+    },
+    {
+      "name": "Linding Biler A/S",
+      "latitude": 55.601504,
+      "longitude": 8.500173
+    },
+    {
+      "name": "LK Biler",
+      "latitude": 55.61264,
+      "longitude": 11.76164
+    },
+    {
+      "name": "LN Bilcenter",
+      "latitude": 55.554203,
+      "longitude": 12.118998
+    },
+    {
+      "name": "Louis Lund - Esbjerg",
+      "latitude": 55.486097,
+      "longitude": 8.496225
+    },
+    {
+      "name": "Louis Lund - Varde",
+      "latitude": 55.600729,
+      "longitude": 8.497693
+    },
+    {
+      "name": "Louis Lund A/S - Ribe",
+      "latitude": 55.355818,
+      "longitude": 8.774872
+    },
+    {
+      "name": "Lund & Olsen A/S",
+      "latitude": 55.840806,
+      "longitude": 12.439689
+    },
+    {
+      "name": "Lunds Auto",
+      "latitude": 55.665232,
+      "longitude": 12.578292
+    },
+    {
+      "name": "Lyngsø Biler",
+      "latitude": 55.477416,
+      "longitude": 9.469479
+    },
+    {
+      "name": "Læborg Autohandel",
+      "latitude": 55.49261,
+      "longitude": 9.133963
+    },
+    {
+      "name": "Løkkes biler",
+      "latitude": 55.42112,
+      "longitude": 10.28273
+    },
+    {
+      "name": "MA-bihandel",
+      "latitude": 55.753241,
+      "longitude": 8.97011
+    },
+    {
+      "name": "MAN Odense A/S",
+      "latitude": 55.35591,
+      "longitude": 10.332609
+    },
+    {
+      "name": "MAN Truck & Bus",
+      "latitude": 55.510255,
+      "longitude": 8.495925
+    },
+    {
+      "name": "Martin Kristensen Biler ApS",
+      "latitude": 55.727914,
+      "longitude": 9.579255
+    },
+    {
+      "name": "Max Due A/S",
+      "latitude": 55.47386,
+      "longitude": 12.185123
+    },
+    {
+      "name": "Mazda",
+      "latitude": 55.706458,
+      "longitude": 11.676028
+    },
+    {
+      "name": "Mazda",
+      "latitude": 56.190125,
+      "longitude": 9.559616
+    },
+    {
+      "name": "Mazda",
+      "latitude": 56.625027,
+      "longitude": 9.803888
+    },
+    {
+      "name": "Mehlsen Automobiler A/S",
+      "latitude": 55.253795,
+      "longitude": 10.239188
+    },
+    {
+      "name": "Meiniche",
+      "latitude": 56.371173,
+      "longitude": 8.626418
+    },
+    {
+      "name": "Meng Biler",
+      "latitude": 55.543741,
+      "longitude": 9.689631
+    },
+    {
+      "name": "Mercedes Benz",
+      "latitude": 55.6504,
+      "longitude": 12.539335
+    },
+    {
+      "name": "Mercedes-Benz CPH Herlev",
+      "latitude": 55.731781,
+      "longitude": 12.462832
+    },
+    {
+      "name": "MH Biler",
+      "latitude": 55.41439,
+      "longitude": 10.34188
+    },
+    {
+      "name": "Michaels Automobiler",
+      "latitude": 55.604709,
+      "longitude": 8.496811
+    },
+    {
+      "name": "Midtbornholms Auto",
+      "latitude": 55.073775,
+      "longitude": 14.909597
+    },
+    {
+      "name": "Midtjysk Bilhus",
+      "latitude": 56.38586,
+      "longitude": 8.619096
+    },
+    {
+      "name": "Mini-corner Automobiler",
+      "latitude": 55.684245,
+      "longitude": 12.493865
+    },
+    {
+      "name": "Mitsubishi",
+      "latitude": 56.336112,
+      "longitude": 8.6455
+    },
+    {
+      "name": "MK Biler",
+      "latitude": 56.364082,
+      "longitude": 8.689495
+    },
+    {
+      "name": "Mogens Schelde Hansen",
+      "latitude": 55.375347,
+      "longitude": 9.056157
+    },
+    {
+      "name": "Mogens Schelde Hansen",
+      "latitude": 55.465633,
+      "longitude": 9.134288
+    },
+    {
+      "name": "Motorgården",
+      "latitude": 56.563044,
+      "longitude": 9.038299
+    },
+    {
+      "name": "MP Biler",
+      "latitude": 56.1781,
+      "longitude": 10.137417
+    },
+    {
+      "name": "MTH Biler A/S - Brovst",
+      "latitude": 57.110616,
+      "longitude": 9.590839
+    },
+    {
+      "name": "MTH Biler A/S - Løgstør",
+      "latitude": 56.969887,
+      "longitude": 9.279096
+    },
+    {
+      "name": "MTH Biler A/S - Nykøbing Mors",
+      "latitude": 56.785557,
+      "longitude": 8.845466
+    },
+    {
+      "name": "MTH Biler A/S - Thisted",
+      "latitude": 56.936488,
+      "longitude": 8.645372
+    },
+    {
+      "name": "MTH Biler A/S - Års",
+      "latitude": 56.806358,
+      "longitude": 9.502767
+    },
+    {
+      "name": "Munich Cars",
+      "latitude": 55.49671,
+      "longitude": 9.771598
+    },
+    {
+      "name": "N. Kjær Bilcentret",
+      "latitude": 55.073091,
+      "longitude": 10.582699
+    },
+    {
+      "name": "NBC Jels Camper",
+      "latitude": 55.357449,
+      "longitude": 9.188104
+    },
+    {
+      "name": "Nellemann",
+      "latitude": 56.114116,
+      "longitude": 10.133822
+    },
+    {
+      "name": "Nellemann Roskilde",
+      "latitude": 55.643628,
+      "longitude": 12.123437
+    },
+    {
+      "name": "Neltoft Gruppen",
+      "latitude": 55.239965,
+      "longitude": 10.487982
+    },
+    {
+      "name": "NEMBiler",
+      "latitude": 56.318151,
+      "longitude": 10.037585
+    },
+    {
+      "name": "Netto Biler A/S",
+      "latitude": 56.154472,
+      "longitude": 9.638568
+    },
+    {
+      "name": "Next Mobility",
+      "latitude": 54.918115,
+      "longitude": 9.805135
+    },
+    {
+      "name": "Niels H. Ebdrup A/S",
+      "latitude": 55.699933,
+      "longitude": 11.724252
+    },
+    {
+      "name": "Nielsen Biler",
+      "latitude": 55.527147,
+      "longitude": 8.458734
+    },
+    {
+      "name": "Nissan",
+      "latitude": 56.336446,
+      "longitude": 8.645056
+    },
+    {
+      "name": "NO Jensen",
+      "latitude": 57.034697,
+      "longitude": 9.923299
+    },
+    {
+      "name": "Novabil Frederikshavn",
+      "latitude": 57.446466,
+      "longitude": 10.497522
+    },
+    {
+      "name": "NS Auto",
+      "latitude": 55.507571,
+      "longitude": 8.415159
+    },
+    {
+      "name": "Nyby Larsen Tøving",
+      "latitude": 56.852474,
+      "longitude": 8.781874
+    },
+    {
+      "name": "Nøhrs Bilcenter",
+      "latitude": 55.623735,
+      "longitude": 12.605047
+    },
+    {
+      "name": "OHA Biler",
+      "latitude": 55.383317,
+      "longitude": 10.436975
+    },
+    {
+      "name": "Ola Nissum Automobiler",
+      "latitude": 55.915643,
+      "longitude": 10.053705
+    },
+    {
+      "name": "Ole Garner Automobiler",
+      "latitude": 56.155214,
+      "longitude": 8.929025
+    },
+    {
+      "name": "Ole Winther Auto",
+      "latitude": 56.150034,
+      "longitude": 9.495738
+    },
+    {
+      "name": "Oluf Østergaard AutoMobiler",
+      "latitude": 56.347193,
+      "longitude": 8.61165
+    },
+    {
+      "name": "Opel",
+      "latitude": 56.150522,
+      "longitude": 8.934827
+    },
+    {
+      "name": "Opel",
+      "latitude": 57.025037,
+      "longitude": 9.915447
+    },
+    {
+      "name": "Opel",
+      "latitude": 57.456209,
+      "longitude": 9.999899
+    },
+    {
+      "name": "Opel Ballerup - Andersen & Martini A/S",
+      "latitude": 55.722818,
+      "longitude": 12.380364
+    },
+    {
+      "name": "Orlas Auto",
+      "latitude": 55.806858,
+      "longitude": 9.763272
+    },
+    {
+      "name": "Outzen Bilcenter",
+      "latitude": 55.239975,
+      "longitude": 10.486645
+    },
+    {
+      "name": "Ovesen Biler ApS",
+      "latitude": 56.887913,
+      "longitude": 10.111804
+    },
+    {
+      "name": "P. Christensen",
+      "latitude": 54.834355,
+      "longitude": 9.3457
+    },
+    {
+      "name": "P. Christensen",
+      "latitude": 55.350325,
+      "longitude": 10.415785
+    },
+    {
+      "name": "P. Christensen A/S",
+      "latitude": 55.660128,
+      "longitude": 12.329884
+    },
+    {
+      "name": "Pedersen & Nielsen",
+      "latitude": 56.204021,
+      "longitude": 10.253414
+    },
+    {
+      "name": "Pedersen & Nielsen",
+      "latitude": 56.204789,
+      "longitude": 10.252872
+    },
+    {
+      "name": "Pedersen & Nielsen - Isuzu",
+      "latitude": 54.927838,
+      "longitude": 9.797445
+    },
+    {
+      "name": "Pedersen & Nielsen - Mazda",
+      "latitude": 54.92673,
+      "longitude": 9.794695
+    },
+    {
+      "name": "Pedersen & Nielsen Automobilforretning",
+      "latitude": 57.042049,
+      "longitude": 9.928242
+    },
+    {
+      "name": "Pedersen & Nielsen Erhvervscenter",
+      "latitude": 57.042122,
+      "longitude": 9.926276
+    },
+    {
+      "name": "Per Christensen Auto",
+      "latitude": 55.704111,
+      "longitude": 12.437619
+    },
+    {
+      "name": "Per Johansen Auto",
+      "latitude": 55.523647,
+      "longitude": 8.467752
+    },
+    {
+      "name": "Peugeot",
+      "latitude": 55.422672,
+      "longitude": 11.786318
+    },
+    {
+      "name": "Peugeot",
+      "latitude": 55.60681,
+      "longitude": 8.497087
+    },
+    {
+      "name": "Peugeot",
+      "latitude": 55.934163,
+      "longitude": 12.264391
+    },
+    {
+      "name": "Peugeot",
+      "latitude": 56.360961,
+      "longitude": 8.655415
+    },
+    {
+      "name": "Peugeot",
+      "latitude": 56.444273,
+      "longitude": 9.392302
+    },
+    {
+      "name": "Peugeot",
+      "latitude": 57.27321,
+      "longitude": 9.968846
+    },
+    {
+      "name": "peugeot Ballerup - Andersen & Martini A/S",
+      "latitude": 55.723041,
+      "longitude": 12.3785
+    },
+    {
+      "name": "Peugeot Frederikshavn",
+      "latitude": 57.447002,
+      "longitude": 10.504208
+    },
+    {
+      "name": "Peugeot Kolding - P. Christensen A/S",
+      "latitude": 55.530505,
+      "longitude": 9.460521
+    },
+    {
+      "name": "Peugeot Risskov",
+      "latitude": 56.2034,
+      "longitude": 10.24717
+    },
+    {
+      "name": "Peugeot Roskilde",
+      "latitude": 55.628752,
+      "longitude": 12.079074
+    },
+    {
+      "name": "Peugeot Taastrup",
+      "latitude": 55.658546,
+      "longitude": 12.310263
+    },
+    {
+      "name": "Peugeot Thisted",
+      "latitude": 56.965842,
+      "longitude": 8.729351
+    },
+    {
+      "name": "PG Biler",
+      "latitude": 56.151817,
+      "longitude": 8.931923
+    },
+    {
+      "name": "Porsche",
+      "latitude": 55.706253,
+      "longitude": 12.544716
+    },
+    {
+      "name": "Premium Biler",
+      "latitude": 55.309666,
+      "longitude": 8.834731
+    },
+    {
+      "name": "Probiler A/S",
+      "latitude": 55.985499,
+      "longitude": 10.143825
+    },
+    {
+      "name": "Qnique Biler Skjern",
+      "latitude": 55.954219,
+      "longitude": 8.51432
+    },
+    {
+      "name": "Quick Autohandel",
+      "latitude": 56.037216,
+      "longitude": 8.868606
+    },
+    {
+      "name": "RAF Motors",
+      "latitude": 55.826947,
+      "longitude": 9.797053
+    },
+    {
+      "name": "Rafn-Larsen Automobiler",
+      "latitude": 55.724472,
+      "longitude": 12.380847
+    },
+    {
+      "name": "Reedorf Biler",
+      "latitude": 55.635554,
+      "longitude": 12.468382
+    },
+    {
+      "name": "Renault",
+      "latitude": 56.335876,
+      "longitude": 8.645922
+    },
+    {
+      "name": "Ribe Auto",
+      "latitude": 55.31353,
+      "longitude": 8.790198
+    },
+    {
+      "name": "Richs.dk",
+      "latitude": 54.804398,
+      "longitude": 11.44111
+    },
+    {
+      "name": "Rindebæk Biler",
+      "latitude": 55.196647,
+      "longitude": 10.156376
+    },
+    {
+      "name": "Ronald Carlsen",
+      "latitude": 55.34989,
+      "longitude": 10.409744
+    },
+    {
+      "name": "Roskilde Bilcenter A/S",
+      "latitude": 55.643,
+      "longitude": 12.12518
+    },
+    {
+      "name": "RS Biler",
+      "latitude": 55.687061,
+      "longitude": 12.463953
+    },
+    {
+      "name": "Ry Auto-compagni .",
+      "latitude": 56.090282,
+      "longitude": 9.777784
+    },
+    {
+      "name": "Rårup Automobiler",
+      "latitude": 55.767128,
+      "longitude": 9.9294
+    },
+    {
+      "name": "Rævhede Auto",
+      "latitude": 57.174511,
+      "longitude": 9.69916
+    },
+    {
+      "name": "Sander Biler",
+      "latitude": 56.228363,
+      "longitude": 10.25175
+    },
+    {
+      "name": "SB Biler",
+      "latitude": 55.004019,
+      "longitude": 9.03888
+    },
+    {
+      "name": "Scantruck",
+      "latitude": 56.567196,
+      "longitude": 8.999414
+    },
+    {
+      "name": "SDK Biler A/S Brønderslev",
+      "latitude": 57.27137,
+      "longitude": 9.968208
+    },
+    {
+      "name": "SDKbiler",
+      "latitude": 57.020919,
+      "longitude": 9.899902
+    },
+    {
+      "name": "Seat",
+      "latitude": 55.704856,
+      "longitude": 11.673687
+    },
+    {
+      "name": "Seat",
+      "latitude": 56.969634,
+      "longitude": 8.737119
+    },
+    {
+      "name": "Seat",
+      "latitude": 57.263003,
+      "longitude": 9.951957
+    },
+    {
+      "name": "Seat Nørresundby",
+      "latitude": 57.082183,
+      "longitude": 9.959356
+    },
+    {
+      "name": "Seehusen Biler",
+      "latitude": 56.015713,
+      "longitude": 12.199862
+    },
+    {
+      "name": "Sejs-Svejbæk biler",
+      "latitude": 56.137959,
+      "longitude": 9.619803
+    },
+    {
+      "name": "SG Autogroup",
+      "latitude": 55.872714,
+      "longitude": 9.828252
+    },
+    {
+      "name": "Shelbys",
+      "latitude": 55.754135,
+      "longitude": 12.449443
+    },
+    {
+      "name": "SHS Auto",
+      "latitude": 55.460501,
+      "longitude": 8.596216
+    },
+    {
+      "name": "Skifter Lastbil",
+      "latitude": 54.831363,
+      "longitude": 9.350622
+    },
+    {
+      "name": "Skinbjerg Auto",
+      "latitude": 57.083259,
+      "longitude": 9.962272
+    },
+    {
+      "name": "Skive Bilhus",
+      "latitude": 56.567409,
+      "longitude": 8.995369
+    },
+    {
+      "name": "Skoda",
+      "latitude": 56.151562,
+      "longitude": 8.934175
+    },
+    {
+      "name": "Skoda",
+      "latitude": 56.338852,
+      "longitude": 8.640854
+    },
+    {
+      "name": "Skoda",
+      "latitude": 56.568457,
+      "longitude": 8.99471
+    },
+    {
+      "name": "Skoda",
+      "latitude": 56.969961,
+      "longitude": 8.736796
+    },
+    {
+      "name": "Skoda Brøndby",
+      "latitude": 55.643239,
+      "longitude": 12.398264
+    },
+    {
+      "name": "Skoda Gladsaxe",
+      "latitude": 55.732619,
+      "longitude": 12.46197
+    },
+    {
+      "name": "Skoda Randers",
+      "latitude": 56.451278,
+      "longitude": 10.051982
+    },
+    {
+      "name": "Skov & Nielsen",
+      "latitude": 55.469079,
+      "longitude": 8.671212
+    },
+    {
+      "name": "Skovlund Auto",
+      "latitude": 56.475741,
+      "longitude": 8.797195
+    },
+    {
+      "name": "Skårup Autohandel",
+      "latitude": 55.096964,
+      "longitude": 10.701351
+    },
+    {
+      "name": "SL Biler",
+      "latitude": 55.120194,
+      "longitude": 8.808633
+    },
+    {
+      "name": "SMC",
+      "latitude": 56.204082,
+      "longitude": 10.251718
+    },
+    {
+      "name": "Smc Biler Herning",
+      "latitude": 56.150733,
+      "longitude": 8.932889
+    },
+    {
+      "name": "Sondrup Bilcenter",
+      "latitude": 56.202402,
+      "longitude": 10.245478
+    },
+    {
+      "name": "Sorø Bilcenter ApS",
+      "latitude": 55.448291,
+      "longitude": 11.557995
+    },
+    {
+      "name": "SP Leasing",
+      "latitude": 55.128383,
+      "longitude": 9.138815
+    },
+    {
+      "name": "Spar to biler",
+      "latitude": 55.667419,
+      "longitude": 12.419361
+    },
+    {
+      "name": "Starmark",
+      "latitude": 55.645209,
+      "longitude": 12.140266
+    },
+    {
+      "name": "Starmark",
+      "latitude": 55.744649,
+      "longitude": 9.584101
+    },
+    {
+      "name": "Steens MC-center",
+      "latitude": 55.524961,
+      "longitude": 8.456625
+    },
+    {
+      "name": "Stiholt Erhverv",
+      "latitude": 55.479172,
+      "longitude": 8.499205
+    },
+    {
+      "name": "Storgaard Biler",
+      "latitude": 55.463996,
+      "longitude": 8.70421
+    },
+    {
+      "name": "Strand Biler",
+      "latitude": 55.460631,
+      "longitude": 8.713888
+    },
+    {
+      "name": "Strandvejens Auto",
+      "latitude": 55.386601,
+      "longitude": 11.364751
+    },
+    {
+      "name": "STS Biler",
+      "latitude": 56.564165,
+      "longitude": 9.03649
+    },
+    {
+      "name": "STS Biler A/S - Herning",
+      "latitude": 56.152243,
+      "longitude": 8.9882
+    },
+    {
+      "name": "STS Biler A/S - Holstebro",
+      "latitude": 56.383023,
+      "longitude": 8.612225
+    },
+    {
+      "name": "Suzuki",
+      "latitude": 57.264003,
+      "longitude": 9.951411
+    },
+    {
+      "name": "Svend Wind Automobiler",
+      "latitude": 54.973643,
+      "longitude": 8.700059
+    },
+    {
+      "name": "Søndergaard Biler",
+      "latitude": 55.520406,
+      "longitude": 8.774549
+    },
+    {
+      "name": "TA Automobiler",
+      "latitude": 55.352483,
+      "longitude": 8.780243
+    },
+    {
+      "name": "Tarp Auto Center",
+      "latitude": 55.525658,
+      "longitude": 8.457029
+    },
+    {
+      "name": "Tegllund - Vejen",
+      "latitude": 55.492936,
+      "longitude": 9.128495
+    },
+    {
+      "name": "Terminalen",
+      "latitude": 55.350421,
+      "longitude": 10.407976
+    },
+    {
+      "name": "Terminalen",
+      "latitude": 55.621099,
+      "longitude": 12.605243
+    },
+    {
+      "name": "Terminalen",
+      "latitude": 55.6549,
+      "longitude": 12.281172
+    },
+    {
+      "name": "Terminalen",
+      "latitude": 55.826941,
+      "longitude": 12.429359
+    },
+    {
+      "name": "Terminalen",
+      "latitude": 56.203151,
+      "longitude": 10.249463
+    },
+    {
+      "name": "Terminalen Roskildevej A/S",
+      "latitude": 55.657185,
+      "longitude": 12.294601
+    },
+    {
+      "name": "Tesla",
+      "latitude": 55.353407,
+      "longitude": 8.778875
+    },
+    {
+      "name": "Tesla",
+      "latitude": 55.492365,
+      "longitude": 12.166629
+    },
+    {
+      "name": "Tesla Aarhus Sales",
+      "latitude": 56.177698,
+      "longitude": 10.138831
+    },
+    {
+      "name": "Tesla Greve",
+      "latitude": 55.587015,
+      "longitude": 12.251073
+    },
+    {
+      "name": "Tesla Hillerød",
+      "latitude": 55.929811,
+      "longitude": 12.260976
+    },
+    {
+      "name": "Tesla Odense",
+      "latitude": 55.346991,
+      "longitude": 10.413728
+    },
+    {
+      "name": "Tesla Store and Service Center",
+      "latitude": 55.61448,
+      "longitude": 12.613493
+    },
+    {
+      "name": "Therkildsen Biler",
+      "latitude": 56.653522,
+      "longitude": 9.794256
+    },
+    {
+      "name": "Thomsens Auto",
+      "latitude": 54.847806,
+      "longitude": 9.448741
+    },
+    {
+      "name": "Thybo Biler - Holstebro",
+      "latitude": 56.333556,
+      "longitude": 8.649134
+    },
+    {
+      "name": "TJ Automobiler",
+      "latitude": 55.525366,
+      "longitude": 8.45651
+    },
+    {
+      "name": "Toyota",
+      "latitude": 55.491833,
+      "longitude": 9.129041
+    },
+    {
+      "name": "Toyota Danmark A/S",
+      "latitude": 55.732092,
+      "longitude": 12.461452
+    },
+    {
+      "name": "Toyota Fåborg",
+      "latitude": 55.108615,
+      "longitude": 10.232776
+    },
+    {
+      "name": "Toyota Hadsund",
+      "latitude": 56.730632,
+      "longitude": 10.106663
+    },
+    {
+      "name": "Toyota Helsingør",
+      "latitude": 56.019606,
+      "longitude": 12.56256
+    },
+    {
+      "name": "Toyota Krogsgaard-Jensen",
+      "latitude": 55.724648,
+      "longitude": 12.424074
+    },
+    {
+      "name": "Toyota Køge",
+      "latitude": 55.473886,
+      "longitude": 12.185636
+    },
+    {
+      "name": "Toyota Nivå",
+      "latitude": 55.937212,
+      "longitude": 12.483952
+    },
+    {
+      "name": "Toyota Nærum - Djarlo Automobiler A/S",
+      "latitude": 55.816203,
+      "longitude": 12.530635
+    },
+    {
+      "name": "Toyota Odense M",
+      "latitude": 55.380481,
+      "longitude": 10.425314
+    },
+    {
+      "name": "Toyota Ringsted",
+      "latitude": 55.430687,
+      "longitude": 11.802629
+    },
+    {
+      "name": "Toyota SDS Biler",
+      "latitude": 56.37831,
+      "longitude": 8.618146
+    },
+    {
+      "name": "Toyota STS Biler A/S",
+      "latitude": 56.541303,
+      "longitude": 8.295146
+    },
+    {
+      "name": "Toyota Viborg",
+      "latitude": 56.470693,
+      "longitude": 9.397188
+    },
+    {
+      "name": "Trio Biler",
+      "latitude": 55.724678,
+      "longitude": 12.379328
+    },
+    {
+      "name": "Trust Auto",
+      "latitude": 54.928609,
+      "longitude": 9.80503
+    },
+    {
+      "name": "Trust Auto",
+      "latitude": 54.934001,
+      "longitude": 9.732579
+    },
+    {
+      "name": "Tvergaard Biler",
+      "latitude": 55.962718,
+      "longitude": 11.849343
+    },
+    {
+      "name": "UJS Biler",
+      "latitude": 56.964992,
+      "longitude": 8.730507
+    },
+    {
+      "name": "V.F. Biler",
+      "latitude": 55.52184,
+      "longitude": 8.772509
+    },
+    {
+      "name": "Valby Auto",
+      "latitude": 55.652359,
+      "longitude": 12.495331
+    },
+    {
+      "name": "Vandel Audio",
+      "latitude": 55.628839,
+      "longitude": 12.066797
+    },
+    {
+      "name": "Vangskov",
+      "latitude": 55.660928,
+      "longitude": 12.372942
+    },
+    {
+      "name": "Varde Biler",
+      "latitude": 55.599572,
+      "longitude": 8.499188
+    },
+    {
+      "name": "Varde Biler - Ølgod afdeling",
+      "latitude": 55.814403,
+      "longitude": 8.625279
+    },
+    {
+      "name": "Vejen Biler",
+      "latitude": 55.491093,
+      "longitude": 9.114225
+    },
+    {
+      "name": "Vejrup Auto",
+      "latitude": 55.521216,
+      "longitude": 8.763561
+    },
+    {
+      "name": "Verner Bruun Biler",
+      "latitude": 55.351051,
+      "longitude": 8.772887
+    },
+    {
+      "name": "Vestjysk Bilhus",
+      "latitude": 55.493116,
+      "longitude": 8.464569
+    },
+    {
+      "name": "Via Biler A/S",
+      "latitude": 55.665951,
+      "longitude": 12.416956
+    },
+    {
+      "name": "Via Biler A/S",
+      "latitude": 56.198695,
+      "longitude": 9.562189
+    },
+    {
+      "name": "Via Biler A/S - Kastrup",
+      "latitude": 55.620397,
+      "longitude": 12.605542
+    },
+    {
+      "name": "Via Biler A/S - Valby",
+      "latitude": 55.646214,
+      "longitude": 12.50487
+    },
+    {
+      "name": "VIA biler Viby J",
+      "latitude": 56.111463,
+      "longitude": 10.157745
+    },
+    {
+      "name": "Vinther Biler",
+      "latitude": 55.554481,
+      "longitude": 11.952391
+    },
+    {
+      "name": "Virum Auto",
+      "latitude": 55.788273,
+      "longitude": 12.477743
+    },
+    {
+      "name": "Virum Motor Co.",
+      "latitude": 55.788901,
+      "longitude": 12.473113
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 55.393542,
+      "longitude": 10.356392
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 55.704948,
+      "longitude": 11.67345
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 55.832529,
+      "longitude": 9.80759
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 56.338085,
+      "longitude": 8.641971
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 56.568337,
+      "longitude": 8.994449
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 57.456056,
+      "longitude": 10.003113
+    },
+    {
+      "name": "Volkswagen Aalborg",
+      "latitude": 57.032645,
+      "longitude": 9.929134
+    },
+    {
+      "name": "Volkswagen Aalestrup & Hobro",
+      "latitude": 56.69586,
+      "longitude": 9.509007
+    },
+    {
+      "name": "Volkswagen Esbjerg",
+      "latitude": 55.516675,
+      "longitude": 8.469753
+    },
+    {
+      "name": "Volkswagen København",
+      "latitude": 55.706226,
+      "longitude": 12.543217
+    },
+    {
+      "name": "Volkswagen Køge",
+      "latitude": 55.475397,
+      "longitude": 12.185675
+    },
+    {
+      "name": "Volkswagen Randers",
+      "latitude": 56.454178,
+      "longitude": 10.043663
+    },
+    {
+      "name": "Volkswagen Skanderborg",
+      "latitude": 56.048462,
+      "longitude": 9.938207
+    },
+    {
+      "name": "Volkswagen Taastrup",
+      "latitude": 55.659258,
+      "longitude": 12.309556
+    },
+    {
+      "name": "Volkswagen Thisted",
+      "latitude": 56.960381,
+      "longitude": 8.718479
+    },
+    {
+      "name": "Volvo Nellemann København",
+      "latitude": 55.71203,
+      "longitude": 12.565708
+    },
+    {
+      "name": "VW",
+      "latitude": 55.344739,
+      "longitude": 8.77612
+    },
+    {
+      "name": "VW Gladsaxe",
+      "latitude": 55.733091,
+      "longitude": 12.462591
+    },
+    {
+      "name": "Wind Automobiler",
+      "latitude": 55.353026,
+      "longitude": 8.781258
+    },
+    {
+      "name": "Winther Auto",
+      "latitude": 55.629285,
+      "longitude": 12.079095
+    },
+    {
+      "name": "WK Biler",
+      "latitude": 55.505817,
+      "longitude": 8.417866
+    },
+    {
+      "name": "WK Biler",
+      "latitude": 55.506054,
+      "longitude": 8.416579
+    },
+    {
+      "name": "Zeekr",
+      "latitude": 55.379516,
+      "longitude": 10.42207
+    },
+    {
+      "name": "Zeekr",
+      "latitude": 57.04706,
+      "longitude": 9.946331
+    },
+    {
+      "name": "Zisko Automobiler",
+      "latitude": 55.46177,
+      "longitude": 8.484281
+    },
+    {
+      "name": "Østergaard Automobiler",
+      "latitude": 55.753624,
+      "longitude": 8.976041
+    },
+    {
+      "name": "Østergaards Auto",
+      "latitude": 55.965564,
+      "longitude": 9.291412
+    },
+    {
+      "name": "Škoda",
+      "latitude": 55.345042,
+      "longitude": 8.775181
+    },
+    {
+      "name": "Škoda",
+      "latitude": 55.393859,
+      "longitude": 10.356818
+    },
+    {
+      "name": "Škoda",
+      "latitude": 55.704903,
+      "longitude": 11.673572
+    },
+    {
+      "name": "Škoda",
+      "latitude": 57.032671,
+      "longitude": 9.927421
+    },
+    {
+      "name": "Škoda Esbjerg",
+      "latitude": 55.516617,
+      "longitude": 8.469748
+    },
+    {
+      "name": "Škoda Nørresundby",
+      "latitude": 57.082346,
+      "longitude": 9.959552
+    }
+  ],
+  "meta": {
+    "title": "Bilforhandlere i Danmark (Car dealerships in Denmark) - Gratis download",
+    "description": "Car dealerships in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=car. Indeholder 555 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Bilforhandlere i Danmark (Car dealerships in Denmark) | ListBase",
+    "seo_description": "Download Bilforhandlere i Danmark (Car dealerships in Denmark) — 555 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 555 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

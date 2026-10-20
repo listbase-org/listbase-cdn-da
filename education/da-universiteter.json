@@ -1,0 +1,406 @@
+{
+  "id": "da-universiteter",
+  "name": "Denmark — Universities (universiteter)",
+  "title": "Denmark — Universities (universiteter)",
+  "description": "List of accredited universities and higher-education institutions in Denmark. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Denmark\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aalborg Business College",
+      "slug": "ah",
+      "domain": "ah.dk",
+      "domains": "ah.dk",
+      "web_page": "http://www.ah.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Aalborg University",
+      "slug": "auc",
+      "domain": "auc.dk",
+      "domains": "auc.dk, aau.dk, student.aau.dk",
+      "web_page": "http://www.auc.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Aarhus School of Architecture",
+      "slug": "a-aarhus",
+      "domain": "a-aarhus.dk",
+      "domains": "a-aarhus.dk",
+      "web_page": "http://www.a-aarhus.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Aarhus School of Business",
+      "slug": "hha",
+      "domain": "hha.dk",
+      "domains": "hha.dk",
+      "web_page": "http://www.hha.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Aarhus Technical College",
+      "slug": "ats",
+      "domain": "ats.dk",
+      "domains": "ats.dk",
+      "web_page": "http://www.ats.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Aarhus University",
+      "slug": "au",
+      "domain": "au.dk",
+      "domains": "au.dk",
+      "web_page": "http://www.au.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Asmildkloster Agricultural School",
+      "slug": "asmildkloster",
+      "domain": "asmildkloster.dk",
+      "domains": "asmildkloster.dk",
+      "web_page": "https://asmildkloster.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Copenhagen Business School",
+      "slug": "cbs",
+      "domain": "cbs.dk",
+      "domains": "cbs.dk",
+      "web_page": "http://www.cbs.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Danish Business Academy",
+      "slug": "ddea",
+      "domain": "ddea.dk",
+      "domains": "ddea.dk",
+      "web_page": "http://www.ddea.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Danish University of Education",
+      "slug": "dpu",
+      "domain": "dpu.dk",
+      "domains": "dpu.dk",
+      "web_page": "http://www.dpu.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Engineering College of Aarhus",
+      "slug": "iha",
+      "domain": "iha.dk",
+      "domains": "iha.dk",
+      "web_page": "http://www.iha.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Engineering College of Copenhagen",
+      "slug": "ihk",
+      "domain": "ihk.dk",
+      "domains": "ihk.dk",
+      "web_page": "http://www.ihk.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "International Business School of Scandinavia",
+      "slug": "ibss",
+      "domain": "ibss.eu",
+      "domains": "ibss.eu",
+      "web_page": "http://www.ibss.eu/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "International People's College",
+      "slug": "ipc",
+      "domain": "ipc.dk",
+      "domains": "ipc.dk",
+      "web_page": "http://www.ipc.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "IT University of Copenhagen",
+      "slug": "itu",
+      "domain": "itu.dk",
+      "domains": "itu.dk",
+      "web_page": "http://www.itu.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Kalø Økologisk Agricultural College",
+      "slug": "videndjurs",
+      "domain": "videndjurs.dk",
+      "domains": "videndjurs.dk",
+      "web_page": "https://videndjurs.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Knightsbridge University",
+      "slug": "knightsbridgeuniversity",
+      "domain": "knightsbridgeuniversity.com",
+      "domains": "knightsbridgeuniversity.com",
+      "web_page": "http://www.knightsbridgeuniversity.com/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Lutheran School Of Theology In Aarhus",
+      "slug": "teologi",
+      "domain": "teologi.dk",
+      "domains": "teologi.dk",
+      "web_page": "http://www.teologi.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Odense University",
+      "slug": "ou",
+      "domain": "ou.dk",
+      "domains": "ou.dk",
+      "web_page": "http://www.ou.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Roskilde University",
+      "slug": "ruc",
+      "domain": "ruc.dk",
+      "domains": "ruc.dk",
+      "web_page": "http://www.ruc.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Royal Academy of Music",
+      "slug": "musik-kons",
+      "domain": "musik-kons.dk",
+      "domains": "musik-kons.dk",
+      "web_page": "http://www.musik-kons.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Royal Danish Academy of Fine Arts, School of Architecture",
+      "slug": "karch",
+      "domain": "karch.dk",
+      "domains": "karch.dk",
+      "web_page": "http://www.karch.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Royal Danish Academy of Fine Arts, School of Visual Art",
+      "slug": "kunstakademiet",
+      "domain": "kunstakademiet.dk",
+      "domains": "kunstakademiet.dk",
+      "web_page": "http://www.kunstakademiet.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Royal Danish Academy of Music",
+      "slug": "dkdm",
+      "domain": "dkdm.dk",
+      "domains": "dkdm.dk",
+      "web_page": "http://www.dkdm.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Royal Danish School of Educational Sciences",
+      "slug": "dlh",
+      "domain": "dlh.dk",
+      "domains": "dlh.dk",
+      "web_page": "http://www.dlh.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Royal Danish School of Pharmacy",
+      "slug": "dfh",
+      "domain": "dfh.dk",
+      "domains": "dfh.dk",
+      "web_page": "http://www.dfh.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Royal School of Library and Information Science",
+      "slug": "db",
+      "domain": "db.dk",
+      "domains": "db.dk",
+      "web_page": "http://www.db.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Royal Veterinary and Agricultural University",
+      "slug": "kvl",
+      "domain": "kvl.dk",
+      "domains": "kvl.dk",
+      "web_page": "http://www.kvl.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Southern Denmark Business School",
+      "slug": "hhs",
+      "domain": "hhs.dk",
+      "domains": "hhs.dk",
+      "web_page": "http://www.hhs.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Denmark",
+      "slug": "dtu",
+      "domain": "dtu.dk",
+      "domains": "dtu.dk",
+      "web_page": "http://www.dtu.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "Tietgen Business College",
+      "slug": "tietgen",
+      "domain": "tietgen.dk",
+      "domains": "tietgen.dk",
+      "web_page": "http://www.tietgen.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "University of Copenhagen",
+      "slug": "ku",
+      "domain": "ku.dk",
+      "domains": "ku.dk",
+      "web_page": "http://www.ku.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "University of Southern Denmark - SDU",
+      "slug": "sdu",
+      "domain": "sdu.dk",
+      "domains": "sdu.dk",
+      "web_page": "http://www.sdu.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    },
+    {
+      "name": "VIA University College",
+      "slug": "en",
+      "domain": "en.via.dk",
+      "domains": "en.via.dk",
+      "web_page": "https://en.via.dk/",
+      "country": "Denmark",
+      "country_code": "DK",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Denmark — Universities (universiteter) - Gratis download",
+    "description": "List of accredited universities and higher-education institutions in Denmark. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Denmark\"). Indeholder 34 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Denmark — Universities (universiteter) | ListBase",
+    "seo_description": "Download Denmark — Universities (universiteter) — 34 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 34 poster / 8 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "da-aarhus-banker",
+  "name": "Banker i Aarhus — SWIFT/BIC-koder",
+  "title": "Banker i Aarhus — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Aarhus, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"AARHUS\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 11,
+      "bank": "ANDELSKASSEN OIKOS",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "ANOKDK21"
+    },
+    {
+      "id": 55,
+      "bank": "DANSK SUPERMARKED A/S",
+      "city": "AARHUS",
+      "branch": "(D S FORSIKRING)",
+      "swift_code": "DASKDK21DSF"
+    },
+    {
+      "id": 56,
+      "bank": "DANSK SUPERMARKED A/S",
+      "city": "AARHUS",
+      "branch": "(SALLING INVEST)",
+      "swift_code": "DASKDK21FSI"
+    },
+    {
+      "id": 57,
+      "bank": "DANSK SUPERMARKED A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "DASKDK21NET"
+    },
+    {
+      "id": 62,
+      "bank": "DANSKE BANK A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "DABADKKKAAR"
+    },
+    {
+      "id": 122,
+      "bank": "DANSKE COMMODITIES A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "DACDDK21"
+    },
+    {
+      "id": 196,
+      "bank": "FORMUEPLEJE A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "FORJDK21"
+    },
+    {
+      "id": 215,
+      "bank": "HEMONTO A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "HMTODK22"
+    },
+    {
+      "id": 305,
+      "bank": "KAPITALFORENINGEN ABSALON INVEST",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "KAAIDK21"
+    },
+    {
+      "id": 306,
+      "bank": "KAPITALFORENINGEN ABSALON INVEST AFD. VERDENSAKTIEINDEKS KL",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "KAIFDK21"
+    },
+    {
+      "id": 307,
+      "bank": "KAPITALFORENINGEN FORMUEPLEJE PENTA AFDELING FORMUEPLEJE PENTA",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "KFPFDK21"
+    },
+    {
+      "id": 321,
+      "bank": "LIND CAPITAL A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "LCAIDK21"
+    },
+    {
+      "id": 322,
+      "bank": "LIND CAPITAL FONDSMAEGLERSELSKAB A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "LICFDK21"
+    },
+    {
+      "id": 332,
+      "bank": "MARKEDSKRAFT DANMARK, FILIAL AF MARKEDSKRAFT ASA NORGE",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "MDFMDK21"
+    },
+    {
+      "id": 470,
+      "bank": "SYDBANK A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "SYBKDK22AAR"
+    },
+    {
+      "id": 499,
+      "bank": "VESTAS WIND SYSTEMS A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "WINDDK22"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Aarhus — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Aarhus, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"AARHUS\"). Delmængde af det nationale da-banker-datasæt. Indeholder 16 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Aarhus — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Aarhus — SWIFT/BIC-koder — 16 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 16 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

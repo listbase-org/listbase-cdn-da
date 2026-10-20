@@ -1,0 +1,431 @@
+{
+  "id": "da-isenkraemmere",
+  "name": "Isenkræmmere i Danmark (Hardware stores in Denmark)",
+  "title": "Isenkræmmere i Danmark (Hardware stores in Denmark)",
+  "description": "Hardware stores in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=hardware.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 78,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "3 Aktive",
+      "latitude": 55.350255,
+      "longitude": 10.407216
+    },
+    {
+      "name": "ahlsell",
+      "latitude": 55.463045,
+      "longitude": 8.452827
+    },
+    {
+      "name": "AO - Håndværkerbutik",
+      "latitude": 55.72299,
+      "longitude": 12.376101
+    },
+    {
+      "name": "AO Håndværkerbutik",
+      "latitude": 55.501578,
+      "longitude": 9.77047
+    },
+    {
+      "name": "AO Håndværkerbutik",
+      "latitude": 56.189213,
+      "longitude": 9.561718
+    },
+    {
+      "name": "AO Håndværkerbutik",
+      "latitude": 56.563673,
+      "longitude": 9.03981
+    },
+    {
+      "name": "Bille Knudsen Isenkram",
+      "latitude": 54.854653,
+      "longitude": 10.517643
+    },
+    {
+      "name": "Birkerod toolmagasin",
+      "latitude": 55.841339,
+      "longitude": 12.440515
+    },
+    {
+      "name": "Brendes",
+      "latitude": 55.096616,
+      "longitude": 14.71702
+    },
+    {
+      "name": "BRS Tools",
+      "latitude": 56.412632,
+      "longitude": 10.905141
+    },
+    {
+      "name": "Brødrende Dahl",
+      "latitude": 57.03622,
+      "longitude": 9.925949
+    },
+    {
+      "name": "Brødrene Dahl",
+      "latitude": 55.569743,
+      "longitude": 9.728353
+    },
+    {
+      "name": "Brødrene Dahl",
+      "latitude": 57.443695,
+      "longitude": 10.499746
+    },
+    {
+      "name": "Bygma",
+      "latitude": 55.608392,
+      "longitude": 12.613671
+    },
+    {
+      "name": "Bygma",
+      "latitude": 55.6715,
+      "longitude": 12.627518
+    },
+    {
+      "name": "Bygma",
+      "latitude": 56.807563,
+      "longitude": 9.502196
+    },
+    {
+      "name": "Carl Ras",
+      "latitude": 55.71952,
+      "longitude": 12.553428
+    },
+    {
+      "name": "Carl Ras",
+      "latitude": 55.902154,
+      "longitude": 12.481145
+    },
+    {
+      "name": "Carl Ras A/S",
+      "latitude": 55.716778,
+      "longitude": 12.433193
+    },
+    {
+      "name": "Carl Ras Odense",
+      "latitude": 55.360195,
+      "longitude": 10.340338
+    },
+    {
+      "name": "Damborg Isenkram",
+      "latitude": 55.00861,
+      "longitude": 11.909104
+    },
+    {
+      "name": "Dansk Maskinbørs",
+      "latitude": 56.124363,
+      "longitude": 8.946915
+    },
+    {
+      "name": "Delfin Shop",
+      "latitude": 55.638432,
+      "longitude": 12.634571
+    },
+    {
+      "name": "Din Isenkræmmer",
+      "latitude": 55.630748,
+      "longitude": 12.60047
+    },
+    {
+      "name": "EA Værktøj Engros A/S",
+      "latitude": 55.557739,
+      "longitude": 9.727698
+    },
+    {
+      "name": "Elling Tømmerhandel",
+      "latitude": 57.474981,
+      "longitude": 10.488826
+    },
+    {
+      "name": "ETR Service Ringe ApS",
+      "latitude": 55.246954,
+      "longitude": 10.476209
+    },
+    {
+      "name": "Expertbeslag",
+      "latitude": 55.67725,
+      "longitude": 12.38905
+    },
+    {
+      "name": "Frederiksberg VVS",
+      "latitude": 55.67126,
+      "longitude": 12.531524
+    },
+    {
+      "name": "Herolds Varehus",
+      "latitude": 55.659387,
+      "longitude": 12.609929
+    },
+    {
+      "name": "HH Trælast og Byggecenter",
+      "latitude": 56.543263,
+      "longitude": 9.110992
+    },
+    {
+      "name": "Häfele Danmark",
+      "latitude": 56.570309,
+      "longitude": 9.000514
+    },
+    {
+      "name": "Imerco",
+      "latitude": 55.676224,
+      "longitude": 12.542951
+    },
+    {
+      "name": "Jem & fix Asnæs",
+      "latitude": 55.807103,
+      "longitude": 11.512362
+    },
+    {
+      "name": "Jumbo",
+      "latitude": 55.702097,
+      "longitude": 12.533241
+    },
+    {
+      "name": "Kræmmerhuset",
+      "latitude": 55.671773,
+      "longitude": 12.591784
+    },
+    {
+      "name": "Lange Isenkram A/S",
+      "latitude": 56.086006,
+      "longitude": 8.277512
+    },
+    {
+      "name": "Lemvigh-Müller",
+      "latitude": 55.960111,
+      "longitude": 8.492097
+    },
+    {
+      "name": "Lemvigh-Müller",
+      "latitude": 57.037188,
+      "longitude": 9.926565
+    },
+    {
+      "name": "Lemvigh-Müller Frederikshavn",
+      "latitude": 57.445608,
+      "longitude": 10.503681
+    },
+    {
+      "name": "Nørreport Isenkram",
+      "latitude": 56.362122,
+      "longitude": 8.619585
+    },
+    {
+      "name": "P. Conradsen",
+      "latitude": 57.446898,
+      "longitude": 10.494479
+    },
+    {
+      "name": "Rødgaards Import A/S",
+      "latitude": 55.462996,
+      "longitude": 8.475327
+    },
+    {
+      "name": "Røverkøb",
+      "latitude": 55.66168,
+      "longitude": 12.603177
+    },
+    {
+      "name": "S.V.S. Værktøj",
+      "latitude": 54.776792,
+      "longitude": 11.48864
+    },
+    {
+      "name": "Sanistål",
+      "latitude": 55.72323,
+      "longitude": 12.374721
+    },
+    {
+      "name": "Sanistål Roskilde",
+      "latitude": 55.645117,
+      "longitude": 12.120477
+    },
+    {
+      "name": "Silkeborg Beslag og Værktøj",
+      "latitude": 56.198287,
+      "longitude": 9.56119
+    },
+    {
+      "name": "Special Butikken",
+      "latitude": 56.04947,
+      "longitude": 9.940709
+    },
+    {
+      "name": "Special-Butikken",
+      "latitude": 56.629337,
+      "longitude": 9.80174
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.685369,
+      "longitude": 12.394879
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.689693,
+      "longitude": 12.555625
+    },
+    {
+      "name": "STARK",
+      "latitude": 55.689895,
+      "longitude": 12.574495
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.701364,
+      "longitude": 9.548439
+    },
+    {
+      "name": "STARK",
+      "latitude": 55.705124,
+      "longitude": 11.665325
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.15564,
+      "longitude": 10.185522
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.209292,
+      "longitude": 10.236198
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.302066,
+      "longitude": 10.464016
+    },
+    {
+      "name": "STARK Skanderborg",
+      "latitude": 56.049528,
+      "longitude": 9.945134
+    },
+    {
+      "name": "Støvsugerbanden",
+      "latitude": 55.662884,
+      "longitude": 12.516648
+    },
+    {
+      "name": "T Hansen",
+      "latitude": 55.481953,
+      "longitude": 12.183103
+    },
+    {
+      "name": "Tannis Lys",
+      "latitude": 57.576174,
+      "longitude": 10.191463
+    },
+    {
+      "name": "Toxværd Maskinforretning",
+      "latitude": 55.466713,
+      "longitude": 8.679632
+    },
+    {
+      "name": "VVS-Eksperten.dk",
+      "latitude": 55.38087,
+      "longitude": 10.422724
+    },
+    {
+      "name": "VVS-Eksperten.dk",
+      "latitude": 55.615284,
+      "longitude": 12.613138
+    },
+    {
+      "name": "Würth",
+      "latitude": 55.345701,
+      "longitude": 10.416262
+    },
+    {
+      "name": "Würth",
+      "latitude": 55.477391,
+      "longitude": 8.446656
+    },
+    {
+      "name": "Würth",
+      "latitude": 55.536323,
+      "longitude": 9.49281
+    },
+    {
+      "name": "Würth",
+      "latitude": 55.683929,
+      "longitude": 12.585563
+    },
+    {
+      "name": "Würth",
+      "latitude": 55.704206,
+      "longitude": 11.666926
+    },
+    {
+      "name": "Würth",
+      "latitude": 56.11468,
+      "longitude": 10.133118
+    },
+    {
+      "name": "Würth Brøndby",
+      "latitude": 55.658226,
+      "longitude": 12.392065
+    },
+    {
+      "name": "XL Byg Prof",
+      "latitude": 56.767619,
+      "longitude": 9.863718
+    },
+    {
+      "name": "XL Byg/Ceste Træ",
+      "latitude": 57.371713,
+      "longitude": 9.729017
+    },
+    {
+      "name": "XL-Byg",
+      "latitude": 56.320825,
+      "longitude": 10.045031
+    },
+    {
+      "name": "XL-BYG - Steff-Byg",
+      "latitude": 55.506996,
+      "longitude": 8.454771
+    },
+    {
+      "name": "Øbro Træ",
+      "latitude": 55.703812,
+      "longitude": 12.581061
+    },
+    {
+      "name": "Østerbros Tømmerhandel",
+      "latitude": 55.711412,
+      "longitude": 12.563748
+    }
+  ],
+  "meta": {
+    "title": "Isenkræmmere i Danmark (Hardware stores in Denmark) - Gratis download",
+    "description": "Hardware stores in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=hardware. Indeholder 78 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Isenkræmmere i Danmark (Hardware stores in Denmark) | ListBase",
+    "seo_description": "Download Isenkræmmere i Danmark (Hardware stores in Denmark) — 78 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 78 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

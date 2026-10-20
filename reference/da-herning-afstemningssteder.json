@@ -1,0 +1,264 @@
+{
+  "id": "da-herning-afstemningssteder",
+  "name": "Afstemningssteder i Herning Kommune",
+  "title": "Afstemningssteder i Herning Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Herning Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Herning",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 80,
+      "opstillingskreds": "Herning Syd"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Arnborg",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 80,
+      "opstillingskreds": "Herning Syd"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Kibæk",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 80,
+      "opstillingskreds": "Herning Syd"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Kølkær",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 80,
+      "opstillingskreds": "Herning Syd"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Lind",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 80,
+      "opstillingskreds": "Herning Syd"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Sdr. Felding",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 80,
+      "opstillingskreds": "Herning Syd"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Skarrild",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 80,
+      "opstillingskreds": "Herning Syd"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Studsgård",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 80,
+      "opstillingskreds": "Herning Syd"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Aulum",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Feldborg",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Gullestrup",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Haderup",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Hammerum",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Hodsager",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Ilskov",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Simmelkær",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Sinding",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Skibbild/Nøvling",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Snejbjerg",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Sunds",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Timring",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Tjørring",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "27",
+      "afstemningssted": "Vildbjerg",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "Vind",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "29",
+      "afstemningssted": "Vinding",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    },
+    {
+      "afstemningsomraade_kode": "30",
+      "afstemningssted": "Ørnhøj",
+      "kommune_kode": 657,
+      "kommune": "Herning",
+      "opstillingskreds_nummer": 81,
+      "opstillingskreds": "Herning Nord"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Herning Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Herning Kommune med opstillingskreds. Indeholder 26 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Herning Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Herning Kommune — 26 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 26 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,7831 @@
+{
+  "id": "da-barer",
+  "name": "Barer i Danmark – OpenStreetMap (Bars in Denmark, OSM)",
+  "title": "Barer i Danmark – OpenStreetMap (Bars in Denmark, OSM)",
+  "description": "Liste over 1558 barer i Danmark fra OpenStreetMap (amenity=bar) — navn og koordinater (WGS84).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1558,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "10er Bar",
+      "latitude": 55.249633,
+      "longitude": 9.48815
+    },
+    {
+      "name": "1609 - Gin & Vinbar",
+      "latitude": 55.676439,
+      "longitude": 12.563715
+    },
+    {
+      "name": "17eren",
+      "latitude": 55.621555,
+      "longitude": 8.478384
+    },
+    {
+      "name": "3 PÅ KANTEN",
+      "latitude": 56.273646,
+      "longitude": 8.321982
+    },
+    {
+      "name": "8eren",
+      "latitude": 55.489977,
+      "longitude": 9.477077
+    },
+    {
+      "name": "A-vej",
+      "latitude": 55.679043,
+      "longitude": 12.539364
+    },
+    {
+      "name": "AaB BAR 5",
+      "latitude": 57.051479,
+      "longitude": 9.899093
+    },
+    {
+      "name": "Aab Ølbod",
+      "latitude": 57.052287,
+      "longitude": 9.89763
+    },
+    {
+      "name": "Aakroen",
+      "latitude": 56.326563,
+      "longitude": 10.043281
+    },
+    {
+      "name": "Aalborg Pirates Piratbar",
+      "latitude": 57.018338,
+      "longitude": 9.963162
+    },
+    {
+      "name": "Aarhus Snooker & Pool",
+      "latitude": 56.202262,
+      "longitude": 10.24538
+    },
+    {
+      "name": "Aarup Bodega",
+      "latitude": 55.379506,
+      "longitude": 10.048198
+    },
+    {
+      "name": "Absalon Bar",
+      "latitude": 55.671705,
+      "longitude": 12.561754
+    },
+    {
+      "name": "Absolut",
+      "latitude": 55.624693,
+      "longitude": 12.573175
+    },
+    {
+      "name": "Admiralen",
+      "latitude": 56.167356,
+      "longitude": 9.550506
+    },
+    {
+      "name": "Admiralen",
+      "latitude": 57.588713,
+      "longitude": 9.959985
+    },
+    {
+      "name": "Aftenstjernen",
+      "latitude": 56.415455,
+      "longitude": 10.870931
+    },
+    {
+      "name": "After Dark",
+      "latitude": 56.794865,
+      "longitude": 8.86243
+    },
+    {
+      "name": "Agger Vin",
+      "latitude": 55.188181,
+      "longitude": 10.034083
+    },
+    {
+      "name": "AKP231203",
+      "latitude": 54.833445,
+      "longitude": 11.131192
+    },
+    {
+      "name": "Alberts",
+      "latitude": 56.157044,
+      "longitude": 10.208919
+    },
+    {
+      "name": "Alhambra Pub",
+      "latitude": 55.686664,
+      "longitude": 12.532163
+    },
+    {
+      "name": "Alkymia",
+      "latitude": 56.168112,
+      "longitude": 10.199353
+    },
+    {
+      "name": "Allé Caféen",
+      "latitude": 56.146325,
+      "longitude": 10.19358
+    },
+    {
+      "name": "Almas Terrasse Hulen",
+      "latitude": 55.776106,
+      "longitude": 12.576482
+    },
+    {
+      "name": "Aloha Beach Bar",
+      "latitude": 55.681606,
+      "longitude": 12.584307
+    },
+    {
+      "name": "Alpehytten",
+      "latitude": 55.682048,
+      "longitude": 12.582457
+    },
+    {
+      "name": "Amager Bryghus Taproom Bryggen",
+      "latitude": 55.665826,
+      "longitude": 12.578507
+    },
+    {
+      "name": "Amagerhylden",
+      "latitude": 55.662628,
+      "longitude": 12.60439
+    },
+    {
+      "name": "Amagerkollegiets Centerbar",
+      "latitude": 55.63334,
+      "longitude": 12.585493
+    },
+    {
+      "name": "Amanda Bar",
+      "latitude": 55.451148,
+      "longitude": 10.657316
+    },
+    {
+      "name": "Ambolten",
+      "latitude": 56.091851,
+      "longitude": 9.759525
+    },
+    {
+      "name": "Amigo Bar",
+      "latitude": 55.011595,
+      "longitude": 11.904145
+    },
+    {
+      "name": "Amigo Bar",
+      "latitude": 55.674483,
+      "longitude": 12.551243
+    },
+    {
+      "name": "Anarkist",
+      "latitude": 55.672848,
+      "longitude": 12.566776
+    },
+    {
+      "name": "Ancestrale",
+      "latitude": 55.671211,
+      "longitude": 12.549671
+    },
+    {
+      "name": "Anchor",
+      "latitude": 55.451709,
+      "longitude": 10.664388
+    },
+    {
+      "name": "Anden",
+      "latitude": 54.986745,
+      "longitude": 12.28831
+    },
+    {
+      "name": "Andersens Bodega",
+      "latitude": 55.396019,
+      "longitude": 10.398695
+    },
+    {
+      "name": "Andre Wine Bar",
+      "latitude": 55.695922,
+      "longitude": 12.544075
+    },
+    {
+      "name": "Anduma Vinbar",
+      "latitude": 55.709423,
+      "longitude": 9.533909
+    },
+    {
+      "name": "Andy's",
+      "latitude": 57.049704,
+      "longitude": 9.918616
+    },
+    {
+      "name": "Andy's Bar",
+      "latitude": 55.682159,
+      "longitude": 12.582235
+    },
+    {
+      "name": "Angers bodega",
+      "latitude": 56.167102,
+      "longitude": 10.186053
+    },
+    {
+      "name": "Anholt Bryghus",
+      "latitude": 56.710661,
+      "longitude": 11.532762
+    },
+    {
+      "name": "Anløbet - F & B Engholmene",
+      "latitude": 55.655179,
+      "longitude": 12.560566
+    },
+    {
+      "name": "Annalises Bar",
+      "latitude": 56.160383,
+      "longitude": 10.207421
+    },
+    {
+      "name": "Apollon",
+      "latitude": 56.157108,
+      "longitude": 10.207509
+    },
+    {
+      "name": "Arbejderforeningen Sortehavet",
+      "latitude": 55.308673,
+      "longitude": 10.795113
+    },
+    {
+      "name": "Arkaden",
+      "latitude": 55.489293,
+      "longitude": 9.477739
+    },
+    {
+      "name": "Arnum Øl & Vinstue",
+      "latitude": 55.24911,
+      "longitude": 8.965436
+    },
+    {
+      "name": "Arrebo",
+      "latitude": 54.890587,
+      "longitude": 10.411125
+    },
+    {
+      "name": "Askepot",
+      "latitude": 55.393735,
+      "longitude": 10.342721
+    },
+    {
+      "name": "Askotten",
+      "latitude": 55.470041,
+      "longitude": 9.101315
+    },
+    {
+      "name": "Atze Peng",
+      "latitude": 55.665788,
+      "longitude": 12.543046
+    },
+    {
+      "name": "Aviskontoret",
+      "latitude": 56.803269,
+      "longitude": 9.520782
+    },
+    {
+      "name": "Away Bar",
+      "latitude": 55.637449,
+      "longitude": 12.074631
+    },
+    {
+      "name": "Axelborg Bodega",
+      "latitude": 55.675429,
+      "longitude": 12.56444
+    },
+    {
+      "name": "Axelhus Bodega",
+      "latitude": 56.036126,
+      "longitude": 12.611337
+    },
+    {
+      "name": "Bacall",
+      "latitude": 55.714105,
+      "longitude": 11.715954
+    },
+    {
+      "name": "Backyards",
+      "latitude": 56.092249,
+      "longitude": 12.453836
+    },
+    {
+      "name": "Bag Duggede Ruder",
+      "latitude": 55.663483,
+      "longitude": 12.542169
+    },
+    {
+      "name": "Baggården",
+      "latitude": 55.64901,
+      "longitude": 12.300962
+    },
+    {
+      "name": "Baghuset",
+      "latitude": 55.443769,
+      "longitude": 11.792333
+    },
+    {
+      "name": "Bahaba",
+      "latitude": 55.758365,
+      "longitude": 12.439356
+    },
+    {
+      "name": "Bakkekroen",
+      "latitude": 56.43922,
+      "longitude": 8.196728
+    },
+    {
+      "name": "Bakken",
+      "latitude": 55.668726,
+      "longitude": 12.559701
+    },
+    {
+      "name": "Bakkens Hvile",
+      "latitude": 55.775038,
+      "longitude": 12.574896
+    },
+    {
+      "name": "Balderdash",
+      "latitude": 55.679895,
+      "longitude": 12.577711
+    },
+    {
+      "name": "Balthazar Champagne Bar",
+      "latitude": 55.680537,
+      "longitude": 12.583347
+    },
+    {
+      "name": "Bambi",
+      "latitude": 55.668685,
+      "longitude": 12.559565
+    },
+    {
+      "name": "Bamses Bodega",
+      "latitude": 55.612379,
+      "longitude": 12.362083
+    },
+    {
+      "name": "Banegårdsrestaurationen",
+      "latitude": 55.971814,
+      "longitude": 10.150259
+    },
+    {
+      "name": "Banken",
+      "latitude": 55.670635,
+      "longitude": 12.557587
+    },
+    {
+      "name": "Bar 109 Vesterbro",
+      "latitude": 55.667626,
+      "longitude": 12.54848
+    },
+    {
+      "name": "Bar 33 Vesterbro",
+      "latitude": 55.66606,
+      "longitude": 12.553506
+    },
+    {
+      "name": "Bar 66",
+      "latitude": 55.479052,
+      "longitude": 8.435387
+    },
+    {
+      "name": "Bar 7",
+      "latitude": 55.404691,
+      "longitude": 10.382254
+    },
+    {
+      "name": "Bar 7",
+      "latitude": 55.678949,
+      "longitude": 12.570729
+    },
+    {
+      "name": "BAR 8660",
+      "latitude": 56.036969,
+      "longitude": 9.930854
+    },
+    {
+      "name": "Bar de Ville",
+      "latitude": 55.251962,
+      "longitude": 9.485716
+    },
+    {
+      "name": "Bar Deco",
+      "latitude": 55.681217,
+      "longitude": 12.583762
+    },
+    {
+      "name": "Bar For Sjov",
+      "latitude": 56.155166,
+      "longitude": 10.211512
+    },
+    {
+      "name": "Bar Godt",
+      "latitude": 55.679997,
+      "longitude": 12.57512
+    },
+    {
+      "name": "Bar No. 5",
+      "latitude": 55.844566,
+      "longitude": 12.174143
+    },
+    {
+      "name": "Bar Pia",
+      "latitude": 56.199143,
+      "longitude": 10.680728
+    },
+    {
+      "name": "Bar Pineau",
+      "latitude": 55.666316,
+      "longitude": 12.551343
+    },
+    {
+      "name": "Bar Poldo",
+      "latitude": 55.679712,
+      "longitude": 12.584319
+    },
+    {
+      "name": "Bar Rar",
+      "latitude": 55.397988,
+      "longitude": 10.379147
+    },
+    {
+      "name": "Bar Rolig Horsens",
+      "latitude": 55.862752,
+      "longitude": 9.848205
+    },
+    {
+      "name": "Bar Rolig Randers",
+      "latitude": 56.458391,
+      "longitude": 10.037572
+    },
+    {
+      "name": "Bar Smil",
+      "latitude": 56.156668,
+      "longitude": 10.208273
+    },
+    {
+      "name": "Bar Sol",
+      "latitude": 55.693498,
+      "longitude": 12.608889
+    },
+    {
+      "name": "Bar Solis",
+      "latitude": 55.669701,
+      "longitude": 12.545306
+    },
+    {
+      "name": "Bar Somm",
+      "latitude": 55.684069,
+      "longitude": 12.568069
+    },
+    {
+      "name": "Bar Sportif",
+      "latitude": 55.68165,
+      "longitude": 12.580256
+    },
+    {
+      "name": "Bar Tampa",
+      "latitude": 55.683659,
+      "longitude": 12.536984
+    },
+    {
+      "name": "Bar Tatti",
+      "latitude": 55.68179,
+      "longitude": 12.582528
+    },
+    {
+      "name": "Bar Una",
+      "latitude": 55.667913,
+      "longitude": 12.550206
+    },
+    {
+      "name": "Bar Vitrine",
+      "latitude": 55.681868,
+      "longitude": 12.579407
+    },
+    {
+      "name": "Bar Vorres",
+      "latitude": 56.15953,
+      "longitude": 10.207886
+    },
+    {
+      "name": "Bar With A View",
+      "latitude": 55.63057,
+      "longitude": 12.65242
+    },
+    {
+      "name": "Bar'N",
+      "latitude": 55.460059,
+      "longitude": 10.561164
+    },
+    {
+      "name": "Bar'Vinbar",
+      "latitude": 54.909427,
+      "longitude": 9.789166
+    },
+    {
+      "name": "Barbarian",
+      "latitude": 55.687525,
+      "longitude": 12.559342
+    },
+    {
+      "name": "Barberen",
+      "latitude": 56.156704,
+      "longitude": 10.208225
+    },
+    {
+      "name": "Barception",
+      "latitude": 55.630593,
+      "longitude": 12.652563
+    },
+    {
+      "name": "Baren",
+      "latitude": 55.279138,
+      "longitude": 14.800575
+    },
+    {
+      "name": "Baren Herning",
+      "latitude": 56.136126,
+      "longitude": 8.977714
+    },
+    {
+      "name": "Baren.dk Vilh. Kiers Kollegium",
+      "latitude": 56.174749,
+      "longitude": 10.168343
+    },
+    {
+      "name": "Barkaden",
+      "latitude": 55.394827,
+      "longitude": 10.387021
+    },
+    {
+      "name": "Barkaden",
+      "latitude": 57.049729,
+      "longitude": 9.918539
+    },
+    {
+      "name": "Barkowski",
+      "latitude": 55.684627,
+      "longitude": 12.567594
+    },
+    {
+      "name": "Barley Bar",
+      "latitude": 55.712732,
+      "longitude": 12.577811
+    },
+    {
+      "name": "Baronessen",
+      "latitude": 56.361719,
+      "longitude": 10.588806
+    },
+    {
+      "name": "BarrDrew",
+      "latitude": 55.685004,
+      "longitude": 12.567738
+    },
+    {
+      "name": "Barry's",
+      "latitude": 56.458544,
+      "longitude": 10.037428
+    },
+    {
+      "name": "Bart",
+      "latitude": 56.136066,
+      "longitude": 8.978051
+    },
+    {
+      "name": "Basement",
+      "latitude": 55.681871,
+      "longitude": 12.582599
+    },
+    {
+      "name": "Basement - Friday bar for students",
+      "latitude": 56.119761,
+      "longitude": 10.159134
+    },
+    {
+      "name": "Basement Beer Bar",
+      "latitude": 57.046005,
+      "longitude": 9.929112
+    },
+    {
+      "name": "Basses Bodega",
+      "latitude": 55.521947,
+      "longitude": 9.478846
+    },
+    {
+      "name": "Bassinet",
+      "latitude": 55.70636,
+      "longitude": 12.583317
+    },
+    {
+      "name": "Beboerværtshuset Våde Høne",
+      "latitude": 55.676042,
+      "longitude": 12.357947
+    },
+    {
+      "name": "Beefeater",
+      "latitude": 56.188952,
+      "longitude": 10.216211
+    },
+    {
+      "name": "Beer House",
+      "latitude": 55.693509,
+      "longitude": 12.608781
+    },
+    {
+      "name": "Belis bar udebaren",
+      "latitude": 55.678311,
+      "longitude": 12.532489
+    },
+    {
+      "name": "Belma",
+      "latitude": 55.670208,
+      "longitude": 12.556388
+    },
+    {
+      "name": "Bennis Bar",
+      "latitude": 55.66571,
+      "longitude": 12.543548
+    },
+    {
+      "name": "Beta House",
+      "latitude": 56.413602,
+      "longitude": 10.880403
+    },
+    {
+      "name": "Betty Nansen Teaterbar",
+      "latitude": 55.674011,
+      "longitude": 12.53701
+    },
+    {
+      "name": "Beviamo Winebar",
+      "latitude": 55.702431,
+      "longitude": 12.583614
+    },
+    {
+      "name": "Bibas",
+      "latitude": 55.498098,
+      "longitude": 8.405971
+    },
+    {
+      "name": "Bibendum",
+      "latitude": 55.683743,
+      "longitude": 12.56518
+    },
+    {
+      "name": "Biblioteket",
+      "latitude": 54.890517,
+      "longitude": 12.039838
+    },
+    {
+      "name": "Bicycle Brewing",
+      "latitude": 55.705559,
+      "longitude": 12.579354
+    },
+    {
+      "name": "Biergarten Søndervig",
+      "latitude": 56.119801,
+      "longitude": 8.115513
+    },
+    {
+      "name": "Bierstube",
+      "latitude": 56.358206,
+      "longitude": 8.620029
+    },
+    {
+      "name": "Billarden",
+      "latitude": 55.39382,
+      "longitude": 10.375842
+    },
+    {
+      "name": "Billardstuen Tranebærhaven",
+      "latitude": 55.615139,
+      "longitude": 12.366826
+    },
+    {
+      "name": "Billund Lufthavn Gastrobar",
+      "latitude": 55.746223,
+      "longitude": 9.148601
+    },
+    {
+      "name": "Billy Booze",
+      "latitude": 54.765569,
+      "longitude": 11.875519
+    },
+    {
+      "name": "Biologisk Fredagsbar",
+      "latitude": 56.166716,
+      "longitude": 10.203029
+    },
+    {
+      "name": "Bip Bip Bar",
+      "latitude": 55.688903,
+      "longitude": 12.559758
+    },
+    {
+      "name": "bird",
+      "latitude": 55.675803,
+      "longitude": 12.544789
+    },
+    {
+      "name": "bird : downtown",
+      "latitude": 55.682379,
+      "longitude": 12.586223
+    },
+    {
+      "name": "Bitter Bar",
+      "latitude": 56.155648,
+      "longitude": 10.20887
+    },
+    {
+      "name": "Bjesken",
+      "latitude": 57.461297,
+      "longitude": 9.986019
+    },
+    {
+      "name": "Bjælkehytten",
+      "latitude": 55.250893,
+      "longitude": 9.494553
+    },
+    {
+      "name": "Bjælkehytten",
+      "latitude": 55.466537,
+      "longitude": 8.454299
+    },
+    {
+      "name": "Bjørn og Delfino",
+      "latitude": 55.655814,
+      "longitude": 12.560049
+    },
+    {
+      "name": "Bjørnen og De Tolv Haner",
+      "latitude": 55.664459,
+      "longitude": 12.602681
+    },
+    {
+      "name": "Black Swan",
+      "latitude": 55.686489,
+      "longitude": 12.587433
+    },
+    {
+      "name": "Black Swan",
+      "latitude": 57.050019,
+      "longitude": 9.918954
+    },
+    {
+      "name": "BLAS",
+      "latitude": 55.693751,
+      "longitude": 9.249036
+    },
+    {
+      "name": "Blokhus Beachbar",
+      "latitude": 57.254427,
+      "longitude": 9.58029
+    },
+    {
+      "name": "Blomsten & Bien",
+      "latitude": 55.397747,
+      "longitude": 10.393782
+    },
+    {
+      "name": "Blondies Pub",
+      "latitude": 55.665681,
+      "longitude": 12.390193
+    },
+    {
+      "name": "Blondie’s Pub",
+      "latitude": 55.672434,
+      "longitude": 12.50378
+    },
+    {
+      "name": "Blue Raven",
+      "latitude": 55.65831,
+      "longitude": 12.608439
+    },
+    {
+      "name": "Blume",
+      "latitude": 55.6788,
+      "longitude": 12.569836
+    },
+    {
+      "name": "Blågårds Apotek",
+      "latitude": 55.686456,
+      "longitude": 12.55797
+    },
+    {
+      "name": "Blækhuset",
+      "latitude": 55.095004,
+      "longitude": 10.243975
+    },
+    {
+      "name": "Bo-Bi Bar",
+      "latitude": 55.68101,
+      "longitude": 12.578687
+    },
+    {
+      "name": "Bodega",
+      "latitude": 55.693127,
+      "longitude": 12.609661
+    },
+    {
+      "name": "Bodega 100 Herlev",
+      "latitude": 55.722727,
+      "longitude": 12.443064
+    },
+    {
+      "name": "Bodega Bajonetten",
+      "latitude": 55.961765,
+      "longitude": 11.851036
+    },
+    {
+      "name": "Bodega Danza",
+      "latitude": 55.668653,
+      "longitude": 12.55948
+    },
+    {
+      "name": "Bodega Dueslaget",
+      "latitude": 55.229891,
+      "longitude": 11.771428
+    },
+    {
+      "name": "Bodega Gadespejlet",
+      "latitude": 56.13585,
+      "longitude": 8.978057
+    },
+    {
+      "name": "Bodega Guldhornet",
+      "latitude": 54.8293,
+      "longitude": 11.140005
+    },
+    {
+      "name": "Bodega Høvlen",
+      "latitude": 55.678593,
+      "longitude": 11.085634
+    },
+    {
+      "name": "Bodega Konkylie",
+      "latitude": 55.704605,
+      "longitude": 12.532208
+    },
+    {
+      "name": "Bodega Lygten",
+      "latitude": 54.576748,
+      "longitude": 11.928833
+    },
+    {
+      "name": "Bodega Mødestedet",
+      "latitude": 55.568545,
+      "longitude": 9.72714
+    },
+    {
+      "name": "Bodega Møllen",
+      "latitude": 55.931056,
+      "longitude": 12.298681
+    },
+    {
+      "name": "Bodega Napoleon",
+      "latitude": 55.368019,
+      "longitude": 9.060671
+    },
+    {
+      "name": "Bodega No.1",
+      "latitude": 56.374957,
+      "longitude": 9.658661
+    },
+    {
+      "name": "Bodega Oasen",
+      "latitude": 56.463983,
+      "longitude": 10.032795
+    },
+    {
+      "name": "Bodega Odense",
+      "latitude": 55.394852,
+      "longitude": 10.387054
+    },
+    {
+      "name": "Bodega Olivia",
+      "latitude": 56.676934,
+      "longitude": 10.064622
+    },
+    {
+      "name": "Bodega Posthuset",
+      "latitude": 56.262865,
+      "longitude": 10.05976
+    },
+    {
+      "name": "bodega ræven",
+      "latitude": 55.834251,
+      "longitude": 10.590147
+    },
+    {
+      "name": "Bodega Smøgen",
+      "latitude": 56.176767,
+      "longitude": 9.555394
+    },
+    {
+      "name": "Bodega Spar 5",
+      "latitude": 55.838523,
+      "longitude": 12.057609
+    },
+    {
+      "name": "Bodega Striben",
+      "latitude": 55.90802,
+      "longitude": 12.15058
+    },
+    {
+      "name": "Bodega Syv Sind",
+      "latitude": 55.749949,
+      "longitude": 12.495512
+    },
+    {
+      "name": "Bodega Teglskægget",
+      "latitude": 55.669605,
+      "longitude": 12.491872
+    },
+    {
+      "name": "Bodega Valhall",
+      "latitude": 54.695628,
+      "longitude": 11.391318
+    },
+    {
+      "name": "Bodega Vognporten",
+      "latitude": 55.465082,
+      "longitude": 8.699352
+    },
+    {
+      "name": "Bodega Værkstedet",
+      "latitude": 56.1089,
+      "longitude": 10.076796
+    },
+    {
+      "name": "Bodegaen",
+      "latitude": 55.33913,
+      "longitude": 11.135293
+    },
+    {
+      "name": "Bodegaen",
+      "latitude": 56.155878,
+      "longitude": 10.208649
+    },
+    {
+      "name": "Bodegaen Nykøbing",
+      "latitude": 56.794983,
+      "longitude": 8.861548
+    },
+    {
+      "name": "Bodegaen Sindal",
+      "latitude": 57.472308,
+      "longitude": 10.202737
+    },
+    {
+      "name": "Bodegaen Ørsted",
+      "latitude": 56.501797,
+      "longitude": 10.335548
+    },
+    {
+      "name": "Bodegastuen",
+      "latitude": 55.277861,
+      "longitude": 10.104383
+    },
+    {
+      "name": "Bogart Bodega",
+      "latitude": 55.700256,
+      "longitude": 11.264479
+    },
+    {
+      "name": "Bogholderiet",
+      "latitude": 55.059121,
+      "longitude": 10.616995
+    },
+    {
+      "name": "Bohème Vin",
+      "latitude": 56.135813,
+      "longitude": 8.980025
+    },
+    {
+      "name": "Boldts Bar",
+      "latitude": 55.248349,
+      "longitude": 9.488247
+    },
+    {
+      "name": "Bondestuen",
+      "latitude": 55.747894,
+      "longitude": 11.957043
+    },
+    {
+      "name": "Bondestuen",
+      "latitude": 57.453413,
+      "longitude": 9.995424
+    },
+    {
+      "name": "Bootleggers",
+      "latitude": 55.680674,
+      "longitude": 12.53377
+    },
+    {
+      "name": "Bootleggers",
+      "latitude": 55.683586,
+      "longitude": 12.570264
+    },
+    {
+      "name": "Bootleggers Bryggen",
+      "latitude": 55.666517,
+      "longitude": 12.58041
+    },
+    {
+      "name": "Bootleggers Nørrebro",
+      "latitude": 55.686317,
+      "longitude": 12.550549
+    },
+    {
+      "name": "Bootleggers Vesterbro",
+      "latitude": 55.668177,
+      "longitude": 12.549479
+    },
+    {
+      "name": "Boretårnet",
+      "latitude": 55.476132,
+      "longitude": 8.437448
+    },
+    {
+      "name": "Borgens Sportsbar- legeborgen og Golfborgen",
+      "latitude": 55.607709,
+      "longitude": 8.507187
+    },
+    {
+      "name": "Borgergade 2",
+      "latitude": 57.051091,
+      "longitude": 9.918383
+    },
+    {
+      "name": "Borgerkroen",
+      "latitude": 55.686467,
+      "longitude": 12.58769
+    },
+    {
+      "name": "Born 12/ Jailhouse CPH",
+      "latitude": 55.67888,
+      "longitude": 12.570034
+    },
+    {
+      "name": "Bosco Baren",
+      "latitude": 56.121898,
+      "longitude": 8.950309
+    },
+    {
+      "name": "Bouchon",
+      "latitude": 56.148157,
+      "longitude": 10.203307
+    },
+    {
+      "name": "Boulebar Allegade",
+      "latitude": 55.675718,
+      "longitude": 12.533101
+    },
+    {
+      "name": "Boulebar Sankt Petri",
+      "latitude": 55.680944,
+      "longitude": 12.571343
+    },
+    {
+      "name": "Boulevard Bodega",
+      "latitude": 55.666029,
+      "longitude": 12.597676
+    },
+    {
+      "name": "Boulevard Cafeen",
+      "latitude": 57.043631,
+      "longitude": 9.91869
+    },
+    {
+      "name": "Boulevarden",
+      "latitude": 55.665423,
+      "longitude": 12.548829
+    },
+    {
+      "name": "Boulevarden",
+      "latitude": 56.155188,
+      "longitude": 10.210482
+    },
+    {
+      "name": "Bredo",
+      "latitude": 55.69388,
+      "longitude": 12.561021
+    },
+    {
+      "name": "Broca's Bodega",
+      "latitude": 56.172715,
+      "longitude": 10.206148
+    },
+    {
+      "name": "bryg 24b",
+      "latitude": 55.68818,
+      "longitude": 12.55429
+    },
+    {
+      "name": "BRYG BAR",
+      "latitude": 55.396205,
+      "longitude": 10.383101
+    },
+    {
+      "name": "Bryggerhesten",
+      "latitude": 55.753283,
+      "longitude": 12.572529
+    },
+    {
+      "name": "Bryggerkælderen",
+      "latitude": 55.781089,
+      "longitude": 12.17407
+    },
+    {
+      "name": "Bræddehytten",
+      "latitude": 55.567002,
+      "longitude": 9.760794
+    },
+    {
+      "name": "Bræddehytten",
+      "latitude": 56.636141,
+      "longitude": 9.796906
+    },
+    {
+      "name": "Bubble Bar",
+      "latitude": 56.149179,
+      "longitude": 10.20403
+    },
+    {
+      "name": "Bubbles",
+      "latitude": 55.705923,
+      "longitude": 12.578926
+    },
+    {
+      "name": "Bubsi",
+      "latitude": 56.492119,
+      "longitude": 8.592367
+    },
+    {
+      "name": "Buchs Vinstue",
+      "latitude": 55.250362,
+      "longitude": 9.487892
+    },
+    {
+      "name": "Buddha Bar",
+      "latitude": 55.070674,
+      "longitude": 14.921595
+    },
+    {
+      "name": "Buddy Holly",
+      "latitude": 56.491434,
+      "longitude": 8.59715
+    },
+    {
+      "name": "Buddy Holly",
+      "latitude": 56.63893,
+      "longitude": 9.793423
+    },
+    {
+      "name": "Buhls Baghave",
+      "latitude": 56.059384,
+      "longitude": 12.075253
+    },
+    {
+      "name": "Bullseye",
+      "latitude": 55.66469,
+      "longitude": 12.599935
+    },
+    {
+      "name": "Bunchs Vinbar",
+      "latitude": 55.681791,
+      "longitude": 12.549752
+    },
+    {
+      "name": "Bunkerbaren",
+      "latitude": 56.185758,
+      "longitude": 10.188559
+    },
+    {
+      "name": "Butchers Odense",
+      "latitude": 55.397708,
+      "longitude": 10.393675
+    },
+    {
+      "name": "Butler",
+      "latitude": 56.146527,
+      "longitude": 10.203336
+    },
+    {
+      "name": "Buzío",
+      "latitude": 55.697361,
+      "longitude": 12.555581
+    },
+    {
+      "name": "Bybrønden",
+      "latitude": 56.794831,
+      "longitude": 8.859812
+    },
+    {
+      "name": "Byens bar",
+      "latitude": 55.808945,
+      "longitude": 11.50063
+    },
+    {
+      "name": "Byens Bodega",
+      "latitude": 55.425768,
+      "longitude": 9.282828
+    },
+    {
+      "name": "Byens bodega",
+      "latitude": 55.671612,
+      "longitude": 12.572382
+    },
+    {
+      "name": "Byens Vinbar",
+      "latitude": 55.56796,
+      "longitude": 10.079415
+    },
+    {
+      "name": "Bykroen",
+      "latitude": 56.461499,
+      "longitude": 10.02603
+    },
+    {
+      "name": "Byportens Bodega",
+      "latitude": 56.316254,
+      "longitude": 10.320886
+    },
+    {
+      "name": "Bystævnet",
+      "latitude": 55.223363,
+      "longitude": 10.125854
+    },
+    {
+      "name": "Bytinget",
+      "latitude": 56.968038,
+      "longitude": 9.253017
+    },
+    {
+      "name": "Bytrommen",
+      "latitude": 55.923929,
+      "longitude": 11.674344
+    },
+    {
+      "name": "Bæst Cocktailbar",
+      "latitude": 55.679372,
+      "longitude": 12.574898
+    },
+    {
+      "name": "Bæveren",
+      "latitude": 55.256483,
+      "longitude": 10.67183
+    },
+    {
+      "name": "Bøjen Øl & Vinstue / Bed & breakfast",
+      "latitude": 55.245385,
+      "longitude": 9.383326
+    },
+    {
+      "name": "Bøllingsø Bryghus detail",
+      "latitude": 56.166542,
+      "longitude": 9.349295
+    },
+    {
+      "name": "Børglum Kollegiet KollegieBar",
+      "latitude": 56.187567,
+      "longitude": 10.212658
+    },
+    {
+      "name": "Cafe 18",
+      "latitude": 55.10218,
+      "longitude": 14.698025
+    },
+    {
+      "name": "CAFE 38",
+      "latitude": 56.458776,
+      "longitude": 10.037716
+    },
+    {
+      "name": "Cafe Aalholm Bodega",
+      "latitude": 55.672321,
+      "longitude": 12.488349
+    },
+    {
+      "name": "Cafe Bageriet",
+      "latitude": 55.70587,
+      "longitude": 12.553441
+    },
+    {
+      "name": "Cafe Bobby",
+      "latitude": 55.725181,
+      "longitude": 12.436939
+    },
+    {
+      "name": "Cafe Bryggeriet",
+      "latitude": 55.665477,
+      "longitude": 12.538886
+    },
+    {
+      "name": "Cafe Børsen",
+      "latitude": 56.955463,
+      "longitude": 8.693079
+    },
+    {
+      "name": "Cafe Børsen Viborg",
+      "latitude": 56.451886,
+      "longitude": 9.408011
+    },
+    {
+      "name": "Cafe Carlton",
+      "latitude": 57.371715,
+      "longitude": 9.71147
+    },
+    {
+      "name": "Cafe Domhuset",
+      "latitude": 55.679455,
+      "longitude": 12.529418
+    },
+    {
+      "name": "Cafe Fremforalt",
+      "latitude": 55.646251,
+      "longitude": 12.524453
+    },
+    {
+      "name": "Cafe Gyden",
+      "latitude": 56.156462,
+      "longitude": 10.211895
+    },
+    {
+      "name": "Cafe Hjørnet",
+      "latitude": 55.665303,
+      "longitude": 12.519965
+    },
+    {
+      "name": "Cafe Lille Per",
+      "latitude": 55.100456,
+      "longitude": 14.701512
+    },
+    {
+      "name": "Cafe Lux",
+      "latitude": 55.40698,
+      "longitude": 11.353478
+    },
+    {
+      "name": "Cafe Magic",
+      "latitude": 55.461792,
+      "longitude": 12.184036
+    },
+    {
+      "name": "Cafe Mylle",
+      "latitude": 56.088364,
+      "longitude": 8.246248
+    },
+    {
+      "name": "Cafe Paradis",
+      "latitude": 56.165016,
+      "longitude": 9.551291
+    },
+    {
+      "name": "Cafe Pitstop",
+      "latitude": 56.956011,
+      "longitude": 8.693288
+    },
+    {
+      "name": "Cafe Pollys",
+      "latitude": 57.049618,
+      "longitude": 9.921069
+    },
+    {
+      "name": "Cafe Poppen",
+      "latitude": 55.994434,
+      "longitude": 12.544774
+    },
+    {
+      "name": "Cafe Rosen",
+      "latitude": 55.928024,
+      "longitude": 12.305806
+    },
+    {
+      "name": "Cafe Sepps",
+      "latitude": 55.402869,
+      "longitude": 11.355983
+    },
+    {
+      "name": "Cafe Smagløs",
+      "latitude": 56.457945,
+      "longitude": 10.038359
+    },
+    {
+      "name": "Cafe Sommersted",
+      "latitude": 55.667443,
+      "longitude": 12.555044
+    },
+    {
+      "name": "Cafe Strandlyst",
+      "latitude": 55.7127,
+      "longitude": 12.576892
+    },
+    {
+      "name": "Cafe sult havnegade 16",
+      "latitude": 56.794856,
+      "longitude": 8.862659
+    },
+    {
+      "name": "Cafe Sundet",
+      "latitude": 55.659827,
+      "longitude": 12.610603
+    },
+    {
+      "name": "Cafe Tuborg",
+      "latitude": 56.460143,
+      "longitude": 10.034701
+    },
+    {
+      "name": "Cafe Tyren",
+      "latitude": 55.233999,
+      "longitude": 11.761913
+    },
+    {
+      "name": "Cafe Valdemar",
+      "latitude": 56.035726,
+      "longitude": 12.610304
+    },
+    {
+      "name": "Cafe Viva",
+      "latitude": 56.450565,
+      "longitude": 9.405336
+    },
+    {
+      "name": "Cafe Værsgo",
+      "latitude": 56.512732,
+      "longitude": 10.588652
+    },
+    {
+      "name": "Cafeen",
+      "latitude": 55.705301,
+      "longitude": 8.751854
+    },
+    {
+      "name": "Cafeen",
+      "latitude": 55.73118,
+      "longitude": 9.112898
+    },
+    {
+      "name": "Cafè Guldhornene",
+      "latitude": 55.677285,
+      "longitude": 12.569301
+    },
+    {
+      "name": "Café 23",
+      "latitude": 55.406561,
+      "longitude": 11.349567
+    },
+    {
+      "name": "Café 34",
+      "latitude": 55.656564,
+      "longitude": 12.612447
+    },
+    {
+      "name": "Café 42",
+      "latitude": 55.667221,
+      "longitude": 12.553453
+    },
+    {
+      "name": "Café Aahuset",
+      "latitude": 55.860652,
+      "longitude": 9.852388
+    },
+    {
+      "name": "Café Bagergården",
+      "latitude": 55.330158,
+      "longitude": 11.137011
+    },
+    {
+      "name": "Café Bifrost",
+      "latitude": 56.16701,
+      "longitude": 9.545115
+    },
+    {
+      "name": "Café Blomsten",
+      "latitude": 55.680693,
+      "longitude": 12.589377
+    },
+    {
+      "name": "Café Coma",
+      "latitude": 55.7022,
+      "longitude": 12.550238
+    },
+    {
+      "name": "Café Dan Turell",
+      "latitude": 55.68161,
+      "longitude": 12.581785
+    },
+    {
+      "name": "Café Engholmen",
+      "latitude": 55.650926,
+      "longitude": 12.536393
+    },
+    {
+      "name": "Café Englandshus",
+      "latitude": 55.657752,
+      "longitude": 12.606456
+    },
+    {
+      "name": "Café Fuglereden",
+      "latitude": 55.704713,
+      "longitude": 12.52645
+    },
+    {
+      "name": "Café Guldbar",
+      "latitude": 55.701988,
+      "longitude": 12.600196
+    },
+    {
+      "name": "Café Guldhuset",
+      "latitude": 55.664429,
+      "longitude": 12.608139
+    },
+    {
+      "name": "Café Haraldsborg",
+      "latitude": 55.667577,
+      "longitude": 12.578073
+    },
+    {
+      "name": "Café Højden",
+      "latitude": 55.654565,
+      "longitude": 12.61184
+    },
+    {
+      "name": "Café Irgens",
+      "latitude": 55.704776,
+      "longitude": 12.56198
+    },
+    {
+      "name": "Café Josephine",
+      "latitude": 55.661627,
+      "longitude": 12.607435
+    },
+    {
+      "name": "Café Lille Peter",
+      "latitude": 55.695786,
+      "longitude": 12.543938
+    },
+    {
+      "name": "Café Ludwigsen",
+      "latitude": 55.670951,
+      "longitude": 12.543688
+    },
+    {
+      "name": "Café Mosebryg",
+      "latitude": 55.717727,
+      "longitude": 12.489784
+    },
+    {
+      "name": "Café Muhl",
+      "latitude": 56.458753,
+      "longitude": 10.037481
+    },
+    {
+      "name": "Café Mønten",
+      "latitude": 55.678962,
+      "longitude": 12.591062
+    },
+    {
+      "name": "Café Nexus",
+      "latitude": 55.681637,
+      "longitude": 12.53076
+    },
+    {
+      "name": "Café Pingo",
+      "latitude": 55.97914,
+      "longitude": 12.398186
+    },
+    {
+      "name": "Café Rosen Hillerød",
+      "latitude": 55.93241,
+      "longitude": 12.298174
+    },
+    {
+      "name": "Café Snork",
+      "latitude": 55.667143,
+      "longitude": 12.547909
+    },
+    {
+      "name": "Café VG",
+      "latitude": 56.46355,
+      "longitude": 9.45095
+    },
+    {
+      "name": "Café Viggos",
+      "latitude": 55.397748,
+      "longitude": 10.38096
+    },
+    {
+      "name": "Café Viking",
+      "latitude": 55.404976,
+      "longitude": 11.35269
+    },
+    {
+      "name": "Café Viking",
+      "latitude": 55.69961,
+      "longitude": 12.54671
+    },
+    {
+      "name": "Café Ægir",
+      "latitude": 55.69858,
+      "longitude": 12.545621
+    },
+    {
+      "name": "Café6'eren",
+      "latitude": 55.67991,
+      "longitude": 12.52178
+    },
+    {
+      "name": "Caféen på Naturvidenskab",
+      "latitude": 55.701939,
+      "longitude": 12.558566
+    },
+    {
+      "name": "Camp Minigolf",
+      "latitude": 57.049884,
+      "longitude": 9.918688
+    },
+    {
+      "name": "Camping Boltensgård",
+      "latitude": 55.681771,
+      "longitude": 12.584623
+    },
+    {
+      "name": "CAPO",
+      "latitude": 56.16034,
+      "longitude": 10.204057
+    },
+    {
+      "name": "Captain Murphys",
+      "latitude": 54.853725,
+      "longitude": 10.517785
+    },
+    {
+      "name": "Carambar",
+      "latitude": 55.675123,
+      "longitude": 12.572109
+    },
+    {
+      "name": "Carls Hjørne",
+      "latitude": 55.611466,
+      "longitude": 11.772422
+    },
+    {
+      "name": "Carlsvognen",
+      "latitude": 57.050136,
+      "longitude": 9.918991
+    },
+    {
+      "name": "Carpe Diem",
+      "latitude": 57.045203,
+      "longitude": 9.930993
+    },
+    {
+      "name": "Casino Bar",
+      "latitude": 56.154994,
+      "longitude": 10.211562
+    },
+    {
+      "name": "Casino Bodega",
+      "latitude": 55.568014,
+      "longitude": 9.75901
+    },
+    {
+      "name": "Cassiopeia Skælskør",
+      "latitude": 55.253663,
+      "longitude": 11.293359
+    },
+    {
+      "name": "Center Poppen",
+      "latitude": 56.022071,
+      "longitude": 12.199966
+    },
+    {
+      "name": "Center Pub",
+      "latitude": 55.653099,
+      "longitude": 12.474433
+    },
+    {
+      "name": "Centerpubben",
+      "latitude": 56.491481,
+      "longitude": 8.597414
+    },
+    {
+      "name": "Centerpubben Jyderup",
+      "latitude": 55.660003,
+      "longitude": 11.397152
+    },
+    {
+      "name": "Central bar",
+      "latitude": 56.150749,
+      "longitude": 10.20001
+    },
+    {
+      "name": "Centralkroen",
+      "latitude": 56.327186,
+      "longitude": 10.043893
+    },
+    {
+      "name": "Centre Stage Bar & Lounge",
+      "latitude": 55.678401,
+      "longitude": 12.568768
+    },
+    {
+      "name": "Centrumpubben",
+      "latitude": 55.326871,
+      "longitude": 11.964764
+    },
+    {
+      "name": "CeziliaS Bistro & Bodega",
+      "latitude": 55.163663,
+      "longitude": 11.854785
+    },
+    {
+      "name": "Champagnedråben",
+      "latitude": 55.533152,
+      "longitude": 12.223534
+    },
+    {
+      "name": "Champagnekælderen",
+      "latitude": 55.684375,
+      "longitude": 12.563805
+    },
+    {
+      "name": "Chaos geologisk fredagsbar",
+      "latitude": 56.163263,
+      "longitude": 10.209702
+    },
+    {
+      "name": "Charlie Arnold",
+      "latitude": 55.533395,
+      "longitude": 12.216398
+    },
+    {
+      "name": "Charlie Chaplin",
+      "latitude": 55.629731,
+      "longitude": 12.096433
+    },
+    {
+      "name": "CheapZ",
+      "latitude": 55.231999,
+      "longitude": 11.760516
+    },
+    {
+      "name": "Cheers",
+      "latitude": 55.230625,
+      "longitude": 11.761724
+    },
+    {
+      "name": "Chevy's",
+      "latitude": 55.703735,
+      "longitude": 12.590006
+    },
+    {
+      "name": "Chez Désirée",
+      "latitude": 55.395461,
+      "longitude": 10.379827
+    },
+    {
+      "name": "Chimpansen Bodega",
+      "latitude": 55.649508,
+      "longitude": 12.30139
+    },
+    {
+      "name": "Christian 4",
+      "latitude": 54.913541,
+      "longitude": 9.794874
+    },
+    {
+      "name": "Christian Firtal",
+      "latitude": 55.395697,
+      "longitude": 10.383509
+    },
+    {
+      "name": "Christian IV",
+      "latitude": 55.678714,
+      "longitude": 12.580105
+    },
+    {
+      "name": "Christianshavn Øl & Vinstue",
+      "latitude": 56.550347,
+      "longitude": 8.307964
+    },
+    {
+      "name": "Chums",
+      "latitude": 55.685349,
+      "longitude": 12.569085
+    },
+    {
+      "name": "Churros",
+      "latitude": 55.673295,
+      "longitude": 12.571484
+    },
+    {
+      "name": "Cirkuskroen",
+      "latitude": 56.164817,
+      "longitude": 10.217046
+    },
+    {
+      "name": "Citizen Cocktailbar",
+      "latitude": 55.679425,
+      "longitude": 12.576353
+    },
+    {
+      "name": "City bar",
+      "latitude": 55.702418,
+      "longitude": 12.533262
+    },
+    {
+      "name": "City Baren Støvring",
+      "latitude": 56.890235,
+      "longitude": 9.83674
+    },
+    {
+      "name": "City Pub",
+      "latitude": 55.236456,
+      "longitude": 10.478731
+    },
+    {
+      "name": "Clemens Bar",
+      "latitude": 56.155998,
+      "longitude": 10.208395
+    },
+    {
+      "name": "Cleyton",
+      "latitude": 55.651593,
+      "longitude": 12.477198
+    },
+    {
+      "name": "Club 21",
+      "latitude": 56.449971,
+      "longitude": 9.397219
+    },
+    {
+      "name": "Club 34",
+      "latitude": 55.670874,
+      "longitude": 12.558511
+    },
+    {
+      "name": "Club Riva",
+      "latitude": 55.885012,
+      "longitude": 12.546279
+    },
+    {
+      "name": "Clumsy Hans",
+      "latitude": 55.39828,
+      "longitude": 10.380302
+    },
+    {
+      "name": "Cocktail & Drinks",
+      "latitude": 55.678047,
+      "longitude": 12.59642
+    },
+    {
+      "name": "Cocktail Bar 1105",
+      "latitude": 55.68047,
+      "longitude": 12.582208
+    },
+    {
+      "name": "Cocktail Bar 1656",
+      "latitude": 55.669926,
+      "longitude": 12.558393
+    },
+    {
+      "name": "Cocktailbar banegaarden",
+      "latitude": 55.658753,
+      "longitude": 12.542553
+    },
+    {
+      "name": "Comedy Zoo Cafe",
+      "latitude": 55.677092,
+      "longitude": 12.575587
+    },
+    {
+      "name": "Con Maz Aarhus Vinbar",
+      "latitude": 56.153626,
+      "longitude": 10.193011
+    },
+    {
+      "name": "Copenhagen Marriott Excecutive Lounge",
+      "latitude": 55.668789,
+      "longitude": 12.574102
+    },
+    {
+      "name": "Copenhagen Pool & Snooker House",
+      "latitude": 55.684953,
+      "longitude": 12.508004
+    },
+    {
+      "name": "CopenHill - Rooftop Bar",
+      "latitude": 55.684254,
+      "longitude": 12.619325
+    },
+    {
+      "name": "Cork Vinbar",
+      "latitude": 55.677426,
+      "longitude": 12.538082
+    },
+    {
+      "name": "Corner Bar",
+      "latitude": 55.309365,
+      "longitude": 10.78662
+    },
+    {
+      "name": "Cozy Bar",
+      "latitude": 57.049683,
+      "longitude": 9.921107
+    },
+    {
+      "name": "Cph down town",
+      "latitude": 55.675965,
+      "longitude": 12.574294
+    },
+    {
+      "name": "Crane Brothers",
+      "latitude": 55.92913,
+      "longitude": 12.30377
+    },
+    {
+      "name": "Crazy Daisy",
+      "latitude": 55.474472,
+      "longitude": 9.137111
+    },
+    {
+      "name": "Crazy Daisy",
+      "latitude": 55.972313,
+      "longitude": 10.147188
+    },
+    {
+      "name": "Crazy Daisy Fjerritslev",
+      "latitude": 57.087782,
+      "longitude": 9.263411
+    },
+    {
+      "name": "Creme Fraiche",
+      "latitude": 55.841085,
+      "longitude": 12.43149
+    },
+    {
+      "name": "Cube",
+      "latitude": 55.673194,
+      "longitude": 12.561215
+    },
+    {
+      "name": "Cucaracha Bar",
+      "latitude": 55.682306,
+      "longitude": 12.581669
+    },
+    {
+      "name": "Curfew",
+      "latitude": 55.67311,
+      "longitude": 12.558738
+    },
+    {
+      "name": "Cócteles Copenhagen",
+      "latitude": 55.677175,
+      "longitude": 12.575765
+    },
+    {
+      "name": "D'licious",
+      "latitude": 54.908134,
+      "longitude": 9.78812
+    },
+    {
+      "name": "Da Vinci",
+      "latitude": 55.681766,
+      "longitude": 12.583703
+    },
+    {
+      "name": "Dagmars Bodega",
+      "latitude": 55.697738,
+      "longitude": 12.546883
+    },
+    {
+      "name": "Dahl & Dahl",
+      "latitude": 55.683428,
+      "longitude": 12.588225
+    },
+    {
+      "name": "Daisy Kunstbar",
+      "latitude": 55.670299,
+      "longitude": 12.556643
+    },
+    {
+      "name": "Dalbys Bar",
+      "latitude": 56.136988,
+      "longitude": 10.198184
+    },
+    {
+      "name": "Damsø cafe",
+      "latitude": 55.684977,
+      "longitude": 12.485466
+    },
+    {
+      "name": "Dandy",
+      "latitude": 55.683378,
+      "longitude": 12.587585
+    },
+    {
+      "name": "Dania4Fun Torsdagsbar",
+      "latitude": 56.170716,
+      "longitude": 10.191206
+    },
+    {
+      "name": "Dans Poolhall",
+      "latitude": 57.050647,
+      "longitude": 9.91942
+    },
+    {
+      "name": "Danvie",
+      "latitude": 55.252604,
+      "longitude": 9.489076
+    },
+    {
+      "name": "De 10 Haner",
+      "latitude": 56.413441,
+      "longitude": 10.878238
+    },
+    {
+      "name": "De forenede venskabsklubber",
+      "latitude": 55.702795,
+      "longitude": 12.538014
+    },
+    {
+      "name": "DE-Klubben",
+      "latitude": 57.013793,
+      "longitude": 9.987084
+    },
+    {
+      "name": "Delbar",
+      "latitude": 55.136403,
+      "longitude": 15.141129
+    },
+    {
+      "name": "Delfinen",
+      "latitude": 55.714082,
+      "longitude": 10.011323
+    },
+    {
+      "name": "Den Blå mad- og sommerbar",
+      "latitude": 57.473305,
+      "longitude": 9.798084
+    },
+    {
+      "name": "Den Brølende And",
+      "latitude": 55.394808,
+      "longitude": 10.386938
+    },
+    {
+      "name": "Den Fede Drue",
+      "latitude": 56.16495,
+      "longitude": 10.222873
+    },
+    {
+      "name": "Den Gamle Skomager",
+      "latitude": 54.921499,
+      "longitude": 9.595707
+    },
+    {
+      "name": "Den glade Gris",
+      "latitude": 55.680021,
+      "longitude": 12.574618
+    },
+    {
+      "name": "Den Glade Pingvin",
+      "latitude": 56.490783,
+      "longitude": 8.598489
+    },
+    {
+      "name": "Den Grimme Ælling",
+      "latitude": 54.935423,
+      "longitude": 8.870579
+    },
+    {
+      "name": "Den Grønne",
+      "latitude": 55.844486,
+      "longitude": 12.172564
+    },
+    {
+      "name": "Den Grønne Hest",
+      "latitude": 55.651372,
+      "longitude": 12.501651
+    },
+    {
+      "name": "Den Gyldenblonde",
+      "latitude": 55.662148,
+      "longitude": 12.52212
+    },
+    {
+      "name": "DEN GYLDNE DAME",
+      "latitude": 55.840617,
+      "longitude": 12.277521
+    },
+    {
+      "name": "Den Gyldne Hund",
+      "latitude": 55.136079,
+      "longitude": 10.903424
+    },
+    {
+      "name": "Den Gyldne Kro",
+      "latitude": 56.154612,
+      "longitude": 10.210707
+    },
+    {
+      "name": "Den Høje Stue",
+      "latitude": 55.059004,
+      "longitude": 10.612722
+    },
+    {
+      "name": "Den høje stue",
+      "latitude": 55.456876,
+      "longitude": 12.180473
+    },
+    {
+      "name": "Den Jyske Håndværkerskoles cafe",
+      "latitude": 56.331119,
+      "longitude": 10.052943
+    },
+    {
+      "name": "Den Knæhøje",
+      "latitude": 55.708445,
+      "longitude": 9.536118
+    },
+    {
+      "name": "Den Lille",
+      "latitude": 55.696636,
+      "longitude": 12.527405
+    },
+    {
+      "name": "Den Lille Bar",
+      "latitude": 55.678053,
+      "longitude": 12.568238
+    },
+    {
+      "name": "Den Nordjyske Ambassade",
+      "latitude": 57.050157,
+      "longitude": 9.918798
+    },
+    {
+      "name": "Den Røde Baron",
+      "latitude": 56.356438,
+      "longitude": 8.618311
+    },
+    {
+      "name": "Den røde bodega",
+      "latitude": 56.447033,
+      "longitude": 10.055127
+    },
+    {
+      "name": "Den Røde Lygte",
+      "latitude": 57.050268,
+      "longitude": 9.916704
+    },
+    {
+      "name": "Den Skæve Bar",
+      "latitude": 56.196675,
+      "longitude": 10.677831
+    },
+    {
+      "name": "Den Sorte Flamingo",
+      "latitude": 56.803077,
+      "longitude": 9.516579
+    },
+    {
+      "name": "Den Standhaftige Tinsoldat af Odense",
+      "latitude": 55.397686,
+      "longitude": 10.394621
+    },
+    {
+      "name": "Den Stive Buddha Fredgagsbar",
+      "latitude": 56.172852,
+      "longitude": 10.204359
+    },
+    {
+      "name": "Den Vandrette Vinbar",
+      "latitude": 55.678644,
+      "longitude": 12.592425
+    },
+    {
+      "name": "Der Kuhstall",
+      "latitude": 56.154994,
+      "longitude": 10.210826
+    },
+    {
+      "name": "Det gamle hotel",
+      "latitude": 54.937599,
+      "longitude": 10.707256
+    },
+    {
+      "name": "Det Gamle hundebad",
+      "latitude": 55.677866,
+      "longitude": 12.463712
+    },
+    {
+      "name": "Det Gamle Sted",
+      "latitude": 55.699938,
+      "longitude": 12.546748
+    },
+    {
+      "name": "Det lille Apotek",
+      "latitude": 55.750747,
+      "longitude": 11.958985
+    },
+    {
+      "name": "Det Lille Apotek",
+      "latitude": 56.491508,
+      "longitude": 8.589549
+    },
+    {
+      "name": "Det Lille Apotek",
+      "latitude": 56.972288,
+      "longitude": 9.850784
+    },
+    {
+      "name": "Det Lille Sted",
+      "latitude": 56.199547,
+      "longitude": 8.565175
+    },
+    {
+      "name": "Det Lille Øresund",
+      "latitude": 55.669076,
+      "longitude": 12.550066
+    },
+    {
+      "name": "Det Ny Teater Bar 1",
+      "latitude": 55.673234,
+      "longitude": 12.55545
+    },
+    {
+      "name": "Det Ny Teater Bar 1 balkonplan",
+      "latitude": 55.67322,
+      "longitude": 12.55549
+    },
+    {
+      "name": "Det Ny Teater Bar 1 parketplan",
+      "latitude": 55.673224,
+      "longitude": 12.55546
+    },
+    {
+      "name": "Det Ny Teater Bar 2",
+      "latitude": 55.673229,
+      "longitude": 12.555517
+    },
+    {
+      "name": "Det Ny Teater Bar 2 balkonplan",
+      "latitude": 55.673237,
+      "longitude": 12.555498
+    },
+    {
+      "name": "Det Ny Teater Bar 2 parketplan",
+      "latitude": 55.673206,
+      "longitude": 12.555475
+    },
+    {
+      "name": "Det Ny Teater Bar kælder",
+      "latitude": 55.673208,
+      "longitude": 12.55549
+    },
+    {
+      "name": "Dia'legd",
+      "latitude": 55.672427,
+      "longitude": 12.557519
+    },
+    {
+      "name": "Diagonalen",
+      "latitude": 55.789067,
+      "longitude": 12.525654
+    },
+    {
+      "name": "Die Kleine Bierstube",
+      "latitude": 56.15404,
+      "longitude": 10.203648
+    },
+    {
+      "name": "Die Rote Zone",
+      "latitude": 56.170297,
+      "longitude": 10.207014
+    },
+    {
+      "name": "Die Strafbar",
+      "latitude": 55.670845,
+      "longitude": 12.558423
+    },
+    {
+      "name": "Diligencen",
+      "latitude": 55.716117,
+      "longitude": 11.709565
+    },
+    {
+      "name": "Din Vinbar",
+      "latitude": 56.148138,
+      "longitude": 10.198023
+    },
+    {
+      "name": "Diskotek Hyttefadet",
+      "latitude": 57.727975,
+      "longitude": 10.525031
+    },
+    {
+      "name": "Dispensary",
+      "latitude": 55.697257,
+      "longitude": 12.544631
+    },
+    {
+      "name": "Djalmas Mad & Vinbar",
+      "latitude": 55.641413,
+      "longitude": 12.082505
+    },
+    {
+      "name": "Djurs Sommerland Guldgraver",
+      "latitude": 56.425399,
+      "longitude": 10.550651
+    },
+    {
+      "name": "Dok 300",
+      "latitude": 55.966615,
+      "longitude": 11.366611
+    },
+    {
+      "name": "Dokken City Beach",
+      "latitude": 55.461808,
+      "longitude": 8.444064
+    },
+    {
+      "name": "Doktor Herman Cocktail & Vinpub",
+      "latitude": 55.562594,
+      "longitude": 9.756797
+    },
+    {
+      "name": "Dollarmandens Nr.1",
+      "latitude": 55.81225,
+      "longitude": 11.498593
+    },
+    {
+      "name": "Domdal Bodega",
+      "latitude": 55.678394,
+      "longitude": 12.500403
+    },
+    {
+      "name": "Domhuset",
+      "latitude": 55.492796,
+      "longitude": 9.468836
+    },
+    {
+      "name": "Don Quijote",
+      "latitude": 56.136221,
+      "longitude": 8.960642
+    },
+    {
+      "name": "Donna Vino",
+      "latitude": 55.671434,
+      "longitude": 12.596143
+    },
+    {
+      "name": "Dortheas",
+      "latitude": 55.709995,
+      "longitude": 12.517276
+    },
+    {
+      "name": "DoWdi",
+      "latitude": 55.465513,
+      "longitude": 8.454325
+    },
+    {
+      "name": "Down town pub",
+      "latitude": 56.461349,
+      "longitude": 10.039458
+    },
+    {
+      "name": "Dragonen",
+      "latitude": 55.84505,
+      "longitude": 9.237898
+    },
+    {
+      "name": "Dronning Louise",
+      "latitude": 55.466416,
+      "longitude": 8.452493
+    },
+    {
+      "name": "Drop Inn",
+      "latitude": 55.6764,
+      "longitude": 12.573329
+    },
+    {
+      "name": "Druen vinbar & hapser",
+      "latitude": 55.563577,
+      "longitude": 9.75678
+    },
+    {
+      "name": "Drueta",
+      "latitude": 55.693508,
+      "longitude": 12.60904
+    },
+    {
+      "name": "Drøvlen",
+      "latitude": 55.453182,
+      "longitude": 12.168336
+    },
+    {
+      "name": "Duck and Cover",
+      "latitude": 55.671848,
+      "longitude": 12.552391
+    },
+    {
+      "name": "Dueslaget",
+      "latitude": 54.938394,
+      "longitude": 10.709044
+    },
+    {
+      "name": "Dueslaget",
+      "latitude": 55.257607,
+      "longitude": 9.481919
+    },
+    {
+      "name": "Dupong",
+      "latitude": 55.685948,
+      "longitude": 12.552395
+    },
+    {
+      "name": "Dybendal",
+      "latitude": 54.936392,
+      "longitude": 10.710677
+    },
+    {
+      "name": "E - Lounge",
+      "latitude": 55.896506,
+      "longitude": 12.517018
+    },
+    {
+      "name": "East-End",
+      "latitude": 56.358095,
+      "longitude": 8.620605
+    },
+    {
+      "name": "Ebeltoft Strandbar",
+      "latitude": 56.197042,
+      "longitude": 10.671275
+    },
+    {
+      "name": "Echo BAr",
+      "latitude": 55.680017,
+      "longitude": 12.575714
+    },
+    {
+      "name": "Eforen",
+      "latitude": 56.168959,
+      "longitude": 10.199241
+    },
+    {
+      "name": "Eiffel Bar",
+      "latitude": 55.674055,
+      "longitude": 12.591696
+    },
+    {
+      "name": "El Cava",
+      "latitude": 55.677566,
+      "longitude": 12.581195
+    },
+    {
+      "name": "El Mundo",
+      "latitude": 57.050531,
+      "longitude": 9.918996
+    },
+    {
+      "name": "El Paso",
+      "latitude": 54.830214,
+      "longitude": 11.136462
+    },
+    {
+      "name": "el paso",
+      "latitude": 55.972424,
+      "longitude": 10.147816
+    },
+    {
+      "name": "Eldorado Bar",
+      "latitude": 55.678853,
+      "longitude": 12.572217
+    },
+    {
+      "name": "Elis Ristede Kastanjer",
+      "latitude": 55.674319,
+      "longitude": 12.56529
+    },
+    {
+      "name": "Emdrup Bodega",
+      "latitude": 55.718056,
+      "longitude": 12.556326
+    },
+    {
+      "name": "Enigma",
+      "latitude": 56.154709,
+      "longitude": 10.204326
+    },
+    {
+      "name": "entre",
+      "latitude": 55.466979,
+      "longitude": 8.449762
+    },
+    {
+      "name": "Erlings Jazz- & Ølbar",
+      "latitude": 56.160624,
+      "longitude": 10.21342
+    },
+    {
+      "name": "Escobar",
+      "latitude": 55.687739,
+      "longitude": 12.55959
+    },
+    {
+      "name": "Escobar",
+      "latitude": 56.154843,
+      "longitude": 10.211578
+    },
+    {
+      "name": "Eskes",
+      "latitude": 55.707568,
+      "longitude": 9.536876
+    },
+    {
+      "name": "Esting",
+      "latitude": 57.050838,
+      "longitude": 9.918672
+    },
+    {
+      "name": "Etheren",
+      "latitude": 55.787587,
+      "longitude": 12.518402
+    },
+    {
+      "name": "F&S",
+      "latitude": 55.693225,
+      "longitude": 12.609561
+    },
+    {
+      "name": "F. Salling Rooftop",
+      "latitude": 57.047504,
+      "longitude": 9.922079
+    },
+    {
+      "name": "F15mten",
+      "latitude": 55.664676,
+      "longitude": 12.60382
+    },
+    {
+      "name": "Fabers",
+      "latitude": 55.275837,
+      "longitude": 14.803645
+    },
+    {
+      "name": "Fadøl",
+      "latitude": 55.89671,
+      "longitude": 11.606919
+    },
+    {
+      "name": "Fair Play",
+      "latitude": 55.65938,
+      "longitude": 12.602497
+    },
+    {
+      "name": "Falernum",
+      "latitude": 55.674095,
+      "longitude": 12.549976
+    },
+    {
+      "name": "Fam Ægir",
+      "latitude": 55.431771,
+      "longitude": 11.556048
+    },
+    {
+      "name": "Fantom Bar",
+      "latitude": 55.689394,
+      "longitude": 12.555331
+    },
+    {
+      "name": "Farfar",
+      "latitude": 55.680037,
+      "longitude": 12.574872
+    },
+    {
+      "name": "Fasan Pub",
+      "latitude": 55.586166,
+      "longitude": 12.658894
+    },
+    {
+      "name": "Fast Eddies Poolhall",
+      "latitude": 57.050085,
+      "longitude": 9.921253
+    },
+    {
+      "name": "Faxe Bodega",
+      "latitude": 55.256206,
+      "longitude": 12.120062
+    },
+    {
+      "name": "FC Nordsjælland Rullebar 1",
+      "latitude": 55.817347,
+      "longitude": 12.35119
+    },
+    {
+      "name": "FC Nordsjælland Rullebar 2",
+      "latitude": 55.817356,
+      "longitude": 12.351406
+    },
+    {
+      "name": "FC Roskilde HOME BAR",
+      "latitude": 55.637516,
+      "longitude": 12.074619
+    },
+    {
+      "name": "Fejø Pub",
+      "latitude": 54.946177,
+      "longitude": 11.41119
+    },
+    {
+      "name": "Fejø Sommervinbar",
+      "latitude": 54.94513,
+      "longitude": 11.40571
+    },
+    {
+      "name": "Femmeren",
+      "latitude": 55.717171,
+      "longitude": 11.709334
+    },
+    {
+      "name": "Femmeren Jazzværtshus",
+      "latitude": 55.696631,
+      "longitude": 12.580813
+    },
+    {
+      "name": "Fermentoren",
+      "latitude": 55.667915,
+      "longitude": 12.55638
+    },
+    {
+      "name": "Fidusen",
+      "latitude": 55.636151,
+      "longitude": 12.60266
+    },
+    {
+      "name": "Figo Vinbar",
+      "latitude": 55.673268,
+      "longitude": 12.591497
+    },
+    {
+      "name": "Finn Ind",
+      "latitude": 55.778089,
+      "longitude": 12.507674
+    },
+    {
+      "name": "Finn Inn",
+      "latitude": 55.650677,
+      "longitude": 12.302482
+    },
+    {
+      "name": "Fire Tyve",
+      "latitude": 55.707326,
+      "longitude": 12.52441
+    },
+    {
+      "name": "Fischers kro",
+      "latitude": 55.692048,
+      "longitude": 12.514028
+    },
+    {
+      "name": "Fiskeriforeningen Nyk. F og Omegn",
+      "latitude": 54.771694,
+      "longitude": 11.863239
+    },
+    {
+      "name": "Fiskerlejet",
+      "latitude": 55.177297,
+      "longitude": 11.65047
+    },
+    {
+      "name": "Flintstone Pub",
+      "latitude": 56.152229,
+      "longitude": 10.206271
+    },
+    {
+      "name": "Floss",
+      "latitude": 55.678156,
+      "longitude": 12.569857
+    },
+    {
+      "name": "Flottenhejmer Gilleleje",
+      "latitude": 56.126069,
+      "longitude": 12.299882
+    },
+    {
+      "name": "Flyvestation Aalborg Officermessen",
+      "latitude": 57.10852,
+      "longitude": 9.857387
+    },
+    {
+      "name": "Fort Indian",
+      "latitude": 56.954772,
+      "longitude": 8.693594
+    },
+    {
+      "name": "Fortunen",
+      "latitude": 55.775635,
+      "longitude": 12.52094
+    },
+    {
+      "name": "Fox & Hounds",
+      "latitude": 56.136027,
+      "longitude": 8.978422
+    },
+    {
+      "name": "Fox and hounds",
+      "latitude": 56.359974,
+      "longitude": 8.617552
+    },
+    {
+      "name": "Foxy's",
+      "latitude": 55.693597,
+      "longitude": 12.608581
+    },
+    {
+      "name": "Foyerbar Kino",
+      "latitude": 56.413453,
+      "longitude": 10.878369
+    },
+    {
+      "name": "Frb Ølbar",
+      "latitude": 55.687189,
+      "longitude": 12.540465
+    },
+    {
+      "name": "Fredagsbar",
+      "latitude": 55.232933,
+      "longitude": 11.79351
+    },
+    {
+      "name": "Fredagsbar Haddokks",
+      "latitude": 56.158599,
+      "longitude": 10.215613
+    },
+    {
+      "name": "Fredagsbar.dk",
+      "latitude": 56.171159,
+      "longitude": 10.192538
+    },
+    {
+      "name": "Fredagsbaren Cafe Kein Cortex",
+      "latitude": 56.172822,
+      "longitude": 10.206278
+    },
+    {
+      "name": "Fredagsbaren Fred",
+      "latitude": 56.17283,
+      "longitude": 10.206314
+    },
+    {
+      "name": "Fredagscaféen",
+      "latitude": 56.171584,
+      "longitude": 10.1902
+    },
+    {
+      "name": "Freddys Bar",
+      "latitude": 55.669635,
+      "longitude": 12.558253
+    },
+    {
+      "name": "Freddys Bar Varde",
+      "latitude": 55.62052,
+      "longitude": 8.480304
+    },
+    {
+      "name": "Fredericia Brewpub",
+      "latitude": 55.563328,
+      "longitude": 9.756779
+    },
+    {
+      "name": "Frederik 7-tal",
+      "latitude": 55.854963,
+      "longitude": 11.981971
+    },
+    {
+      "name": "Frederik d. VIII",
+      "latitude": 55.498225,
+      "longitude": 9.555281
+    },
+    {
+      "name": "Frederiksberg Vinbar",
+      "latitude": 55.687125,
+      "longitude": 12.54042
+    },
+    {
+      "name": "Fregatten",
+      "latitude": 57.054815,
+      "longitude": 9.896285
+    },
+    {
+      "name": "Fregatten",
+      "latitude": 57.44151,
+      "longitude": 10.537657
+    },
+    {
+      "name": "Frihavnskroen",
+      "latitude": 55.70683,
+      "longitude": 12.585749
+    },
+    {
+      "name": "Friis streetfood Baren",
+      "latitude": 57.047914,
+      "longitude": 9.926927
+    },
+    {
+      "name": "Funchs Vinstue",
+      "latitude": 55.6845,
+      "longitude": 12.56744
+    },
+    {
+      "name": "Funky Cow bar",
+      "latitude": 55.693141,
+      "longitude": 12.609616
+    },
+    {
+      "name": "Fyret",
+      "latitude": 55.703536,
+      "longitude": 12.589998
+    },
+    {
+      "name": "Fyrtårnet",
+      "latitude": 56.158131,
+      "longitude": 10.217553
+    },
+    {
+      "name": "Fyrtårnet",
+      "latitude": 56.409573,
+      "longitude": 10.917506
+    },
+    {
+      "name": "Fysisk Fredagsbar",
+      "latitude": 56.167457,
+      "longitude": 10.198515
+    },
+    {
+      "name": "Fælleds Vinstue",
+      "latitude": 55.594392,
+      "longitude": 12.316909
+    },
+    {
+      "name": "Fællesmessen",
+      "latitude": 57.086965,
+      "longitude": 9.957034
+    },
+    {
+      "name": "Færgegården",
+      "latitude": 54.997816,
+      "longitude": 11.899021
+    },
+    {
+      "name": "Færgegården",
+      "latitude": 55.270595,
+      "longitude": 9.891153
+    },
+    {
+      "name": "Gaia Cocktails",
+      "latitude": 55.678742,
+      "longitude": 12.567515
+    },
+    {
+      "name": "Galathea Dybet",
+      "latitude": 55.676615,
+      "longitude": 12.57456
+    },
+    {
+      "name": "Gamble",
+      "latitude": 55.684145,
+      "longitude": 12.550991
+    },
+    {
+      "name": "Gamborg's Bar og Street Food",
+      "latitude": 55.505192,
+      "longitude": 9.741235
+    },
+    {
+      "name": "Gamma NV",
+      "latitude": 55.700996,
+      "longitude": 12.534039
+    },
+    {
+      "name": "GASA Petanque & Shuffle Bar",
+      "latitude": 55.394607,
+      "longitude": 10.361952
+    },
+    {
+      "name": "Gasolin Ølgod",
+      "latitude": 55.811027,
+      "longitude": 8.621839
+    },
+    {
+      "name": "Gasten",
+      "latitude": 57.248495,
+      "longitude": 9.616373
+    },
+    {
+      "name": "Gaströ Stege",
+      "latitude": 54.985695,
+      "longitude": 12.288253
+    },
+    {
+      "name": "Gazzværket",
+      "latitude": 55.045211,
+      "longitude": 9.423216
+    },
+    {
+      "name": "GBAR",
+      "latitude": 56.155113,
+      "longitude": 10.211571
+    },
+    {
+      "name": "Gecco Bar & Natklub",
+      "latitude": 55.402776,
+      "longitude": 11.354366
+    },
+    {
+      "name": "Gedulgt",
+      "latitude": 56.152622,
+      "longitude": 10.208942
+    },
+    {
+      "name": "Gedulgt",
+      "latitude": 57.049964,
+      "longitude": 9.921459
+    },
+    {
+      "name": "Gefion Bodega",
+      "latitude": 56.039685,
+      "longitude": 12.587421
+    },
+    {
+      "name": "Generalens Bar",
+      "latitude": 55.973669,
+      "longitude": 12.021247
+    },
+    {
+      "name": "Gensyn",
+      "latitude": 55.665635,
+      "longitude": 12.594515
+    },
+    {
+      "name": "Gensyn",
+      "latitude": 55.684172,
+      "longitude": 12.543035
+    },
+    {
+      "name": "Geviret",
+      "latitude": 56.022408,
+      "longitude": 12.193919
+    },
+    {
+      "name": "Giraffen",
+      "latitude": 57.049915,
+      "longitude": 9.918895
+    },
+    {
+      "name": "Gislinge Kro",
+      "latitude": 55.734604,
+      "longitude": 11.547504
+    },
+    {
+      "name": "Gl. Aalborg",
+      "latitude": 57.047816,
+      "longitude": 9.916042
+    },
+    {
+      "name": "GL24 Søpavillonen",
+      "latitude": 55.681891,
+      "longitude": 12.559272
+    },
+    {
+      "name": "Glentekroen",
+      "latitude": 55.697909,
+      "longitude": 12.535475
+    },
+    {
+      "name": "Glostrup Bodega",
+      "latitude": 55.665215,
+      "longitude": 12.395998
+    },
+    {
+      "name": "Gløgg og Hygge",
+      "latitude": 55.674208,
+      "longitude": 12.566083
+    },
+    {
+      "name": "Godt Øl",
+      "latitude": 55.676819,
+      "longitude": 12.576043
+    },
+    {
+      "name": "Gorms Kro",
+      "latitude": 55.643491,
+      "longitude": 12.615406
+    },
+    {
+      "name": "Grain & Grapes",
+      "latitude": 55.703108,
+      "longitude": 12.585711
+    },
+    {
+      "name": "Gravens Rand",
+      "latitude": 55.674983,
+      "longitude": 12.519322
+    },
+    {
+      "name": "Green Island of Copenhagen",
+      "latitude": 55.6672,
+      "longitude": 12.572652
+    },
+    {
+      "name": "Grusgraven",
+      "latitude": 55.670821,
+      "longitude": 12.546286
+    },
+    {
+      "name": "Grøndalskroen",
+      "latitude": 55.693783,
+      "longitude": 12.508799
+    },
+    {
+      "name": "Guldfasanen",
+      "latitude": 55.679536,
+      "longitude": 12.521293
+    },
+    {
+      "name": "Guldkronen",
+      "latitude": 55.506094,
+      "longitude": 9.730723
+    },
+    {
+      "name": "Gullanden",
+      "latitude": 55.6402,
+      "longitude": 12.080105
+    },
+    {
+      "name": "Gundsø Bodega",
+      "latitude": 55.69381,
+      "longitude": 12.159193
+    },
+    {
+      "name": "Gustav Wieds - Byens Ølbar",
+      "latitude": 55.639392,
+      "longitude": 12.085129
+    },
+    {
+      "name": "Gåsetorvet’s Gjæstgiveri",
+      "latitude": 55.092366,
+      "longitude": 10.248791
+    },
+    {
+      "name": "H C Ørstedskol Rest",
+      "latitude": 55.37366,
+      "longitude": 10.403447
+    },
+    {
+      "name": "H.C. Andersen Brewery",
+      "latitude": 55.344958,
+      "longitude": 10.401243
+    },
+    {
+      "name": "Haabet Bodega Bar",
+      "latitude": 55.667427,
+      "longitude": 12.597261
+    },
+    {
+      "name": "Hakko",
+      "latitude": 56.154554,
+      "longitude": 10.193935
+    },
+    {
+      "name": "Halmtorvet 9",
+      "latitude": 55.670444,
+      "longitude": 12.56168
+    },
+    {
+      "name": "Hammers Pub & Vinbar",
+      "latitude": 55.402772,
+      "longitude": 11.354969
+    },
+    {
+      "name": "Hansens Bodega",
+      "latitude": 55.470021,
+      "longitude": 8.801941
+    },
+    {
+      "name": "Harmonien",
+      "latitude": 56.954524,
+      "longitude": 8.693487
+    },
+    {
+      "name": "Hatten Bar",
+      "latitude": 55.653745,
+      "longitude": 12.590946
+    },
+    {
+      "name": "Havana Club",
+      "latitude": 55.270685,
+      "longitude": 9.891488
+    },
+    {
+      "name": "Havana Varde",
+      "latitude": 55.62075,
+      "longitude": 8.480167
+    },
+    {
+      "name": "Havesalonen",
+      "latitude": 56.059968,
+      "longitude": 12.07359
+    },
+    {
+      "name": "Havfruen",
+      "latitude": 55.563267,
+      "longitude": 9.754805
+    },
+    {
+      "name": "Havkatten",
+      "latitude": 55.470616,
+      "longitude": 8.438677
+    },
+    {
+      "name": "Havkatten",
+      "latitude": 55.678215,
+      "longitude": 11.085465
+    },
+    {
+      "name": "Havmågen",
+      "latitude": 55.752685,
+      "longitude": 11.323867
+    },
+    {
+      "name": "Havnekroen",
+      "latitude": 55.92205,
+      "longitude": 11.67083
+    },
+    {
+      "name": "Havnekroen",
+      "latitude": 57.720601,
+      "longitude": 10.58953
+    },
+    {
+      "name": "Havnens Ishus",
+      "latitude": 56.96793,
+      "longitude": 9.246939
+    },
+    {
+      "name": "Hegnet Bodega",
+      "latitude": 56.452213,
+      "longitude": 9.409524
+    },
+    {
+      "name": "Heidi's Bier Bar",
+      "latitude": 55.677385,
+      "longitude": 12.569457
+    },
+    {
+      "name": "Heidi's Bier Bar",
+      "latitude": 56.136566,
+      "longitude": 8.9698
+    },
+    {
+      "name": "Heidi's Bier Bar",
+      "latitude": 56.158924,
+      "longitude": 10.206606
+    },
+    {
+      "name": "Heidi's Bier Bar",
+      "latitude": 57.050007,
+      "longitude": 9.919458
+    },
+    {
+      "name": "Heidis Bier Bar",
+      "latitude": 56.955618,
+      "longitude": 8.698038
+    },
+    {
+      "name": "Heidis Bier Bar Sønderborg",
+      "latitude": 54.909139,
+      "longitude": 9.789451
+    },
+    {
+      "name": "Hella",
+      "latitude": 56.163179,
+      "longitude": 10.226865
+    },
+    {
+      "name": "Her Majesty Lounge",
+      "latitude": 55.23081,
+      "longitude": 11.760242
+    },
+    {
+      "name": "Hermod Bodega",
+      "latitude": 55.707892,
+      "longitude": 12.577879
+    },
+    {
+      "name": "Herr Bartels",
+      "latitude": 56.155806,
+      "longitude": 10.209266
+    },
+    {
+      "name": "Hesteskoen",
+      "latitude": 56.091383,
+      "longitude": 8.632082
+    },
+    {
+      "name": "HFK Tribune Loungen",
+      "latitude": 55.261534,
+      "longitude": 9.489251
+    },
+    {
+      "name": "High Tower - Kælderen",
+      "latitude": 56.716583,
+      "longitude": 10.115668
+    },
+    {
+      "name": "Hillers Bar",
+      "latitude": 57.335109,
+      "longitude": 10.51904
+    },
+    {
+      "name": "Hit'en",
+      "latitude": 55.062958,
+      "longitude": 15.130046
+    },
+    {
+      "name": "Hjerting Pub",
+      "latitude": 55.526377,
+      "longitude": 8.358689
+    },
+    {
+      "name": "Hjort Beer House",
+      "latitude": 57.04973,
+      "longitude": 9.92255
+    },
+    {
+      "name": "Hjorten",
+      "latitude": 55.234252,
+      "longitude": 9.491972
+    },
+    {
+      "name": "Hjørne Bodega",
+      "latitude": 56.473097,
+      "longitude": 10.017133
+    },
+    {
+      "name": "HJørnekroen",
+      "latitude": 54.946185,
+      "longitude": 9.872383
+    },
+    {
+      "name": "Hjørnekroen",
+      "latitude": 55.448691,
+      "longitude": 8.406408
+    },
+    {
+      "name": "Hjørnekroen Ansager",
+      "latitude": 55.705697,
+      "longitude": 8.75231
+    },
+    {
+      "name": "Hjørnet",
+      "latitude": 56.897173,
+      "longitude": 9.228333
+    },
+    {
+      "name": "Hobitten",
+      "latitude": 55.780881,
+      "longitude": 12.482121
+    },
+    {
+      "name": "Hold-An",
+      "latitude": 56.036282,
+      "longitude": 12.611042
+    },
+    {
+      "name": "Holger Danske",
+      "latitude": 56.034998,
+      "longitude": 12.613889
+    },
+    {
+      "name": "Holmbladet",
+      "latitude": 55.66633,
+      "longitude": 12.612093
+    },
+    {
+      "name": "Holse & Høgh Cocktailbar",
+      "latitude": 55.230844,
+      "longitude": 11.758612
+    },
+    {
+      "name": "Holstein Bodega",
+      "latitude": 55.698731,
+      "longitude": 12.581203
+    },
+    {
+      "name": "Holy Bean Coffee and Cocktails",
+      "latitude": 55.688597,
+      "longitude": 12.562214
+    },
+    {
+      "name": "Hop House Amager",
+      "latitude": 55.649092,
+      "longitude": 12.61327
+    },
+    {
+      "name": "Hornbæk Havnegrill",
+      "latitude": 56.092885,
+      "longitude": 12.457243
+    },
+    {
+      "name": "Hornsleth",
+      "latitude": 55.680549,
+      "longitude": 12.577124
+    },
+    {
+      "name": "Hornsleth Bar",
+      "latitude": 56.158927,
+      "longitude": 10.206754
+    },
+    {
+      "name": "Hos Anders",
+      "latitude": 56.155458,
+      "longitude": 10.206459
+    },
+    {
+      "name": "Hos Anton",
+      "latitude": 56.157136,
+      "longitude": 10.199493
+    },
+    {
+      "name": "Hos Heidie",
+      "latitude": 55.767949,
+      "longitude": 12.19444
+    },
+    {
+      "name": "Hos René",
+      "latitude": 55.819004,
+      "longitude": 12.468377
+    },
+    {
+      "name": "Hos Robert",
+      "latitude": 55.670208,
+      "longitude": 12.537172
+    },
+    {
+      "name": "Hos Rune",
+      "latitude": 55.663585,
+      "longitude": 12.542326
+    },
+    {
+      "name": "Hosekræmmeren",
+      "latitude": 55.942955,
+      "longitude": 9.129555
+    },
+    {
+      "name": "Hotel Kong Arthur Baren",
+      "latitude": 55.684718,
+      "longitude": 12.564939
+    },
+    {
+      "name": "Hotel Tivoli Congress Center Lobbybar",
+      "latitude": 55.666169,
+      "longitude": 12.56604
+    },
+    {
+      "name": "Hotel Tømmergården",
+      "latitude": 56.650848,
+      "longitude": 8.527263
+    },
+    {
+      "name": "Houlkær Bodega",
+      "latitude": 56.462466,
+      "longitude": 9.447314
+    },
+    {
+      "name": "Hovsa Seminarie",
+      "latitude": 55.645259,
+      "longitude": 12.40996
+    },
+    {
+      "name": "Hr & Fru Dax Strandbaren",
+      "latitude": 55.146025,
+      "longitude": 8.494397
+    },
+    {
+      "name": "Hubben",
+      "latitude": 55.878732,
+      "longitude": 12.498469
+    },
+    {
+      "name": "Hugo's Garage",
+      "latitude": 57.050439,
+      "longitude": 9.918949
+    },
+    {
+      "name": "Hulen",
+      "latitude": 55.396552,
+      "longitude": 10.383564
+    },
+    {
+      "name": "Humle Ølbar",
+      "latitude": 55.230836,
+      "longitude": 11.755365
+    },
+    {
+      "name": "Humlepubben",
+      "latitude": 55.963455,
+      "longitude": 12.531426
+    },
+    {
+      "name": "Hundslev Kro",
+      "latitude": 54.983306,
+      "longitude": 9.921703
+    },
+    {
+      "name": "Huset",
+      "latitude": 55.37177,
+      "longitude": 10.402939
+    },
+    {
+      "name": "Husum Bodega",
+      "latitude": 55.710269,
+      "longitude": 12.476868
+    },
+    {
+      "name": "Hut Li Hut",
+      "latitude": 55.276711,
+      "longitude": 14.801683
+    },
+    {
+      "name": "Hv. Sande Bryghus Udskænkning",
+      "latitude": 55.999552,
+      "longitude": 8.125079
+    },
+    {
+      "name": "Hvabar",
+      "latitude": 56.41386,
+      "longitude": 10.875133
+    },
+    {
+      "name": "Hvepsereden",
+      "latitude": 55.700948,
+      "longitude": 12.53982
+    },
+    {
+      "name": "Hyde Bar",
+      "latitude": 55.627393,
+      "longitude": 12.084544
+    },
+    {
+      "name": "HygBar Blokhus",
+      "latitude": 57.251641,
+      "longitude": 9.587045
+    },
+    {
+      "name": "Hyggekroen",
+      "latitude": 57.196141,
+      "longitude": 9.672037
+    },
+    {
+      "name": "Høghs Bar",
+      "latitude": 55.670706,
+      "longitude": 12.544325
+    },
+    {
+      "name": "Høkeren",
+      "latitude": 56.092078,
+      "longitude": 9.756597
+    },
+    {
+      "name": "Høllsbergs Have",
+      "latitude": 55.71418,
+      "longitude": 10.012589
+    },
+    {
+      "name": "HÜG",
+      "latitude": 56.198196,
+      "longitude": 10.676983
+    },
+    {
+      "name": "Ibiza Beach Bar",
+      "latitude": 55.682167,
+      "longitude": 12.582175
+    },
+    {
+      "name": "Ibs Carport",
+      "latitude": 55.403024,
+      "longitude": 11.356371
+    },
+    {
+      "name": "ICEBAR BY ICEHOTEL COPENHAGEN",
+      "latitude": 55.679944,
+      "longitude": 12.583694
+    },
+    {
+      "name": "Imperial Bio Øvre Bar",
+      "latitude": 55.675225,
+      "longitude": 12.561222
+    },
+    {
+      "name": "Industricafeen",
+      "latitude": 57.058968,
+      "longitude": 9.921962
+    },
+    {
+      "name": "Industrien",
+      "latitude": 55.466805,
+      "longitude": 8.45343
+    },
+    {
+      "name": "Inferno",
+      "latitude": 55.670774,
+      "longitude": 12.558206
+    },
+    {
+      "name": "Inno Lounge",
+      "latitude": 55.27006,
+      "longitude": 9.901109
+    },
+    {
+      "name": "Irish No.1",
+      "latitude": 57.590301,
+      "longitude": 9.956715
+    },
+    {
+      "name": "Isbjørnen",
+      "latitude": 55.667836,
+      "longitude": 12.578529
+    },
+    {
+      "name": "Isola",
+      "latitude": 55.709731,
+      "longitude": 12.567835
+    },
+    {
+      "name": "Jackpot Bar Nørresundby",
+      "latitude": 57.060864,
+      "longitude": 9.934989
+    },
+    {
+      "name": "Jacob Skomager",
+      "latitude": 56.145918,
+      "longitude": 10.193505
+    },
+    {
+      "name": "Jacobi Craft Brew",
+      "latitude": 55.619507,
+      "longitude": 8.483699
+    },
+    {
+      "name": "Jagtbar Randers",
+      "latitude": 56.458179,
+      "longitude": 10.038106
+    },
+    {
+      "name": "Jagthytten Hjørring",
+      "latitude": 57.459801,
+      "longitude": 9.985319
+    },
+    {
+      "name": "Jagtstuen",
+      "latitude": 55.683929,
+      "longitude": 12.568481
+    },
+    {
+      "name": "Jagtstuen",
+      "latitude": 57.471253,
+      "longitude": 10.20231
+    },
+    {
+      "name": "Jaguaren",
+      "latitude": 55.66431,
+      "longitude": 12.60321
+    },
+    {
+      "name": "James Bond",
+      "latitude": 55.466843,
+      "longitude": 8.452871
+    },
+    {
+      "name": "Jannies Dancebar",
+      "latitude": 55.397359,
+      "longitude": 10.37932
+    },
+    {
+      "name": "Jazzbar Bent J",
+      "latitude": 56.158111,
+      "longitude": 10.193183
+    },
+    {
+      "name": "Jazzhus Dexter",
+      "latitude": 55.397411,
+      "longitude": 10.379464
+    },
+    {
+      "name": "Jernbanecafeen",
+      "latitude": 55.672164,
+      "longitude": 12.563671
+    },
+    {
+      "name": "JernbaneCaféen",
+      "latitude": 55.489972,
+      "longitude": 9.477286
+    },
+    {
+      "name": "Jernkroen",
+      "latitude": 56.983677,
+      "longitude": 9.633165
+    },
+    {
+      "name": "Jernstangen",
+      "latitude": 55.927002,
+      "longitude": 12.310043
+    },
+    {
+      "name": "Jesperhus strandbar",
+      "latitude": 56.764682,
+      "longitude": 8.814806
+    },
+    {
+      "name": "John Bull",
+      "latitude": 56.565782,
+      "longitude": 9.028623
+    },
+    {
+      "name": "Johnnys Bodega",
+      "latitude": 55.635812,
+      "longitude": 12.479772
+    },
+    {
+      "name": "Jojo",
+      "latitude": 55.670728,
+      "longitude": 12.543986
+    },
+    {
+      "name": "JOJO Mjølnerparken",
+      "latitude": 55.703174,
+      "longitude": 12.541234
+    },
+    {
+      "name": "Joker Bar",
+      "latitude": 56.045894,
+      "longitude": 12.602632
+    },
+    {
+      "name": "JOY’S PUB",
+      "latitude": 57.437217,
+      "longitude": 10.53582
+    },
+    {
+      "name": "Juels Bryg Karleby bryghus",
+      "latitude": 54.863467,
+      "longitude": 11.189239
+    },
+    {
+      "name": "Juhls Bar",
+      "latitude": 54.936759,
+      "longitude": 9.252508
+    },
+    {
+      "name": "JUNE BAR",
+      "latitude": 55.396153,
+      "longitude": 10.387142
+    },
+    {
+      "name": "Jutlander Bank Tribunen HiK Fodbold",
+      "latitude": 56.634453,
+      "longitude": 9.819143
+    },
+    {
+      "name": "Jydeholm Bodega",
+      "latitude": 55.685735,
+      "longitude": 12.488186
+    },
+    {
+      "name": "Jydepotten bodega",
+      "latitude": 55.686311,
+      "longitude": 12.490834
+    },
+    {
+      "name": "Jyes Bagbutik",
+      "latitude": 57.590356,
+      "longitude": 9.956335
+    },
+    {
+      "name": "Jysk Vin",
+      "latitude": 56.157551,
+      "longitude": 10.206545
+    },
+    {
+      "name": "Jyske Bank Boxen Bar Servering",
+      "latitude": 56.118208,
+      "longitude": 8.95288
+    },
+    {
+      "name": "Jægerstuen",
+      "latitude": 55.095148,
+      "longitude": 10.241497
+    },
+    {
+      "name": "Jægerstuen",
+      "latitude": 57.041735,
+      "longitude": 9.942356
+    },
+    {
+      "name": "K Cocktailbar",
+      "latitude": 55.677955,
+      "longitude": 12.580744
+    },
+    {
+      "name": "Kadetkælderen",
+      "latitude": 55.672124,
+      "longitude": 12.525388
+    },
+    {
+      "name": "Kafé Ann'en",
+      "latitude": 55.00815,
+      "longitude": 11.909796
+    },
+    {
+      "name": "Kahytten",
+      "latitude": 55.56169,
+      "longitude": 9.754259
+    },
+    {
+      "name": "Kahytten",
+      "latitude": 57.043474,
+      "longitude": 9.949897
+    },
+    {
+      "name": "Kahytten",
+      "latitude": 57.097334,
+      "longitude": 9.524212
+    },
+    {
+      "name": "Kalkulerbar",
+      "latitude": 56.166687,
+      "longitude": 10.199502
+    },
+    {
+      "name": "Kammerateriet",
+      "latitude": 55.058896,
+      "longitude": 10.616928
+    },
+    {
+      "name": "Kanalkroen",
+      "latitude": 56.125919,
+      "longitude": 12.306038
+    },
+    {
+      "name": "Kanon Bar",
+      "latitude": 55.671351,
+      "longitude": 12.554087
+    },
+    {
+      "name": "Kapellet",
+      "latitude": 55.486032,
+      "longitude": 9.471978
+    },
+    {
+      "name": "KaPia",
+      "latitude": 56.689889,
+      "longitude": 9.337627
+    },
+    {
+      "name": "Kappa Bar København",
+      "latitude": 55.676928,
+      "longitude": 12.573941
+    },
+    {
+      "name": "Kardusen",
+      "latitude": 56.020015,
+      "longitude": 12.571883
+    },
+    {
+      "name": "Karise Bodega",
+      "latitude": 55.307298,
+      "longitude": 12.20004
+    },
+    {
+      "name": "Karrusellen",
+      "latitude": 55.697949,
+      "longitude": 12.544977
+    },
+    {
+      "name": "KaserneBaren",
+      "latitude": 56.16756,
+      "longitude": 10.197516
+    },
+    {
+      "name": "Kasket karl",
+      "latitude": 54.936474,
+      "longitude": 10.712359
+    },
+    {
+      "name": "Kasket Karl",
+      "latitude": 55.466819,
+      "longitude": 8.453174
+    },
+    {
+      "name": "Kassen",
+      "latitude": 55.688015,
+      "longitude": 12.560646
+    },
+    {
+      "name": "Katrines Kælder",
+      "latitude": 56.172019,
+      "longitude": 10.191214
+    },
+    {
+      "name": "Kayak Bar",
+      "latitude": 55.675205,
+      "longitude": 12.586764
+    },
+    {
+      "name": "Keglen",
+      "latitude": 55.526886,
+      "longitude": 11.49977
+    },
+    {
+      "name": "Keglerne",
+      "latitude": 55.255778,
+      "longitude": 12.379804
+    },
+    {
+      "name": "Kellervenner",
+      "latitude": 55.664785,
+      "longitude": 12.599493
+    },
+    {
+      "name": "Kennedys Irish Bar",
+      "latitude": 55.673692,
+      "longitude": 12.556002
+    },
+    {
+      "name": "Kind of Blue",
+      "latitude": 55.689103,
+      "longitude": 12.562415
+    },
+    {
+      "name": "King George",
+      "latitude": 55.466577,
+      "longitude": 8.45383
+    },
+    {
+      "name": "Kings Pub",
+      "latitude": 56.183605,
+      "longitude": 9.545307
+    },
+    {
+      "name": "Kino Bar",
+      "latitude": 54.935044,
+      "longitude": 8.86771
+    },
+    {
+      "name": "Kiss kiss",
+      "latitude": 55.677945,
+      "longitude": 12.568094
+    },
+    {
+      "name": "Kissa",
+      "latitude": 55.672001,
+      "longitude": 12.55563
+    },
+    {
+      "name": "Klangbar",
+      "latitude": 55.657241,
+      "longitude": 12.589061
+    },
+    {
+      "name": "Klap Hesten",
+      "latitude": 54.95332,
+      "longitude": 12.465917
+    },
+    {
+      "name": "Klase - F & B Engholmene",
+      "latitude": 55.655428,
+      "longitude": 12.560771
+    },
+    {
+      "name": "Klausen Vejle",
+      "latitude": 55.702461,
+      "longitude": 9.533337
+    },
+    {
+      "name": "Klods Hans",
+      "latitude": 55.680579,
+      "longitude": 12.588872
+    },
+    {
+      "name": "Klodshans",
+      "latitude": 55.856498,
+      "longitude": 9.83835
+    },
+    {
+      "name": "Klokken",
+      "latitude": 55.094134,
+      "longitude": 10.246172
+    },
+    {
+      "name": "Klubben Studenterlauget",
+      "latitude": 56.162003,
+      "longitude": 10.182239
+    },
+    {
+      "name": "Kluppen",
+      "latitude": 56.435357,
+      "longitude": 10.431712
+    },
+    {
+      "name": "Klør Dame",
+      "latitude": 55.701174,
+      "longitude": 12.551194
+    },
+    {
+      "name": "Kløvermarkens Cafe",
+      "latitude": 55.67226,
+      "longitude": 12.608339
+    },
+    {
+      "name": "Knuds Dance Hall",
+      "latitude": 55.489565,
+      "longitude": 9.477773
+    },
+    {
+      "name": "Knuds Garage",
+      "latitude": 55.489629,
+      "longitude": 9.477523
+    },
+    {
+      "name": "Kold's",
+      "latitude": 56.460137,
+      "longitude": 10.035043
+    },
+    {
+      "name": "Kolibrien",
+      "latitude": 55.505432,
+      "longitude": 9.731631
+    },
+    {
+      "name": "Kolme",
+      "latitude": 55.676842,
+      "longitude": 12.561147
+    },
+    {
+      "name": "Kom Igen",
+      "latitude": 55.625497,
+      "longitude": 12.589514
+    },
+    {
+      "name": "Komma Bar",
+      "latitude": 56.172845,
+      "longitude": 10.206452
+    },
+    {
+      "name": "Kommandobroen",
+      "latitude": 56.491746,
+      "longitude": 8.596319
+    },
+    {
+      "name": "Kompasset Ølbar",
+      "latitude": 55.709567,
+      "longitude": 12.577217
+    },
+    {
+      "name": "Kongens bar",
+      "latitude": 55.681122,
+      "longitude": 12.584053
+    },
+    {
+      "name": "Kongens Bar",
+      "latitude": 56.4497,
+      "longitude": 9.404074
+    },
+    {
+      "name": "Kongsøre bar/beværtning",
+      "latitude": 55.823422,
+      "longitude": 11.667603
+    },
+    {
+      "name": "Konstabelmessen",
+      "latitude": 55.621859,
+      "longitude": 8.240197
+    },
+    {
+      "name": "Konstabelmessen",
+      "latitude": 56.542366,
+      "longitude": 9.041753
+    },
+    {
+      "name": "Kontiki",
+      "latitude": 57.043481,
+      "longitude": 9.921353
+    },
+    {
+      "name": "Kontoret",
+      "latitude": 55.239468,
+      "longitude": 10.480223
+    },
+    {
+      "name": "Kontoret",
+      "latitude": 55.680173,
+      "longitude": 11.087097
+    },
+    {
+      "name": "Kontoret",
+      "latitude": 56.568829,
+      "longitude": 9.027419
+    },
+    {
+      "name": "Kontoret Bramming",
+      "latitude": 55.465932,
+      "longitude": 8.699802
+    },
+    {
+      "name": "Kontoret Nykøbing",
+      "latitude": 54.76639,
+      "longitude": 11.867032
+    },
+    {
+      "name": "Kontoret. Randers",
+      "latitude": 56.460143,
+      "longitude": 10.034816
+    },
+    {
+      "name": "Koppen 2019",
+      "latitude": 55.075891,
+      "longitude": 9.211989
+    },
+    {
+      "name": "KORK Vinbaren",
+      "latitude": 55.396168,
+      "longitude": 10.384925
+    },
+    {
+      "name": "Kraftwerket Bar Underwerket",
+      "latitude": 55.661388,
+      "longitude": 12.51852
+    },
+    {
+      "name": "Kroen i Centrum",
+      "latitude": 57.059212,
+      "longitude": 9.922043
+    },
+    {
+      "name": "Kroko Bar",
+      "latitude": 57.369395,
+      "longitude": 9.710439
+    },
+    {
+      "name": "Kronborggade 3",
+      "latitude": 55.691383,
+      "longitude": 12.544643
+    },
+    {
+      "name": "Kruset",
+      "latitude": 56.414387,
+      "longitude": 10.873738
+    },
+    {
+      "name": "Krystal Bodega",
+      "latitude": 55.102147,
+      "longitude": 14.698191
+    },
+    {
+      "name": "Kræmmerkroen",
+      "latitude": 55.620452,
+      "longitude": 8.481956
+    },
+    {
+      "name": "Kuhstall Holstebro",
+      "latitude": 56.358024,
+      "longitude": 8.620377
+    },
+    {
+      "name": "Kupeen Nørre Aaby",
+      "latitude": 55.460038,
+      "longitude": 9.877411
+    },
+    {
+      "name": "Kurt Strandbar",
+      "latitude": 56.171261,
+      "longitude": 10.193548
+    },
+    {
+      "name": "Kurts Mor",
+      "latitude": 56.153934,
+      "longitude": 10.209527
+    },
+    {
+      "name": "Kvisthuset",
+      "latitude": 57.196325,
+      "longitude": 9.945016
+    },
+    {
+      "name": "Kystvejens Hotel og Konferencecenter",
+      "latitude": 56.404975,
+      "longitude": 10.915317
+    },
+    {
+      "name": "Kældercaféen",
+      "latitude": 55.247974,
+      "longitude": 9.489242
+    },
+    {
+      "name": "KælderCaféen",
+      "latitude": 55.773013,
+      "longitude": 12.473742
+    },
+    {
+      "name": "Kælderen Bar & Bodega",
+      "latitude": 55.972787,
+      "longitude": 10.146976
+    },
+    {
+      "name": "Kødbyens Baghave",
+      "latitude": 55.66863,
+      "longitude": 12.56089
+    },
+    {
+      "name": "La Bonita",
+      "latitude": 55.675058,
+      "longitude": 12.572209
+    },
+    {
+      "name": "La Boucherie",
+      "latitude": 55.677972,
+      "longitude": 12.570709
+    },
+    {
+      "name": "La Flamme",
+      "latitude": 55.757906,
+      "longitude": 8.927195
+    },
+    {
+      "name": "La Fontaine",
+      "latitude": 55.677372,
+      "longitude": 12.576151
+    },
+    {
+      "name": "La Taverna",
+      "latitude": 57.341918,
+      "longitude": 10.238824
+    },
+    {
+      "name": "LA Tequila Bar Odense",
+      "latitude": 55.395834,
+      "longitude": 10.383387
+    },
+    {
+      "name": "La Vie",
+      "latitude": 55.540705,
+      "longitude": 11.375651
+    },
+    {
+      "name": "Laban",
+      "latitude": 55.665854,
+      "longitude": 12.557661
+    },
+    {
+      "name": "LaBar",
+      "latitude": 55.681269,
+      "longitude": 12.581035
+    },
+    {
+      "name": "Laden Bistro og Musikbar",
+      "latitude": 56.706966,
+      "longitude": 8.215771
+    },
+    {
+      "name": "Lagunen Kælderen",
+      "latitude": 57.04052,
+      "longitude": 10.358165
+    },
+    {
+      "name": "Lalandia Søndervig Hops Beerbar",
+      "latitude": 56.12047,
+      "longitude": 8.120114
+    },
+    {
+      "name": "Lalou Vinbar",
+      "latitude": 55.395099,
+      "longitude": 10.385329
+    },
+    {
+      "name": "Lampen",
+      "latitude": 55.49294,
+      "longitude": 9.469794
+    },
+    {
+      "name": "Landevejskroen mørke",
+      "latitude": 56.338193,
+      "longitude": 10.375011
+    },
+    {
+      "name": "Landgreven",
+      "latitude": 55.716987,
+      "longitude": 11.709243
+    },
+    {
+      "name": "Landmanden",
+      "latitude": 54.890398,
+      "longitude": 12.040852
+    },
+    {
+      "name": "Langå Bodega",
+      "latitude": 56.388249,
+      "longitude": 9.896836
+    },
+    {
+      "name": "Lanternen",
+      "latitude": 56.118951,
+      "longitude": 8.114827
+    },
+    {
+      "name": "Lanternen",
+      "latitude": 57.334906,
+      "longitude": 10.519514
+    },
+    {
+      "name": "Laredo",
+      "latitude": 56.463752,
+      "longitude": 10.324785
+    },
+    {
+      "name": "Larsens Sportsbar & Bistro",
+      "latitude": 56.872938,
+      "longitude": 9.396084
+    },
+    {
+      "name": "Laugskroen værtshus",
+      "latitude": 55.708949,
+      "longitude": 12.538835
+    },
+    {
+      "name": "Layali lounge",
+      "latitude": 57.026455,
+      "longitude": 10.000749
+    },
+    {
+      "name": "Le Week-end",
+      "latitude": 55.669749,
+      "longitude": 12.54537
+    },
+    {
+      "name": "Level six Bar",
+      "latitude": 55.683785,
+      "longitude": 12.571729
+    },
+    {
+      "name": "Library Bar",
+      "latitude": 55.673859,
+      "longitude": 12.564699
+    },
+    {
+      "name": "Lidkøb",
+      "latitude": 55.673249,
+      "longitude": 12.551712
+    },
+    {
+      "name": "Likørstuen Silkeborg",
+      "latitude": 56.166784,
+      "longitude": 9.545728
+    },
+    {
+      "name": "Lillebar Lillero",
+      "latitude": 55.845429,
+      "longitude": 11.489887
+    },
+    {
+      "name": "Limfjordskroen",
+      "latitude": 56.491097,
+      "longitude": 8.598388
+    },
+    {
+      "name": "Liquo",
+      "latitude": 55.665117,
+      "longitude": 12.533267
+    },
+    {
+      "name": "Little Green Door",
+      "latitude": 55.677729,
+      "longitude": 12.578433
+    },
+    {
+      "name": "Little London",
+      "latitude": 55.467582,
+      "longitude": 8.452119
+    },
+    {
+      "name": "Little Village bar",
+      "latitude": 55.693767,
+      "longitude": 12.609404
+    },
+    {
+      "name": "Live 28",
+      "latitude": 55.638707,
+      "longitude": 12.076013
+    },
+    {
+      "name": "Loftet",
+      "latitude": 55.05869,
+      "longitude": 10.612991
+    },
+    {
+      "name": "London Bar",
+      "latitude": 56.155524,
+      "longitude": 10.209092
+    },
+    {
+      "name": "London Pub",
+      "latitude": 55.776402,
+      "longitude": 12.575799
+    },
+    {
+      "name": "London Pub",
+      "latitude": 57.046843,
+      "longitude": 9.920049
+    },
+    {
+      "name": "Long John",
+      "latitude": 56.144217,
+      "longitude": 9.280576
+    },
+    {
+      "name": "Lou Lou",
+      "latitude": 55.68114,
+      "longitude": 12.583069
+    },
+    {
+      "name": "Lou Lou",
+      "latitude": 56.155277,
+      "longitude": 10.209446
+    },
+    {
+      "name": "LouLou Aalborg",
+      "latitude": 57.049591,
+      "longitude": 9.918587
+    },
+    {
+      "name": "Lounge Feddet",
+      "latitude": 55.174893,
+      "longitude": 12.101899
+    },
+    {
+      "name": "Lucky Joe",
+      "latitude": 56.358617,
+      "longitude": 8.620162
+    },
+    {
+      "name": "Lucky's",
+      "latitude": 55.705771,
+      "longitude": 9.535465
+    },
+    {
+      "name": "Lucy",
+      "latitude": 55.693339,
+      "longitude": 12.547482
+    },
+    {
+      "name": "Lucy's",
+      "latitude": 56.155694,
+      "longitude": 10.206124
+    },
+    {
+      "name": "Ludo",
+      "latitude": 57.114115,
+      "longitude": 8.606945
+    },
+    {
+      "name": "Luke's",
+      "latitude": 55.679395,
+      "longitude": 12.574879
+    },
+    {
+      "name": "Lulles Bodega",
+      "latitude": 56.152666,
+      "longitude": 9.903423
+    },
+    {
+      "name": "LuLu",
+      "latitude": 55.688559,
+      "longitude": 12.562178
+    },
+    {
+      "name": "Lumskebugten",
+      "latitude": 55.707191,
+      "longitude": 9.540812
+    },
+    {
+      "name": "Lumskebuksen",
+      "latitude": 55.703916,
+      "longitude": 12.557022
+    },
+    {
+      "name": "Luna Cocktailbar",
+      "latitude": 55.670982,
+      "longitude": 12.558493
+    },
+    {
+      "name": "Lundens Bodega",
+      "latitude": 55.495445,
+      "longitude": 8.484959
+    },
+    {
+      "name": "Lygtekroen",
+      "latitude": 55.444484,
+      "longitude": 11.791724
+    },
+    {
+      "name": "Lygten",
+      "latitude": 55.757339,
+      "longitude": 8.926798
+    },
+    {
+      "name": "Léanowski Bar",
+      "latitude": 55.689782,
+      "longitude": 12.560259
+    },
+    {
+      "name": "Løkken Bryghus Ølbar",
+      "latitude": 57.370358,
+      "longitude": 9.712833
+    },
+    {
+      "name": "Løkken Pub",
+      "latitude": 57.37033,
+      "longitude": 9.712302
+    },
+    {
+      "name": "Mad Molly",
+      "latitude": 55.488621,
+      "longitude": 12.181097
+    },
+    {
+      "name": "Madam Cuba",
+      "latitude": 56.155777,
+      "longitude": 10.208839
+    },
+    {
+      "name": "Madvig",
+      "latitude": 55.135903,
+      "longitude": 15.141294
+    },
+    {
+      "name": "MAIN BAR",
+      "latitude": 55.677885,
+      "longitude": 12.597231
+    },
+    {
+      "name": "Malbeck vinbar",
+      "latitude": 55.669065,
+      "longitude": 12.553316
+    },
+    {
+      "name": "Malergården Lagunen",
+      "latitude": 56.806728,
+      "longitude": 8.406799
+    },
+    {
+      "name": "Mallorca Bar",
+      "latitude": 57.043655,
+      "longitude": 9.918054
+    },
+    {
+      "name": "Malt & Grape",
+      "latitude": 55.04368,
+      "longitude": 9.418982
+    },
+    {
+      "name": "Mama’s",
+      "latitude": 54.767018,
+      "longitude": 11.871601
+    },
+    {
+      "name": "Manhattan Bar",
+      "latitude": 56.46019,
+      "longitude": 10.038705
+    },
+    {
+      "name": "Manza Vinbar",
+      "latitude": 56.159125,
+      "longitude": 10.212349
+    },
+    {
+      "name": "Marinestuen",
+      "latitude": 54.765999,
+      "longitude": 11.867512
+    },
+    {
+      "name": "Mark Bar Fredagsbar",
+      "latitude": 56.087245,
+      "longitude": 10.227038
+    },
+    {
+      "name": "Marsk Stigs Kro",
+      "latitude": 56.255932,
+      "longitude": 9.862912
+    },
+    {
+      "name": "Marstang cafe & bar",
+      "latitude": 54.853939,
+      "longitude": 10.518127
+    },
+    {
+      "name": "Mascot",
+      "latitude": 55.69906,
+      "longitude": 12.536029
+    },
+    {
+      "name": "Masken Bar",
+      "latitude": 55.678176,
+      "longitude": 12.568618
+    },
+    {
+      "name": "Maskinen",
+      "latitude": 55.780282,
+      "longitude": 12.516459
+    },
+    {
+      "name": "MasVino",
+      "latitude": 56.159417,
+      "longitude": 10.20619
+    },
+    {
+      "name": "Mathias Kælderen",
+      "latitude": 56.449359,
+      "longitude": 9.407768
+    },
+    {
+      "name": "mBAR",
+      "latitude": 55.699198,
+      "longitude": 12.556911
+    },
+    {
+      "name": "Mc Kluud",
+      "latitude": 55.668362,
+      "longitude": 12.550145
+    },
+    {
+      "name": "Meat Pack",
+      "latitude": 55.666443,
+      "longitude": 12.55797
+    },
+    {
+      "name": "Medicinsk Fredagsbar (Umbilicus)",
+      "latitude": 56.167772,
+      "longitude": 10.202079
+    },
+    {
+      "name": "Men\"s bar",
+      "latitude": 55.679262,
+      "longitude": 12.568437
+    },
+    {
+      "name": "MesterBar",
+      "latitude": 56.012731,
+      "longitude": 11.965992
+    },
+    {
+      "name": "Mesteren & Lærlingen",
+      "latitude": 55.66769,
+      "longitude": 12.5589
+    },
+    {
+      "name": "Miami",
+      "latitude": 55.678279,
+      "longitude": 12.571677
+    },
+    {
+      "name": "Midtskiws",
+      "latitude": 56.567462,
+      "longitude": 9.028461
+    },
+    {
+      "name": "Mig & Ølsnedkeren",
+      "latitude": 56.157802,
+      "longitude": 10.212032
+    },
+    {
+      "name": "Mikkeller",
+      "latitude": 55.628643,
+      "longitude": 12.644445
+    },
+    {
+      "name": "Mikkeller & Friends",
+      "latitude": 55.694645,
+      "longitude": 12.543223
+    },
+    {
+      "name": "Mikkeller Baghaven",
+      "latitude": 55.693485,
+      "longitude": 12.607864
+    },
+    {
+      "name": "Mikkeller Bar Aarhus",
+      "latitude": 56.148256,
+      "longitude": 10.200652
+    },
+    {
+      "name": "Mikkeller Bar Viktoriagade",
+      "latitude": 55.671957,
+      "longitude": 12.557548
+    },
+    {
+      "name": "Mikkellerbar Årsdale",
+      "latitude": 55.107699,
+      "longitude": 15.144231
+    },
+    {
+      "name": "Millers Pub",
+      "latitude": 56.086966,
+      "longitude": 10.040217
+    },
+    {
+      "name": "Mimers Bodega",
+      "latitude": 55.698341,
+      "longitude": 12.550349
+    },
+    {
+      "name": "MIN PUB",
+      "latitude": 56.110164,
+      "longitude": 8.977113
+    },
+    {
+      "name": "MO LEHN CAKE",
+      "latitude": 55.062186,
+      "longitude": 15.131288
+    },
+    {
+      "name": "Mojo Blues Bar",
+      "latitude": 55.675658,
+      "longitude": 12.573534
+    },
+    {
+      "name": "Momentet",
+      "latitude": 56.170122,
+      "longitude": 10.195386
+    },
+    {
+      "name": "Moonbar",
+      "latitude": 55.70631,
+      "longitude": 12.539166
+    },
+    {
+      "name": "MP-Stuen",
+      "latitude": 57.089885,
+      "longitude": 9.946399
+    },
+    {
+      "name": "Mr. Snowmans hotdrinks",
+      "latitude": 55.674506,
+      "longitude": 12.565729
+    },
+    {
+      "name": "Mundhæld",
+      "latitude": 56.157382,
+      "longitude": 10.200311
+    },
+    {
+      "name": "Munk Stuen",
+      "latitude": 54.774085,
+      "longitude": 11.502698
+    },
+    {
+      "name": "Munken",
+      "latitude": 57.444856,
+      "longitude": 10.539434
+    },
+    {
+      "name": "Musicon Mikrobryggeri Beværtning",
+      "latitude": 55.627895,
+      "longitude": 12.0838
+    },
+    {
+      "name": "Musikbaren",
+      "latitude": 55.72056,
+      "longitude": 11.713718
+    },
+    {
+      "name": "Musikhuzet Bornholm Bar",
+      "latitude": 55.102534,
+      "longitude": 14.699027
+    },
+    {
+      "name": "My Way",
+      "latitude": 56.693755,
+      "longitude": 9.495107
+    },
+    {
+      "name": "Märkbar",
+      "latitude": 55.671725,
+      "longitude": 12.545897
+    },
+    {
+      "name": "Mågekroen",
+      "latitude": 55.702241,
+      "longitude": 12.527665
+    },
+    {
+      "name": "Mål & Skåål",
+      "latitude": 55.394057,
+      "longitude": 10.348816
+    },
+    {
+      "name": "Månedanserens Baghave",
+      "latitude": 56.05944,
+      "longitude": 12.075291
+    },
+    {
+      "name": "Mødestedet",
+      "latitude": 55.934858,
+      "longitude": 12.504431
+    },
+    {
+      "name": "Mødestedet",
+      "latitude": 56.694274,
+      "longitude": 9.496862
+    },
+    {
+      "name": "Mødestedet Dans-Bodega",
+      "latitude": 55.483614,
+      "longitude": 9.018054
+    },
+    {
+      "name": "Mødestedet i Viborg",
+      "latitude": 56.46112,
+      "longitude": 9.394625
+    },
+    {
+      "name": "Møllehuset",
+      "latitude": 55.758019,
+      "longitude": 10.26204
+    },
+    {
+      "name": "Mølleporten Øl og Vinstue",
+      "latitude": 54.986109,
+      "longitude": 12.288411
+    },
+    {
+      "name": "Møllestenen",
+      "latitude": 54.799907,
+      "longitude": 11.635999
+    },
+    {
+      "name": "Mørkhøj Bodega",
+      "latitude": 55.719825,
+      "longitude": 12.470409
+    },
+    {
+      "name": "Nanorama",
+      "latitude": 56.168754,
+      "longitude": 10.196892
+    },
+    {
+      "name": "Natcafeen",
+      "latitude": 55.681557,
+      "longitude": 12.584292
+    },
+    {
+      "name": "Natteravnen Ravnsbjergkollegiet Fælleslokaler",
+      "latitude": 56.119533,
+      "longitude": 10.150456
+    },
+    {
+      "name": "Nebbiolo Winebar",
+      "latitude": 55.681141,
+      "longitude": 12.589243
+    },
+    {
+      "name": "Nede Paa Jorden",
+      "latitude": 57.046601,
+      "longitude": 9.925881
+    },
+    {
+      "name": "Nekudemus Bodega",
+      "latitude": 55.627253,
+      "longitude": 12.479349
+    },
+    {
+      "name": "Nelles Coffee &Wine",
+      "latitude": 55.392227,
+      "longitude": 10.380452
+    },
+    {
+      "name": "Nemo Bar",
+      "latitude": 55.672787,
+      "longitude": 12.600309
+    },
+    {
+      "name": "Nexø minigolf & Biergarten",
+      "latitude": 55.057875,
+      "longitude": 15.13275
+    },
+    {
+      "name": "Nicolas Feuillatte Bar",
+      "latitude": 55.624787,
+      "longitude": 12.573687
+    },
+    {
+      "name": "Nimb Bar",
+      "latitude": 55.673604,
+      "longitude": 12.566069
+    },
+    {
+      "name": "Nimb Bar og Banquet 1. sal",
+      "latitude": 55.673551,
+      "longitude": 12.5661
+    },
+    {
+      "name": "NMJ Bar",
+      "latitude": 55.391387,
+      "longitude": 10.396669
+    },
+    {
+      "name": "No 14",
+      "latitude": 55.70708,
+      "longitude": 9.532608
+    },
+    {
+      "name": "No 3",
+      "latitude": 55.666944,
+      "longitude": 12.547702
+    },
+    {
+      "name": "No 43 Vinbar",
+      "latitude": 55.879906,
+      "longitude": 12.498162
+    },
+    {
+      "name": "No Stress Bar DK",
+      "latitude": 55.681424,
+      "longitude": 12.571293
+    },
+    {
+      "name": "No Stress Bar Odense",
+      "latitude": 55.394501,
+      "longitude": 10.385495
+    },
+    {
+      "name": "No. 10",
+      "latitude": 54.937696,
+      "longitude": 10.714254
+    },
+    {
+      "name": "No. 37",
+      "latitude": 55.862109,
+      "longitude": 9.844499
+    },
+    {
+      "name": "Nohrlund Bar",
+      "latitude": 55.673518,
+      "longitude": 12.566834
+    },
+    {
+      "name": "Nordbo bar",
+      "latitude": 55.669558,
+      "longitude": 12.573766
+    },
+    {
+      "name": "Nordvest Ølbar",
+      "latitude": 55.706523,
+      "longitude": 12.533929
+    },
+    {
+      "name": "Nori Bar",
+      "latitude": 56.156806,
+      "longitude": 10.208322
+    },
+    {
+      "name": "Not Your Usual Wine bar",
+      "latitude": 55.676254,
+      "longitude": 12.57164
+    },
+    {
+      "name": "Nr. Alslev Bodega",
+      "latitude": 54.897439,
+      "longitude": 11.885061
+    },
+    {
+      "name": "Ny Grøndal Cafe",
+      "latitude": 55.706177,
+      "longitude": 12.488981
+    },
+    {
+      "name": "Ny Kro",
+      "latitude": 55.662556,
+      "longitude": 12.48254
+    },
+    {
+      "name": "Nyhavn 7",
+      "latitude": 55.680677,
+      "longitude": 12.58846
+    },
+    {
+      "name": "Nyhavns Champagnebodega",
+      "latitude": 55.680729,
+      "longitude": 12.589781
+    },
+    {
+      "name": "Nærum Bodega",
+      "latitude": 55.820125,
+      "longitude": 12.538834
+    },
+    {
+      "name": "Nøglen",
+      "latitude": 55.337481,
+      "longitude": 10.313462
+    },
+    {
+      "name": "Nørgaard på Hjørnet",
+      "latitude": 57.048262,
+      "longitude": 9.917223
+    },
+    {
+      "name": "Nørrebro Teater Bar",
+      "latitude": 55.688107,
+      "longitude": 12.561284
+    },
+    {
+      "name": "Nørregaards Teater",
+      "latitude": 55.393098,
+      "longitude": 10.381525
+    },
+    {
+      "name": "Nørrelands Bodega",
+      "latitude": 56.365131,
+      "longitude": 8.609172
+    },
+    {
+      "name": "Nørreport Bodega",
+      "latitude": 55.682421,
+      "longitude": 12.571505
+    },
+    {
+      "name": "Oak Brew",
+      "latitude": 56.164621,
+      "longitude": 10.222984
+    },
+    {
+      "name": "Oasis Vinbar",
+      "latitude": 55.681857,
+      "longitude": 12.570916
+    },
+    {
+      "name": "Odense Symfoniorkester - baren",
+      "latitude": 55.399394,
+      "longitude": 10.392255
+    },
+    {
+      "name": "Ofelia Bar",
+      "latitude": 56.035733,
+      "longitude": 12.615384
+    },
+    {
+      "name": "Ohøj BAR",
+      "latitude": 56.52879,
+      "longitude": 10.704714
+    },
+    {
+      "name": "Oksbøl bryghus Servering",
+      "latitude": 55.625465,
+      "longitude": 8.278768
+    },
+    {
+      "name": "Oksen Bodega",
+      "latitude": 55.630502,
+      "longitude": 12.601204
+    },
+    {
+      "name": "Old Danish Pub",
+      "latitude": 54.909295,
+      "longitude": 9.788639
+    },
+    {
+      "name": "Old Irish Pub Amagerbrogade",
+      "latitude": 55.659672,
+      "longitude": 12.606126
+    },
+    {
+      "name": "Old Irish Pub Karaoke",
+      "latitude": 55.675588,
+      "longitude": 12.566541
+    },
+    {
+      "name": "Ommel Kro og Festlokale",
+      "latitude": 54.871829,
+      "longitude": 10.487662
+    },
+    {
+      "name": "ONeills",
+      "latitude": 55.270031,
+      "longitude": 9.894576
+    },
+    {
+      "name": "Onkel Toms hytte",
+      "latitude": 56.367594,
+      "longitude": 8.621987
+    },
+    {
+      "name": "Operaen Pausebar",
+      "latitude": 55.682031,
+      "longitude": 12.601825
+    },
+    {
+      "name": "Orakel Bar",
+      "latitude": 56.716529,
+      "longitude": 11.511249
+    },
+    {
+      "name": "Orangeriet Bar",
+      "latitude": 55.673922,
+      "longitude": 12.568743
+    },
+    {
+      "name": "Orienten",
+      "latitude": 55.702916,
+      "longitude": 9.531369
+    },
+    {
+      "name": "Orlas Poolbar",
+      "latitude": 55.710997,
+      "longitude": 9.534235
+    },
+    {
+      "name": "Osborne",
+      "latitude": 55.690299,
+      "longitude": 12.559562
+    },
+    {
+      "name": "Overfarten",
+      "latitude": 54.65831,
+      "longitude": 11.353865
+    },
+    {
+      "name": "Overfor DAHLS VINHANDEL",
+      "latitude": 56.450063,
+      "longitude": 9.410281
+    },
+    {
+      "name": "Oxen",
+      "latitude": 55.62612,
+      "longitude": 8.280353
+    },
+    {
+      "name": "Ozzy Bar",
+      "latitude": 57.05153,
+      "longitude": 9.914643
+    },
+    {
+      "name": "Padel Star",
+      "latitude": 56.108065,
+      "longitude": 10.164905
+    },
+    {
+      "name": "Pakhuset",
+      "latitude": 57.05031,
+      "longitude": 9.919796
+    },
+    {
+      "name": "Pakhuset Braunstein",
+      "latitude": 55.45415,
+      "longitude": 12.18812
+    },
+    {
+      "name": "Palæ Bar",
+      "latitude": 55.681213,
+      "longitude": 12.583721
+    },
+    {
+      "name": "Panache",
+      "latitude": 55.691945,
+      "longitude": 12.55707
+    },
+    {
+      "name": "Panenka",
+      "latitude": 56.155276,
+      "longitude": 10.205323
+    },
+    {
+      "name": "Panope Champagne & Vinbar",
+      "latitude": 55.711286,
+      "longitude": 9.53421
+    },
+    {
+      "name": "Panta Rei - Filosofisk og Idéhistorisk fredagsbar",
+      "latitude": 56.172764,
+      "longitude": 10.204495
+    },
+    {
+      "name": "Papirøen PU",
+      "latitude": 55.678672,
+      "longitude": 12.5975
+    },
+    {
+      "name": "Park Hotel",
+      "latitude": 57.441424,
+      "longitude": 10.535509
+    },
+    {
+      "name": "Parken Bar",
+      "latitude": 55.701691,
+      "longitude": 12.572473
+    },
+    {
+      "name": "Passagen",
+      "latitude": 55.978637,
+      "longitude": 12.400608
+    },
+    {
+      "name": "Pauls Ølstue",
+      "latitude": 55.810239,
+      "longitude": 12.514485
+    },
+    {
+      "name": "Pause Øl og Vinbar",
+      "latitude": 55.640733,
+      "longitude": 12.076033
+    },
+    {
+      "name": "Pausebar",
+      "latitude": 55.679426,
+      "longitude": 12.586187
+    },
+    {
+      "name": "Pavillion De Verre",
+      "latitude": 55.683645,
+      "longitude": 12.569877
+    },
+    {
+      "name": "Peder skram",
+      "latitude": 55.966313,
+      "longitude": 9.750015
+    },
+    {
+      "name": "Peder Wessel",
+      "latitude": 56.169922,
+      "longitude": 10.216139
+    },
+    {
+      "name": "Peder Wessel",
+      "latitude": 57.434911,
+      "longitude": 10.531619
+    },
+    {
+      "name": "Peders Bar",
+      "latitude": 55.679056,
+      "longitude": 12.568946
+    },
+    {
+      "name": "Pejsestuen",
+      "latitude": 56.344387,
+      "longitude": 8.343294
+    },
+    {
+      "name": "People Like Us",
+      "latitude": 55.698242,
+      "longitude": 12.552968
+    },
+    {
+      "name": "Perikles Bodega",
+      "latitude": 55.714155,
+      "longitude": 12.571727
+    },
+    {
+      "name": "Perron 7",
+      "latitude": 55.900371,
+      "longitude": 11.606258
+    },
+    {
+      "name": "Perronen",
+      "latitude": 55.417923,
+      "longitude": 10.362199
+    },
+    {
+      "name": "Petanque Bar",
+      "latitude": 55.682922,
+      "longitude": 12.582556
+    },
+    {
+      "name": "Peter Gift",
+      "latitude": 56.14865,
+      "longitude": 10.20319
+    },
+    {
+      "name": "Phønix Nyborg",
+      "latitude": 55.311126,
+      "longitude": 10.792204
+    },
+    {
+      "name": "Piano Bar Herning",
+      "latitude": 56.135885,
+      "longitude": 8.979403
+    },
+    {
+      "name": "Pigen & Trompeten",
+      "latitude": 56.56837,
+      "longitude": 9.033217
+    },
+    {
+      "name": "Pigernes Kro Onsild",
+      "latitude": 56.577089,
+      "longitude": 9.747428
+    },
+    {
+      "name": "Pind's Cafe",
+      "latitude": 56.156066,
+      "longitude": 10.211496
+    },
+    {
+      "name": "Pinden Bodega",
+      "latitude": 55.673378,
+      "longitude": 12.56272
+    },
+    {
+      "name": "Pingvinen Bodega",
+      "latitude": 55.761558,
+      "longitude": 12.452387
+    },
+    {
+      "name": "Piola",
+      "latitude": 55.693823,
+      "longitude": 12.607704
+    },
+    {
+      "name": "PioVin",
+      "latitude": 55.672712,
+      "longitude": 12.55484
+    },
+    {
+      "name": "Piratbar",
+      "latitude": 57.018386,
+      "longitude": 9.963437
+    },
+    {
+      "name": "Pitstop",
+      "latitude": 55.710952,
+      "longitude": 9.536787
+    },
+    {
+      "name": "Pitstop til Fremtiden",
+      "latitude": 55.490342,
+      "longitude": 9.479974
+    },
+    {
+      "name": "Plan B Sportsbar",
+      "latitude": 55.360202,
+      "longitude": 10.589058
+    },
+    {
+      "name": "Polyteknisk Forening - Ballerup Campus",
+      "latitude": 55.731291,
+      "longitude": 12.396873
+    },
+    {
+      "name": "Pompette",
+      "latitude": 55.69056,
+      "longitude": 12.555409
+    },
+    {
+      "name": "Pool",
+      "latitude": 55.682021,
+      "longitude": 12.584869
+    },
+    {
+      "name": "Portvinsbaren",
+      "latitude": 55.671923,
+      "longitude": 12.545461
+    },
+    {
+      "name": "Postbodegaen",
+      "latitude": 55.661672,
+      "longitude": 12.610206
+    },
+    {
+      "name": "Postgaarden",
+      "latitude": 55.058652,
+      "longitude": 8.948321
+    },
+    {
+      "name": "Postgaarden Bar",
+      "latitude": 55.673001,
+      "longitude": 12.549414
+    },
+    {
+      "name": "Postgaarden Hjørring",
+      "latitude": 57.460268,
+      "longitude": 9.982264
+    },
+    {
+      "name": "Postgården",
+      "latitude": 55.314557,
+      "longitude": 9.289613
+    },
+    {
+      "name": "Posthuset",
+      "latitude": 54.912552,
+      "longitude": 9.812421
+    },
+    {
+      "name": "Postkroen",
+      "latitude": 55.046372,
+      "longitude": 9.417656
+    },
+    {
+      "name": "Potten Øl- og Vinstue",
+      "latitude": 56.566832,
+      "longitude": 9.027577
+    },
+    {
+      "name": "Pouls Kro",
+      "latitude": 57.590613,
+      "longitude": 9.958212
+    },
+    {
+      "name": "Ppropp3n",
+      "latitude": 55.626167,
+      "longitude": 8.123982
+    },
+    {
+      "name": "Promenaden",
+      "latitude": 57.052441,
+      "longitude": 9.910779
+    },
+    {
+      "name": "Propelmessen",
+      "latitude": 56.296901,
+      "longitude": 9.136123
+    },
+    {
+      "name": "Provstens Vinstue",
+      "latitude": 55.512583,
+      "longitude": 12.136358
+    },
+    {
+      "name": "Pub 53 Øl og Vinbar",
+      "latitude": 55.681887,
+      "longitude": 12.50665
+    },
+    {
+      "name": "Pubben",
+      "latitude": 55.329487,
+      "longitude": 11.140014
+    },
+    {
+      "name": "Pubben Grindsted",
+      "latitude": 55.839311,
+      "longitude": 8.889391
+    },
+    {
+      "name": "Puben Vildbjerg",
+      "latitude": 56.198875,
+      "longitude": 8.767579
+    },
+    {
+      "name": "Pubs Bodega",
+      "latitude": 55.15795,
+      "longitude": 8.769166
+    },
+    {
+      "name": "Pulp",
+      "latitude": 55.690479,
+      "longitude": 12.560382
+    },
+    {
+      "name": "Pusterummet",
+      "latitude": 55.25761,
+      "longitude": 12.02414
+    },
+    {
+      "name": "Pusterummet",
+      "latitude": 55.426367,
+      "longitude": 9.281236
+    },
+    {
+      "name": "Pusterummet",
+      "latitude": 56.74891,
+      "longitude": 8.422902
+    },
+    {
+      "name": "PV - Kaffe & Cocktails",
+      "latitude": 56.157955,
+      "longitude": 10.208554
+    },
+    {
+      "name": "PÆRE",
+      "latitude": 55.680713,
+      "longitude": 12.571771
+    },
+    {
+      "name": "Pølsekroen",
+      "latitude": 55.776346,
+      "longitude": 12.5726
+    },
+    {
+      "name": "Quality Hotel Høje Taastrup Lobby Baren",
+      "latitude": 55.648163,
+      "longitude": 12.272461
+    },
+    {
+      "name": "Queen's Pub & Dance",
+      "latitude": 55.948623,
+      "longitude": 8.493763
+    },
+    {
+      "name": "Queens Pub",
+      "latitude": 57.162481,
+      "longitude": 9.729786
+    },
+    {
+      "name": "R Vinbar",
+      "latitude": 55.681932,
+      "longitude": 12.580153
+    },
+    {
+      "name": "Rabalder Bar",
+      "latitude": 54.90839,
+      "longitude": 9.788208
+    },
+    {
+      "name": "Rabalder Bar",
+      "latitude": 55.68209,
+      "longitude": 12.582499
+    },
+    {
+      "name": "Rabalder Bar",
+      "latitude": 56.154998,
+      "longitude": 10.209879
+    },
+    {
+      "name": "Rabalder Bar",
+      "latitude": 56.166821,
+      "longitude": 9.54544
+    },
+    {
+      "name": "Rabalder Bar",
+      "latitude": 57.436972,
+      "longitude": 10.533957
+    },
+    {
+      "name": "Rabalder Bar Kolding",
+      "latitude": 55.490163,
+      "longitude": 9.476215
+    },
+    {
+      "name": "Rabalder Bar Odense",
+      "latitude": 55.397728,
+      "longitude": 10.393807
+    },
+    {
+      "name": "Rabælle",
+      "latitude": 55.627765,
+      "longitude": 12.084943
+    },
+    {
+      "name": "Radisson Blu Royal Hotel Hotel Bar",
+      "latitude": 55.674883,
+      "longitude": 12.563755
+    },
+    {
+      "name": "Radisson Blu Scandinavia Hotel Bus Stop Bar",
+      "latitude": 55.667445,
+      "longitude": 12.585752
+    },
+    {
+      "name": "Radisson Blu Scandinavia Hotel Red 7 Bar",
+      "latitude": 55.667265,
+      "longitude": 12.585795
+    },
+    {
+      "name": "Rajuice Copenhagen",
+      "latitude": 55.673653,
+      "longitude": 12.559429
+    },
+    {
+      "name": "Rakkerstuen",
+      "latitude": 55.947466,
+      "longitude": 8.494076
+    },
+    {
+      "name": "Ramblin",
+      "latitude": 55.663204,
+      "longitude": 12.542182
+    },
+    {
+      "name": "Rascal",
+      "latitude": 55.68005,
+      "longitude": 12.548711
+    },
+    {
+      "name": "Rasmus Rask Kollegiets Bar",
+      "latitude": 55.392616,
+      "longitude": 10.334233
+    },
+    {
+      "name": "Ravnefar",
+      "latitude": 55.963645,
+      "longitude": 11.844826
+    },
+    {
+      "name": "Rbabarrab",
+      "latitude": 55.666567,
+      "longitude": 12.552091
+    },
+    {
+      "name": "Remo Bar",
+      "latitude": 55.411618,
+      "longitude": 10.39495
+    },
+    {
+      "name": "Rene's Vin & Grønttorv",
+      "latitude": 57.088103,
+      "longitude": 9.267371
+    },
+    {
+      "name": "Restaurant Bjælkehytten",
+      "latitude": 57.271846,
+      "longitude": 9.948375
+    },
+    {
+      "name": "Restaurant fuglsang",
+      "latitude": 55.415938,
+      "longitude": 10.369762
+    },
+    {
+      "name": "Restaurant Hjørnet",
+      "latitude": 56.16263,
+      "longitude": 9.548375
+    },
+    {
+      "name": "Restaurant Horns Rev",
+      "latitude": 55.473046,
+      "longitude": 8.436606
+    },
+    {
+      "name": "Restaurant Karl Marius",
+      "latitude": 55.514187,
+      "longitude": 10.397071
+    },
+    {
+      "name": "Restaurant Klods Hans",
+      "latitude": 55.564823,
+      "longitude": 9.754826
+    },
+    {
+      "name": "Restaurant Margo",
+      "latitude": 55.672521,
+      "longitude": 12.555995
+    },
+    {
+      "name": "Restaurant Morsø",
+      "latitude": 56.794873,
+      "longitude": 8.861513
+    },
+    {
+      "name": "Restaurant Nyhavn",
+      "latitude": 56.550285,
+      "longitude": 8.308193
+    },
+    {
+      "name": "Restaurant Pubben",
+      "latitude": 56.618746,
+      "longitude": 8.178123
+    },
+    {
+      "name": "Restaurant Sundhalle",
+      "latitude": 54.909727,
+      "longitude": 9.781015
+    },
+    {
+      "name": "Restaurant Vestfyn",
+      "latitude": 55.270158,
+      "longitude": 9.901741
+    },
+    {
+      "name": "Restaurant viking",
+      "latitude": 54.912792,
+      "longitude": 9.794755
+    },
+    {
+      "name": "Riesen",
+      "latitude": 55.669273,
+      "longitude": 12.549698
+    },
+    {
+      "name": "Rio",
+      "latitude": 56.955116,
+      "longitude": 8.695108
+    },
+    {
+      "name": "Rio Bravo",
+      "latitude": 55.310606,
+      "longitude": 10.791086
+    },
+    {
+      "name": "River Saloon",
+      "latitude": 56.356842,
+      "longitude": 8.618411
+    },
+    {
+      "name": "Robin Hood",
+      "latitude": 56.139218,
+      "longitude": 9.150549
+    },
+    {
+      "name": "Rockabilly Bar",
+      "latitude": 56.450072,
+      "longitude": 9.408121
+    },
+    {
+      "name": "Roland Bar",
+      "latitude": 55.662793,
+      "longitude": 12.591147
+    },
+    {
+      "name": "ROOF",
+      "latitude": 55.673919,
+      "longitude": 12.587413
+    },
+    {
+      "name": "Rosen",
+      "latitude": 55.040932,
+      "longitude": 9.419721
+    },
+    {
+      "name": "Rosen Bodega",
+      "latitude": 55.402991,
+      "longitude": 11.354033
+    },
+    {
+      "name": "Rosengaardens Vinstue",
+      "latitude": 55.68224,
+      "longitude": 12.572552
+    },
+    {
+      "name": "Roskilde Bodega",
+      "latitude": 55.634616,
+      "longitude": 12.067095
+    },
+    {
+      "name": "Rottehullet",
+      "latitude": 56.767394,
+      "longitude": 9.980751
+    },
+    {
+      "name": "Rottehullet",
+      "latitude": 57.056804,
+      "longitude": 10.372416
+    },
+    {
+      "name": "Rottehullet Hvidovre",
+      "latitude": 55.654268,
+      "longitude": 12.473843
+    },
+    {
+      "name": "Roxy Malt Holstebro",
+      "latitude": 56.356446,
+      "longitude": 8.618302
+    },
+    {
+      "name": "Roxy Malt Viborg",
+      "latitude": 56.449634,
+      "longitude": 9.401784
+    },
+    {
+      "name": "Royal Arena - 0.1 Vinyl Room",
+      "latitude": 55.625616,
+      "longitude": 12.57327
+    },
+    {
+      "name": "Ruby",
+      "latitude": 55.676693,
+      "longitude": 12.576619
+    },
+    {
+      "name": "RUCbar",
+      "latitude": 55.651937,
+      "longitude": 12.137199
+    },
+    {
+      "name": "Ruder Konge Bodega",
+      "latitude": 55.640478,
+      "longitude": 12.07686
+    },
+    {
+      "name": "Rustik og flamingo",
+      "latitude": 56.458619,
+      "longitude": 10.037361
+    },
+    {
+      "name": "Ryans",
+      "latitude": 55.397414,
+      "longitude": 10.388853
+    },
+    {
+      "name": "Ryomgård Bodega",
+      "latitude": 56.38088,
+      "longitude": 10.502842
+    },
+    {
+      "name": "Ryslinge Bodega",
+      "latitude": 55.242644,
+      "longitude": 10.536925
+    },
+    {
+      "name": "Rytterbaren",
+      "latitude": 56.897619,
+      "longitude": 9.228268
+    },
+    {
+      "name": "Rådhuskroen",
+      "latitude": 55.565241,
+      "longitude": 9.756823
+    },
+    {
+      "name": "Rådhuspub'en",
+      "latitude": 55.011858,
+      "longitude": 11.9075
+    },
+    {
+      "name": "Rævens Bar",
+      "latitude": 55.681228,
+      "longitude": 12.579438
+    },
+    {
+      "name": "Rødager Bodega",
+      "latitude": 55.675652,
+      "longitude": 12.453555
+    },
+    {
+      "name": "Rødder & Vin",
+      "latitude": 55.68835,
+      "longitude": 12.561933
+    },
+    {
+      "name": "Røde Kro",
+      "latitude": 55.566438,
+      "longitude": 10.089673
+    },
+    {
+      "name": "S Bar",
+      "latitude": 55.679432,
+      "longitude": 12.455281
+    },
+    {
+      "name": "S'vinbar",
+      "latitude": 56.158947,
+      "longitude": 10.204526
+    },
+    {
+      "name": "S-Huset",
+      "latitude": 55.786568,
+      "longitude": 12.525441
+    },
+    {
+      "name": "Sabotøren",
+      "latitude": 55.696086,
+      "longitude": 12.556334
+    },
+    {
+      "name": "Salonen",
+      "latitude": 55.682047,
+      "longitude": 12.572033
+    },
+    {
+      "name": "Saltlageret Haderslev Baren",
+      "latitude": 55.252119,
+      "longitude": 9.508489
+    },
+    {
+      "name": "Salute",
+      "latitude": 55.397345,
+      "longitude": 10.392036
+    },
+    {
+      "name": "Same Same",
+      "latitude": 56.457964,
+      "longitude": 10.037967
+    },
+    {
+      "name": "Samfunsfaglig fredagsbar Byg. 1321 og 1322",
+      "latitude": 56.170031,
+      "longitude": 10.204979
+    },
+    {
+      "name": "Sams Bar",
+      "latitude": 55.677038,
+      "longitude": 12.570392
+    },
+    {
+      "name": "Saxen",
+      "latitude": 55.783056,
+      "longitude": 12.523877
+    },
+    {
+      "name": "Scandic Falkoner Bar",
+      "latitude": 55.67974,
+      "longitude": 12.53338
+    },
+    {
+      "name": "Scandic Kødbyen Baren",
+      "latitude": 55.667044,
+      "longitude": 12.55716
+    },
+    {
+      "name": "Scandic Sluseholmen Bar",
+      "latitude": 55.643493,
+      "longitude": 12.544941
+    },
+    {
+      "name": "Scene 11",
+      "latitude": 57.046976,
+      "longitude": 9.916475
+    },
+    {
+      "name": "Scrollbar",
+      "latitude": 55.659321,
+      "longitude": 12.590689
+    },
+    {
+      "name": "Sct. Pauls Apotek",
+      "latitude": 56.148095,
+      "longitude": 10.201735
+    },
+    {
+      "name": "Sdr. Slævasted",
+      "latitude": 55.061722,
+      "longitude": 15.134908
+    },
+    {
+      "name": "Sea Point & Bar",
+      "latitude": 56.045288,
+      "longitude": 12.60378
+    },
+    {
+      "name": "Seanery",
+      "latitude": 55.635326,
+      "longitude": 12.654781
+    },
+    {
+      "name": "Seaport Bar",
+      "latitude": 57.05266,
+      "longitude": 9.916849
+    },
+    {
+      "name": "Sergentmessen Skive Kaserne",
+      "latitude": 56.542329,
+      "longitude": 9.041761
+    },
+    {
+      "name": "Sharks Poolhall",
+      "latitude": 56.155581,
+      "longitude": 10.206354
+    },
+    {
+      "name": "Sharks Poolhouse",
+      "latitude": 55.397187,
+      "longitude": 10.382828
+    },
+    {
+      "name": "Shen Mao",
+      "latitude": 56.155671,
+      "longitude": 10.208327
+    },
+    {
+      "name": "Shooters",
+      "latitude": 56.089867,
+      "longitude": 8.242406
+    },
+    {
+      "name": "Side Hustle",
+      "latitude": 55.678925,
+      "longitude": 12.570633
+    },
+    {
+      "name": "Sidesporet",
+      "latitude": 55.568651,
+      "longitude": 9.74208
+    },
+    {
+      "name": "Simper Fi Bar",
+      "latitude": 55.712313,
+      "longitude": 12.47137
+    },
+    {
+      "name": "Sinatra Bar",
+      "latitude": 56.155925,
+      "longitude": 10.204127
+    },
+    {
+      "name": "Sir Club",
+      "latitude": 55.399227,
+      "longitude": 10.388383
+    },
+    {
+      "name": "Sir henry",
+      "latitude": 56.195508,
+      "longitude": 10.674522
+    },
+    {
+      "name": "Six-Pence Bodega",
+      "latitude": 55.049372,
+      "longitude": 10.582508
+    },
+    {
+      "name": "Sjus Bar",
+      "latitude": 55.681081,
+      "longitude": 12.579868
+    },
+    {
+      "name": "Sjælør Bodega",
+      "latitude": 55.649769,
+      "longitude": 12.528839
+    },
+    {
+      "name": "Skals Kro",
+      "latitude": 56.555204,
+      "longitude": 9.403168
+    },
+    {
+      "name": "Skamløs",
+      "latitude": 55.682097,
+      "longitude": 12.571135
+    },
+    {
+      "name": "Skanderborg Bryghus Ølbar",
+      "latitude": 56.050615,
+      "longitude": 9.944872
+    },
+    {
+      "name": "SKANDSEN",
+      "latitude": 55.394489,
+      "longitude": 10.402778
+    },
+    {
+      "name": "Skansekroen",
+      "latitude": 56.450703,
+      "longitude": 10.043857
+    },
+    {
+      "name": "Skejbo Bar",
+      "latitude": 56.196463,
+      "longitude": 10.193667
+    },
+    {
+      "name": "Skema",
+      "latitude": 55.446109,
+      "longitude": 11.789456
+    },
+    {
+      "name": "Skipperkroen",
+      "latitude": 56.124079,
+      "longitude": 12.307965
+    },
+    {
+      "name": "Skipperkroen Marstal",
+      "latitude": 54.854126,
+      "longitude": 10.516948
+    },
+    {
+      "name": "Skippers Vinstue",
+      "latitude": 55.727445,
+      "longitude": 12.52529
+    },
+    {
+      "name": "Skipperstuen",
+      "latitude": 55.63227,
+      "longitude": 12.620915
+    },
+    {
+      "name": "Skjoldhøj Bar",
+      "latitude": 56.16883,
+      "longitude": 10.116351
+    },
+    {
+      "name": "Skjulet",
+      "latitude": 55.691838,
+      "longitude": 12.482952
+    },
+    {
+      "name": "Skor",
+      "latitude": 56.155599,
+      "longitude": 10.207059
+    },
+    {
+      "name": "Skotten",
+      "latitude": 56.991154,
+      "longitude": 9.931079
+    },
+    {
+      "name": "Skovbar",
+      "latitude": 55.690773,
+      "longitude": 12.544545
+    },
+    {
+      "name": "Skovly Beer Garden",
+      "latitude": 55.77665,
+      "longitude": 12.575409
+    },
+    {
+      "name": "Skuden",
+      "latitude": 55.711152,
+      "longitude": 9.534202
+    },
+    {
+      "name": "Skuespilhuset Pausebar",
+      "latitude": 55.680307,
+      "longitude": 12.59481
+    },
+    {
+      "name": "Skum",
+      "latitude": 56.032188,
+      "longitude": 12.608836
+    },
+    {
+      "name": "Skänk Øl & Vinbar",
+      "latitude": 55.929184,
+      "longitude": 12.303081
+    },
+    {
+      "name": "Skänk Øl, Vin & Madbar",
+      "latitude": 55.640194,
+      "longitude": 12.088207
+    },
+    {
+      "name": "Skænkestuen Assens",
+      "latitude": 55.269818,
+      "longitude": 9.896865
+    },
+    {
+      "name": "SKØL Brygkompagni",
+      "latitude": 55.680662,
+      "longitude": 11.087307
+    },
+    {
+      "name": "Skørping bodega",
+      "latitude": 56.834476,
+      "longitude": 9.888205
+    },
+    {
+      "name": "Slap a",
+      "latitude": 54.659284,
+      "longitude": 11.354998
+    },
+    {
+      "name": "SLAP A",
+      "latitude": 54.774529,
+      "longitude": 11.866908
+    },
+    {
+      "name": "Slap A",
+      "latitude": 55.458988,
+      "longitude": 12.183969
+    },
+    {
+      "name": "SLM Aarhus",
+      "latitude": 56.163793,
+      "longitude": 10.215226
+    },
+    {
+      "name": "Slotsbryggeriet Gavnø Café",
+      "latitude": 55.186161,
+      "longitude": 11.720393
+    },
+    {
+      "name": "Slotskroen",
+      "latitude": 55.400119,
+      "longitude": 10.388574
+    },
+    {
+      "name": "Slottet",
+      "latitude": 54.769433,
+      "longitude": 11.866469
+    },
+    {
+      "name": "Slowburn Brewing Co-op Taproom",
+      "latitude": 55.660309,
+      "longitude": 12.346843
+    },
+    {
+      "name": "Slukefter",
+      "latitude": 55.231191,
+      "longitude": 11.755348
+    },
+    {
+      "name": "Slusen",
+      "latitude": 55.975644,
+      "longitude": 12.018916
+    },
+    {
+      "name": "Sláinte - Irish Pub Blåvand",
+      "latitude": 55.55588,
+      "longitude": 8.134193
+    },
+    {
+      "name": "Smedekroen",
+      "latitude": 55.511083,
+      "longitude": 11.289204
+    },
+    {
+      "name": "Smedekroen",
+      "latitude": 56.465953,
+      "longitude": 10.055046
+    },
+    {
+      "name": "Smedekroen",
+      "latitude": 57.045265,
+      "longitude": 9.923813
+    },
+    {
+      "name": "Smedjestuen",
+      "latitude": 56.777296,
+      "longitude": 9.048813
+    },
+    {
+      "name": "Smovs",
+      "latitude": 56.151356,
+      "longitude": 10.184925
+    },
+    {
+      "name": "Smugkroen",
+      "latitude": 55.673153,
+      "longitude": 12.566607
+    },
+    {
+      "name": "Smút In",
+      "latitude": 54.944665,
+      "longitude": 9.103435
+    },
+    {
+      "name": "Snoopy Bodega",
+      "latitude": 55.682611,
+      "longitude": 12.491455
+    },
+    {
+      "name": "Snuppy bodega",
+      "latitude": 55.638631,
+      "longitude": 12.479663
+    },
+    {
+      "name": "Solbakken Bar",
+      "latitude": 55.680757,
+      "longitude": 12.522294
+    },
+    {
+      "name": "Soldaten",
+      "latitude": 55.362987,
+      "longitude": 10.451089
+    },
+    {
+      "name": "Soldækket",
+      "latitude": 55.40922,
+      "longitude": 10.381337
+    },
+    {
+      "name": "Sommer 98",
+      "latitude": 57.453267,
+      "longitude": 9.995444
+    },
+    {
+      "name": "Sommerlyst Bar",
+      "latitude": 55.776216,
+      "longitude": 12.574893
+    },
+    {
+      "name": "Sorte René",
+      "latitude": 55.685119,
+      "longitude": 12.552748
+    },
+    {
+      "name": "Southern Cross Pub",
+      "latitude": 55.675229,
+      "longitude": 12.572422
+    },
+    {
+      "name": "SpeakEasy",
+      "latitude": 55.47381,
+      "longitude": 8.448003
+    },
+    {
+      "name": "Spinderokken",
+      "latitude": 56.144263,
+      "longitude": 9.154581
+    },
+    {
+      "name": "Spisehuset",
+      "latitude": 55.818804,
+      "longitude": 12.376408
+    },
+    {
+      "name": "Spiseområde 1",
+      "latitude": 57.01844,
+      "longitude": 9.963116
+    },
+    {
+      "name": "Spor 12",
+      "latitude": 55.337689,
+      "longitude": 11.134963
+    },
+    {
+      "name": "Sportsbaren",
+      "latitude": 54.830238,
+      "longitude": 11.135203
+    },
+    {
+      "name": "SportsBaren Frederikshavn",
+      "latitude": 57.441434,
+      "longitude": 10.537191
+    },
+    {
+      "name": "Sportspubben Målet",
+      "latitude": 56.166323,
+      "longitude": 9.547149
+    },
+    {
+      "name": "Spunk Bar",
+      "latitude": 55.671218,
+      "longitude": 12.560475
+    },
+    {
+      "name": "Sputten",
+      "latitude": 57.049746,
+      "longitude": 9.918624
+    },
+    {
+      "name": "St. Pauli Minibar",
+      "latitude": 55.668674,
+      "longitude": 12.556574
+    },
+    {
+      "name": "ST3",
+      "latitude": 56.157044,
+      "longitude": 10.208971
+    },
+    {
+      "name": "Stadion FCM Bar i Fanlounge",
+      "latitude": 56.116902,
+      "longitude": 8.950901
+    },
+    {
+      "name": "Stadion FCM Bar i VIP Lounge Syd med buffetanretning",
+      "latitude": 56.116256,
+      "longitude": 8.951464
+    },
+    {
+      "name": "Stadion FCM HALL OF FAME",
+      "latitude": 56.1174,
+      "longitude": 8.952348
+    },
+    {
+      "name": "Stalden Bodega",
+      "latitude": 56.065754,
+      "longitude": 12.281496
+    },
+    {
+      "name": "Stalden Pool & Sportsbar",
+      "latitude": 55.465737,
+      "longitude": 8.447349
+    },
+    {
+      "name": "Stalden Pool & Sportsbar",
+      "latitude": 55.863727,
+      "longitude": 9.845676
+    },
+    {
+      "name": "Stamsted",
+      "latitude": 55.619986,
+      "longitude": 12.568745
+    },
+    {
+      "name": "Stangen 1876",
+      "latitude": 55.716183,
+      "longitude": 11.709128
+    },
+    {
+      "name": "Stationsbodegaen",
+      "latitude": 55.796858,
+      "longitude": 12.158772
+    },
+    {
+      "name": "STAUAN",
+      "latitude": 55.070783,
+      "longitude": 14.920322
+    },
+    {
+      "name": "Stechers",
+      "latitude": 56.155765,
+      "longitude": 10.203898
+    },
+    {
+      "name": "Stellas Bodega",
+      "latitude": 56.358244,
+      "longitude": 8.621602
+    },
+    {
+      "name": "Stengade 28B",
+      "latitude": 56.033391,
+      "longitude": 12.610321
+    },
+    {
+      "name": "Step Inn Næstved",
+      "latitude": 55.230679,
+      "longitude": 11.761274
+    },
+    {
+      "name": "Stepping Stone Kolding",
+      "latitude": 55.486819,
+      "longitude": 9.472786
+    },
+    {
+      "name": "Stereo Bar",
+      "latitude": 55.681746,
+      "longitude": 12.58466
+    },
+    {
+      "name": "Stjernen",
+      "latitude": 55.68193,
+      "longitude": 12.563461
+    },
+    {
+      "name": "Stokrosen",
+      "latitude": 55.984692,
+      "longitude": 9.287855
+    },
+    {
+      "name": "Stoppestedet Stenstrup",
+      "latitude": 55.13343,
+      "longitude": 10.511273
+    },
+    {
+      "name": "Storms Pakhus - Cocktailbar",
+      "latitude": 55.404158,
+      "longitude": 10.382853
+    },
+    {
+      "name": "Storms Pakhus - Specielølbar",
+      "latitude": 55.403979,
+      "longitude": 10.382952
+    },
+    {
+      "name": "Storms Pakhus - Vakse Viggo",
+      "latitude": 55.404076,
+      "longitude": 10.382879
+    },
+    {
+      "name": "Storms Pakhus - Vinbar",
+      "latitude": 55.403969,
+      "longitude": 10.382804
+    },
+    {
+      "name": "Strandbar",
+      "latitude": 55.058659,
+      "longitude": 10.616512
+    },
+    {
+      "name": "Strandbaren og selskabsbaren",
+      "latitude": 55.695417,
+      "longitude": 12.609769
+    },
+    {
+      "name": "Strandborg",
+      "latitude": 56.034085,
+      "longitude": 12.613296
+    },
+    {
+      "name": "Strandkroen Strøby",
+      "latitude": 55.404306,
+      "longitude": 12.289907
+    },
+    {
+      "name": "Strandlyst",
+      "latitude": 55.058016,
+      "longitude": 10.613459
+    },
+    {
+      "name": "Stride Strømme",
+      "latitude": 55.679469,
+      "longitude": 12.593036
+    },
+    {
+      "name": "Strøm Bar",
+      "latitude": 55.68028,
+      "longitude": 12.576118
+    },
+    {
+      "name": "Studentercaféen Sigurdsbar",
+      "latitude": 55.703195,
+      "longitude": 12.555105
+    },
+    {
+      "name": "Studenterhuset Cafeeen",
+      "latitude": 57.048296,
+      "longitude": 9.919102
+    },
+    {
+      "name": "Studiestoppet",
+      "latitude": 55.739976,
+      "longitude": 12.436087
+    },
+    {
+      "name": "Stuen til Højre",
+      "latitude": 56.707024,
+      "longitude": 11.543445
+    },
+    {
+      "name": "Støvlen",
+      "latitude": 55.691898,
+      "longitude": 12.48356
+    },
+    {
+      "name": "Sukkerbageren",
+      "latitude": 55.678413,
+      "longitude": 12.57201
+    },
+    {
+      "name": "Sundets Venner",
+      "latitude": 54.771434,
+      "longitude": 11.863361
+    },
+    {
+      "name": "Sunes Bodega",
+      "latitude": 56.468611,
+      "longitude": 10.031638
+    },
+    {
+      "name": "Surfbaren",
+      "latitude": 56.781888,
+      "longitude": 8.232758
+    },
+    {
+      "name": "Sus & Dus",
+      "latitude": 54.693469,
+      "longitude": 11.962852
+    },
+    {
+      "name": "Svajerbar",
+      "latitude": 55.667841,
+      "longitude": 12.57367
+    },
+    {
+      "name": "Svalereden",
+      "latitude": 55.501311,
+      "longitude": 9.456495
+    },
+    {
+      "name": "Svampen",
+      "latitude": 57.069062,
+      "longitude": 8.937099
+    },
+    {
+      "name": "Svebølle Centerpub",
+      "latitude": 55.652809,
+      "longitude": 11.278764
+    },
+    {
+      "name": "Svend trøst",
+      "latitude": 56.459626,
+      "longitude": 10.033962
+    },
+    {
+      "name": "Sway",
+      "latitude": 56.155711,
+      "longitude": 10.208337
+    },
+    {
+      "name": "Sweet Vibes",
+      "latitude": 57.057254,
+      "longitude": 9.896334
+    },
+    {
+      "name": "Syd Vest",
+      "latitude": 55.652273,
+      "longitude": 12.535273
+    },
+    {
+      "name": "Sydhavnens Vinbar",
+      "latitude": 55.649652,
+      "longitude": 12.534874
+    },
+    {
+      "name": "Sylvius Ginbar",
+      "latitude": 57.048187,
+      "longitude": 9.916773
+    },
+    {
+      "name": "Symposion Fredagsbar",
+      "latitude": 56.171988,
+      "longitude": 10.205621
+    },
+    {
+      "name": "Syveren",
+      "latitude": 55.948565,
+      "longitude": 8.493549
+    },
+    {
+      "name": "Sæby Bryghus",
+      "latitude": 57.332895,
+      "longitude": 10.531453
+    },
+    {
+      "name": "Søernes Ølbar",
+      "latitude": 55.696263,
+      "longitude": 12.575066
+    },
+    {
+      "name": "Søhest 122 Ballast",
+      "latitude": 55.671196,
+      "longitude": 12.543501
+    },
+    {
+      "name": "Søhesten",
+      "latitude": 55.690319,
+      "longitude": 12.572073
+    },
+    {
+      "name": "Søkroen",
+      "latitude": 57.042372,
+      "longitude": 9.941169
+    },
+    {
+      "name": "Søllings Bodega",
+      "latitude": 55.136089,
+      "longitude": 15.141389
+    },
+    {
+      "name": "Sømænd & Papegøjer",
+      "latitude": 55.721201,
+      "longitude": 11.712483
+    },
+    {
+      "name": "Sønderbro Bodega",
+      "latitude": 56.370721,
+      "longitude": 9.660169
+    },
+    {
+      "name": "SønderjyskE Fodbold Øl 6",
+      "latitude": 55.261537,
+      "longitude": 9.489329
+    },
+    {
+      "name": "Søren Bruun",
+      "latitude": 56.14627,
+      "longitude": 10.203373
+    },
+    {
+      "name": "Sørens Værtshus",
+      "latitude": 55.025754,
+      "longitude": 15.119068
+    },
+    {
+      "name": "Tagensborg",
+      "latitude": 55.699135,
+      "longitude": 12.55392
+    },
+    {
+      "name": "Tanken",
+      "latitude": 56.158864,
+      "longitude": 10.209956
+    },
+    {
+      "name": "Tante Olga",
+      "latitude": 56.45716,
+      "longitude": 10.038862
+    },
+    {
+      "name": "Tap 21 Craft Beer",
+      "latitude": 55.678308,
+      "longitude": 12.546937
+    },
+    {
+      "name": "Tap Del Bar",
+      "latitude": 56.136319,
+      "longitude": 8.97327
+    },
+    {
+      "name": "TAP10",
+      "latitude": 55.7049,
+      "longitude": 12.577692
+    },
+    {
+      "name": "Tappo",
+      "latitude": 55.249197,
+      "longitude": 9.48749
+    },
+    {
+      "name": "Tarbosh Bar",
+      "latitude": 56.355931,
+      "longitude": 8.618056
+    },
+    {
+      "name": "Tartan Pub",
+      "latitude": 55.708333,
+      "longitude": 9.536408
+    },
+    {
+      "name": "Tata bar",
+      "latitude": 55.678374,
+      "longitude": 12.587563
+    },
+    {
+      "name": "Teaterbaren - Slagelse",
+      "latitude": 55.403201,
+      "longitude": 11.348441
+    },
+    {
+      "name": "Teatercafeen",
+      "latitude": 55.403638,
+      "longitude": 11.348278
+    },
+    {
+      "name": "Teatercafeen",
+      "latitude": 55.646441,
+      "longitude": 12.072293
+    },
+    {
+      "name": "Teaterkatten",
+      "latitude": 56.156,
+      "longitude": 10.210075
+    },
+    {
+      "name": "TeaTime ZOO",
+      "latitude": 55.671853,
+      "longitude": 12.522718
+    },
+    {
+      "name": "Temabar",
+      "latitude": 55.708245,
+      "longitude": 9.536057
+    },
+    {
+      "name": "Tempo",
+      "latitude": 57.051135,
+      "longitude": 9.916498
+    },
+    {
+      "name": "Tequila Bodega",
+      "latitude": 55.662976,
+      "longitude": 12.438624
+    },
+    {
+      "name": "Terminalen",
+      "latitude": 55.6762,
+      "longitude": 12.435116
+    },
+    {
+      "name": "Terminalen",
+      "latitude": 56.450439,
+      "longitude": 9.405238
+    },
+    {
+      "name": "Terroiristen",
+      "latitude": 55.693679,
+      "longitude": 12.542788
+    },
+    {
+      "name": "Texas Sports Café",
+      "latitude": 55.533288,
+      "longitude": 12.215127
+    },
+    {
+      "name": "The Anthem by The Terrace",
+      "latitude": 55.702527,
+      "longitude": 12.57403
+    },
+    {
+      "name": "The Australien Bar",
+      "latitude": 55.677913,
+      "longitude": 12.570564
+    },
+    {
+      "name": "The Bar 0.3",
+      "latitude": 55.62573,
+      "longitude": 12.573442
+    },
+    {
+      "name": "The Bar 1.1",
+      "latitude": 55.625675,
+      "longitude": 12.5736
+    },
+    {
+      "name": "The Bar 1.3",
+      "latitude": 55.625658,
+      "longitude": 12.573405
+    },
+    {
+      "name": "The Bar 1.6",
+      "latitude": 55.625466,
+      "longitude": 12.573272
+    },
+    {
+      "name": "The Barbershop",
+      "latitude": 55.68329,
+      "longitude": 12.587981
+    },
+    {
+      "name": "The Barking Dog",
+      "latitude": 55.690104,
+      "longitude": 12.562494
+    },
+    {
+      "name": "The Beach",
+      "latitude": 55.2317,
+      "longitude": 11.760244
+    },
+    {
+      "name": "The Bird and the Churchkey",
+      "latitude": 55.677642,
+      "longitude": 12.578076
+    },
+    {
+      "name": "The Captain",
+      "latitude": 55.885078,
+      "longitude": 12.546687
+    },
+    {
+      "name": "The Cat And Barrel",
+      "latitude": 55.710339,
+      "longitude": 9.535975
+    },
+    {
+      "name": "The Drunken Flamingo",
+      "latitude": 55.678324,
+      "longitude": 12.57182
+    },
+    {
+      "name": "The Duke",
+      "latitude": 56.036657,
+      "longitude": 9.930549
+    },
+    {
+      "name": "The Flatiron",
+      "latitude": 55.690637,
+      "longitude": 12.558319
+    },
+    {
+      "name": "The Globe",
+      "latitude": 55.681795,
+      "longitude": 12.570922
+    },
+    {
+      "name": "The Goat",
+      "latitude": 55.671958,
+      "longitude": 12.554715
+    },
+    {
+      "name": "The Golden Lion",
+      "latitude": 56.15394,
+      "longitude": 10.20327
+    },
+    {
+      "name": "The House of Machines Copenhagen",
+      "latitude": 55.669997,
+      "longitude": 12.545898
+    },
+    {
+      "name": "The Husler Poolbar",
+      "latitude": 56.565477,
+      "longitude": 9.02987
+    },
+    {
+      "name": "The Jane",
+      "latitude": 55.680132,
+      "longitude": 12.576147
+    },
+    {
+      "name": "The Log Lady",
+      "latitude": 55.678304,
+      "longitude": 12.568967
+    },
+    {
+      "name": "The Moose",
+      "latitude": 55.681086,
+      "longitude": 12.580465
+    },
+    {
+      "name": "The Nomad Bar",
+      "latitude": 55.88592,
+      "longitude": 12.35607
+    },
+    {
+      "name": "The Old Irish Pub",
+      "latitude": 55.678658,
+      "longitude": 12.532573
+    },
+    {
+      "name": "The Shamrock Inn",
+      "latitude": 55.67592,
+      "longitude": 12.56586
+    },
+    {
+      "name": "The Ugly Duckling Brewery",
+      "latitude": 55.706291,
+      "longitude": 12.534311
+    },
+    {
+      "name": "The Union Kitchen & Bar",
+      "latitude": 55.678473,
+      "longitude": 12.554617
+    },
+    {
+      "name": "The Union Local",
+      "latitude": 55.681017,
+      "longitude": 12.590068
+    },
+    {
+      "name": "Theos Bar",
+      "latitude": 56.172146,
+      "longitude": 10.20554
+    },
+    {
+      "name": "Thorkilds",
+      "latitude": 56.154663,
+      "longitude": 10.21214
+    },
+    {
+      "name": "Timeout Bar",
+      "latitude": 54.934868,
+      "longitude": 8.865057
+    },
+    {
+      "name": "Tingets Bodega",
+      "latitude": 55.974545,
+      "longitude": 9.613283
+    },
+    {
+      "name": "Tingkroen",
+      "latitude": 55.657787,
+      "longitude": 12.602633
+    },
+    {
+      "name": "Tingstedet",
+      "latitude": 55.395101,
+      "longitude": 10.384766
+    },
+    {
+      "name": "Tinsoldaten-Gråsten",
+      "latitude": 54.921423,
+      "longitude": 9.594729
+    },
+    {
+      "name": "Tipsy Mermaid",
+      "latitude": 55.678321,
+      "longitude": 12.593031
+    },
+    {
+      "name": "To Kolde",
+      "latitude": 56.154636,
+      "longitude": 10.21151
+    },
+    {
+      "name": "To Trin Op",
+      "latitude": 57.436351,
+      "longitude": 10.533946
+    },
+    {
+      "name": "Tobaks Fabrikken",
+      "latitude": 56.357889,
+      "longitude": 8.618975
+    },
+    {
+      "name": "Toga Vinstue",
+      "latitude": 55.678775,
+      "longitude": 12.58034
+    },
+    {
+      "name": "Tokio Bar",
+      "latitude": 56.155343,
+      "longitude": 10.211612
+    },
+    {
+      "name": "Toldbod Bar",
+      "latitude": 54.766036,
+      "longitude": 11.865834
+    },
+    {
+      "name": "Toldboden Padborg",
+      "latitude": 54.825797,
+      "longitude": 9.361051
+    },
+    {
+      "name": "Tolv Haner",
+      "latitude": 55.687634,
+      "longitude": 12.547022
+    },
+    {
+      "name": "Tomsgaards Cafe",
+      "latitude": 55.708595,
+      "longitude": 12.531478
+    },
+    {
+      "name": "Torobar",
+      "latitude": 55.687674,
+      "longitude": 12.559516
+    },
+    {
+      "name": "TORS / BARstionen",
+      "latitude": 55.662714,
+      "longitude": 12.589364
+    },
+    {
+      "name": "Torve Bodegaen",
+      "latitude": 56.554702,
+      "longitude": 9.013984
+    },
+    {
+      "name": "Torve- & Lausestuen",
+      "latitude": 55.620544,
+      "longitude": 8.480288
+    },
+    {
+      "name": "Torvebaren",
+      "latitude": 56.638439,
+      "longitude": 9.794194
+    },
+    {
+      "name": "Torvecafeen Hjørring",
+      "latitude": 57.461782,
+      "longitude": 9.983977
+    },
+    {
+      "name": "Torvecafeen Præstø",
+      "latitude": 55.122858,
+      "longitude": 12.041636
+    },
+    {
+      "name": "Torvekroen",
+      "latitude": 55.249166,
+      "longitude": 9.488239
+    },
+    {
+      "name": "Torvekroen",
+      "latitude": 56.994168,
+      "longitude": 10.307611
+    },
+    {
+      "name": "Touchdown Sports Bar",
+      "latitude": 56.136382,
+      "longitude": 8.978008
+    },
+    {
+      "name": "Tove",
+      "latitude": 55.670157,
+      "longitude": 12.558082
+    },
+    {
+      "name": "Tove Sprogøe",
+      "latitude": 55.396393,
+      "longitude": 10.385143
+    },
+    {
+      "name": "Tranbjerg Bodega",
+      "latitude": 56.091051,
+      "longitude": 10.135628
+    },
+    {
+      "name": "Tre Trin Op",
+      "latitude": 57.458055,
+      "longitude": 9.992739
+    },
+    {
+      "name": "Trekant Bar",
+      "latitude": 57.2685,
+      "longitude": 9.945287
+    },
+    {
+      "name": "Trianglen 7",
+      "latitude": 55.69895,
+      "longitude": 12.57684
+    },
+    {
+      "name": "Tribunen 2002",
+      "latitude": 55.251978,
+      "longitude": 9.486087
+    },
+    {
+      "name": "Triers Corner",
+      "latitude": 55.058765,
+      "longitude": 10.611715
+    },
+    {
+      "name": "Trivselsklubben",
+      "latitude": 55.521248,
+      "longitude": 12.206685
+    },
+    {
+      "name": "Troubadouren",
+      "latitude": 55.468082,
+      "longitude": 8.447749
+    },
+    {
+      "name": "Trykbar",
+      "latitude": 55.682293,
+      "longitude": 12.580437
+    },
+    {
+      "name": "Tunnellen",
+      "latitude": 55.84373,
+      "longitude": 9.233902
+    },
+    {
+      "name": "Two Socks",
+      "latitude": 55.671027,
+      "longitude": 12.56121
+    },
+    {
+      "name": "Two Socks Aarhus",
+      "latitude": 56.14823,
+      "longitude": 10.196942
+    },
+    {
+      "name": "Two Socks Aarhus",
+      "latitude": 56.158411,
+      "longitude": 10.206586
+    },
+    {
+      "name": "Two Socks Christianshavn",
+      "latitude": 55.674087,
+      "longitude": 12.591357
+    },
+    {
+      "name": "Two Socks V",
+      "latitude": 55.677625,
+      "longitude": 12.566449
+    },
+    {
+      "name": "Tyrolia",
+      "latitude": 55.677798,
+      "longitude": 12.570302
+    },
+    {
+      "name": "Tørst",
+      "latitude": 57.721125,
+      "longitude": 10.589698
+    },
+    {
+      "name": "Tøsingen",
+      "latitude": 55.045833,
+      "longitude": 10.61346
+    },
+    {
+      "name": "Udebaren",
+      "latitude": 56.151272,
+      "longitude": 10.209178
+    },
+    {
+      "name": "ukurant",
+      "latitude": 55.677824,
+      "longitude": 12.574587
+    },
+    {
+      "name": "Ulfkotte",
+      "latitude": 56.25728,
+      "longitude": 9.866743
+    },
+    {
+      "name": "Ullerslev Pub",
+      "latitude": 55.36031,
+      "longitude": 10.667
+    },
+    {
+      "name": "Ulvene MC",
+      "latitude": 57.045627,
+      "longitude": 9.950346
+    },
+    {
+      "name": "Under Masken",
+      "latitude": 56.157706,
+      "longitude": 10.210031
+    },
+    {
+      "name": "Under Træet",
+      "latitude": 55.687803,
+      "longitude": 12.55966
+    },
+    {
+      "name": "Underground Hillerød",
+      "latitude": 55.929199,
+      "longitude": 12.303337
+    },
+    {
+      "name": "Undergrunden",
+      "latitude": 55.071003,
+      "longitude": 10.506934
+    },
+    {
+      "name": "Underhuset",
+      "latitude": 55.230934,
+      "longitude": 11.757926
+    },
+    {
+      "name": "Understellet",
+      "latitude": 55.688325,
+      "longitude": 12.559823
+    },
+    {
+      "name": "Ungarsk Vinstue",
+      "latitude": 55.40299,
+      "longitude": 10.392903
+    },
+    {
+      "name": "Up Town",
+      "latitude": 55.474149,
+      "longitude": 9.136936
+    },
+    {
+      "name": "Urban Camper",
+      "latitude": 55.702123,
+      "longitude": 12.537758
+    },
+    {
+      "name": "Use Us",
+      "latitude": 55.677814,
+      "longitude": 12.569832
+    },
+    {
+      "name": "V.I.P. Loungen",
+      "latitude": 55.896566,
+      "longitude": 12.517102
+    },
+    {
+      "name": "Vaest",
+      "latitude": 55.671127,
+      "longitude": 12.543381
+    },
+    {
+      "name": "Vagns Krostue",
+      "latitude": 55.943543,
+      "longitude": 9.127155
+    },
+    {
+      "name": "Valdemar",
+      "latitude": 55.329566,
+      "longitude": 8.767116
+    },
+    {
+      "name": "Valdes Pub",
+      "latitude": 55.443534,
+      "longitude": 11.792591
+    },
+    {
+      "name": "Valhøj Bodega",
+      "latitude": 55.672618,
+      "longitude": 12.452636
+    },
+    {
+      "name": "Varmestuen PH Metropol",
+      "latitude": 55.690724,
+      "longitude": 12.534418
+    },
+    {
+      "name": "Ved Broen",
+      "latitude": 56.124664,
+      "longitude": 12.306992
+    },
+    {
+      "name": "Ved Stranden 10",
+      "latitude": 55.677305,
+      "longitude": 12.581595
+    },
+    {
+      "name": "Vegas bet and beer",
+      "latitude": 55.48933,
+      "longitude": 9.476402
+    },
+    {
+      "name": "Velour Cocktailbar",
+      "latitude": 55.681806,
+      "longitude": 12.582645
+    },
+    {
+      "name": "Vemb Bryghus",
+      "latitude": 56.343281,
+      "longitude": 8.343504
+    },
+    {
+      "name": "Verners Kælder",
+      "latitude": 55.730523,
+      "longitude": 12.400297
+    },
+    {
+      "name": "Vespa Vinbar",
+      "latitude": 55.670567,
+      "longitude": 12.536402
+    },
+    {
+      "name": "Vesper",
+      "latitude": 55.677447,
+      "longitude": 12.576276
+    },
+    {
+      "name": "Vesterbros Bodega",
+      "latitude": 56.463115,
+      "longitude": 10.017175
+    },
+    {
+      "name": "Vestergade 17",
+      "latitude": 55.677566,
+      "longitude": 12.570121
+    },
+    {
+      "name": "Vesterhus Wine & Charcuterie",
+      "latitude": 55.670575,
+      "longitude": 12.558256
+    },
+    {
+      "name": "Vestervino",
+      "latitude": 55.674259,
+      "longitude": 12.559194
+    },
+    {
+      "name": "Vestkroen",
+      "latitude": 55.197054,
+      "longitude": 9.29891
+    },
+    {
+      "name": "Vestre Hjørnet",
+      "latitude": 56.136429,
+      "longitude": 8.966386
+    },
+    {
+      "name": "Victory",
+      "latitude": 55.679285,
+      "longitude": 12.599711
+    },
+    {
+      "name": "Viftens Gløgghus",
+      "latitude": 55.673803,
+      "longitude": 12.570816
+    },
+    {
+      "name": "Viggo Bar",
+      "latitude": 55.708326,
+      "longitude": 12.532336
+    },
+    {
+      "name": "ViktoriaBar",
+      "latitude": 55.672019,
+      "longitude": 12.55748
+    },
+    {
+      "name": "Vilias Vinbar",
+      "latitude": 55.557851,
+      "longitude": 12.254603
+    },
+    {
+      "name": "Villa Vino",
+      "latitude": 55.676461,
+      "longitude": 12.571354
+    },
+    {
+      "name": "Vin og Venner",
+      "latitude": 57.048796,
+      "longitude": 9.917521
+    },
+    {
+      "name": "Vin Petit",
+      "latitude": 55.465984,
+      "longitude": 8.44869
+    },
+    {
+      "name": "Vinbar Middelfart",
+      "latitude": 55.50501,
+      "longitude": 9.733325
+    },
+    {
+      "name": "Vinbaren",
+      "latitude": 55.229781,
+      "longitude": 11.761423
+    },
+    {
+      "name": "Vinbaren",
+      "latitude": 56.201161,
+      "longitude": 10.680656
+    },
+    {
+      "name": "Vinbaren Kolding",
+      "latitude": 55.489721,
+      "longitude": 9.475788
+    },
+    {
+      "name": "Vinbaren Vesterbro Torv",
+      "latitude": 55.671677,
+      "longitude": 12.554747
+    },
+    {
+      "name": "Vinbix",
+      "latitude": 56.152394,
+      "longitude": 10.191967
+    },
+    {
+      "name": "Vincaféen",
+      "latitude": 56.160144,
+      "longitude": 10.208952
+    },
+    {
+      "name": "Vindstyrke 12",
+      "latitude": 55.623106,
+      "longitude": 8.478701
+    },
+    {
+      "name": "Vindstyrke 12",
+      "latitude": 56.298817,
+      "longitude": 9.787573
+    },
+    {
+      "name": "Vinhanen",
+      "latitude": 55.686947,
+      "longitude": 12.559459
+    },
+    {
+      "name": "Vino Bistro",
+      "latitude": 55.64133,
+      "longitude": 12.077405
+    },
+    {
+      "name": "Vino Spiro",
+      "latitude": 55.695666,
+      "longitude": 12.581048
+    },
+    {
+      "name": "Vinoteque Marittima",
+      "latitude": 54.770139,
+      "longitude": 11.862003
+    },
+    {
+      "name": "Vinporten",
+      "latitude": 55.302601,
+      "longitude": 10.472607
+    },
+    {
+      "name": "Vinstue 90",
+      "latitude": 55.675157,
+      "longitude": 12.547681
+    },
+    {
+      "name": "Vinstuen",
+      "latitude": 56.1552,
+      "longitude": 10.208009
+    },
+    {
+      "name": "Vinstuen 29",
+      "latitude": 55.682311,
+      "longitude": 12.534928
+    },
+    {
+      "name": "Vinum Historia",
+      "latitude": 55.683989,
+      "longitude": 12.56767
+    },
+    {
+      "name": "Vinøs Vinbar",
+      "latitude": 55.663505,
+      "longitude": 12.623412
+    },
+    {
+      "name": "Vinøst",
+      "latitude": 55.13643,
+      "longitude": 15.141084
+    },
+    {
+      "name": "VIP lounge",
+      "latitude": 57.018313,
+      "longitude": 9.963272
+    },
+    {
+      "name": "Viseværtshuset",
+      "latitude": 57.722975,
+      "longitude": 10.591527
+    },
+    {
+      "name": "Visit",
+      "latitude": 55.396346,
+      "longitude": 10.385017
+    },
+    {
+      "name": "Visselulles Vinbar",
+      "latitude": 54.90888,
+      "longitude": 9.785713
+    },
+    {
+      "name": "VIVI Mad- & Vinbar",
+      "latitude": 56.167169,
+      "longitude": 9.546899
+    },
+    {
+      "name": "Vognhjulet",
+      "latitude": 55.409584,
+      "longitude": 10.394155
+    },
+    {
+      "name": "Vognhjulet",
+      "latitude": 56.640316,
+      "longitude": 9.793665
+    },
+    {
+      "name": "Volmer Lounge",
+      "latitude": 56.035678,
+      "longitude": 12.610156
+    },
+    {
+      "name": "Von Hatten",
+      "latitude": 56.460648,
+      "longitude": 10.032964
+    },
+    {
+      "name": "Vores Lille Vinbar",
+      "latitude": 55.862721,
+      "longitude": 9.846209
+    },
+    {
+      "name": "Vores Vinbar",
+      "latitude": 55.664071,
+      "longitude": 12.545413
+    },
+    {
+      "name": "Vædderen",
+      "latitude": 56.032851,
+      "longitude": 8.85266
+    },
+    {
+      "name": "Værftets Bar",
+      "latitude": 56.038868,
+      "longitude": 12.613537
+    },
+    {
+      "name": "Væskebalancen",
+      "latitude": 56.147953,
+      "longitude": 10.19654
+    },
+    {
+      "name": "Wagges Bar",
+      "latitude": 54.989902,
+      "longitude": 9.864172
+    },
+    {
+      "name": "Wall Street Pub",
+      "latitude": 55.681658,
+      "longitude": 12.584914
+    },
+    {
+      "name": "Walters Bar",
+      "latitude": 57.050736,
+      "longitude": 9.9191
+    },
+    {
+      "name": "Warwik Bryghus",
+      "latitude": 55.621666,
+      "longitude": 8.477123
+    },
+    {
+      "name": "Waxies",
+      "latitude": 56.156063,
+      "longitude": 10.206336
+    },
+    {
+      "name": "Wessels Kro",
+      "latitude": 55.681166,
+      "longitude": 12.580734
+    },
+    {
+      "name": "West end",
+      "latitude": 56.563974,
+      "longitude": 9.034626
+    },
+    {
+      "name": "West-End",
+      "latitude": 55.394007,
+      "longitude": 10.374798
+    },
+    {
+      "name": "Western Saloon",
+      "latitude": 55.678813,
+      "longitude": 12.53137
+    },
+    {
+      "name": "Whammy Bar",
+      "latitude": 55.665555,
+      "longitude": 12.613553
+    },
+    {
+      "name": "Whiskybaren Café Alpha",
+      "latitude": 57.049253,
+      "longitude": 9.915142
+    },
+    {
+      "name": "White Horse",
+      "latitude": 55.649268,
+      "longitude": 12.198121
+    },
+    {
+      "name": "Willy's",
+      "latitude": 56.156502,
+      "longitude": 10.207403
+    },
+    {
+      "name": "Willys bar",
+      "latitude": 55.069282,
+      "longitude": 9.334776
+    },
+    {
+      "name": "Wine Bar",
+      "latitude": 55.677788,
+      "longitude": 12.597022
+    },
+    {
+      "name": "Winston Craft",
+      "latitude": 55.769458,
+      "longitude": 12.504342
+    },
+    {
+      "name": "Woody",
+      "latitude": 55.403022,
+      "longitude": 11.355534
+    },
+    {
+      "name": "Wulff Bar",
+      "latitude": 55.863332,
+      "longitude": 9.846742
+    },
+    {
+      "name": "X-pressen",
+      "latitude": 55.705894,
+      "longitude": 12.578601
+    },
+    {
+      "name": "XO - Cocktails & More",
+      "latitude": 55.042206,
+      "longitude": 9.418212
+    },
+    {
+      "name": "Yellow Fellow",
+      "latitude": 55.693627,
+      "longitude": 12.608209
+    },
+    {
+      "name": "Youll never walk alone",
+      "latitude": 55.489485,
+      "longitude": 9.475532
+    },
+    {
+      "name": "Yoyo",
+      "latitude": 56.157564,
+      "longitude": 10.206701
+    },
+    {
+      "name": "Ys",
+      "latitude": 55.683934,
+      "longitude": 12.573384
+    },
+    {
+      "name": "Zanders",
+      "latitude": 56.158124,
+      "longitude": 10.206318
+    },
+    {
+      "name": "Zefside",
+      "latitude": 55.675854,
+      "longitude": 12.575011
+    },
+    {
+      "name": "Zeit vinbar",
+      "latitude": 56.166765,
+      "longitude": 10.227697
+    },
+    {
+      "name": "Zeitgeist Brewing",
+      "latitude": 55.25042,
+      "longitude": 9.492685
+    },
+    {
+      "name": "Zeppelin",
+      "latitude": 55.672246,
+      "longitude": 12.555886
+    },
+    {
+      "name": "Zwei Grosse Bier Bar",
+      "latitude": 56.167054,
+      "longitude": 9.546945
+    },
+    {
+      "name": "Zwei Grosse Bier Bar",
+      "latitude": 56.458279,
+      "longitude": 10.037991
+    },
+    {
+      "name": "Zwei Grosse Bier Bar",
+      "latitude": 57.460629,
+      "longitude": 9.987172
+    },
+    {
+      "name": "Zwei Grosse Bier Bar Viborg",
+      "latitude": 56.453466,
+      "longitude": 9.404668
+    },
+    {
+      "name": "Å-Stuen",
+      "latitude": 55.851585,
+      "longitude": 9.483289
+    },
+    {
+      "name": "Åben",
+      "latitude": 55.668263,
+      "longitude": 12.561553
+    },
+    {
+      "name": "ÅBEN Aarhus",
+      "latitude": 56.157806,
+      "longitude": 10.21011
+    },
+    {
+      "name": "ÅBEN Carlsberg Byen",
+      "latitude": 55.665917,
+      "longitude": 12.534755
+    },
+    {
+      "name": "ÅBEN Nordhavn",
+      "latitude": 55.707281,
+      "longitude": 12.592579
+    },
+    {
+      "name": "Åbenbar",
+      "latitude": 55.706478,
+      "longitude": 12.537079
+    },
+    {
+      "name": "Åkanden",
+      "latitude": 55.900912,
+      "longitude": 12.501072
+    },
+    {
+      "name": "Ålholm Borgerkro",
+      "latitude": 55.670702,
+      "longitude": 12.489471
+    },
+    {
+      "name": "Æ Banegård",
+      "latitude": 55.130498,
+      "longitude": 9.127464
+    },
+    {
+      "name": "Æ Gammel Mejeri",
+      "latitude": 54.995756,
+      "longitude": 9.428979
+    },
+    {
+      "name": "Æ Gl. Laugstow Tarm",
+      "latitude": 55.90871,
+      "longitude": 8.520351
+    },
+    {
+      "name": "Æ Karklud",
+      "latitude": 55.998007,
+      "longitude": 8.126184
+    },
+    {
+      "name": "Æ klosterKro",
+      "latitude": 55.05922,
+      "longitude": 8.951638
+    },
+    {
+      "name": "Æ Vandhul - Stoholm",
+      "latitude": 56.484986,
+      "longitude": 9.154769
+    },
+    {
+      "name": "Æ Øl Stouw",
+      "latitude": 56.089395,
+      "longitude": 8.245874
+    },
+    {
+      "name": "Æ' Bette Bar",
+      "latitude": 56.48298,
+      "longitude": 8.780102
+    },
+    {
+      "name": "Æblet og Gåsen",
+      "latitude": 56.148276,
+      "longitude": 10.202613
+    },
+    {
+      "name": "Æ’ Kanal",
+      "latitude": 56.704523,
+      "longitude": 8.218932
+    },
+    {
+      "name": "ØL BAR",
+      "latitude": 55.677813,
+      "longitude": 12.597499
+    },
+    {
+      "name": "Ølbaren",
+      "latitude": 56.151274,
+      "longitude": 10.209746
+    },
+    {
+      "name": "Ølbaren",
+      "latitude": 56.201186,
+      "longitude": 10.68066
+    },
+    {
+      "name": "Ølgod Bryghus",
+      "latitude": 55.809436,
+      "longitude": 8.620893
+    },
+    {
+      "name": "Ølhaven",
+      "latitude": 55.682101,
+      "longitude": 12.585146
+    },
+    {
+      "name": "Ølhuzed",
+      "latitude": 55.184021,
+      "longitude": 14.705739
+    },
+    {
+      "name": "Ølkælderen",
+      "latitude": 56.09082,
+      "longitude": 8.24522
+    },
+    {
+      "name": "Ølkælderen Christiansfeld",
+      "latitude": 55.356146,
+      "longitude": 9.481456
+    },
+    {
+      "name": "Ølluminati",
+      "latitude": 56.448976,
+      "longitude": 9.40772
+    },
+    {
+      "name": "Ølsnedkeren Ølbar",
+      "latitude": 55.685927,
+      "longitude": 12.552337
+    },
+    {
+      "name": "Ølstauan",
+      "latitude": 55.278487,
+      "longitude": 14.80071
+    },
+    {
+      "name": "Ørkilds",
+      "latitude": 55.064605,
+      "longitude": 10.616737
+    },
+    {
+      "name": "Østerbros Perle",
+      "latitude": 55.701265,
+      "longitude": 12.58093
+    },
+    {
+      "name": "Østerport Bodega",
+      "latitude": 57.046358,
+      "longitude": 9.929048
+    },
+    {
+      "name": "Østre Gasværk",
+      "latitude": 56.026281,
+      "longitude": 8.386543
+    }
+  ],
+  "meta": {
+    "title": "Barer i Danmark – OpenStreetMap (Bars in Denmark, OSM) - Gratis download",
+    "description": "Liste over 1558 barer i Danmark fra OpenStreetMap (amenity=bar) — navn og koordinater (WGS84). Indeholder 1558 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Barer i Danmark – OpenStreetMap (Bars in Denmark, OSM) | ListBase",
+    "seo_description": "Download Barer i Danmark – OpenStreetMap (Bars in Denmark, OSM) — 1558 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 1558 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

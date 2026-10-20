@@ -1,0 +1,208 @@
+{
+  "id": "da-kalundborg-afstemningssteder",
+  "name": "Afstemningssteder i Kalundborg Kommune",
+  "title": "Afstemningssteder i Kalundborg Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Kalundborg Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Føllenslev",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Sejerø",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Svebølle",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Gørlev",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Kr. Helsinge",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Reersø",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Svallerup",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Ubby",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Høng Nord",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Buerup",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Høng Syd",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Gierslev",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Kalundborghallen",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Rynkevang",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Tømmerup",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Årby-Rørby",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Raklev",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Røsnæs",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Ulshøj",
+      "kommune_kode": 326,
+      "kommune": "Kalundborg",
+      "opstillingskreds_nummer": 38,
+      "opstillingskreds": "Kalundborg"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Kalundborg Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Kalundborg Kommune med opstillingskreds. Indeholder 19 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Kalundborg Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Kalundborg Kommune — 19 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 19 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,741 @@
+{
+  "id": "da-dyrlaeger",
+  "name": "Dyrlæger og dyreklinikker i Danmark – OpenStreetMap (Veterinary clinics in Denmark, OSM)",
+  "title": "Dyrlæger og dyreklinikker i Danmark – OpenStreetMap (Veterinary clinics in Denmark, OSM)",
+  "description": "Liste over 140 dyrlæger og dyreklinikker i Danmark fra OpenStreetMap (amenity=veterinary) — navn og koordinater (WGS84).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 140,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aabenraa Dyrehospital",
+      "latitude": 55.080637,
+      "longitude": 9.386373
+    },
+    {
+      "name": "Aalborg Dyrehospital",
+      "latitude": 57.021012,
+      "longitude": 9.897048
+    },
+    {
+      "name": "Aarhus Dyrehospital",
+      "latitude": 56.116196,
+      "longitude": 10.139733
+    },
+    {
+      "name": "Aarhus Dyrehospital",
+      "latitude": 56.116978,
+      "longitude": 10.130552
+    },
+    {
+      "name": "Allerød Dyreklinik",
+      "latitude": 55.870511,
+      "longitude": 12.348864
+    },
+    {
+      "name": "AniCura",
+      "latitude": 55.643137,
+      "longitude": 12.108531
+    },
+    {
+      "name": "AniCura",
+      "latitude": 57.063951,
+      "longitude": 9.907355
+    },
+    {
+      "name": "AniCura Dyrehospitalet City Syd",
+      "latitude": 57.005073,
+      "longitude": 9.8679
+    },
+    {
+      "name": "AniCura Familiedyrlægerne Aalborg",
+      "latitude": 56.961729,
+      "longitude": 9.859454
+    },
+    {
+      "name": "AniCura Gistrup Dyrehospital",
+      "latitude": 56.998918,
+      "longitude": 10.003247
+    },
+    {
+      "name": "AniCura Hjørring Dyrehospital",
+      "latitude": 57.456738,
+      "longitude": 9.978135
+    },
+    {
+      "name": "AniCura Varde Dyrehospital",
+      "latitude": 55.609224,
+      "longitude": 8.495238
+    },
+    {
+      "name": "Animal Care - Blåvand Dyreklinik",
+      "latitude": 55.556337,
+      "longitude": 8.138262
+    },
+    {
+      "name": "Ansager Hestehospital ApS",
+      "latitude": 55.706217,
+      "longitude": 8.754503
+    },
+    {
+      "name": "Avedøre Dyreklinik",
+      "latitude": 55.644664,
+      "longitude": 12.457104
+    },
+    {
+      "name": "BaxRehab",
+      "latitude": 55.506208,
+      "longitude": 8.410943
+    },
+    {
+      "name": "Bellinge Dyreklinik",
+      "latitude": 55.335589,
+      "longitude": 10.315953
+    },
+    {
+      "name": "Biersted Dyrehospital",
+      "latitude": 57.153912,
+      "longitude": 9.812396
+    },
+    {
+      "name": "Bindslev Dyrehospital",
+      "latitude": 57.538236,
+      "longitude": 10.191635
+    },
+    {
+      "name": "Bindslev Dyrehospital",
+      "latitude": 57.72198,
+      "longitude": 10.593795
+    },
+    {
+      "name": "Birkerød Dyreklinik",
+      "latitude": 55.84193,
+      "longitude": 12.432416
+    },
+    {
+      "name": "Bogense Dyrecenter",
+      "latitude": 55.566592,
+      "longitude": 10.084112
+    },
+    {
+      "name": "Bramming Dyreklinik",
+      "latitude": 55.461037,
+      "longitude": 8.707835
+    },
+    {
+      "name": "Bryggens Dyreklinik",
+      "latitude": 55.666097,
+      "longitude": 12.577198
+    },
+    {
+      "name": "Brøndby Dyreklinik",
+      "latitude": 55.65582,
+      "longitude": 12.395864
+    },
+    {
+      "name": "Buddinge Dyreklinik",
+      "latitude": 55.761596,
+      "longitude": 12.452136
+    },
+    {
+      "name": "Byens dyreklinik",
+      "latitude": 56.136418,
+      "longitude": 10.176391
+    },
+    {
+      "name": "Center for Veterinær Billediagnostik",
+      "latitude": 55.698994,
+      "longitude": 12.425132
+    },
+    {
+      "name": "Centrum Dyrehospital",
+      "latitude": 55.688282,
+      "longitude": 12.464452
+    },
+    {
+      "name": "Centrum dyreklinik",
+      "latitude": 55.673085,
+      "longitude": 12.549155
+    },
+    {
+      "name": "Centrum Dyreklinik",
+      "latitude": 55.995768,
+      "longitude": 12.548335
+    },
+    {
+      "name": "City Dyreklinik",
+      "latitude": 55.688453,
+      "longitude": 12.585743
+    },
+    {
+      "name": "Dalum Dyreklinik",
+      "latitude": 55.374068,
+      "longitude": 10.369726
+    },
+    {
+      "name": "Dronninglund Dyreklinik",
+      "latitude": 57.162366,
+      "longitude": 10.297979
+    },
+    {
+      "name": "Dyredoktoren",
+      "latitude": 56.037967,
+      "longitude": 12.15504
+    },
+    {
+      "name": "Dyrehospital",
+      "latitude": 55.679498,
+      "longitude": 12.539174
+    },
+    {
+      "name": "Dyrehospitalet 9000",
+      "latitude": 57.035667,
+      "longitude": 9.90892
+    },
+    {
+      "name": "Dyrehospitalet Heden",
+      "latitude": 56.131854,
+      "longitude": 8.958867
+    },
+    {
+      "name": "Dyrehospitalet Sønderborg",
+      "latitude": 54.91282,
+      "longitude": 9.790735
+    },
+    {
+      "name": "Dyreklinik",
+      "latitude": 55.971963,
+      "longitude": 10.150167
+    },
+    {
+      "name": "Dyreklinikken Amagerbrogade",
+      "latitude": 55.652718,
+      "longitude": 12.611198
+    },
+    {
+      "name": "Dyreklinikken Centrum Hvalsø",
+      "latitude": 55.591326,
+      "longitude": 11.862607
+    },
+    {
+      "name": "Dyreklinikken Dit Dyr",
+      "latitude": 55.803793,
+      "longitude": 11.436752
+    },
+    {
+      "name": "Dyreklinikken Esbjerg",
+      "latitude": 55.472744,
+      "longitude": 8.447837
+    },
+    {
+      "name": "Dyrelæge Hoffmann Therese",
+      "latitude": 55.497936,
+      "longitude": 9.473774
+    },
+    {
+      "name": "Dyrelægegården",
+      "latitude": 55.957948,
+      "longitude": 11.853539
+    },
+    {
+      "name": "Dyrepraksis Pilegaard",
+      "latitude": 54.893618,
+      "longitude": 9.655819
+    },
+    {
+      "name": "Dyrlæge",
+      "latitude": 56.271278,
+      "longitude": 8.324096
+    },
+    {
+      "name": "Dyrlæge Ina Nielsen",
+      "latitude": 55.011548,
+      "longitude": 11.903849
+    },
+    {
+      "name": "Dyrlæge Mikkelsen",
+      "latitude": 56.146872,
+      "longitude": 8.997089
+    },
+    {
+      "name": "Dyrlægegruppen Thy",
+      "latitude": 56.939106,
+      "longitude": 8.648623
+    },
+    {
+      "name": "Dyrlægegården",
+      "latitude": 55.095254,
+      "longitude": 14.717319
+    },
+    {
+      "name": "Dyrlægehuset Hjallerup ApS",
+      "latitude": 57.167582,
+      "longitude": 10.145743
+    },
+    {
+      "name": "Dyrlægehuset i Ballerup",
+      "latitude": 55.730243,
+      "longitude": 12.36058
+    },
+    {
+      "name": "Dyrlægehuset Kolding",
+      "latitude": 55.499619,
+      "longitude": 9.453009
+    },
+    {
+      "name": "Dyrlægen i Frederiksværk",
+      "latitude": 55.978441,
+      "longitude": 12.019097
+    },
+    {
+      "name": "Dyrlægerne",
+      "latitude": 55.496878,
+      "longitude": 9.494025
+    },
+    {
+      "name": "Dyrlægerne Univet",
+      "latitude": 55.465385,
+      "longitude": 8.699045
+    },
+    {
+      "name": "Dyrlægerne univet",
+      "latitude": 55.483303,
+      "longitude": 9.015389
+    },
+    {
+      "name": "Egelund Dyreklinik",
+      "latitude": 56.433083,
+      "longitude": 9.310323
+    },
+    {
+      "name": "Esbjerg Dyrehospital",
+      "latitude": 55.528573,
+      "longitude": 8.453957
+    },
+    {
+      "name": "Evidensia Kolding Dyrehospital",
+      "latitude": 55.478981,
+      "longitude": 9.455156
+    },
+    {
+      "name": "Familiedyrlægen Varde",
+      "latitude": 55.607735,
+      "longitude": 8.506085
+    },
+    {
+      "name": "FAVNA Erritsø Dyreklinik",
+      "latitude": 55.54352,
+      "longitude": 9.718693
+    },
+    {
+      "name": "FAVNA Middelfart Dyrehospital",
+      "latitude": 55.507192,
+      "longitude": 9.767017
+    },
+    {
+      "name": "Frederiksværk Dyrehospital",
+      "latitude": 55.970119,
+      "longitude": 12.018715
+    },
+    {
+      "name": "Gentofte Dyreklinik",
+      "latitude": 55.746791,
+      "longitude": 12.556807
+    },
+    {
+      "name": "Gimlinge Dyreklinik ApS",
+      "latitude": 55.325297,
+      "longitude": 11.440954
+    },
+    {
+      "name": "Greve Dyrehospital",
+      "latitude": 55.589218,
+      "longitude": 12.300134
+    },
+    {
+      "name": "Grundtvigs Dyreklinik",
+      "latitude": 55.712143,
+      "longitude": 12.532589
+    },
+    {
+      "name": "Gundsø Dyreklinik",
+      "latitude": 55.70341,
+      "longitude": 12.1549
+    },
+    {
+      "name": "Haarby Dyreklinik",
+      "latitude": 55.224519,
+      "longitude": 10.122053
+    },
+    {
+      "name": "Hadsund Dyreklinik",
+      "latitude": 56.721041,
+      "longitude": 10.124561
+    },
+    {
+      "name": "Han Herred Dyrlægerne",
+      "latitude": 57.088216,
+      "longitude": 9.26322
+    },
+    {
+      "name": "Hedehusene Dyreklinik",
+      "latitude": 55.649606,
+      "longitude": 12.198242
+    },
+    {
+      "name": "Herlev Dyrehospital",
+      "latitude": 55.725699,
+      "longitude": 12.441593
+    },
+    {
+      "name": "Hinnerup Dyrehospital",
+      "latitude": 56.254035,
+      "longitude": 10.072872
+    },
+    {
+      "name": "Holstebro Dyrehospital",
+      "latitude": 56.37517,
+      "longitude": 8.61902
+    },
+    {
+      "name": "Holsted Dyreklinic",
+      "latitude": 55.510687,
+      "longitude": 8.917776
+    },
+    {
+      "name": "Humlebæk Dyreklinik",
+      "latitude": 55.958739,
+      "longitude": 12.531443
+    },
+    {
+      "name": "Husum Dyreklinik",
+      "latitude": 55.71239,
+      "longitude": 12.471076
+    },
+    {
+      "name": "Højby Dyreklinik",
+      "latitude": 55.331518,
+      "longitude": 10.434041
+    },
+    {
+      "name": "Jagtvejens Dyreklinik",
+      "latitude": 55.693567,
+      "longitude": 12.547787
+    },
+    {
+      "name": "K9 Performance",
+      "latitude": 55.526865,
+      "longitude": 11.680016
+    },
+    {
+      "name": "Karlslunde Dyrehospital",
+      "latitude": 55.585514,
+      "longitude": 12.250644
+    },
+    {
+      "name": "Kastrup Dyreklinik",
+      "latitude": 55.636216,
+      "longitude": 12.624686
+    },
+    {
+      "name": "Klosterheden Hest og Smådyrsklinik",
+      "latitude": 56.408492,
+      "longitude": 8.311941
+    },
+    {
+      "name": "Kongelundens Dyreklinik",
+      "latitude": 55.618344,
+      "longitude": 12.585529
+    },
+    {
+      "name": "Kongerslev Dyreklinik",
+      "latitude": 56.886059,
+      "longitude": 10.11229
+    },
+    {
+      "name": "Kørende Dyrlæge",
+      "latitude": 54.887939,
+      "longitude": 9.673642
+    },
+    {
+      "name": "Kørende dyrlæge",
+      "latitude": 54.918266,
+      "longitude": 9.81338
+    },
+    {
+      "name": "Le Chic Dog",
+      "latitude": 55.672962,
+      "longitude": 12.550134
+    },
+    {
+      "name": "Lemvig Dyreklinik",
+      "latitude": 56.539958,
+      "longitude": 8.294362
+    },
+    {
+      "name": "M. O. K. Klovpleje",
+      "latitude": 56.500005,
+      "longitude": 9.700313
+    },
+    {
+      "name": "My Peterinarian Pet Care & Veterinary Services",
+      "latitude": 55.696037,
+      "longitude": 12.580641
+    },
+    {
+      "name": "Møldrup Dyreklinik",
+      "latitude": 56.611288,
+      "longitude": 9.501437
+    },
+    {
+      "name": "Nordre Dyrehospital",
+      "latitude": 56.224821,
+      "longitude": 10.23872
+    },
+    {
+      "name": "Nykøbing Dyreklinik",
+      "latitude": 55.928732,
+      "longitude": 11.662062
+    },
+    {
+      "name": "Nymose Dyreklinik",
+      "latitude": 55.747586,
+      "longitude": 12.52027
+    },
+    {
+      "name": "Nørlund Hestehospital",
+      "latitude": 56.112325,
+      "longitude": 9.577611
+    },
+    {
+      "name": "Odense Dyrehospital",
+      "latitude": 55.401499,
+      "longitude": 10.357495
+    },
+    {
+      "name": "Peter Jepsen Johannsen",
+      "latitude": 54.905942,
+      "longitude": 9.779075
+    },
+    {
+      "name": "Ribe-egnens Dyrlæger",
+      "latitude": 55.354728,
+      "longitude": 8.774626
+    },
+    {
+      "name": "Ringe Dyrehospital",
+      "latitude": 55.236837,
+      "longitude": 10.486319
+    },
+    {
+      "name": "Rosendal Dyreklinik",
+      "latitude": 55.832577,
+      "longitude": 10.593609
+    },
+    {
+      "name": "Rosenholm Dyreklinik",
+      "latitude": 56.312249,
+      "longitude": 10.319277
+    },
+    {
+      "name": "Roskilde Dyreklinik",
+      "latitude": 55.63735,
+      "longitude": 12.059871
+    },
+    {
+      "name": "Ry Dyreklinik",
+      "latitude": 56.091807,
+      "longitude": 9.759731
+    },
+    {
+      "name": "Ryesgade Dyreklinik",
+      "latitude": 55.696569,
+      "longitude": 12.574357
+    },
+    {
+      "name": "Rynkeby Dyreklinik",
+      "latitude": 55.3131,
+      "longitude": 10.79225
+    },
+    {
+      "name": "Rødekro Dyreklinik",
+      "latitude": 55.069318,
+      "longitude": 9.335401
+    },
+    {
+      "name": "Rødovre Dyreklinik V/Lone Paredes",
+      "latitude": 55.683698,
+      "longitude": 12.446129
+    },
+    {
+      "name": "Rønnede Dyreklinik",
+      "latitude": 55.257289,
+      "longitude": 12.024169
+    },
+    {
+      "name": "Sallingvej Dyreklinik",
+      "latitude": 55.692721,
+      "longitude": 12.506906
+    },
+    {
+      "name": "Samsø Dyreklinik",
+      "latitude": 55.83336,
+      "longitude": 10.586847
+    },
+    {
+      "name": "Silkeborg Dyrehospital",
+      "latitude": 56.186827,
+      "longitude": 9.543898
+    },
+    {
+      "name": "Skibhus Dyreklinik",
+      "latitude": 55.414189,
+      "longitude": 10.396369
+    },
+    {
+      "name": "Skive Dyrehospital",
+      "latitude": 56.570882,
+      "longitude": 9.000831
+    },
+    {
+      "name": "Skjern Dyrehospital",
+      "latitude": 55.949154,
+      "longitude": 8.491473
+    },
+    {
+      "name": "Snertinge Dyrehospital",
+      "latitude": 55.711543,
+      "longitude": 11.384121
+    },
+    {
+      "name": "Struer Dyreklinik",
+      "latitude": 56.475412,
+      "longitude": 8.581731
+    },
+    {
+      "name": "Støvring Dyreklinik",
+      "latitude": 56.88849,
+      "longitude": 9.835165
+    },
+    {
+      "name": "Sydfyns Dyreklinik",
+      "latitude": 55.064727,
+      "longitude": 10.613174
+    },
+    {
+      "name": "Taulov Dyreklinik",
+      "latitude": 55.545996,
+      "longitude": 9.617647
+    },
+    {
+      "name": "Thorsager Dyrlæge",
+      "latitude": 56.346855,
+      "longitude": 10.43482
+    },
+    {
+      "name": "Tilst Dyrehospital",
+      "latitude": 56.182548,
+      "longitude": 10.110993
+    },
+    {
+      "name": "Tinglev Dyrehospital",
+      "latitude": 54.929325,
+      "longitude": 9.228492
+    },
+    {
+      "name": "Trekantens Dyrehospital",
+      "latitude": 55.567927,
+      "longitude": 9.722565
+    },
+    {
+      "name": "Tvingstrup Dyreklinik",
+      "latitude": 55.916466,
+      "longitude": 9.926695
+    },
+    {
+      "name": "Vemb Dyreklinik",
+      "latitude": 56.34893,
+      "longitude": 8.370286
+    },
+    {
+      "name": "Vestfyns Dyrlæger, Stordyr",
+      "latitude": 55.37541,
+      "longitude": 9.917846
+    },
+    {
+      "name": "Vet-Team",
+      "latitude": 56.37513,
+      "longitude": 8.618809
+    },
+    {
+      "name": "VetEmbryo",
+      "latitude": 55.075109,
+      "longitude": 9.208417
+    },
+    {
+      "name": "Vindinggård Dyreklinik",
+      "latitude": 55.687446,
+      "longitude": 9.551665
+    },
+    {
+      "name": "Årslev Dyreklinik",
+      "latitude": 55.298841,
+      "longitude": 10.464124
+    },
+    {
+      "name": "Ølby Dyrehospital",
+      "latitude": 55.479141,
+      "longitude": 12.174729
+    },
+    {
+      "name": "Ølstykke Dyreklinik",
+      "latitude": 55.79484,
+      "longitude": 12.158219
+    },
+    {
+      "name": "Østerbrogades Dyrlæger",
+      "latitude": 55.697746,
+      "longitude": 12.579618
+    },
+    {
+      "name": "Østergaards Dyrehospital ApS",
+      "latitude": 56.08563,
+      "longitude": 10.118221
+    },
+    {
+      "name": "​Vodskov dyreklinik ApS",
+      "latitude": 57.103205,
+      "longitude": 10.024632
+    }
+  ],
+  "meta": {
+    "title": "Dyrlæger og dyreklinikker i Danmark – OpenStreetMap (Veterinary clinics in Denmark, OSM) - Gratis download",
+    "description": "Liste over 140 dyrlæger og dyreklinikker i Danmark fra OpenStreetMap (amenity=veterinary) — navn og koordinater (WGS84). Indeholder 140 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Dyrlæger og dyreklinikker i Danmark – OpenStreetMap (Veterinary clinics in Denmark, OSM) | ListBase",
+    "seo_description": "Download Dyrlæger og dyreklinikker i Danmark – OpenStreetMap (Veterinary clinics in Denmark, OSM) — 140 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 140 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

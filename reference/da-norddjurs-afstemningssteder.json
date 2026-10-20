@@ -1,0 +1,136 @@
+{
+  "id": "da-norddjurs-afstemningssteder",
+  "name": "Afstemningssteder i Norddjurs Kommune",
+  "title": "Afstemningssteder i Norddjurs Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Norddjurs Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Kulturhuset Pavillonen",
+      "kommune_kode": 707,
+      "kommune": "Norddjurs",
+      "opstillingskreds_nummer": 66,
+      "opstillingskreds": "Djurs"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Anholt Skole",
+      "kommune_kode": 707,
+      "kommune": "Norddjurs",
+      "opstillingskreds_nummer": 66,
+      "opstillingskreds": "Djurs"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Kulturhuset Stationen",
+      "kommune_kode": 707,
+      "kommune": "Norddjurs",
+      "opstillingskreds_nummer": 66,
+      "opstillingskreds": "Djurs"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Kattegatskolen",
+      "kommune_kode": 707,
+      "kommune": "Norddjurs",
+      "opstillingskreds_nummer": 66,
+      "opstillingskreds": "Djurs"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Glesborg",
+      "kommune_kode": 707,
+      "kommune": "Norddjurs",
+      "opstillingskreds_nummer": 66,
+      "opstillingskreds": "Djurs"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Ørum",
+      "kommune_kode": 707,
+      "kommune": "Norddjurs",
+      "opstillingskreds_nummer": 66,
+      "opstillingskreds": "Djurs"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Ørsted",
+      "kommune_kode": 707,
+      "kommune": "Norddjurs",
+      "opstillingskreds_nummer": 66,
+      "opstillingskreds": "Djurs"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Allingåbro",
+      "kommune_kode": 707,
+      "kommune": "Norddjurs",
+      "opstillingskreds_nummer": 66,
+      "opstillingskreds": "Djurs"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Auning",
+      "kommune_kode": 707,
+      "kommune": "Norddjurs",
+      "opstillingskreds_nummer": 66,
+      "opstillingskreds": "Djurs"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Vivild",
+      "kommune_kode": 707,
+      "kommune": "Norddjurs",
+      "opstillingskreds_nummer": 66,
+      "opstillingskreds": "Djurs"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Norddjurs Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Norddjurs Kommune med opstillingskreds. Indeholder 10 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Norddjurs Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Norddjurs Kommune — 10 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 10 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

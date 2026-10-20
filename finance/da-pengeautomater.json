@@ -1,0 +1,376 @@
+{
+  "id": "da-pengeautomater",
+  "name": "Pengeautomater i Danmark – OpenStreetMap (ATMs in Denmark, OSM)",
+  "title": "Pengeautomater i Danmark – OpenStreetMap (ATMs in Denmark, OSM)",
+  "description": "Liste over 67 pengeautomater (hæveautomater) i Danmark fra OpenStreetMap (amenity=atm) — navn og koordinater (WGS84).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Arbejdernes Landsbank",
+      "latitude": 55.489913,
+      "longitude": 9.478295
+    },
+    {
+      "name": "ATM",
+      "latitude": 54.911667,
+      "longitude": 9.792095
+    },
+    {
+      "name": "ATM",
+      "latitude": 54.914717,
+      "longitude": 9.798821
+    },
+    {
+      "name": "Blox eats",
+      "latitude": 55.672452,
+      "longitude": 12.579309
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 54.910743,
+      "longitude": 9.791069
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.277156,
+      "longitude": 14.802273
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.330447,
+      "longitude": 8.767679
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.394041,
+      "longitude": 10.350421
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.401357,
+      "longitude": 10.387353
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.41142,
+      "longitude": 10.41055
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.427762,
+      "longitude": 10.373295
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.466125,
+      "longitude": 8.459084
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.500987,
+      "longitude": 9.456509
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.514859,
+      "longitude": 9.46058
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.564425,
+      "longitude": 10.086577
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.636786,
+      "longitude": 12.642125
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.665435,
+      "longitude": 12.395167
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.667716,
+      "longitude": 12.439401
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.678695,
+      "longitude": 12.584854
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.713755,
+      "longitude": 9.536755
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.713902,
+      "longitude": 10.011572
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.734952,
+      "longitude": 9.131181
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.768398,
+      "longitude": 12.503489
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.962806,
+      "longitude": 11.851146
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.973377,
+      "longitude": 12.02147
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 56.148325,
+      "longitude": 10.209825
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 56.96836,
+      "longitude": 9.252384
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 57.00978,
+      "longitude": 9.888034
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 57.044215,
+      "longitude": 9.916518
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 57.047996,
+      "longitude": 9.917518
+    },
+    {
+      "name": "Danske Bank hæveautomat",
+      "latitude": 55.795008,
+      "longitude": 12.472155
+    },
+    {
+      "name": "Den Jyske Sparkasse",
+      "latitude": 55.755731,
+      "longitude": 9.417631
+    },
+    {
+      "name": "Euronet",
+      "latitude": 54.575872,
+      "longitude": 11.930676
+    },
+    {
+      "name": "Euronet",
+      "latitude": 54.698036,
+      "longitude": 11.956803
+    },
+    {
+      "name": "Euronet",
+      "latitude": 55.023992,
+      "longitude": 15.113116
+    },
+    {
+      "name": "Euronet",
+      "latitude": 55.288596,
+      "longitude": 14.776106
+    },
+    {
+      "name": "Euronet",
+      "latitude": 55.67483,
+      "longitude": 12.59892
+    },
+    {
+      "name": "Euronet",
+      "latitude": 55.679257,
+      "longitude": 12.591659
+    },
+    {
+      "name": "Euronet",
+      "latitude": 55.68057,
+      "longitude": 12.587952
+    },
+    {
+      "name": "Euronet",
+      "latitude": 56.764424,
+      "longitude": 8.815959
+    },
+    {
+      "name": "Euronet",
+      "latitude": 57.251843,
+      "longitude": 9.584671
+    },
+    {
+      "name": "Euronet Islands Brygge",
+      "latitude": 55.66691,
+      "longitude": 12.57857
+    },
+    {
+      "name": "Jyske Bank",
+      "latitude": 54.913698,
+      "longitude": 9.794312
+    },
+    {
+      "name": "Jyske Bank",
+      "latitude": 55.394335,
+      "longitude": 10.384423
+    },
+    {
+      "name": "Jyske Bank",
+      "latitude": 55.466591,
+      "longitude": 8.452502
+    },
+    {
+      "name": "Jyske Bank",
+      "latitude": 55.678622,
+      "longitude": 11.095179
+    },
+    {
+      "name": "Jyske Bank ATM",
+      "latitude": 55.640984,
+      "longitude": 12.085537
+    },
+    {
+      "name": "KONTANTEN",
+      "latitude": 55.642026,
+      "longitude": 9.649526
+    },
+    {
+      "name": "Lægerne Torvet",
+      "latitude": 57.267336,
+      "longitude": 9.948401
+    },
+    {
+      "name": "Nokas",
+      "latitude": 55.384512,
+      "longitude": 10.424643
+    },
+    {
+      "name": "Nokas",
+      "latitude": 55.401292,
+      "longitude": 10.386968
+    },
+    {
+      "name": "Nokas",
+      "latitude": 55.409419,
+      "longitude": 10.339914
+    },
+    {
+      "name": "Nordea",
+      "latitude": 54.935696,
+      "longitude": 10.715599
+    },
+    {
+      "name": "Nordea",
+      "latitude": 55.478578,
+      "longitude": 12.174967
+    },
+    {
+      "name": "Nordea",
+      "latitude": 55.489029,
+      "longitude": 9.472594
+    },
+    {
+      "name": "Nordea",
+      "latitude": 55.673883,
+      "longitude": 12.588324
+    },
+    {
+      "name": "Nordea",
+      "latitude": 55.679802,
+      "longitude": 11.088885
+    },
+    {
+      "name": "Nordea",
+      "latitude": 55.710039,
+      "longitude": 12.532388
+    },
+    {
+      "name": "Nordea",
+      "latitude": 55.771677,
+      "longitude": 12.506965
+    },
+    {
+      "name": "Nordea",
+      "latitude": 56.145099,
+      "longitude": 10.00028
+    },
+    {
+      "name": "Nordea",
+      "latitude": 56.149358,
+      "longitude": 10.209389
+    },
+    {
+      "name": "Nordea Hæveautomat",
+      "latitude": 56.02216,
+      "longitude": 12.199343
+    },
+    {
+      "name": "Nordfyns Bank",
+      "latitude": 55.406264,
+      "longitude": 10.393412
+    },
+    {
+      "name": "Sparekassen ATM",
+      "latitude": 57.113309,
+      "longitude": 8.607501
+    },
+    {
+      "name": "Sparekassen Danmark",
+      "latitude": 55.34689,
+      "longitude": 10.18108
+    },
+    {
+      "name": "Sparekassen Sjælland-Fyn",
+      "latitude": 55.679416,
+      "longitude": 11.089717
+    },
+    {
+      "name": "Sparekassen Thy",
+      "latitude": 57.021747,
+      "longitude": 8.674076
+    }
+  ],
+  "meta": {
+    "title": "Pengeautomater i Danmark – OpenStreetMap (ATMs in Denmark, OSM) - Gratis download",
+    "description": "Liste over 67 pengeautomater (hæveautomater) i Danmark fra OpenStreetMap (amenity=atm) — navn og koordinater (WGS84). Indeholder 67 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Pengeautomater i Danmark – OpenStreetMap (ATMs in Denmark, OSM) | ListBase",
+    "seo_description": "Download Pengeautomater i Danmark – OpenStreetMap (ATMs in Denmark, OSM) — 67 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 67 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

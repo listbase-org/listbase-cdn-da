@@ -1,0 +1,446 @@
+{
+  "id": "da-pakkebokse",
+  "name": "Pakkebokse i Danmark – OpenStreetMap (Parcel lockers in Denmark, OSM)",
+  "title": "Pakkebokse i Danmark – OpenStreetMap (Parcel lockers in Denmark, OSM)",
+  "description": "Liste over 81 pakkebokse i Danmark fra OpenStreetMap (amenity=parcel_locker) — navn og koordinater (WGS84).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Døgnposten - Nymarksvej 37",
+      "latitude": 55.575325,
+      "longitude": 9.760315
+    },
+    {
+      "name": "Døgnposten 108",
+      "latitude": 55.695556,
+      "longitude": 12.551032
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.401249,
+      "longitude": 10.387461
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.46643,
+      "longitude": 8.459393
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.50356,
+      "longitude": 9.736394
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.508212,
+      "longitude": 8.45019
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.51434,
+      "longitude": 9.461063
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.543887,
+      "longitude": 9.717298
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.568301,
+      "longitude": 9.720063
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.646973,
+      "longitude": 12.541164
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.66447,
+      "longitude": 12.598148
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.679674,
+      "longitude": 12.580511
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.692347,
+      "longitude": 12.587763
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.702677,
+      "longitude": 12.550491
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.706007,
+      "longitude": 12.576059
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.7066,
+      "longitude": 12.58563
+    },
+    {
+      "name": "Instabox",
+      "latitude": 55.708106,
+      "longitude": 12.58581
+    },
+    {
+      "name": "Instabox",
+      "latitude": 56.164847,
+      "longitude": 10.222711
+    },
+    {
+      "name": "Instabox",
+      "latitude": 56.171472,
+      "longitude": 10.188
+    },
+    {
+      "name": "Instabox",
+      "latitude": 57.054561,
+      "longitude": 9.905685
+    },
+    {
+      "name": "my renz box",
+      "latitude": 55.719566,
+      "longitude": 12.553575
+    },
+    {
+      "name": "Nærboks",
+      "latitude": 54.884331,
+      "longitude": 9.995057
+    },
+    {
+      "name": "nærboks",
+      "latitude": 55.654117,
+      "longitude": 12.508468
+    },
+    {
+      "name": "Nærboks",
+      "latitude": 55.659941,
+      "longitude": 12.631946
+    },
+    {
+      "name": "Nærboks",
+      "latitude": 55.665355,
+      "longitude": 12.61023
+    },
+    {
+      "name": "nærboks",
+      "latitude": 55.710857,
+      "longitude": 12.597162
+    },
+    {
+      "name": "nærboks",
+      "latitude": 55.718984,
+      "longitude": 12.553261
+    },
+    {
+      "name": "Nærboks ABG Borreparken",
+      "latitude": 55.756848,
+      "longitude": 12.487638
+    },
+    {
+      "name": "Nærboks Brøndbyvestervej",
+      "latitude": 55.650831,
+      "longitude": 12.410977
+    },
+    {
+      "name": "Nærboks Lidl Nørremark Center",
+      "latitude": 55.720124,
+      "longitude": 9.559365
+    },
+    {
+      "name": "Nærboks REMA 1000 Søften",
+      "latitude": 56.238537,
+      "longitude": 10.087831
+    },
+    {
+      "name": "Nærboks Rylemosen",
+      "latitude": 55.651052,
+      "longitude": 12.406329
+    },
+    {
+      "name": "Nærbox Kirkebjerg",
+      "latitude": 55.656646,
+      "longitude": 12.396846
+    },
+    {
+      "name": "Pakkeboks",
+      "latitude": 55.63894,
+      "longitude": 12.634141
+    },
+    {
+      "name": "pakkeboks",
+      "latitude": 55.708108,
+      "longitude": 12.585757
+    },
+    {
+      "name": "Pakkeboks",
+      "latitude": 57.040445,
+      "longitude": 9.951048
+    },
+    {
+      "name": "Pakkeboks",
+      "latitude": 57.070228,
+      "longitude": 9.94564
+    },
+    {
+      "name": "Pakkeboks 610",
+      "latitude": 55.756459,
+      "longitude": 12.472989
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.501905,
+      "longitude": 9.441907
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.631036,
+      "longitude": 12.600763
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.636733,
+      "longitude": 12.642246
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.639983,
+      "longitude": 12.598956
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.642102,
+      "longitude": 12.615866
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.645893,
+      "longitude": 12.641144
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.656465,
+      "longitude": 12.603651
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.658351,
+      "longitude": 12.597211
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.661827,
+      "longitude": 12.610336
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.662778,
+      "longitude": 12.573841
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.662888,
+      "longitude": 12.619422
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.663118,
+      "longitude": 12.603625
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.664161,
+      "longitude": 12.622862
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.665618,
+      "longitude": 12.599627
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.665895,
+      "longitude": 12.580852
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.666698,
+      "longitude": 12.615151
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.689466,
+      "longitude": 12.556016
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.694716,
+      "longitude": 12.547869
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.700052,
+      "longitude": 12.553281
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.701058,
+      "longitude": 12.580549
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.708556,
+      "longitude": 12.557453
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.70979,
+      "longitude": 12.572569
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.711938,
+      "longitude": 12.577238
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.715992,
+      "longitude": 12.576618
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.73437,
+      "longitude": 9.120233
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.752891,
+      "longitude": 12.542278
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.757965,
+      "longitude": 8.932353
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.859186,
+      "longitude": 12.335244
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.861794,
+      "longitude": 9.836578
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.864926,
+      "longitude": 12.372936
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.872069,
+      "longitude": 12.332662
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.874999,
+      "longitude": 9.843381
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 55.88262,
+      "longitude": 12.35221
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 56.129572,
+      "longitude": 10.161459
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 56.142782,
+      "longitude": 10.186484
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 56.148521,
+      "longitude": 10.204644
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 56.150475,
+      "longitude": 10.205403
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 56.154524,
+      "longitude": 10.134049
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 56.16007,
+      "longitude": 9.506145
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 56.171849,
+      "longitude": 9.495366
+    },
+    {
+      "name": "Pakkeboksen",
+      "latitude": 56.414649,
+      "longitude": 10.887759
+    },
+    {
+      "name": "send & hent",
+      "latitude": 55.701446,
+      "longitude": 12.538521
+    },
+    {
+      "name": "send & hent",
+      "latitude": 55.708474,
+      "longitude": 12.557247
+    }
+  ],
+  "meta": {
+    "title": "Pakkebokse i Danmark – OpenStreetMap (Parcel lockers in Denmark, OSM) - Gratis download",
+    "description": "Liste over 81 pakkebokse i Danmark fra OpenStreetMap (amenity=parcel_locker) — navn og koordinater (WGS84). Indeholder 81 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Pakkebokse i Danmark – OpenStreetMap (Parcel lockers in Denmark, OSM) | ListBase",
+    "seo_description": "Download Pakkebokse i Danmark – OpenStreetMap (Parcel lockers in Denmark, OSM) — 81 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 81 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

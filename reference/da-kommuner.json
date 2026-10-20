@@ -1,0 +1,750 @@
+{
+  "id": "da-kommuner",
+  "name": "Kommuner i Danmark",
+  "title": "Kommuner i Danmark",
+  "description": "98 danske kommuner samt Christiansø (uden for kommunal inddeling, administreret af Forsvarsministeriet — 99 records i alt). KOMKODE pr. DAGI / Indenrigsministeriet, region-tilhørsforhold per Lov om regioner (2007).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 99,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "0101",
+      "name": "København",
+      "slug": "koebenhavn",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0147",
+      "name": "Frederiksberg",
+      "slug": "frederiksberg",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0151",
+      "name": "Ballerup",
+      "slug": "ballerup",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0153",
+      "name": "Brøndby",
+      "slug": "broendby",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0155",
+      "name": "Dragør",
+      "slug": "dragoer",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0157",
+      "name": "Gentofte",
+      "slug": "gentofte",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0159",
+      "name": "Gladsaxe",
+      "slug": "gladsaxe",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0161",
+      "name": "Glostrup",
+      "slug": "glostrup",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0163",
+      "name": "Herlev",
+      "slug": "herlev",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0165",
+      "name": "Albertslund",
+      "slug": "albertslund",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0167",
+      "name": "Hvidovre",
+      "slug": "hvidovre",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0169",
+      "name": "Høje Taastrup",
+      "slug": "hoeje-taastrup",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0173",
+      "name": "Lyngby-Taarbæk",
+      "slug": "lyngby-taarbaek",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0175",
+      "name": "Rødovre",
+      "slug": "roedovre",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0183",
+      "name": "Ishøj",
+      "slug": "ishoej",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0185",
+      "name": "Tårnby",
+      "slug": "taarnby",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0187",
+      "name": "Vallensbæk",
+      "slug": "vallensbaek",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0190",
+      "name": "Furesø",
+      "slug": "furesoe",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0201",
+      "name": "Allerød",
+      "slug": "alleroed",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0210",
+      "name": "Fredensborg",
+      "slug": "fredensborg",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0217",
+      "name": "Helsingør",
+      "slug": "helsingoer",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0219",
+      "name": "Hillerød",
+      "slug": "hilleroed",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0223",
+      "name": "Hørsholm",
+      "slug": "hoersholm",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0230",
+      "name": "Rudersdal",
+      "slug": "rudersdal",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0240",
+      "name": "Egedal",
+      "slug": "egedal",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0250",
+      "name": "Frederikssund",
+      "slug": "frederikssund",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0253",
+      "name": "Greve",
+      "slug": "greve",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0259",
+      "name": "Køge",
+      "slug": "koege",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0260",
+      "name": "Halsnæs",
+      "slug": "halsnaes",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0265",
+      "name": "Roskilde",
+      "slug": "roskilde",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0269",
+      "name": "Solrød",
+      "slug": "solroed",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0270",
+      "name": "Gribskov",
+      "slug": "gribskov",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0306",
+      "name": "Odsherred",
+      "slug": "odsherred",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0316",
+      "name": "Holbæk",
+      "slug": "holbaek",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0320",
+      "name": "Faxe",
+      "slug": "faxe",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0326",
+      "name": "Kalundborg",
+      "slug": "kalundborg",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0329",
+      "name": "Ringsted",
+      "slug": "ringsted",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0330",
+      "name": "Slagelse",
+      "slug": "slagelse",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0336",
+      "name": "Stevns",
+      "slug": "stevns",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0340",
+      "name": "Sorø",
+      "slug": "soroe",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0350",
+      "name": "Lejre",
+      "slug": "lejre",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0360",
+      "name": "Lolland",
+      "slug": "lolland",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0370",
+      "name": "Næstved",
+      "slug": "naestved",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0376",
+      "name": "Guldborgsund",
+      "slug": "guldborgsund",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0390",
+      "name": "Vordingborg",
+      "slug": "vordingborg",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "0400",
+      "name": "Bornholm",
+      "slug": "bornholm",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0410",
+      "name": "Middelfart",
+      "slug": "middelfart",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0411",
+      "name": "Christiansø",
+      "slug": "christiansoe",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden",
+      "note": "Christiansø — administreres af Forsvarsministeriet (uden for kommunal inddeling)."
+    },
+    {
+      "id": "0420",
+      "name": "Assens",
+      "slug": "assens",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0430",
+      "name": "Faaborg-Midtfyn",
+      "slug": "faaborg-midtfyn",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0440",
+      "name": "Kerteminde",
+      "slug": "kerteminde",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0450",
+      "name": "Nyborg",
+      "slug": "nyborg",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0461",
+      "name": "Odense",
+      "slug": "odense",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0479",
+      "name": "Svendborg",
+      "slug": "svendborg",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0480",
+      "name": "Nordfyns",
+      "slug": "nordfyns",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0482",
+      "name": "Langeland",
+      "slug": "langeland",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0492",
+      "name": "Ærø",
+      "slug": "aeroe",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0510",
+      "name": "Haderslev",
+      "slug": "haderslev",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0530",
+      "name": "Billund",
+      "slug": "billund",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0540",
+      "name": "Sønderborg",
+      "slug": "soenderborg",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0550",
+      "name": "Tønder",
+      "slug": "toender",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0561",
+      "name": "Esbjerg",
+      "slug": "esbjerg",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0563",
+      "name": "Fanø",
+      "slug": "fanoe",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0573",
+      "name": "Varde",
+      "slug": "varde",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0575",
+      "name": "Vejen",
+      "slug": "vejen",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0580",
+      "name": "Aabenraa",
+      "slug": "aabenraa",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0607",
+      "name": "Fredericia",
+      "slug": "fredericia",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0615",
+      "name": "Horsens",
+      "slug": "horsens",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0621",
+      "name": "Kolding",
+      "slug": "kolding",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0630",
+      "name": "Vejle",
+      "slug": "vejle",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "0657",
+      "name": "Herning",
+      "slug": "herning",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0661",
+      "name": "Holstebro",
+      "slug": "holstebro",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0665",
+      "name": "Lemvig",
+      "slug": "lemvig",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0671",
+      "name": "Struer",
+      "slug": "struer",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0706",
+      "name": "Syddjurs",
+      "slug": "syddjurs",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0707",
+      "name": "Norddjurs",
+      "slug": "norddjurs",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0710",
+      "name": "Favrskov",
+      "slug": "favrskov",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0727",
+      "name": "Odder",
+      "slug": "odder",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0730",
+      "name": "Randers",
+      "slug": "randers",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0740",
+      "name": "Silkeborg",
+      "slug": "silkeborg",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0741",
+      "name": "Samsø",
+      "slug": "samsoe",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0746",
+      "name": "Skanderborg",
+      "slug": "skanderborg",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0751",
+      "name": "Aarhus",
+      "slug": "aarhus",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0756",
+      "name": "Ikast-Brande",
+      "slug": "ikast-brande",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0760",
+      "name": "Ringkøbing-Skjern",
+      "slug": "ringkoebing-skjern",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0766",
+      "name": "Hedensted",
+      "slug": "hedensted",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0773",
+      "name": "Morsø",
+      "slug": "morsoe",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0779",
+      "name": "Skive",
+      "slug": "skive",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0787",
+      "name": "Thisted",
+      "slug": "thisted",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0791",
+      "name": "Viborg",
+      "slug": "viborg",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0810",
+      "name": "Brønderslev",
+      "slug": "broenderslev",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0813",
+      "name": "Frederikshavn",
+      "slug": "frederikshavn",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0820",
+      "name": "Vesthimmerlands",
+      "slug": "vesthimmerlands",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0825",
+      "name": "Læsø",
+      "slug": "laesoe",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0840",
+      "name": "Rebild",
+      "slug": "rebild",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0846",
+      "name": "Mariagerfjord",
+      "slug": "mariagerfjord",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0849",
+      "name": "Jammerbugt",
+      "slug": "jammerbugt",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0851",
+      "name": "Aalborg",
+      "slug": "aalborg",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0860",
+      "name": "Hjørring",
+      "slug": "hjoerring",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Danmark - Gratis download",
+    "description": "98 danske kommuner samt Christiansø (uden for kommunal inddeling, administreret af Forsvarsministeriet — 99 records i alt). KOMKODE pr. DAGI / Indenrigsministeriet, region-tilhørsforhold per Lov om regioner (2007). Indeholder 99 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Danmark | ListBase",
+    "seo_description": "Download Kommuner i Danmark — 99 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 99 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

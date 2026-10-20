@@ -1,0 +1,232 @@
+{
+  "id": "da-faaborg-midtfyn-afstemningssteder",
+  "name": "Afstemningssteder i Faaborg-Midtfyn Kommune",
+  "title": "Afstemningssteder i Faaborg-Midtfyn Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Faaborg-Midtfyn Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Allested-Vejle",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Brobyværk",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Nørre Broby",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Vester Hæsinge",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Avernakø",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Faaborg Vest",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Faaborg Øst",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Horne",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Korinth",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Lyø",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Svanninge",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Vester Aaby",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Espe",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Hillerslev",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Ringe",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Søllinge",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Gislev",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Kværndrup",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Ryslinge",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Nr. Lyndelse",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Rolfsted",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Årslev",
+      "kommune_kode": 430,
+      "kommune": "Faaborg-Midtfyn",
+      "opstillingskreds_nummer": 48,
+      "opstillingskreds": "Faaborg"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Faaborg-Midtfyn Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Faaborg-Midtfyn Kommune med opstillingskreds. Indeholder 22 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Faaborg-Midtfyn Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Faaborg-Midtfyn Kommune — 22 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 22 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

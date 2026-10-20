@@ -1,0 +1,112 @@
+{
+  "id": "da-ballerup-swift-koder",
+  "name": "SWIFT/BIC-koder — Ballerup",
+  "title": "SWIFT/BIC-koder — Ballerup",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 11 institutioner, som kilden angiver med byen \"BALLERUP\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "BALLERUP",
+      "branch": "",
+      "swift_code": "DABADKKKBAL"
+    },
+    {
+      "bank": "DANSKE FORSIKRING SKADE I A/S",
+      "city": "BALLERUP",
+      "branch": "",
+      "swift_code": "DAFKDK21"
+    },
+    {
+      "bank": "LEO PHARMA A/S",
+      "city": "BALLERUP",
+      "branch": "",
+      "swift_code": "LEPHDK22"
+    },
+    {
+      "bank": "NETS DENMARK A/S",
+      "city": "BALLERUP",
+      "branch": "(TARGET2 INTERFACE)",
+      "swift_code": "PBSEDK21T2I"
+    },
+    {
+      "bank": "NETS DENMARK A/S",
+      "city": "BALLERUP",
+      "branch": "",
+      "swift_code": "PBSEDK21"
+    },
+    {
+      "bank": "SKANDINAVISK DATA CENTER A/S",
+      "city": "BALLERUP",
+      "branch": "",
+      "swift_code": "SDUDDK21"
+    },
+    {
+      "bank": "TOP DANMARK FORSIKRING A/S",
+      "city": "BALLERUP",
+      "branch": "",
+      "swift_code": "TODFDK21"
+    },
+    {
+      "bank": "TOP DANMARK LIVSFORSIKRING A/S",
+      "city": "BALLERUP",
+      "branch": "",
+      "swift_code": "TODLDK21"
+    },
+    {
+      "bank": "TOP DANMARK LIVSFORSIKRING V A/S",
+      "city": "BALLERUP",
+      "branch": "",
+      "swift_code": "TODVDK21"
+    },
+    {
+      "bank": "TOPDANMARK LINK LIVSFORSIKRING A/S",
+      "city": "BALLERUP",
+      "branch": "",
+      "swift_code": "TOLLDK21"
+    },
+    {
+      "bank": "TRYG A/S",
+      "city": "BALLERUP",
+      "branch": "",
+      "swift_code": "TYYGDK21"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Ballerup - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 11 institutioner, som kilden angiver med byen \"BALLERUP\". Indeholder 11 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Ballerup | ListBase",
+    "seo_description": "Download SWIFT/BIC-koder — Ballerup — 11 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 11 poster / 4 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "id": "da-soenderborg-afstemningssteder",
+  "name": "Afstemningssteder i Sønderborg Kommune",
+  "title": "Afstemningssteder i Sønderborg Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Sønderborg Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Nordborg",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Havnbjerg",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Egen",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Fynshav",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Augustenborg",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Hørup",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Sydals",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Kegnæs",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Humlehøj, Sønderborg",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Sønderskov, Sønderborg",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Biblioteket, Sønderborg",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Dybbøl",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Vester Sottrup",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Ullerup",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Broager",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Gråsten",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Kværs",
+      "kommune_kode": 540,
+      "kommune": "Sønderborg",
+      "opstillingskreds_nummer": 49,
+      "opstillingskreds": "Sønderborg"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Sønderborg Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Sønderborg Kommune med opstillingskreds. Indeholder 17 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Sønderborg Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Sønderborg Kommune — 17 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 17 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

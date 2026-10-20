@@ -1,0 +1,3956 @@
+{
+  "id": "da-hoteller",
+  "name": "Hoteller i Danmark – OpenStreetMap (Hotels in Denmark, OSM)",
+  "title": "Hoteller i Danmark – OpenStreetMap (Hotels in Denmark, OSM)",
+  "description": "Liste over 783 hoteller i Danmark fra OpenStreetMap (tourism=hotel) — navn og koordinater (WGS84).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 783,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1 Hotel Copenhagen",
+      "latitude": 55.680857,
+      "longitude": 12.571975
+    },
+    {
+      "name": "25Hours",
+      "latitude": 55.681654,
+      "longitude": 12.577126
+    },
+    {
+      "name": "25hours Hotel Paper Island",
+      "latitude": 55.679315,
+      "longitude": 12.59966
+    },
+    {
+      "name": "71 Nyhavn Hotel",
+      "latitude": 55.67943,
+      "longitude": 12.593753
+    },
+    {
+      "name": "A Hotels",
+      "latitude": 55.66544,
+      "longitude": 12.420247
+    },
+    {
+      "name": "A-Hotels City",
+      "latitude": 55.672385,
+      "longitude": 12.557274
+    },
+    {
+      "name": "Aalborg Airport Hotel",
+      "latitude": 57.085691,
+      "longitude": 9.873987
+    },
+    {
+      "name": "Aamølle Gæstgiveri",
+      "latitude": 56.689658,
+      "longitude": 10.102801
+    },
+    {
+      "name": "Aarhus City Apartments",
+      "latitude": 56.15379,
+      "longitude": 10.2091
+    },
+    {
+      "name": "Aars Hotel",
+      "latitude": 56.803155,
+      "longitude": 9.512749
+    },
+    {
+      "name": "Abild Hotel",
+      "latitude": 54.979625,
+      "longitude": 8.862789
+    },
+    {
+      "name": "Absalon Hotel",
+      "latitude": 55.671664,
+      "longitude": 12.561597
+    },
+    {
+      "name": "AC Hotel Bella Sky Copenhagen",
+      "latitude": 55.639458,
+      "longitude": 12.578283
+    },
+    {
+      "name": "Adina Hotel Copenhagen",
+      "latitude": 55.697991,
+      "longitude": 12.593447
+    },
+    {
+      "name": "Admiral",
+      "latitude": 55.681823,
+      "longitude": 12.593699
+    },
+    {
+      "name": "Agerbæk Hotel",
+      "latitude": 55.600045,
+      "longitude": 8.802839
+    },
+    {
+      "name": "Agerdal Bed & Breakfast",
+      "latitude": 56.803192,
+      "longitude": 8.784206
+    },
+    {
+      "name": "Agersø Kro",
+      "latitude": 55.214176,
+      "longitude": 11.189853
+    },
+    {
+      "name": "Agger Havn Feriecenter",
+      "latitude": 56.779127,
+      "longitude": 8.256916
+    },
+    {
+      "name": "Agger Tange Feriecenter",
+      "latitude": 56.781199,
+      "longitude": 8.232426
+    },
+    {
+      "name": "Aggershøj Pensionat",
+      "latitude": 54.85622,
+      "longitude": 10.508272
+    },
+    {
+      "name": "Aggersvold Hotel og Konference",
+      "latitude": 55.689787,
+      "longitude": 11.428698
+    },
+    {
+      "name": "Aiden",
+      "latitude": 56.15326,
+      "longitude": 8.896021
+    },
+    {
+      "name": "Aiden by Best Western Odense",
+      "latitude": 55.352687,
+      "longitude": 10.423449
+    },
+    {
+      "name": "Aiden Lolland",
+      "latitude": 54.710548,
+      "longitude": 11.482135
+    },
+    {
+      "name": "Allinge Badehotel",
+      "latitude": 55.273921,
+      "longitude": 14.805333
+    },
+    {
+      "name": "Als Kro & Badehotel",
+      "latitude": 56.755054,
+      "longitude": 10.289577
+    },
+    {
+      "name": "Alsik Hotel & Spa",
+      "latitude": 54.914519,
+      "longitude": 9.783184
+    },
+    {
+      "name": "Alte Direktionsvilla",
+      "latitude": 54.837274,
+      "longitude": 9.414214
+    },
+    {
+      "name": "Andersen Hotel",
+      "latitude": 55.671877,
+      "longitude": 12.561113
+    },
+    {
+      "name": "Annex Copenhagen",
+      "latitude": 55.671348,
+      "longitude": 12.561749
+    },
+    {
+      "name": "Ansager Hotel og Hytteby",
+      "latitude": 55.70441,
+      "longitude": 8.75176
+    },
+    {
+      "name": "Ansgar",
+      "latitude": 55.670819,
+      "longitude": 12.563744
+    },
+    {
+      "name": "Aparthotel Bølshavn 9",
+      "latitude": 55.155695,
+      "longitude": 15.071623
+    },
+    {
+      "name": "Apēron Apartment Hotel",
+      "latitude": 55.68231,
+      "longitude": 12.575454
+    },
+    {
+      "name": "Arnager badehotel",
+      "latitude": 55.054059,
+      "longitude": 14.778768
+    },
+    {
+      "name": "Arnbjerg Pavillonen",
+      "latitude": 55.621861,
+      "longitude": 8.486553
+    },
+    {
+      "name": "Arnfeldt Hotel & Restaurant",
+      "latitude": 54.889432,
+      "longitude": 10.41239
+    },
+    {
+      "name": "Ascot Hotel",
+      "latitude": 55.67687,
+      "longitude": 12.56538
+    },
+    {
+      "name": "Asminderød Kro",
+      "latitude": 55.969108,
+      "longitude": 12.40788
+    },
+    {
+      "name": "Astoria",
+      "latitude": 55.673416,
+      "longitude": 12.563134
+    },
+    {
+      "name": "athome apartments",
+      "latitude": 56.194749,
+      "longitude": 10.17917
+    },
+    {
+      "name": "Aura Apartment Hotel",
+      "latitude": 56.159767,
+      "longitude": 10.202947
+    },
+    {
+      "name": "Avernakø Landhotel Restaurant",
+      "latitude": 55.027972,
+      "longitude": 10.259092
+    },
+    {
+      "name": "Axel Guldsmeden",
+      "latitude": 55.672087,
+      "longitude": 12.562026
+    },
+    {
+      "name": "A Place To Hotel Esbjerg",
+      "latitude": 55.479024,
+      "longitude": 8.435281
+    },
+    {
+      "name": "B&B HOTEL Aalborg",
+      "latitude": 57.042156,
+      "longitude": 9.925437
+    },
+    {
+      "name": "B&B Hotel Vejle",
+      "latitude": 55.705929,
+      "longitude": 9.535609
+    },
+    {
+      "name": "Babette Guldsmeden Hotel",
+      "latitude": 55.687471,
+      "longitude": 12.593131
+    },
+    {
+      "name": "Badehotel Bornholm",
+      "latitude": 55.255441,
+      "longitude": 14.814855
+    },
+    {
+      "name": "Badehotel Harmonien",
+      "latitude": 54.889138,
+      "longitude": 10.412789
+    },
+    {
+      "name": "Badehotellet Fanø",
+      "latitude": 55.445873,
+      "longitude": 8.405338
+    },
+    {
+      "name": "Ballebro Færgekro - Hotel",
+      "latitude": 54.998613,
+      "longitude": 9.668389
+    },
+    {
+      "name": "Ballen Badehotel",
+      "latitude": 55.815339,
+      "longitude": 10.636829
+    },
+    {
+      "name": "Ballum Slusekro",
+      "latitude": 55.129145,
+      "longitude": 8.691046
+    },
+    {
+      "name": "Bandholm Badehotel",
+      "latitude": 54.836652,
+      "longitude": 11.485829
+    },
+    {
+      "name": "Banegaardshotellet",
+      "latitude": 55.248098,
+      "longitude": 9.307394
+    },
+    {
+      "name": "Bautahøj",
+      "latitude": 55.911575,
+      "longitude": 11.915561
+    },
+    {
+      "name": "BB-Hotel Aarhus Havnehotellet",
+      "latitude": 56.139294,
+      "longitude": 10.214726
+    },
+    {
+      "name": "BB-Hotel Frederikshavn Turisthotellet",
+      "latitude": 57.435181,
+      "longitude": 10.534979
+    },
+    {
+      "name": "BB-Hotel Herning",
+      "latitude": 56.134136,
+      "longitude": 8.908319
+    },
+    {
+      "name": "BB-Hotel Rønne",
+      "latitude": 55.101252,
+      "longitude": 14.69881
+    },
+    {
+      "name": "BB-Hotel Vejle",
+      "latitude": 55.70903,
+      "longitude": 9.531682
+    },
+    {
+      "name": "Bechs Hotel",
+      "latitude": 55.908471,
+      "longitude": 8.520828
+    },
+    {
+      "name": "Best Western Hotel Schaumburg",
+      "latitude": 56.35999,
+      "longitude": 8.617611
+    },
+    {
+      "name": "Best Western Palads Hotel",
+      "latitude": 56.449819,
+      "longitude": 9.403554
+    },
+    {
+      "name": "Best Western Plus",
+      "latitude": 55.645168,
+      "longitude": 12.637342
+    },
+    {
+      "name": "Best Western Plus Airport Hotel Copenhagen",
+      "latitude": 55.637107,
+      "longitude": 12.642036
+    },
+    {
+      "name": "Best Western Torvehallerne",
+      "latitude": 55.706801,
+      "longitude": 9.533916
+    },
+    {
+      "name": "Billum Kro",
+      "latitude": 55.617431,
+      "longitude": 8.330186
+    },
+    {
+      "name": "Bindslev hotel",
+      "latitude": 57.541796,
+      "longitude": 10.199876
+    },
+    {
+      "name": "Birkelse Hotel & Kro",
+      "latitude": 57.149137,
+      "longitude": 9.681692
+    },
+    {
+      "name": "Bisserup Strand Kro",
+      "latitude": 55.199635,
+      "longitude": 11.493414
+    },
+    {
+      "name": "Bjørnsdal Ferielejlighed og Teltplads",
+      "latitude": 55.33608,
+      "longitude": 9.968588
+    },
+    {
+      "name": "Bob W",
+      "latitude": 55.70749,
+      "longitude": 12.558787
+    },
+    {
+      "name": "Bogensholm Hovedgård",
+      "latitude": 56.20892,
+      "longitude": 10.563616
+    },
+    {
+      "name": "Boutique Hotel Herman K",
+      "latitude": 55.678909,
+      "longitude": 12.582702
+    },
+    {
+      "name": "Boutique Hotel Postgården",
+      "latitude": 55.510454,
+      "longitude": 8.917706
+    },
+    {
+      "name": "Boutique Hotel Royal Århus",
+      "latitude": 56.157456,
+      "longitude": 10.209876
+    },
+    {
+      "name": "Bov Kro",
+      "latitude": 54.841311,
+      "longitude": 9.366611
+    },
+    {
+      "name": "Bowler Inn",
+      "latitude": 54.978558,
+      "longitude": 8.863163
+    },
+    {
+      "name": "Brik Apartment Hotel",
+      "latitude": 55.664656,
+      "longitude": 12.619411
+    },
+    {
+      "name": "Bryggen Guldesmeden Hotels",
+      "latitude": 55.662415,
+      "longitude": 12.579108
+    },
+    {
+      "name": "Brænderiet Limfjorden",
+      "latitude": 56.7081,
+      "longitude": 9.17337
+    },
+    {
+      "name": "Brødremenighedens Hotel",
+      "latitude": 55.355716,
+      "longitude": 9.484012
+    },
+    {
+      "name": "Brøndums Hotel",
+      "latitude": 57.724969,
+      "longitude": 10.598535
+    },
+    {
+      "name": "Bui Hotel Humble",
+      "latitude": 54.826212,
+      "longitude": 10.697579
+    },
+    {
+      "name": "Bygagergaard",
+      "latitude": 54.896073,
+      "longitude": 12.167883
+    },
+    {
+      "name": "Bymose Hegn Hotel og Kursuscenter",
+      "latitude": 56.017272,
+      "longitude": 12.207094
+    },
+    {
+      "name": "Byskrivergården",
+      "latitude": 55.273998,
+      "longitude": 14.805545
+    },
+    {
+      "name": "Cab-Inn",
+      "latitude": 55.679562,
+      "longitude": 12.550399
+    },
+    {
+      "name": "Cab-Inn Scandinavia",
+      "latitude": 55.680815,
+      "longitude": 12.555523
+    },
+    {
+      "name": "Cabinn",
+      "latitude": 57.048242,
+      "longitude": 9.926391
+    },
+    {
+      "name": "Cabinn Aarhus",
+      "latitude": 56.155853,
+      "longitude": 10.210368
+    },
+    {
+      "name": "Cabinn Apartments",
+      "latitude": 55.630933,
+      "longitude": 12.573824
+    },
+    {
+      "name": "Cabinn City",
+      "latitude": 55.670591,
+      "longitude": 12.5708
+    },
+    {
+      "name": "Cabinn Hotel",
+      "latitude": 55.665424,
+      "longitude": 12.564557
+    },
+    {
+      "name": "Cabinn Metro",
+      "latitude": 55.631057,
+      "longitude": 12.572801
+    },
+    {
+      "name": "Cabinn Odense",
+      "latitude": 55.401246,
+      "longitude": 10.389083
+    },
+    {
+      "name": "CABINN Plus",
+      "latitude": 55.467818,
+      "longitude": 8.452657
+    },
+    {
+      "name": "Carlsens Hotel",
+      "latitude": 57.29477,
+      "longitude": 10.924318
+    },
+    {
+      "name": "Carlton Guldsmeden",
+      "latitude": 55.672976,
+      "longitude": 12.55255
+    },
+    {
+      "name": "Central Hotel",
+      "latitude": 55.059895,
+      "longitude": 8.950808
+    },
+    {
+      "name": "Centralhotellet",
+      "latitude": 55.456627,
+      "longitude": 12.180057
+    },
+    {
+      "name": "Charlottehaven Hotellejligheder",
+      "latitude": 55.70537,
+      "longitude": 12.588524
+    },
+    {
+      "name": "Christie`s",
+      "latitude": 54.986419,
+      "longitude": 9.449784
+    },
+    {
+      "name": "CitizenM Rådhuspladsen",
+      "latitude": 55.676601,
+      "longitude": 12.566396
+    },
+    {
+      "name": "City Hotel Nattergalen",
+      "latitude": 55.399216,
+      "longitude": 10.394197
+    },
+    {
+      "name": "City Hotel Nebo",
+      "latitude": 55.672305,
+      "longitude": 12.562776
+    },
+    {
+      "name": "Clarion Hotel Copenhagen Airport",
+      "latitude": 55.630478,
+      "longitude": 12.650884
+    },
+    {
+      "name": "Coco Hotel",
+      "latitude": 55.67239,
+      "longitude": 12.556593
+    },
+    {
+      "name": "Color Hotel Skagen A/S",
+      "latitude": 57.723194,
+      "longitude": 10.556483
+    },
+    {
+      "name": "Comfort Hotel Atlantic",
+      "latitude": 56.152809,
+      "longitude": 10.212188
+    },
+    {
+      "name": "Comfort Hotel Copenhagen Airport",
+      "latitude": 55.630628,
+      "longitude": 12.652526
+    },
+    {
+      "name": "Comfort Hotel Copenhavn Airport",
+      "latitude": 55.630276,
+      "longitude": 12.652605
+    },
+    {
+      "name": "Comfort Hotel Esplanaden",
+      "latitude": 55.687326,
+      "longitude": 12.593234
+    },
+    {
+      "name": "Comfort Hotel Excelsior",
+      "latitude": 55.672609,
+      "longitude": 12.561692
+    },
+    {
+      "name": "Comfort Hotel Vesterbro",
+      "latitude": 55.672863,
+      "longitude": 12.559136
+    },
+    {
+      "name": "Comwell Aarhus",
+      "latitude": 56.150352,
+      "longitude": 10.209217
+    },
+    {
+      "name": "Comwell Aarhus",
+      "latitude": 56.150428,
+      "longitude": 10.208068
+    },
+    {
+      "name": "Comwell Borupgaard",
+      "latitude": 56.011518,
+      "longitude": 12.581748
+    },
+    {
+      "name": "Comwell Bygholm Park",
+      "latitude": 55.864838,
+      "longitude": 9.826275
+    },
+    {
+      "name": "Comwell Grand Park",
+      "latitude": 55.346524,
+      "longitude": 11.142864
+    },
+    {
+      "name": "Comwell H.C. Andersen Odense",
+      "latitude": 55.398999,
+      "longitude": 10.392779
+    },
+    {
+      "name": "Comwell Holte",
+      "latitude": 55.829828,
+      "longitude": 12.457515
+    },
+    {
+      "name": "Comwell Hotel Kolding",
+      "latitude": 55.497837,
+      "longitude": 9.483787
+    },
+    {
+      "name": "Comwell Kellers Park",
+      "latitude": 55.671044,
+      "longitude": 9.683502
+    },
+    {
+      "name": "Comwell Klarskovgaard",
+      "latitude": 55.306453,
+      "longitude": 11.182366
+    },
+    {
+      "name": "Comwell Klarskovgård",
+      "latitude": 55.308167,
+      "longitude": 11.183009
+    },
+    {
+      "name": "Comwell Kongebrogaarden",
+      "latitude": 55.511863,
+      "longitude": 9.709791
+    },
+    {
+      "name": "Comwell Køge Strand",
+      "latitude": 55.447507,
+      "longitude": 12.191845
+    },
+    {
+      "name": "Comwell Middelfart",
+      "latitude": 55.5104,
+      "longitude": 9.765281
+    },
+    {
+      "name": "Comwell Rebild Bakker",
+      "latitude": 56.834264,
+      "longitude": 9.844838
+    },
+    {
+      "name": "Comwell Roskilde",
+      "latitude": 55.665226,
+      "longitude": 12.094358
+    },
+    {
+      "name": "Copenhagen Island",
+      "latitude": 55.663368,
+      "longitude": 12.563268
+    },
+    {
+      "name": "Copenhagen Marriott Hotel",
+      "latitude": 55.668657,
+      "longitude": 12.573856
+    },
+    {
+      "name": "Copenhagen Plaza",
+      "latitude": 55.673849,
+      "longitude": 12.564591
+    },
+    {
+      "name": "Copenhagen Portside",
+      "latitude": 55.712969,
+      "longitude": 12.593558
+    },
+    {
+      "name": "Copenhagen Strand",
+      "latitude": 55.67723,
+      "longitude": 12.590152
+    },
+    {
+      "name": "Cottage Farm",
+      "latitude": 55.601987,
+      "longitude": 12.64699
+    },
+    {
+      "name": "CPH Hotel",
+      "latitude": 55.668915,
+      "longitude": 12.564089
+    },
+    {
+      "name": "CPH Living",
+      "latitude": 55.670182,
+      "longitude": 12.580065
+    },
+    {
+      "name": "CPH Studio Hotel",
+      "latitude": 55.658723,
+      "longitude": 12.631501
+    },
+    {
+      "name": "Crowne Plaza Copenhagen Towers",
+      "latitude": 55.626945,
+      "longitude": 12.577179
+    },
+    {
+      "name": "Dalby Hotel",
+      "latitude": 55.307773,
+      "longitude": 12.049785
+    },
+    {
+      "name": "Dalgas",
+      "latitude": 55.944969,
+      "longitude": 9.123963
+    },
+    {
+      "name": "Dancenter Hasle Marina",
+      "latitude": 55.189378,
+      "longitude": 14.7032
+    },
+    {
+      "name": "Daniel & Jacob's apartments",
+      "latitude": 56.171873,
+      "longitude": 10.195499
+    },
+    {
+      "name": "Danland",
+      "latitude": 55.434164,
+      "longitude": 8.364898
+    },
+    {
+      "name": "Danland Faaborg",
+      "latitude": 55.088025,
+      "longitude": 10.256619
+    },
+    {
+      "name": "Danland Vedersø",
+      "latitude": 56.256914,
+      "longitude": 8.138947
+    },
+    {
+      "name": "De 7 Smil - Bogense Hotel",
+      "latitude": 55.565251,
+      "longitude": 10.090531
+    },
+    {
+      "name": "Den gamle Grænsekro",
+      "latitude": 55.380231,
+      "longitude": 9.48014
+    },
+    {
+      "name": "Den Gamle Kro",
+      "latitude": 54.92211,
+      "longitude": 9.59517
+    },
+    {
+      "name": "Det Gamle Bageri",
+      "latitude": 55.814324,
+      "longitude": 10.603678
+    },
+    {
+      "name": "Det gamle hotel",
+      "latitude": 54.93757,
+      "longitude": 10.707291
+    },
+    {
+      "name": "Det Gamle Rådhus",
+      "latitude": 54.921799,
+      "longitude": 9.594538
+    },
+    {
+      "name": "Det Lille Hotel",
+      "latitude": 55.101468,
+      "longitude": 14.70051
+    },
+    {
+      "name": "DGI-byens Hotel",
+      "latitude": 55.668914,
+      "longitude": 12.564094
+    },
+    {
+      "name": "Diagonalkroen",
+      "latitude": 55.845243,
+      "longitude": 9.237486
+    },
+    {
+      "name": "Djurs Housing",
+      "latitude": 56.368768,
+      "longitude": 10.745495
+    },
+    {
+      "name": "Dolphin Hotel Herning",
+      "latitude": 56.134987,
+      "longitude": 9.009734
+    },
+    {
+      "name": "Dragør Badehotel",
+      "latitude": 55.590216,
+      "longitude": 12.673373
+    },
+    {
+      "name": "Dragør Hotel & Apartments",
+      "latitude": 55.59408,
+      "longitude": 12.674239
+    },
+    {
+      "name": "Dronningens Ferieby",
+      "latitude": 56.396431,
+      "longitude": 10.918108
+    },
+    {
+      "name": "Dronninglund Hotel",
+      "latitude": 57.159167,
+      "longitude": 10.292195
+    },
+    {
+      "name": "Dueodde Badehotel",
+      "latitude": 54.993571,
+      "longitude": 15.079891
+    },
+    {
+      "name": "Dybvad Kro",
+      "latitude": 57.2744,
+      "longitude": 10.359738
+    },
+    {
+      "name": "Dyvig Badehotel",
+      "latitude": 55.044963,
+      "longitude": 9.704266
+    },
+    {
+      "name": "Easy Stay",
+      "latitude": 55.256926,
+      "longitude": 11.997355
+    },
+    {
+      "name": "Ebsens Hotel",
+      "latitude": 54.775169,
+      "longitude": 11.496884
+    },
+    {
+      "name": "Egtved Kro",
+      "latitude": 55.615297,
+      "longitude": 9.305848
+    },
+    {
+      "name": "Enjoy Resorts Rømø",
+      "latitude": 55.085348,
+      "longitude": 8.551738
+    },
+    {
+      "name": "Eric Vökel Boutique Apartments",
+      "latitude": 55.67094,
+      "longitude": 12.563612
+    },
+    {
+      "name": "Factory Lodge",
+      "latitude": 54.71206,
+      "longitude": 11.481724
+    },
+    {
+      "name": "Fakkelgården",
+      "latitude": 54.842242,
+      "longitude": 9.465347
+    },
+    {
+      "name": "Falsled Kro",
+      "latitude": 55.152927,
+      "longitude": 10.147892
+    },
+    {
+      "name": "Fangel Kro & Hotel",
+      "latitude": 55.316866,
+      "longitude": 10.315821
+    },
+    {
+      "name": "Fanø Krogaard",
+      "latitude": 55.447939,
+      "longitude": 8.40652
+    },
+    {
+      "name": "Farum Park Sports & Konferencecenter",
+      "latitude": 55.815832,
+      "longitude": 12.351553
+    },
+    {
+      "name": "Ferdinand",
+      "latitude": 56.15511,
+      "longitude": 10.210603
+    },
+    {
+      "name": "Filskov Kro",
+      "latitude": 55.810538,
+      "longitude": 9.03663
+    },
+    {
+      "name": "First Hotel Grand",
+      "latitude": 55.39706,
+      "longitude": 10.384528
+    },
+    {
+      "name": "Fjelsted Skov Hotel",
+      "latitude": 55.444394,
+      "longitude": 9.987752
+    },
+    {
+      "name": "Flinch's Hotel",
+      "latitude": 55.833219,
+      "longitude": 10.592251
+    },
+    {
+      "name": "Foldens Hotel",
+      "latitude": 57.723067,
+      "longitude": 10.59167
+    },
+    {
+      "name": "Folkehjem",
+      "latitude": 55.050711,
+      "longitude": 9.420949
+    },
+    {
+      "name": "Forenom Aparthotel",
+      "latitude": 55.467007,
+      "longitude": 8.452928
+    },
+    {
+      "name": "Four Points Flex",
+      "latitude": 55.614035,
+      "longitude": 12.35601
+    },
+    {
+      "name": "Four Points Flex",
+      "latitude": 56.129358,
+      "longitude": 10.16189
+    },
+    {
+      "name": "Four Points Flex by Sheraton",
+      "latitude": 55.452142,
+      "longitude": 12.185231
+    },
+    {
+      "name": "Four Points Flex by Sheraton Aarhus Skejby",
+      "latitude": 56.195908,
+      "longitude": 10.174523
+    },
+    {
+      "name": "Four Points Flex by Sheraton Copenhagen Airport",
+      "latitude": 55.622774,
+      "longitude": 12.615579
+    },
+    {
+      "name": "Four Points Flex by Sheraton Copenhagen Arena",
+      "latitude": 55.625586,
+      "longitude": 12.577203
+    },
+    {
+      "name": "Four Points Flex by Sheraton Copenhagen City",
+      "latitude": 55.671563,
+      "longitude": 12.561221
+    },
+    {
+      "name": "Four Points Flex by Sheraton Horsens",
+      "latitude": 55.846579,
+      "longitude": 9.735682
+    },
+    {
+      "name": "Four Points Flex by Sheraton Roskilde",
+      "latitude": 55.641259,
+      "longitude": 12.083446
+    },
+    {
+      "name": "Fredensborg Badehotel",
+      "latitude": 55.082274,
+      "longitude": 14.714273
+    },
+    {
+      "name": "Frederik VIs Hotel",
+      "latitude": 55.421717,
+      "longitude": 10.25746
+    },
+    {
+      "name": "Frederiks Kro",
+      "latitude": 56.339251,
+      "longitude": 9.252741
+    },
+    {
+      "name": "Frederiksberg",
+      "latitude": 54.837404,
+      "longitude": 10.73115
+    },
+    {
+      "name": "Frederikshavn Sømandshjem",
+      "latitude": 57.439386,
+      "longitude": 10.537504
+    },
+    {
+      "name": "Frifelt Kro",
+      "latitude": 55.21497,
+      "longitude": 8.828353
+    },
+    {
+      "name": "Friheden",
+      "latitude": 55.255632,
+      "longitude": 14.818367
+    },
+    {
+      "name": "Frosch's Hotel",
+      "latitude": 55.191485,
+      "longitude": 9.064549
+    },
+    {
+      "name": "Fru Larsen",
+      "latitude": 56.358655,
+      "longitude": 9.913396
+    },
+    {
+      "name": "Fuglsøcentret",
+      "latitude": 56.185076,
+      "longitude": 10.53116
+    },
+    {
+      "name": "Fur Færgekro",
+      "latitude": 56.804569,
+      "longitude": 9.020529
+    },
+    {
+      "name": "Gaardhotellet",
+      "latitude": 55.668857,
+      "longitude": 11.15522
+    },
+    {
+      "name": "Garni Hotel",
+      "latitude": 55.68265,
+      "longitude": 9.1039
+    },
+    {
+      "name": "Gentofte Hotel",
+      "latitude": 55.748317,
+      "longitude": 12.541928
+    },
+    {
+      "name": "Gjern Hotel",
+      "latitude": 56.230004,
+      "longitude": 9.739074
+    },
+    {
+      "name": "Gjerrild Kro",
+      "latitude": 56.501119,
+      "longitude": 10.829733
+    },
+    {
+      "name": "Gl. Avernæs - Sinatur Hotel & Konference",
+      "latitude": 55.196401,
+      "longitude": 9.99212
+    },
+    {
+      "name": "Gl. Skovridergaard",
+      "latitude": 56.156612,
+      "longitude": 9.557134
+    },
+    {
+      "name": "GlamsBjergHus",
+      "latitude": 55.27854,
+      "longitude": 10.10525
+    },
+    {
+      "name": "Glostrup Park Hotel",
+      "latitude": 55.666534,
+      "longitude": 12.409851
+    },
+    {
+      "name": "Go Hotel City",
+      "latitude": 55.664167,
+      "longitude": 12.624694
+    },
+    {
+      "name": "Go Hotel Copenhagen",
+      "latitude": 55.628499,
+      "longitude": 12.604755
+    },
+    {
+      "name": "Go Hotel Saga",
+      "latitude": 55.671577,
+      "longitude": 12.56245
+    },
+    {
+      "name": "Golf Hotel",
+      "latitude": 56.449488,
+      "longitude": 9.417949
+    },
+    {
+      "name": "Good Morning City Copenhagen Star",
+      "latitude": 55.671904,
+      "longitude": 12.562543
+    },
+    {
+      "name": "Gram Slotskro",
+      "latitude": 55.294831,
+      "longitude": 9.055458
+    },
+    {
+      "name": "Grand Hotel",
+      "latitude": 55.673516,
+      "longitude": 12.562451
+    },
+    {
+      "name": "Grand Hotel Struer",
+      "latitude": 56.491604,
+      "longitude": 8.595834
+    },
+    {
+      "name": "Gredstedbro Hotel",
+      "latitude": 55.396715,
+      "longitude": 8.743291
+    },
+    {
+      "name": "Green Solution House",
+      "latitude": 55.085261,
+      "longitude": 14.710736
+    },
+    {
+      "name": "Grenaa Havlund",
+      "latitude": 56.398726,
+      "longitude": 10.916486
+    },
+    {
+      "name": "Grenaa Strand",
+      "latitude": 56.408339,
+      "longitude": 10.919228
+    },
+    {
+      "name": "Griffen Hotel & Wellness",
+      "latitude": 55.10689,
+      "longitude": 14.700251
+    },
+    {
+      "name": "Grønbechs Hotel",
+      "latitude": 55.277843,
+      "longitude": 14.801352
+    },
+    {
+      "name": "Grønhøj Strand Feriecenter",
+      "latitude": 57.33145,
+      "longitude": 9.6791
+    },
+    {
+      "name": "Gudhjem Hotel",
+      "latitude": 55.211496,
+      "longitude": 14.970556
+    },
+    {
+      "name": "GUESTapart/aarhus",
+      "latitude": 56.194682,
+      "longitude": 10.175097
+    },
+    {
+      "name": "Guldsmeden København",
+      "latitude": 55.672722,
+      "longitude": 12.552416
+    },
+    {
+      "name": "Gultentorp Bed & Breakfast",
+      "latitude": 56.978822,
+      "longitude": 9.940081
+    },
+    {
+      "name": "Gæstehuset",
+      "latitude": 55.802575,
+      "longitude": 8.492565
+    },
+    {
+      "name": "Hages Badehotel",
+      "latitude": 54.661312,
+      "longitude": 11.340598
+    },
+    {
+      "name": "Hals Hotel",
+      "latitude": 56.997368,
+      "longitude": 10.309895
+    },
+    {
+      "name": "Harbour Inn",
+      "latitude": 57.118656,
+      "longitude": 8.598493
+    },
+    {
+      "name": "Harbour Inn Hundested",
+      "latitude": 55.963423,
+      "longitude": 11.849224
+    },
+    {
+      "name": "Harresø Kro",
+      "latitude": 55.799564,
+      "longitude": 9.373652
+    },
+    {
+      "name": "Hasle Feriepark",
+      "latitude": 55.176506,
+      "longitude": 14.711643
+    },
+    {
+      "name": "Hasle Marina",
+      "latitude": 55.188773,
+      "longitude": 14.703852
+    },
+    {
+      "name": "Havgården",
+      "latitude": 56.079514,
+      "longitude": 12.119589
+    },
+    {
+      "name": "Havnebakken Badehotel",
+      "latitude": 57.295179,
+      "longitude": 10.924775
+    },
+    {
+      "name": "Hedemarken",
+      "latitude": 55.752726,
+      "longitude": 8.95805
+    },
+    {
+      "name": "Helenekilde Badehotel",
+      "latitude": 56.063763,
+      "longitude": 12.078256
+    },
+    {
+      "name": "Helle Aktivitetshotel",
+      "latitude": 55.615062,
+      "longitude": 8.728029
+    },
+    {
+      "name": "Hellerup Park Hotel",
+      "latitude": 55.73742,
+      "longitude": 12.575259
+    },
+    {
+      "name": "Helnan Marselis hotel",
+      "latitude": 56.126418,
+      "longitude": 10.21507
+    },
+    {
+      "name": "Henne Kirkeby Kro Room",
+      "latitude": 55.727181,
+      "longitude": 8.24282
+    },
+    {
+      "name": "Henne Mølleå Badehotel",
+      "latitude": 55.720573,
+      "longitude": 8.171121
+    },
+    {
+      "name": "Herlev Kro",
+      "latitude": 55.723904,
+      "longitude": 12.438989
+    },
+    {
+      "name": "Herlev Kro og Hotel",
+      "latitude": 55.723746,
+      "longitude": 12.438726
+    },
+    {
+      "name": "Herman Bang",
+      "latitude": 57.440025,
+      "longitude": 10.535364
+    },
+    {
+      "name": "Herning City Hotel",
+      "latitude": 56.136485,
+      "longitude": 8.972286
+    },
+    {
+      "name": "Hindsgavl Slot",
+      "latitude": 55.504998,
+      "longitude": 9.689365
+    },
+    {
+      "name": "Hjallerup Kro",
+      "latitude": 57.168802,
+      "longitude": 10.14615
+    },
+    {
+      "name": "Hjerting Badehotel",
+      "latitude": 55.523314,
+      "longitude": 8.353899
+    },
+    {
+      "name": "Hjorts Badehotel",
+      "latitude": 57.65987,
+      "longitude": 10.38984
+    },
+    {
+      "name": "Hjørring Kro",
+      "latitude": 57.434234,
+      "longitude": 9.996415
+    },
+    {
+      "name": "Horisont Hotel & Konference",
+      "latitude": 56.20184,
+      "longitude": 10.154029
+    },
+    {
+      "name": "Hornbækhus",
+      "latitude": 56.090093,
+      "longitude": 12.451579
+    },
+    {
+      "name": "Hornstrup Kursuscenter",
+      "latitude": 55.742992,
+      "longitude": 9.561084
+    },
+    {
+      "name": "Hotel & Brasserie På Torvet",
+      "latitude": 54.888202,
+      "longitude": 10.411432
+    },
+    {
+      "name": "Hotel & Restaurant Fortunen",
+      "latitude": 55.775078,
+      "longitude": 12.544552
+    },
+    {
+      "name": "Hotel & Restaurant Josty",
+      "latitude": 55.673786,
+      "longitude": 12.529972
+    },
+    {
+      "name": "Hotel 6400",
+      "latitude": 54.901724,
+      "longitude": 9.813204
+    },
+    {
+      "name": "Hotel 9 små hjem",
+      "latitude": 55.697231,
+      "longitude": 12.584464
+    },
+    {
+      "name": "Hotel Aabenraa",
+      "latitude": 55.047594,
+      "longitude": 9.415993
+    },
+    {
+      "name": "Hotel Aahøj",
+      "latitude": 57.33492,
+      "longitude": 10.514741
+    },
+    {
+      "name": "Hotel Aarup Kro",
+      "latitude": 55.38194,
+      "longitude": 10.04989
+    },
+    {
+      "name": "Hotel Alexandra",
+      "latitude": 55.67701,
+      "longitude": 12.56607
+    },
+    {
+      "name": "Hotel Allinge",
+      "latitude": 55.275078,
+      "longitude": 14.802202
+    },
+    {
+      "name": "Hotel Amager",
+      "latitude": 55.665704,
+      "longitude": 12.599445
+    },
+    {
+      "name": "Hotel Amerika",
+      "latitude": 56.634358,
+      "longitude": 9.836477
+    },
+    {
+      "name": "Hotel Ansgar",
+      "latitude": 55.399666,
+      "longitude": 10.381676
+    },
+    {
+      "name": "Hotel Ansgar",
+      "latitude": 55.466792,
+      "longitude": 8.450897
+    },
+    {
+      "name": "Hotel Arnkilhus",
+      "latitude": 54.914878,
+      "longitude": 9.789474
+    },
+    {
+      "name": "Hotel Aulum Kro",
+      "latitude": 56.265943,
+      "longitude": 8.788974
+    },
+    {
+      "name": "Hotel B",
+      "latitude": 55.844571,
+      "longitude": 12.433956
+    },
+    {
+      "name": "Hotel Balka Strand",
+      "latitude": 55.040677,
+      "longitude": 15.106483
+    },
+    {
+      "name": "Hotel Baltic",
+      "latitude": 54.907975,
+      "longitude": 9.88923
+    },
+    {
+      "name": "Hotel Bella Grande",
+      "latitude": 55.677512,
+      "longitude": 12.567678
+    },
+    {
+      "name": "Hotel Bethel",
+      "latitude": 55.67941,
+      "longitude": 12.590984
+    },
+    {
+      "name": "Hotel Birksø",
+      "latitude": 56.092483,
+      "longitude": 9.757275
+    },
+    {
+      "name": "Hotel Blommes Place",
+      "latitude": 55.024912,
+      "longitude": 15.104566
+    },
+    {
+      "name": "Hotel BramslevGaard",
+      "latitude": 56.657998,
+      "longitude": 9.860083
+    },
+    {
+      "name": "Hotel Bretagne",
+      "latitude": 56.08738,
+      "longitude": 12.45795
+    },
+    {
+      "name": "Hotel Britannia",
+      "latitude": 55.467434,
+      "longitude": 8.451202
+    },
+    {
+      "name": "Hotel Cabinn",
+      "latitude": 55.466362,
+      "longitude": 8.455064
+    },
+    {
+      "name": "Hotel Cabinn",
+      "latitude": 55.70514,
+      "longitude": 9.533198
+    },
+    {
+      "name": "Hotel Christiansminde",
+      "latitude": 55.060346,
+      "longitude": 10.635813
+    },
+    {
+      "name": "Hotel City",
+      "latitude": 55.677353,
+      "longitude": 12.588981
+    },
+    {
+      "name": "Hotel City",
+      "latitude": 56.362191,
+      "longitude": 8.613124
+    },
+    {
+      "name": "Hotel Copenhagen",
+      "latitude": 55.665231,
+      "longitude": 12.580753
+    },
+    {
+      "name": "Hotel Dagmar",
+      "latitude": 55.328379,
+      "longitude": 8.762745
+    },
+    {
+      "name": "Hotel Damgaarden",
+      "latitude": 54.888727,
+      "longitude": 10.364962
+    },
+    {
+      "name": "Hotel Dania",
+      "latitude": 56.169602,
+      "longitude": 9.549424
+    },
+    {
+      "name": "Hotel Danmark",
+      "latitude": 55.674735,
+      "longitude": 12.573076
+    },
+    {
+      "name": "Hotel de Ville",
+      "latitude": 56.125686,
+      "longitude": 12.296965
+    },
+    {
+      "name": "Hotel Det Gamle Posthus",
+      "latitude": 55.100335,
+      "longitude": 14.700946
+    },
+    {
+      "name": "Hotel DGI Huset Herning",
+      "latitude": 56.136897,
+      "longitude": 8.979556
+    },
+    {
+      "name": "Hotel Du Nord",
+      "latitude": 55.672073,
+      "longitude": 12.56196
+    },
+    {
+      "name": "Hotel du Vest",
+      "latitude": 55.92232,
+      "longitude": 11.665994
+    },
+    {
+      "name": "Hotel d’Angleterre",
+      "latitude": 55.680469,
+      "longitude": 12.58413
+    },
+    {
+      "name": "Hotel E4",
+      "latitude": 54.721267,
+      "longitude": 11.431419
+    },
+    {
+      "name": "Hotel Euroglobe",
+      "latitude": 55.678457,
+      "longitude": 12.549756
+    },
+    {
+      "name": "Hotel Europa",
+      "latitude": 55.04689,
+      "longitude": 9.419738
+    },
+    {
+      "name": "Hotel Eyde",
+      "latitude": 56.136163,
+      "longitude": 8.975518
+    },
+    {
+      "name": "Hotel Faaborg",
+      "latitude": 55.094905,
+      "longitude": 10.24189
+    },
+    {
+      "name": "Hotel Faaborg Fjord",
+      "latitude": 55.085594,
+      "longitude": 10.274673
+    },
+    {
+      "name": "Hotel Faber",
+      "latitude": 56.151931,
+      "longitude": 10.195908
+    },
+    {
+      "name": "Hotel Falken",
+      "latitude": 56.090295,
+      "longitude": 8.614224
+    },
+    {
+      "name": "Hotel Falster",
+      "latitude": 54.778478,
+      "longitude": 11.880423
+    },
+    {
+      "name": "Hotel Fanø Havn",
+      "latitude": 55.453912,
+      "longitude": 8.399213
+    },
+    {
+      "name": "Hotel FC Nordsjælland",
+      "latitude": 55.816166,
+      "longitude": 12.351519
+    },
+    {
+      "name": "Hotel Fjordgården",
+      "latitude": 56.095725,
+      "longitude": 8.236826
+    },
+    {
+      "name": "Hotel Fredericia",
+      "latitude": 55.576082,
+      "longitude": 9.727355
+    },
+    {
+      "name": "Hotel Frederiksminde",
+      "latitude": 55.124299,
+      "longitude": 12.04883
+    },
+    {
+      "name": "Hotel Frederiksværk",
+      "latitude": 55.972176,
+      "longitude": 12.023469
+    },
+    {
+      "name": "Hotel Fyrklit",
+      "latitude": 57.580471,
+      "longitude": 9.937142
+    },
+    {
+      "name": "Hotel Fårup sommerland",
+      "latitude": 57.269802,
+      "longitude": 9.643634
+    },
+    {
+      "name": "Hotel Færgegaarden",
+      "latitude": 54.995861,
+      "longitude": 12.167573
+    },
+    {
+      "name": "Hotel Færgegaarden",
+      "latitude": 55.094109,
+      "longitude": 10.244247
+    },
+    {
+      "name": "Hotel Gammel Havn",
+      "latitude": 55.56184,
+      "longitude": 9.756376
+    },
+    {
+      "name": "Hotel Garni",
+      "latitude": 55.060695,
+      "longitude": 10.612033
+    },
+    {
+      "name": "Hotel Gedser Krostue",
+      "latitude": 54.576042,
+      "longitude": 11.929662
+    },
+    {
+      "name": "Hotel Gestus",
+      "latitude": 57.046858,
+      "longitude": 9.91462
+    },
+    {
+      "name": "Hotel gilleleje strand",
+      "latitude": 56.125914,
+      "longitude": 12.305476
+    },
+    {
+      "name": "Hotel Gudenaa",
+      "latitude": 55.85229,
+      "longitude": 9.472381
+    },
+    {
+      "name": "Hotel Guldsmeden",
+      "latitude": 56.16002,
+      "longitude": 10.20791
+    },
+    {
+      "name": "Hotel Hamlet",
+      "latitude": 56.033976,
+      "longitude": 12.612991
+    },
+    {
+      "name": "Hotel Hammersø",
+      "latitude": 55.284156,
+      "longitude": 14.769753
+    },
+    {
+      "name": "Hotel Hans",
+      "latitude": 55.684789,
+      "longitude": 12.55257
+    },
+    {
+      "name": "Hotel Harmonien",
+      "latitude": 54.829173,
+      "longitude": 11.139916
+    },
+    {
+      "name": "Hotel Harmonien",
+      "latitude": 55.252461,
+      "longitude": 9.485182
+    },
+    {
+      "name": "Hotel Havbadet",
+      "latitude": 56.958325,
+      "longitude": 8.366263
+    },
+    {
+      "name": "Hotel Hedegården",
+      "latitude": 55.72309,
+      "longitude": 9.569526
+    },
+    {
+      "name": "Hotel Herman Bang",
+      "latitude": 57.440148,
+      "longitude": 10.53517
+    },
+    {
+      "name": "Hotel Herning",
+      "latitude": 56.119183,
+      "longitude": 8.949027
+    },
+    {
+      "name": "Hotel Hesselet",
+      "latitude": 55.320034,
+      "longitude": 10.810422
+    },
+    {
+      "name": "Hotel Hirtshals",
+      "latitude": 57.591257,
+      "longitude": 9.957352
+    },
+    {
+      "name": "Hotel Hjedding",
+      "latitude": 55.808253,
+      "longitude": 8.620335
+    },
+    {
+      "name": "Hotel Homeland",
+      "latitude": 56.153759,
+      "longitude": 8.868207
+    },
+    {
+      "name": "Hotel Hundested",
+      "latitude": 55.964784,
+      "longitude": 11.849521
+    },
+    {
+      "name": "Hotel Hvide Kro",
+      "latitude": 56.694627,
+      "longitude": 9.494963
+    },
+    {
+      "name": "Hotel Hvideklit",
+      "latitude": 57.623249,
+      "longitude": 10.43058
+    },
+    {
+      "name": "Hotel Hørby Færgekro",
+      "latitude": 55.735051,
+      "longitude": 11.703938
+    },
+    {
+      "name": "Hotel Jernbanegade",
+      "latitude": 56.032713,
+      "longitude": 8.852106
+    },
+    {
+      "name": "Hotel Jomfru Ane",
+      "latitude": 57.049594,
+      "longitude": 9.918417
+    },
+    {
+      "name": "Hotel Juelsminde Strand",
+      "latitude": 55.714298,
+      "longitude": 9.999732
+    },
+    {
+      "name": "Hotel Jutlandia",
+      "latitude": 57.436978,
+      "longitude": 10.536696
+    },
+    {
+      "name": "Hotel Karup",
+      "latitude": 56.309536,
+      "longitude": 9.166797
+    },
+    {
+      "name": "Hotel Kirstine",
+      "latitude": 55.228692,
+      "longitude": 11.759119
+    },
+    {
+      "name": "Hotel Klippen",
+      "latitude": 55.211289,
+      "longitude": 14.97342
+    },
+    {
+      "name": "Hotel Klitheden",
+      "latitude": 56.955071,
+      "longitude": 8.368831
+    },
+    {
+      "name": "Hotel Klostergaarden",
+      "latitude": 55.276118,
+      "longitude": 14.804028
+    },
+    {
+      "name": "Hotel Kolding",
+      "latitude": 55.491341,
+      "longitude": 9.480686
+    },
+    {
+      "name": "Hotel Koldingfjord",
+      "latitude": 55.498421,
+      "longitude": 9.555386
+    },
+    {
+      "name": "Hotel Kommandørgården",
+      "latitude": 55.099341,
+      "longitude": 8.543524
+    },
+    {
+      "name": "Hotel Kong Valdemar - Vordingborg",
+      "latitude": 55.008294,
+      "longitude": 11.911306
+    },
+    {
+      "name": "Hotel Kronjylland",
+      "latitude": 56.461588,
+      "longitude": 10.025691
+    },
+    {
+      "name": "Hotel Lakolk",
+      "latitude": 55.139376,
+      "longitude": 8.492653
+    },
+    {
+      "name": "Hotel Landsmans",
+      "latitude": 54.890371,
+      "longitude": 12.040999
+    },
+    {
+      "name": "Hotel Lautrup Park",
+      "latitude": 55.733572,
+      "longitude": 12.387477
+    },
+    {
+      "name": "Hotel Legoland",
+      "latitude": 55.733544,
+      "longitude": 9.128602
+    },
+    {
+      "name": "Hotel Lidenlund",
+      "latitude": 56.548687,
+      "longitude": 8.31081
+    },
+    {
+      "name": "Hotel Lillevang",
+      "latitude": 55.394263,
+      "longitude": 11.345731
+    },
+    {
+      "name": "Hotel Limfjorden",
+      "latitude": 56.943387,
+      "longitude": 8.65975
+    },
+    {
+      "name": "Hotel Liselund",
+      "latitude": 54.771339,
+      "longitude": 11.852018
+    },
+    {
+      "name": "Hotel Lolland",
+      "latitude": 54.806295,
+      "longitude": 11.433475
+    },
+    {
+      "name": "Hotel Lynggaarden",
+      "latitude": 56.110275,
+      "longitude": 8.977374
+    },
+    {
+      "name": "Hotel Løkken Strand",
+      "latitude": 57.372504,
+      "longitude": 9.714491
+    },
+    {
+      "name": "Hotel Marie",
+      "latitude": 57.720444,
+      "longitude": 10.588866
+    },
+    {
+      "name": "Hotel Marienlyst",
+      "latitude": 56.045468,
+      "longitude": 12.603503
+    },
+    {
+      "name": "Hotel Marina",
+      "latitude": 55.85042,
+      "longitude": 12.568471
+    },
+    {
+      "name": "Hotel Maritime",
+      "latitude": 55.677506,
+      "longitude": 12.589472
+    },
+    {
+      "name": "Hotel Marstal",
+      "latitude": 54.855281,
+      "longitude": 10.520633
+    },
+    {
+      "name": "Hotel Mayfair",
+      "latitude": 55.672743,
+      "longitude": 12.561196
+    },
+    {
+      "name": "Hotel Medi Ikast",
+      "latitude": 56.138184,
+      "longitude": 9.153358
+    },
+    {
+      "name": "Hotel Medio",
+      "latitude": 55.528888,
+      "longitude": 9.708833
+    },
+    {
+      "name": "Hotel Melfarhus",
+      "latitude": 55.491352,
+      "longitude": 9.732444
+    },
+    {
+      "name": "Hotel Nor",
+      "latitude": 57.144217,
+      "longitude": 9.360404
+    },
+    {
+      "name": "Hotel Nora",
+      "latitude": 55.688198,
+      "longitude": 12.560654
+    },
+    {
+      "name": "Hotel Norden",
+      "latitude": 55.251457,
+      "longitude": 9.480764
+    },
+    {
+      "name": "Hotel Nybogaard",
+      "latitude": 55.973401,
+      "longitude": 12.497025
+    },
+    {
+      "name": "Hotel Nygaard",
+      "latitude": 57.259822,
+      "longitude": 11.012191
+    },
+    {
+      "name": "Hotel Nysted Havn",
+      "latitude": 54.662927,
+      "longitude": 11.731071
+    },
+    {
+      "name": "Hotel Nørherredhus",
+      "latitude": 55.054162,
+      "longitude": 9.759947
+    },
+    {
+      "name": "Hotel Nørreport Holstebro K/S",
+      "latitude": 56.36194,
+      "longitude": 8.619265
+    },
+    {
+      "name": "Hotel Nørrevang",
+      "latitude": 54.693948,
+      "longitude": 11.961685
+    },
+    {
+      "name": "Hotel Oasia",
+      "latitude": 56.14986,
+      "longitude": 10.20032
+    },
+    {
+      "name": "Hotel Odense",
+      "latitude": 55.370679,
+      "longitude": 10.449843
+    },
+    {
+      "name": "Hotel Odeon",
+      "latitude": 55.399788,
+      "longitude": 10.390338
+    },
+    {
+      "name": "Hotel Orkide",
+      "latitude": 55.10452,
+      "longitude": 14.699775
+    },
+    {
+      "name": "Hotel Orø Kro",
+      "latitude": 55.767159,
+      "longitude": 11.807673
+    },
+    {
+      "name": "Hotel Ottilia",
+      "latitude": 55.666878,
+      "longitude": 12.533084
+    },
+    {
+      "name": "Hotel Pejsegården",
+      "latitude": 55.961672,
+      "longitude": 9.613043
+    },
+    {
+      "name": "Hotel Phønix Hjørring",
+      "latitude": 57.458909,
+      "longitude": 9.986364
+    },
+    {
+      "name": "Hotel Pinenhus",
+      "latitude": 56.742484,
+      "longitude": 8.855619
+    },
+    {
+      "name": "Hotel Plaza Odense",
+      "latitude": 55.400009,
+      "longitude": 10.382887
+    },
+    {
+      "name": "Hotel Postgaarden",
+      "latitude": 55.561655,
+      "longitude": 9.753564
+    },
+    {
+      "name": "Hotel Postgaarden",
+      "latitude": 56.650544,
+      "longitude": 9.98169
+    },
+    {
+      "name": "Hotel Postgården",
+      "latitude": 55.253075,
+      "longitude": 11.291889
+    },
+    {
+      "name": "Hotel Præstekilde",
+      "latitude": 54.991183,
+      "longitude": 12.350888
+    },
+    {
+      "name": "Hotel Randers",
+      "latitude": 56.460002,
+      "longitude": 10.036671
+    },
+    {
+      "name": "Hotel Ribe",
+      "latitude": 55.327339,
+      "longitude": 8.758574
+    },
+    {
+      "name": "Hotel Ringkøbing",
+      "latitude": 56.090602,
+      "longitude": 8.243239
+    },
+    {
+      "name": "Hotel Ritz",
+      "latitude": 56.150968,
+      "longitude": 10.203439
+    },
+    {
+      "name": "Hotel Royal",
+      "latitude": 55.046043,
+      "longitude": 9.417999
+    },
+    {
+      "name": "Hotel Rudkøbing Skudehavn",
+      "latitude": 54.939902,
+      "longitude": 10.712644
+    },
+    {
+      "name": "Hotel Rudkøbing Skudehavn",
+      "latitude": 54.941321,
+      "longitude": 10.713112
+    },
+    {
+      "name": "Hotel Sabro Kro",
+      "latitude": 56.212445,
+      "longitude": 10.015738
+    },
+    {
+      "name": "Hotel Sakskøbing",
+      "latitude": 54.799477,
+      "longitude": 11.634455
+    },
+    {
+      "name": "Hotel Sanders",
+      "latitude": 55.67843,
+      "longitude": 12.587561
+    },
+    {
+      "name": "Hotel Sandvig Havn",
+      "latitude": 55.288619,
+      "longitude": 14.782055
+    },
+    {
+      "name": "Hotel Sankt Annæ",
+      "latitude": 55.681236,
+      "longitude": 12.591753
+    },
+    {
+      "name": "Hotel Scandic",
+      "latitude": 56.170739,
+      "longitude": 9.514434
+    },
+    {
+      "name": "Hotel Sidesporet",
+      "latitude": 55.719047,
+      "longitude": 11.707035
+    },
+    {
+      "name": "Hotel Siemsens Gaard",
+      "latitude": 55.136414,
+      "longitude": 15.143717
+    },
+    {
+      "name": "Hotel Simested Kro",
+      "latitude": 56.696876,
+      "longitude": 9.558881
+    },
+    {
+      "name": "Hotel Sixtus",
+      "latitude": 55.494565,
+      "longitude": 9.721434
+    },
+    {
+      "name": "Hotel Skaga",
+      "latitude": 57.587021,
+      "longitude": 9.977258
+    },
+    {
+      "name": "Hotel Skandinavien",
+      "latitude": 54.93678,
+      "longitude": 10.708331
+    },
+    {
+      "name": "Hotel Skibelund Krat",
+      "latitude": 55.447641,
+      "longitude": 9.109053
+    },
+    {
+      "name": "Hotel Skivehus",
+      "latitude": 56.564761,
+      "longitude": 9.030978
+    },
+    {
+      "name": "Hotel Skjern",
+      "latitude": 55.947961,
+      "longitude": 8.492984
+    },
+    {
+      "name": "Hotel Skovly",
+      "latitude": 55.143048,
+      "longitude": 14.711135
+    },
+    {
+      "name": "Hotel Skovriddergården",
+      "latitude": 54.841862,
+      "longitude": 11.151812
+    },
+    {
+      "name": "Hotel Skuldelev Kro",
+      "latitude": 55.784453,
+      "longitude": 12.014623
+    },
+    {
+      "name": "Hotel Smedegården Lem",
+      "latitude": 56.025848,
+      "longitude": 8.384698
+    },
+    {
+      "name": "Hotel SP34",
+      "latitude": 55.678726,
+      "longitude": 12.566462
+    },
+    {
+      "name": "Hotel Stege Nor",
+      "latitude": 54.992257,
+      "longitude": 12.300672
+    },
+    {
+      "name": "Hotel Strandgaarden",
+      "latitude": 57.288252,
+      "longitude": 10.920861
+    },
+    {
+      "name": "Hotel Strandparken",
+      "latitude": 55.717778,
+      "longitude": 11.692103
+    },
+    {
+      "name": "Hotel Strandtangen",
+      "latitude": 56.574325,
+      "longitude": 9.051694
+    },
+    {
+      "name": "Hotel Strandvejen",
+      "latitude": 55.438172,
+      "longitude": 8.393674
+    },
+    {
+      "name": "Hotel Svanen",
+      "latitude": 55.72847,
+      "longitude": 9.133745
+    },
+    {
+      "name": "Hotel Svendborg",
+      "latitude": 55.059954,
+      "longitude": 10.606195
+    },
+    {
+      "name": "Hotel Søborg",
+      "latitude": 57.37145,
+      "longitude": 9.711273
+    },
+    {
+      "name": "Hotel Søfryd",
+      "latitude": 55.748605,
+      "longitude": 12.100984
+    },
+    {
+      "name": "Hotel Søgården",
+      "latitude": 55.488685,
+      "longitude": 9.016985
+    },
+    {
+      "name": "Hotel Sønderborg Garni",
+      "latitude": 54.904809,
+      "longitude": 9.791676
+    },
+    {
+      "name": "Hotel Sønderborg Kaserne",
+      "latitude": 54.917285,
+      "longitude": 9.781342
+    },
+    {
+      "name": "Hotel Sønderborg Strand",
+      "latitude": 54.905783,
+      "longitude": 9.787402
+    },
+    {
+      "name": "Hotel Tannishus",
+      "latitude": 57.593168,
+      "longitude": 10.184473
+    },
+    {
+      "name": "Hotel Tante",
+      "latitude": 56.549743,
+      "longitude": 8.309426
+    },
+    {
+      "name": "Hotel Thinggaard",
+      "latitude": 56.751251,
+      "longitude": 8.417459
+    },
+    {
+      "name": "Hotel Thisted",
+      "latitude": 56.953507,
+      "longitude": 8.687298
+    },
+    {
+      "name": "Hotel Tofterup",
+      "latitude": 55.649039,
+      "longitude": 8.821089
+    },
+    {
+      "name": "Hotel Traneparken",
+      "latitude": 56.787281,
+      "longitude": 8.834528
+    },
+    {
+      "name": "Hotel Troense",
+      "latitude": 55.033352,
+      "longitude": 10.645271
+    },
+    {
+      "name": "Hotel Tønderhus",
+      "latitude": 54.933235,
+      "longitude": 8.867522
+    },
+    {
+      "name": "Hotel Ulfborg",
+      "latitude": 56.272288,
+      "longitude": 8.321113
+    },
+    {
+      "name": "Hotel Vadehavet",
+      "latitude": 55.126088,
+      "longitude": 8.551719
+    },
+    {
+      "name": "Hotel Valby",
+      "latitude": 55.66421,
+      "longitude": 12.518558
+    },
+    {
+      "name": "Hotel Vamdrup",
+      "latitude": 55.425655,
+      "longitude": 9.282679
+    },
+    {
+      "name": "Hotel Varde",
+      "latitude": 55.604977,
+      "longitude": 8.498922
+    },
+    {
+      "name": "Hotel Ved Fjorden",
+      "latitude": 56.564033,
+      "longitude": 8.290706
+    },
+    {
+      "name": "Hotel Viking Aqua Spa & Wellness Resort",
+      "latitude": 57.34595,
+      "longitude": 10.514317
+    },
+    {
+      "name": "Hotel Vildbjerg",
+      "latitude": 56.197383,
+      "longitude": 8.766806
+    },
+    {
+      "name": "Hotel Vildsund Strand",
+      "latitude": 56.884466,
+      "longitude": 8.62525
+    },
+    {
+      "name": "Hotel Villa Gulle",
+      "latitude": 55.310371,
+      "longitude": 10.793003
+    },
+    {
+      "name": "Hotel Villum",
+      "latitude": 55.287771,
+      "longitude": 14.781382
+    },
+    {
+      "name": "Hotel Vinhuset",
+      "latitude": 55.230328,
+      "longitude": 11.756281
+    },
+    {
+      "name": "Hotel West",
+      "latitude": 55.671801,
+      "longitude": 12.552363
+    },
+    {
+      "name": "Hotel Windsor",
+      "latitude": 55.398376,
+      "longitude": 10.38292
+    },
+    {
+      "name": "Hotel Årslev Kro",
+      "latitude": 56.1537,
+      "longitude": 10.039474
+    },
+    {
+      "name": "Hotel Ærø",
+      "latitude": 55.05808,
+      "longitude": 10.61415
+    },
+    {
+      "name": "Hotel Ærøhus",
+      "latitude": 54.889694,
+      "longitude": 10.409219
+    },
+    {
+      "name": "Hotel Østerport",
+      "latitude": 55.691271,
+      "longitude": 12.586097
+    },
+    {
+      "name": "Hotel Østersø",
+      "latitude": 55.030843,
+      "longitude": 9.420225
+    },
+    {
+      "name": "Hotellet",
+      "latitude": 55.670911,
+      "longitude": 12.549967
+    },
+    {
+      "name": "Hotellet",
+      "latitude": 57.463142,
+      "longitude": 9.98282
+    },
+    {
+      "name": "HumleoreHus",
+      "latitude": 55.475095,
+      "longitude": 11.910949
+    },
+    {
+      "name": "Hundstrup Kro",
+      "latitude": 55.099828,
+      "longitude": 10.431941
+    },
+    {
+      "name": "Hvalpsund Færgekro",
+      "latitude": 56.699357,
+      "longitude": 9.192856
+    },
+    {
+      "name": "Hvedholm Slotshotel",
+      "latitude": 55.10545,
+      "longitude": 10.191606
+    },
+    {
+      "name": "Hvidbjerg Strandhotel",
+      "latitude": 55.544196,
+      "longitude": 8.13515
+    },
+    {
+      "name": "Højby Kro",
+      "latitude": 55.911808,
+      "longitude": 11.60464
+    },
+    {
+      "name": "Højgaarden",
+      "latitude": 57.139381,
+      "longitude": 9.362692
+    },
+    {
+      "name": "Højslev kro",
+      "latitude": 56.550089,
+      "longitude": 9.11014
+    },
+    {
+      "name": "Hørdum Kro",
+      "latitude": 56.850108,
+      "longitude": 8.490246
+    },
+    {
+      "name": "Ibis Styles Copenhagen Ørestad",
+      "latitude": 55.637128,
+      "longitude": 12.583132
+    },
+    {
+      "name": "Ibsens Hotel",
+      "latitude": 55.684652,
+      "longitude": 12.566266
+    },
+    {
+      "name": "Idrættens Hus",
+      "latitude": 55.647246,
+      "longitude": 12.418215
+    },
+    {
+      "name": "Imperial",
+      "latitude": 55.675645,
+      "longitude": 12.561626
+    },
+    {
+      "name": "Inger",
+      "latitude": 57.658441,
+      "longitude": 10.461075
+    },
+    {
+      "name": "Jantzens Hotel",
+      "latitude": 55.212155,
+      "longitude": 14.970137
+    },
+    {
+      "name": "Jelling Kro",
+      "latitude": 55.757633,
+      "longitude": 9.418578
+    },
+    {
+      "name": "Jomfrubakken B&B",
+      "latitude": 56.6662,
+      "longitude": 10.01074
+    },
+    {
+      "name": "Jægerhuset",
+      "latitude": 55.726902,
+      "longitude": 8.244312
+    },
+    {
+      "name": "Jørgensens Hotel",
+      "latitude": 55.862117,
+      "longitude": 9.847505
+    },
+    {
+      "name": "Kallehavegaard Badehotel",
+      "latitude": 57.363564,
+      "longitude": 9.708666
+    },
+    {
+      "name": "Kaløvig Badehotel",
+      "latitude": 56.244231,
+      "longitude": 10.34285
+    },
+    {
+      "name": "Kanalhuset",
+      "latitude": 55.67452,
+      "longitude": 12.595033
+    },
+    {
+      "name": "Kanns",
+      "latitude": 55.070378,
+      "longitude": 14.92274
+    },
+    {
+      "name": "Kirsebærkroen",
+      "latitude": 55.126082,
+      "longitude": 12.066862
+    },
+    {
+      "name": "Klintely",
+      "latitude": 55.258477,
+      "longitude": 14.811156
+    },
+    {
+      "name": "Klitgaarden",
+      "latitude": 55.736747,
+      "longitude": 8.181768
+    },
+    {
+      "name": "Klithjem Badehotel",
+      "latitude": 55.627204,
+      "longitude": 8.123774
+    },
+    {
+      "name": "Klitrosen Hotel",
+      "latitude": 57.149414,
+      "longitude": 9.361415
+    },
+    {
+      "name": "Klosterpensionen",
+      "latitude": 56.45205,
+      "longitude": 9.412368
+    },
+    {
+      "name": "Kløver Es",
+      "latitude": 55.076026,
+      "longitude": 9.212607
+    },
+    {
+      "name": "Knudsens Gaard",
+      "latitude": 55.381397,
+      "longitude": 10.394697
+    },
+    {
+      "name": "Kolding Hotel Appartments",
+      "latitude": 55.492142,
+      "longitude": 9.471175
+    },
+    {
+      "name": "Kolle Kolle Hotel og Konferencecenter",
+      "latitude": 55.781139,
+      "longitude": 12.404178
+    },
+    {
+      "name": "Kompas Hotel Aalborg",
+      "latitude": 57.046721,
+      "longitude": 9.935107
+    },
+    {
+      "name": "Kong Arthur",
+      "latitude": 55.68476,
+      "longitude": 12.564994
+    },
+    {
+      "name": "Kongensbro Kro",
+      "latitude": 56.297753,
+      "longitude": 9.668259
+    },
+    {
+      "name": "Kongenshus Hotel",
+      "latitude": 56.389159,
+      "longitude": 9.149366
+    },
+    {
+      "name": "Kongeåkroen",
+      "latitude": 55.440778,
+      "longitude": 8.999428
+    },
+    {
+      "name": "Korning Kro",
+      "latitude": 55.850838,
+      "longitude": 9.697439
+    },
+    {
+      "name": "Kroen ved Åen",
+      "latitude": 56.407603,
+      "longitude": 9.011097
+    },
+    {
+      "name": "Krogen",
+      "latitude": 57.047274,
+      "longitude": 9.896507
+    },
+    {
+      "name": "Kryb i Ly",
+      "latitude": 55.533847,
+      "longitude": 9.599209
+    },
+    {
+      "name": "Kurhotel Skodsborg",
+      "latitude": 55.819164,
+      "longitude": 12.574377
+    },
+    {
+      "name": "Kværs Kro Værelser",
+      "latitude": 54.932151,
+      "longitude": 9.495419
+    },
+    {
+      "name": "Kysten",
+      "latitude": 55.18516,
+      "longitude": 14.704274
+    },
+    {
+      "name": "Kystvejens Hotel og Konferencecenter",
+      "latitude": 56.404402,
+      "longitude": 10.913045
+    },
+    {
+      "name": "Landal Middelfart",
+      "latitude": 55.497444,
+      "longitude": 9.703556
+    },
+    {
+      "name": "Legoland Castle Hotel",
+      "latitude": 55.733722,
+      "longitude": 9.130873
+    },
+    {
+      "name": "Lerchenborg Bed & Breakfast",
+      "latitude": 55.653472,
+      "longitude": 11.079188
+    },
+    {
+      "name": "Lille Restrup Hovedgaard",
+      "latitude": 56.690275,
+      "longitude": 9.512544
+    },
+    {
+      "name": "Lisboa",
+      "latitude": 57.418701,
+      "longitude": 10.521474
+    },
+    {
+      "name": "Livjæger Hotel Pension",
+      "latitude": 55.697136,
+      "longitude": 12.587501
+    },
+    {
+      "name": "Lodsoldermandsgården",
+      "latitude": 55.945566,
+      "longitude": 11.766048
+    },
+    {
+      "name": "Lunds Hotel",
+      "latitude": 55.568492,
+      "longitude": 10.079864
+    },
+    {
+      "name": "Luneborg Kro",
+      "latitude": 57.214987,
+      "longitude": 9.84797
+    },
+    {
+      "name": "Lyng Dal Hotel",
+      "latitude": 56.074625,
+      "longitude": 9.698893
+    },
+    {
+      "name": "Lynge Kro",
+      "latitude": 55.832596,
+      "longitude": 12.274998
+    },
+    {
+      "name": "Lyngfeldts Badehotel",
+      "latitude": 57.320184,
+      "longitude": 11.127174
+    },
+    {
+      "name": "Lynæs Hotel",
+      "latitude": 55.945931,
+      "longitude": 11.863688
+    },
+    {
+      "name": "Låsby Kro",
+      "latitude": 56.155543,
+      "longitude": 9.808066
+    },
+    {
+      "name": "Lærkely",
+      "latitude": 57.292782,
+      "longitude": 11.071748
+    },
+    {
+      "name": "Løgstør Badehotel",
+      "latitude": 56.969455,
+      "longitude": 9.253814
+    },
+    {
+      "name": "Løgstør Parkhotel",
+      "latitude": 56.953426,
+      "longitude": 9.252031
+    },
+    {
+      "name": "Løkken Badehotel",
+      "latitude": 57.371155,
+      "longitude": 9.711643
+    },
+    {
+      "name": "Løven",
+      "latitude": 55.672698,
+      "longitude": 12.556934
+    },
+    {
+      "name": "Majorgaarden",
+      "latitude": 55.121696,
+      "longitude": 10.725363
+    },
+    {
+      "name": "Manon les Suites",
+      "latitude": 55.680381,
+      "longitude": 12.561253
+    },
+    {
+      "name": "Marienlyst",
+      "latitude": 56.045121,
+      "longitude": 12.60376
+    },
+    {
+      "name": "Marina",
+      "latitude": 56.402894,
+      "longitude": 10.914589
+    },
+    {
+      "name": "Marina Park - Klintholm",
+      "latitude": 54.954589,
+      "longitude": 12.467338
+    },
+    {
+      "name": "Marskhotellet",
+      "latitude": 54.962591,
+      "longitude": 8.696717
+    },
+    {
+      "name": "Mejeriet Tunø",
+      "latitude": 55.948993,
+      "longitude": 10.447256
+    },
+    {
+      "name": "Melsted Badehotel",
+      "latitude": 55.200195,
+      "longitude": 14.983404
+    },
+    {
+      "name": "Menstrup Kro",
+      "latitude": 55.212393,
+      "longitude": 11.580818
+    },
+    {
+      "name": "Mercur Hotel",
+      "latitude": 55.676554,
+      "longitude": 12.561795
+    },
+    {
+      "name": "Milling Hotel Mini 19",
+      "latitude": 55.399406,
+      "longitude": 10.381858
+    },
+    {
+      "name": "Milling Hotel Park",
+      "latitude": 55.500648,
+      "longitude": 9.737845
+    },
+    {
+      "name": "Milling Hotel Vejle",
+      "latitude": 55.705658,
+      "longitude": 9.519384
+    },
+    {
+      "name": "Milling Mini 11",
+      "latitude": 55.398828,
+      "longitude": 10.382436
+    },
+    {
+      "name": "Molskroen",
+      "latitude": 56.229375,
+      "longitude": 10.604336
+    },
+    {
+      "name": "Molskroen Strandhotel",
+      "latitude": 56.230036,
+      "longitude": 10.606999
+    },
+    {
+      "name": "Montra Hotel Hanstholm",
+      "latitude": 57.116527,
+      "longitude": 8.606997
+    },
+    {
+      "name": "Motel Brasilia",
+      "latitude": 55.389895,
+      "longitude": 10.262851
+    },
+    {
+      "name": "Motel Garni",
+      "latitude": 55.552942,
+      "longitude": 8.119615
+    },
+    {
+      "name": "Motel Nordsøen",
+      "latitude": 57.58517,
+      "longitude": 9.980785
+    },
+    {
+      "name": "Motel One Copenhagen",
+      "latitude": 55.675235,
+      "longitude": 12.57272
+    },
+    {
+      "name": "Moxy Copenhagen",
+      "latitude": 55.652519,
+      "longitude": 12.540159
+    },
+    {
+      "name": "MS Mary",
+      "latitude": 55.679281,
+      "longitude": 12.592957
+    },
+    {
+      "name": "Munch's Hotel",
+      "latitude": 57.558776,
+      "longitude": 9.917021
+    },
+    {
+      "name": "Munkebjerg Hotel",
+      "latitude": 55.686996,
+      "longitude": 9.615765
+    },
+    {
+      "name": "Musholm",
+      "latitude": 55.364521,
+      "longitude": 11.134753
+    },
+    {
+      "name": "Musholm – Ferie, Sport & Konference",
+      "latitude": 55.364787,
+      "longitude": 11.135307
+    },
+    {
+      "name": "MyHotel Taastrup",
+      "latitude": 55.63494,
+      "longitude": 12.254566
+    },
+    {
+      "name": "Mølkjær Kro",
+      "latitude": 55.652386,
+      "longitude": 9.392267
+    },
+    {
+      "name": "NH Collection Copenhagen",
+      "latitude": 55.673812,
+      "longitude": 12.587835
+    },
+    {
+      "name": "Nimb Hotel",
+      "latitude": 55.673594,
+      "longitude": 12.566413
+    },
+    {
+      "name": "Nobis Hotel Copenhagen",
+      "latitude": 55.67233,
+      "longitude": 12.573583
+    },
+    {
+      "name": "Nordlandet",
+      "latitude": 55.28671,
+      "longitude": 14.787646
+    },
+    {
+      "name": "Norsminde Kro",
+      "latitude": 56.021945,
+      "longitude": 10.262319
+    },
+    {
+      "name": "Ny Hattenæs",
+      "latitude": 56.148152,
+      "longitude": 9.58091
+    },
+    {
+      "name": "Nyborg Strand",
+      "latitude": 55.31745,
+      "longitude": 10.81069
+    },
+    {
+      "name": "Nymindegab Kro",
+      "latitude": 55.816846,
+      "longitude": 8.192057
+    },
+    {
+      "name": "Næsbydale Badehotel",
+      "latitude": 56.912485,
+      "longitude": 9.179645
+    },
+    {
+      "name": "Nørre Vissing Kro",
+      "latitude": 56.123893,
+      "longitude": 9.849419
+    },
+    {
+      "name": "Nørre Vosborg Hotel & Gastronomi",
+      "latitude": 56.326615,
+      "longitude": 8.331252
+    },
+    {
+      "name": "Oasen Samsø",
+      "latitude": 55.95387,
+      "longitude": 10.557635
+    },
+    {
+      "name": "Odder Parkhotel",
+      "latitude": 55.975259,
+      "longitude": 10.146528
+    },
+    {
+      "name": "Omø Badehotel",
+      "latitude": 55.170155,
+      "longitude": 11.156825
+    },
+    {
+      "name": "Osted Kro",
+      "latitude": 55.557941,
+      "longitude": 11.959368
+    },
+    {
+      "name": "Otterup Hotel",
+      "latitude": 55.513907,
+      "longitude": 10.393953
+    },
+    {
+      "name": "Patienthotellet",
+      "latitude": 55.5277,
+      "longitude": 11.505382
+    },
+    {
+      "name": "Patienthotellet",
+      "latitude": 55.696905,
+      "longitude": 12.563606
+    },
+    {
+      "name": "Patienthotellet",
+      "latitude": 56.190245,
+      "longitude": 10.168999
+    },
+    {
+      "name": "Patienthotellet Aalborg Universitetshospital",
+      "latitude": 57.037221,
+      "longitude": 9.907883
+    },
+    {
+      "name": "Peak 12",
+      "latitude": 56.454221,
+      "longitude": 9.403768
+    },
+    {
+      "name": "Petra",
+      "latitude": 55.684538,
+      "longitude": 12.583433
+    },
+    {
+      "name": "Phoenix Copenhagen",
+      "latitude": 55.68294,
+      "longitude": 12.58893
+    },
+    {
+      "name": "Phønix",
+      "latitude": 57.269669,
+      "longitude": 9.946847
+    },
+    {
+      "name": "Phønix Hotel",
+      "latitude": 57.04851,
+      "longitude": 9.915435
+    },
+    {
+      "name": "Pier 5 Hotel",
+      "latitude": 57.048473,
+      "longitude": 9.928085
+    },
+    {
+      "name": "Plesners Badehotel",
+      "latitude": 57.722259,
+      "longitude": 10.59297
+    },
+    {
+      "name": "Plesners Badehotel",
+      "latitude": 57.722622,
+      "longitude": 10.592393
+    },
+    {
+      "name": "Plesners havnelejligheder",
+      "latitude": 57.720645,
+      "longitude": 10.590451
+    },
+    {
+      "name": "Postgaarden",
+      "latitude": 55.76886,
+      "longitude": 12.505178
+    },
+    {
+      "name": "Prinsen Hotel",
+      "latitude": 57.044326,
+      "longitude": 9.91697
+    },
+    {
+      "name": "Provstegården Bed & Breakfast",
+      "latitude": 55.952936,
+      "longitude": 9.918999
+    },
+    {
+      "name": "Quality Hotel The Reef",
+      "latitude": 57.438637,
+      "longitude": 10.536982
+    },
+    {
+      "name": "Radisson",
+      "latitude": 56.171436,
+      "longitude": 9.555479
+    },
+    {
+      "name": "Radisson Blu",
+      "latitude": 55.667102,
+      "longitude": 12.586497
+    },
+    {
+      "name": "Radisson Blu Limfjord",
+      "latitude": 57.050952,
+      "longitude": 9.920001
+    },
+    {
+      "name": "Radisson Blu Scandinavia Hotel Aarhus",
+      "latitude": 56.152324,
+      "longitude": 10.197389
+    },
+    {
+      "name": "Radisson Red",
+      "latitude": 56.153574,
+      "longitude": 10.202761
+    },
+    {
+      "name": "Radisson SAS Royal",
+      "latitude": 55.674906,
+      "longitude": 12.563429
+    },
+    {
+      "name": "Refborg Hotel Billund",
+      "latitude": 55.729246,
+      "longitude": 9.113314
+    },
+    {
+      "name": "Rent a Room",
+      "latitude": 55.667894,
+      "longitude": 12.596792
+    },
+    {
+      "name": "Residence Inn - Fairfield Nordhavn Copenhagen",
+      "latitude": 55.707187,
+      "longitude": 12.600604
+    },
+    {
+      "name": "Residens Møen Hotel og café",
+      "latitude": 54.987923,
+      "longitude": 12.281769
+    },
+    {
+      "name": "Rex Resort",
+      "latitude": 55.473037,
+      "longitude": 12.195669
+    },
+    {
+      "name": "Ribehøj Biohotel",
+      "latitude": 55.435239,
+      "longitude": 8.913261
+    },
+    {
+      "name": "Richmond Hotel",
+      "latitude": 55.678613,
+      "longitude": 12.562586
+    },
+    {
+      "name": "Rold StorKro",
+      "latitude": 56.827803,
+      "longitude": 9.81799
+    },
+    {
+      "name": "Roslev Hus",
+      "latitude": 56.702622,
+      "longitude": 8.990175
+    },
+    {
+      "name": "Rossini",
+      "latitude": 55.664135,
+      "longitude": 12.518579
+    },
+    {
+      "name": "Rox Resort",
+      "latitude": 55.470382,
+      "longitude": 12.19451
+    },
+    {
+      "name": "Rudbøl Grænsekro",
+      "latitude": 54.900268,
+      "longitude": 8.75252
+    },
+    {
+      "name": "Rum og Rooms",
+      "latitude": 55.811605,
+      "longitude": 10.601058
+    },
+    {
+      "name": "Rungstedgaard",
+      "latitude": 55.882171,
+      "longitude": 12.542682
+    },
+    {
+      "name": "Ruths Hotel",
+      "latitude": 57.726902,
+      "longitude": 10.521504
+    },
+    {
+      "name": "Rye115",
+      "latitude": 55.697728,
+      "longitude": 12.576372
+    },
+    {
+      "name": "Rødding Hotel",
+      "latitude": 55.368745,
+      "longitude": 9.058575
+    },
+    {
+      "name": "Røde-Kro",
+      "latitude": 55.07133,
+      "longitude": 9.335029
+    },
+    {
+      "name": "Rødvig Kro og Badehotel",
+      "latitude": 55.254462,
+      "longitude": 12.37926
+    },
+    {
+      "name": "Rønne H",
+      "latitude": 55.101233,
+      "longitude": 14.691831
+    },
+    {
+      "name": "Rønnes Hotel",
+      "latitude": 57.149039,
+      "longitude": 9.366287
+    },
+    {
+      "name": "Rørvig Centret",
+      "latitude": 55.946691,
+      "longitude": 11.760578
+    },
+    {
+      "name": "Sallingsund Færgekro",
+      "latitude": 56.752485,
+      "longitude": 8.836654
+    },
+    {
+      "name": "Samsø Badehotel",
+      "latitude": 55.831425,
+      "longitude": 10.533754
+    },
+    {
+      "name": "Samsø Perlen",
+      "latitude": 55.863268,
+      "longitude": 10.549658
+    },
+    {
+      "name": "Sanct Thomas",
+      "latitude": 55.672848,
+      "longitude": 12.548297
+    },
+    {
+      "name": "Sandkås Badehotel",
+      "latitude": 55.257841,
+      "longitude": 14.816671
+    },
+    {
+      "name": "Sandvighus",
+      "latitude": 55.287907,
+      "longitude": 14.777817
+    },
+    {
+      "name": "Sauntehus Slotshotel",
+      "latitude": 56.072907,
+      "longitude": 12.488703
+    },
+    {
+      "name": "Savoy",
+      "latitude": 55.67258,
+      "longitude": 12.55635
+    },
+    {
+      "name": "Saxildhus Hotel",
+      "latitude": 55.490703,
+      "longitude": 9.480143
+    },
+    {
+      "name": "Scandic - The Mayor",
+      "latitude": 56.150832,
+      "longitude": 10.202756
+    },
+    {
+      "name": "Scandic Aalborg City",
+      "latitude": 57.043945,
+      "longitude": 9.912935
+    },
+    {
+      "name": "Scandic Aalborg Øst",
+      "latitude": 57.020946,
+      "longitude": 9.964625
+    },
+    {
+      "name": "Scandic Aarhus City",
+      "latitude": 56.15399,
+      "longitude": 10.205268
+    },
+    {
+      "name": "Scandic Copenhagen",
+      "latitude": 55.674995,
+      "longitude": 12.559642
+    },
+    {
+      "name": "Scandic CPH Strandpark",
+      "latitude": 55.635382,
+      "longitude": 12.654912
+    },
+    {
+      "name": "Scandic Eremitage",
+      "latitude": 55.771792,
+      "longitude": 12.507303
+    },
+    {
+      "name": "Scandic Falconer Hotel & Conference Center",
+      "latitude": 55.679855,
+      "longitude": 12.532639
+    },
+    {
+      "name": "Scandic Front",
+      "latitude": 55.681321,
+      "longitude": 12.593295
+    },
+    {
+      "name": "Scandic Glostrup",
+      "latitude": 55.668264,
+      "longitude": 12.419676
+    },
+    {
+      "name": "Scandic Hotel",
+      "latitude": 56.133341,
+      "longitude": 8.978881
+    },
+    {
+      "name": "Scandic Hotel",
+      "latitude": 56.166683,
+      "longitude": 10.151531
+    },
+    {
+      "name": "Scandic Hvidovre",
+      "latitude": 55.646771,
+      "longitude": 12.459022
+    },
+    {
+      "name": "Scandic Kolding",
+      "latitude": 55.53145,
+      "longitude": 9.470628
+    },
+    {
+      "name": "Scandic Kødbyen",
+      "latitude": 55.666966,
+      "longitude": 12.557499
+    },
+    {
+      "name": "Scandic Nørreport",
+      "latitude": 55.683802,
+      "longitude": 12.571784
+    },
+    {
+      "name": "Scandic Odense",
+      "latitude": 55.360951,
+      "longitude": 10.342163
+    },
+    {
+      "name": "Scandic Olympic Esbjerg",
+      "latitude": 55.467066,
+      "longitude": 8.441928
+    },
+    {
+      "name": "Scandic Opus Horsens",
+      "latitude": 55.877423,
+      "longitude": 9.842747
+    },
+    {
+      "name": "Scandic Palace Hotel",
+      "latitude": 55.676234,
+      "longitude": 12.570302
+    },
+    {
+      "name": "Scandic Ringsted",
+      "latitude": 55.450493,
+      "longitude": 11.787299
+    },
+    {
+      "name": "Scandic Roskilde",
+      "latitude": 55.632034,
+      "longitude": 12.08011
+    },
+    {
+      "name": "Scandic Sluseholmen",
+      "latitude": 55.643459,
+      "longitude": 12.544976
+    },
+    {
+      "name": "Scandic Spectrum Hotel",
+      "latitude": 55.669484,
+      "longitude": 12.573479
+    },
+    {
+      "name": "Scandic Sydhavnen",
+      "latitude": 55.654466,
+      "longitude": 12.541639
+    },
+    {
+      "name": "Scandic Sønderborg",
+      "latitude": 54.929914,
+      "longitude": 9.806108
+    },
+    {
+      "name": "Scandic Webers Hotel",
+      "latitude": 55.673118,
+      "longitude": 12.560865
+    },
+    {
+      "name": "Scheelsminde",
+      "latitude": 57.019951,
+      "longitude": 9.904185
+    },
+    {
+      "name": "SCT Knudsborg",
+      "latitude": 55.525248,
+      "longitude": 9.971985
+    },
+    {
+      "name": "Sdr Omme Kro",
+      "latitude": 55.838024,
+      "longitude": 8.894997
+    },
+    {
+      "name": "Seaside",
+      "latitude": 56.70458,
+      "longitude": 8.220591
+    },
+    {
+      "name": "Severin Kursus Center",
+      "latitude": 55.513341,
+      "longitude": 9.764691
+    },
+    {
+      "name": "Signesminde Kro",
+      "latitude": 56.228021,
+      "longitude": 9.485285
+    },
+    {
+      "name": "Sinatur Hotel Frederiksdal",
+      "latitude": 55.781706,
+      "longitude": 12.446224
+    },
+    {
+      "name": "Sinatur Hotel Storebælt",
+      "latitude": 55.309469,
+      "longitude": 10.816752
+    },
+    {
+      "name": "Sindal Kro & Hotel",
+      "latitude": 57.47055,
+      "longitude": 10.202049
+    },
+    {
+      "name": "Skagen Harbour Hotel",
+      "latitude": 57.717747,
+      "longitude": 10.58181
+    },
+    {
+      "name": "Skagen Hotel",
+      "latitude": 57.723367,
+      "longitude": 10.592797
+    },
+    {
+      "name": "Skagen Strand Resort",
+      "latitude": 57.660363,
+      "longitude": 10.465592
+    },
+    {
+      "name": "Skallerup Seaside Resort",
+      "latitude": 57.493567,
+      "longitude": 9.838372
+    },
+    {
+      "name": "Skanderborg Park",
+      "latitude": 56.03717,
+      "longitude": 9.954131
+    },
+    {
+      "name": "Skanderborghus",
+      "latitude": 56.025164,
+      "longitude": 9.928541
+    },
+    {
+      "name": "Skandia",
+      "latitude": 56.033589,
+      "longitude": 12.613568
+    },
+    {
+      "name": "Skarrildhus",
+      "latitude": 55.949774,
+      "longitude": 8.883955
+    },
+    {
+      "name": "Skjalm Hvide Hotel",
+      "latitude": 55.831067,
+      "longitude": 12.164725
+    },
+    {
+      "name": "Skovsgaard Hotel",
+      "latitude": 57.089188,
+      "longitude": 9.485823
+    },
+    {
+      "name": "Skovshoved Hotel",
+      "latitude": 55.759091,
+      "longitude": 12.596782
+    },
+    {
+      "name": "Skrøbelev Gods",
+      "latitude": 54.924945,
+      "longitude": 10.750331
+    },
+    {
+      "name": "Sleep 2 Night",
+      "latitude": 56.020779,
+      "longitude": 12.5658
+    },
+    {
+      "name": "Slukefter Kro",
+      "latitude": 55.195405,
+      "longitude": 9.358334
+    },
+    {
+      "name": "Sophiendal",
+      "latitude": 56.11155,
+      "longitude": 9.87965
+    },
+    {
+      "name": "Sportshotel Vejen",
+      "latitude": 55.47257,
+      "longitude": 9.124745
+    },
+    {
+      "name": "Sportshotel Vejen",
+      "latitude": 55.474778,
+      "longitude": 9.119757
+    },
+    {
+      "name": "Stammershalle Badehotel",
+      "latitude": 55.239226,
+      "longitude": 14.866043
+    },
+    {
+      "name": "STAY Nordhavn",
+      "latitude": 55.709879,
+      "longitude": 12.594817
+    },
+    {
+      "name": "STAY Seaport",
+      "latitude": 55.708245,
+      "longitude": 12.598737
+    },
+    {
+      "name": "Steenbergs Hotel",
+      "latitude": 56.795133,
+      "longitude": 8.862565
+    },
+    {
+      "name": "Stella Maris",
+      "latitude": 55.044042,
+      "longitude": 10.578493
+    },
+    {
+      "name": "Stenbjerg Kro Badehotel",
+      "latitude": 56.918198,
+      "longitude": 8.365224
+    },
+    {
+      "name": "Stephansen",
+      "latitude": 56.462354,
+      "longitude": 10.035683
+    },
+    {
+      "name": "Stokkegaardens Hotel Apartments",
+      "latitude": 54.837057,
+      "longitude": 11.370638
+    },
+    {
+      "name": "Store Kro",
+      "latitude": 55.97911,
+      "longitude": 12.394968
+    },
+    {
+      "name": "Strandhotel Klinten",
+      "latitude": 55.254911,
+      "longitude": 12.370525
+    },
+    {
+      "name": "Strandhotel Røsnæs",
+      "latitude": 55.702768,
+      "longitude": 11.01822
+    },
+    {
+      "name": "Strandhotellet",
+      "latitude": 55.594085,
+      "longitude": 12.673886
+    },
+    {
+      "name": "Strandhotellet Blokhus",
+      "latitude": 57.251364,
+      "longitude": 9.583631
+    },
+    {
+      "name": "Strandhotellet Gl. Skagen",
+      "latitude": 57.727772,
+      "longitude": 10.521745
+    },
+    {
+      "name": "Strandhotellet Sandvig",
+      "latitude": 55.288736,
+      "longitude": 14.781382
+    },
+    {
+      "name": "Strandly Skagen",
+      "latitude": 57.722705,
+      "longitude": 10.595459
+    },
+    {
+      "name": "Strandlyst",
+      "latitude": 55.82637,
+      "longitude": 10.635967
+    },
+    {
+      "name": "Strandlyst",
+      "latitude": 57.555525,
+      "longitude": 9.932415
+    },
+    {
+      "name": "Suldrup Kro",
+      "latitude": 56.849147,
+      "longitude": 9.701276
+    },
+    {
+      "name": "Sverres Hotel",
+      "latitude": 55.100919,
+      "longitude": 14.692998
+    },
+    {
+      "name": "Svinkløv Badehotel",
+      "latitude": 57.152719,
+      "longitude": 9.327198
+    },
+    {
+      "name": "Sølyst Kro",
+      "latitude": 55.022041,
+      "longitude": 9.431458
+    },
+    {
+      "name": "Sønderho Kro",
+      "latitude": 55.347791,
+      "longitude": 8.472442
+    },
+    {
+      "name": "Søndervig Badeland",
+      "latitude": 56.123197,
+      "longitude": 8.113837
+    },
+    {
+      "name": "Søparken",
+      "latitude": 57.151271,
+      "longitude": 9.735728
+    },
+    {
+      "name": "Sørup Herregaard",
+      "latitude": 55.385795,
+      "longitude": 11.795753
+    },
+    {
+      "name": "Taars Hotel",
+      "latitude": 57.387097,
+      "longitude": 10.110341
+    },
+    {
+      "name": "Taastrup Park Hotel",
+      "latitude": 55.653552,
+      "longitude": 12.300701
+    },
+    {
+      "name": "Taastrupgaarden Bed and Breakfast",
+      "latitude": 56.127488,
+      "longitude": 9.98863
+    },
+    {
+      "name": "Tambohus Kro",
+      "latitude": 56.635755,
+      "longitude": 8.592924
+    },
+    {
+      "name": "Teaterhotellet.dk",
+      "latitude": 55.861793,
+      "longitude": 9.847554
+    },
+    {
+      "name": "Terslev Kro",
+      "latitude": 55.375083,
+      "longitude": 11.96701
+    },
+    {
+      "name": "The Falcon Hotel",
+      "latitude": 55.286795,
+      "longitude": 14.784927
+    },
+    {
+      "name": "The Lodge",
+      "latitude": 55.7311,
+      "longitude": 9.132187
+    },
+    {
+      "name": "The Monica",
+      "latitude": 54.888885,
+      "longitude": 10.411941
+    },
+    {
+      "name": "The Note",
+      "latitude": 55.710078,
+      "longitude": 9.530243
+    },
+    {
+      "name": "The Square",
+      "latitude": 55.676157,
+      "longitude": 12.566973
+    },
+    {
+      "name": "Thon Partner Hotel Høje Taastrup",
+      "latitude": 55.6482,
+      "longitude": 12.272463
+    },
+    {
+      "name": "Thon Partners Hotel Sorø",
+      "latitude": 55.451088,
+      "longitude": 11.545929
+    },
+    {
+      "name": "Thyborøn Hotel",
+      "latitude": 56.703864,
+      "longitude": 8.212333
+    },
+    {
+      "name": "Tiffany",
+      "latitude": 55.670893,
+      "longitude": 12.563164
+    },
+    {
+      "name": "Tisvildeleje Strandhotel",
+      "latitude": 56.058836,
+      "longitude": 12.069591
+    },
+    {
+      "name": "Tivoli Hotel og Konferencecenter",
+      "latitude": 55.666032,
+      "longitude": 12.566599
+    },
+    {
+      "name": "Toppen af Ebeltoft",
+      "latitude": 56.191781,
+      "longitude": 10.691191
+    },
+    {
+      "name": "Tornøes Hotel",
+      "latitude": 55.448913,
+      "longitude": 10.658883
+    },
+    {
+      "name": "Town Living",
+      "latitude": 56.089894,
+      "longitude": 8.243958
+    },
+    {
+      "name": "Tranbjerg kro",
+      "latitude": 56.095634,
+      "longitude": 10.136637
+    },
+    {
+      "name": "Trinity Hotel og Konferencecenter",
+      "latitude": 55.525646,
+      "longitude": 9.711376
+    },
+    {
+      "name": "Turist Hotellet",
+      "latitude": 55.671696,
+      "longitude": 12.563459
+    },
+    {
+      "name": "Turisthotellet",
+      "latitude": 55.288649,
+      "longitude": 14.774935
+    },
+    {
+      "name": "Turisthotellet",
+      "latitude": 55.625763,
+      "longitude": 8.279502
+    },
+    {
+      "name": "Udsigten Marstal",
+      "latitude": 54.860654,
+      "longitude": 10.51692
+    },
+    {
+      "name": "Ulstrup Kro",
+      "latitude": 56.392012,
+      "longitude": 9.794268
+    },
+    {
+      "name": "Vallø Slotskro",
+      "latitude": 55.400981,
+      "longitude": 12.210877
+    },
+    {
+      "name": "Vandland og Feriecenter Øster Hurup",
+      "latitude": 56.805953,
+      "longitude": 10.274044
+    },
+    {
+      "name": "Vejlefjord",
+      "latitude": 55.68422,
+      "longitude": 9.760564
+    },
+    {
+      "name": "Vejlsøhus",
+      "latitude": 56.153716,
+      "longitude": 9.560795
+    },
+    {
+      "name": "Vilcon Hotel & Konferencegaard",
+      "latitude": 55.371928,
+      "longitude": 11.442091
+    },
+    {
+      "name": "Vildmosen Bed & Breakfast",
+      "latitude": 56.912118,
+      "longitude": 10.119766
+    },
+    {
+      "name": "Villa Copenhagen",
+      "latitude": 55.671403,
+      "longitude": 12.567736
+    },
+    {
+      "name": "Villa Provence",
+      "latitude": 56.154164,
+      "longitude": 10.209335
+    },
+    {
+      "name": "Vindeballe Kro",
+      "latitude": 54.873064,
+      "longitude": 10.356459
+    },
+    {
+      "name": "Vingsted hotel og konferencenter",
+      "latitude": 55.675205,
+      "longitude": 9.3802
+    },
+    {
+      "name": "Vinterlejegård Ferie-& Ridecenter",
+      "latitude": 55.924734,
+      "longitude": 8.156367
+    },
+    {
+      "name": "Vissenbjerg Storkro",
+      "latitude": 55.389172,
+      "longitude": 10.134277
+    },
+    {
+      "name": "Vodskov Kro",
+      "latitude": 57.104372,
+      "longitude": 10.030619
+    },
+    {
+      "name": "Vorupør Badehotel",
+      "latitude": 56.957705,
+      "longitude": 8.367437
+    },
+    {
+      "name": "Wakeup Aarhus",
+      "latitude": 56.148683,
+      "longitude": 10.203584
+    },
+    {
+      "name": "Wakeup Bernstorffsgade",
+      "latitude": 55.669055,
+      "longitude": 12.571691
+    },
+    {
+      "name": "Wakeup Borgergade",
+      "latitude": 55.683054,
+      "longitude": 12.584041
+    },
+    {
+      "name": "Wakeup Copenhagen",
+      "latitude": 55.666962,
+      "longitude": 12.566442
+    },
+    {
+      "name": "Weis Stue",
+      "latitude": 55.32855,
+      "longitude": 8.762201
+    },
+    {
+      "name": "Westergårds Hotel",
+      "latitude": 56.091412,
+      "longitude": 8.633002
+    },
+    {
+      "name": "Zleep Hotel",
+      "latitude": 55.778853,
+      "longitude": 12.524375
+    },
+    {
+      "name": "Zleep Hotel Aalborg",
+      "latitude": 57.041234,
+      "longitude": 9.920019
+    },
+    {
+      "name": "Zleep Hotel Ballerup",
+      "latitude": 55.720259,
+      "longitude": 12.374819
+    },
+    {
+      "name": "Zleep Hotel Billund Airport",
+      "latitude": 55.746183,
+      "longitude": 9.141977
+    },
+    {
+      "name": "Zleep Hotel Hillerød",
+      "latitude": 55.931948,
+      "longitude": 12.297471
+    },
+    {
+      "name": "Zleep Hotel Roskilde",
+      "latitude": 55.6412,
+      "longitude": 12.083454
+    },
+    {
+      "name": "Zleep Hotel Vejle",
+      "latitude": 55.706772,
+      "longitude": 9.553699
+    },
+    {
+      "name": "Zoku Copenhagen",
+      "latitude": 55.656613,
+      "longitude": 12.59188
+    },
+    {
+      "name": "Ådalsparkens Hotel",
+      "latitude": 55.900932,
+      "longitude": 12.500977
+    },
+    {
+      "name": "Årøsund Badehotel",
+      "latitude": 55.26028,
+      "longitude": 9.711748
+    },
+    {
+      "name": "Ærø Hotel",
+      "latitude": 54.850923,
+      "longitude": 10.509459
+    },
+    {
+      "name": "Øst Vildsund Gammel Færgekro",
+      "latitude": 56.884589,
+      "longitude": 8.638672
+    },
+    {
+      "name": "Østerby Hotel",
+      "latitude": 57.319723,
+      "longitude": 11.12698
+    },
+    {
+      "name": "Østergaards Hotel",
+      "latitude": 56.13403,
+      "longitude": 8.996378
+    },
+    {
+      "name": "Østerhøjst Kro",
+      "latitude": 55.001905,
+      "longitude": 9.037642
+    },
+    {
+      "name": "Østerild kro",
+      "latitude": 57.030097,
+      "longitude": 8.848353
+    },
+    {
+      "name": "Østersøen Ferielejligheder",
+      "latitude": 55.135832,
+      "longitude": 15.143804
+    }
+  ],
+  "meta": {
+    "title": "Hoteller i Danmark – OpenStreetMap (Hotels in Denmark, OSM) - Gratis download",
+    "description": "Liste over 783 hoteller i Danmark fra OpenStreetMap (tourism=hotel) — navn og koordinater (WGS84). Indeholder 783 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Hoteller i Danmark – OpenStreetMap (Hotels in Denmark, OSM) | ListBase",
+    "seo_description": "Download Hoteller i Danmark – OpenStreetMap (Hotels in Denmark, OSM) — 783 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 783 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "id": "da-silkeborg-afstemningssteder",
+  "name": "Afstemningssteder i Silkeborg Kommune",
+  "title": "Afstemningssteder i Silkeborg Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Silkeborg Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Ans",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Funder",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Fårvang",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Gjern",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Grauballe",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Gødvad",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Kjellerup",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Kragelund",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Lemming",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Linå",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Resenbro",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Sejling",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Sejs",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Sjørslev",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Sorring",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Thorning",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Vinderslev",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Voel",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 77,
+      "opstillingskreds": "Silkeborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Balle",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 78,
+      "opstillingskreds": "Silkeborg Syd"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Bryrup",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 78,
+      "opstillingskreds": "Silkeborg Syd"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Buskelundskolen",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 78,
+      "opstillingskreds": "Silkeborg Syd"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Gjessø",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 78,
+      "opstillingskreds": "Silkeborg Syd"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Hjøllund",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 78,
+      "opstillingskreds": "Silkeborg Syd"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Langsøskolen",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 78,
+      "opstillingskreds": "Silkeborg Syd"
+    },
+    {
+      "afstemningsomraade_kode": "27",
+      "afstemningssted": "Lysbro",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 78,
+      "opstillingskreds": "Silkeborg Syd"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "Nordre",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 78,
+      "opstillingskreds": "Silkeborg Syd"
+    },
+    {
+      "afstemningsomraade_kode": "29",
+      "afstemningssted": "Silkeborghallerne",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 78,
+      "opstillingskreds": "Silkeborg Syd"
+    },
+    {
+      "afstemningsomraade_kode": "30",
+      "afstemningssted": "Them",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 78,
+      "opstillingskreds": "Silkeborg Syd"
+    },
+    {
+      "afstemningsomraade_kode": "31",
+      "afstemningssted": "Vestergadehallen",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 78,
+      "opstillingskreds": "Silkeborg Syd"
+    },
+    {
+      "afstemningsomraade_kode": "32",
+      "afstemningssted": "Virklund",
+      "kommune_kode": 740,
+      "kommune": "Silkeborg",
+      "opstillingskreds_nummer": 78,
+      "opstillingskreds": "Silkeborg Syd"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Silkeborg Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Silkeborg Kommune med opstillingskreds. Indeholder 30 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Silkeborg Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Silkeborg Kommune — 30 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 30 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "id": "da-maaleenheder-concentr",
+  "name": "Måleenheder: concentr (13)",
+  "title": "Måleenheder: concentr (13)",
+  "description": "CLDR da-lokalets måleenheder i kategorien 'concentr'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "concentr-item",
+      "kategori": "concentr",
+      "navn": "enheder",
+      "moenster_en": "{0} enhed",
+      "moenster_flere": "{0} enheder",
+      "kort_moenster": "{0} enheder",
+      "smal_moenster": "{0} enheder"
+    },
+    {
+      "id": 2,
+      "unit_code": "concentr-karat",
+      "kategori": "concentr",
+      "navn": "karat",
+      "moenster_en": "{0} karat",
+      "moenster_flere": "{0} karat",
+      "kort_moenster": "{0} kt.",
+      "smal_moenster": "{0} kt."
+    },
+    {
+      "id": 3,
+      "unit_code": "concentr-katal",
+      "kategori": "concentr",
+      "navn": "katal",
+      "moenster_en": "{0} katal",
+      "moenster_flere": "{0} katal",
+      "kort_moenster": "{0} kat",
+      "smal_moenster": "{0} kat"
+    },
+    {
+      "id": 4,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategori": "concentr",
+      "navn": "milligram pr. deciliter",
+      "moenster_en": "{0} milligram pr. deciliter",
+      "moenster_flere": "{0} milligram pr. deciliter",
+      "kort_moenster": "{0} mg/dl",
+      "smal_moenster": "{0} mg/dl"
+    },
+    {
+      "id": 5,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategori": "concentr",
+      "navn": "millimol pr. liter",
+      "moenster_en": "{0} millimol pr. liter",
+      "moenster_flere": "{0} millimol pr. liter",
+      "kort_moenster": "{0} mmol/l",
+      "smal_moenster": "{0} mmol/l"
+    },
+    {
+      "id": 6,
+      "unit_code": "concentr-mole",
+      "kategori": "concentr",
+      "navn": "mol",
+      "moenster_en": "{0} mol",
+      "moenster_flere": "{0} mol",
+      "kort_moenster": "{0} mol",
+      "smal_moenster": "{0} mol"
+    },
+    {
+      "id": 7,
+      "unit_code": "concentr-ofglucose",
+      "kategori": "concentr",
+      "navn": "glukose",
+      "moenster_en": "{0} glukose",
+      "moenster_flere": "{0} glukose",
+      "kort_moenster": "{0} Glk",
+      "smal_moenster": "{0} Glk"
+    },
+    {
+      "id": 8,
+      "unit_code": "concentr-part",
+      "kategori": "concentr",
+      "navn": "parter",
+      "moenster_en": "{0} part",
+      "moenster_flere": "{0} parter",
+      "kort_moenster": "{0} part",
+      "smal_moenster": "{0} p"
+    },
+    {
+      "id": 9,
+      "unit_code": "concentr-part-per-1e6",
+      "kategori": "concentr",
+      "navn": "parts per million",
+      "moenster_en": "{0} part per million",
+      "moenster_flere": "{0} parts per million",
+      "kort_moenster": "{0} ppm",
+      "smal_moenster": "{0} ppm"
+    },
+    {
+      "id": 10,
+      "unit_code": "concentr-part-per-1e9",
+      "kategori": "concentr",
+      "navn": "milliardtedele",
+      "moenster_en": "{0} milliardtedel",
+      "moenster_flere": "{0} milliardtedele",
+      "kort_moenster": "{0} ppb",
+      "smal_moenster": "{0} ppb"
+    },
+    {
+      "id": 11,
+      "unit_code": "concentr-percent",
+      "kategori": "concentr",
+      "navn": "procent",
+      "moenster_en": "{0} procent",
+      "moenster_flere": "{0} procent",
+      "kort_moenster": "{0} pct.",
+      "smal_moenster": "{0} %"
+    },
+    {
+      "id": 12,
+      "unit_code": "concentr-permille",
+      "kategori": "concentr",
+      "navn": "promille",
+      "moenster_en": "{0} promille",
+      "moenster_flere": "{0} promille",
+      "kort_moenster": "{0} ‰",
+      "smal_moenster": "{0} ‰"
+    },
+    {
+      "id": 13,
+      "unit_code": "concentr-permyriad",
+      "kategori": "concentr",
+      "navn": "‱",
+      "moenster_en": "{0} ‱",
+      "moenster_flere": "{0} ‱",
+      "kort_moenster": "{0} ‱",
+      "smal_moenster": "{0} ‱"
+    }
+  ],
+  "meta": {
+    "title": "Måleenheder: concentr (13) - Gratis download",
+    "description": "CLDR da-lokalets måleenheder i kategorien 'concentr'. Indeholder 13 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Måleenheder: concentr (13) | ListBase",
+    "seo_description": "Download Måleenheder: concentr (13) — 13 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 13 poster / 8 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

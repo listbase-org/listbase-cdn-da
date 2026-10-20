@@ -1,0 +1,168 @@
+{
+  "id": "da-moskeer",
+  "name": "Moskeer i Danmark",
+  "title": "Moskeer i Danmark",
+  "description": "Moskeer (mosques) i Danmark fra Wikidata (P31 = Q32815, P17 = Danmark) med koordinater.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q98067421",
+      "wikidata_id": "Q98067421",
+      "name_da": "Alaadin Moske",
+      "name_en": "",
+      "latitude": 55.66195,
+      "longitude": 12.34263
+    },
+    {
+      "id": "Q55748486",
+      "wikidata_id": "Q55748486",
+      "name_da": "Ayasofya-moskeen",
+      "name_en": "",
+      "latitude": 55.6397,
+      "longitude": 12.0819
+    },
+    {
+      "id": "Q98044213",
+      "wikidata_id": "Q98044213",
+      "name_da": "Brabrand Ulu Moske",
+      "name_en": "",
+      "latitude": 56.1671,
+      "longitude": 10.09919
+    },
+    {
+      "id": "Q50251957",
+      "wikidata_id": "Q50251957",
+      "name_da": "Dansk Islamisk Center",
+      "name_en": "Danish Islamic Center",
+      "latitude": 55.687023,
+      "longitude": 12.561407
+    },
+    {
+      "id": "Q98042275",
+      "wikidata_id": "Q98042275",
+      "name_da": "Farum Moske",
+      "name_en": "",
+      "latitude": 55.81687,
+      "longitude": 12.37447
+    },
+    {
+      "id": "Q21083668",
+      "wikidata_id": "Q21083668",
+      "name_da": "Grimhøjmoskeen",
+      "name_en": "Grimhøj Mosque",
+      "latitude": 56.1642,
+      "longitude": 10.12442
+    },
+    {
+      "id": "Q12318161",
+      "wikidata_id": "Q12318161",
+      "name_da": "Imam Ali-moskeen",
+      "name_en": "Imam Ali Mosque",
+      "latitude": 55.70005,
+      "longitude": 12.532
+    },
+    {
+      "id": "Q22686114",
+      "wikidata_id": "Q22686114",
+      "name_da": "Islamisk Kulturcenter i Helsingør",
+      "name_en": "The Cultural Center in Helsingør",
+      "latitude": 56.034591,
+      "longitude": 12.606066
+    },
+    {
+      "id": "Q22686112",
+      "wikidata_id": "Q22686112",
+      "name_da": "Islamisk Kulturcenter i Utterslev",
+      "name_en": "The Islamic Cultural Center in Copenhagen",
+      "latitude": 55.711234,
+      "longitude": 12.51472
+    },
+    {
+      "id": "Q64174273",
+      "wikidata_id": "Q64174273",
+      "name_da": "Mariam Moskéen",
+      "name_en": "Mariam Mosque",
+      "latitude": 55.680769,
+      "longitude": 12.576878
+    },
+    {
+      "id": "Q65769675",
+      "wikidata_id": "Q65769675",
+      "name_da": "Masjid al-Faruq",
+      "name_en": "Al-Faruq mosque",
+      "latitude": 55.702972,
+      "longitude": 12.544417
+    },
+    {
+      "id": "Q16957737",
+      "wikidata_id": "Q16957737",
+      "name_da": "Moskeen i Rovsingsgade",
+      "name_en": "Grand Mosque of Copenhagen",
+      "latitude": 55.70833,
+      "longitude": 12.54879
+    },
+    {
+      "id": "Q19384094",
+      "wikidata_id": "Q19384094",
+      "name_da": "Nusrat Djahan Moské",
+      "name_en": "Nusrat Jahan Mosque",
+      "latitude": 55.65098,
+      "longitude": 12.47896
+    },
+    {
+      "id": "Q3135864",
+      "wikidata_id": "Q3135864",
+      "name_da": "Tauba-moskeen",
+      "name_en": "Tauba Mosque",
+      "latitude": 55.7084,
+      "longitude": 12.5254
+    }
+  ],
+  "meta": {
+    "title": "Moskeer i Danmark - Gratis download",
+    "description": "Moskeer (mosques) i Danmark fra Wikidata (P31 = Q32815, P17 = Danmark) med koordinater. Indeholder 14 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Moskeer i Danmark | ListBase",
+    "seo_description": "Download Moskeer i Danmark — 14 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 14 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

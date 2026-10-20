@@ -1,0 +1,1551 @@
+{
+  "id": "da-pubber",
+  "name": "Pubber i Danmark – OpenStreetMap (Pubs in Denmark, OSM)",
+  "title": "Pubber i Danmark – OpenStreetMap (Pubs in Denmark, OSM)",
+  "description": "Liste over 302 pubber (værtshuse) i Danmark fra OpenStreetMap (amenity=pub) — navn og koordinater (WGS84).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 302,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "12er pubben",
+      "latitude": 56.039409,
+      "longitude": 12.587653
+    },
+    {
+      "name": "Alléenberg",
+      "latitude": 55.675268,
+      "longitude": 12.532891
+    },
+    {
+      "name": "Ankerpladsen",
+      "latitude": 56.704641,
+      "longitude": 8.217307
+    },
+    {
+      "name": "Artillericafeen",
+      "latitude": 55.66449,
+      "longitude": 12.583889
+    },
+    {
+      "name": "Bamses pub",
+      "latitude": 57.341637,
+      "longitude": 10.239319
+    },
+    {
+      "name": "Bankeråt",
+      "latitude": 55.683408,
+      "longitude": 12.565184
+    },
+    {
+      "name": "Bar Røv",
+      "latitude": 57.04925,
+      "longitude": 9.916788
+    },
+    {
+      "name": "Bar Torsten",
+      "latitude": 55.689702,
+      "longitude": 12.560184
+    },
+    {
+      "name": "Barley & Grapes",
+      "latitude": 55.35565,
+      "longitude": 9.484798
+    },
+    {
+      "name": "Bartof Café",
+      "latitude": 55.683663,
+      "longitude": 12.52456
+    },
+    {
+      "name": "Big Ben Old English Pub",
+      "latitude": 55.620611,
+      "longitude": 8.480211
+    },
+    {
+      "name": "Bjerre Kro",
+      "latitude": 55.785675,
+      "longitude": 9.852816
+    },
+    {
+      "name": "Bodega \"Grillen\"",
+      "latitude": 55.447825,
+      "longitude": 12.165999
+    },
+    {
+      "name": "Bodega 48",
+      "latitude": 55.681456,
+      "longitude": 12.549515
+    },
+    {
+      "name": "Bodega Kringlen",
+      "latitude": 56.30019,
+      "longitude": 10.478936
+    },
+    {
+      "name": "Bodega Mødestedet",
+      "latitude": 55.158159,
+      "longitude": 8.767855
+    },
+    {
+      "name": "Bodegaen",
+      "latitude": 57.11284,
+      "longitude": 8.606661
+    },
+    {
+      "name": "Bondestuen Bodega",
+      "latitude": 56.95546,
+      "longitude": 8.699885
+    },
+    {
+      "name": "Bootleggers Craft Beer Bar",
+      "latitude": 55.664579,
+      "longitude": 12.604527
+    },
+    {
+      "name": "Boule",
+      "latitude": 56.145029,
+      "longitude": 10.200033
+    },
+    {
+      "name": "Brew Pub",
+      "latitude": 55.677107,
+      "longitude": 12.569498
+    },
+    {
+      "name": "Bro Caféen",
+      "latitude": 56.149785,
+      "longitude": 10.198798
+    },
+    {
+      "name": "Brus Bar",
+      "latitude": 55.691821,
+      "longitude": 12.555717
+    },
+    {
+      "name": "Brønshøj bodega",
+      "latitude": 55.70499,
+      "longitude": 12.494064
+    },
+    {
+      "name": "Brønshøj Borger Kro",
+      "latitude": 55.70527,
+      "longitude": 12.504513
+    },
+    {
+      "name": "Brønshøj Borgerkro",
+      "latitude": 55.705498,
+      "longitude": 12.506044
+    },
+    {
+      "name": "Bullerup Pub",
+      "latitude": 55.428368,
+      "longitude": 10.476216
+    },
+    {
+      "name": "Buster",
+      "latitude": 55.465809,
+      "longitude": 8.454738
+    },
+    {
+      "name": "Byens Kro",
+      "latitude": 55.681624,
+      "longitude": 12.579359
+    },
+    {
+      "name": "Bykroen",
+      "latitude": 55.48534,
+      "longitude": 9.471787
+    },
+    {
+      "name": "Børges Bodega",
+      "latitude": 55.710484,
+      "longitude": 12.561031
+    },
+    {
+      "name": "Børsen",
+      "latitude": 55.05876,
+      "longitude": 10.607175
+    },
+    {
+      "name": "Cafe Falken",
+      "latitude": 55.70733,
+      "longitude": 11.71209
+    },
+    {
+      "name": "Cafe Frederiksberg",
+      "latitude": 57.044308,
+      "longitude": 9.949014
+    },
+    {
+      "name": "Cafe Globen",
+      "latitude": 55.681314,
+      "longitude": 12.564227
+    },
+    {
+      "name": "Cafe Heimdal",
+      "latitude": 55.70071,
+      "longitude": 12.54175
+    },
+    {
+      "name": "Cafe Hytten",
+      "latitude": 55.663303,
+      "longitude": 12.542033
+    },
+    {
+      "name": "Cafe Intime",
+      "latitude": 55.677092,
+      "longitude": 12.532119
+    },
+    {
+      "name": "Cafe Langebro",
+      "latitude": 55.669173,
+      "longitude": 12.580289
+    },
+    {
+      "name": "Cafe Malmø",
+      "latitude": 55.677057,
+      "longitude": 12.589728
+    },
+    {
+      "name": "Cafe Nick",
+      "latitude": 55.678062,
+      "longitude": 12.582489
+    },
+    {
+      "name": "Cafe Runddelen",
+      "latitude": 55.694255,
+      "longitude": 12.548294
+    },
+    {
+      "name": "Cafe Smil",
+      "latitude": 55.653759,
+      "longitude": 12.616193
+    },
+    {
+      "name": "Cafe Sundbyvester",
+      "latitude": 55.657369,
+      "longitude": 12.60362
+    },
+    {
+      "name": "Cafe Svejk",
+      "latitude": 55.678928,
+      "longitude": 12.527475
+    },
+    {
+      "name": "Cafe Victoria",
+      "latitude": 57.050954,
+      "longitude": 9.918107
+    },
+    {
+      "name": "Cafeen",
+      "latitude": 55.757634,
+      "longitude": 8.92643
+    },
+    {
+      "name": "Cafeen Funke",
+      "latitude": 55.6908,
+      "longitude": 12.561404
+    },
+    {
+      "name": "Café 2'eren",
+      "latitude": 55.693605,
+      "longitude": 12.569558
+    },
+    {
+      "name": "Café Bredager",
+      "latitude": 55.636977,
+      "longitude": 12.641587
+    },
+    {
+      "name": "Café Ellebo",
+      "latitude": 55.650399,
+      "longitude": 12.52744
+    },
+    {
+      "name": "Café Erik",
+      "latitude": 55.668857,
+      "longitude": 12.548774
+    },
+    {
+      "name": "Café Grotten",
+      "latitude": 55.66755,
+      "longitude": 12.555393
+    },
+    {
+      "name": "Café Halvvejen",
+      "latitude": 55.680943,
+      "longitude": 12.573927
+    },
+    {
+      "name": "Café Kildevæld",
+      "latitude": 55.715457,
+      "longitude": 12.577233
+    },
+    {
+      "name": "Café Lystig",
+      "latitude": 55.65834,
+      "longitude": 12.602815
+    },
+    {
+      "name": "Café Stefanshus",
+      "latitude": 55.695346,
+      "longitude": 12.543356
+    },
+    {
+      "name": "Café Under Hylden",
+      "latitude": 55.697999,
+      "longitude": 12.535894
+    },
+    {
+      "name": "Café Århus",
+      "latitude": 56.16036,
+      "longitude": 10.20752
+    },
+    {
+      "name": "Carlsens Kvarter",
+      "latitude": 55.390835,
+      "longitude": 10.388265
+    },
+    {
+      "name": "CasinoPubben",
+      "latitude": 55.737275,
+      "longitude": 12.148875
+    },
+    {
+      "name": "Center Pub",
+      "latitude": 55.409364,
+      "longitude": 10.339728
+    },
+    {
+      "name": "Central Irish Pub",
+      "latitude": 57.59324,
+      "longitude": 10.410061
+    },
+    {
+      "name": "Centralcafeen",
+      "latitude": 57.045319,
+      "longitude": 9.924947
+    },
+    {
+      "name": "Centralhjørnet",
+      "latitude": 55.67671,
+      "longitude": 12.572116
+    },
+    {
+      "name": "Charlie Scotts",
+      "latitude": 55.678692,
+      "longitude": 12.573266
+    },
+    {
+      "name": "Charlie's Bar",
+      "latitude": 55.680613,
+      "longitude": 12.580288
+    },
+    {
+      "name": "Charlys Pub",
+      "latitude": 55.707794,
+      "longitude": 9.53338
+    },
+    {
+      "name": "Chopin Pub",
+      "latitude": 56.376185,
+      "longitude": 8.581495
+    },
+    {
+      "name": "City Club",
+      "latitude": 55.394732,
+      "longitude": 10.386746
+    },
+    {
+      "name": "City Pub",
+      "latitude": 55.67302,
+      "longitude": 12.559771
+    },
+    {
+      "name": "City Pub Albertslund af 2019",
+      "latitude": 55.656669,
+      "longitude": 12.354728
+    },
+    {
+      "name": "Cocktailbaren",
+      "latitude": 55.761329,
+      "longitude": 12.451166
+    },
+    {
+      "name": "Congo Bar",
+      "latitude": 55.243994,
+      "longitude": 9.299655
+    },
+    {
+      "name": "Corners Pub",
+      "latitude": 55.475193,
+      "longitude": 8.436496
+    },
+    {
+      "name": "Den Engelske Pub",
+      "latitude": 55.48968,
+      "longitude": 9.47525
+    },
+    {
+      "name": "Den Engelske Pub",
+      "latitude": 55.564456,
+      "longitude": 9.756811
+    },
+    {
+      "name": "Den Gamle Vinstue",
+      "latitude": 55.718794,
+      "longitude": 12.555324
+    },
+    {
+      "name": "Den Grå Kok",
+      "latitude": 56.718291,
+      "longitude": 10.114918
+    },
+    {
+      "name": "Den Gyldne Hest",
+      "latitude": 55.862516,
+      "longitude": 9.846135
+    },
+    {
+      "name": "Den Hvide Hest",
+      "latitude": 56.14816,
+      "longitude": 10.19834
+    },
+    {
+      "name": "Den røde rubin",
+      "latitude": 55.406792,
+      "longitude": 11.348395
+    },
+    {
+      "name": "Den Smagløse Café",
+      "latitude": 55.397533,
+      "longitude": 10.379883
+    },
+    {
+      "name": "Det Gamle Posthus",
+      "latitude": 55.693697,
+      "longitude": 12.532176
+    },
+    {
+      "name": "Det lille apotek",
+      "latitude": 56.037182,
+      "longitude": 10.081125
+    },
+    {
+      "name": "Det ny Scala",
+      "latitude": 55.688282,
+      "longitude": 12.561844
+    },
+    {
+      "name": "Dick Turpin",
+      "latitude": 56.127093,
+      "longitude": 10.161095
+    },
+    {
+      "name": "Diligencen",
+      "latitude": 55.684931,
+      "longitude": 12.558795
+    },
+    {
+      "name": "DOK IV",
+      "latitude": 54.938644,
+      "longitude": 10.254884
+    },
+    {
+      "name": "Drop Inn",
+      "latitude": 56.149726,
+      "longitude": 10.198239
+    },
+    {
+      "name": "Drop-Inn",
+      "latitude": 55.485386,
+      "longitude": 9.472744
+    },
+    {
+      "name": "Dubliner-NO5",
+      "latitude": 55.678639,
+      "longitude": 12.578893
+    },
+    {
+      "name": "Dunkær Kro",
+      "latitude": 54.848332,
+      "longitude": 10.419546
+    },
+    {
+      "name": "Durup Kro",
+      "latitude": 56.744512,
+      "longitude": 8.948923
+    },
+    {
+      "name": "English Pub",
+      "latitude": 56.1553,
+      "longitude": 10.168799
+    },
+    {
+      "name": "Erritsø Bodega",
+      "latitude": 55.543311,
+      "longitude": 9.715344
+    },
+    {
+      "name": "Esbjerg Bryghus",
+      "latitude": 55.466056,
+      "longitude": 8.446814
+    },
+    {
+      "name": "Esrom Kroen",
+      "latitude": 55.698944,
+      "longitude": 12.540815
+    },
+    {
+      "name": "Falderebet",
+      "latitude": 55.486746,
+      "longitude": 9.466733
+    },
+    {
+      "name": "Farum Kro",
+      "latitude": 55.811187,
+      "longitude": 12.367328
+    },
+    {
+      "name": "Fishermen's Rest",
+      "latitude": 57.412408,
+      "longitude": 9.746018
+    },
+    {
+      "name": "Fisken",
+      "latitude": 55.680275,
+      "longitude": 12.590042
+    },
+    {
+      "name": "Flux",
+      "latitude": 56.155145,
+      "longitude": 10.204838
+    },
+    {
+      "name": "Flying Couch",
+      "latitude": 55.705645,
+      "longitude": 12.53466
+    },
+    {
+      "name": "Fox & Hounds Skotsk Pub",
+      "latitude": 55.047097,
+      "longitude": 9.41987
+    },
+    {
+      "name": "Fox and Hounds",
+      "latitude": 54.907923,
+      "longitude": 9.787562
+    },
+    {
+      "name": "Frederik VI",
+      "latitude": 55.673853,
+      "longitude": 12.543795
+    },
+    {
+      "name": "Fregatten",
+      "latitude": 55.922915,
+      "longitude": 11.668292
+    },
+    {
+      "name": "Færgekroen",
+      "latitude": 56.409354,
+      "longitude": 10.918597
+    },
+    {
+      "name": "Færö Kroen",
+      "latitude": 57.041851,
+      "longitude": 9.938766
+    },
+    {
+      "name": "Gadekæret Pub og Sport",
+      "latitude": 56.022095,
+      "longitude": 12.196966
+    },
+    {
+      "name": "Gerts vinstue",
+      "latitude": 55.704863,
+      "longitude": 12.497417
+    },
+    {
+      "name": "Gesten Kro",
+      "latitude": 55.526778,
+      "longitude": 9.204895
+    },
+    {
+      "name": "Giniz",
+      "latitude": 55.666537,
+      "longitude": 12.5177
+    },
+    {
+      "name": "Goose Pub",
+      "latitude": 54.798566,
+      "longitude": 11.636908
+    },
+    {
+      "name": "Greens Pub & Cafè",
+      "latitude": 57.721863,
+      "longitude": 10.589187
+    },
+    {
+      "name": "Græsted Kro",
+      "latitude": 56.065781,
+      "longitude": 12.281493
+    },
+    {
+      "name": "Guldhornene",
+      "latitude": 57.049895,
+      "longitude": 9.919344
+    },
+    {
+      "name": "Hagges Musik Pub",
+      "latitude": 54.934994,
+      "longitude": 8.862716
+    },
+    {
+      "name": "Hansted",
+      "latitude": 55.05868,
+      "longitude": 10.606091
+    },
+    {
+      "name": "Harlev Bodega",
+      "latitude": 56.145248,
+      "longitude": 10.000647
+    },
+    {
+      "name": "Harmonien",
+      "latitude": 56.163173,
+      "longitude": 10.215754
+    },
+    {
+      "name": "Harrestrup Kro",
+      "latitude": 55.649733,
+      "longitude": 12.490767
+    },
+    {
+      "name": "Havkroen",
+      "latitude": 57.148149,
+      "longitude": 10.405069
+    },
+    {
+      "name": "Hjallese Pubben",
+      "latitude": 55.358829,
+      "longitude": 10.389577
+    },
+    {
+      "name": "Hjerter Dame",
+      "latitude": 57.045375,
+      "longitude": 9.928771
+    },
+    {
+      "name": "Hjorten",
+      "latitude": 56.158236,
+      "longitude": 10.197893
+    },
+    {
+      "name": "Ho Pub",
+      "latitude": 55.541871,
+      "longitude": 8.237353
+    },
+    {
+      "name": "Hong Kong Bodega",
+      "latitude": 55.933256,
+      "longitude": 12.321031
+    },
+    {
+      "name": "Hos Thomas",
+      "latitude": 55.782831,
+      "longitude": 12.373302
+    },
+    {
+      "name": "Hr Søgaard",
+      "latitude": 57.048839,
+      "longitude": 9.920077
+    },
+    {
+      "name": "Hugo's Kælder",
+      "latitude": 55.454996,
+      "longitude": 12.18219
+    },
+    {
+      "name": "Hvide Lam",
+      "latitude": 55.682136,
+      "longitude": 12.574042
+    },
+    {
+      "name": "Hviids Vinstue",
+      "latitude": 55.679778,
+      "longitude": 12.584715
+    },
+    {
+      "name": "Hyttefadet",
+      "latitude": 55.680346,
+      "longitude": 12.589759
+    },
+    {
+      "name": "Høng Centerpub",
+      "latitude": 55.504459,
+      "longitude": 11.289664
+    },
+    {
+      "name": "Ibsens pub og vinbar",
+      "latitude": 55.455289,
+      "longitude": 12.187785
+    },
+    {
+      "name": "Irsk Pub OMalley",
+      "latitude": 55.102815,
+      "longitude": 14.699568
+    },
+    {
+      "name": "IZA",
+      "latitude": 55.708481,
+      "longitude": 9.536095
+    },
+    {
+      "name": "Jagthytten",
+      "latitude": 55.47563,
+      "longitude": 8.480535
+    },
+    {
+      "name": "Jagtstuen",
+      "latitude": 56.715125,
+      "longitude": 10.113035
+    },
+    {
+      "name": "James Dean Dance Bar",
+      "latitude": 55.394493,
+      "longitude": 10.38379
+    },
+    {
+      "name": "Jeppes Bodega",
+      "latitude": 55.621986,
+      "longitude": 12.42207
+    },
+    {
+      "name": "Joe's",
+      "latitude": 55.636068,
+      "longitude": 12.643134
+    },
+    {
+      "name": "John Bull Pub",
+      "latitude": 56.458417,
+      "longitude": 10.037593
+    },
+    {
+      "name": "John Bull Pub",
+      "latitude": 57.049945,
+      "longitude": 9.922804
+    },
+    {
+      "name": "Jæger pub",
+      "latitude": 55.304896,
+      "longitude": 11.545845
+    },
+    {
+      "name": "Jæger pub næstved",
+      "latitude": 55.231285,
+      "longitude": 11.765842
+    },
+    {
+      "name": "Kabyssen",
+      "latitude": 55.423013,
+      "longitude": 8.384149
+    },
+    {
+      "name": "Kafe Falken",
+      "latitude": 55.671175,
+      "longitude": 12.592408
+    },
+    {
+      "name": "Kahytten",
+      "latitude": 55.059013,
+      "longitude": 10.612766
+    },
+    {
+      "name": "Kanal Bodega",
+      "latitude": 55.671993,
+      "longitude": 12.590579
+    },
+    {
+      "name": "Kastrup Centerpub",
+      "latitude": 55.634359,
+      "longitude": 12.636215
+    },
+    {
+      "name": "Kattens kælder",
+      "latitude": 55.689738,
+      "longitude": 12.560223
+    },
+    {
+      "name": "Kings Pub",
+      "latitude": 55.6803,
+      "longitude": 11.088435
+    },
+    {
+      "name": "Klosterkælderen",
+      "latitude": 55.640473,
+      "longitude": 12.087917
+    },
+    {
+      "name": "Klovnens Bodega",
+      "latitude": 55.688681,
+      "longitude": 12.544028
+    },
+    {
+      "name": "Klubben 1811",
+      "latitude": 55.32735,
+      "longitude": 8.761039
+    },
+    {
+      "name": "Kom tit",
+      "latitude": 55.869409,
+      "longitude": 9.844415
+    },
+    {
+      "name": "Kompasset",
+      "latitude": 57.71994,
+      "longitude": 10.587338
+    },
+    {
+      "name": "Kongerslev Kro",
+      "latitude": 56.886585,
+      "longitude": 10.115114
+    },
+    {
+      "name": "Kringlen",
+      "latitude": 55.727289,
+      "longitude": 12.343387
+    },
+    {
+      "name": "Kværndrup Kro",
+      "latitude": 55.178785,
+      "longitude": 10.524229
+    },
+    {
+      "name": "Københavneren",
+      "latitude": 56.035921,
+      "longitude": 12.612785
+    },
+    {
+      "name": "La fée verte",
+      "latitude": 55.676111,
+      "longitude": 12.545825
+    },
+    {
+      "name": "Laden",
+      "latitude": 55.843694,
+      "longitude": 9.814152
+    },
+    {
+      "name": "Landsby Pubben",
+      "latitude": 55.231134,
+      "longitude": 11.761432
+    },
+    {
+      "name": "Lanternen",
+      "latitude": 55.252752,
+      "longitude": 9.482923
+    },
+    {
+      "name": "Larsen's Plaz",
+      "latitude": 55.674088,
+      "longitude": 12.551349
+    },
+    {
+      "name": "Lassie Bar",
+      "latitude": 55.664456,
+      "longitude": 12.598079
+    },
+    {
+      "name": "Linie 74",
+      "latitude": 57.720762,
+      "longitude": 10.585231
+    },
+    {
+      "name": "Lises pub",
+      "latitude": 55.55513,
+      "longitude": 8.134246
+    },
+    {
+      "name": "London Pub",
+      "latitude": 55.685521,
+      "longitude": 12.538228
+    },
+    {
+      "name": "Long John",
+      "latitude": 55.862617,
+      "longitude": 9.850718
+    },
+    {
+      "name": "Lord Nelson",
+      "latitude": 55.677942,
+      "longitude": 12.576875
+    },
+    {
+      "name": "Lord Nelson",
+      "latitude": 56.700947,
+      "longitude": 9.207788
+    },
+    {
+      "name": "Lygten",
+      "latitude": 55.466593,
+      "longitude": 8.455717
+    },
+    {
+      "name": "Lygtens Kro",
+      "latitude": 55.703098,
+      "longitude": 12.537342
+    },
+    {
+      "name": "Lørups Vinstue",
+      "latitude": 55.398339,
+      "longitude": 10.39295
+    },
+    {
+      "name": "Løsning Kro",
+      "latitude": 55.803454,
+      "longitude": 9.701488
+    },
+    {
+      "name": "Maltfabrikken - Brewery",
+      "latitude": 56.200586,
+      "longitude": 10.679585
+    },
+    {
+      "name": "Marius Øltapper",
+      "latitude": 56.030729,
+      "longitude": 9.933311
+    },
+    {
+      "name": "Marstrand",
+      "latitude": 55.680379,
+      "longitude": 12.548413
+    },
+    {
+      "name": "Marys Pub",
+      "latitude": 55.711773,
+      "longitude": 9.532684
+    },
+    {
+      "name": "Maxim Pivo Bar",
+      "latitude": 55.684751,
+      "longitude": 12.553116
+    },
+    {
+      "name": "Melson",
+      "latitude": 55.864254,
+      "longitude": 9.844422
+    },
+    {
+      "name": "Molly Malone",
+      "latitude": 55.56445,
+      "longitude": 9.757823
+    },
+    {
+      "name": "Morzybitten",
+      "latitude": 55.862136,
+      "longitude": 9.844256
+    },
+    {
+      "name": "Mozarts Bodega",
+      "latitude": 55.648143,
+      "longitude": 12.529386
+    },
+    {
+      "name": "Mucki Bar",
+      "latitude": 55.696096,
+      "longitude": 12.547537
+    },
+    {
+      "name": "Munken",
+      "latitude": 57.052143,
+      "longitude": 9.90772
+    },
+    {
+      "name": "Munken Pub",
+      "latitude": 55.623855,
+      "longitude": 12.38748
+    },
+    {
+      "name": "Murphys pub",
+      "latitude": 56.135851,
+      "longitude": 8.978185
+    },
+    {
+      "name": "Musen & Elefanten",
+      "latitude": 55.67744,
+      "longitude": 12.5699
+    },
+    {
+      "name": "Mølle Cafeen",
+      "latitude": 55.665377,
+      "longitude": 12.5171
+    },
+    {
+      "name": "Møllekroen",
+      "latitude": 55.496918,
+      "longitude": 8.446805
+    },
+    {
+      "name": "Nanok Bar",
+      "latitude": 55.666813,
+      "longitude": 12.504884
+    },
+    {
+      "name": "Nørre Bodega",
+      "latitude": 55.695059,
+      "longitude": 12.547962
+    },
+    {
+      "name": "Nørre Pub",
+      "latitude": 55.704158,
+      "longitude": 12.527893
+    },
+    {
+      "name": "Observatoriet",
+      "latitude": 56.02415,
+      "longitude": 9.730743
+    },
+    {
+      "name": "Old Games Pub",
+      "latitude": 57.050339,
+      "longitude": 9.921202
+    },
+    {
+      "name": "Old Irish Pub",
+      "latitude": 55.708241,
+      "longitude": 9.535486
+    },
+    {
+      "name": "Old Irish Pub",
+      "latitude": 55.929783,
+      "longitude": 12.302245
+    },
+    {
+      "name": "Old Irish Pub",
+      "latitude": 56.135893,
+      "longitude": 8.977944
+    },
+    {
+      "name": "Old Irish Pub",
+      "latitude": 56.45855,
+      "longitude": 10.03784
+    },
+    {
+      "name": "Old Irish Pub Holbæk",
+      "latitude": 55.717084,
+      "longitude": 11.708135
+    },
+    {
+      "name": "Papegøjen",
+      "latitude": 55.48553,
+      "longitude": 9.473533
+    },
+    {
+      "name": "Peder Most",
+      "latitude": 57.586494,
+      "longitude": 10.187696
+    },
+    {
+      "name": "Peder Most",
+      "latitude": 57.59038,
+      "longitude": 9.954745
+    },
+    {
+      "name": "Penny Lane",
+      "latitude": 54.90829,
+      "longitude": 9.788341
+    },
+    {
+      "name": "Petit Bar",
+      "latitude": 56.13598,
+      "longitude": 8.970856
+    },
+    {
+      "name": "Pilen",
+      "latitude": 55.276159,
+      "longitude": 14.801059
+    },
+    {
+      "name": "Pillen",
+      "latitude": 55.870106,
+      "longitude": 12.353684
+    },
+    {
+      "name": "Pipes",
+      "latitude": 56.178795,
+      "longitude": 10.200717
+    },
+    {
+      "name": "Planet Pub",
+      "latitude": 57.034954,
+      "longitude": 10.008292
+    },
+    {
+      "name": "Pool-pub",
+      "latitude": 55.708061,
+      "longitude": 12.522716
+    },
+    {
+      "name": "Postpubben",
+      "latitude": 55.73095,
+      "longitude": 12.360165
+    },
+    {
+      "name": "Promenaden",
+      "latitude": 55.67423,
+      "longitude": 12.539943
+    },
+    {
+      "name": "Proud Mary",
+      "latitude": 55.675785,
+      "longitude": 12.567133
+    },
+    {
+      "name": "Proud Mary",
+      "latitude": 57.049653,
+      "longitude": 9.918795
+    },
+    {
+      "name": "Proud Mary Odense",
+      "latitude": 55.394613,
+      "longitude": 10.383502
+    },
+    {
+      "name": "Pub & Sport",
+      "latitude": 55.678236,
+      "longitude": 12.566822
+    },
+    {
+      "name": "Pub 40",
+      "latitude": 55.653718,
+      "longitude": 12.196066
+    },
+    {
+      "name": "Pub Knejpen",
+      "latitude": 55.46619,
+      "longitude": 8.453725
+    },
+    {
+      "name": "Pub'en",
+      "latitude": 56.148051,
+      "longitude": 10.200707
+    },
+    {
+      "name": "Pusterummet",
+      "latitude": 55.86955,
+      "longitude": 9.834051
+    },
+    {
+      "name": "Restaurant Taarnet",
+      "latitude": 55.398715,
+      "longitude": 10.3669
+    },
+    {
+      "name": "Restaurant Wienerstuen",
+      "latitude": 55.377598,
+      "longitude": 10.369952
+    },
+    {
+      "name": "Ring-Caféen",
+      "latitude": 55.700146,
+      "longitude": 12.538391
+    },
+    {
+      "name": "Riverside Pub",
+      "latitude": 55.506438,
+      "longitude": 8.402563
+    },
+    {
+      "name": "Roberts Grillbar & Pub",
+      "latitude": 56.49455,
+      "longitude": 8.58297
+    },
+    {
+      "name": "Roxy Malt",
+      "latitude": 56.167506,
+      "longitude": 9.547469
+    },
+    {
+      "name": "Rundhøj Bodega",
+      "latitude": 56.119693,
+      "longitude": 10.180838
+    },
+    {
+      "name": "Sanderum Puben",
+      "latitude": 55.367858,
+      "longitude": 10.356061
+    },
+    {
+      "name": "Scotch Pub",
+      "latitude": 55.659864,
+      "longitude": 12.405409
+    },
+    {
+      "name": "Scott-Inn",
+      "latitude": 55.638062,
+      "longitude": 12.635259
+    },
+    {
+      "name": "Sejet Kro",
+      "latitude": 55.818106,
+      "longitude": 9.925546
+    },
+    {
+      "name": "Sherlock Holmes Pub",
+      "latitude": 56.153848,
+      "longitude": 10.203156
+    },
+    {
+      "name": "Sir Henry's Pub",
+      "latitude": 57.113519,
+      "longitude": 8.606768
+    },
+    {
+      "name": "Skipperkroen",
+      "latitude": 55.247702,
+      "longitude": 14.83871
+    },
+    {
+      "name": "Skipperkroen",
+      "latitude": 55.680312,
+      "longitude": 12.589888
+    },
+    {
+      "name": "Skippers Bodega",
+      "latitude": 55.669633,
+      "longitude": 12.554443
+    },
+    {
+      "name": "Skræddergården",
+      "latitude": 55.466755,
+      "longitude": 8.453709
+    },
+    {
+      "name": "Skåde Bodega",
+      "latitude": 56.107224,
+      "longitude": 10.206083
+    },
+    {
+      "name": "Skænkestuen",
+      "latitude": 55.449307,
+      "longitude": 10.656325
+    },
+    {
+      "name": "Snapstinget",
+      "latitude": 55.47958,
+      "longitude": 9.468869
+    },
+    {
+      "name": "Snurbart",
+      "latitude": 55.466835,
+      "longitude": 8.453001
+    },
+    {
+      "name": "Solbjerg Bodega",
+      "latitude": 56.04359,
+      "longitude": 10.082003
+    },
+    {
+      "name": "Spinderokken",
+      "latitude": 55.865169,
+      "longitude": 9.844209
+    },
+    {
+      "name": "Stadion",
+      "latitude": 55.394334,
+      "longitude": 10.356038
+    },
+    {
+      "name": "Stenbohus",
+      "latitude": 55.327932,
+      "longitude": 8.76274
+    },
+    {
+      "name": "Strand Pubén",
+      "latitude": 55.563847,
+      "longitude": 11.16509
+    },
+    {
+      "name": "Strygejernet",
+      "latitude": 55.32781,
+      "longitude": 8.76345
+    },
+    {
+      "name": "Styret",
+      "latitude": 56.80279,
+      "longitude": 10.27193
+    },
+    {
+      "name": "Susan Himmelblå",
+      "latitude": 57.048954,
+      "longitude": 9.915913
+    },
+    {
+      "name": "Svane Pub",
+      "latitude": 55.717015,
+      "longitude": 12.577591
+    },
+    {
+      "name": "Søllested Pub",
+      "latitude": 54.812233,
+      "longitude": 11.272069
+    },
+    {
+      "name": "Sønderby Bryghus",
+      "latitude": 55.736645,
+      "longitude": 12.03168
+    },
+    {
+      "name": "Søren Ged's Garage",
+      "latitude": 55.684032,
+      "longitude": 12.567468
+    },
+    {
+      "name": "Taphouse",
+      "latitude": 55.676199,
+      "longitude": 12.571519
+    },
+    {
+      "name": "Teatercafeen",
+      "latitude": 55.404394,
+      "longitude": 11.348144
+    },
+    {
+      "name": "Temple Bar",
+      "latitude": 55.689562,
+      "longitude": 12.556587
+    },
+    {
+      "name": "Terningen",
+      "latitude": 55.305629,
+      "longitude": 10.479697
+    },
+    {
+      "name": "The Irish House",
+      "latitude": 57.049691,
+      "longitude": 9.922008
+    },
+    {
+      "name": "The Irish Pub",
+      "latitude": 55.251946,
+      "longitude": 9.485221
+    },
+    {
+      "name": "The Old English Pub",
+      "latitude": 55.675529,
+      "longitude": 12.566459
+    },
+    {
+      "name": "The Old Irish Pub",
+      "latitude": 55.231179,
+      "longitude": 11.759494
+    },
+    {
+      "name": "The Old Irish Pub",
+      "latitude": 55.395435,
+      "longitude": 10.383604
+    },
+    {
+      "name": "The Old Irish Pub",
+      "latitude": 55.490025,
+      "longitude": 9.476315
+    },
+    {
+      "name": "The Old Irish Pub",
+      "latitude": 55.640452,
+      "longitude": 12.08946
+    },
+    {
+      "name": "The Old Irish Pub",
+      "latitude": 56.156136,
+      "longitude": 10.20988
+    },
+    {
+      "name": "The Old Irish Pub",
+      "latitude": 57.050231,
+      "longitude": 9.918836
+    },
+    {
+      "name": "The Old Irish Pub Køge",
+      "latitude": 55.455269,
+      "longitude": 12.188053
+    },
+    {
+      "name": "The Old Irish Pub Vesterbrogade",
+      "latitude": 55.675476,
+      "longitude": 12.566286
+    },
+    {
+      "name": "The Old Pub",
+      "latitude": 55.403095,
+      "longitude": 11.355181
+    },
+    {
+      "name": "The Scottish Pub",
+      "latitude": 55.675953,
+      "longitude": 12.567219
+    },
+    {
+      "name": "The Wharf",
+      "latitude": 57.05144,
+      "longitude": 9.916347
+    },
+    {
+      "name": "Tir Na Nóg",
+      "latitude": 56.155222,
+      "longitude": 10.204957
+    },
+    {
+      "name": "Toftegårds Bodega",
+      "latitude": 55.665283,
+      "longitude": 12.516496
+    },
+    {
+      "name": "Too Old To Die Young",
+      "latitude": 55.68875,
+      "longitude": 12.562401
+    },
+    {
+      "name": "Tordenkalven",
+      "latitude": 56.771268,
+      "longitude": 9.340561
+    },
+    {
+      "name": "Tordenskjoldskroen",
+      "latitude": 57.437554,
+      "longitude": 10.53648
+    },
+    {
+      "name": "Tower Pub",
+      "latitude": 55.23107,
+      "longitude": 11.76578
+    },
+    {
+      "name": "Trows",
+      "latitude": 55.670635,
+      "longitude": 12.542364
+    },
+    {
+      "name": "Trøjborgkroen",
+      "latitude": 56.169984,
+      "longitude": 10.215654
+    },
+    {
+      "name": "Underhuset",
+      "latitude": 55.230342,
+      "longitude": 11.758964
+    },
+    {
+      "name": "Venbar",
+      "latitude": 55.059407,
+      "longitude": 10.613771
+    },
+    {
+      "name": "Vesterbro Pub",
+      "latitude": 56.450017,
+      "longitude": 9.399875
+    },
+    {
+      "name": "Vi ses hos Berg",
+      "latitude": 55.704956,
+      "longitude": 12.496956
+    },
+    {
+      "name": "Vintønden",
+      "latitude": 55.687632,
+      "longitude": 12.527984
+    },
+    {
+      "name": "Vitus Berings Pub",
+      "latitude": 55.86133,
+      "longitude": 9.850044
+    },
+    {
+      "name": "Værtshuset",
+      "latitude": 56.158914,
+      "longitude": 10.20115
+    },
+    {
+      "name": "Warpigs Brewpub",
+      "latitude": 55.668528,
+      "longitude": 12.55996
+    },
+    {
+      "name": "Wiener-Stuen",
+      "latitude": 55.37758,
+      "longitude": 10.36995
+    },
+    {
+      "name": "Wintercoat Pub",
+      "latitude": 56.2081,
+      "longitude": 10.05987
+    },
+    {
+      "name": "Zoo Bar",
+      "latitude": 55.681009,
+      "longitude": 12.580661
+    },
+    {
+      "name": "Åben",
+      "latitude": 55.628906,
+      "longitude": 12.648376
+    },
+    {
+      "name": "ØB",
+      "latitude": 55.699519,
+      "longitude": 12.578004
+    },
+    {
+      "name": "Ølands Pub",
+      "latitude": 55.690418,
+      "longitude": 12.517152
+    },
+    {
+      "name": "Ølbaren",
+      "latitude": 55.689275,
+      "longitude": 12.557875
+    },
+    {
+      "name": "Ørsted Ølbar & Cafe",
+      "latitude": 55.681267,
+      "longitude": 12.564515
+    },
+    {
+      "name": "Østerkroen",
+      "latitude": 55.249428,
+      "longitude": 9.313411
+    }
+  ],
+  "meta": {
+    "title": "Pubber i Danmark – OpenStreetMap (Pubs in Denmark, OSM) - Gratis download",
+    "description": "Liste over 302 pubber (værtshuse) i Danmark fra OpenStreetMap (amenity=pub) — navn og koordinater (WGS84). Indeholder 302 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Pubber i Danmark – OpenStreetMap (Pubs in Denmark, OSM) | ListBase",
+    "seo_description": "Download Pubber i Danmark – OpenStreetMap (Pubs in Denmark, OSM) — 302 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 302 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

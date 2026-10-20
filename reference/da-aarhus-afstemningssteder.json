@@ -1,0 +1,416 @@
+{
+  "id": "da-aarhus-afstemningssteder",
+  "name": "Afstemningssteder i Aarhus Kommune",
+  "title": "Afstemningssteder i Aarhus Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Aarhus Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Frederiksbjerg Hallerne",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 62,
+      "opstillingskreds": "Aarhus Syd"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Lokalcenter Fr.Bjerg/Langenæs",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 62,
+      "opstillingskreds": "Aarhus Syd"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Rundhøjhallen,Holme",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 62,
+      "opstillingskreds": "Aarhus Syd"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Kragelundskolen,Højbjerg",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 62,
+      "opstillingskreds": "Aarhus Syd"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Tranbjerg Skole",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 62,
+      "opstillingskreds": "Aarhus Syd"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Rosenvangskolen,Viby J",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Viby Hallen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Beder Skole",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 62,
+      "opstillingskreds": "Aarhus Syd"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Malling Skole",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 62,
+      "opstillingskreds": "Aarhus Syd"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Mårslet Skole",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 62,
+      "opstillingskreds": "Aarhus Syd"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Solbjergskolen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 62,
+      "opstillingskreds": "Aarhus Syd"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Ormslev Præstegård",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Hasselager Hallen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Højvangskolen,Stavtrup",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Rådhushallen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 65,
+      "opstillingskreds": "Aarhus Øst"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Gammelgårdskolen,Åbyhøj",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 64,
+      "opstillingskreds": "Aarhus Nord"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Hasle Skole",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 64,
+      "opstillingskreds": "Aarhus Nord"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Engdalskolen,Brabrand",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Globus 1, Brabrand",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Skjoldhøjskolen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "Havkær Lokalcenter,Tilst",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "30",
+      "afstemningssted": "Næshøj Hallen, Harlev",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "31",
+      "afstemningssted": "Borum Forsamlingshus",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "33",
+      "afstemningssted": "Sabro-Korsvejskolen,Sabro",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "41",
+      "afstemningssted": "Samsøgades Skole",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 65,
+      "opstillingskreds": "Aarhus Øst"
+    },
+    {
+      "afstemningsomraade_kode": "42",
+      "afstemningssted": "Skovvangskolen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 64,
+      "opstillingskreds": "Aarhus Nord"
+    },
+    {
+      "afstemningsomraade_kode": "43",
+      "afstemningssted": "Møllevangskolen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 64,
+      "opstillingskreds": "Aarhus Nord"
+    },
+    {
+      "afstemningsomraade_kode": "44",
+      "afstemningssted": "Lisbjergskolen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 64,
+      "opstillingskreds": "Aarhus Nord"
+    },
+    {
+      "afstemningsomraade_kode": "45",
+      "afstemningssted": "Bellevue-Hallen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 65,
+      "opstillingskreds": "Aarhus Øst"
+    },
+    {
+      "afstemningsomraade_kode": "47",
+      "afstemningssted": "Lystrup Skole",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 64,
+      "opstillingskreds": "Aarhus Nord"
+    },
+    {
+      "afstemningsomraade_kode": "48",
+      "afstemningssted": "Virupskolen,Hjortshøj",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 65,
+      "opstillingskreds": "Aarhus Øst"
+    },
+    {
+      "afstemningsomraade_kode": "49",
+      "afstemningssted": "Sølystskolen,Egå",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 65,
+      "opstillingskreds": "Aarhus Øst"
+    },
+    {
+      "afstemningsomraade_kode": "50",
+      "afstemningssted": "Skæring Skole",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 65,
+      "opstillingskreds": "Aarhus Øst"
+    },
+    {
+      "afstemningsomraade_kode": "51",
+      "afstemningssted": "Skødstrup Hallen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 65,
+      "opstillingskreds": "Aarhus Øst"
+    },
+    {
+      "afstemningsomraade_kode": "53",
+      "afstemningssted": "Bjørnshøjcentret,Trige",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 64,
+      "opstillingskreds": "Aarhus Nord"
+    },
+    {
+      "afstemningsomraade_kode": "55",
+      "afstemningssted": "Spørring Fælleshus",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 64,
+      "opstillingskreds": "Aarhus Nord"
+    },
+    {
+      "afstemningsomraade_kode": "56",
+      "afstemningssted": "Hårup Hallen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 64,
+      "opstillingskreds": "Aarhus Nord"
+    },
+    {
+      "afstemningsomraade_kode": "61",
+      "afstemningssted": "Vejlby-Risskov Hallen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 65,
+      "opstillingskreds": "Aarhus Øst"
+    },
+    {
+      "afstemningsomraade_kode": "62",
+      "afstemningssted": "Søndervangskolen,Viby J",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "63",
+      "afstemningssted": "Center -10 (Frydenlundskolen)",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 64,
+      "opstillingskreds": "Aarhus Nord"
+    },
+    {
+      "afstemningsomraade_kode": "64",
+      "afstemningssted": "Åby Skole",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 63,
+      "opstillingskreds": "Aarhus Vest"
+    },
+    {
+      "afstemningsomraade_kode": "65",
+      "afstemningssted": "Jellebakkeskolen,Risskov",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 65,
+      "opstillingskreds": "Aarhus Øst"
+    },
+    {
+      "afstemningsomraade_kode": "66",
+      "afstemningssted": "Skåde Skole",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 62,
+      "opstillingskreds": "Aarhus Syd"
+    },
+    {
+      "afstemningsomraade_kode": "67",
+      "afstemningssted": "Katrinebjergskolen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 64,
+      "opstillingskreds": "Aarhus Nord"
+    },
+    {
+      "afstemningsomraade_kode": "68",
+      "afstemningssted": "Vorrevangskolen",
+      "kommune_kode": 751,
+      "kommune": "Aarhus",
+      "opstillingskreds_nummer": 64,
+      "opstillingskreds": "Aarhus Nord"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Aarhus Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Aarhus Kommune med opstillingskreds. Indeholder 45 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Aarhus Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Aarhus Kommune — 45 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 45 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "da-aabenraa-banker",
+  "name": "Banker i Aabenraa — SWIFT/BIC-koder",
+  "title": "Banker i Aabenraa — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Aabenraa, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"AABENRAA\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 60,
+      "bank": "DANSKE BANK A/S",
+      "city": "AABENRAA",
+      "branch": "",
+      "swift_code": "DABADKKKAAB"
+    },
+    {
+      "id": 313,
+      "bank": "KREDITBANKEN A/S",
+      "city": "AABENRAA",
+      "branch": "",
+      "swift_code": "AAKRDK22"
+    },
+    {
+      "id": 468,
+      "bank": "SYDBANK A/S",
+      "city": "AABENRAA",
+      "branch": "",
+      "swift_code": "SYBKDK22"
+    },
+    {
+      "id": 484,
+      "bank": "SYDINVEST ADMINISTRATION A/S",
+      "city": "AABENRAA",
+      "branch": "",
+      "swift_code": "SADMDK21"
+    },
+    {
+      "id": 485,
+      "bank": "SYDINVEST ADMINISTRATION A/S",
+      "city": "AABENRAA",
+      "branch": "",
+      "swift_code": "SADMDK21TDC"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Aabenraa — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Aabenraa, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"AABENRAA\"). Delmængde af det nationale da-banker-datasæt. Indeholder 5 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Aabenraa — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Aabenraa — SWIFT/BIC-koder — 5 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 5 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

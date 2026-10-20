@@ -1,0 +1,1891 @@
+{
+  "id": "da-hundeskove",
+  "name": "Hundeskove i Danmark (Dog parks in Denmark)",
+  "title": "Hundeskove i Danmark (Dog parks in Denmark)",
+  "description": "Dog parks in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: leisure=dog_park.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 370,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aalborg kommune hundeskov",
+      "latitude": 57.039349,
+      "longitude": 9.995364
+    },
+    {
+      "name": "Aalestrup Hundeskov",
+      "latitude": 56.697285,
+      "longitude": 9.49534
+    },
+    {
+      "name": "Aksel Møller Have Løbegård",
+      "latitude": 55.685198,
+      "longitude": 12.532465
+    },
+    {
+      "name": "Alheden hundeskov",
+      "latitude": 56.307628,
+      "longitude": 9.262033
+    },
+    {
+      "name": "Amager Strand Hundefritløbsområde",
+      "latitude": 55.66662,
+      "longitude": 12.632099
+    },
+    {
+      "name": "Anebjerg Hundeskov",
+      "latitude": 56.039598,
+      "longitude": 9.972414
+    },
+    {
+      "name": "Arden Hundeskov",
+      "latitude": 56.780622,
+      "longitude": 9.861467
+    },
+    {
+      "name": "Arnborg Hundeskov",
+      "latitude": 56.015458,
+      "longitude": 8.986104
+    },
+    {
+      "name": "Avnø Fritløbsareal",
+      "latitude": 55.087861,
+      "longitude": 11.776439
+    },
+    {
+      "name": "Baggesens Alle Hundepark",
+      "latitude": 55.468961,
+      "longitude": 8.488545
+    },
+    {
+      "name": "Bakkely Hundeskov",
+      "latitude": 55.355318,
+      "longitude": 11.262431
+    },
+    {
+      "name": "Ballerup Løbegård",
+      "latitude": 55.707572,
+      "longitude": 12.36084
+    },
+    {
+      "name": "Bangsbo Hundeskov",
+      "latitude": 57.421862,
+      "longitude": 10.496807
+    },
+    {
+      "name": "Bangsebro Hundeskov",
+      "latitude": 54.787665,
+      "longitude": 11.872316
+    },
+    {
+      "name": "Bannerslund hundeskov",
+      "latitude": 57.484315,
+      "longitude": 10.477349
+    },
+    {
+      "name": "Baunesletten",
+      "latitude": 55.79305,
+      "longitude": 12.361974
+    },
+    {
+      "name": "Bavnedam Hundeskov",
+      "latitude": 55.371177,
+      "longitude": 10.313018
+    },
+    {
+      "name": "Birkhede Camping Hundeindhegning",
+      "latitude": 56.104182,
+      "longitude": 9.746799
+    },
+    {
+      "name": "Bistrup Hegn Hundeskov",
+      "latitude": 55.830471,
+      "longitude": 12.437987
+    },
+    {
+      "name": "Bjerregrav Hundeskov",
+      "latitude": 56.579853,
+      "longitude": 9.499095
+    },
+    {
+      "name": "Bjerringbro Hundeskov",
+      "latitude": 56.394171,
+      "longitude": 9.669728
+    },
+    {
+      "name": "Blangstedgård Hundeskov",
+      "latitude": 55.382352,
+      "longitude": 10.461751
+    },
+    {
+      "name": "Blokhus Klitplantage Hundeskov",
+      "latitude": 57.251173,
+      "longitude": 9.608794
+    },
+    {
+      "name": "Blykobbe hundeskov",
+      "latitude": 55.121864,
+      "longitude": 14.704973
+    },
+    {
+      "name": "Bognæs skov",
+      "latitude": 55.746952,
+      "longitude": 11.767
+    },
+    {
+      "name": "Bording Hundeskov",
+      "latitude": 56.144845,
+      "longitude": 9.257006
+    },
+    {
+      "name": "Boserup Hundeskov",
+      "latitude": 55.667645,
+      "longitude": 12.018663
+    },
+    {
+      "name": "Bramming Vestskov Hundeskov",
+      "latitude": 55.472647,
+      "longitude": 8.687824
+    },
+    {
+      "name": "Brylle Vandskovs hundeskov",
+      "latitude": 55.330981,
+      "longitude": 10.257889
+    },
+    {
+      "name": "Brædstrup Hundeskov",
+      "latitude": 55.97327,
+      "longitude": 9.621276
+    },
+    {
+      "name": "Budumvej Hundeskov",
+      "latitude": 57.04,
+      "longitude": 9.995124
+    },
+    {
+      "name": "Bygholm Park Hundeskov",
+      "latitude": 55.867258,
+      "longitude": 9.829864
+    },
+    {
+      "name": "Bærmose Hundeskov",
+      "latitude": 56.250482,
+      "longitude": 10.129137
+    },
+    {
+      "name": "Bølling Sø Hundeskov",
+      "latitude": 56.187576,
+      "longitude": 9.346756
+    },
+    {
+      "name": "Børkop Hundeskov",
+      "latitude": 55.648572,
+      "longitude": 9.645902
+    },
+    {
+      "name": "Bøtø Hundeskov",
+      "latitude": 54.644945,
+      "longitude": 11.955003
+    },
+    {
+      "name": "Charlottenlund Hundeskov",
+      "latitude": 55.750353,
+      "longitude": 12.583159
+    },
+    {
+      "name": "Christiansfeld hundeskov",
+      "latitude": 55.358596,
+      "longitude": 9.478677
+    },
+    {
+      "name": "CHundeskov",
+      "latitude": 55.336667,
+      "longitude": 9.196912
+    },
+    {
+      "name": "Cottageparken",
+      "latitude": 55.782152,
+      "longitude": 12.591152
+    },
+    {
+      "name": "Damgårdsparken Hundeløbegård",
+      "latitude": 55.73408,
+      "longitude": 12.367705
+    },
+    {
+      "name": "Damhusengen Fritløbsområde Nord",
+      "latitude": 55.689548,
+      "longitude": 12.467985
+    },
+    {
+      "name": "Damhusengen Fritløbsområde Syd",
+      "latitude": 55.68558,
+      "longitude": 12.468676
+    },
+    {
+      "name": "Den Jyske Skovhave",
+      "latitude": 56.816542,
+      "longitude": 9.882102
+    },
+    {
+      "name": "Den store hundegård i Nørrebroparken",
+      "latitude": 55.697109,
+      "longitude": 12.542333
+    },
+    {
+      "name": "Domus Vista Hundegård",
+      "latitude": 55.671021,
+      "longitude": 12.498411
+    },
+    {
+      "name": "Drastrup Hunde Skov",
+      "latitude": 56.9969,
+      "longitude": 9.815101
+    },
+    {
+      "name": "Drastrup Hundelegeplads",
+      "latitude": 57.000463,
+      "longitude": 9.863843
+    },
+    {
+      "name": "Durup Hundeskov",
+      "latitude": 56.73987,
+      "longitude": 8.958578
+    },
+    {
+      "name": "Dyssegårdsparken hundeskov:",
+      "latitude": 55.729503,
+      "longitude": 12.536814
+    },
+    {
+      "name": "Egebjerghaven Hundeløbegård",
+      "latitude": 55.751293,
+      "longitude": 12.374255
+    },
+    {
+      "name": "Egedal Skov",
+      "latitude": 56.185608,
+      "longitude": 10.690784
+    },
+    {
+      "name": "Egedal Skov",
+      "latitude": 56.186275,
+      "longitude": 10.6889
+    },
+    {
+      "name": "Egtved Hundeskov",
+      "latitude": 55.621864,
+      "longitude": 9.297729
+    },
+    {
+      "name": "Engelsholm Skov",
+      "latitude": 55.708826,
+      "longitude": 9.302585
+    },
+    {
+      "name": "Engskov Hundeskov",
+      "latitude": 56.25954,
+      "longitude": 10.312576
+    },
+    {
+      "name": "Ermelunden Hundeskov",
+      "latitude": 55.770449,
+      "longitude": 12.545072
+    },
+    {
+      "name": "Espe Skov Hundeskov",
+      "latitude": 55.209614,
+      "longitude": 10.405134
+    },
+    {
+      "name": "Even hundeskov",
+      "latitude": 55.221792,
+      "longitude": 11.726797
+    },
+    {
+      "name": "Faddersbøl Hundeskov",
+      "latitude": 56.931398,
+      "longitude": 8.450998
+    },
+    {
+      "name": "Fanø Plantage Hundeskov",
+      "latitude": 55.38776,
+      "longitude": 8.4212
+    },
+    {
+      "name": "Farsø Hundeskov",
+      "latitude": 56.768569,
+      "longitude": 9.349476
+    },
+    {
+      "name": "Fladbro hundeskov",
+      "latitude": 56.448342,
+      "longitude": 9.963015
+    },
+    {
+      "name": "Flyvestation Værløse Hundefold Nord",
+      "latitude": 55.773326,
+      "longitude": 12.331352
+    },
+    {
+      "name": "Flyvestation Værløse Hundefold Syd",
+      "latitude": 55.763437,
+      "longitude": 12.33639
+    },
+    {
+      "name": "Fløng Hundeskov",
+      "latitude": 55.65387,
+      "longitude": 12.179278
+    },
+    {
+      "name": "Frederikslund Skov Øst",
+      "latitude": 55.822996,
+      "longitude": 12.459841
+    },
+    {
+      "name": "Fritløbsområde Amager Fælled",
+      "latitude": 55.652708,
+      "longitude": 12.587251
+    },
+    {
+      "name": "Fritløbsområde Christianshavn Vold",
+      "latitude": 55.669497,
+      "longitude": 12.585163
+    },
+    {
+      "name": "Fritløbsområde Grøndalsparken",
+      "latitude": 55.689245,
+      "longitude": 12.508171
+    },
+    {
+      "name": "Fritløbsområde Lersøparken",
+      "latitude": 55.715919,
+      "longitude": 12.553574
+    },
+    {
+      "name": "Fritløbsområde Nørre Voldgade",
+      "latitude": 55.681127,
+      "longitude": 12.568761
+    },
+    {
+      "name": "Fritløbsområde Scherfigsvej",
+      "latitude": 55.721438,
+      "longitude": 12.578481
+    },
+    {
+      "name": "Fritløbsområde Sølvgade v. Botanisk Have",
+      "latitude": 55.688165,
+      "longitude": 12.576588
+    },
+    {
+      "name": "Fritløbsområde Valbyparken Vest",
+      "latitude": 55.639503,
+      "longitude": 12.513709
+    },
+    {
+      "name": "Fritløbsområde Valbyparken Øst",
+      "latitude": 55.639524,
+      "longitude": 12.526525
+    },
+    {
+      "name": "Fritløbsområde Vestvolden",
+      "latitude": 55.709187,
+      "longitude": 12.458698
+    },
+    {
+      "name": "Fritløbsområde Vigerslevparken Syd",
+      "latitude": 55.644914,
+      "longitude": 12.494188
+    },
+    {
+      "name": "Fritløbsområdet På Bjerget",
+      "latitude": 55.718583,
+      "longitude": 12.534305
+    },
+    {
+      "name": "Frodeslund Plantage",
+      "latitude": 55.744107,
+      "longitude": 8.932464
+    },
+    {
+      "name": "Frøslev Plantage Hundeskov",
+      "latitude": 54.845039,
+      "longitude": 9.330005
+    },
+    {
+      "name": "Fussingø Hundeskov",
+      "latitude": 56.465124,
+      "longitude": 9.8309
+    },
+    {
+      "name": "Gammel Rye Hundeskov / Kallehave Skov",
+      "latitude": 56.063662,
+      "longitude": 9.694275
+    },
+    {
+      "name": "Geelskov",
+      "latitude": 55.806272,
+      "longitude": 12.471199
+    },
+    {
+      "name": "Gjellerup Hundeskov",
+      "latitude": 56.139422,
+      "longitude": 9.050378
+    },
+    {
+      "name": "Gjern Plantage Hundeskov",
+      "latitude": 56.214137,
+      "longitude": 9.720967
+    },
+    {
+      "name": "Glumsø Hundeskov",
+      "latitude": 55.349369,
+      "longitude": 11.674542
+    },
+    {
+      "name": "Greve Skov Fritløbsområde",
+      "latitude": 55.587001,
+      "longitude": 12.242924
+    },
+    {
+      "name": "Grøndalsparken friluftsområde",
+      "latitude": 55.690273,
+      "longitude": 12.515723
+    },
+    {
+      "name": "Grønningen Hundegård",
+      "latitude": 55.658875,
+      "longitude": 12.584837
+    },
+    {
+      "name": "Gullestrup Hundeskov",
+      "latitude": 56.172175,
+      "longitude": 8.985674
+    },
+    {
+      "name": "Gyttegård Plantage Hundeskov",
+      "latitude": 55.716085,
+      "longitude": 9.051563
+    },
+    {
+      "name": "Gødding Hundeskov",
+      "latitude": 55.708182,
+      "longitude": 9.268063
+    },
+    {
+      "name": "Haarby Hundeskov",
+      "latitude": 55.226011,
+      "longitude": 10.137292
+    },
+    {
+      "name": "Hadbjerg Hundeskov",
+      "latitude": 56.331729,
+      "longitude": 10.113148
+    },
+    {
+      "name": "Haderslev Vesterskov Hundeskov",
+      "latitude": 55.287223,
+      "longitude": 9.485515
+    },
+    {
+      "name": "Hadsund Lilleskov",
+      "latitude": 56.732197,
+      "longitude": 10.11218
+    },
+    {
+      "name": "Hammel Hundeskov",
+      "latitude": 56.242588,
+      "longitude": 9.868742
+    },
+    {
+      "name": "Hammel Hundeskov Puppies",
+      "latitude": 56.242127,
+      "longitude": 9.872614
+    },
+    {
+      "name": "Hammer Bakker",
+      "latitude": 57.117368,
+      "longitude": 10.032576
+    },
+    {
+      "name": "Hampen Sø Hundeskov",
+      "latitude": 56.021523,
+      "longitude": 9.381724
+    },
+    {
+      "name": "Hampen Sø Hundeskov",
+      "latitude": 56.02188,
+      "longitude": 9.384017
+    },
+    {
+      "name": "Hannenov Hundeskov",
+      "latitude": 54.829099,
+      "longitude": 11.937819
+    },
+    {
+      "name": "Hanstholm Camping Hundelegeplads",
+      "latitude": 57.109225,
+      "longitude": 8.67128
+    },
+    {
+      "name": "Harrestrupvej Hundeløbegård",
+      "latitude": 55.715867,
+      "longitude": 12.385851
+    },
+    {
+      "name": "Harrestrupvej Hvalpeløbegård",
+      "latitude": 55.71271,
+      "longitude": 12.382402
+    },
+    {
+      "name": "Harte Hundeskov",
+      "latitude": 55.515431,
+      "longitude": 9.403532
+    },
+    {
+      "name": "Hasle hundehegn",
+      "latitude": 55.178856,
+      "longitude": 14.703581
+    },
+    {
+      "name": "Hastrup Søerne Hundegård",
+      "latitude": 55.441277,
+      "longitude": 12.150037
+    },
+    {
+      "name": "Haunstrup Hundeskov",
+      "latitude": 56.108581,
+      "longitude": 8.831784
+    },
+    {
+      "name": "Hawskoven Hundeskov",
+      "latitude": 57.117654,
+      "longitude": 8.63461
+    },
+    {
+      "name": "Hedeland Nord Hundeskov",
+      "latitude": 55.642099,
+      "longitude": 12.187736
+    },
+    {
+      "name": "Helenelyst hundeskov",
+      "latitude": 56.163292,
+      "longitude": 10.090319
+    },
+    {
+      "name": "Hem Hundeskov",
+      "latitude": 56.598487,
+      "longitude": 8.966974
+    },
+    {
+      "name": "Himmelev Skov Syd",
+      "latitude": 55.653386,
+      "longitude": 12.121853
+    },
+    {
+      "name": "Himmelev skov vest",
+      "latitude": 55.654047,
+      "longitude": 12.117276
+    },
+    {
+      "name": "Himmerig Hundeskov",
+      "latitude": 56.255033,
+      "longitude": 10.091316
+    },
+    {
+      "name": "Hirtshals Hundepark",
+      "latitude": 57.583558,
+      "longitude": 9.964545
+    },
+    {
+      "name": "Hjørring Hundemark",
+      "latitude": 57.477199,
+      "longitude": 9.982792
+    },
+    {
+      "name": "Holmstrup Mark hundeskov",
+      "latitude": 56.169937,
+      "longitude": 10.134385
+    },
+    {
+      "name": "Hornbæk Plantage Hundeskov",
+      "latitude": 56.092738,
+      "longitude": 12.430112
+    },
+    {
+      "name": "Hoverdal hundeskov",
+      "latitude": 56.159783,
+      "longitude": 8.406045
+    },
+    {
+      "name": "Hundebørnehave",
+      "latitude": 55.824618,
+      "longitude": 12.375023
+    },
+    {
+      "name": "Hundegård Bellahøj",
+      "latitude": 55.704108,
+      "longitude": 12.513469
+    },
+    {
+      "name": "Hundegård Eidsvoll Plads",
+      "latitude": 55.690745,
+      "longitude": 12.58743
+    },
+    {
+      "name": "Hundegård Fælledparken Nord",
+      "latitude": 55.705202,
+      "longitude": 12.573788
+    },
+    {
+      "name": "Hundegård Guldbergs Plads",
+      "latitude": 55.697478,
+      "longitude": 12.554274
+    },
+    {
+      "name": "Hundegård Husumforbindelsen",
+      "latitude": 55.710086,
+      "longitude": 12.48044
+    },
+    {
+      "name": "Hundegård Husumparken",
+      "latitude": 55.705251,
+      "longitude": 12.47276
+    },
+    {
+      "name": "Hundegård Otto Krabbes Plads",
+      "latitude": 55.670006,
+      "longitude": 12.553228
+    },
+    {
+      "name": "Hundegård Sjælør Boulevard",
+      "latitude": 55.648531,
+      "longitude": 12.528629
+    },
+    {
+      "name": "Hundegård Sønder Boulebard",
+      "latitude": 55.667953,
+      "longitude": 12.555516
+    },
+    {
+      "name": "Hundegård Vigerslevparken",
+      "latitude": 55.665833,
+      "longitude": 12.478507
+    },
+    {
+      "name": "Hundehaven",
+      "latitude": 57.493023,
+      "longitude": 9.840301
+    },
+    {
+      "name": "Hundehegn i Skævinge Skov",
+      "latitude": 55.9404,
+      "longitude": 12.225528
+    },
+    {
+      "name": "Hundeluftergård ved Humlekærgård",
+      "latitude": 55.501495,
+      "longitude": 12.182805
+    },
+    {
+      "name": "Hundeområde Lakolk",
+      "latitude": 55.147516,
+      "longitude": 8.489974
+    },
+    {
+      "name": "Hundepark ved Gl stationsvej",
+      "latitude": 56.453538,
+      "longitude": 10.03897
+    },
+    {
+      "name": "Hundepladsen",
+      "latitude": 56.104258,
+      "longitude": 10.173951
+    },
+    {
+      "name": "Hundeskov",
+      "latitude": 55.598833,
+      "longitude": 8.518962
+    },
+    {
+      "name": "Hundeskov",
+      "latitude": 55.599277,
+      "longitude": 8.518043
+    },
+    {
+      "name": "Hundeskov",
+      "latitude": 56.124321,
+      "longitude": 12.270265
+    },
+    {
+      "name": "Hundeskov Bevtoft",
+      "latitude": 55.213282,
+      "longitude": 9.237588
+    },
+    {
+      "name": "Hundeskov Bøsøre",
+      "latitude": 55.198346,
+      "longitude": 10.80657
+    },
+    {
+      "name": "Hundeskov Flyvesandet",
+      "latitude": 55.621125,
+      "longitude": 10.306598
+    },
+    {
+      "name": "Hundeskov i Benløseskoven",
+      "latitude": 55.465095,
+      "longitude": 11.783865
+    },
+    {
+      "name": "Hundeskov i Bjerreskov, Ribe",
+      "latitude": 55.349111,
+      "longitude": 8.793659
+    },
+    {
+      "name": "Hundeskov i Nordskoven, Slagelse",
+      "latitude": 55.427229,
+      "longitude": 11.351798
+    },
+    {
+      "name": "Hundeskov Klosterheden plantage",
+      "latitude": 56.488706,
+      "longitude": 8.357662
+    },
+    {
+      "name": "Hundeskov Løvbakkerne",
+      "latitude": 56.176701,
+      "longitude": 8.956064
+    },
+    {
+      "name": "Hundeskov Nordre Fælled",
+      "latitude": 56.497187,
+      "longitude": 10.031971
+    },
+    {
+      "name": "Hundeskov Næsgårdvej",
+      "latitude": 56.410045,
+      "longitude": 10.855658
+    },
+    {
+      "name": "Hundeskov Torp Plantage",
+      "latitude": 54.974607,
+      "longitude": 9.365865
+    },
+    {
+      "name": "Hundeskov ved Blankhøj",
+      "latitude": 56.174768,
+      "longitude": 10.067352
+    },
+    {
+      "name": "Hundeskov ved Fasterholt",
+      "latitude": 56.01251,
+      "longitude": 9.104416
+    },
+    {
+      "name": "Hundeskov ved Hampen Stationsby",
+      "latitude": 56.02017,
+      "longitude": 9.358658
+    },
+    {
+      "name": "Hundeskov ved Holtum å og Åhuset",
+      "latitude": 56.00132,
+      "longitude": 9.175707
+    },
+    {
+      "name": "Hundeskove Østerild Klitplantage, Thisted",
+      "latitude": 57.036378,
+      "longitude": 8.862362
+    },
+    {
+      "name": "Hundeskove Østerild Klitplantage, Thisted",
+      "latitude": 57.036432,
+      "longitude": 8.861486
+    },
+    {
+      "name": "Hundeskoven",
+      "latitude": 55.308203,
+      "longitude": 11.174016
+    },
+    {
+      "name": "Hundeskoven",
+      "latitude": 55.931707,
+      "longitude": 12.085818
+    },
+    {
+      "name": "Hundeskoven i Brøndby Kommune",
+      "latitude": 55.655557,
+      "longitude": 12.452219
+    },
+    {
+      "name": "Hundeskoven i Jægerlund",
+      "latitude": 55.622241,
+      "longitude": 9.093388
+    },
+    {
+      "name": "Hundeskoven i Lerskov Plantage",
+      "latitude": 55.101284,
+      "longitude": 9.412516
+    },
+    {
+      "name": "Hundeskoven i Stejlbjerganlægget",
+      "latitude": 55.484921,
+      "longitude": 9.463824
+    },
+    {
+      "name": "Hundeskoven i Tarm",
+      "latitude": 55.901642,
+      "longitude": 8.537738
+    },
+    {
+      "name": "Hundeskoven i Vestermose Skov",
+      "latitude": 55.437888,
+      "longitude": 9.929942
+    },
+    {
+      "name": "Hundeskoven Kobbelhøje",
+      "latitude": 56.488255,
+      "longitude": 8.497799
+    },
+    {
+      "name": "Hundeskoven Kobbelhøje",
+      "latitude": 56.488413,
+      "longitude": 8.498868
+    },
+    {
+      "name": "Hundeskoven ved de små fisk",
+      "latitude": 56.146998,
+      "longitude": 9.588856
+    },
+    {
+      "name": "Hundeskoven ved Middelfart Marina",
+      "latitude": 55.492607,
+      "longitude": 9.736837
+    },
+    {
+      "name": "Hundeskoven ved Sperrestrup Skov",
+      "latitude": 55.801679,
+      "longitude": 12.166737
+    },
+    {
+      "name": "Hundeskoven Århusvej",
+      "latitude": 56.167461,
+      "longitude": 9.585508
+    },
+    {
+      "name": "Hundested Hundelegeplads",
+      "latitude": 55.957553,
+      "longitude": 11.877119
+    },
+    {
+      "name": "Husby Hundeskov",
+      "latitude": 56.316981,
+      "longitude": 8.161733
+    },
+    {
+      "name": "Hvalsø Hundeskov",
+      "latitude": 55.584761,
+      "longitude": 11.872302
+    },
+    {
+      "name": "Hvidbjerg Hundeskov",
+      "latitude": 55.640412,
+      "longitude": 9.736638
+    },
+    {
+      "name": "Hvinningdal Hundeskov",
+      "latitude": 56.17796,
+      "longitude": 9.484834
+    },
+    {
+      "name": "Hyrdehøj Hundeskov",
+      "latitude": 55.627149,
+      "longitude": 12.055888
+    },
+    {
+      "name": "Hærvejen Nord hundeskov",
+      "latitude": 55.837204,
+      "longitude": 9.397632
+    },
+    {
+      "name": "Hærvejen Syd hundeskov",
+      "latitude": 55.835439,
+      "longitude": 9.39592
+    },
+    {
+      "name": "Høbjerg Hegn",
+      "latitude": 56.022425,
+      "longitude": 12.220848
+    },
+    {
+      "name": "Højby Hundeskov",
+      "latitude": 55.328055,
+      "longitude": 10.434497
+    },
+    {
+      "name": "Højvangens Hundelegeplads",
+      "latitude": 56.04866,
+      "longitude": 9.949379
+    },
+    {
+      "name": "Høng Hundeskov",
+      "latitude": 55.50867,
+      "longitude": 11.275158
+    },
+    {
+      "name": "Hørning Hundeskov",
+      "latitude": 56.09244,
+      "longitude": 10.023382
+    },
+    {
+      "name": "Høve Skov",
+      "latitude": 55.844983,
+      "longitude": 11.484445
+    },
+    {
+      "name": "Inderø Hundeskov",
+      "latitude": 56.377791,
+      "longitude": 9.339234
+    },
+    {
+      "name": "Juelstrup Sø Hundeskov (Himmelhunden)",
+      "latitude": 56.891425,
+      "longitude": 9.810159
+    },
+    {
+      "name": "Jyderup Hundeskov",
+      "latitude": 55.663236,
+      "longitude": 11.396302
+    },
+    {
+      "name": "Jægersborg Hegn Hundekskov",
+      "latitude": 55.829569,
+      "longitude": 12.571814
+    },
+    {
+      "name": "Kalvebod hundehegn",
+      "latitude": 55.629851,
+      "longitude": 12.563391
+    },
+    {
+      "name": "Kaserne Park Hundeskov",
+      "latitude": 55.452984,
+      "longitude": 11.795005
+    },
+    {
+      "name": "Kastanielunden Hundepark",
+      "latitude": 55.623837,
+      "longitude": 11.602006
+    },
+    {
+      "name": "Kastrup Strandpark fritløbsområde",
+      "latitude": 55.642509,
+      "longitude": 12.646799
+    },
+    {
+      "name": "Kattebjerg Hundeskov",
+      "latitude": 55.447415,
+      "longitude": 10.329908
+    },
+    {
+      "name": "Kibæk Hundeskov",
+      "latitude": 56.039658,
+      "longitude": 8.836276
+    },
+    {
+      "name": "Kikkebjerg hundeskov",
+      "latitude": 55.456149,
+      "longitude": 8.393592
+    },
+    {
+      "name": "Kirkeby Plantage Hundeskov",
+      "latitude": 55.120212,
+      "longitude": 8.544131
+    },
+    {
+      "name": "Kirkemosen Fritløbsområde",
+      "latitude": 55.70956,
+      "longitude": 12.504449
+    },
+    {
+      "name": "Kirkendrup Hundeskov",
+      "latitude": 55.434019,
+      "longitude": 10.325386
+    },
+    {
+      "name": "Kirkeskoven",
+      "latitude": 55.81715,
+      "longitude": 12.502577
+    },
+    {
+      "name": "Klank Hundeskov",
+      "latitude": 56.152295,
+      "longitude": 9.931799
+    },
+    {
+      "name": "Klemensker hundehegn",
+      "latitude": 55.173509,
+      "longitude": 14.814039
+    },
+    {
+      "name": "Kobæk Hundeskov",
+      "latitude": 55.25486,
+      "longitude": 11.25868
+    },
+    {
+      "name": "Kolding Åpark Hundeskov",
+      "latitude": 55.488055,
+      "longitude": 9.495826
+    },
+    {
+      "name": "Kollekollevej Hundefold",
+      "latitude": 55.777943,
+      "longitude": 12.395589
+    },
+    {
+      "name": "Kollerup Plantage Hundeskov",
+      "latitude": 57.115152,
+      "longitude": 9.269472
+    },
+    {
+      "name": "Kompedal Hundeskov",
+      "latitude": 56.228411,
+      "longitude": 9.292733
+    },
+    {
+      "name": "Kongerslev Hundeklub",
+      "latitude": 56.878429,
+      "longitude": 10.122404
+    },
+    {
+      "name": "Krogebjergparken Fritløbsområde",
+      "latitude": 55.699286,
+      "longitude": 12.4647
+    },
+    {
+      "name": "Krogsbølle Hundeskov",
+      "latitude": 54.849095,
+      "longitude": 11.157
+    },
+    {
+      "name": "Kær Hundepark",
+      "latitude": 54.928052,
+      "longitude": 9.779276
+    },
+    {
+      "name": "Kølkær Hundeskov",
+      "latitude": 56.059303,
+      "longitude": 9.08864
+    },
+    {
+      "name": "Langå Hundeskov",
+      "latitude": 56.395069,
+      "longitude": 9.905498
+    },
+    {
+      "name": "Langå Hundeskov",
+      "latitude": 56.396058,
+      "longitude": 9.906262
+    },
+    {
+      "name": "Lild Hundeskov",
+      "latitude": 57.137312,
+      "longitude": 8.982846
+    },
+    {
+      "name": "Lilleheden Klitplantage Hundeskov",
+      "latitude": 57.581772,
+      "longitude": 9.973748
+    },
+    {
+      "name": "Lillevang Hundepark",
+      "latitude": 55.818197,
+      "longitude": 12.34495
+    },
+    {
+      "name": "Lindet Hundeskov",
+      "latitude": 55.194395,
+      "longitude": 8.964311
+    },
+    {
+      "name": "Lolas Lund",
+      "latitude": 55.423017,
+      "longitude": 10.390973
+    },
+    {
+      "name": "Lundager Hundeskov",
+      "latitude": 55.278739,
+      "longitude": 9.923135
+    },
+    {
+      "name": "Lundby Krat Hundeskov",
+      "latitude": 56.988223,
+      "longitude": 10.009964
+    },
+    {
+      "name": "Lunderskov hundeskov",
+      "latitude": 55.470245,
+      "longitude": 9.289487
+    },
+    {
+      "name": "Løbegård Kildevældsparken",
+      "latitude": 55.713745,
+      "longitude": 12.565575
+    },
+    {
+      "name": "Løbegård Trekronergade",
+      "latitude": 55.661173,
+      "longitude": 12.519026
+    },
+    {
+      "name": "Løbegård Utterslev Mose",
+      "latitude": 55.710809,
+      "longitude": 12.501626
+    },
+    {
+      "name": "Lørslev Hundeskov",
+      "latitude": 57.425196,
+      "longitude": 10.087529
+    },
+    {
+      "name": "Madeskoven",
+      "latitude": 54.931118,
+      "longitude": 9.846631
+    },
+    {
+      "name": "Madeskoven",
+      "latitude": 54.934709,
+      "longitude": 9.848868
+    },
+    {
+      "name": "Marsk Camp Hundeskov",
+      "latitude": 55.158479,
+      "longitude": 8.745892
+    },
+    {
+      "name": "Marstal Hundeskov",
+      "latitude": 54.846492,
+      "longitude": 10.519192
+    },
+    {
+      "name": "Moesgård Skov",
+      "latitude": 56.092679,
+      "longitude": 10.245932
+    },
+    {
+      "name": "Mollerup Hundeskov",
+      "latitude": 56.201802,
+      "longitude": 10.205354
+    },
+    {
+      "name": "Mulighedernes Park Hundeskov",
+      "latitude": 57.019661,
+      "longitude": 9.87614
+    },
+    {
+      "name": "Måløv Naturpark Hundeløbegård",
+      "latitude": 55.757144,
+      "longitude": 12.317114
+    },
+    {
+      "name": "Mølleskovens Hundeområde",
+      "latitude": 56.609728,
+      "longitude": 9.493651
+    },
+    {
+      "name": "Mørkøv Hundeskov",
+      "latitude": 55.651203,
+      "longitude": 11.490859
+    },
+    {
+      "name": "Nexø hundehegn",
+      "latitude": 55.057929,
+      "longitude": 15.125231
+    },
+    {
+      "name": "Nibsbjerg Plantage Hundeskov",
+      "latitude": 56.353265,
+      "longitude": 8.59621
+    },
+    {
+      "name": "Nordmandsskoven Hundeskov ved Skibby",
+      "latitude": 55.76031,
+      "longitude": 11.961981
+    },
+    {
+      "name": "Nybæk Plantage Hundeskov",
+      "latitude": 57.363385,
+      "longitude": 9.739836
+    },
+    {
+      "name": "Nysted Hundepark",
+      "latitude": 54.659194,
+      "longitude": 11.740807
+    },
+    {
+      "name": "Nørager Hundeskov",
+      "latitude": 56.698388,
+      "longitude": 9.634435
+    },
+    {
+      "name": "Nørre Broby Hundepark",
+      "latitude": 55.257246,
+      "longitude": 10.230238
+    },
+    {
+      "name": "Nørre Voldgade Hundepark",
+      "latitude": 55.679825,
+      "longitude": 12.567014
+    },
+    {
+      "name": "Nørre Voldgade Hundepark",
+      "latitude": 55.680469,
+      "longitude": 12.567852
+    },
+    {
+      "name": "Nørre Åby Hundeskov",
+      "latitude": 55.457468,
+      "longitude": 9.876411
+    },
+    {
+      "name": "Nørrebroparkens Hundegård Syd",
+      "latitude": 55.690678,
+      "longitude": 12.543535
+    },
+    {
+      "name": "Nørreskov",
+      "latitude": 55.060167,
+      "longitude": 9.416234
+    },
+    {
+      "name": "Nørreskoven Furesøbad",
+      "latitude": 55.803285,
+      "longitude": 12.384197
+    },
+    {
+      "name": "Oksbøl Hundeskov",
+      "latitude": 55.633789,
+      "longitude": 8.265671
+    },
+    {
+      "name": "Ordrup Krat",
+      "latitude": 55.770537,
+      "longitude": 12.562232
+    },
+    {
+      "name": "Otterup Hundeskov",
+      "latitude": 55.517337,
+      "longitude": 10.385974
+    },
+    {
+      "name": "Otto Krabbes Plads",
+      "latitude": 55.670138,
+      "longitude": 12.552955
+    },
+    {
+      "name": "Oxbjerget Hundefold",
+      "latitude": 55.686909,
+      "longitude": 12.417113
+    },
+    {
+      "name": "Pedershaab Hundeskov",
+      "latitude": 57.274178,
+      "longitude": 9.920964
+    },
+    {
+      "name": "Potely",
+      "latitude": 56.49168,
+      "longitude": 10.033205
+    },
+    {
+      "name": "Pæremosen Hundeløbegård",
+      "latitude": 55.746272,
+      "longitude": 12.390366
+    },
+    {
+      "name": "Randal Hundeskov",
+      "latitude": 55.584043,
+      "longitude": 9.739907
+    },
+    {
+      "name": "Randbøl Hede Hundeskov",
+      "latitude": 55.669732,
+      "longitude": 9.17429
+    },
+    {
+      "name": "Ranum Hundeskov",
+      "latitude": 56.898022,
+      "longitude": 9.220809
+    },
+    {
+      "name": "Renbæk Hundeskov 1",
+      "latitude": 55.192235,
+      "longitude": 8.894202
+    },
+    {
+      "name": "Renbæk Hundeskov 2",
+      "latitude": 55.192588,
+      "longitude": 8.889984
+    },
+    {
+      "name": "Riis Skov",
+      "latitude": 56.172426,
+      "longitude": 10.223001
+    },
+    {
+      "name": "Romalt Hundepark",
+      "latitude": 56.447953,
+      "longitude": 10.091311
+    },
+    {
+      "name": "Rosenlund Hundeskov",
+      "latitude": 55.568314,
+      "longitude": 12.578752
+    },
+    {
+      "name": "Ry Hundeskov",
+      "latitude": 56.097475,
+      "longitude": 9.784856
+    },
+    {
+      "name": "Rø hundehegn",
+      "latitude": 55.209626,
+      "longitude": 14.888455
+    },
+    {
+      "name": "Rødding Hundeskov",
+      "latitude": 55.377407,
+      "longitude": 9.079752
+    },
+    {
+      "name": "Rødskebølle Hundeskov",
+      "latitude": 55.084506,
+      "longitude": 10.576816
+    },
+    {
+      "name": "Rønhede Plantage Hundeskov",
+      "latitude": 56.802363,
+      "longitude": 8.396699
+    },
+    {
+      "name": "Sandved Hundeskov",
+      "latitude": 55.265455,
+      "longitude": 11.503838
+    },
+    {
+      "name": "Sankt Jørgens Park",
+      "latitude": 55.397577,
+      "longitude": 10.408341
+    },
+    {
+      "name": "Saxoparken Hundegård",
+      "latitude": 55.669993,
+      "longitude": 12.551385
+    },
+    {
+      "name": "Seden Hundeskov",
+      "latitude": 55.41781,
+      "longitude": 10.453666
+    },
+    {
+      "name": "Sjørup Hundeskov",
+      "latitude": 56.42219,
+      "longitude": 9.087643
+    },
+    {
+      "name": "Sjøstrup Hundeskov",
+      "latitude": 56.804263,
+      "longitude": 9.539687
+    },
+    {
+      "name": "Skanderborg Hundeskov",
+      "latitude": 56.035197,
+      "longitude": 9.906564
+    },
+    {
+      "name": "Skjern hundeeng",
+      "latitude": 55.931645,
+      "longitude": 8.504803
+    },
+    {
+      "name": "Skotlands Plads Løbegård",
+      "latitude": 55.657495,
+      "longitude": 12.604226
+    },
+    {
+      "name": "Skovholmen",
+      "latitude": 56.453404,
+      "longitude": 10.054765
+    },
+    {
+      "name": "Skydebanevejens hundeskov",
+      "latitude": 57.054397,
+      "longitude": 9.882768
+    },
+    {
+      "name": "Skårmose hundeskov",
+      "latitude": 56.28452,
+      "longitude": 8.548086
+    },
+    {
+      "name": "Sludstrup hundeskov",
+      "latitude": 55.359859,
+      "longitude": 11.387064
+    },
+    {
+      "name": "Sluseholmen hundepark",
+      "latitude": 55.646708,
+      "longitude": 12.548341
+    },
+    {
+      "name": "Små hunde",
+      "latitude": 55.447454,
+      "longitude": 12.167734
+    },
+    {
+      "name": "Snejbjerg Hundeskov",
+      "latitude": 56.12695,
+      "longitude": 8.909943
+    },
+    {
+      "name": "Snogdal Hundeskov",
+      "latitude": 56.155898,
+      "longitude": 8.522061
+    },
+    {
+      "name": "SOK's Hundeskov",
+      "latitude": 56.123671,
+      "longitude": 10.20694
+    },
+    {
+      "name": "Solbjerg Hundeskov",
+      "latitude": 56.047339,
+      "longitude": 10.083048
+    },
+    {
+      "name": "Solgårdsparkens Hundeskov",
+      "latitude": 55.417407,
+      "longitude": 12.232463
+    },
+    {
+      "name": "Solhøj Fælled Hundeskov",
+      "latitude": 55.61439,
+      "longitude": 12.199233
+    },
+    {
+      "name": "Sollerup Hundeskov",
+      "latitude": 55.149888,
+      "longitude": 10.267535
+    },
+    {
+      "name": "Solrød Strand Hundeskov",
+      "latitude": 55.519852,
+      "longitude": 12.197872
+    },
+    {
+      "name": "Sommersted Hundeskov",
+      "latitude": 55.310006,
+      "longitude": 9.280888
+    },
+    {
+      "name": "Sophienlund Hundeskov",
+      "latitude": 55.728748,
+      "longitude": 9.527313
+    },
+    {
+      "name": "Spjald hundeskovi Åparken",
+      "latitude": 56.131882,
+      "longitude": 8.506634
+    },
+    {
+      "name": "Springforbi Strandpark",
+      "latitude": 55.802752,
+      "longitude": 12.586056
+    },
+    {
+      "name": "Staurby Skov hundeskov",
+      "latitude": 55.522063,
+      "longitude": 9.784281
+    },
+    {
+      "name": "Stege Hundeskov",
+      "latitude": 54.997972,
+      "longitude": 12.291706
+    },
+    {
+      "name": "Steins Plads Løbegård",
+      "latitude": 55.661795,
+      "longitude": 12.5038
+    },
+    {
+      "name": "Stensballe Hundeskov",
+      "latitude": 55.862227,
+      "longitude": 9.931622
+    },
+    {
+      "name": "Stensbæk Hundeskov",
+      "latitude": 55.274419,
+      "longitude": 8.947623
+    },
+    {
+      "name": "Store hunde",
+      "latitude": 55.44696,
+      "longitude": 12.167622
+    },
+    {
+      "name": "Storvej Hundeløbegård",
+      "latitude": 55.709788,
+      "longitude": 12.35779
+    },
+    {
+      "name": "Sundby Kirkegård Løbegård",
+      "latitude": 55.658276,
+      "longitude": 12.614108
+    },
+    {
+      "name": "Sunds Hundeskov",
+      "latitude": 56.200157,
+      "longitude": 9.028041
+    },
+    {
+      "name": "Syvsten Hundeskov",
+      "latitude": 57.309176,
+      "longitude": 10.425689
+    },
+    {
+      "name": "Søndermarken Hundeskov",
+      "latitude": 55.668657,
+      "longitude": 12.526571
+    },
+    {
+      "name": "Sørvad Hundeskov",
+      "latitude": 56.258564,
+      "longitude": 8.650516
+    },
+    {
+      "name": "Tange Hundeskov",
+      "latitude": 55.322798,
+      "longitude": 8.821165
+    },
+    {
+      "name": "Tapsøre Hundeskov",
+      "latitude": 55.390583,
+      "longitude": 9.446362
+    },
+    {
+      "name": "Tarup-Davinde Hundeskov",
+      "latitude": 55.329901,
+      "longitude": 10.527493
+    },
+    {
+      "name": "Tarup-Davinde Sydlig Hundeskov",
+      "latitude": 55.328163,
+      "longitude": 10.529526
+    },
+    {
+      "name": "Taulov Hundeskov",
+      "latitude": 55.538413,
+      "longitude": 9.600106
+    },
+    {
+      "name": "Tejn hundehegn",
+      "latitude": 55.243194,
+      "longitude": 14.831002
+    },
+    {
+      "name": "Tingstrup Hundeskov",
+      "latitude": 56.969875,
+      "longitude": 8.671011
+    },
+    {
+      "name": "Tinkerdal Hundeskov",
+      "latitude": 56.393968,
+      "longitude": 8.824945
+    },
+    {
+      "name": "Toftlund Hundeskov",
+      "latitude": 55.199524,
+      "longitude": 9.062492
+    },
+    {
+      "name": "Tornby hundeskov",
+      "latitude": 57.535139,
+      "longitude": 9.908455
+    },
+    {
+      "name": "Tranbjerg Hundeskov",
+      "latitude": 56.092716,
+      "longitude": 10.120112
+    },
+    {
+      "name": "Trianglen Store Hundegård",
+      "latitude": 55.69863,
+      "longitude": 12.573552
+    },
+    {
+      "name": "Trondhjems Plads Løbegård",
+      "latitude": 55.694207,
+      "longitude": 12.588366
+    },
+    {
+      "name": "True Skov",
+      "latitude": 56.170401,
+      "longitude": 10.100611
+    },
+    {
+      "name": "Træbanken Hundeskov",
+      "latitude": 55.749236,
+      "longitude": 12.436355
+    },
+    {
+      "name": "Trørød Hegn Hundeskov",
+      "latitude": 55.846735,
+      "longitude": 12.554099
+    },
+    {
+      "name": "Tune Skov Hundefold",
+      "latitude": 55.578496,
+      "longitude": 12.163467
+    },
+    {
+      "name": "Tuse Næs Hundested",
+      "latitude": 55.752699,
+      "longitude": 11.702764
+    },
+    {
+      "name": "Tversted hundeskov",
+      "latitude": 57.60369,
+      "longitude": 10.242281
+    },
+    {
+      "name": "Tvis Mølle hundeskov",
+      "latitude": 56.34809,
+      "longitude": 8.680204
+    },
+    {
+      "name": "Tønballe Hundeskov",
+      "latitude": 55.814252,
+      "longitude": 10.042265
+    },
+    {
+      "name": "Tønballe Hundeskov",
+      "latitude": 55.814686,
+      "longitude": 10.042853
+    },
+    {
+      "name": "Ulfborg Hundeskov",
+      "latitude": 56.278609,
+      "longitude": 8.314089
+    },
+    {
+      "name": "Ullerup Hundeskov",
+      "latitude": 55.965593,
+      "longitude": 11.874017
+    },
+    {
+      "name": "Undallslund hundeskov",
+      "latitude": 56.477923,
+      "longitude": 9.385402
+    },
+    {
+      "name": "Vadum Hundeskov",
+      "latitude": 57.120243,
+      "longitude": 9.8504
+    },
+    {
+      "name": "Vallø Slot Hundeskov",
+      "latitude": 55.403094,
+      "longitude": 12.215215
+    },
+    {
+      "name": "Vamdrup Hundeskov",
+      "latitude": 55.423021,
+      "longitude": 9.28209
+    },
+    {
+      "name": "Vemb Hundeskov",
+      "latitude": 56.330292,
+      "longitude": 8.347966
+    },
+    {
+      "name": "Vester Husby Hundeskov",
+      "latitude": 56.285021,
+      "longitude": 8.181825
+    },
+    {
+      "name": "Vestereng",
+      "latitude": 56.18419,
+      "longitude": 10.178346
+    },
+    {
+      "name": "Vestervang Hundeskov",
+      "latitude": 56.162953,
+      "longitude": 10.196184
+    },
+    {
+      "name": "Vestskoven Hundefold",
+      "latitude": 55.678663,
+      "longitude": 12.37003
+    },
+    {
+      "name": "Vestskoven, Stensøen",
+      "latitude": 55.681681,
+      "longitude": 12.362612
+    },
+    {
+      "name": "Videbæk Hundeskov",
+      "latitude": 56.095353,
+      "longitude": 8.601603
+    },
+    {
+      "name": "Vig fritløbsområde",
+      "latitude": 55.854899,
+      "longitude": 11.580809
+    },
+    {
+      "name": "Vigerslevparken Fritløbsområde Midt",
+      "latitude": 55.659253,
+      "longitude": 12.47797
+    },
+    {
+      "name": "Vigersted Hundelufteområde",
+      "latitude": 55.47879,
+      "longitude": 11.888294
+    },
+    {
+      "name": "Vilsbøl Hundeskov",
+      "latitude": 57.030439,
+      "longitude": 8.541853
+    },
+    {
+      "name": "Vinderup by hundeskov",
+      "latitude": 56.48157,
+      "longitude": 8.771792
+    },
+    {
+      "name": "Vinderup hundeskov",
+      "latitude": 56.477572,
+      "longitude": 8.796939
+    },
+    {
+      "name": "Vridsløse hundeskov",
+      "latitude": 55.262071,
+      "longitude": 11.766919
+    },
+    {
+      "name": "Vråby Plantage Hundeskov",
+      "latitude": 55.096296,
+      "longitude": 8.525396
+    },
+    {
+      "name": "Willeruplund hundepark",
+      "latitude": 55.405279,
+      "longitude": 10.347383
+    },
+    {
+      "name": "Åbo hundeskov",
+      "latitude": 56.12656,
+      "longitude": 10.017104
+    },
+    {
+      "name": "Ågade Fritløbsområde",
+      "latitude": 55.689752,
+      "longitude": 12.538308
+    },
+    {
+      "name": "Ågerup Hundeskov",
+      "latitude": 55.69827,
+      "longitude": 12.150983
+    },
+    {
+      "name": "Ålbæk hundeskov",
+      "latitude": 57.595045,
+      "longitude": 10.394027
+    },
+    {
+      "name": "Åsedam Hundeskov",
+      "latitude": 55.134447,
+      "longitude": 14.923391
+    },
+    {
+      "name": "Æblelunden",
+      "latitude": 55.708669,
+      "longitude": 11.756296
+    },
+    {
+      "name": "Ølgryde Plantage Hundeskov",
+      "latitude": 56.282691,
+      "longitude": 8.595132
+    },
+    {
+      "name": "Ølgryde Plantage Hundeskov",
+      "latitude": 56.28282,
+      "longitude": 8.596223
+    },
+    {
+      "name": "Ørestad Bypark Hundegård",
+      "latitude": 55.634095,
+      "longitude": 12.574687
+    },
+    {
+      "name": "Øselsgade Hundegård",
+      "latitude": 55.661458,
+      "longitude": 12.601407
+    },
+    {
+      "name": "Østerhøj Hundeløbegård",
+      "latitude": 55.745517,
+      "longitude": 12.333356
+    },
+    {
+      "name": "Østermarie hundehegn",
+      "latitude": 55.136458,
+      "longitude": 15.005671
+    },
+    {
+      "name": "Østerskoven Hundeskov",
+      "latitude": 55.348526,
+      "longitude": 11.701136
+    },
+    {
+      "name": "Østerådalen Hundeskov",
+      "latitude": 57.02067,
+      "longitude": 9.91399
+    },
+    {
+      "name": "Østre Plantage",
+      "latitude": 56.360014,
+      "longitude": 8.645473
+    }
+  ],
+  "meta": {
+    "title": "Hundeskove i Danmark (Dog parks in Denmark) - Gratis download",
+    "description": "Dog parks in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: leisure=dog_park. Indeholder 370 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Hundeskove i Danmark (Dog parks in Denmark) | ListBase",
+    "seo_description": "Download Hundeskove i Danmark (Dog parks in Denmark) — 370 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 370 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

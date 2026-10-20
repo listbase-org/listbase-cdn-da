@@ -1,0 +1,208 @@
+{
+  "id": "da-roskilde-afstemningssteder",
+  "name": "Afstemningssteder i Roskilde Kommune",
+  "title": "Afstemningssteder i Roskilde Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Roskilde Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Roskilde Bymidte",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Klostermarken",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Sankt Jørgen",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Hedegårdene",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Østervang",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Himmelev",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Svogerslev",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Vindinge",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Vor Frue",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Æblehaven",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Gundsølille",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Jyllinge",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Gundsømagle",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Baunehøj",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Gadstrup",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Viby",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Snoldelev",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Dåstrup",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Trekroner",
+      "kommune_kode": 265,
+      "kommune": "Roskilde",
+      "opstillingskreds_nummer": 36,
+      "opstillingskreds": "Roskilde"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Roskilde Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Roskilde Kommune med opstillingskreds. Indeholder 19 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Roskilde Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Roskilde Kommune — 19 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 19 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "da-hellerup-banker",
+  "name": "Banker i Hellerup — SWIFT/BIC-koder",
+  "title": "Banker i Hellerup — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Hellerup, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"HELLERUP\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 4,
+      "bank": "ABSALON CAPITAL FONDSMAEGLERSELSKAB A/S",
+      "city": "HELLERUP",
+      "branch": "",
+      "swift_code": "ABAKDK21"
+    },
+    {
+      "id": 195,
+      "bank": "FORCA A/S",
+      "city": "HELLERUP",
+      "branch": "",
+      "swift_code": "FOCCDK21"
+    },
+    {
+      "id": 202,
+      "bank": "G.P.BORSMAGLERSELSKAB A/S",
+      "city": "HELLERUP",
+      "branch": "",
+      "swift_code": "GPBSDKK1"
+    },
+    {
+      "id": 315,
+      "bank": "LAERERNES PENSION FORSIKRINGSAKTIES",
+      "city": "HELLERUP",
+      "branch": "",
+      "swift_code": "LAPFDK21"
+    },
+    {
+      "id": 428,
+      "bank": "SAXO BANK A/S",
+      "city": "HELLERUP",
+      "branch": "",
+      "swift_code": "SAXODKKK"
+    },
+    {
+      "id": 429,
+      "bank": "SAXO PAYMENTS A/S",
+      "city": "HELLERUP",
+      "branch": "",
+      "swift_code": "SXPYDKKK"
+    },
+    {
+      "id": 430,
+      "bank": "SAXO PRIVATBANK",
+      "city": "HELLERUP",
+      "branch": "",
+      "swift_code": "BRSPDK21"
+    },
+    {
+      "id": 431,
+      "bank": "SAXO PRIVATBANK",
+      "city": "HELLERUP",
+      "branch": "",
+      "swift_code": "ETDEDKK1"
+    },
+    {
+      "id": 432,
+      "bank": "SAXOBANK A/S",
+      "city": "HELLERUP",
+      "branch": "",
+      "swift_code": "SAXODK21"
+    },
+    {
+      "id": 444,
+      "bank": "SKJERN BANK",
+      "city": "HELLERUP",
+      "branch": "",
+      "swift_code": "SKJBDK22HLL"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Hellerup — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Hellerup, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"HELLERUP\"). Delmængde af det nationale da-banker-datasæt. Indeholder 10 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Hellerup — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Hellerup — SWIFT/BIC-koder — 10 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 10 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

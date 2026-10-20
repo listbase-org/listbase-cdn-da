@@ -1,0 +1,120 @@
+{
+  "id": "da-hvidovre-afstemningssteder",
+  "name": "Afstemningssteder i Hvidovre Kommune",
+  "title": "Afstemningssteder i Hvidovre Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Hvidovre Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Holmegårdshallen",
+      "kommune_kode": 167,
+      "kommune": "Hvidovre",
+      "opstillingskreds_nummer": 17,
+      "opstillingskreds": "Hvidovre"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Præstemoseskolen",
+      "kommune_kode": 167,
+      "kommune": "Hvidovre",
+      "opstillingskreds_nummer": 17,
+      "opstillingskreds": "Hvidovre"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Sønderkærskolen",
+      "kommune_kode": 167,
+      "kommune": "Hvidovre",
+      "opstillingskreds_nummer": 17,
+      "opstillingskreds": "Hvidovre"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Medborgerhuset",
+      "kommune_kode": 167,
+      "kommune": "Hvidovre",
+      "opstillingskreds_nummer": 17,
+      "opstillingskreds": "Hvidovre"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Dansborghallen",
+      "kommune_kode": 167,
+      "kommune": "Hvidovre",
+      "opstillingskreds_nummer": 17,
+      "opstillingskreds": "Hvidovre"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Frihedens Idrætscenter",
+      "kommune_kode": 167,
+      "kommune": "Hvidovre",
+      "opstillingskreds_nummer": 17,
+      "opstillingskreds": "Hvidovre"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Avedøre Skole",
+      "kommune_kode": 167,
+      "kommune": "Hvidovre",
+      "opstillingskreds_nummer": 17,
+      "opstillingskreds": "Hvidovre"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Avedøre Bibliotek",
+      "kommune_kode": 167,
+      "kommune": "Hvidovre",
+      "opstillingskreds_nummer": 17,
+      "opstillingskreds": "Hvidovre"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Hvidovre Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Hvidovre Kommune med opstillingskreds. Indeholder 8 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Hvidovre Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Hvidovre Kommune — 8 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 8 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

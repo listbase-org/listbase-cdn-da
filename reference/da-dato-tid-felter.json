@@ -1,0 +1,266 @@
+{
+  "id": "da-dato-tid-felter",
+  "name": "Dato- og tidsfelter (CLDR da, 45)",
+  "title": "Dato- og tidsfelter (CLDR da, 45)",
+  "description": "Danske visningsnavne for CLDR dato/tids-felter (år, måned, dag, time, minut, sekund m.fl.).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "kode",
+      "label": "Kode",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "kode": "day",
+      "navn": "dag"
+    },
+    {
+      "id": 2,
+      "kode": "day-narrow",
+      "navn": "dag"
+    },
+    {
+      "id": 3,
+      "kode": "day-short",
+      "navn": "dag"
+    },
+    {
+      "id": 4,
+      "kode": "dayOfYear",
+      "navn": "dag i året"
+    },
+    {
+      "id": 5,
+      "kode": "dayOfYear-narrow",
+      "navn": "dag i året"
+    },
+    {
+      "id": 6,
+      "kode": "dayOfYear-short",
+      "navn": "dag i året"
+    },
+    {
+      "id": 7,
+      "kode": "dayperiod",
+      "navn": "AM/PM"
+    },
+    {
+      "id": 8,
+      "kode": "dayperiod-narrow",
+      "navn": "AM/PM"
+    },
+    {
+      "id": 9,
+      "kode": "dayperiod-short",
+      "navn": "AM/PM"
+    },
+    {
+      "id": 10,
+      "kode": "era",
+      "navn": "æra"
+    },
+    {
+      "id": 11,
+      "kode": "era-narrow",
+      "navn": "æra"
+    },
+    {
+      "id": 12,
+      "kode": "era-short",
+      "navn": "æra"
+    },
+    {
+      "id": 13,
+      "kode": "hour",
+      "navn": "time"
+    },
+    {
+      "id": 14,
+      "kode": "hour-narrow",
+      "navn": "t."
+    },
+    {
+      "id": 15,
+      "kode": "hour-short",
+      "navn": "t."
+    },
+    {
+      "id": 16,
+      "kode": "minute",
+      "navn": "minut"
+    },
+    {
+      "id": 17,
+      "kode": "minute-narrow",
+      "navn": "min."
+    },
+    {
+      "id": 18,
+      "kode": "minute-short",
+      "navn": "min."
+    },
+    {
+      "id": 19,
+      "kode": "month",
+      "navn": "måned"
+    },
+    {
+      "id": 20,
+      "kode": "month-narrow",
+      "navn": "md."
+    },
+    {
+      "id": 21,
+      "kode": "month-short",
+      "navn": "md."
+    },
+    {
+      "id": 22,
+      "kode": "quarter",
+      "navn": "kvartal"
+    },
+    {
+      "id": 23,
+      "kode": "quarter-narrow",
+      "navn": "kvt."
+    },
+    {
+      "id": 24,
+      "kode": "quarter-short",
+      "navn": "kvt."
+    },
+    {
+      "id": 25,
+      "kode": "second",
+      "navn": "sekund"
+    },
+    {
+      "id": 26,
+      "kode": "second-narrow",
+      "navn": "s"
+    },
+    {
+      "id": 27,
+      "kode": "second-short",
+      "navn": "sek."
+    },
+    {
+      "id": 28,
+      "kode": "week",
+      "navn": "uge"
+    },
+    {
+      "id": 29,
+      "kode": "week-narrow",
+      "navn": "uge"
+    },
+    {
+      "id": 30,
+      "kode": "week-short",
+      "navn": "uge"
+    },
+    {
+      "id": 31,
+      "kode": "weekOfMonth",
+      "navn": "uge i måneden"
+    },
+    {
+      "id": 32,
+      "kode": "weekOfMonth-narrow",
+      "navn": "uge i md."
+    },
+    {
+      "id": 33,
+      "kode": "weekOfMonth-short",
+      "navn": "uge i md."
+    },
+    {
+      "id": 34,
+      "kode": "weekday",
+      "navn": "ugedag"
+    },
+    {
+      "id": 35,
+      "kode": "weekday-narrow",
+      "navn": "ugedag"
+    },
+    {
+      "id": 36,
+      "kode": "weekday-short",
+      "navn": "ugedag"
+    },
+    {
+      "id": 37,
+      "kode": "weekdayOfMonth",
+      "navn": "ugedag i måneden"
+    },
+    {
+      "id": 38,
+      "kode": "weekdayOfMonth-narrow",
+      "navn": "ugedag i md."
+    },
+    {
+      "id": 39,
+      "kode": "weekdayOfMonth-short",
+      "navn": "ugedag i md."
+    },
+    {
+      "id": 40,
+      "kode": "year",
+      "navn": "år"
+    },
+    {
+      "id": 41,
+      "kode": "year-narrow",
+      "navn": "år"
+    },
+    {
+      "id": 42,
+      "kode": "year-short",
+      "navn": "år"
+    },
+    {
+      "id": 43,
+      "kode": "zone",
+      "navn": "tidszone"
+    },
+    {
+      "id": 44,
+      "kode": "zone-narrow",
+      "navn": "zone"
+    },
+    {
+      "id": 45,
+      "kode": "zone-short",
+      "navn": "zone"
+    }
+  ],
+  "meta": {
+    "title": "Dato- og tidsfelter (CLDR da, 45) - Gratis download",
+    "description": "Danske visningsnavne for CLDR dato/tids-felter (år, måned, dag, time, minut, sekund m.fl.). Indeholder 45 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Dato- og tidsfelter (CLDR da, 45) | ListBase",
+    "seo_description": "Download Dato- og tidsfelter (CLDR da, 45) — 45 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 45 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

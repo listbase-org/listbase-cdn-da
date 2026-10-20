@@ -1,0 +1,1157 @@
+{
+  "id": "da-tidszoner-metazoner",
+  "name": "Tidszone-metazoner (CLDR da, 158)",
+  "title": "Tidszone-metazoner (CLDR da, 158)",
+  "description": "Danske navne for CLDR-metazoner (generisk/standard/sommertid).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 158,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "metazone",
+      "label": "Metazone",
+      "type": "string"
+    },
+    {
+      "key": "generisk",
+      "label": "Generisk",
+      "type": "string"
+    },
+    {
+      "key": "standardtid",
+      "label": "Standardtid",
+      "type": "string"
+    },
+    {
+      "key": "sommertid",
+      "label": "Sommertid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "metazone": "Acre",
+      "generisk": "Acre-tid",
+      "standardtid": "Acre-normaltid",
+      "sommertid": "Acre-sommertid"
+    },
+    {
+      "id": 2,
+      "metazone": "Afghanistan",
+      "generisk": "",
+      "standardtid": "Afghansk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 3,
+      "metazone": "Africa_Central",
+      "generisk": "",
+      "standardtid": "Centralafrikansk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 4,
+      "metazone": "Africa_Eastern",
+      "generisk": "",
+      "standardtid": "Østafrikansk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 5,
+      "metazone": "Africa_Southern",
+      "generisk": "",
+      "standardtid": "Sydafrikansk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 6,
+      "metazone": "Africa_Western",
+      "generisk": "",
+      "standardtid": "Vestafrikansk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 7,
+      "metazone": "Alaska",
+      "generisk": "Alaska-tid",
+      "standardtid": "Alaska-normaltid",
+      "sommertid": "Alaska-sommertid"
+    },
+    {
+      "id": 8,
+      "metazone": "Almaty",
+      "generisk": "Almaty-tid",
+      "standardtid": "Almaty-normaltid",
+      "sommertid": "Almaty-sommertid"
+    },
+    {
+      "id": 9,
+      "metazone": "Amazon",
+      "generisk": "Amazonas-tid",
+      "standardtid": "Amazonas-normaltid",
+      "sommertid": "Amazonas-sommertid"
+    },
+    {
+      "id": 10,
+      "metazone": "America_Central",
+      "generisk": "Central-tid",
+      "standardtid": "Central-normaltid",
+      "sommertid": "Central-sommertid"
+    },
+    {
+      "id": 11,
+      "metazone": "America_Eastern",
+      "generisk": "Eastern-tid",
+      "standardtid": "Eastern-normaltid",
+      "sommertid": "Eastern-sommertid"
+    },
+    {
+      "id": 12,
+      "metazone": "America_Mountain",
+      "generisk": "Mountain-tid",
+      "standardtid": "Mountain-normaltid",
+      "sommertid": "Mountain-sommertid"
+    },
+    {
+      "id": 13,
+      "metazone": "America_Pacific",
+      "generisk": "Pacific-tid",
+      "standardtid": "Pacific-normaltid",
+      "sommertid": "Pacific-sommertid"
+    },
+    {
+      "id": 14,
+      "metazone": "Anadyr",
+      "generisk": "Anadyr-tid",
+      "standardtid": "Anadyr-normaltid",
+      "sommertid": "Anadyr-sommertid"
+    },
+    {
+      "id": 15,
+      "metazone": "Apia",
+      "generisk": "Apia-tid",
+      "standardtid": "Apia-normaltid",
+      "sommertid": "Apia-sommertid"
+    },
+    {
+      "id": 16,
+      "metazone": "Aqtau",
+      "generisk": "Aqtau-tid",
+      "standardtid": "Aqtau-normaltid",
+      "sommertid": "Aqtau-sommertid"
+    },
+    {
+      "id": 17,
+      "metazone": "Aqtobe",
+      "generisk": "Aqtobe-tid",
+      "standardtid": "Aqtobe-normaltid",
+      "sommertid": "Aqtobe-sommertid"
+    },
+    {
+      "id": 18,
+      "metazone": "Arabian",
+      "generisk": "Arabisk tid",
+      "standardtid": "Arabisk normaltid",
+      "sommertid": "Arabisk sommertid"
+    },
+    {
+      "id": 19,
+      "metazone": "Argentina",
+      "generisk": "Argentisk tid",
+      "standardtid": "Argentinsk normaltid",
+      "sommertid": "Argentinsk sommertid"
+    },
+    {
+      "id": 20,
+      "metazone": "Argentina_Western",
+      "generisk": "Vestargentinsk tid",
+      "standardtid": "Vestargentinsk normaltid",
+      "sommertid": "Vestargentinsk sommertid"
+    },
+    {
+      "id": 21,
+      "metazone": "Armenia",
+      "generisk": "Armensk tid",
+      "standardtid": "Armensk normaltid",
+      "sommertid": "Armensk sommertid"
+    },
+    {
+      "id": 22,
+      "metazone": "Atlantic",
+      "generisk": "Atlantic-tid",
+      "standardtid": "Atlantic-normaltid",
+      "sommertid": "Atlantic-sommertid"
+    },
+    {
+      "id": 23,
+      "metazone": "Australia_Central",
+      "generisk": "Centralaustralsk tid",
+      "standardtid": "Centralaustralsk normaltid",
+      "sommertid": "Centralaustralsk sommertid"
+    },
+    {
+      "id": 24,
+      "metazone": "Australia_CentralWestern",
+      "generisk": "Vestlig centralaustralsk tid",
+      "standardtid": "Vestlig centralaustralsk normaltid",
+      "sommertid": "Vestlig centralaustralsk sommertid"
+    },
+    {
+      "id": 25,
+      "metazone": "Australia_Eastern",
+      "generisk": "Østaustralsk tid",
+      "standardtid": "Østaustralsk normaltid",
+      "sommertid": "Østaustralsk sommertid"
+    },
+    {
+      "id": 26,
+      "metazone": "Australia_Western",
+      "generisk": "Vestaustralsk tid",
+      "standardtid": "Vestaustralsk normaltid",
+      "sommertid": "Vestaustralsk sommertid"
+    },
+    {
+      "id": 27,
+      "metazone": "Azerbaijan",
+      "generisk": "Aserbajdsjansk tid",
+      "standardtid": "Aserbajdsjansk normaltid",
+      "sommertid": "Aserbajdsjansk sommertid"
+    },
+    {
+      "id": 28,
+      "metazone": "Azores",
+      "generisk": "Azorerne-tid",
+      "standardtid": "Azorerne-normaltid",
+      "sommertid": "Azorerne-sommertid"
+    },
+    {
+      "id": 29,
+      "metazone": "Bangladesh",
+      "generisk": "Bangladesh-tid",
+      "standardtid": "Bangladesh-normaltid",
+      "sommertid": "Bangladesh-sommertid"
+    },
+    {
+      "id": 30,
+      "metazone": "Bhutan",
+      "generisk": "",
+      "standardtid": "Bhutan-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 31,
+      "metazone": "Bolivia",
+      "generisk": "",
+      "standardtid": "Boliviansk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 32,
+      "metazone": "Brasilia",
+      "generisk": "Brasiliansk tid",
+      "standardtid": "Brasiliansk normaltid",
+      "sommertid": "Brasiliansk sommertid"
+    },
+    {
+      "id": 33,
+      "metazone": "Brunei",
+      "generisk": "",
+      "standardtid": "Brunei Darussalam-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 34,
+      "metazone": "Cape_Verde",
+      "generisk": "Kap Verde-tid",
+      "standardtid": "Kap Verde-normaltid",
+      "sommertid": "Kap Verde-sommertid"
+    },
+    {
+      "id": 35,
+      "metazone": "Chamorro",
+      "generisk": "",
+      "standardtid": "Chamorro-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 36,
+      "metazone": "Chatham",
+      "generisk": "Chatham-tid",
+      "standardtid": "Chatham-normaltid",
+      "sommertid": "Chatham-sommertid"
+    },
+    {
+      "id": 37,
+      "metazone": "Chile",
+      "generisk": "Chilensk tid",
+      "standardtid": "Chilensk normaltid",
+      "sommertid": "Chilensk sommertid"
+    },
+    {
+      "id": 38,
+      "metazone": "China",
+      "generisk": "Kinesisk tid",
+      "standardtid": "Kinesisk normaltid",
+      "sommertid": "Kinesisk sommertid"
+    },
+    {
+      "id": 39,
+      "metazone": "Christmas",
+      "generisk": "",
+      "standardtid": "Juleøen-normaltid",
+      "sommertid": ""
+    },
+    {
+      "id": 40,
+      "metazone": "Cocos",
+      "generisk": "",
+      "standardtid": "Cocosøerne-normaltid",
+      "sommertid": ""
+    },
+    {
+      "id": 41,
+      "metazone": "Colombia",
+      "generisk": "Colombiansk tid",
+      "standardtid": "Colombiansk normaltid",
+      "sommertid": "Colombiansk sommertid"
+    },
+    {
+      "id": 42,
+      "metazone": "Cook",
+      "generisk": "Cookøerne-tid",
+      "standardtid": "Cookøerne-normaltid",
+      "sommertid": "Cookøerne-sommertid"
+    },
+    {
+      "id": 43,
+      "metazone": "Cuba",
+      "generisk": "Cubansk tid",
+      "standardtid": "Cubansk normaltid",
+      "sommertid": "Cubansk sommertid"
+    },
+    {
+      "id": 44,
+      "metazone": "Davis",
+      "generisk": "",
+      "standardtid": "Davis-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 45,
+      "metazone": "DumontDUrville",
+      "generisk": "",
+      "standardtid": "Dumont-d’Urville-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 46,
+      "metazone": "East_Timor",
+      "generisk": "",
+      "standardtid": "Østtimor-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 47,
+      "metazone": "Easter",
+      "generisk": "Påskeøen-tid",
+      "standardtid": "Påskeøen-normaltid",
+      "sommertid": "Påskeøen-sommertid"
+    },
+    {
+      "id": 48,
+      "metazone": "Ecuador",
+      "generisk": "",
+      "standardtid": "Ecuadoriansk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 49,
+      "metazone": "Europe_Central",
+      "generisk": "Centraleuropæisk tid",
+      "standardtid": "Centraleuropæisk normaltid",
+      "sommertid": "Centraleuropæisk sommertid"
+    },
+    {
+      "id": 50,
+      "metazone": "Europe_Eastern",
+      "generisk": "Østeuropæisk tid",
+      "standardtid": "Østeuropæisk normaltid",
+      "sommertid": "Østeuropæisk sommertid"
+    },
+    {
+      "id": 51,
+      "metazone": "Europe_Further_Eastern",
+      "generisk": "",
+      "standardtid": "Fjernøsteuropæisk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 52,
+      "metazone": "Europe_Western",
+      "generisk": "Vesteuropæisk tid",
+      "standardtid": "Vesteuropæisk normaltid",
+      "sommertid": "Vesteuropæisk sommertid"
+    },
+    {
+      "id": 53,
+      "metazone": "Falkland",
+      "generisk": "Falklandsøerne-tid",
+      "standardtid": "Falklandsøerne-normaltid",
+      "sommertid": "Falklandsøerne-sommertid"
+    },
+    {
+      "id": 54,
+      "metazone": "Fiji",
+      "generisk": "Fijiansk tid",
+      "standardtid": "Fijiansk normaltid",
+      "sommertid": "Fijiansk sommertid"
+    },
+    {
+      "id": 55,
+      "metazone": "French_Guiana",
+      "generisk": "",
+      "standardtid": "Fransk Guyana-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 56,
+      "metazone": "French_Southern",
+      "generisk": "",
+      "standardtid": "Franske Sydlige og Antarktiske Territorier-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 57,
+      "metazone": "GMT",
+      "generisk": "",
+      "standardtid": "GMT",
+      "sommertid": ""
+    },
+    {
+      "id": 58,
+      "metazone": "Galapagos",
+      "generisk": "",
+      "standardtid": "Galapagos-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 59,
+      "metazone": "Gambier",
+      "generisk": "",
+      "standardtid": "Gambier-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 60,
+      "metazone": "Georgia",
+      "generisk": "Georgisk tid",
+      "standardtid": "Georgisk normaltid",
+      "sommertid": "Georgisk sommertid"
+    },
+    {
+      "id": 61,
+      "metazone": "Gilbert_Islands",
+      "generisk": "",
+      "standardtid": "Gilbertøerne-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 62,
+      "metazone": "Greenland_Eastern",
+      "generisk": "Østgrønlandsk tid",
+      "standardtid": "Østgrønlandsk normaltid",
+      "sommertid": "Østgrønlandsk sommertid"
+    },
+    {
+      "id": 63,
+      "metazone": "Greenland_Western",
+      "generisk": "Vestgrønlandsk tid",
+      "standardtid": "Vestgrønlandsk normaltid",
+      "sommertid": "Vestgrønlandsk sommertid"
+    },
+    {
+      "id": 64,
+      "metazone": "Guam",
+      "generisk": "",
+      "standardtid": "Guam-normaltid",
+      "sommertid": ""
+    },
+    {
+      "id": 65,
+      "metazone": "Gulf",
+      "generisk": "",
+      "standardtid": "Golflandene-normaltid",
+      "sommertid": ""
+    },
+    {
+      "id": 66,
+      "metazone": "Guyana",
+      "generisk": "",
+      "standardtid": "Guyana-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 67,
+      "metazone": "Hawaii",
+      "generisk": "",
+      "standardtid": "Hawaii-Aleutian-normaltid",
+      "sommertid": ""
+    },
+    {
+      "id": 68,
+      "metazone": "Hawaii_Aleutian",
+      "generisk": "Hawaii-Aleutian-tid",
+      "standardtid": "Hawaii-Aleutian-normaltid",
+      "sommertid": "Hawaii-Aleutian-sommertid"
+    },
+    {
+      "id": 69,
+      "metazone": "Hong_Kong",
+      "generisk": "Hongkong-tid",
+      "standardtid": "Hongkong-normaltid",
+      "sommertid": "Hongkong-sommertid"
+    },
+    {
+      "id": 70,
+      "metazone": "Hovd",
+      "generisk": "Hovd-tid",
+      "standardtid": "Hovd-normaltid",
+      "sommertid": "Hovd-sommertid"
+    },
+    {
+      "id": 71,
+      "metazone": "India",
+      "generisk": "",
+      "standardtid": "Indisk normaltid",
+      "sommertid": ""
+    },
+    {
+      "id": 72,
+      "metazone": "Indian_Ocean",
+      "generisk": "",
+      "standardtid": "Indiske Ocean-normaltid",
+      "sommertid": ""
+    },
+    {
+      "id": 73,
+      "metazone": "Indochina",
+      "generisk": "",
+      "standardtid": "Indokina-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 74,
+      "metazone": "Indonesia_Central",
+      "generisk": "",
+      "standardtid": "Centralindonesisk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 75,
+      "metazone": "Indonesia_Eastern",
+      "generisk": "",
+      "standardtid": "Østindonesisk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 76,
+      "metazone": "Indonesia_Western",
+      "generisk": "",
+      "standardtid": "Vestindonesisk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 77,
+      "metazone": "Iran",
+      "generisk": "Iransk tid",
+      "standardtid": "Iransk normaltid",
+      "sommertid": "Iransk sommertid"
+    },
+    {
+      "id": 78,
+      "metazone": "Irkutsk",
+      "generisk": "Irkutsk-tid",
+      "standardtid": "Irkutsk-normaltid",
+      "sommertid": "Irkutsk-sommertid"
+    },
+    {
+      "id": 79,
+      "metazone": "Israel",
+      "generisk": "Israelsk tid",
+      "standardtid": "Israelsk normaltid",
+      "sommertid": "Israelsk sommertid"
+    },
+    {
+      "id": 80,
+      "metazone": "Japan",
+      "generisk": "Japansk tid",
+      "standardtid": "Japansk normaltid",
+      "sommertid": "Japansk sommertid"
+    },
+    {
+      "id": 81,
+      "metazone": "Kamchatka",
+      "generisk": "Petropavlovsk-Kamchatski tid",
+      "standardtid": "Petropavlovsk-Kamchatski normaltid",
+      "sommertid": "Petropavlovsk-Kamchatski sommertid"
+    },
+    {
+      "id": 82,
+      "metazone": "Kazakhstan",
+      "generisk": "",
+      "standardtid": "Kasakhstansk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 83,
+      "metazone": "Kazakhstan_Eastern",
+      "generisk": "",
+      "standardtid": "Østkasakhstansk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 84,
+      "metazone": "Kazakhstan_Western",
+      "generisk": "",
+      "standardtid": "Vestkasakhstansk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 85,
+      "metazone": "Korea",
+      "generisk": "Koreansk tid",
+      "standardtid": "Koreansk normaltid",
+      "sommertid": "Koreansk sommertid"
+    },
+    {
+      "id": 86,
+      "metazone": "Kosrae",
+      "generisk": "",
+      "standardtid": "Kosrae-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 87,
+      "metazone": "Krasnoyarsk",
+      "generisk": "Krasnojarsk-tid",
+      "standardtid": "Krasnojarsk-normaltid",
+      "sommertid": "Krasnojarsk-sommertid"
+    },
+    {
+      "id": 88,
+      "metazone": "Kyrgystan",
+      "generisk": "",
+      "standardtid": "Kirgisisk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 89,
+      "metazone": "Lanka",
+      "generisk": "",
+      "standardtid": "Langa tid",
+      "sommertid": ""
+    },
+    {
+      "id": 90,
+      "metazone": "Line_Islands",
+      "generisk": "",
+      "standardtid": "Linjeøerne-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 91,
+      "metazone": "Lord_Howe",
+      "generisk": "Lord Howe-tid",
+      "standardtid": "Lord Howe-normaltid",
+      "sommertid": "Lord Howe-sommertid"
+    },
+    {
+      "id": 92,
+      "metazone": "Macau",
+      "generisk": "Macao-tid",
+      "standardtid": "Macao-normaltid",
+      "sommertid": "Macao-sommertid"
+    },
+    {
+      "id": 93,
+      "metazone": "Magadan",
+      "generisk": "Magadan-tid",
+      "standardtid": "Magadan-normaltid",
+      "sommertid": "Magadan-sommertid"
+    },
+    {
+      "id": 94,
+      "metazone": "Malaysia",
+      "generisk": "",
+      "standardtid": "Malaysia-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 95,
+      "metazone": "Maldives",
+      "generisk": "",
+      "standardtid": "Maldiverne-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 96,
+      "metazone": "Marquesas",
+      "generisk": "",
+      "standardtid": "Marquesas-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 97,
+      "metazone": "Marshall_Islands",
+      "generisk": "",
+      "standardtid": "Marshalløerne-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 98,
+      "metazone": "Mauritius",
+      "generisk": "Mauritius-tid",
+      "standardtid": "Mauritius-normaltid",
+      "sommertid": "Mauritius-sommertid"
+    },
+    {
+      "id": 99,
+      "metazone": "Mawson",
+      "generisk": "",
+      "standardtid": "Mawson-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 100,
+      "metazone": "Mexico_Pacific",
+      "generisk": "Mexicansk Pacific-tid",
+      "standardtid": "Mexicansk Pacific-normaltid",
+      "sommertid": "Mexicansk Pacific-sommertid"
+    },
+    {
+      "id": 101,
+      "metazone": "Mongolia",
+      "generisk": "Ulan Bator-tid",
+      "standardtid": "Ulan Bator-normaltid",
+      "sommertid": "Ulan Bator-sommertid"
+    },
+    {
+      "id": 102,
+      "metazone": "Moscow",
+      "generisk": "Moskva-tid",
+      "standardtid": "Moskva-normaltid",
+      "sommertid": "Moskva-sommertid"
+    },
+    {
+      "id": 103,
+      "metazone": "Myanmar",
+      "generisk": "",
+      "standardtid": "Myanmar-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 104,
+      "metazone": "Nauru",
+      "generisk": "",
+      "standardtid": "Nauru-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 105,
+      "metazone": "Nepal",
+      "generisk": "",
+      "standardtid": "Nepalesisk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 106,
+      "metazone": "New_Caledonia",
+      "generisk": "Ny Kaledonien-tid",
+      "standardtid": "Ny Kaledonien-normaltid",
+      "sommertid": "Ny Kaledonien-sommertid"
+    },
+    {
+      "id": 107,
+      "metazone": "New_Zealand",
+      "generisk": "Newzealandsk tid",
+      "standardtid": "Newzealandsk normaltid",
+      "sommertid": "Newzealandsk sommertid"
+    },
+    {
+      "id": 108,
+      "metazone": "Newfoundland",
+      "generisk": "Newfoundlandsk tid",
+      "standardtid": "Newfoundlandsk normaltid",
+      "sommertid": "Newfoundlandsk sommertid"
+    },
+    {
+      "id": 109,
+      "metazone": "Niue",
+      "generisk": "",
+      "standardtid": "Niue-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 110,
+      "metazone": "Norfolk",
+      "generisk": "Norfolk Island-tid",
+      "standardtid": "Norfolk Island-normaltid",
+      "sommertid": "Norfolk Island-sommertid"
+    },
+    {
+      "id": 111,
+      "metazone": "Noronha",
+      "generisk": "Fernando de Noronha-tid",
+      "standardtid": "Fernando de Noronha-normaltid",
+      "sommertid": "Fernando de Noronha-sommertid"
+    },
+    {
+      "id": 112,
+      "metazone": "North_Mariana",
+      "generisk": "",
+      "standardtid": "Nordmarianerne-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 113,
+      "metazone": "Novosibirsk",
+      "generisk": "Novosibirsk-tid",
+      "standardtid": "Novosibirsk-normaltid",
+      "sommertid": "Novosibirsk-sommertid"
+    },
+    {
+      "id": 114,
+      "metazone": "Omsk",
+      "generisk": "Omsk-tid",
+      "standardtid": "Omsk-normaltid",
+      "sommertid": "Omsk-sommertid"
+    },
+    {
+      "id": 115,
+      "metazone": "Pakistan",
+      "generisk": "Pakistansk tid",
+      "standardtid": "Pakistansk normaltid",
+      "sommertid": "Pakistansk sommertid"
+    },
+    {
+      "id": 116,
+      "metazone": "Palau",
+      "generisk": "",
+      "standardtid": "Palau-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 117,
+      "metazone": "Papua_New_Guinea",
+      "generisk": "",
+      "standardtid": "Papua Ny Guinea-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 118,
+      "metazone": "Paraguay",
+      "generisk": "Paraguayansk tid",
+      "standardtid": "Paraguayansk normaltid",
+      "sommertid": "Paraguayansk sommertid"
+    },
+    {
+      "id": 119,
+      "metazone": "Peru",
+      "generisk": "Peruviansk tid",
+      "standardtid": "Peruviansk normaltid",
+      "sommertid": "Peruviansk sommertid"
+    },
+    {
+      "id": 120,
+      "metazone": "Philippines",
+      "generisk": "Filippinsk tid",
+      "standardtid": "Filippinsk normaltid",
+      "sommertid": "Filippinsk sommertid"
+    },
+    {
+      "id": 121,
+      "metazone": "Phoenix_Islands",
+      "generisk": "",
+      "standardtid": "Phoenixøen-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 122,
+      "metazone": "Pierre_Miquelon",
+      "generisk": "Saint Pierre- og Miquelon-tid",
+      "standardtid": "Saint Pierre- og Miquelon-normaltid",
+      "sommertid": "Saint Pierre- og Miquelon-sommertid"
+    },
+    {
+      "id": 123,
+      "metazone": "Pitcairn",
+      "generisk": "",
+      "standardtid": "Pitcairn-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 124,
+      "metazone": "Ponape",
+      "generisk": "",
+      "standardtid": "Ponape-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 125,
+      "metazone": "Pyongyang",
+      "generisk": "",
+      "standardtid": "Pyongyang-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 126,
+      "metazone": "Qyzylorda",
+      "generisk": "Qyzylorda-tid",
+      "standardtid": "Qyzylorda-normaltid",
+      "sommertid": "Qyzylorda-sommertid"
+    },
+    {
+      "id": 127,
+      "metazone": "Reunion",
+      "generisk": "",
+      "standardtid": "Reunion-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 128,
+      "metazone": "Rothera",
+      "generisk": "",
+      "standardtid": "Rothera-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 129,
+      "metazone": "Sakhalin",
+      "generisk": "Sakhalin-tid",
+      "standardtid": "Sakhalin-normaltid",
+      "sommertid": "Sakhalin-sommertid"
+    },
+    {
+      "id": 130,
+      "metazone": "Samara",
+      "generisk": "Samara-tid",
+      "standardtid": "Samara-normaltid",
+      "sommertid": "Samara-sommertid"
+    },
+    {
+      "id": 131,
+      "metazone": "Samoa",
+      "generisk": "Samoansk tid",
+      "standardtid": "Samoansk normaltid",
+      "sommertid": "Samoansk sommertid"
+    },
+    {
+      "id": 132,
+      "metazone": "Seychelles",
+      "generisk": "",
+      "standardtid": "Seychellisk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 133,
+      "metazone": "Singapore",
+      "generisk": "",
+      "standardtid": "Singapore-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 134,
+      "metazone": "Solomon",
+      "generisk": "",
+      "standardtid": "Salomonøerne-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 135,
+      "metazone": "South_Georgia",
+      "generisk": "",
+      "standardtid": "South Georgia-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 136,
+      "metazone": "Suriname",
+      "generisk": "",
+      "standardtid": "Surinam-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 137,
+      "metazone": "Syowa",
+      "generisk": "",
+      "standardtid": "Syowa-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 138,
+      "metazone": "Tahiti",
+      "generisk": "",
+      "standardtid": "Tahiti-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 139,
+      "metazone": "Taipei",
+      "generisk": "Taipei-tid",
+      "standardtid": "Taipei-normaltid",
+      "sommertid": "Taipei-sommertid"
+    },
+    {
+      "id": 140,
+      "metazone": "Tajikistan",
+      "generisk": "",
+      "standardtid": "Tadsjikisk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 141,
+      "metazone": "Tokelau",
+      "generisk": "",
+      "standardtid": "Tokelau-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 142,
+      "metazone": "Tonga",
+      "generisk": "Tongansk tid",
+      "standardtid": "Tongansk normaltid",
+      "sommertid": "Tongansk sommertid"
+    },
+    {
+      "id": 143,
+      "metazone": "Truk",
+      "generisk": "",
+      "standardtid": "Chuuk-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 144,
+      "metazone": "Turkey",
+      "generisk": "Tyrkisk tid",
+      "standardtid": "Tyrkisk normaltid",
+      "sommertid": "Tyrkisk sommertid"
+    },
+    {
+      "id": 145,
+      "metazone": "Turkmenistan",
+      "generisk": "Turkmensk tid",
+      "standardtid": "Turkmensk normaltid",
+      "sommertid": "Turkmensk sommertid"
+    },
+    {
+      "id": 146,
+      "metazone": "Tuvalu",
+      "generisk": "",
+      "standardtid": "Tuvalu-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 147,
+      "metazone": "Uruguay",
+      "generisk": "Uruguayansk tid",
+      "standardtid": "Uruguayansk normaltid",
+      "sommertid": "Uruguayansk sommertid"
+    },
+    {
+      "id": 148,
+      "metazone": "Uzbekistan",
+      "generisk": "Usbekisk tid",
+      "standardtid": "Usbekisk normaltid",
+      "sommertid": "Usbekisk sommertid"
+    },
+    {
+      "id": 149,
+      "metazone": "Vanuatu",
+      "generisk": "Vanuatu-tid",
+      "standardtid": "Vanuatu-normaltid",
+      "sommertid": "Vanuatu-sommertid"
+    },
+    {
+      "id": 150,
+      "metazone": "Venezuela",
+      "generisk": "",
+      "standardtid": "Venezuelansk tid",
+      "sommertid": ""
+    },
+    {
+      "id": 151,
+      "metazone": "Vladivostok",
+      "generisk": "Vladivostok-tid",
+      "standardtid": "Vladivostok-normaltid",
+      "sommertid": "Vladivostok-sommertid"
+    },
+    {
+      "id": 152,
+      "metazone": "Volgograd",
+      "generisk": "Volgograd-tid",
+      "standardtid": "Volgograd-normaltid",
+      "sommertid": "Volgograd-sommertid"
+    },
+    {
+      "id": 153,
+      "metazone": "Vostok",
+      "generisk": "",
+      "standardtid": "Vostok-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 154,
+      "metazone": "Wake",
+      "generisk": "",
+      "standardtid": "Wake Island-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 155,
+      "metazone": "Wallis",
+      "generisk": "",
+      "standardtid": "Wallis og Futuna-tid",
+      "sommertid": ""
+    },
+    {
+      "id": 156,
+      "metazone": "Yakutsk",
+      "generisk": "Jakutsk-tid",
+      "standardtid": "Jakutsk-normaltid",
+      "sommertid": "Jakutsk-sommertid"
+    },
+    {
+      "id": 157,
+      "metazone": "Yekaterinburg",
+      "generisk": "Jekaterinburg-tid",
+      "standardtid": "Jekaterinburg-normaltid",
+      "sommertid": "Jekaterinburg-sommertid"
+    },
+    {
+      "id": 158,
+      "metazone": "Yukon",
+      "generisk": "",
+      "standardtid": "Yukon-tid",
+      "sommertid": ""
+    }
+  ],
+  "meta": {
+    "title": "Tidszone-metazoner (CLDR da, 158) - Gratis download",
+    "description": "Danske navne for CLDR-metazoner (generisk/standard/sommertid). Indeholder 158 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Tidszone-metazoner (CLDR da, 158) | ListBase",
+    "seo_description": "Download Tidszone-metazoner (CLDR da, 158) — 158 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 158 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

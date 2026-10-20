@@ -1,0 +1,112 @@
+{
+  "id": "da-greve-afstemningssteder",
+  "name": "Afstemningssteder i Greve Kommune",
+  "title": "Afstemningssteder i Greve Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Greve Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Arenaskolen",
+      "kommune_kode": 253,
+      "kommune": "Greve",
+      "opstillingskreds_nummer": 35,
+      "opstillingskreds": "Greve"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Tjørnelyskolen",
+      "kommune_kode": 253,
+      "kommune": "Greve",
+      "opstillingskreds_nummer": 35,
+      "opstillingskreds": "Greve"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Holmeagerskolen",
+      "kommune_kode": 253,
+      "kommune": "Greve",
+      "opstillingskreds_nummer": 35,
+      "opstillingskreds": "Greve"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Mosedeskolen",
+      "kommune_kode": 253,
+      "kommune": "Greve",
+      "opstillingskreds_nummer": 35,
+      "opstillingskreds": "Greve"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Karlslundehallerne",
+      "kommune_kode": 253,
+      "kommune": "Greve",
+      "opstillingskreds_nummer": 35,
+      "opstillingskreds": "Greve"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Tunehallerne",
+      "kommune_kode": 253,
+      "kommune": "Greve",
+      "opstillingskreds_nummer": 35,
+      "opstillingskreds": "Greve"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Hundigehallen",
+      "kommune_kode": 253,
+      "kommune": "Greve",
+      "opstillingskreds_nummer": 35,
+      "opstillingskreds": "Greve"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Greve Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Greve Kommune med opstillingskreds. Indeholder 7 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Greve Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Greve Kommune — 7 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 7 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

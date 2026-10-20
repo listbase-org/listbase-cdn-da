@@ -1,0 +1,646 @@
+{
+  "id": "da-havecentre",
+  "name": "Havecentre i Danmark (Garden centres in Denmark)",
+  "title": "Havecentre i Danmark (Garden centres in Denmark)",
+  "description": "Garden centres in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=garden_centre.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 121,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A-T Pejse, Skov og Havecenter",
+      "latitude": 57.44411,
+      "longitude": 10.493695
+    },
+    {
+      "name": "A-Z Have Center",
+      "latitude": 57.444606,
+      "longitude": 10.004392
+    },
+    {
+      "name": "Aldershvile Planteskole",
+      "latitude": 55.765742,
+      "longitude": 12.458158
+    },
+    {
+      "name": "Ancher's Havecenter",
+      "latitude": 55.603677,
+      "longitude": 12.29488
+    },
+    {
+      "name": "Asmild Plantecenter",
+      "latitude": 56.456325,
+      "longitude": 9.460847
+    },
+    {
+      "name": "Audebo Havecenter",
+      "latitude": 55.759081,
+      "longitude": 11.629301
+    },
+    {
+      "name": "Barfods Have",
+      "latitude": 55.964389,
+      "longitude": 11.847524
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 55.934179,
+      "longitude": 12.259005
+    },
+    {
+      "name": "Billig Blomst",
+      "latitude": 56.176635,
+      "longitude": 10.139274
+    },
+    {
+      "name": "BilligBlomst",
+      "latitude": 54.923057,
+      "longitude": 9.813835
+    },
+    {
+      "name": "Billigblomst",
+      "latitude": 55.564734,
+      "longitude": 9.683623
+    },
+    {
+      "name": "Billigblomst",
+      "latitude": 55.700984,
+      "longitude": 11.67268
+    },
+    {
+      "name": "BilligBlomst",
+      "latitude": 56.114792,
+      "longitude": 8.97639
+    },
+    {
+      "name": "Billigblomst Langeskov",
+      "latitude": 55.360407,
+      "longitude": 10.601516
+    },
+    {
+      "name": "Billigblomst Næstved",
+      "latitude": 55.259438,
+      "longitude": 11.85704
+    },
+    {
+      "name": "Billigblomst Randers",
+      "latitude": 56.426395,
+      "longitude": 10.061867
+    },
+    {
+      "name": "Bjørn K Blomster",
+      "latitude": 55.543172,
+      "longitude": 8.46351
+    },
+    {
+      "name": "BLG Viden Blomstergaarden",
+      "latitude": 56.476569,
+      "longitude": 9.484659
+    },
+    {
+      "name": "BlomsterBixen Dronninglund Havecenter",
+      "latitude": 57.164576,
+      "longitude": 10.29484
+    },
+    {
+      "name": "Blomstercentret",
+      "latitude": 54.780253,
+      "longitude": 11.875758
+    },
+    {
+      "name": "Blomsterstedet",
+      "latitude": 55.631574,
+      "longitude": 8.484879
+    },
+    {
+      "name": "Christiansmindevej’s Plantecenter",
+      "latitude": 56.04774,
+      "longitude": 9.907409
+    },
+    {
+      "name": "Det Gamle Gartneri Bod",
+      "latitude": 55.633125,
+      "longitude": 12.220847
+    },
+    {
+      "name": "Det lille gardneri",
+      "latitude": 56.052569,
+      "longitude": 9.7504
+    },
+    {
+      "name": "Enemærkets Hostahave",
+      "latitude": 56.083669,
+      "longitude": 8.317392
+    },
+    {
+      "name": "Esbjerg Planteskole",
+      "latitude": 55.483283,
+      "longitude": 8.502762
+    },
+    {
+      "name": "Esbjerg Sand",
+      "latitude": 55.50858,
+      "longitude": 8.415683
+    },
+    {
+      "name": "Faster's Have",
+      "latitude": 55.844406,
+      "longitude": 12.092538
+    },
+    {
+      "name": "Frøbutikken v/ Diane Nielsen",
+      "latitude": 55.534443,
+      "longitude": 9.799695
+    },
+    {
+      "name": "Gardenshop Høsterkøb",
+      "latitude": 55.856813,
+      "longitude": 12.493827
+    },
+    {
+      "name": "Gartneren i Nonnebo",
+      "latitude": 55.36992,
+      "longitude": 10.569953
+    },
+    {
+      "name": "Gartnergården",
+      "latitude": 55.875646,
+      "longitude": 11.595188
+    },
+    {
+      "name": "Gartneri Toftegaard",
+      "latitude": 55.406737,
+      "longitude": 12.17986
+    },
+    {
+      "name": "Gartneriet",
+      "latitude": 56.540686,
+      "longitude": 8.308033
+    },
+    {
+      "name": "Grønne Hjem",
+      "latitude": 55.674604,
+      "longitude": 12.485106
+    },
+    {
+      "name": "Grønne Hjem",
+      "latitude": 55.762984,
+      "longitude": 12.533131
+    },
+    {
+      "name": "Grønne Hjem Ballerup",
+      "latitude": 55.731224,
+      "longitude": 12.323813
+    },
+    {
+      "name": "Grøntbørsen",
+      "latitude": 55.529703,
+      "longitude": 8.457937
+    },
+    {
+      "name": "Gug Anlæg og Planteskole",
+      "latitude": 57.00706,
+      "longitude": 9.916786
+    },
+    {
+      "name": "Havecenter",
+      "latitude": 55.512792,
+      "longitude": 9.4609
+    },
+    {
+      "name": "Havecentret Hobbyland",
+      "latitude": 55.640075,
+      "longitude": 12.123032
+    },
+    {
+      "name": "HaveGlad.dk",
+      "latitude": 55.456897,
+      "longitude": 8.579568
+    },
+    {
+      "name": "Havero",
+      "latitude": 55.719625,
+      "longitude": 12.550583
+    },
+    {
+      "name": "Havlykke",
+      "latitude": 55.780459,
+      "longitude": 10.004715
+    },
+    {
+      "name": "Herborg Planteskole",
+      "latitude": 56.053038,
+      "longitude": 8.56449
+    },
+    {
+      "name": "Hesselbækgård Havecenter",
+      "latitude": 55.823109,
+      "longitude": 12.418044
+    },
+    {
+      "name": "Hobbyhaven",
+      "latitude": 56.108695,
+      "longitude": 10.114296
+    },
+    {
+      "name": "Højmose Havecenter",
+      "latitude": 55.015032,
+      "longitude": 8.846701
+    },
+    {
+      "name": "Ikast Planteskole",
+      "latitude": 56.136369,
+      "longitude": 9.120266
+    },
+    {
+      "name": "Jensen's Planteskole",
+      "latitude": 55.469545,
+      "longitude": 8.696026
+    },
+    {
+      "name": "jmkiil.dk - showroom",
+      "latitude": 55.180168,
+      "longitude": 9.065752
+    },
+    {
+      "name": "Jydsk Planteservice",
+      "latitude": 55.532784,
+      "longitude": 9.484842
+    },
+    {
+      "name": "Knud Pedersens Planteskole",
+      "latitude": 56.128277,
+      "longitude": 9.986645
+    },
+    {
+      "name": "Kongevejens Planteskole",
+      "latitude": 55.835959,
+      "longitude": 12.449701
+    },
+    {
+      "name": "Kragelund Planteskole",
+      "latitude": 55.577823,
+      "longitude": 9.174045
+    },
+    {
+      "name": "Kridtvejs Planter",
+      "latitude": 56.749159,
+      "longitude": 8.750676
+    },
+    {
+      "name": "Krukkeladen showroom",
+      "latitude": 55.330264,
+      "longitude": 8.766319
+    },
+    {
+      "name": "Krukkeladen showroom",
+      "latitude": 56.008142,
+      "longitude": 10.182531
+    },
+    {
+      "name": "Køgevejens Planteskole",
+      "latitude": 55.622818,
+      "longitude": 12.467063
+    },
+    {
+      "name": "Køng Gårdbutik",
+      "latitude": 55.113195,
+      "longitude": 11.817463
+    },
+    {
+      "name": "Land & Fritid",
+      "latitude": 56.966138,
+      "longitude": 8.730744
+    },
+    {
+      "name": "Langeskov Planteskole",
+      "latitude": 55.360412,
+      "longitude": 10.600134
+    },
+    {
+      "name": "Lau Frugt Grønt Blomster",
+      "latitude": 56.188174,
+      "longitude": 9.577951
+    },
+    {
+      "name": "Lindegaardens Havecenter",
+      "latitude": 55.520666,
+      "longitude": 11.294992
+    },
+    {
+      "name": "Lydum Fiskeland",
+      "latitude": 55.805235,
+      "longitude": 8.344687
+    },
+    {
+      "name": "Løgtved Gartneri",
+      "latitude": 55.674512,
+      "longitude": 11.294438
+    },
+    {
+      "name": "Magtenbølle Planteskole",
+      "latitude": 55.378071,
+      "longitude": 10.176831
+    },
+    {
+      "name": "Majholm Anlæg & Planter",
+      "latitude": 55.466054,
+      "longitude": 8.679585
+    },
+    {
+      "name": "ME Haveservice & Anlæg",
+      "latitude": 56.731389,
+      "longitude": 10.141986
+    },
+    {
+      "name": "Midtjydsk Gartnerhal",
+      "latitude": 56.135331,
+      "longitude": 8.920461
+    },
+    {
+      "name": "Mikrogartneriet",
+      "latitude": 55.875971,
+      "longitude": 12.071175
+    },
+    {
+      "name": "Moesgård Havecenter",
+      "latitude": 56.0829,
+      "longitude": 10.21034
+    },
+    {
+      "name": "Mogens Planteskole",
+      "latitude": 56.110393,
+      "longitude": 8.259955
+    },
+    {
+      "name": "Muldgaarden",
+      "latitude": 55.683812,
+      "longitude": 12.284925
+    },
+    {
+      "name": "Naturplanteskolen",
+      "latitude": 55.612233,
+      "longitude": 12.210385
+    },
+    {
+      "name": "Nordic Granite Co.",
+      "latitude": 55.525587,
+      "longitude": 8.606967
+    },
+    {
+      "name": "Nybo Planteskole",
+      "latitude": 55.969166,
+      "longitude": 12.496227
+    },
+    {
+      "name": "Næsbjerg Havecenter",
+      "latitude": 55.655118,
+      "longitude": 8.6807
+    },
+    {
+      "name": "Planteforum",
+      "latitude": 55.434395,
+      "longitude": 11.750079
+    },
+    {
+      "name": "Planteudsalg",
+      "latitude": 55.174057,
+      "longitude": 10.486717
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 54.92282,
+      "longitude": 9.811142
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 55.402942,
+      "longitude": 10.421438
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 55.510538,
+      "longitude": 9.461749
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 55.611855,
+      "longitude": 12.614881
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 55.731293,
+      "longitude": 9.596649
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 55.834429,
+      "longitude": 9.79387
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 55.902133,
+      "longitude": 12.48719
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 55.926552,
+      "longitude": 12.265476
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 56.184403,
+      "longitude": 10.097037
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 56.204086,
+      "longitude": 9.598581
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 56.23328,
+      "longitude": 10.294179
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 56.427647,
+      "longitude": 10.058466
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 56.445547,
+      "longitude": 9.366995
+    },
+    {
+      "name": "Plantorama",
+      "latitude": 56.998037,
+      "longitude": 9.86486
+    },
+    {
+      "name": "Plantorama Taastrup",
+      "latitude": 55.661155,
+      "longitude": 12.286065
+    },
+    {
+      "name": "Plantorama Vallensbæk",
+      "latitude": 55.628407,
+      "longitude": 12.368412
+    },
+    {
+      "name": "Plantorama Viborg",
+      "latitude": 56.445866,
+      "longitude": 9.366605
+    },
+    {
+      "name": "Plantula",
+      "latitude": 55.668164,
+      "longitude": 12.551407
+    },
+    {
+      "name": "Plukk",
+      "latitude": 56.154242,
+      "longitude": 10.193712
+    },
+    {
+      "name": "Porshauge",
+      "latitude": 56.571117,
+      "longitude": 9.120863
+    },
+    {
+      "name": "Rødekro Blomster- og Havecenter",
+      "latitude": 55.070096,
+      "longitude": 9.356839
+    },
+    {
+      "name": "S. A. B.",
+      "latitude": 55.32631,
+      "longitude": 10.04954
+    },
+    {
+      "name": "Sakata Ornamentals Europe",
+      "latitude": 55.379912,
+      "longitude": 10.539409
+    },
+    {
+      "name": "Skads Blomster",
+      "latitude": 55.502187,
+      "longitude": 8.568869
+    },
+    {
+      "name": "Solbjerg Havecenter",
+      "latitude": 56.029654,
+      "longitude": 10.063723
+    },
+    {
+      "name": "Spørring Planteskole",
+      "latitude": 56.282896,
+      "longitude": 10.151477
+    },
+    {
+      "name": "Staudeengen",
+      "latitude": 56.89804,
+      "longitude": 9.485211
+    },
+    {
+      "name": "Staurbyskov Havecenter",
+      "latitude": 55.515813,
+      "longitude": 9.777461
+    },
+    {
+      "name": "Store Magleby Blomster",
+      "latitude": 55.596716,
+      "longitude": 12.631867
+    },
+    {
+      "name": "Supergrønt Plantecenter",
+      "latitude": 55.567481,
+      "longitude": 9.722565
+    },
+    {
+      "name": "SvendborgSund Plantesalg",
+      "latitude": 55.028687,
+      "longitude": 10.609135
+    },
+    {
+      "name": "Thyme",
+      "latitude": 55.43068,
+      "longitude": 12.158346
+    },
+    {
+      "name": "Toksværd Planteskole",
+      "latitude": 55.257905,
+      "longitude": 11.877674
+    },
+    {
+      "name": "Vadum Havecenter",
+      "latitude": 57.11438,
+      "longitude": 9.883123
+    },
+    {
+      "name": "Varde Have og Skovmaskiner",
+      "latitude": 55.603568,
+      "longitude": 8.500428
+    },
+    {
+      "name": "Vica",
+      "latitude": 55.504778,
+      "longitude": 12.198829
+    },
+    {
+      "name": "Vig Planteskole",
+      "latitude": 55.836945,
+      "longitude": 11.570992
+    },
+    {
+      "name": "Villebøl Hobby og Havecenter",
+      "latitude": 55.399828,
+      "longitude": 8.881669
+    },
+    {
+      "name": "Vilvordes Planteskole",
+      "latitude": 55.622851,
+      "longitude": 12.09596
+    },
+    {
+      "name": "Willab Garden",
+      "latitude": 55.593183,
+      "longitude": 12.266281
+    },
+    {
+      "name": "Åkjærsgård Plantecenter",
+      "latitude": 56.318514,
+      "longitude": 10.480422
+    }
+  ],
+  "meta": {
+    "title": "Havecentre i Danmark (Garden centres in Denmark) - Gratis download",
+    "description": "Garden centres in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=garden_centre. Indeholder 121 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Havecentre i Danmark (Garden centres in Denmark) | ListBase",
+    "seo_description": "Download Havecentre i Danmark (Garden centres in Denmark) — 121 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 121 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

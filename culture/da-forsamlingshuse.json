@@ -1,0 +1,6661 @@
+{
+  "id": "da-forsamlingshuse",
+  "name": "Forsamlings- og medborgerhuse i Danmark – OpenStreetMap (Community centres in Denmark, OSM)",
+  "title": "Forsamlings- og medborgerhuse i Danmark – OpenStreetMap (Community centres in Denmark, OSM)",
+  "description": "Liste over 1324 forsamlings- og medborgerhuse i Danmark fra OpenStreetMap (amenity=community_centre) — navn og koordinater (WGS84).",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1324,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "(fælles)Skabet",
+      "latitude": 56.186347,
+      "longitude": 10.013857
+    },
+    {
+      "name": "1. Otterup Gruppe",
+      "latitude": 55.513999,
+      "longitude": 10.378862
+    },
+    {
+      "name": "A2",
+      "latitude": 57.020673,
+      "longitude": 9.899035
+    },
+    {
+      "name": "Aagaard Forsamlingshus",
+      "latitude": 55.590821,
+      "longitude": 9.425764
+    },
+    {
+      "name": "Aakilde værkstedsfællesskab - Mejeriet",
+      "latitude": 55.071988,
+      "longitude": 10.470667
+    },
+    {
+      "name": "Aalborg Løbeklub",
+      "latitude": 57.033755,
+      "longitude": 9.896229
+    },
+    {
+      "name": "Aalborg Veteranhjem",
+      "latitude": 57.05592,
+      "longitude": 9.88825
+    },
+    {
+      "name": "Aalbæk Kulturhus",
+      "latitude": 57.595225,
+      "longitude": 10.410585
+    },
+    {
+      "name": "Aale Forsamlingshus",
+      "latitude": 55.887928,
+      "longitude": 9.563904
+    },
+    {
+      "name": "Aalestrup Ungdomsklub",
+      "latitude": 56.69158,
+      "longitude": 9.481307
+    },
+    {
+      "name": "Aalsrode Forsamlingshus",
+      "latitude": 56.347177,
+      "longitude": 10.860069
+    },
+    {
+      "name": "Aarestrup Forsamlingshus",
+      "latitude": 56.818704,
+      "longitude": 9.745679
+    },
+    {
+      "name": "Aarsdalehuset",
+      "latitude": 55.106643,
+      "longitude": 15.145285
+    },
+    {
+      "name": "Aastrup Forsamlingshus",
+      "latitude": 55.069713,
+      "longitude": 10.338669
+    },
+    {
+      "name": "Abildhuset",
+      "latitude": 55.082898,
+      "longitude": 10.381397
+    },
+    {
+      "name": "Abildå Forsamlingshus",
+      "latitude": 56.168103,
+      "longitude": 8.614408
+    },
+    {
+      "name": "Addit Forsamlingshus",
+      "latitude": 56.039257,
+      "longitude": 9.612051
+    },
+    {
+      "name": "Agedrup Forsamlingshus",
+      "latitude": 55.426963,
+      "longitude": 10.49274
+    },
+    {
+      "name": "Aidt Forsamlingshus",
+      "latitude": 56.318002,
+      "longitude": 9.793627
+    },
+    {
+      "name": "Ajstrup Forsamlingshus",
+      "latitude": 56.035516,
+      "longitude": 10.239274
+    },
+    {
+      "name": "Akelahytten",
+      "latitude": 56.330771,
+      "longitude": 8.484638
+    },
+    {
+      "name": "Aktivhuset Lundeborg",
+      "latitude": 55.13969,
+      "longitude": 10.784922
+    },
+    {
+      "name": "Aktivhuset Olsbækken",
+      "latitude": 55.585805,
+      "longitude": 12.326708
+    },
+    {
+      "name": "Aktivitetshuset",
+      "latitude": 55.362109,
+      "longitude": 10.376244
+    },
+    {
+      "name": "Aktivitetshuset",
+      "latitude": 56.19965,
+      "longitude": 10.68379
+    },
+    {
+      "name": "Aktivitetshuset Paraplyen",
+      "latitude": 55.970841,
+      "longitude": 12.021962
+    },
+    {
+      "name": "AktivVirken",
+      "latitude": 55.448552,
+      "longitude": 12.159804
+    },
+    {
+      "name": "Albæk Forsamlingshus",
+      "latitude": 56.482714,
+      "longitude": 10.16042
+    },
+    {
+      "name": "Albøge Forsamlingshus",
+      "latitude": 56.361035,
+      "longitude": 10.704203
+    },
+    {
+      "name": "Algade 31 - Kreativt hus for børn",
+      "latitude": 55.641223,
+      "longitude": 12.086089
+    },
+    {
+      "name": "Allested-Vejle Forsamlingshus",
+      "latitude": 55.265938,
+      "longitude": 10.333359
+    },
+    {
+      "name": "Allesø Forsamlingshus",
+      "latitude": 55.451254,
+      "longitude": 10.315495
+    },
+    {
+      "name": "Allingåbro Skytteforening",
+      "latitude": 56.466233,
+      "longitude": 10.362501
+    },
+    {
+      "name": "Almind Kultur- og Forsamlingshus",
+      "latitude": 56.376746,
+      "longitude": 9.395902
+    },
+    {
+      "name": "Alminde Forsamlingshus",
+      "latitude": 55.565005,
+      "longitude": 9.488294
+    },
+    {
+      "name": "Alrø Forsamlingshus",
+      "latitude": 55.856238,
+      "longitude": 10.072904
+    },
+    {
+      "name": "Amager Kulturpunkt",
+      "latitude": 55.657993,
+      "longitude": 12.609329
+    },
+    {
+      "name": "Amagerlands Agility og Lydighedscenter",
+      "latitude": 55.629018,
+      "longitude": 12.613587
+    },
+    {
+      "name": "AMOK",
+      "latitude": 56.151835,
+      "longitude": 10.207329
+    },
+    {
+      "name": "Andebølle Forsamlingshus",
+      "latitude": 55.41868,
+      "longitude": 10.111083
+    },
+    {
+      "name": "Andelen",
+      "latitude": 56.718011,
+      "longitude": 10.115504
+    },
+    {
+      "name": "Andst Forsamlingshus",
+      "latitude": 55.481051,
+      "longitude": 9.235594
+    },
+    {
+      "name": "Anholt Forsamlingshus",
+      "latitude": 56.703828,
+      "longitude": 11.545617
+    },
+    {
+      "name": "Anneksgården",
+      "latitude": 55.435764,
+      "longitude": 10.313456
+    },
+    {
+      "name": "Annisse Forsamlingshus",
+      "latitude": 55.982475,
+      "longitude": 12.176516
+    },
+    {
+      "name": "Ansgars Sognehus",
+      "latitude": 57.043046,
+      "longitude": 9.910397
+    },
+    {
+      "name": "Appenæs Forsamlingshus",
+      "latitude": 55.195478,
+      "longitude": 11.74562
+    },
+    {
+      "name": "Arbejdernes Kolonihaver",
+      "latitude": 54.841843,
+      "longitude": 11.146069
+    },
+    {
+      "name": "Arnborg Forsamlingshus",
+      "latitude": 56.012229,
+      "longitude": 8.982738
+    },
+    {
+      "name": "Arnum Forsamlingshus",
+      "latitude": 55.24769,
+      "longitude": 8.968243
+    },
+    {
+      "name": "Arnum Kultur- og Fritidscenter",
+      "latitude": 55.243369,
+      "longitude": 8.968594
+    },
+    {
+      "name": "Arresøhus Forsamlingshus",
+      "latitude": 55.937484,
+      "longitude": 12.151106
+    },
+    {
+      "name": "As Forsamlingshus",
+      "latitude": 55.754329,
+      "longitude": 9.99986
+    },
+    {
+      "name": "Asferg Forsamlingshus",
+      "latitude": 56.546558,
+      "longitude": 9.93273
+    },
+    {
+      "name": "Asklev Forsamlingshus",
+      "latitude": 56.091528,
+      "longitude": 9.470134
+    },
+    {
+      "name": "Asnæs Forsamlingshus",
+      "latitude": 55.81629,
+      "longitude": 11.498628
+    },
+    {
+      "name": "Assistenten",
+      "latitude": 55.692276,
+      "longitude": 12.552242
+    },
+    {
+      "name": "Attrup Forsamlingshus",
+      "latitude": 56.38778,
+      "longitude": 10.556553
+    },
+    {
+      "name": "Augustenborg Sejlklub",
+      "latitude": 54.944288,
+      "longitude": 9.870706
+    },
+    {
+      "name": "Avalonhuset",
+      "latitude": 55.403523,
+      "longitude": 10.463999
+    },
+    {
+      "name": "Babycare",
+      "latitude": 55.734851,
+      "longitude": 9.127483
+    },
+    {
+      "name": "Bakkehuset",
+      "latitude": 55.848505,
+      "longitude": 12.56947
+    },
+    {
+      "name": "Bakkensbro Aktivitets- og Kulturcenter",
+      "latitude": 54.963766,
+      "longitude": 9.654721
+    },
+    {
+      "name": "Balle Forsamlingshus",
+      "latitude": 55.709355,
+      "longitude": 9.375451
+    },
+    {
+      "name": "Balslev Forsamlingshus",
+      "latitude": 55.425735,
+      "longitude": 9.895754
+    },
+    {
+      "name": "Barrit Sognegård",
+      "latitude": 55.715443,
+      "longitude": 9.879302
+    },
+    {
+      "name": "Beatyard Music",
+      "latitude": 55.058834,
+      "longitude": 10.61734
+    },
+    {
+      "name": "Beboerforeningen Drop Ned",
+      "latitude": 55.650797,
+      "longitude": 12.275501
+    },
+    {
+      "name": "Beboerhus",
+      "latitude": 56.19243,
+      "longitude": 10.20416
+    },
+    {
+      "name": "Beboerhus & Festsal - Hedegårdene",
+      "latitude": 55.492805,
+      "longitude": 8.498644
+    },
+    {
+      "name": "Beboerhuset",
+      "latitude": 55.38891,
+      "longitude": 10.39391
+    },
+    {
+      "name": "Beboerhuset",
+      "latitude": 55.707527,
+      "longitude": 12.550485
+    },
+    {
+      "name": "Beboerhuset",
+      "latitude": 56.242017,
+      "longitude": 10.492117
+    },
+    {
+      "name": "Beboerhuset Tousgårdsladen",
+      "latitude": 56.162942,
+      "longitude": 10.138549
+    },
+    {
+      "name": "Beboerhuset Valhalla",
+      "latitude": 56.17208,
+      "longitude": 10.12574
+    },
+    {
+      "name": "Beboernes Hus",
+      "latitude": 56.162629,
+      "longitude": 10.204854
+    },
+    {
+      "name": "Beboernes Hus",
+      "latitude": 56.16287,
+      "longitude": 10.197331
+    },
+    {
+      "name": "Bedsted og Omegns Aktivitetshus",
+      "latitude": 56.80957,
+      "longitude": 8.412107
+    },
+    {
+      "name": "Bering Gymnastik og Teater",
+      "latitude": 56.103308,
+      "longitude": 10.062432
+    },
+    {
+      "name": "Besser Forsamlingshus",
+      "latitude": 55.863531,
+      "longitude": 10.641605
+    },
+    {
+      "name": "Bethesda Vissenbjerg Samlingshus",
+      "latitude": 55.385623,
+      "longitude": 10.129051
+    },
+    {
+      "name": "Bevtoft Forsamlingshus",
+      "latitude": 55.199142,
+      "longitude": 9.210784
+    },
+    {
+      "name": "BGI akademiet",
+      "latitude": 55.824365,
+      "longitude": 10.088951
+    },
+    {
+      "name": "Bibliotekets Folkestue",
+      "latitude": 57.047036,
+      "longitude": 9.92711
+    },
+    {
+      "name": "Biecentret",
+      "latitude": 56.638782,
+      "longitude": 9.792017
+    },
+    {
+      "name": "Billum Forsamlingshus",
+      "latitude": 55.610948,
+      "longitude": 8.321848
+    },
+    {
+      "name": "Billund Centret",
+      "latitude": 55.730423,
+      "longitude": 9.118562
+    },
+    {
+      "name": "Birkehuset",
+      "latitude": 56.299205,
+      "longitude": 10.68983
+    },
+    {
+      "name": "Birkende Forsamlingshus",
+      "latitude": 55.380043,
+      "longitude": 10.562457
+    },
+    {
+      "name": "Birkerød Sognegård",
+      "latitude": 55.841715,
+      "longitude": 12.429007
+    },
+    {
+      "name": "Birkum Forsamlingshus",
+      "latitude": 55.337093,
+      "longitude": 10.502588
+    },
+    {
+      "name": "Bispebjerg Kulturcenters Selskabslokaler",
+      "latitude": 55.710569,
+      "longitude": 12.53963
+    },
+    {
+      "name": "Bispen",
+      "latitude": 55.250428,
+      "longitude": 9.484988
+    },
+    {
+      "name": "Bjergby Forsamlingshus",
+      "latitude": 56.521121,
+      "longitude": 10.010013
+    },
+    {
+      "name": "Bjergby Forsamlingshus",
+      "latitude": 56.871044,
+      "longitude": 8.731352
+    },
+    {
+      "name": "Bjergsted Forsamlingshus",
+      "latitude": 55.66833,
+      "longitude": 11.346095
+    },
+    {
+      "name": "Bjerndrup Forsamlingshus",
+      "latitude": 54.931088,
+      "longitude": 9.329989
+    },
+    {
+      "name": "Bjerreby Forsamlingshus",
+      "latitude": 54.968982,
+      "longitude": 10.604189
+    },
+    {
+      "name": "Bjerring Forsamlingshus",
+      "latitude": 56.380265,
+      "longitude": 9.622151
+    },
+    {
+      "name": "Bjerringbro & Omegns Jagtforening",
+      "latitude": 56.385037,
+      "longitude": 9.673065
+    },
+    {
+      "name": "Bjerringbro Og Omegns Sportsfiskerforenings klubhus",
+      "latitude": 56.369997,
+      "longitude": 9.654879
+    },
+    {
+      "name": "Bjæverskov Forsamlingshus",
+      "latitude": 55.45902,
+      "longitude": 12.018235
+    },
+    {
+      "name": "Bjørnø Beboerhus",
+      "latitude": 55.065134,
+      "longitude": 10.24924
+    },
+    {
+      "name": "Blistrup Medborgerhus",
+      "latitude": 56.087174,
+      "longitude": 12.212166
+    },
+    {
+      "name": "Blokhuset",
+      "latitude": 56.376447,
+      "longitude": 9.35601
+    },
+    {
+      "name": "Boeslum Forsamlingshus",
+      "latitude": 56.202862,
+      "longitude": 10.71198
+    },
+    {
+      "name": "Bogø Forsamlingshus",
+      "latitude": 54.926413,
+      "longitude": 12.048808
+    },
+    {
+      "name": "Boldesager Beboerforening",
+      "latitude": 55.476475,
+      "longitude": 8.460442
+    },
+    {
+      "name": "Boligselskabet Sjælland/Karlemoseparken Kulturhus",
+      "latitude": 55.483485,
+      "longitude": 12.168129
+    },
+    {
+      "name": "Bolsjefabrikken",
+      "latitude": 55.707562,
+      "longitude": 12.553435
+    },
+    {
+      "name": "Bording Forsamlingshus",
+      "latitude": 56.144693,
+      "longitude": 9.276496
+    },
+    {
+      "name": "Bording Kirkeby Medborgerhus",
+      "latitude": 56.168286,
+      "longitude": 9.243039
+    },
+    {
+      "name": "Borgerforeningens Hus",
+      "latitude": 55.311002,
+      "longitude": 10.797181
+    },
+    {
+      "name": "Borgerhuset",
+      "latitude": 54.936721,
+      "longitude": 10.715443
+    },
+    {
+      "name": "Borgerhuset",
+      "latitude": 56.317788,
+      "longitude": 10.806548
+    },
+    {
+      "name": "Borgerhuset Blåvand",
+      "latitude": 55.556237,
+      "longitude": 8.13892
+    },
+    {
+      "name": "Borgerhuset i Tinglev",
+      "latitude": 54.935609,
+      "longitude": 9.251445
+    },
+    {
+      "name": "Borgernes Hus",
+      "latitude": 54.962742,
+      "longitude": 10.809846
+    },
+    {
+      "name": "Borgernes Hus",
+      "latitude": 55.401262,
+      "longitude": 10.388301
+    },
+    {
+      "name": "Borgernes Hus",
+      "latitude": 57.565373,
+      "longitude": 10.098814
+    },
+    {
+      "name": "Borre Forsamlingshus",
+      "latitude": 54.996303,
+      "longitude": 12.44464
+    },
+    {
+      "name": "Borum Forsamlingshus",
+      "latitude": 56.188647,
+      "longitude": 10.010918
+    },
+    {
+      "name": "Borup Forsamlingshus",
+      "latitude": 56.504501,
+      "longitude": 9.984889
+    },
+    {
+      "name": "Borup Kulturhus",
+      "latitude": 55.499529,
+      "longitude": 11.978073
+    },
+    {
+      "name": "Botanisk Haves Venner",
+      "latitude": 56.159814,
+      "longitude": 10.195325
+    },
+    {
+      "name": "Boulstrup Forsamlingshus",
+      "latitude": 55.94228,
+      "longitude": 10.226169
+    },
+    {
+      "name": "Bovense Forsamlingshus",
+      "latitude": 55.38398,
+      "longitude": 10.72566
+    },
+    {
+      "name": "Bovlund Forsamlingshus",
+      "latitude": 55.101958,
+      "longitude": 9.102903
+    },
+    {
+      "name": "Brabrand Sognegård",
+      "latitude": 56.152464,
+      "longitude": 10.10311
+    },
+    {
+      "name": "Bramming Banegård",
+      "latitude": 55.464709,
+      "longitude": 8.706454
+    },
+    {
+      "name": "Brandelev Forsamlingshus",
+      "latitude": 55.210856,
+      "longitude": 11.865121
+    },
+    {
+      "name": "Brandelev Forsamlingshus",
+      "latitude": 55.211227,
+      "longitude": 11.863864
+    },
+    {
+      "name": "Branderup Forsamlingshus",
+      "latitude": 55.126131,
+      "longitude": 9.07155
+    },
+    {
+      "name": "Bregninge Sognegård",
+      "latitude": 54.88985,
+      "longitude": 10.313499
+    },
+    {
+      "name": "Brenderup Forsamlingshus",
+      "latitude": 55.484444,
+      "longitude": 9.978819
+    },
+    {
+      "name": "Brevdueforeningen VIDO Hvidovre",
+      "latitude": 55.639323,
+      "longitude": 12.501829
+    },
+    {
+      "name": "Brogården",
+      "latitude": 55.589972,
+      "longitude": 12.278552
+    },
+    {
+      "name": "Brohuset",
+      "latitude": 55.933552,
+      "longitude": 12.342172
+    },
+    {
+      "name": "Brudager Forsamlingshus",
+      "latitude": 55.116884,
+      "longitude": 10.673777
+    },
+    {
+      "name": "Brugshuset",
+      "latitude": 57.044108,
+      "longitude": 10.010883
+    },
+    {
+      "name": "Bruunshåb Forsamlingshus",
+      "latitude": 56.418041,
+      "longitude": 9.441793
+    },
+    {
+      "name": "Bryggergården",
+      "latitude": 54.852855,
+      "longitude": 11.276732
+    },
+    {
+      "name": "Brylle Forsamlingshus",
+      "latitude": 55.32606,
+      "longitude": 10.246721
+    },
+    {
+      "name": "Bryndum Forsamlingshus",
+      "latitude": 55.534583,
+      "longitude": 8.476078
+    },
+    {
+      "name": "Bryrup Sognehus",
+      "latitude": 56.025799,
+      "longitude": 9.513424
+    },
+    {
+      "name": "Brændekilde Forsamlingshus",
+      "latitude": 55.347498,
+      "longitude": 10.269717
+    },
+    {
+      "name": "Brændeskov Forsamlingshus",
+      "latitude": 55.129445,
+      "longitude": 10.612072
+    },
+    {
+      "name": "Brøk",
+      "latitude": 55.703423,
+      "longitude": 12.498164
+    },
+    {
+      "name": "Bur Forsamlingshus",
+      "latitude": 56.367441,
+      "longitude": 8.428468
+    },
+    {
+      "name": "BUTIK OLIVENHAVEN",
+      "latitude": 55.502134,
+      "longitude": 9.444385
+    },
+    {
+      "name": "Bydelshuset Nærvær",
+      "latitude": 55.598705,
+      "longitude": 12.265605
+    },
+    {
+      "name": "Bydelshuset Tilst",
+      "latitude": 56.187734,
+      "longitude": 10.106232
+    },
+    {
+      "name": "Byens Hus",
+      "latitude": 55.641785,
+      "longitude": 12.080145
+    },
+    {
+      "name": "Byens Hus",
+      "latitude": 55.732264,
+      "longitude": 12.57039
+    },
+    {
+      "name": "Byens Hus",
+      "latitude": 55.754813,
+      "longitude": 9.418094
+    },
+    {
+      "name": "Byens Hus",
+      "latitude": 57.33878,
+      "longitude": 9.773319
+    },
+    {
+      "name": "Byens Hus Mørke",
+      "latitude": 56.33842,
+      "longitude": 10.37565
+    },
+    {
+      "name": "Bygger'n/Kvarterklubben",
+      "latitude": 56.485044,
+      "longitude": 10.039634
+    },
+    {
+      "name": "Bygningen",
+      "latitude": 55.711271,
+      "longitude": 9.534107
+    },
+    {
+      "name": "Bytinget Ommestrup",
+      "latitude": 56.326269,
+      "longitude": 10.396375
+    },
+    {
+      "name": "Båring Forsamlingshus",
+      "latitude": 55.491591,
+      "longitude": 9.910605
+    },
+    {
+      "name": "Bårse Samlingshus",
+      "latitude": 55.12609,
+      "longitude": 11.950351
+    },
+    {
+      "name": "Bække Forsamlingshus",
+      "latitude": 55.571628,
+      "longitude": 9.139961
+    },
+    {
+      "name": "Bælum Skovpavillon",
+      "latitude": 56.822826,
+      "longitude": 10.119216
+    },
+    {
+      "name": "Bøgelunde forsamlingshus",
+      "latitude": 55.236119,
+      "longitude": 11.423622
+    },
+    {
+      "name": "Bølling Forsamlingshus",
+      "latitude": 55.983833,
+      "longitude": 8.547869
+    },
+    {
+      "name": "Børglum Forsamlingshus",
+      "latitude": 57.365606,
+      "longitude": 9.837365
+    },
+    {
+      "name": "Børnekulturhusey",
+      "latitude": 55.91632,
+      "longitude": 12.418142
+    },
+    {
+      "name": "Bøstrup Forsamlingshus",
+      "latitude": 55.037064,
+      "longitude": 10.880145
+    },
+    {
+      "name": "Cafe Gedved Medborgerhus",
+      "latitude": 55.934533,
+      "longitude": 9.844552
+    },
+    {
+      "name": "Cafe Klubånd",
+      "latitude": 56.048063,
+      "longitude": 10.197866
+    },
+    {
+      "name": "Cafeen Fælleshuset AAB afd. 55",
+      "latitude": 55.609043,
+      "longitude": 12.346875
+    },
+    {
+      "name": "Café EKSEKVATOR",
+      "latitude": 56.492729,
+      "longitude": 8.602893
+    },
+    {
+      "name": "Café Klare Kulturhuset",
+      "latitude": 55.400818,
+      "longitude": 10.394727
+    },
+    {
+      "name": "Casa Latinoamericana",
+      "latitude": 55.659429,
+      "longitude": 12.501141
+    },
+    {
+      "name": "Center 1",
+      "latitude": 55.676035,
+      "longitude": 12.357973
+    },
+    {
+      "name": "Center 4",
+      "latitude": 55.67712,
+      "longitude": 12.355965
+    },
+    {
+      "name": "Centralstationen/ Foreningen Pakhus 11 Kulturhus",
+      "latitude": 55.695998,
+      "longitude": 12.594483
+    },
+    {
+      "name": "Christianshavns Beboerhus",
+      "latitude": 55.671238,
+      "longitude": 12.590991
+    },
+    {
+      "name": "Cirkel Ordenen",
+      "latitude": 55.68588,
+      "longitude": 12.540338
+    },
+    {
+      "name": "Dagstrup Forsamlingshus",
+      "latitude": 56.34962,
+      "longitude": 10.415719
+    },
+    {
+      "name": "Dalby Forsamlingshus",
+      "latitude": 55.514588,
+      "longitude": 10.661843
+    },
+    {
+      "name": "Dalum Kirkes Anneks",
+      "latitude": 55.363565,
+      "longitude": 10.376376
+    },
+    {
+      "name": "Damms Gård",
+      "latitude": 54.9795,
+      "longitude": 9.497456
+    },
+    {
+      "name": "Dansekapellet",
+      "latitude": 55.716129,
+      "longitude": 12.530497
+    },
+    {
+      "name": "Dansk Indvandre Forening Kulturhus",
+      "latitude": 55.647455,
+      "longitude": 12.209711
+    },
+    {
+      "name": "Dansk Reinhardt-Institut",
+      "latitude": 54.882408,
+      "longitude": 9.72872
+    },
+    {
+      "name": "Dansk Røde Kors Hovedstaden Netværkshuset",
+      "latitude": 55.698988,
+      "longitude": 12.536805
+    },
+    {
+      "name": "Daugbjerg Forsamlingshus",
+      "latitude": 56.436032,
+      "longitude": 9.132032
+    },
+    {
+      "name": "Davinde Beboer- og Forsamlingshus",
+      "latitude": 55.341048,
+      "longitude": 10.546395
+    },
+    {
+      "name": "De Frivilliges Hus",
+      "latitude": 56.54869,
+      "longitude": 8.3098
+    },
+    {
+      "name": "Demokrati Garage",
+      "latitude": 55.707562,
+      "longitude": 12.524713
+    },
+    {
+      "name": "Den Danske Frimurerorden",
+      "latitude": 55.676228,
+      "longitude": 9.577057
+    },
+    {
+      "name": "Den Danske Frimurerordens hovedsæde",
+      "latitude": 55.697835,
+      "longitude": 12.572581
+    },
+    {
+      "name": "Den Gamle Skole",
+      "latitude": 55.784301,
+      "longitude": 12.321544
+    },
+    {
+      "name": "Den Hvide Skole",
+      "latitude": 56.356809,
+      "longitude": 9.917169
+    },
+    {
+      "name": "Depotgården",
+      "latitude": 55.561976,
+      "longitude": 9.764645
+    },
+    {
+      "name": "Det Blå Forenings Hus",
+      "latitude": 55.252201,
+      "longitude": 9.511168
+    },
+    {
+      "name": "Det Færøske Hus",
+      "latitude": 55.672769,
+      "longitude": 12.560126
+    },
+    {
+      "name": "Det Grønlandske Hus",
+      "latitude": 55.68056,
+      "longitude": 12.576824
+    },
+    {
+      "name": "Det Ottekantede Forsamlingshus",
+      "latitude": 56.837392,
+      "longitude": 8.718258
+    },
+    {
+      "name": "Deutscher Schulverein Sommerstedt",
+      "latitude": 55.318722,
+      "longitude": 9.269362
+    },
+    {
+      "name": "Diernæs Kultur- & Forsamlingshus",
+      "latitude": 55.105694,
+      "longitude": 10.290033
+    },
+    {
+      "name": "Dome",
+      "latitude": 55.627482,
+      "longitude": 12.081131
+    },
+    {
+      "name": "Domkirkens badehus",
+      "latitude": 56.162793,
+      "longitude": 10.227706
+    },
+    {
+      "name": "Domus Ungdomsklub - Ungvejle",
+      "latitude": 55.706201,
+      "longitude": 9.527225
+    },
+    {
+      "name": "Drantum Forsamlingshus",
+      "latitude": 55.914458,
+      "longitude": 9.106191
+    },
+    {
+      "name": "Drejø Forsamlingshus",
+      "latitude": 54.969791,
+      "longitude": 10.420458
+    },
+    {
+      "name": "Dreslette Forsamlingshus",
+      "latitude": 55.212209,
+      "longitude": 10.035919
+    },
+    {
+      "name": "Drigstrup Sognegård",
+      "latitude": 55.467669,
+      "longitude": 10.60239
+    },
+    {
+      "name": "Dronninglund Sognegård",
+      "latitude": 57.15868,
+      "longitude": 10.289576
+    },
+    {
+      "name": "Dråby Forsamlingshus",
+      "latitude": 56.222246,
+      "longitude": 10.699812
+    },
+    {
+      "name": "Dybbøl Forsamlingshus",
+      "latitude": 54.918248,
+      "longitude": 9.725455
+    },
+    {
+      "name": "Døllefjelde Forsamlingshus",
+      "latitude": 54.72884,
+      "longitude": 11.674225
+    },
+    {
+      "name": "Døstrup Forsamlingshus",
+      "latitude": 56.68843,
+      "longitude": 9.746685
+    },
+    {
+      "name": "Døves Kulturcenter",
+      "latitude": 57.022431,
+      "longitude": 9.941933
+    },
+    {
+      "name": "Ebdrup Forsamlingshus",
+      "latitude": 56.341349,
+      "longitude": 10.543543
+    },
+    {
+      "name": "Ebeltoft Kulturhus - Kulturloft",
+      "latitude": 56.200611,
+      "longitude": 10.679429
+    },
+    {
+      "name": "Ebeltoft Sognegård",
+      "latitude": 56.195064,
+      "longitude": 10.676051
+    },
+    {
+      "name": "Egebjerg Forsamlingshus",
+      "latitude": 55.844232,
+      "longitude": 11.68367
+    },
+    {
+      "name": "Egebjerg-Hansted Forsamlingshus",
+      "latitude": 55.897952,
+      "longitude": 9.8391
+    },
+    {
+      "name": "Egedal Byens Hus",
+      "latitude": 55.905818,
+      "longitude": 12.491297
+    },
+    {
+      "name": "Egegaarden",
+      "latitude": 55.989729,
+      "longitude": 12.536021
+    },
+    {
+      "name": "Egegård",
+      "latitude": 56.300035,
+      "longitude": 10.475037
+    },
+    {
+      "name": "Egegården",
+      "latitude": 55.744218,
+      "longitude": 12.469136
+    },
+    {
+      "name": "Egense Forsamlingshus",
+      "latitude": 55.050009,
+      "longitude": 10.53452
+    },
+    {
+      "name": "Eggeslevmagle Forsamlingshus",
+      "latitude": 55.285065,
+      "longitude": 11.345904
+    },
+    {
+      "name": "Egå Forsamlingshus",
+      "latitude": 56.217083,
+      "longitude": 10.265367
+    },
+    {
+      "name": "Egå Sognegård",
+      "latitude": 56.216942,
+      "longitude": 10.264575
+    },
+    {
+      "name": "Egåvikingerne",
+      "latitude": 56.211878,
+      "longitude": 10.291173
+    },
+    {
+      "name": "Ejby og Omegns Forsamlingshus",
+      "latitude": 55.688489,
+      "longitude": 11.860524
+    },
+    {
+      "name": "Ejsing Forsamlingshus",
+      "latitude": 56.52258,
+      "longitude": 8.781382
+    },
+    {
+      "name": "Ellinge Forsamlingshus",
+      "latitude": 55.314879,
+      "longitude": 10.623028
+    },
+    {
+      "name": "ELM's missionshus",
+      "latitude": 55.06344,
+      "longitude": 15.132935
+    },
+    {
+      "name": "Elsted-Lystrup Beboerhus",
+      "latitude": 56.240869,
+      "longitude": 10.22758
+    },
+    {
+      "name": "Elværket Åbyhøj",
+      "latitude": 56.154548,
+      "longitude": 10.165256
+    },
+    {
+      "name": "Emanuel",
+      "latitude": 55.155127,
+      "longitude": 8.772641
+    },
+    {
+      "name": "Emdrup Søgård Fritidsklub",
+      "latitude": 55.717143,
+      "longitude": 12.551649
+    },
+    {
+      "name": "Endeslev Forsamlingshus",
+      "latitude": 55.35609,
+      "longitude": 12.17073
+    },
+    {
+      "name": "Energien",
+      "latitude": 55.502796,
+      "longitude": 8.53831
+    },
+    {
+      "name": "Engelstrup Forsamlingshus",
+      "latitude": 55.802092,
+      "longitude": 11.578916
+    },
+    {
+      "name": "Englystparkens Aktivitetscenter",
+      "latitude": 55.641907,
+      "longitude": 9.646652
+    },
+    {
+      "name": "Enslev Forsamlingshus",
+      "latitude": 56.414226,
+      "longitude": 10.814271
+    },
+    {
+      "name": "Enslev Forsamlingshus",
+      "latitude": 56.614793,
+      "longitude": 10.121989
+    },
+    {
+      "name": "Enslevgård",
+      "latitude": 56.409666,
+      "longitude": 10.840197
+    },
+    {
+      "name": "Errindlev Forsamlingshus",
+      "latitude": 54.668667,
+      "longitude": 11.491205
+    },
+    {
+      "name": "Erritsø Forsamlingshus",
+      "latitude": 55.546541,
+      "longitude": 9.709256
+    },
+    {
+      "name": "Erritsø Sognehus",
+      "latitude": 55.548344,
+      "longitude": 9.699526
+    },
+    {
+      "name": "Erslev Forsamlingshus",
+      "latitude": 56.83166,
+      "longitude": 8.749107
+    },
+    {
+      "name": "Eskilstrup Kulturhus",
+      "latitude": 54.856628,
+      "longitude": 11.882064
+    },
+    {
+      "name": "Estraden Forsamlingshus",
+      "latitude": 56.654543,
+      "longitude": 10.197461
+    },
+    {
+      "name": "Everdrup Samlingshus",
+      "latitude": 55.200269,
+      "longitude": 11.957748
+    },
+    {
+      "name": "EWII House",
+      "latitude": 55.489208,
+      "longitude": 9.470611
+    },
+    {
+      "name": "Fair-huset",
+      "latitude": 55.471646,
+      "longitude": 8.450553
+    },
+    {
+      "name": "Fairhuset",
+      "latitude": 56.171837,
+      "longitude": 10.19533
+    },
+    {
+      "name": "Familiens Hus",
+      "latitude": 55.472846,
+      "longitude": 8.485167
+    },
+    {
+      "name": "Fangel Forsamlingshus",
+      "latitude": 55.311937,
+      "longitude": 10.318244
+    },
+    {
+      "name": "Farum Kulturhus",
+      "latitude": 55.813839,
+      "longitude": 12.377596
+    },
+    {
+      "name": "Farum Orienteringsklub",
+      "latitude": 55.815893,
+      "longitude": 12.355474
+    },
+    {
+      "name": "Farup Fælled",
+      "latitude": 55.358316,
+      "longitude": 8.740554
+    },
+    {
+      "name": "Faster Forsamlingshus",
+      "latitude": 55.985007,
+      "longitude": 8.593041
+    },
+    {
+      "name": "Fasterholt Forsamlingshus",
+      "latitude": 56.007758,
+      "longitude": 9.113115
+    },
+    {
+      "name": "Fausing Forsamlingshus",
+      "latitude": 56.444221,
+      "longitude": 10.2816
+    },
+    {
+      "name": "FDF Hadsund",
+      "latitude": 56.717045,
+      "longitude": 10.104527
+    },
+    {
+      "name": "FDF Kærby",
+      "latitude": 57.025918,
+      "longitude": 9.914476
+    },
+    {
+      "name": "FDF Lejrcenter Vork",
+      "latitude": 55.658336,
+      "longitude": 9.359445
+    },
+    {
+      "name": "FDF Rødding",
+      "latitude": 55.363976,
+      "longitude": 9.066269
+    },
+    {
+      "name": "FDF Spejderhytte",
+      "latitude": 55.5903,
+      "longitude": 12.319909
+    },
+    {
+      "name": "Feldborg Sognegård",
+      "latitude": 56.328787,
+      "longitude": 8.927666
+    },
+    {
+      "name": "Ferritslev Forsamlingshus",
+      "latitude": 55.310037,
+      "longitude": 10.582459
+    },
+    {
+      "name": "Finderup Forsamlingshus",
+      "latitude": 56.056649,
+      "longitude": 8.504266
+    },
+    {
+      "name": "Firgårde Forsamlingshus",
+      "latitude": 56.088694,
+      "longitude": 9.806843
+    },
+    {
+      "name": "FirstAED",
+      "latitude": 54.961246,
+      "longitude": 10.803621
+    },
+    {
+      "name": "Fiskerihavnens Maritime Foreningshus",
+      "latitude": 56.19372,
+      "longitude": 10.669918
+    },
+    {
+      "name": "Fjaltring Forsamlingshus",
+      "latitude": 56.482157,
+      "longitude": 8.14271
+    },
+    {
+      "name": "Fjellerup Aktivitetshus",
+      "latitude": 56.505002,
+      "longitude": 10.595734
+    },
+    {
+      "name": "Fjelsted Forsamlingshus",
+      "latitude": 55.440863,
+      "longitude": 10.013181
+    },
+    {
+      "name": "Fjelstervang Udeforsamlingshus",
+      "latitude": 56.074361,
+      "longitude": 8.808098
+    },
+    {
+      "name": "Fjelsø Forsamlingshus",
+      "latitude": 56.665408,
+      "longitude": 9.434665
+    },
+    {
+      "name": "Fjordbyens Kulturcenter",
+      "latitude": 57.058864,
+      "longitude": 9.890601
+    },
+    {
+      "name": "Fjordglimt Café og Kulturhus",
+      "latitude": 55.751301,
+      "longitude": 12.102867
+    },
+    {
+      "name": "Fjordsgade forenings- og fritidshus",
+      "latitude": 56.144315,
+      "longitude": 10.19855
+    },
+    {
+      "name": "Flade Forsamlingshus",
+      "latitude": 56.889015,
+      "longitude": 8.794544
+    },
+    {
+      "name": "Flakkebjerg Forsamlingshus",
+      "latitude": 55.313577,
+      "longitude": 11.399269
+    },
+    {
+      "name": "Flauenskjold Kulturhus",
+      "latitude": 57.249766,
+      "longitude": 10.28668
+    },
+    {
+      "name": "Flinterup Forsamlingshus",
+      "latitude": 55.514565,
+      "longitude": 11.64231
+    },
+    {
+      "name": "FLOK",
+      "latitude": 56.028319,
+      "longitude": 9.918161
+    },
+    {
+      "name": "FLOW",
+      "latitude": 56.565704,
+      "longitude": 9.029195
+    },
+    {
+      "name": "Fly Forsamlingshus",
+      "latitude": 56.494468,
+      "longitude": 9.011046
+    },
+    {
+      "name": "Flydende By",
+      "latitude": 55.657826,
+      "longitude": 12.553116
+    },
+    {
+      "name": "Fløng forsamlingshus",
+      "latitude": 55.662543,
+      "longitude": 12.181231
+    },
+    {
+      "name": "Fodby Forsamlingshus",
+      "latitude": 55.245007,
+      "longitude": 11.673495
+    },
+    {
+      "name": "Foldby Forsamlingshus",
+      "latitude": 56.251271,
+      "longitude": 10.020728
+    },
+    {
+      "name": "Fole Forsamlingshus",
+      "latitude": 55.316977,
+      "longitude": 8.980023
+    },
+    {
+      "name": "Folkehuset Abildgården",
+      "latitude": 56.177221,
+      "longitude": 10.207789
+    },
+    {
+      "name": "Folkehuset Absalon",
+      "latitude": 55.665335,
+      "longitude": 12.550542
+    },
+    {
+      "name": "Folkehuset Ankersgade",
+      "latitude": 56.147766,
+      "longitude": 10.19029
+    },
+    {
+      "name": "Folkehuset Beder",
+      "latitude": 56.057209,
+      "longitude": 10.207375
+    },
+    {
+      "name": "Folkehuset Brabrand",
+      "latitude": 56.15278,
+      "longitude": 10.09534
+    },
+    {
+      "name": "Folkehuset Carl Blochs Gade",
+      "latitude": 56.154689,
+      "longitude": 10.192811
+    },
+    {
+      "name": "Folkehuset Dalgas",
+      "latitude": 56.139313,
+      "longitude": 10.205523
+    },
+    {
+      "name": "Folkehuset Fuglebakken",
+      "latitude": 56.165999,
+      "longitude": 10.185287
+    },
+    {
+      "name": "Folkehuset Gellerup",
+      "latitude": 56.155657,
+      "longitude": 10.134837
+    },
+    {
+      "name": "Folkehuset Harlev",
+      "latitude": 56.143434,
+      "longitude": 9.992192
+    },
+    {
+      "name": "Folkehuset Hasle",
+      "latitude": 56.167681,
+      "longitude": 10.15509
+    },
+    {
+      "name": "Folkehuset Hjortshøj",
+      "latitude": 56.243368,
+      "longitude": 10.262302
+    },
+    {
+      "name": "Folkehuset Holme",
+      "latitude": 56.110447,
+      "longitude": 10.177779
+    },
+    {
+      "name": "Folkehuset Kolt-Hasselager",
+      "latitude": 56.111203,
+      "longitude": 10.07394
+    },
+    {
+      "name": "Folkehuset Kvaglund",
+      "latitude": 55.495575,
+      "longitude": 8.485633
+    },
+    {
+      "name": "Folkehuset Lystrup",
+      "latitude": 56.236094,
+      "longitude": 10.233565
+    },
+    {
+      "name": "Folkehuset Marselis",
+      "latitude": 56.140432,
+      "longitude": 10.191617
+    },
+    {
+      "name": "Folkehuset Mårslet",
+      "latitude": 56.069434,
+      "longitude": 10.163691
+    },
+    {
+      "name": "Folkehuset Møllestien",
+      "latitude": 56.156901,
+      "longitude": 10.203317
+    },
+    {
+      "name": "Folkehuset Risskov",
+      "latitude": 56.195303,
+      "longitude": 10.238119
+    },
+    {
+      "name": "Folkehuset Rosenvang",
+      "latitude": 56.129398,
+      "longitude": 10.181289
+    },
+    {
+      "name": "Folkehuset Sabro",
+      "latitude": 56.215406,
+      "longitude": 10.024849
+    },
+    {
+      "name": "Folkehuset Skejby",
+      "latitude": 56.193353,
+      "longitude": 10.19446
+    },
+    {
+      "name": "Folkehuset Skåde",
+      "latitude": 56.105589,
+      "longitude": 10.197893
+    },
+    {
+      "name": "Folkehuset Skæring",
+      "latitude": 56.229447,
+      "longitude": 10.305041
+    },
+    {
+      "name": "Folkehuset Skødstrup",
+      "latitude": 56.270665,
+      "longitude": 10.310025
+    },
+    {
+      "name": "Folkehuset Solbjerg",
+      "latitude": 56.041627,
+      "longitude": 10.087754
+    },
+    {
+      "name": "Folkehuset Stavtrup",
+      "latitude": 56.141126,
+      "longitude": 10.115468
+    },
+    {
+      "name": "Folkehuset Tilst",
+      "latitude": 56.191241,
+      "longitude": 10.110778
+    },
+    {
+      "name": "Folkehuset Toftegården",
+      "latitude": 56.180891,
+      "longitude": 10.171057
+    },
+    {
+      "name": "Folkehuset Tranbjerg",
+      "latitude": 56.093253,
+      "longitude": 10.136767
+    },
+    {
+      "name": "Folkehuset Trige",
+      "latitude": 56.252412,
+      "longitude": 10.144019
+    },
+    {
+      "name": "Folkehuset Trøjborg",
+      "latitude": 56.166596,
+      "longitude": 10.213101
+    },
+    {
+      "name": "Folkehuset Vanløse",
+      "latitude": 55.686892,
+      "longitude": 12.491135
+    },
+    {
+      "name": "Folkehuset Vejlby",
+      "latitude": 56.194496,
+      "longitude": 10.218043
+    },
+    {
+      "name": "Folkehuset Vestervang",
+      "latitude": 56.163539,
+      "longitude": 10.194754
+    },
+    {
+      "name": "Folkehuset Viby",
+      "latitude": 56.126005,
+      "longitude": 10.162807
+    },
+    {
+      "name": "Folkehuset Åbyhøj",
+      "latitude": 56.153081,
+      "longitude": 10.156327
+    },
+    {
+      "name": "Folkekirkens Hus",
+      "latitude": 57.048312,
+      "longitude": 9.920281
+    },
+    {
+      "name": "Folkestedet",
+      "latitude": 56.155134,
+      "longitude": 10.193672
+    },
+    {
+      "name": "Folkets Hus",
+      "latitude": 55.025997,
+      "longitude": 15.118574
+    },
+    {
+      "name": "Foreningen Kulturel Mødested Irakisk-Dansk",
+      "latitude": 55.700456,
+      "longitude": 12.532075
+    },
+    {
+      "name": "Foreningernes Hus",
+      "latitude": 56.162145,
+      "longitude": 10.138743
+    },
+    {
+      "name": "Foreningshus Bagsværdvej 144",
+      "latitude": 55.766271,
+      "longitude": 12.472084
+    },
+    {
+      "name": "Foreningshuset Fal_k",
+      "latitude": 55.871018,
+      "longitude": 9.843599
+    },
+    {
+      "name": "Foreningshuset Vestermarie Skole",
+      "latitude": 55.107397,
+      "longitude": 14.818773
+    },
+    {
+      "name": "Forsamlings huset",
+      "latitude": 54.931161,
+      "longitude": 10.505452
+    },
+    {
+      "name": "Forsamlingsbygningen",
+      "latitude": 57.459716,
+      "longitude": 9.989816
+    },
+    {
+      "name": "Forsamlingsgården Sundeved",
+      "latitude": 54.943011,
+      "longitude": 9.695238
+    },
+    {
+      "name": "Forsamlingshus",
+      "latitude": 55.05475,
+      "longitude": 10.483836
+    },
+    {
+      "name": "Forsamlingshus",
+      "latitude": 55.384272,
+      "longitude": 10.447436
+    },
+    {
+      "name": "Forsamlingshus",
+      "latitude": 55.385599,
+      "longitude": 10.448313
+    },
+    {
+      "name": "Forsamlingshus",
+      "latitude": 55.386845,
+      "longitude": 10.446749
+    },
+    {
+      "name": "Forsamlingshus",
+      "latitude": 55.515274,
+      "longitude": 11.864223
+    },
+    {
+      "name": "Forsamlingshus - Prismen",
+      "latitude": 55.667392,
+      "longitude": 12.612757
+    },
+    {
+      "name": "Forsamlingshus Otte Ruds Vej",
+      "latitude": 55.384082,
+      "longitude": 10.444041
+    },
+    {
+      "name": "Forsamlingshuset",
+      "latitude": 55.321436,
+      "longitude": 9.301431
+    },
+    {
+      "name": "Forsamlingshuset",
+      "latitude": 56.360472,
+      "longitude": 8.620593
+    },
+    {
+      "name": "Forsamlingshuset 5e",
+      "latitude": 55.66924,
+      "longitude": 12.561011
+    },
+    {
+      "name": "Forsamlingshuset Enigheden Tornemark",
+      "latitude": 55.22972,
+      "longitude": 11.517975
+    },
+    {
+      "name": "Forsamlingshuset Fremad",
+      "latitude": 54.925558,
+      "longitude": 12.252526
+    },
+    {
+      "name": "Forsamlingshuset Fremad",
+      "latitude": 56.197109,
+      "longitude": 9.915568
+    },
+    {
+      "name": "Forsamlingshuset Godthåb",
+      "latitude": 55.59777,
+      "longitude": 12.253502
+    },
+    {
+      "name": "Forsamlingshuset Håbet",
+      "latitude": 54.950801,
+      "longitude": 12.157976
+    },
+    {
+      "name": "Forsamlingshuset Nødebo Kro",
+      "latitude": 55.978732,
+      "longitude": 12.34712
+    },
+    {
+      "name": "Forsamlingshuset Voers Hus",
+      "latitude": 56.024478,
+      "longitude": 9.736103
+    },
+    {
+      "name": "Fortællerummet",
+      "latitude": 55.325197,
+      "longitude": 10.529025
+    },
+    {
+      "name": "Foulum/Formyre Kulturhus",
+      "latitude": 56.49857,
+      "longitude": 9.584074
+    },
+    {
+      "name": "Frederiksværk Multikulturel Forening",
+      "latitude": 55.970443,
+      "longitude": 12.021767
+    },
+    {
+      "name": "Fredsø Forsamlingshus",
+      "latitude": 56.773553,
+      "longitude": 8.795129
+    },
+    {
+      "name": "Frejlev Forsamlingshus",
+      "latitude": 54.70244,
+      "longitude": 11.75819
+    },
+    {
+      "name": "Fritids- og Ungdomsklubben Cafe",
+      "latitude": 55.7269,
+      "longitude": 12.340936
+    },
+    {
+      "name": "Fritidscentret Cirklen",
+      "latitude": 55.955756,
+      "longitude": 8.498215
+    },
+    {
+      "name": "Fritidsgården Lindholm",
+      "latitude": 56.10585,
+      "longitude": 8.985579
+    },
+    {
+      "name": "Fritidshuset Kirkegade",
+      "latitude": 55.469179,
+      "longitude": 8.450141
+    },
+    {
+      "name": "Fritidsklubben Marievang",
+      "latitude": 55.399208,
+      "longitude": 11.32838
+    },
+    {
+      "name": "Frivilligcenter Amager",
+      "latitude": 55.661148,
+      "longitude": 12.596934
+    },
+    {
+      "name": "Frivilligcenter Halsnæs",
+      "latitude": 55.973615,
+      "longitude": 12.017964
+    },
+    {
+      "name": "Frivilligcenter Holstebro - Kultur og Frivillighuset",
+      "latitude": 56.360691,
+      "longitude": 8.62212
+    },
+    {
+      "name": "Frivilligcenter Langeland",
+      "latitude": 54.936765,
+      "longitude": 10.719108
+    },
+    {
+      "name": "Frivillighuset",
+      "latitude": 55.059475,
+      "longitude": 10.613008
+    },
+    {
+      "name": "Frivillighuset Varde",
+      "latitude": 55.620185,
+      "longitude": 8.483055
+    },
+    {
+      "name": "Frændekilde",
+      "latitude": 56.051565,
+      "longitude": 12.141246
+    },
+    {
+      "name": "Frøbjerg Samlings & Kulturhus",
+      "latitude": 55.33546,
+      "longitude": 10.10757
+    },
+    {
+      "name": "Frøken Jensen",
+      "latitude": 54.86158,
+      "longitude": 9.723986
+    },
+    {
+      "name": "Frøslev Forsamlingshus",
+      "latitude": 55.290819,
+      "longitude": 12.319727
+    },
+    {
+      "name": "Frøslev Forsamlingshus",
+      "latitude": 56.804713,
+      "longitude": 8.724701
+    },
+    {
+      "name": "Fuglebjerg Forsamlingshus",
+      "latitude": 55.306802,
+      "longitude": 11.548614
+    },
+    {
+      "name": "Fuglede Forsamlingshus",
+      "latitude": 55.585237,
+      "longitude": 11.246845
+    },
+    {
+      "name": "Fundamentet",
+      "latitude": 56.155837,
+      "longitude": 10.178576
+    },
+    {
+      "name": "Funder Kirkeby Forsamlingshus",
+      "latitude": 56.154274,
+      "longitude": 9.439477
+    },
+    {
+      "name": "Fur Medborger- og Forsamlingshus",
+      "latitude": 56.818336,
+      "longitude": 9.010724
+    },
+    {
+      "name": "Fyensgadecentret",
+      "latitude": 57.043078,
+      "longitude": 9.935158
+    },
+    {
+      "name": "Fynshav Bådelaug",
+      "latitude": 54.991412,
+      "longitude": 9.984671
+    },
+    {
+      "name": "Fåre Forsamlingshus",
+      "latitude": 56.453124,
+      "longitude": 8.26307
+    },
+    {
+      "name": "Fårevejle Forsamlingshus",
+      "latitude": 55.803124,
+      "longitude": 11.436693
+    },
+    {
+      "name": "Fårhus Forsamlingshus",
+      "latitude": 54.861954,
+      "longitude": 9.329801
+    },
+    {
+      "name": "Fællesdrivhuset",
+      "latitude": 55.301988,
+      "longitude": 10.474719
+    },
+    {
+      "name": "Fælleshus",
+      "latitude": 55.637378,
+      "longitude": 12.586849
+    },
+    {
+      "name": "Fælleshus",
+      "latitude": 55.836852,
+      "longitude": 12.432365
+    },
+    {
+      "name": "Fælleshus",
+      "latitude": 56.139578,
+      "longitude": 10.142866
+    },
+    {
+      "name": "Fælleshus",
+      "latitude": 56.275333,
+      "longitude": 10.321167
+    },
+    {
+      "name": "Fælleshus for Civica afdeling 27 Løkkemarken Odense",
+      "latitude": 55.40459,
+      "longitude": 10.36996
+    },
+    {
+      "name": "Fælleshus Søndergård",
+      "latitude": 55.746593,
+      "longitude": 12.316308
+    },
+    {
+      "name": "Fælleshuset",
+      "latitude": 55.703242,
+      "longitude": 11.730752
+    },
+    {
+      "name": "Fælleshuset",
+      "latitude": 56.166769,
+      "longitude": 10.157837
+    },
+    {
+      "name": "Fælleshuset",
+      "latitude": 56.176084,
+      "longitude": 10.169522
+    },
+    {
+      "name": "Fælleshuset",
+      "latitude": 56.19606,
+      "longitude": 10.18615
+    },
+    {
+      "name": "Fælleshuset",
+      "latitude": 56.19891,
+      "longitude": 10.21797
+    },
+    {
+      "name": "Fælleshuset",
+      "latitude": 56.20009,
+      "longitude": 10.19679
+    },
+    {
+      "name": "Fælleshuset Bittens Bank",
+      "latitude": 54.925766,
+      "longitude": 9.97092
+    },
+    {
+      "name": "Fælleshuset Bøgeparken",
+      "latitude": 55.306729,
+      "longitude": 10.47368
+    },
+    {
+      "name": "Fælleshuset Det gamle Posthus",
+      "latitude": 55.239738,
+      "longitude": 10.481579
+    },
+    {
+      "name": "Fælleshuset Globen",
+      "latitude": 57.031316,
+      "longitude": 9.994747
+    },
+    {
+      "name": "Fælleshuset i Hallingelille",
+      "latitude": 55.494632,
+      "longitude": 11.818542
+    },
+    {
+      "name": "Fælleshuset Kildebo",
+      "latitude": 55.753379,
+      "longitude": 12.243871
+    },
+    {
+      "name": "Fælleshuset Trehøje",
+      "latitude": 55.643078,
+      "longitude": 12.04846
+    },
+    {
+      "name": "Gadevang Forsamlingshus",
+      "latitude": 55.965108,
+      "longitude": 12.280028
+    },
+    {
+      "name": "GAME Streetmekka Esbjerg",
+      "latitude": 55.474393,
+      "longitude": 8.462828
+    },
+    {
+      "name": "GAME Streetmekka København",
+      "latitude": 55.661608,
+      "longitude": 12.539772
+    },
+    {
+      "name": "GAME Streetmekka Viborg",
+      "latitude": 56.442419,
+      "longitude": 9.392502
+    },
+    {
+      "name": "Gammel Harlev Forsamlingshus",
+      "latitude": 56.131363,
+      "longitude": 10.010287
+    },
+    {
+      "name": "Gammel Svebølle Forsamlingshus",
+      "latitude": 55.636887,
+      "longitude": 11.318055
+    },
+    {
+      "name": "Ganløse Mølle",
+      "latitude": 55.791865,
+      "longitude": 12.267364
+    },
+    {
+      "name": "Gantrup Forsamlingshus",
+      "latitude": 55.997433,
+      "longitude": 9.721387
+    },
+    {
+      "name": "Gedser Idræts- og Medborgerhus",
+      "latitude": 54.581019,
+      "longitude": 11.927634
+    },
+    {
+      "name": "Gedved Kultur- og Medborgerhus",
+      "latitude": 56.689895,
+      "longitude": 9.334915
+    },
+    {
+      "name": "Gellerup Forsamlingshus",
+      "latitude": 56.156048,
+      "longitude": 10.134662
+    },
+    {
+      "name": "Generationshuset",
+      "latitude": 55.78804,
+      "longitude": 8.297611
+    },
+    {
+      "name": "Genner Forsamlingshus",
+      "latitude": 55.124184,
+      "longitude": 9.437966
+    },
+    {
+      "name": "Gerå Boger og Kulturhus",
+      "latitude": 57.120056,
+      "longitude": 10.377559
+    },
+    {
+      "name": "Gestelev Forsamlingshus",
+      "latitude": 55.238203,
+      "longitude": 10.428863
+    },
+    {
+      "name": "Gesten Forsamlingshus",
+      "latitude": 55.525108,
+      "longitude": 9.208044
+    },
+    {
+      "name": "Gesten Fritidscenter",
+      "latitude": 55.524432,
+      "longitude": 9.200196
+    },
+    {
+      "name": "Gimlinge Forsamlingshus",
+      "latitude": 55.323676,
+      "longitude": 11.437784
+    },
+    {
+      "name": "Gislev Forsamlingshus",
+      "latitude": 55.217438,
+      "longitude": 10.5922
+    },
+    {
+      "name": "Gislinge Forsamlingshus",
+      "latitude": 55.729928,
+      "longitude": 11.545454
+    },
+    {
+      "name": "Gjelleroddelejren",
+      "latitude": 56.588275,
+      "longitude": 8.289368
+    },
+    {
+      "name": "Gjern Kultur og Idrætscenter",
+      "latitude": 56.224318,
+      "longitude": 9.743088
+    },
+    {
+      "name": "Gjesing Forsamlingshus",
+      "latitude": 55.988477,
+      "longitude": 10.022418
+    },
+    {
+      "name": "Gjesing Forsamlingshus",
+      "latitude": 56.457354,
+      "longitude": 10.427619
+    },
+    {
+      "name": "Gjessø Forsamlingshus",
+      "latitude": 56.119441,
+      "longitude": 9.493771
+    },
+    {
+      "name": "Gl Haderslev Menighedsråd",
+      "latitude": 55.251611,
+      "longitude": 9.477564
+    },
+    {
+      "name": "Glashuset",
+      "latitude": 55.595653,
+      "longitude": 12.175645
+    },
+    {
+      "name": "Glashuset",
+      "latitude": 55.610677,
+      "longitude": 12.352637
+    },
+    {
+      "name": "Glesborg Forsamlingshus",
+      "latitude": 56.478402,
+      "longitude": 10.724387
+    },
+    {
+      "name": "Godthåb Forsamlingshus",
+      "latitude": 56.962383,
+      "longitude": 9.809665
+    },
+    {
+      "name": "Gosmer-Halling Forsamlingshus",
+      "latitude": 55.92946,
+      "longitude": 10.192783
+    },
+    {
+      "name": "Granslev Forsamlingshus",
+      "latitude": 56.32875,
+      "longitude": 9.911401
+    },
+    {
+      "name": "Grejs Kulturcenter",
+      "latitude": 55.762352,
+      "longitude": 9.533235
+    },
+    {
+      "name": "Grenaa naturskole",
+      "latitude": 56.402566,
+      "longitude": 10.917489
+    },
+    {
+      "name": "Grenaa Sportsfiskerforening",
+      "latitude": 56.396779,
+      "longitude": 10.71361
+    },
+    {
+      "name": "Greve Borgerhus",
+      "latitude": 55.589036,
+      "longitude": 12.29884
+    },
+    {
+      "name": "Grobund",
+      "latitude": 56.160869,
+      "longitude": 10.668549
+    },
+    {
+      "name": "Grundfør forsamlingshus",
+      "latitude": 56.268514,
+      "longitude": 10.101651
+    },
+    {
+      "name": "GRUS Kultur",
+      "latitude": 55.862515,
+      "longitude": 9.838873
+    },
+    {
+      "name": "Græsrodsgården",
+      "latitude": 55.684013,
+      "longitude": 11.312881
+    },
+    {
+      "name": "Grævlingehuset",
+      "latitude": 55.42078,
+      "longitude": 10.273786
+    },
+    {
+      "name": "Grønfeld Forsamlingshus",
+      "latitude": 56.256957,
+      "longitude": 10.552352
+    },
+    {
+      "name": "Grønhøj Forsamlingshus",
+      "latitude": 56.367007,
+      "longitude": 9.21013
+    },
+    {
+      "name": "Grønning Forsamlingshus",
+      "latitude": 56.649953,
+      "longitude": 9.059947
+    },
+    {
+      "name": "Gubben",
+      "latitude": 55.964699,
+      "longitude": 11.850534
+    },
+    {
+      "name": "Gudenåhuset",
+      "latitude": 56.376918,
+      "longitude": 9.656672
+    },
+    {
+      "name": "Gudhjemhuset",
+      "latitude": 55.20825,
+      "longitude": 14.97215
+    },
+    {
+      "name": "Guldager Forsamlingshus",
+      "latitude": 55.531508,
+      "longitude": 8.399901
+    },
+    {
+      "name": "Gulddysse Kulturgård",
+      "latitude": 55.750835,
+      "longitude": 12.138571
+    },
+    {
+      "name": "Gundorfslund Aktivitetshus",
+      "latitude": 57.031135,
+      "longitude": 9.909181
+    },
+    {
+      "name": "Gundsømagle forsamlingshus",
+      "latitude": 55.734884,
+      "longitude": 12.1516
+    },
+    {
+      "name": "Gylling Forsamlingshus",
+      "latitude": 55.890186,
+      "longitude": 10.166877
+    },
+    {
+      "name": "Gånsager Forsamlingshus",
+      "latitude": 55.211519,
+      "longitude": 8.884907
+    },
+    {
+      "name": "Gårslev Sognegård",
+      "latitude": 55.640311,
+      "longitude": 9.705506
+    },
+    {
+      "name": "Gødvad Forsamlingshus",
+      "latitude": 56.193813,
+      "longitude": 9.605609
+    },
+    {
+      "name": "Gøgsigs Pakhus",
+      "latitude": 57.472289,
+      "longitude": 10.201513
+    },
+    {
+      "name": "Gøls Minde Aktivitetscenter",
+      "latitude": 57.010257,
+      "longitude": 9.888623
+    },
+    {
+      "name": "Gørding Forsamlingshus",
+      "latitude": 56.338359,
+      "longitude": 8.304378
+    },
+    {
+      "name": "Gørløse Forsamlingshus",
+      "latitude": 55.885675,
+      "longitude": 12.196308
+    },
+    {
+      "name": "Haastrup Forsamlingshus",
+      "latitude": 55.173352,
+      "longitude": 10.195321
+    },
+    {
+      "name": "Haderslev Domsogns Menighedsråd Sognehus",
+      "latitude": 55.249997,
+      "longitude": 9.487101
+    },
+    {
+      "name": "Hadsten Sognegård",
+      "latitude": 56.329096,
+      "longitude": 10.045817
+    },
+    {
+      "name": "Hald Borgerhus",
+      "latitude": 56.596773,
+      "longitude": 9.198136
+    },
+    {
+      "name": "Hallebyore Mødested",
+      "latitude": 55.623713,
+      "longitude": 11.359622
+    },
+    {
+      "name": "Halling Forsamlingshus",
+      "latitude": 56.335455,
+      "longitude": 10.189321
+    },
+    {
+      "name": "Hallund / Hollensted Borger og Idrætsforening",
+      "latitude": 57.236143,
+      "longitude": 10.105601
+    },
+    {
+      "name": "Hammelev Forsamlingshus",
+      "latitude": 55.245049,
+      "longitude": 9.385589
+    },
+    {
+      "name": "Hammer Forsamlingshus",
+      "latitude": 55.14771,
+      "longitude": 11.871486
+    },
+    {
+      "name": "Hammersholt Forsamlingshus",
+      "latitude": 55.893765,
+      "longitude": 12.32809
+    },
+    {
+      "name": "Hammmelev forsamlingshus",
+      "latitude": 56.441758,
+      "longitude": 10.896298
+    },
+    {
+      "name": "Haraldsted Forsamlingshus",
+      "latitude": 55.514302,
+      "longitude": 11.782001
+    },
+    {
+      "name": "Harløse Forsamlingshus",
+      "latitude": 55.924707,
+      "longitude": 12.218843
+    },
+    {
+      "name": "Harndrup Forsamlingshus",
+      "latitude": 55.465765,
+      "longitude": 10.019698
+    },
+    {
+      "name": "Harrevig egnens Bogmekka",
+      "latitude": 56.712626,
+      "longitude": 8.925925
+    },
+    {
+      "name": "Harrevig Forsamlingshus",
+      "latitude": 56.690456,
+      "longitude": 8.927108
+    },
+    {
+      "name": "Hastrupparkens Kulturhus",
+      "latitude": 55.437368,
+      "longitude": 12.154092
+    },
+    {
+      "name": "Hatting Forsamlingshus",
+      "latitude": 55.853061,
+      "longitude": 9.758732
+    },
+    {
+      "name": "Haunstrup-Huset",
+      "latitude": 56.120869,
+      "longitude": 8.805413
+    },
+    {
+      "name": "Havana",
+      "latitude": 55.598469,
+      "longitude": 12.306057
+    },
+    {
+      "name": "Havkær Kultur- og Sundhedscenter",
+      "latitude": 56.190661,
+      "longitude": 10.110959
+    },
+    {
+      "name": "Havnelev Forsamlingshus",
+      "latitude": 55.268246,
+      "longitude": 12.341453
+    },
+    {
+      "name": "Havredal forsamlings og kulturhus",
+      "latitude": 56.323947,
+      "longitude": 9.266095
+    },
+    {
+      "name": "Hedebakken",
+      "latitude": 55.294876,
+      "longitude": 10.331351
+    },
+    {
+      "name": "Hedehusene Fritidscenter",
+      "latitude": 55.649303,
+      "longitude": 12.206249
+    },
+    {
+      "name": "Hedehuset",
+      "latitude": 55.649192,
+      "longitude": 12.205067
+    },
+    {
+      "name": "Heden Forsamlingshus",
+      "latitude": 55.248317,
+      "longitude": 10.368244
+    },
+    {
+      "name": "Hee Gl. Stationsbygning",
+      "latitude": 56.143872,
+      "longitude": 8.286559
+    },
+    {
+      "name": "Hejlsminde Forsamlingshus",
+      "latitude": 55.362016,
+      "longitude": 9.599515
+    },
+    {
+      "name": "Hejnsvig forsamlingshus",
+      "latitude": 55.695166,
+      "longitude": 8.99692
+    },
+    {
+      "name": "Helgenæs Forsamlingshus",
+      "latitude": 56.137241,
+      "longitude": 10.51607
+    },
+    {
+      "name": "Hellested Forsamlingshus",
+      "latitude": 55.330081,
+      "longitude": 12.248831
+    },
+    {
+      "name": "Helstrup Forsamlingshus",
+      "latitude": 56.43023,
+      "longitude": 9.890693
+    },
+    {
+      "name": "Hem Forsamlingshus",
+      "latitude": 56.593281,
+      "longitude": 8.958751
+    },
+    {
+      "name": "Hemmeshøj Forsamlingshus",
+      "latitude": 55.335777,
+      "longitude": 11.283572
+    },
+    {
+      "name": "Hemmet Aktivitets- & Kulturhus",
+      "latitude": 55.849339,
+      "longitude": 8.375097
+    },
+    {
+      "name": "Herlev Kirkes Sognehus",
+      "latitude": 55.72525,
+      "longitude": 12.43876
+    },
+    {
+      "name": "Herlev Medborgerhus",
+      "latitude": 55.726888,
+      "longitude": 12.43902
+    },
+    {
+      "name": "Herrested Forsamlingshus",
+      "latitude": 55.280893,
+      "longitude": 10.612444
+    },
+    {
+      "name": "Herrup Forsamlingshus",
+      "latitude": 56.407625,
+      "longitude": 8.913437
+    },
+    {
+      "name": "Hersom Forsamlingshus",
+      "latitude": 56.575695,
+      "longitude": 9.551132
+    },
+    {
+      "name": "Hevring Forsamlingshus",
+      "latitude": 56.514844,
+      "longitude": 10.389458
+    },
+    {
+      "name": "Himlingøje Forsamlingshus",
+      "latitude": 55.374709,
+      "longitude": 12.222867
+    },
+    {
+      "name": "Hinnerup Missionshus",
+      "latitude": 56.264128,
+      "longitude": 10.062726
+    },
+    {
+      "name": "Hinnerup Sognegård",
+      "latitude": 56.262856,
+      "longitude": 10.063393
+    },
+    {
+      "name": "Hjallerup Kulturhus",
+      "latitude": 57.169561,
+      "longitude": 10.146012
+    },
+    {
+      "name": "Hjallese Forsamlingshus",
+      "latitude": 55.356155,
+      "longitude": 10.393481
+    },
+    {
+      "name": "Hjarnø Forsamlingshus",
+      "latitude": 55.826477,
+      "longitude": 10.077394
+    },
+    {
+      "name": "Hjembæk Forsamlingshus",
+      "latitude": 55.695047,
+      "longitude": 11.404141
+    },
+    {
+      "name": "Hjertet",
+      "latitude": 56.136341,
+      "longitude": 9.123226
+    },
+    {
+      "name": "Hjertinghus",
+      "latitude": 55.530346,
+      "longitude": 8.365751
+    },
+    {
+      "name": "Hjørnet",
+      "latitude": 57.159735,
+      "longitude": 10.288779
+    },
+    {
+      "name": "Hjørnet Viby & Ungdomsklub",
+      "latitude": 55.546935,
+      "longitude": 12.033944
+    },
+    {
+      "name": "Hobro Medborgerhus",
+      "latitude": 56.637361,
+      "longitude": 9.798239
+    },
+    {
+      "name": "Hodda",
+      "latitude": 55.101746,
+      "longitude": 14.699435
+    },
+    {
+      "name": "Hodde Forsamlingshus",
+      "latitude": 55.700018,
+      "longitude": 8.66146
+    },
+    {
+      "name": "Holbæk Forsamlingshus",
+      "latitude": 56.553241,
+      "longitude": 10.29746
+    },
+    {
+      "name": "Hollandsbjerg Forsamlingshus",
+      "latitude": 56.495195,
+      "longitude": 10.279794
+    },
+    {
+      "name": "Hollænderhavens Forsamlingshus",
+      "latitude": 55.0094,
+      "longitude": 11.91562
+    },
+    {
+      "name": "Holme Olstrup Forsamlingshus",
+      "latitude": 55.251841,
+      "longitude": 11.841308
+    },
+    {
+      "name": "Holtug Forsamlingshus",
+      "latitude": 55.341373,
+      "longitude": 12.407182
+    },
+    {
+      "name": "Hornborg Forsamlingshus",
+      "latitude": 55.852942,
+      "longitude": 9.66562
+    },
+    {
+      "name": "Horslunde Selskabslokaler",
+      "latitude": 54.91052,
+      "longitude": 11.21653
+    },
+    {
+      "name": "Hos Risa Guderup forsamlings- & selskabshus",
+      "latitude": 54.98811,
+      "longitude": 9.866024
+    },
+    {
+      "name": "Hou Molehus",
+      "latitude": 57.056682,
+      "longitude": 10.3788
+    },
+    {
+      "name": "Hover Forsamlingshus",
+      "latitude": 56.144246,
+      "longitude": 8.430742
+    },
+    {
+      "name": "Hovslund Forsamlingshus",
+      "latitude": 55.132735,
+      "longitude": 9.331599
+    },
+    {
+      "name": "Hulsig Forsamlingshus",
+      "latitude": 57.656558,
+      "longitude": 10.453413
+    },
+    {
+      "name": "Hundeforeningen af 1970 - Amager Agility",
+      "latitude": 55.628939,
+      "longitude": 12.613726
+    },
+    {
+      "name": "Hundige Huset",
+      "latitude": 55.604794,
+      "longitude": 12.337342
+    },
+    {
+      "name": "Hune Forsamlingshus",
+      "latitude": 57.248691,
+      "longitude": 9.618363
+    },
+    {
+      "name": "Hunseby Forsamlingshus",
+      "latitude": 54.797825,
+      "longitude": 11.521624
+    },
+    {
+      "name": "Husby Sognegård",
+      "latitude": 56.280938,
+      "longitude": 8.177412
+    },
+    {
+      "name": "Huset",
+      "latitude": 56.135326,
+      "longitude": 8.97337
+    },
+    {
+      "name": "Huset Askman",
+      "latitude": 55.665485,
+      "longitude": 11.350881
+    },
+    {
+      "name": "Huset Esbjerg",
+      "latitude": 55.469431,
+      "longitude": 8.455469
+    },
+    {
+      "name": "HUSET Holstebro",
+      "latitude": 56.360292,
+      "longitude": 8.62061
+    },
+    {
+      "name": "Huset i Hasserisgade",
+      "latitude": 57.046998,
+      "longitude": 9.91035
+    },
+    {
+      "name": "Huset No 7",
+      "latitude": 56.137926,
+      "longitude": 8.977952
+    },
+    {
+      "name": "Huset-KBH",
+      "latitude": 55.676428,
+      "longitude": 12.574774
+    },
+    {
+      "name": "Husmandsstedet",
+      "latitude": 55.307781,
+      "longitude": 10.484969
+    },
+    {
+      "name": "Hvalsø Kulturhus",
+      "latitude": 55.593296,
+      "longitude": 11.857986
+    },
+    {
+      "name": "Hviding Forsamlingshus",
+      "latitude": 55.258288,
+      "longitude": 8.697761
+    },
+    {
+      "name": "Hygum Forsamlingshus",
+      "latitude": 55.353511,
+      "longitude": 8.979259
+    },
+    {
+      "name": "Hyllested Forsamlingshus",
+      "latitude": 56.281529,
+      "longitude": 10.765281
+    },
+    {
+      "name": "Hyltebjerggård",
+      "latitude": 55.681739,
+      "longitude": 12.488731
+    },
+    {
+      "name": "Hågerup Forsamlingshus",
+      "latitude": 55.173385,
+      "longitude": 10.363822
+    },
+    {
+      "name": "Håndværkerhuset",
+      "latitude": 55.701089,
+      "longitude": 9.385226
+    },
+    {
+      "name": "Hårslev Forsamlingshus Hårslev AMBA",
+      "latitude": 55.48965,
+      "longitude": 10.08548
+    },
+    {
+      "name": "Høgild Beboerhus",
+      "latitude": 56.062344,
+      "longitude": 8.991019
+    },
+    {
+      "name": "Højby Forsamlingshus",
+      "latitude": 55.331389,
+      "longitude": 10.43797
+    },
+    {
+      "name": "Højby Spejderne",
+      "latitude": 55.333812,
+      "longitude": 10.425724
+    },
+    {
+      "name": "Højen Kultur- Og Forsamlingshus",
+      "latitude": 55.656008,
+      "longitude": 9.506943
+    },
+    {
+      "name": "Højmark Forsamlingshus",
+      "latitude": 56.052631,
+      "longitude": 8.405088
+    },
+    {
+      "name": "Højskolesalen",
+      "latitude": 55.113593,
+      "longitude": 10.72235
+    },
+    {
+      "name": "Højslev Kirkeby Forsamlingshus",
+      "latitude": 56.583904,
+      "longitude": 9.13596
+    },
+    {
+      "name": "Hørby Kultur & Forsamlingshus",
+      "latitude": 55.751907,
+      "longitude": 11.687052
+    },
+    {
+      "name": "Hørning Sognegård",
+      "latitude": 56.085518,
+      "longitude": 10.037042
+    },
+    {
+      "name": "Hørve Medborgerhus",
+      "latitude": 55.753948,
+      "longitude": 11.454953
+    },
+    {
+      "name": "Høsterkøb Forsamlingshus",
+      "latitude": 55.855457,
+      "longitude": 12.48228
+    },
+    {
+      "name": "Høve Mark Forsamlingshus",
+      "latitude": 55.293156,
+      "longitude": 11.373721
+    },
+    {
+      "name": "Idestrup Forsamlingshus",
+      "latitude": 54.743058,
+      "longitude": 11.961555
+    },
+    {
+      "name": "Iglsø Forsamlingshus",
+      "latitude": 56.478675,
+      "longitude": 9.082928
+    },
+    {
+      "name": "Iliria borgerforening",
+      "latitude": 55.703876,
+      "longitude": 12.532529
+    },
+    {
+      "name": "Ilskov Forsamlingshus",
+      "latitude": 56.239762,
+      "longitude": 9.091359
+    },
+    {
+      "name": "Infohuset",
+      "latitude": 56.218028,
+      "longitude": 10.164962
+    },
+    {
+      "name": "Information Vest",
+      "latitude": 56.157207,
+      "longitude": 10.134928
+    },
+    {
+      "name": "Ingstrup Forsamlingshus",
+      "latitude": 57.314425,
+      "longitude": 9.711288
+    },
+    {
+      "name": "INSP!",
+      "latitude": 55.636287,
+      "longitude": 12.080301
+    },
+    {
+      "name": "Internationalt Forum",
+      "latitude": 55.685837,
+      "longitude": 12.552622
+    },
+    {
+      "name": "Isenvad Forsamlingshus",
+      "latitude": 56.095723,
+      "longitude": 9.205982
+    },
+    {
+      "name": "Ishøj Forsamlingshus",
+      "latitude": 55.625431,
+      "longitude": 12.29815
+    },
+    {
+      "name": "Jaungyde Forsamlingshus",
+      "latitude": 56.113314,
+      "longitude": 9.8183
+    },
+    {
+      "name": "Jernstøberiet",
+      "latitude": 57.147241,
+      "longitude": 10.412787
+    },
+    {
+      "name": "Jernved Kulturhus",
+      "latitude": 55.421165,
+      "longitude": 8.7957
+    },
+    {
+      "name": "Jersie Forsamlingshus",
+      "latitude": 55.526319,
+      "longitude": 12.165959
+    },
+    {
+      "name": "Jersore Forsamlingshus",
+      "latitude": 55.587228,
+      "longitude": 10.211321
+    },
+    {
+      "name": "Jerup Forsamlingshus",
+      "latitude": 57.535522,
+      "longitude": 10.419635
+    },
+    {
+      "name": "Jon & Dittes Hus",
+      "latitude": 55.523909,
+      "longitude": 8.355671
+    },
+    {
+      "name": "Jorløse forsamlingshus",
+      "latitude": 55.611005,
+      "longitude": 11.299424
+    },
+    {
+      "name": "Junget-Grættrup Forsamlingshus",
+      "latitude": 56.760964,
+      "longitude": 9.101468
+    },
+    {
+      "name": "Jungshoved Forsamlingshus",
+      "latitude": 55.100518,
+      "longitude": 12.126358
+    },
+    {
+      "name": "Jørlunde Sognehus",
+      "latitude": 55.83076,
+      "longitude": 12.169987
+    },
+    {
+      "name": "Kabel29",
+      "latitude": 55.505266,
+      "longitude": 9.740402
+    },
+    {
+      "name": "Kajakklubben Viking",
+      "latitude": 56.117501,
+      "longitude": 10.228197
+    },
+    {
+      "name": "Kaktus Hjerting Kultur- og Fritidsforening",
+      "latitude": 55.523693,
+      "longitude": 8.35603
+    },
+    {
+      "name": "Kalundborg Fælleshus",
+      "latitude": 55.677645,
+      "longitude": 11.085539
+    },
+    {
+      "name": "Kalvslund Forsamlingshus",
+      "latitude": 55.386571,
+      "longitude": 8.878285
+    },
+    {
+      "name": "Kaosambassaden",
+      "latitude": 56.461253,
+      "longitude": 10.040777
+    },
+    {
+      "name": "Kapelvej 44",
+      "latitude": 55.68653,
+      "longitude": 12.5513
+    },
+    {
+      "name": "Kappelborg",
+      "latitude": 57.722727,
+      "longitude": 10.587198
+    },
+    {
+      "name": "Karens minde",
+      "latitude": 55.646759,
+      "longitude": 12.529748
+    },
+    {
+      "name": "Karleby Forsamlingshus",
+      "latitude": 55.698145,
+      "longitude": 11.905741
+    },
+    {
+      "name": "Karstof Samlingshus",
+      "latitude": 55.933778,
+      "longitude": 8.94079
+    },
+    {
+      "name": "Kassehuset",
+      "latitude": 56.763389,
+      "longitude": 8.863783
+    },
+    {
+      "name": "Kastager Forsamlingshus",
+      "latitude": 54.944444,
+      "longitude": 11.197912
+    },
+    {
+      "name": "Katterød Forsamlingshus",
+      "latitude": 55.0818,
+      "longitude": 10.306964
+    },
+    {
+      "name": "Kegnæs Forsamlingshus",
+      "latitude": 54.875065,
+      "longitude": 9.925438
+    },
+    {
+      "name": "Kelstrup Forsamlingshus",
+      "latitude": 55.419881,
+      "longitude": 11.233851
+    },
+    {
+      "name": "Kernen",
+      "latitude": 56.110984,
+      "longitude": 8.419884
+    },
+    {
+      "name": "Kerte Forsamlingshus",
+      "latitude": 55.361708,
+      "longitude": 9.996524
+    },
+    {
+      "name": "Kettinge Forsamlingshus",
+      "latitude": 54.696113,
+      "longitude": 11.727807
+    },
+    {
+      "name": "KFUM spejderne Børkop",
+      "latitude": 55.640025,
+      "longitude": 9.642223
+    },
+    {
+      "name": "KFUM Spejderne, Nr. Lyndelse",
+      "latitude": 55.293589,
+      "longitude": 10.390387
+    },
+    {
+      "name": "KFUM's Soldaterhjem Skive",
+      "latitude": 56.54292,
+      "longitude": 9.035752
+    },
+    {
+      "name": "KFUM-Spejderne i Rækker Mølle",
+      "latitude": 56.019539,
+      "longitude": 8.534769
+    },
+    {
+      "name": "KFUM/KFUK",
+      "latitude": 55.471736,
+      "longitude": 8.45058
+    },
+    {
+      "name": "KFUM/KFUK",
+      "latitude": 56.55059,
+      "longitude": 8.310495
+    },
+    {
+      "name": "Kibæk Missionshus",
+      "latitude": 56.029949,
+      "longitude": 8.853686
+    },
+    {
+      "name": "Kiers Gård",
+      "latitude": 54.963027,
+      "longitude": 8.691827
+    },
+    {
+      "name": "Kildebrønde Gamle Skole",
+      "latitude": 55.607825,
+      "longitude": 12.274949
+    },
+    {
+      "name": "Kildegården",
+      "latitude": 55.639194,
+      "longitude": 12.070833
+    },
+    {
+      "name": "Kinbaku Lounge",
+      "latitude": 55.65209,
+      "longitude": 12.520857
+    },
+    {
+      "name": "Kirke Saaby forsamlingshus",
+      "latitude": 55.635135,
+      "longitude": 11.871897
+    },
+    {
+      "name": "Kirke Stillinge Forsamlingshus",
+      "latitude": 55.437532,
+      "longitude": 11.241956
+    },
+    {
+      "name": "Kirkecentret",
+      "latitude": 57.088539,
+      "longitude": 9.263281
+    },
+    {
+      "name": "Kjeldbjerg Forsamlingshus",
+      "latitude": 56.473069,
+      "longitude": 9.053108
+    },
+    {
+      "name": "Klauzdal",
+      "latitude": 55.745648,
+      "longitude": 12.441861
+    },
+    {
+      "name": "Klitgården",
+      "latitude": 57.586739,
+      "longitude": 10.190801
+    },
+    {
+      "name": "Klovborg Forsamlingshus",
+      "latitude": 55.932081,
+      "longitude": 9.490901
+    },
+    {
+      "name": "Klub 144",
+      "latitude": 55.766018,
+      "longitude": 12.472926
+    },
+    {
+      "name": "Klub Godset",
+      "latitude": 55.606239,
+      "longitude": 12.325551
+    },
+    {
+      "name": "Klub Roskilde Midt, Afd. Hedeboparken",
+      "latitude": 55.641424,
+      "longitude": 12.113983
+    },
+    {
+      "name": "Klub Roskilde Vest - Søndergården",
+      "latitude": 55.633451,
+      "longitude": 12.014272
+    },
+    {
+      "name": "Klub Takken",
+      "latitude": 56.453226,
+      "longitude": 9.400192
+    },
+    {
+      "name": "Klub Tarp",
+      "latitude": 55.525103,
+      "longitude": 8.460891
+    },
+    {
+      "name": "Klubhus",
+      "latitude": 55.45884,
+      "longitude": 9.558462
+    },
+    {
+      "name": "Klyngehuset",
+      "latitude": 56.48351,
+      "longitude": 10.166564
+    },
+    {
+      "name": "Knøs' Gård",
+      "latitude": 54.914311,
+      "longitude": 9.893609
+    },
+    {
+      "name": "Koed Forsamlingshus",
+      "latitude": 56.373877,
+      "longitude": 10.568332
+    },
+    {
+      "name": "Kolby Forsamlingshus",
+      "latitude": 55.800889,
+      "longitude": 10.559298
+    },
+    {
+      "name": "Kolind+",
+      "latitude": 56.360727,
+      "longitude": 10.576246
+    },
+    {
+      "name": "Kollund Forsamlingshus",
+      "latitude": 56.092871,
+      "longitude": 9.028943
+    },
+    {
+      "name": "Kolt Forsamlingshus",
+      "latitude": 56.109195,
+      "longitude": 10.072029
+    },
+    {
+      "name": "Konfirmandhuset Ledøje- Smørum menighedsråd",
+      "latitude": 55.732973,
+      "longitude": 12.303308
+    },
+    {
+      "name": "Kongsholmcentret",
+      "latitude": 55.655747,
+      "longitude": 12.349569
+    },
+    {
+      "name": "Kongsted Forsamlingshus",
+      "latitude": 55.244993,
+      "longitude": 12.0405
+    },
+    {
+      "name": "Kontorhuset Olof Palmes alle",
+      "latitude": 56.188476,
+      "longitude": 10.189075
+    },
+    {
+      "name": "Korinth Kulturhus",
+      "latitude": 55.14488,
+      "longitude": 10.333859
+    },
+    {
+      "name": "Korshavn Forsamlingshus",
+      "latitude": 55.012157,
+      "longitude": 10.314614
+    },
+    {
+      "name": "Korup Sognegård",
+      "latitude": 55.429559,
+      "longitude": 10.277071
+    },
+    {
+      "name": "Kraftwerket",
+      "latitude": 55.661451,
+      "longitude": 12.518533
+    },
+    {
+      "name": "Krajbjerg Forsamlingshus",
+      "latitude": 56.294361,
+      "longitude": 10.279099
+    },
+    {
+      "name": "Kronheden Forsamlingshus",
+      "latitude": 56.234043,
+      "longitude": 8.416927
+    },
+    {
+      "name": "Krydset",
+      "latitude": 55.48539,
+      "longitude": 8.491704
+    },
+    {
+      "name": "KU.BE",
+      "latitude": 55.682943,
+      "longitude": 12.505903
+    },
+    {
+      "name": "KU.BE Kultur- og bevægelseshus",
+      "latitude": 55.682727,
+      "longitude": 12.505809
+    },
+    {
+      "name": "Kulhuse Kultur og Medborgerhus",
+      "latitude": 55.922989,
+      "longitude": 11.91508
+    },
+    {
+      "name": "Kullerup Forsamlingshus",
+      "latitude": 55.316609,
+      "longitude": 10.704525
+    },
+    {
+      "name": "Kulsviergården",
+      "latitude": 55.971814,
+      "longitude": 12.228854
+    },
+    {
+      "name": "Kultur og medborgerhuset i Korsør",
+      "latitude": 55.339355,
+      "longitude": 11.133413
+    },
+    {
+      "name": "Kultur- & Fritidshuset",
+      "latitude": 55.467089,
+      "longitude": 8.448118
+    },
+    {
+      "name": "Kultur- og Medborgerhuset Kig Ind",
+      "latitude": 56.707167,
+      "longitude": 9.628188
+    },
+    {
+      "name": "Kultur- og Pakhuset",
+      "latitude": 54.695625,
+      "longitude": 11.3951
+    },
+    {
+      "name": "Kultur- og Sundhedscenter InSide",
+      "latitude": 56.256801,
+      "longitude": 9.860233
+    },
+    {
+      "name": "Kulturcenter Mariehøj",
+      "latitude": 55.830724,
+      "longitude": 12.519458
+    },
+    {
+      "name": "Kulturcenter Skive",
+      "latitude": 56.545475,
+      "longitude": 9.027262
+    },
+    {
+      "name": "Kulturcenter Struer",
+      "latitude": 56.490608,
+      "longitude": 8.596693
+    },
+    {
+      "name": "Kulturcenter Østsalling",
+      "latitude": 56.688353,
+      "longitude": 9.072658
+    },
+    {
+      "name": "Kulturfabrikken",
+      "latitude": 54.768221,
+      "longitude": 11.884427
+    },
+    {
+      "name": "Kulturforening Maskinen",
+      "latitude": 55.065058,
+      "longitude": 10.613542
+    },
+    {
+      "name": "Kulturforsyningen",
+      "latitude": 54.764491,
+      "longitude": 11.87224
+    },
+    {
+      "name": "Kulturhavn Gilleleje",
+      "latitude": 56.124619,
+      "longitude": 12.306147
+    },
+    {
+      "name": "Kulturhus Bunkeren",
+      "latitude": 56.18616,
+      "longitude": 10.188304
+    },
+    {
+      "name": "Kulturhus Gimle",
+      "latitude": 55.725271,
+      "longitude": 11.355682
+    },
+    {
+      "name": "Kulturhus Herredsvang",
+      "latitude": 56.179623,
+      "longitude": 10.167333
+    },
+    {
+      "name": "Kulturhus Krudttønden",
+      "latitude": 55.705411,
+      "longitude": 12.574723
+    },
+    {
+      "name": "Kulturhus Køge",
+      "latitude": 55.450607,
+      "longitude": 12.1863
+    },
+    {
+      "name": "Kulturhus Pakhuset",
+      "latitude": 54.695652,
+      "longitude": 11.395033
+    },
+    {
+      "name": "Kulturhus Støberiet",
+      "latitude": 55.686087,
+      "longitude": 12.556791
+    },
+    {
+      "name": "Kulturhus Syd",
+      "latitude": 56.022085,
+      "longitude": 12.581229
+    },
+    {
+      "name": "Kulturhuset",
+      "latitude": 55.422138,
+      "longitude": 11.364407
+    },
+    {
+      "name": "Kulturhuset",
+      "latitude": 55.987352,
+      "longitude": 10.231678
+    },
+    {
+      "name": "Kulturhuset",
+      "latitude": 56.035456,
+      "longitude": 9.932755
+    },
+    {
+      "name": "Kulturhuset",
+      "latitude": 56.460287,
+      "longitude": 10.040843
+    },
+    {
+      "name": "Kulturhuset",
+      "latitude": 56.64969,
+      "longitude": 8.531266
+    },
+    {
+      "name": "Kulturhuset Bergmannhus",
+      "latitude": 55.048193,
+      "longitude": 10.67015
+    },
+    {
+      "name": "Kulturhuset Blokhus",
+      "latitude": 57.24824,
+      "longitude": 9.611974
+    },
+    {
+      "name": "Kulturhuset Brønden",
+      "latitude": 55.623209,
+      "longitude": 12.423744
+    },
+    {
+      "name": "Kulturhuset Bølgen",
+      "latitude": 56.075102,
+      "longitude": 12.542519
+    },
+    {
+      "name": "Kulturhuset Den Gamle Biograf",
+      "latitude": 56.167199,
+      "longitude": 9.347865
+    },
+    {
+      "name": "Kulturhuset Egernsund Gamle Skole",
+      "latitude": 54.904118,
+      "longitude": 9.615733
+    },
+    {
+      "name": "Kulturhuset Elværket",
+      "latitude": 55.83808,
+      "longitude": 12.068129
+    },
+    {
+      "name": "Kulturhuset FREM",
+      "latitude": 55.136069,
+      "longitude": 15.14327
+    },
+    {
+      "name": "Kulturhuset Helgenæs Præstegård",
+      "latitude": 56.133242,
+      "longitude": 10.510915
+    },
+    {
+      "name": "Kulturhuset Indre By",
+      "latitude": 55.683467,
+      "longitude": 12.563905
+    },
+    {
+      "name": "Kulturhuset Islands Brygge",
+      "latitude": 55.666913,
+      "longitude": 12.576367
+    },
+    {
+      "name": "Kulturhuset Kanten",
+      "latitude": 55.255614,
+      "longitude": 12.123003
+    },
+    {
+      "name": "Kulturhuset Kilden",
+      "latitude": 55.667747,
+      "longitude": 12.439547
+    },
+    {
+      "name": "Kulturhuset Leopold",
+      "latitude": 55.306712,
+      "longitude": 12.199677
+    },
+    {
+      "name": "Kulturhuset Pavillionen",
+      "latitude": 56.413244,
+      "longitude": 10.86837
+    },
+    {
+      "name": "Kulturhuset Pilegården",
+      "latitude": 55.701711,
+      "longitude": 12.498259
+    },
+    {
+      "name": "Kulturhuset Rejsestalden",
+      "latitude": 55.855407,
+      "longitude": 11.982558
+    },
+    {
+      "name": "Kulturhuset SKOLEN",
+      "latitude": 55.82244,
+      "longitude": 8.410842
+    },
+    {
+      "name": "Kulturhuset Textilen",
+      "latitude": 56.134272,
+      "longitude": 8.995124
+    },
+    {
+      "name": "Kulturhuset Udby Forsamlingshus",
+      "latitude": 55.754556,
+      "longitude": 11.708857
+    },
+    {
+      "name": "Kulturhuset Viften",
+      "latitude": 55.68189,
+      "longitude": 12.45673
+    },
+    {
+      "name": "Kulturhuset-Skyttehuset",
+      "latitude": 54.961243,
+      "longitude": 9.768431
+    },
+    {
+      "name": "Kulturkasernen",
+      "latitude": 55.566314,
+      "longitude": 9.766703
+    },
+    {
+      "name": "Kulturspinderiet",
+      "latitude": 55.621704,
+      "longitude": 8.475928
+    },
+    {
+      "name": "KulturStation",
+      "latitude": 56.835765,
+      "longitude": 9.8882
+    },
+    {
+      "name": "KulturStationen",
+      "latitude": 55.96447,
+      "longitude": 12.532869
+    },
+    {
+      "name": "Kulturstationen Vanløse",
+      "latitude": 55.686753,
+      "longitude": 12.491452
+    },
+    {
+      "name": "Kulturværftet",
+      "latitude": 56.038196,
+      "longitude": 12.615144
+    },
+    {
+      "name": "Kulturzonen",
+      "latitude": 55.591894,
+      "longitude": 12.583763
+    },
+    {
+      "name": "Kulturøen",
+      "latitude": 55.505618,
+      "longitude": 9.736531
+    },
+    {
+      "name": "Kunsthus TESE",
+      "latitude": 56.158461,
+      "longitude": 10.210338
+    },
+    {
+      "name": "Kupéen",
+      "latitude": 56.83576,
+      "longitude": 9.887515
+    },
+    {
+      "name": "Kvarterhuset",
+      "latitude": 55.665306,
+      "longitude": 12.604507
+    },
+    {
+      "name": "Kvartershuset - Det Internationale Kvarter",
+      "latitude": 55.478957,
+      "longitude": 8.492161
+    },
+    {
+      "name": "Kvartershuset Løget By",
+      "latitude": 55.678778,
+      "longitude": 9.53022
+    },
+    {
+      "name": "KvindeInformationsCaféen Sappho",
+      "latitude": 56.161316,
+      "longitude": 10.213965
+    },
+    {
+      "name": "Kvols Forsamlingshus",
+      "latitude": 56.527247,
+      "longitude": 9.292271
+    },
+    {
+      "name": "Kvong Forsamlingshus",
+      "latitude": 55.760383,
+      "longitude": 8.433247
+    },
+    {
+      "name": "Kværs Sogns Forsamlingshus",
+      "latitude": 54.933208,
+      "longitude": 9.49876
+    },
+    {
+      "name": "Kærhuset",
+      "latitude": 55.721917,
+      "longitude": 9.108407
+    },
+    {
+      "name": "Kærloddens fælleshus",
+      "latitude": 55.752104,
+      "longitude": 12.328181
+    },
+    {
+      "name": "Kølstrup Forsamlingshus",
+      "latitude": 55.428027,
+      "longitude": 10.583896
+    },
+    {
+      "name": "Laden",
+      "latitude": 56.355052,
+      "longitude": 8.619738
+    },
+    {
+      "name": "Lammegades beboerhus",
+      "latitude": 55.638567,
+      "longitude": 12.07921
+    },
+    {
+      "name": "LandsbyCenter Vind",
+      "latitude": 56.25945,
+      "longitude": 8.566755
+    },
+    {
+      "name": "Landsbyens Hus",
+      "latitude": 55.201268,
+      "longitude": 10.161445
+    },
+    {
+      "name": "Landsbyhuset",
+      "latitude": 56.352046,
+      "longitude": 9.336883
+    },
+    {
+      "name": "Landsbyhuset BIS’koppen",
+      "latitude": 55.206755,
+      "longitude": 11.495114
+    },
+    {
+      "name": "Langå Kulturhus",
+      "latitude": 56.391727,
+      "longitude": 9.89373
+    },
+    {
+      "name": "Langø Forsamlingshus",
+      "latitude": 54.81194,
+      "longitude": 11.017913
+    },
+    {
+      "name": "Ledøje Forsamlingshus",
+      "latitude": 55.709851,
+      "longitude": 12.300338
+    },
+    {
+      "name": "Lem Kulturhus",
+      "latitude": 56.59272,
+      "longitude": 8.784429
+    },
+    {
+      "name": "Lem Samlingshus",
+      "latitude": 56.590641,
+      "longitude": 8.781671
+    },
+    {
+      "name": "Lemmer Forsamlingshus",
+      "latitude": 56.380362,
+      "longitude": 10.26778
+    },
+    {
+      "name": "Lemming Sogns Forsamlingshus",
+      "latitude": 56.232484,
+      "longitude": 9.554451
+    },
+    {
+      "name": "Lendum Kultur- & Borgerhus",
+      "latitude": 57.411797,
+      "longitude": 10.300073
+    },
+    {
+      "name": "Lerbjerg Gamle Skole",
+      "latitude": 56.350216,
+      "longitude": 9.990109
+    },
+    {
+      "name": "LGBT+HUSET",
+      "latitude": 56.157137,
+      "longitude": 10.212593
+    },
+    {
+      "name": "Lihme Medborgerhus",
+      "latitude": 56.601829,
+      "longitude": 8.733153
+    },
+    {
+      "name": "Lille Valby Forsamlingshus",
+      "latitude": 55.440166,
+      "longitude": 11.355503
+    },
+    {
+      "name": "Lille-Heddinge Forsamlingshus",
+      "latitude": 55.272274,
+      "longitude": 12.388607
+    },
+    {
+      "name": "Lilleby",
+      "latitude": 56.159926,
+      "longitude": 10.207133
+    },
+    {
+      "name": "Lindbjerg Forsamlingshus",
+      "latitude": 55.783654,
+      "longitude": 8.655071
+    },
+    {
+      "name": "Lindelse Sognegård",
+      "latitude": 54.871513,
+      "longitude": 10.749136
+    },
+    {
+      "name": "Lindved Sognegård",
+      "latitude": 55.791001,
+      "longitude": 9.576414
+    },
+    {
+      "name": "Lisbjerg Beboerhus",
+      "latitude": 56.222508,
+      "longitude": 10.164332
+    },
+    {
+      "name": "Listed Huset",
+      "latitude": 55.143165,
+      "longitude": 15.114159
+    },
+    {
+      "name": "Lobbæk Medborgerhus",
+      "latitude": 55.07523,
+      "longitude": 14.83446
+    },
+    {
+      "name": "Lokalcenter Havkær - Køkken",
+      "latitude": 56.191272,
+      "longitude": 10.111103
+    },
+    {
+      "name": "Lokalcenter Sabro",
+      "latitude": 56.21501,
+      "longitude": 10.024815
+    },
+    {
+      "name": "Lokalhus Syd",
+      "latitude": 55.669923,
+      "longitude": 12.450837
+    },
+    {
+      "name": "Lomborg Forsamlingshus",
+      "latitude": 56.499259,
+      "longitude": 8.259775
+    },
+    {
+      "name": "Lucerna",
+      "latitude": 55.718856,
+      "longitude": 11.708386
+    },
+    {
+      "name": "Luftrummet",
+      "latitude": 55.619595,
+      "longitude": 12.571822
+    },
+    {
+      "name": "Lumby Forsamlingshus",
+      "latitude": 55.456005,
+      "longitude": 10.377624
+    },
+    {
+      "name": "Lumsås Forsamlingshus",
+      "latitude": 55.943187,
+      "longitude": 11.510298
+    },
+    {
+      "name": "Lund Forsamlingshus",
+      "latitude": 55.243387,
+      "longitude": 12.301651
+    },
+    {
+      "name": "Lund Forsamlingshus",
+      "latitude": 56.6041,
+      "longitude": 9.243022
+    },
+    {
+      "name": "Lundby Medborgerhus",
+      "latitude": 55.109675,
+      "longitude": 11.870982
+    },
+    {
+      "name": "Lunde Forsamlingshus",
+      "latitude": 55.761427,
+      "longitude": 8.369579
+    },
+    {
+      "name": "Lunden",
+      "latitude": 57.286116,
+      "longitude": 9.764735
+    },
+    {
+      "name": "Lundø Forsamlingshus",
+      "latitude": 56.623135,
+      "longitude": 9.14442
+    },
+    {
+      "name": "Lustrup-Damhus Forsamlingshus",
+      "latitude": 55.309692,
+      "longitude": 8.774529
+    },
+    {
+      "name": "Lyby Forsamlingshus",
+      "latitude": 56.635832,
+      "longitude": 9.013632
+    },
+    {
+      "name": "Lygten Station",
+      "latitude": 55.701608,
+      "longitude": 12.537672
+    },
+    {
+      "name": "Lyngby Kulturhus",
+      "latitude": 55.771189,
+      "longitude": 12.507026
+    },
+    {
+      "name": "Lyngby Sognegård",
+      "latitude": 56.172078,
+      "longitude": 10.042002
+    },
+    {
+      "name": "Lynge Forsamlingshus",
+      "latitude": 55.401104,
+      "longitude": 11.561839
+    },
+    {
+      "name": "Lysabild kro",
+      "latitude": 54.900137,
+      "longitude": 10.007116
+    },
+    {
+      "name": "Lånum Forsamlingshus",
+      "latitude": 56.448401,
+      "longitude": 9.110494
+    },
+    {
+      "name": "Læborg Forsamlingshus",
+      "latitude": 55.52328,
+      "longitude": 9.114639
+    },
+    {
+      "name": "Læsten borger- og kulturhus",
+      "latitude": 56.49482,
+      "longitude": 9.813113
+    },
+    {
+      "name": "Læsø Forsamlingshus",
+      "latitude": 57.255197,
+      "longitude": 11.000544
+    },
+    {
+      "name": "Løgstør Daghøjskole - Aktivitetskursus - Kulturskole",
+      "latitude": 56.968363,
+      "longitude": 9.257163
+    },
+    {
+      "name": "Løgumkloster Forsamlingshus",
+      "latitude": 55.06111,
+      "longitude": 8.955442
+    },
+    {
+      "name": "Løjt Forsamlings- og Kulturhus",
+      "latitude": 55.091819,
+      "longitude": 9.464086
+    },
+    {
+      "name": "Løve Forsamlingshus",
+      "latitude": 55.484057,
+      "longitude": 11.284116
+    },
+    {
+      "name": "Løvel Kultur- og Forsamlingshus",
+      "latitude": 56.535029,
+      "longitude": 9.47362
+    },
+    {
+      "name": "Maarum Forsamlingshus",
+      "latitude": 56.025333,
+      "longitude": 12.280783
+    },
+    {
+      "name": "Maglebrænde Forsamlingshus",
+      "latitude": 54.862311,
+      "longitude": 12.019072
+    },
+    {
+      "name": "Magleby Forsamlingshus",
+      "latitude": 54.773166,
+      "longitude": 10.713005
+    },
+    {
+      "name": "Magleby Forsamlingshus",
+      "latitude": 55.221279,
+      "longitude": 11.303294
+    },
+    {
+      "name": "Magleby Forsamlingshus",
+      "latitude": 55.366789,
+      "longitude": 12.338072
+    },
+    {
+      "name": "Makværket",
+      "latitude": 55.646927,
+      "longitude": 11.567149
+    },
+    {
+      "name": "Mamma Mia",
+      "latitude": 55.710903,
+      "longitude": 12.516008
+    },
+    {
+      "name": "Manstrup Gadekær",
+      "latitude": 57.030917,
+      "longitude": 9.300783
+    },
+    {
+      "name": "Margrethegårdens Selskabslokale",
+      "latitude": 55.649233,
+      "longitude": 12.0984
+    },
+    {
+      "name": "Mariager Kajakklub",
+      "latitude": 56.654676,
+      "longitude": 9.978382
+    },
+    {
+      "name": "Marie Magdalene Forsamlingshus",
+      "latitude": 56.38785,
+      "longitude": 10.480013
+    },
+    {
+      "name": "Maritim Historisk Forening",
+      "latitude": 57.444209,
+      "longitude": 10.545939
+    },
+    {
+      "name": "Maritimt Center",
+      "latitude": 55.482154,
+      "longitude": 8.411883
+    },
+    {
+      "name": "Maritimt Kulturværksted",
+      "latitude": 55.058968,
+      "longitude": 10.617277
+    },
+    {
+      "name": "MarKant",
+      "latitude": 55.643208,
+      "longitude": 9.654214
+    },
+    {
+      "name": "Matriklens Folkehus",
+      "latitude": 55.661067,
+      "longitude": 12.606802
+    },
+    {
+      "name": "Maxi Maniacs",
+      "latitude": 55.463904,
+      "longitude": 8.48832
+    },
+    {
+      "name": "Medborgerhuset",
+      "latitude": 55.651648,
+      "longitude": 12.303777
+    },
+    {
+      "name": "Medborgerhuset",
+      "latitude": 55.679046,
+      "longitude": 11.090456
+    },
+    {
+      "name": "Medborgerhuset",
+      "latitude": 55.914107,
+      "longitude": 10.251851
+    },
+    {
+      "name": "Medborgerhuset",
+      "latitude": 55.959379,
+      "longitude": 11.853142
+    },
+    {
+      "name": "Medborgerhuset",
+      "latitude": 56.165883,
+      "longitude": 9.548336
+    },
+    {
+      "name": "Medborgerhuset Fremtiden",
+      "latitude": 54.600701,
+      "longitude": 11.942428
+    },
+    {
+      "name": "MedBorgerHuset i Nordenskov",
+      "latitude": 55.649782,
+      "longitude": 8.683684
+    },
+    {
+      "name": "Medborgerhuset Korskær",
+      "latitude": 55.572924,
+      "longitude": 9.721168
+    },
+    {
+      "name": "Medborgerhuset Lunden",
+      "latitude": 56.166175,
+      "longitude": 9.534238
+    },
+    {
+      "name": "Medborgerhuset Samsø",
+      "latitude": 55.831254,
+      "longitude": 10.594386
+    },
+    {
+      "name": "Medborgerhuset Åbyen",
+      "latitude": 57.56356,
+      "longitude": 10.029073
+    },
+    {
+      "name": "Mejeriet",
+      "latitude": 54.911275,
+      "longitude": 9.794221
+    },
+    {
+      "name": "Mejeriet",
+      "latitude": 55.071995,
+      "longitude": 10.470773
+    },
+    {
+      "name": "Mejlby Forsamlingshus",
+      "latitude": 56.301228,
+      "longitude": 10.216723
+    },
+    {
+      "name": "Mejrup Kultur og Fritidscenter",
+      "latitude": 56.362568,
+      "longitude": 8.688571
+    },
+    {
+      "name": "Melholt Forsamlingshus",
+      "latitude": 57.105044,
+      "longitude": 10.364931
+    },
+    {
+      "name": "Menighedshuset",
+      "latitude": 56.489607,
+      "longitude": 8.592848
+    },
+    {
+      "name": "Mern Forsamlingshus",
+      "latitude": 55.047197,
+      "longitude": 12.059917
+    },
+    {
+      "name": "Mesballe Forsamlingshus",
+      "latitude": 56.369219,
+      "longitude": 10.498626
+    },
+    {
+      "name": "Mesing Forsamlingshus",
+      "latitude": 56.074824,
+      "longitude": 9.938487
+    },
+    {
+      "name": "Mesinge Forsamlingshus",
+      "latitude": 55.498343,
+      "longitude": 10.649955
+    },
+    {
+      "name": "Metronomen",
+      "latitude": 55.686062,
+      "longitude": 12.533452
+    },
+    {
+      "name": "Middelfart Sognegård",
+      "latitude": 55.506626,
+      "longitude": 9.728701
+    },
+    {
+      "name": "Midtgård - Økoværkstedet",
+      "latitude": 55.524752,
+      "longitude": 8.438315
+    },
+    {
+      "name": "Midtpunktet Thyholm",
+      "latitude": 56.650924,
+      "longitude": 8.533674
+    },
+    {
+      "name": "Missionshuset",
+      "latitude": 55.638269,
+      "longitude": 9.705072
+    },
+    {
+      "name": "Mogenstrup Fælleshus",
+      "latitude": 56.472921,
+      "longitude": 8.9718
+    },
+    {
+      "name": "Molsværket",
+      "latitude": 56.211365,
+      "longitude": 10.490528
+    },
+    {
+      "name": "Mosehuset",
+      "latitude": 56.077408,
+      "longitude": 10.030256
+    },
+    {
+      "name": "Multihus Højen",
+      "latitude": 55.656255,
+      "longitude": 9.501932
+    },
+    {
+      "name": "Multihuset",
+      "latitude": 55.391865,
+      "longitude": 11.348004
+    },
+    {
+      "name": "Multihuset",
+      "latitude": 55.615449,
+      "longitude": 11.943944
+    },
+    {
+      "name": "Multihuset",
+      "latitude": 55.648571,
+      "longitude": 11.506798
+    },
+    {
+      "name": "Multihuset",
+      "latitude": 55.700262,
+      "longitude": 11.733133
+    },
+    {
+      "name": "Multihuset",
+      "latitude": 55.723228,
+      "longitude": 9.555758
+    },
+    {
+      "name": "Multihuset",
+      "latitude": 57.020896,
+      "longitude": 9.879793
+    },
+    {
+      "name": "Multihuset 7470",
+      "latitude": 56.294187,
+      "longitude": 9.144688
+    },
+    {
+      "name": "Multihuset Østerlars",
+      "latitude": 55.163148,
+      "longitude": 14.955357
+    },
+    {
+      "name": "Multikulturhuset",
+      "latitude": 54.913091,
+      "longitude": 9.784015
+    },
+    {
+      "name": "Munkebo Kulturhus",
+      "latitude": 55.458889,
+      "longitude": 10.557499
+    },
+    {
+      "name": "Musikby Esbjerg",
+      "latitude": 55.468224,
+      "longitude": 8.444493
+    },
+    {
+      "name": "Musikhuset Elværket",
+      "latitude": 56.033027,
+      "longitude": 12.606583
+    },
+    {
+      "name": "Mygdal Forsamlingshus",
+      "latitude": 57.532052,
+      "longitude": 10.108623
+    },
+    {
+      "name": "Mygind Forsamlingshus",
+      "latitude": 56.385802,
+      "longitude": 10.220094
+    },
+    {
+      "name": "Mødestedet",
+      "latitude": 56.706767,
+      "longitude": 10.060172
+    },
+    {
+      "name": "Mødestedet Bernhard",
+      "latitude": 55.121617,
+      "longitude": 12.040579
+    },
+    {
+      "name": "Mødestedets Aktivitetscenter",
+      "latitude": 55.46671,
+      "longitude": 8.700212
+    },
+    {
+      "name": "Mølholt Forsamlingshus",
+      "latitude": 57.245087,
+      "longitude": 10.426626
+    },
+    {
+      "name": "Mønsted Kulturhus",
+      "latitude": 56.446483,
+      "longitude": 9.185815
+    },
+    {
+      "name": "Naturlegepladsen",
+      "latitude": 55.063674,
+      "longitude": 10.611246
+    },
+    {
+      "name": "Nautrup Forsamlingshus",
+      "latitude": 56.743723,
+      "longitude": 8.910528
+    },
+    {
+      "name": "Nexø Fritidshus",
+      "latitude": 55.061281,
+      "longitude": 15.124424
+    },
+    {
+      "name": "Nimtofte Kulturhus",
+      "latitude": 56.409319,
+      "longitude": 10.564737
+    },
+    {
+      "name": "No Sognehus",
+      "latitude": 56.113069,
+      "longitude": 8.316604
+    },
+    {
+      "name": "Nordatlantisk Hus",
+      "latitude": 55.407848,
+      "longitude": 10.379909
+    },
+    {
+      "name": "Nordborg Sognegård",
+      "latitude": 55.060652,
+      "longitude": 9.739894
+    },
+    {
+      "name": "Nordborghus",
+      "latitude": 55.05978,
+      "longitude": 9.744969
+    },
+    {
+      "name": "Nordkraft",
+      "latitude": 57.046486,
+      "longitude": 9.932384
+    },
+    {
+      "name": "NotFarAway",
+      "latitude": 56.468925,
+      "longitude": 8.156289
+    },
+    {
+      "name": "Nr Søby Forsamlingshus",
+      "latitude": 55.287246,
+      "longitude": 10.378285
+    },
+    {
+      "name": "Nr. Søby Forsamlingshus",
+      "latitude": 56.543613,
+      "longitude": 9.125867
+    },
+    {
+      "name": "Ny Skivehus",
+      "latitude": 56.569478,
+      "longitude": 9.019253
+    },
+    {
+      "name": "Nygadehuset",
+      "latitude": 55.045582,
+      "longitude": 9.416511
+    },
+    {
+      "name": "Nykøbing Sjælland Bådelaug",
+      "latitude": 55.91446,
+      "longitude": 11.670047
+    },
+    {
+      "name": "Nykøbing Ungehus",
+      "latitude": 55.923371,
+      "longitude": 11.672351
+    },
+    {
+      "name": "Nylars Samlingshus / Nyvest Center",
+      "latitude": 55.071854,
+      "longitude": 14.813484
+    },
+    {
+      "name": "Nårup Forsamlingshus",
+      "latitude": 55.302693,
+      "longitude": 10.154331
+    },
+    {
+      "name": "Næsbjerghus",
+      "latitude": 55.627389,
+      "longitude": 8.591143
+    },
+    {
+      "name": "Næsbyhoved-Broby Forsamlingshus",
+      "latitude": 55.439009,
+      "longitude": 10.31179
+    },
+    {
+      "name": "Nørbølling Forsamlingshus",
+      "latitude": 55.465889,
+      "longitude": 8.998935
+    },
+    {
+      "name": "Nørre Alslev Spejderne",
+      "latitude": 54.899864,
+      "longitude": 11.879542
+    },
+    {
+      "name": "Nørre Asmindrup Forsamlingshus",
+      "latitude": 55.88682,
+      "longitude": 11.622932
+    },
+    {
+      "name": "Nørreby Forsamlingshus",
+      "latitude": 55.592322,
+      "longitude": 10.257892
+    },
+    {
+      "name": "Oasen",
+      "latitude": 55.566405,
+      "longitude": 12.242034
+    },
+    {
+      "name": "Oasen",
+      "latitude": 56.251361,
+      "longitude": 10.150947
+    },
+    {
+      "name": "Oasen",
+      "latitude": 56.312282,
+      "longitude": 10.323441
+    },
+    {
+      "name": "Obbekjær Forsamlingshus",
+      "latitude": 55.331728,
+      "longitude": 8.879808
+    },
+    {
+      "name": "Odden Forsamlingshus",
+      "latitude": 55.964144,
+      "longitude": 11.368946
+    },
+    {
+      "name": "Odense Kultur- og Idrætshus",
+      "latitude": 55.395562,
+      "longitude": 10.351965
+    },
+    {
+      "name": "Oksbøl og Omegns Jagtforening",
+      "latitude": 55.637848,
+      "longitude": 8.236783
+    },
+    {
+      "name": "Ollerup Forsamlingshus",
+      "latitude": 55.072529,
+      "longitude": 10.48426
+    },
+    {
+      "name": "Omø Forsamlingshus",
+      "latitude": 55.160843,
+      "longitude": 11.153652
+    },
+    {
+      "name": "Onkel Dannys Plads",
+      "latitude": 55.669766,
+      "longitude": 12.560965
+    },
+    {
+      "name": "Operaen",
+      "latitude": 55.6738,
+      "longitude": 12.599542
+    },
+    {
+      "name": "Opsneum Fritidscenter",
+      "latitude": 55.478096,
+      "longitude": 8.630411
+    },
+    {
+      "name": "Orangeriet",
+      "latitude": 55.088566,
+      "longitude": 10.906418
+    },
+    {
+      "name": "Orangeriet",
+      "latitude": 55.693528,
+      "longitude": 12.557052
+    },
+    {
+      "name": "Ormslev Borgerhus",
+      "latitude": 56.12419,
+      "longitude": 10.05801
+    },
+    {
+      "name": "Orø Kultur- & Forsamlingshus",
+      "latitude": 55.76567,
+      "longitude": 11.805176
+    },
+    {
+      "name": "Osramhuset",
+      "latitude": 55.702952,
+      "longitude": 12.549574
+    },
+    {
+      "name": "Otterup Geværfabrik",
+      "latitude": 55.514983,
+      "longitude": 10.391201
+    },
+    {
+      "name": "Over Vindinge Forsamlingshus",
+      "latitude": 55.07066,
+      "longitude": 11.885137
+    },
+    {
+      "name": "P/F Elmegårdens fælleshus",
+      "latitude": 55.635384,
+      "longitude": 12.586496
+    },
+    {
+      "name": "Paarup Sognegård",
+      "latitude": 55.409909,
+      "longitude": 10.333989
+    },
+    {
+      "name": "Paaskeløkkens Beboerhus",
+      "latitude": 55.406955,
+      "longitude": 10.41726
+    },
+    {
+      "name": "Pakhuset",
+      "latitude": 55.92264,
+      "longitude": 11.664739
+    },
+    {
+      "name": "Pakhuset",
+      "latitude": 55.971434,
+      "longitude": 10.150298
+    },
+    {
+      "name": "Paletten",
+      "latitude": 55.654431,
+      "longitude": 12.47774
+    },
+    {
+      "name": "Paletten",
+      "latitude": 56.455194,
+      "longitude": 9.404077
+    },
+    {
+      "name": "Pedersborg Forsamlingshus Ian Kent Andersen",
+      "latitude": 55.45292,
+      "longitude": 11.556151
+    },
+    {
+      "name": "Pedersborg Sognegård",
+      "latitude": 55.452363,
+      "longitude": 11.555619
+    },
+    {
+      "name": "Pedersker Samlingshus",
+      "latitude": 55.031326,
+      "longitude": 14.99242
+    },
+    {
+      "name": "Pederstrup Forsamlingshus",
+      "latitude": 56.334491,
+      "longitude": 10.672533
+    },
+    {
+      "name": "Pindstrup Landbohjem",
+      "latitude": 56.392628,
+      "longitude": 10.412129
+    },
+    {
+      "name": "Plantagehuset",
+      "latitude": 56.956637,
+      "longitude": 8.690941
+    },
+    {
+      "name": "Platformen",
+      "latitude": 55.47713,
+      "longitude": 8.489748
+    },
+    {
+      "name": "Polymeren",
+      "latitude": 55.302009,
+      "longitude": 10.472968
+    },
+    {
+      "name": "Possementen",
+      "latitude": 55.383628,
+      "longitude": 10.052259
+    },
+    {
+      "name": "Posthuset",
+      "latitude": 55.730798,
+      "longitude": 12.357671
+    },
+    {
+      "name": "Projekt Sofie",
+      "latitude": 55.477536,
+      "longitude": 8.486808
+    },
+    {
+      "name": "Projekthuset",
+      "latitude": 56.614809,
+      "longitude": 9.50466
+    },
+    {
+      "name": "Præstegårdsladen",
+      "latitude": 55.100988,
+      "longitude": 14.697954
+    },
+    {
+      "name": "Prøvehallen",
+      "latitude": 55.664547,
+      "longitude": 12.510006
+    },
+    {
+      "name": "Pusterummet",
+      "latitude": 55.619571,
+      "longitude": 12.57213
+    },
+    {
+      "name": "Radsted Kultur og Forsamlingshus",
+      "latitude": 54.788607,
+      "longitude": 11.685701
+    },
+    {
+      "name": "Rakkeby Forsamlingshus",
+      "latitude": 57.404556,
+      "longitude": 9.922326
+    },
+    {
+      "name": "RAMhuset",
+      "latitude": 56.01411,
+      "longitude": 12.117015
+    },
+    {
+      "name": "Ramløse Forsamlingshus",
+      "latitude": 56.017065,
+      "longitude": 12.131113
+    },
+    {
+      "name": "Ramsing Forsamlingshus",
+      "latitude": 56.59553,
+      "longitude": 8.840864
+    },
+    {
+      "name": "Ravnstrup Forsamlingshus",
+      "latitude": 56.447112,
+      "longitude": 9.285836
+    },
+    {
+      "name": "Ravnsøhytten",
+      "latitude": 56.11202,
+      "longitude": 9.845674
+    },
+    {
+      "name": "Realen",
+      "latitude": 55.444966,
+      "longitude": 8.400884
+    },
+    {
+      "name": "Redsted Sognegaard",
+      "latitude": 56.740368,
+      "longitude": 8.656443
+    },
+    {
+      "name": "Reerslev Kulturhus",
+      "latitude": 55.556167,
+      "longitude": 11.388924
+    },
+    {
+      "name": "Reersøhuset",
+      "latitude": 55.524347,
+      "longitude": 11.110914
+    },
+    {
+      "name": "Refvindinge Natur og Kulturcenter",
+      "latitude": 55.29345,
+      "longitude": 10.677158
+    },
+    {
+      "name": "Region Nordsjællands Klubhus",
+      "latitude": 55.854648,
+      "longitude": 12.070308
+    },
+    {
+      "name": "Regnecentralen",
+      "latitude": 56.172467,
+      "longitude": 10.188342
+    },
+    {
+      "name": "RemisenBrande",
+      "latitude": 55.945054,
+      "longitude": 9.131783
+    },
+    {
+      "name": "Resen Sognehus",
+      "latitude": 56.589423,
+      "longitude": 9.036241
+    },
+    {
+      "name": "Resenbrohuset",
+      "latitude": 56.182134,
+      "longitude": 9.652882
+    },
+    {
+      "name": "Ribe Nørremark Forsamlingshus",
+      "latitude": 55.353906,
+      "longitude": 8.785903
+    },
+    {
+      "name": "Rimmerhus Forsamlingshus",
+      "latitude": 56.097951,
+      "longitude": 8.759569
+    },
+    {
+      "name": "Rimsøhuset",
+      "latitude": 56.480163,
+      "longitude": 10.800638
+    },
+    {
+      "name": "Rindby Forsamlingshus",
+      "latitude": 55.426795,
+      "longitude": 8.397526
+    },
+    {
+      "name": "Ringkøbing – Skjern Medborgerhus",
+      "latitude": 56.088332,
+      "longitude": 8.248558
+    },
+    {
+      "name": "Roager Medborgerhus",
+      "latitude": 55.251084,
+      "longitude": 8.824234
+    },
+    {
+      "name": "Rodskov forsamlingshus",
+      "latitude": 56.29929,
+      "longitude": 10.362716
+    },
+    {
+      "name": "Romlund Forsamlingshus",
+      "latitude": 56.481991,
+      "longitude": 9.304385
+    },
+    {
+      "name": "Rosmus Forsamlingshus",
+      "latitude": 56.303908,
+      "longitude": 10.771007
+    },
+    {
+      "name": "Rostved Forsamlingshus",
+      "latitude": 56.307529,
+      "longitude": 10.525323
+    },
+    {
+      "name": "Roum Forsamlingshus",
+      "latitude": 56.605051,
+      "longitude": 9.549193
+    },
+    {
+      "name": "Rum Sø Café & Kulturhus",
+      "latitude": 54.750605,
+      "longitude": 10.672195
+    },
+    {
+      "name": "Rurup Forsamlingshus",
+      "latitude": 55.154088,
+      "longitude": 9.031714
+    },
+    {
+      "name": "Rybjerg Forsamlingshus",
+      "latitude": 56.718821,
+      "longitude": 9.023558
+    },
+    {
+      "name": "Ryslinge Forsamlingshus",
+      "latitude": 55.230076,
+      "longitude": 10.52894
+    },
+    {
+      "name": "Rådhusloftet",
+      "latitude": 56.085084,
+      "longitude": 10.035671
+    },
+    {
+      "name": "Rådmandscentret",
+      "latitude": 55.253236,
+      "longitude": 11.282775
+    },
+    {
+      "name": "Rårup Sognegård",
+      "latitude": 55.768489,
+      "longitude": 9.9297
+    },
+    {
+      "name": "Råværket",
+      "latitude": 55.508423,
+      "longitude": 9.43029
+    },
+    {
+      "name": "Rødding Forsamlingshus",
+      "latitude": 56.644753,
+      "longitude": 8.809
+    },
+    {
+      "name": "Rødding kultur og forsamlingshus",
+      "latitude": 56.4998,
+      "longitude": 9.504534
+    },
+    {
+      "name": "Rødovre Folkekøkken",
+      "latitude": 55.669976,
+      "longitude": 12.450809
+    },
+    {
+      "name": "Røjle Forsamlingshus",
+      "latitude": 55.519206,
+      "longitude": 9.808943
+    },
+    {
+      "name": "Rørbæk Forsamlingshus",
+      "latitude": 55.798131,
+      "longitude": 12.115828
+    },
+    {
+      "name": "Rørup Borgerhus",
+      "latitude": 55.415636,
+      "longitude": 10.044071
+    },
+    {
+      "name": "Røsnæs Forsamlingshus",
+      "latitude": 55.732994,
+      "longitude": 10.958991
+    },
+    {
+      "name": "SACS Kulturhuset",
+      "latitude": 55.099821,
+      "longitude": 14.704107
+    },
+    {
+      "name": "Saksild Sognegård",
+      "latitude": 55.974168,
+      "longitude": 10.237409
+    },
+    {
+      "name": "Sambiosen",
+      "latitude": 55.832165,
+      "longitude": 10.5845
+    },
+    {
+      "name": "Samleren",
+      "latitude": 55.653242,
+      "longitude": 12.479289
+    },
+    {
+      "name": "Samlingshuset",
+      "latitude": 56.159818,
+      "longitude": 10.134896
+    },
+    {
+      "name": "Samsø Energiakademi",
+      "latitude": 55.820101,
+      "longitude": 10.634614
+    },
+    {
+      "name": "Samsø Klubw",
+      "latitude": 55.963826,
+      "longitude": 10.553397
+    },
+    {
+      "name": "Samværket",
+      "latitude": 55.481887,
+      "longitude": 9.451972
+    },
+    {
+      "name": "Sandby Forsamlingshus",
+      "latitude": 55.695288,
+      "longitude": 11.7426
+    },
+    {
+      "name": "Sandet Hotel",
+      "latitude": 55.913321,
+      "longitude": 8.84811
+    },
+    {
+      "name": "Sandholts Lyndelse Forsamlingshus",
+      "latitude": 55.206725,
+      "longitude": 10.300892
+    },
+    {
+      "name": "Sangstrup Forsamlingshus",
+      "latitude": 56.466372,
+      "longitude": 10.900576
+    },
+    {
+      "name": "Sankt Jakobs Kirke Sognegård",
+      "latitude": 55.70323,
+      "longitude": 12.576799
+    },
+    {
+      "name": "Sankt Jørgensbjerg Sognegård",
+      "latitude": 55.6482,
+      "longitude": 12.067068
+    },
+    {
+      "name": "Sankt Sørens Hus",
+      "latitude": 56.079566,
+      "longitude": 9.701755
+    },
+    {
+      "name": "Sct Knuds Gruppe",
+      "latitude": 55.398111,
+      "longitude": 10.341054
+    },
+    {
+      "name": "Sct. Georgsgården Børne- og Ungecenter",
+      "latitude": 56.036971,
+      "longitude": 9.912405
+    },
+    {
+      "name": "Sct. Lukas Centret Falken",
+      "latitude": 55.682267,
+      "longitude": 12.535394
+    },
+    {
+      "name": "Sct. Olai Sognegård",
+      "latitude": 57.482856,
+      "longitude": 9.992896
+    },
+    {
+      "name": "Sdr. Bork Forsamlingshus",
+      "latitude": 55.812735,
+      "longitude": 8.294441
+    },
+    {
+      "name": "Seest Forsamlingshus",
+      "latitude": 55.483696,
+      "longitude": 9.440039
+    },
+    {
+      "name": "Sejerborg",
+      "latitude": 55.849713,
+      "longitude": 11.506729
+    },
+    {
+      "name": "Sejstrup Forsamlingshus",
+      "latitude": 55.435274,
+      "longitude": 8.733929
+    },
+    {
+      "name": "Selling Forsamlingshus",
+      "latitude": 56.308581,
+      "longitude": 10.094768
+    },
+    {
+      "name": "Seminariehuset",
+      "latitude": 55.331762,
+      "longitude": 8.773795
+    },
+    {
+      "name": "Seniorhus Odense",
+      "latitude": 55.40241,
+      "longitude": 10.369913
+    },
+    {
+      "name": "Sennels Forsamlingshus",
+      "latitude": 56.966475,
+      "longitude": 8.796442
+    },
+    {
+      "name": "Serridslev Forsamlingshus",
+      "latitude": 55.900019,
+      "longitude": 9.894064
+    },
+    {
+      "name": "Sevel Forsamlingsgård",
+      "latitude": 56.456294,
+      "longitude": 8.869595
+    },
+    {
+      "name": "Sidesporet Aarhus",
+      "latitude": 56.150143,
+      "longitude": 10.184797
+    },
+    {
+      "name": "Sierslev Forsamlingshus",
+      "latitude": 55.323747,
+      "longitude": 12.416534
+    },
+    {
+      "name": "Sigerslevøster Forsamlingshus",
+      "latitude": 55.882209,
+      "longitude": 12.132884
+    },
+    {
+      "name": "Signe Stubs Sognegård",
+      "latitude": 54.902622,
+      "longitude": 11.332387
+    },
+    {
+      "name": "Sillerslev Bådelaug",
+      "latitude": 56.681859,
+      "longitude": 8.731016
+    },
+    {
+      "name": "Sjelle Forsamlingshus",
+      "latitude": 56.182911,
+      "longitude": 9.934261
+    },
+    {
+      "name": "Sjællands Oddde Aktivitetshus",
+      "latitude": 55.966494,
+      "longitude": 11.367516
+    },
+    {
+      "name": "Sjørslev Sognegård",
+      "latitude": 56.331061,
+      "longitude": 9.434302
+    },
+    {
+      "name": "Sjørup forsamlings- og kulturhus",
+      "latitude": 56.428354,
+      "longitude": 9.080058
+    },
+    {
+      "name": "Skader Forsamlingshus",
+      "latitude": 56.355186,
+      "longitude": 10.212248
+    },
+    {
+      "name": "Skads Forsamlingshus",
+      "latitude": 55.510384,
+      "longitude": 8.559498
+    },
+    {
+      "name": "Skamstrup Forsamlingshus Heimdal",
+      "latitude": 55.617209,
+      "longitude": 11.485944
+    },
+    {
+      "name": "Skanderborg Medborgerhus",
+      "latitude": 56.032727,
+      "longitude": 9.930021
+    },
+    {
+      "name": "Skarø Forsamlingshus",
+      "latitude": 55.007673,
+      "longitude": 10.469428
+    },
+    {
+      "name": "Skave og omegns Multihus",
+      "latitude": 56.390747,
+      "longitude": 8.797705
+    },
+    {
+      "name": "Skelby Forsamlingshus",
+      "latitude": 54.635259,
+      "longitude": 11.90195
+    },
+    {
+      "name": "Skelby Forsamlingshus",
+      "latitude": 55.316277,
+      "longitude": 11.680913
+    },
+    {
+      "name": "Skelhøje kultur- og forsamlingshus",
+      "latitude": 56.361689,
+      "longitude": 9.298841
+    },
+    {
+      "name": "Skelund Midtpunkt",
+      "latitude": 56.761085,
+      "longitude": 10.191333
+    },
+    {
+      "name": "Skibbild-Nøvling Forsamlingshus",
+      "latitude": 56.170266,
+      "longitude": 8.847266
+    },
+    {
+      "name": "Skibbild/Nøvling Ungdomsklub",
+      "latitude": 56.174044,
+      "longitude": 8.833682
+    },
+    {
+      "name": "Skibet Forsamlingshus",
+      "latitude": 55.711226,
+      "longitude": 9.438434
+    },
+    {
+      "name": "Skibet Makerspace",
+      "latitude": 55.711071,
+      "longitude": 9.437841
+    },
+    {
+      "name": "Skibsted Forsamlingshus",
+      "latitude": 56.86627,
+      "longitude": 10.06851
+    },
+    {
+      "name": "Skivholme Forsamlingshus",
+      "latitude": 56.20134,
+      "longitude": 9.968952
+    },
+    {
+      "name": "Skodsborghus",
+      "latitude": 55.823531,
+      "longitude": 12.573921
+    },
+    {
+      "name": "Skovbakkens Beboerforening",
+      "latitude": 55.977581,
+      "longitude": 12.023972
+    },
+    {
+      "name": "Skovby Forsamlingshus",
+      "latitude": 55.536648,
+      "longitude": 10.096708
+    },
+    {
+      "name": "Skovby Forsamlingshus",
+      "latitude": 56.157306,
+      "longitude": 9.947349
+    },
+    {
+      "name": "Skovby Mosegaard",
+      "latitude": 56.151246,
+      "longitude": 9.935768
+    },
+    {
+      "name": "Skovbærparkens Beboerhus",
+      "latitude": 55.229548,
+      "longitude": 9.488952
+    },
+    {
+      "name": "Skovens Forsamlingshus",
+      "latitude": 55.914092,
+      "longitude": 11.921864
+    },
+    {
+      "name": "Skovens Forsamlingshus",
+      "latitude": 55.914968,
+      "longitude": 11.923537
+    },
+    {
+      "name": "Skovlunde Kulturhus",
+      "latitude": 55.718498,
+      "longitude": 12.40143
+    },
+    {
+      "name": "Skraldespanden",
+      "latitude": 55.698952,
+      "longitude": 12.551038
+    },
+    {
+      "name": "Skrammellegepladsen",
+      "latitude": 55.718563,
+      "longitude": 12.550568
+    },
+    {
+      "name": "Skrave Foreningshus",
+      "latitude": 55.413385,
+      "longitude": 9.103473
+    },
+    {
+      "name": "Skrydstrup Forsamlingsgård",
+      "latitude": 55.241781,
+      "longitude": 9.251264
+    },
+    {
+      "name": "Skuderløse Forsamlingshus",
+      "latitude": 55.299767,
+      "longitude": 11.876579
+    },
+    {
+      "name": "Skærbækhus",
+      "latitude": 55.516769,
+      "longitude": 9.628855
+    },
+    {
+      "name": "Skødstrup Forsamlingshus",
+      "latitude": 56.263972,
+      "longitude": 10.307687
+    },
+    {
+      "name": "Skørpinge Forsamlingshus",
+      "latitude": 55.340193,
+      "longitude": 11.376484
+    },
+    {
+      "name": "Skørring Forsamlingshus",
+      "latitude": 56.387854,
+      "longitude": 10.24903
+    },
+    {
+      "name": "Slagelse Multi Kultur forening",
+      "latitude": 55.398104,
+      "longitude": 11.329915
+    },
+    {
+      "name": "Slagslunde Forsamlingshus",
+      "latitude": 55.801241,
+      "longitude": 12.223037
+    },
+    {
+      "name": "Slagteribyens Fælleshus",
+      "latitude": 55.399422,
+      "longitude": 10.376055
+    },
+    {
+      "name": "Slagteriet",
+      "latitude": 56.36733,
+      "longitude": 8.619401
+    },
+    {
+      "name": "Slogs Herreds Hus",
+      "latitude": 54.945797,
+      "longitude": 9.102068
+    },
+    {
+      "name": "Slots Bjergby Forsamlingshus",
+      "latitude": 55.37235,
+      "longitude": 11.336727
+    },
+    {
+      "name": "Sludstrup Forsamlingshus",
+      "latitude": 55.35504,
+      "longitude": 11.378183
+    },
+    {
+      "name": "Sløjfen",
+      "latitude": 56.325581,
+      "longitude": 10.044829
+    },
+    {
+      "name": "Smedjen",
+      "latitude": 56.955226,
+      "longitude": 8.69362
+    },
+    {
+      "name": "Smidstrup Forsamlingshus",
+      "latitude": 55.61275,
+      "longitude": 9.566199
+    },
+    {
+      "name": "Sneslev Forsamlingshus",
+      "latitude": 55.298017,
+      "longitude": 11.571975
+    },
+    {
+      "name": "Snestrup Have",
+      "latitude": 55.411292,
+      "longitude": 10.322656
+    },
+    {
+      "name": "Sneum-Tjæreborg Fritidscenter",
+      "latitude": 55.463651,
+      "longitude": 8.584802
+    },
+    {
+      "name": "Snoldelev Sognegård",
+      "latitude": 55.570841,
+      "longitude": 12.127587
+    },
+    {
+      "name": "Snæbum Forsamlingshus",
+      "latitude": 56.645257,
+      "longitude": 9.644997
+    },
+    {
+      "name": "Sognegård",
+      "latitude": 55.048656,
+      "longitude": 10.5979
+    },
+    {
+      "name": "Sognegård",
+      "latitude": 56.963163,
+      "longitude": 9.806709
+    },
+    {
+      "name": "Sognegård",
+      "latitude": 57.351664,
+      "longitude": 9.94681
+    },
+    {
+      "name": "Sognegården",
+      "latitude": 54.932314,
+      "longitude": 12.048572
+    },
+    {
+      "name": "Sognegården",
+      "latitude": 55.106268,
+      "longitude": 14.82555
+    },
+    {
+      "name": "Sognegården",
+      "latitude": 55.501683,
+      "longitude": 11.308469
+    },
+    {
+      "name": "Sognegården",
+      "latitude": 55.662955,
+      "longitude": 11.419147
+    },
+    {
+      "name": "Sognegården",
+      "latitude": 55.960864,
+      "longitude": 12.528352
+    },
+    {
+      "name": "Sognegården",
+      "latitude": 56.026863,
+      "longitude": 12.282257
+    },
+    {
+      "name": "Sognehuset",
+      "latitude": 55.396639,
+      "longitude": 8.74219
+    },
+    {
+      "name": "Sognehuset",
+      "latitude": 56.199214,
+      "longitude": 8.563363
+    },
+    {
+      "name": "Sognehuset, Sneum-Tjæreborg Pastorat",
+      "latitude": 55.46236,
+      "longitude": 8.584704
+    },
+    {
+      "name": "Solbjerg Forsamlingshus",
+      "latitude": 55.48065,
+      "longitude": 11.348072
+    },
+    {
+      "name": "Solbjerg Fritidscenter",
+      "latitude": 56.038124,
+      "longitude": 10.081295
+    },
+    {
+      "name": "Soldaterhjemmet Dannevirke",
+      "latitude": 55.388256,
+      "longitude": 10.375036
+    },
+    {
+      "name": "Solparkens beboerlokale (store beboerlokale)",
+      "latitude": 55.651543,
+      "longitude": 12.128827
+    },
+    {
+      "name": "Sorring Borger - og Kulturhus",
+      "latitude": 56.177172,
+      "longitude": 9.775904
+    },
+    {
+      "name": "Spandet Forsamlingshus",
+      "latitude": 55.260691,
+      "longitude": 8.901014
+    },
+    {
+      "name": "Sparkær Forsamlingshus",
+      "latitude": 56.478633,
+      "longitude": 9.228803
+    },
+    {
+      "name": "Spejd-Niløse",
+      "latitude": 55.567214,
+      "longitude": 11.488828
+    },
+    {
+      "name": "Spjald Kulturhus",
+      "latitude": 56.128482,
+      "longitude": 8.506219
+    },
+    {
+      "name": "Sports- og Kulturcampus",
+      "latitude": 56.159912,
+      "longitude": 10.134675
+    },
+    {
+      "name": "Spørring Fælleshus",
+      "latitude": 56.298561,
+      "longitude": 10.146448
+    },
+    {
+      "name": "Spøttrup Aktivitetscenter",
+      "latitude": 56.615468,
+      "longitude": 8.880195
+    },
+    {
+      "name": "Stadil Forsamlingshus",
+      "latitude": 56.200239,
+      "longitude": 8.205703
+    },
+    {
+      "name": "Stakroge Aktivitetshus",
+      "latitude": 55.888301,
+      "longitude": 8.855099
+    },
+    {
+      "name": "Stakroge Beboer- og Kulturhus",
+      "latitude": 55.888895,
+      "longitude": 8.851272
+    },
+    {
+      "name": "Station K",
+      "latitude": 56.386501,
+      "longitude": 9.896397
+    },
+    {
+      "name": "Station5762",
+      "latitude": 55.072292,
+      "longitude": 10.44937
+    },
+    {
+      "name": "Stavtrup Sognegård",
+      "latitude": 56.13343,
+      "longitude": 10.115795
+    },
+    {
+      "name": "Stenderup Forsamlingshus",
+      "latitude": 55.792342,
+      "longitude": 9.811262
+    },
+    {
+      "name": "Stenlille Kulturhus",
+      "latitude": 55.538549,
+      "longitude": 11.588432
+    },
+    {
+      "name": "Stenløse Forsamlingshus",
+      "latitude": 55.340021,
+      "longitude": 10.359582
+    },
+    {
+      "name": "Stensbyhus",
+      "latitude": 54.98014,
+      "longitude": 12.047717
+    },
+    {
+      "name": "Stenstrup Forsamlingshus",
+      "latitude": 55.927237,
+      "longitude": 11.552136
+    },
+    {
+      "name": "Stigs Bjergby Forsamlingshus",
+      "latitude": 55.674509,
+      "longitude": 11.483305
+    },
+    {
+      "name": "Stilling Sognegård",
+      "latitude": 56.064414,
+      "longitude": 9.99581
+    },
+    {
+      "name": "Stjær Forsamlingshus",
+      "latitude": 56.117795,
+      "longitude": 9.956456
+    },
+    {
+      "name": "Stoholm Fritids- og Kulturcenter",
+      "latitude": 56.477826,
+      "longitude": 9.14728
+    },
+    {
+      "name": "Store Tårnby Forsamlingshus",
+      "latitude": 55.381856,
+      "longitude": 12.256897
+    },
+    {
+      "name": "Strandens Forsamlingshus",
+      "latitude": 55.619108,
+      "longitude": 12.409842
+    },
+    {
+      "name": "Strands Forsamlingshus",
+      "latitude": 56.18374,
+      "longitude": 10.489145
+    },
+    {
+      "name": "Strib Forsamlingshus",
+      "latitude": 55.540384,
+      "longitude": 9.770034
+    },
+    {
+      "name": "Strien",
+      "latitude": 55.445589,
+      "longitude": 8.402182
+    },
+    {
+      "name": "Strøby Egede Forsamlingshus",
+      "latitude": 55.415871,
+      "longitude": 12.242668
+    },
+    {
+      "name": "Strøby Forsamlingshus",
+      "latitude": 55.384185,
+      "longitude": 12.281842
+    },
+    {
+      "name": "Stubbæk Forsamlingshus",
+      "latitude": 54.997699,
+      "longitude": 9.429063
+    },
+    {
+      "name": "Studenterhuset Aalborg",
+      "latitude": 57.048352,
+      "longitude": 9.919456
+    },
+    {
+      "name": "Stårup Forsamlingshus",
+      "latitude": 56.595078,
+      "longitude": 9.099269
+    },
+    {
+      "name": "Støt Fællesskabets Hus i Høng",
+      "latitude": 55.508807,
+      "longitude": 11.287643
+    },
+    {
+      "name": "Sundby Forsamlingshus",
+      "latitude": 56.874979,
+      "longitude": 8.6739
+    },
+    {
+      "name": "Svallerup Forsamlingshus",
+      "latitude": 55.596767,
+      "longitude": 11.183977
+    },
+    {
+      "name": "Svendborg Forsamlingshus",
+      "latitude": 55.058407,
+      "longitude": 10.605401
+    },
+    {
+      "name": "Svenstrup Forsamlingshus",
+      "latitude": 56.238238,
+      "longitude": 9.815858
+    },
+    {
+      "name": "Svogerslev Sognegård - Nordgården",
+      "latitude": 55.635544,
+      "longitude": 12.015109
+    },
+    {
+      "name": "Sydhavnens Windsurfer Club",
+      "latitude": 55.637332,
+      "longitude": 12.519197
+    },
+    {
+      "name": "Sæby forsamlingshus",
+      "latitude": 55.546657,
+      "longitude": 11.309328
+    },
+    {
+      "name": "Søborg Forsamlingshus",
+      "latitude": 56.087538,
+      "longitude": 12.323274
+    },
+    {
+      "name": "Søby Forsamlingshus",
+      "latitude": 56.353922,
+      "longitude": 10.240045
+    },
+    {
+      "name": "Søfryd",
+      "latitude": 56.135883,
+      "longitude": 10.122513
+    },
+    {
+      "name": "Søften Forsamlingshus",
+      "latitude": 56.237201,
+      "longitude": 10.087809
+    },
+    {
+      "name": "Søften Sognegård",
+      "latitude": 56.237309,
+      "longitude": 10.086335
+    },
+    {
+      "name": "Søllested Forsamlingshus",
+      "latitude": 55.293167,
+      "longitude": 10.057007
+    },
+    {
+      "name": "Søllinge Forsamlingshus",
+      "latitude": 55.284768,
+      "longitude": 10.527554
+    },
+    {
+      "name": "Sønder Vilstrup Forsamlingshus",
+      "latitude": 55.549935,
+      "longitude": 9.563674
+    },
+    {
+      "name": "Sønderballe Bådelaug",
+      "latitude": 55.130166,
+      "longitude": 9.482112
+    },
+    {
+      "name": "Sønderborghus",
+      "latitude": 54.911336,
+      "longitude": 9.793571
+    },
+    {
+      "name": "Sønderbæk forsamlingshus",
+      "latitude": 56.502766,
+      "longitude": 9.83711
+    },
+    {
+      "name": "Sønderho Feriekoloni",
+      "latitude": 55.354176,
+      "longitude": 8.46663
+    },
+    {
+      "name": "Sønderho Forsamlingshus",
+      "latitude": 55.349056,
+      "longitude": 8.470411
+    },
+    {
+      "name": "Søndermølle Kultur og Naturcenter",
+      "latitude": 56.434691,
+      "longitude": 9.427088
+    },
+    {
+      "name": "Søndersted Forsamlingshus",
+      "latitude": 55.626759,
+      "longitude": 11.603958
+    },
+    {
+      "name": "Sønderup Forsamlingshus",
+      "latitude": 56.811978,
+      "longitude": 9.652068
+    },
+    {
+      "name": "Søskrænten Fælleshus",
+      "latitude": 56.133328,
+      "longitude": 10.129976
+    },
+    {
+      "name": "T13-HUSET",
+      "latitude": 55.624392,
+      "longitude": 12.41729
+    },
+    {
+      "name": "Taarup Forsamlingshus",
+      "latitude": 56.551335,
+      "longitude": 9.253477
+    },
+    {
+      "name": "Taastrup Kulturcenter",
+      "latitude": 55.645893,
+      "longitude": 12.306983
+    },
+    {
+      "name": "Tapperiet",
+      "latitude": 55.45122,
+      "longitude": 12.19072
+    },
+    {
+      "name": "Tappernøje Forsamlingshus",
+      "latitude": 55.160493,
+      "longitude": 11.979758
+    },
+    {
+      "name": "Tastum Forsamlingshus",
+      "latitude": 56.497282,
+      "longitude": 9.069138
+    },
+    {
+      "name": "Taulov Sognegård",
+      "latitude": 55.539655,
+      "longitude": 9.609261
+    },
+    {
+      "name": "Teatersalen",
+      "latitude": 56.034334,
+      "longitude": 12.611892
+    },
+    {
+      "name": "Teepe",
+      "latitude": 55.712901,
+      "longitude": 10.003545
+    },
+    {
+      "name": "Teestrup forsamlingshus",
+      "latitude": 55.328513,
+      "longitude": 11.882462
+    },
+    {
+      "name": "Tejn Medborgerhus",
+      "latitude": 55.247526,
+      "longitude": 14.834969
+    },
+    {
+      "name": "Telefonfabrikken - Gladsaxe Kulturhus",
+      "latitude": 55.739315,
+      "longitude": 12.492523
+    },
+    {
+      "name": "The Green House",
+      "latitude": 54.775037,
+      "longitude": 11.496487
+    },
+    {
+      "name": "Thise Kultur- og Forsamlingshus",
+      "latitude": 56.703419,
+      "longitude": 9.129646
+    },
+    {
+      "name": "Thisted Kirkecenter",
+      "latitude": 56.954936,
+      "longitude": 8.689372
+    },
+    {
+      "name": "Thorning Forsamlingshus",
+      "latitude": 56.285903,
+      "longitude": 9.335562
+    },
+    {
+      "name": "Thorsager Forsamlingshus",
+      "latitude": 56.343292,
+      "longitude": 10.45981
+    },
+    {
+      "name": "Thorsø Pavilion",
+      "latitude": 56.298423,
+      "longitude": 9.787841
+    },
+    {
+      "name": "Thorum Forsamlingshus",
+      "latitude": 56.743884,
+      "longitude": 9.056105
+    },
+    {
+      "name": "Thurø Sejlklub",
+      "latitude": 55.042421,
+      "longitude": 10.669915
+    },
+    {
+      "name": "Tidsrummet",
+      "latitude": 55.619534,
+      "longitude": 12.572369
+    },
+    {
+      "name": "Tilst-Kasted Sognegård",
+      "latitude": 56.192103,
+      "longitude": 10.110643
+    },
+    {
+      "name": "Tindbæk Forsamlingshus",
+      "latitude": 56.465981,
+      "longitude": 9.741585
+    },
+    {
+      "name": "Tinghuset",
+      "latitude": 56.272887,
+      "longitude": 8.322084
+    },
+    {
+      "name": "Tinghøj Forsaminghus",
+      "latitude": 55.661959,
+      "longitude": 8.4689
+    },
+    {
+      "name": "Tingløkkehus",
+      "latitude": 55.370245,
+      "longitude": 10.367352
+    },
+    {
+      "name": "Tingsted og Systofte Sognes Lokalhistoriske Arkiv",
+      "latitude": 54.81637,
+      "longitude": 11.891728
+    },
+    {
+      "name": "Tinkertank",
+      "latitude": 55.656869,
+      "longitude": 12.599517
+    },
+    {
+      "name": "Tinning Forsamlingshus",
+      "latitude": 56.265073,
+      "longitude": 9.995904
+    },
+    {
+      "name": "Tjæreborg Idræts- og Kulturhus",
+      "latitude": 55.464104,
+      "longitude": 8.58353
+    },
+    {
+      "name": "Tjæreby Forsamlingshus",
+      "latitude": 55.250293,
+      "longitude": 11.355625
+    },
+    {
+      "name": "Tjørnehavens beboerhus",
+      "latitude": 55.414355,
+      "longitude": 10.4267
+    },
+    {
+      "name": "Tobakkens Kreative Værksted",
+      "latitude": 55.464713,
+      "longitude": 8.459775
+    },
+    {
+      "name": "Tobaksgården",
+      "latitude": 55.270702,
+      "longitude": 9.897251
+    },
+    {
+      "name": "Tobøl Forsamlingshus",
+      "latitude": 55.414316,
+      "longitude": 8.888795
+    },
+    {
+      "name": "Todbjerg Forsamlingshus",
+      "latitude": 56.266626,
+      "longitude": 10.208132
+    },
+    {
+      "name": "Toftebjerg Medborgerhus",
+      "latitude": 56.089401,
+      "longitude": 9.545571
+    },
+    {
+      "name": "Toksværd Samlingshus",
+      "latitude": 55.245505,
+      "longitude": 11.891536
+    },
+    {
+      "name": "Toldkammeret",
+      "latitude": 56.033988,
+      "longitude": 12.613869
+    },
+    {
+      "name": "Tommerup Sognehus",
+      "latitude": 55.320594,
+      "longitude": 10.213339
+    },
+    {
+      "name": "Tommestrup Forsamlingshus",
+      "latitude": 55.297744,
+      "longitude": 12.438909
+    },
+    {
+      "name": "Toreby Forsamlingsgård",
+      "latitude": 54.755186,
+      "longitude": 11.783154
+    },
+    {
+      "name": "Tornby Forsamlingshus",
+      "latitude": 57.532341,
+      "longitude": 9.948219
+    },
+    {
+      "name": "Torrild Forsamlingshus",
+      "latitude": 55.980456,
+      "longitude": 10.051425
+    },
+    {
+      "name": "Torup Forsamlingshus",
+      "latitude": 56.848723,
+      "longitude": 8.659447
+    },
+    {
+      "name": "Torup Landsbycenter",
+      "latitude": 55.983506,
+      "longitude": 11.943301
+    },
+    {
+      "name": "Torøhuse Forsamlingshus",
+      "latitude": 55.244034,
+      "longitude": 9.893003
+    },
+    {
+      "name": "Tostrup Forsamlingshus",
+      "latitude": 56.621509,
+      "longitude": 9.465419
+    },
+    {
+      "name": "Tradshus",
+      "latitude": 55.569289,
+      "longitude": 11.858509
+    },
+    {
+      "name": "Trekanten - Bibliotek og Kulturhus",
+      "latitude": 57.027656,
+      "longitude": 10.000867
+    },
+    {
+      "name": "Trige Forsamlingshus",
+      "latitude": 56.254264,
+      "longitude": 10.14616
+    },
+    {
+      "name": "Trige Sognegård",
+      "latitude": 56.254714,
+      "longitude": 10.147949
+    },
+    {
+      "name": "Trivselshuset",
+      "latitude": 56.369584,
+      "longitude": 8.595468
+    },
+    {
+      "name": "Tronen Fritids- og Ungdomsklub",
+      "latitude": 55.779054,
+      "longitude": 12.529383
+    },
+    {
+      "name": "Try borger og kulturhus",
+      "latitude": 57.147675,
+      "longitude": 10.201172
+    },
+    {
+      "name": "Trøjborg Beboerhus",
+      "latitude": 56.171167,
+      "longitude": 10.215488
+    },
+    {
+      "name": "Tuen Forsamlingshus",
+      "latitude": 57.57918,
+      "longitude": 10.283963
+    },
+    {
+      "name": "Tune Borgerhus",
+      "latitude": 55.595331,
+      "longitude": 12.193699
+    },
+    {
+      "name": "Tune Ungdomscenter",
+      "latitude": 55.595266,
+      "longitude": 12.170176
+    },
+    {
+      "name": "Tunø Forsamlingshus",
+      "latitude": 55.947826,
+      "longitude": 10.442151
+    },
+    {
+      "name": "Tved Forsamlingshus",
+      "latitude": 56.196445,
+      "longitude": 10.43491
+    },
+    {
+      "name": "Tvindelstrup Forsamlingshus",
+      "latitude": 55.390692,
+      "longitude": 11.867798
+    },
+    {
+      "name": "Tvingstrup Forsamlingshus",
+      "latitude": 55.910366,
+      "longitude": 9.929967
+    },
+    {
+      "name": "Tybjerg Forsamlingshus",
+      "latitude": 55.349205,
+      "longitude": 11.814142
+    },
+    {
+      "name": "Tåning Forsamlingshus",
+      "latitude": 56.012187,
+      "longitude": 9.84598
+    },
+    {
+      "name": "Tårnborg",
+      "latitude": 55.327046,
+      "longitude": 8.76173
+    },
+    {
+      "name": "Tårnborg",
+      "latitude": 56.172762,
+      "longitude": 8.92122
+    },
+    {
+      "name": "Tårnborg forsamlingshus",
+      "latitude": 55.366317,
+      "longitude": 11.18033
+    },
+    {
+      "name": "Tårs Forsamlingshus",
+      "latitude": 54.836633,
+      "longitude": 11.647474
+    },
+    {
+      "name": "Tåsinge Forsamlingshus",
+      "latitude": 54.997398,
+      "longitude": 10.598745
+    },
+    {
+      "name": "Tåsinge Tennis og Padel Klub",
+      "latitude": 55.040627,
+      "longitude": 10.619039
+    },
+    {
+      "name": "Tåstrup forsamlingshus",
+      "latitude": 56.290699,
+      "longitude": 10.577271
+    },
+    {
+      "name": "Tømmerby Forsamlinghus",
+      "latitude": 55.319428,
+      "longitude": 10.213215
+    },
+    {
+      "name": "Tønder Kulturhus",
+      "latitude": 54.943841,
+      "longitude": 8.873443
+    },
+    {
+      "name": "Tønder Medbogerhus",
+      "latitude": 54.937235,
+      "longitude": 8.874775
+    },
+    {
+      "name": "Tørring Sognegård",
+      "latitude": 55.858883,
+      "longitude": 9.482437
+    },
+    {
+      "name": "Tøvelde Forsamlingshus",
+      "latitude": 54.963591,
+      "longitude": 12.295438
+    },
+    {
+      "name": "Ubberud Kultur og Bevægelseshus",
+      "latitude": 55.395776,
+      "longitude": 10.253924
+    },
+    {
+      "name": "Ubby Forsamlingshus",
+      "latitude": 55.620682,
+      "longitude": 11.209185
+    },
+    {
+      "name": "Udby Forsamlingshus",
+      "latitude": 56.574524,
+      "longitude": 10.297869
+    },
+    {
+      "name": "Udbyneder Forsamlingshus",
+      "latitude": 56.660705,
+      "longitude": 10.235945
+    },
+    {
+      "name": "Udstillingshuset Rytterskolen",
+      "latitude": 55.703883,
+      "longitude": 12.498063
+    },
+    {
+      "name": "Ugelbølle Forsamlingshus",
+      "latitude": 56.307258,
+      "longitude": 10.416755
+    },
+    {
+      "name": "Uggelhuse Borgerforening & Forsamlingshus",
+      "latitude": 56.467763,
+      "longitude": 10.211284
+    },
+    {
+      "name": "Ulbølle Forsamlingshus",
+      "latitude": 55.074059,
+      "longitude": 10.422685
+    },
+    {
+      "name": "Ulfborg Kirkeby Forsamlingshus",
+      "latitude": 56.300786,
+      "longitude": 8.339109
+    },
+    {
+      "name": "Ulkebøl Forsamlingshus",
+      "latitude": 54.92519,
+      "longitude": 9.829722
+    },
+    {
+      "name": "Ullerslev Forsamlingshus",
+      "latitude": 55.364577,
+      "longitude": 10.663216
+    },
+    {
+      "name": "Ulse Forsamlingshus",
+      "latitude": 55.29296,
+      "longitude": 12.014566
+    },
+    {
+      "name": "Underværket",
+      "latitude": 56.461369,
+      "longitude": 10.0411
+    },
+    {
+      "name": "Ungdommens Demokratihus",
+      "latitude": 55.668958,
+      "longitude": 12.561397
+    },
+    {
+      "name": "Ungdommens Hus",
+      "latitude": 55.562996,
+      "longitude": 9.750973
+    },
+    {
+      "name": "Ungdomshuset",
+      "latitude": 55.400541,
+      "longitude": 10.388731
+    },
+    {
+      "name": "Ungdomshuset",
+      "latitude": 55.733903,
+      "longitude": 12.572567
+    },
+    {
+      "name": "Ungdomshuset Konfus",
+      "latitude": 55.464882,
+      "longitude": 8.459804
+    },
+    {
+      "name": "Ungdomshuset Sct. Laurentius",
+      "latitude": 57.723683,
+      "longitude": 10.582599
+    },
+    {
+      "name": "Ungdomshuset vognporten",
+      "latitude": 55.731941,
+      "longitude": 12.362556
+    },
+    {
+      "name": "Ungdomskulturhuset",
+      "latitude": 56.159141,
+      "longitude": 10.186498
+    },
+    {
+      "name": "Ungdomskulturhuset Ringe",
+      "latitude": 55.237153,
+      "longitude": 10.478036
+    },
+    {
+      "name": "Unge og Kulturcentret",
+      "latitude": 55.975546,
+      "longitude": 12.014189
+    },
+    {
+      "name": "Ungekulturhuset",
+      "latitude": 55.779127,
+      "longitude": 12.371307
+    },
+    {
+      "name": "UngVejen",
+      "latitude": 55.455229,
+      "longitude": 9.140306
+    },
+    {
+      "name": "Union",
+      "latitude": 55.691546,
+      "longitude": 12.560485
+    },
+    {
+      "name": "Union KBH",
+      "latitude": 55.69154,
+      "longitude": 12.560493
+    },
+    {
+      "name": "Urup Forsamlingshus",
+      "latitude": 55.785345,
+      "longitude": 8.816733
+    },
+    {
+      "name": "Vadehavsskolen Klub Hviding",
+      "latitude": 55.28012,
+      "longitude": 8.723066
+    },
+    {
+      "name": "Vadum Sognegård",
+      "latitude": 57.119811,
+      "longitude": 9.861054
+    },
+    {
+      "name": "Valby Forsamlingshus",
+      "latitude": 56.057868,
+      "longitude": 12.205121
+    },
+    {
+      "name": "Valby Kulturhus",
+      "latitude": 55.660971,
+      "longitude": 12.518406
+    },
+    {
+      "name": "Valgmenighedens Forsamlingshus",
+      "latitude": 56.361121,
+      "longitude": 8.613351
+    },
+    {
+      "name": "Vallensved Samlingshus",
+      "latitude": 55.269685,
+      "longitude": 11.642097
+    },
+    {
+      "name": "Valløby Forsamlingshus",
+      "latitude": 55.400861,
+      "longitude": 12.23345
+    },
+    {
+      "name": "Vandborg-Ferring Fælleshus",
+      "latitude": 56.546661,
+      "longitude": 8.17211
+    },
+    {
+      "name": "Vanebrudspalæet",
+      "latitude": 56.153102,
+      "longitude": 10.185284
+    },
+    {
+      "name": "Vantinge Forsamlingshus",
+      "latitude": 55.234959,
+      "longitude": 10.398429
+    },
+    {
+      "name": "Varde Garten",
+      "latitude": 55.619978,
+      "longitude": 8.482507
+    },
+    {
+      "name": "Varpelev Forsamlingshus",
+      "latitude": 55.357132,
+      "longitude": 12.281353
+    },
+    {
+      "name": "Veggerslev Forsamlingshus",
+      "latitude": 56.472056,
+      "longitude": 10.833843
+    },
+    {
+      "name": "Vejby Forsamlingshus",
+      "latitude": 56.064851,
+      "longitude": 12.137745
+    },
+    {
+      "name": "Vejby Kulturhus",
+      "latitude": 57.387048,
+      "longitude": 9.873667
+    },
+    {
+      "name": "Vejlby Forsamlingshus",
+      "latitude": 56.383113,
+      "longitude": 10.812961
+    },
+    {
+      "name": "Vejlby Sognegård",
+      "latitude": 56.195542,
+      "longitude": 10.210954
+    },
+    {
+      "name": "Vejleåparkens Beboerklub",
+      "latitude": 55.60966,
+      "longitude": 12.348632
+    },
+    {
+      "name": "Vejstrup Forsamlingshus",
+      "latitude": 55.104373,
+      "longitude": 10.71269
+    },
+    {
+      "name": "Vejstrup Valgmenigheds Kirkehus",
+      "latitude": 55.109315,
+      "longitude": 10.712278
+    },
+    {
+      "name": "Vellev Forsamlingshus",
+      "latitude": 56.369351,
+      "longitude": 9.821947
+    },
+    {
+      "name": "Velling Forsamlingshus",
+      "latitude": 56.053976,
+      "longitude": 8.312045
+    },
+    {
+      "name": "Vemb Kultur og Forsamlingshus",
+      "latitude": 56.343965,
+      "longitude": 8.341732
+    },
+    {
+      "name": "Venligbohus",
+      "latitude": 55.669981,
+      "longitude": 12.561085
+    },
+    {
+      "name": "Vennepunktet",
+      "latitude": 56.483048,
+      "longitude": 10.02318
+    },
+    {
+      "name": "Verninge Forsamlingshus",
+      "latitude": 55.289775,
+      "longitude": 10.197596
+    },
+    {
+      "name": "Vester Assels Forsamlingshus",
+      "latitude": 56.701027,
+      "longitude": 8.64985
+    },
+    {
+      "name": "Vester Nebel Forsamlingshus",
+      "latitude": 55.540607,
+      "longitude": 8.542093
+    },
+    {
+      "name": "Vester Nebel Multihus",
+      "latitude": 55.538004,
+      "longitude": 8.541904
+    },
+    {
+      "name": "Vester Skerninge Forsamlingshus",
+      "latitude": 55.07419,
+      "longitude": 10.446706
+    },
+    {
+      "name": "Vester Ulslev Forsamlingshus",
+      "latitude": 54.690051,
+      "longitude": 11.572016
+    },
+    {
+      "name": "Vester Vedsted Forsamlingshus",
+      "latitude": 55.29723,
+      "longitude": 8.685212
+    },
+    {
+      "name": "Vestermarkens Forsamlingshus",
+      "latitude": 56.449217,
+      "longitude": 9.345947
+    },
+    {
+      "name": "Vestervig-Agger Sognehus",
+      "latitude": 56.762612,
+      "longitude": 8.319942
+    },
+    {
+      "name": "Vetterslev-Høm Forsamlingshus",
+      "latitude": 55.397259,
+      "longitude": 11.771587
+    },
+    {
+      "name": "Viby Bibliotek og kulturhus",
+      "latitude": 55.548173,
+      "longitude": 12.024712
+    },
+    {
+      "name": "Viby Forsamlingshus",
+      "latitude": 55.497267,
+      "longitude": 10.698045
+    },
+    {
+      "name": "Videbæk Forsamlingshus",
+      "latitude": 56.091769,
+      "longitude": 8.631063
+    },
+    {
+      "name": "Vidstrup Forsamlingshus",
+      "latitude": 57.496652,
+      "longitude": 9.94329
+    },
+    {
+      "name": "Vig forsamlingshus",
+      "latitude": 55.852607,
+      "longitude": 11.576811
+    },
+    {
+      "name": "Vigersted Forsamlingshus",
+      "latitude": 55.483178,
+      "longitude": 11.885113
+    },
+    {
+      "name": "Vile Forsamlingshus",
+      "latitude": 56.718458,
+      "longitude": 8.858911
+    },
+    {
+      "name": "Vinde Forsamlingshus",
+      "latitude": 56.580343,
+      "longitude": 9.008481
+    },
+    {
+      "name": "Vindeby Forsamlingshus",
+      "latitude": 54.922475,
+      "longitude": 11.155873
+    },
+    {
+      "name": "Vindinge Forsamlingshus",
+      "latitude": 55.31084,
+      "longitude": 10.736988
+    },
+    {
+      "name": "Vindmøllen",
+      "latitude": 55.476961,
+      "longitude": 8.48993
+    },
+    {
+      "name": "Vinkel Kulturhus",
+      "latitude": 56.416773,
+      "longitude": 9.494924
+    },
+    {
+      "name": "Virkethus",
+      "latitude": 54.827627,
+      "longitude": 11.955518
+    },
+    {
+      "name": "Viruphuset",
+      "latitude": 56.243989,
+      "longitude": 10.270882
+    },
+    {
+      "name": "Vitten Forsamlingshus",
+      "latitude": 56.291686,
+      "longitude": 9.997224
+    },
+    {
+      "name": "Vium-Hvam Multihus",
+      "latitude": 56.329049,
+      "longitude": 9.353544
+    },
+    {
+      "name": "Voel Forsamlingshus",
+      "latitude": 56.188336,
+      "longitude": 9.695247
+    },
+    {
+      "name": "Vojens Sognegård",
+      "latitude": 55.248717,
+      "longitude": 9.316202
+    },
+    {
+      "name": "Voldby forsamlingshus",
+      "latitude": 56.462386,
+      "longitude": 10.86702
+    },
+    {
+      "name": "Vommevad Forsamlingshus",
+      "latitude": 55.659051,
+      "longitude": 11.649088
+    },
+    {
+      "name": "Vorgod Forsamlingshus",
+      "latitude": 56.086925,
+      "longitude": 8.702039
+    },
+    {
+      "name": "Vrads Forsamlingshus",
+      "latitude": 56.0408,
+      "longitude": 9.450539
+    },
+    {
+      "name": "Vridsted Forsamlingshus",
+      "latitude": 56.445052,
+      "longitude": 9.006758
+    },
+    {
+      "name": "Vrønding Forsamlingshus",
+      "latitude": 55.875689,
+      "longitude": 9.70944
+    },
+    {
+      "name": "Vålse Gamle skole",
+      "latitude": 54.927222,
+      "longitude": 11.777955
+    },
+    {
+      "name": "Værket",
+      "latitude": 56.464788,
+      "longitude": 10.032858
+    },
+    {
+      "name": "Værket - Vejles ungehus",
+      "latitude": 55.702185,
+      "longitude": 9.53571
+    },
+    {
+      "name": "Værslev Forsamlingshus",
+      "latitude": 55.662336,
+      "longitude": 11.206687
+    },
+    {
+      "name": "Wiemosens beboerhus",
+      "latitude": 55.636404,
+      "longitude": 12.049742
+    },
+    {
+      "name": "X-Huset",
+      "latitude": 55.192405,
+      "longitude": 10.246434
+    },
+    {
+      "name": "X-perimentet",
+      "latitude": 55.467752,
+      "longitude": 8.472635
+    },
+    {
+      "name": "Xperimentet",
+      "latitude": 55.467177,
+      "longitude": 8.447221
+    },
+    {
+      "name": "YMCA Amager",
+      "latitude": 55.661387,
+      "longitude": 12.60526
+    },
+    {
+      "name": "Åbyskov Forsamlingshus",
+      "latitude": 55.070477,
+      "longitude": 10.732612
+    },
+    {
+      "name": "Ådum Forsamlingshus",
+      "latitude": 55.875742,
+      "longitude": 8.594464
+    },
+    {
+      "name": "Åes Forsamlingshus",
+      "latitude": 55.917239,
+      "longitude": 9.970818
+    },
+    {
+      "name": "Åhuset",
+      "latitude": 55.394069,
+      "longitude": 8.712544
+    },
+    {
+      "name": "Ålum Forsamlingshus",
+      "latitude": 56.453735,
+      "longitude": 9.836042
+    },
+    {
+      "name": "Årby Forsamlingshus",
+      "latitude": 55.651711,
+      "longitude": 11.116293
+    },
+    {
+      "name": "Årslev Forsamling- og kulturhus",
+      "latitude": 55.297735,
+      "longitude": 10.453181
+    },
+    {
+      "name": "Årslev Forsamlingshus",
+      "latitude": 56.398362,
+      "longitude": 10.151012
+    },
+    {
+      "name": "Årøsund Medborgerhus",
+      "latitude": 55.262057,
+      "longitude": 9.707548
+    },
+    {
+      "name": "Åstrup Forsamlingshus",
+      "latitude": 56.42613,
+      "longitude": 10.884014
+    },
+    {
+      "name": "æ' Redningshus",
+      "latitude": 57.043952,
+      "longitude": 8.479727
+    },
+    {
+      "name": "Ødum Forsamlingshus",
+      "latitude": 56.311954,
+      "longitude": 10.132521
+    },
+    {
+      "name": "Øland Medborgerhus",
+      "latitude": 57.060592,
+      "longitude": 9.58971
+    },
+    {
+      "name": "Ølsemagle Sognegård",
+      "latitude": 55.494137,
+      "longitude": 12.178351
+    },
+    {
+      "name": "Ørding Forsamlingshus",
+      "latitude": 56.716479,
+      "longitude": 8.757126
+    },
+    {
+      "name": "Ørslev Forsamlingshus",
+      "latitude": 55.404936,
+      "longitude": 9.911072
+    },
+    {
+      "name": "Ørslev Kulturhus",
+      "latitude": 55.385415,
+      "longitude": 11.937717
+    },
+    {
+      "name": "Ørsted forsamlingshus",
+      "latitude": 55.325767,
+      "longitude": 10.069379
+    },
+    {
+      "name": "Ørstedspavillionen",
+      "latitude": 54.939477,
+      "longitude": 10.713529
+    },
+    {
+      "name": "Ørsø Forsamlingshus",
+      "latitude": 57.176417,
+      "longitude": 10.333543
+    },
+    {
+      "name": "Ørum Forsamlingshus",
+      "latitude": 56.558243,
+      "longitude": 9.215966
+    },
+    {
+      "name": "Øsløs Forsamlingshus",
+      "latitude": 57.025986,
+      "longitude": 9.005672
+    },
+    {
+      "name": "Øster Assels Forsamlingshus",
+      "latitude": 56.703352,
+      "longitude": 8.69586
+    },
+    {
+      "name": "Øster Brønderslev Forsamlingshus",
+      "latitude": 57.248921,
+      "longitude": 9.99853
+    },
+    {
+      "name": "Øster Hornum Forsamlingshus",
+      "latitude": 56.936082,
+      "longitude": 9.748593
+    },
+    {
+      "name": "Øster Hæsinge Forsamlingshus",
+      "latitude": 55.182365,
+      "longitude": 10.315597
+    },
+    {
+      "name": "Øster Højst Forsamlingshus",
+      "latitude": 54.999293,
+      "longitude": 9.041908
+    },
+    {
+      "name": "Øster Lindet Forsamlingshus",
+      "latitude": 55.309571,
+      "longitude": 9.147922
+    },
+    {
+      "name": "Øster Ulslev Forsamlingshus",
+      "latitude": 54.696976,
+      "longitude": 11.626741
+    },
+    {
+      "name": "Østerbrohuset",
+      "latitude": 55.707617,
+      "longitude": 12.587634
+    },
+    {
+      "name": "Østofte Forsamlingshus",
+      "latitude": 54.80848,
+      "longitude": 11.430357
+    },
+    {
+      "name": "Østrup Medborgerhus",
+      "latitude": 56.747886,
+      "longitude": 9.472627
+    }
+  ],
+  "meta": {
+    "title": "Forsamlings- og medborgerhuse i Danmark – OpenStreetMap (Community centres in Denmark, OSM) - Gratis download",
+    "description": "Liste over 1324 forsamlings- og medborgerhuse i Danmark fra OpenStreetMap (amenity=community_centre) — navn og koordinater (WGS84). Indeholder 1324 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Forsamlings- og medborgerhuse i Danmark – OpenStreetMap (Community centres in Denmark, OSM) | ListBase",
+    "seo_description": "Download Forsamlings- og medborgerhuse i Danmark – OpenStreetMap (Community centres in Denmark, OSM) — 1324 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 1324 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

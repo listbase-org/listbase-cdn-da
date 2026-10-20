@@ -1,0 +1,3096 @@
+{
+  "id": "da-eventlokaler",
+  "name": "Eventlokaler i Danmark (Event venues in Denmark)",
+  "title": "Eventlokaler i Danmark (Event venues in Denmark)",
+  "description": "Event venues in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=events_venue.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 611,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "a.m. nourishing nature",
+      "latitude": 54.895868,
+      "longitude": 10.326626
+    },
+    {
+      "name": "Aarhussalen",
+      "latitude": 56.151562,
+      "longitude": 10.205438
+    },
+    {
+      "name": "Aba",
+      "latitude": 55.480365,
+      "longitude": 9.238046
+    },
+    {
+      "name": "ABG - Skoleparken - Selskabslokale",
+      "latitude": 55.760219,
+      "longitude": 12.472848
+    },
+    {
+      "name": "AFUK fonden",
+      "latitude": 55.662292,
+      "longitude": 12.539976
+    },
+    {
+      "name": "Aldershvile Slotspavillon",
+      "latitude": 55.771736,
+      "longitude": 12.450943
+    },
+    {
+      "name": "Alfred & Kamilla No 10",
+      "latitude": 55.411809,
+      "longitude": 10.38206
+    },
+    {
+      "name": "Alfred og Kamilla",
+      "latitude": 55.412586,
+      "longitude": 10.381715
+    },
+    {
+      "name": "Allerslev gl. mejeri",
+      "latitude": 55.085093,
+      "longitude": 12.030638
+    },
+    {
+      "name": "Alliance Event",
+      "latitude": 55.715853,
+      "longitude": 12.416898
+    },
+    {
+      "name": "Amager Selskabslokaler",
+      "latitude": 55.668377,
+      "longitude": 12.598176
+    },
+    {
+      "name": "AMS Coahing & Event",
+      "latitude": 55.254227,
+      "longitude": 9.503286
+    },
+    {
+      "name": "Amstrupgård",
+      "latitude": 56.374928,
+      "longitude": 9.794534
+    },
+    {
+      "name": "Anlægspavillonen",
+      "latitude": 56.359081,
+      "longitude": 8.624828
+    },
+    {
+      "name": "Ans Idræts og Kultur Center",
+      "latitude": 56.31139,
+      "longitude": 9.588849
+    },
+    {
+      "name": "Arena Himmerland",
+      "latitude": 56.881172,
+      "longitude": 9.833435
+    },
+    {
+      "name": "Arnehavehus",
+      "latitude": 55.398954,
+      "longitude": 11.382682
+    },
+    {
+      "name": "Asnæs Ungehus",
+      "latitude": 55.810489,
+      "longitude": 11.503994
+    },
+    {
+      "name": "Aspargesladen Torup Bakkegaard og Orelund",
+      "latitude": 55.337578,
+      "longitude": 9.938069
+    },
+    {
+      "name": "Assersbølgård",
+      "latitude": 55.557592,
+      "longitude": 8.990897
+    },
+    {
+      "name": "Astrup Kro",
+      "latitude": 56.767583,
+      "longitude": 9.98073
+    },
+    {
+      "name": "AT Event",
+      "latitude": 55.223408,
+      "longitude": 11.750693
+    },
+    {
+      "name": "Aura Dining",
+      "latitude": 57.042115,
+      "longitude": 9.921963
+    },
+    {
+      "name": "Babylon Huset",
+      "latitude": 56.111033,
+      "longitude": 10.107563
+    },
+    {
+      "name": "Bakkegården",
+      "latitude": 55.332359,
+      "longitude": 10.436121
+    },
+    {
+      "name": "BaneGaarden Venues",
+      "latitude": 55.658153,
+      "longitude": 12.542091
+    },
+    {
+      "name": "Basballegaard B&B",
+      "latitude": 56.243706,
+      "longitude": 10.549259
+    },
+    {
+      "name": "Basen",
+      "latitude": 56.115278,
+      "longitude": 10.158374
+    },
+    {
+      "name": "Bastionen",
+      "latitude": 55.310936,
+      "longitude": 10.797064
+    },
+    {
+      "name": "BDO Lounge",
+      "latitude": 56.455021,
+      "longitude": 9.40241
+    },
+    {
+      "name": "BEKVEM",
+      "latitude": 56.133857,
+      "longitude": 10.140882
+    },
+    {
+      "name": "Bella Center Hal D",
+      "latitude": 55.638259,
+      "longitude": 12.577715
+    },
+    {
+      "name": "bellota.dk v/Alan Pedro Petersen",
+      "latitude": 55.695377,
+      "longitude": 12.48147
+    },
+    {
+      "name": "Bernards Minde",
+      "latitude": 55.788198,
+      "longitude": 12.491753
+    },
+    {
+      "name": "Bernstorff Slot",
+      "latitude": 55.759294,
+      "longitude": 12.553419
+    },
+    {
+      "name": "Bidstrup",
+      "latitude": 56.34783,
+      "longitude": 9.934528
+    },
+    {
+      "name": "Billund Lufthavn Meetings",
+      "latitude": 55.74625,
+      "longitude": 9.149039
+    },
+    {
+      "name": "Bjerregaarden",
+      "latitude": 55.55159,
+      "longitude": 11.815287
+    },
+    {
+      "name": "Boltinggaard",
+      "latitude": 55.215637,
+      "longitude": 10.448835
+    },
+    {
+      "name": "Borgerhuset Stationen",
+      "latitude": 56.452613,
+      "longitude": 9.408133
+    },
+    {
+      "name": "Bornholmerriet by Sommer",
+      "latitude": 55.40892,
+      "longitude": 11.889265
+    },
+    {
+      "name": "Borre Knob Conference Center",
+      "latitude": 55.827523,
+      "longitude": 10.014461
+    },
+    {
+      "name": "BORÐ 11",
+      "latitude": 55.665406,
+      "longitude": 12.546684
+    },
+    {
+      "name": "Bournonville Cowboy Fester",
+      "latitude": 55.303131,
+      "longitude": 12.046785
+    },
+    {
+      "name": "Boxen Holbæk",
+      "latitude": 55.718851,
+      "longitude": 11.721023
+    },
+    {
+      "name": "Brogaarden",
+      "latitude": 55.527948,
+      "longitude": 9.786038
+    },
+    {
+      "name": "Brorsonsminde",
+      "latitude": 55.329907,
+      "longitude": 8.76108
+    },
+    {
+      "name": "Brødrenes Original - Event",
+      "latitude": 56.128753,
+      "longitude": 10.1949
+    },
+    {
+      "name": "Brøndsalen",
+      "latitude": 55.674349,
+      "longitude": 12.530212
+    },
+    {
+      "name": "byDolphin",
+      "latitude": 56.1355,
+      "longitude": 9.009863
+    },
+    {
+      "name": "Bykroen",
+      "latitude": 55.326205,
+      "longitude": 11.963534
+    },
+    {
+      "name": "Bådfarten Esrum Sø",
+      "latitude": 55.980383,
+      "longitude": 12.381861
+    },
+    {
+      "name": "Bække Kro",
+      "latitude": 55.570616,
+      "longitude": 9.138838
+    },
+    {
+      "name": "Bønnen og Herligheden",
+      "latitude": 55.746824,
+      "longitude": 11.617805
+    },
+    {
+      "name": "Caesar Venue",
+      "latitude": 55.740544,
+      "longitude": 12.476924
+    },
+    {
+      "name": "cafe holmegården",
+      "latitude": 55.707938,
+      "longitude": 9.542021
+    },
+    {
+      "name": "Cafe Hønsehuset",
+      "latitude": 55.388854,
+      "longitude": 10.281015
+    },
+    {
+      "name": "Cafe Jomfru Rigborg",
+      "latitude": 55.175149,
+      "longitude": 10.489166
+    },
+    {
+      "name": "Cafe Kysten",
+      "latitude": 55.565187,
+      "longitude": 10.090968
+    },
+    {
+      "name": "Cafe Moules",
+      "latitude": 56.806145,
+      "longitude": 10.256274
+    },
+    {
+      "name": "Cafe Oldfruen",
+      "latitude": 54.694684,
+      "longitude": 11.961877
+    },
+    {
+      "name": "Café 44",
+      "latitude": 55.565484,
+      "longitude": 10.089161
+    },
+    {
+      "name": "Café Brejning",
+      "latitude": 55.665971,
+      "longitude": 9.67194
+    },
+    {
+      "name": "Café Halln",
+      "latitude": 56.137607,
+      "longitude": 9.06354
+    },
+    {
+      "name": "Café Kilden",
+      "latitude": 55.667662,
+      "longitude": 12.439564
+    },
+    {
+      "name": "Café Kvarterhuset",
+      "latitude": 55.665142,
+      "longitude": 12.60393
+    },
+    {
+      "name": "Café Nicolai",
+      "latitude": 56.154075,
+      "longitude": 10.202105
+    },
+    {
+      "name": "Caféen",
+      "latitude": 56.528923,
+      "longitude": 10.705268
+    },
+    {
+      "name": "Camping Rolighed- selskabslokale",
+      "latitude": 57.317659,
+      "longitude": 9.69542
+    },
+    {
+      "name": "Capri",
+      "latitude": 56.024914,
+      "longitude": 9.926269
+    },
+    {
+      "name": "Casa Maria Dining",
+      "latitude": 57.091519,
+      "longitude": 9.980862
+    },
+    {
+      "name": "Centralværkstedet",
+      "latitude": 56.14989,
+      "longitude": 10.207173
+    },
+    {
+      "name": "Chabad Denmark",
+      "latitude": 55.689295,
+      "longitude": 12.572323
+    },
+    {
+      "name": "Charlottes kødgryder",
+      "latitude": 56.763706,
+      "longitude": 9.103349
+    },
+    {
+      "name": "Chefs Table / KC Skive",
+      "latitude": 56.544711,
+      "longitude": 9.026916
+    },
+    {
+      "name": "CHOW",
+      "latitude": 55.666675,
+      "longitude": 12.559387
+    },
+    {
+      "name": "Christiansborg Slot Drabantsalen",
+      "latitude": 55.676735,
+      "longitude": 12.580034
+    },
+    {
+      "name": "Christianshavnerfærgen M/F",
+      "latitude": 55.675594,
+      "longitude": 12.592693
+    },
+    {
+      "name": "Cinema Center Helsingør",
+      "latitude": 56.024382,
+      "longitude": 12.58808
+    },
+    {
+      "name": "Clarion Meetings",
+      "latitude": 55.628719,
+      "longitude": 12.648834
+    },
+    {
+      "name": "Classic Car House",
+      "latitude": 55.908811,
+      "longitude": 12.47341
+    },
+    {
+      "name": "Clausager Kunstvirke",
+      "latitude": 56.034815,
+      "longitude": 8.535752
+    },
+    {
+      "name": "Clausholm Slot",
+      "latitude": 56.384661,
+      "longitude": 10.170119
+    },
+    {
+      "name": "Co-production",
+      "latitude": 55.523584,
+      "longitude": 11.939125
+    },
+    {
+      "name": "Cocktail Company Aarhus",
+      "latitude": 56.14603,
+      "longitude": 10.149186
+    },
+    {
+      "name": "Cocktailcompany København",
+      "latitude": 55.697914,
+      "longitude": 12.426915
+    },
+    {
+      "name": "Cocotten",
+      "latitude": 54.708511,
+      "longitude": 11.474887
+    },
+    {
+      "name": "Colstrup Huset",
+      "latitude": 56.353586,
+      "longitude": 8.614398
+    },
+    {
+      "name": "Comwell Borupgaard, Hotel og Konferencecenter",
+      "latitude": 56.011766,
+      "longitude": 12.582115
+    },
+    {
+      "name": "Copenhagen Dockside",
+      "latitude": 55.71723,
+      "longitude": 12.607086
+    },
+    {
+      "name": "CPH Lounge ApS",
+      "latitude": 55.67222,
+      "longitude": 12.588715
+    },
+    {
+      "name": "CPH9",
+      "latitude": 55.677266,
+      "longitude": 12.569646
+    },
+    {
+      "name": "Crystal Garden",
+      "latitude": 55.723377,
+      "longitude": 12.373601
+    },
+    {
+      "name": "Dalbyover Kro",
+      "latitude": 56.618262,
+      "longitude": 10.204561
+    },
+    {
+      "name": "Dalgas Centret",
+      "latitude": 56.526769,
+      "longitude": 9.227949
+    },
+    {
+      "name": "Dallund Slot",
+      "latitude": 55.485122,
+      "longitude": 10.278837
+    },
+    {
+      "name": "Damhuskroen",
+      "latitude": 55.673158,
+      "longitude": 12.4737
+    },
+    {
+      "name": "Daniel Geert- Romsmagning og Bartending",
+      "latitude": 54.785439,
+      "longitude": 11.855702
+    },
+    {
+      "name": "Dannevang",
+      "latitude": 55.191873,
+      "longitude": 9.577321
+    },
+    {
+      "name": "Danninghus",
+      "latitude": 55.031095,
+      "longitude": 10.613037
+    },
+    {
+      "name": "DARE",
+      "latitude": 56.534086,
+      "longitude": 9.204902
+    },
+    {
+      "name": "Den Blå Kirke",
+      "latitude": 55.057806,
+      "longitude": 10.604648
+    },
+    {
+      "name": "Den Gamle By Bendtsens Pakhus",
+      "latitude": 56.159054,
+      "longitude": 10.192846
+    },
+    {
+      "name": "Den Gamle Gaard i Stubberup",
+      "latitude": 54.66931,
+      "longitude": 11.692522
+    },
+    {
+      "name": "Den Gamle Møllegaard",
+      "latitude": 54.913254,
+      "longitude": 11.220058
+    },
+    {
+      "name": "Den Gamle Smedie",
+      "latitude": 57.370579,
+      "longitude": 9.797905
+    },
+    {
+      "name": "Den Glade Gryde",
+      "latitude": 55.585582,
+      "longitude": 8.739693
+    },
+    {
+      "name": "Den Røde Okse",
+      "latitude": 55.492709,
+      "longitude": 8.410984
+    },
+    {
+      "name": "design district",
+      "latitude": 55.69222,
+      "longitude": 12.484812
+    },
+    {
+      "name": "Det Franske Hjørne",
+      "latitude": 56.248224,
+      "longitude": 10.303631
+    },
+    {
+      "name": "DGI-Byen CHP Conference",
+      "latitude": 55.670047,
+      "longitude": 12.564626
+    },
+    {
+      "name": "DI Konferencecenter",
+      "latitude": 55.30231,
+      "longitude": 10.761932
+    },
+    {
+      "name": "Dining Heerings Gaard",
+      "latitude": 55.672195,
+      "longitude": 12.589744
+    },
+    {
+      "name": "Diskotek Skoven",
+      "latitude": 55.718922,
+      "longitude": 12.401572
+    },
+    {
+      "name": "Djøf Møde og Event",
+      "latitude": 55.684205,
+      "longitude": 12.573817
+    },
+    {
+      "name": "Docken",
+      "latitude": 55.718423,
+      "longitude": 12.598
+    },
+    {
+      "name": "Dollerup Mølle",
+      "latitude": 56.367416,
+      "longitude": 9.324037
+    },
+    {
+      "name": "Dragør Fort",
+      "latitude": 55.58877,
+      "longitude": 12.677463
+    },
+    {
+      "name": "Dune Dining",
+      "latitude": 57.404533,
+      "longitude": 9.922337
+    },
+    {
+      "name": "E-Plaza",
+      "latitude": 56.164989,
+      "longitude": 10.118029
+    },
+    {
+      "name": "Eat Event Lyskær 5",
+      "latitude": 55.714697,
+      "longitude": 12.435434
+    },
+    {
+      "name": "Ecco Uddannelses- og Konference Center",
+      "latitude": 54.93381,
+      "longitude": 8.842868
+    },
+    {
+      "name": "Egholm Vestergård",
+      "latitude": 57.06582,
+      "longitude": 9.836069
+    },
+    {
+      "name": "Elmegaarden",
+      "latitude": 55.321947,
+      "longitude": 9.301977
+    },
+    {
+      "name": "Emmaus Konference",
+      "latitude": 55.322353,
+      "longitude": 11.960818
+    },
+    {
+      "name": "Emmerlev Sogns Forsamlingshus",
+      "latitude": 54.995937,
+      "longitude": 8.699252
+    },
+    {
+      "name": "Engestofte Gods",
+      "latitude": 54.761602,
+      "longitude": 11.564029
+    },
+    {
+      "name": "Esbjerg Konference & Event",
+      "latitude": 55.483101,
+      "longitude": 8.43923
+    },
+    {
+      "name": "Esbjerg Park",
+      "latitude": 55.485554,
+      "longitude": 8.448418
+    },
+    {
+      "name": "Essens Event",
+      "latitude": 57.26964,
+      "longitude": 9.946864
+    },
+    {
+      "name": "Europahallen",
+      "latitude": 57.043476,
+      "longitude": 9.911983
+    },
+    {
+      "name": "Event By Elaa",
+      "latitude": 55.645154,
+      "longitude": 12.504055
+    },
+    {
+      "name": "Event Fabrikken",
+      "latitude": 55.058676,
+      "longitude": 10.613109
+    },
+    {
+      "name": "Event Øster Hurup",
+      "latitude": 56.798795,
+      "longitude": 10.270263
+    },
+    {
+      "name": "EventPark Aarhus",
+      "latitude": 56.165291,
+      "longitude": 10.121549
+    },
+    {
+      "name": "Eventure 2023",
+      "latitude": 55.647913,
+      "longitude": 12.506215
+    },
+    {
+      "name": "Farre Forsamlingshus",
+      "latitude": 56.2164,
+      "longitude": 9.844388
+    },
+    {
+      "name": "Farris kro og cafe",
+      "latitude": 55.384435,
+      "longitude": 9.269746
+    },
+    {
+      "name": "Faxe Bryggeri Salen",
+      "latitude": 55.259865,
+      "longitude": 12.112458
+    },
+    {
+      "name": "FC Helsingør Lounge",
+      "latitude": 56.046271,
+      "longitude": 12.587618
+    },
+    {
+      "name": "Feriecentret",
+      "latitude": 55.621497,
+      "longitude": 11.118252
+    },
+    {
+      "name": "Feriehjemmet i Ørum",
+      "latitude": 56.47627,
+      "longitude": 9.623342
+    },
+    {
+      "name": "Festhussyd",
+      "latitude": 56.3117,
+      "longitude": 8.600305
+    },
+    {
+      "name": "Festihallen",
+      "latitude": 56.053039,
+      "longitude": 9.952555
+    },
+    {
+      "name": "Festpladsen",
+      "latitude": 55.819431,
+      "longitude": 10.636217
+    },
+    {
+      "name": "Festpladsen Engkær",
+      "latitude": 56.097663,
+      "longitude": 8.242048
+    },
+    {
+      "name": "Fiskbæk Gl. Mejeri",
+      "latitude": 56.512584,
+      "longitude": 9.310549
+    },
+    {
+      "name": "Fiskegården",
+      "latitude": 56.705324,
+      "longitude": 9.209407
+    },
+    {
+      "name": "Fjordgården Randers",
+      "latitude": 56.471644,
+      "longitude": 10.07956
+    },
+    {
+      "name": "Flejsborghus",
+      "latitude": 56.860551,
+      "longitude": 9.338089
+    },
+    {
+      "name": "Flintinge Gamle Savværk",
+      "latitude": 54.7479,
+      "longitude": 11.777867
+    },
+    {
+      "name": "Folkehjem",
+      "latitude": 55.05053,
+      "longitude": 9.42085
+    },
+    {
+      "name": "Folkestedet Grøn Kors",
+      "latitude": 56.359937,
+      "longitude": 10.594033
+    },
+    {
+      "name": "Folkets have",
+      "latitude": 55.127556,
+      "longitude": 8.912399
+    },
+    {
+      "name": "Folkets Madhus",
+      "latitude": 55.675153,
+      "longitude": 12.617786
+    },
+    {
+      "name": "Fonagergaard",
+      "latitude": 56.240325,
+      "longitude": 8.634352
+    },
+    {
+      "name": "Food Space",
+      "latitude": 55.668745,
+      "longitude": 12.561069
+    },
+    {
+      "name": "Food Studio",
+      "latitude": 56.158954,
+      "longitude": 10.217752
+    },
+    {
+      "name": "Foodoir",
+      "latitude": 55.704776,
+      "longitude": 12.581746
+    },
+    {
+      "name": "Foodsharing Copenhagen",
+      "latitude": 55.702907,
+      "longitude": 12.549527
+    },
+    {
+      "name": "Force Majeure Studio",
+      "latitude": 56.159625,
+      "longitude": 10.208614
+    },
+    {
+      "name": "Foreningen Bageriet",
+      "latitude": 56.07615,
+      "longitude": 9.69896
+    },
+    {
+      "name": "Foreningen Huset på Næsset",
+      "latitude": 55.756446,
+      "longitude": 11.709342
+    },
+    {
+      "name": "Fort Østerlund",
+      "latitude": 56.132252,
+      "longitude": 9.573991
+    },
+    {
+      "name": "Forum Horsens",
+      "latitude": 55.871768,
+      "longitude": 9.855728
+    },
+    {
+      "name": "Forum Kolding Bramdrupdam",
+      "latitude": 55.528219,
+      "longitude": 9.47071
+    },
+    {
+      "name": "Fredericia Messecenter",
+      "latitude": 55.579512,
+      "longitude": 9.724586
+    },
+    {
+      "name": "Fremtidens Foreningshus Randers",
+      "latitude": 56.481967,
+      "longitude": 10.081736
+    },
+    {
+      "name": "Frimurerlogens Restauration og Selskabslokaler",
+      "latitude": 56.154475,
+      "longitude": 10.202326
+    },
+    {
+      "name": "Frirum Durup",
+      "latitude": 56.742311,
+      "longitude": 8.954832
+    },
+    {
+      "name": "Frisholt",
+      "latitude": 56.317253,
+      "longitude": 9.613892
+    },
+    {
+      "name": "Fritidshuset",
+      "latitude": 56.988192,
+      "longitude": 9.878382
+    },
+    {
+      "name": "Frøstrup Borgerkro",
+      "latitude": 57.086531,
+      "longitude": 8.993991
+    },
+    {
+      "name": "Fuglsang Herregaard",
+      "latitude": 54.721929,
+      "longitude": 11.797693
+    },
+    {
+      "name": "Fuglsangcentret",
+      "latitude": 55.563566,
+      "longitude": 9.707958
+    },
+    {
+      "name": "Fun-park",
+      "latitude": 57.562997,
+      "longitude": 9.943485
+    },
+    {
+      "name": "Fur Event",
+      "latitude": 56.804858,
+      "longitude": 9.02084
+    },
+    {
+      "name": "G.A.S.A",
+      "latitude": 55.394852,
+      "longitude": 10.361754
+    },
+    {
+      "name": "Gammel Brydegaard",
+      "latitude": 55.209122,
+      "longitude": 9.99382
+    },
+    {
+      "name": "Gammelrøj Herregård",
+      "latitude": 55.465807,
+      "longitude": 9.459232
+    },
+    {
+      "name": "Gastro 41",
+      "latitude": 56.052616,
+      "longitude": 8.405141
+    },
+    {
+      "name": "Gilleleje Badehotel",
+      "latitude": 56.127575,
+      "longitude": 12.280536
+    },
+    {
+      "name": "Glascafeen",
+      "latitude": 55.37041,
+      "longitude": 10.450057
+    },
+    {
+      "name": "Glassalen",
+      "latitude": 55.672849,
+      "longitude": 12.568666
+    },
+    {
+      "name": "Glostrup Park Hotel Orangeriet",
+      "latitude": 55.66679,
+      "longitude": 12.411572
+    },
+    {
+      "name": "Glow Odense",
+      "latitude": 55.356684,
+      "longitude": 10.354768
+    },
+    {
+      "name": "God Smag Borgergade",
+      "latitude": 55.688058,
+      "longitude": 12.588468
+    },
+    {
+      "name": "Golden Palace",
+      "latitude": 55.402145,
+      "longitude": 10.374069
+    },
+    {
+      "name": "Golden Palace Cph",
+      "latitude": 55.6278,
+      "longitude": 12.604837
+    },
+    {
+      "name": "Golden Star",
+      "latitude": 55.590768,
+      "longitude": 12.297723
+    },
+    {
+      "name": "Gorms event parken",
+      "latitude": 55.703615,
+      "longitude": 12.571807
+    },
+    {
+      "name": "Gourmensch",
+      "latitude": 56.295508,
+      "longitude": 10.398715
+    },
+    {
+      "name": "Grahams bistro",
+      "latitude": 55.163567,
+      "longitude": 11.85479
+    },
+    {
+      "name": "Gram Slot",
+      "latitude": 55.295015,
+      "longitude": 9.056619
+    },
+    {
+      "name": "Gribskov Kultursal",
+      "latitude": 56.023172,
+      "longitude": 12.209158
+    },
+    {
+      "name": "Grønnegade Kaserne Kulturcenter",
+      "latitude": 55.231937,
+      "longitude": 11.761039
+    },
+    {
+      "name": "Gulerodshuset",
+      "latitude": 55.27538,
+      "longitude": 11.7589
+    },
+    {
+      "name": "Gørlevhallens Restaurant",
+      "latitude": 55.544854,
+      "longitude": 11.222004
+    },
+    {
+      "name": "H15 Scene",
+      "latitude": 55.669711,
+      "longitude": 12.559853
+    },
+    {
+      "name": "Haarby Kro",
+      "latitude": 55.223531,
+      "longitude": 10.123898
+    },
+    {
+      "name": "Haderslevhus",
+      "latitude": 55.249874,
+      "longitude": 9.491445
+    },
+    {
+      "name": "Haldbjerg Skovhave",
+      "latitude": 55.989248,
+      "longitude": 12.247808
+    },
+    {
+      "name": "Halkær Kro",
+      "latitude": 56.92114,
+      "longitude": 9.58143
+    },
+    {
+      "name": "Hallund Kro",
+      "latitude": 57.239469,
+      "longitude": 10.103509
+    },
+    {
+      "name": "Halvandet",
+      "latitude": 55.695453,
+      "longitude": 12.609549
+    },
+    {
+      "name": "Handværkerhuset",
+      "latitude": 57.050942,
+      "longitude": 9.917696
+    },
+    {
+      "name": "Hannes Musikcafe",
+      "latitude": 55.42719,
+      "longitude": 8.714919
+    },
+    {
+      "name": "Hanstholm Hallerne",
+      "latitude": 57.11085,
+      "longitude": 8.608742
+    },
+    {
+      "name": "Harboøre Hotel",
+      "latitude": 56.621177,
+      "longitude": 8.180367
+    },
+    {
+      "name": "Hardballheaven",
+      "latitude": 55.943389,
+      "longitude": 12.220033
+    },
+    {
+      "name": "Harridslev Festlokale",
+      "latitude": 56.501173,
+      "longitude": 10.130615
+    },
+    {
+      "name": "Harridslevgaard Slot",
+      "latitude": 55.542084,
+      "longitude": 10.102358
+    },
+    {
+      "name": "Harrys",
+      "latitude": 55.350352,
+      "longitude": 10.273359
+    },
+    {
+      "name": "Havarthigaarden",
+      "latitude": 55.819514,
+      "longitude": 12.496935
+    },
+    {
+      "name": "Havrevang",
+      "latitude": 57.465237,
+      "longitude": 9.809521
+    },
+    {
+      "name": "Hedensted Sognegaard",
+      "latitude": 55.769223,
+      "longitude": 9.700385
+    },
+    {
+      "name": "Hedensted Sognegård",
+      "latitude": 55.76889,
+      "longitude": 9.700251
+    },
+    {
+      "name": "Heidi´s Kro",
+      "latitude": 56.501881,
+      "longitude": 10.129146
+    },
+    {
+      "name": "Hejmdal",
+      "latitude": 56.165609,
+      "longitude": 10.211609
+    },
+    {
+      "name": "Hejnsvig Hotel",
+      "latitude": 55.694787,
+      "longitude": 8.997375
+    },
+    {
+      "name": "Herregaarden Jomfruens Egede",
+      "latitude": 55.280857,
+      "longitude": 12.090059
+    },
+    {
+      "name": "Herregårdsmuseet Selsø Slot",
+      "latitude": 55.741354,
+      "longitude": 12.010739
+    },
+    {
+      "name": "Hestestalden",
+      "latitude": 55.853851,
+      "longitude": 11.564369
+    },
+    {
+      "name": "Hestestalden",
+      "latitude": 56.158973,
+      "longitude": 10.191004
+    },
+    {
+      "name": "Hodsager Multicenter",
+      "latitude": 56.315987,
+      "longitude": 8.856517
+    },
+    {
+      "name": "Holberggaard",
+      "latitude": 54.99234,
+      "longitude": 11.981436
+    },
+    {
+      "name": "Holckenhavn Slot",
+      "latitude": 55.292817,
+      "longitude": 10.775702
+    },
+    {
+      "name": "Holme Olstrup Forsamlingshus",
+      "latitude": 55.251837,
+      "longitude": 11.841149
+    },
+    {
+      "name": "Holmgaard",
+      "latitude": 56.236683,
+      "longitude": 10.515768
+    },
+    {
+      "name": "Hornbæk Havneforening",
+      "latitude": 56.092961,
+      "longitude": 12.457432
+    },
+    {
+      "name": "Horsens Håndværkerforening",
+      "latitude": 55.865549,
+      "longitude": 9.844506
+    },
+    {
+      "name": "Hos Martin",
+      "latitude": 57.470425,
+      "longitude": 10.202025
+    },
+    {
+      "name": "Hotel Glejbjerg",
+      "latitude": 55.559635,
+      "longitude": 8.82497
+    },
+    {
+      "name": "Hotel Harmonien restaurant",
+      "latitude": 55.252454,
+      "longitude": 9.485488
+    },
+    {
+      "name": "Hotel Højby Sø",
+      "latitude": 55.913423,
+      "longitude": 11.603826
+    },
+    {
+      "name": "Hotel Kirkedal",
+      "latitude": 57.464459,
+      "longitude": 9.794121
+    },
+    {
+      "name": "Hotel Tivoli Congress Center Kongres Køkken",
+      "latitude": 55.665934,
+      "longitude": 12.566227
+    },
+    {
+      "name": "Humleorehus Fest og Events",
+      "latitude": 55.475492,
+      "longitude": 11.910784
+    },
+    {
+      "name": "Hyggekrogen",
+      "latitude": 55.10639,
+      "longitude": 14.822301
+    },
+    {
+      "name": "Højelse Vinkælder & Selskabslokale",
+      "latitude": 55.49227,
+      "longitude": 12.121227
+    },
+    {
+      "name": "Højer-Hus",
+      "latitude": 54.965196,
+      "longitude": 8.695229
+    },
+    {
+      "name": "Højgården",
+      "latitude": 57.139379,
+      "longitude": 9.362323
+    },
+    {
+      "name": "Højstrupgård",
+      "latitude": 56.052405,
+      "longitude": 12.583934
+    },
+    {
+      "name": "Hørning Mad & Vin",
+      "latitude": 55.650915,
+      "longitude": 12.615141
+    },
+    {
+      "name": "ibsens gaard",
+      "latitude": 56.192196,
+      "longitude": 10.673254
+    },
+    {
+      "name": "Idrættens Hus Hotel og Konference",
+      "latitude": 55.647279,
+      "longitude": 12.417826
+    },
+    {
+      "name": "Ingeniørforeningens Mødecenter Restaurant Bryggen",
+      "latitude": 55.666853,
+      "longitude": 12.570956
+    },
+    {
+      "name": "Inno Ev",
+      "latitude": 55.9427,
+      "longitude": 8.519273
+    },
+    {
+      "name": "Insero Atrium",
+      "latitude": 55.87126,
+      "longitude": 9.855816
+    },
+    {
+      "name": "Inspiratoriet",
+      "latitude": 55.871276,
+      "longitude": 10.66067
+    },
+    {
+      "name": "Ismejeriet",
+      "latitude": 55.701725,
+      "longitude": 12.575289
+    },
+    {
+      "name": "J&J VØ drop inn",
+      "latitude": 56.95487,
+      "longitude": 8.368616
+    },
+    {
+      "name": "Jacques D.",
+      "latitude": 55.687875,
+      "longitude": 12.570237
+    },
+    {
+      "name": "Jasmin og Louisa Event",
+      "latitude": 55.657293,
+      "longitude": 12.296084
+    },
+    {
+      "name": "Johanneberg",
+      "latitude": 54.973481,
+      "longitude": 11.98861
+    },
+    {
+      "name": "Jordens Sang",
+      "latitude": 56.195134,
+      "longitude": 10.512548
+    },
+    {
+      "name": "Jugendhof Knivsberg",
+      "latitude": 55.13405,
+      "longitude": 9.443871
+    },
+    {
+      "name": "Jungshoved Præstegård",
+      "latitude": 55.084089,
+      "longitude": 12.138133
+    },
+    {
+      "name": "Jyske Bank Mors Arena",
+      "latitude": 56.782388,
+      "longitude": 8.83936
+    },
+    {
+      "name": "Kaagen",
+      "latitude": 56.297398,
+      "longitude": 9.667337
+    },
+    {
+      "name": "Kafé Kammas",
+      "latitude": 55.179846,
+      "longitude": 10.070434
+    },
+    {
+      "name": "Kaløvig Center",
+      "latitude": 56.292144,
+      "longitude": 10.444621
+    },
+    {
+      "name": "Kanten",
+      "latitude": 55.469412,
+      "longitude": 8.455519
+    },
+    {
+      "name": "Kaosfabrikken",
+      "latitude": 57.372599,
+      "longitude": 9.71301
+    },
+    {
+      "name": "Karetmagernes Hus",
+      "latitude": 55.187723,
+      "longitude": 11.735409
+    },
+    {
+      "name": "Karpenhøj Naturcenter",
+      "latitude": 56.183391,
+      "longitude": 10.528984
+    },
+    {
+      "name": "Kattegatcentret Nautilus",
+      "latitude": 56.406343,
+      "longitude": 10.927115
+    },
+    {
+      "name": "Kattholt",
+      "latitude": 56.439378,
+      "longitude": 9.505977
+    },
+    {
+      "name": "Kattrup Gods",
+      "latitude": 55.610906,
+      "longitude": 11.373512
+    },
+    {
+      "name": "Kavslunde Kro",
+      "latitude": 55.476469,
+      "longitude": 9.810919
+    },
+    {
+      "name": "Kedlen",
+      "latitude": 56.153682,
+      "longitude": 10.194514
+    },
+    {
+      "name": "Kellerupgaard",
+      "latitude": 55.435374,
+      "longitude": 9.557502
+    },
+    {
+      "name": "KFUM & Ks Møde- og selskabslokaler",
+      "latitude": 56.797455,
+      "longitude": 8.865285
+    },
+    {
+      "name": "Kikko selskabslokaler",
+      "latitude": 54.755281,
+      "longitude": 11.89073
+    },
+    {
+      "name": "Kimbrerkroen",
+      "latitude": 56.801714,
+      "longitude": 9.510084
+    },
+    {
+      "name": "Kirk + Maarbjerg",
+      "latitude": 55.666288,
+      "longitude": 12.545985
+    },
+    {
+      "name": "Kirsebærgården",
+      "latitude": 55.912271,
+      "longitude": 11.72479
+    },
+    {
+      "name": "Kirsebærkroen",
+      "latitude": 55.126202,
+      "longitude": 12.066965
+    },
+    {
+      "name": "Klampenborg Galopbane",
+      "latitude": 55.7707,
+      "longitude": 12.567219
+    },
+    {
+      "name": "Klarupgaard",
+      "latitude": 57.018498,
+      "longitude": 10.063893
+    },
+    {
+      "name": "Klejns",
+      "latitude": 55.338681,
+      "longitude": 10.794483
+    },
+    {
+      "name": "Klemens Kro",
+      "latitude": 55.174567,
+      "longitude": 14.801892
+    },
+    {
+      "name": "Klitgården Refugium",
+      "latitude": 57.712162,
+      "longitude": 10.568735
+    },
+    {
+      "name": "Klubhuset",
+      "latitude": 55.690314,
+      "longitude": 12.612381
+    },
+    {
+      "name": "Knudsens",
+      "latitude": 56.360616,
+      "longitude": 8.61899
+    },
+    {
+      "name": "Knudstrup Kro",
+      "latitude": 56.27442,
+      "longitude": 9.313168
+    },
+    {
+      "name": "Knuths Anneks",
+      "latitude": 57.720962,
+      "longitude": 10.589482
+    },
+    {
+      "name": "Kobæk Strand Hotel & Konferencecenter",
+      "latitude": 55.258844,
+      "longitude": 11.248815
+    },
+    {
+      "name": "Kokken & Marinaen",
+      "latitude": 56.566254,
+      "longitude": 8.295528
+    },
+    {
+      "name": "Koldkærgård Konferencecenter",
+      "latitude": 56.202075,
+      "longitude": 10.153861
+    },
+    {
+      "name": "Koldkærgård Ranch og Konferencecenter",
+      "latitude": 57.036933,
+      "longitude": 10.345876
+    },
+    {
+      "name": "Konditorkunsten",
+      "latitude": 56.53888,
+      "longitude": 9.925212
+    },
+    {
+      "name": "Konference baglokale",
+      "latitude": 56.045222,
+      "longitude": 12.603696
+    },
+    {
+      "name": "Konferencecentret Egelund",
+      "latitude": 55.960523,
+      "longitude": 12.34868
+    },
+    {
+      "name": "Kongerslev Kro",
+      "latitude": 56.88663,
+      "longitude": 10.115098
+    },
+    {
+      "name": "Kongsnæs",
+      "latitude": 54.888992,
+      "longitude": 12.053414
+    },
+    {
+      "name": "Kornets Hus",
+      "latitude": 57.407061,
+      "longitude": 10.018312
+    },
+    {
+      "name": "Kostalden",
+      "latitude": 55.701218,
+      "longitude": 12.573299
+    },
+    {
+      "name": "Kulhus",
+      "latitude": 55.775989,
+      "longitude": 12.412534
+    },
+    {
+      "name": "Kultur Café Ludvig",
+      "latitude": 55.432121,
+      "longitude": 11.559517
+    },
+    {
+      "name": "KulturCosmos",
+      "latitude": 55.548096,
+      "longitude": 12.024692
+    },
+    {
+      "name": "Kulturhotellet",
+      "latitude": 56.300184,
+      "longitude": 10.479325
+    },
+    {
+      "name": "Kulturhuset Klaverfabrikken",
+      "latitude": 55.927284,
+      "longitude": 12.297208
+    },
+    {
+      "name": "Kulturmaskinen",
+      "latitude": 55.394888,
+      "longitude": 10.381038
+    },
+    {
+      "name": "Kunst og Filosoficentret Solvognen",
+      "latitude": 55.574299,
+      "longitude": 10.602556
+    },
+    {
+      "name": "KURIOSUM",
+      "latitude": 56.034099,
+      "longitude": 12.612311
+    },
+    {
+      "name": "Kvarterhuset",
+      "latitude": 55.47671,
+      "longitude": 9.459296
+    },
+    {
+      "name": "Kvistgaard Bondegårdsoplevelser",
+      "latitude": 55.383643,
+      "longitude": 10.610292
+    },
+    {
+      "name": "Kværs Kro",
+      "latitude": 54.932165,
+      "longitude": 9.495473
+    },
+    {
+      "name": "Kysthusene Gilleleje",
+      "latitude": 56.122789,
+      "longitude": 12.26706
+    },
+    {
+      "name": "Kystvejens Hotel og Konferencecenter",
+      "latitude": 56.40505,
+      "longitude": 10.915303
+    },
+    {
+      "name": "Køge Hjemmeværnsgård",
+      "latitude": 55.509294,
+      "longitude": 12.202193
+    },
+    {
+      "name": "La Oficina",
+      "latitude": 55.679318,
+      "longitude": 12.55542
+    },
+    {
+      "name": "Laden",
+      "latitude": 56.028541,
+      "longitude": 9.957799
+    },
+    {
+      "name": "Lakelands",
+      "latitude": 56.108304,
+      "longitude": 9.772287
+    },
+    {
+      "name": "Lakrids By Johan Bülow",
+      "latitude": 55.60851,
+      "longitude": 12.470377
+    },
+    {
+      "name": "Lamborg Festlokaler",
+      "latitude": 55.774491,
+      "longitude": 8.808721
+    },
+    {
+      "name": "Lammefjordens Besøgscenter",
+      "latitude": 55.77156,
+      "longitude": 11.630561
+    },
+    {
+      "name": "Landbrug & Fødevarer Mødeservice",
+      "latitude": 55.675566,
+      "longitude": 12.564042
+    },
+    {
+      "name": "Landsbyen Vaabensted",
+      "latitude": 54.79166,
+      "longitude": 11.576437
+    },
+    {
+      "name": "Langdalgaard",
+      "latitude": 55.775985,
+      "longitude": 11.821238
+    },
+    {
+      "name": "Langelinie Pavillonen",
+      "latitude": 55.691422,
+      "longitude": 12.598395
+    },
+    {
+      "name": "Larsen Event",
+      "latitude": 55.258446,
+      "longitude": 11.891671
+    },
+    {
+      "name": "Laugsalen",
+      "latitude": 56.158503,
+      "longitude": 10.193003
+    },
+    {
+      "name": "Leben Aalborg",
+      "latitude": 57.04758,
+      "longitude": 9.937244
+    },
+    {
+      "name": "Ledgaard",
+      "latitude": 56.273446,
+      "longitude": 8.206991
+    },
+    {
+      "name": "LEGO Multihuset",
+      "latitude": 55.72465,
+      "longitude": 9.127824
+    },
+    {
+      "name": "Lerbjergcentret",
+      "latitude": 55.565457,
+      "longitude": 11.86641
+    },
+    {
+      "name": "Lille Bornholm",
+      "latitude": 55.682724,
+      "longitude": 12.592402
+    },
+    {
+      "name": "Lille Holmgård Håndbryg",
+      "latitude": 55.989344,
+      "longitude": 8.692585
+    },
+    {
+      "name": "Lille Sal",
+      "latitude": 56.158551,
+      "longitude": 10.193046
+    },
+    {
+      "name": "LilleSyd",
+      "latitude": 55.422002,
+      "longitude": 12.140645
+    },
+    {
+      "name": "Lindegaarden",
+      "latitude": 55.776233,
+      "longitude": 12.505117
+    },
+    {
+      "name": "Liniepavillonen",
+      "latitude": 55.716534,
+      "longitude": 10.009732
+    },
+    {
+      "name": "little house Sydhavn",
+      "latitude": 55.655681,
+      "longitude": 12.551692
+    },
+    {
+      "name": "Lodsens Gaard",
+      "latitude": 56.734147,
+      "longitude": 10.28995
+    },
+    {
+      "name": "Lokomotivværkstedet",
+      "latitude": 55.660131,
+      "longitude": 12.551154
+    },
+    {
+      "name": "Lykkesholm",
+      "latitude": 55.23929,
+      "longitude": 10.618208
+    },
+    {
+      "name": "Lyngåhus",
+      "latitude": 56.315929,
+      "longitude": 9.979599
+    },
+    {
+      "name": "Lønborggård",
+      "latitude": 55.935798,
+      "longitude": 9.42631
+    },
+    {
+      "name": "Løvesalen",
+      "latitude": 56.651907,
+      "longitude": 9.983299
+    },
+    {
+      "name": "Madam Blå",
+      "latitude": 56.159067,
+      "longitude": 10.191386
+    },
+    {
+      "name": "Madboks",
+      "latitude": 55.661228,
+      "longitude": 12.5969
+    },
+    {
+      "name": "Madhuset Løgten",
+      "latitude": 56.276845,
+      "longitude": 10.316042
+    },
+    {
+      "name": "Madkartoteket Cafe",
+      "latitude": 55.673409,
+      "longitude": 12.582938
+    },
+    {
+      "name": "Madkartoteket Salon",
+      "latitude": 55.673166,
+      "longitude": 12.582195
+    },
+    {
+      "name": "Madplan",
+      "latitude": 56.205462,
+      "longitude": 10.183415
+    },
+    {
+      "name": "Mads Doss",
+      "latitude": 56.286431,
+      "longitude": 9.319998
+    },
+    {
+      "name": "Magion kultur- og idrætscenter",
+      "latitude": 55.75199,
+      "longitude": 8.921523
+    },
+    {
+      "name": "Mandø-Centret",
+      "latitude": 55.273587,
+      "longitude": 8.536544
+    },
+    {
+      "name": "Mar-k Waterside",
+      "latitude": 55.670626,
+      "longitude": 12.580765
+    },
+    {
+      "name": "Marianelund, Hvidovre Kommunes Ferie- og Kursusejendom",
+      "latitude": 56.01315,
+      "longitude": 12.493853
+    },
+    {
+      "name": "Mariegaarden",
+      "latitude": 55.983151,
+      "longitude": 12.233419
+    },
+    {
+      "name": "Marinestuen",
+      "latitude": 57.720904,
+      "longitude": 10.589
+    },
+    {
+      "name": "Maritza-salen",
+      "latitude": 56.154016,
+      "longitude": 10.202557
+    },
+    {
+      "name": "Maskinhallen",
+      "latitude": 57.442151,
+      "longitude": 10.53572
+    },
+    {
+      "name": "Maskinværkstedet",
+      "latitude": 55.720164,
+      "longitude": 11.711909
+    },
+    {
+      "name": "MCO Odense Mødecenter",
+      "latitude": 55.406224,
+      "longitude": 10.391174
+    },
+    {
+      "name": "Meat N eat",
+      "latitude": 56.228053,
+      "longitude": 10.240116
+    },
+    {
+      "name": "Mejeriét",
+      "latitude": 55.514114,
+      "longitude": 10.170057
+    },
+    {
+      "name": "Mellem Byerne",
+      "latitude": 55.280811,
+      "longitude": 14.794661
+    },
+    {
+      "name": "Metier",
+      "latitude": 55.695007,
+      "longitude": 12.56937
+    },
+    {
+      "name": "Mette Maries Køkken",
+      "latitude": 55.426375,
+      "longitude": 11.520262
+    },
+    {
+      "name": "Meyers Edison Holmbladsgade",
+      "latitude": 55.667793,
+      "longitude": 12.618752
+    },
+    {
+      "name": "Meze / Vallens Møde & Eventlokale",
+      "latitude": 55.623067,
+      "longitude": 12.391925
+    },
+    {
+      "name": "MIB Pakhusene II",
+      "latitude": 56.165252,
+      "longitude": 10.228537
+    },
+    {
+      "name": "MIBlystrup",
+      "latitude": 56.228044,
+      "longitude": 10.240096
+    },
+    {
+      "name": "MIBtræ",
+      "latitude": 56.148627,
+      "longitude": 10.21133
+    },
+    {
+      "name": "Michele Lucarelli",
+      "latitude": 55.963366,
+      "longitude": 11.887392
+    },
+    {
+      "name": "Minibaren",
+      "latitude": 55.649513,
+      "longitude": 12.534699
+    },
+    {
+      "name": "Mit Plenum",
+      "latitude": 55.685698,
+      "longitude": 12.537542
+    },
+    {
+      "name": "Moltkes Palæ",
+      "latitude": 55.683288,
+      "longitude": 12.588792
+    },
+    {
+      "name": "Morsø friluftscenter",
+      "latitude": 56.85129,
+      "longitude": 8.654554
+    },
+    {
+      "name": "Mundwerk cph",
+      "latitude": 55.719529,
+      "longitude": 12.611527
+    },
+    {
+      "name": "Munkerupgård",
+      "latitude": 56.113055,
+      "longitude": 12.360758
+    },
+    {
+      "name": "Musik og Event Simmel",
+      "latitude": 55.819275,
+      "longitude": 8.960823
+    },
+    {
+      "name": "My Dining Room",
+      "latitude": 55.797552,
+      "longitude": 12.513749
+    },
+    {
+      "name": "Myggens",
+      "latitude": 57.337894,
+      "longitude": 9.70598
+    },
+    {
+      "name": "Mælkevejen Distillery",
+      "latitude": 55.042196,
+      "longitude": 11.965673
+    },
+    {
+      "name": "Mødestedet Snurretoppen",
+      "latitude": 55.311955,
+      "longitude": 12.389798
+    },
+    {
+      "name": "Mølkjær Kro Restaurant",
+      "latitude": 55.652428,
+      "longitude": 9.39224
+    },
+    {
+      "name": "Møllekroen",
+      "latitude": 55.428641,
+      "longitude": 10.478177
+    },
+    {
+      "name": "Mølleriet Gunderslevholm gods",
+      "latitude": 55.317315,
+      "longitude": 11.448866
+    },
+    {
+      "name": "Møn Retreat",
+      "latitude": 54.910869,
+      "longitude": 12.160638
+    },
+    {
+      "name": "Natur-Trivsel",
+      "latitude": 56.242878,
+      "longitude": 8.415767
+    },
+    {
+      "name": "Naur-Sir Sognegård",
+      "latitude": 56.397257,
+      "longitude": 8.544699
+    },
+    {
+      "name": "Nibe Bryghus",
+      "latitude": 56.988878,
+      "longitude": 9.634691
+    },
+    {
+      "name": "Nordlund Spisested",
+      "latitude": 55.641087,
+      "longitude": 12.447951
+    },
+    {
+      "name": "Nordsjællands KonferenceCenter",
+      "latitude": 55.88989,
+      "longitude": 12.350301
+    },
+    {
+      "name": "Nygaards Afrika",
+      "latitude": 55.805384,
+      "longitude": 8.344996
+    },
+    {
+      "name": "Nyvangens Pizza Bar",
+      "latitude": 56.474087,
+      "longitude": 10.022463
+    },
+    {
+      "name": "Nørager Kro",
+      "latitude": 56.706311,
+      "longitude": 9.630412
+    },
+    {
+      "name": "Odd Fellow Bygningen",
+      "latitude": 55.702999,
+      "longitude": 9.531666
+    },
+    {
+      "name": "Odd Fellow Loge",
+      "latitude": 55.929058,
+      "longitude": 11.658804
+    },
+    {
+      "name": "Odd Fellow Logen",
+      "latitude": 57.275758,
+      "longitude": 9.941941
+    },
+    {
+      "name": "Odd Fellow Logerne",
+      "latitude": 57.046063,
+      "longitude": 9.91845
+    },
+    {
+      "name": "Odd Fellow Palæ",
+      "latitude": 55.682854,
+      "longitude": 12.589779
+    },
+    {
+      "name": "Odd Fellow Palæet Odense",
+      "latitude": 55.391602,
+      "longitude": 10.388832
+    },
+    {
+      "name": "Odd-Fellow Loge 41 Petrus Beyer",
+      "latitude": 56.95525,
+      "longitude": 8.694018
+    },
+    {
+      "name": "Odds and Ends",
+      "latitude": 55.717297,
+      "longitude": 12.608279
+    },
+    {
+      "name": "Odense Kultur- og Idrætshus",
+      "latitude": 55.395412,
+      "longitude": 10.351278
+    },
+    {
+      "name": "Odense Sport & Event",
+      "latitude": 55.397389,
+      "longitude": 10.349412
+    },
+    {
+      "name": "Odense Sport & Event Arenaen",
+      "latitude": 55.371518,
+      "longitude": 10.448982
+    },
+    {
+      "name": "Odense Sport & Event Hal A",
+      "latitude": 55.371474,
+      "longitude": 10.449691
+    },
+    {
+      "name": "Odense Sport og Event Hovedkøkken",
+      "latitude": 55.370784,
+      "longitude": 10.450363
+    },
+    {
+      "name": "OksanaSimak",
+      "latitude": 55.759386,
+      "longitude": 12.337994
+    },
+    {
+      "name": "One Event Designers",
+      "latitude": 56.138937,
+      "longitude": 10.215627
+    },
+    {
+      "name": "One Lemon",
+      "latitude": 55.666354,
+      "longitude": 12.54599
+    },
+    {
+      "name": "OSHO RISK",
+      "latitude": 55.984612,
+      "longitude": 9.6442
+    },
+    {
+      "name": "Palm Services · Shop & Deli",
+      "latitude": 55.688613,
+      "longitude": 12.562738
+    },
+    {
+      "name": "Paradehuset",
+      "latitude": 55.674145,
+      "longitude": 12.531643
+    },
+    {
+      "name": "Parnashuset",
+      "latitude": 55.42543,
+      "longitude": 11.533582
+    },
+    {
+      "name": "Pause Café",
+      "latitude": 55.617618,
+      "longitude": 11.758781
+    },
+    {
+      "name": "Pejsegaarden",
+      "latitude": 55.712394,
+      "longitude": 12.469697
+    },
+    {
+      "name": "Pejsegaarden Events",
+      "latitude": 55.712441,
+      "longitude": 12.469362
+    },
+    {
+      "name": "PH11",
+      "latitude": 55.696011,
+      "longitude": 12.594397
+    },
+    {
+      "name": "Pindstrup Centret",
+      "latitude": 56.398458,
+      "longitude": 10.406791
+    },
+    {
+      "name": "Pinnebergheim",
+      "latitude": 55.194511,
+      "longitude": 9.605
+    },
+    {
+      "name": "Pionergården",
+      "latitude": 55.632613,
+      "longitude": 11.091895
+    },
+    {
+      "name": "Platform K",
+      "latitude": 55.869272,
+      "longitude": 9.833459
+    },
+    {
+      "name": "Plexus",
+      "latitude": 56.337911,
+      "longitude": 8.488582
+    },
+    {
+      "name": "Pluto Private",
+      "latitude": 55.68345,
+      "longitude": 12.585243
+    },
+    {
+      "name": "Poesiens isbar & NO.9",
+      "latitude": 55.595697,
+      "longitude": 12.177572
+    },
+    {
+      "name": "Poolen",
+      "latitude": 55.691037,
+      "longitude": 12.622331
+    },
+    {
+      "name": "Postgaarden",
+      "latitude": 55.6807,
+      "longitude": 11.088
+    },
+    {
+      "name": "Posthuset",
+      "latitude": 55.407297,
+      "longitude": 11.349987
+    },
+    {
+      "name": "Privat Dining & Wine Tasting",
+      "latitude": 55.737109,
+      "longitude": 12.545618
+    },
+    {
+      "name": "Provinciallogen cafe",
+      "latitude": 55.395007,
+      "longitude": 10.393501
+    },
+    {
+      "name": "Præstegården Jyderup",
+      "latitude": 55.664305,
+      "longitude": 11.419759
+    },
+    {
+      "name": "R.H. Fest & Event",
+      "latitude": 56.167272,
+      "longitude": 10.151917
+    },
+    {
+      "name": "Raadvad Vandrerhjem",
+      "latitude": 55.803512,
+      "longitude": 12.55863
+    },
+    {
+      "name": "Ramsømagle Forsamlingshus",
+      "latitude": 55.571926,
+      "longitude": 12.061511
+    },
+    {
+      "name": "Refugium Smidstrup Strand",
+      "latitude": 56.119123,
+      "longitude": 12.238132
+    },
+    {
+      "name": "Restaurant Bellahøj",
+      "latitude": 55.70207,
+      "longitude": 12.510796
+    },
+    {
+      "name": "Restaurant Ca-Va",
+      "latitude": 55.302355,
+      "longitude": 11.288706
+    },
+    {
+      "name": "Restaurant Chambre",
+      "latitude": 55.676233,
+      "longitude": 12.566041
+    },
+    {
+      "name": "Restaurant Domestic",
+      "latitude": 56.15915,
+      "longitude": 10.211542
+    },
+    {
+      "name": "Restaurant Frilandsgården",
+      "latitude": 56.458227,
+      "longitude": 10.029369
+    },
+    {
+      "name": "Restaurant Herkomst",
+      "latitude": 55.658432,
+      "longitude": 12.561185
+    },
+    {
+      "name": "Restaurant Håndværkeren",
+      "latitude": 55.639631,
+      "longitude": 12.084968
+    },
+    {
+      "name": "Restaurant Kellers Park Caféen",
+      "latitude": 55.657519,
+      "longitude": 9.684198
+    },
+    {
+      "name": "Restaurant Kongelunden",
+      "latitude": 55.641835,
+      "longitude": 9.607557
+    },
+    {
+      "name": "Restaurant Møllebæk",
+      "latitude": 55.945365,
+      "longitude": 9.855321
+    },
+    {
+      "name": "Restaurant Rørbæk Sø",
+      "latitude": 55.936194,
+      "longitude": 9.341728
+    },
+    {
+      "name": "Restaurant Skovlyst",
+      "latitude": 55.125846,
+      "longitude": 10.254098
+    },
+    {
+      "name": "Restauranten Fredensborghusene",
+      "latitude": 55.976052,
+      "longitude": 12.39415
+    },
+    {
+      "name": "Restauranten Fyens Væddeløbsbane",
+      "latitude": 55.374083,
+      "longitude": 10.347143
+    },
+    {
+      "name": "Riddersalen",
+      "latitude": 56.028111,
+      "longitude": 9.957982
+    },
+    {
+      "name": "ROFI-Centret",
+      "latitude": 56.097129,
+      "longitude": 8.265723
+    },
+    {
+      "name": "ROLD SKOV ADVENTURE",
+      "latitude": 56.825972,
+      "longitude": 9.8695
+    },
+    {
+      "name": "Rolighed",
+      "latitude": 55.840167,
+      "longitude": 12.569759
+    },
+    {
+      "name": "Rosenvængets Selskabslokaler",
+      "latitude": 55.509283,
+      "longitude": 11.29814
+    },
+    {
+      "name": "Royal Oak",
+      "latitude": 55.365642,
+      "longitude": 9.211235
+    },
+    {
+      "name": "Rybners Hermitage",
+      "latitude": 55.488241,
+      "longitude": 8.442403
+    },
+    {
+      "name": "Rødovre Folkekøkken",
+      "latitude": 55.680056,
+      "longitude": 12.441422
+    },
+    {
+      "name": "Saftstationen i Damme",
+      "latitude": 54.912122,
+      "longitude": 12.162077
+    },
+    {
+      "name": "Samlingsstuen",
+      "latitude": 55.448775,
+      "longitude": 10.657284
+    },
+    {
+      "name": "Samvær",
+      "latitude": 55.489041,
+      "longitude": 9.478111
+    },
+    {
+      "name": "Sandbjerg Gods",
+      "latitude": 54.949661,
+      "longitude": 9.750218
+    },
+    {
+      "name": "Sandkaas Familiecamping Restaurant",
+      "latitude": 55.263312,
+      "longitude": 14.812286
+    },
+    {
+      "name": "Sandvad Sognegaard",
+      "latitude": 55.80658,
+      "longitude": 9.461496
+    },
+    {
+      "name": "Sankt Joseph Søstrenes Retrætscenter Stella Martutina",
+      "latitude": 55.915536,
+      "longitude": 12.517912
+    },
+    {
+      "name": "Scandic Kødbyen Konference",
+      "latitude": 55.667089,
+      "longitude": 12.557114
+    },
+    {
+      "name": "Sct. Jørgens Gård",
+      "latitude": 55.493875,
+      "longitude": 9.469799
+    },
+    {
+      "name": "Seaside Retreat & Hotel",
+      "latitude": 54.997589,
+      "longitude": 12.275061
+    },
+    {
+      "name": "Sejlflod Hotel",
+      "latitude": 56.985859,
+      "longitude": 10.104256
+    },
+    {
+      "name": "Selchausdal Gods",
+      "latitude": 55.58411,
+      "longitude": 11.326998
+    },
+    {
+      "name": "Selchausdal Gods Konferencelokale",
+      "latitude": 55.584695,
+      "longitude": 11.326018
+    },
+    {
+      "name": "selskabslokalerne",
+      "latitude": 55.718286,
+      "longitude": 11.705431
+    },
+    {
+      "name": "Selskabspavillonen",
+      "latitude": 56.176454,
+      "longitude": 10.22688
+    },
+    {
+      "name": "Selvskabslokalet Molen",
+      "latitude": 55.176596,
+      "longitude": 11.643991
+    },
+    {
+      "name": "Sengeløse Kro",
+      "latitude": 55.679965,
+      "longitude": 12.257283
+    },
+    {
+      "name": "Shelter 214",
+      "latitude": 55.770662,
+      "longitude": 12.340934
+    },
+    {
+      "name": "Signinn",
+      "latitude": 55.666102,
+      "longitude": 8.573933
+    },
+    {
+      "name": "Singh Event",
+      "latitude": 55.695859,
+      "longitude": 12.502565
+    },
+    {
+      "name": "Skal Pavillonen",
+      "latitude": 56.988966,
+      "longitude": 9.659612
+    },
+    {
+      "name": "Skalborg Kro",
+      "latitude": 56.999362,
+      "longitude": 9.874693
+    },
+    {
+      "name": "Skanderborg Festivalklub",
+      "latitude": 56.037203,
+      "longitude": 9.915897
+    },
+    {
+      "name": "Skelby Forsamlingshus",
+      "latitude": 55.311631,
+      "longitude": 11.677518
+    },
+    {
+      "name": "Skillingbro Naturskole",
+      "latitude": 56.827154,
+      "longitude": 9.810025
+    },
+    {
+      "name": "Skipperkroen Thurø",
+      "latitude": 55.046831,
+      "longitude": 10.67102
+    },
+    {
+      "name": "Skor Odense",
+      "latitude": 55.39693,
+      "longitude": 10.381376
+    },
+    {
+      "name": "Skovbakken",
+      "latitude": 55.970842,
+      "longitude": 10.142113
+    },
+    {
+      "name": "Skovhuset Fårvang",
+      "latitude": 56.265718,
+      "longitude": 9.737797
+    },
+    {
+      "name": "Skovly",
+      "latitude": 55.291222,
+      "longitude": 8.834539
+    },
+    {
+      "name": "Skovly",
+      "latitude": 55.810895,
+      "longitude": 12.236389
+    },
+    {
+      "name": "Skovpavillonen",
+      "latitude": 55.443496,
+      "longitude": 10.664645
+    },
+    {
+      "name": "Skovrestaurant Skyttegaarden",
+      "latitude": 55.038305,
+      "longitude": 9.403317
+    },
+    {
+      "name": "Skringstrup Kursuscenter",
+      "latitude": 56.583628,
+      "longitude": 9.443292
+    },
+    {
+      "name": "Skydepavillonen",
+      "latitude": 57.041651,
+      "longitude": 9.904905
+    },
+    {
+      "name": "Skydeselskabet Restaurant",
+      "latitude": 56.034171,
+      "longitude": 12.611892
+    },
+    {
+      "name": "Skævinge Kro",
+      "latitude": 55.907927,
+      "longitude": 12.149764
+    },
+    {
+      "name": "Slangerupgård Niels Skovvang Jensen",
+      "latitude": 55.209849,
+      "longitude": 12.137101
+    },
+    {
+      "name": "Slotsstalden Tirsbæk",
+      "latitude": 55.713329,
+      "longitude": 9.637477
+    },
+    {
+      "name": "Smagning.com",
+      "latitude": 55.679142,
+      "longitude": 12.584723
+    },
+    {
+      "name": "Smash Tak",
+      "latitude": 55.676057,
+      "longitude": 12.531809
+    },
+    {
+      "name": "Sofias Hus",
+      "latitude": 55.685591,
+      "longitude": 12.537959
+    },
+    {
+      "name": "Sognegården Rørvig",
+      "latitude": 55.930778,
+      "longitude": 11.743103
+    },
+    {
+      "name": "Sognegården ved Risbjerg Kirke",
+      "latitude": 55.649363,
+      "longitude": 12.47858
+    },
+    {
+      "name": "Sonnerupgaard Gods",
+      "latitude": 55.601184,
+      "longitude": 11.836369
+    },
+    {
+      "name": "Sophienberg Slot",
+      "latitude": 55.899428,
+      "longitude": 12.53276
+    },
+    {
+      "name": "Sortebyvejens Festlokale",
+      "latitude": 54.742899,
+      "longitude": 11.642219
+    },
+    {
+      "name": "Spinderihallerne",
+      "latitude": 55.714196,
+      "longitude": 9.531006
+    },
+    {
+      "name": "Spisehuset",
+      "latitude": 55.669174,
+      "longitude": 12.560867
+    },
+    {
+      "name": "Spisehuset Gaarden",
+      "latitude": 55.642822,
+      "longitude": 12.478702
+    },
+    {
+      "name": "Square Meter",
+      "latitude": 55.683031,
+      "longitude": 12.576093
+    },
+    {
+      "name": "Staldcafeen",
+      "latitude": 55.755599,
+      "longitude": 12.587698
+    },
+    {
+      "name": "Stalden ved store Godthåb",
+      "latitude": 55.687959,
+      "longitude": 12.526137
+    },
+    {
+      "name": "Staldgården",
+      "latitude": 55.727313,
+      "longitude": 8.24346
+    },
+    {
+      "name": "Stevninghus Gildesal",
+      "latitude": 54.955367,
+      "longitude": 9.425227
+    },
+    {
+      "name": "Stiften Loungen",
+      "latitude": 56.153865,
+      "longitude": 10.202441
+    },
+    {
+      "name": "Store sal",
+      "latitude": 55.528607,
+      "longitude": 11.504571
+    },
+    {
+      "name": "Strandgaarden Retreat",
+      "latitude": 56.128343,
+      "longitude": 10.547907
+    },
+    {
+      "name": "Strandgården",
+      "latitude": 55.099038,
+      "longitude": 9.518989
+    },
+    {
+      "name": "Studenterhuset",
+      "latitude": 55.395334,
+      "longitude": 10.380531
+    },
+    {
+      "name": "Studenterkilden",
+      "latitude": 55.77223,
+      "longitude": 12.563754
+    },
+    {
+      "name": "Studsgård Minihal",
+      "latitude": 56.090435,
+      "longitude": 8.907337
+    },
+    {
+      "name": "Støberiet",
+      "latitude": 55.565878,
+      "longitude": 10.082553
+    },
+    {
+      "name": "Sukkerfabrikken",
+      "latitude": 54.999217,
+      "longitude": 10.853372
+    },
+    {
+      "name": "Sukkertoppen - God Mad Til Tiden",
+      "latitude": 54.797629,
+      "longitude": 11.650233
+    },
+    {
+      "name": "Sulkendrup Mølle",
+      "latitude": 55.293689,
+      "longitude": 10.713183
+    },
+    {
+      "name": "Sulsted Kro",
+      "latitude": 57.167194,
+      "longitude": 9.947133
+    },
+    {
+      "name": "Sult Event",
+      "latitude": 56.11072,
+      "longitude": 10.134822
+    },
+    {
+      "name": "Super Event",
+      "latitude": 55.685522,
+      "longitude": 12.463134
+    },
+    {
+      "name": "Svalegaarden",
+      "latitude": 57.039211,
+      "longitude": 9.883882
+    },
+    {
+      "name": "Svanninge sognegaard",
+      "latitude": 55.130234,
+      "longitude": 10.213245
+    },
+    {
+      "name": "Svenstrup Gods, Godskontor",
+      "latitude": 55.491701,
+      "longitude": 11.953427
+    },
+    {
+      "name": "Svinningegården",
+      "latitude": 55.724557,
+      "longitude": 11.484681
+    },
+    {
+      "name": "Sværdborg Festlokaler",
+      "latitude": 55.078979,
+      "longitude": 11.859951
+    },
+    {
+      "name": "Søbyhus",
+      "latitude": 56.066672,
+      "longitude": 9.036714
+    },
+    {
+      "name": "Søgården",
+      "latitude": 56.208579,
+      "longitude": 9.022894
+    },
+    {
+      "name": "Søhuset",
+      "latitude": 55.873525,
+      "longitude": 12.489967
+    },
+    {
+      "name": "Sølballegård",
+      "latitude": 56.19753,
+      "longitude": 10.535427
+    },
+    {
+      "name": "Sølyst",
+      "latitude": 55.771424,
+      "longitude": 12.592894
+    },
+    {
+      "name": "TAC",
+      "latitude": 56.305501,
+      "longitude": 9.785213
+    },
+    {
+      "name": "Tadre Mølle",
+      "latitude": 55.614827,
+      "longitude": 11.813253
+    },
+    {
+      "name": "Tagterrassen",
+      "latitude": 55.684338,
+      "longitude": 12.619101
+    },
+    {
+      "name": "Tante LoLa Krearum & Kaffebar",
+      "latitude": 55.742007,
+      "longitude": 12.495974
+    },
+    {
+      "name": "Tap1",
+      "latitude": 55.671933,
+      "longitude": 12.619857
+    },
+    {
+      "name": "Tea Road",
+      "latitude": 54.796937,
+      "longitude": 11.885416
+    },
+    {
+      "name": "Teaterbygningen",
+      "latitude": 55.455623,
+      "longitude": 12.185331
+    },
+    {
+      "name": "Tejn Idrætsforening",
+      "latitude": 55.242294,
+      "longitude": 14.828859
+    },
+    {
+      "name": "Terrassen",
+      "latitude": 55.683196,
+      "longitude": 12.558211
+    },
+    {
+      "name": "Terrassen Lindehøj",
+      "latitude": 55.734316,
+      "longitude": 12.42127
+    },
+    {
+      "name": "Thaisen Hus",
+      "latitude": 55.207463,
+      "longitude": 10.347167
+    },
+    {
+      "name": "The Bassment",
+      "latitude": 56.263781,
+      "longitude": 10.061261
+    },
+    {
+      "name": "The Caribbean Housewife",
+      "latitude": 55.678311,
+      "longitude": 12.571783
+    },
+    {
+      "name": "The Cottage",
+      "latitude": 54.655732,
+      "longitude": 11.735843
+    },
+    {
+      "name": "The Dockside",
+      "latitude": 55.716926,
+      "longitude": 12.607153
+    },
+    {
+      "name": "The Plant",
+      "latitude": 55.674439,
+      "longitude": 12.617434
+    },
+    {
+      "name": "The Set",
+      "latitude": 55.667541,
+      "longitude": 12.563211
+    },
+    {
+      "name": "Thorstedlund",
+      "latitude": 56.069913,
+      "longitude": 9.094917
+    },
+    {
+      "name": "Thurø Kro",
+      "latitude": 55.048231,
+      "longitude": 10.677904
+    },
+    {
+      "name": "Tinghuset",
+      "latitude": 55.972727,
+      "longitude": 10.14935
+    },
+    {
+      "name": "Tiny Window",
+      "latitude": 56.162954,
+      "longitude": 10.227718
+    },
+    {
+      "name": "Tobbers",
+      "latitude": 55.483348,
+      "longitude": 9.475854
+    },
+    {
+      "name": "Toldkammeret",
+      "latitude": 56.033977,
+      "longitude": 12.614211
+    },
+    {
+      "name": "Tolne skovpavillion",
+      "latitude": 57.487479,
+      "longitude": 10.326849
+    },
+    {
+      "name": "Torvet",
+      "latitude": 56.764412,
+      "longitude": 8.815065
+    },
+    {
+      "name": "Torvet 17",
+      "latitude": 54.773807,
+      "longitude": 11.502453
+    },
+    {
+      "name": "Traktørstedet Fændrikhus",
+      "latitude": 56.008444,
+      "longitude": 12.363203
+    },
+    {
+      "name": "Tranbjerg Kro",
+      "latitude": 56.095542,
+      "longitude": 10.136543
+    },
+    {
+      "name": "Transformerstationen",
+      "latitude": 55.660513,
+      "longitude": 12.515066
+    },
+    {
+      "name": "Tranum Strand",
+      "latitude": 57.152081,
+      "longitude": 9.438661
+    },
+    {
+      "name": "Trekantens Events",
+      "latitude": 55.512779,
+      "longitude": 9.504118
+    },
+    {
+      "name": "Trines-Kitchen",
+      "latitude": 55.314786,
+      "longitude": 10.623131
+    },
+    {
+      "name": "Troldehuset",
+      "latitude": 55.624276,
+      "longitude": 9.857131
+    },
+    {
+      "name": "Tune Kursuscenter",
+      "latitude": 55.597865,
+      "longitude": 12.217792
+    },
+    {
+      "name": "Turbinehallen Aps",
+      "latitude": 56.15099,
+      "longitude": 10.21231
+    },
+    {
+      "name": "Tversted Strandkro",
+      "latitude": 57.585372,
+      "longitude": 10.187774
+    },
+    {
+      "name": "Tvillingegården",
+      "latitude": 55.508372,
+      "longitude": 9.891439
+    },
+    {
+      "name": "Tøystrup Gods Kursus og Konference",
+      "latitude": 55.25175,
+      "longitude": 10.521235
+    },
+    {
+      "name": "Ungdomsprojekthuset JB10",
+      "latitude": 55.230691,
+      "longitude": 11.763572
+    },
+    {
+      "name": "Uranus Party House",
+      "latitude": 55.480103,
+      "longitude": 9.468851
+    },
+    {
+      "name": "UØs fort-spiseri",
+      "latitude": 55.720558,
+      "longitude": 12.666105
+    },
+    {
+      "name": "Vandværket",
+      "latitude": 55.695925,
+      "longitude": 12.523732
+    },
+    {
+      "name": "Veatery",
+      "latitude": 55.689333,
+      "longitude": 12.573526
+    },
+    {
+      "name": "Ved Møllen",
+      "latitude": 55.443406,
+      "longitude": 11.800252
+    },
+    {
+      "name": "Vedsted Landbohjem",
+      "latitude": 55.195999,
+      "longitude": 9.366201
+    },
+    {
+      "name": "Vejgaardhallens Restaurant",
+      "latitude": 57.042352,
+      "longitude": 9.949912
+    },
+    {
+      "name": "Venge Kloster",
+      "latitude": 56.110552,
+      "longitude": 9.881581
+    },
+    {
+      "name": "Viften",
+      "latitude": 56.376778,
+      "longitude": 9.656119
+    },
+    {
+      "name": "Viggaarden",
+      "latitude": 54.929678,
+      "longitude": 11.828989
+    },
+    {
+      "name": "Villa Post",
+      "latitude": 56.155576,
+      "longitude": 10.210916
+    },
+    {
+      "name": "Villa Vi",
+      "latitude": 55.783584,
+      "longitude": 12.490448
+    },
+    {
+      "name": "Vin Ettig",
+      "latitude": 55.727483,
+      "longitude": 9.420844
+    },
+    {
+      "name": "Vino Mio",
+      "latitude": 55.681277,
+      "longitude": 12.586344
+    },
+    {
+      "name": "Vino Venue.",
+      "latitude": 55.51266,
+      "longitude": 11.688591
+    },
+    {
+      "name": "Vinum Finum",
+      "latitude": 55.564691,
+      "longitude": 9.689344
+    },
+    {
+      "name": "VIP Events",
+      "latitude": 55.47711,
+      "longitude": 12.188067
+    },
+    {
+      "name": "Virksundcentret",
+      "latitude": 56.604172,
+      "longitude": 9.284714
+    },
+    {
+      "name": "Visborggaard Slot",
+      "latitude": 56.744225,
+      "longitude": 10.151721
+    },
+    {
+      "name": "Vollerup Kro",
+      "latitude": 54.922931,
+      "longitude": 9.850316
+    },
+    {
+      "name": "Vossevang Kro",
+      "latitude": 55.914578,
+      "longitude": 12.059609
+    },
+    {
+      "name": "Vrå Bryggeri & Bryghus",
+      "latitude": 57.354653,
+      "longitude": 9.942324
+    },
+    {
+      "name": "Værket",
+      "latitude": 55.376674,
+      "longitude": 10.37089
+    },
+    {
+      "name": "Væveriet",
+      "latitude": 55.483565,
+      "longitude": 9.475951
+    },
+    {
+      "name": "Wecreation / Himmelbjerggården",
+      "latitude": 56.096692,
+      "longitude": 9.681474
+    },
+    {
+      "name": "Wentzel Event",
+      "latitude": 55.222392,
+      "longitude": 11.757593
+    },
+    {
+      "name": "Wild Bird Dining",
+      "latitude": 55.704747,
+      "longitude": 12.58172
+    },
+    {
+      "name": "WIME",
+      "latitude": 55.64419,
+      "longitude": 12.069582
+    },
+    {
+      "name": "wineUP",
+      "latitude": 55.502411,
+      "longitude": 9.52613
+    },
+    {
+      "name": "ZBC Konferencecentret",
+      "latitude": 55.628125,
+      "longitude": 12.077851
+    },
+    {
+      "name": "Zik og Zaks Abeland",
+      "latitude": 56.764372,
+      "longitude": 8.816546
+    },
+    {
+      "name": "Ådalen Retræte",
+      "latitude": 56.453802,
+      "longitude": 9.822152
+    },
+    {
+      "name": "Ølstykke Kro",
+      "latitude": 55.782138,
+      "longitude": 12.173794
+    },
+    {
+      "name": "Ømborgen",
+      "latitude": 56.04778,
+      "longitude": 9.734592
+    },
+    {
+      "name": "Ørangeriet",
+      "latitude": 55.977967,
+      "longitude": 10.176193
+    },
+    {
+      "name": "Ørnbøl Kultur & Festcenter",
+      "latitude": 57.456933,
+      "longitude": 10.012031
+    },
+    {
+      "name": "Øster Løkke",
+      "latitude": 56.488312,
+      "longitude": 8.125381
+    },
+    {
+      "name": "Østerlund Refugium",
+      "latitude": 55.280602,
+      "longitude": 10.754492
+    }
+  ],
+  "meta": {
+    "title": "Eventlokaler i Danmark (Event venues in Denmark) - Gratis download",
+    "description": "Event venues in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=events_venue. Indeholder 611 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Eventlokaler i Danmark (Event venues in Denmark) | ListBase",
+    "seo_description": "Download Eventlokaler i Danmark (Event venues in Denmark) — 611 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 611 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

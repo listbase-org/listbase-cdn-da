@@ -1,0 +1,472 @@
+{
+  "id": "da-stadioner",
+  "name": "Stadioner i Danmark",
+  "title": "Stadioner i Danmark",
+  "description": "Stadioner (stadiums) i Danmark fra Wikidata (P31 = Q483110, P17 = Danmark) med koordinater.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q1022855",
+      "wikidata_id": "Q1022855",
+      "name_da": "Arena Horsens",
+      "name_en": "CASA Arena Horsens",
+      "latitude": 55.8716,
+      "longitude": 9.8576
+    },
+    {
+      "id": "Q12302540",
+      "wikidata_id": "Q12302540",
+      "name_da": "Avedøre Stadion",
+      "name_en": "",
+      "latitude": 55.6402,
+      "longitude": 12.445
+    },
+    {
+      "id": "Q12304237",
+      "wikidata_id": "Q12304237",
+      "name_da": "Brabrand Stadion",
+      "name_en": "",
+      "latitude": 56.1495,
+      "longitude": 10.119
+    },
+    {
+      "id": "Q12307075",
+      "wikidata_id": "Q12307075",
+      "name_da": "Dalum Stadion",
+      "name_en": "",
+      "latitude": 55.3652,
+      "longitude": 10.3707
+    },
+    {
+      "id": "Q12310571",
+      "wikidata_id": "Q12310571",
+      "name_da": "Esbjerg Atletikstadion",
+      "name_en": "Esbjerg Atletikstadion",
+      "latitude": 55.4848,
+      "longitude": 8.43761
+    },
+    {
+      "id": "Q12310770",
+      "wikidata_id": "Q12310770",
+      "name_da": "Everdrup Stadion",
+      "name_en": "",
+      "latitude": 55.2011,
+      "longitude": 11.9611
+    },
+    {
+      "id": "Q12312491",
+      "wikidata_id": "Q12312491",
+      "name_da": "Fredensborg Stadion",
+      "name_en": "",
+      "latitude": 55.9762,
+      "longitude": 12.4119
+    },
+    {
+      "id": "Q12312761",
+      "wikidata_id": "Q12312761",
+      "name_da": "Frederiks Stadion",
+      "name_en": "Frederiks Stadion",
+      "latitude": 56.3414,
+      "longitude": 9.24636
+    },
+    {
+      "id": "Q5499334",
+      "wikidata_id": "Q5499334",
+      "name_da": "Frederikshavn Stadion",
+      "name_en": "Frederikshavn Stadion",
+      "latitude": 57.4412,
+      "longitude": 10.5204
+    },
+    {
+      "id": "Q1986303",
+      "wikidata_id": "Q1986303",
+      "name_da": "Gladsaxe Stadion",
+      "name_en": "Gladsaxe Stadium",
+      "latitude": 55.7328,
+      "longitude": 12.4968
+    },
+    {
+      "id": "Q12314053",
+      "wikidata_id": "Q12314053",
+      "name_da": "Glostrup Stadion",
+      "name_en": "",
+      "latitude": 55.6682,
+      "longitude": 12.3777
+    },
+    {
+      "id": "Q12316175",
+      "wikidata_id": "Q12316175",
+      "name_da": "Helsingør Stadion",
+      "name_en": "Helsingør Stadion",
+      "latitude": 56.0458,
+      "longitude": 12.5968
+    },
+    {
+      "id": "Q12316563",
+      "wikidata_id": "Q12316563",
+      "name_da": "Herlev Stadion",
+      "name_en": "",
+      "latitude": 55.7342,
+      "longitude": 12.4228
+    },
+    {
+      "id": "Q12316576",
+      "wikidata_id": "Q12316576",
+      "name_da": "Herlufsholm Stadion",
+      "name_en": "",
+      "latitude": 55.2483,
+      "longitude": 11.7578
+    },
+    {
+      "id": "Q12316632",
+      "wikidata_id": "Q12316632",
+      "name_da": "Herning Stadion",
+      "name_en": "",
+      "latitude": 56.1452,
+      "longitude": 8.98154
+    },
+    {
+      "id": "Q281180",
+      "wikidata_id": "Q281180",
+      "name_da": "Hjørring Stadion",
+      "name_en": "Hjørring Stadium",
+      "latitude": 57.457706,
+      "longitude": 9.99846
+    },
+    {
+      "id": "Q5878877",
+      "wikidata_id": "Q5878877",
+      "name_da": "Holbæk Stadion",
+      "name_en": "Holbæk Stadion",
+      "latitude": 55.709,
+      "longitude": 11.724
+    },
+    {
+      "id": "Q12317755",
+      "wikidata_id": "Q12317755",
+      "name_da": "Høje Bøge Stadion",
+      "name_en": "Høje Bøge Stadium",
+      "latitude": 55.0546,
+      "longitude": 10.595
+    },
+    {
+      "id": "Q12320683",
+      "wikidata_id": "Q12320683",
+      "name_da": "Jægersborg Stadion",
+      "name_en": "",
+      "latitude": 55.7564,
+      "longitude": 12.5318
+    },
+    {
+      "id": "Q136658454",
+      "wikidata_id": "Q136658454",
+      "name_da": "Karlslunde Stadion",
+      "name_en": "",
+      "latitude": 55.562222,
+      "longitude": 12.25
+    },
+    {
+      "id": "Q5017115",
+      "wikidata_id": "Q5017115",
+      "name_da": "Københavns Idrætspark",
+      "name_en": "Idrætsparken",
+      "latitude": 55.7025,
+      "longitude": 12.572222
+    },
+    {
+      "id": "Q6454075",
+      "wikidata_id": "Q6454075",
+      "name_da": "Køge Idrætspark",
+      "name_en": "Køge Idrætspark",
+      "latitude": 55.4681,
+      "longitude": 12.1778
+    },
+    {
+      "id": "Q12324545",
+      "wikidata_id": "Q12324545",
+      "name_da": "Lindholm Høje Stadion",
+      "name_en": "",
+      "latitude": 57.0791,
+      "longitude": 9.9002
+    },
+    {
+      "id": "Q12327049",
+      "wikidata_id": "Q12327049",
+      "name_da": "Middelfart Stadion",
+      "name_en": "Middelfart Stadion",
+      "latitude": 55.5047,
+      "longitude": 9.71571
+    },
+    {
+      "id": "Q21745611",
+      "wikidata_id": "Q21745611",
+      "name_da": "Næstved Arena",
+      "name_en": "Arena Næstved",
+      "latitude": 55.2231,
+      "longitude": 11.7646
+    },
+    {
+      "id": "Q12330527",
+      "wikidata_id": "Q12330527",
+      "name_da": "Otterup Stadion",
+      "name_en": "",
+      "latitude": 55.5089,
+      "longitude": 10.3964
+    },
+    {
+      "id": "Q33003",
+      "wikidata_id": "Q33003",
+      "name_da": "Parken",
+      "name_en": "Parken Stadium",
+      "latitude": 55.702469,
+      "longitude": 12.572203
+    },
+    {
+      "id": "Q12301045",
+      "wikidata_id": "Q12301045",
+      "name_da": "Ringkøbing Stadion",
+      "name_en": "",
+      "latitude": 56.0845,
+      "longitude": 8.26604
+    },
+    {
+      "id": "Q12333548",
+      "wikidata_id": "Q12333548",
+      "name_da": "Ringsted Stadion",
+      "name_en": "",
+      "latitude": 55.4468,
+      "longitude": 11.8076
+    },
+    {
+      "id": "Q12333573",
+      "wikidata_id": "Q12333573",
+      "name_da": "Rishøj Stadion",
+      "name_en": "",
+      "latitude": 55.4865,
+      "longitude": 12.1695
+    },
+    {
+      "id": "Q12333819",
+      "wikidata_id": "Q12333819",
+      "name_da": "Roskilde Idrætspark",
+      "name_en": "Roskilde Idrætspark",
+      "latitude": 55.6372,
+      "longitude": 12.073
+    },
+    {
+      "id": "Q12333955",
+      "wikidata_id": "Q12333955",
+      "name_da": "Rundforbi Stadion",
+      "name_en": "",
+      "latitude": 55.825,
+      "longitude": 12.5406
+    },
+    {
+      "id": "Q7386723",
+      "wikidata_id": "Q7386723",
+      "name_da": "Rønne Stadion Nord",
+      "name_en": "Rønne Stadion Nord",
+      "latitude": 55.111,
+      "longitude": 14.7107
+    },
+    {
+      "id": "Q12334365",
+      "wikidata_id": "Q12334365",
+      "name_da": "Sakskøbing Stadion",
+      "name_en": "",
+      "latitude": 54.7947,
+      "longitude": 11.6439
+    },
+    {
+      "id": "Q12335499",
+      "wikidata_id": "Q12335499",
+      "name_da": "Skagen Stadion",
+      "name_en": "Skagen Stadion",
+      "latitude": 57.7185,
+      "longitude": 10.5687
+    },
+    {
+      "id": "Q12335548",
+      "wikidata_id": "Q12335548",
+      "name_da": "Skanderborg Stadion",
+      "name_en": "Skanderborg Stadion",
+      "latitude": 56.0273,
+      "longitude": 9.92556
+    },
+    {
+      "id": "Q12335835",
+      "wikidata_id": "Q12335835",
+      "name_da": "Skovvang Stadion",
+      "name_en": "",
+      "latitude": 55.8782,
+      "longitude": 12.3553
+    },
+    {
+      "id": "Q12336593",
+      "wikidata_id": "Q12336593",
+      "name_da": "Sparekassen Thy Arena",
+      "name_en": "Lerpytter Stadion",
+      "latitude": 56.9688,
+      "longitude": 8.70209
+    },
+    {
+      "id": "Q7651640",
+      "wikidata_id": "Q7651640",
+      "name_da": "Svanholm Park",
+      "name_en": "Svanholm Park",
+      "latitude": 55.6286,
+      "longitude": 12.4283
+    },
+    {
+      "id": "Q12337865",
+      "wikidata_id": "Q12337865",
+      "name_da": "Svebølle Stadion",
+      "name_en": "",
+      "latitude": 55.65,
+      "longitude": 11.2869
+    },
+    {
+      "id": "Q12339972",
+      "wikidata_id": "Q12339972",
+      "name_da": "Tårnby Stadion",
+      "name_en": "Tårnby Stadium",
+      "latitude": 55.6286,
+      "longitude": 12.6105
+    },
+    {
+      "id": "Q12340010",
+      "wikidata_id": "Q12340010",
+      "name_da": "Tønder Stadion",
+      "name_en": "",
+      "latitude": 54.9364,
+      "longitude": 8.8772
+    },
+    {
+      "id": "Q4994467",
+      "wikidata_id": "Q4994467",
+      "name_da": "Valby Idrætspark",
+      "name_en": "Valby Idrætspark",
+      "latitude": 55.646956,
+      "longitude": 12.511847
+    },
+    {
+      "id": "Q17482588",
+      "wikidata_id": "Q17482588",
+      "name_da": "Vejle Atletikstadion",
+      "name_en": "Vejle Atletikstadion",
+      "latitude": 55.7138,
+      "longitude": 9.5589
+    },
+    {
+      "id": "Q12338076",
+      "wikidata_id": "Q12338076",
+      "name_da": "Vestjysk Bank Stadion",
+      "name_en": "",
+      "latitude": 55.63354,
+      "longitude": 8.47033
+    },
+    {
+      "id": "Q12344023",
+      "wikidata_id": "Q12344023",
+      "name_da": "Virum Stadion",
+      "name_en": "",
+      "latitude": 55.7854,
+      "longitude": 12.4709
+    },
+    {
+      "id": "Q20161271",
+      "wikidata_id": "Q20161271",
+      "name_da": "Vojens Speedway Center",
+      "name_en": "Vojens Speedway Center",
+      "latitude": 55.236,
+      "longitude": 9.27997
+    },
+    {
+      "id": "Q12341354",
+      "wikidata_id": "Q12341354",
+      "name_da": "Værebro Stadion",
+      "name_en": "",
+      "latitude": 55.7595,
+      "longitude": 12.4344
+    },
+    {
+      "id": "Q12344098",
+      "wikidata_id": "Q12344098",
+      "name_da": "Værløse Stadion",
+      "name_en": "",
+      "latitude": 55.7832,
+      "longitude": 12.3807
+    },
+    {
+      "id": "Q98546081",
+      "wikidata_id": "Q98546081",
+      "name_da": "Åbyhøj Stadion",
+      "name_en": "",
+      "latitude": 56.1488,
+      "longitude": 10.164
+    },
+    {
+      "id": "Q12342011",
+      "wikidata_id": "Q12342011",
+      "name_da": "Ølstykke Stadion",
+      "name_en": "Ølstykke Stadium",
+      "latitude": 55.7833,
+      "longitude": 12.15
+    },
+    {
+      "id": "Q4347737",
+      "wikidata_id": "Q4347737",
+      "name_da": "Østerbro Stadion",
+      "name_en": "Østerbro Stadium",
+      "latitude": 55.704,
+      "longitude": 12.5747
+    }
+  ],
+  "meta": {
+    "title": "Stadioner i Danmark - Gratis download",
+    "description": "Stadioner (stadiums) i Danmark fra Wikidata (P31 = Q483110, P17 = Danmark) med koordinater. Indeholder 52 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Stadioner i Danmark | ListBase",
+    "seo_description": "Download Stadioner i Danmark — 52 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 52 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

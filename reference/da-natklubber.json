@@ -1,0 +1,506 @@
+{
+  "id": "da-natklubber",
+  "name": "Natklubber i Danmark (Nightclubs in Denmark)",
+  "title": "Natklubber i Danmark (Nightclubs in Denmark)",
+  "description": "Nightclubs in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=nightclub.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 93,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A R C H Copenhagen",
+      "latitude": 55.681574,
+      "longitude": 12.570984
+    },
+    {
+      "name": "Amager Bio",
+      "latitude": 55.657698,
+      "longitude": 12.609463
+    },
+    {
+      "name": "Andelen",
+      "latitude": 54.887091,
+      "longitude": 10.411874
+    },
+    {
+      "name": "Beta House",
+      "latitude": 56.413572,
+      "longitude": 10.880365
+    },
+    {
+      "name": "Boogie Dance Cafe",
+      "latitude": 55.39788,
+      "longitude": 10.388913
+    },
+    {
+      "name": "Box54",
+      "latitude": 55.68647,
+      "longitude": 12.583968
+    },
+    {
+      "name": "Buddy Holly",
+      "latitude": 57.720685,
+      "longitude": 10.589694
+    },
+    {
+      "name": "Buddy Holly Hjørring",
+      "latitude": 57.459719,
+      "longitude": 9.985247
+    },
+    {
+      "name": "Butchers",
+      "latitude": 56.167104,
+      "longitude": 9.545031
+    },
+    {
+      "name": "Café Paradis",
+      "latitude": 56.16007,
+      "longitude": 10.209427
+    },
+    {
+      "name": "CasaV58",
+      "latitude": 56.157953,
+      "longitude": 10.200535
+    },
+    {
+      "name": "Chateau Motel",
+      "latitude": 55.678028,
+      "longitude": 12.574394
+    },
+    {
+      "name": "Chateau Motel Natclub",
+      "latitude": 55.677958,
+      "longitude": 12.574444
+    },
+    {
+      "name": "Club K52",
+      "latitude": 55.679583,
+      "longitude": 11.093789
+    },
+    {
+      "name": "Club Mambo",
+      "latitude": 55.675093,
+      "longitude": 12.572186
+    },
+    {
+      "name": "Club Treasure",
+      "latitude": 55.394814,
+      "longitude": 10.387168
+    },
+    {
+      "name": "Club Zanzi",
+      "latitude": 54.833445,
+      "longitude": 11.131165
+    },
+    {
+      "name": "Copenhagen Coyote Club",
+      "latitude": 55.677607,
+      "longitude": 12.581229
+    },
+    {
+      "name": "Copenhagen Redlight",
+      "latitude": 55.680699,
+      "longitude": 12.588581
+    },
+    {
+      "name": "CPH DEEP",
+      "latitude": 55.662008,
+      "longitude": 12.540901
+    },
+    {
+      "name": "Crazy Daisy",
+      "latitude": 55.059277,
+      "longitude": 10.613183
+    },
+    {
+      "name": "Crazy Daisy",
+      "latitude": 55.230912,
+      "longitude": 11.761699
+    },
+    {
+      "name": "Crazy Daisy",
+      "latitude": 55.25047,
+      "longitude": 9.487909
+    },
+    {
+      "name": "Crazy Daisy",
+      "latitude": 55.863585,
+      "longitude": 9.846228
+    },
+    {
+      "name": "Culture Box",
+      "latitude": 55.686481,
+      "longitude": 12.583977
+    },
+    {
+      "name": "Dansebar Roskilde",
+      "latitude": 55.638636,
+      "longitude": 12.086576
+    },
+    {
+      "name": "Den Røde Baron",
+      "latitude": 55.68225,
+      "longitude": 12.585388
+    },
+    {
+      "name": "Diskotek Nattergalen",
+      "latitude": 56.71754,
+      "longitude": 10.115695
+    },
+    {
+      "name": "Doktor Emil Laboratorium",
+      "latitude": 54.694461,
+      "longitude": 11.961283
+    },
+    {
+      "name": "Dorsia",
+      "latitude": 55.677369,
+      "longitude": 12.570587
+    },
+    {
+      "name": "Duke",
+      "latitude": 55.681607,
+      "longitude": 12.584122
+    },
+    {
+      "name": "Dødsmaskinen",
+      "latitude": 55.708784,
+      "longitude": 12.523476
+    },
+    {
+      "name": "El Diablo",
+      "latitude": 55.758313,
+      "longitude": 11.688882
+    },
+    {
+      "name": "Escape",
+      "latitude": 57.049832,
+      "longitude": 9.918862
+    },
+    {
+      "name": "Freddies",
+      "latitude": 55.563893,
+      "longitude": 9.757768
+    },
+    {
+      "name": "Gammel Torv",
+      "latitude": 55.403002,
+      "longitude": 11.355078
+    },
+    {
+      "name": "Garbos",
+      "latitude": 55.63895,
+      "longitude": 12.085582
+    },
+    {
+      "name": "Gl havn",
+      "latitude": 56.55046,
+      "longitude": 8.308055
+    },
+    {
+      "name": "Gårdhave",
+      "latitude": 55.253681,
+      "longitude": 11.293117
+    },
+    {
+      "name": "Hangaren",
+      "latitude": 55.691419,
+      "longitude": 12.617044
+    },
+    {
+      "name": "Havana Skive",
+      "latitude": 56.568,
+      "longitude": 9.03297
+    },
+    {
+      "name": "Haze Nightclub",
+      "latitude": 55.929155,
+      "longitude": 12.30318
+    },
+    {
+      "name": "HeadQuarters",
+      "latitude": 56.152105,
+      "longitude": 10.19937
+    },
+    {
+      "name": "Hemingways Svendborg",
+      "latitude": 55.059262,
+      "longitude": 10.611269
+    },
+    {
+      "name": "High Voltage Copenhagen",
+      "latitude": 55.682192,
+      "longitude": 12.582128
+    },
+    {
+      "name": "Hive",
+      "latitude": 55.678565,
+      "longitude": 12.573036
+    },
+    {
+      "name": "HomeRun",
+      "latitude": 55.466712,
+      "longitude": 8.451487
+    },
+    {
+      "name": "Ideal bar",
+      "latitude": 55.667799,
+      "longitude": 12.544191
+    },
+    {
+      "name": "Infinity Club",
+      "latitude": 55.443889,
+      "longitude": 11.792094
+    },
+    {
+      "name": "Jolene",
+      "latitude": 55.667266,
+      "longitude": 12.561203
+    },
+    {
+      "name": "Kakadu Bar",
+      "latitude": 55.67273,
+      "longitude": 12.561609
+    },
+    {
+      "name": "Kalas",
+      "latitude": 54.765734,
+      "longitude": 11.875298
+    },
+    {
+      "name": "Kansas City",
+      "latitude": 55.378471,
+      "longitude": 10.409549
+    },
+    {
+      "name": "Karel van Mander",
+      "latitude": 55.679545,
+      "longitude": 12.583315
+    },
+    {
+      "name": "Klubben",
+      "latitude": 56.161803,
+      "longitude": 10.182063
+    },
+    {
+      "name": "Kælderen",
+      "latitude": 57.720803,
+      "longitude": 10.589623
+    },
+    {
+      "name": "Lola",
+      "latitude": 55.681633,
+      "longitude": 12.584172
+    },
+    {
+      "name": "Loppen",
+      "latitude": 55.674021,
+      "longitude": 12.597324
+    },
+    {
+      "name": "M6 cocktailbar",
+      "latitude": 55.489315,
+      "longitude": 9.477753
+    },
+    {
+      "name": "Mantra Club&Bar",
+      "latitude": 56.565658,
+      "longitude": 9.029292
+    },
+    {
+      "name": "Maxims",
+      "latitude": 55.671961,
+      "longitude": 12.555551
+    },
+    {
+      "name": "mBAR",
+      "latitude": 55.699286,
+      "longitude": 12.558867
+    },
+    {
+      "name": "Mexibar",
+      "latitude": 55.690576,
+      "longitude": 12.559964
+    },
+    {
+      "name": "Mirage",
+      "latitude": 55.247183,
+      "longitude": 9.30647
+    },
+    {
+      "name": "Module",
+      "latitude": 55.675583,
+      "longitude": 12.566561
+    },
+    {
+      "name": "Motopol",
+      "latitude": 55.66862,
+      "longitude": 12.610658
+    },
+    {
+      "name": "Museo",
+      "latitude": 55.679564,
+      "longitude": 12.583566
+    },
+    {
+      "name": "Musikklubben Jazzværket",
+      "latitude": 56.152667,
+      "longitude": 10.089192
+    },
+    {
+      "name": "Månen",
+      "latitude": 55.250289,
+      "longitude": 9.48503
+    },
+    {
+      "name": "Panama",
+      "latitude": 55.67603,
+      "longitude": 12.563356
+    },
+    {
+      "name": "Pigen og Trompeten",
+      "latitude": 57.050036,
+      "longitude": 9.91876
+    },
+    {
+      "name": "Pioner Bar",
+      "latitude": 55.466151,
+      "longitude": 8.452438
+    },
+    {
+      "name": "Posten",
+      "latitude": 55.400951,
+      "longitude": 10.384058
+    },
+    {
+      "name": "Proud Mary Pub",
+      "latitude": 55.394629,
+      "longitude": 10.383414
+    },
+    {
+      "name": "Rocken",
+      "latitude": 57.05058,
+      "longitude": 9.919631
+    },
+    {
+      "name": "Rumors",
+      "latitude": 55.678534,
+      "longitude": 12.572095
+    },
+    {
+      "name": "Rust",
+      "latitude": 55.691225,
+      "longitude": 12.559252
+    },
+    {
+      "name": "Rustik - Bar & Natklub",
+      "latitude": 55.466534,
+      "longitude": 8.454171
+    },
+    {
+      "name": "Shakespeare Nightclub",
+      "latitude": 55.811061,
+      "longitude": 8.622013
+    },
+    {
+      "name": "Sigurdsgade",
+      "latitude": 55.703712,
+      "longitude": 12.555298
+    },
+    {
+      "name": "Slagteriet Nat",
+      "latitude": 55.399342,
+      "longitude": 10.37672
+    },
+    {
+      "name": "SOHO Food Lounge Music",
+      "latitude": 55.63878,
+      "longitude": 12.087699
+    },
+    {
+      "name": "Storm P",
+      "latitude": 57.050231,
+      "longitude": 9.919048
+    },
+    {
+      "name": "Submarina",
+      "latitude": 55.850208,
+      "longitude": 12.568916
+    },
+    {
+      "name": "Sölibat Horsens Diskotek & Bar",
+      "latitude": 55.863678,
+      "longitude": 9.846207
+    },
+    {
+      "name": "The Bank",
+      "latitude": 55.717157,
+      "longitude": 11.709345
+    },
+    {
+      "name": "The Old Irish Pub",
+      "latitude": 55.672898,
+      "longitude": 12.473876
+    },
+    {
+      "name": "The Rock",
+      "latitude": 55.678464,
+      "longitude": 12.573135
+    },
+    {
+      "name": "Tordenskjold Kolding",
+      "latitude": 55.490175,
+      "longitude": 9.473472
+    },
+    {
+      "name": "Under Buret",
+      "latitude": 57.04985,
+      "longitude": 9.918679
+    },
+    {
+      "name": "Vega",
+      "latitude": 55.667944,
+      "longitude": 12.544268
+    },
+    {
+      "name": "Zebra Bar",
+      "latitude": 56.796417,
+      "longitude": 8.861822
+    },
+    {
+      "name": "Zwei Grosse",
+      "latitude": 57.049799,
+      "longitude": 9.918852
+    }
+  ],
+  "meta": {
+    "title": "Natklubber i Danmark (Nightclubs in Denmark) - Gratis download",
+    "description": "Nightclubs in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=nightclub. Indeholder 93 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Natklubber i Danmark (Nightclubs in Denmark) | ListBase",
+    "seo_description": "Download Natklubber i Danmark (Nightclubs in Denmark) — 93 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 93 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

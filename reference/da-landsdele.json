@@ -1,0 +1,64 @@
+{
+  "id": "da-landsdele",
+  "name": "Landsdele i Danmark",
+  "title": "Landsdele i Danmark",
+  "description": "3 landsdele til folketingsvalg (Hovedstaden, Sjælland-Syddanmark, Midtjylland-Nordjylland). Aggregeret fra opstillingskreds-laget.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "num_storkredse",
+      "label": "Num Storkredse",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "1",
+      "name": "Hovedstaden",
+      "slug": "hovedstaden",
+      "num_storkredse": 4
+    },
+    {
+      "id": "2",
+      "name": "Sjælland-Syddanmark",
+      "slug": "sjaelland-syddanmark",
+      "num_storkredse": 3
+    },
+    {
+      "id": "3",
+      "name": "Midtjylland-Nordjylland",
+      "slug": "midtjylland-nordjylland",
+      "num_storkredse": 3
+    }
+  ],
+  "meta": {
+    "title": "Landsdele i Danmark - Gratis download",
+    "description": "3 landsdele til folketingsvalg (Hovedstaden, Sjælland-Syddanmark, Midtjylland-Nordjylland). Aggregeret fra opstillingskreds-laget. Indeholder 3 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Landsdele i Danmark | ListBase",
+    "seo_description": "Download Landsdele i Danmark — 3 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 3 poster / 4 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

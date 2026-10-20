@@ -1,0 +1,148 @@
+{
+  "id": "da-nordsjaelland-opstillingskreds",
+  "name": "Opstillingskredse i Nordsjælland-storkredsen",
+  "title": "Opstillingskredse i Nordsjælland-storkredsen",
+  "description": "Opstillingskredse i storkredsen Nordsjælland (i alt 6). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "valgkreds_nr",
+      "label": "Valgkreds Nr",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_id",
+      "label": "Storkreds Id",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_name",
+      "label": "Storkreds Name",
+      "type": "string"
+    },
+    {
+      "key": "landsdel_id",
+      "label": "Landsdel Id",
+      "type": "number"
+    },
+    {
+      "key": "landsdel_name",
+      "label": "Landsdel Name",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "25",
+      "name": "Egedal",
+      "slug": "egedal",
+      "valgkreds_nr": "5",
+      "storkreds_id": "3",
+      "storkreds_name": "Nordsjælland",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "22",
+      "name": "Fredensborg",
+      "slug": "fredensborg",
+      "valgkreds_nr": "2",
+      "storkreds_id": "3",
+      "storkreds_name": "Nordsjælland",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "24",
+      "name": "Frederikssund",
+      "slug": "frederikssund",
+      "valgkreds_nr": "4",
+      "storkreds_id": "3",
+      "storkreds_name": "Nordsjælland",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "21",
+      "name": "Helsingør",
+      "slug": "helsingoer",
+      "valgkreds_nr": "1",
+      "storkreds_id": "3",
+      "storkreds_name": "Nordsjælland",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "23",
+      "name": "Hillerød",
+      "slug": "hilleroed",
+      "valgkreds_nr": "3",
+      "storkreds_id": "3",
+      "storkreds_name": "Nordsjælland",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "26",
+      "name": "Rudersdal",
+      "slug": "rudersdal",
+      "valgkreds_nr": "6",
+      "storkreds_id": "3",
+      "storkreds_name": "Nordsjælland",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    }
+  ],
+  "meta": {
+    "title": "Opstillingskredse i Nordsjælland-storkredsen - Gratis download",
+    "description": "Opstillingskredse i storkredsen Nordsjælland (i alt 6). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget). Indeholder 6 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Opstillingskredse i Nordsjælland-storkredsen | ListBase",
+    "seo_description": "Download Opstillingskredse i Nordsjælland-storkredsen — 6 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 6 poster / 10 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

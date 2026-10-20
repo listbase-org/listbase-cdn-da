@@ -1,0 +1,176 @@
+{
+  "id": "da-kolding-afstemningssteder",
+  "name": "Afstemningssteder i Kolding Kommune",
+  "title": "Afstemningssteder i Kolding Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Kolding Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Centrum Nord",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 59,
+      "opstillingskreds": "Kolding Nord"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Nordbyen",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 59,
+      "opstillingskreds": "Kolding Nord"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Vestbyen",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 59,
+      "opstillingskreds": "Kolding Nord"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Strandhuse/Nr. Bjert/ Eltang",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 59,
+      "opstillingskreds": "Kolding Nord"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Bramdrupdam",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 59,
+      "opstillingskreds": "Kolding Nord"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Alminde-Viuf/Vester Nebel",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 59,
+      "opstillingskreds": "Kolding Nord"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Lunderskov/Jordrup",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 59,
+      "opstillingskreds": "Kolding Nord"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Centrum Syd",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 60,
+      "opstillingskreds": "Kolding Syd"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Sydbyen",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 60,
+      "opstillingskreds": "Kolding Syd"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Seest",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 60,
+      "opstillingskreds": "Kolding Syd"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Dalby/Tved/Rebæk",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 60,
+      "opstillingskreds": "Kolding Syd"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "S Bjert/S Stenderup/Vejstrup",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 60,
+      "opstillingskreds": "Kolding Syd"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Vonsild",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 60,
+      "opstillingskreds": "Kolding Syd"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Vamdrup/Hjarup/Ødis",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 60,
+      "opstillingskreds": "Kolding Syd"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Chr.Feld/Stepping/Taps/Hejls",
+      "kommune_kode": 621,
+      "kommune": "Kolding",
+      "opstillingskreds_nummer": 60,
+      "opstillingskreds": "Kolding Syd"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Kolding Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Kolding Kommune med opstillingskreds. Indeholder 15 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Kolding Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Kolding Kommune — 15 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 15 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,1586 @@
+{
+  "id": "da-kirkegaarde",
+  "name": "Kirkegårde i Danmark – OpenStreetMap (Cemeteries / graveyards in Denmark, OSM)",
+  "title": "Kirkegårde i Danmark – OpenStreetMap (Cemeteries / graveyards in Denmark, OSM)",
+  "description": "Liste over 309 kirkegårde i Danmark fra OpenStreetMap (amenity=grave_yard) — navn og koordinater (WGS84).",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 309,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aabenraa Kirkegård",
+      "latitude": 55.046355,
+      "longitude": 9.406583
+    },
+    {
+      "name": "Aakirkeby Gamle Kirkegård",
+      "latitude": 55.070737,
+      "longitude": 14.919434
+    },
+    {
+      "name": "Aalestrup Kirkegård",
+      "latitude": 56.692887,
+      "longitude": 9.498509
+    },
+    {
+      "name": "Aarestrup Gamle Kirkegård",
+      "latitude": 56.819426,
+      "longitude": 9.745659
+    },
+    {
+      "name": "Agersø Kirkegård",
+      "latitude": 55.211684,
+      "longitude": 11.193375
+    },
+    {
+      "name": "Agger Vester Kirkegård",
+      "latitude": 56.781248,
+      "longitude": 8.239139
+    },
+    {
+      "name": "Alsted Kirkegård",
+      "latitude": 55.404514,
+      "longitude": 11.665113
+    },
+    {
+      "name": "Alsted Kirkegård",
+      "latitude": 56.851157,
+      "longitude": 8.831833
+    },
+    {
+      "name": "Arrild Kirkegård",
+      "latitude": 55.149242,
+      "longitude": 8.961832
+    },
+    {
+      "name": "Asmild Kirkegård",
+      "latitude": 56.446994,
+      "longitude": 9.424973
+    },
+    {
+      "name": "Assistens Kirkegård",
+      "latitude": 55.05714,
+      "longitude": 10.605522
+    },
+    {
+      "name": "Augustenborg Kirkegård",
+      "latitude": 54.948211,
+      "longitude": 9.880349
+    },
+    {
+      "name": "Baagø Kirkegård",
+      "latitude": 55.315728,
+      "longitude": 9.806237
+    },
+    {
+      "name": "Barløse Kirkegård",
+      "latitude": 55.330453,
+      "longitude": 9.971088
+    },
+    {
+      "name": "Beder kirkegård",
+      "latitude": 56.059538,
+      "longitude": 10.216623
+    },
+    {
+      "name": "Birkholm Kirkegård",
+      "latitude": 55.738661,
+      "longitude": 12.432818
+    },
+    {
+      "name": "Bjerreby Kirkegård",
+      "latitude": 54.969175,
+      "longitude": 10.606319
+    },
+    {
+      "name": "Blidstrup Kirkegård",
+      "latitude": 56.716158,
+      "longitude": 8.691778
+    },
+    {
+      "name": "Bodilsker Kirkegård",
+      "latitude": 55.061793,
+      "longitude": 15.072846
+    },
+    {
+      "name": "Bogense Kirkegård",
+      "latitude": 55.567786,
+      "longitude": 10.088238
+    },
+    {
+      "name": "Brabrand kirkegård",
+      "latitude": 56.151685,
+      "longitude": 10.102055
+    },
+    {
+      "name": "Brande Kirkegård",
+      "latitude": 55.945419,
+      "longitude": 9.124956
+    },
+    {
+      "name": "Brande Øster Kirkegård",
+      "latitude": 55.943561,
+      "longitude": 9.142148
+    },
+    {
+      "name": "Bregninge Kirkegård",
+      "latitude": 55.023314,
+      "longitude": 10.610277
+    },
+    {
+      "name": "Brudager Kirkegård",
+      "latitude": 55.115677,
+      "longitude": 10.675223
+    },
+    {
+      "name": "Centralkirkegården",
+      "latitude": 57.073409,
+      "longitude": 9.935537
+    },
+    {
+      "name": "Christians Kirkegård",
+      "latitude": 55.579415,
+      "longitude": 9.757813
+    },
+    {
+      "name": "Christiansø Kirkegård",
+      "latitude": 55.319735,
+      "longitude": 15.187909
+    },
+    {
+      "name": "Dalum Kirkegård",
+      "latitude": 55.364993,
+      "longitude": 10.375892
+    },
+    {
+      "name": "De Hjerneløses Kirkegård",
+      "latitude": 55.912377,
+      "longitude": 11.660071
+    },
+    {
+      "name": "Diernæs Kirkegård",
+      "latitude": 55.105851,
+      "longitude": 10.294173
+    },
+    {
+      "name": "Dragør Kirke",
+      "latitude": 55.593192,
+      "longitude": 12.668043
+    },
+    {
+      "name": "Dreslette Kirkegård",
+      "latitude": 55.225766,
+      "longitude": 10.037272
+    },
+    {
+      "name": "Dråby Kirkegård",
+      "latitude": 55.841118,
+      "longitude": 11.989202
+    },
+    {
+      "name": "Drøsselbjerg Kirkegård",
+      "latitude": 55.472601,
+      "longitude": 11.211631
+    },
+    {
+      "name": "Durup Kirkegård",
+      "latitude": 56.744732,
+      "longitude": 8.955207
+    },
+    {
+      "name": "Dyrenes Mindegrave",
+      "latitude": 55.632301,
+      "longitude": 12.597284
+    },
+    {
+      "name": "Egaa Kirkegård",
+      "latitude": 56.216304,
+      "longitude": 10.265078
+    },
+    {
+      "name": "Egebjerg Kirkegård",
+      "latitude": 55.845101,
+      "longitude": 11.680395
+    },
+    {
+      "name": "Esbønderup Kirkegård",
+      "latitude": 56.052515,
+      "longitude": 12.343243
+    },
+    {
+      "name": "Eskilstrup Kirkegård",
+      "latitude": 54.857315,
+      "longitude": 11.880528
+    },
+    {
+      "name": "Eskilstrup Kirkegård",
+      "latitude": 54.857383,
+      "longitude": 11.881566
+    },
+    {
+      "name": "Everdrup Ny Kirkegård",
+      "latitude": 55.200135,
+      "longitude": 11.956543
+    },
+    {
+      "name": "Falsled Kirkegård",
+      "latitude": 55.147154,
+      "longitude": 10.155537
+    },
+    {
+      "name": "Feerslev Kirkegård",
+      "latitude": 55.760933,
+      "longitude": 11.914073
+    },
+    {
+      "name": "Fejø Kirkegård",
+      "latitude": 54.933958,
+      "longitude": 11.413948
+    },
+    {
+      "name": "Fjennelev Kirkegård",
+      "latitude": 55.433716,
+      "longitude": 11.687615
+    },
+    {
+      "name": "Flade Kirkegård",
+      "latitude": 56.890277,
+      "longitude": 8.799694
+    },
+    {
+      "name": "Flade Kirkegård",
+      "latitude": 57.423529,
+      "longitude": 10.4674
+    },
+    {
+      "name": "Flygtningekirkegården",
+      "latitude": 55.635187,
+      "longitude": 8.273707
+    },
+    {
+      "name": "Flødstrup Kirkegård",
+      "latitude": 55.384177,
+      "longitude": 10.668359
+    },
+    {
+      "name": "Foulum Kirkegård",
+      "latitude": 56.496597,
+      "longitude": 9.583222
+    },
+    {
+      "name": "Fredens Kirkegård",
+      "latitude": 55.065749,
+      "longitude": 10.629544
+    },
+    {
+      "name": "Fredens Kirkegård",
+      "latitude": 55.414008,
+      "longitude": 10.393224
+    },
+    {
+      "name": "Fredens Kirkegård",
+      "latitude": 56.129258,
+      "longitude": 10.18383
+    },
+    {
+      "name": "Frederiksberg Ældre Kirkegård",
+      "latitude": 55.673651,
+      "longitude": 12.533598
+    },
+    {
+      "name": "Frederikshavn Kirkegård",
+      "latitude": 57.451492,
+      "longitude": 10.534324
+    },
+    {
+      "name": "Frederikskirkens Kirkegård",
+      "latitude": 56.111586,
+      "longitude": 10.212266
+    },
+    {
+      "name": "Freerslev kirkegård",
+      "latitude": 55.32513,
+      "longitude": 12.015756
+    },
+    {
+      "name": "Fåborg Kirkegård",
+      "latitude": 55.096096,
+      "longitude": 10.245863
+    },
+    {
+      "name": "Fårdrup kirkegård",
+      "latitude": 55.320898,
+      "longitude": 11.343608
+    },
+    {
+      "name": "Føvling Kirkegård",
+      "latitude": 55.451299,
+      "longitude": 8.937227
+    },
+    {
+      "name": "Gamle Kirkegård",
+      "latitude": 54.890037,
+      "longitude": 12.043994
+    },
+    {
+      "name": "Gamle Kirkegård",
+      "latitude": 55.225342,
+      "longitude": 11.764945
+    },
+    {
+      "name": "Gammel Kirkegård",
+      "latitude": 55.450397,
+      "longitude": 9.8415
+    },
+    {
+      "name": "Gammel Rye Kirkegård",
+      "latitude": 56.078792,
+      "longitude": 9.702536
+    },
+    {
+      "name": "Gilleleje Gamle Kirkegård",
+      "latitude": 56.123264,
+      "longitude": 12.310485
+    },
+    {
+      "name": "Gjerrild Anneks Kirkegård",
+      "latitude": 56.50112,
+      "longitude": 10.837342
+    },
+    {
+      "name": "Gl. Vor Frue Kirkegård",
+      "latitude": 55.638648,
+      "longitude": 12.082714
+    },
+    {
+      "name": "Glostrup Søndre Kirkegård",
+      "latitude": 55.666693,
+      "longitude": 12.393842
+    },
+    {
+      "name": "Grav",
+      "latitude": 55.858877,
+      "longitude": 12.199829
+    },
+    {
+      "name": "Gredstedbro Kirkegård",
+      "latitude": 55.402652,
+      "longitude": 8.746169
+    },
+    {
+      "name": "Grene gamle Kirkegård",
+      "latitude": 55.721905,
+      "longitude": 9.053389
+    },
+    {
+      "name": "Grindsted Gamle Kirkegård",
+      "latitude": 55.75484,
+      "longitude": 8.931991
+    },
+    {
+      "name": "Gråsten Kirkegård",
+      "latitude": 54.916738,
+      "longitude": 9.584904
+    },
+    {
+      "name": "Gudhjem Kirkegård",
+      "latitude": 55.206346,
+      "longitude": 14.974712
+    },
+    {
+      "name": "Gudme Kirkegård",
+      "latitude": 55.150418,
+      "longitude": 10.708426
+    },
+    {
+      "name": "Gudsageren",
+      "latitude": 55.357738,
+      "longitude": 9.484643
+    },
+    {
+      "name": "Gunderslev Assistens Kirkegård",
+      "latitude": 55.313321,
+      "longitude": 11.670949
+    },
+    {
+      "name": "Gunderslev Gamle Kirkegård",
+      "latitude": 55.313965,
+      "longitude": 11.672115
+    },
+    {
+      "name": "Gylling Kirkegård",
+      "latitude": 55.890437,
+      "longitude": 10.16443
+    },
+    {
+      "name": "Haderslev Assistens Kirkegård",
+      "latitude": 55.239829,
+      "longitude": 9.486468
+    },
+    {
+      "name": "Haderslev Assistens Kirkegård",
+      "latitude": 55.242026,
+      "longitude": 9.487506
+    },
+    {
+      "name": "Hald Ege Kirkegård",
+      "latitude": 56.409821,
+      "longitude": 9.357205
+    },
+    {
+      "name": "Haldum Kirkegård",
+      "latitude": 56.279527,
+      "longitude": 10.042727
+    },
+    {
+      "name": "Hammerlev Kirkegård",
+      "latitude": 56.444038,
+      "longitude": 10.894782
+    },
+    {
+      "name": "Hasle Kirkegård",
+      "latitude": 56.169881,
+      "longitude": 10.161605
+    },
+    {
+      "name": "Haverslev Kirkegård",
+      "latitude": 56.786899,
+      "longitude": 9.682446
+    },
+    {
+      "name": "Havrebjerg Kirkegård",
+      "latitude": 55.449045,
+      "longitude": 11.314482
+    },
+    {
+      "name": "Havrebjerg Valgmenigheds Kirkegård",
+      "latitude": 55.448163,
+      "longitude": 11.311195
+    },
+    {
+      "name": "Hellebæk Kirkegård",
+      "latitude": 56.062166,
+      "longitude": 12.555761
+    },
+    {
+      "name": "Hellerup Kirkegård",
+      "latitude": 55.731803,
+      "longitude": 12.558921
+    },
+    {
+      "name": "Helsingør Kirkegård",
+      "latitude": 56.036294,
+      "longitude": 12.605027
+    },
+    {
+      "name": "Hemmehøj Kirkegård",
+      "latitude": 55.346328,
+      "longitude": 11.288695
+    },
+    {
+      "name": "Herstedvester Nye Kirkegård",
+      "latitude": 55.678634,
+      "longitude": 12.337983
+    },
+    {
+      "name": "Hesselager Kirkegård",
+      "latitude": 55.176161,
+      "longitude": 10.745693
+    },
+    {
+      "name": "Holme Kirkegård",
+      "latitude": 56.113941,
+      "longitude": 10.175536
+    },
+    {
+      "name": "Holsted Kirkegård",
+      "latitude": 55.512864,
+      "longitude": 8.901302
+    },
+    {
+      "name": "Hornbæk Gamle Kirkegård",
+      "latitude": 56.091364,
+      "longitude": 12.458336
+    },
+    {
+      "name": "Horsens Kloster Kirkegård",
+      "latitude": 55.861012,
+      "longitude": 9.855485
+    },
+    {
+      "name": "Hunderup Kirkegård",
+      "latitude": 55.436687,
+      "longitude": 8.722355
+    },
+    {
+      "name": "Hvidbjerg Kirkegård",
+      "latitude": 56.851364,
+      "longitude": 8.363581
+    },
+    {
+      "name": "Hygum Kirkegård",
+      "latitude": 55.353273,
+      "longitude": 8.978294
+    },
+    {
+      "name": "Hyllested Gamle Kirkegård",
+      "latitude": 56.281494,
+      "longitude": 10.766922
+    },
+    {
+      "name": "Hårby Kirkegård",
+      "latitude": 55.221824,
+      "longitude": 10.114771
+    },
+    {
+      "name": "Højen Kirkegård",
+      "latitude": 57.727477,
+      "longitude": 10.521358
+    },
+    {
+      "name": "Højer Gamle Kirkegård",
+      "latitude": 54.962412,
+      "longitude": 8.698099
+    },
+    {
+      "name": "Højvangens Kirkegård",
+      "latitude": 56.046955,
+      "longitude": 9.957419
+    },
+    {
+      "name": "Hørdum Kirkegård",
+      "latitude": 56.844059,
+      "longitude": 8.513149
+    },
+    {
+      "name": "Høve Valgmenigheds Kirkegård",
+      "latitude": 55.293201,
+      "longitude": 11.372844
+    },
+    {
+      "name": "Ibsker Kirkegård",
+      "latitude": 55.117365,
+      "longitude": 15.104953
+    },
+    {
+      "name": "Jelling Kirkegård",
+      "latitude": 55.757124,
+      "longitude": 9.419991
+    },
+    {
+      "name": "Jernved Kirkegård",
+      "latitude": 55.418074,
+      "longitude": 8.791183
+    },
+    {
+      "name": "Jerslev Kirkegård",
+      "latitude": 57.28314,
+      "longitude": 10.090254
+    },
+    {
+      "name": "Jyllinge Kirkegård",
+      "latitude": 55.752086,
+      "longitude": 12.105271
+    },
+    {
+      "name": "Jystrup Kirkegård",
+      "latitude": 55.515542,
+      "longitude": 11.868428
+    },
+    {
+      "name": "Jægerspris Kirkegård",
+      "latitude": 55.85824,
+      "longitude": 11.97485
+    },
+    {
+      "name": "Jødisk Kirkegård",
+      "latitude": 55.090508,
+      "longitude": 10.251402
+    },
+    {
+      "name": "Kalvehave Kirkegård",
+      "latitude": 54.99803,
+      "longitude": 12.14451
+    },
+    {
+      "name": "Karlslunde Ny Kirkegård",
+      "latitude": 55.570122,
+      "longitude": 12.223515
+    },
+    {
+      "name": "Keldby Kirkegård",
+      "latitude": 54.990979,
+      "longitude": 12.344093
+    },
+    {
+      "name": "Kirke Eskildstrup Kirkegård",
+      "latitude": 55.572031,
+      "longitude": 11.761562
+    },
+    {
+      "name": "Kirke Stillinge Kirkegård",
+      "latitude": 55.436865,
+      "longitude": 11.243772
+    },
+    {
+      "name": "Kirkeby kirkegård",
+      "latitude": 55.113581,
+      "longitude": 10.528875
+    },
+    {
+      "name": "Kirkegården",
+      "latitude": 55.624817,
+      "longitude": 12.094973
+    },
+    {
+      "name": "Kirkegården ved Gramvej",
+      "latitude": 55.365339,
+      "longitude": 9.058574
+    },
+    {
+      "name": "Klarkring Kirkegård",
+      "latitude": 55.714843,
+      "longitude": 9.956751
+    },
+    {
+      "name": "Klemensker Kirkegård",
+      "latitude": 55.175258,
+      "longitude": 14.802773
+    },
+    {
+      "name": "Kloster Kirkegården",
+      "latitude": 55.248645,
+      "longitude": 9.484621
+    },
+    {
+      "name": "Klosterkirkegården",
+      "latitude": 55.457621,
+      "longitude": 12.176621
+    },
+    {
+      "name": "Knudsker Kirkegård",
+      "latitude": 55.106981,
+      "longitude": 14.75192
+    },
+    {
+      "name": "Kollerup Kirke",
+      "latitude": 57.097413,
+      "longitude": 9.294931
+    },
+    {
+      "name": "Kongerslev Kirkegård",
+      "latitude": 56.883447,
+      "longitude": 10.111293
+    },
+    {
+      "name": "Konges Tisted Kirkegård",
+      "latitude": 56.7501,
+      "longitude": 9.590252
+    },
+    {
+      "name": "Korsløkke Kirkegård",
+      "latitude": 55.395397,
+      "longitude": 10.421863
+    },
+    {
+      "name": "Krakup Kirkegård",
+      "latitude": 55.165045,
+      "longitude": 10.414508
+    },
+    {
+      "name": "Krebjerg Kirkegård",
+      "latitude": 56.655861,
+      "longitude": 8.860073
+    },
+    {
+      "name": "Kværndrup Kirkegård",
+      "latitude": 55.174524,
+      "longitude": 10.526438
+    },
+    {
+      "name": "Kåstrup Kirkegård",
+      "latitude": 57.029459,
+      "longitude": 8.733101
+    },
+    {
+      "name": "Langør Kapel",
+      "latitude": 55.91867,
+      "longitude": 10.633536
+    },
+    {
+      "name": "Lem Kirkegård",
+      "latitude": 56.589232,
+      "longitude": 8.780491
+    },
+    {
+      "name": "Lime Kirkegård",
+      "latitude": 56.596794,
+      "longitude": 8.732569
+    },
+    {
+      "name": "Lovns Kirkegård",
+      "latitude": 56.686801,
+      "longitude": 9.22444
+    },
+    {
+      "name": "Lunde Kirkegård",
+      "latitude": 55.134349,
+      "longitude": 10.526772
+    },
+    {
+      "name": "Lyngby Kirkegaard",
+      "latitude": 56.36745,
+      "longitude": 10.748418
+    },
+    {
+      "name": "Lynge Kirkegård",
+      "latitude": 55.399628,
+      "longitude": 11.564738
+    },
+    {
+      "name": "Lyngså Kirkegård",
+      "latitude": 57.238183,
+      "longitude": 10.508184
+    },
+    {
+      "name": "Lynæs Kirkegård",
+      "latitude": 55.951261,
+      "longitude": 11.859719
+    },
+    {
+      "name": "Lyø Kirkegård",
+      "latitude": 55.042721,
+      "longitude": 10.150955
+    },
+    {
+      "name": "Magleby Kirkegård",
+      "latitude": 55.232618,
+      "longitude": 11.320088
+    },
+    {
+      "name": "Mariager Kirkegård",
+      "latitude": 56.64817,
+      "longitude": 9.979724
+    },
+    {
+      "name": "Marstal Kirkegård",
+      "latitude": 54.854762,
+      "longitude": 10.516683
+    },
+    {
+      "name": "Melby Kirkegård",
+      "latitude": 55.995997,
+      "longitude": 11.969016
+    },
+    {
+      "name": "Mellerup Valgmenigheds Kirkegård",
+      "latitude": 56.5191,
+      "longitude": 10.205877
+    },
+    {
+      "name": "Middelfart Vestre Kirkegård",
+      "latitude": 55.507374,
+      "longitude": 9.722819
+    },
+    {
+      "name": "Mindelund",
+      "latitude": 56.044417,
+      "longitude": 9.051664
+    },
+    {
+      "name": "Morsø Frimenigheds Kirkegård",
+      "latitude": 56.835841,
+      "longitude": 8.714173
+    },
+    {
+      "name": "Måløv Ny Kirkegård",
+      "latitude": 55.75259,
+      "longitude": 12.314325
+    },
+    {
+      "name": "Mårslet Kirkegård",
+      "latitude": 56.067988,
+      "longitude": 10.160538
+    },
+    {
+      "name": "Mårup Kirkegård",
+      "latitude": 57.462578,
+      "longitude": 9.784724
+    },
+    {
+      "name": "Mørke Kirkegård",
+      "latitude": 56.331419,
+      "longitude": 10.375454
+    },
+    {
+      "name": "Nakskov Annekskirkegård",
+      "latitude": 54.837916,
+      "longitude": 11.143708
+    },
+    {
+      "name": "Nakskov Kirkegård",
+      "latitude": 54.837151,
+      "longitude": 11.149022
+    },
+    {
+      "name": "Nexø Gamle Kirkegård",
+      "latitude": 55.060703,
+      "longitude": 15.132374
+    },
+    {
+      "name": "Nordby Kirke",
+      "latitude": 55.951334,
+      "longitude": 10.546663
+    },
+    {
+      "name": "Nordre Kirkegård",
+      "latitude": 55.440414,
+      "longitude": 8.39743
+    },
+    {
+      "name": "Nordre Kirkegård",
+      "latitude": 55.501875,
+      "longitude": 9.479359
+    },
+    {
+      "name": "Nordre Kirkegård",
+      "latitude": 55.717973,
+      "longitude": 9.552993
+    },
+    {
+      "name": "Nordre Kirkegård",
+      "latitude": 55.863925,
+      "longitude": 9.855735
+    },
+    {
+      "name": "Nordrupvester Kirkegård",
+      "latitude": 55.480753,
+      "longitude": 11.418755
+    },
+    {
+      "name": "Ny Assistens Kirkegård",
+      "latitude": 55.08992,
+      "longitude": 10.252774
+    },
+    {
+      "name": "Ny Sankt Nicolai Kirkegård",
+      "latitude": 55.463696,
+      "longitude": 12.182353
+    },
+    {
+      "name": "Nyhuse Kirkegård",
+      "latitude": 55.936366,
+      "longitude": 12.287996
+    },
+    {
+      "name": "Nykirke Kirkegård",
+      "latitude": 55.139481,
+      "longitude": 14.7692
+    },
+    {
+      "name": "Nykøbing Mors Kirkegård",
+      "latitude": 56.798164,
+      "longitude": 8.868928
+    },
+    {
+      "name": "Nykøbing Sjælland Gamle Kirkegård",
+      "latitude": 55.924893,
+      "longitude": 11.671346
+    },
+    {
+      "name": "Nylarsker Kirkegård",
+      "latitude": 55.073936,
+      "longitude": 14.814855
+    },
+    {
+      "name": "Næsbyhoved Broby Kirkegård",
+      "latitude": 55.434967,
+      "longitude": 10.313441
+    },
+    {
+      "name": "Nørre Aaby kirkegård",
+      "latitude": 55.457065,
+      "longitude": 9.889413
+    },
+    {
+      "name": "Nørre Nærå Kirkegård",
+      "latitude": 55.573289,
+      "longitude": 10.283507
+    },
+    {
+      "name": "Nørre Tranders Kirkegård",
+      "latitude": 57.032801,
+      "longitude": 9.982023
+    },
+    {
+      "name": "Obbekær Kirkegård",
+      "latitude": 55.331576,
+      "longitude": 8.877744
+    },
+    {
+      "name": "Oddense Kirkegård",
+      "latitude": 56.649703,
+      "longitude": 8.933514
+    },
+    {
+      "name": "Odder Gamle Kirkegård",
+      "latitude": 55.972966,
+      "longitude": 10.152358
+    },
+    {
+      "name": "Oksbøl Kirkegård",
+      "latitude": 55.037916,
+      "longitude": 9.758982
+    },
+    {
+      "name": "Omø Kirkegård",
+      "latitude": 55.163224,
+      "longitude": 11.155245
+    },
+    {
+      "name": "Ore Kirkegård",
+      "latitude": 55.506461,
+      "longitude": 10.035376
+    },
+    {
+      "name": "Oure kirkegård",
+      "latitude": 55.121676,
+      "longitude": 10.727014
+    },
+    {
+      "name": "Ovalen",
+      "latitude": 55.474874,
+      "longitude": 8.503694
+    },
+    {
+      "name": "Paddesø Kirkegård",
+      "latitude": 55.435843,
+      "longitude": 10.093769
+    },
+    {
+      "name": "Pedersborg kirkes kirkegård",
+      "latitude": 55.45122,
+      "longitude": 11.55595
+    },
+    {
+      "name": "Pedersker Kirkegård",
+      "latitude": 55.026633,
+      "longitude": 14.977014
+    },
+    {
+      "name": "Poulsker Kirkegård",
+      "latitude": 55.022608,
+      "longitude": 15.040341
+    },
+    {
+      "name": "Randers Kloster Kirkegård",
+      "latitude": 56.459784,
+      "longitude": 10.030999
+    },
+    {
+      "name": "Randerup Kirkegård",
+      "latitude": 55.091597,
+      "longitude": 8.728671
+    },
+    {
+      "name": "Redsted Kirkegård",
+      "latitude": 56.739982,
+      "longitude": 8.652609
+    },
+    {
+      "name": "Ribe Gamle Kirkegård",
+      "latitude": 55.325195,
+      "longitude": 8.761419
+    },
+    {
+      "name": "Ribe Ny Kirkegård",
+      "latitude": 55.327807,
+      "longitude": 8.785004
+    },
+    {
+      "name": "Ribe Ny Kirkegård",
+      "latitude": 55.327946,
+      "longitude": 8.785846
+    },
+    {
+      "name": "Ringe Kirkegård",
+      "latitude": 55.238505,
+      "longitude": 10.477017
+    },
+    {
+      "name": "Rinkenæs Gamle Kirkegård",
+      "latitude": 54.905307,
+      "longitude": 9.545033
+    },
+    {
+      "name": "Rinkenæs Kirkegård",
+      "latitude": 54.896269,
+      "longitude": 9.563326
+    },
+    {
+      "name": "Rinkenæs Kirkegård",
+      "latitude": 54.896429,
+      "longitude": 9.561748
+    },
+    {
+      "name": "Risingskirkegård",
+      "latitude": 55.414673,
+      "longitude": 10.419343
+    },
+    {
+      "name": "Rolsted Kirkegård",
+      "latitude": 55.319952,
+      "longitude": 10.566865
+    },
+    {
+      "name": "Rubjerg Gamle Kirkegård",
+      "latitude": 57.436771,
+      "longitude": 9.772211
+    },
+    {
+      "name": "Rudkøbing Kirkegård",
+      "latitude": 54.936779,
+      "longitude": 10.709565
+    },
+    {
+      "name": "Rutsker Kirkegård",
+      "latitude": 55.215133,
+      "longitude": 14.750248
+    },
+    {
+      "name": "Rødding Kirkegård",
+      "latitude": 55.367864,
+      "longitude": 9.051592
+    },
+    {
+      "name": "Rønne Kirkegård",
+      "latitude": 55.093283,
+      "longitude": 14.700917
+    },
+    {
+      "name": "Rønninge gl. Kirkegård",
+      "latitude": 55.344642,
+      "longitude": 10.604322
+    },
+    {
+      "name": "Rørby Kirkegård",
+      "latitude": 55.644308,
+      "longitude": 11.158623
+    },
+    {
+      "name": "Sall Kirkegård",
+      "latitude": 56.278797,
+      "longitude": 9.824935
+    },
+    {
+      "name": "Sankt Ib Kirkegård",
+      "latitude": 55.647821,
+      "longitude": 12.083159
+    },
+    {
+      "name": "Sankt Jørgens Kirkegård",
+      "latitude": 55.048172,
+      "longitude": 10.597467
+    },
+    {
+      "name": "Sct Thøgers Kirkegård",
+      "latitude": 56.77486,
+      "longitude": 8.314187
+    },
+    {
+      "name": "Sct. Marie Kirkegård",
+      "latitude": 54.913179,
+      "longitude": 9.787389
+    },
+    {
+      "name": "Sindal Kirkegård",
+      "latitude": 57.483701,
+      "longitude": 10.181067
+    },
+    {
+      "name": "Skads Kirkegård",
+      "latitude": 55.51009,
+      "longitude": 8.556603
+    },
+    {
+      "name": "Skanderup Valgmenigheds Kirkegård",
+      "latitude": 55.463561,
+      "longitude": 9.345064
+    },
+    {
+      "name": "Skinnerup Kirkegård",
+      "latitude": 56.986731,
+      "longitude": 8.666993
+    },
+    {
+      "name": "Skive Kirkegård",
+      "latitude": 56.563818,
+      "longitude": 9.023048
+    },
+    {
+      "name": "Skovvejens Kirkegård",
+      "latitude": 55.739469,
+      "longitude": 12.367
+    },
+    {
+      "name": "Skårup kirkegård",
+      "latitude": 55.09415,
+      "longitude": 10.68683
+    },
+    {
+      "name": "Skærbæk Kirkegård",
+      "latitude": 55.159421,
+      "longitude": 8.765468
+    },
+    {
+      "name": "Skødstrup kirkegård",
+      "latitude": 56.26266,
+      "longitude": 10.309809
+    },
+    {
+      "name": "Slotskirkens Kirkegård",
+      "latitude": 56.027031,
+      "longitude": 9.931674
+    },
+    {
+      "name": "Snedsted Kirkegård",
+      "latitude": 56.894491,
+      "longitude": 8.541002
+    },
+    {
+      "name": "Solbjerg Parkkirkegård",
+      "latitude": 55.673201,
+      "longitude": 12.513154
+    },
+    {
+      "name": "Sorø Gammel Kirkegård",
+      "latitude": 55.430249,
+      "longitude": 11.557029
+    },
+    {
+      "name": "Sottrup Kirkegård",
+      "latitude": 54.94894,
+      "longitude": 9.692587
+    },
+    {
+      "name": "Stagstrup Kirkegård",
+      "latitude": 56.873568,
+      "longitude": 8.588898
+    },
+    {
+      "name": "Starup Kirkegård",
+      "latitude": 55.24824,
+      "longitude": 9.531586
+    },
+    {
+      "name": "Stege Kirkegård",
+      "latitude": 54.988542,
+      "longitude": 12.289339
+    },
+    {
+      "name": "Stenløse Kirkegård",
+      "latitude": 55.340805,
+      "longitude": 10.360832
+    },
+    {
+      "name": "Stenstrup Kirkegård",
+      "latitude": 55.131737,
+      "longitude": 10.499571
+    },
+    {
+      "name": "Store Heddinge Assistens Kirkegård",
+      "latitude": 55.315593,
+      "longitude": 12.392767
+    },
+    {
+      "name": "Strynø Kirkegård",
+      "latitude": 54.905594,
+      "longitude": 10.612693
+    },
+    {
+      "name": "Stubberup kirkegård",
+      "latitude": 55.535573,
+      "longitude": 10.673477
+    },
+    {
+      "name": "Sundby Kirkegård",
+      "latitude": 56.877716,
+      "longitude": 8.675419
+    },
+    {
+      "name": "Svinninge Gamle Kirkegård",
+      "latitude": 55.720789,
+      "longitude": 11.460438
+    },
+    {
+      "name": "Sæby Kirkegård",
+      "latitude": 57.336435,
+      "longitude": 10.522362
+    },
+    {
+      "name": "Søften Kirkegård",
+      "latitude": 56.23805,
+      "longitude": 10.085793
+    },
+    {
+      "name": "Sønder Bjerge Kirkegård",
+      "latitude": 55.265902,
+      "longitude": 11.412256
+    },
+    {
+      "name": "Sønder Dalby Kirkegård",
+      "latitude": 55.311802,
+      "longitude": 12.063422
+    },
+    {
+      "name": "Sønder Nærå Valgmenigheds Kirkegård",
+      "latitude": 55.30996,
+      "longitude": 10.487009
+    },
+    {
+      "name": "Sønder Årslev Kirkegård",
+      "latitude": 56.152302,
+      "longitude": 10.070342
+    },
+    {
+      "name": "Sønderho Gamle Kirkegård",
+      "latitude": 55.349622,
+      "longitude": 8.466717
+    },
+    {
+      "name": "Sønderup Kirkegård",
+      "latitude": 55.462233,
+      "longitude": 11.381124
+    },
+    {
+      "name": "Søndre Kirkegård",
+      "latitude": 55.424588,
+      "longitude": 8.391565
+    },
+    {
+      "name": "Søndre kirkegård",
+      "latitude": 55.478502,
+      "longitude": 9.47902
+    },
+    {
+      "name": "Søndre Kirkegård",
+      "latitude": 55.693307,
+      "longitude": 9.525883
+    },
+    {
+      "name": "Sørup Kirkegård",
+      "latitude": 55.075188,
+      "longitude": 10.562434
+    },
+    {
+      "name": "Søttrup Frimenigheds Kirkegård",
+      "latitude": 56.843267,
+      "longitude": 9.420887
+    },
+    {
+      "name": "Thisted Gamle Kirkegård",
+      "latitude": 56.954137,
+      "longitude": 8.689404
+    },
+    {
+      "name": "Tilsted Kirkegård",
+      "latitude": 56.947484,
+      "longitude": 8.642
+    },
+    {
+      "name": "Tilsted Kirkegård",
+      "latitude": 56.948051,
+      "longitude": 8.642426
+    },
+    {
+      "name": "Tornbjerg kirkegård",
+      "latitude": 55.370147,
+      "longitude": 10.457459
+    },
+    {
+      "name": "Tornby Kirkegård",
+      "latitude": 57.527211,
+      "longitude": 9.948114
+    },
+    {
+      "name": "Torup Kirkegård",
+      "latitude": 55.983326,
+      "longitude": 11.94037
+    },
+    {
+      "name": "Tved Kirkegård",
+      "latitude": 55.087472,
+      "longitude": 10.622848
+    },
+    {
+      "name": "Tved Kirkegård",
+      "latitude": 56.199523,
+      "longitude": 10.444042
+    },
+    {
+      "name": "Tyskerkirkegården",
+      "latitude": 55.321233,
+      "longitude": 11.961613
+    },
+    {
+      "name": "Tårnby kirke kirkegård",
+      "latitude": 55.628028,
+      "longitude": 12.602445
+    },
+    {
+      "name": "Tårup Kirkegård",
+      "latitude": 55.23432,
+      "longitude": 10.773726
+    },
+    {
+      "name": "Ulbølle kirkegård",
+      "latitude": 55.07355,
+      "longitude": 10.423898
+    },
+    {
+      "name": "Ulkebøl Kirkegård",
+      "latitude": 54.926317,
+      "longitude": 9.830462
+    },
+    {
+      "name": "Urnegård",
+      "latitude": 55.057631,
+      "longitude": 10.605415
+    },
+    {
+      "name": "Utterslev Kirkegård",
+      "latitude": 54.921196,
+      "longitude": 11.192734
+    },
+    {
+      "name": "Vallensbæk Kirkegård",
+      "latitude": 55.637911,
+      "longitude": 12.365886
+    },
+    {
+      "name": "Vamdrup Kirkegård",
+      "latitude": 55.428178,
+      "longitude": 9.272806
+    },
+    {
+      "name": "Vedbæk kirkegård",
+      "latitude": 55.840805,
+      "longitude": 12.564656
+    },
+    {
+      "name": "Vejerslev Kirkegård",
+      "latitude": 56.759007,
+      "longitude": 8.716818
+    },
+    {
+      "name": "Vejlby Kirkegård",
+      "latitude": 56.195869,
+      "longitude": 10.211705
+    },
+    {
+      "name": "Vejstrup Kirkegård",
+      "latitude": 55.104287,
+      "longitude": 10.710046
+    },
+    {
+      "name": "Vejstrup Valgmenigheds Kirkegård",
+      "latitude": 55.109639,
+      "longitude": 10.712802
+    },
+    {
+      "name": "Vesløs Valgmenighedskirkegård",
+      "latitude": 57.035711,
+      "longitude": 8.971899
+    },
+    {
+      "name": "Vestenskov Kirkegård",
+      "latitude": 54.789253,
+      "longitude": 11.093991
+    },
+    {
+      "name": "Vester Assels Kirkegård",
+      "latitude": 56.701205,
+      "longitude": 8.647176
+    },
+    {
+      "name": "Vester Broby Kirkegård",
+      "latitude": 55.380234,
+      "longitude": 11.620753
+    },
+    {
+      "name": "Vester Ny Starup Kirkegård",
+      "latitude": 55.647249,
+      "longitude": 8.803842
+    },
+    {
+      "name": "Vester Nykirke Kirkegård",
+      "latitude": 55.510896,
+      "longitude": 8.695447
+    },
+    {
+      "name": "Vester Skerninge kirkegård",
+      "latitude": 55.075111,
+      "longitude": 10.460869
+    },
+    {
+      "name": "Vester Torup Kirkegård",
+      "latitude": 57.102847,
+      "longitude": 9.124099
+    },
+    {
+      "name": "Vester Vandet Kirkegård",
+      "latitude": 57.010962,
+      "longitude": 8.578021
+    },
+    {
+      "name": "Vester Åby Kirkegård",
+      "latitude": 55.084586,
+      "longitude": 10.382108
+    },
+    {
+      "name": "Vestervig Kirkegård",
+      "latitude": 56.773179,
+      "longitude": 8.31745
+    },
+    {
+      "name": "Vesterø Kirkegård",
+      "latitude": 57.267896,
+      "longitude": 10.902843
+    },
+    {
+      "name": "Viby Kirkegård",
+      "latitude": 56.127884,
+      "longitude": 10.167113
+    },
+    {
+      "name": "Vigersted Kirkegård",
+      "latitude": 55.482251,
+      "longitude": 11.885586
+    },
+    {
+      "name": "Vildbjerg Ny Kirkegård",
+      "latitude": 56.192782,
+      "longitude": 8.765778
+    },
+    {
+      "name": "Villerslev Kirkegård",
+      "latitude": 56.821131,
+      "longitude": 8.484921
+    },
+    {
+      "name": "Vistoft Kirkegård",
+      "latitude": 56.192818,
+      "longitude": 10.510015
+    },
+    {
+      "name": "Vorupør Gamle Kirkegård",
+      "latitude": 56.949658,
+      "longitude": 8.373727
+    },
+    {
+      "name": "Ågård Frimenighedskirkegård",
+      "latitude": 55.584775,
+      "longitude": 9.423745
+    },
+    {
+      "name": "Ål Kirkegård",
+      "latitude": 55.631329,
+      "longitude": 8.281578
+    },
+    {
+      "name": "Ålsgårde Kirkegård",
+      "latitude": 56.075658,
+      "longitude": 12.538114
+    },
+    {
+      "name": "Årby Kirkegård",
+      "latitude": 55.648099,
+      "longitude": 11.138189
+    },
+    {
+      "name": "Årup Kirkegård",
+      "latitude": 55.379944,
+      "longitude": 10.045682
+    },
+    {
+      "name": "Åstrup Kirkegård",
+      "latitude": 55.262425,
+      "longitude": 9.549153
+    },
+    {
+      "name": "Ølgod Kirkegård",
+      "latitude": 55.809457,
+      "longitude": 8.608681
+    },
+    {
+      "name": "Ølsted Kirkegård",
+      "latitude": 56.233347,
+      "longitude": 10.137572
+    },
+    {
+      "name": "Ørslev Kirkegård",
+      "latitude": 55.223921,
+      "longitude": 11.405663
+    },
+    {
+      "name": "Øster Hassing Gamle Kirkegård",
+      "latitude": 57.072472,
+      "longitude": 10.180632
+    },
+    {
+      "name": "Øster Svenstrup Kirke",
+      "latitude": 57.1014,
+      "longitude": 9.470234
+    },
+    {
+      "name": "Øster Vandet Kirkegård",
+      "latitude": 56.996085,
+      "longitude": 8.620782
+    },
+    {
+      "name": "Østervrå Kirkegård",
+      "latitude": 57.338142,
+      "longitude": 10.229165
+    },
+    {
+      "name": "Østre Kirkegård",
+      "latitude": 54.909334,
+      "longitude": 9.806703
+    },
+    {
+      "name": "Østre Kirkegård",
+      "latitude": 55.862972,
+      "longitude": 9.869198
+    }
+  ],
+  "meta": {
+    "title": "Kirkegårde i Danmark – OpenStreetMap (Cemeteries / graveyards in Denmark, OSM) - Gratis download",
+    "description": "Liste over 309 kirkegårde i Danmark fra OpenStreetMap (amenity=grave_yard) — navn og koordinater (WGS84). Indeholder 309 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Kirkegårde i Danmark – OpenStreetMap (Cemeteries / graveyards in Denmark, OSM) | ListBase",
+    "seo_description": "Download Kirkegårde i Danmark – OpenStreetMap (Cemeteries / graveyards in Denmark, OSM) — 309 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 309 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

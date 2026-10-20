@@ -1,0 +1,248 @@
+{
+  "id": "da-fornavne",
+  "name": "Populære fornavne i Danmark (Popular Danish First Names)",
+  "title": "Populære fornavne i Danmark (Popular Danish First Names)",
+  "description": "De mest populære pige- og drengenavne i Danmark baseret på Danmarks Statistik for 2022; rangeret efter hyppighed.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "N-DK-1-F-1",
+      "gender": "F",
+      "rank": 1,
+      "localized": "Ella",
+      "romanized": "Ella",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-F-2",
+      "gender": "F",
+      "rank": 2,
+      "localized": "Alma",
+      "romanized": "Alma",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-F-3",
+      "gender": "F",
+      "rank": 3,
+      "localized": "Nora",
+      "romanized": "Nora",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-F-4",
+      "gender": "F",
+      "rank": 4,
+      "localized": "Ida",
+      "romanized": "Ida",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-F-5",
+      "gender": "F",
+      "rank": 5,
+      "localized": "Freja",
+      "romanized": "Freja",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-F-6",
+      "gender": "F",
+      "rank": 6,
+      "localized": "Sofia",
+      "romanized": "Sofia",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-F-7",
+      "gender": "F",
+      "rank": 7,
+      "localized": "Luna",
+      "romanized": "Luna",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-F-8",
+      "gender": "F",
+      "rank": 8,
+      "localized": "Olivia",
+      "romanized": "Olivia",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-F-9",
+      "gender": "F",
+      "rank": 9,
+      "localized": "Agnes",
+      "romanized": "Agnes",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-F-10",
+      "gender": "F",
+      "rank": 10,
+      "localized": "Asta",
+      "romanized": "Asta",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-F-11",
+      "gender": "F",
+      "rank": 11,
+      "localized": "Clara",
+      "romanized": "Clara",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-F-12",
+      "gender": "F",
+      "rank": 12,
+      "localized": "Emma",
+      "romanized": "Emma",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-F-13",
+      "gender": "F",
+      "rank": 13,
+      "localized": "Frida",
+      "romanized": "Frida",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-F-14",
+      "gender": "F",
+      "rank": 14,
+      "localized": "Alberte",
+      "romanized": "Alberte",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-M-1",
+      "gender": "M",
+      "rank": 1,
+      "localized": "William",
+      "romanized": "William",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-M-2",
+      "gender": "M",
+      "rank": 2,
+      "localized": "Oscar",
+      "romanized": "Oscar",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-M-3",
+      "gender": "M",
+      "rank": 3,
+      "localized": "Carl",
+      "romanized": "Carl",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-M-4",
+      "gender": "M",
+      "rank": 4,
+      "localized": "Malthe",
+      "romanized": "Malthe",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-M-5",
+      "gender": "M",
+      "rank": 5,
+      "localized": "Emil",
+      "romanized": "Emil",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-M-6",
+      "gender": "M",
+      "rank": 6,
+      "localized": "Valdemar",
+      "romanized": "Valdemar",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-M-7",
+      "gender": "M",
+      "rank": 7,
+      "localized": "Noah",
+      "romanized": "Noah",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-M-8",
+      "gender": "M",
+      "rank": 8,
+      "localized": "Aksel",
+      "romanized": "Aksel",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-M-9",
+      "gender": "M",
+      "rank": 9,
+      "localized": "August",
+      "romanized": "August",
+      "year": 2022
+    },
+    {
+      "name_group": "N-DK-1-M-10",
+      "gender": "M",
+      "rank": 10,
+      "localized": "Theo",
+      "romanized": "Theo",
+      "year": 2022
+    }
+  ],
+  "meta": {
+    "title": "Populære fornavne i Danmark (Popular Danish First Names) - Gratis download",
+    "description": "De mest populære pige- og drengenavne i Danmark baseret på Danmarks Statistik for 2022; rangeret efter hyppighed. Indeholder 24 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Populære fornavne i Danmark (Popular Danish First Names) | ListBase",
+    "seo_description": "Download Populære fornavne i Danmark (Popular Danish First Names) — 24 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 24 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

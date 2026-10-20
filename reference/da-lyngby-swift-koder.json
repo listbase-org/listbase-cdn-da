@@ -1,0 +1,64 @@
+{
+  "id": "da-lyngby-swift-koder",
+  "name": "SWIFT/BIC-koder — Lyngby",
+  "title": "SWIFT/BIC-koder — Lyngby",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 3 institutioner, som kilden angiver med byen \"LYNGBY\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BRFKREDIT A/S",
+      "city": "LYNGBY",
+      "branch": "",
+      "swift_code": "BRFKDK21"
+    },
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "LYNGBY",
+      "branch": "(DANSKE CAPITAL)",
+      "swift_code": "DABADKKKCAP"
+    },
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "LYNGBY",
+      "branch": "",
+      "swift_code": "DABADKKKLYN"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Lyngby - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 3 institutioner, som kilden angiver med byen \"LYNGBY\". Indeholder 3 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Lyngby | ListBase",
+    "seo_description": "Download SWIFT/BIC-koder — Lyngby — 3 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 3 poster / 4 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

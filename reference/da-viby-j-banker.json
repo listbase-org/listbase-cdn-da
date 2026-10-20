@@ -1,0 +1,72 @@
+{
+  "id": "da-viby-j-banker",
+  "name": "Banker i Viby J — SWIFT/BIC-koder",
+  "title": "Banker i Viby J — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Viby J, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"VIBY J\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 14,
+      "bank": "ARLA FOODS AMBA",
+      "city": "VIBY J",
+      "branch": "(ALRA FINANCE)",
+      "swift_code": "ARDADK21ARF"
+    },
+    {
+      "id": 15,
+      "bank": "ARLA FOODS AMBA",
+      "city": "VIBY J",
+      "branch": "(ARLA FOODS)",
+      "swift_code": "ARDADK21ARL"
+    },
+    {
+      "id": 16,
+      "bank": "ARLA FOODS AMBA",
+      "city": "VIBY J",
+      "branch": "",
+      "swift_code": "ARDADK21"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Viby J — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Viby J, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"VIBY J\"). Delmængde af det nationale da-banker-datasæt. Indeholder 3 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Viby J — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Viby J — SWIFT/BIC-koder — 3 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 3 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

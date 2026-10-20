@@ -1,0 +1,576 @@
+{
+  "id": "da-arkaeologiske-steder",
+  "name": "Arkæologiske steder i Danmark",
+  "title": "Arkæologiske steder i Danmark",
+  "description": "Arkæologiske steder (archaeological sites) i Danmark fra Wikidata (P31 = Q839954, P17 = Danmark) med koordinater.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q2647410",
+      "wikidata_id": "Q2647410",
+      "name_da": "Alken Enge",
+      "name_en": "Alken Enge",
+      "latitude": 56.049167,
+      "longitude": 9.851667
+    },
+    {
+      "id": "Q1551327",
+      "wikidata_id": "Q1551327",
+      "name_da": "arkæologisk fundplads ved Himlingøje",
+      "name_en": "",
+      "latitude": 55.373335,
+      "longitude": 12.212913
+    },
+    {
+      "id": "Q4881556",
+      "wikidata_id": "Q4881556",
+      "name_da": "Bejsebakke",
+      "name_en": "Bejsebakke",
+      "latitude": 57.0276,
+      "longitude": 9.8879
+    },
+    {
+      "id": "Q1454480",
+      "wikidata_id": "Q1454480",
+      "name_da": "bopladsen i Tybrind Vig",
+      "name_en": "Tybrind Vig",
+      "latitude": 55.384167,
+      "longitude": 9.834444
+    },
+    {
+      "id": "Q894148",
+      "wikidata_id": "Q894148",
+      "name_da": "Borremosefæstningen",
+      "name_en": "Borremose fortification",
+      "latitude": 56.780178,
+      "longitude": 9.567933
+    },
+    {
+      "id": "Q990705",
+      "wikidata_id": "Q990705",
+      "name_da": "Broskovvejen",
+      "name_en": "",
+      "latitude": 55.146,
+      "longitude": 12.0005
+    },
+    {
+      "id": "Q1001551",
+      "wikidata_id": "Q1001551",
+      "name_da": "Budsene",
+      "name_en": "Budsene",
+      "latitude": 54.947533,
+      "longitude": 12.523506
+    },
+    {
+      "id": "Q1164250",
+      "wikidata_id": "Q1164250",
+      "name_da": "Dankirke",
+      "name_en": "Dankirke",
+      "latitude": 55.283333,
+      "longitude": 8.705556
+    },
+    {
+      "id": "Q12309123",
+      "wikidata_id": "Q12309123",
+      "name_da": "Dyrholmen",
+      "name_en": "",
+      "latitude": 56.433333,
+      "longitude": 10.266667
+    },
+    {
+      "id": "Q1297026",
+      "wikidata_id": "Q1297026",
+      "name_da": "Egeby røser",
+      "name_en": "",
+      "latitude": 55.058639,
+      "longitude": 14.995222
+    },
+    {
+      "id": "Q85759270",
+      "wikidata_id": "Q85759270",
+      "name_da": "Endebjerg",
+      "name_en": "Endebjerg",
+      "latitude": 55.8727,
+      "longitude": 10.6488
+    },
+    {
+      "id": "Q17315993",
+      "wikidata_id": "Q17315993",
+      "name_da": "Ertebølle Køkkenmødding",
+      "name_en": "",
+      "latitude": 56.800521,
+      "longitude": 9.181126
+    },
+    {
+      "id": "Q12311025",
+      "wikidata_id": "Q12311025",
+      "name_da": "Falsters Virke",
+      "name_en": "",
+      "latitude": 54.8281,
+      "longitude": 11.9436
+    },
+    {
+      "id": "Q12313438",
+      "wikidata_id": "Q12313438",
+      "name_da": "Galgedil",
+      "name_en": "Galgedil",
+      "latitude": 55.5243,
+      "longitude": 10.3863
+    },
+    {
+      "id": "Q18002340",
+      "wikidata_id": "Q18002340",
+      "name_da": "Gammel Lundeborg",
+      "name_en": "Gammel Lundeborg",
+      "latitude": 55.148633,
+      "longitude": 10.783204
+    },
+    {
+      "id": "Q1551362",
+      "wikidata_id": "Q1551362",
+      "name_da": "Gravfelt ved Snubbekorsgård",
+      "name_en": "",
+      "latitude": 55.67426,
+      "longitude": 12.2964
+    },
+    {
+      "id": "Q5612397",
+      "wikidata_id": "Q5612397",
+      "name_da": "Gryet",
+      "name_en": "Gryet",
+      "latitude": 55.07177,
+      "longitude": 15.06856
+    },
+    {
+      "id": "Q17308024",
+      "wikidata_id": "Q17308024",
+      "name_da": "Hamlets grav",
+      "name_en": "",
+      "latitude": 56.433983,
+      "longitude": 10.220908
+    },
+    {
+      "id": "Q23816390",
+      "wikidata_id": "Q23816390",
+      "name_da": "Harrebydysserne",
+      "name_en": "Harreby-gravpladsen",
+      "latitude": 55.326153,
+      "longitude": 8.929621
+    },
+    {
+      "id": "Q2265639",
+      "wikidata_id": "Q2265639",
+      "name_da": "Homindespærringen",
+      "name_en": "",
+      "latitude": 54.705,
+      "longitude": 11.25
+    },
+    {
+      "id": "Q25088563",
+      "wikidata_id": "Q25088563",
+      "name_da": "højgruppe ved Guldager",
+      "name_en": "",
+      "latitude": 55.5434,
+      "longitude": 8.3889
+    },
+    {
+      "id": "Q18535179",
+      "wikidata_id": "Q18535179",
+      "name_da": "Højrække ved Lejre",
+      "name_en": "",
+      "latitude": 55.58814,
+      "longitude": 12.001465
+    },
+    {
+      "id": "Q1551340",
+      "wikidata_id": "Q1551340",
+      "name_da": "Højstrupgravpladsen",
+      "name_en": "Vikingegravpladsen ved Højstrup",
+      "latitude": 57.053689,
+      "longitude": 9.001015
+    },
+    {
+      "id": "Q392467",
+      "wikidata_id": "Q392467",
+      "name_da": "Illerup Ådal",
+      "name_en": "Illerup Ådal",
+      "latitude": 56.052843,
+      "longitude": 9.93425
+    },
+    {
+      "id": "Q4993586",
+      "wikidata_id": "Q4993586",
+      "name_da": "Jellingmonumenterne",
+      "name_en": "Jelling Heritage Site",
+      "latitude": 55.756514,
+      "longitude": 9.419743
+    },
+    {
+      "id": "Q11981130",
+      "wikidata_id": "Q11981130",
+      "name_da": "Klebæk Høje",
+      "name_en": "Klebæk Mounds",
+      "latitude": 55.5818,
+      "longitude": 9.145
+    },
+    {
+      "id": "Q56254602",
+      "wikidata_id": "Q56254602",
+      "name_da": "Konens Høj",
+      "name_en": "Konens Høj",
+      "latitude": 56.2611,
+      "longitude": 10.669
+    },
+    {
+      "id": "Q46234585",
+      "wikidata_id": "Q46234585",
+      "name_da": "Krogsbølle Boplads",
+      "name_en": "",
+      "latitude": 54.8447,
+      "longitude": 11.1595
+    },
+    {
+      "id": "Q15222823",
+      "wikidata_id": "Q15222823",
+      "name_da": "Langdysser i Varnæs Tykke",
+      "name_en": "Longbarrows in Varnæs Tykke",
+      "latitude": 55.031939,
+      "longitude": 9.571023
+    },
+    {
+      "id": "Q20988075",
+      "wikidata_id": "Q20988075",
+      "name_da": "Langdysser ved Abterp",
+      "name_en": "",
+      "latitude": 55.090054,
+      "longitude": 8.778513
+    },
+    {
+      "id": "Q1804964",
+      "wikidata_id": "Q1804964",
+      "name_da": "",
+      "name_en": "Langemose",
+      "latitude": 55.287621,
+      "longitude": 10.057812
+    },
+    {
+      "id": "Q796045",
+      "wikidata_id": "Q796045",
+      "name_da": "Lindholm Høje",
+      "name_en": "Lindholm Høje",
+      "latitude": 57.077222,
+      "longitude": 9.9125
+    },
+    {
+      "id": "Q12324825",
+      "wikidata_id": "Q12324825",
+      "name_da": "Lollands Vesterborg",
+      "name_en": "",
+      "latitude": 54.8476,
+      "longitude": 11.2433
+    },
+    {
+      "id": "Q10568967",
+      "wikidata_id": "Q10568967",
+      "name_da": "Lollands Østerborg",
+      "name_en": "Folkeborgene på Lolland og Falster",
+      "latitude": 54.7354,
+      "longitude": 11.5646
+    },
+    {
+      "id": "Q31889165",
+      "wikidata_id": "Q31889165",
+      "name_da": "Lyngsmosefæstningen",
+      "name_en": "Lyngsmose Fortification",
+      "latitude": 56.13379,
+      "longitude": 8.37256
+    },
+    {
+      "id": "Q1880022",
+      "wikidata_id": "Q1880022",
+      "name_da": "Løgten Mark",
+      "name_en": "Løgten Mark",
+      "latitude": 57.428894,
+      "longitude": 10.498222
+    },
+    {
+      "id": "Q43317380",
+      "wikidata_id": "Q43317380",
+      "name_da": "Mangehøje",
+      "name_en": "Mangehøje",
+      "latitude": 55.7766,
+      "longitude": 8.9218
+    },
+    {
+      "id": "Q12342587",
+      "wikidata_id": "Q12342587",
+      "name_da": "Misthusum",
+      "name_en": "Misthusum",
+      "latitude": 55.1379,
+      "longitude": 8.7021
+    },
+    {
+      "id": "Q1247697",
+      "wikidata_id": "Q1247697",
+      "name_da": "mosefund i Illemose",
+      "name_en": "",
+      "latitude": 55.389722,
+      "longitude": 10.588056
+    },
+    {
+      "id": "Q18145214",
+      "wikidata_id": "Q18145214",
+      "name_da": "Møllegårdsmarken",
+      "name_en": "",
+      "latitude": 55.15072,
+      "longitude": 10.74071
+    },
+    {
+      "id": "Q457810",
+      "wikidata_id": "Q457810",
+      "name_da": "Nydam Mose",
+      "name_en": "Nydam Mose",
+      "latitude": 54.9595,
+      "longitude": 9.7285
+    },
+    {
+      "id": "Q23010781",
+      "wikidata_id": "Q23010781",
+      "name_da": "Nørrevold",
+      "name_en": "Nørrevold",
+      "latitude": 55.151485,
+      "longitude": 8.993685
+    },
+    {
+      "id": "Q1917063",
+      "wikidata_id": "Q1917063",
+      "name_da": "Over Jerstal gravhøje",
+      "name_en": "",
+      "latitude": 55.2094,
+      "longitude": 9.2988
+    },
+    {
+      "id": "Q108422929",
+      "wikidata_id": "Q108422929",
+      "name_da": "Ringkloster",
+      "name_en": "",
+      "latitude": 56.0031,
+      "longitude": 9.9672
+    },
+    {
+      "id": "Q2154625",
+      "wikidata_id": "Q2154625",
+      "name_da": "Risby-vejene",
+      "name_en": "",
+      "latitude": 55.133003,
+      "longitude": 11.928608
+    },
+    {
+      "id": "Q4098628",
+      "wikidata_id": "Q4098628",
+      "name_da": "Rispebjerg",
+      "name_en": "Rispebjerg",
+      "latitude": 55.026589,
+      "longitude": 15.011062
+    },
+    {
+      "id": "Q2220528",
+      "wikidata_id": "Q2220528",
+      "name_da": "Sandegård",
+      "name_en": "Sandegård",
+      "latitude": 55.024963,
+      "longitude": 14.923527
+    },
+    {
+      "id": "Q87795184",
+      "wikidata_id": "Q87795184",
+      "name_da": "Sarup",
+      "name_en": "Sarup",
+      "latitude": 55.208778,
+      "longitude": 10.087361
+    },
+    {
+      "id": "Q2235295",
+      "wikidata_id": "Q2235295",
+      "name_da": "skibssætninger på Als",
+      "name_en": "",
+      "latitude": 54.98401,
+      "longitude": 9.79336
+    },
+    {
+      "id": "Q30033078",
+      "wikidata_id": "Q30033078",
+      "name_da": "Skrydstrup Bronzealdergård",
+      "name_en": "Skrydstrup Bronzealdergård",
+      "latitude": 55.23811,
+      "longitude": 9.29675
+    },
+    {
+      "id": "Q30149241",
+      "wikidata_id": "Q30149241",
+      "name_da": "Skrædderens falske Vidner",
+      "name_en": "",
+      "latitude": 55.557483,
+      "longitude": 11.368189
+    },
+    {
+      "id": "Q2294830",
+      "wikidata_id": "Q2294830",
+      "name_da": "Smakkerup Huse",
+      "name_en": "",
+      "latitude": 55.68476,
+      "longitude": 11.23559
+    },
+    {
+      "id": "Q12002066",
+      "wikidata_id": "Q12002066",
+      "name_da": "Sorte Muld",
+      "name_en": "Sorte Muld",
+      "latitude": 55.1247,
+      "longitude": 15.1166
+    },
+    {
+      "id": "Q19637049",
+      "wikidata_id": "Q19637049",
+      "name_da": "Stammershalle",
+      "name_en": "Stammershalle",
+      "latitude": 55.2402,
+      "longitude": 14.8647
+    },
+    {
+      "id": "Q15830913",
+      "wikidata_id": "Q15830913",
+      "name_da": "Stenrækken ved Myrhøj",
+      "name_en": "",
+      "latitude": 56.80557,
+      "longitude": 9.20312
+    },
+    {
+      "id": "Q15838924",
+      "wikidata_id": "Q15838924",
+      "name_da": "Stenrækkerne ved Refsnæs",
+      "name_en": "",
+      "latitude": 56.926088,
+      "longitude": 10.091422
+    },
+    {
+      "id": "Q1235837",
+      "wikidata_id": "Q1235837",
+      "name_da": "stensætninger ved Ristinge Nor",
+      "name_en": "",
+      "latitude": 54.827426,
+      "longitude": 10.663653
+    },
+    {
+      "id": "Q63382922",
+      "wikidata_id": "Q63382922",
+      "name_da": "Store Bjergegårdsbakken",
+      "name_en": "Store Bjergegårdsbakken",
+      "latitude": 55.1186,
+      "longitude": 14.8249
+    },
+    {
+      "id": "Q17859063",
+      "wikidata_id": "Q17859063",
+      "name_da": "Thisted bronzealderboplads",
+      "name_en": "",
+      "latitude": 56.958403,
+      "longitude": 8.673653
+    },
+    {
+      "id": "Q994251",
+      "wikidata_id": "Q994251",
+      "name_da": "Tibirkevejen",
+      "name_en": "",
+      "latitude": 56.035294,
+      "longitude": 12.117061
+    },
+    {
+      "id": "Q96001124",
+      "wikidata_id": "Q96001124",
+      "name_da": "Trygge Slot",
+      "name_en": "Trygge Slot",
+      "latitude": 54.8357,
+      "longitude": 11.9641
+    },
+    {
+      "id": "Q47009613",
+      "wikidata_id": "Q47009613",
+      "name_da": "Tuegravpladsen ved Årre",
+      "name_en": "",
+      "latitude": 55.5622,
+      "longitude": 8.6518
+    },
+    {
+      "id": "Q28223657",
+      "wikidata_id": "Q28223657",
+      "name_da": "Tønnesminde",
+      "name_en": "Tønnesminde",
+      "latitude": 55.809,
+      "longitude": 10.6234
+    },
+    {
+      "id": "Q1606392",
+      "wikidata_id": "Q1606392",
+      "name_da": "Varbrogård",
+      "name_en": "Varbrogård",
+      "latitude": 57.512283,
+      "longitude": 10.018458
+    },
+    {
+      "id": "Q1235976",
+      "wikidata_id": "Q1235976",
+      "name_da": "Vedsted Dysserne",
+      "name_en": "Vedsted dolmen",
+      "latitude": 55.1871,
+      "longitude": 9.3445
+    }
+  ],
+  "meta": {
+    "title": "Arkæologiske steder i Danmark - Gratis download",
+    "description": "Arkæologiske steder (archaeological sites) i Danmark fra Wikidata (P31 = Q839954, P17 = Danmark) med koordinater. Indeholder 65 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Arkæologiske steder i Danmark | ListBase",
+    "seo_description": "Download Arkæologiske steder i Danmark — 65 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 65 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

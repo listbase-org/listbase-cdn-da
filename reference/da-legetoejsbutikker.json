@@ -1,0 +1,686 @@
+{
+  "id": "da-legetoejsbutikker",
+  "name": "Legetøjsbutikker i Danmark (Toy shops in Denmark)",
+  "title": "Legetøjsbutikker i Danmark (Toy shops in Denmark)",
+  "description": "Toy shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=toys.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 129,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "10-20-30 Blåvand",
+      "latitude": 55.554964,
+      "longitude": 8.128849
+    },
+    {
+      "name": "A. B. Legetøj",
+      "latitude": 55.699564,
+      "longitude": 12.57693
+    },
+    {
+      "name": "Aalborg Hobby Service",
+      "latitude": 57.046532,
+      "longitude": 9.927105
+    },
+    {
+      "name": "Airsoft Geek",
+      "latitude": 55.352177,
+      "longitude": 8.777803
+    },
+    {
+      "name": "All About Kids",
+      "latitude": 55.39429,
+      "longitude": 10.386024
+    },
+    {
+      "name": "Askeladen",
+      "latitude": 56.159272,
+      "longitude": 10.204378
+    },
+    {
+      "name": "Bambi",
+      "latitude": 56.136417,
+      "longitude": 8.967361
+    },
+    {
+      "name": "Banditten",
+      "latitude": 55.707116,
+      "longitude": 12.577709
+    },
+    {
+      "name": "BilligLeg",
+      "latitude": 55.352327,
+      "longitude": 8.777699
+    },
+    {
+      "name": "Blandede Bolcher",
+      "latitude": 54.887565,
+      "longitude": 10.411583
+    },
+    {
+      "name": "BR",
+      "latitude": 55.387162,
+      "longitude": 11.325169
+    },
+    {
+      "name": "BR",
+      "latitude": 55.508485,
+      "longitude": 8.453053
+    },
+    {
+      "name": "BR",
+      "latitude": 55.516096,
+      "longitude": 9.461589
+    },
+    {
+      "name": "BR",
+      "latitude": 55.598282,
+      "longitude": 12.326093
+    },
+    {
+      "name": "BR",
+      "latitude": 55.630778,
+      "longitude": 12.576694
+    },
+    {
+      "name": "BR",
+      "latitude": 55.642108,
+      "longitude": 12.100523
+    },
+    {
+      "name": "BR",
+      "latitude": 55.657638,
+      "longitude": 12.286105
+    },
+    {
+      "name": "BR",
+      "latitude": 55.678588,
+      "longitude": 12.574825
+    },
+    {
+      "name": "BR",
+      "latitude": 55.704549,
+      "longitude": 11.671428
+    },
+    {
+      "name": "BR",
+      "latitude": 55.705405,
+      "longitude": 9.531831
+    },
+    {
+      "name": "BR",
+      "latitude": 56.149302,
+      "longitude": 10.203877
+    },
+    {
+      "name": "BR",
+      "latitude": 56.182591,
+      "longitude": 10.100613
+    },
+    {
+      "name": "BR",
+      "latitude": 56.377204,
+      "longitude": 8.619568
+    },
+    {
+      "name": "BR",
+      "latitude": 56.427738,
+      "longitude": 10.057122
+    },
+    {
+      "name": "BR",
+      "latitude": 56.445787,
+      "longitude": 9.365823
+    },
+    {
+      "name": "BR",
+      "latitude": 57.046963,
+      "longitude": 9.922559
+    },
+    {
+      "name": "BR Fields Kbh",
+      "latitude": 55.630459,
+      "longitude": 12.576942
+    },
+    {
+      "name": "BR Frederiksberg Centeret",
+      "latitude": 55.681414,
+      "longitude": 12.53292
+    },
+    {
+      "name": "BR Hillerød",
+      "latitude": 55.928809,
+      "longitude": 12.298682
+    },
+    {
+      "name": "BR København V",
+      "latitude": 55.662125,
+      "longitude": 12.561627
+    },
+    {
+      "name": "BR Legetøj",
+      "latitude": 55.382002,
+      "longitude": 10.427747
+    },
+    {
+      "name": "BR legetøj",
+      "latitude": 56.169937,
+      "longitude": 10.188344
+    },
+    {
+      "name": "BR Rødovre",
+      "latitude": 55.692821,
+      "longitude": 12.434134
+    },
+    {
+      "name": "Buddy",
+      "latitude": 55.465594,
+      "longitude": 8.458269
+    },
+    {
+      "name": "Buddy",
+      "latitude": 56.08977,
+      "longitude": 8.244111
+    },
+    {
+      "name": "Buddy",
+      "latitude": 56.135464,
+      "longitude": 8.998837
+    },
+    {
+      "name": "Buddy Legetøj",
+      "latitude": 55.25032,
+      "longitude": 9.488227
+    },
+    {
+      "name": "Butik Elin",
+      "latitude": 55.158698,
+      "longitude": 8.763273
+    },
+    {
+      "name": "Butik Rømø",
+      "latitude": 55.146089,
+      "longitude": 8.495558
+    },
+    {
+      "name": "Børnenes Kartel",
+      "latitude": 55.513595,
+      "longitude": 9.460607
+    },
+    {
+      "name": "Børnenes Kartel",
+      "latitude": 56.135996,
+      "longitude": 8.996933
+    },
+    {
+      "name": "Børnenes Kartel",
+      "latitude": 56.168334,
+      "longitude": 9.545504
+    },
+    {
+      "name": "Castle Shop",
+      "latitude": 55.736298,
+      "longitude": 9.125527
+    },
+    {
+      "name": "Chao Chao",
+      "latitude": 55.697191,
+      "longitude": 12.544873
+    },
+    {
+      "name": "citytoys.dk",
+      "latitude": 55.466946,
+      "longitude": 8.444283
+    },
+    {
+      "name": "Coast Toys",
+      "latitude": 55.555164,
+      "longitude": 8.130743
+    },
+    {
+      "name": "Coolshop Lego Botanicals",
+      "latitude": 57.005143,
+      "longitude": 9.874598
+    },
+    {
+      "name": "Dansk Håndværk",
+      "latitude": 55.676992,
+      "longitude": 12.575001
+    },
+    {
+      "name": "Drageshoppen",
+      "latitude": 56.804876,
+      "longitude": 10.271613
+    },
+    {
+      "name": "Ducky Memories",
+      "latitude": 55.676936,
+      "longitude": 12.570195
+    },
+    {
+      "name": "Erna's Børnebutik",
+      "latitude": 55.103097,
+      "longitude": 14.699112
+    },
+    {
+      "name": "Felderbanen",
+      "latitude": 55.525002,
+      "longitude": 9.463524
+    },
+    {
+      "name": "Felix Team",
+      "latitude": 56.077623,
+      "longitude": 10.098741
+    },
+    {
+      "name": "Fix-ide",
+      "latitude": 55.687217,
+      "longitude": 12.530889
+    },
+    {
+      "name": "Fætter BR",
+      "latitude": 54.909683,
+      "longitude": 9.791767
+    },
+    {
+      "name": "Fætter BR",
+      "latitude": 55.308492,
+      "longitude": 10.803954
+    },
+    {
+      "name": "Fætter BR",
+      "latitude": 57.000788,
+      "longitude": 9.8739
+    },
+    {
+      "name": "Gear Up Tactical",
+      "latitude": 55.690121,
+      "longitude": 12.516986
+    },
+    {
+      "name": "Geppel's Legetøj",
+      "latitude": 55.922565,
+      "longitude": 11.669075
+    },
+    {
+      "name": "GK Legetøj",
+      "latitude": 56.954969,
+      "longitude": 8.689965
+    },
+    {
+      "name": "GL Legetøj",
+      "latitude": 55.705044,
+      "longitude": 12.502999
+    },
+    {
+      "name": "Go Figure",
+      "latitude": 55.735218,
+      "longitude": 9.126873
+    },
+    {
+      "name": "Gunzone & Goblingames",
+      "latitude": 56.159594,
+      "longitude": 10.213843
+    },
+    {
+      "name": "Henne Toys",
+      "latitude": 55.739219,
+      "longitude": 8.181147
+    },
+    {
+      "name": "Hobbystalden",
+      "latitude": 55.293749,
+      "longitude": 12.280358
+    },
+    {
+      "name": "Idéen",
+      "latitude": 55.778568,
+      "longitude": 8.292912
+    },
+    {
+      "name": "JK Model",
+      "latitude": 56.156475,
+      "longitude": 10.184798
+    },
+    {
+      "name": "Jumbo Kids",
+      "latitude": 55.702171,
+      "longitude": 12.533786
+    },
+    {
+      "name": "Karrusella",
+      "latitude": 56.158824,
+      "longitude": 10.208681
+    },
+    {
+      "name": "Kids",
+      "latitude": 55.860782,
+      "longitude": 9.846239
+    },
+    {
+      "name": "KiDs Coolshop",
+      "latitude": 55.251645,
+      "longitude": 9.499736
+    },
+    {
+      "name": "Kids Coolshop",
+      "latitude": 55.382601,
+      "longitude": 10.426493
+    },
+    {
+      "name": "Kids Coolshop",
+      "latitude": 55.478592,
+      "longitude": 12.185603
+    },
+    {
+      "name": "Kids Coolshop",
+      "latitude": 55.508526,
+      "longitude": 8.450046
+    },
+    {
+      "name": "Kids Coolshop",
+      "latitude": 55.513459,
+      "longitude": 9.460587
+    },
+    {
+      "name": "Kids Coolshop",
+      "latitude": 56.11631,
+      "longitude": 10.154027
+    },
+    {
+      "name": "KiDS Coolshop",
+      "latitude": 56.186743,
+      "longitude": 9.546309
+    },
+    {
+      "name": "KiDS Coolshop",
+      "latitude": 57.446309,
+      "longitude": 10.507829
+    },
+    {
+      "name": "Kids Coolshop Svendborg",
+      "latitude": 55.06339,
+      "longitude": 10.589292
+    },
+    {
+      "name": "Kidzcorner",
+      "latitude": 55.717821,
+      "longitude": 11.703045
+    },
+    {
+      "name": "Klods Hans",
+      "latitude": 55.398855,
+      "longitude": 10.390631
+    },
+    {
+      "name": "Kusine bodil",
+      "latitude": 55.667557,
+      "longitude": 12.546609
+    },
+    {
+      "name": "Leg Godt",
+      "latitude": 55.706211,
+      "longitude": 12.513489
+    },
+    {
+      "name": "Lege Kaeden",
+      "latitude": 55.565092,
+      "longitude": 10.091421
+    },
+    {
+      "name": "Lege Kæden",
+      "latitude": 55.703173,
+      "longitude": 12.538058
+    },
+    {
+      "name": "Legekæden",
+      "latitude": 55.046133,
+      "longitude": 9.418521
+    },
+    {
+      "name": "Legekæden",
+      "latitude": 55.102935,
+      "longitude": 14.699092
+    },
+    {
+      "name": "Legekæden",
+      "latitude": 55.380318,
+      "longitude": 10.048474
+    },
+    {
+      "name": "Legekæden",
+      "latitude": 55.729789,
+      "longitude": 9.115621
+    },
+    {
+      "name": "Legekæden",
+      "latitude": 55.772226,
+      "longitude": 12.505646
+    },
+    {
+      "name": "Legekæden",
+      "latitude": 55.814423,
+      "longitude": 12.380907
+    },
+    {
+      "name": "Legekæden",
+      "latitude": 55.861107,
+      "longitude": 9.845555
+    },
+    {
+      "name": "Legekæden",
+      "latitude": 56.299914,
+      "longitude": 10.48048
+    },
+    {
+      "name": "Legekæden",
+      "latitude": 56.5655,
+      "longitude": 9.031524
+    },
+    {
+      "name": "Legekæden Bagsværd",
+      "latitude": 55.761251,
+      "longitude": 12.454243
+    },
+    {
+      "name": "Legekæden Ebeltoft",
+      "latitude": 56.200851,
+      "longitude": 10.680341
+    },
+    {
+      "name": "Legekædwn",
+      "latitude": 55.757426,
+      "longitude": 8.926323
+    },
+    {
+      "name": "Legetøj",
+      "latitude": 56.44939,
+      "longitude": 9.407849
+    },
+    {
+      "name": "Legetøjshuset Danmark",
+      "latitude": 55.681201,
+      "longitude": 12.572498
+    },
+    {
+      "name": "Lego",
+      "latitude": 55.629136,
+      "longitude": 12.644329
+    },
+    {
+      "name": "Lego",
+      "latitude": 55.674589,
+      "longitude": 12.565357
+    },
+    {
+      "name": "Lego",
+      "latitude": 55.678511,
+      "longitude": 12.575954
+    },
+    {
+      "name": "Lego",
+      "latitude": 55.730834,
+      "longitude": 9.114581
+    },
+    {
+      "name": "Lego",
+      "latitude": 55.734647,
+      "longitude": 9.126208
+    },
+    {
+      "name": "Lego",
+      "latitude": 55.734766,
+      "longitude": 9.12987
+    },
+    {
+      "name": "Lego Nexo Knights Shop",
+      "latitude": 55.736212,
+      "longitude": 9.125553
+    },
+    {
+      "name": "Letkøb Legetøj",
+      "latitude": 55.637946,
+      "longitude": 12.634938
+    },
+    {
+      "name": "Miniministeriet",
+      "latitude": 55.682113,
+      "longitude": 12.573465
+    },
+    {
+      "name": "monito.dk",
+      "latitude": 55.059072,
+      "longitude": 10.607495
+    },
+    {
+      "name": "Monky Tonky Factory",
+      "latitude": 56.122095,
+      "longitude": 8.114703
+    },
+    {
+      "name": "Monky Tonky Land",
+      "latitude": 54.665987,
+      "longitude": 11.332455
+    },
+    {
+      "name": "Nicko-Leg",
+      "latitude": 55.008637,
+      "longitude": 11.908448
+    },
+    {
+      "name": "Orangerie",
+      "latitude": 55.254339,
+      "longitude": 11.840856
+    },
+    {
+      "name": "Petit Monde",
+      "latitude": 55.701131,
+      "longitude": 12.580043
+    },
+    {
+      "name": "Pocket Monster",
+      "latitude": 55.690596,
+      "longitude": 12.544344
+    },
+    {
+      "name": "Prik",
+      "latitude": 55.676407,
+      "longitude": 12.541219
+    },
+    {
+      "name": "På sporet",
+      "latitude": 55.371962,
+      "longitude": 11.538627
+    },
+    {
+      "name": "RC Kongen",
+      "latitude": 55.476543,
+      "longitude": 10.264668
+    },
+    {
+      "name": "RePlay legetøj",
+      "latitude": 55.677136,
+      "longitude": 12.546116
+    },
+    {
+      "name": "Rømø Legetøj",
+      "latitude": 55.087417,
+      "longitude": 8.560199
+    },
+    {
+      "name": "Samler Børsen, Aarhus",
+      "latitude": 56.145771,
+      "longitude": 10.20446
+    },
+    {
+      "name": "Skagen Toys",
+      "latitude": 57.721409,
+      "longitude": 10.586533
+    },
+    {
+      "name": "SMT Modeltog",
+      "latitude": 55.953685,
+      "longitude": 8.516433
+    },
+    {
+      "name": "Stor Ståhej",
+      "latitude": 55.783883,
+      "longitude": 12.373596
+    },
+    {
+      "name": "Tim´s floorball & Modeltog",
+      "latitude": 57.442343,
+      "longitude": 10.537469
+    },
+    {
+      "name": "Tout Petit",
+      "latitude": 54.887699,
+      "longitude": 10.408838
+    },
+    {
+      "name": "Toy Store",
+      "latitude": 56.119198,
+      "longitude": 8.116666
+    },
+    {
+      "name": "TOYS’N’LOOT",
+      "latitude": 55.250731,
+      "longitude": 9.488273
+    },
+    {
+      "name": "Vores Verden",
+      "latitude": 55.555417,
+      "longitude": 8.134985
+    }
+  ],
+  "meta": {
+    "title": "Legetøjsbutikker i Danmark (Toy shops in Denmark) - Gratis download",
+    "description": "Toy shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=toys. Indeholder 129 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Legetøjsbutikker i Danmark (Toy shops in Denmark) | ListBase",
+    "seo_description": "Download Legetøjsbutikker i Danmark (Toy shops in Denmark) — 129 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 129 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

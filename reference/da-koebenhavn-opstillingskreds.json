@@ -1,0 +1,220 @@
+{
+  "id": "da-koebenhavn-opstillingskreds",
+  "name": "Opstillingskredse i København-storkredsen",
+  "title": "Opstillingskredse i København-storkredsen",
+  "description": "Opstillingskredse i storkredsen København (i alt 12). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "valgkreds_nr",
+      "label": "Valgkreds Nr",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_id",
+      "label": "Storkreds Id",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_name",
+      "label": "Storkreds Name",
+      "type": "string"
+    },
+    {
+      "key": "landsdel_id",
+      "label": "Landsdel Id",
+      "type": "number"
+    },
+    {
+      "key": "landsdel_name",
+      "label": "Landsdel Name",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "7",
+      "name": "Brønshøj",
+      "slug": "broenshoej",
+      "valgkreds_nr": "7",
+      "storkreds_id": "1",
+      "storkreds_name": "København",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "10",
+      "name": "Falkoner",
+      "slug": "falkoner",
+      "valgkreds_nr": "10",
+      "storkreds_id": "1",
+      "storkreds_name": "København",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "3",
+      "name": "Indre By",
+      "slug": "indre-by",
+      "valgkreds_nr": "12",
+      "storkreds_id": "1",
+      "storkreds_name": "København",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "5",
+      "name": "Nørrebro",
+      "slug": "noerrebro",
+      "valgkreds_nr": "5",
+      "storkreds_id": "1",
+      "storkreds_name": "København",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "11",
+      "name": "Slots",
+      "slug": "slots",
+      "valgkreds_nr": "11",
+      "storkreds_id": "1",
+      "storkreds_name": "København",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "2",
+      "name": "Sundbyvester",
+      "slug": "sundbyvester",
+      "valgkreds_nr": "2",
+      "storkreds_id": "1",
+      "storkreds_name": "København",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "4",
+      "name": "Sundbyøster",
+      "slug": "sundbyoester",
+      "valgkreds_nr": "4",
+      "storkreds_id": "1",
+      "storkreds_name": "København",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "12",
+      "name": "Tårnby",
+      "slug": "taarnby",
+      "valgkreds_nr": "12",
+      "storkreds_id": "1",
+      "storkreds_name": "København",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "6",
+      "name": "Utterslev",
+      "slug": "utterslev",
+      "valgkreds_nr": "6",
+      "storkreds_id": "1",
+      "storkreds_name": "København",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "8",
+      "name": "Valby",
+      "slug": "valby",
+      "valgkreds_nr": "8",
+      "storkreds_id": "1",
+      "storkreds_name": "København",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "9",
+      "name": "Vesterbro",
+      "slug": "vesterbro",
+      "valgkreds_nr": "9",
+      "storkreds_id": "1",
+      "storkreds_name": "København",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "1",
+      "name": "Østerbro",
+      "slug": "oesterbro",
+      "valgkreds_nr": "1",
+      "storkreds_id": "1",
+      "storkreds_name": "København",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    }
+  ],
+  "meta": {
+    "title": "Opstillingskredse i København-storkredsen - Gratis download",
+    "description": "Opstillingskredse i storkredsen København (i alt 12). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget). Indeholder 12 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Opstillingskredse i København-storkredsen | ListBase",
+    "seo_description": "Download Opstillingskredse i København-storkredsen — 12 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 12 poster / 10 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

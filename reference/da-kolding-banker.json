@@ -1,0 +1,79 @@
+{
+  "id": "da-kolding-banker",
+  "name": "Banker i Kolding — SWIFT/BIC-koder",
+  "title": "Banker i Kolding — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Kolding, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"KOLDING\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 20,
+      "bank": "BANKNORDIK",
+      "city": "KOLDING",
+      "branch": "",
+      "swift_code": "BANODK21"
+    },
+    {
+      "id": 91,
+      "bank": "DANSKE BANK A/S",
+      "city": "KOLDING",
+      "branch": "",
+      "swift_code": "DABADKKKKOL"
+    },
+    {
+      "id": 204,
+      "bank": "GLOBAL EVOLUTION FONDSMAEGLERSELSKAB A/S",
+      "city": "KOLDING",
+      "branch": "",
+      "swift_code": "GEVODK22"
+    },
+    {
+      "id": 475,
+      "bank": "SYDBANK A/S",
+      "city": "KOLDING",
+      "branch": "",
+      "swift_code": "SYBKDK22KOL"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Kolding — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Kolding, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"KOLDING\"). Delmængde af det nationale da-banker-datasæt. Indeholder 4 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Kolding — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Kolding — SWIFT/BIC-koder — 4 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 4 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

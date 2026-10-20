@@ -1,0 +1,106 @@
+{
+  "id": "da-maaleenheder-consumption",
+  "name": "Måleenheder: consumption (4)",
+  "title": "Måleenheder: consumption (4)",
+  "description": "CLDR da-lokalets måleenheder i kategorien 'consumption'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategori": "consumption",
+      "navn": "liter pr. 100 kilometer",
+      "moenster_en": "{0} liter pr. 100 kilometer",
+      "moenster_flere": "{0} liter pr. 100 kilometer",
+      "kort_moenster": "{0} l/100 km",
+      "smal_moenster": "{0} l/100 km"
+    },
+    {
+      "id": 2,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategori": "consumption",
+      "navn": "liter pr. kilometer",
+      "moenster_en": "{0} liter pr. kilometer",
+      "moenster_flere": "{0} liter pr. kilometer",
+      "kort_moenster": "{0} l/km",
+      "smal_moenster": "{0} l/km"
+    },
+    {
+      "id": 3,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategori": "consumption",
+      "navn": "mil pr. gallon",
+      "moenster_en": "mil pr. gallon",
+      "moenster_flere": "{0} mil pr. gallon",
+      "kort_moenster": "{0} mpg",
+      "smal_moenster": "{0} mpg"
+    },
+    {
+      "id": 4,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategori": "consumption",
+      "navn": "mil pr. engelsk gallon",
+      "moenster_en": "{0} mil pr. engelsk gallon",
+      "moenster_flere": "{0} mil pr. engelsk gallon",
+      "kort_moenster": "{0} eng. mpg",
+      "smal_moenster": "{0}mpgUK"
+    }
+  ],
+  "meta": {
+    "title": "Måleenheder: consumption (4) - Gratis download",
+    "description": "CLDR da-lokalets måleenheder i kategorien 'consumption'. Indeholder 4 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Måleenheder: consumption (4) | ListBase",
+    "seo_description": "Download Måleenheder: consumption (4) — 4 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 4 poster / 8 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

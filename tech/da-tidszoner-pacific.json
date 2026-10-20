@@ -1,0 +1,120 @@
+{
+  "id": "da-tidszoner-pacific",
+  "name": "Tidszoner: Pacific (8)",
+  "title": "Tidszoner: Pacific (8)",
+  "description": "CLDR da-lokalets tidszoner i regionen 'Pacific'.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "by_navn",
+      "label": "By Navn",
+      "type": "string"
+    },
+    {
+      "key": "standardtid",
+      "label": "Standardtid",
+      "type": "string"
+    },
+    {
+      "key": "sommertid",
+      "label": "Sommertid",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tz_id": "Pacific/Easter",
+      "region": "Pacific",
+      "by_navn": "Påskeøen",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 1
+    },
+    {
+      "tz_id": "Pacific/Enderbury",
+      "region": "Pacific",
+      "by_navn": "Canton Island",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 2
+    },
+    {
+      "tz_id": "Pacific/Galapagos",
+      "region": "Pacific",
+      "by_navn": "Galápagos",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 3
+    },
+    {
+      "tz_id": "Pacific/Honolulu",
+      "region": "Pacific",
+      "by_navn": "Honolulu",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 4
+    },
+    {
+      "tz_id": "Pacific/Noumea",
+      "region": "Pacific",
+      "by_navn": "Nouméa",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 5
+    },
+    {
+      "tz_id": "Pacific/Ponape",
+      "region": "Pacific",
+      "by_navn": "Pohnpei",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 6
+    },
+    {
+      "tz_id": "Pacific/Truk",
+      "region": "Pacific",
+      "by_navn": "Chuuk",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 7
+    },
+    {
+      "tz_id": "Pacific/Wallis",
+      "region": "Pacific",
+      "by_navn": "Wallis & Futuna",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 8
+    }
+  ],
+  "meta": {
+    "title": "Tidszoner: Pacific (8) - Gratis download",
+    "description": "CLDR da-lokalets tidszoner i regionen 'Pacific'. Indeholder 8 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Tidszoner: Pacific (8) | ListBase",
+    "seo_description": "Download Tidszoner: Pacific (8) — 8 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 8 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

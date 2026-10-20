@@ -1,0 +1,72 @@
+{
+  "id": "da-tidszoner-antarctica",
+  "name": "Tidszoner: Antarctica (2)",
+  "title": "Tidszoner: Antarctica (2)",
+  "description": "CLDR da-lokalets tidszoner i regionen 'Antarctica'.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "by_navn",
+      "label": "By Navn",
+      "type": "string"
+    },
+    {
+      "key": "standardtid",
+      "label": "Standardtid",
+      "type": "string"
+    },
+    {
+      "key": "sommertid",
+      "label": "Sommertid",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tz_id": "Antarctica/DumontDUrville",
+      "region": "Antarctica",
+      "by_navn": "Dumont-d’Urville",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 1
+    },
+    {
+      "tz_id": "Antarctica/Syowa",
+      "region": "Antarctica",
+      "by_navn": "Showa",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 2
+    }
+  ],
+  "meta": {
+    "title": "Tidszoner: Antarctica (2) - Gratis download",
+    "description": "CLDR da-lokalets tidszoner i regionen 'Antarctica'. Indeholder 2 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Tidszoner: Antarctica (2) | ListBase",
+    "seo_description": "Download Tidszoner: Antarctica (2) — 2 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 2 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

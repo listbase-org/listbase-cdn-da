@@ -1,0 +1,296 @@
+{
+  "id": "da-odense-afstemningssteder",
+  "name": "Afstemningssteder i Odense Kommune",
+  "title": "Afstemningssteder i Odense Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Odense Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Skt. Jørgens Hallen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 41,
+      "opstillingskreds": "Odense Øst"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Sct. Hans Skole",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 41,
+      "opstillingskreds": "Odense Øst"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Risingskolen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 41,
+      "opstillingskreds": "Odense Øst"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Munkebjergskolen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 41,
+      "opstillingskreds": "Odense Øst"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Ejerslykkeskolen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 41,
+      "opstillingskreds": "Odense Øst"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Agedrup Skole",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 41,
+      "opstillingskreds": "Odense Øst"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Fjordager-Hallen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 41,
+      "opstillingskreds": "Odense Øst"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Fraugde Fritidscenter",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 41,
+      "opstillingskreds": "Odense Øst"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "VUC /Jernbanegade",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 42,
+      "opstillingskreds": "Odense Vest"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "CSV-Skolen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 42,
+      "opstillingskreds": "Odense Vest"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Lumby Forsamlingshus",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 42,
+      "opstillingskreds": "Odense Vest"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Stige Skole",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 42,
+      "opstillingskreds": "Odense Vest"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Spurvelundskolen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 42,
+      "opstillingskreds": "Odense Vest"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Kroggårdsskolen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 42,
+      "opstillingskreds": "Odense Vest"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Tarup Skole",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 42,
+      "opstillingskreds": "Odense Vest"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Paarup Forsamlingshus",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 42,
+      "opstillingskreds": "Odense Vest"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Korup Skole",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 42,
+      "opstillingskreds": "Odense Vest"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Ubberudhallen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 42,
+      "opstillingskreds": "Odense Vest"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Rådhuset",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 43,
+      "opstillingskreds": "Odense Syd"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Sct. Knuds Gymnasium",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 43,
+      "opstillingskreds": "Odense Syd"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Rosengårdskolen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 43,
+      "opstillingskreds": "Odense Syd"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Sanderumhallen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 43,
+      "opstillingskreds": "Odense Syd"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "Rasmus Rask Skolen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 43,
+      "opstillingskreds": "Odense Syd"
+    },
+    {
+      "afstemningsomraade_kode": "29",
+      "afstemningssted": "Tingløkkeskolen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 43,
+      "opstillingskreds": "Odense Syd"
+    },
+    {
+      "afstemningsomraade_kode": "30",
+      "afstemningssted": "Dalumskolen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 43,
+      "opstillingskreds": "Odense Syd"
+    },
+    {
+      "afstemningsomraade_kode": "31",
+      "afstemningssted": "Stenløse Forsamlingshus",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 43,
+      "opstillingskreds": "Odense Syd"
+    },
+    {
+      "afstemningsomraade_kode": "32",
+      "afstemningssted": "Fangel Forsamlingshus",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 43,
+      "opstillingskreds": "Odense Syd"
+    },
+    {
+      "afstemningsomraade_kode": "33",
+      "afstemningssted": "Højby Skole",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 43,
+      "opstillingskreds": "Odense Syd"
+    },
+    {
+      "afstemningsomraade_kode": "35",
+      "afstemningssted": "Abildgårdskolen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 41,
+      "opstillingskreds": "Odense Øst"
+    },
+    {
+      "afstemningsomraade_kode": "36",
+      "afstemningssted": "Bækholmskolen",
+      "kommune_kode": 461,
+      "kommune": "Odense",
+      "opstillingskreds_nummer": 41,
+      "opstillingskreds": "Odense Øst"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Odense Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Odense Kommune med opstillingskreds. Indeholder 30 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Odense Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Odense Kommune — 30 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 30 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

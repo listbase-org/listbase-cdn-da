@@ -1,0 +1,912 @@
+{
+  "id": "da-banker-liste",
+  "name": "Danske banker — liste med reg.nr.-antal",
+  "title": "Danske banker — liste med reg.nr.-antal",
+  "description": "Liste over unikke danske banker udledt af x2q/danish-bank-codes-datasættet. Hver post indeholder bankens navn, antal tildelte registreringsnumre (reg.nr.) i hele Danmark, eksempler på reg.nr., samt et sample bynavn og webadresse.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 123,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "reg_nr_examples",
+      "label": "Reg Nr Examples",
+      "type": "string"
+    },
+    {
+      "key": "reg_nr_count",
+      "label": "Reg Nr Count",
+      "type": "number"
+    },
+    {
+      "key": "sample_url",
+      "label": "Sample Url",
+      "type": "string"
+    },
+    {
+      "key": "sample_city",
+      "label": "Sample City",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "Nordea",
+      "reg_nr_examples": "0040, 0041, 0042, 0043, 0044",
+      "reg_nr_count": 1287,
+      "sample_url": "www.nordea.dk",
+      "sample_city": "Vordingborg"
+    },
+    {
+      "bank": "Danske Bank",
+      "reg_nr_examples": "0200, 0216, 0220, 0222, 0225",
+      "reg_nr_count": 976,
+      "sample_url": "www.danskebank.dk",
+      "sample_city": "Høje Taastrup"
+    },
+    {
+      "bank": "Jyske Bank",
+      "reg_nr_examples": "0681, 0682, 0683, 0684, 0685",
+      "reg_nr_count": 212,
+      "sample_url": "www.jyskebank.dk",
+      "sample_city": "Silkeborg"
+    },
+    {
+      "bank": "Spar Nord",
+      "reg_nr_examples": "7130, 7131, 7220, 7470, 7471",
+      "reg_nr_count": 162,
+      "sample_url": "www.sparnord.dk",
+      "sample_city": "Aars"
+    },
+    {
+      "bank": "Sydbank",
+      "reg_nr_examples": "0570, 5400, 6735, 6736, 6737",
+      "reg_nr_count": 112,
+      "sample_url": "www.sydbank.dk",
+      "sample_city": "Viborg"
+    },
+    {
+      "bank": "Arbejdernes Landsbank",
+      "reg_nr_examples": "5301, 5302, 5303, 5304, 5305",
+      "reg_nr_count": 78,
+      "sample_url": "www.al-bank.dk",
+      "sample_city": "København S"
+    },
+    {
+      "bank": "Sparekassen Kronjylland",
+      "reg_nr_examples": "0866, 6110, 6111, 6112, 6113",
+      "reg_nr_count": 71,
+      "sample_url": "www.sparkron.dk",
+      "sample_city": "Stoholm"
+    },
+    {
+      "bank": "Handelsbanken",
+      "reg_nr_examples": "0880, 0881, 0883, 0884, 0888",
+      "reg_nr_count": 71,
+      "sample_url": "www.handelsbanken.dk",
+      "sample_city": "København V"
+    },
+    {
+      "bank": "FS Bank",
+      "reg_nr_examples": "0561, 0725, 0751, 0763, 0824",
+      "reg_nr_count": 47,
+      "sample_url": "www.fsbank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Den Jyske Sparekasse",
+      "reg_nr_examples": "0867, 0868, 0870, 0871, 0872",
+      "reg_nr_count": 44,
+      "sample_url": "www.djs.dk",
+      "sample_city": "Give"
+    },
+    {
+      "bank": "Danske Andelskassers Bank",
+      "reg_nr_examples": "5950, 5951, 5952, 5953, 5954",
+      "reg_nr_count": 42,
+      "sample_url": "www.andelskassen.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Jutlander Bank",
+      "reg_nr_examples": "7410, 7461, 8139, 8140, 8141",
+      "reg_nr_count": 40,
+      "sample_url": "www.jutlander.dk",
+      "sample_city": "Mariager"
+    },
+    {
+      "bank": "Sparekassen Sjælland",
+      "reg_nr_examples": "0516, 0517, 0518, 0519, 0520",
+      "reg_nr_count": 33,
+      "sample_url": "alm.spks.dk",
+      "sample_city": "Kalundborg"
+    },
+    {
+      "bank": "vestjyskBANK",
+      "reg_nr_examples": "7270, 7600, 7601, 7602, 7603",
+      "reg_nr_count": 31,
+      "sample_url": "www.vestjyskbank.dk",
+      "sample_city": "Aarhus C"
+    },
+    {
+      "bank": "Nordjyske Bank",
+      "reg_nr_examples": "7370, 7371, 7372, 7375, 7379",
+      "reg_nr_count": 30,
+      "sample_url": "www.nordjyskebank.dk",
+      "sample_city": "Hirtshals"
+    },
+    {
+      "bank": "BankNordik",
+      "reg_nr_examples": "6460, 6503, 6504, 6505, 6506",
+      "reg_nr_count": 27,
+      "sample_url": "www.banknordik.dk",
+      "sample_city": "København S"
+    },
+    {
+      "bank": "Nykredit Bank",
+      "reg_nr_examples": "5470, 5471, 5472, 5473, 5474",
+      "reg_nr_count": 22,
+      "sample_url": "www.nykredit.dk",
+      "sample_city": "Taastrup"
+    },
+    {
+      "bank": "Nørresundby Bank",
+      "reg_nr_examples": "7440, 7441, 7442, 7443, 7444",
+      "reg_nr_count": 22,
+      "sample_url": "alm.nrsbank.dk",
+      "sample_city": "Aalborg"
+    },
+    {
+      "bank": "Sparekassen Thy",
+      "reg_nr_examples": "1519, 9081, 9083, 9086, 9087",
+      "reg_nr_count": 20,
+      "sample_url": "www.sparthy.dk",
+      "sample_city": "Hurup"
+    },
+    {
+      "bank": "Fynske Bank ",
+      "reg_nr_examples": "0813, 0814, 0815, 0816, 0817",
+      "reg_nr_count": 15,
+      "sample_url": "www.svendborgsparekasse.dk",
+      "sample_city": "Svendborg"
+    },
+    {
+      "bank": "Middelfart Sparekasse",
+      "reg_nr_examples": "0755, 0756, 0757, 0758, 0759",
+      "reg_nr_count": 13,
+      "sample_url": "www.midspar.dk",
+      "sample_city": "Middelfart"
+    },
+    {
+      "bank": "Djurslands Bank",
+      "reg_nr_examples": "7260, 7261, 7264, 7265, 7266",
+      "reg_nr_count": 13,
+      "sample_url": "www.djurslandsbank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Unknown",
+      "reg_nr_examples": "0901, 1289, 2225, 3900, 4236",
+      "reg_nr_count": 11,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Frøs Herreds Sparekasse",
+      "reg_nr_examples": "7573, 9733, 9734, 9735, 9736",
+      "reg_nr_count": 11,
+      "sample_url": "www.froes.dk",
+      "sample_city": "Haderslev"
+    },
+    {
+      "bank": "Saxo Privatbank",
+      "reg_nr_examples": "1187, 7952, 7953, 7955, 8146",
+      "reg_nr_count": 9,
+      "sample_url": "dk.saxobank.com",
+      "sample_city": "Hellerup"
+    },
+    {
+      "bank": "Nordfyns Bank A/S",
+      "reg_nr_examples": "6860, 6861, 6862, 6863, 6864",
+      "reg_nr_count": 9,
+      "sample_url": "www.nordfynsbank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Vestfyns Bank A/S",
+      "reg_nr_examples": "6850, 6851, 6852, 6853, 6854",
+      "reg_nr_count": 7,
+      "sample_url": "www.fynskebank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Dragsholm Sparekasse",
+      "reg_nr_examples": "0533, 0534, 0535, 0537, 0547",
+      "reg_nr_count": 5,
+      "sample_url": "www.dragsholmsparekasse.dk",
+      "sample_city": "Asnæs"
+    },
+    {
+      "bank": "Nationalbanken",
+      "reg_nr_examples": "1001, 1003, 1005, 1011, 1111",
+      "reg_nr_count": 5,
+      "sample_url": "www.nationalbanken.dk",
+      "sample_city": "København K"
+    },
+    {
+      "bank": "Sparekassen Vendsyssel",
+      "reg_nr_examples": "9020, 9070, 9116, 9140, 9141",
+      "reg_nr_count": 5,
+      "sample_url": "www.sparekassen-vendsyssel.dk",
+      "sample_city": "Vrå"
+    },
+    {
+      "bank": "Kreditbanken",
+      "reg_nr_examples": "7930, 7931, 7932, 7933",
+      "reg_nr_count": 4,
+      "sample_url": "www.kreditbanken.dk",
+      "sample_city": "Aabenraa"
+    },
+    {
+      "bank": "Sparekassen Sjælland ",
+      "reg_nr_examples": "0577, 0586, 0587",
+      "reg_nr_count": 3,
+      "sample_url": "alm.spks.dk",
+      "sample_city": "Slagelse"
+    },
+    {
+      "bank": "Ringkjøbing Landbobank",
+      "reg_nr_examples": "7670, 7679, 7800",
+      "reg_nr_count": 3,
+      "sample_url": "alm.landbobanken.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Sparekassen Bredebro",
+      "reg_nr_examples": "9827, 9828, 9839",
+      "reg_nr_count": 3,
+      "sample_url": "www.sparbredebro.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Lån og Spar Bank",
+      "reg_nr_examples": "0400, 0404",
+      "reg_nr_count": 2,
+      "sample_url": "www.lsb.dk",
+      "sample_city": "København K"
+    },
+    {
+      "bank": "Sydbank A/S ",
+      "reg_nr_examples": "0581, 0588",
+      "reg_nr_count": 2,
+      "sample_url": "www.sydbank.dk",
+      "sample_city": "Sorø"
+    },
+    {
+      "bank": "Møns Bank",
+      "reg_nr_examples": "0644, 6140",
+      "reg_nr_count": 2,
+      "sample_url": "www.moensbank.dk",
+      "sample_city": "Askeby"
+    },
+    {
+      "bank": "Skandinaviska Enskilda Banken",
+      "reg_nr_examples": "5295, 6100",
+      "reg_nr_count": 2,
+      "sample_url": "www.seb.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Swedbank",
+      "reg_nr_examples": "6004, 6011",
+      "reg_nr_count": 2,
+      "sample_url": "www.swedbank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Diba Bank",
+      "reg_nr_examples": "6060, 9942",
+      "reg_nr_count": 2,
+      "sample_url": "www.diba.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Lollands Bank",
+      "reg_nr_examples": "6520, 6525",
+      "reg_nr_count": 2,
+      "sample_url": "www.lollandsbank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Alm. Brand Bank",
+      "reg_nr_examples": "7575, 7681",
+      "reg_nr_count": 2,
+      "sample_url": "www.almbrand.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Salling Bank",
+      "reg_nr_examples": "7790, 7890",
+      "reg_nr_count": 2,
+      "sample_url": "www.sallingbank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Fih Erhvervsbank",
+      "reg_nr_examples": "8230, 8232",
+      "reg_nr_count": 2,
+      "sample_url": "www.fih.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Frøslev-Mollerup Sparekasse",
+      "reg_nr_examples": "9117, 9133",
+      "reg_nr_count": 2,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "FS Bank ",
+      "reg_nr_examples": "9181, 9189",
+      "reg_nr_count": 2,
+      "sample_url": "www.fsbank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Sparekassen Djursland",
+      "reg_nr_examples": "9377, 9388",
+      "reg_nr_count": 2,
+      "sample_url": "www.sparekassendjursland.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Vorbasse-Hejnsvig Sparekasse",
+      "reg_nr_examples": "9690, 9691",
+      "reg_nr_count": 2,
+      "sample_url": "www.sparvorbasse.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Refsnæs Sparekasse",
+      "reg_nr_examples": "0544",
+      "reg_nr_count": 1,
+      "sample_url": "www.refsnaes-sparekasse.dk",
+      "sample_city": "Kalundborg"
+    },
+    {
+      "bank": "Den Lille Bikube",
+      "reg_nr_examples": "0579",
+      "reg_nr_count": 1,
+      "sample_url": "www.denlillebikube.dk",
+      "sample_city": "Fuglebjerg"
+    },
+    {
+      "bank": "Ikano Bank",
+      "reg_nr_examples": "0582",
+      "reg_nr_count": 1,
+      "sample_url": "www.ikanobank.dk",
+      "sample_city": "Glostrup"
+    },
+    {
+      "bank": "Møns Bank ",
+      "reg_nr_examples": "0631",
+      "reg_nr_count": 1,
+      "sample_url": "www.moensbank.dk",
+      "sample_city": "Rønnede"
+    },
+    {
+      "bank": "Snesere Sogns Spare- og Laanekasse",
+      "reg_nr_examples": "0634",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Flemløse Sparekasse",
+      "reg_nr_examples": "0800",
+      "reg_nr_count": 1,
+      "sample_url": "www.sparekassen.dk",
+      "sample_city": "Glamsbjerg"
+    },
+    {
+      "bank": "Sparekassen Fyn ",
+      "reg_nr_examples": "0828",
+      "reg_nr_count": 1,
+      "sample_url": "www.sparekassenfaaborg.dk",
+      "sample_city": "Faaborg"
+    },
+    {
+      "bank": "Rise Spare- og Lånekasse",
+      "reg_nr_examples": "0847",
+      "reg_nr_count": 1,
+      "sample_url": "www.risespar.dk",
+      "sample_city": "Ærøskøbing"
+    },
+    {
+      "bank": "Ingeniørernes Pensionsbank",
+      "reg_nr_examples": "0875",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Grønlandsbanken ",
+      "reg_nr_examples": "1601",
+      "reg_nr_count": 1,
+      "sample_url": "www.banken.gl",
+      "sample_city": "Nuuk"
+    },
+    {
+      "bank": "Basisbank",
+      "reg_nr_examples": "1671",
+      "reg_nr_count": 1,
+      "sample_url": "www.basisbank.dk",
+      "sample_city": "København SV"
+    },
+    {
+      "bank": "PFA Udbetalingsbank",
+      "reg_nr_examples": "1693",
+      "reg_nr_count": 1,
+      "sample_url": "www.pfa.dk",
+      "sample_city": "København Ø"
+    },
+    {
+      "bank": "Nordea Finans",
+      "reg_nr_examples": "2026",
+      "reg_nr_count": 1,
+      "sample_url": "www.nordeafinans.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Nordania Leasing Bank",
+      "reg_nr_examples": "4957",
+      "reg_nr_count": 1,
+      "sample_url": "www.nordania.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Citibank International Plc.",
+      "reg_nr_examples": "5100",
+      "reg_nr_count": 1,
+      "sample_url": "www.citibank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "HSH Nordbank AG Filial (closed)",
+      "reg_nr_examples": "5130",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Finansbanken",
+      "reg_nr_examples": "5140",
+      "reg_nr_count": 1,
+      "sample_url": "www.portalbank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Dnb Bank Asa",
+      "reg_nr_examples": "5290",
+      "reg_nr_count": 1,
+      "sample_url": "www.dnb.no",
+      "sample_city": ""
+    },
+    {
+      "bank": "The Royal Bank of Scotland",
+      "reg_nr_examples": "5420",
+      "reg_nr_count": 1,
+      "sample_url": "markets.rbsbank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Alfred Berg Bank A/S",
+      "reg_nr_examples": "5426",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Sammenslutningen af Danske Andelskasser",
+      "reg_nr_examples": "5451",
+      "reg_nr_count": 1,
+      "sample_url": "www.andelskassen.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Faster Andelskasse",
+      "reg_nr_examples": "5958",
+      "reg_nr_count": 1,
+      "sample_url": "www.faster-andelskasse.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Frørup Andelskasse",
+      "reg_nr_examples": "5960",
+      "reg_nr_count": 1,
+      "sample_url": "www.froerupandelskasse.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Sparekassen Faaborg",
+      "reg_nr_examples": "5988",
+      "reg_nr_count": 1,
+      "sample_url": "www.sparekassenfaaborg.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Cargill Bank",
+      "reg_nr_examples": "6010",
+      "reg_nr_count": 1,
+      "sample_url": "www.cargill.com",
+      "sample_city": ""
+    },
+    {
+      "bank": "Vordingborg Bank",
+      "reg_nr_examples": "6220",
+      "reg_nr_count": 1,
+      "sample_url": "www.lollandsbank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Grønlandsbanken A/S",
+      "reg_nr_examples": "6471",
+      "reg_nr_count": 1,
+      "sample_url": "www.banken.gl",
+      "sample_city": ""
+    },
+    {
+      "bank": "Brfkredit Bank A/S",
+      "reg_nr_examples": "6482",
+      "reg_nr_count": 1,
+      "sample_url": "www.brf.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Coop Bank A/S",
+      "reg_nr_examples": "6620",
+      "reg_nr_count": 1,
+      "sample_url": "www.coopbank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Lægernes Pensionsbank A/S",
+      "reg_nr_examples": "6771",
+      "reg_nr_count": 1,
+      "sample_url": "www.lpk.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Totalbanken A/S",
+      "reg_nr_examples": "6880",
+      "reg_nr_count": 1,
+      "sample_url": "www.totalbanken.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Østjydsk Bank",
+      "reg_nr_examples": "7230",
+      "reg_nr_count": 1,
+      "sample_url": "www.7230.oeb.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Hvidbjerg Bank",
+      "reg_nr_examples": "7500",
+      "reg_nr_count": 1,
+      "sample_url": "www.hvidbjergbank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Pen-Sam Bank",
+      "reg_nr_examples": "7570",
+      "reg_nr_count": 1,
+      "sample_url": "www.bank.pensam.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Skjern Bank",
+      "reg_nr_examples": "7780",
+      "reg_nr_count": 1,
+      "sample_url": "www.skjernbank.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Københavns Andelskasse",
+      "reg_nr_examples": "7872",
+      "reg_nr_count": 1,
+      "sample_url": "www.kbh-andelskasse.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Bnp Paribas Fortis Danmark",
+      "reg_nr_examples": "8149",
+      "reg_nr_count": 1,
+      "sample_url": "www.bnpparibas.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "BIL Danmark (Banque Internationale à Luxembourg SA)",
+      "reg_nr_examples": "8222",
+      "reg_nr_count": 1,
+      "sample_url": "www.bilbankdanmark.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Carnegie Bank",
+      "reg_nr_examples": "8269",
+      "reg_nr_count": 1,
+      "sample_url": "www.krak.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Merkur",
+      "reg_nr_examples": "8401",
+      "reg_nr_count": 1,
+      "sample_url": "www.merkur.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Andelskassen Fælleskassen",
+      "reg_nr_examples": "8411",
+      "reg_nr_count": 1,
+      "sample_url": "www.faelleskassen.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Brovst Sparekasse",
+      "reg_nr_examples": "9022",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Jerslev Sparekasse",
+      "reg_nr_examples": "9025",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Dronninglund Sparekasse",
+      "reg_nr_examples": "9044",
+      "reg_nr_count": 1,
+      "sample_url": "www.dronspar.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Hellevad-Ørum Sparekasse",
+      "reg_nr_examples": "9053",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Boddum-Ydby Sparekasse",
+      "reg_nr_examples": "9121",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Sønderhå-Hørsted Sparekasse",
+      "reg_nr_examples": "9124",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Klim Sparekasse",
+      "reg_nr_examples": "9135",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Sparekassen Spar Mors",
+      "reg_nr_examples": "9139",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Hunstrup-Østerild Sparekasse",
+      "reg_nr_examples": "9143",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Hals Sparekasse",
+      "reg_nr_examples": "9212",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Ulsted Sparekasse",
+      "reg_nr_examples": "9224",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Langå Sparekasse",
+      "reg_nr_examples": "9283",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Fuur Sparekasse",
+      "reg_nr_examples": "9285",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Roslev Sparekasse",
+      "reg_nr_examples": "9291",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Sparekassen Sundsøre",
+      "reg_nr_examples": "9292",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Sparekassen Balling",
+      "reg_nr_examples": "9312",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Durup Sparekasse",
+      "reg_nr_examples": "9313",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Rønde og Omegns Sparekasse",
+      "reg_nr_examples": "9354",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Mørke Sparekasse",
+      "reg_nr_examples": "9355",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Sparekassen Djursland ",
+      "reg_nr_examples": "9356",
+      "reg_nr_count": 1,
+      "sample_url": "www.sparekassendjursland.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Helgenæs Sparekasse",
+      "reg_nr_examples": "9357",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Vistoft Sparekasse",
+      "reg_nr_examples": "9358",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Søby-Skader-Halling Sparekasse",
+      "reg_nr_examples": "9369",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Fruering-Vitved Sparekasse",
+      "reg_nr_examples": "9501",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Ulfborg Sparekasse",
+      "reg_nr_examples": "9627",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Stadil Sparekasse",
+      "reg_nr_examples": "9629",
+      "reg_nr_count": 1,
+      "sample_url": "www.stadil-sparekasse.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Borbjerg Sparekasse",
+      "reg_nr_examples": "9634",
+      "reg_nr_count": 1,
+      "sample_url": "www.borbjergsparekasse.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Sparekassen For Nørre Nebel og Omegn",
+      "reg_nr_examples": "9682",
+      "reg_nr_count": 1,
+      "sample_url": "www.sparnebel.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Fanø Sparekasse",
+      "reg_nr_examples": "9684",
+      "reg_nr_count": 1,
+      "sample_url": "Fanø Sparekasse",
+      "sample_city": ""
+    },
+    {
+      "bank": "Broager Sparekasse",
+      "reg_nr_examples": "9797",
+      "reg_nr_count": 1,
+      "sample_url": "www.broagersparekasse.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Folkesparekassen",
+      "reg_nr_examples": "9860",
+      "reg_nr_count": 1,
+      "sample_url": "www.folkesparekassen.dk",
+      "sample_city": ""
+    },
+    {
+      "bank": "Nordoya Sparikassi",
+      "reg_nr_examples": "9865",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Suduroyar Sparikassi",
+      "reg_nr_examples": "9870",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    },
+    {
+      "bank": "Forvaltningsinstituttet for Lokale Pengeinstitutter",
+      "reg_nr_examples": "9960",
+      "reg_nr_count": 1,
+      "sample_url": "",
+      "sample_city": ""
+    }
+  ],
+  "meta": {
+    "title": "Danske banker — liste med reg.nr.-antal - Gratis download",
+    "description": "Liste over unikke danske banker udledt af x2q/danish-bank-codes-datasættet. Hver post indeholder bankens navn, antal tildelte registreringsnumre (reg.nr.) i hele Danmark, eksempler på reg.nr., samt et sample bynavn og webadresse. Indeholder 123 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Danske banker — liste med reg.nr.-antal | ListBase",
+    "seo_description": "Download Danske banker — liste med reg.nr.-antal — 123 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 123 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

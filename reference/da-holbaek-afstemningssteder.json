@@ -1,0 +1,168 @@
+{
+  "id": "da-holbaek-afstemningssteder",
+  "name": "Afstemningssteder i Holbæk Kommune",
+  "title": "Afstemningssteder i Holbæk Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Holbæk Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Holbæk Øst",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Holbæk Vest",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Orø",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Vipperød",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Tuse",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Udby",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Tølløse",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "St. Merløse",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Regstrup",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Undløse",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Jyderup",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Mørkøv",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Svinninge",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Gislinge",
+      "kommune_kode": 316,
+      "kommune": "Holbæk",
+      "opstillingskreds_nummer": 37,
+      "opstillingskreds": "Holbæk"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Holbæk Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Holbæk Kommune med opstillingskreds. Indeholder 14 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Holbæk Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Holbæk Kommune — 14 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 14 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

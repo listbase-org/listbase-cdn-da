@@ -1,0 +1,2231 @@
+{
+  "id": "da-materialister",
+  "name": "Materialister i Danmark (Chemists and drugstores in Denmark)",
+  "title": "Materialister i Danmark (Chemists and drugstores in Denmark)",
+  "description": "Chemists and drugstores in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=chemist.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 438,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aagaards Hudpleje",
+      "latitude": 55.972053,
+      "longitude": 9.611633
+    },
+    {
+      "name": "Aktiv Rengøring",
+      "latitude": 56.147308,
+      "longitude": 10.195673
+    },
+    {
+      "name": "Bandagist Butikken",
+      "latitude": 55.139353,
+      "longitude": 10.782148
+    },
+    {
+      "name": "Bandagist-Centret",
+      "latitude": 55.687194,
+      "longitude": 9.552349
+    },
+    {
+      "name": "Basic & More",
+      "latitude": 57.005173,
+      "longitude": 9.874394
+    },
+    {
+      "name": "Camilla F",
+      "latitude": 57.047507,
+      "longitude": 9.91937
+    },
+    {
+      "name": "Esthetique",
+      "latitude": 56.136256,
+      "longitude": 8.970654
+    },
+    {
+      "name": "Fit & Fun",
+      "latitude": 55.701112,
+      "longitude": 11.725119
+    },
+    {
+      "name": "Helsam Frederiksberg Centret",
+      "latitude": 55.681716,
+      "longitude": 12.531698
+    },
+    {
+      "name": "Helsemin",
+      "latitude": 55.513822,
+      "longitude": 9.461305
+    },
+    {
+      "name": "Lene Hansson",
+      "latitude": 55.678596,
+      "longitude": 12.590794
+    },
+    {
+      "name": "Matas",
+      "latitude": 54.765781,
+      "longitude": 11.873266
+    },
+    {
+      "name": "Matas",
+      "latitude": 54.767367,
+      "longitude": 11.868298
+    },
+    {
+      "name": "Matas",
+      "latitude": 54.774333,
+      "longitude": 11.50594
+    },
+    {
+      "name": "Matas",
+      "latitude": 54.825524,
+      "longitude": 9.361557
+    },
+    {
+      "name": "Matas",
+      "latitude": 54.82964,
+      "longitude": 11.138147
+    },
+    {
+      "name": "Matas",
+      "latitude": 54.908947,
+      "longitude": 9.792902
+    },
+    {
+      "name": "Matas",
+      "latitude": 54.910982,
+      "longitude": 9.791341
+    },
+    {
+      "name": "Matas",
+      "latitude": 54.921424,
+      "longitude": 9.593199
+    },
+    {
+      "name": "Matas",
+      "latitude": 54.935374,
+      "longitude": 10.71513
+    },
+    {
+      "name": "Matas",
+      "latitude": 54.985224,
+      "longitude": 12.286411
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.009774,
+      "longitude": 11.907512
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.043054,
+      "longitude": 9.419031
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.056709,
+      "longitude": 9.742312
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.059555,
+      "longitude": 10.6053
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.062222,
+      "longitude": 15.132832
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.095012,
+      "longitude": 10.243181
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.101635,
+      "longitude": 14.693973
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.103325,
+      "longitude": 14.699175
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.158152,
+      "longitude": 8.767454
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.189432,
+      "longitude": 9.06519
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.21636,
+      "longitude": 11.756235
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.232087,
+      "longitude": 11.758179
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.2378,
+      "longitude": 10.479131
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.245713,
+      "longitude": 9.292323
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.25074,
+      "longitude": 9.485474
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.253309,
+      "longitude": 11.782156
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.253662,
+      "longitude": 11.293011
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.257902,
+      "longitude": 12.119951
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.270107,
+      "longitude": 9.897679
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.277063,
+      "longitude": 10.10667
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.311595,
+      "longitude": 10.790949
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.329209,
+      "longitude": 11.138533
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.330694,
+      "longitude": 8.766597
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.367787,
+      "longitude": 9.060519
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.371101,
+      "longitude": 10.372679
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.383407,
+      "longitude": 10.427283
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.394582,
+      "longitude": 10.383211
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.395247,
+      "longitude": 10.384585
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.403795,
+      "longitude": 11.356001
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.40588,
+      "longitude": 11.354127
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.408288,
+      "longitude": 10.393638
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.408905,
+      "longitude": 10.339676
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.432852,
+      "longitude": 11.55711
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.453637,
+      "longitude": 11.788007
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.455843,
+      "longitude": 12.182399
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.457628,
+      "longitude": 12.184512
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.460065,
+      "longitude": 10.561111
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.464865,
+      "longitude": 8.700109
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.465609,
+      "longitude": 8.458473
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.465945,
+      "longitude": 8.451676
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.466405,
+      "longitude": 8.449187
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.477397,
+      "longitude": 9.138645
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.47862,
+      "longitude": 12.174984
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.481763,
+      "longitude": 9.018227
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.488966,
+      "longitude": 9.474343
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.497431,
+      "longitude": 8.405347
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.49846,
+      "longitude": 11.97706
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.505631,
+      "longitude": 9.73059
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.508447,
+      "longitude": 8.449114
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.510149,
+      "longitude": 8.455828
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.513386,
+      "longitude": 9.458839
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.526856,
+      "longitude": 11.497568
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.533479,
+      "longitude": 12.21751
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.543794,
+      "longitude": 9.718224
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.564635,
+      "longitude": 10.092412
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.565518,
+      "longitude": 9.757398
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.582189,
+      "longitude": 12.29493
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.595371,
+      "longitude": 12.660405
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.598198,
+      "longitude": 12.326974
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.603612,
+      "longitude": 12.586388
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.614486,
+      "longitude": 12.354713
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.620437,
+      "longitude": 8.481838
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.62433,
+      "longitude": 12.388812
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.627048,
+      "longitude": 12.483626
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.630052,
+      "longitude": 12.576655
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.630767,
+      "longitude": 12.601161
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.638526,
+      "longitude": 12.634943
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.640948,
+      "longitude": 12.07803
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.641012,
+      "longitude": 12.08169
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.64177,
+      "longitude": 12.100271
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.643477,
+      "longitude": 12.277526
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.64604,
+      "longitude": 12.613736
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.650807,
+      "longitude": 12.302565
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.652926,
+      "longitude": 12.611076
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.657085,
+      "longitude": 12.353667
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.659784,
+      "longitude": 11.397976
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.662053,
+      "longitude": 12.560633
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.662829,
+      "longitude": 12.604589
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.663468,
+      "longitude": 12.601537
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.663499,
+      "longitude": 12.476606
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.66388,
+      "longitude": 12.536626
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.665083,
+      "longitude": 12.511375
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.665376,
+      "longitude": 12.581185
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.671457,
+      "longitude": 12.592845
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.6728,
+      "longitude": 12.550648
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.675043,
+      "longitude": 12.566565
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.675595,
+      "longitude": 12.545609
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.677141,
+      "longitude": 12.537811
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.678044,
+      "longitude": 12.57308
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.678549,
+      "longitude": 12.50415
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.68005,
+      "longitude": 12.57878
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.680174,
+      "longitude": 11.089719
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.68069,
+      "longitude": 12.548975
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.681357,
+      "longitude": 12.531934
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.681369,
+      "longitude": 12.522141
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.681577,
+      "longitude": 12.533272
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.681831,
+      "longitude": 12.585429
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.68344,
+      "longitude": 12.586803
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.683763,
+      "longitude": 12.571814
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.685002,
+      "longitude": 12.537919
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.687788,
+      "longitude": 12.492516
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.689143,
+      "longitude": 12.557039
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.694209,
+      "longitude": 12.531581
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.694665,
+      "longitude": 12.548637
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.696497,
+      "longitude": 12.580086
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.696627,
+      "longitude": 12.545118
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.699355,
+      "longitude": 12.578116
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.702629,
+      "longitude": 12.577709
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.703655,
+      "longitude": 12.538622
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.704792,
+      "longitude": 12.49785
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.705225,
+      "longitude": 9.5303
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.706733,
+      "longitude": 9.532583
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.707444,
+      "longitude": 12.561571
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.707536,
+      "longitude": 12.577725
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.710222,
+      "longitude": 9.534572
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.711454,
+      "longitude": 12.47466
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.716946,
+      "longitude": 11.714766
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.717858,
+      "longitude": 11.711759
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.723323,
+      "longitude": 12.439612
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.725688,
+      "longitude": 12.578541
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.72905,
+      "longitude": 12.356869
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.73142,
+      "longitude": 9.113895
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.73357,
+      "longitude": 12.575413
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.741831,
+      "longitude": 12.494344
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.750217,
+      "longitude": 12.108501
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.751753,
+      "longitude": 11.959013
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.754483,
+      "longitude": 12.569175
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.757053,
+      "longitude": 8.928647
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.76011,
+      "longitude": 12.455146
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.761634,
+      "longitude": 12.574437
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.768115,
+      "longitude": 12.191664
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.769365,
+      "longitude": 9.701608
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.769858,
+      "longitude": 12.504653
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.771722,
+      "longitude": 12.505409
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.784703,
+      "longitude": 12.373662
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.795125,
+      "longitude": 12.474486
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.806665,
+      "longitude": 8.61861
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.811701,
+      "longitude": 12.47067
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.8143,
+      "longitude": 12.379169
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.814464,
+      "longitude": 12.529724
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.835909,
+      "longitude": 12.063572
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.839069,
+      "longitude": 12.063164
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.84088,
+      "longitude": 12.431581
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.846209,
+      "longitude": 9.239063
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.861777,
+      "longitude": 9.848863
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.865856,
+      "longitude": 12.326494
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.869598,
+      "longitude": 12.35338
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.880454,
+      "longitude": 12.498019
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.882096,
+      "longitude": 12.497649
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.887097,
+      "longitude": 12.497746
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.922244,
+      "longitude": 11.667832
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.928527,
+      "longitude": 12.298466
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.92946,
+      "longitude": 12.300747
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.94383,
+      "longitude": 9.126388
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.947671,
+      "longitude": 8.493956
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.963482,
+      "longitude": 12.531552
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.964204,
+      "longitude": 11.850154
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.972329,
+      "longitude": 10.146403
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.973885,
+      "longitude": 9.611952
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.976173,
+      "longitude": 12.019064
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.978201,
+      "longitude": 12.400456
+    },
+    {
+      "name": "Matas",
+      "latitude": 55.994483,
+      "longitude": 12.545061
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.020027,
+      "longitude": 12.571944
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.022571,
+      "longitude": 12.20062
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.032762,
+      "longitude": 12.607916
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.034056,
+      "longitude": 12.611244
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.03434,
+      "longitude": 9.931979
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.086365,
+      "longitude": 10.036794
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.089941,
+      "longitude": 8.2439
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.090066,
+      "longitude": 12.455557
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.091085,
+      "longitude": 10.135659
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.092037,
+      "longitude": 9.758419
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.117377,
+      "longitude": 10.194359
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.125787,
+      "longitude": 12.304597
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.129659,
+      "longitude": 10.162245
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.136073,
+      "longitude": 8.971286
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.136101,
+      "longitude": 9.001686
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.139912,
+      "longitude": 9.154817
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.148775,
+      "longitude": 10.204631
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.15341,
+      "longitude": 9.903436
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.153798,
+      "longitude": 10.13552
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.154283,
+      "longitude": 10.206246
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.157786,
+      "longitude": 10.207378
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.168591,
+      "longitude": 9.547138
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.169744,
+      "longitude": 9.550664
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.17039,
+      "longitude": 10.188419
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.172719,
+      "longitude": 10.211332
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.181794,
+      "longitude": 9.548535
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.188803,
+      "longitude": 10.215316
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.194022,
+      "longitude": 10.19373
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.19969,
+      "longitude": 10.679035
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.256931,
+      "longitude": 9.867809
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.264349,
+      "longitude": 10.062629
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.289215,
+      "longitude": 9.429196
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.316098,
+      "longitude": 10.317857
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.327851,
+      "longitude": 10.045784
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.358884,
+      "longitude": 8.617241
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.361969,
+      "longitude": 8.620211
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.374545,
+      "longitude": 9.657478
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.413577,
+      "longitude": 10.876805
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.430217,
+      "longitude": 10.065683
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.448354,
+      "longitude": 9.4052
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.459219,
+      "longitude": 10.038459
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.460104,
+      "longitude": 10.037904
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.491836,
+      "longitude": 8.590942
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.565626,
+      "longitude": 9.031559
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.567277,
+      "longitude": 9.026712
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.63866,
+      "longitude": 9.793532
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.693981,
+      "longitude": 9.494374
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.718224,
+      "longitude": 10.114231
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.749051,
+      "longitude": 8.422262
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.772073,
+      "longitude": 9.341872
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.794122,
+      "longitude": 8.857089
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.803056,
+      "longitude": 9.51913
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.891626,
+      "longitude": 9.837281
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.954811,
+      "longitude": 8.691325
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.96769,
+      "longitude": 9.252943
+    },
+    {
+      "name": "Matas",
+      "latitude": 56.981635,
+      "longitude": 9.637277
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.00437,
+      "longitude": 9.875065
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.036036,
+      "longitude": 9.883674
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.042356,
+      "longitude": 9.949457
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.046841,
+      "longitude": 9.923143
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.04774,
+      "longitude": 9.926858
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.049377,
+      "longitude": 9.921005
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.059641,
+      "longitude": 9.917922
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.088135,
+      "longitude": 9.265976
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.099102,
+      "longitude": 9.521457
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.159511,
+      "longitude": 10.291895
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.160026,
+      "longitude": 9.735423
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.268282,
+      "longitude": 9.946495
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.334634,
+      "longitude": 10.518537
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.437704,
+      "longitude": 10.534369
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.44637,
+      "longitude": 10.509096
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.45791,
+      "longitude": 9.990732
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.459781,
+      "longitude": 9.98695
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.590654,
+      "longitude": 9.956289
+    },
+    {
+      "name": "Matas",
+      "latitude": 57.722743,
+      "longitude": 10.590935
+    },
+    {
+      "name": "Matas Asnæs Centret",
+      "latitude": 55.81299,
+      "longitude": 11.500307
+    },
+    {
+      "name": "Matas Gentofte",
+      "latitude": 55.747296,
+      "longitude": 12.540845
+    },
+    {
+      "name": "Matas Gerritsgade Svendborg",
+      "latitude": 55.05902,
+      "longitude": 10.608254
+    },
+    {
+      "name": "Matas Glostrup Shoppingcenter",
+      "latitude": 55.665287,
+      "longitude": 12.399038
+    },
+    {
+      "name": "Matas Haslev",
+      "latitude": 55.327833,
+      "longitude": 11.963669
+    },
+    {
+      "name": "Matas Kerteminde",
+      "latitude": 55.450347,
+      "longitude": 10.658057
+    },
+    {
+      "name": "Matas Møllecentret",
+      "latitude": 57.44631,
+      "longitude": 10.508456
+    },
+    {
+      "name": "Matas Præstø",
+      "latitude": 55.121783,
+      "longitude": 12.039698
+    },
+    {
+      "name": "Matas Ringsted Sanct Hansgade",
+      "latitude": 55.444689,
+      "longitude": 11.789951
+    },
+    {
+      "name": "Matas Rødovre Centrum",
+      "latitude": 55.679404,
+      "longitude": 12.458807
+    },
+    {
+      "name": "Matas Rønde",
+      "latitude": 56.299901,
+      "longitude": 10.47942
+    },
+    {
+      "name": "Matas Sct. Mathias Gade Viborg",
+      "latitude": 56.449242,
+      "longitude": 9.407405
+    },
+    {
+      "name": "Matas Sindal",
+      "latitude": 57.471889,
+      "longitude": 10.202252
+    },
+    {
+      "name": "Matas Skovlunde",
+      "latitude": 55.720506,
+      "longitude": 12.401594
+    },
+    {
+      "name": "Matas Store Heddinge",
+      "latitude": 55.30911,
+      "longitude": 12.389059
+    },
+    {
+      "name": "Matas Søborg Hovedgade",
+      "latitude": 55.736481,
+      "longitude": 12.510796
+    },
+    {
+      "name": "Nail Zone",
+      "latitude": 55.68126,
+      "longitude": 12.58355
+    },
+    {
+      "name": "Normal",
+      "latitude": 54.759912,
+      "longitude": 11.853867
+    },
+    {
+      "name": "Normal",
+      "latitude": 54.76708,
+      "longitude": 11.868649
+    },
+    {
+      "name": "Normal",
+      "latitude": 54.829853,
+      "longitude": 11.140619
+    },
+    {
+      "name": "Normal",
+      "latitude": 54.909715,
+      "longitude": 9.791618
+    },
+    {
+      "name": "Normal",
+      "latitude": 54.923709,
+      "longitude": 9.809415
+    },
+    {
+      "name": "Normal",
+      "latitude": 54.935017,
+      "longitude": 8.867632
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.009206,
+      "longitude": 11.908115
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.045099,
+      "longitude": 9.418786
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.05951,
+      "longitude": 10.609261
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.063661,
+      "longitude": 10.588746
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.102108,
+      "longitude": 14.692997
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.230961,
+      "longitude": 11.758216
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.246308,
+      "longitude": 9.291992
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.251171,
+      "longitude": 9.487951
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.254551,
+      "longitude": 11.779982
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.308349,
+      "longitude": 10.805457
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.311787,
+      "longitude": 10.790015
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.330678,
+      "longitude": 8.767001
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.378264,
+      "longitude": 10.433413
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.384802,
+      "longitude": 10.425678
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.394702,
+      "longitude": 10.382699
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.396805,
+      "longitude": 10.381267
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.405868,
+      "longitude": 11.353663
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.409459,
+      "longitude": 10.339878
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.444862,
+      "longitude": 11.788465
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.455436,
+      "longitude": 12.182177
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.457194,
+      "longitude": 12.18547
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.465595,
+      "longitude": 12.108951
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.476515,
+      "longitude": 9.138453
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.479165,
+      "longitude": 12.175091
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.489065,
+      "longitude": 9.472622
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.504513,
+      "longitude": 9.737448
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.507855,
+      "longitude": 8.449281
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.509298,
+      "longitude": 8.455814
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.514769,
+      "longitude": 9.460506
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.566042,
+      "longitude": 9.756498
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.58222,
+      "longitude": 12.295245
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.598578,
+      "longitude": 12.328883
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.613369,
+      "longitude": 12.357302
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.6202,
+      "longitude": 8.48081
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.627204,
+      "longitude": 12.484525
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.631098,
+      "longitude": 12.57781
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.640885,
+      "longitude": 12.079224
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.6418,
+      "longitude": 12.099545
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.656981,
+      "longitude": 12.353515
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.662381,
+      "longitude": 12.561725
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.663316,
+      "longitude": 12.603631
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.665015,
+      "longitude": 12.510716
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.665516,
+      "longitude": 12.398387
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.665749,
+      "longitude": 12.399953
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.672414,
+      "longitude": 12.591762
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.672777,
+      "longitude": 12.55021
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.673396,
+      "longitude": 12.560113
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.676682,
+      "longitude": 12.569673
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.678277,
+      "longitude": 12.573825
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.680706,
+      "longitude": 11.087984
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.681497,
+      "longitude": 12.533349
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.681773,
+      "longitude": 12.574894
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.683655,
+      "longitude": 12.571133
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.684073,
+      "longitude": 12.585855
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.685265,
+      "longitude": 12.538118
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.687455,
+      "longitude": 12.492905
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.692414,
+      "longitude": 12.513612
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.693252,
+      "longitude": 12.533495
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.696657,
+      "longitude": 12.545636
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.69902,
+      "longitude": 12.57838
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.703206,
+      "longitude": 12.538367
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.705334,
+      "longitude": 9.531583
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.708479,
+      "longitude": 9.533156
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.718136,
+      "longitude": 11.710017
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.72597,
+      "longitude": 12.579927
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.730519,
+      "longitude": 9.116795
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.731661,
+      "longitude": 12.575609
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.74996,
+      "longitude": 12.107822
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.76004,
+      "longitude": 12.456486
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.772424,
+      "longitude": 12.50659
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.783193,
+      "longitude": 12.374364
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.8145,
+      "longitude": 12.381817
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.835514,
+      "longitude": 12.064041
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.842036,
+      "longitude": 12.432628
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.858757,
+      "longitude": 9.851466
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.862137,
+      "longitude": 9.846764
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.882476,
+      "longitude": 12.497386
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.922515,
+      "longitude": 11.668624
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.928857,
+      "longitude": 12.298767
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.929262,
+      "longitude": 12.301252
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.947334,
+      "longitude": 8.494233
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.972437,
+      "longitude": 10.145477
+    },
+    {
+      "name": "Normal",
+      "latitude": 55.975929,
+      "longitude": 12.019564
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.019237,
+      "longitude": 12.571193
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.03357,
+      "longitude": 9.930615
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.033577,
+      "longitude": 12.607594
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.033882,
+      "longitude": 12.610847
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.086463,
+      "longitude": 10.037649
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.130104,
+      "longitude": 10.161049
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.136071,
+      "longitude": 8.970831
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.136102,
+      "longitude": 9.002905
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.139571,
+      "longitude": 9.154745
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.149005,
+      "longitude": 10.204115
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.152667,
+      "longitude": 10.204935
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.154007,
+      "longitude": 10.206382
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.15504,
+      "longitude": 10.165961
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.155936,
+      "longitude": 10.206575
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.169122,
+      "longitude": 9.549402
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.169742,
+      "longitude": 10.188931
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.171887,
+      "longitude": 10.216157
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.185599,
+      "longitude": 9.543592
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.188721,
+      "longitude": 10.21506
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.265127,
+      "longitude": 10.063166
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.359111,
+      "longitude": 8.61724
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.374525,
+      "longitude": 9.655977
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.413535,
+      "longitude": 10.877741
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.459399,
+      "longitude": 10.038861
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.569947,
+      "longitude": 8.995126
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.772242,
+      "longitude": 9.34081
+    },
+    {
+      "name": "Normal",
+      "latitude": 56.955184,
+      "longitude": 8.691528
+    },
+    {
+      "name": "Normal",
+      "latitude": 57.004188,
+      "longitude": 9.873837
+    },
+    {
+      "name": "Normal",
+      "latitude": 57.047178,
+      "longitude": 9.921645
+    },
+    {
+      "name": "Normal",
+      "latitude": 57.047786,
+      "longitude": 9.926407
+    },
+    {
+      "name": "Normal",
+      "latitude": 57.049543,
+      "longitude": 9.91955
+    },
+    {
+      "name": "Normal",
+      "latitude": 57.053256,
+      "longitude": 9.904963
+    },
+    {
+      "name": "Normal",
+      "latitude": 57.438986,
+      "longitude": 10.535339
+    },
+    {
+      "name": "Normal",
+      "latitude": 57.456938,
+      "longitude": 9.99055
+    },
+    {
+      "name": "Normal",
+      "latitude": 57.590682,
+      "longitude": 9.960033
+    },
+    {
+      "name": "Normal - Aabybro Centret",
+      "latitude": 57.159244,
+      "longitude": 9.734206
+    },
+    {
+      "name": "Normal - Aalborg Tornhøjvej",
+      "latitude": 57.02606,
+      "longitude": 10.001671
+    },
+    {
+      "name": "Normal - Gentofte",
+      "latitude": 55.747476,
+      "longitude": 12.540835
+    },
+    {
+      "name": "Normal - Gilleleje Peter Fjelstrups Vej",
+      "latitude": 56.124386,
+      "longitude": 12.305452
+    },
+    {
+      "name": "Normal - København Amagerbrogade",
+      "latitude": 55.660025,
+      "longitude": 12.605131
+    },
+    {
+      "name": "Normal - Lemvig Vestergade",
+      "latitude": 56.550033,
+      "longitude": 8.308044
+    },
+    {
+      "name": "Normal - Løgstør Østerbrogade",
+      "latitude": 56.96711,
+      "longitude": 9.252282
+    },
+    {
+      "name": "Normal - Odense Dalumcentret",
+      "latitude": 55.370923,
+      "longitude": 10.371626
+    },
+    {
+      "name": "Normal - Søborg hovedgade",
+      "latitude": 55.731831,
+      "longitude": 12.518472
+    },
+    {
+      "name": "Normal - Viborg Sct. Mathias Centret",
+      "latitude": 56.448416,
+      "longitude": 9.405109
+    },
+    {
+      "name": "Normal - Ølby centret",
+      "latitude": 55.479367,
+      "longitude": 12.175508
+    },
+    {
+      "name": "Normal Aars",
+      "latitude": 56.803305,
+      "longitude": 9.515887
+    },
+    {
+      "name": "Normal Brønderslev",
+      "latitude": 57.267248,
+      "longitude": 9.946997
+    },
+    {
+      "name": "Normal Brønshøj",
+      "latitude": 55.704627,
+      "longitude": 12.499316
+    },
+    {
+      "name": "Normal City 2",
+      "latitude": 55.644225,
+      "longitude": 12.275917
+    },
+    {
+      "name": "Normal Dragør",
+      "latitude": 55.594074,
+      "longitude": 12.672893
+    },
+    {
+      "name": "Normal Fjerritslev",
+      "latitude": 57.088094,
+      "longitude": 9.268123
+    },
+    {
+      "name": "Normal Frederikshavn Hjørringvej",
+      "latitude": 57.445708,
+      "longitude": 10.499201
+    },
+    {
+      "name": "Normal Hammel, Tema Centret",
+      "latitude": 56.255924,
+      "longitude": 9.866719
+    },
+    {
+      "name": "Normal Hinnerup Storegade",
+      "latitude": 56.264866,
+      "longitude": 10.063631
+    },
+    {
+      "name": "Normal Hobro",
+      "latitude": 56.638187,
+      "longitude": 9.79384
+    },
+    {
+      "name": "Normal Holte Midtpunkt",
+      "latitude": 55.811405,
+      "longitude": 12.471634
+    },
+    {
+      "name": "Normal Høng",
+      "latitude": 55.503985,
+      "longitude": 11.294634
+    },
+    {
+      "name": "Normal Juelsminde",
+      "latitude": 55.714741,
+      "longitude": 10.011003
+    },
+    {
+      "name": "Normal Nykøbing Mors",
+      "latitude": 56.794426,
+      "longitude": 8.855791
+    },
+    {
+      "name": "Normal Rødovre Centrum",
+      "latitude": 55.679313,
+      "longitude": 12.458711
+    },
+    {
+      "name": "Normal Rødovre Port",
+      "latitude": 55.665248,
+      "longitude": 12.457711
+    },
+    {
+      "name": "Normal Skagen, Skråvej",
+      "latitude": 57.722461,
+      "longitude": 10.590841
+    },
+    {
+      "name": "Normal Skovlunde",
+      "latitude": 55.721044,
+      "longitude": 12.401644
+    },
+    {
+      "name": "Normal Søborg Høje Gladsaxe Center",
+      "latitude": 55.730128,
+      "longitude": 12.497676
+    },
+    {
+      "name": "Normal Taastrup",
+      "latitude": 55.64987,
+      "longitude": 12.301698
+    },
+    {
+      "name": "NORMAL Vallensbæk",
+      "latitude": 55.624209,
+      "longitude": 12.388773
+    },
+    {
+      "name": "Normal Viborg",
+      "latitude": 56.446144,
+      "longitude": 9.366781
+    },
+    {
+      "name": "Props & Pearls",
+      "latitude": 55.678339,
+      "longitude": 12.582252
+    },
+    {
+      "name": "Pure Shop",
+      "latitude": 55.68137,
+      "longitude": 12.583113
+    },
+    {
+      "name": "Rituals",
+      "latitude": 55.514177,
+      "longitude": 9.460555
+    },
+    {
+      "name": "Samsø Apotek",
+      "latitude": 55.831874,
+      "longitude": 10.594745
+    },
+    {
+      "name": "Skælskør Apotek",
+      "latitude": 55.25372,
+      "longitude": 11.294147
+    },
+    {
+      "name": "Virena",
+      "latitude": 55.689292,
+      "longitude": 12.529147
+    }
+  ],
+  "meta": {
+    "title": "Materialister i Danmark (Chemists and drugstores in Denmark) - Gratis download",
+    "description": "Chemists and drugstores in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=chemist. Indeholder 438 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Materialister i Danmark (Chemists and drugstores in Denmark) | ListBase",
+    "seo_description": "Download Materialister i Danmark (Chemists and drugstores in Denmark) — 438 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 438 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

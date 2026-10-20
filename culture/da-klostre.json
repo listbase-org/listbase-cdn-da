@@ -1,0 +1,248 @@
+{
+  "id": "da-klostre",
+  "name": "Klostre i Danmark",
+  "title": "Klostre i Danmark",
+  "description": "Klostre (monasteries og abbeys) i Danmark fra Wikidata (P31 = Q44613 eller Q160742, P17 = Danmark) med koordinater.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q4301561",
+      "wikidata_id": "Q4301561",
+      "name_da": "De Hellige Russiske Kongelige Martyrers Kloster",
+      "name_en": "",
+      "latitude": 55.373611,
+      "longitude": 10.209444
+    },
+    {
+      "id": "Q10489170",
+      "wikidata_id": "Q10489170",
+      "name_da": "Essenbæk Kloster",
+      "name_en": "Essenbæk Abbey",
+      "latitude": 56.4444,
+      "longitude": 10.1514
+    },
+    {
+      "id": "Q131718512",
+      "wikidata_id": "Q131718512",
+      "name_da": "Franciskanerklostret i Svendborg",
+      "name_en": "",
+      "latitude": 55.0597,
+      "longitude": 10.6123
+    },
+    {
+      "id": "Q12312147",
+      "wikidata_id": "Q12312147",
+      "name_da": "Gråbrødre Kloster",
+      "name_en": "Gråbrødre Kloster",
+      "latitude": 55.3967,
+      "longitude": 10.3857
+    },
+    {
+      "id": "Q120800560",
+      "wikidata_id": "Q120800560",
+      "name_da": "Gråbrødre Kloster",
+      "name_en": "",
+      "latitude": 56.45181,
+      "longitude": 9.41235
+    },
+    {
+      "id": "Q12316116",
+      "wikidata_id": "Q12316116",
+      "name_da": "Hellig Kors Kloster",
+      "name_en": "Hellig Kors Kloster",
+      "latitude": 56.0315,
+      "longitude": 8.45
+    },
+    {
+      "id": "Q5878870",
+      "wikidata_id": "Q5878870",
+      "name_da": "Holbæk Kloster",
+      "name_en": "Holbæk Priory",
+      "latitude": 55.7162,
+      "longitude": 11.7132
+    },
+    {
+      "id": "Q22692931",
+      "wikidata_id": "Q22692931",
+      "name_da": "",
+      "name_en": "Holme Abbey",
+      "latitude": 55.153066,
+      "longitude": 10.354844
+    },
+    {
+      "id": "Q5942471",
+      "wikidata_id": "Q5942471",
+      "name_da": "Hundslund Kloster",
+      "name_en": "Hundslund Priory",
+      "latitude": 57.1552,
+      "longitude": 10.2616
+    },
+    {
+      "id": "Q1775429",
+      "wikidata_id": "Q1775429",
+      "name_da": "Knardrup Kloster",
+      "name_en": "Knardrup Abbey",
+      "latitude": 55.7764,
+      "longitude": 12.2864
+    },
+    {
+      "id": "Q97357949",
+      "wikidata_id": "Q97357949",
+      "name_da": "Løgum Kloster",
+      "name_en": "Løgum Abbey",
+      "latitude": 55.0566,
+      "longitude": 8.9504
+    },
+    {
+      "id": "Q15955190",
+      "wikidata_id": "Q15955190",
+      "name_da": "Maria Hjerte Abbedi",
+      "name_en": "",
+      "latitude": 56.4961,
+      "longitude": 10.8238
+    },
+    {
+      "id": "Q3041673",
+      "wikidata_id": "Q3041673",
+      "name_da": "Maribo Kloster",
+      "name_en": "Maribo Abbey",
+      "latitude": 54.773121,
+      "longitude": 11.498223
+    },
+    {
+      "id": "Q12333530",
+      "wikidata_id": "Q12333530",
+      "name_da": "Ringkloster",
+      "name_en": "Ring Abbey",
+      "latitude": 56.0129,
+      "longitude": 9.9652
+    },
+    {
+      "id": "Q13580379",
+      "wikidata_id": "Q13580379",
+      "name_da": "Ringsted Kloster",
+      "name_en": "Ringsted Abbey",
+      "latitude": 55.4451,
+      "longitude": 11.7867
+    },
+    {
+      "id": "Q7369004",
+      "wikidata_id": "Q7369004",
+      "name_da": "",
+      "name_en": "Roskilde Abbey",
+      "latitude": 55.6385,
+      "longitude": 12.0824
+    },
+    {
+      "id": "Q102198065",
+      "wikidata_id": "Q102198065",
+      "name_da": "Sankt Birgitta Kloster",
+      "name_en": "Sankt Birgitta Kloster",
+      "latitude": 54.7677,
+      "longitude": 11.5111
+    },
+    {
+      "id": "Q7587605",
+      "wikidata_id": "Q7587605",
+      "name_da": "Sankt Clara Kloster",
+      "name_en": "St. Clare's Monastery, Copenhagen",
+      "latitude": 55.682,
+      "longitude": 12.58
+    },
+    {
+      "id": "Q7536498",
+      "wikidata_id": "Q7536498",
+      "name_da": "",
+      "name_en": "Skovkloster Abbey",
+      "latitude": 55.245833,
+      "longitude": 11.748611
+    },
+    {
+      "id": "Q4992573",
+      "wikidata_id": "Q4992573",
+      "name_da": "Sorø Kloster",
+      "name_en": "Sorø Abbey",
+      "latitude": 55.4301,
+      "longitude": 11.5566
+    },
+    {
+      "id": "Q7627323",
+      "wikidata_id": "Q7627323",
+      "name_da": "Stubber Kloster",
+      "name_en": "Stubber Priory",
+      "latitude": 56.44747,
+      "longitude": 8.91132
+    },
+    {
+      "id": "Q7857369",
+      "wikidata_id": "Q7857369",
+      "name_da": "",
+      "name_en": "Tvilum Priory",
+      "latitude": 56.2435,
+      "longitude": 9.6736
+    },
+    {
+      "id": "Q3429528",
+      "wikidata_id": "Q3429528",
+      "name_da": "Voer Kloster",
+      "name_en": "Voer Abbey",
+      "latitude": 56.039387,
+      "longitude": 9.693366
+    },
+    {
+      "id": "Q1261637",
+      "wikidata_id": "Q1261637",
+      "name_da": "Vor Frue Kloster",
+      "name_en": "Åsebakken Priory",
+      "latitude": 55.856778,
+      "longitude": 12.469083
+    }
+  ],
+  "meta": {
+    "title": "Klostre i Danmark - Gratis download",
+    "description": "Klostre (monasteries og abbeys) i Danmark fra Wikidata (P31 = Q44613 eller Q160742, P17 = Danmark) med koordinater. Indeholder 24 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Klostre i Danmark | ListBase",
+    "seo_description": "Download Klostre i Danmark — 24 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 24 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

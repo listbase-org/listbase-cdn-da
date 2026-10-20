@@ -1,0 +1,331 @@
+{
+  "id": "da-sprogvarianter",
+  "name": "Sprogvarianter (BCP 47 / CLDR, 58)",
+  "title": "Sprogvarianter (BCP 47 / CLDR, 58)",
+  "description": "BCP 47-sprogvariant-subtags med danske navne.",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "kode",
+      "label": "Kode",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "kode": "1606NICT",
+      "navn": "sen middelfransk frem til 1606"
+    },
+    {
+      "id": 2,
+      "kode": "1694ACAD",
+      "navn": "tidlig moderne fransk"
+    },
+    {
+      "id": 3,
+      "kode": "1901",
+      "navn": "traditionel tysk retskrivning"
+    },
+    {
+      "id": 4,
+      "kode": "1959ACAD",
+      "navn": "akademisk"
+    },
+    {
+      "id": 5,
+      "kode": "1994",
+      "navn": "standardiseret Resi-ortografi"
+    },
+    {
+      "id": 6,
+      "kode": "1996",
+      "navn": "tysk retskrivning fra 1996"
+    },
+    {
+      "id": 7,
+      "kode": "ALALC97",
+      "navn": "ALA-LC-romanisering fra 1997"
+    },
+    {
+      "id": 8,
+      "kode": "ALUKU",
+      "navn": "aluku-dialekt"
+    },
+    {
+      "id": 9,
+      "kode": "AREVELA",
+      "navn": "østarmensk"
+    },
+    {
+      "id": 10,
+      "kode": "AREVMDA",
+      "navn": "vestarmensk"
+    },
+    {
+      "id": 11,
+      "kode": "BAKU1926",
+      "navn": "forenet tyrkisk-latinsk alfabet"
+    },
+    {
+      "id": 12,
+      "kode": "BAUDDHA",
+      "navn": "bauddha"
+    },
+    {
+      "id": 13,
+      "kode": "BISCAYAN",
+      "navn": "biscayisk"
+    },
+    {
+      "id": 14,
+      "kode": "BISKE",
+      "navn": "San Giorgio-/Bila-dialekt"
+    },
+    {
+      "id": 15,
+      "kode": "BOHORIC",
+      "navn": "Bohorič-alfabet"
+    },
+    {
+      "id": 16,
+      "kode": "BOONT",
+      "navn": "boontling"
+    },
+    {
+      "id": 17,
+      "kode": "DAJNKO",
+      "navn": "Dajnko-alfabet"
+    },
+    {
+      "id": 18,
+      "kode": "EMODENG",
+      "navn": "tidlig moderne engelsk"
+    },
+    {
+      "id": 19,
+      "kode": "FONIPA",
+      "navn": "det internationale fonetiske alfabet"
+    },
+    {
+      "id": 20,
+      "kode": "FONUPA",
+      "navn": "det uraliske fonetiske alfabet"
+    },
+    {
+      "id": 21,
+      "kode": "FONXSAMP",
+      "navn": "fonxsamp"
+    },
+    {
+      "id": 22,
+      "kode": "HEPBURN",
+      "navn": "Hepburn-romanisering"
+    },
+    {
+      "id": 23,
+      "kode": "HOGNORSK",
+      "navn": "høgnorsk"
+    },
+    {
+      "id": 24,
+      "kode": "ITIHASA",
+      "navn": "itihasa"
+    },
+    {
+      "id": 25,
+      "kode": "JAUER",
+      "navn": "jauer"
+    },
+    {
+      "id": 26,
+      "kode": "JYUTPING",
+      "navn": "jyutping"
+    },
+    {
+      "id": 27,
+      "kode": "KKCOR",
+      "navn": "almindelig ortografi"
+    },
+    {
+      "id": 28,
+      "kode": "KSCOR",
+      "navn": "standardortografi"
+    },
+    {
+      "id": 29,
+      "kode": "LAUKIKA",
+      "navn": "laukika"
+    },
+    {
+      "id": 30,
+      "kode": "LIPAW",
+      "navn": "lipovaz"
+    },
+    {
+      "id": 31,
+      "kode": "METELKO",
+      "navn": "Metelko-alfabet"
+    },
+    {
+      "id": 32,
+      "kode": "MONOTON",
+      "navn": "monotonisk"
+    },
+    {
+      "id": 33,
+      "kode": "NDYUKA",
+      "navn": "Ndyuka-dialekt"
+    },
+    {
+      "id": 34,
+      "kode": "NEDIS",
+      "navn": "Natisone-dialekt"
+    },
+    {
+      "id": 35,
+      "kode": "NJIVA",
+      "navn": "Gniva-/Nijva-dialekt"
+    },
+    {
+      "id": 36,
+      "kode": "NULIK",
+      "navn": "moderne volapük"
+    },
+    {
+      "id": 37,
+      "kode": "OSOJS",
+      "navn": "Oseacco-/Osojane-dialekt"
+    },
+    {
+      "id": 38,
+      "kode": "PAMAKA",
+      "navn": "Pamaka-dialekt"
+    },
+    {
+      "id": 39,
+      "kode": "PINYIN",
+      "navn": "pinyin"
+    },
+    {
+      "id": 40,
+      "kode": "POLYTON",
+      "navn": "polytonisk"
+    },
+    {
+      "id": 41,
+      "kode": "POSIX",
+      "navn": "computer"
+    },
+    {
+      "id": 42,
+      "kode": "REVISED",
+      "navn": "revideret retskrivning"
+    },
+    {
+      "id": 43,
+      "kode": "RIGIK",
+      "navn": "klassisk volapük"
+    },
+    {
+      "id": 44,
+      "kode": "ROZAJ",
+      "navn": "Resi"
+    },
+    {
+      "id": 45,
+      "kode": "SAAHO",
+      "navn": "saho"
+    },
+    {
+      "id": 46,
+      "kode": "SCOTLAND",
+      "navn": "skotsk standardengelsk"
+    },
+    {
+      "id": 47,
+      "kode": "SCOUSE",
+      "navn": "scouse"
+    },
+    {
+      "id": 48,
+      "kode": "SURMIRAN",
+      "navn": "surmiran"
+    },
+    {
+      "id": 49,
+      "kode": "SURSILV",
+      "navn": "sursilv"
+    },
+    {
+      "id": 50,
+      "kode": "SUTSILV",
+      "navn": "sutsilv"
+    },
+    {
+      "id": 51,
+      "kode": "TARASK",
+      "navn": "Taraskievica-ortografi"
+    },
+    {
+      "id": 52,
+      "kode": "UCCOR",
+      "navn": "forenet ortografi"
+    },
+    {
+      "id": 53,
+      "kode": "UCRCOR",
+      "navn": "forenet revideret ortografi"
+    },
+    {
+      "id": 54,
+      "kode": "ULSTER",
+      "navn": "ulster"
+    },
+    {
+      "id": 55,
+      "kode": "VAIDIKA",
+      "navn": "vaidika"
+    },
+    {
+      "id": 56,
+      "kode": "VALENCIA",
+      "navn": "valenciansk"
+    },
+    {
+      "id": 57,
+      "kode": "VALLADER",
+      "navn": "vallader"
+    },
+    {
+      "id": 58,
+      "kode": "WADEGILE",
+      "navn": "Wade-Giles"
+    }
+  ],
+  "meta": {
+    "title": "Sprogvarianter (BCP 47 / CLDR, 58) - Gratis download",
+    "description": "BCP 47-sprogvariant-subtags med danske navne. Indeholder 58 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Sprogvarianter (BCP 47 / CLDR, 58) | ListBase",
+    "seo_description": "Download Sprogvarianter (BCP 47 / CLDR, 58) — 58 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 58 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

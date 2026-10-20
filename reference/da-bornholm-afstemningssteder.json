@@ -1,0 +1,128 @@
+{
+  "id": "da-bornholm-afstemningssteder",
+  "name": "Afstemningssteder i Bornholm Kommune",
+  "title": "Afstemningssteder i Bornholm Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Bornholm Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Allinge",
+      "kommune_kode": 400,
+      "kommune": "Bornholm",
+      "opstillingskreds_nummer": 28,
+      "opstillingskreds": "Aakirkeby"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Østermarie",
+      "kommune_kode": 400,
+      "kommune": "Bornholm",
+      "opstillingskreds_nummer": 28,
+      "opstillingskreds": "Aakirkeby"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Svaneke",
+      "kommune_kode": 400,
+      "kommune": "Bornholm",
+      "opstillingskreds_nummer": 28,
+      "opstillingskreds": "Aakirkeby"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Nexø",
+      "kommune_kode": 400,
+      "kommune": "Bornholm",
+      "opstillingskreds_nummer": 28,
+      "opstillingskreds": "Aakirkeby"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Pedersker",
+      "kommune_kode": 400,
+      "kommune": "Bornholm",
+      "opstillingskreds_nummer": 28,
+      "opstillingskreds": "Aakirkeby"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Aakirkeby",
+      "kommune_kode": 400,
+      "kommune": "Bornholm",
+      "opstillingskreds_nummer": 28,
+      "opstillingskreds": "Aakirkeby"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Klemensker",
+      "kommune_kode": 400,
+      "kommune": "Bornholm",
+      "opstillingskreds_nummer": 27,
+      "opstillingskreds": "Rønne"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Rønne",
+      "kommune_kode": 400,
+      "kommune": "Bornholm",
+      "opstillingskreds_nummer": 27,
+      "opstillingskreds": "Rønne"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Hasle",
+      "kommune_kode": 400,
+      "kommune": "Bornholm",
+      "opstillingskreds_nummer": 27,
+      "opstillingskreds": "Rønne"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Bornholm Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Bornholm Kommune med opstillingskreds. Indeholder 9 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Bornholm Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Bornholm Kommune — 9 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 9 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

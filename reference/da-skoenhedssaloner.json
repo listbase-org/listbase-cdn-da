@@ -1,0 +1,2006 @@
+{
+  "id": "da-skoenhedssaloner",
+  "name": "Skønhedssaloner i Danmark (Beauty salons in Denmark)",
+  "title": "Skønhedssaloner i Danmark (Beauty salons in Denmark)",
+  "description": "Beauty salons in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=beauty.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 393,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A Beauty Care",
+      "latitude": 55.673604,
+      "longitude": 12.574051
+    },
+    {
+      "name": "A by A - Aesthetics by Annabell",
+      "latitude": 55.664484,
+      "longitude": 12.602955
+    },
+    {
+      "name": "A&S American Nails",
+      "latitude": 55.565916,
+      "longitude": 9.759344
+    },
+    {
+      "name": "Adore Beauty",
+      "latitude": 55.701022,
+      "longitude": 12.497766
+    },
+    {
+      "name": "Adorn Copenhagen",
+      "latitude": 55.704695,
+      "longitude": 12.578361
+    },
+    {
+      "name": "Afro Hair & Body Shop",
+      "latitude": 55.693131,
+      "longitude": 12.566798
+    },
+    {
+      "name": "Akzent Direct",
+      "latitude": 55.740035,
+      "longitude": 12.503485
+    },
+    {
+      "name": "all about glow",
+      "latitude": 55.395576,
+      "longitude": 10.375958
+    },
+    {
+      "name": "All About Goodlife",
+      "latitude": 55.778036,
+      "longitude": 12.506958
+    },
+    {
+      "name": "Allure",
+      "latitude": 55.46962,
+      "longitude": 8.440087
+    },
+    {
+      "name": "Aloe Ponsel",
+      "latitude": 55.884477,
+      "longitude": 12.202605
+    },
+    {
+      "name": "Aloevera Shoppen Svendborg",
+      "latitude": 55.048009,
+      "longitude": 10.672923
+    },
+    {
+      "name": "Althea",
+      "latitude": 56.159066,
+      "longitude": 10.202125
+    },
+    {
+      "name": "Angel Nails Dk",
+      "latitude": 55.470097,
+      "longitude": 8.45319
+    },
+    {
+      "name": "Anna's Hudpleje Clinique",
+      "latitude": 55.46649,
+      "longitude": 8.693297
+    },
+    {
+      "name": "Apex",
+      "latitude": 57.046492,
+      "longitude": 9.921885
+    },
+    {
+      "name": "Arakai Beauty",
+      "latitude": 55.681411,
+      "longitude": 12.580806
+    },
+    {
+      "name": "Archivo",
+      "latitude": 55.652786,
+      "longitude": 12.611167
+    },
+    {
+      "name": "Arndal",
+      "latitude": 55.682425,
+      "longitude": 12.585951
+    },
+    {
+      "name": "Art Nails by Raluca",
+      "latitude": 55.709567,
+      "longitude": 9.534729
+    },
+    {
+      "name": "Askepot",
+      "latitude": 56.168007,
+      "longitude": 9.544647
+    },
+    {
+      "name": "athene",
+      "latitude": 55.701269,
+      "longitude": 12.576979
+    },
+    {
+      "name": "Aura Studio",
+      "latitude": 56.147817,
+      "longitude": 10.20374
+    },
+    {
+      "name": "Australian Bodycare Continental",
+      "latitude": 55.389385,
+      "longitude": 10.144478
+    },
+    {
+      "name": "Avantgarde",
+      "latitude": 56.450215,
+      "longitude": 9.405367
+    },
+    {
+      "name": "B-beautiful",
+      "latitude": 57.460536,
+      "longitude": 9.986534
+    },
+    {
+      "name": "Bach",
+      "latitude": 55.761881,
+      "longitude": 12.575659
+    },
+    {
+      "name": "Bagerafdeling Meny Sorø",
+      "latitude": 55.440934,
+      "longitude": 11.567217
+    },
+    {
+      "name": "Barnekow Beauty",
+      "latitude": 55.734145,
+      "longitude": 12.514318
+    },
+    {
+      "name": "Beautiful Nails",
+      "latitude": 55.465218,
+      "longitude": 8.698714
+    },
+    {
+      "name": "Beauty by Broe",
+      "latitude": 55.686985,
+      "longitude": 12.530845
+    },
+    {
+      "name": "Beauty by Crone",
+      "latitude": 55.709773,
+      "longitude": 12.594643
+    },
+    {
+      "name": "Beauty by Dau",
+      "latitude": 54.91498,
+      "longitude": 9.803737
+    },
+    {
+      "name": "Beauty by Hirsch",
+      "latitude": 55.380984,
+      "longitude": 10.04931
+    },
+    {
+      "name": "Beauty by Kiis",
+      "latitude": 55.663727,
+      "longitude": 12.594031
+    },
+    {
+      "name": "Beauty By Munk",
+      "latitude": 57.727241,
+      "longitude": 10.593091
+    },
+    {
+      "name": "Beauty By Reenberg",
+      "latitude": 55.467985,
+      "longitude": 8.458237
+    },
+    {
+      "name": "Beauty by Sagal",
+      "latitude": 57.045254,
+      "longitude": 9.926498
+    },
+    {
+      "name": "Beauty By Waltoft",
+      "latitude": 55.635337,
+      "longitude": 12.620065
+    },
+    {
+      "name": "Beauty Camp",
+      "latitude": 55.487607,
+      "longitude": 9.472704
+    },
+    {
+      "name": "Beauty Castle",
+      "latitude": 57.026131,
+      "longitude": 9.898128
+    },
+    {
+      "name": "Beauty Cell",
+      "latitude": 55.491257,
+      "longitude": 9.471651
+    },
+    {
+      "name": "Beauty Concept",
+      "latitude": 55.670611,
+      "longitude": 12.542299
+    },
+    {
+      "name": "Beauty for you",
+      "latitude": 57.045872,
+      "longitude": 9.939056
+    },
+    {
+      "name": "Beauty ink",
+      "latitude": 55.672755,
+      "longitude": 12.554531
+    },
+    {
+      "name": "Beauty of Ezzence",
+      "latitude": 56.565251,
+      "longitude": 9.029742
+    },
+    {
+      "name": "Beauty Queen",
+      "latitude": 55.465456,
+      "longitude": 8.456102
+    },
+    {
+      "name": "Beauty Tan",
+      "latitude": 54.913139,
+      "longitude": 9.792691
+    },
+    {
+      "name": "Beauty Tan",
+      "latitude": 55.070019,
+      "longitude": 10.63091
+    },
+    {
+      "name": "Beauty Tan",
+      "latitude": 55.094487,
+      "longitude": 10.246289
+    },
+    {
+      "name": "Beauty Tan",
+      "latitude": 55.337288,
+      "longitude": 10.311047
+    },
+    {
+      "name": "Beauty Tan",
+      "latitude": 55.380532,
+      "longitude": 10.422585
+    },
+    {
+      "name": "Beauty Tan",
+      "latitude": 55.543623,
+      "longitude": 9.715379
+    },
+    {
+      "name": "Beauty Tan",
+      "latitude": 55.568788,
+      "longitude": 9.718835
+    },
+    {
+      "name": "Beauty Tan",
+      "latitude": 55.667566,
+      "longitude": 12.578941
+    },
+    {
+      "name": "Beauty Tan",
+      "latitude": 55.684499,
+      "longitude": 12.568031
+    },
+    {
+      "name": "Beauty Tan",
+      "latitude": 55.68781,
+      "longitude": 12.528176
+    },
+    {
+      "name": "Beauty Tan",
+      "latitude": 55.761109,
+      "longitude": 12.450769
+    },
+    {
+      "name": "Beauty Wax Bar",
+      "latitude": 55.648591,
+      "longitude": 12.540779
+    },
+    {
+      "name": "Beautyboxen",
+      "latitude": 55.66808,
+      "longitude": 12.597173
+    },
+    {
+      "name": "Beautycos",
+      "latitude": 55.709505,
+      "longitude": 9.533178
+    },
+    {
+      "name": "Beautycos",
+      "latitude": 56.168836,
+      "longitude": 9.547648
+    },
+    {
+      "name": "BEAUTYCOS",
+      "latitude": 57.046646,
+      "longitude": 9.919256
+    },
+    {
+      "name": "BeautyGeek Studio",
+      "latitude": 55.468345,
+      "longitude": 8.447442
+    },
+    {
+      "name": "Beauté Pacifique Detailsalg",
+      "latitude": 56.725134,
+      "longitude": 10.110687
+    },
+    {
+      "name": "BETREATED",
+      "latitude": 55.713147,
+      "longitude": 12.574134
+    },
+    {
+      "name": "Billund Solcenter",
+      "latitude": 55.734182,
+      "longitude": 9.115976
+    },
+    {
+      "name": "Bold",
+      "latitude": 54.766232,
+      "longitude": 11.870991
+    },
+    {
+      "name": "Bornholms Sæbesyderi",
+      "latitude": 55.277721,
+      "longitude": 14.801701
+    },
+    {
+      "name": "Boutique Fleurance",
+      "latitude": 56.56682,
+      "longitude": 9.026616
+    },
+    {
+      "name": "Breiner InterCoiffure",
+      "latitude": 55.677982,
+      "longitude": 11.094931
+    },
+    {
+      "name": "Broen Nails",
+      "latitude": 55.466042,
+      "longitude": 8.458989
+    },
+    {
+      "name": "Bryde Simonsen",
+      "latitude": 55.665179,
+      "longitude": 12.4737
+    },
+    {
+      "name": "Butik Nærvær",
+      "latitude": 55.211463,
+      "longitude": 14.970815
+    },
+    {
+      "name": "Camilla Care",
+      "latitude": 55.69222,
+      "longitude": 12.464408
+    },
+    {
+      "name": "Camí Clinic",
+      "latitude": 55.701884,
+      "longitude": 12.581499
+    },
+    {
+      "name": "Care Copenhagen",
+      "latitude": 56.15823,
+      "longitude": 10.196489
+    },
+    {
+      "name": "Carina F",
+      "latitude": 57.046562,
+      "longitude": 9.920127
+    },
+    {
+      "name": "Casiopaia",
+      "latitude": 55.703391,
+      "longitude": 12.586481
+    },
+    {
+      "name": "Cassie Nails & Foot Massage",
+      "latitude": 56.450111,
+      "longitude": 9.405183
+    },
+    {
+      "name": "CC Cosmetics",
+      "latitude": 56.194275,
+      "longitude": 10.234345
+    },
+    {
+      "name": "CeriX",
+      "latitude": 55.396109,
+      "longitude": 10.382237
+    },
+    {
+      "name": "CeriX",
+      "latitude": 55.466519,
+      "longitude": 8.446054
+    },
+    {
+      "name": "CeriX",
+      "latitude": 55.67214,
+      "longitude": 12.531755
+    },
+    {
+      "name": "CeriX",
+      "latitude": 55.679966,
+      "longitude": 12.5792
+    },
+    {
+      "name": "CeriX",
+      "latitude": 55.735629,
+      "longitude": 12.574575
+    },
+    {
+      "name": "CeriX",
+      "latitude": 55.853433,
+      "longitude": 12.56464
+    },
+    {
+      "name": "CeriX",
+      "latitude": 57.049538,
+      "longitude": 9.917213
+    },
+    {
+      "name": "Christine Rewitz Kosmetisk Klinik",
+      "latitude": 55.473058,
+      "longitude": 8.437054
+    },
+    {
+      "name": "Chrost Studio",
+      "latitude": 57.044872,
+      "longitude": 9.924834
+    },
+    {
+      "name": "City Hair & Nails",
+      "latitude": 55.466833,
+      "longitude": 8.445281
+    },
+    {
+      "name": "CKE Spa",
+      "latitude": 55.359777,
+      "longitude": 10.664787
+    },
+    {
+      "name": "ClearSkin Hudplejeklinik",
+      "latitude": 55.467687,
+      "longitude": 8.445422
+    },
+    {
+      "name": "Clinic by Joy",
+      "latitude": 55.722395,
+      "longitude": 12.441815
+    },
+    {
+      "name": "Clinic Divine",
+      "latitude": 54.910704,
+      "longitude": 9.790265
+    },
+    {
+      "name": "Clinic Iconic",
+      "latitude": 57.046523,
+      "longitude": 9.912972
+    },
+    {
+      "name": "Clinique Copenhagen",
+      "latitude": 55.711025,
+      "longitude": 12.577284
+    },
+    {
+      "name": "Clinique K",
+      "latitude": 54.91138,
+      "longitude": 9.791792
+    },
+    {
+      "name": "Clinique la Vie",
+      "latitude": 55.79369,
+      "longitude": 12.157538
+    },
+    {
+      "name": "Clinique M",
+      "latitude": 55.612492,
+      "longitude": 12.58462
+    },
+    {
+      "name": "Clinique Nordique",
+      "latitude": 55.708976,
+      "longitude": 12.578327
+    },
+    {
+      "name": "Clinique Nour",
+      "latitude": 56.148173,
+      "longitude": 10.198885
+    },
+    {
+      "name": "Clinique NV",
+      "latitude": 57.047046,
+      "longitude": 9.918063
+    },
+    {
+      "name": "Clinique Sahar",
+      "latitude": 57.457741,
+      "longitude": 9.993036
+    },
+    {
+      "name": "Club Tan",
+      "latitude": 55.653269,
+      "longitude": 12.47498
+    },
+    {
+      "name": "Club Tan",
+      "latitude": 55.710404,
+      "longitude": 12.577299
+    },
+    {
+      "name": "Club Tan",
+      "latitude": 57.040825,
+      "longitude": 9.938493
+    },
+    {
+      "name": "Clubtan",
+      "latitude": 55.659048,
+      "longitude": 12.601434
+    },
+    {
+      "name": "Clubtan",
+      "latitude": 55.667525,
+      "longitude": 12.597173
+    },
+    {
+      "name": "Clubtan",
+      "latitude": 55.70213,
+      "longitude": 12.532964
+    },
+    {
+      "name": "Clubtan",
+      "latitude": 57.049365,
+      "longitude": 9.915389
+    },
+    {
+      "name": "Coco Nails",
+      "latitude": 57.047089,
+      "longitude": 9.919931
+    },
+    {
+      "name": "Colourful nails & design",
+      "latitude": 55.48679,
+      "longitude": 9.472483
+    },
+    {
+      "name": "Comfort Tan",
+      "latitude": 55.659891,
+      "longitude": 11.402822
+    },
+    {
+      "name": "Comfort Tan",
+      "latitude": 57.457674,
+      "longitude": 9.99321
+    },
+    {
+      "name": "Consol",
+      "latitude": 55.663142,
+      "longitude": 12.438662
+    },
+    {
+      "name": "Consol Solcenter",
+      "latitude": 55.862557,
+      "longitude": 9.838516
+    },
+    {
+      "name": "Consul",
+      "latitude": 55.637864,
+      "longitude": 12.641128
+    },
+    {
+      "name": "Consul Solcenter",
+      "latitude": 55.662968,
+      "longitude": 12.602133
+    },
+    {
+      "name": "Copenhagen Beauty Center",
+      "latitude": 55.722293,
+      "longitude": 12.442362
+    },
+    {
+      "name": "Costing Skin Care",
+      "latitude": 55.678298,
+      "longitude": 12.59017
+    },
+    {
+      "name": "Creative Looks",
+      "latitude": 56.139585,
+      "longitude": 9.606232
+    },
+    {
+      "name": "Cut & Color",
+      "latitude": 55.503588,
+      "longitude": 9.73797
+    },
+    {
+      "name": "Cute Arts",
+      "latitude": 55.66746,
+      "longitude": 12.549895
+    },
+    {
+      "name": "Dalena’s Nails & Beauty",
+      "latitude": 55.68803,
+      "longitude": 12.492327
+    },
+    {
+      "name": "Day Spa",
+      "latitude": 55.637435,
+      "longitude": 12.641729
+    },
+    {
+      "name": "DeLeshers",
+      "latitude": 55.704805,
+      "longitude": 12.577688
+    },
+    {
+      "name": "Derma Belle",
+      "latitude": 55.683909,
+      "longitude": 12.585624
+    },
+    {
+      "name": "Dermalogica",
+      "latitude": 56.148066,
+      "longitude": 10.203335
+    },
+    {
+      "name": "Diana Beauty Salon",
+      "latitude": 55.39489,
+      "longitude": 10.345658
+    },
+    {
+      "name": "Divine Wellness",
+      "latitude": 57.457975,
+      "longitude": 9.993588
+    },
+    {
+      "name": "DM Skincare",
+      "latitude": 55.623031,
+      "longitude": 8.482017
+    },
+    {
+      "name": "Do Nails",
+      "latitude": 55.681799,
+      "longitude": 12.508686
+    },
+    {
+      "name": "DoTi",
+      "latitude": 56.252099,
+      "longitude": 9.334968
+    },
+    {
+      "name": "Dream Nails",
+      "latitude": 55.504967,
+      "longitude": 8.403645
+    },
+    {
+      "name": "Düwald",
+      "latitude": 55.490811,
+      "longitude": 9.473059
+    },
+    {
+      "name": "EC Nails",
+      "latitude": 55.688143,
+      "longitude": 12.481839
+    },
+    {
+      "name": "Edona",
+      "latitude": 56.149183,
+      "longitude": 10.208444
+    },
+    {
+      "name": "Ego Skincare",
+      "latitude": 55.691946,
+      "longitude": 12.487325
+    },
+    {
+      "name": "Ellen Kosmetolog",
+      "latitude": 55.506278,
+      "longitude": 8.410937
+    },
+    {
+      "name": "Equals Beauty",
+      "latitude": 55.496705,
+      "longitude": 8.480588
+    },
+    {
+      "name": "Exuviance Wellness",
+      "latitude": 55.681383,
+      "longitude": 12.569579
+    },
+    {
+      "name": "EyeLash by Rønberg",
+      "latitude": 55.469093,
+      "longitude": 8.440789
+    },
+    {
+      "name": "Feminine",
+      "latitude": 55.639457,
+      "longitude": 12.077364
+    },
+    {
+      "name": "Fie List Kosmetolog",
+      "latitude": 55.473365,
+      "longitude": 8.447302
+    },
+    {
+      "name": "Fleurir",
+      "latitude": 55.697659,
+      "longitude": 12.578166
+    },
+    {
+      "name": "Florence Nails",
+      "latitude": 55.404132,
+      "longitude": 11.354097
+    },
+    {
+      "name": "Fodklinik",
+      "latitude": 55.827697,
+      "longitude": 12.435444
+    },
+    {
+      "name": "Fodpleje Clinique",
+      "latitude": 55.796156,
+      "longitude": 12.47954
+    },
+    {
+      "name": "Forkæl Dig Selv",
+      "latitude": 57.15943,
+      "longitude": 10.287262
+    },
+    {
+      "name": "Full Beauty",
+      "latitude": 56.167861,
+      "longitude": 9.549097
+    },
+    {
+      "name": "Future Skincare",
+      "latitude": 57.046557,
+      "longitude": 9.914587
+    },
+    {
+      "name": "Gails Skin & BeautyCare",
+      "latitude": 55.331409,
+      "longitude": 10.436689
+    },
+    {
+      "name": "Girls Spot Copenhagen",
+      "latitude": 55.696988,
+      "longitude": 12.551566
+    },
+    {
+      "name": "Gitte's klinik",
+      "latitude": 54.926074,
+      "longitude": 9.678562
+    },
+    {
+      "name": "Glow Studio",
+      "latitude": 57.044845,
+      "longitude": 9.91112
+    },
+    {
+      "name": "Graceful Space",
+      "latitude": 55.712838,
+      "longitude": 12.577808
+    },
+    {
+      "name": "Green Nails",
+      "latitude": 54.910692,
+      "longitude": 9.790593
+    },
+    {
+      "name": "Hadsund Solcenter",
+      "latitude": 56.716802,
+      "longitude": 10.115663
+    },
+    {
+      "name": "Hair & Skin Society",
+      "latitude": 56.449807,
+      "longitude": 9.409543
+    },
+    {
+      "name": "Happy Nails",
+      "latitude": 55.384444,
+      "longitude": 10.424723
+    },
+    {
+      "name": "Havdrup Solcenter",
+      "latitude": 55.542435,
+      "longitude": 12.116128
+    },
+    {
+      "name": "HB Wellness",
+      "latitude": 57.589745,
+      "longitude": 9.957461
+    },
+    {
+      "name": "Heaven Spa",
+      "latitude": 55.679104,
+      "longitude": 12.574042
+    },
+    {
+      "name": "Heidi Schnabel Rørvig",
+      "latitude": 55.943179,
+      "longitude": 11.753662
+    },
+    {
+      "name": "Helse & Beauty Huset",
+      "latitude": 55.262754,
+      "longitude": 9.077652
+    },
+    {
+      "name": "High Class Skincare",
+      "latitude": 55.638269,
+      "longitude": 12.076375
+    },
+    {
+      "name": "Holistic beauty",
+      "latitude": 55.680175,
+      "longitude": 12.583205
+    },
+    {
+      "name": "Hom",
+      "latitude": 55.703209,
+      "longitude": 12.586743
+    },
+    {
+      "name": "Hr. & Fru Sørensens Urtehjørne",
+      "latitude": 55.659579,
+      "longitude": 11.396735
+    },
+    {
+      "name": "Hudklinikken Esbjerg",
+      "latitude": 55.472409,
+      "longitude": 8.459701
+    },
+    {
+      "name": "Hudpleje Klinikken",
+      "latitude": 55.094682,
+      "longitude": 10.245979
+    },
+    {
+      "name": "Humlebæk Solcenter",
+      "latitude": 55.957708,
+      "longitude": 12.532819
+    },
+    {
+      "name": "Hvas",
+      "latitude": 55.69076,
+      "longitude": 12.487693
+    },
+    {
+      "name": "Højby Sol",
+      "latitude": 55.332465,
+      "longitude": 10.436433
+    },
+    {
+      "name": "Højholt Hudpleje",
+      "latitude": 56.167597,
+      "longitude": 9.549282
+    },
+    {
+      "name": "Ici salonen",
+      "latitude": 56.449113,
+      "longitude": 9.406282
+    },
+    {
+      "name": "Illuhair",
+      "latitude": 55.703354,
+      "longitude": 12.586085
+    },
+    {
+      "name": "Impact of beauty",
+      "latitude": 56.147346,
+      "longitude": 10.195744
+    },
+    {
+      "name": "Inito",
+      "latitude": 55.670552,
+      "longitude": 12.53343
+    },
+    {
+      "name": "Janni Nails",
+      "latitude": 57.044651,
+      "longitude": 9.918516
+    },
+    {
+      "name": "Jessica nails",
+      "latitude": 55.723425,
+      "longitude": 12.440847
+    },
+    {
+      "name": "Jessica Negle",
+      "latitude": 55.25244,
+      "longitude": 9.481978
+    },
+    {
+      "name": "Jolle Nails",
+      "latitude": 55.70936,
+      "longitude": 9.533114
+    },
+    {
+      "name": "June Salon",
+      "latitude": 55.685232,
+      "longitude": 12.567964
+    },
+    {
+      "name": "Junkuhn",
+      "latitude": 55.465663,
+      "longitude": 8.700322
+    },
+    {
+      "name": "Karger Beauty",
+      "latitude": 55.043789,
+      "longitude": 9.418733
+    },
+    {
+      "name": "Kelly Nails",
+      "latitude": 55.41009,
+      "longitude": 10.394385
+    },
+    {
+      "name": "Kicki Merkel",
+      "latitude": 54.767217,
+      "longitude": 11.867151
+    },
+    {
+      "name": "Kims Studio",
+      "latitude": 55.675065,
+      "longitude": 12.546999
+    },
+    {
+      "name": "King Nails",
+      "latitude": 55.513766,
+      "longitude": 9.461004
+    },
+    {
+      "name": "King Nails",
+      "latitude": 55.664764,
+      "longitude": 12.399225
+    },
+    {
+      "name": "King nails",
+      "latitude": 55.814439,
+      "longitude": 12.381664
+    },
+    {
+      "name": "Klinik by Sommer",
+      "latitude": 55.46679,
+      "longitude": 8.444174
+    },
+    {
+      "name": "Klinik Lille Spejl",
+      "latitude": 55.670575,
+      "longitude": 12.533057
+    },
+    {
+      "name": "Klinik Lindberg",
+      "latitude": 55.471488,
+      "longitude": 8.68853
+    },
+    {
+      "name": "Klinik Lindhardt",
+      "latitude": 57.050244,
+      "longitude": 9.918029
+    },
+    {
+      "name": "Klinik Nabla",
+      "latitude": 55.685953,
+      "longitude": 12.490182
+    },
+    {
+      "name": "Klinik Unik",
+      "latitude": 56.156393,
+      "longitude": 10.207102
+    },
+    {
+      "name": "Klitmøller Spa",
+      "latitude": 57.041805,
+      "longitude": 8.484109
+    },
+    {
+      "name": "Kollagen Cille",
+      "latitude": 56.105269,
+      "longitude": 12.215849
+    },
+    {
+      "name": "Kosme2logen",
+      "latitude": 56.565504,
+      "longitude": 9.025468
+    },
+    {
+      "name": "KosmetoLone",
+      "latitude": 55.93637,
+      "longitude": 12.318469
+    },
+    {
+      "name": "Kost & Skønhed - Tanja Holm",
+      "latitude": 55.46833,
+      "longitude": 8.447514
+    },
+    {
+      "name": "Kozo",
+      "latitude": 56.300854,
+      "longitude": 10.476038
+    },
+    {
+      "name": "krystakSkønhed",
+      "latitude": 55.467982,
+      "longitude": 8.458275
+    },
+    {
+      "name": "Kurbad Limfjorden",
+      "latitude": 56.492963,
+      "longitude": 8.594097
+    },
+    {
+      "name": "L&L Skincare",
+      "latitude": 55.505164,
+      "longitude": 8.417892
+    },
+    {
+      "name": "La Elegancia",
+      "latitude": 56.167731,
+      "longitude": 9.549816
+    },
+    {
+      "name": "La Peau",
+      "latitude": 55.667949,
+      "longitude": 12.596744
+    },
+    {
+      "name": "Lashes Boss",
+      "latitude": 55.489731,
+      "longitude": 9.477795
+    },
+    {
+      "name": "Lashes By Lopez",
+      "latitude": 55.682111,
+      "longitude": 12.508054
+    },
+    {
+      "name": "LashesBoss",
+      "latitude": 55.48216,
+      "longitude": 9.440175
+    },
+    {
+      "name": "Le Krib",
+      "latitude": 56.159959,
+      "longitude": 10.20015
+    },
+    {
+      "name": "Lemon Salon",
+      "latitude": 55.763159,
+      "longitude": 12.577645
+    },
+    {
+      "name": "Liem Eyelash",
+      "latitude": 57.059085,
+      "longitude": 9.922096
+    },
+    {
+      "name": "Lilith Beauty",
+      "latitude": 55.543137,
+      "longitude": 12.116331
+    },
+    {
+      "name": "linda's HOUSE of BEAUTY",
+      "latitude": 56.140135,
+      "longitude": 9.602092
+    },
+    {
+      "name": "Linnea Bloch",
+      "latitude": 56.091263,
+      "longitude": 9.758033
+    },
+    {
+      "name": "Livsstilscenteret",
+      "latitude": 55.503785,
+      "longitude": 9.737991
+    },
+    {
+      "name": "Lone Storgaards Fodklinik",
+      "latitude": 55.46465,
+      "longitude": 8.703255
+    },
+    {
+      "name": "Lotus House - Nail Spa",
+      "latitude": 55.683327,
+      "longitude": 12.574049
+    },
+    {
+      "name": "Lotus Touch",
+      "latitude": 56.037498,
+      "longitude": 10.191704
+    },
+    {
+      "name": "Louise Nørgaard",
+      "latitude": 56.834007,
+      "longitude": 9.8939
+    },
+    {
+      "name": "Love Lash",
+      "latitude": 55.704437,
+      "longitude": 12.580882
+    },
+    {
+      "name": "Lovely Nails",
+      "latitude": 55.679986,
+      "longitude": 12.533994
+    },
+    {
+      "name": "Luxura Solcenter",
+      "latitude": 56.715629,
+      "longitude": 10.113304
+    },
+    {
+      "name": "Mama afrika",
+      "latitude": 57.404714,
+      "longitude": 9.936814
+    },
+    {
+      "name": "Maria Beauté Clinic",
+      "latitude": 55.633093,
+      "longitude": 12.581575
+    },
+    {
+      "name": "me & mê",
+      "latitude": 56.151144,
+      "longitude": 10.20499
+    },
+    {
+      "name": "Meddo Solcenter",
+      "latitude": 55.377558,
+      "longitude": 10.048777
+    },
+    {
+      "name": "Medex Skincare",
+      "latitude": 55.68703,
+      "longitude": 12.530654
+    },
+    {
+      "name": "Medical Aesthetic Clinic",
+      "latitude": 56.158283,
+      "longitude": 10.207017
+    },
+    {
+      "name": "Medina",
+      "latitude": 55.759269,
+      "longitude": 12.565718
+    },
+    {
+      "name": "MegaSun",
+      "latitude": 55.616442,
+      "longitude": 12.585841
+    },
+    {
+      "name": "Mekini - Naturlig Skønhed",
+      "latitude": 57.045609,
+      "longitude": 9.92379
+    },
+    {
+      "name": "Midtfyn Nutrition",
+      "latitude": 55.242253,
+      "longitude": 10.475631
+    },
+    {
+      "name": "Milles Fodpleje",
+      "latitude": 55.726213,
+      "longitude": 9.50356
+    },
+    {
+      "name": "Mini Nails",
+      "latitude": 55.059055,
+      "longitude": 10.609758
+    },
+    {
+      "name": "Mira Nails",
+      "latitude": 55.663593,
+      "longitude": 12.438684
+    },
+    {
+      "name": "Miss Beauty Copenhagen",
+      "latitude": 55.693577,
+      "longitude": 12.491976
+    },
+    {
+      "name": "Miss Nails",
+      "latitude": 55.707904,
+      "longitude": 12.585251
+    },
+    {
+      "name": "Mlash",
+      "latitude": 55.506125,
+      "longitude": 8.410948
+    },
+    {
+      "name": "Mon Petit Studio",
+      "latitude": 56.154455,
+      "longitude": 10.197734
+    },
+    {
+      "name": "Mona Lisa",
+      "latitude": 55.862843,
+      "longitude": 9.845081
+    },
+    {
+      "name": "Monas Beauty Salon",
+      "latitude": 55.70838,
+      "longitude": 12.574505
+    },
+    {
+      "name": "Mood Fredericia",
+      "latitude": 55.564799,
+      "longitude": 9.756813
+    },
+    {
+      "name": "MP-art",
+      "latitude": 55.464478,
+      "longitude": 8.601975
+    },
+    {
+      "name": "Mp-art",
+      "latitude": 55.47354,
+      "longitude": 8.440523
+    },
+    {
+      "name": "Multipleje Klinik",
+      "latitude": 56.156478,
+      "longitude": 10.184226
+    },
+    {
+      "name": "N'finity Beauty Roskilde",
+      "latitude": 55.639058,
+      "longitude": 12.081173
+    },
+    {
+      "name": "Nada-klinikken",
+      "latitude": 56.466989,
+      "longitude": 10.03256
+    },
+    {
+      "name": "Nail Bar",
+      "latitude": 55.682147,
+      "longitude": 12.585713
+    },
+    {
+      "name": "Nail Salon Deluxe",
+      "latitude": 55.708975,
+      "longitude": 12.577971
+    },
+    {
+      "name": "Nail Time",
+      "latitude": 55.783276,
+      "longitude": 12.374991
+    },
+    {
+      "name": "NailControl",
+      "latitude": 55.466469,
+      "longitude": 8.454623
+    },
+    {
+      "name": "Nails",
+      "latitude": 57.049076,
+      "longitude": 9.91742
+    },
+    {
+      "name": "Nails & Beauty",
+      "latitude": 55.465902,
+      "longitude": 8.457421
+    },
+    {
+      "name": "Nails & Beauty",
+      "latitude": 57.045299,
+      "longitude": 9.924466
+    },
+    {
+      "name": "Nails & Lash",
+      "latitude": 55.510168,
+      "longitude": 8.456601
+    },
+    {
+      "name": "Nails Art",
+      "latitude": 55.715381,
+      "longitude": 12.577242
+    },
+    {
+      "name": "Nails Gallery",
+      "latitude": 55.384271,
+      "longitude": 10.42566
+    },
+    {
+      "name": "Nails Gallery",
+      "latitude": 55.514416,
+      "longitude": 9.46118
+    },
+    {
+      "name": "Nails Gallery",
+      "latitude": 56.149125,
+      "longitude": 10.204087
+    },
+    {
+      "name": "Nails Gallery",
+      "latitude": 56.171498,
+      "longitude": 10.188033
+    },
+    {
+      "name": "Nails Gallery & Spa",
+      "latitude": 56.135642,
+      "longitude": 8.997499
+    },
+    {
+      "name": "Nails Gallery and Friends",
+      "latitude": 55.768728,
+      "longitude": 12.502679
+    },
+    {
+      "name": "Nails Studio",
+      "latitude": 55.508068,
+      "longitude": 8.448871
+    },
+    {
+      "name": "Nails Style",
+      "latitude": 55.644622,
+      "longitude": 12.614805
+    },
+    {
+      "name": "Namiso",
+      "latitude": 57.003513,
+      "longitude": 9.872792
+    },
+    {
+      "name": "Naughty Alchemist",
+      "latitude": 55.677706,
+      "longitude": 12.533428
+    },
+    {
+      "name": "Neni Nail",
+      "latitude": 55.711131,
+      "longitude": 12.475829
+    },
+    {
+      "name": "Neuskin",
+      "latitude": 55.705583,
+      "longitude": 12.544053
+    },
+    {
+      "name": "New Hair Shop",
+      "latitude": 55.701562,
+      "longitude": 12.581477
+    },
+    {
+      "name": "New Look Cph",
+      "latitude": 55.705501,
+      "longitude": 12.580557
+    },
+    {
+      "name": "NiceHair Studio",
+      "latitude": 55.465588,
+      "longitude": 8.455036
+    },
+    {
+      "name": "Nomakeup",
+      "latitude": 55.841642,
+      "longitude": 12.432068
+    },
+    {
+      "name": "Nordfyns Hudpleje Center",
+      "latitude": 55.565403,
+      "longitude": 10.089629
+    },
+    {
+      "name": "Nordic Aesthetic Clinic",
+      "latitude": 57.04747,
+      "longitude": 9.916545
+    },
+    {
+      "name": "Nordicue",
+      "latitude": 56.174128,
+      "longitude": 9.509436
+    },
+    {
+      "name": "norslev.dk",
+      "latitude": 54.767567,
+      "longitude": 11.867009
+    },
+    {
+      "name": "NR Kosmetik",
+      "latitude": 55.486018,
+      "longitude": 9.474374
+    },
+    {
+      "name": "N’finity Beauty",
+      "latitude": 55.465447,
+      "longitude": 8.448511
+    },
+    {
+      "name": "Oishe",
+      "latitude": 55.713304,
+      "longitude": 12.577257
+    },
+    {
+      "name": "OMHU",
+      "latitude": 55.862771,
+      "longitude": 9.849576
+    },
+    {
+      "name": "Orkidé Beauty & Nails",
+      "latitude": 55.664797,
+      "longitude": 12.399662
+    },
+    {
+      "name": "Parfumeriet",
+      "latitude": 56.167875,
+      "longitude": 9.547969
+    },
+    {
+      "name": "Pii",
+      "latitude": 55.701693,
+      "longitude": 12.577703
+    },
+    {
+      "name": "Prestige Nails",
+      "latitude": 55.465996,
+      "longitude": 8.447092
+    },
+    {
+      "name": "Privatklinik NOMO",
+      "latitude": 55.640928,
+      "longitude": 12.08581
+    },
+    {
+      "name": "Probeauty",
+      "latitude": 55.465092,
+      "longitude": 8.456692
+    },
+    {
+      "name": "Proffesionel Hudpleje",
+      "latitude": 55.485707,
+      "longitude": 9.471886
+    },
+    {
+      "name": "Queen",
+      "latitude": 55.703383,
+      "longitude": 12.538179
+    },
+    {
+      "name": "Raw Roots",
+      "latitude": 56.166979,
+      "longitude": 9.349151
+    },
+    {
+      "name": "Red Nails",
+      "latitude": 56.160412,
+      "longitude": 10.209323
+    },
+    {
+      "name": "Reskin",
+      "latitude": 55.465599,
+      "longitude": 8.45644
+    },
+    {
+      "name": "Rita's Fodpleje og Negleklinik",
+      "latitude": 56.137866,
+      "longitude": 9.619742
+    },
+    {
+      "name": "Rustic Hair & Makeup",
+      "latitude": 55.609423,
+      "longitude": 8.494846
+    },
+    {
+      "name": "Ruths Wellness",
+      "latitude": 57.726781,
+      "longitude": 10.521484
+    },
+    {
+      "name": "Salon All 4 You",
+      "latitude": 55.375173,
+      "longitude": 10.369633
+    },
+    {
+      "name": "Salon Di",
+      "latitude": 56.162954,
+      "longitude": 9.551135
+    },
+    {
+      "name": "Salon Domaine",
+      "latitude": 55.474087,
+      "longitude": 8.436713
+    },
+    {
+      "name": "Salon Frk. Kirk",
+      "latitude": 55.51025,
+      "longitude": 8.917381
+    },
+    {
+      "name": "Salon Istanbul",
+      "latitude": 55.396364,
+      "longitude": 10.396903
+    },
+    {
+      "name": "Salon Nails",
+      "latitude": 55.932813,
+      "longitude": 12.29795
+    },
+    {
+      "name": "Salon Romeo",
+      "latitude": 55.685879,
+      "longitude": 12.536715
+    },
+    {
+      "name": "Salon Rosted",
+      "latitude": 55.933121,
+      "longitude": 12.297081
+    },
+    {
+      "name": "Salon Therese",
+      "latitude": 55.762647,
+      "longitude": 12.576589
+    },
+    {
+      "name": "Serious Beauty",
+      "latitude": 55.782737,
+      "longitude": 12.373279
+    },
+    {
+      "name": "Shared Beauty",
+      "latitude": 56.155642,
+      "longitude": 10.207814
+    },
+    {
+      "name": "Shelicious",
+      "latitude": 57.0433,
+      "longitude": 9.919903
+    },
+    {
+      "name": "Shje cph",
+      "latitude": 55.705017,
+      "longitude": 12.586586
+    },
+    {
+      "name": "Silkeborg Hudplejeinstitut",
+      "latitude": 56.166794,
+      "longitude": 9.545836
+    },
+    {
+      "name": "Silkeborg Wellness",
+      "latitude": 56.163174,
+      "longitude": 9.551177
+    },
+    {
+      "name": "Siren Beauty",
+      "latitude": 55.724286,
+      "longitude": 12.375657
+    },
+    {
+      "name": "Sjæl",
+      "latitude": 56.167867,
+      "longitude": 10.218767
+    },
+    {
+      "name": "Skin & Body Care",
+      "latitude": 55.687345,
+      "longitude": 12.530307
+    },
+    {
+      "name": "Skin by A",
+      "latitude": 55.56572,
+      "longitude": 9.755135
+    },
+    {
+      "name": "Skin of Fashion",
+      "latitude": 57.046779,
+      "longitude": 9.921883
+    },
+    {
+      "name": "Skin Stories",
+      "latitude": 55.681949,
+      "longitude": 12.557034
+    },
+    {
+      "name": "SkinRepair",
+      "latitude": 56.156542,
+      "longitude": 10.185968
+    },
+    {
+      "name": "SKÖN by Dreier",
+      "latitude": 55.285114,
+      "longitude": 8.733885
+    },
+    {
+      "name": "SKÖN by Dreier",
+      "latitude": 55.466682,
+      "longitude": 8.449248
+    },
+    {
+      "name": "SkønhedOgNegle.dk",
+      "latitude": 54.918244,
+      "longitude": 12.04259
+    },
+    {
+      "name": "Skønhedsklinik N",
+      "latitude": 55.404923,
+      "longitude": 11.357854
+    },
+    {
+      "name": "Skønne Fødder",
+      "latitude": 55.673562,
+      "longitude": 12.46377
+    },
+    {
+      "name": "Skønne Fødder",
+      "latitude": 55.684765,
+      "longitude": 12.541546
+    },
+    {
+      "name": "Smooth",
+      "latitude": 55.700663,
+      "longitude": 12.579269
+    },
+    {
+      "name": "Smooth",
+      "latitude": 56.15732,
+      "longitude": 10.20735
+    },
+    {
+      "name": "Smooth",
+      "latitude": 57.048683,
+      "longitude": 9.917333
+    },
+    {
+      "name": "SMUK-NU",
+      "latitude": 55.566152,
+      "longitude": 9.759282
+    },
+    {
+      "name": "SmukAarhus",
+      "latitude": 56.159432,
+      "longitude": 10.2086
+    },
+    {
+      "name": "Smukkere.Nu",
+      "latitude": 55.693353,
+      "longitude": 12.480612
+    },
+    {
+      "name": "Sol & Wellness",
+      "latitude": 56.160381,
+      "longitude": 10.208965
+    },
+    {
+      "name": "Sol & Wellness",
+      "latitude": 56.167927,
+      "longitude": 10.163127
+    },
+    {
+      "name": "Sol & Wellness Amager",
+      "latitude": 55.664793,
+      "longitude": 12.599817
+    },
+    {
+      "name": "Sol & Wellness Center",
+      "latitude": 55.636119,
+      "longitude": 12.642587
+    },
+    {
+      "name": "Solcenter",
+      "latitude": 55.663311,
+      "longitude": 12.515882
+    },
+    {
+      "name": "Solcenter",
+      "latitude": 56.390634,
+      "longitude": 8.808863
+    },
+    {
+      "name": "Solcenter Luxura",
+      "latitude": 57.043081,
+      "longitude": 9.949885
+    },
+    {
+      "name": "Solkongen",
+      "latitude": 57.159507,
+      "longitude": 10.292067
+    },
+    {
+      "name": "Sompoo Welness",
+      "latitude": 55.703227,
+      "longitude": 12.5852
+    },
+    {
+      "name": "SP Nails",
+      "latitude": 55.505969,
+      "longitude": 8.410799
+    },
+    {
+      "name": "Star Nails",
+      "latitude": 55.484284,
+      "longitude": 9.471411
+    },
+    {
+      "name": "Studio A",
+      "latitude": 56.178822,
+      "longitude": 9.552321
+    },
+    {
+      "name": "Style and Beauty",
+      "latitude": 56.449892,
+      "longitude": 9.409824
+    },
+    {
+      "name": "StyleBox",
+      "latitude": 55.466376,
+      "longitude": 8.44937
+    },
+    {
+      "name": "Styled By Khatera",
+      "latitude": 56.157874,
+      "longitude": 10.097355
+    },
+    {
+      "name": "Sugar Wax & Wellness",
+      "latitude": 56.167718,
+      "longitude": 9.549885
+    },
+    {
+      "name": "Sun De Luxe",
+      "latitude": 56.09174,
+      "longitude": 8.238642
+    },
+    {
+      "name": "Sun Tan",
+      "latitude": 55.394013,
+      "longitude": 10.348764
+    },
+    {
+      "name": "Sund og Stærk",
+      "latitude": 56.458916,
+      "longitude": 10.038751
+    },
+    {
+      "name": "Sunone",
+      "latitude": 55.491879,
+      "longitude": 9.471648
+    },
+    {
+      "name": "Sunpoint Wellness Center",
+      "latitude": 55.962923,
+      "longitude": 11.850834
+    },
+    {
+      "name": "SunShine",
+      "latitude": 55.687769,
+      "longitude": 12.489643
+    },
+    {
+      "name": "SæbeRiget",
+      "latitude": 55.55128,
+      "longitude": 8.227822
+    },
+    {
+      "name": "Søborg Fodklinik",
+      "latitude": 55.739382,
+      "longitude": 12.504698
+    },
+    {
+      "name": "T-K Nails",
+      "latitude": 55.466262,
+      "longitude": 8.454561
+    },
+    {
+      "name": "T.L.C. Negle & Hudpleje",
+      "latitude": 56.15698,
+      "longitude": 10.195232
+    },
+    {
+      "name": "Thai Wellness",
+      "latitude": 55.693131,
+      "longitude": 12.505934
+    },
+    {
+      "name": "Thao Mina Nail Salon",
+      "latitude": 55.782952,
+      "longitude": 12.373135
+    },
+    {
+      "name": "Tip Top Nails",
+      "latitude": 55.409481,
+      "longitude": 10.339514
+    },
+    {
+      "name": "Tip Top Wellness",
+      "latitude": 56.272018,
+      "longitude": 8.321746
+    },
+    {
+      "name": "To The Moon Honey",
+      "latitude": 55.682099,
+      "longitude": 12.581393
+    },
+    {
+      "name": "Top Nails",
+      "latitude": 55.68494,
+      "longitude": 12.539786
+    },
+    {
+      "name": "TopSol",
+      "latitude": 57.446287,
+      "longitude": 10.50764
+    },
+    {
+      "name": "Trinh Nails",
+      "latitude": 55.47632,
+      "longitude": 8.4552
+    },
+    {
+      "name": "Tropic Sun",
+      "latitude": 55.670759,
+      "longitude": 12.532794
+    },
+    {
+      "name": "Tropic Sun",
+      "latitude": 55.694487,
+      "longitude": 12.510036
+    },
+    {
+      "name": "Tropic Sun",
+      "latitude": 55.933001,
+      "longitude": 12.318625
+    },
+    {
+      "name": "Tropic sun",
+      "latitude": 56.17411,
+      "longitude": 10.202206
+    },
+    {
+      "name": "Tropic Sun",
+      "latitude": 56.413581,
+      "longitude": 10.880429
+    },
+    {
+      "name": "Tropic Sun",
+      "latitude": 57.033015,
+      "longitude": 9.907763
+    },
+    {
+      "name": "Tropic Sun",
+      "latitude": 57.041782,
+      "longitude": 9.939006
+    },
+    {
+      "name": "Tåsinge Skønhedssalon",
+      "latitude": 55.04008,
+      "longitude": 10.61175
+    },
+    {
+      "name": "Unika Koncept",
+      "latitude": 55.680045,
+      "longitude": 12.548159
+    },
+    {
+      "name": "Velværerum",
+      "latitude": 56.218123,
+      "longitude": 10.292931
+    },
+    {
+      "name": "Venus",
+      "latitude": 55.567185,
+      "longitude": 9.759707
+    },
+    {
+      "name": "Vester Juelsgaards Fodklinik",
+      "latitude": 56.268967,
+      "longitude": 8.26728
+    },
+    {
+      "name": "Viet Nails & Beauty",
+      "latitude": 55.469095,
+      "longitude": 8.453381
+    },
+    {
+      "name": "Vippegalleriet",
+      "latitude": 55.503831,
+      "longitude": 9.737833
+    },
+    {
+      "name": "Visage",
+      "latitude": 56.156268,
+      "longitude": 10.211493
+    },
+    {
+      "name": "Visage Hudplejeklinik",
+      "latitude": 55.040864,
+      "longitude": 10.613495
+    },
+    {
+      "name": "Vita Nova Skincare",
+      "latitude": 55.504475,
+      "longitude": 9.735964
+    },
+    {
+      "name": "Vogelius Glow",
+      "latitude": 55.840082,
+      "longitude": 12.430702
+    },
+    {
+      "name": "Wax & Skincare",
+      "latitude": 55.683044,
+      "longitude": 12.570018
+    },
+    {
+      "name": "Well by Xenobia",
+      "latitude": 56.150121,
+      "longitude": 10.199206
+    },
+    {
+      "name": "Woods Copenhagen",
+      "latitude": 56.15654,
+      "longitude": 10.208074
+    },
+    {
+      "name": "Yroli",
+      "latitude": 55.70995,
+      "longitude": 12.594894
+    },
+    {
+      "name": "Yvonnes Beauty",
+      "latitude": 55.711402,
+      "longitude": 12.474843
+    },
+    {
+      "name": "Zone Beauty",
+      "latitude": 55.933713,
+      "longitude": 12.296546
+    },
+    {
+      "name": "Zoneterapeuterne",
+      "latitude": 55.686835,
+      "longitude": 12.532503
+    },
+    {
+      "name": "Æstetik Oxholm",
+      "latitude": 56.163392,
+      "longitude": 9.550883
+    }
+  ],
+  "meta": {
+    "title": "Skønhedssaloner i Danmark (Beauty salons in Denmark) - Gratis download",
+    "description": "Beauty salons in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=beauty. Indeholder 393 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Skønhedssaloner i Danmark (Beauty salons in Denmark) | ListBase",
+    "seo_description": "Download Skønhedssaloner i Danmark (Beauty salons in Denmark) — 393 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 393 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

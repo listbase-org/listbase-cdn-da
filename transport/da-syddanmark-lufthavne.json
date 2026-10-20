@@ -1,0 +1,271 @@
+{
+  "id": "da-syddanmark-lufthavne",
+  "name": "Lufthavne — Region Syddanmark",
+  "title": "Lufthavne — Region Syddanmark",
+  "description": "Lufthavne og flyvepladser i Region Syddanmark (Danmark / DK) — ICAO/IATA-koder, by, koordinater (WGS84), højde og tidszone. Udsnit af det nationale flagship-datasæt `da-lufthavne` filtreret på Region Syddanmark. (Airports in Region of Southern Denmark — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EKAE",
+      "iata": "",
+      "name": "AEro Airport",
+      "city": "AEro",
+      "subdivision": "Region of Southern Denmark",
+      "subdivision_native": "Region Syddanmark",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 3,
+      "latitude": 54.8528,
+      "longitude": 10.4564,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKBI",
+      "iata": "BLL",
+      "name": "Billund Airport",
+      "city": "Billund",
+      "subdivision": "Region of Southern Denmark",
+      "subdivision_native": "Region Syddanmark",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 247,
+      "latitude": 55.7403,
+      "longitude": 9.15178,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKEB",
+      "iata": "EBJ",
+      "name": "Esbjerg Airport",
+      "city": "Esbjerg",
+      "subdivision": "Region of Southern Denmark",
+      "subdivision_native": "Region Syddanmark",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 97,
+      "latitude": 55.5259,
+      "longitude": 8.5534,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKHV",
+      "iata": "",
+      "name": "Haderslev Airport",
+      "city": "Haderslev",
+      "subdivision": "Region of Southern Denmark",
+      "subdivision_native": "Region Syddanmark",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 81,
+      "latitude": 55.3022,
+      "longitude": 9.5225,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKOD",
+      "iata": "ODE",
+      "name": "Odense Airport",
+      "city": "Odense",
+      "subdivision": "Region of Southern Denmark",
+      "subdivision_native": "Region Syddanmark",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 56,
+      "latitude": 55.4767,
+      "longitude": 10.3309,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKPB",
+      "iata": "",
+      "name": "Krusa-Padborg Airport",
+      "city": "Krusa / Padborg",
+      "subdivision": "Region of Southern Denmark",
+      "subdivision_native": "Region Syddanmark",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 88,
+      "latitude": 54.8703,
+      "longitude": 9.27901,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKSB",
+      "iata": "SGD",
+      "name": "Sonderborg Airport",
+      "city": "Sonderborg",
+      "subdivision": "Region of Southern Denmark",
+      "subdivision_native": "Region Syddanmark",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 24,
+      "latitude": 54.9644,
+      "longitude": 9.79173,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKSP",
+      "iata": "SKS",
+      "name": "Vojens Skrydstrup Airport",
+      "city": "Vojens",
+      "subdivision": "Region of Southern Denmark",
+      "subdivision_native": "Region Syddanmark",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 141,
+      "latitude": 55.2256,
+      "longitude": 9.26393,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKST",
+      "iata": "",
+      "name": "Sydfy (Tasinge) Airport",
+      "city": "Tasinge",
+      "subdivision": "Region of Southern Denmark",
+      "subdivision_native": "Region Syddanmark",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 7,
+      "latitude": 55.0166,
+      "longitude": 10.5633,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKTD",
+      "iata": "",
+      "name": "Tonder Airport",
+      "city": "Tonder",
+      "subdivision": "Region of Southern Denmark",
+      "subdivision_native": "Region Syddanmark",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 1,
+      "latitude": 54.9297,
+      "longitude": 8.84057,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKVA",
+      "iata": "",
+      "name": "Vandel Air Base",
+      "city": "Vandel",
+      "subdivision": "Region of Southern Denmark",
+      "subdivision_native": "Region Syddanmark",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 250,
+      "latitude": 55.701,
+      "longitude": 9.21358,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKVD",
+      "iata": "",
+      "name": "Kolding Vamdrup Airport",
+      "city": "Kolding / Vamdrup",
+      "subdivision": "Region of Southern Denmark",
+      "subdivision_native": "Region Syddanmark",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 143,
+      "latitude": 55.4363,
+      "longitude": 9.33092,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Lufthavne — Region Syddanmark - Gratis download",
+    "description": "Lufthavne og flyvepladser i Region Syddanmark (Danmark / DK) — ICAO/IATA-koder, by, koordinater (WGS84), højde og tidszone. Udsnit af det nationale flagship-datasæt `da-lufthavne` filtreret på Region Syddanmark. (Airports in Region of Southern Denmark — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.) Indeholder 12 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Lufthavne — Region Syddanmark | ListBase",
+    "seo_description": "Download Lufthavne — Region Syddanmark — 12 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 12 poster / 13 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

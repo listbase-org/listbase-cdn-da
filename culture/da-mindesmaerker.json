@@ -1,0 +1,2888 @@
+{
+  "id": "da-mindesmaerker",
+  "name": "Mindesmærker i Danmark",
+  "title": "Mindesmærker i Danmark",
+  "description": "Mindesmærker (memorials) i Danmark fra Wikidata (P31 = Q5003624, P17 = Danmark) med koordinater. Mere specifikke klasser (statuer) er udskilt til egne datasæt.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 354,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q30243710",
+      "wikidata_id": "Q30243710",
+      "name_da": "Alfsgrav",
+      "name_en": "",
+      "latitude": 54.920145,
+      "longitude": 9.580202
+    },
+    {
+      "id": "Q30156767",
+      "wikidata_id": "Q30156767",
+      "name_da": "Almstok Kirke",
+      "name_en": "",
+      "latitude": 55.685191,
+      "longitude": 9.117622
+    },
+    {
+      "id": "Q30242439",
+      "wikidata_id": "Q30242439",
+      "name_da": "Arnkil",
+      "name_en": "",
+      "latitude": 54.968749,
+      "longitude": 9.759938
+    },
+    {
+      "id": "Q30242801",
+      "wikidata_id": "Q30242801",
+      "name_da": "Arnkil",
+      "name_en": "",
+      "latitude": 54.96616,
+      "longitude": 9.768714
+    },
+    {
+      "id": "Q30242856",
+      "wikidata_id": "Q30242856",
+      "name_da": "Arnkil",
+      "name_en": "",
+      "latitude": 54.967697,
+      "longitude": 9.760027
+    },
+    {
+      "id": "Q30242995",
+      "wikidata_id": "Q30242995",
+      "name_da": "Arnkil",
+      "name_en": "",
+      "latitude": 54.966833,
+      "longitude": 9.760183
+    },
+    {
+      "id": "Q30242997",
+      "wikidata_id": "Q30242997",
+      "name_da": "Arnkil",
+      "name_en": "",
+      "latitude": 54.966707,
+      "longitude": 9.760274
+    },
+    {
+      "id": "Q30242437",
+      "wikidata_id": "Q30242437",
+      "name_da": "Arnkil Fred",
+      "name_en": "",
+      "latitude": 54.974522,
+      "longitude": 9.762234
+    },
+    {
+      "id": "Q30145048",
+      "wikidata_id": "Q30145048",
+      "name_da": "Arnkils Fredskov, afd. 273.",
+      "name_en": "",
+      "latitude": 54.966112,
+      "longitude": 9.772009
+    },
+    {
+      "id": "Q30241800",
+      "wikidata_id": "Q30241800",
+      "name_da": "Arresødal Skov",
+      "name_en": "",
+      "latitude": 55.980529,
+      "longitude": 12.033188
+    },
+    {
+      "id": "Q30242393",
+      "wikidata_id": "Q30242393",
+      "name_da": "Avernak",
+      "name_en": "",
+      "latitude": 55.034024,
+      "longitude": 10.255893
+    },
+    {
+      "id": "Q30242457",
+      "wikidata_id": "Q30242457",
+      "name_da": "Avnbøløsten",
+      "name_en": "",
+      "latitude": 54.952889,
+      "longitude": 9.661188
+    },
+    {
+      "id": "Q30156592",
+      "wikidata_id": "Q30156592",
+      "name_da": "Batteriet",
+      "name_en": "",
+      "latitude": 55.21908,
+      "longitude": 11.238926
+    },
+    {
+      "id": "Q30127785",
+      "wikidata_id": "Q30127785",
+      "name_da": "Bjerregrav",
+      "name_en": "",
+      "latitude": 56.58437,
+      "longitude": 9.489554
+    },
+    {
+      "id": "Q30119140",
+      "wikidata_id": "Q30119140",
+      "name_da": "Blakshøj",
+      "name_en": "",
+      "latitude": 57.074799,
+      "longitude": 8.976026
+    },
+    {
+      "id": "Q30130762",
+      "wikidata_id": "Q30130762",
+      "name_da": "Blombjerg Gaard",
+      "name_en": "",
+      "latitude": 56.295423,
+      "longitude": 10.43864
+    },
+    {
+      "id": "Q30248117",
+      "wikidata_id": "Q30248117",
+      "name_da": "Blykobbe plantage",
+      "name_en": "",
+      "latitude": 55.140658,
+      "longitude": 14.720195
+    },
+    {
+      "id": "Q30248015",
+      "wikidata_id": "Q30248015",
+      "name_da": "Boller nederskov",
+      "name_en": "",
+      "latitude": 55.839771,
+      "longitude": 9.897361
+    },
+    {
+      "id": "Q30157339",
+      "wikidata_id": "Q30157339",
+      "name_da": "Borgvold",
+      "name_en": "",
+      "latitude": 56.450665,
+      "longitude": 9.41864
+    },
+    {
+      "id": "Q30241597",
+      "wikidata_id": "Q30241597",
+      "name_da": "Brejning",
+      "name_en": "",
+      "latitude": 56.085835,
+      "longitude": 8.508066
+    },
+    {
+      "id": "Q30242911",
+      "wikidata_id": "Q30242911",
+      "name_da": "Brestenbro",
+      "name_en": "",
+      "latitude": 55.935973,
+      "longitude": 9.653652
+    },
+    {
+      "id": "Q30146514",
+      "wikidata_id": "Q30146514",
+      "name_da": "Brillestenen",
+      "name_en": "",
+      "latitude": 56.06908,
+      "longitude": 12.274889
+    },
+    {
+      "id": "Q30247921",
+      "wikidata_id": "Q30247921",
+      "name_da": "Broager",
+      "name_en": "",
+      "latitude": 54.838546,
+      "longitude": 9.729511
+    },
+    {
+      "id": "Q30248135",
+      "wikidata_id": "Q30248135",
+      "name_da": "Brosbølgård",
+      "name_en": "",
+      "latitude": 55.849431,
+      "longitude": 8.49512
+    },
+    {
+      "id": "Q30118229",
+      "wikidata_id": "Q30118229",
+      "name_da": "Brunhøj",
+      "name_en": "",
+      "latitude": 56.771952,
+      "longitude": 8.735076
+    },
+    {
+      "id": "Q30154944",
+      "wikidata_id": "Q30154944",
+      "name_da": "Burkal Kirke",
+      "name_en": "",
+      "latitude": 54.92688,
+      "longitude": 9.068107
+    },
+    {
+      "id": "Q30241660",
+      "wikidata_id": "Q30241660",
+      "name_da": "Bybjerggård",
+      "name_en": "",
+      "latitude": 56.000056,
+      "longitude": 12.538077
+    },
+    {
+      "id": "Q30242707",
+      "wikidata_id": "Q30242707",
+      "name_da": "Bådsager",
+      "name_en": "",
+      "latitude": 54.917593,
+      "longitude": 9.781767
+    },
+    {
+      "id": "Q30242186",
+      "wikidata_id": "Q30242186",
+      "name_da": "Bågø",
+      "name_en": "Memorial column",
+      "latitude": 55.521863,
+      "longitude": 10.470239
+    },
+    {
+      "id": "Q30248123",
+      "wikidata_id": "Q30248123",
+      "name_da": "Christianshøj",
+      "name_en": "",
+      "latitude": 55.121458,
+      "longitude": 14.905605
+    },
+    {
+      "id": "Q30248124",
+      "wikidata_id": "Q30248124",
+      "name_da": "Christianshøj",
+      "name_en": "",
+      "latitude": 55.122104,
+      "longitude": 14.909305
+    },
+    {
+      "id": "Q30241860",
+      "wikidata_id": "Q30241860",
+      "name_da": "Damhus",
+      "name_en": "",
+      "latitude": 55.843191,
+      "longitude": 12.563639
+    },
+    {
+      "id": "Q30239295",
+      "wikidata_id": "Q30239295",
+      "name_da": "Dansk Skanse I",
+      "name_en": "",
+      "latitude": 54.898391,
+      "longitude": 9.751378
+    },
+    {
+      "id": "Q30239298",
+      "wikidata_id": "Q30239298",
+      "name_da": "Dansk Skanse I",
+      "name_en": "",
+      "latitude": 54.897952,
+      "longitude": 9.75112
+    },
+    {
+      "id": "Q30239296",
+      "wikidata_id": "Q30239296",
+      "name_da": "Dansk Skanse I",
+      "name_en": "",
+      "latitude": 54.898356,
+      "longitude": 9.751252
+    },
+    {
+      "id": "Q30239300",
+      "wikidata_id": "Q30239300",
+      "name_da": "Dansk Skanse I",
+      "name_en": "",
+      "latitude": 54.89822,
+      "longitude": 9.751406
+    },
+    {
+      "id": "Q30239302",
+      "wikidata_id": "Q30239302",
+      "name_da": "Dansk Skanse II",
+      "name_en": "",
+      "latitude": 54.901365,
+      "longitude": 9.751433
+    },
+    {
+      "id": "Q30239303",
+      "wikidata_id": "Q30239303",
+      "name_da": "Dansk Skanse II",
+      "name_en": "",
+      "latitude": 54.901125,
+      "longitude": 9.75107
+    },
+    {
+      "id": "Q30239301",
+      "wikidata_id": "Q30239301",
+      "name_da": "Dansk Skanse II",
+      "name_en": "",
+      "latitude": 54.900997,
+      "longitude": 9.751473
+    },
+    {
+      "id": "Q30239307",
+      "wikidata_id": "Q30239307",
+      "name_da": "Dansk Skanse II",
+      "name_en": "",
+      "latitude": 54.901001,
+      "longitude": 9.750787
+    },
+    {
+      "id": "Q30239304",
+      "wikidata_id": "Q30239304",
+      "name_da": "Dansk Skanse II",
+      "name_en": "",
+      "latitude": 54.901414,
+      "longitude": 9.750888
+    },
+    {
+      "id": "Q30239305",
+      "wikidata_id": "Q30239305",
+      "name_da": "Dansk Skanse II",
+      "name_en": "",
+      "latitude": 54.901607,
+      "longitude": 9.751578
+    },
+    {
+      "id": "Q30239308",
+      "wikidata_id": "Q30239308",
+      "name_da": "Dansk Skanse II",
+      "name_en": "",
+      "latitude": 54.900775,
+      "longitude": 9.751017
+    },
+    {
+      "id": "Q30239309",
+      "wikidata_id": "Q30239309",
+      "name_da": "Dansk Skanse II",
+      "name_en": "",
+      "latitude": 54.901101,
+      "longitude": 9.750508
+    },
+    {
+      "id": "Q30239310",
+      "wikidata_id": "Q30239310",
+      "name_da": "Dansk Skanse III",
+      "name_en": "",
+      "latitude": 54.903107,
+      "longitude": 9.751684
+    },
+    {
+      "id": "Q30239325",
+      "wikidata_id": "Q30239325",
+      "name_da": "Dansk Skanse IX",
+      "name_en": "",
+      "latitude": 54.916624,
+      "longitude": 9.754494
+    },
+    {
+      "id": "Q30239318",
+      "wikidata_id": "Q30239318",
+      "name_da": "Dansk Skanse V",
+      "name_en": "",
+      "latitude": 54.907915,
+      "longitude": 9.750183
+    },
+    {
+      "id": "Q30239321",
+      "wikidata_id": "Q30239321",
+      "name_da": "Dansk Skanse V",
+      "name_en": "",
+      "latitude": 54.907283,
+      "longitude": 9.750795
+    },
+    {
+      "id": "Q30239314",
+      "wikidata_id": "Q30239314",
+      "name_da": "Dansk Skanse VI",
+      "name_en": "",
+      "latitude": 54.909642,
+      "longitude": 9.751462
+    },
+    {
+      "id": "Q30239316",
+      "wikidata_id": "Q30239316",
+      "name_da": "Dansk Skanse VI",
+      "name_en": "",
+      "latitude": 54.909777,
+      "longitude": 9.751356
+    },
+    {
+      "id": "Q30239323",
+      "wikidata_id": "Q30239323",
+      "name_da": "Dansk Skanse VII",
+      "name_en": "",
+      "latitude": 54.909831,
+      "longitude": 9.755693
+    },
+    {
+      "id": "Q30239324",
+      "wikidata_id": "Q30239324",
+      "name_da": "Dansk Skanse VII",
+      "name_en": "",
+      "latitude": 54.909564,
+      "longitude": 9.755329
+    },
+    {
+      "id": "Q30118752",
+      "wikidata_id": "Q30118752",
+      "name_da": "Dover",
+      "name_en": "",
+      "latitude": 56.719094,
+      "longitude": 8.432154
+    },
+    {
+      "id": "Q30247901",
+      "wikidata_id": "Q30247901",
+      "name_da": "Dråby",
+      "name_en": "",
+      "latitude": 55.854811,
+      "longitude": 11.974154
+    },
+    {
+      "id": "Q30157564",
+      "wikidata_id": "Q30157564",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.903806,
+      "longitude": 9.747751
+    },
+    {
+      "id": "Q30242715",
+      "wikidata_id": "Q30242715",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.913194,
+      "longitude": 9.766878
+    },
+    {
+      "id": "Q30242712",
+      "wikidata_id": "Q30242712",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.915494,
+      "longitude": 9.769808
+    },
+    {
+      "id": "Q30242718",
+      "wikidata_id": "Q30242718",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.913597,
+      "longitude": 9.765716
+    },
+    {
+      "id": "Q30242723",
+      "wikidata_id": "Q30242723",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.910802,
+      "longitude": 9.765772
+    },
+    {
+      "id": "Q30242720",
+      "wikidata_id": "Q30242720",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.913589,
+      "longitude": 9.764125
+    },
+    {
+      "id": "Q30242827",
+      "wikidata_id": "Q30242827",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.908208,
+      "longitude": 9.740596
+    },
+    {
+      "id": "Q30242883",
+      "wikidata_id": "Q30242883",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.908962,
+      "longitude": 9.765363
+    },
+    {
+      "id": "Q30242886",
+      "wikidata_id": "Q30242886",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.908093,
+      "longitude": 9.764925
+    },
+    {
+      "id": "Q30242887",
+      "wikidata_id": "Q30242887",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.908064,
+      "longitude": 9.765206
+    },
+    {
+      "id": "Q30242885",
+      "wikidata_id": "Q30242885",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.908802,
+      "longitude": 9.763675
+    },
+    {
+      "id": "Q30243051",
+      "wikidata_id": "Q30243051",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.910525,
+      "longitude": 9.765502
+    },
+    {
+      "id": "Q30243055",
+      "wikidata_id": "Q30243055",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.909111,
+      "longitude": 9.767425
+    },
+    {
+      "id": "Q30243052",
+      "wikidata_id": "Q30243052",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.909445,
+      "longitude": 9.765731
+    },
+    {
+      "id": "Q30243057",
+      "wikidata_id": "Q30243057",
+      "name_da": "Dybbøl",
+      "name_en": "",
+      "latitude": 54.907924,
+      "longitude": 9.760368
+    },
+    {
+      "id": "Q30243681",
+      "wikidata_id": "Q30243681",
+      "name_da": "Dybbøl Banke",
+      "name_en": "Dybbøl Banke",
+      "latitude": 54.907957,
+      "longitude": 9.752133
+    },
+    {
+      "id": "Q30242528",
+      "wikidata_id": "Q30242528",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.905208,
+      "longitude": 9.747699
+    },
+    {
+      "id": "Q30242529",
+      "wikidata_id": "Q30242529",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.906404,
+      "longitude": 9.749
+    },
+    {
+      "id": "Q30242742",
+      "wikidata_id": "Q30242742",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.909634,
+      "longitude": 9.758481
+    },
+    {
+      "id": "Q30242806",
+      "wikidata_id": "Q30242806",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.907069,
+      "longitude": 9.750463
+    },
+    {
+      "id": "Q30242814",
+      "wikidata_id": "Q30242814",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.90788,
+      "longitude": 9.750026
+    },
+    {
+      "id": "Q30242819",
+      "wikidata_id": "Q30242819",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.906229,
+      "longitude": 9.754082
+    },
+    {
+      "id": "Q30242816",
+      "wikidata_id": "Q30242816",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.906215,
+      "longitude": 9.753473
+    },
+    {
+      "id": "Q30242822",
+      "wikidata_id": "Q30242822",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.906275,
+      "longitude": 9.752398
+    },
+    {
+      "id": "Q30242820",
+      "wikidata_id": "Q30242820",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.906227,
+      "longitude": 9.754347
+    },
+    {
+      "id": "Q30242834",
+      "wikidata_id": "Q30242834",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.909626,
+      "longitude": 9.758325
+    },
+    {
+      "id": "Q30243007",
+      "wikidata_id": "Q30243007",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.906259,
+      "longitude": 9.756422
+    },
+    {
+      "id": "Q30243011",
+      "wikidata_id": "Q30243011",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.904825,
+      "longitude": 9.752854
+    },
+    {
+      "id": "Q30243059",
+      "wikidata_id": "Q30243059",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.907464,
+      "longitude": 9.759158
+    },
+    {
+      "id": "Q30243062",
+      "wikidata_id": "Q30243062",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.906092,
+      "longitude": 9.756264
+    },
+    {
+      "id": "Q30243063",
+      "wikidata_id": "Q30243063",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.904734,
+      "longitude": 9.75304
+    },
+    {
+      "id": "Q30243060",
+      "wikidata_id": "Q30243060",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.907289,
+      "longitude": 9.758515
+    },
+    {
+      "id": "Q30243067",
+      "wikidata_id": "Q30243067",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.90677,
+      "longitude": 9.749381
+    },
+    {
+      "id": "Q30243064",
+      "wikidata_id": "Q30243064",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.903686,
+      "longitude": 9.754034
+    },
+    {
+      "id": "Q30243699",
+      "wikidata_id": "Q30243699",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.907866,
+      "longitude": 9.75235
+    },
+    {
+      "id": "Q30243696",
+      "wikidata_id": "Q30243696",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.908173,
+      "longitude": 9.752106
+    },
+    {
+      "id": "Q30243703",
+      "wikidata_id": "Q30243703",
+      "name_da": "Dybbøl Banke",
+      "name_en": "",
+      "latitude": 54.907758,
+      "longitude": 9.75241
+    },
+    {
+      "id": "Q30242726",
+      "wikidata_id": "Q30242726",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.905205,
+      "longitude": 9.762687
+    },
+    {
+      "id": "Q30242725",
+      "wikidata_id": "Q30242725",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.905854,
+      "longitude": 9.762247
+    },
+    {
+      "id": "Q30242728",
+      "wikidata_id": "Q30242728",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.904265,
+      "longitude": 9.760595
+    },
+    {
+      "id": "Q30242734",
+      "wikidata_id": "Q30242734",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.902044,
+      "longitude": 9.762191
+    },
+    {
+      "id": "Q30242735",
+      "wikidata_id": "Q30242735",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.901952,
+      "longitude": 9.762641
+    },
+    {
+      "id": "Q30242733",
+      "wikidata_id": "Q30242733",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.902776,
+      "longitude": 9.760099
+    },
+    {
+      "id": "Q30242738",
+      "wikidata_id": "Q30242738",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.901895,
+      "longitude": 9.76303
+    },
+    {
+      "id": "Q30242739",
+      "wikidata_id": "Q30242739",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.902468,
+      "longitude": 9.766238
+    },
+    {
+      "id": "Q30242736",
+      "wikidata_id": "Q30242736",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.901923,
+      "longitude": 9.762828
+    },
+    {
+      "id": "Q30242823",
+      "wikidata_id": "Q30242823",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.906191,
+      "longitude": 9.761567
+    },
+    {
+      "id": "Q30242824",
+      "wikidata_id": "Q30242824",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.903172,
+      "longitude": 9.758656
+    },
+    {
+      "id": "Q30242825",
+      "wikidata_id": "Q30242825",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.90353,
+      "longitude": 9.757369
+    },
+    {
+      "id": "Q30242835",
+      "wikidata_id": "Q30242835",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.906705,
+      "longitude": 9.759908
+    },
+    {
+      "id": "Q30242838",
+      "wikidata_id": "Q30242838",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.905494,
+      "longitude": 9.760993
+    },
+    {
+      "id": "Q30242836",
+      "wikidata_id": "Q30242836",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.906202,
+      "longitude": 9.761224
+    },
+    {
+      "id": "Q30243006",
+      "wikidata_id": "Q30243006",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.906897,
+      "longitude": 9.757931
+    },
+    {
+      "id": "Q30243058",
+      "wikidata_id": "Q30243058",
+      "name_da": "Dybbøl Mark",
+      "name_en": "",
+      "latitude": 54.90711,
+      "longitude": 9.758278
+    },
+    {
+      "id": "Q30242744",
+      "wikidata_id": "Q30242744",
+      "name_da": "Dybbølbjerg",
+      "name_en": "",
+      "latitude": 54.910196,
+      "longitude": 9.760707
+    },
+    {
+      "id": "Q30242831",
+      "wikidata_id": "Q30242831",
+      "name_da": "Dybbølbjerg",
+      "name_en": "",
+      "latitude": 54.912043,
+      "longitude": 9.755578
+    },
+    {
+      "id": "Q30242832",
+      "wikidata_id": "Q30242832",
+      "name_da": "Dybbølbjerg",
+      "name_en": "",
+      "latitude": 54.910915,
+      "longitude": 9.754918
+    },
+    {
+      "id": "Q30243719",
+      "wikidata_id": "Q30243719",
+      "name_da": "Dybbølbjerg",
+      "name_en": "",
+      "latitude": 54.914025,
+      "longitude": 9.756146
+    },
+    {
+      "id": "Q30242533",
+      "wikidata_id": "Q30242533",
+      "name_da": "Dybbøløsten",
+      "name_en": "",
+      "latitude": 54.911938,
+      "longitude": 9.747761
+    },
+    {
+      "id": "Q30242539",
+      "wikidata_id": "Q30242539",
+      "name_da": "Dybbøløsten",
+      "name_en": "",
+      "latitude": 54.913572,
+      "longitude": 9.748166
+    },
+    {
+      "id": "Q30242537",
+      "wikidata_id": "Q30242537",
+      "name_da": "Dybbøløsten",
+      "name_en": "",
+      "latitude": 54.912759,
+      "longitude": 9.748792
+    },
+    {
+      "id": "Q30248149",
+      "wikidata_id": "Q30248149",
+      "name_da": "Egebæksvang",
+      "name_en": "",
+      "latitude": 55.998677,
+      "longitude": 12.566614
+    },
+    {
+      "id": "Q30248130",
+      "wikidata_id": "Q30248130",
+      "name_da": "Elisabeths klippe",
+      "name_en": "",
+      "latitude": 55.116581,
+      "longitude": 14.900131
+    },
+    {
+      "id": "Q12011313",
+      "wikidata_id": "Q12011313",
+      "name_da": "Emiliekilde",
+      "name_en": "Emiliekilde",
+      "latitude": 55.7724,
+      "longitude": 12.5942
+    },
+    {
+      "id": "Q30248023",
+      "wikidata_id": "Q30248023",
+      "name_da": "Engelsholm skov",
+      "name_en": "",
+      "latitude": 55.712076,
+      "longitude": 9.306829
+    },
+    {
+      "id": "Q30155252",
+      "wikidata_id": "Q30155252",
+      "name_da": "Ensted præstegård",
+      "name_en": "",
+      "latitude": 54.995201,
+      "longitude": 9.424605
+    },
+    {
+      "id": "Q30156701",
+      "wikidata_id": "Q30156701",
+      "name_da": "Fantasiens Ø",
+      "name_en": "",
+      "latitude": 55.923414,
+      "longitude": 12.320707
+    },
+    {
+      "id": "Q30243230",
+      "wikidata_id": "Q30243230",
+      "name_da": "Feltbaneskoven",
+      "name_en": "",
+      "latitude": 57.084789,
+      "longitude": 9.934816
+    },
+    {
+      "id": "Q30239629",
+      "wikidata_id": "Q30239629",
+      "name_da": "Finderup",
+      "name_en": "",
+      "latitude": 56.412181,
+      "longitude": 9.28328
+    },
+    {
+      "id": "Q30134932",
+      "wikidata_id": "Q30134932",
+      "name_da": "Findrup kirketomt",
+      "name_en": "",
+      "latitude": 56.062109,
+      "longitude": 8.510839
+    },
+    {
+      "id": "Q30243048",
+      "wikidata_id": "Q30243048",
+      "name_da": "Fjenneslev kirke",
+      "name_en": "",
+      "latitude": 55.433868,
+      "longitude": 11.687301
+    },
+    {
+      "id": "Q30240476",
+      "wikidata_id": "Q30240476",
+      "name_da": "Folehave",
+      "name_en": "",
+      "latitude": 55.871646,
+      "longitude": 12.528218
+    },
+    {
+      "id": "Q30243772",
+      "wikidata_id": "Q30243772",
+      "name_da": "Folehavegård",
+      "name_en": "",
+      "latitude": 55.870675,
+      "longitude": 12.523508
+    },
+    {
+      "id": "Q30147084",
+      "wikidata_id": "Q30147084",
+      "name_da": "Fredensborg",
+      "name_en": "",
+      "latitude": 55.976233,
+      "longitude": 12.396812
+    },
+    {
+      "id": "Q30247993",
+      "wikidata_id": "Q30247993",
+      "name_da": "Fredskov",
+      "name_en": "",
+      "latitude": 54.929655,
+      "longitude": 10.713428
+    },
+    {
+      "id": "Q30242081",
+      "wikidata_id": "Q30242081",
+      "name_da": "Fredssten",
+      "name_en": "",
+      "latitude": 55.680638,
+      "longitude": 11.099861
+    },
+    {
+      "id": "Q30241385",
+      "wikidata_id": "Q30241385",
+      "name_da": "Fru Anne Krabbes Søjler",
+      "name_en": "",
+      "latitude": 56.465015,
+      "longitude": 10.051481
+    },
+    {
+      "id": "Q30242299",
+      "wikidata_id": "Q30242299",
+      "name_da": "Fruens Plantage",
+      "name_en": "",
+      "latitude": 55.208534,
+      "longitude": 11.803951
+    },
+    {
+      "id": "Q30243069",
+      "wikidata_id": "Q30243069",
+      "name_da": "Galgebakke",
+      "name_en": "",
+      "latitude": 54.907614,
+      "longitude": 9.746636
+    },
+    {
+      "id": "Q30143850",
+      "wikidata_id": "Q30143850",
+      "name_da": "Gallehus",
+      "name_en": "",
+      "latitude": 54.958749,
+      "longitude": 8.812463
+    },
+    {
+      "id": "Q30248157",
+      "wikidata_id": "Q30248157",
+      "name_da": "Gallehus",
+      "name_en": "",
+      "latitude": 54.958627,
+      "longitude": 8.812629
+    },
+    {
+      "id": "Q30240661",
+      "wikidata_id": "Q30240661",
+      "name_da": "Gammel Kirkegård Mose",
+      "name_en": "",
+      "latitude": 56.823533,
+      "longitude": 8.285415
+    },
+    {
+      "id": "Q30140149",
+      "wikidata_id": "Q30140149",
+      "name_da": "Gammelby",
+      "name_en": "",
+      "latitude": 55.509026,
+      "longitude": 9.099865
+    },
+    {
+      "id": "Q30132227",
+      "wikidata_id": "Q30132227",
+      "name_da": "Gammelmands Høj",
+      "name_en": "",
+      "latitude": 56.020212,
+      "longitude": 9.235424
+    },
+    {
+      "id": "Q30150725",
+      "wikidata_id": "Q30150725",
+      "name_da": "Gerlev",
+      "name_en": "",
+      "latitude": 55.346122,
+      "longitude": 11.338678
+    },
+    {
+      "id": "Q12314215",
+      "wikidata_id": "Q12314215",
+      "name_da": "Grathe-stenen",
+      "name_en": "Grathestenen",
+      "latitude": 56.258482,
+      "longitude": 9.337931
+    },
+    {
+      "id": "Q30247991",
+      "wikidata_id": "Q30247991",
+      "name_da": "Gråstens nor",
+      "name_en": "",
+      "latitude": 54.836928,
+      "longitude": 10.447452
+    },
+    {
+      "id": "Q30246339",
+      "wikidata_id": "Q30246339",
+      "name_da": "Grønnestrand",
+      "name_en": "",
+      "latitude": 57.142685,
+      "longitude": 9.280055
+    },
+    {
+      "id": "Q30248153",
+      "wikidata_id": "Q30248153",
+      "name_da": "Gurre Slot",
+      "name_en": "",
+      "latitude": 56.019305,
+      "longitude": 12.505718
+    },
+    {
+      "id": "Q30156772",
+      "wikidata_id": "Q30156772",
+      "name_da": "Gurre Vang",
+      "name_en": "",
+      "latitude": 56.027156,
+      "longitude": 12.489194
+    },
+    {
+      "id": "Q30242751",
+      "wikidata_id": "Q30242751",
+      "name_da": "H.C Wardinghausen",
+      "name_en": "",
+      "latitude": 54.884303,
+      "longitude": 10.714504
+    },
+    {
+      "id": "Q30247982",
+      "wikidata_id": "Q30247982",
+      "name_da": "Haderslevvej",
+      "name_en": "",
+      "latitude": 55.482162,
+      "longitude": 9.469333
+    },
+    {
+      "id": "Q30248126",
+      "wikidata_id": "Q30248126",
+      "name_da": "Hallebakke",
+      "name_en": "",
+      "latitude": 55.118927,
+      "longitude": 14.904641
+    },
+    {
+      "id": "Q30129438",
+      "wikidata_id": "Q30129438",
+      "name_da": "Halling Skov",
+      "name_en": "",
+      "latitude": 56.332718,
+      "longitude": 10.171041
+    },
+    {
+      "id": "Q30248119",
+      "wikidata_id": "Q30248119",
+      "name_da": "Hammerknuden",
+      "name_en": "Hammerknuden",
+      "latitude": 55.296248,
+      "longitude": 14.776506
+    },
+    {
+      "id": "Q30248127",
+      "wikidata_id": "Q30248127",
+      "name_da": "Hammershøj",
+      "name_en": "",
+      "latitude": 55.121344,
+      "longitude": 14.901947
+    },
+    {
+      "id": "Q30240626",
+      "wikidata_id": "Q30240626",
+      "name_da": "Hannenov Skov",
+      "name_en": "",
+      "latitude": 54.828355,
+      "longitude": 11.943363
+    },
+    {
+      "id": "Q30240624",
+      "wikidata_id": "Q30240624",
+      "name_da": "Hannenov Skov",
+      "name_en": "",
+      "latitude": 54.828406,
+      "longitude": 11.942743
+    },
+    {
+      "id": "Q30141962",
+      "wikidata_id": "Q30141962",
+      "name_da": "Hejbøl Knap",
+      "name_en": "",
+      "latitude": 55.797379,
+      "longitude": 8.724462
+    },
+    {
+      "id": "Q30156646",
+      "wikidata_id": "Q30156646",
+      "name_da": "Helligkorskilde",
+      "name_en": "",
+      "latitude": 55.089063,
+      "longitude": 10.255263
+    },
+    {
+      "id": "Q30240762",
+      "wikidata_id": "Q30240762",
+      "name_da": "Helvigstrup Skov",
+      "name_en": "",
+      "latitude": 55.563251,
+      "longitude": 11.888255
+    },
+    {
+      "id": "Q30242471",
+      "wikidata_id": "Q30242471",
+      "name_da": "Hestehave",
+      "name_en": "",
+      "latitude": 54.944767,
+      "longitude": 9.780639
+    },
+    {
+      "id": "Q30242473",
+      "wikidata_id": "Q30242473",
+      "name_da": "Hestehave",
+      "name_en": "",
+      "latitude": 54.945218,
+      "longitude": 9.779009
+    },
+    {
+      "id": "Q30240688",
+      "wikidata_id": "Q30240688",
+      "name_da": "Hjortdal",
+      "name_en": "",
+      "latitude": 57.151205,
+      "longitude": 9.334391
+    },
+    {
+      "id": "Q30241155",
+      "wikidata_id": "Q30241155",
+      "name_da": "Hohøj",
+      "name_en": "",
+      "latitude": 56.644645,
+      "longitude": 9.999822
+    },
+    {
+      "id": "Q30242463",
+      "wikidata_id": "Q30242463",
+      "name_da": "Honninghul",
+      "name_en": "",
+      "latitude": 54.93943,
+      "longitude": 9.784641
+    },
+    {
+      "id": "Q30242466",
+      "wikidata_id": "Q30242466",
+      "name_da": "Honninghul",
+      "name_en": "",
+      "latitude": 54.943636,
+      "longitude": 9.781851
+    },
+    {
+      "id": "Q30242464",
+      "wikidata_id": "Q30242464",
+      "name_da": "Honninghul",
+      "name_en": "",
+      "latitude": 54.943524,
+      "longitude": 9.782536
+    },
+    {
+      "id": "Q30242468",
+      "wikidata_id": "Q30242468",
+      "name_da": "Honninghul",
+      "name_en": "",
+      "latitude": 54.944011,
+      "longitude": 9.782248
+    },
+    {
+      "id": "Q30154917",
+      "wikidata_id": "Q30154917",
+      "name_da": "Humlebæk",
+      "name_en": "",
+      "latitude": 55.971953,
+      "longitude": 12.542628
+    },
+    {
+      "id": "Q30240697",
+      "wikidata_id": "Q30240697",
+      "name_da": "Humlegård",
+      "name_en": "",
+      "latitude": 56.472639,
+      "longitude": 9.836778
+    },
+    {
+      "id": "Q30240701",
+      "wikidata_id": "Q30240701",
+      "name_da": "Humlegård",
+      "name_en": "",
+      "latitude": 56.473881,
+      "longitude": 9.841838
+    },
+    {
+      "id": "Q30242455",
+      "wikidata_id": "Q30242455",
+      "name_da": "Hundsbjerg",
+      "name_en": "",
+      "latitude": 54.962496,
+      "longitude": 9.664329
+    },
+    {
+      "id": "Q30241439",
+      "wikidata_id": "Q30241439",
+      "name_da": "Husby",
+      "name_en": "",
+      "latitude": 56.280179,
+      "longitude": 8.171081
+    },
+    {
+      "id": "Q30242559",
+      "wikidata_id": "Q30242559",
+      "name_da": "Hvilhøj",
+      "name_en": "",
+      "latitude": 54.911864,
+      "longitude": 9.707562
+    },
+    {
+      "id": "Q30242557",
+      "wikidata_id": "Q30242557",
+      "name_da": "Hvilhøj",
+      "name_en": "",
+      "latitude": 54.911963,
+      "longitude": 9.709155
+    },
+    {
+      "id": "Q30240481",
+      "wikidata_id": "Q30240481",
+      "name_da": "Hvorup Plantage",
+      "name_en": "",
+      "latitude": 57.085247,
+      "longitude": 9.934721
+    },
+    {
+      "id": "Q30242123",
+      "wikidata_id": "Q30242123",
+      "name_da": "Højen",
+      "name_en": "",
+      "latitude": 55.648025,
+      "longitude": 9.501201
+    },
+    {
+      "id": "Q30153718",
+      "wikidata_id": "Q30153718",
+      "name_da": "Højer",
+      "name_en": "",
+      "latitude": 54.961285,
+      "longitude": 8.695593
+    },
+    {
+      "id": "Q30240988",
+      "wikidata_id": "Q30240988",
+      "name_da": "Jonstrup Vang",
+      "name_en": "",
+      "latitude": 55.757406,
+      "longitude": 12.365253
+    },
+    {
+      "id": "Q6784793",
+      "wikidata_id": "Q6784793",
+      "name_da": "Julianehøj",
+      "name_en": "Julianehøj",
+      "latitude": 55.860863,
+      "longitude": 11.967744
+    },
+    {
+      "id": "Q30240931",
+      "wikidata_id": "Q30240931",
+      "name_da": "Kajholm",
+      "name_en": "",
+      "latitude": 57.418372,
+      "longitude": 9.786999
+    },
+    {
+      "id": "Q30240910",
+      "wikidata_id": "Q30240910",
+      "name_da": "Kajholm Lund",
+      "name_en": "",
+      "latitude": 57.422696,
+      "longitude": 9.781811
+    },
+    {
+      "id": "Q30240914",
+      "wikidata_id": "Q30240914",
+      "name_da": "Kajholm Lund",
+      "name_en": "",
+      "latitude": 57.422034,
+      "longitude": 9.784262
+    },
+    {
+      "id": "Q30240913",
+      "wikidata_id": "Q30240913",
+      "name_da": "Kajholm Lund",
+      "name_en": "",
+      "latitude": 57.421575,
+      "longitude": 9.783762
+    },
+    {
+      "id": "Q30240917",
+      "wikidata_id": "Q30240917",
+      "name_da": "Kajholm Lund",
+      "name_en": "",
+      "latitude": 57.422347,
+      "longitude": 9.78346
+    },
+    {
+      "id": "Q30239359",
+      "wikidata_id": "Q30239359",
+      "name_da": "Ketting Kirkegård",
+      "name_en": "",
+      "latitude": 54.967152,
+      "longitude": 9.898054
+    },
+    {
+      "id": "Q30239357",
+      "wikidata_id": "Q30239357",
+      "name_da": "Ketting Kirkegård",
+      "name_en": "",
+      "latitude": 54.967014,
+      "longitude": 9.898457
+    },
+    {
+      "id": "Q30239361",
+      "wikidata_id": "Q30239361",
+      "name_da": "Ketting Kirkegård",
+      "name_en": "",
+      "latitude": 54.967178,
+      "longitude": 9.898118
+    },
+    {
+      "id": "Q30154154",
+      "wikidata_id": "Q30154154",
+      "name_da": "Kettrup Kirketomt",
+      "name_en": "",
+      "latitude": 57.310608,
+      "longitude": 9.668826
+    },
+    {
+      "id": "Q27947311",
+      "wikidata_id": "Q27947311",
+      "name_da": "KG Jørgensen",
+      "name_en": "",
+      "latitude": 54.928745,
+      "longitude": 9.452506
+    },
+    {
+      "id": "Q30241908",
+      "wikidata_id": "Q30241908",
+      "name_da": "Kildegård",
+      "name_en": "",
+      "latitude": 55.743175,
+      "longitude": 11.42018
+    },
+    {
+      "id": "Q30153954",
+      "wikidata_id": "Q30153954",
+      "name_da": "Kishøj",
+      "name_en": "",
+      "latitude": 57.136398,
+      "longitude": 10.013472
+    },
+    {
+      "id": "Q30243846",
+      "wikidata_id": "Q30243846",
+      "name_da": "Kjelds Grav",
+      "name_en": "",
+      "latitude": 57.245855,
+      "longitude": 10.115982
+    },
+    {
+      "id": "Q30114912",
+      "wikidata_id": "Q30114912",
+      "name_da": "Klangshøj",
+      "name_en": "",
+      "latitude": 57.457675,
+      "longitude": 9.830195
+    },
+    {
+      "id": "Q30242993",
+      "wikidata_id": "Q30242993",
+      "name_da": "Kliplev",
+      "name_en": "",
+      "latitude": 54.940751,
+      "longitude": 9.401225
+    },
+    {
+      "id": "Q30242197",
+      "wikidata_id": "Q30242197",
+      "name_da": "Knud Lavards mindepæl",
+      "name_en": "",
+      "latitude": 55.494867,
+      "longitude": 11.783881
+    },
+    {
+      "id": "Q30145891",
+      "wikidata_id": "Q30145891",
+      "name_da": "Koes Minde",
+      "name_en": "",
+      "latitude": 54.998337,
+      "longitude": 12.524602
+    },
+    {
+      "id": "Q30140519",
+      "wikidata_id": "Q30140519",
+      "name_da": "Kokspangaarde",
+      "name_en": "",
+      "latitude": 55.558702,
+      "longitude": 8.400229
+    },
+    {
+      "id": "Q18535185",
+      "wikidata_id": "Q18535185",
+      "name_da": "Kongehøj",
+      "name_en": "Kongehøj",
+      "latitude": 55.035992,
+      "longitude": 9.38355
+    },
+    {
+      "id": "Q30239319",
+      "wikidata_id": "Q30239319",
+      "name_da": "Kongeskansen",
+      "name_en": "",
+      "latitude": 54.908031,
+      "longitude": 9.750434
+    },
+    {
+      "id": "Q30239317",
+      "wikidata_id": "Q30239317",
+      "name_da": "Kongeskansen",
+      "name_en": "",
+      "latitude": 54.908637,
+      "longitude": 9.749712
+    },
+    {
+      "id": "Q30239320",
+      "wikidata_id": "Q30239320",
+      "name_da": "Kongeskansen",
+      "name_en": "",
+      "latitude": 54.909137,
+      "longitude": 9.750221
+    },
+    {
+      "id": "Q30146963",
+      "wikidata_id": "Q30146963",
+      "name_da": "Kongestenen",
+      "name_en": "",
+      "latitude": 55.93712,
+      "longitude": 12.296906
+    },
+    {
+      "id": "Q30240686",
+      "wikidata_id": "Q30240686",
+      "name_da": "Korsbåre Toft",
+      "name_en": "",
+      "latitude": 56.99936,
+      "longitude": 8.519591
+    },
+    {
+      "id": "Q30154588",
+      "wikidata_id": "Q30154588",
+      "name_da": "Korsør",
+      "name_en": "",
+      "latitude": 55.326111,
+      "longitude": 11.142289
+    },
+    {
+      "id": "Q30241710",
+      "wikidata_id": "Q30241710",
+      "name_da": "Krogerup",
+      "name_en": "",
+      "latitude": 55.972486,
+      "longitude": 12.534564
+    },
+    {
+      "id": "Q30156762",
+      "wikidata_id": "Q30156762",
+      "name_da": "Krogerup Skov",
+      "name_en": "",
+      "latitude": 55.968628,
+      "longitude": 12.5307
+    },
+    {
+      "id": "Q30108374",
+      "wikidata_id": "Q30108374",
+      "name_da": "Kurehøj",
+      "name_en": "",
+      "latitude": 55.081011,
+      "longitude": 15.15154
+    },
+    {
+      "id": "Q30239614",
+      "wikidata_id": "Q30239614",
+      "name_da": "Kværngård",
+      "name_en": "",
+      "latitude": 54.948834,
+      "longitude": 9.692285
+    },
+    {
+      "id": "Q30239615",
+      "wikidata_id": "Q30239615",
+      "name_da": "Kværngård",
+      "name_en": "",
+      "latitude": 54.948834,
+      "longitude": 9.692301
+    },
+    {
+      "id": "Q30146545",
+      "wikidata_id": "Q30146545",
+      "name_da": "Kæmpehøjen",
+      "name_en": "",
+      "latitude": 56.117541,
+      "longitude": 12.353728
+    },
+    {
+      "id": "Q30242803",
+      "wikidata_id": "Q30242803",
+      "name_da": "Kær Vestermark",
+      "name_en": "",
+      "latitude": 54.931254,
+      "longitude": 9.780128
+    },
+    {
+      "id": "Q30242805",
+      "wikidata_id": "Q30242805",
+      "name_da": "Kær Vestermark",
+      "name_en": "",
+      "latitude": 54.93316,
+      "longitude": 9.778589
+    },
+    {
+      "id": "Q30242108",
+      "wikidata_id": "Q30242108",
+      "name_da": "København",
+      "name_en": "",
+      "latitude": 55.683631,
+      "longitude": 12.556022
+    },
+    {
+      "id": "Q30241837",
+      "wikidata_id": "Q30241837",
+      "name_da": "Landsebakke",
+      "name_en": "",
+      "latitude": 55.82298,
+      "longitude": 12.46452
+    },
+    {
+      "id": "Q30240718",
+      "wikidata_id": "Q30240718",
+      "name_da": "Langmose",
+      "name_en": "",
+      "latitude": 56.41141,
+      "longitude": 9.35301
+    },
+    {
+      "id": "Q30240664",
+      "wikidata_id": "Q30240664",
+      "name_da": "Lild Klitplantage",
+      "name_en": "",
+      "latitude": 57.123544,
+      "longitude": 8.965989
+    },
+    {
+      "id": "Q30240985",
+      "wikidata_id": "Q30240985",
+      "name_da": "Lille Hareskov",
+      "name_en": "",
+      "latitude": 55.765301,
+      "longitude": 12.391479
+    },
+    {
+      "id": "Q30240681",
+      "wikidata_id": "Q30240681",
+      "name_da": "Lille Tyvbakke",
+      "name_en": "",
+      "latitude": 56.852612,
+      "longitude": 8.328442
+    },
+    {
+      "id": "Q30240942",
+      "wikidata_id": "Q30240942",
+      "name_da": "Lilleheden Klitplantage",
+      "name_en": "",
+      "latitude": 57.578354,
+      "longitude": 10.007166
+    },
+    {
+      "id": "Q23927400",
+      "wikidata_id": "Q23927400",
+      "name_da": "Louisekilden",
+      "name_en": "Louisekilden",
+      "latitude": 55.779022,
+      "longitude": 12.457091
+    },
+    {
+      "id": "Q30156763",
+      "wikidata_id": "Q30156763",
+      "name_da": "Louisiana",
+      "name_en": "",
+      "latitude": 55.969804,
+      "longitude": 12.541389
+    },
+    {
+      "id": "Q30241951",
+      "wikidata_id": "Q30241951",
+      "name_da": "Lyngby-Tårbæk",
+      "name_en": "",
+      "latitude": 55.790629,
+      "longitude": 12.572526
+    },
+    {
+      "id": "Q30156908",
+      "wikidata_id": "Q30156908",
+      "name_da": "Læsøstenen",
+      "name_en": "",
+      "latitude": 57.293467,
+      "longitude": 11.001635
+    },
+    {
+      "id": "Q30242461",
+      "wikidata_id": "Q30242461",
+      "name_da": "Løkkegård",
+      "name_en": "",
+      "latitude": 54.933205,
+      "longitude": 9.78143
+    },
+    {
+      "id": "Q30242168",
+      "wikidata_id": "Q30242168",
+      "name_da": "Løvenskjolds Mindestøtte",
+      "name_en": "Løvenskjold's Memorial",
+      "latitude": 55.57514,
+      "longitude": 12.57956
+    },
+    {
+      "id": "Q30127191",
+      "wikidata_id": "Q30127191",
+      "name_da": "Mariehøj",
+      "name_en": "",
+      "latitude": 56.463108,
+      "longitude": 9.35224
+    },
+    {
+      "id": "Q30242931",
+      "wikidata_id": "Q30242931",
+      "name_da": "Middelfart",
+      "name_en": "",
+      "latitude": 55.505213,
+      "longitude": 9.725728
+    },
+    {
+      "id": "Q60054298",
+      "wikidata_id": "Q60054298",
+      "name_da": "Mindeankeret",
+      "name_en": "Memorial Anchor",
+      "latitude": 55.680634,
+      "longitude": 12.587553
+    },
+    {
+      "id": "Q30242519",
+      "wikidata_id": "Q30242519",
+      "name_da": "Mindegård",
+      "name_en": "",
+      "latitude": 54.891231,
+      "longitude": 9.547255
+    },
+    {
+      "id": "Q121268750",
+      "wikidata_id": "Q121268750",
+      "name_da": "Mindesmærke ved Topsø A/S - SOEC fabrikken i Herning",
+      "name_en": "Memorial at the Topsoe A/S - SOEC  factory in Herning",
+      "latitude": 56.11728,
+      "longitude": 8.9283
+    },
+    {
+      "id": "Q30149175",
+      "wikidata_id": "Q30149175",
+      "name_da": "Mullerup",
+      "name_en": "",
+      "latitude": 55.490699,
+      "longitude": 11.231918
+    },
+    {
+      "id": "Q30242992",
+      "wikidata_id": "Q30242992",
+      "name_da": "Munke",
+      "name_en": "",
+      "latitude": 55.020102,
+      "longitude": 10.274581
+    },
+    {
+      "id": "Q30246415",
+      "wikidata_id": "Q30246415",
+      "name_da": "Mårupgård",
+      "name_en": "",
+      "latitude": 57.461995,
+      "longitude": 9.784002
+    },
+    {
+      "id": "Q30242702",
+      "wikidata_id": "Q30242702",
+      "name_da": "Møllestedgård",
+      "name_en": "",
+      "latitude": 54.926648,
+      "longitude": 9.78096
+    },
+    {
+      "id": "Q30242704",
+      "wikidata_id": "Q30242704",
+      "name_da": "Møllestedgård",
+      "name_en": "",
+      "latitude": 54.927206,
+      "longitude": 9.780783
+    },
+    {
+      "id": "Q30242800",
+      "wikidata_id": "Q30242800",
+      "name_da": "Møllestedgård",
+      "name_en": "",
+      "latitude": 54.926832,
+      "longitude": 9.780324
+    },
+    {
+      "id": "Q66092126",
+      "wikidata_id": "Q66092126",
+      "name_da": "Natalie Zahle",
+      "name_en": "Natalie Zahle",
+      "latitude": 55.68125,
+      "longitude": 12.56641
+    },
+    {
+      "id": "Q30156677",
+      "wikidata_id": "Q30156677",
+      "name_da": "Navntoft kirketomt",
+      "name_en": "",
+      "latitude": 56.501435,
+      "longitude": 9.399607
+    },
+    {
+      "id": "Q30156394",
+      "wikidata_id": "Q30156394",
+      "name_da": "No Kirketomt",
+      "name_en": "",
+      "latitude": 56.114503,
+      "longitude": 8.315757
+    },
+    {
+      "id": "Q30242830",
+      "wikidata_id": "Q30242830",
+      "name_da": "Ny Frydendal",
+      "name_en": "",
+      "latitude": 54.908827,
+      "longitude": 9.721406
+    },
+    {
+      "id": "Q30242991",
+      "wikidata_id": "Q30242991",
+      "name_da": "Ny Klingstrupgård",
+      "name_en": "",
+      "latitude": 55.107901,
+      "longitude": 10.693275
+    },
+    {
+      "id": "Q30242850",
+      "wikidata_id": "Q30242850",
+      "name_da": "Nybøl",
+      "name_en": "",
+      "latitude": 54.920499,
+      "longitude": 9.681127
+    },
+    {
+      "id": "Q30242851",
+      "wikidata_id": "Q30242851",
+      "name_da": "Nybøl",
+      "name_en": "",
+      "latitude": 54.920489,
+      "longitude": 9.681252
+    },
+    {
+      "id": "Q30242852",
+      "wikidata_id": "Q30242852",
+      "name_da": "Nybøl",
+      "name_en": "",
+      "latitude": 54.92047,
+      "longitude": 9.681392
+    },
+    {
+      "id": "Q30156742",
+      "wikidata_id": "Q30156742",
+      "name_da": "Nøvling gamle kirkegård",
+      "name_en": "",
+      "latitude": 56.187457,
+      "longitude": 8.846941
+    },
+    {
+      "id": "Q30131014",
+      "wikidata_id": "Q30131014",
+      "name_da": "Oldrup Kirketomt",
+      "name_en": "",
+      "latitude": 55.93462,
+      "longitude": 10.056051
+    },
+    {
+      "id": "Q30242483",
+      "wikidata_id": "Q30242483",
+      "name_da": "Ormstoft",
+      "name_en": "",
+      "latitude": 54.936406,
+      "longitude": 9.804561
+    },
+    {
+      "id": "Q30242542",
+      "wikidata_id": "Q30242542",
+      "name_da": "Palmose",
+      "name_en": "",
+      "latitude": 54.910519,
+      "longitude": 9.734906
+    },
+    {
+      "id": "Q30242544",
+      "wikidata_id": "Q30242544",
+      "name_da": "Palmose",
+      "name_en": "",
+      "latitude": 54.911995,
+      "longitude": 9.732248
+    },
+    {
+      "id": "Q30246599",
+      "wikidata_id": "Q30246599",
+      "name_da": "Printzenskjold-stenene",
+      "name_en": "",
+      "latitude": 55.100459,
+      "longitude": 14.695565
+    },
+    {
+      "id": "Q30134770",
+      "wikidata_id": "Q30134770",
+      "name_da": "Præstegårds mosen",
+      "name_en": "",
+      "latitude": 55.995245,
+      "longitude": 8.410789
+    },
+    {
+      "id": "Q30240623",
+      "wikidata_id": "Q30240623",
+      "name_da": "Præsteskov",
+      "name_en": "",
+      "latitude": 54.831677,
+      "longitude": 11.932048
+    },
+    {
+      "id": "Q30242555",
+      "wikidata_id": "Q30242555",
+      "name_da": "Pythuse",
+      "name_en": "",
+      "latitude": 54.926506,
+      "longitude": 9.74037
+    },
+    {
+      "id": "Q30242444",
+      "wikidata_id": "Q30242444",
+      "name_da": "Ragebøl",
+      "name_en": "",
+      "latitude": 54.931609,
+      "longitude": 9.736172
+    },
+    {
+      "id": "Q30242547",
+      "wikidata_id": "Q30242547",
+      "name_da": "Ragebøl",
+      "name_en": "",
+      "latitude": 54.930377,
+      "longitude": 9.734854
+    },
+    {
+      "id": "Q30242551",
+      "wikidata_id": "Q30242551",
+      "name_da": "Ragebøl",
+      "name_en": "",
+      "latitude": 54.930007,
+      "longitude": 9.735097
+    },
+    {
+      "id": "Q30242552",
+      "wikidata_id": "Q30242552",
+      "name_da": "Ragebøl",
+      "name_en": "",
+      "latitude": 54.928454,
+      "longitude": 9.736332
+    },
+    {
+      "id": "Q30154534",
+      "wikidata_id": "Q30154534",
+      "name_da": "Ringstedkloster",
+      "name_en": "",
+      "latitude": 55.443646,
+      "longitude": 11.776745
+    },
+    {
+      "id": "Q30241304",
+      "wikidata_id": "Q30241304",
+      "name_da": "Robjerg Bakke",
+      "name_en": "",
+      "latitude": 56.012298,
+      "longitude": 12.218883
+    },
+    {
+      "id": "Q30242192",
+      "wikidata_id": "Q30242192",
+      "name_da": "Rode",
+      "name_en": "",
+      "latitude": 54.937364,
+      "longitude": 9.583093
+    },
+    {
+      "id": "Q30243665",
+      "wikidata_id": "Q30243665",
+      "name_da": "Råbjerg Plantage",
+      "name_en": "",
+      "latitude": 55.117951,
+      "longitude": 14.906128
+    },
+    {
+      "id": "Q30152523",
+      "wikidata_id": "Q30152523",
+      "name_da": "Rødegårdsvej",
+      "name_en": "Rødegårdsvej",
+      "latitude": 55.389032,
+      "longitude": 10.413416
+    },
+    {
+      "id": "Q30240843",
+      "wikidata_id": "Q30240843",
+      "name_da": "Rørvig",
+      "name_en": "",
+      "latitude": 55.949531,
+      "longitude": 11.789638
+    },
+    {
+      "id": "Q30246159",
+      "wikidata_id": "Q30246159",
+      "name_da": "Sandflugtsmonumentet ved Tisvilde",
+      "name_en": "",
+      "latitude": 56.052596,
+      "longitude": 12.099426
+    },
+    {
+      "id": "Q30243825",
+      "wikidata_id": "Q30243825",
+      "name_da": "Sct. Jørgens Kilde",
+      "name_en": "",
+      "latitude": 57.448253,
+      "longitude": 10.343765
+    },
+    {
+      "id": "Q30241749",
+      "wikidata_id": "Q30241749",
+      "name_da": "Sct. Karens Kilde",
+      "name_en": "",
+      "latitude": 55.887041,
+      "longitude": 11.666295
+    },
+    {
+      "id": "Q30243833",
+      "wikidata_id": "Q30243833",
+      "name_da": "Sct. Villads kilde",
+      "name_en": "",
+      "latitude": 57.376863,
+      "longitude": 9.874422
+    },
+    {
+      "id": "Q30241745",
+      "wikidata_id": "Q30241745",
+      "name_da": "Sejerby Kirke",
+      "name_en": "",
+      "latitude": 55.881763,
+      "longitude": 11.143243
+    },
+    {
+      "id": "Q30156733",
+      "wikidata_id": "Q30156733",
+      "name_da": "Sejrup Kirketomt",
+      "name_en": "",
+      "latitude": 55.88038,
+      "longitude": 9.26452
+    },
+    {
+      "id": "Q30241009",
+      "wikidata_id": "Q30241009",
+      "name_da": "Sengeløse",
+      "name_en": "",
+      "latitude": 55.685296,
+      "longitude": 12.300892
+    },
+    {
+      "id": "Q30148367",
+      "wikidata_id": "Q30148367",
+      "name_da": "Simons Tjørn",
+      "name_en": "",
+      "latitude": 55.570965,
+      "longitude": 12.120266
+    },
+    {
+      "id": "Q30118984",
+      "wikidata_id": "Q30118984",
+      "name_da": "Skaarhøj",
+      "name_en": "",
+      "latitude": 57.063916,
+      "longitude": 9.295054
+    },
+    {
+      "id": "Q30247890",
+      "wikidata_id": "Q30247890",
+      "name_da": "Skagen",
+      "name_en": "",
+      "latitude": 57.713694,
+      "longitude": 10.533883
+    },
+    {
+      "id": "Q30242927",
+      "wikidata_id": "Q30242927",
+      "name_da": "Skanderborg slotsbanke",
+      "name_en": "",
+      "latitude": 56.026911,
+      "longitude": 9.932277
+    },
+    {
+      "id": "Q30239328",
+      "wikidata_id": "Q30239328",
+      "name_da": "Skanse X",
+      "name_en": "",
+      "latitude": 54.918135,
+      "longitude": 9.757143
+    },
+    {
+      "id": "Q30239329",
+      "wikidata_id": "Q30239329",
+      "name_da": "Skanse X",
+      "name_en": "",
+      "latitude": 54.918204,
+      "longitude": 9.757691
+    },
+    {
+      "id": "Q30242525",
+      "wikidata_id": "Q30242525",
+      "name_da": "Skansegård",
+      "name_en": "",
+      "latitude": 54.900342,
+      "longitude": 9.751258
+    },
+    {
+      "id": "Q30242185",
+      "wikidata_id": "Q30242185",
+      "name_da": "Skeby",
+      "name_en": "",
+      "latitude": 55.522179,
+      "longitude": 10.469712
+    },
+    {
+      "id": "Q30156780",
+      "wikidata_id": "Q30156780",
+      "name_da": "Skipperhuset",
+      "name_en": "",
+      "latitude": 55.980593,
+      "longitude": 12.382136
+    },
+    {
+      "id": "Q30116218",
+      "wikidata_id": "Q30116218",
+      "name_da": "Skjelhøj",
+      "name_en": "",
+      "latitude": 56.89358,
+      "longitude": 8.583156
+    },
+    {
+      "id": "Q30242421",
+      "wikidata_id": "Q30242421",
+      "name_da": "Skovhuse",
+      "name_en": "",
+      "latitude": 54.959648,
+      "longitude": 9.769496
+    },
+    {
+      "id": "Q30242442",
+      "wikidata_id": "Q30242442",
+      "name_da": "Skovhuse",
+      "name_en": "",
+      "latitude": 54.961235,
+      "longitude": 9.765887
+    },
+    {
+      "id": "Q30242924",
+      "wikidata_id": "Q30242924",
+      "name_da": "Skrevensten",
+      "name_en": "",
+      "latitude": 55.073609,
+      "longitude": 9.500124
+    },
+    {
+      "id": "Q30152526",
+      "wikidata_id": "Q30152526",
+      "name_da": "Skt. Jørgensgade",
+      "name_en": "Skt. Jørgensgade",
+      "latitude": 55.399629,
+      "longitude": 10.411313
+    },
+    {
+      "id": "Q30241623",
+      "wikidata_id": "Q30241623",
+      "name_da": "Slingrebakken",
+      "name_en": "",
+      "latitude": 56.087904,
+      "longitude": 12.503004
+    },
+    {
+      "id": "Q23738222",
+      "wikidata_id": "Q23738222",
+      "name_da": "Slotslyngen",
+      "name_en": "Slotslyngen",
+      "latitude": 55.2564,
+      "longitude": 14.7528
+    },
+    {
+      "id": "Q30242740",
+      "wikidata_id": "Q30242740",
+      "name_da": "Snedegård",
+      "name_en": "",
+      "latitude": 54.90414,
+      "longitude": 9.768999
+    },
+    {
+      "id": "Q30157552",
+      "wikidata_id": "Q30157552",
+      "name_da": "Snekkehøj",
+      "name_en": "",
+      "latitude": 55.907027,
+      "longitude": 10.604481
+    },
+    {
+      "id": "Q30242377",
+      "wikidata_id": "Q30242377",
+      "name_da": "Steensgård",
+      "name_en": "Steensgård",
+      "latitude": 55.109829,
+      "longitude": 10.93778
+    },
+    {
+      "id": "Q30241477",
+      "wikidata_id": "Q30241477",
+      "name_da": "Stendal Plantage",
+      "name_en": "",
+      "latitude": 56.316838,
+      "longitude": 9.291482
+    },
+    {
+      "id": "Q30240675",
+      "wikidata_id": "Q30240675",
+      "name_da": "Stengjæv Sande",
+      "name_en": "",
+      "latitude": 56.855464,
+      "longitude": 8.375813
+    },
+    {
+      "id": "Q30240684",
+      "wikidata_id": "Q30240684",
+      "name_da": "Stengjæv Sande",
+      "name_en": "",
+      "latitude": 56.855381,
+      "longitude": 8.370855
+    },
+    {
+      "id": "Q30243721",
+      "wikidata_id": "Q30243721",
+      "name_da": "Stensgård",
+      "name_en": "",
+      "latitude": 54.919212,
+      "longitude": 9.757366
+    },
+    {
+      "id": "Q30247868",
+      "wikidata_id": "Q30247868",
+      "name_da": "Stjernen",
+      "name_en": "",
+      "latitude": 55.985403,
+      "longitude": 12.323697
+    },
+    {
+      "id": "Q30148959",
+      "wikidata_id": "Q30148959",
+      "name_da": "Store Dyrehøj",
+      "name_en": "",
+      "latitude": 55.732397,
+      "longitude": 10.97543
+    },
+    {
+      "id": "Q30246125",
+      "wikidata_id": "Q30246125",
+      "name_da": "Store Søhøj",
+      "name_en": "",
+      "latitude": 56.024593,
+      "longitude": 12.053811
+    },
+    {
+      "id": "Q30138695",
+      "wikidata_id": "Q30138695",
+      "name_da": "Storhøj",
+      "name_en": "",
+      "latitude": 56.540402,
+      "longitude": 8.527394
+    },
+    {
+      "id": "Q30242791",
+      "wikidata_id": "Q30242791",
+      "name_da": "Stormflodssten",
+      "name_en": "Stormflodssten",
+      "latitude": 54.781693,
+      "longitude": 10.689151
+    },
+    {
+      "id": "Q30245347",
+      "wikidata_id": "Q30245347",
+      "name_da": "Strand Børstrup",
+      "name_en": "",
+      "latitude": 56.127005,
+      "longitude": 12.273151
+    },
+    {
+      "id": "Q30242397",
+      "wikidata_id": "Q30242397",
+      "name_da": "Strandby",
+      "name_en": "",
+      "latitude": 54.999607,
+      "longitude": 10.81254
+    },
+    {
+      "id": "Q30248158",
+      "wikidata_id": "Q30248158",
+      "name_da": "Strandparken",
+      "name_en": "",
+      "latitude": 55.807046,
+      "longitude": 12.58286
+    },
+    {
+      "id": "Q30242858",
+      "wikidata_id": "Q30242858",
+      "name_da": "Stråbjerggård",
+      "name_en": "",
+      "latitude": 54.921882,
+      "longitude": 9.799388
+    },
+    {
+      "id": "Q30240903",
+      "wikidata_id": "Q30240903",
+      "name_da": "Svallerbakke",
+      "name_en": "Svallerbakke",
+      "latitude": 57.719502,
+      "longitude": 10.573029
+    },
+    {
+      "id": "Q30146558",
+      "wikidata_id": "Q30146558",
+      "name_da": "Søborg",
+      "name_en": "",
+      "latitude": 56.0861,
+      "longitude": 12.314218
+    },
+    {
+      "id": "Q30242920",
+      "wikidata_id": "Q30242920",
+      "name_da": "Sønderborg",
+      "name_en": "",
+      "latitude": 54.909507,
+      "longitude": 9.789769
+    },
+    {
+      "id": "Q30242937",
+      "wikidata_id": "Q30242937",
+      "name_da": "Sønderborg",
+      "name_en": "",
+      "latitude": 54.909142,
+      "longitude": 9.789293
+    },
+    {
+      "id": "Q30243690",
+      "wikidata_id": "Q30243690",
+      "name_da": "Sønderborg",
+      "name_en": "",
+      "latitude": 54.910758,
+      "longitude": 9.779826
+    },
+    {
+      "id": "Q30243694",
+      "wikidata_id": "Q30243694",
+      "name_da": "Sønderborg",
+      "name_en": "",
+      "latitude": 54.910748,
+      "longitude": 9.779888
+    },
+    {
+      "id": "Q30243692",
+      "wikidata_id": "Q30243692",
+      "name_da": "Sønderborg",
+      "name_en": "",
+      "latitude": 54.910748,
+      "longitude": 9.779857
+    },
+    {
+      "id": "Q30156754",
+      "wikidata_id": "Q30156754",
+      "name_da": "Teglstrup Hegn",
+      "name_en": "",
+      "latitude": 56.050041,
+      "longitude": 12.544874
+    },
+    {
+      "id": "Q30107624",
+      "wikidata_id": "Q30107624",
+      "name_da": "Tillehøje",
+      "name_en": "",
+      "latitude": 55.135903,
+      "longitude": 14.72139
+    },
+    {
+      "id": "Q30240895",
+      "wikidata_id": "Q30240895",
+      "name_da": "Tingbakke",
+      "name_en": "",
+      "latitude": 57.599942,
+      "longitude": 10.379428
+    },
+    {
+      "id": "Q30248030",
+      "wikidata_id": "Q30248030",
+      "name_da": "Tirsbjerg plantage",
+      "name_en": "",
+      "latitude": 55.832336,
+      "longitude": 8.742925
+    },
+    {
+      "id": "Q30248029",
+      "wikidata_id": "Q30248029",
+      "name_da": "Tirsbjerg plantage",
+      "name_en": "",
+      "latitude": 55.831209,
+      "longitude": 8.741432
+    },
+    {
+      "id": "Q30241906",
+      "wikidata_id": "Q30241906",
+      "name_da": "Tjørnebakke",
+      "name_en": "",
+      "latitude": 55.775281,
+      "longitude": 11.296885
+    },
+    {
+      "id": "Q30152527",
+      "wikidata_id": "Q30152527",
+      "name_da": "Tolderlundsvej",
+      "name_en": "Tolderlundsvej",
+      "latitude": 55.412328,
+      "longitude": 10.38575
+    },
+    {
+      "id": "Q30241019",
+      "wikidata_id": "Q30241019",
+      "name_da": "Tontoft",
+      "name_en": "",
+      "latitude": 55.0601,
+      "longitude": 9.737877
+    },
+    {
+      "id": "Q30242891",
+      "wikidata_id": "Q30242891",
+      "name_da": "Tontoft",
+      "name_en": "",
+      "latitude": 55.060079,
+      "longitude": 9.738939
+    },
+    {
+      "id": "Q30243278",
+      "wikidata_id": "Q30243278",
+      "name_da": "Tontoft",
+      "name_en": "",
+      "latitude": 55.060099,
+      "longitude": 9.737641
+    },
+    {
+      "id": "Q30240926",
+      "wikidata_id": "Q30240926",
+      "name_da": "Tornby",
+      "name_en": "",
+      "latitude": 57.551021,
+      "longitude": 9.912534
+    },
+    {
+      "id": "Q30240928",
+      "wikidata_id": "Q30240928",
+      "name_da": "Tornby",
+      "name_en": "",
+      "latitude": 57.526181,
+      "longitude": 9.920194
+    },
+    {
+      "id": "Q30242187",
+      "wikidata_id": "Q30242187",
+      "name_da": "Torpelund Skov",
+      "name_en": "",
+      "latitude": 55.491953,
+      "longitude": 10.471929
+    },
+    {
+      "id": "Q30240649",
+      "wikidata_id": "Q30240649",
+      "name_da": "Torup Stenbjerg",
+      "name_en": "",
+      "latitude": 57.127353,
+      "longitude": 9.134128
+    },
+    {
+      "id": "Q30129281",
+      "wikidata_id": "Q30129281",
+      "name_da": "Tostrup",
+      "name_en": "",
+      "latitude": 56.310706,
+      "longitude": 10.567668
+    },
+    {
+      "id": "Q30242531",
+      "wikidata_id": "Q30242531",
+      "name_da": "Trovshøjgård",
+      "name_en": "",
+      "latitude": 54.904988,
+      "longitude": 9.745387
+    },
+    {
+      "id": "Q30243001",
+      "wikidata_id": "Q30243001",
+      "name_da": "Trovshøjgård",
+      "name_en": "",
+      "latitude": 54.901256,
+      "longitude": 9.75023
+    },
+    {
+      "id": "Q30149809",
+      "wikidata_id": "Q30149809",
+      "name_da": "Trundholm Mose",
+      "name_en": "The exact point where the Sun wagon was found",
+      "latitude": 55.88762,
+      "longitude": 11.572923
+    },
+    {
+      "id": "Q30243014",
+      "wikidata_id": "Q30243014",
+      "name_da": "Tysk mindesten",
+      "name_en": "",
+      "latitude": 54.909848,
+      "longitude": 9.888839
+    },
+    {
+      "id": "Q30148969",
+      "wikidata_id": "Q30148969",
+      "name_da": "Tømmerup",
+      "name_en": "",
+      "latitude": 55.682959,
+      "longitude": 11.150474
+    },
+    {
+      "id": "Q30242435",
+      "wikidata_id": "Q30242435",
+      "name_da": "Ulkebøl",
+      "name_en": "",
+      "latitude": 54.975971,
+      "longitude": 9.756059
+    },
+    {
+      "id": "Q30242479",
+      "wikidata_id": "Q30242479",
+      "name_da": "Ulkebøl",
+      "name_en": "",
+      "latitude": 54.936827,
+      "longitude": 9.795189
+    },
+    {
+      "id": "Q30242477",
+      "wikidata_id": "Q30242477",
+      "name_da": "Ulkebøl",
+      "name_en": "",
+      "latitude": 54.937156,
+      "longitude": 9.794353
+    },
+    {
+      "id": "Q30242481",
+      "wikidata_id": "Q30242481",
+      "name_da": "Ulkebøl",
+      "name_en": "",
+      "latitude": 54.936595,
+      "longitude": 9.796449
+    },
+    {
+      "id": "Q30242485",
+      "wikidata_id": "Q30242485",
+      "name_da": "Ulkebøl",
+      "name_en": "",
+      "latitude": 54.94278,
+      "longitude": 9.79249
+    },
+    {
+      "id": "Q30243688",
+      "wikidata_id": "Q30243688",
+      "name_da": "Ulkebøl",
+      "name_en": "",
+      "latitude": 54.937543,
+      "longitude": 9.794298
+    },
+    {
+      "id": "Q30239644",
+      "wikidata_id": "Q30239644",
+      "name_da": "Ulkebøl Kirkegård",
+      "name_en": "",
+      "latitude": 54.926128,
+      "longitude": 9.830915
+    },
+    {
+      "id": "Q30239645",
+      "wikidata_id": "Q30239645",
+      "name_da": "Ulkebøl Kirkegård",
+      "name_en": "",
+      "latitude": 54.926154,
+      "longitude": 9.831041
+    },
+    {
+      "id": "Q30242489",
+      "wikidata_id": "Q30242489",
+      "name_da": "Ulkebøl Nørremark",
+      "name_en": "",
+      "latitude": 54.950252,
+      "longitude": 9.795407
+    },
+    {
+      "id": "Q30242446",
+      "wikidata_id": "Q30242446",
+      "name_da": "Ullerup",
+      "name_en": "",
+      "latitude": 54.933133,
+      "longitude": 9.686085
+    },
+    {
+      "id": "Q30242453",
+      "wikidata_id": "Q30242453",
+      "name_da": "Ullerup",
+      "name_en": "",
+      "latitude": 54.934769,
+      "longitude": 9.68605
+    },
+    {
+      "id": "Q30242459",
+      "wikidata_id": "Q30242459",
+      "name_da": "Ullerup",
+      "name_en": "",
+      "latitude": 54.956493,
+      "longitude": 9.656141
+    },
+    {
+      "id": "Q30239633",
+      "wikidata_id": "Q30239633",
+      "name_da": "Ullerup Kirkegård",
+      "name_en": "",
+      "latitude": 54.965735,
+      "longitude": 9.662055
+    },
+    {
+      "id": "Q30125733",
+      "wikidata_id": "Q30125733",
+      "name_da": "Ungstrup kirketomt",
+      "name_en": "",
+      "latitude": 56.295998,
+      "longitude": 9.370625
+    },
+    {
+      "id": "Q30240922",
+      "wikidata_id": "Q30240922",
+      "name_da": "Vagtbakken",
+      "name_en": "",
+      "latitude": 57.539958,
+      "longitude": 9.903574
+    },
+    {
+      "id": "Q30242546",
+      "wikidata_id": "Q30242546",
+      "name_da": "Vaskilde",
+      "name_en": "",
+      "latitude": 54.916649,
+      "longitude": 9.727379
+    },
+    {
+      "id": "Q30246420",
+      "wikidata_id": "Q30246420",
+      "name_da": "Vejlen",
+      "name_en": "",
+      "latitude": 55.000327,
+      "longitude": 10.557502
+    },
+    {
+      "id": "Q30240643",
+      "wikidata_id": "Q30240643",
+      "name_da": "Vester Vandet",
+      "name_en": "",
+      "latitude": 57.032013,
+      "longitude": 8.579058
+    },
+    {
+      "id": "Q30241383",
+      "wikidata_id": "Q30241383",
+      "name_da": "Vesterskov",
+      "name_en": "",
+      "latitude": 56.450499,
+      "longitude": 9.580513
+    },
+    {
+      "id": "Q30240907",
+      "wikidata_id": "Q30240907",
+      "name_da": "Vesterø",
+      "name_en": "",
+      "latitude": 57.300299,
+      "longitude": 11.031363
+    },
+    {
+      "id": "Q30247980",
+      "wikidata_id": "Q30247980",
+      "name_da": "Vonsild kirkegård",
+      "name_en": "",
+      "latitude": 55.456275,
+      "longitude": 9.477098
+    },
+    {
+      "id": "Q30127230",
+      "wikidata_id": "Q30127230",
+      "name_da": "Vorde",
+      "name_en": "",
+      "latitude": 56.510375,
+      "longitude": 9.345301
+    },
+    {
+      "id": "Q30248147",
+      "wikidata_id": "Q30248147",
+      "name_da": "Vorsø",
+      "name_en": "",
+      "latitude": 55.86712,
+      "longitude": 10.005216
+    },
+    {
+      "id": "Q30239338",
+      "wikidata_id": "Q30239338",
+      "name_da": "Vår",
+      "name_en": "",
+      "latitude": 57.001057,
+      "longitude": 9.458075
+    },
+    {
+      "id": "Q30242371",
+      "wikidata_id": "Q30242371",
+      "name_da": "Værløse",
+      "name_en": "",
+      "latitude": 55.800568,
+      "longitude": 12.388544
+    },
+    {
+      "id": "Q30141923",
+      "wikidata_id": "Q30141923",
+      "name_da": "Ølgod Plantage",
+      "name_en": "",
+      "latitude": 55.813525,
+      "longitude": 8.620548
+    },
+    {
+      "id": "Q30157566",
+      "wikidata_id": "Q30157566",
+      "name_da": "Ølsemagle",
+      "name_en": "",
+      "latitude": 55.493979,
+      "longitude": 12.180003
+    },
+    {
+      "id": "Q30240717",
+      "wikidata_id": "Q30240717",
+      "name_da": "Ørnebjerg",
+      "name_en": "",
+      "latitude": 56.398743,
+      "longitude": 9.346283
+    },
+    {
+      "id": "Q30240893",
+      "wikidata_id": "Q30240893",
+      "name_da": "Ørnebjerg",
+      "name_en": "",
+      "latitude": 57.486144,
+      "longitude": 10.622957
+    }
+  ],
+  "meta": {
+    "title": "Mindesmærker i Danmark - Gratis download",
+    "description": "Mindesmærker (memorials) i Danmark fra Wikidata (P31 = Q5003624, P17 = Danmark) med koordinater. Mere specifikke klasser (statuer) er udskilt til egne datasæt. Indeholder 354 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Mindesmærker i Danmark | ListBase",
+    "seo_description": "Download Mindesmærker i Danmark — 354 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 354 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "da-fyn-opstillingskreds",
+  "name": "Opstillingskredse i Fyn-storkredsen",
+  "title": "Opstillingskredse i Fyn-storkredsen",
+  "description": "Opstillingskredse i storkredsen Fyn (i alt 8). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "valgkreds_nr",
+      "label": "Valgkreds Nr",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_id",
+      "label": "Storkreds Id",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_name",
+      "label": "Storkreds Name",
+      "type": "string"
+    },
+    {
+      "key": "landsdel_id",
+      "label": "Landsdel Id",
+      "type": "number"
+    },
+    {
+      "key": "landsdel_name",
+      "label": "Landsdel Name",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "44",
+      "name": "Assens",
+      "slug": "assens",
+      "valgkreds_nr": "4",
+      "storkreds_id": "6",
+      "storkreds_name": "Fyn",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "48",
+      "name": "Faaborg",
+      "slug": "faaborg",
+      "valgkreds_nr": "8",
+      "storkreds_id": "6",
+      "storkreds_name": "Fyn",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "45",
+      "name": "Middelfart",
+      "slug": "middelfart",
+      "valgkreds_nr": "5",
+      "storkreds_id": "6",
+      "storkreds_name": "Fyn",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "46",
+      "name": "Nyborg",
+      "slug": "nyborg",
+      "valgkreds_nr": "6",
+      "storkreds_id": "6",
+      "storkreds_name": "Fyn",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "43",
+      "name": "Odense Syd",
+      "slug": "odense-syd",
+      "valgkreds_nr": "3",
+      "storkreds_id": "6",
+      "storkreds_name": "Fyn",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "42",
+      "name": "Odense Vest",
+      "slug": "odense-vest",
+      "valgkreds_nr": "2",
+      "storkreds_id": "6",
+      "storkreds_name": "Fyn",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "41",
+      "name": "Odense Øst",
+      "slug": "odense-oest",
+      "valgkreds_nr": "1",
+      "storkreds_id": "6",
+      "storkreds_name": "Fyn",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    },
+    {
+      "id": "47",
+      "name": "Svendborg",
+      "slug": "svendborg",
+      "valgkreds_nr": "7",
+      "storkreds_id": "6",
+      "storkreds_name": "Fyn",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1083",
+      "region_name": "Region Syddanmark"
+    }
+  ],
+  "meta": {
+    "title": "Opstillingskredse i Fyn-storkredsen - Gratis download",
+    "description": "Opstillingskredse i storkredsen Fyn (i alt 8). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget). Indeholder 8 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Opstillingskredse i Fyn-storkredsen | ListBase",
+    "seo_description": "Download Opstillingskredse i Fyn-storkredsen — 8 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 8 poster / 10 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

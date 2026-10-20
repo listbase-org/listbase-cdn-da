@@ -1,0 +1,2701 @@
+{
+  "id": "da-fitnesscentre",
+  "name": "Fitnesscentre i Danmark (Fitness centres in Denmark)",
+  "title": "Fitnesscentre i Danmark (Fitness centres in Denmark)",
+  "description": "Fitness centres in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: leisure=fitness_centre.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 532,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "[jo:ga]",
+      "latitude": 55.663768,
+      "longitude": 12.622401
+    },
+    {
+      "name": "Aalborg Idrætsgymnastik",
+      "latitude": 57.051289,
+      "longitude": 9.897553
+    },
+    {
+      "name": "Aarhus Crossfit",
+      "latitude": 56.153695,
+      "longitude": 10.21896
+    },
+    {
+      "name": "ACT Gym",
+      "latitude": 56.152439,
+      "longitude": 10.176816
+    },
+    {
+      "name": "Alex Beck",
+      "latitude": 55.667702,
+      "longitude": 12.597006
+    },
+    {
+      "name": "Ananda",
+      "latitude": 56.167705,
+      "longitude": 9.545431
+    },
+    {
+      "name": "Anger Management",
+      "latitude": 55.694479,
+      "longitude": 12.43461
+    },
+    {
+      "name": "Anytime Gym",
+      "latitude": 55.641945,
+      "longitude": 12.107094
+    },
+    {
+      "name": "Apollo Fitness",
+      "latitude": 55.718802,
+      "longitude": 9.5625
+    },
+    {
+      "name": "Arca Bazaren",
+      "latitude": 55.657766,
+      "longitude": 12.505731
+    },
+    {
+      "name": "Arca Boxen",
+      "latitude": 55.66043,
+      "longitude": 12.607891
+    },
+    {
+      "name": "Arca Centralen",
+      "latitude": 55.672015,
+      "longitude": 12.552686
+    },
+    {
+      "name": "Arca Garagen",
+      "latitude": 55.683291,
+      "longitude": 12.582899
+    },
+    {
+      "name": "Arca Højen",
+      "latitude": 55.704529,
+      "longitude": 12.502989
+    },
+    {
+      "name": "Arca Kirken",
+      "latitude": 55.688894,
+      "longitude": 12.555285
+    },
+    {
+      "name": "Arca Klubben",
+      "latitude": 55.708855,
+      "longitude": 12.57483
+    },
+    {
+      "name": "Arca Kogeriet",
+      "latitude": 55.681486,
+      "longitude": 12.519129
+    },
+    {
+      "name": "Arca Krydsfeltet",
+      "latitude": 55.699039,
+      "longitude": 12.579587
+    },
+    {
+      "name": "Arca Lageret",
+      "latitude": 55.697829,
+      "longitude": 12.53282
+    },
+    {
+      "name": "Arca Omstillingen",
+      "latitude": 55.664104,
+      "longitude": 12.599078
+    },
+    {
+      "name": "Arca Posthuset",
+      "latitude": 55.75317,
+      "longitude": 12.542053
+    },
+    {
+      "name": "Arca Smedjen",
+      "latitude": 55.70377,
+      "longitude": 12.554878
+    },
+    {
+      "name": "Arca Trykkeriet",
+      "latitude": 55.706942,
+      "longitude": 12.527978
+    },
+    {
+      "name": "Arca Værkstedet",
+      "latitude": 55.684085,
+      "longitude": 12.490668
+    },
+    {
+      "name": "Atelier Lausten Yoga",
+      "latitude": 55.035408,
+      "longitude": 10.544491
+    },
+    {
+      "name": "Auning Fitness",
+      "latitude": 56.426553,
+      "longitude": 10.386622
+    },
+    {
+      "name": "b:fit by Zeenta",
+      "latitude": 56.154743,
+      "longitude": 10.181267
+    },
+    {
+      "name": "B:fit-Fitness",
+      "latitude": 56.154756,
+      "longitude": 9.817087
+    },
+    {
+      "name": "Banken Fitness",
+      "latitude": 55.807849,
+      "longitude": 8.620788
+    },
+    {
+      "name": "Barry's",
+      "latitude": 55.681944,
+      "longitude": 12.580698
+    },
+    {
+      "name": "BEAR MOVE",
+      "latitude": 55.625672,
+      "longitude": 12.626897
+    },
+    {
+      "name": "Beat Riders",
+      "latitude": 55.663474,
+      "longitude": 12.592088
+    },
+    {
+      "name": "Bike4Fit",
+      "latitude": 55.675207,
+      "longitude": 9.578024
+    },
+    {
+      "name": "Billund Motions center",
+      "latitude": 55.720846,
+      "longitude": 9.122823
+    },
+    {
+      "name": "BK Health",
+      "latitude": 55.715456,
+      "longitude": 12.432596
+    },
+    {
+      "name": "Body & Mind Studio",
+      "latitude": 56.438733,
+      "longitude": 9.403775
+    },
+    {
+      "name": "BODY CLUB Lisa Ravn",
+      "latitude": 55.567683,
+      "longitude": 9.755682
+    },
+    {
+      "name": "Body Fitness",
+      "latitude": 55.658978,
+      "longitude": 11.396373
+    },
+    {
+      "name": "Borupgård Fitness",
+      "latitude": 56.009972,
+      "longitude": 12.584207
+    },
+    {
+      "name": "Box365",
+      "latitude": 55.505747,
+      "longitude": 8.45657
+    },
+    {
+      "name": "Bramming Fitness",
+      "latitude": 55.469696,
+      "longitude": 8.699362
+    },
+    {
+      "name": "Brovst Motion & Fitness",
+      "latitude": 57.100476,
+      "longitude": 9.519278
+    },
+    {
+      "name": "BSG Gym",
+      "latitude": 55.710621,
+      "longitude": 9.5239
+    },
+    {
+      "name": "Butcher's LAB",
+      "latitude": 55.668447,
+      "longitude": 12.562095
+    },
+    {
+      "name": "Choice",
+      "latitude": 55.466985,
+      "longitude": 8.44641
+    },
+    {
+      "name": "Club Energy Fitness",
+      "latitude": 55.632539,
+      "longitude": 8.483108
+    },
+    {
+      "name": "Club Energy Reformer Studio & Hot Yoga",
+      "latitude": 55.508311,
+      "longitude": 8.450243
+    },
+    {
+      "name": "Copenhagen Gym",
+      "latitude": 55.652823,
+      "longitude": 12.506776
+    },
+    {
+      "name": "Copenhagen Pilates Studio",
+      "latitude": 55.678832,
+      "longitude": 12.588515
+    },
+    {
+      "name": "Cross Cardio Fitness",
+      "latitude": 55.704017,
+      "longitude": 9.531076
+    },
+    {
+      "name": "CrossFit",
+      "latitude": 55.6684,
+      "longitude": 12.562174
+    },
+    {
+      "name": "CrossFit",
+      "latitude": 57.039405,
+      "longitude": 9.928353
+    },
+    {
+      "name": "Damgaard Boksning",
+      "latitude": 55.661491,
+      "longitude": 11.405132
+    },
+    {
+      "name": "Dansk Fitness Faaborg",
+      "latitude": 55.099397,
+      "longitude": 10.240569
+    },
+    {
+      "name": "Dansk fitness Randers",
+      "latitude": 56.460705,
+      "longitude": 10.027554
+    },
+    {
+      "name": "Destination Skagen Gym",
+      "latitude": 57.727155,
+      "longitude": 10.568844
+    },
+    {
+      "name": "Det Lille Træningscenter",
+      "latitude": 55.652039,
+      "longitude": 11.291623
+    },
+    {
+      "name": "DGI Fitnesscenteret",
+      "latitude": 55.013263,
+      "longitude": 11.92154
+    },
+    {
+      "name": "DGI-Huset Træningsområde",
+      "latitude": 57.046518,
+      "longitude": 9.932677
+    },
+    {
+      "name": "Dit fitness",
+      "latitude": 56.300908,
+      "longitude": 10.478654
+    },
+    {
+      "name": "Dok55",
+      "latitude": 56.970582,
+      "longitude": 9.259416
+    },
+    {
+      "name": "DyrkYoga.dk",
+      "latitude": 56.124362,
+      "longitude": 12.308486
+    },
+    {
+      "name": "Dóttir Yoga & Juice Bar",
+      "latitude": 55.649923,
+      "longitude": 12.554348
+    },
+    {
+      "name": "EasyFit",
+      "latitude": 56.300689,
+      "longitude": 10.476633
+    },
+    {
+      "name": "EasyFit Cirkletræning",
+      "latitude": 56.279406,
+      "longitude": 10.319847
+    },
+    {
+      "name": "EasyFit Plus",
+      "latitude": 56.275534,
+      "longitude": 10.315496
+    },
+    {
+      "name": "En sundere kurs",
+      "latitude": 55.002854,
+      "longitude": 11.90534
+    },
+    {
+      "name": "Energiværkstedet",
+      "latitude": 55.652504,
+      "longitude": 12.620187
+    },
+    {
+      "name": "Fair Fitness",
+      "latitude": 55.747245,
+      "longitude": 11.955862
+    },
+    {
+      "name": "FH-Hallen",
+      "latitude": 55.867063,
+      "longitude": 12.354431
+    },
+    {
+      "name": "Fin Form",
+      "latitude": 55.337558,
+      "longitude": 10.309253
+    },
+    {
+      "name": "Fit & Sund",
+      "latitude": 55.498386,
+      "longitude": 9.759587
+    },
+    {
+      "name": "Fit & Sund",
+      "latitude": 55.562094,
+      "longitude": 9.723492
+    },
+    {
+      "name": "Fit & Sund",
+      "latitude": 56.090739,
+      "longitude": 9.78726
+    },
+    {
+      "name": "Fit og sund",
+      "latitude": 56.404941,
+      "longitude": 10.886603
+    },
+    {
+      "name": "Fit Zone",
+      "latitude": 55.404539,
+      "longitude": 10.340727
+    },
+    {
+      "name": "Fit&Sund",
+      "latitude": 55.310021,
+      "longitude": 12.389398
+    },
+    {
+      "name": "Fit&Sund",
+      "latitude": 55.518548,
+      "longitude": 8.368283
+    },
+    {
+      "name": "Fit&Sund",
+      "latitude": 55.665136,
+      "longitude": 12.363237
+    },
+    {
+      "name": "Fit&Sund",
+      "latitude": 55.715397,
+      "longitude": 10.010713
+    },
+    {
+      "name": "Fit&Sund",
+      "latitude": 55.723044,
+      "longitude": 9.59607
+    },
+    {
+      "name": "Fit&Sund",
+      "latitude": 55.732323,
+      "longitude": 12.383316
+    },
+    {
+      "name": "Fit&Sund",
+      "latitude": 55.846787,
+      "longitude": 9.736056
+    },
+    {
+      "name": "Fit&Sund",
+      "latitude": 55.971188,
+      "longitude": 9.611696
+    },
+    {
+      "name": "Fit&Sund",
+      "latitude": 56.155911,
+      "longitude": 10.179597
+    },
+    {
+      "name": "Fit&Sund Skive",
+      "latitude": 56.562701,
+      "longitude": 9.028893
+    },
+    {
+      "name": "Fit&Sund Skive",
+      "latitude": 56.565603,
+      "longitude": 9.026888
+    },
+    {
+      "name": "Fit&Sund Svendborg",
+      "latitude": 55.057077,
+      "longitude": 10.60945
+    },
+    {
+      "name": "Fit4livetbootcamp",
+      "latitude": 55.227604,
+      "longitude": 11.751904
+    },
+    {
+      "name": "Fitbarsel",
+      "latitude": 55.689777,
+      "longitude": 12.488701
+    },
+    {
+      "name": "Fitness 8800",
+      "latitude": 56.466419,
+      "longitude": 9.397317
+    },
+    {
+      "name": "Fitness Fokus",
+      "latitude": 55.318819,
+      "longitude": 10.779846
+    },
+    {
+      "name": "Fitness Hedehusene",
+      "latitude": 55.648967,
+      "longitude": 12.201913
+    },
+    {
+      "name": "Fitness Institute",
+      "latitude": 55.686022,
+      "longitude": 12.587424
+    },
+    {
+      "name": "Fitness Lab",
+      "latitude": 55.433128,
+      "longitude": 11.79137
+    },
+    {
+      "name": "Fitness Laden",
+      "latitude": 55.150269,
+      "longitude": 8.746788
+    },
+    {
+      "name": "Fitness Møn",
+      "latitude": 54.981014,
+      "longitude": 12.276237
+    },
+    {
+      "name": "Fitness One",
+      "latitude": 55.249405,
+      "longitude": 9.487979
+    },
+    {
+      "name": "Fitness Studiet",
+      "latitude": 56.457487,
+      "longitude": 10.040131
+    },
+    {
+      "name": "Fitness Taastrup",
+      "latitude": 55.647757,
+      "longitude": 12.269413
+    },
+    {
+      "name": "Fitness United",
+      "latitude": 56.145651,
+      "longitude": 8.994572
+    },
+    {
+      "name": "Fitness United",
+      "latitude": 56.188431,
+      "longitude": 10.214526
+    },
+    {
+      "name": "Fitness United",
+      "latitude": 57.049332,
+      "longitude": 9.920552
+    },
+    {
+      "name": "Fitness Vejstrup",
+      "latitude": 55.114679,
+      "longitude": 10.722621
+    },
+    {
+      "name": "Fitness World Aalborg Gugvej",
+      "latitude": 57.020353,
+      "longitude": 9.925584
+    },
+    {
+      "name": "Fitness World Albertslund",
+      "latitude": 55.663987,
+      "longitude": 12.364154
+    },
+    {
+      "name": "Fitness World Hørsholm",
+      "latitude": 55.878843,
+      "longitude": 12.498701
+    },
+    {
+      "name": "Fitness World København Nordre Fasanvej",
+      "latitude": 55.698518,
+      "longitude": 12.536475
+    },
+    {
+      "name": "Fitness World Valby Mosedalvej",
+      "latitude": 55.667486,
+      "longitude": 12.513481
+    },
+    {
+      "name": "Fitness World Vojens",
+      "latitude": 55.248018,
+      "longitude": 9.308075
+    },
+    {
+      "name": "Fitness X",
+      "latitude": 56.109241,
+      "longitude": 10.078288
+    },
+    {
+      "name": "Fitness X",
+      "latitude": 56.153001,
+      "longitude": 10.206233
+    },
+    {
+      "name": "Fitness X",
+      "latitude": 56.163642,
+      "longitude": 10.21056
+    },
+    {
+      "name": "Fitness X",
+      "latitude": 56.455037,
+      "longitude": 9.402553
+    },
+    {
+      "name": "FitnessCenter Vejers",
+      "latitude": 55.625835,
+      "longitude": 8.125482
+    },
+    {
+      "name": "FitnessX",
+      "latitude": 55.468116,
+      "longitude": 8.439927
+    },
+    {
+      "name": "FitnessX",
+      "latitude": 55.480054,
+      "longitude": 8.479027
+    },
+    {
+      "name": "FitnessX",
+      "latitude": 55.645962,
+      "longitude": 12.636087
+    },
+    {
+      "name": "FitnessX",
+      "latitude": 55.654492,
+      "longitude": 12.488525
+    },
+    {
+      "name": "FitnessX",
+      "latitude": 55.6686,
+      "longitude": 12.535363
+    },
+    {
+      "name": "FitnessX",
+      "latitude": 55.682018,
+      "longitude": 12.52258
+    },
+    {
+      "name": "FitnessX",
+      "latitude": 55.788766,
+      "longitude": 12.466741
+    },
+    {
+      "name": "FitnessX",
+      "latitude": 55.859124,
+      "longitude": 9.855114
+    },
+    {
+      "name": "FitnessX",
+      "latitude": 56.148095,
+      "longitude": 10.189995
+    },
+    {
+      "name": "FitnessX",
+      "latitude": 56.155939,
+      "longitude": 10.183175
+    },
+    {
+      "name": "FitnessX",
+      "latitude": 56.157531,
+      "longitude": 10.192622
+    },
+    {
+      "name": "FitnessX",
+      "latitude": 56.165346,
+      "longitude": 10.13334
+    },
+    {
+      "name": "FitnessX Roskilde",
+      "latitude": 55.633542,
+      "longitude": 12.070029
+    },
+    {
+      "name": "Fittnes",
+      "latitude": 55.858549,
+      "longitude": 9.853551
+    },
+    {
+      "name": "Foreningsfitness Stubbekøbing",
+      "latitude": 54.888942,
+      "longitude": 12.052937
+    },
+    {
+      "name": "Form & Styrke",
+      "latitude": 56.129974,
+      "longitude": 10.161915
+    },
+    {
+      "name": "Form og Fitness",
+      "latitude": 55.662952,
+      "longitude": 12.609983
+    },
+    {
+      "name": "Frank Institute of Sports",
+      "latitude": 55.38119,
+      "longitude": 10.420408
+    },
+    {
+      "name": "Frederikssund Motion Center",
+      "latitude": 55.845489,
+      "longitude": 12.067743
+    },
+    {
+      "name": "Frederiksværk Motionscenter",
+      "latitude": 55.979877,
+      "longitude": 12.026977
+    },
+    {
+      "name": "Fresh Fitness Hvidovre",
+      "latitude": 55.641346,
+      "longitude": 12.469096
+    },
+    {
+      "name": "Fysio",
+      "latitude": 55.632734,
+      "longitude": 12.621468
+    },
+    {
+      "name": "Fysio Puls",
+      "latitude": 55.648881,
+      "longitude": 12.554447
+    },
+    {
+      "name": "FysioDanmark Slagelse",
+      "latitude": 55.417764,
+      "longitude": 11.33706
+    },
+    {
+      "name": "Fysisk Form",
+      "latitude": 55.664836,
+      "longitude": 12.609939
+    },
+    {
+      "name": "Fysisk Form Vesterbro",
+      "latitude": 55.671458,
+      "longitude": 12.547235
+    },
+    {
+      "name": "Fysisk Form Østerbro",
+      "latitude": 55.713008,
+      "longitude": 12.569666
+    },
+    {
+      "name": "Gladsaxe MultiFitness",
+      "latitude": 55.753791,
+      "longitude": 12.49581
+    },
+    {
+      "name": "Go form",
+      "latitude": 55.665653,
+      "longitude": 11.119868
+    },
+    {
+      "name": "Go Motion",
+      "latitude": 56.164825,
+      "longitude": 9.542158
+    },
+    {
+      "name": "Go-yoga Bramming",
+      "latitude": 55.465845,
+      "longitude": 8.699337
+    },
+    {
+      "name": "Go2fitness",
+      "latitude": 55.4194,
+      "longitude": 11.56812
+    },
+    {
+      "name": "Go2Fitness",
+      "latitude": 55.594125,
+      "longitude": 11.862119
+    },
+    {
+      "name": "Gold Gym",
+      "latitude": 56.413689,
+      "longitude": 10.886862
+    },
+    {
+      "name": "Grenaa Fitness",
+      "latitude": 56.414012,
+      "longitude": 10.892955
+    },
+    {
+      "name": "Grimstrup Fitness",
+      "latitude": 55.526294,
+      "longitude": 8.653789
+    },
+    {
+      "name": "Ground Fredericia",
+      "latitude": 55.569513,
+      "longitude": 9.733686
+    },
+    {
+      "name": "Gråsten Fitness",
+      "latitude": 54.908589,
+      "longitude": 9.580054
+    },
+    {
+      "name": "Gym & Fit 4 u Aars",
+      "latitude": 56.80667,
+      "longitude": 9.501772
+    },
+    {
+      "name": "Gym & Fit 4 u Brønderslev",
+      "latitude": 57.268285,
+      "longitude": 9.947785
+    },
+    {
+      "name": "Gym & Fit 4 u Løgstør",
+      "latitude": 56.956814,
+      "longitude": 9.263542
+    },
+    {
+      "name": "Gym & Fit 4 u Thisted",
+      "latitude": 56.95462,
+      "longitude": 8.691726
+    },
+    {
+      "name": "Gym 53",
+      "latitude": 55.960638,
+      "longitude": 11.852551
+    },
+    {
+      "name": "Gym Club",
+      "latitude": 55.494018,
+      "longitude": 8.409172
+    },
+    {
+      "name": "Gym og Fitness",
+      "latitude": 57.015043,
+      "longitude": 9.924722
+    },
+    {
+      "name": "Gym4You",
+      "latitude": 55.661423,
+      "longitude": 11.40548
+    },
+    {
+      "name": "Gymnastikhuset",
+      "latitude": 55.007806,
+      "longitude": 10.539853
+    },
+    {
+      "name": "Gymnastikkens Hus",
+      "latitude": 55.910387,
+      "longitude": 12.485623
+    },
+    {
+      "name": "GymStudio",
+      "latitude": 55.738061,
+      "longitude": 8.183715
+    },
+    {
+      "name": "Hadsund Motion",
+      "latitude": 56.719357,
+      "longitude": 10.113537
+    },
+    {
+      "name": "Hals Motionscenter",
+      "latitude": 57.000185,
+      "longitude": 10.307178
+    },
+    {
+      "name": "HCA CrossFit",
+      "latitude": 55.358501,
+      "longitude": 10.39562
+    },
+    {
+      "name": "Hinnerup Fitness",
+      "latitude": 56.248118,
+      "longitude": 10.072162
+    },
+    {
+      "name": "Hobro Helsesport",
+      "latitude": 56.637886,
+      "longitude": 9.796608
+    },
+    {
+      "name": "Hornslet Motionscenter",
+      "latitude": 56.30572,
+      "longitude": 10.314675
+    },
+    {
+      "name": "Hot yoga Aarhus",
+      "latitude": 56.156191,
+      "longitude": 10.212121
+    },
+    {
+      "name": "Hot Yoga CPH",
+      "latitude": 55.671095,
+      "longitude": 12.593604
+    },
+    {
+      "name": "Hotel Britannia Fitness",
+      "latitude": 55.46756,
+      "longitude": 8.451674
+    },
+    {
+      "name": "ICEFIT The Box",
+      "latitude": 56.150818,
+      "longitude": 10.166866
+    },
+    {
+      "name": "iGym",
+      "latitude": 56.443639,
+      "longitude": 9.3946
+    },
+    {
+      "name": "Inzhape",
+      "latitude": 55.700429,
+      "longitude": 12.530502
+    },
+    {
+      "name": "Iron House",
+      "latitude": 55.393271,
+      "longitude": 10.449366
+    },
+    {
+      "name": "Kaatsu",
+      "latitude": 55.3969,
+      "longitude": 10.383814
+    },
+    {
+      "name": "Kaatsu Fitness",
+      "latitude": 55.684552,
+      "longitude": 12.53873
+    },
+    {
+      "name": "Kailo yoga",
+      "latitude": 55.677912,
+      "longitude": 12.57558
+    },
+    {
+      "name": "Kongerslev Fitnesscenter",
+      "latitude": 56.8894,
+      "longitude": 10.1129
+    },
+    {
+      "name": "Krav Maga Aarhus",
+      "latitude": 56.168547,
+      "longitude": 10.191661
+    },
+    {
+      "name": "Krop & Yoga",
+      "latitude": 56.693951,
+      "longitude": 9.493806
+    },
+    {
+      "name": "Køleboxen",
+      "latitude": 56.043518,
+      "longitude": 10.191462
+    },
+    {
+      "name": "LifeClub",
+      "latitude": 55.634334,
+      "longitude": 12.053148
+    },
+    {
+      "name": "Lillerød Vægtløftningsklub",
+      "latitude": 55.866956,
+      "longitude": 12.354369
+    },
+    {
+      "name": "Linneberg Yoga",
+      "latitude": 56.112204,
+      "longitude": 8.900919
+    },
+    {
+      "name": "Local Fitness",
+      "latitude": 55.335035,
+      "longitude": 8.772747
+    },
+    {
+      "name": "Local Fitness Faaborg",
+      "latitude": 55.099832,
+      "longitude": 10.2411
+    },
+    {
+      "name": "Local Fitness Nexø",
+      "latitude": 55.058456,
+      "longitude": 15.13461
+    },
+    {
+      "name": "Loop",
+      "latitude": 55.012011,
+      "longitude": 11.908475
+    },
+    {
+      "name": "LOOP",
+      "latitude": 55.328323,
+      "longitude": 11.138787
+    },
+    {
+      "name": "Loop",
+      "latitude": 55.468524,
+      "longitude": 8.439876
+    },
+    {
+      "name": "Loop",
+      "latitude": 55.65935,
+      "longitude": 11.401564
+    },
+    {
+      "name": "Loop",
+      "latitude": 55.70834,
+      "longitude": 12.558139
+    },
+    {
+      "name": "Loop",
+      "latitude": 55.758571,
+      "longitude": 12.448695
+    },
+    {
+      "name": "LOOP",
+      "latitude": 55.793382,
+      "longitude": 12.156969
+    },
+    {
+      "name": "Loop",
+      "latitude": 55.968069,
+      "longitude": 12.031097
+    },
+    {
+      "name": "Loop",
+      "latitude": 56.126042,
+      "longitude": 10.15703
+    },
+    {
+      "name": "Loop",
+      "latitude": 56.136148,
+      "longitude": 8.996897
+    },
+    {
+      "name": "Loop",
+      "latitude": 56.23119,
+      "longitude": 10.241237
+    },
+    {
+      "name": "LOOP",
+      "latitude": 56.264979,
+      "longitude": 10.062266
+    },
+    {
+      "name": "LOOP",
+      "latitude": 56.395142,
+      "longitude": 10.876102
+    },
+    {
+      "name": "Loop",
+      "latitude": 56.715839,
+      "longitude": 10.11493
+    },
+    {
+      "name": "Loop",
+      "latitude": 56.956359,
+      "longitude": 8.692133
+    },
+    {
+      "name": "LOOP Birkerød",
+      "latitude": 55.84082,
+      "longitude": 12.43122
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.070615,
+      "longitude": 10.630159
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.241352,
+      "longitude": 10.48733
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.252403,
+      "longitude": 9.502334
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.310269,
+      "longitude": 10.787789
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.37055,
+      "longitude": 10.370989
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.447798,
+      "longitude": 12.166156
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.526803,
+      "longitude": 11.496042
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.530397,
+      "longitude": 9.715301
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.532095,
+      "longitude": 9.776515
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.589644,
+      "longitude": 12.294585
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.609605,
+      "longitude": 8.494664
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.678811,
+      "longitude": 12.513446
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.683842,
+      "longitude": 12.52407
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.686794,
+      "longitude": 12.491067
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.702763,
+      "longitude": 12.548431
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.739848,
+      "longitude": 12.576677
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 55.795454,
+      "longitude": 12.474114
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 56.182874,
+      "longitude": 9.539663
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 56.20234,
+      "longitude": 10.246921
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 57.040188,
+      "longitude": 9.93671
+    },
+    {
+      "name": "LOOP Fitness",
+      "latitude": 57.162214,
+      "longitude": 10.297689
+    },
+    {
+      "name": "LOOP Skive",
+      "latitude": 56.565642,
+      "longitude": 9.03111
+    },
+    {
+      "name": "Loop Skødstrup",
+      "latitude": 56.270272,
+      "longitude": 10.309731
+    },
+    {
+      "name": "Løberlab",
+      "latitude": 55.711091,
+      "longitude": 12.576805
+    },
+    {
+      "name": "Løfteriet",
+      "latitude": 55.409842,
+      "longitude": 10.385449
+    },
+    {
+      "name": "Mana Gym",
+      "latitude": 56.028983,
+      "longitude": 12.566195
+    },
+    {
+      "name": "Margrethegårdens Fitnessrum",
+      "latitude": 55.649268,
+      "longitude": 12.098402
+    },
+    {
+      "name": "Mariager motionscenter",
+      "latitude": 56.645483,
+      "longitude": 9.971331
+    },
+    {
+      "name": "MimoGym",
+      "latitude": 54.768335,
+      "longitude": 11.867722
+    },
+    {
+      "name": "Motion & Liv",
+      "latitude": 56.086224,
+      "longitude": 10.1186
+    },
+    {
+      "name": "Motion Bøgeskov",
+      "latitude": 55.619508,
+      "longitude": 9.761261
+    },
+    {
+      "name": "Multi fitness",
+      "latitude": 55.659248,
+      "longitude": 11.400116
+    },
+    {
+      "name": "Multi Fitness",
+      "latitude": 55.922808,
+      "longitude": 11.667397
+    },
+    {
+      "name": "Multifitness",
+      "latitude": 55.315163,
+      "longitude": 12.389879
+    },
+    {
+      "name": "Multifitness",
+      "latitude": 55.795452,
+      "longitude": 12.158859
+    },
+    {
+      "name": "My Gym",
+      "latitude": 54.997752,
+      "longitude": 11.892231
+    },
+    {
+      "name": "MyHeart Fitness",
+      "latitude": 56.718022,
+      "longitude": 10.114593
+    },
+    {
+      "name": "Nem Fitness",
+      "latitude": 55.466164,
+      "longitude": 8.699868
+    },
+    {
+      "name": "New Fitness",
+      "latitude": 55.655636,
+      "longitude": 12.354872
+    },
+    {
+      "name": "Next Gen Fitness",
+      "latitude": 55.46617,
+      "longitude": 8.452788
+    },
+    {
+      "name": "Norce",
+      "latitude": 55.717095,
+      "longitude": 12.606769
+    },
+    {
+      "name": "Nordic Performance Training",
+      "latitude": 55.665733,
+      "longitude": 12.626278
+    },
+    {
+      "name": "Nordic Strong",
+      "latitude": 55.709534,
+      "longitude": 12.594591
+    },
+    {
+      "name": "Nørrebro Fysioterapi & Træningscenter",
+      "latitude": 55.697381,
+      "longitude": 12.548873
+    },
+    {
+      "name": "Odder Fitness Center",
+      "latitude": 55.982728,
+      "longitude": 10.148123
+    },
+    {
+      "name": "Olympus Fitness",
+      "latitude": 55.646233,
+      "longitude": 11.161337
+    },
+    {
+      "name": "Orange Fitness",
+      "latitude": 55.394006,
+      "longitude": 10.348911
+    },
+    {
+      "name": "Oxygym",
+      "latitude": 55.645791,
+      "longitude": 12.540447
+    },
+    {
+      "name": "P.S Studio",
+      "latitude": 57.020455,
+      "longitude": 9.895743
+    },
+    {
+      "name": "Paul Bergsøe Kollegiet fitness centre",
+      "latitude": 55.810823,
+      "longitude": 12.514075
+    },
+    {
+      "name": "Perform BY IRANI",
+      "latitude": 55.567361,
+      "longitude": 9.757521
+    },
+    {
+      "name": "PerformanceLab og CrossFit Lageret",
+      "latitude": 56.366337,
+      "longitude": 8.636954
+    },
+    {
+      "name": "Pilates B",
+      "latitude": 55.773641,
+      "longitude": 12.49903
+    },
+    {
+      "name": "PMT GYM Køge",
+      "latitude": 55.474279,
+      "longitude": 12.174755
+    },
+    {
+      "name": "PMT GYM Rødovre",
+      "latitude": 55.663945,
+      "longitude": 12.458729
+    },
+    {
+      "name": "PMT GYM Slagelse",
+      "latitude": 55.40913,
+      "longitude": 11.369875
+    },
+    {
+      "name": "Pole Republic",
+      "latitude": 55.401977,
+      "longitude": 10.358981
+    },
+    {
+      "name": "Power House Aalborg",
+      "latitude": 57.050125,
+      "longitude": 9.916888
+    },
+    {
+      "name": "Power House Aarhus",
+      "latitude": 56.16507,
+      "longitude": 10.223146
+    },
+    {
+      "name": "Power House København",
+      "latitude": 55.678209,
+      "longitude": 12.562317
+    },
+    {
+      "name": "Power House Odense",
+      "latitude": 55.398758,
+      "longitude": 10.378213
+    },
+    {
+      "name": "Prassé Træning",
+      "latitude": 55.699564,
+      "longitude": 12.516324
+    },
+    {
+      "name": "ProRepubliq",
+      "latitude": 55.504414,
+      "longitude": 8.406485
+    },
+    {
+      "name": "ProRepubliQ",
+      "latitude": 55.520685,
+      "longitude": 9.460498
+    },
+    {
+      "name": "Puls Fitness",
+      "latitude": 55.527008,
+      "longitude": 11.496484
+    },
+    {
+      "name": "Pulsn",
+      "latitude": 55.464957,
+      "longitude": 8.698548
+    },
+    {
+      "name": "Pulsn",
+      "latitude": 55.525569,
+      "longitude": 8.462126
+    },
+    {
+      "name": "Pure Gym Lyngbyvej",
+      "latitude": 55.738612,
+      "longitude": 12.537895
+    },
+    {
+      "name": "Pure Gym Nyborg",
+      "latitude": 55.317423,
+      "longitude": 10.789273
+    },
+    {
+      "name": "Pure Performance Fitness",
+      "latitude": 55.907456,
+      "longitude": 8.517379
+    },
+    {
+      "name": "PureGym",
+      "latitude": 54.920057,
+      "longitude": 9.807735
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.042962,
+      "longitude": 9.416254
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.216822,
+      "longitude": 11.754419
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.230419,
+      "longitude": 11.770249
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.254098,
+      "longitude": 9.503307
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.362561,
+      "longitude": 10.350694
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.368176,
+      "longitude": 10.393244
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.380175,
+      "longitude": 10.417569
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.394018,
+      "longitude": 10.42103
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.394886,
+      "longitude": 10.366468
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.396604,
+      "longitude": 10.38315
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.396985,
+      "longitude": 11.340288
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.402164,
+      "longitude": 10.39032
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.40539,
+      "longitude": 11.352905
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.408838,
+      "longitude": 10.390809
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.414423,
+      "longitude": 10.340727
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.465943,
+      "longitude": 8.458993
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.475033,
+      "longitude": 12.175729
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.478707,
+      "longitude": 8.437246
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.482857,
+      "longitude": 9.475726
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.486171,
+      "longitude": 9.473662
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.494238,
+      "longitude": 9.470518
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.501503,
+      "longitude": 8.455045
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.50541,
+      "longitude": 8.404462
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.532945,
+      "longitude": 12.221367
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.566786,
+      "longitude": 12.267721
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.568451,
+      "longitude": 9.755848
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.590565,
+      "longitude": 12.298461
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.597401,
+      "longitude": 12.330165
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.598771,
+      "longitude": 12.327415
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.603278,
+      "longitude": 12.586472
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.614055,
+      "longitude": 12.355972
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.619639,
+      "longitude": 12.574722
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.622386,
+      "longitude": 12.421318
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.623683,
+      "longitude": 12.388347
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.626447,
+      "longitude": 12.484424
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.640698,
+      "longitude": 12.08905
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.65037,
+      "longitude": 12.52421
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.650757,
+      "longitude": 12.510825
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.651761,
+      "longitude": 12.3028
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.655209,
+      "longitude": 12.394908
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.656969,
+      "longitude": 12.604394
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.660343,
+      "longitude": 12.592641
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.661369,
+      "longitude": 12.609945
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.662733,
+      "longitude": 12.577309
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.663645,
+      "longitude": 12.474568
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.663972,
+      "longitude": 12.401694
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.664278,
+      "longitude": 12.625689
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.667324,
+      "longitude": 12.43846
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.670808,
+      "longitude": 12.557024
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.671618,
+      "longitude": 12.546674
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.67776,
+      "longitude": 12.603202
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.681041,
+      "longitude": 12.576783
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.681737,
+      "longitude": 11.103753
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.683091,
+      "longitude": 12.552472
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.684509,
+      "longitude": 12.532181
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.686798,
+      "longitude": 12.503444
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.687501,
+      "longitude": 12.492891
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.690737,
+      "longitude": 12.532259
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.692195,
+      "longitude": 12.588288
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.693434,
+      "longitude": 12.484844
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.696529,
+      "longitude": 12.551006
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.697938,
+      "longitude": 12.540532
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.697973,
+      "longitude": 12.542038
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.703957,
+      "longitude": 9.531347
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.70487,
+      "longitude": 12.544347
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.704989,
+      "longitude": 12.537483
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.706762,
+      "longitude": 12.587305
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.707613,
+      "longitude": 12.522359
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.709542,
+      "longitude": 12.481024
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.711302,
+      "longitude": 12.564646
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.71828,
+      "longitude": 12.4485
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.718771,
+      "longitude": 9.609574
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.721874,
+      "longitude": 12.540946
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.721929,
+      "longitude": 12.577749
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.72534,
+      "longitude": 12.416053
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.729618,
+      "longitude": 12.357967
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.730052,
+      "longitude": 12.521468
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.739591,
+      "longitude": 12.493289
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.746368,
+      "longitude": 12.551887
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.748591,
+      "longitude": 12.318717
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.7586,
+      "longitude": 12.449793
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.767867,
+      "longitude": 12.195427
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.768873,
+      "longitude": 12.503916
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.778742,
+      "longitude": 12.524317
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.782215,
+      "longitude": 12.361557
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.81134,
+      "longitude": 12.47169
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.818969,
+      "longitude": 12.372367
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.839527,
+      "longitude": 12.064328
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.841361,
+      "longitude": 12.440047
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.850801,
+      "longitude": 12.163595
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.856709,
+      "longitude": 9.852679
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.871034,
+      "longitude": 12.3577
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.905819,
+      "longitude": 12.475396
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.906839,
+      "longitude": 12.474618
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.932988,
+      "longitude": 12.285307
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.933405,
+      "longitude": 12.313747
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.949283,
+      "longitude": 8.491597
+    },
+    {
+      "name": "PureGym",
+      "latitude": 55.97139,
+      "longitude": 12.023252
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.030375,
+      "longitude": 12.606461
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.033664,
+      "longitude": 9.930533
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.063311,
+      "longitude": 12.282565
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.10662,
+      "longitude": 10.205834
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.131874,
+      "longitude": 10.158411
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.136239,
+      "longitude": 8.962348
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.137077,
+      "longitude": 8.967399
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.138726,
+      "longitude": 10.178927
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.143369,
+      "longitude": 10.200681
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.144049,
+      "longitude": 10.199962
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.152656,
+      "longitude": 10.196708
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.155122,
+      "longitude": 10.134773
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.162212,
+      "longitude": 10.211833
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.169662,
+      "longitude": 10.193708
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.170818,
+      "longitude": 10.212045
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.173027,
+      "longitude": 9.55794
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.182093,
+      "longitude": 10.123928
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.187156,
+      "longitude": 10.210924
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.187205,
+      "longitude": 9.559329
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.201808,
+      "longitude": 10.244713
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.439662,
+      "longitude": 10.050805
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.447574,
+      "longitude": 9.40301
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.454238,
+      "longitude": 10.041056
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.462888,
+      "longitude": 10.037656
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.472158,
+      "longitude": 10.017923
+    },
+    {
+      "name": "PureGym",
+      "latitude": 56.803347,
+      "longitude": 9.510651
+    },
+    {
+      "name": "PureGym",
+      "latitude": 57.028614,
+      "longitude": 9.975748
+    },
+    {
+      "name": "PureGym",
+      "latitude": 57.037003,
+      "longitude": 9.93337
+    },
+    {
+      "name": "PureGym",
+      "latitude": 57.04222,
+      "longitude": 9.918183
+    },
+    {
+      "name": "PureGym",
+      "latitude": 57.047302,
+      "longitude": 9.926867
+    },
+    {
+      "name": "PureGym",
+      "latitude": 57.053636,
+      "longitude": 9.905218
+    },
+    {
+      "name": "PureGym",
+      "latitude": 57.072247,
+      "longitude": 9.925749
+    },
+    {
+      "name": "PureGym",
+      "latitude": 57.45617,
+      "longitude": 10.014821
+    },
+    {
+      "name": "PureGym - Rødovre Rødovre Centrum",
+      "latitude": 55.679736,
+      "longitude": 12.456409
+    },
+    {
+      "name": "PureGym Frederikshavn",
+      "latitude": 57.445741,
+      "longitude": 10.507589
+    },
+    {
+      "name": "Puregym Haderslev",
+      "latitude": 55.262633,
+      "longitude": 9.501613
+    },
+    {
+      "name": "PureGym Hvidovre Bibliotekvej",
+      "latitude": 55.641396,
+      "longitude": 12.46913
+    },
+    {
+      "name": "PureGym Odder",
+      "latitude": 55.970132,
+      "longitude": 10.148582
+    },
+    {
+      "name": "Purple Fitness",
+      "latitude": 55.793705,
+      "longitude": 12.157556
+    },
+    {
+      "name": "PWR.8 Østerbro",
+      "latitude": 55.697049,
+      "longitude": 12.59484
+    },
+    {
+      "name": "Raw Gym",
+      "latitude": 55.682347,
+      "longitude": 12.504039
+    },
+    {
+      "name": "Re:Form Studio By Becks",
+      "latitude": 55.732825,
+      "longitude": 12.304769
+    },
+    {
+      "name": "RIPA Fitness",
+      "latitude": 55.342434,
+      "longitude": 8.7833
+    },
+    {
+      "name": "Roager Foreningsfitness",
+      "latitude": 55.251011,
+      "longitude": 8.824247
+    },
+    {
+      "name": "Roskilde Motions- & Idrætsklub",
+      "latitude": 55.631652,
+      "longitude": 12.071555
+    },
+    {
+      "name": "Rules Boxing Club",
+      "latitude": 56.152668,
+      "longitude": 10.196606
+    },
+    {
+      "name": "Rødovre Fitness Club",
+      "latitude": 55.685545,
+      "longitude": 12.462412
+    },
+    {
+      "name": "Rødovre Fysioterapi & Træning",
+      "latitude": 55.690867,
+      "longitude": 12.462275
+    },
+    {
+      "name": "Safe & fit",
+      "latitude": 54.937714,
+      "longitude": 9.25611
+    },
+    {
+      "name": "Sakskøbing Fysioterapi & Fitnesscenter",
+      "latitude": 54.80135,
+      "longitude": 11.636633
+    },
+    {
+      "name": "SATS",
+      "latitude": 55.629742,
+      "longitude": 12.578083
+    },
+    {
+      "name": "SATS",
+      "latitude": 55.652929,
+      "longitude": 12.542355
+    },
+    {
+      "name": "SATS",
+      "latitude": 55.661652,
+      "longitude": 12.56213
+    },
+    {
+      "name": "SATS",
+      "latitude": 55.712275,
+      "longitude": 12.57626
+    },
+    {
+      "name": "SATS",
+      "latitude": 55.724928,
+      "longitude": 12.439338
+    },
+    {
+      "name": "SATS",
+      "latitude": 55.835682,
+      "longitude": 12.064729
+    },
+    {
+      "name": "SATS Birkerød",
+      "latitude": 55.839106,
+      "longitude": 12.434698
+    },
+    {
+      "name": "SATS Danmark",
+      "latitude": 55.641647,
+      "longitude": 12.100977
+    },
+    {
+      "name": "SATS Danmark Lyngby Kanalvej",
+      "latitude": 55.773619,
+      "longitude": 12.506165
+    },
+    {
+      "name": "SATS FRB - ABC",
+      "latitude": 55.674924,
+      "longitude": 12.534195
+    },
+    {
+      "name": "SATS FRB - Falkoner",
+      "latitude": 55.680361,
+      "longitude": 12.53075
+    },
+    {
+      "name": "SATS Gentofte",
+      "latitude": 55.747329,
+      "longitude": 12.541266
+    },
+    {
+      "name": "SATS Helsingør",
+      "latitude": 56.025207,
+      "longitude": 12.58844
+    },
+    {
+      "name": "SATS Hørsholm",
+      "latitude": 55.878495,
+      "longitude": 12.497678
+    },
+    {
+      "name": "SATS KBH",
+      "latitude": 55.661301,
+      "longitude": 12.631865
+    },
+    {
+      "name": "SATS KBH",
+      "latitude": 55.700825,
+      "longitude": 12.536902
+    },
+    {
+      "name": "SATS KBH - Adelgade",
+      "latitude": 55.682678,
+      "longitude": 12.582331
+    },
+    {
+      "name": "SATS KBH - Blox",
+      "latitude": 55.671727,
+      "longitude": 12.579324
+    },
+    {
+      "name": "SATS KBH - Parken",
+      "latitude": 55.701762,
+      "longitude": 12.572289
+    },
+    {
+      "name": "SATS KBH - Valby",
+      "latitude": 55.664769,
+      "longitude": 12.511402
+    },
+    {
+      "name": "SATS KBH - Vesterport",
+      "latitude": 55.675245,
+      "longitude": 12.56346
+    },
+    {
+      "name": "SATS Køge - Den hvide by",
+      "latitude": 55.477597,
+      "longitude": 12.18626
+    },
+    {
+      "name": "SATS Køge - Strædet",
+      "latitude": 55.4574,
+      "longitude": 12.185097
+    },
+    {
+      "name": "SATS Lyngby – Kanalvej",
+      "latitude": 55.773342,
+      "longitude": 12.507291
+    },
+    {
+      "name": "SATS Nærum",
+      "latitude": 55.816247,
+      "longitude": 12.528719
+    },
+    {
+      "name": "SATS Roskilde",
+      "latitude": 55.641418,
+      "longitude": 12.100165
+    },
+    {
+      "name": "SATS Sluseholmen",
+      "latitude": 55.645506,
+      "longitude": 12.547508
+    },
+    {
+      "name": "SATS Søborg",
+      "latitude": 55.741202,
+      "longitude": 12.484854
+    },
+    {
+      "name": "SATS Taastrup",
+      "latitude": 55.644041,
+      "longitude": 12.274762
+    },
+    {
+      "name": "SATS Vallensbæk",
+      "latitude": 55.622958,
+      "longitude": 12.387079
+    },
+    {
+      "name": "SGI fitness & motion",
+      "latitude": 55.529715,
+      "longitude": 8.403548
+    },
+    {
+      "name": "Shape Fitness og Motion",
+      "latitude": 55.642406,
+      "longitude": 9.663042
+    },
+    {
+      "name": "Shape Studio",
+      "latitude": 57.046465,
+      "longitude": 9.927791
+    },
+    {
+      "name": "SHC",
+      "latitude": 55.680373,
+      "longitude": 12.56137
+    },
+    {
+      "name": "SHC Borups Allé",
+      "latitude": 55.692178,
+      "longitude": 12.536736
+    },
+    {
+      "name": "SHC Gothersgade",
+      "latitude": 55.682074,
+      "longitude": 12.583972
+    },
+    {
+      "name": "SHC Kaktus Towers",
+      "latitude": 55.66375,
+      "longitude": 12.560341
+    },
+    {
+      "name": "SHC Scandinavia",
+      "latitude": 55.666897,
+      "longitude": 12.586475
+    },
+    {
+      "name": "SHC Åboulevarden",
+      "latitude": 55.685225,
+      "longitude": 12.550894
+    },
+    {
+      "name": "SHC Ørstedsparken",
+      "latitude": 55.683471,
+      "longitude": 12.566295
+    },
+    {
+      "name": "SHC Østbanegade",
+      "latitude": 55.705447,
+      "longitude": 12.590271
+    },
+    {
+      "name": "Siala",
+      "latitude": 55.590004,
+      "longitude": 11.843027
+    },
+    {
+      "name": "SIAM Athlete Nation",
+      "latitude": 55.698853,
+      "longitude": 12.543338
+    },
+    {
+      "name": "Silkeborg Fitness Center",
+      "latitude": 56.183934,
+      "longitude": 9.533572
+    },
+    {
+      "name": "Silkeborg Sports Center",
+      "latitude": 56.170276,
+      "longitude": 9.568089
+    },
+    {
+      "name": "Silverback",
+      "latitude": 55.723523,
+      "longitude": 12.440012
+    },
+    {
+      "name": "Skagen Motionscenter",
+      "latitude": 57.730381,
+      "longitude": 10.571376
+    },
+    {
+      "name": "Skave Fitness",
+      "latitude": 56.390537,
+      "longitude": 8.79778
+    },
+    {
+      "name": "Skrave Fitness",
+      "latitude": 55.414087,
+      "longitude": 9.102768
+    },
+    {
+      "name": "Smiley Fitness",
+      "latitude": 55.926241,
+      "longitude": 12.31268
+    },
+    {
+      "name": "Sport & Fitness Aarup",
+      "latitude": 55.375152,
+      "longitude": 10.050455
+    },
+    {
+      "name": "Sport og Fitness",
+      "latitude": 56.034094,
+      "longitude": 9.931135
+    },
+    {
+      "name": "Sport og Fitness",
+      "latitude": 56.3778,
+      "longitude": 9.646437
+    },
+    {
+      "name": "Sport og Fitness Himmelev",
+      "latitude": 55.658314,
+      "longitude": 12.105613
+    },
+    {
+      "name": "Sport og Fitness Holsted",
+      "latitude": 55.499273,
+      "longitude": 8.913961
+    },
+    {
+      "name": "Sport og Fitness Skanderborg",
+      "latitude": 56.04002,
+      "longitude": 9.916533
+    },
+    {
+      "name": "Station28",
+      "latitude": 54.933131,
+      "longitude": 8.861888
+    },
+    {
+      "name": "Stege Gym",
+      "latitude": 54.982984,
+      "longitude": 12.283514
+    },
+    {
+      "name": "Stestrup Fritidsgård",
+      "latitude": 55.573219,
+      "longitude": 11.784409
+    },
+    {
+      "name": "Stevnstrup Fitness",
+      "latitude": 56.432303,
+      "longitude": 9.948082
+    },
+    {
+      "name": "Stina Yoga",
+      "latitude": 56.278688,
+      "longitude": 10.318877
+    },
+    {
+      "name": "Stjerne Gym",
+      "latitude": 55.705157,
+      "longitude": 12.579809
+    },
+    {
+      "name": "Storm Fitness",
+      "latitude": 55.680038,
+      "longitude": 11.103336
+    },
+    {
+      "name": "Styrk",
+      "latitude": 56.17205,
+      "longitude": 10.189986
+    },
+    {
+      "name": "Svaneke Yoga",
+      "latitude": 55.136798,
+      "longitude": 15.145101
+    },
+    {
+      "name": "Svenstrup Fysioterapi & Fitness",
+      "latitude": 56.97283,
+      "longitude": 9.851299
+    },
+    {
+      "name": "Sønderborg City Fitness",
+      "latitude": 54.913987,
+      "longitude": 9.805663
+    },
+    {
+      "name": "Sønderborg Fitness",
+      "latitude": 54.91708,
+      "longitude": 9.811742
+    },
+    {
+      "name": "Søndersø Fysioterapi og Fitness",
+      "latitude": 55.479525,
+      "longitude": 10.250847
+    },
+    {
+      "name": "TarGet Gym",
+      "latitude": 55.633549,
+      "longitude": 12.653134
+    },
+    {
+      "name": "The Club Fitness",
+      "latitude": 55.870376,
+      "longitude": 12.354749
+    },
+    {
+      "name": "The Studio",
+      "latitude": 55.712669,
+      "longitude": 12.577804
+    },
+    {
+      "name": "The Yoga Flat",
+      "latitude": 55.672051,
+      "longitude": 12.590897
+    },
+    {
+      "name": "THEGYM Aarhus",
+      "latitude": 56.149799,
+      "longitude": 10.168959
+    },
+    {
+      "name": "THESTUDIO Aarhus",
+      "latitude": 56.149792,
+      "longitude": 10.168923
+    },
+    {
+      "name": "THIMMS",
+      "latitude": 57.038855,
+      "longitude": 9.926004
+    },
+    {
+      "name": "Thyborøn Motionscenter",
+      "latitude": 56.695365,
+      "longitude": 8.204417
+    },
+    {
+      "name": "Tiger Sport Copenhagen",
+      "latitude": 55.672219,
+      "longitude": 12.558963
+    },
+    {
+      "name": "Toftlund Fitness",
+      "latitude": 55.192946,
+      "longitude": 9.064312
+    },
+    {
+      "name": "Training for Warriors Svendborg",
+      "latitude": 55.062272,
+      "longitude": 10.620856
+    },
+    {
+      "name": "TræningsHuset - Lind",
+      "latitude": 56.110671,
+      "longitude": 8.978993
+    },
+    {
+      "name": "Ultimate Gym",
+      "latitude": 56.155496,
+      "longitude": 10.179746
+    },
+    {
+      "name": "Uma",
+      "latitude": 55.470236,
+      "longitude": 8.438517
+    },
+    {
+      "name": "UNDERGROUND FITNESS",
+      "latitude": 55.637178,
+      "longitude": 12.068858
+    },
+    {
+      "name": "Underground Yoga",
+      "latitude": 55.875274,
+      "longitude": 12.352571
+    },
+    {
+      "name": "Unlimited Performance",
+      "latitude": 57.039228,
+      "longitude": 9.929591
+    },
+    {
+      "name": "Urban Gym",
+      "latitude": 55.392847,
+      "longitude": 10.364095
+    },
+    {
+      "name": "Urban Gym",
+      "latitude": 55.487302,
+      "longitude": 9.465567
+    },
+    {
+      "name": "V. Performance",
+      "latitude": 55.659062,
+      "longitude": 12.603931
+    },
+    {
+      "name": "Vane|Stærk",
+      "latitude": 55.464189,
+      "longitude": 8.435765
+    },
+    {
+      "name": "Vane|Stærk",
+      "latitude": 55.504759,
+      "longitude": 8.403715
+    },
+    {
+      "name": "Vesterbronx",
+      "latitude": 55.672777,
+      "longitude": 12.55085
+    },
+    {
+      "name": "VICI Gym",
+      "latitude": 55.670807,
+      "longitude": 12.627365
+    },
+    {
+      "name": "Vinderup Fitness",
+      "latitude": 56.483129,
+      "longitude": 8.779235
+    },
+    {
+      "name": "Vores Fitness",
+      "latitude": 56.17143,
+      "longitude": 9.552551
+    },
+    {
+      "name": "Well B",
+      "latitude": 55.465365,
+      "longitude": 8.4495
+    },
+    {
+      "name": "Well-come Fitness og Spa",
+      "latitude": 55.726036,
+      "longitude": 12.580108
+    },
+    {
+      "name": "YO Studios",
+      "latitude": 56.152787,
+      "longitude": 10.195907
+    },
+    {
+      "name": "Yoga By Lykke",
+      "latitude": 55.472304,
+      "longitude": 8.437647
+    },
+    {
+      "name": "Yoga matha",
+      "latitude": 56.17063,
+      "longitude": 9.550636
+    },
+    {
+      "name": "Yogaloft",
+      "latitude": 55.005524,
+      "longitude": 11.965409
+    },
+    {
+      "name": "Yogamandala",
+      "latitude": 55.920271,
+      "longitude": 12.314671
+    },
+    {
+      "name": "YogaNamNam Studio",
+      "latitude": 54.985519,
+      "longitude": 12.284587
+    },
+    {
+      "name": "Yogaskolen",
+      "latitude": 56.157421,
+      "longitude": 10.201184
+    },
+    {
+      "name": "Yogastudiet",
+      "latitude": 56.218098,
+      "longitude": 10.293057
+    },
+    {
+      "name": "Yum",
+      "latitude": 55.64776,
+      "longitude": 12.55224
+    },
+    {
+      "name": "Zielke",
+      "latitude": 54.907441,
+      "longitude": 9.789669
+    }
+  ],
+  "meta": {
+    "title": "Fitnesscentre i Danmark (Fitness centres in Denmark) - Gratis download",
+    "description": "Fitness centres in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: leisure=fitness_centre. Indeholder 532 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Fitnesscentre i Danmark (Fitness centres in Denmark) | ListBase",
+    "seo_description": "Download Fitnesscentre i Danmark (Fitness centres in Denmark) — 532 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 532 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "id": "da-lolland-afstemningssteder",
+  "name": "Afstemningssteder i Lolland Kommune",
+  "title": "Afstemningssteder i Lolland Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Lolland Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Errindlev",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Holeby",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Halsted",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Sandby",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Søllested",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Maribo",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Askø",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Østofte",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Nakskov",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Birket",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "27",
+      "afstemningssted": "Fejø",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "Femø",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "29",
+      "afstemningssted": "Horslunde",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "35",
+      "afstemningssted": "Dannemare",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "36",
+      "afstemningssted": "Rødby",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "37",
+      "afstemningssted": "Rødbyhavn",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    },
+    {
+      "afstemningsomraade_kode": "38",
+      "afstemningssted": "Brandstrup",
+      "kommune_kode": 360,
+      "kommune": "Lolland",
+      "opstillingskreds_nummer": 29,
+      "opstillingskreds": "Lolland"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Lolland Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Lolland Kommune med opstillingskreds. Indeholder 17 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Lolland Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Lolland Kommune — 17 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 17 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

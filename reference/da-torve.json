@@ -1,0 +1,2288 @@
+{
+  "id": "da-torve",
+  "name": "Torve og pladser i Danmark",
+  "title": "Torve og pladser i Danmark",
+  "description": "Torve og pladser (town squares) i Danmark fra Wikidata (P31 = Q174782, P17 = Danmark) med koordinater.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 279,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q113768381",
+      "wikidata_id": "Q113768381",
+      "name_da": "A.H. Vedels Plads",
+      "name_en": "A.H. Vedels Plads",
+      "latitude": 55.6884,
+      "longitude": 12.6066
+    },
+    {
+      "id": "Q16323158",
+      "wikidata_id": "Q16323158",
+      "name_da": "Akseltorv",
+      "name_en": "Akseltorv",
+      "latitude": 55.4904,
+      "longitude": 9.4736
+    },
+    {
+      "id": "Q112664008",
+      "wikidata_id": "Q112664008",
+      "name_da": "Albani Torv",
+      "name_en": "Albani Torv",
+      "latitude": 55.3961,
+      "longitude": 10.3903
+    },
+    {
+      "id": "Q81614815",
+      "wikidata_id": "Q81614815",
+      "name_da": "Amagerbro Torv",
+      "name_en": "Amagerbro Torv",
+      "latitude": 55.6634,
+      "longitude": 12.603
+    },
+    {
+      "id": "Q4572749",
+      "wikidata_id": "Q4572749",
+      "name_da": "Amagertorv",
+      "name_en": "Amagertorv",
+      "latitude": 55.6788,
+      "longitude": 12.57916
+    },
+    {
+      "id": "Q11957655",
+      "wikidata_id": "Q11957655",
+      "name_da": "Amalienborg Slotsplads",
+      "name_en": "Amalienborg Slotsplads",
+      "latitude": 55.6839,
+      "longitude": 12.5933
+    },
+    {
+      "id": "Q11217949",
+      "wikidata_id": "Q11217949",
+      "name_da": "Amerika Plads",
+      "name_en": "Amerika Plads",
+      "latitude": 55.6997,
+      "longitude": 12.5941
+    },
+    {
+      "id": "Q41529306",
+      "wikidata_id": "Q41529306",
+      "name_da": "Anker Jørgensens Plads",
+      "name_en": "Anker Jørgensens Plads",
+      "latitude": 55.6512,
+      "longitude": 12.53655
+    },
+    {
+      "id": "Q4781321",
+      "wikidata_id": "Q4781321",
+      "name_da": "Applebys Plads",
+      "name_en": "Applebys Plads",
+      "latitude": 55.6714,
+      "longitude": 12.584
+    },
+    {
+      "id": "Q11959872",
+      "wikidata_id": "Q11959872",
+      "name_da": "Axeltorv",
+      "name_en": "Axeltorv",
+      "latitude": 55.67614,
+      "longitude": 12.56416
+    },
+    {
+      "id": "Q12302628",
+      "wikidata_id": "Q12302628",
+      "name_da": "Axeltorv",
+      "name_en": "Axeltorv",
+      "latitude": 55.2307,
+      "longitude": 11.7582
+    },
+    {
+      "id": "Q125894779",
+      "wikidata_id": "Q125894779",
+      "name_da": "Axeltorv",
+      "name_en": "Axeltorv",
+      "latitude": 54.830389,
+      "longitude": 11.135548
+    },
+    {
+      "id": "Q12302627",
+      "wikidata_id": "Q12302627",
+      "name_da": "Axeltorv",
+      "name_en": "",
+      "latitude": 55.5654,
+      "longitude": 9.75984
+    },
+    {
+      "id": "Q105977831",
+      "wikidata_id": "Q105977831",
+      "name_da": "Bag Elefanterne",
+      "name_en": "",
+      "latitude": 55.6676,
+      "longitude": 12.5327
+    },
+    {
+      "id": "Q12302776",
+      "wikidata_id": "Q12302776",
+      "name_da": "Balders Plads",
+      "name_en": "Balders Plads",
+      "latitude": 55.70134,
+      "longitude": 12.54878
+    },
+    {
+      "id": "Q12302843",
+      "wikidata_id": "Q12302843",
+      "name_da": "Banegårdspladsen",
+      "name_en": "Banegårdspladsen",
+      "latitude": 55.4006,
+      "longitude": 10.388
+    },
+    {
+      "id": "Q12302841",
+      "wikidata_id": "Q12302841",
+      "name_da": "Banegårdspladsen",
+      "name_en": "Banegårdspladsen",
+      "latitude": 56.1505,
+      "longitude": 10.2041
+    },
+    {
+      "id": "Q111897020",
+      "wikidata_id": "Q111897020",
+      "name_da": "Banegårdspladsen",
+      "name_en": "Banegårdspladsen",
+      "latitude": 56.4476,
+      "longitude": 9.3988
+    },
+    {
+      "id": "Q112862145",
+      "wikidata_id": "Q112862145",
+      "name_da": "Banegårdspladsen",
+      "name_en": "Banegårdspladsen",
+      "latitude": 55.491,
+      "longitude": 9.481
+    },
+    {
+      "id": "Q125894632",
+      "wikidata_id": "Q125894632",
+      "name_da": "Banegårdspladsen",
+      "name_en": "Banegårdspladsen",
+      "latitude": 55.7068,
+      "longitude": 9.53626
+    },
+    {
+      "id": "Q78040638",
+      "wikidata_id": "Q78040638",
+      "name_da": "Banegårdspladsen",
+      "name_en": "",
+      "latitude": 55.6732,
+      "longitude": 12.5641
+    },
+    {
+      "id": "Q81614666",
+      "wikidata_id": "Q81614666",
+      "name_da": "Bellmans Plads",
+      "name_en": "Bellmans Plads",
+      "latitude": 55.7157,
+      "longitude": 12.5721
+    },
+    {
+      "id": "Q12303102",
+      "wikidata_id": "Q12303102",
+      "name_da": "Benedikts Plads",
+      "name_en": "Benedikts Plads",
+      "latitude": 55.3929,
+      "longitude": 10.397
+    },
+    {
+      "id": "Q12001802",
+      "wikidata_id": "Q12001802",
+      "name_da": "Bent Fabricius-Bjerres Plads",
+      "name_en": "",
+      "latitude": 55.6812,
+      "longitude": 12.5303
+    },
+    {
+      "id": "Q12303249",
+      "wikidata_id": "Q12303249",
+      "name_da": "Bergsøes Plads",
+      "name_en": "",
+      "latitude": 55.373,
+      "longitude": 10.3834
+    },
+    {
+      "id": "Q3375895",
+      "wikidata_id": "Q3375895",
+      "name_da": "Bertel Thorvaldsens Plads",
+      "name_en": "Bertel Thorvaldsens Plads",
+      "latitude": 55.6763,
+      "longitude": 12.5773
+    },
+    {
+      "id": "Q110636215",
+      "wikidata_id": "Q110636215",
+      "name_da": "Bispebjerg Torv",
+      "name_en": "Bispebjerg Torv",
+      "latitude": 55.7166,
+      "longitude": 12.5309
+    },
+    {
+      "id": "Q3378448",
+      "wikidata_id": "Q3378448",
+      "name_da": "Bispetorv",
+      "name_en": "Bispetorv",
+      "latitude": 55.6792,
+      "longitude": 12.5717
+    },
+    {
+      "id": "Q12303617",
+      "wikidata_id": "Q12303617",
+      "name_da": "Bispetorvet",
+      "name_en": "Bispetorv",
+      "latitude": 56.15643,
+      "longitude": 10.21028
+    },
+    {
+      "id": "Q4930917",
+      "wikidata_id": "Q4930917",
+      "name_da": "Blågårds Plads",
+      "name_en": "Blågårds Plads",
+      "latitude": 55.6865,
+      "longitude": 12.5571
+    },
+    {
+      "id": "Q81614499",
+      "wikidata_id": "Q81614499",
+      "name_da": "Bopa Plads",
+      "name_en": "Bopa Plads",
+      "latitude": 55.7052,
+      "longitude": 12.5811
+    },
+    {
+      "id": "Q78634952",
+      "wikidata_id": "Q78634952",
+      "name_da": "Borgmester Godskesens Plads",
+      "name_en": "",
+      "latitude": 55.6756,
+      "longitude": 12.506
+    },
+    {
+      "id": "Q62655222",
+      "wikidata_id": "Q62655222",
+      "name_da": "Borups Plads",
+      "name_en": "Borups Plads",
+      "latitude": 55.6913,
+      "longitude": 12.5393
+    },
+    {
+      "id": "Q12304451",
+      "wikidata_id": "Q12304451",
+      "name_da": "Brummers Plads",
+      "name_en": "Brummers Plads",
+      "latitude": 55.3977,
+      "longitude": 10.37
+    },
+    {
+      "id": "Q91353169",
+      "wikidata_id": "Q91353169",
+      "name_da": "Bryggernes Plads",
+      "name_en": "Bryggernes Plads",
+      "latitude": 55.6667,
+      "longitude": 12.5325
+    },
+    {
+      "id": "Q57516692",
+      "wikidata_id": "Q57516692",
+      "name_da": "Bryghuspladsen",
+      "name_en": "Bryghuspladsen",
+      "latitude": 55.67238,
+      "longitude": 12.57869
+    },
+    {
+      "id": "Q12304580",
+      "wikidata_id": "Q12304580",
+      "name_da": "Brønshøj Torv",
+      "name_en": "Brønshøj Square",
+      "latitude": 55.7042,
+      "longitude": 12.4982
+    },
+    {
+      "id": "Q90405087",
+      "wikidata_id": "Q90405087",
+      "name_da": "C.W. Obels Plads",
+      "name_en": "C.W. Obels Plads",
+      "latitude": 57.048819,
+      "longitude": 9.919771
+    },
+    {
+      "id": "Q63364199",
+      "wikidata_id": "Q63364199",
+      "name_da": "Ceres Pladsen",
+      "name_en": "Ceres Pladsen",
+      "latitude": 56.1568,
+      "longitude": 10.1935
+    },
+    {
+      "id": "Q77257687",
+      "wikidata_id": "Q77257687",
+      "name_da": "Charlotte Ammundsens Plads",
+      "name_en": "Charlotte Ammundsens Plads",
+      "latitude": 55.6836,
+      "longitude": 12.5641
+    },
+    {
+      "id": "Q66292421",
+      "wikidata_id": "Q66292421",
+      "name_da": "Christian Kiers Plads",
+      "name_en": "Christian Kiers Plads",
+      "latitude": 56.1452,
+      "longitude": 10.1907
+    },
+    {
+      "id": "Q12306257",
+      "wikidata_id": "Q12306257",
+      "name_da": "Christiansborg Ridebane",
+      "name_en": "Christiansborg Ridebane",
+      "latitude": 55.6754,
+      "longitude": 12.5783
+    },
+    {
+      "id": "Q5110637",
+      "wikidata_id": "Q5110637",
+      "name_da": "Christiansborg Slotsplads",
+      "name_en": "Christiansborg Slotsplads",
+      "latitude": 55.6765,
+      "longitude": 12.5812
+    },
+    {
+      "id": "Q3366249",
+      "wikidata_id": "Q3366249",
+      "name_da": "Christianshavns Torv",
+      "name_en": "Christianshavns Torv",
+      "latitude": 55.6721,
+      "longitude": 12.5914
+    },
+    {
+      "id": "Q12306304",
+      "wikidata_id": "Q12306304",
+      "name_da": "Christmas Møllers Plads",
+      "name_en": "Christmas Møllers Plads",
+      "latitude": 55.6686,
+      "longitude": 12.5963
+    },
+    {
+      "id": "Q5212207",
+      "wikidata_id": "Q5212207",
+      "name_da": "Damhustorvet",
+      "name_en": "Damhustorvet",
+      "latitude": 55.6722,
+      "longitude": 12.4731
+    },
+    {
+      "id": "Q12307119",
+      "wikidata_id": "Q12307119",
+      "name_da": "Dan Turèlls Plads",
+      "name_en": "Dan Turèlls Plads",
+      "latitude": 55.7518,
+      "longitude": 12.5191
+    },
+    {
+      "id": "Q74234696",
+      "wikidata_id": "Q74234696",
+      "name_da": "Danas Plads",
+      "name_en": "Danas Plads",
+      "latitude": 55.678729,
+      "longitude": 12.553343
+    },
+    {
+      "id": "Q107242063",
+      "wikidata_id": "Q107242063",
+      "name_da": "Dannebrogspladsen",
+      "name_en": "",
+      "latitude": 57.0535,
+      "longitude": 9.905
+    },
+    {
+      "id": "Q12307746",
+      "wikidata_id": "Q12307746",
+      "name_da": "Dantes Plads",
+      "name_en": "Dantes Plads",
+      "latitude": 55.6735,
+      "longitude": 12.5735
+    },
+    {
+      "id": "Q98658948",
+      "wikidata_id": "Q98658948",
+      "name_da": "Den Røde Plads",
+      "name_en": "The Red Square",
+      "latitude": 55.69945,
+      "longitude": 12.54236
+    },
+    {
+      "id": "Q98658520",
+      "wikidata_id": "Q98658520",
+      "name_da": "Den Sorte Plads",
+      "name_en": "The Black Square",
+      "latitude": 55.70117,
+      "longitude": 12.54267
+    },
+    {
+      "id": "Q61060148",
+      "wikidata_id": "Q61060148",
+      "name_da": "Domkirkepladsen",
+      "name_en": "Domkirkepladsen",
+      "latitude": 56.157,
+      "longitude": 10.2106
+    },
+    {
+      "id": "Q74525191",
+      "wikidata_id": "Q74525191",
+      "name_da": "Domkirkepladsen",
+      "name_en": "Cathedral Square",
+      "latitude": 55.6427,
+      "longitude": 12.0796
+    },
+    {
+      "id": "Q100927915",
+      "wikidata_id": "Q100927915",
+      "name_da": "Domkirkepladsen",
+      "name_en": "Domkirkepladsen",
+      "latitude": 55.24955,
+      "longitude": 9.48742
+    },
+    {
+      "id": "Q17165570",
+      "wikidata_id": "Q17165570",
+      "name_da": "Eidsvoll Plads",
+      "name_en": "Eidsvoll Plads",
+      "latitude": 55.6908,
+      "longitude": 12.5878
+    },
+    {
+      "id": "Q110322127",
+      "wikidata_id": "Q110322127",
+      "name_da": "Eik Skaløes Plads",
+      "name_en": "",
+      "latitude": 55.6829,
+      "longitude": 12.6069
+    },
+    {
+      "id": "Q81614457",
+      "wikidata_id": "Q81614457",
+      "name_da": "Emdrup Torv",
+      "name_en": "Emdrup Torv",
+      "latitude": 55.7227,
+      "longitude": 12.5298
+    },
+    {
+      "id": "Q81614839",
+      "wikidata_id": "Q81614839",
+      "name_da": "Energiens Torv",
+      "name_en": "Energiens Torv",
+      "latitude": 55.6816,
+      "longitude": 12.5563
+    },
+    {
+      "id": "Q11967560",
+      "wikidata_id": "Q11967560",
+      "name_da": "Enghave Plads",
+      "name_en": "Enghave Plads",
+      "latitude": 55.6671,
+      "longitude": 12.5451
+    },
+    {
+      "id": "Q62059897",
+      "wikidata_id": "Q62059897",
+      "name_da": "Europaplads",
+      "name_en": "Europaplads",
+      "latitude": 56.1528,
+      "longitude": 10.2125
+    },
+    {
+      "id": "Q81614647",
+      "wikidata_id": "Q81614647",
+      "name_da": "Falkoner Plads",
+      "name_en": "Falkoner Plads",
+      "latitude": 55.6805,
+      "longitude": 12.5308
+    },
+    {
+      "id": "Q20033252",
+      "wikidata_id": "Q20033252",
+      "name_da": "Farvergården",
+      "name_en": "Farvergården",
+      "latitude": 55.395416,
+      "longitude": 10.380861
+    },
+    {
+      "id": "Q12299954",
+      "wikidata_id": "Q12299954",
+      "name_da": "Femte Maj Plads",
+      "name_en": "",
+      "latitude": 55.062,
+      "longitude": 10.5856
+    },
+    {
+      "id": "Q12311520",
+      "wikidata_id": "Q12311520",
+      "name_da": "Flakhaven",
+      "name_en": "Flakhaven",
+      "latitude": 55.3959,
+      "longitude": 10.3882
+    },
+    {
+      "id": "Q112133945",
+      "wikidata_id": "Q112133945",
+      "name_da": "Folmer Bendtsens Plads",
+      "name_en": "Folmer Bendtsens Plads",
+      "latitude": 55.700234,
+      "longitude": 12.538165
+    },
+    {
+      "id": "Q99641204",
+      "wikidata_id": "Q99641204",
+      "name_da": "Franciska Clausens Plads",
+      "name_en": "Franciska Clausens Plads",
+      "latitude": 55.6662,
+      "longitude": 12.5341
+    },
+    {
+      "id": "Q61953769",
+      "wikidata_id": "Q61953769",
+      "name_da": "Fredens Torv",
+      "name_en": "Fredens Torv",
+      "latitude": 56.154,
+      "longitude": 10.2098
+    },
+    {
+      "id": "Q12312638",
+      "wikidata_id": "Q12312638",
+      "name_da": "Frederik III's Plads",
+      "name_en": "",
+      "latitude": 55.5689,
+      "longitude": 9.7495
+    },
+    {
+      "id": "Q19562246",
+      "wikidata_id": "Q19562246",
+      "name_da": "Frederiks Plads",
+      "name_en": "Frederiks Plads",
+      "latitude": 56.149,
+      "longitude": 10.2088
+    },
+    {
+      "id": "Q5499325",
+      "wikidata_id": "Q5499325",
+      "name_da": "Frederiksberg Runddel",
+      "name_en": "Frederiksberg Runddel",
+      "latitude": 55.6748,
+      "longitude": 12.5319
+    },
+    {
+      "id": "Q65554804",
+      "wikidata_id": "Q65554804",
+      "name_da": "Frederiksberg Rådhusplads",
+      "name_en": "Frederiksberg Rådhusplads",
+      "latitude": 55.678,
+      "longitude": 12.5326
+    },
+    {
+      "id": "Q62415397",
+      "wikidata_id": "Q62415397",
+      "name_da": "Frederiksbjerg Torv",
+      "name_en": "Frederiksbjerg Torv",
+      "latitude": 56.14615,
+      "longitude": 10.19265
+    },
+    {
+      "id": "Q77326311",
+      "wikidata_id": "Q77326311",
+      "name_da": "Fredrik Bajers Plads",
+      "name_en": "Fredrik Bajers Plads",
+      "latitude": 55.6963,
+      "longitude": 12.5615
+    },
+    {
+      "id": "Q81614547",
+      "wikidata_id": "Q81614547",
+      "name_da": "Fridtjof Nansens Plads",
+      "name_en": "Fridtjof Nansens Plads",
+      "latitude": 55.6964,
+      "longitude": 12.5905
+    },
+    {
+      "id": "Q66304437",
+      "wikidata_id": "Q66304437",
+      "name_da": "Frue Kirkeplads",
+      "name_en": "Frue Kirkeplads",
+      "latitude": 56.1578,
+      "longitude": 10.2049
+    },
+    {
+      "id": "Q15221151",
+      "wikidata_id": "Q15221151",
+      "name_da": "Frue Plads",
+      "name_en": "Frue Plads",
+      "latitude": 55.6796,
+      "longitude": 12.5725
+    },
+    {
+      "id": "Q62084466",
+      "wikidata_id": "Q62084466",
+      "name_da": "Gaasetorvet",
+      "name_en": "Gaasetorvet",
+      "latitude": 54.9369,
+      "longitude": 10.7083
+    },
+    {
+      "id": "Q3434140",
+      "wikidata_id": "Q3434140",
+      "name_da": "Gammel Strand",
+      "name_en": "Gammel Strand",
+      "latitude": 55.6775,
+      "longitude": 12.5781
+    },
+    {
+      "id": "Q12313501",
+      "wikidata_id": "Q12313501",
+      "name_da": "Gammeltorv",
+      "name_en": "Gammeltorv",
+      "latitude": 57.0481,
+      "longitude": 9.92
+    },
+    {
+      "id": "Q3289837",
+      "wikidata_id": "Q3289837",
+      "name_da": "Gammeltorv",
+      "name_en": "Gammeltorv",
+      "latitude": 55.678056,
+      "longitude": 12.572222
+    },
+    {
+      "id": "Q102292769",
+      "wikidata_id": "Q102292769",
+      "name_da": "Gammeltorv",
+      "name_en": "Gammeltorv",
+      "latitude": 55.2539,
+      "longitude": 11.2874
+    },
+    {
+      "id": "Q57547049",
+      "wikidata_id": "Q57547049",
+      "name_da": "Georg Brandes Plads",
+      "name_en": "Georg Brandes Plads",
+      "latitude": 55.68748,
+      "longitude": 12.5785
+    },
+    {
+      "id": "Q65554757",
+      "wikidata_id": "Q65554757",
+      "name_da": "Georg Carstensens Plads",
+      "name_en": "",
+      "latitude": 55.6774,
+      "longitude": 12.5327
+    },
+    {
+      "id": "Q107302305",
+      "wikidata_id": "Q107302305",
+      "name_da": "Giørtz Plads",
+      "name_en": "Giørtz Plads",
+      "latitude": 55.329,
+      "longitude": 8.7687
+    },
+    {
+      "id": "Q95101137",
+      "wikidata_id": "Q95101137",
+      "name_da": "Gravene",
+      "name_en": "Gravene",
+      "latitude": 55.2514,
+      "longitude": 9.4869
+    },
+    {
+      "id": "Q65666102",
+      "wikidata_id": "Q65666102",
+      "name_da": "Grev Zinzendorfs Plads",
+      "name_en": "Grev Zinzendorfs Plads",
+      "latitude": 55.3557,
+      "longitude": 9.4814
+    },
+    {
+      "id": "Q12314430",
+      "wikidata_id": "Q12314430",
+      "name_da": "Gråbrødre Plads",
+      "name_en": "Gråbrødre Plads",
+      "latitude": 55.3966,
+      "longitude": 10.3863
+    },
+    {
+      "id": "Q105622648",
+      "wikidata_id": "Q105622648",
+      "name_da": "Gråbrødre Torv",
+      "name_en": "Gråbrødre Torv",
+      "latitude": 55.3278,
+      "longitude": 8.758
+    },
+    {
+      "id": "Q4572693",
+      "wikidata_id": "Q4572693",
+      "name_da": "Gråbrødretorv",
+      "name_en": "Gråbrødretorv",
+      "latitude": 55.679722,
+      "longitude": 12.575833
+    },
+    {
+      "id": "Q24263813",
+      "wikidata_id": "Q24263813",
+      "name_da": "Grønlandske Handels Plads",
+      "name_en": "Grønlandske Handels Plads",
+      "latitude": 55.678034,
+      "longitude": 12.597297
+    },
+    {
+      "id": "Q22916523",
+      "wikidata_id": "Q22916523",
+      "name_da": "Guldbergs Plads",
+      "name_en": "Guldbergs Plads",
+      "latitude": 55.69715,
+      "longitude": 12.55395
+    },
+    {
+      "id": "Q12314642",
+      "wikidata_id": "Q12314642",
+      "name_da": "Gunnar Nu Hansens Plads",
+      "name_en": "Gunnar Nu Hansens Plads",
+      "latitude": 55.7049,
+      "longitude": 12.5745
+    },
+    {
+      "id": "Q131395031",
+      "wikidata_id": "Q131395031",
+      "name_da": "Gåsetorvet",
+      "name_en": "",
+      "latitude": 54.831801,
+      "longitude": 11.132915
+    },
+    {
+      "id": "Q21853581",
+      "wikidata_id": "Q21853581",
+      "name_da": "Göteborg Plads",
+      "name_en": "Göteborg Plads",
+      "latitude": 55.70676,
+      "longitude": 12.59703
+    },
+    {
+      "id": "Q12314830",
+      "wikidata_id": "Q12314830",
+      "name_da": "H.C. Andersens Torv",
+      "name_en": "H.C. Andersens Torv",
+      "latitude": 55.3992,
+      "longitude": 10.392
+    },
+    {
+      "id": "Q87279856",
+      "wikidata_id": "Q87279856",
+      "name_da": "Hack Kampmanns Plads",
+      "name_en": "Hack Kampmanns Plads",
+      "latitude": 56.1545,
+      "longitude": 10.213
+    },
+    {
+      "id": "Q5643290",
+      "wikidata_id": "Q5643290",
+      "name_da": "Halmtorvet",
+      "name_en": "Halmtorvet",
+      "latitude": 55.6699,
+      "longitude": 12.5595
+    },
+    {
+      "id": "Q110867054",
+      "wikidata_id": "Q110867054",
+      "name_da": "Halmtorvet",
+      "name_en": "Halmtorvet",
+      "latitude": 55.676111,
+      "longitude": 12.569722
+    },
+    {
+      "id": "Q21869997",
+      "wikidata_id": "Q21869997",
+      "name_da": "Hamborg Plads",
+      "name_en": "Hamborg Plads",
+      "latitude": 55.70765,
+      "longitude": 12.59687
+    },
+    {
+      "id": "Q12315446",
+      "wikidata_id": "Q12315446",
+      "name_da": "Hans Knudsens Plads",
+      "name_en": "Hans Knudsens Plads",
+      "latitude": 55.7129,
+      "longitude": 12.5607
+    },
+    {
+      "id": "Q12315652",
+      "wikidata_id": "Q12315652",
+      "name_da": "Harald Jensens Plads",
+      "name_en": "Harald Jensens Plads",
+      "latitude": 56.1439,
+      "longitude": 10.1892
+    },
+    {
+      "id": "Q81614748",
+      "wikidata_id": "Q81614748",
+      "name_da": "Haralds Plads",
+      "name_en": "Haralds Plads",
+      "latitude": 55.7085,
+      "longitude": 12.5583
+    },
+    {
+      "id": "Q12315777",
+      "wikidata_id": "Q12315777",
+      "name_da": "Hasle Torv",
+      "name_en": "Hasle Torv",
+      "latitude": 56.1675,
+      "longitude": 10.1637
+    },
+    {
+      "id": "Q12315814",
+      "wikidata_id": "Q12315814",
+      "name_da": "Hauges Plads",
+      "name_en": "Hauges Plads",
+      "latitude": 55.394,
+      "longitude": 10.3512
+    },
+    {
+      "id": "Q11974521",
+      "wikidata_id": "Q11974521",
+      "name_da": "Hauser Plads",
+      "name_en": "Hauser Plads",
+      "latitude": 55.6827,
+      "longitude": 12.5756
+    },
+    {
+      "id": "Q125894755",
+      "wikidata_id": "Q125894755",
+      "name_da": "Havnepladsen",
+      "name_en": "Havnepladsen",
+      "latitude": 54.93807,
+      "longitude": 10.70686
+    },
+    {
+      "id": "Q116860286",
+      "wikidata_id": "Q116860286",
+      "name_da": "Helle Gotveds Plads",
+      "name_en": "",
+      "latitude": 55.684005,
+      "longitude": 12.543901
+    },
+    {
+      "id": "Q12316603",
+      "wikidata_id": "Q12316603",
+      "name_da": "Herman Triers Plads",
+      "name_en": "",
+      "latitude": 55.6824,
+      "longitude": 12.5554
+    },
+    {
+      "id": "Q57599421",
+      "wikidata_id": "Q57599421",
+      "name_da": "Hestetorvet",
+      "name_en": "Hestetorvet",
+      "latitude": 55.64018,
+      "longitude": 12.08859
+    },
+    {
+      "id": "Q55776578",
+      "wikidata_id": "Q55776578",
+      "name_da": "Hjalmar Brantings Plads",
+      "name_en": "Hjalmar Brantings Plads",
+      "latitude": 55.692199,
+      "longitude": 12.581683
+    },
+    {
+      "id": "Q111897425",
+      "wikidata_id": "Q111897425",
+      "name_da": "Hjultorv",
+      "name_en": "Hjultorv",
+      "latitude": 55.2315,
+      "longitude": 11.7582
+    },
+    {
+      "id": "Q111897028",
+      "wikidata_id": "Q111897028",
+      "name_da": "Hjultorvet",
+      "name_en": "Hjultorvet",
+      "latitude": 56.4499,
+      "longitude": 9.4085
+    },
+    {
+      "id": "Q12317328",
+      "wikidata_id": "Q12317328",
+      "name_da": "Hothers Plads",
+      "name_en": "Hothers Plads",
+      "latitude": 55.701744,
+      "longitude": 12.541183
+    },
+    {
+      "id": "Q12317436",
+      "wikidata_id": "Q12317436",
+      "name_da": "Humletorv",
+      "name_en": "Humletorv",
+      "latitude": 54.9074,
+      "longitude": 9.78824
+    },
+    {
+      "id": "Q12317501",
+      "wikidata_id": "Q12317501",
+      "name_da": "Husum Torv",
+      "name_en": "Husum Square",
+      "latitude": 55.7118,
+      "longitude": 12.4722
+    },
+    {
+      "id": "Q3434130",
+      "wikidata_id": "Q3434130",
+      "name_da": "Højbro Plads",
+      "name_en": "Højbro Plads",
+      "latitude": 55.678333,
+      "longitude": 12.58
+    },
+    {
+      "id": "Q12317879",
+      "wikidata_id": "Q12317879",
+      "name_da": "I. Vilh. Werners Plads",
+      "name_en": "I. Vilh. Werners Plads",
+      "latitude": 55.3964,
+      "longitude": 10.3899
+    },
+    {
+      "id": "Q57548799",
+      "wikidata_id": "Q57548799",
+      "name_da": "Indre Slotsgård",
+      "name_en": "Indre Slotsgård",
+      "latitude": 55.676066,
+      "longitude": 12.579991
+    },
+    {
+      "id": "Q81614860",
+      "wikidata_id": "Q81614860",
+      "name_da": "Industrikulturens Plads",
+      "name_en": "Industrikulturens Plads",
+      "latitude": 55.6676,
+      "longitude": 12.5326
+    },
+    {
+      "id": "Q4964733",
+      "wikidata_id": "Q4964733",
+      "name_da": "Israels Plads",
+      "name_en": "Israels Plads",
+      "latitude": 55.683,
+      "longitude": 12.5684
+    },
+    {
+      "id": "Q12318661",
+      "wikidata_id": "Q12318661",
+      "name_da": "Israels Plads",
+      "name_en": "Israels Plads",
+      "latitude": 55.398,
+      "longitude": 10.3479
+    },
+    {
+      "id": "Q112862090",
+      "wikidata_id": "Q112862090",
+      "name_da": "J. Lauritzens Plads",
+      "name_en": "J. Lauritzens Plads",
+      "latitude": 55.3306,
+      "longitude": 8.7676
+    },
+    {
+      "id": "Q6160356",
+      "wikidata_id": "Q6160356",
+      "name_da": "Jarmers Plads",
+      "name_en": "Jarmers Plads",
+      "latitude": 55.6788,
+      "longitude": 12.5656
+    },
+    {
+      "id": "Q81614774",
+      "wikidata_id": "Q81614774",
+      "name_da": "Jens Nielsens Plads",
+      "name_en": "Jens Nielsens Plads",
+      "latitude": 55.7154,
+      "longitude": 12.578
+    },
+    {
+      "id": "Q107650451",
+      "wikidata_id": "Q107650451",
+      "name_da": "Jens Otto Krags Plads",
+      "name_en": "",
+      "latitude": 56.461,
+      "longitude": 10.0418
+    },
+    {
+      "id": "Q114832773",
+      "wikidata_id": "Q114832773",
+      "name_da": "Jesper Kleins Plads",
+      "name_en": "Jesper Kleins Plads",
+      "latitude": 55.68457,
+      "longitude": 12.50277
+    },
+    {
+      "id": "Q57564741",
+      "wikidata_id": "Q57564741",
+      "name_da": "Jette Tikjøbs Plads",
+      "name_en": "Jette Tikjøbs Plads",
+      "latitude": 56.16734,
+      "longitude": 10.22803
+    },
+    {
+      "id": "Q62059973",
+      "wikidata_id": "Q62059973",
+      "name_da": "Joh. Baunes Plads",
+      "name_en": "",
+      "latitude": 56.1412,
+      "longitude": 10.1949
+    },
+    {
+      "id": "Q12320173",
+      "wikidata_id": "Q12320173",
+      "name_da": "John F. Kennedys Plads",
+      "name_en": "John F. Kennedys Plads",
+      "latitude": 57.0431,
+      "longitude": 9.91806
+    },
+    {
+      "id": "Q22661832",
+      "wikidata_id": "Q22661832",
+      "name_da": "Julius Thomsens Plads",
+      "name_en": "Julius Thomsens Plads",
+      "latitude": 55.68095,
+      "longitude": 12.5534
+    },
+    {
+      "id": "Q88449768",
+      "wikidata_id": "Q88449768",
+      "name_da": "Karen Blixens Plads",
+      "name_en": "Karen Blixens Plads",
+      "latitude": 55.6618,
+      "longitude": 12.5889
+    },
+    {
+      "id": "Q12321789",
+      "wikidata_id": "Q12321789",
+      "name_da": "Kildegårds Plads",
+      "name_en": "",
+      "latitude": 55.7382,
+      "longitude": 12.5397
+    },
+    {
+      "id": "Q71270244",
+      "wikidata_id": "Q71270244",
+      "name_da": "Kirkepladsen",
+      "name_en": "Kirkepladsen",
+      "latitude": 54.9364,
+      "longitude": 8.8708
+    },
+    {
+      "id": "Q107204975",
+      "wikidata_id": "Q107204975",
+      "name_da": "Kirkepladsen",
+      "name_en": "Kirkepladsen",
+      "latitude": 55.099,
+      "longitude": 14.69724
+    },
+    {
+      "id": "Q111897411",
+      "wikidata_id": "Q111897411",
+      "name_da": "Kirketorvet",
+      "name_en": "Kirketorvet",
+      "latitude": 55.7075,
+      "longitude": 9.534
+    },
+    {
+      "id": "Q136026204",
+      "wikidata_id": "Q136026204",
+      "name_da": "Klostertorvet",
+      "name_en": "",
+      "latitude": 56.15829,
+      "longitude": 10.20623
+    },
+    {
+      "id": "Q1589941",
+      "wikidata_id": "Q1589941",
+      "name_da": "Kongens Nytorv",
+      "name_en": "Kongens Nytorv",
+      "latitude": 55.680278,
+      "longitude": 12.585833
+    },
+    {
+      "id": "Q64075589",
+      "wikidata_id": "Q64075589",
+      "name_da": "Krakas Plads",
+      "name_en": "Krakas Plads",
+      "latitude": 55.7061,
+      "longitude": 12.552
+    },
+    {
+      "id": "Q21065210",
+      "wikidata_id": "Q21065210",
+      "name_da": "Kristian Zahrtmanns Plads",
+      "name_en": "Kristian Zahrtmanns Plads",
+      "latitude": 55.69248,
+      "longitude": 12.52685
+    },
+    {
+      "id": "Q12323100",
+      "wikidata_id": "Q12323100",
+      "name_da": "Kultorvet",
+      "name_en": "Kultorvet",
+      "latitude": 55.6824,
+      "longitude": 12.574
+    },
+    {
+      "id": "Q12323255",
+      "wikidata_id": "Q12323255",
+      "name_da": "Kvægtorvet",
+      "name_en": "Kvægtorvet",
+      "latitude": 55.2328,
+      "longitude": 11.7614
+    },
+    {
+      "id": "Q23754122",
+      "wikidata_id": "Q23754122",
+      "name_da": "Langelands Plads",
+      "name_en": "Langelandsplads",
+      "latitude": 55.68522,
+      "longitude": 12.52967
+    },
+    {
+      "id": "Q121597109",
+      "wikidata_id": "Q121597109",
+      "name_da": "Lille Torv",
+      "name_en": "Lille Torv",
+      "latitude": 56.158891,
+      "longitude": 10.191604
+    },
+    {
+      "id": "Q28224925",
+      "wikidata_id": "Q28224925",
+      "name_da": "Lille Torv",
+      "name_en": "Lille Torv",
+      "latitude": 56.1576,
+      "longitude": 10.2072
+    },
+    {
+      "id": "Q107204971",
+      "wikidata_id": "Q107204971",
+      "name_da": "Lille Torv",
+      "name_en": "Lille Torv",
+      "latitude": 55.10069,
+      "longitude": 14.70083
+    },
+    {
+      "id": "Q12324460",
+      "wikidata_id": "Q12324460",
+      "name_da": "Lille Triangel",
+      "name_en": "Lille Triangel",
+      "latitude": 55.696,
+      "longitude": 12.5799
+    },
+    {
+      "id": "Q124806331",
+      "wikidata_id": "Q124806331",
+      "name_da": "Lyngby Torv",
+      "name_en": "",
+      "latitude": 55.769814,
+      "longitude": 12.502797
+    },
+    {
+      "id": "Q64519379",
+      "wikidata_id": "Q64519379",
+      "name_da": "Lyngsies Plads",
+      "name_en": "",
+      "latitude": 55.7014,
+      "longitude": 12.5376
+    },
+    {
+      "id": "Q11987737",
+      "wikidata_id": "Q11987737",
+      "name_da": "Magasins Torv",
+      "name_en": "Magasin Square",
+      "latitude": 55.6795,
+      "longitude": 12.5827
+    },
+    {
+      "id": "Q114832727",
+      "wikidata_id": "Q114832727",
+      "name_da": "Marguerite Vibys Plads",
+      "name_en": "Marguerite Vibys Plads",
+      "latitude": 55.68391,
+      "longitude": 12.50487
+    },
+    {
+      "id": "Q62060212",
+      "wikidata_id": "Q62060212",
+      "name_da": "Marienlund",
+      "name_en": "Marienlund",
+      "latitude": 56.1773,
+      "longitude": 10.2186
+    },
+    {
+      "id": "Q57461134",
+      "wikidata_id": "Q57461134",
+      "name_da": "Mathilde Fibigers Have",
+      "name_en": "Mathilde Fibigers Have",
+      "latitude": 56.15735,
+      "longitude": 10.21118
+    },
+    {
+      "id": "Q81614523",
+      "wikidata_id": "Q81614523",
+      "name_da": "Melchiors Plads",
+      "name_en": "Melchiors Plads",
+      "latitude": 55.7034,
+      "longitude": 12.5854
+    },
+    {
+      "id": "Q113968600",
+      "wikidata_id": "Q113968600",
+      "name_da": "Mimers Plads",
+      "name_en": "Mimers Plads",
+      "latitude": 55.700948,
+      "longitude": 12.538942
+    },
+    {
+      "id": "Q62606688",
+      "wikidata_id": "Q62606688",
+      "name_da": "Mozarts Plads",
+      "name_en": "Mozarts Plads",
+      "latitude": 55.6487,
+      "longitude": 12.534
+    },
+    {
+      "id": "Q16324164",
+      "wikidata_id": "Q16324164",
+      "name_da": "Musikkens Plads",
+      "name_en": "",
+      "latitude": 57.0478,
+      "longitude": 9.9341
+    },
+    {
+      "id": "Q100927926",
+      "wikidata_id": "Q100927926",
+      "name_da": "Møllepladsen",
+      "name_en": "Møllepladsen",
+      "latitude": 55.24802,
+      "longitude": 9.48907
+    },
+    {
+      "id": "Q21250772",
+      "wikidata_id": "Q21250772",
+      "name_da": "Nikolaj Plads",
+      "name_en": "Nikolaj Plads",
+      "latitude": 55.67883,
+      "longitude": 12.58121
+    },
+    {
+      "id": "Q66363949",
+      "wikidata_id": "Q66363949",
+      "name_da": "Nina Bangs Plads",
+      "name_en": "Nina Bangs Plads",
+      "latitude": 55.681829,
+      "longitude": 12.577716
+    },
+    {
+      "id": "Q134995498",
+      "wikidata_id": "Q134995498",
+      "name_da": "Nordens Plads",
+      "name_en": "",
+      "latitude": 55.67086,
+      "longitude": 12.50208
+    },
+    {
+      "id": "Q81614623",
+      "wikidata_id": "Q81614623",
+      "name_da": "Nordhavns Plads",
+      "name_en": "Nordhavns Plads",
+      "latitude": 55.7085,
+      "longitude": 12.5927
+    },
+    {
+      "id": "Q85621714",
+      "wikidata_id": "Q85621714",
+      "name_da": "Nuuks Plads",
+      "name_en": "Nuuks Plads",
+      "latitude": 55.688567,
+      "longitude": 12.542703
+    },
+    {
+      "id": "Q20742907",
+      "wikidata_id": "Q20742907",
+      "name_da": "Nyboder Plads",
+      "name_en": "Nyboder Plads",
+      "latitude": 55.68939,
+      "longitude": 12.58616
+    },
+    {
+      "id": "Q12329509",
+      "wikidata_id": "Q12329509",
+      "name_da": "Nytorv",
+      "name_en": "Nytorv",
+      "latitude": 57.0478,
+      "longitude": 9.92444
+    },
+    {
+      "id": "Q3289863",
+      "wikidata_id": "Q3289863",
+      "name_da": "Nytorv",
+      "name_en": "Nytorv",
+      "latitude": 55.6776,
+      "longitude": 12.573
+    },
+    {
+      "id": "Q63978717",
+      "wikidata_id": "Q63978717",
+      "name_da": "Nytorv",
+      "name_en": "Nytorv",
+      "latitude": 56.4508,
+      "longitude": 9.4097
+    },
+    {
+      "id": "Q12329706",
+      "wikidata_id": "Q12329706",
+      "name_da": "Nørrebros Runddel",
+      "name_en": "Nørrebros Runddel",
+      "latitude": 55.6943,
+      "longitude": 12.5488
+    },
+    {
+      "id": "Q104523962",
+      "wikidata_id": "Q104523962",
+      "name_da": "Odins Plads",
+      "name_en": "Odins Plads",
+      "latitude": 55.328,
+      "longitude": 8.7692
+    },
+    {
+      "id": "Q12329915",
+      "wikidata_id": "Q12329915",
+      "name_da": "Ofelia Plads",
+      "name_en": "Ofelia Plads",
+      "latitude": 55.6813,
+      "longitude": 12.5955
+    },
+    {
+      "id": "Q12330304",
+      "wikidata_id": "Q12330304",
+      "name_da": "Onkel Dannys Plads",
+      "name_en": "Onkel Dannys Plads",
+      "latitude": 55.6698,
+      "longitude": 12.5607
+    },
+    {
+      "id": "Q7107042",
+      "wikidata_id": "Q7107042",
+      "name_da": "Oslo Plads",
+      "name_en": "Oslo Plads",
+      "latitude": 55.6923,
+      "longitude": 12.5867
+    },
+    {
+      "id": "Q94967445",
+      "wikidata_id": "Q94967445",
+      "name_da": "Ottilia Jacobsens Plads",
+      "name_en": "",
+      "latitude": 55.66725,
+      "longitude": 12.53113
+    },
+    {
+      "id": "Q81614479",
+      "wikidata_id": "Q81614479",
+      "name_da": "Otto Mønsteds Plads",
+      "name_en": "Otto Mønsteds Plads",
+      "latitude": 55.6707,
+      "longitude": 12.5739
+    },
+    {
+      "id": "Q12330678",
+      "wikidata_id": "Q12330678",
+      "name_da": "Ove Rodes Plads",
+      "name_en": "Ove Rodes Plads",
+      "latitude": 55.7074,
+      "longitude": 12.57301
+    },
+    {
+      "id": "Q12330681",
+      "wikidata_id": "Q12330681",
+      "name_da": "Ove Sprogøes Plads",
+      "name_en": "Ove Sprogøes Plads",
+      "latitude": 55.39607,
+      "longitude": 10.38599
+    },
+    {
+      "id": "Q101987917",
+      "wikidata_id": "Q101987917",
+      "name_da": "P. Nørkjærs Plads",
+      "name_en": "P. Nørkjærs Plads",
+      "latitude": 57.4604,
+      "longitude": 9.9877
+    },
+    {
+      "id": "Q133798499",
+      "wikidata_id": "Q133798499",
+      "name_da": "Palæstinas Plads",
+      "name_en": "",
+      "latitude": 55.698168,
+      "longitude": 12.541355
+    },
+    {
+      "id": "Q81614796",
+      "wikidata_id": "Q81614796",
+      "name_da": "Polititorvet",
+      "name_en": "Polititorvet",
+      "latitude": 55.6702,
+      "longitude": 12.5712
+    },
+    {
+      "id": "Q12332168",
+      "wikidata_id": "Q12332168",
+      "name_da": "Poul Henningsens Plads",
+      "name_en": "Poul Henningsens Plads",
+      "latitude": 55.7086,
+      "longitude": 12.577
+    },
+    {
+      "id": "Q111897022",
+      "wikidata_id": "Q111897022",
+      "name_da": "Preislers Plads",
+      "name_en": "Preislers Plads",
+      "latitude": 56.4501,
+      "longitude": 9.4063
+    },
+    {
+      "id": "Q12332361",
+      "wikidata_id": "Q12332361",
+      "name_da": "Prins Jørgens Gård",
+      "name_en": "Prins Jørgens Gård",
+      "latitude": 55.67664,
+      "longitude": 12.57925
+    },
+    {
+      "id": "Q112862144",
+      "wikidata_id": "Q112862144",
+      "name_da": "Raadhustorvet",
+      "name_en": "Raadhustorvet",
+      "latitude": 56.7963,
+      "longitude": 8.8612
+    },
+    {
+      "id": "Q16335302",
+      "wikidata_id": "Q16335302",
+      "name_da": "Regnbuepladsen",
+      "name_en": "Regnbuepladsen",
+      "latitude": 55.67569,
+      "longitude": 12.57114
+    },
+    {
+      "id": "Q66057891",
+      "wikidata_id": "Q66057891",
+      "name_da": "Richard Petersens Plads",
+      "name_en": "Richard Petersens Plads",
+      "latitude": 55.78332,
+      "longitude": 12.51746
+    },
+    {
+      "id": "Q12333473",
+      "wikidata_id": "Q12333473",
+      "name_da": "Rigsdagsgården",
+      "name_en": "Rigsdagsgården",
+      "latitude": 55.67546,
+      "longitude": 12.58063
+    },
+    {
+      "id": "Q12333752",
+      "wikidata_id": "Q12333752",
+      "name_da": "Rosenborg Eksercerplads",
+      "name_en": "",
+      "latitude": 55.6847,
+      "longitude": 12.5758
+    },
+    {
+      "id": "Q2178686",
+      "wikidata_id": "Q2178686",
+      "name_da": "Rådhuspladsen",
+      "name_en": "City Hall Square",
+      "latitude": 55.67606,
+      "longitude": 12.568826
+    },
+    {
+      "id": "Q125894761",
+      "wikidata_id": "Q125894761",
+      "name_da": "Rådhuspladsen",
+      "name_en": "Rådhuspladsen",
+      "latitude": 57.44095,
+      "longitude": 10.53379
+    },
+    {
+      "id": "Q61355734",
+      "wikidata_id": "Q61355734",
+      "name_da": "Rådhuspladsen",
+      "name_en": "Rådhuspladsen",
+      "latitude": 56.153,
+      "longitude": 10.203
+    },
+    {
+      "id": "Q12334084",
+      "wikidata_id": "Q12334084",
+      "name_da": "Rådhustorvet",
+      "name_en": "Rådhustorvet",
+      "latitude": 54.909,
+      "longitude": 9.789
+    },
+    {
+      "id": "Q98103043",
+      "wikidata_id": "Q98103043",
+      "name_da": "Rådhustorvet",
+      "name_en": "Rådhustorvet",
+      "latitude": 56.4608,
+      "longitude": 10.0366
+    },
+    {
+      "id": "Q111961938",
+      "wikidata_id": "Q111961938",
+      "name_da": "Sanct Peders Kirkeplads",
+      "name_en": "",
+      "latitude": 55.2298,
+      "longitude": 11.7575
+    },
+    {
+      "id": "Q3365803",
+      "wikidata_id": "Q3365803",
+      "name_da": "Sankt Annæ Plads",
+      "name_en": "Sankt Annæ Plads",
+      "latitude": 55.6818,
+      "longitude": 12.5905
+    },
+    {
+      "id": "Q7418759",
+      "wikidata_id": "Q7418759",
+      "name_da": "Sankt Hans Torv",
+      "name_en": "Sankt Hans Torv",
+      "latitude": 55.6908,
+      "longitude": 12.5607
+    },
+    {
+      "id": "Q12068230",
+      "wikidata_id": "Q12068230",
+      "name_da": "Sankt Jakobs Plads",
+      "name_en": "Sankt Jakobs Plads",
+      "latitude": 55.7032,
+      "longitude": 12.5778
+    },
+    {
+      "id": "Q81614689",
+      "wikidata_id": "Q81614689",
+      "name_da": "Sankt Kjelds Plads",
+      "name_en": "Sankt Kjelds Plads",
+      "latitude": 55.7107,
+      "longitude": 12.5649
+    },
+    {
+      "id": "Q104295748",
+      "wikidata_id": "Q104295748",
+      "name_da": "Sankt Markus Plads",
+      "name_en": "Sankt Markus Plads",
+      "latitude": 55.6798,
+      "longitude": 12.5529
+    },
+    {
+      "id": "Q21749216",
+      "wikidata_id": "Q21749216",
+      "name_da": "Sankt Pauls Plads",
+      "name_en": "Sankt Pauls Plads",
+      "latitude": 55.68765,
+      "longitude": 12.58677
+    },
+    {
+      "id": "Q21869436",
+      "wikidata_id": "Q21869436",
+      "name_da": "Sankt Petersborg Plads",
+      "name_en": "Sankt Petersborg Plads",
+      "latitude": 55.70739,
+      "longitude": 12.59811
+    },
+    {
+      "id": "Q7418767",
+      "wikidata_id": "Q7418767",
+      "name_da": "Sankt Thomas Plads",
+      "name_en": "Sankt Thomas Plads",
+      "latitude": 55.6733,
+      "longitude": 12.547
+    },
+    {
+      "id": "Q65007897",
+      "wikidata_id": "Q65007897",
+      "name_da": "Sifs Plads",
+      "name_en": "Sifs Plads",
+      "latitude": 55.7035,
+      "longitude": 12.5573
+    },
+    {
+      "id": "Q81614589",
+      "wikidata_id": "Q81614589",
+      "name_da": "Silkeborg Plads",
+      "name_en": "Silkeborg Plads",
+      "latitude": 55.7049,
+      "longitude": 12.5851
+    },
+    {
+      "id": "Q112960278",
+      "wikidata_id": "Q112960278",
+      "name_da": "Skjolds Plads",
+      "name_en": "Skjolds Plads",
+      "latitude": 55.703551,
+      "longitude": 12.549559
+    },
+    {
+      "id": "Q17165685",
+      "wikidata_id": "Q17165685",
+      "name_da": "Skodapladsen",
+      "name_en": "",
+      "latitude": 55.70149,
+      "longitude": 12.53689
+    },
+    {
+      "id": "Q12335763",
+      "wikidata_id": "Q12335763",
+      "name_da": "Skoletorvet",
+      "name_en": "Skoletorvet",
+      "latitude": 56.1664,
+      "longitude": 9.545
+    },
+    {
+      "id": "Q62071752",
+      "wikidata_id": "Q62071752",
+      "name_da": "Skt. Clemens Torv",
+      "name_en": "Skt. Clemens Torv",
+      "latitude": 56.1565,
+      "longitude": 10.2092
+    },
+    {
+      "id": "Q12336093",
+      "wikidata_id": "Q12336093",
+      "name_da": "Slotspladsen",
+      "name_en": "",
+      "latitude": 57.0503,
+      "longitude": 9.92361
+    },
+    {
+      "id": "Q81614726",
+      "wikidata_id": "Q81614726",
+      "name_da": "Sløjfen",
+      "name_en": "Sløjfen",
+      "latitude": 55.6791,
+      "longitude": 12.5122
+    },
+    {
+      "id": "Q106604814",
+      "wikidata_id": "Q106604814",
+      "name_da": "Smedetorvet",
+      "name_en": "Smedetorvet",
+      "latitude": 55.3299,
+      "longitude": 8.7664
+    },
+    {
+      "id": "Q12336509",
+      "wikidata_id": "Q12336509",
+      "name_da": "Sortebrødre Torv",
+      "name_en": "Sortebrødre Torv",
+      "latitude": 55.3984,
+      "longitude": 10.3922
+    },
+    {
+      "id": "Q78775307",
+      "wikidata_id": "Q78775307",
+      "name_da": "Springvandspladsen",
+      "name_en": "Springvandspladsen",
+      "latitude": 57.46,
+      "longitude": 9.9868
+    },
+    {
+      "id": "Q64152223",
+      "wikidata_id": "Q64152223",
+      "name_da": "Staunings Plads",
+      "name_en": "Staunings Plads",
+      "latitude": 55.678,
+      "longitude": 12.563
+    },
+    {
+      "id": "Q105306390",
+      "wikidata_id": "Q105306390",
+      "name_da": "Steen Billes Torv",
+      "name_en": "Steen Billes Torv",
+      "latitude": 56.1734,
+      "longitude": 10.2149
+    },
+    {
+      "id": "Q114832795",
+      "wikidata_id": "Q114832795",
+      "name_da": "Stig Lommers Plads",
+      "name_en": "Stig Lommers Plads",
+      "latitude": 55.68516,
+      "longitude": 12.49966
+    },
+    {
+      "id": "Q125916361",
+      "wikidata_id": "Q125916361",
+      "name_da": "Stjernepladsen",
+      "name_en": "",
+      "latitude": 56.1743,
+      "longitude": 10.2029
+    },
+    {
+      "id": "Q28224921",
+      "wikidata_id": "Q28224921",
+      "name_da": "Store Torv",
+      "name_en": "Store Torv",
+      "latitude": 56.157,
+      "longitude": 10.2095
+    },
+    {
+      "id": "Q107204972",
+      "wikidata_id": "Q107204972",
+      "name_da": "Store Torv",
+      "name_en": "Store Torv",
+      "latitude": 55.102,
+      "longitude": 14.69907
+    },
+    {
+      "id": "Q100989164",
+      "wikidata_id": "Q100989164",
+      "name_da": "Storegade",
+      "name_en": "Storegade",
+      "latitude": 54.98539,
+      "longitude": 12.28729
+    },
+    {
+      "id": "Q67401643",
+      "wikidata_id": "Q67401643",
+      "name_da": "Storetorv",
+      "name_en": "Storetorv",
+      "latitude": 55.0423,
+      "longitude": 9.4184
+    },
+    {
+      "id": "Q63224858",
+      "wikidata_id": "Q63224858",
+      "name_da": "Stændertorvet",
+      "name_en": "Stændertorvet",
+      "latitude": 55.6413,
+      "longitude": 12.0809
+    },
+    {
+      "id": "Q17312511",
+      "wikidata_id": "Q17312511",
+      "name_da": "Sundbyvester Plads",
+      "name_en": "Sundbyvester Plads",
+      "latitude": 55.64645,
+      "longitude": 12.61385
+    },
+    {
+      "id": "Q108124953",
+      "wikidata_id": "Q108124953",
+      "name_da": "Svend Aukens Plads",
+      "name_en": "Svend Aukens Plads",
+      "latitude": 55.6647,
+      "longitude": 12.5848
+    },
+    {
+      "id": "Q109323693",
+      "wikidata_id": "Q109323693",
+      "name_da": "Søborg Torv",
+      "name_en": "",
+      "latitude": 55.73707,
+      "longitude": 12.50763
+    },
+    {
+      "id": "Q126729767",
+      "wikidata_id": "Q126729767",
+      "name_da": "Søltofts Plads",
+      "name_en": "Søltofts Plads",
+      "latitude": 55.78863,
+      "longitude": 12.52121
+    },
+    {
+      "id": "Q12338344",
+      "wikidata_id": "Q12338344",
+      "name_da": "Sølvtorvet",
+      "name_en": "Sølvtorvet",
+      "latitude": 55.68941,
+      "longitude": 12.57451
+    },
+    {
+      "id": "Q7666566",
+      "wikidata_id": "Q7666566",
+      "name_da": "Søren Kierkegaards Plads",
+      "name_en": "Søren Kierkegaards Plads",
+      "latitude": 55.67309,
+      "longitude": 12.58077
+    },
+    {
+      "id": "Q3359396",
+      "wikidata_id": "Q3359396",
+      "name_da": "Søtorvet",
+      "name_en": "Søtorvet",
+      "latitude": 55.6861,
+      "longitude": 12.5653
+    },
+    {
+      "id": "Q122168652",
+      "wikidata_id": "Q122168652",
+      "name_da": "Telefontorvet",
+      "name_en": "Telefontorvet",
+      "latitude": 56.158739,
+      "longitude": 10.193245
+    },
+    {
+      "id": "Q67221849",
+      "wikidata_id": "Q67221849",
+      "name_da": "Telefontorvet",
+      "name_en": "Telefontorvet",
+      "latitude": 56.1555,
+      "longitude": 10.2068
+    },
+    {
+      "id": "Q94967485",
+      "wikidata_id": "Q94967485",
+      "name_da": "Thorvald Bindesbølls Plads",
+      "name_en": "",
+      "latitude": 55.6685,
+      "longitude": 12.5354
+    },
+    {
+      "id": "Q46247889",
+      "wikidata_id": "Q46247889",
+      "name_da": "Tietgens Plads",
+      "name_en": "Tietgens Plads",
+      "latitude": 56.144515,
+      "longitude": 10.203457
+    },
+    {
+      "id": "Q120076063",
+      "wikidata_id": "Q120076063",
+      "name_da": "Tine Brylds Plads",
+      "name_en": "Tine Brylds Plads",
+      "latitude": 55.681792,
+      "longitude": 12.552661
+    },
+    {
+      "id": "Q12343225",
+      "wikidata_id": "Q12343225",
+      "name_da": "Toftegårds Plads",
+      "name_en": "Toftegårds Plads",
+      "latitude": 55.6621,
+      "longitude": 12.5172
+    },
+    {
+      "id": "Q104153485",
+      "wikidata_id": "Q104153485",
+      "name_da": "Toldbod Plads",
+      "name_en": "Toldbod Plads",
+      "latitude": 57.0502,
+      "longitude": 9.923
+    },
+    {
+      "id": "Q12323447",
+      "wikidata_id": "Q12323447",
+      "name_da": "Torvet",
+      "name_en": "Køge Torv",
+      "latitude": 55.4566,
+      "longitude": 12.1813
+    },
+    {
+      "id": "Q15955235",
+      "wikidata_id": "Q15955235",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 56.7167,
+      "longitude": 10.1152
+    },
+    {
+      "id": "Q109380248",
+      "wikidata_id": "Q109380248",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 56.15922,
+      "longitude": 10.192379
+    },
+    {
+      "id": "Q111897058",
+      "wikidata_id": "Q111897058",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 55.9296,
+      "longitude": 12.3029
+    },
+    {
+      "id": "Q111897418",
+      "wikidata_id": "Q111897418",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 55.426,
+      "longitude": 9.2827
+    },
+    {
+      "id": "Q112862082",
+      "wikidata_id": "Q112862082",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 54.9218,
+      "longitude": 9.5939
+    },
+    {
+      "id": "Q112862086",
+      "wikidata_id": "Q112862086",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 54.7742,
+      "longitude": 11.5017
+    },
+    {
+      "id": "Q112862118",
+      "wikidata_id": "Q112862118",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 54.9363,
+      "longitude": 10.7104
+    },
+    {
+      "id": "Q22956506",
+      "wikidata_id": "Q22956506",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 54.7678,
+      "longitude": 11.8675
+    },
+    {
+      "id": "Q112862120",
+      "wikidata_id": "Q112862120",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 54.9625,
+      "longitude": 8.6972
+    },
+    {
+      "id": "Q125894758",
+      "wikidata_id": "Q125894758",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 55.8398,
+      "longitude": 12.0606
+    },
+    {
+      "id": "Q133138739",
+      "wikidata_id": "Q133138739",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 55.506006,
+      "longitude": 9.730509
+    },
+    {
+      "id": "Q64224689",
+      "wikidata_id": "Q64224689",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 56.0903,
+      "longitude": 8.2438
+    },
+    {
+      "id": "Q66098690",
+      "wikidata_id": "Q66098690",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 55.4663,
+      "longitude": 8.452
+    },
+    {
+      "id": "Q66501593",
+      "wikidata_id": "Q66501593",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 55.3281,
+      "longitude": 8.7621
+    },
+    {
+      "id": "Q69480619",
+      "wikidata_id": "Q69480619",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 55.4318,
+      "longitude": 11.5553
+    },
+    {
+      "id": "Q69873224",
+      "wikidata_id": "Q69873224",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 55.6202,
+      "longitude": 8.48
+    },
+    {
+      "id": "Q71253617",
+      "wikidata_id": "Q71253617",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 54.936,
+      "longitude": 8.8702
+    },
+    {
+      "id": "Q75019266",
+      "wikidata_id": "Q75019266",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 55.6803,
+      "longitude": 11.0839
+    },
+    {
+      "id": "Q100927894",
+      "wikidata_id": "Q100927894",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 55.249,
+      "longitude": 9.4879
+    },
+    {
+      "id": "Q108385320",
+      "wikidata_id": "Q108385320",
+      "name_da": "Torvet",
+      "name_en": "Torvet",
+      "latitude": 55.9722,
+      "longitude": 12.0218
+    },
+    {
+      "id": "Q133869851",
+      "wikidata_id": "Q133869851",
+      "name_da": "Torvet",
+      "name_en": "",
+      "latitude": 55.445283,
+      "longitude": 11.788924
+    },
+    {
+      "id": "Q105194525",
+      "wikidata_id": "Q105194525",
+      "name_da": "Torvet",
+      "name_en": "",
+      "latitude": 55.9719,
+      "longitude": 10.1469
+    },
+    {
+      "id": "Q12339755",
+      "wikidata_id": "Q12339755",
+      "name_da": "Trianglen",
+      "name_en": "Trianglen",
+      "latitude": 55.6993,
+      "longitude": 12.5774
+    },
+    {
+      "id": "Q16324819",
+      "wikidata_id": "Q16324819",
+      "name_da": "Trondhjems Plads",
+      "name_en": "Trondhjems Plads",
+      "latitude": 55.69417,
+      "longitude": 12.58847
+    },
+    {
+      "id": "Q81614709",
+      "wikidata_id": "Q81614709",
+      "name_da": "Tåsinge Plads",
+      "name_en": "Tåsinge Plads",
+      "latitude": 55.71,
+      "longitude": 12.5684
+    },
+    {
+      "id": "Q75803920",
+      "wikidata_id": "Q75803920",
+      "name_da": "Ulrikkenborg Plads",
+      "name_en": "Ulrikkenborg Plads",
+      "latitude": 55.7675,
+      "longitude": 12.5021
+    },
+    {
+      "id": "Q61982584",
+      "wikidata_id": "Q61982584",
+      "name_da": "Under Krystallen",
+      "name_en": "Under Krystallen",
+      "latitude": 55.6703,
+      "longitude": 12.5746
+    },
+    {
+      "id": "Q24053218",
+      "wikidata_id": "Q24053218",
+      "name_da": "Valby Tingsted",
+      "name_en": "Valby Tingsted",
+      "latitude": 55.66566,
+      "longitude": 12.51443
+    },
+    {
+      "id": "Q12340524",
+      "wikidata_id": "Q12340524",
+      "name_da": "Vandkunsten",
+      "name_en": "Vandkunsten",
+      "latitude": 55.67613,
+      "longitude": 12.57427
+    },
+    {
+      "id": "Q12340782",
+      "wikidata_id": "Q12340782",
+      "name_da": "Vesterbro Torv",
+      "name_en": "Vesterbro Torv",
+      "latitude": 56.1581,
+      "longitude": 10.1989
+    },
+    {
+      "id": "Q7923418",
+      "wikidata_id": "Q7923418",
+      "name_da": "Vesterbros Torv",
+      "name_en": "Vesterbros Torv",
+      "latitude": 55.6721,
+      "longitude": 12.5552
+    },
+    {
+      "id": "Q12340879",
+      "wikidata_id": "Q12340879",
+      "name_da": "Vibenshus Runddel",
+      "name_en": "Vibenshus Runddel",
+      "latitude": 55.7064,
+      "longitude": 12.5629
+    },
+    {
+      "id": "Q16324997",
+      "wikidata_id": "Q16324997",
+      "name_da": "Viby Torv",
+      "name_en": "Viby Torv",
+      "latitude": 56.12891,
+      "longitude": 10.16357
+    },
+    {
+      "id": "Q7925740",
+      "wikidata_id": "Q7925740",
+      "name_da": "Victor Borges Plads",
+      "name_en": "Victor Borges Plads",
+      "latitude": 55.7015,
+      "longitude": 12.5807
+    },
+    {
+      "id": "Q87066714",
+      "wikidata_id": "Q87066714",
+      "name_da": "Von Støckens Plads",
+      "name_en": "Von Støckens Plads",
+      "latitude": 55.3277,
+      "longitude": 8.7629
+    },
+    {
+      "id": "Q12341725",
+      "wikidata_id": "Q12341725",
+      "name_da": "Yrsa Plads",
+      "name_en": "Yrsa Plads",
+      "latitude": 55.6653,
+      "longitude": 12.558
+    },
+    {
+      "id": "Q12341785",
+      "wikidata_id": "Q12341785",
+      "name_da": "Åbyhøj Torv",
+      "name_en": "Åbyhøj Torv",
+      "latitude": 56.1556,
+      "longitude": 10.1692
+    },
+    {
+      "id": "Q81614606",
+      "wikidata_id": "Q81614606",
+      "name_da": "Ålholm Plads",
+      "name_en": "Ålholm Plads",
+      "latitude": 55.6722,
+      "longitude": 12.4892
+    },
+    {
+      "id": "Q81614571",
+      "wikidata_id": "Q81614571",
+      "name_da": "Århus Plads",
+      "name_en": "Århus Plads",
+      "latitude": 55.7067,
+      "longitude": 12.583
+    },
+    {
+      "id": "Q12341895",
+      "wikidata_id": "Q12341895",
+      "name_da": "Æggetorvet",
+      "name_en": "Æggetorvet",
+      "latitude": 55.6825,
+      "longitude": 12.5713
+    },
+    {
+      "id": "Q12342081",
+      "wikidata_id": "Q12342081",
+      "name_da": "Østbanetorvet",
+      "name_en": "Østbanetorvet",
+      "latitude": 56.1634,
+      "longitude": 10.2155
+    },
+    {
+      "id": "Q8079249",
+      "wikidata_id": "Q8079249",
+      "name_da": "Østerfælled Torv",
+      "name_en": "Østerfælled Torv",
+      "latitude": 55.7058,
+      "longitude": 12.576
+    },
+    {
+      "id": "Q125930269",
+      "wikidata_id": "Q125930269",
+      "name_da": "Østre Landsrets Plads",
+      "name_en": "",
+      "latitude": 55.711651,
+      "longitude": 12.593077
+    }
+  ],
+  "meta": {
+    "title": "Torve og pladser i Danmark - Gratis download",
+    "description": "Torve og pladser (town squares) i Danmark fra Wikidata (P31 = Q174782, P17 = Danmark) med koordinater. Indeholder 279 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Torve og pladser i Danmark | ListBase",
+    "seo_description": "Download Torve og pladser i Danmark — 279 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 279 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "da-datofelter-sat",
+  "name": "Relative datofelter: lørdag (CLDR da)",
+  "title": "Relative datofelter: lørdag (CLDR da)",
+  "description": "CLDR-navne for datofeltet 'lørdag' (sat) i standard-, kort- og smal-bredde.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "felt_kode",
+      "label": "Felt Kode",
+      "type": "string"
+    },
+    {
+      "key": "felt",
+      "label": "Felt",
+      "type": "string"
+    },
+    {
+      "key": "bredde",
+      "label": "Bredde",
+      "type": "string"
+    },
+    {
+      "key": "displaynavn",
+      "label": "Displaynavn",
+      "type": "string"
+    },
+    {
+      "key": "relativ_minus2",
+      "label": "Relativ Minus2",
+      "type": "string"
+    },
+    {
+      "key": "relativ_minus1",
+      "label": "Relativ Minus1",
+      "type": "string"
+    },
+    {
+      "key": "relativ_0",
+      "label": "Relativ 0",
+      "type": "string"
+    },
+    {
+      "key": "relativ_plus1",
+      "label": "Relativ Plus1",
+      "type": "string"
+    },
+    {
+      "key": "relativ_plus2",
+      "label": "Relativ Plus2",
+      "type": "string"
+    },
+    {
+      "key": "fremtid_en",
+      "label": "Fremtid En",
+      "type": "string"
+    },
+    {
+      "key": "fremtid_flere",
+      "label": "Fremtid Flere",
+      "type": "string"
+    },
+    {
+      "key": "fortid_en",
+      "label": "Fortid En",
+      "type": "string"
+    },
+    {
+      "key": "fortid_flere",
+      "label": "Fortid Flere",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "felt_kode": "sat",
+      "felt": "sat",
+      "bredde": "standard",
+      "displaynavn": "",
+      "relativ_minus2": "",
+      "relativ_minus1": "sidste lørdag",
+      "relativ_0": "på lørdag",
+      "relativ_plus1": "på lørdag",
+      "relativ_plus2": "",
+      "fremtid_en": "om {0} lørdag",
+      "fremtid_flere": "om {0} lørdage",
+      "fortid_en": "for {0} lørdag siden",
+      "fortid_flere": "for {0} lørdage siden"
+    },
+    {
+      "id": 2,
+      "felt_kode": "sat-short",
+      "felt": "sat",
+      "bredde": "short",
+      "displaynavn": "",
+      "relativ_minus2": "",
+      "relativ_minus1": "sidste lør.",
+      "relativ_0": "på lør.",
+      "relativ_plus1": "på lør.",
+      "relativ_plus2": "",
+      "fremtid_en": "om {0} lør.",
+      "fremtid_flere": "om {0} lør.",
+      "fortid_en": "{0} lør. siden",
+      "fortid_flere": "{0} lør. siden"
+    },
+    {
+      "id": 3,
+      "felt_kode": "sat-narrow",
+      "felt": "sat",
+      "bredde": "narrow",
+      "displaynavn": "",
+      "relativ_minus2": "",
+      "relativ_minus1": "sidste lø.",
+      "relativ_0": "på lø.",
+      "relativ_plus1": "på lø.",
+      "relativ_plus2": "",
+      "fremtid_en": "om {0} lø.",
+      "fremtid_flere": "om {0} lø.",
+      "fortid_en": "{0} lø. siden",
+      "fortid_flere": "{0} lø. siden"
+    }
+  ],
+  "meta": {
+    "title": "Relative datofelter: lørdag (CLDR da) - Gratis download",
+    "description": "CLDR-navne for datofeltet 'lørdag' (sat) i standard-, kort- og smal-bredde. Indeholder 3 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Relative datofelter: lørdag (CLDR da) | ListBase",
+    "seo_description": "Download Relative datofelter: lørdag (CLDR da) — 3 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 3 poster / 14 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

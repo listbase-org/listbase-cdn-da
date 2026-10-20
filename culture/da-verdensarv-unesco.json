@@ -1,0 +1,241 @@
+{
+  "id": "da-verdensarv-unesco",
+  "name": "Verdensarv i Danmark",
+  "title": "Verdensarv i Danmark",
+  "description": "Liste over UNESCOs verdensarvssteder i Danmark",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Jelling Mounds, Runic Stones and Church",
+      "category": "Cultural",
+      "date_inscribed": 1994,
+      "criteria": "(iii)",
+      "region": "Europe and North America",
+      "states": "Denmark",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 55.756389,
+      "longitude": 9.42,
+      "short_description": "The Jelling burial mounds and one of the runic stones are striking examples of pagan Nordic culture, while the other runic stone and the church illustrate the Christianization of the Danish people towards the middle of the 10th century.",
+      "id_number": 697,
+      "url": "https://whc.unesco.org/en/list/697"
+    },
+    {
+      "name": "Roskilde Cathedral",
+      "category": "Cultural",
+      "date_inscribed": 1995,
+      "criteria": "(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Denmark",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 55.642222,
+      "longitude": 12.079722,
+      "short_description": "Built in the 12th and 13th centuries, this was Scandinavia's first Gothic cathedral to be built of brick and it encouraged the spread of this style throughout northern Europe. It has been the mausoleum of the Danish royal family since the 15th century. Porches and side chapels were added up to the end of the 19th century. Thus it provides a clear overview of the development of European religious architecture.",
+      "id_number": 695,
+      "url": "https://whc.unesco.org/en/list/695"
+    },
+    {
+      "name": "Kronborg Castle",
+      "category": "Cultural",
+      "date_inscribed": 2000,
+      "criteria": "(iv)",
+      "region": "Europe and North America",
+      "states": "Denmark",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 56.03889,
+      "longitude": 12.620833,
+      "short_description": "Located on a strategically important site commanding the Sund, the stretch of water between Denmark and Sweden, the Royal castle of Kronborg at Helsingør (Elsinore) is of immense symbolic value to the Danish people and played a key role in the history of northern Europe in the 16th-18th centuries. Work began on the construction of this outstanding Renaissance castle in 1574, and its defences were reinforced according to the canons of the period's military architecture in the late 17th century. It has remained intact to the present day. It is world-renowned as Elsinore, the setting of Shakespeare's Hamlet.",
+      "id_number": 696,
+      "url": "https://whc.unesco.org/en/list/696"
+    },
+    {
+      "name": "Ilulissat Icefjord",
+      "category": "Natural",
+      "date_inscribed": 2004,
+      "criteria": "(vii)(viii)",
+      "region": "Europe and North America",
+      "states": "Denmark",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 69.133333,
+      "longitude": -49.5,
+      "short_description": "Located on the west coast of Greenland, 250 km north of the Arctic Circle, Greenland’s Ilulissat Icefjord is the sea mouth of Sermeq Kujalleq, one of the few glaciers through which the Greenland ice cap reaches the sea. Sermeq Kujalleq is one of the fastest and most active glaciers in the world. It annually calves over 35 km3 of ice, i.e. 10% of the production of all Greenland calf ice and more than any other glacier outside Antarctica. Studied for over 250 years, it has helped to develop our understanding of climate change and icecap glaciology. The combination of a huge ice-sheet and the dramatic sounds of a fast-moving glacial ice-stream calving into a fjord covered by icebergs makes for a dramatic and awe-inspiring natural phenomenon.",
+      "id_number": 1149,
+      "url": "https://whc.unesco.org/en/list/1149"
+    },
+    {
+      "name": "Wadden Sea",
+      "category": "Natural",
+      "date_inscribed": 2009,
+      "criteria": "(viii)(ix)(x)",
+      "region": "Europe and North America",
+      "states": "Denmark, Germany, Netherlands",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 53.528611,
+      "longitude": 8.556111,
+      "short_description": "The Wadden Sea is the largest unbroken system of intertidal sand and mud flats in the world. The site covers the Dutch Wadden Sea Conservation Area, the German Wadden Sea National Parks of Lower Saxony and Schleswig-Holstein, and most of the Danish Wadden Sea maritime conservation area. It is a large, temperate, relatively flat coastal wetland environment, formed by the intricate interactions between physical and biological factors that have given rise to a multitude of transitional habitats with tidal channels, sandy shoals, sea-grass meadows, mussel beds, sandbars, mudflats, salt marshes, estuaries, beaches and dunes. The area is home to numerous plant and animal species, including marine mammals such as the harbour seal, grey seal and harbour porpoise. Wadden Sea is one of the last remaining large-scale, intertidal ecosystems where natural processes continue to function largely undisturbed.",
+      "id_number": 1314,
+      "url": "https://whc.unesco.org/en/list/1314"
+    },
+    {
+      "name": "Stevns Klint",
+      "category": "Natural",
+      "date_inscribed": 2014,
+      "criteria": "(viii)",
+      "region": "Europe and North America",
+      "states": "Denmark",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 55.267222,
+      "longitude": 12.423333,
+      "short_description": "This geological site comprises a 15 km-long fossil-rich coastal cliff, offering exceptional evidence of the impact of the Chicxulub meteorite that crashed into the planet at the end of the Cretaceous, about 65 million years ago. Researchers think that this caused the most remarkable mass extinction ever, responsible for the disappearance of over 50 per cent of all life on Earth. The site harbours a record of the cloud of ash formed by the impact of the meteorite – the exact site being at the bottom of the ocean off the coast of Mexico’s Yucatán Peninsula. An exceptional fossil record is visible at the site, showing the complete succession of fauna and micro-fauna charting the recovery after the mass extinction.",
+      "id_number": 1416,
+      "url": "https://whc.unesco.org/en/list/1416"
+    },
+    {
+      "name": "Christiansfeld, a Moravian Church Settlement",
+      "category": "Cultural",
+      "date_inscribed": 2015,
+      "criteria": "(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Denmark",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 55.355556,
+      "longitude": 9.481389,
+      "short_description": "Founded in 1773 in South Jutland, the site is an example of a planned settlement of the Moravian Church, a Lutheran free congregation centred in Herrnhut, Saxony. The town was planned to represent the Protestant urban ideal, constructed around a central Church square. The architecture is homogenous and unadorned, with one and two-storey buildings in yellow brick with red tile roofs. The democratic organization of the Moravian Church, with its pioneering egalitarian philosophy, is expressed in its humanistic town planning. The settlement’s plan opens onto agricultural land and includes important buildings for the common welfare such as large communal houses for the congregation’s widows and unmarried men and women. The buildings are still in use and many are still owned by the local Moravian Church community .",
+      "id_number": 1468,
+      "url": "https://whc.unesco.org/en/list/1468"
+    },
+    {
+      "name": "The par force hunting landscape in North Zealand",
+      "category": "Cultural",
+      "date_inscribed": 2015,
+      "criteria": "(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Denmark",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 55.913611,
+      "longitude": 12.357778,
+      "short_description": "Located about 30 km northeast of Copenhagen, this cultural landscape encompasses the two hunting forests of Store Dyrehave and Gribskov, as well as the hunting park of Jægersborg Hegn/Jægersborg Dyrehave. This is a designed landscape where Danish kings and their court practiced par force hunting, or hunting with hounds, which reached its peak between the 17th and the late 18th centuries, when the absloute monarchs transformed it into a landscape of power. With hunting lanes laid out in a star system, combined with an orthogonal grid pattern, numbered stone posts, fences and a hunting lodge, the site demonstrates the application of Baroque landscaping principles to forested areas.",
+      "id_number": 1469,
+      "url": "https://whc.unesco.org/en/list/1469"
+    },
+    {
+      "name": "Kujataa Greenland: Norse and Inuit Farming at the Edge of the Ice Cap",
+      "category": "Cultural",
+      "date_inscribed": 2017,
+      "criteria": "(v)",
+      "region": "Europe and North America",
+      "states": "Denmark",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 61.164444,
+      "longitude": -45.598056,
+      "short_description": "Kujataa is a subarctic farming landscape located in the southern region of Greenland. It bears witness to the cultural histories of the Norse farmer-hunters who started arriving from Iceland in the 10th century and of the Inuit hunters and Inuit farming communities that developed from the end of the 18th century. Despite their differences, the two cultures, European Norse and Inuit, created a cultural landscape based on farming, grazing and marine mammal hunting. The landscape represents the earliest introduction of farming to the Arctic, and the Norse expansion of settlement beyond Europe.",
+      "id_number": 1536,
+      "url": "https://whc.unesco.org/en/list/1536"
+    },
+    {
+      "name": "Aasivissuit – Nipisat. Inuit Hunting Ground between Ice and Sea",
+      "category": "Cultural",
+      "date_inscribed": 2018,
+      "criteria": "(v)",
+      "region": "Europe and North America",
+      "states": "Denmark",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 67.063931,
+      "longitude": -51.433206,
+      "short_description": "Located inside the Arctic Circle in the central part of West Greenland, the property contains the remains of 4,200 years of human history. It is a cultural landscape which bears witness to its creators’ hunting of land and sea animals, seasonal migrations and a rich and well-preserved tangible and intangible cultural heritage linked to climate, navigation and medicine. The features of the property include large winter houses and evidence of caribou hunting, as well as archaeological sites from Paleo-Inuit and Inuit cultures. The cultural landscape includes seven key localities, from Nipisat in the west to Aasivissuit, near the ice cap in the east. It bears testimony to the resilience of the human cultures of the region and their traditions of seasonal migration.",
+      "id_number": 1557,
+      "url": "https://whc.unesco.org/en/list/1557"
+    }
+  ],
+  "meta": {
+    "title": "Verdensarv i Danmark - Gratis download",
+    "description": "Liste over UNESCOs verdensarvssteder i Danmark Indeholder 10 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Verdensarv i Danmark | ListBase",
+    "seo_description": "Download Verdensarv i Danmark — 10 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 10 poster / 13 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

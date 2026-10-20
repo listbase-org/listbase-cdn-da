@@ -1,0 +1,2861 @@
+{
+  "id": "da-delikatesseforretninger",
+  "name": "Delikatesseforretninger i Danmark (Delicatessens in Denmark)",
+  "title": "Delikatesseforretninger i Danmark (Delicatessens in Denmark)",
+  "description": "Delicatessens in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=deli.",
+  "category": "food",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 564,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "(VICINO)",
+      "latitude": 55.687698,
+      "longitude": 12.529137
+    },
+    {
+      "name": "4050 SDU - Milestone Deli",
+      "latitude": 55.368677,
+      "longitude": 10.428154
+    },
+    {
+      "name": "4050 SDU - Retro Deli",
+      "latitude": 55.368728,
+      "longitude": 10.428157
+    },
+    {
+      "name": "A'Puteca",
+      "latitude": 55.711007,
+      "longitude": 9.535551
+    },
+    {
+      "name": "Aamanns",
+      "latitude": 55.689897,
+      "longitude": 12.575051
+    },
+    {
+      "name": "Aars Bazar",
+      "latitude": 56.803524,
+      "longitude": 9.519885
+    },
+    {
+      "name": "Adelino",
+      "latitude": 57.047533,
+      "longitude": 9.919855
+    },
+    {
+      "name": "AfroFood & Clothing",
+      "latitude": 56.463174,
+      "longitude": 9.402038
+    },
+    {
+      "name": "Afthonia Store",
+      "latitude": 54.768675,
+      "longitude": 11.866772
+    },
+    {
+      "name": "Al Ponte",
+      "latitude": 55.31202,
+      "longitude": 10.790695
+    },
+    {
+      "name": "Albertslund Smørrebrød",
+      "latitude": 55.661377,
+      "longitude": 12.343044
+    },
+    {
+      "name": "Almondeli.dk Detail",
+      "latitude": 55.571085,
+      "longitude": 9.14636
+    },
+    {
+      "name": "Amandus",
+      "latitude": 55.755496,
+      "longitude": 12.565393
+    },
+    {
+      "name": "Anker Chokolade",
+      "latitude": 55.666173,
+      "longitude": 12.554754
+    },
+    {
+      "name": "Ann-Katrins Smørrebrød",
+      "latitude": 55.651377,
+      "longitude": 12.507106
+    },
+    {
+      "name": "Aperto",
+      "latitude": 55.688117,
+      "longitude": 12.489823
+    },
+    {
+      "name": "Arctic food",
+      "latitude": 56.037372,
+      "longitude": 12.60125
+    },
+    {
+      "name": "Aroma",
+      "latitude": 56.134653,
+      "longitude": 8.979839
+    },
+    {
+      "name": "ASGARD MAD",
+      "latitude": 56.770459,
+      "longitude": 9.338199
+    },
+    {
+      "name": "Aurens Deli",
+      "latitude": 55.686526,
+      "longitude": 12.532749
+    },
+    {
+      "name": "Aurens Deli - Corner Store",
+      "latitude": 55.686285,
+      "longitude": 12.534854
+    },
+    {
+      "name": "BABUNIA",
+      "latitude": 55.859967,
+      "longitude": 9.844768
+    },
+    {
+      "name": "Ballegaards",
+      "latitude": 55.760987,
+      "longitude": 12.572947
+    },
+    {
+      "name": "Ballerup Smørrebrød",
+      "latitude": 55.728195,
+      "longitude": 12.356252
+    },
+    {
+      "name": "Barrit Smørrebrød",
+      "latitude": 55.714724,
+      "longitude": 9.877275
+    },
+    {
+      "name": "BeA Bar - Italian Wine & deli",
+      "latitude": 55.638731,
+      "longitude": 12.581538
+    },
+    {
+      "name": "Bedstes mad",
+      "latitude": 55.010744,
+      "longitude": 11.905559
+    },
+    {
+      "name": "BelDot",
+      "latitude": 55.86347,
+      "longitude": 9.867054
+    },
+    {
+      "name": "Bellas smørrebrød",
+      "latitude": 55.637793,
+      "longitude": 12.636396
+    },
+    {
+      "name": "Best by Henriette",
+      "latitude": 56.485439,
+      "longitude": 9.150822
+    },
+    {
+      "name": "Bilka 1657 Delikatesse",
+      "latitude": 55.253417,
+      "longitude": 11.782999
+    },
+    {
+      "name": "Bilka 1659 Delikatesse",
+      "latitude": 55.511111,
+      "longitude": 8.456431
+    },
+    {
+      "name": "Bilka 1664 Delikatesse",
+      "latitude": 55.630923,
+      "longitude": 12.578425
+    },
+    {
+      "name": "Bilka Delikatesse",
+      "latitude": 54.922778,
+      "longitude": 9.807696
+    },
+    {
+      "name": "Bilka Delikatesse",
+      "latitude": 55.390102,
+      "longitude": 11.355204
+    },
+    {
+      "name": "Bilka Delikatesse",
+      "latitude": 55.51195,
+      "longitude": 9.459273
+    },
+    {
+      "name": "Bilka Delikatesse",
+      "latitude": 55.598621,
+      "longitude": 12.325504
+    },
+    {
+      "name": "Bilka Delikatesse",
+      "latitude": 55.614315,
+      "longitude": 12.354451
+    },
+    {
+      "name": "Bilka Delikatesse",
+      "latitude": 55.724682,
+      "longitude": 9.581151
+    },
+    {
+      "name": "Bilka Delikatesse",
+      "latitude": 55.857946,
+      "longitude": 9.852607
+    },
+    {
+      "name": "Bilka Delikatesse",
+      "latitude": 55.928837,
+      "longitude": 12.298233
+    },
+    {
+      "name": "Bilka Delikatesse",
+      "latitude": 56.135496,
+      "longitude": 9.006728
+    },
+    {
+      "name": "Bilka Delikatesse",
+      "latitude": 56.377437,
+      "longitude": 8.622015
+    },
+    {
+      "name": "Bilka Delikatesse",
+      "latitude": 57.004328,
+      "longitude": 9.876251
+    },
+    {
+      "name": "Bilka Delikatesse / fiskebod",
+      "latitude": 56.182177,
+      "longitude": 10.104185
+    },
+    {
+      "name": "Bilka Delikatesse og Fiskeafdeling",
+      "latitude": 55.377174,
+      "longitude": 10.431898
+    },
+    {
+      "name": "Bilka Delikatesse og Fiskeafdeling",
+      "latitude": 56.446412,
+      "longitude": 9.367968
+    },
+    {
+      "name": "Bilka Delikatessen",
+      "latitude": 56.430639,
+      "longitude": 10.066468
+    },
+    {
+      "name": "Billie Jean Bar",
+      "latitude": 54.766694,
+      "longitude": 11.869759
+    },
+    {
+      "name": "Bistro V Deli Aalborg",
+      "latitude": 57.049989,
+      "longitude": 9.923396
+    },
+    {
+      "name": "Blokhus Salt Café",
+      "latitude": 57.208742,
+      "longitude": 9.649812
+    },
+    {
+      "name": "Boeslunde Røgeri",
+      "latitude": 55.306471,
+      "longitude": 11.248242
+    },
+    {
+      "name": "Boho Delikatess",
+      "latitude": 56.171072,
+      "longitude": 10.18927
+    },
+    {
+      "name": "Bornholms Valsemølle",
+      "latitude": 55.066321,
+      "longitude": 14.91501
+    },
+    {
+      "name": "Bornholmskevarer",
+      "latitude": 55.404278,
+      "longitude": 11.349315
+    },
+    {
+      "name": "Bramdrupdam Smørrebrød og Delikatesse",
+      "latitude": 55.520942,
+      "longitude": 9.46173
+    },
+    {
+      "name": "Brammers Menuer",
+      "latitude": 56.033387,
+      "longitude": 12.597929
+    },
+    {
+      "name": "Brammers Menuer i Bjergegade",
+      "latitude": 56.034847,
+      "longitude": 12.612064
+    },
+    {
+      "name": "BrenderupHus",
+      "latitude": 55.494679,
+      "longitude": 9.956336
+    },
+    {
+      "name": "Broders",
+      "latitude": 55.658194,
+      "longitude": 12.634945
+    },
+    {
+      "name": "Brugsen Augustenborg Delikatesse",
+      "latitude": 54.950194,
+      "longitude": 9.876273
+    },
+    {
+      "name": "Brugsen Delikatesse",
+      "latitude": 54.914694,
+      "longitude": 11.221426
+    },
+    {
+      "name": "Brugsen Delikatesse",
+      "latitude": 56.197188,
+      "longitude": 10.433957
+    },
+    {
+      "name": "Brugsen Delikatesse",
+      "latitude": 56.339713,
+      "longitude": 9.253269
+    },
+    {
+      "name": "Brugsen Gadstrup Delikatesse",
+      "latitude": 55.568263,
+      "longitude": 12.093232
+    },
+    {
+      "name": "Brugsen Holmsland Delikatesse",
+      "latitude": 56.11745,
+      "longitude": 8.176492
+    },
+    {
+      "name": "Brugsen Klejtrup Delikatesse",
+      "latitude": 56.58988,
+      "longitude": 9.632993
+    },
+    {
+      "name": "Brugsen Lellinge Delikatesse",
+      "latitude": 55.466891,
+      "longitude": 12.111124
+    },
+    {
+      "name": "Brugsen MadCooperativet",
+      "latitude": 55.806191,
+      "longitude": 9.997877
+    },
+    {
+      "name": "Brugsen Sabro Delikatesse",
+      "latitude": 56.212187,
+      "longitude": 10.037601
+    },
+    {
+      "name": "Brugsen Sulsted Delikatesse",
+      "latitude": 57.157154,
+      "longitude": 9.963309
+    },
+    {
+      "name": "BrødBanditten",
+      "latitude": 55.821598,
+      "longitude": 12.373553
+    },
+    {
+      "name": "Butik Bakkegården",
+      "latitude": 56.07454,
+      "longitude": 12.133494
+    },
+    {
+      "name": "Butik Mig & Frede",
+      "latitude": 55.416936,
+      "longitude": 12.243483
+    },
+    {
+      "name": "By Stokkebye",
+      "latitude": 55.397846,
+      "longitude": 10.724789
+    },
+    {
+      "name": "byen smørrebrød",
+      "latitude": 55.854899,
+      "longitude": 11.995582
+    },
+    {
+      "name": "Byens Smørrebrød & Sandwich",
+      "latitude": 55.771277,
+      "longitude": 9.703437
+    },
+    {
+      "name": "Byens Smørrebrødsanretning",
+      "latitude": 55.689356,
+      "longitude": 12.573398
+    },
+    {
+      "name": "Byens Stjerneskud",
+      "latitude": 57.436385,
+      "longitude": 10.533955
+    },
+    {
+      "name": "Bymidtens deli og smørrebrød",
+      "latitude": 55.724949,
+      "longitude": 12.438809
+    },
+    {
+      "name": "Café Bølgen Blå",
+      "latitude": 56.934823,
+      "longitude": 9.205692
+    },
+    {
+      "name": "Can's Smørrebrød Hjørring",
+      "latitude": 57.446335,
+      "longitude": 9.995345
+    },
+    {
+      "name": "Charcuteriet NIB NAB",
+      "latitude": 57.033847,
+      "longitude": 9.908397
+    },
+    {
+      "name": "Charlottes Smørrebrød",
+      "latitude": 55.457046,
+      "longitude": 12.178897
+    },
+    {
+      "name": "Da Carnevale Italian Pizzeria & Italian Deli",
+      "latitude": 55.639568,
+      "longitude": 12.070873
+    },
+    {
+      "name": "DaBasso",
+      "latitude": 55.732505,
+      "longitude": 12.575348
+    },
+    {
+      "name": "Dagli'Brugsen Deli",
+      "latitude": 55.565582,
+      "longitude": 11.96246
+    },
+    {
+      "name": "DagliBrugsen Delikatesse",
+      "latitude": 55.357757,
+      "longitude": 11.443799
+    },
+    {
+      "name": "DagliBrugsen Delikatesse",
+      "latitude": 55.85829,
+      "longitude": 11.526614
+    },
+    {
+      "name": "DagliBrugsen Hammershøj Delikatesse",
+      "latitude": 56.499209,
+      "longitude": 9.748905
+    },
+    {
+      "name": "DagliBrugsen Øster Hurup Delikatessen",
+      "latitude": 56.804124,
+      "longitude": 10.271541
+    },
+    {
+      "name": "Dagli’Brugsen Delikatesse",
+      "latitude": 56.507996,
+      "longitude": 9.33227
+    },
+    {
+      "name": "Dagli’Brugsen Vrinners Delikatesse",
+      "latitude": 56.243085,
+      "longitude": 10.493526
+    },
+    {
+      "name": "Darul Arqam Bazar",
+      "latitude": 55.704866,
+      "longitude": 12.501608
+    },
+    {
+      "name": "Dayny Marked",
+      "latitude": 56.043818,
+      "longitude": 9.9473
+    },
+    {
+      "name": "Deli Casa Pizza og Indisk Mad",
+      "latitude": 55.720539,
+      "longitude": 12.470821
+    },
+    {
+      "name": "Deli del Toro Torvehallerne",
+      "latitude": 55.68409,
+      "longitude": 12.56929
+    },
+    {
+      "name": "Deli'en Østervold",
+      "latitude": 56.461348,
+      "longitude": 10.03902
+    },
+    {
+      "name": "Delicja",
+      "latitude": 56.137057,
+      "longitude": 8.973006
+    },
+    {
+      "name": "DeliDrop FoodLab",
+      "latitude": 56.164591,
+      "longitude": 10.223438
+    },
+    {
+      "name": "Delidrop FoodLab v / Torvehallerne KBH",
+      "latitude": 55.68411,
+      "longitude": 12.569308
+    },
+    {
+      "name": "Delikatesse AndrupVin.dk",
+      "latitude": 55.503949,
+      "longitude": 8.408695
+    },
+    {
+      "name": "Delikatesse DagliBrugsen Søby",
+      "latitude": 54.940969,
+      "longitude": 10.260397
+    },
+    {
+      "name": "Delikatessehuset",
+      "latitude": 56.4452,
+      "longitude": 10.058451
+    },
+    {
+      "name": "delikatessen",
+      "latitude": 55.6391,
+      "longitude": 12.076998
+    },
+    {
+      "name": "Delikatessen",
+      "latitude": 55.762885,
+      "longitude": 12.57706
+    },
+    {
+      "name": "Delikatessen - Min Købmand Bevtoft",
+      "latitude": 55.199792,
+      "longitude": 9.206336
+    },
+    {
+      "name": "DeliPL",
+      "latitude": 57.039173,
+      "longitude": 9.952537
+    },
+    {
+      "name": "Delitaly",
+      "latitude": 56.165297,
+      "longitude": 10.219246
+    },
+    {
+      "name": "Den Gamle Brugskunst",
+      "latitude": 57.271095,
+      "longitude": 9.697878
+    },
+    {
+      "name": "Den Gamle Smedie",
+      "latitude": 54.996556,
+      "longitude": 10.85133
+    },
+    {
+      "name": "Den Græske Delikatesse",
+      "latitude": 56.148734,
+      "longitude": 10.204525
+    },
+    {
+      "name": "den italienske",
+      "latitude": 55.716352,
+      "longitude": 11.715667
+    },
+    {
+      "name": "Den Kinesiske Købmand",
+      "latitude": 55.683877,
+      "longitude": 12.569194
+    },
+    {
+      "name": "den lille butik",
+      "latitude": 57.098536,
+      "longitude": 9.521963
+    },
+    {
+      "name": "Den lille deli",
+      "latitude": 57.295203,
+      "longitude": 10.9233
+    },
+    {
+      "name": "Den lille delikatesse",
+      "latitude": 55.759172,
+      "longitude": 8.92104
+    },
+    {
+      "name": "Den lille delikatesse Billund",
+      "latitude": 55.729359,
+      "longitude": 9.116152
+    },
+    {
+      "name": "Det Gastronomiske Turistkontor",
+      "latitude": 56.201058,
+      "longitude": 10.679019
+    },
+    {
+      "name": "Dobry Kasek",
+      "latitude": 56.459375,
+      "longitude": 10.037837
+    },
+    {
+      "name": "Doomsday Deli",
+      "latitude": 55.691304,
+      "longitude": 12.559112
+    },
+    {
+      "name": "Dutch Cheese and Juice",
+      "latitude": 55.672256,
+      "longitude": 12.555984
+    },
+    {
+      "name": "Egeskov Mølle",
+      "latitude": 55.165946,
+      "longitude": 10.475923
+    },
+    {
+      "name": "Ello Food Delikatesse",
+      "latitude": 55.655529,
+      "longitude": 12.547007
+    },
+    {
+      "name": "En bid af Spanien",
+      "latitude": 55.390802,
+      "longitude": 10.43792
+    },
+    {
+      "name": "En og en hel del",
+      "latitude": 56.460573,
+      "longitude": 10.03525
+    },
+    {
+      "name": "Ernesto Cannillo",
+      "latitude": 55.732585,
+      "longitude": 12.575297
+    },
+    {
+      "name": "Espergærde ost og tapas",
+      "latitude": 55.994587,
+      "longitude": 12.545183
+    },
+    {
+      "name": "Esrum Kloster & Møllegård Butik",
+      "latitude": 56.045963,
+      "longitude": 12.376854
+    },
+    {
+      "name": "Falster Asien Food",
+      "latitude": 54.743308,
+      "longitude": 11.986715
+    },
+    {
+      "name": "Fangst Stationen",
+      "latitude": 55.213485,
+      "longitude": 14.970039
+    },
+    {
+      "name": "Farum Bazar",
+      "latitude": 55.808736,
+      "longitude": 12.35813
+    },
+    {
+      "name": "Fejø Møllebutik og Turistinformation",
+      "latitude": 54.95089,
+      "longitude": 11.432853
+    },
+    {
+      "name": "FineFood",
+      "latitude": 55.628387,
+      "longitude": 12.648124
+    },
+    {
+      "name": "FineFood",
+      "latitude": 55.62896,
+      "longitude": 12.645857
+    },
+    {
+      "name": "FINEZJA",
+      "latitude": 57.45884,
+      "longitude": 9.989166
+    },
+    {
+      "name": "Finka",
+      "latitude": 55.075028,
+      "longitude": 10.62428
+    },
+    {
+      "name": "Flavors of India",
+      "latitude": 55.69359,
+      "longitude": 12.49368
+    },
+    {
+      "name": "Flor Deli",
+      "latitude": 55.137441,
+      "longitude": 15.145363
+    },
+    {
+      "name": "Focaccia - By Gaudium",
+      "latitude": 55.672126,
+      "longitude": 12.465132
+    },
+    {
+      "name": "franklin roast & smørrebrød",
+      "latitude": 55.885783,
+      "longitude": 12.497217
+    },
+    {
+      "name": "Frederiksberg Fine Food",
+      "latitude": 55.679299,
+      "longitude": 12.512575
+    },
+    {
+      "name": "Frokostbixen",
+      "latitude": 55.068334,
+      "longitude": 10.629614
+    },
+    {
+      "name": "Fru Nyklits Smørrebrød",
+      "latitude": 55.733742,
+      "longitude": 12.515062
+    },
+    {
+      "name": "Fru Ravn",
+      "latitude": 55.091918,
+      "longitude": 9.466773
+    },
+    {
+      "name": "Fru Skov",
+      "latitude": 55.973115,
+      "longitude": 9.611719
+    },
+    {
+      "name": "Fru Svenssons Smørrebrød",
+      "latitude": 55.435014,
+      "longitude": 11.557641
+    },
+    {
+      "name": "Fråkost",
+      "latitude": 55.40398,
+      "longitude": 11.351854
+    },
+    {
+      "name": "Fuglsø ost og is",
+      "latitude": 56.576756,
+      "longitude": 9.747731
+    },
+    {
+      "name": "Fur Specialiteter og Glaskunst",
+      "latitude": 56.820567,
+      "longitude": 8.990977
+    },
+    {
+      "name": "Fætter Smørrebrød",
+      "latitude": 55.705947,
+      "longitude": 12.532376
+    },
+    {
+      "name": "føtex Delikatesse",
+      "latitude": 56.136033,
+      "longitude": 8.970283
+    },
+    {
+      "name": "føtex Delikatesse",
+      "latitude": 56.170729,
+      "longitude": 10.187986
+    },
+    {
+      "name": "føtex food Bella",
+      "latitude": 55.637911,
+      "longitude": 12.581559
+    },
+    {
+      "name": "føtex food Delikatesse",
+      "latitude": 55.623298,
+      "longitude": 12.376612
+    },
+    {
+      "name": "føtex food Delikatesse",
+      "latitude": 56.115394,
+      "longitude": 12.237322
+    },
+    {
+      "name": "føtex food Delikatesse",
+      "latitude": 56.155286,
+      "longitude": 10.188216
+    },
+    {
+      "name": "Garagens Smørrebrød",
+      "latitude": 56.151522,
+      "longitude": 10.209641
+    },
+    {
+      "name": "Gastronomia Olivia",
+      "latitude": 55.416384,
+      "longitude": 12.243573
+    },
+    {
+      "name": "Gjerlev Daglibrugsen Delikatesse",
+      "latitude": 56.587501,
+      "longitude": 10.132274
+    },
+    {
+      "name": "Go mad",
+      "latitude": 55.436672,
+      "longitude": 10.314715
+    },
+    {
+      "name": "Go'on Smørrebrød",
+      "latitude": 55.439115,
+      "longitude": 11.796849
+    },
+    {
+      "name": "Goose Deli",
+      "latitude": 55.711061,
+      "longitude": 12.529597
+    },
+    {
+      "name": "Gourmet-butikken",
+      "latitude": 57.446718,
+      "longitude": 10.5005
+    },
+    {
+      "name": "Gourmetsaft",
+      "latitude": 55.704837,
+      "longitude": 12.441086
+    },
+    {
+      "name": "Grappa Deli",
+      "latitude": 56.156881,
+      "longitude": 10.207774
+    },
+    {
+      "name": "Grappa Deli Risskov",
+      "latitude": 56.19451,
+      "longitude": 10.245862
+    },
+    {
+      "name": "Green house shop",
+      "latitude": 55.683164,
+      "longitude": 12.610427
+    },
+    {
+      "name": "Græske specialiteter",
+      "latitude": 56.050253,
+      "longitude": 9.95294
+    },
+    {
+      "name": "Græske Specialiteter Bod",
+      "latitude": 56.116922,
+      "longitude": 10.154635
+    },
+    {
+      "name": "Gundestrup Mejeri",
+      "latitude": 55.092584,
+      "longitude": 10.407561
+    },
+    {
+      "name": "Haitan",
+      "latitude": 55.678353,
+      "longitude": 12.499107
+    },
+    {
+      "name": "Hallernes Smørrebrød",
+      "latitude": 55.628833,
+      "longitude": 12.644572
+    },
+    {
+      "name": "Hallernes Smørrebrød",
+      "latitude": 55.683908,
+      "longitude": 12.569003
+    },
+    {
+      "name": "Hallernes Smørrebrød Danske Bank Copenhagen Central",
+      "latitude": 55.669402,
+      "longitude": 12.569702
+    },
+    {
+      "name": "Hallernes Smørrebrød Frederiksberg Centret",
+      "latitude": 55.681258,
+      "longitude": 12.533434
+    },
+    {
+      "name": "Hallernes Smørrebrød Lyngby",
+      "latitude": 55.772036,
+      "longitude": 12.506458
+    },
+    {
+      "name": "Hallernes Smørrebrød Rødovre",
+      "latitude": 55.67992,
+      "longitude": 12.45629
+    },
+    {
+      "name": "Halsskov Smørrebrød",
+      "latitude": 55.338805,
+      "longitude": 11.131391
+    },
+    {
+      "name": "Hannahs Smørrebrød",
+      "latitude": 55.64279,
+      "longitude": 12.471267
+    },
+    {
+      "name": "Hannes smørrebrød",
+      "latitude": 55.721244,
+      "longitude": 12.530911
+    },
+    {
+      "name": "Hannes Smørrebrød",
+      "latitude": 56.106174,
+      "longitude": 12.36844
+    },
+    {
+      "name": "Harbas Røgeri",
+      "latitude": 55.829916,
+      "longitude": 9.53021
+    },
+    {
+      "name": "Havens Deli",
+      "latitude": 56.827923,
+      "longitude": 8.986295
+    },
+    {
+      "name": "Havfruens Smørrebrød",
+      "latitude": 54.659081,
+      "longitude": 11.354295
+    },
+    {
+      "name": "Helles Smørrebrød",
+      "latitude": 55.619882,
+      "longitude": 12.339477
+    },
+    {
+      "name": "Henriks Deli",
+      "latitude": 56.648714,
+      "longitude": 9.77974
+    },
+    {
+      "name": "Herlev Smørrebrød",
+      "latitude": 55.716248,
+      "longitude": 12.442186
+    },
+    {
+      "name": "Hero Deli",
+      "latitude": 55.698299,
+      "longitude": 12.543079
+    },
+    {
+      "name": "Herregårdsdelikatessen",
+      "latitude": 55.10072,
+      "longitude": 10.240192
+    },
+    {
+      "name": "Hillerød Smørrebrød",
+      "latitude": 55.93784,
+      "longitude": 12.283821
+    },
+    {
+      "name": "Holmegaards lille køkken",
+      "latitude": 55.278813,
+      "longitude": 11.808366
+    },
+    {
+      "name": "Holmer",
+      "latitude": 55.062525,
+      "longitude": 15.131796
+    },
+    {
+      "name": "Horsens Smørrebrød",
+      "latitude": 55.862075,
+      "longitude": 9.842412
+    },
+    {
+      "name": "Hos Jomfruen",
+      "latitude": 55.330404,
+      "longitude": 11.136592
+    },
+    {
+      "name": "Hr Skov",
+      "latitude": 55.556514,
+      "longitude": 8.139152
+    },
+    {
+      "name": "Hr. Skov",
+      "latitude": 55.469121,
+      "longitude": 8.453112
+    },
+    {
+      "name": "Hr. Skov - Huset Ribe",
+      "latitude": 55.329532,
+      "longitude": 8.765509
+    },
+    {
+      "name": "Huset CALMA",
+      "latitude": 55.505311,
+      "longitude": 9.732072
+    },
+    {
+      "name": "Hyttels Røgeri",
+      "latitude": 57.451039,
+      "longitude": 10.019398
+    },
+    {
+      "name": "Ibens Smørrebrød",
+      "latitude": 55.687507,
+      "longitude": 12.590406
+    },
+    {
+      "name": "IL Mercatino",
+      "latitude": 56.158195,
+      "longitude": 10.212139
+    },
+    {
+      "name": "Il sogno italiano",
+      "latitude": 56.167605,
+      "longitude": 9.544691
+    },
+    {
+      "name": "Il Vero Gusto Italiano",
+      "latitude": 56.156384,
+      "longitude": 10.204355
+    },
+    {
+      "name": "Ingers Ost & Vin",
+      "latitude": 55.473615,
+      "longitude": 8.432437
+    },
+    {
+      "name": "Istanbul",
+      "latitude": 55.683955,
+      "longitude": 12.569284
+    },
+    {
+      "name": "J K Smørrebrød",
+      "latitude": 55.647531,
+      "longitude": 12.613505
+    },
+    {
+      "name": "JDA Smørrebrød",
+      "latitude": 55.633875,
+      "longitude": 12.491172
+    },
+    {
+      "name": "JK Salater og Dressinger",
+      "latitude": 55.668644,
+      "longitude": 12.559374
+    },
+    {
+      "name": "Jordnær",
+      "latitude": 55.964864,
+      "longitude": 12.28282
+    },
+    {
+      "name": "Josephines Smørrebrød",
+      "latitude": 55.686204,
+      "longitude": 12.550819
+    },
+    {
+      "name": "Jægersborg Smørrebrød - Gentofte",
+      "latitude": 55.762878,
+      "longitude": 12.524526
+    },
+    {
+      "name": "Kaffe & Thehuset",
+      "latitude": 55.395558,
+      "longitude": 10.383717
+    },
+    {
+      "name": "Kaffebønnen",
+      "latitude": 55.008512,
+      "longitude": 11.909366
+    },
+    {
+      "name": "kahoy",
+      "latitude": 56.273208,
+      "longitude": 8.321113
+    },
+    {
+      "name": "Karlslunde Smørrebrød",
+      "latitude": 55.57517,
+      "longitude": 12.242519
+    },
+    {
+      "name": "Kb-smørrebrød",
+      "latitude": 54.765632,
+      "longitude": 11.870912
+    },
+    {
+      "name": "King Carrot",
+      "latitude": 56.190222,
+      "longitude": 10.382737
+    },
+    {
+      "name": "Kjøbenhavn Smørrebrød",
+      "latitude": 55.666716,
+      "longitude": 12.517988
+    },
+    {
+      "name": "Klemmen",
+      "latitude": 56.803532,
+      "longitude": 9.52018
+    },
+    {
+      "name": "Kochens Køkken",
+      "latitude": 57.049304,
+      "longitude": 9.913537
+    },
+    {
+      "name": "Kokken",
+      "latitude": 56.460796,
+      "longitude": 9.4059
+    },
+    {
+      "name": "Kokkens Gourmet",
+      "latitude": 55.744248,
+      "longitude": 12.507565
+    },
+    {
+      "name": "Kransehuset",
+      "latitude": 55.820226,
+      "longitude": 12.097379
+    },
+    {
+      "name": "Kulhus røgeri",
+      "latitude": 55.925999,
+      "longitude": 11.913958
+    },
+    {
+      "name": "Kvickly",
+      "latitude": 56.019552,
+      "longitude": 12.199471
+    },
+    {
+      "name": "Kvickly Delikatesse",
+      "latitude": 54.939113,
+      "longitude": 8.855003
+    },
+    {
+      "name": "Kvickly Delikatesse",
+      "latitude": 55.331766,
+      "longitude": 8.76851
+    },
+    {
+      "name": "Kvickly Delikatesse",
+      "latitude": 55.477043,
+      "longitude": 9.137017
+    },
+    {
+      "name": "Kvickly Delikatesse",
+      "latitude": 55.623665,
+      "longitude": 8.482673
+    },
+    {
+      "name": "Kvickly Delikatesse",
+      "latitude": 55.656753,
+      "longitude": 12.604075
+    },
+    {
+      "name": "Kvickly Delikatesse",
+      "latitude": 55.759302,
+      "longitude": 8.922532
+    },
+    {
+      "name": "Kvickly Delikatesse",
+      "latitude": 55.767969,
+      "longitude": 12.195453
+    },
+    {
+      "name": "Kvickly Delikatesse",
+      "latitude": 55.869461,
+      "longitude": 12.353715
+    },
+    {
+      "name": "Kvickly Delikatesse",
+      "latitude": 55.974583,
+      "longitude": 10.148601
+    },
+    {
+      "name": "Kvickly Delikatesse",
+      "latitude": 56.019682,
+      "longitude": 12.200117
+    },
+    {
+      "name": "Kvickly Delikatesse",
+      "latitude": 56.021219,
+      "longitude": 12.572331
+    },
+    {
+      "name": "Kvickly Delikatesse",
+      "latitude": 56.086143,
+      "longitude": 8.269562
+    },
+    {
+      "name": "Kvickly Delikatesse",
+      "latitude": 56.196053,
+      "longitude": 10.680408
+    },
+    {
+      "name": "Kvickly Hyrdehøj Delikatesse",
+      "latitude": 55.634231,
+      "longitude": 12.054284
+    },
+    {
+      "name": "Kvickly Nordborg Delikatesse",
+      "latitude": 55.055572,
+      "longitude": 9.742733
+    },
+    {
+      "name": "Køge Smørrebrød",
+      "latitude": 55.467036,
+      "longitude": 12.181131
+    },
+    {
+      "name": "L'apero",
+      "latitude": 55.978513,
+      "longitude": 12.396596
+    },
+    {
+      "name": "L.A Smørrebrød og delikatesse",
+      "latitude": 55.661123,
+      "longitude": 12.619592
+    },
+    {
+      "name": "La Bella Vita",
+      "latitude": 55.879841,
+      "longitude": 12.544853
+    },
+    {
+      "name": "La Chinata Gourmet DK",
+      "latitude": 55.681441,
+      "longitude": 12.513826
+    },
+    {
+      "name": "La Fresca",
+      "latitude": 55.686444,
+      "longitude": 12.490937
+    },
+    {
+      "name": "La Lichette",
+      "latitude": 56.414223,
+      "longitude": 10.873845
+    },
+    {
+      "name": "La Prosciutteria",
+      "latitude": 55.516757,
+      "longitude": 8.372034
+    },
+    {
+      "name": "La Vecchia Signora Vini e Delicatezze",
+      "latitude": 55.680982,
+      "longitude": 12.58262
+    },
+    {
+      "name": "Landkost Hundested",
+      "latitude": 55.961454,
+      "longitude": 11.851553
+    },
+    {
+      "name": "Larsen",
+      "latitude": 56.135454,
+      "longitude": 8.999694
+    },
+    {
+      "name": "Le Gourmand",
+      "latitude": 55.673149,
+      "longitude": 12.549805
+    },
+    {
+      "name": "Les Produits Gourmands de Daniel Letz",
+      "latitude": 55.702983,
+      "longitude": 12.578309
+    },
+    {
+      "name": "Letz Shop Frederiksberg",
+      "latitude": 55.674047,
+      "longitude": 12.552536
+    },
+    {
+      "name": "Lille Vie",
+      "latitude": 55.707383,
+      "longitude": 12.593742
+    },
+    {
+      "name": "Linje14",
+      "latitude": 55.73315,
+      "longitude": 12.575137
+    },
+    {
+      "name": "Lisager Delikatesse",
+      "latitude": 56.188497,
+      "longitude": 10.238523
+    },
+    {
+      "name": "Living4u",
+      "latitude": 56.251558,
+      "longitude": 10.020854
+    },
+    {
+      "name": "Local Food",
+      "latitude": 55.817304,
+      "longitude": 8.193345
+    },
+    {
+      "name": "Louise's",
+      "latitude": 55.650099,
+      "longitude": 11.667094
+    },
+    {
+      "name": "Lækkeriet Løkken",
+      "latitude": 57.372837,
+      "longitude": 9.7131
+    },
+    {
+      "name": "Læsø Salt - saltboden",
+      "latitude": 57.239602,
+      "longitude": 10.990359
+    },
+    {
+      "name": "Løgismose",
+      "latitude": 55.690233,
+      "longitude": 12.599515
+    },
+    {
+      "name": "Løgismose Mejeriudsalg",
+      "latitude": 55.270833,
+      "longitude": 10.309955
+    },
+    {
+      "name": "Løgismose Vin og Delikatesser Kolonial og Vin",
+      "latitude": 55.690182,
+      "longitude": 12.599571
+    },
+    {
+      "name": "Løvbjerg Delikatesse",
+      "latitude": 55.861514,
+      "longitude": 9.853254
+    },
+    {
+      "name": "Løvbjerg Supermarked Delikatesse",
+      "latitude": 55.614639,
+      "longitude": 8.485316
+    },
+    {
+      "name": "Løvbjerg Supermarked Delikatesse",
+      "latitude": 56.43025,
+      "longitude": 9.387146
+    },
+    {
+      "name": "Mad & Vin Magasin du Nord",
+      "latitude": 56.157239,
+      "longitude": 10.206815
+    },
+    {
+      "name": "Mad Molly",
+      "latitude": 55.488641,
+      "longitude": 12.181075
+    },
+    {
+      "name": "Madbutikken",
+      "latitude": 55.795473,
+      "longitude": 12.471252
+    },
+    {
+      "name": "Made in Spain",
+      "latitude": 55.505366,
+      "longitude": 8.460859
+    },
+    {
+      "name": "Madhuset Mad og Kærlighed",
+      "latitude": 55.631869,
+      "longitude": 12.621131
+    },
+    {
+      "name": "Madhåndværk",
+      "latitude": 57.148053,
+      "longitude": 10.40388
+    },
+    {
+      "name": "Madkassen Viby",
+      "latitude": 56.11032,
+      "longitude": 10.136406
+    },
+    {
+      "name": "Madværftet Butik",
+      "latitude": 56.058791,
+      "longitude": 10.205537
+    },
+    {
+      "name": "Magasin Mad & Vin Delikatesse",
+      "latitude": 55.679085,
+      "longitude": 12.584713
+    },
+    {
+      "name": "Magasin Mad og Vin og Lakrids",
+      "latitude": 55.770154,
+      "longitude": 12.504486
+    },
+    {
+      "name": "Maggies Brugskunst & Specialiteter",
+      "latitude": 55.807557,
+      "longitude": 8.620985
+    },
+    {
+      "name": "Maison DAngleterre",
+      "latitude": 55.680578,
+      "longitude": 12.584626
+    },
+    {
+      "name": "Majkens Hylde",
+      "latitude": 57.046565,
+      "longitude": 9.92682
+    },
+    {
+      "name": "Mammas Specialiteter",
+      "latitude": 55.395268,
+      "longitude": 10.385461
+    },
+    {
+      "name": "Maraldos Madgarage",
+      "latitude": 56.155251,
+      "longitude": 10.173032
+    },
+    {
+      "name": "Marats Mejeri",
+      "latitude": 55.625562,
+      "longitude": 8.28167
+    },
+    {
+      "name": "Maries Madbutik",
+      "latitude": 56.092303,
+      "longitude": 8.24675
+    },
+    {
+      "name": "Mathiesens deli",
+      "latitude": 55.433245,
+      "longitude": 10.201276
+    },
+    {
+      "name": "Maurizios",
+      "latitude": 55.664542,
+      "longitude": 11.423673
+    },
+    {
+      "name": "MENY Bagsværd Delikatesse",
+      "latitude": 55.760874,
+      "longitude": 12.455381
+    },
+    {
+      "name": "Meny Bogense Delikatesse",
+      "latitude": 55.564212,
+      "longitude": 10.085945
+    },
+    {
+      "name": "Meny Brynet - Delikatesse",
+      "latitude": 56.187076,
+      "longitude": 10.214426
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 55.453995,
+      "longitude": 12.168215
+    },
+    {
+      "name": "Meny Delikatesse",
+      "latitude": 55.533682,
+      "longitude": 12.217238
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 55.548572,
+      "longitude": 12.025877
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 55.658102,
+      "longitude": 12.106006
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 55.670964,
+      "longitude": 12.501839
+    },
+    {
+      "name": "Meny Delikatesse",
+      "latitude": 55.679504,
+      "longitude": 12.455363
+    },
+    {
+      "name": "Meny Delikatesse",
+      "latitude": 55.682246,
+      "longitude": 11.11549
+    },
+    {
+      "name": "Meny Delikatesse",
+      "latitude": 55.694187,
+      "longitude": 12.531907
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 55.727757,
+      "longitude": 12.57656
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 55.748972,
+      "longitude": 12.319639
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 55.755292,
+      "longitude": 12.567241
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 55.784333,
+      "longitude": 12.374229
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 55.838044,
+      "longitude": 12.057277
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 55.887665,
+      "longitude": 12.497673
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 56.035356,
+      "longitude": 8.851249
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 56.132563,
+      "longitude": 8.960372
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 56.143057,
+      "longitude": 10.186624
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 56.300536,
+      "longitude": 10.475918
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 57.014551,
+      "longitude": 9.895262
+    },
+    {
+      "name": "Meny Delikatesse",
+      "latitude": 57.042068,
+      "longitude": 9.919479
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 57.15981,
+      "longitude": 9.735275
+    },
+    {
+      "name": "MENY Delikatesse",
+      "latitude": 57.273014,
+      "longitude": 9.697461
+    },
+    {
+      "name": "Meny Delikatesse",
+      "latitude": 57.444988,
+      "longitude": 10.497333
+    },
+    {
+      "name": "MENY Delikatessen",
+      "latitude": 55.228596,
+      "longitude": 11.761932
+    },
+    {
+      "name": "Meny Domhusgade 6 Kolding delikatesse",
+      "latitude": 55.48416,
+      "longitude": 9.47902
+    },
+    {
+      "name": "Meny Espergærde delikatesse",
+      "latitude": 55.994784,
+      "longitude": 12.545842
+    },
+    {
+      "name": "Meny Fabrikvej Viborg Delikatesse",
+      "latitude": 56.466801,
+      "longitude": 9.400035
+    },
+    {
+      "name": "MENY Fjerritslev Delikatesse",
+      "latitude": 57.087271,
+      "longitude": 9.267071
+    },
+    {
+      "name": "Meny Fredericia Delikatesse",
+      "latitude": 55.569684,
+      "longitude": 9.741751
+    },
+    {
+      "name": "Meny Galgebjergvej Kolding delikatesse",
+      "latitude": 55.500788,
+      "longitude": 9.456227
+    },
+    {
+      "name": "Meny Haderslev Delikatesse",
+      "latitude": 55.252766,
+      "longitude": 9.484478
+    },
+    {
+      "name": "MENY Hillerød Delikatesse",
+      "latitude": 55.930788,
+      "longitude": 12.334534
+    },
+    {
+      "name": "MENY Hjerting - Delikatesse",
+      "latitude": 55.526316,
+      "longitude": 8.358185
+    },
+    {
+      "name": "Meny Hjørring Deli & Fiskeafdeling",
+      "latitude": 57.455179,
+      "longitude": 10.005827
+    },
+    {
+      "name": "MENY Holstebro Delikatesse",
+      "latitude": 56.375951,
+      "longitude": 8.581736
+    },
+    {
+      "name": "MENY Horsens Delikatesse",
+      "latitude": 55.859651,
+      "longitude": 9.866462
+    },
+    {
+      "name": "MENY Klokkerholm Delikatesse",
+      "latitude": 57.211945,
+      "longitude": 10.151675
+    },
+    {
+      "name": "Meny Nakskov Delikatessen",
+      "latitude": 54.82892,
+      "longitude": 11.13734
+    },
+    {
+      "name": "MENY Nordhavn Delikatesse",
+      "latitude": 55.708103,
+      "longitude": 12.593446
+    },
+    {
+      "name": "MENY Nyborg Delikatesse",
+      "latitude": 55.310107,
+      "longitude": 10.771224
+    },
+    {
+      "name": "Meny Præstø Delikatesse",
+      "latitude": 55.121859,
+      "longitude": 12.038481
+    },
+    {
+      "name": "Meny Randers SV Delikatesse",
+      "latitude": 56.446111,
+      "longitude": 10.038028
+    },
+    {
+      "name": "MENY Rungsted Delikatesse",
+      "latitude": 55.883193,
+      "longitude": 12.528732
+    },
+    {
+      "name": "Meny Skagen Delikatesse",
+      "latitude": 57.729629,
+      "longitude": 10.549888
+    },
+    {
+      "name": "Meny Skanderborg - Delikatesse",
+      "latitude": 56.044543,
+      "longitude": 9.948066
+    },
+    {
+      "name": "MENY Skibby Delikatesse",
+      "latitude": 55.75211,
+      "longitude": 11.959219
+    },
+    {
+      "name": "Meny Skomagergade Delikatesse",
+      "latitude": 55.640845,
+      "longitude": 12.078709
+    },
+    {
+      "name": "Meny Skovlunde delikatesse",
+      "latitude": 55.720229,
+      "longitude": 12.401351
+    },
+    {
+      "name": "MENY Støvring Delikatesse",
+      "latitude": 56.89159,
+      "longitude": 9.837928
+    },
+    {
+      "name": "Meny Søborg Delikatessen",
+      "latitude": 55.736264,
+      "longitude": 12.511147
+    },
+    {
+      "name": "MENY Søndervig Delikatesse",
+      "latitude": 56.118746,
+      "longitude": 8.11641
+    },
+    {
+      "name": "Meny Valby Delikatesse",
+      "latitude": 55.661087,
+      "longitude": 12.516011
+    },
+    {
+      "name": "MENY Virum Delikatesse",
+      "latitude": 55.795432,
+      "longitude": 12.47459
+    },
+    {
+      "name": "Meny Østerfælled Torv delikatesse",
+      "latitude": 55.706165,
+      "longitude": 12.576351
+    },
+    {
+      "name": "Mettes",
+      "latitude": 55.624234,
+      "longitude": 8.473944
+    },
+    {
+      "name": "Migas",
+      "latitude": 55.707065,
+      "longitude": 12.584065
+    },
+    {
+      "name": "Mit Lille Køkken",
+      "latitude": 55.678928,
+      "longitude": 12.508501
+    },
+    {
+      "name": "Mjelsmark Kål",
+      "latitude": 55.027268,
+      "longitude": 9.684997
+    },
+    {
+      "name": "Mokka T",
+      "latitude": 55.860816,
+      "longitude": 9.845489
+    },
+    {
+      "name": "Mold",
+      "latitude": 55.233909,
+      "longitude": 14.772898
+    },
+    {
+      "name": "Momses smørrebrød",
+      "latitude": 54.767705,
+      "longitude": 11.867283
+    },
+    {
+      "name": "Mondrups smørrebrød",
+      "latitude": 56.164566,
+      "longitude": 10.22315
+    },
+    {
+      "name": "Mormors smørrebrød",
+      "latitude": 55.672281,
+      "longitude": 12.488379
+    },
+    {
+      "name": "Mosehuset",
+      "latitude": 55.46575,
+      "longitude": 11.943381
+    },
+    {
+      "name": "Mr Mums",
+      "latitude": 56.119886,
+      "longitude": 10.191181
+    },
+    {
+      "name": "Mulles Thehus",
+      "latitude": 55.687708,
+      "longitude": 12.491064
+    },
+    {
+      "name": "MUMS",
+      "latitude": 57.008691,
+      "longitude": 9.926196
+    },
+    {
+      "name": "Musses Køkken SPAR Klitmøller",
+      "latitude": 57.039836,
+      "longitude": 8.498206
+    },
+    {
+      "name": "My Deli",
+      "latitude": 55.673907,
+      "longitude": 12.598449
+    },
+    {
+      "name": "New China Trading",
+      "latitude": 55.67647,
+      "longitude": 12.540914
+    },
+    {
+      "name": "Noma Projects",
+      "latitude": 55.690153,
+      "longitude": 12.612932
+    },
+    {
+      "name": "Noorbohandelen",
+      "latitude": 55.683704,
+      "longitude": 12.569858
+    },
+    {
+      "name": "NORDENS Smørrebrød",
+      "latitude": 55.643788,
+      "longitude": 12.27508
+    },
+    {
+      "name": "Nordic Treats",
+      "latitude": 55.682398,
+      "longitude": 12.57225
+    },
+    {
+      "name": "Nyderiet",
+      "latitude": 55.306469,
+      "longitude": 11.248322
+    },
+    {
+      "name": "Nysted Gaardbutik",
+      "latitude": 54.663057,
+      "longitude": 11.730475
+    },
+    {
+      "name": "Nøddebjerggård",
+      "latitude": 54.972447,
+      "longitude": 12.464029
+    },
+    {
+      "name": "Nøddebogaard",
+      "latitude": 55.280313,
+      "longitude": 10.371744
+    },
+    {
+      "name": "Nørrebro Kolonial",
+      "latitude": 55.692465,
+      "longitude": 12.544112
+    },
+    {
+      "name": "Olio Novello",
+      "latitude": 55.687592,
+      "longitude": 12.544449
+    },
+    {
+      "name": "Oliviers & Co",
+      "latitude": 55.674506,
+      "longitude": 12.549434
+    },
+    {
+      "name": "Oliviers & Co TorvehallerneKBH Torvehallerne",
+      "latitude": 55.684128,
+      "longitude": 12.569273
+    },
+    {
+      "name": "Omada Wine & Deli",
+      "latitude": 55.69117,
+      "longitude": 12.576173
+    },
+    {
+      "name": "Omegn og Venner",
+      "latitude": 55.68394,
+      "longitude": 12.569202
+    },
+    {
+      "name": "Oro di Italia",
+      "latitude": 56.188947,
+      "longitude": 9.503783
+    },
+    {
+      "name": "Oste Porten",
+      "latitude": 55.302408,
+      "longitude": 10.472763
+    },
+    {
+      "name": "Osted Delikatessen",
+      "latitude": 55.554881,
+      "longitude": 11.952978
+    },
+    {
+      "name": "Ostefruen",
+      "latitude": 57.334348,
+      "longitude": 10.518062
+    },
+    {
+      "name": "Osteklokken",
+      "latitude": 57.270151,
+      "longitude": 9.947967
+    },
+    {
+      "name": "oure oliven",
+      "latitude": 55.121909,
+      "longitude": 10.731239
+    },
+    {
+      "name": "PALÆO",
+      "latitude": 55.725811,
+      "longitude": 12.579279
+    },
+    {
+      "name": "Pangs Smørrebrød",
+      "latitude": 55.637231,
+      "longitude": 12.479998
+    },
+    {
+      "name": "Parma & Pasta Rødovre Centrum",
+      "latitude": 55.679926,
+      "longitude": 12.456308
+    },
+    {
+      "name": "Pastariget butik",
+      "latitude": 55.125621,
+      "longitude": 15.141546
+    },
+    {
+      "name": "PATRIA'S FOOD",
+      "latitude": 55.862407,
+      "longitude": 9.853085
+    },
+    {
+      "name": "Perles smørrebrød",
+      "latitude": 55.226769,
+      "longitude": 11.747633
+    },
+    {
+      "name": "Petit by ikos",
+      "latitude": 55.681998,
+      "longitude": 12.549892
+    },
+    {
+      "name": "PetiteAlsace",
+      "latitude": 56.090428,
+      "longitude": 12.459088
+    },
+    {
+      "name": "Piccoli",
+      "latitude": 56.194232,
+      "longitude": 10.669795
+    },
+    {
+      "name": "Pinto thai take away",
+      "latitude": 54.768751,
+      "longitude": 11.866743
+    },
+    {
+      "name": "Pitstop Smørrebrød & Sandwich",
+      "latitude": 55.612627,
+      "longitude": 12.45319
+    },
+    {
+      "name": "Pizza Deli Allinge",
+      "latitude": 55.276694,
+      "longitude": 14.801785
+    },
+    {
+      "name": "Pizza Deli Rønne",
+      "latitude": 55.102058,
+      "longitude": 14.699486
+    },
+    {
+      "name": "Polonus Copenhagen",
+      "latitude": 55.684587,
+      "longitude": 12.554911
+    },
+    {
+      "name": "Polonus Polske Delikatesser",
+      "latitude": 55.684545,
+      "longitude": 12.55488
+    },
+    {
+      "name": "Pottes Smørrebrød",
+      "latitude": 55.528757,
+      "longitude": 12.219003
+    },
+    {
+      "name": "Prego Deli",
+      "latitude": 55.690119,
+      "longitude": 12.570904
+    },
+    {
+      "name": "PremiumCaviar",
+      "latitude": 55.684831,
+      "longitude": 12.572136
+    },
+    {
+      "name": "Prima Porta",
+      "latitude": 56.276726,
+      "longitude": 10.315792
+    },
+    {
+      "name": "Præstø smørrebrød",
+      "latitude": 55.122221,
+      "longitude": 12.036938
+    },
+    {
+      "name": "Rialto Smørrebrød",
+      "latitude": 55.67862,
+      "longitude": 12.532865
+    },
+    {
+      "name": "Ringsted Smørrebrød",
+      "latitude": 55.439734,
+      "longitude": 11.792782
+    },
+    {
+      "name": "Ritz VV8",
+      "latitude": 55.677878,
+      "longitude": 12.566667
+    },
+    {
+      "name": "Romania Food",
+      "latitude": 55.447326,
+      "longitude": 11.789158
+    },
+    {
+      "name": "Romanien Food",
+      "latitude": 55.659575,
+      "longitude": 12.405898
+    },
+    {
+      "name": "Rosetta",
+      "latitude": 55.700692,
+      "longitude": 12.579832
+    },
+    {
+      "name": "rosticceria",
+      "latitude": 55.407322,
+      "longitude": 10.344429
+    },
+    {
+      "name": "Rumænsk vin og delikatesse",
+      "latitude": 55.683275,
+      "longitude": 12.576512
+    },
+    {
+      "name": "Ruths Sild",
+      "latitude": 55.3198,
+      "longitude": 15.185214
+    },
+    {
+      "name": "Rødovre smørrebrød",
+      "latitude": 55.67212,
+      "longitude": 12.465169
+    },
+    {
+      "name": "Røg & Retter",
+      "latitude": 55.613633,
+      "longitude": 11.769026
+    },
+    {
+      "name": "Rørt",
+      "latitude": 55.683797,
+      "longitude": 12.57002
+    },
+    {
+      "name": "S.C. Smørrebrød",
+      "latitude": 55.430514,
+      "longitude": 9.929631
+    },
+    {
+      "name": "Salling Delikatesse",
+      "latitude": 56.154384,
+      "longitude": 10.207034
+    },
+    {
+      "name": "Salling Delikatesse",
+      "latitude": 57.047871,
+      "longitude": 9.921952
+    },
+    {
+      "name": "Samsø Madsnedkeri detail",
+      "latitude": 55.836206,
+      "longitude": 10.582256
+    },
+    {
+      "name": "Sandwich Børsen",
+      "latitude": 55.710192,
+      "longitude": 12.467568
+    },
+    {
+      "name": "Sane food by Larsen",
+      "latitude": 55.930978,
+      "longitude": 12.271544
+    },
+    {
+      "name": "Sannes Deli",
+      "latitude": 57.722186,
+      "longitude": 10.58933
+    },
+    {
+      "name": "Sapori",
+      "latitude": 55.403902,
+      "longitude": 11.350665
+    },
+    {
+      "name": "Selleberg Gårdbutik",
+      "latitude": 55.39229,
+      "longitude": 10.54459
+    },
+    {
+      "name": "Seoulmade",
+      "latitude": 55.673435,
+      "longitude": 12.549805
+    },
+    {
+      "name": "Sherry Smørrebrød",
+      "latitude": 55.678466,
+      "longitude": 12.502065
+    },
+    {
+      "name": "Shop VSS",
+      "latitude": 55.669707,
+      "longitude": 9.500381
+    },
+    {
+      "name": "Shoppen",
+      "latitude": 57.587516,
+      "longitude": 10.187367
+    },
+    {
+      "name": "Sicilian Heart",
+      "latitude": 55.641421,
+      "longitude": 12.63265
+    },
+    {
+      "name": "Sineklo",
+      "latitude": 55.708495,
+      "longitude": 12.572963
+    },
+    {
+      "name": "Skagen Ostehus",
+      "latitude": 57.720864,
+      "longitude": 10.589592
+    },
+    {
+      "name": "Skæve Mejeri",
+      "latitude": 57.283941,
+      "longitude": 10.234685
+    },
+    {
+      "name": "Sloppy Jo's",
+      "latitude": 55.692107,
+      "longitude": 12.544981
+    },
+    {
+      "name": "Smag duften specialbutik",
+      "latitude": 55.443515,
+      "longitude": 11.789902
+    },
+    {
+      "name": "Smagdansk",
+      "latitude": 55.709601,
+      "longitude": 9.534078
+    },
+    {
+      "name": "Smagen af Endelave",
+      "latitude": 55.758618,
+      "longitude": 10.279361
+    },
+    {
+      "name": "SMØR & BRØD TAASTRUP",
+      "latitude": 55.649482,
+      "longitude": 12.301305
+    },
+    {
+      "name": "Smør På Brød",
+      "latitude": 55.856055,
+      "longitude": 9.837
+    },
+    {
+      "name": "Smørblomsten",
+      "latitude": 55.254761,
+      "longitude": 11.302695
+    },
+    {
+      "name": "Smørrebrød & Restaurant ved Aaen",
+      "latitude": 55.703413,
+      "longitude": 9.544218
+    },
+    {
+      "name": "Smørrebrød Dalum",
+      "latitude": 55.369302,
+      "longitude": 10.371454
+    },
+    {
+      "name": "Social Food",
+      "latitude": 55.706447,
+      "longitude": 12.577708
+    },
+    {
+      "name": "Social Foodies",
+      "latitude": 56.14683,
+      "longitude": 10.203582
+    },
+    {
+      "name": "Social Foodies Frederiksberg",
+      "latitude": 55.675702,
+      "longitude": 12.544198
+    },
+    {
+      "name": "Social Foodies Hellerup",
+      "latitude": 55.734822,
+      "longitude": 12.574666
+    },
+    {
+      "name": "Social Foodies Lyngby",
+      "latitude": 55.772079,
+      "longitude": 12.501697
+    },
+    {
+      "name": "Social Foodies Nørrebro",
+      "latitude": 55.690445,
+      "longitude": 12.561018
+    },
+    {
+      "name": "Social Foodies Ordrup",
+      "latitude": 55.764277,
+      "longitude": 12.580053
+    },
+    {
+      "name": "Social Foodies Vedbæk",
+      "latitude": 55.850626,
+      "longitude": 12.568054
+    },
+    {
+      "name": "Spar Balling Delikatesse",
+      "latitude": 56.612887,
+      "longitude": 8.879954
+    },
+    {
+      "name": "Spar Bedsted Thy Delikatesse",
+      "latitude": 56.808578,
+      "longitude": 8.405172
+    },
+    {
+      "name": "Spar Bredebro Delikatesse",
+      "latitude": 55.058203,
+      "longitude": 8.829799
+    },
+    {
+      "name": "Spar Delikatessen",
+      "latitude": 55.983099,
+      "longitude": 9.285243
+    },
+    {
+      "name": "SPAR Felsted Delikatesse",
+      "latitude": 54.979228,
+      "longitude": 9.498059
+    },
+    {
+      "name": "Spar Fårup Delikatesse",
+      "latitude": 56.545185,
+      "longitude": 9.856072
+    },
+    {
+      "name": "Spar Horne Delikatesse",
+      "latitude": 55.109225,
+      "longitude": 10.170267
+    },
+    {
+      "name": "Spar Hornsyld Delikatesse",
+      "latitude": 55.75612,
+      "longitude": 9.854103
+    },
+    {
+      "name": "Spar Hune Delikatesse",
+      "latitude": 57.247183,
+      "longitude": 9.624876
+    },
+    {
+      "name": "SPAR Jebjerg Delikatesse",
+      "latitude": 56.668704,
+      "longitude": 9.010587
+    },
+    {
+      "name": "Spar Jyderup Slagter - Delikatesse",
+      "latitude": 55.663746,
+      "longitude": 11.410245
+    },
+    {
+      "name": "SPAR Lind Delikatesse",
+      "latitude": 56.107732,
+      "longitude": 8.978168
+    },
+    {
+      "name": "SPAR Risskov Delikatesse",
+      "latitude": 56.202988,
+      "longitude": 10.212536
+    },
+    {
+      "name": "Spar Rødovre port delikatesse",
+      "latitude": 55.665304,
+      "longitude": 12.458606
+    },
+    {
+      "name": "Spar Rørvigvej Delikatesse",
+      "latitude": 55.937659,
+      "longitude": 11.702743
+    },
+    {
+      "name": "Spar Sdr. Nærå Slager/delikatesse",
+      "latitude": 55.308906,
+      "longitude": 10.487431
+    },
+    {
+      "name": "Spar Skals delikatesse",
+      "latitude": 56.555999,
+      "longitude": 9.40294
+    },
+    {
+      "name": "Spar Slagter/delikatesse",
+      "latitude": 54.828148,
+      "longitude": 10.699973
+    },
+    {
+      "name": "Spar Snedsted Delikatesse",
+      "latitude": 56.891812,
+      "longitude": 8.526634
+    },
+    {
+      "name": "Spar Stoholm Delikatesse",
+      "latitude": 56.48548,
+      "longitude": 9.14678
+    },
+    {
+      "name": "Spar Suldrup Delikatessen",
+      "latitude": 56.846909,
+      "longitude": 9.700397
+    },
+    {
+      "name": "SPAR Teglholmen Delikatesse",
+      "latitude": 55.64944,
+      "longitude": 12.551649
+    },
+    {
+      "name": "Spar Thyborøn Delikatesse",
+      "latitude": 56.694788,
+      "longitude": 8.215394
+    },
+    {
+      "name": "Spar Ullerslev Delikatessen",
+      "latitude": 55.360538,
+      "longitude": 10.666149
+    },
+    {
+      "name": "SPAR Vindinge Delikatesse",
+      "latitude": 55.621505,
+      "longitude": 12.138311
+    },
+    {
+      "name": "Spar Wandallsvej Delikatesse",
+      "latitude": 55.049009,
+      "longitude": 10.582687
+    },
+    {
+      "name": "Spar Ålbæk Delikatesse",
+      "latitude": 57.593187,
+      "longitude": 10.412203
+    },
+    {
+      "name": "Spisekurven",
+      "latitude": 55.840087,
+      "longitude": 12.43064
+    },
+    {
+      "name": "Stigs Oliven",
+      "latitude": 55.104849,
+      "longitude": 14.701804
+    },
+    {
+      "name": "Stigs Oliven",
+      "latitude": 55.111842,
+      "longitude": 14.705655
+    },
+    {
+      "name": "Storgaard Delikatesser",
+      "latitude": 55.718748,
+      "longitude": 9.608346
+    },
+    {
+      "name": "Strandens Smørrebrød",
+      "latitude": 55.585232,
+      "longitude": 12.319147
+    },
+    {
+      "name": "Sult Delikatesse Kødkrogen / container",
+      "latitude": 56.110782,
+      "longitude": 10.135574
+    },
+    {
+      "name": "Sunrice.dk",
+      "latitude": 54.928228,
+      "longitude": 9.81552
+    },
+    {
+      "name": "SuperBrugsen Asnæs Centret Delikatesse",
+      "latitude": 55.81171,
+      "longitude": 11.502005
+    },
+    {
+      "name": "Superbrugsen Billund Delikatesse",
+      "latitude": 55.727396,
+      "longitude": 9.119471
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 54.82609,
+      "longitude": 9.362896
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 54.889122,
+      "longitude": 9.673823
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 54.910923,
+      "longitude": 9.892767
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 54.911535,
+      "longitude": 9.588743
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 54.936509,
+      "longitude": 9.255423
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.07203,
+      "longitude": 9.33561
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.158945,
+      "longitude": 8.763386
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.23726,
+      "longitude": 10.480291
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.360007,
+      "longitude": 10.590291
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.450745,
+      "longitude": 10.661208
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.456432,
+      "longitude": 9.475335
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.481862,
+      "longitude": 9.017009
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.492508,
+      "longitude": 12.187202
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.522069,
+      "longitude": 9.479392
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.544188,
+      "longitude": 12.115239
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.591561,
+      "longitude": 11.861305
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.7688,
+      "longitude": 9.700964
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.838378,
+      "longitude": 12.277693
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.83947,
+      "longitude": 12.544312
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.843534,
+      "longitude": 12.176566
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.849814,
+      "longitude": 9.482382
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.948386,
+      "longitude": 8.495099
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 55.965253,
+      "longitude": 12.408518
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 56.087015,
+      "longitude": 10.037334
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 56.117303,
+      "longitude": 10.194681
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 56.119636,
+      "longitude": 12.315966
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 56.237843,
+      "longitude": 10.233229
+    },
+    {
+      "name": "SuperBrugsen Delikatesse",
+      "latitude": 56.48125,
+      "longitude": 8.779127
+    },
+    {
+      "name": "SuperBrugsen Delikatesse og bake-off",
+      "latitude": 55.755963,
+      "longitude": 9.417544
+    },
+    {
+      "name": "SuperBrugsen Delikatesse/bake-off",
+      "latitude": 55.189564,
+      "longitude": 9.065406
+    },
+    {
+      "name": "SuperBrugsen Delikatessen",
+      "latitude": 55.806458,
+      "longitude": 8.620117
+    },
+    {
+      "name": "SuperBrugsen Delikatessen",
+      "latitude": 55.844418,
+      "longitude": 9.233428
+    },
+    {
+      "name": "SuperBrugsen Delikatessen",
+      "latitude": 55.852915,
+      "longitude": 11.578315
+    },
+    {
+      "name": "SuperBrugsen Delikatessen",
+      "latitude": 55.909896,
+      "longitude": 11.600081
+    },
+    {
+      "name": "SuperBrugsen Løgumkloster Delikatesse",
+      "latitude": 55.058508,
+      "longitude": 8.956497
+    },
+    {
+      "name": "SUPERBRUGSEN LØKKEN Delikatesse",
+      "latitude": 57.368829,
+      "longitude": 9.713146
+    },
+    {
+      "name": "superbrugsen marstal Delikatesse",
+      "latitude": 54.855834,
+      "longitude": 10.516579
+    },
+    {
+      "name": "SuperBrugsen Oksbøl Delikatesse",
+      "latitude": 55.624937,
+      "longitude": 8.277576
+    },
+    {
+      "name": "SuperBrugsen Stege Delikatesse",
+      "latitude": 54.981388,
+      "longitude": 12.281618
+    },
+    {
+      "name": "SuperBrugsen Ullerød Delikatesse",
+      "latitude": 55.939686,
+      "longitude": 12.275211
+    },
+    {
+      "name": "SushiMania",
+      "latitude": 56.46675,
+      "longitude": 9.399975
+    },
+    {
+      "name": "SushiMania",
+      "latitude": 57.455105,
+      "longitude": 10.005748
+    },
+    {
+      "name": "Søsters-Butik.dk",
+      "latitude": 55.567165,
+      "longitude": 10.088616
+    },
+    {
+      "name": "Table Ferments",
+      "latitude": 55.661024,
+      "longitude": 12.603433
+    },
+    {
+      "name": "Tang Nielsen Nørager Delikatesse",
+      "latitude": 56.706272,
+      "longitude": 9.630788
+    },
+    {
+      "name": "Tarup Gamle Mejeri",
+      "latitude": 55.414019,
+      "longitude": 10.346758
+    },
+    {
+      "name": "TaTapas",
+      "latitude": 55.878719,
+      "longitude": 12.50107
+    },
+    {
+      "name": "Terpager & Co",
+      "latitude": 55.329173,
+      "longitude": 8.764243
+    },
+    {
+      "name": "Th. Sørensen",
+      "latitude": 55.664141,
+      "longitude": 12.601125
+    },
+    {
+      "name": "Thailandia Import",
+      "latitude": 55.475879,
+      "longitude": 8.437293
+    },
+    {
+      "name": "The Huset",
+      "latitude": 55.488856,
+      "longitude": 9.473024
+    },
+    {
+      "name": "Things Deli & Takeaway",
+      "latitude": 56.215271,
+      "longitude": 10.281919
+    },
+    {
+      "name": "Thy Specialhandel",
+      "latitude": 56.750128,
+      "longitude": 8.418206
+    },
+    {
+      "name": "Tilberedt",
+      "latitude": 55.763186,
+      "longitude": 12.307425
+    },
+    {
+      "name": "Torvehal Bornholm",
+      "latitude": 55.111818,
+      "longitude": 14.705642
+    },
+    {
+      "name": "Torvets Kaffe & Chokolade",
+      "latitude": 57.334357,
+      "longitude": 10.5181
+    },
+    {
+      "name": "Treasures of Crete",
+      "latitude": 55.6727,
+      "longitude": 12.491094
+    },
+    {
+      "name": "Truffle and Caviar Shop",
+      "latitude": 55.682839,
+      "longitude": 12.565713
+    },
+    {
+      "name": "U-Home market",
+      "latitude": 55.681951,
+      "longitude": 12.588486
+    },
+    {
+      "name": "Ulles",
+      "latitude": 55.043095,
+      "longitude": 9.419503
+    },
+    {
+      "name": "Ume Asian Supermarket - Vanløse",
+      "latitude": 55.688927,
+      "longitude": 12.489306
+    },
+    {
+      "name": "Urtegaarden",
+      "latitude": 56.486437,
+      "longitude": 10.421718
+    },
+    {
+      "name": "V-Bistro",
+      "latitude": 57.459291,
+      "longitude": 9.986529
+    },
+    {
+      "name": "Vejle Smørrebrød",
+      "latitude": 55.71601,
+      "longitude": 9.526523
+    },
+    {
+      "name": "Velsmag & Velbehag",
+      "latitude": 57.006587,
+      "longitude": 9.816936
+    },
+    {
+      "name": "Vernholt gårdbutik",
+      "latitude": 55.511472,
+      "longitude": 9.785508
+    },
+    {
+      "name": "Vesterlunds Smørrebrød",
+      "latitude": 55.723464,
+      "longitude": 12.422896
+    },
+    {
+      "name": "Vesterport Madmarked",
+      "latitude": 56.462389,
+      "longitude": 10.023345
+    },
+    {
+      "name": "Vestkystens Gårdbutik",
+      "latitude": 56.160636,
+      "longitude": 8.123147
+    },
+    {
+      "name": "ViaMaria",
+      "latitude": 56.143262,
+      "longitude": 10.19219
+    },
+    {
+      "name": "Vibe Smørrebrød",
+      "latitude": 55.698601,
+      "longitude": 12.529587
+    },
+    {
+      "name": "Vibækgaard Foder Frugt & Grønt",
+      "latitude": 54.969163,
+      "longitude": 12.19941
+    },
+    {
+      "name": "VILDMED LÆKKERIER",
+      "latitude": 56.795377,
+      "longitude": 8.860463
+    },
+    {
+      "name": "Vores Marked Frederiksberg",
+      "latitude": 55.686632,
+      "longitude": 12.533344
+    },
+    {
+      "name": "Wild Apple Kombucha",
+      "latitude": 55.647078,
+      "longitude": 8.33944
+    },
+    {
+      "name": "Wintherriet",
+      "latitude": 55.567251,
+      "longitude": 8.545764
+    },
+    {
+      "name": "Wium Leverpostej",
+      "latitude": 55.512635,
+      "longitude": 8.461484
+    },
+    {
+      "name": "Wonderful Lifestyle",
+      "latitude": 55.444716,
+      "longitude": 11.789686
+    },
+    {
+      "name": "Yoshiya",
+      "latitude": 55.710894,
+      "longitude": 9.122963
+    },
+    {
+      "name": "Ø-Haven",
+      "latitude": 56.073744,
+      "longitude": 8.857234
+    },
+    {
+      "name": "Økoladen",
+      "latitude": 56.065765,
+      "longitude": 8.358835
+    }
+  ],
+  "meta": {
+    "title": "Delikatesseforretninger i Danmark (Delicatessens in Denmark) - Gratis download",
+    "description": "Delicatessens in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=deli. Indeholder 564 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Delikatesseforretninger i Danmark (Delicatessens in Denmark) | ListBase",
+    "seo_description": "Download Delikatesseforretninger i Danmark (Delicatessens in Denmark) — 564 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 564 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": "da-fodboldklubber",
+  "name": "Danske fodboldklubber",
+  "title": "Danske fodboldklubber",
+  "description": "Football clubs in DK with founding year, stadium, city",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "FC København",
+      "founded": 1992,
+      "aliases": "København | Football Club København, Copenhagen | FC Copenhagen [en], FC Kopenhagen [de], B 1903 | Boldklubben 1903, KB | Kjøbenhavns BK | Kjøbenhavns Boldklub"
+    },
+    {
+      "name": "B93 København",
+      "founded": 1893,
+      "aliases": "B.93 | Boldklubben 1893, B93 Kopenhagen  [de], Fremad Amager, Brønshøj Boldklub, B.1908 | Boldklubben 1908"
+    },
+    {
+      "name": "BK Frem",
+      "founded": 1886,
+      "aliases": "Boldklubben Frem, Frem København | BK Frem København, BK Frem Copenhagen, Frem, AB Gladsaxe |  Akademisk Boldklub Gladsaxe, Akademisk BK, AB København, AB"
+    },
+    {
+      "name": "Brøndby IF",
+      "founded": 1964,
+      "stadium": "Brøndby Stadion",
+      "city": "Brøndbyvester       ## use Brøndby ??",
+      "aliases": "Brøndby | Brøndbyernes Idrætsforening"
+    },
+    {
+      "name": "FC Nordsjælland",
+      "founded": 1991,
+      "aliases": "Nordsjælland | Football Club Nordsjælland"
+    },
+    {
+      "name": "FC Helsingør",
+      "founded": 2005,
+      "aliases": "Helsingør"
+    },
+    {
+      "name": "Lyngby BK",
+      "founded": 1921,
+      "stadium": "Lyngby Stadion",
+      "city": "Lyngby",
+      "aliases": "Lyngby | Lyngby Boldklub, Lyngby Boldklub af 1921"
+    },
+    {
+      "name": "Aalborg BK",
+      "founded": 1885,
+      "stadium": "Aalborg Portland Park",
+      "city": "Aalborg",
+      "aliases": "AaB | Aalborg | AaB Aalborg, Aalborg Boldspilklub"
+    },
+    {
+      "name": "Hobro IK",
+      "founded": 1913,
+      "aliases": "Hobro | Hobro Idræts Klub, Vendsyssel"
+    },
+    {
+      "name": "FC Midtjylland",
+      "founded": 1999,
+      "aliases": "Midtjylland | Football Club Midtjylland, IFS | Ikast Forenede Sportsklubber, Ikast"
+    },
+    {
+      "name": "AGF Aarhus",
+      "founded": 1880,
+      "stadium": "Ceres Park",
+      "city": "Aarhus",
+      "aliases": "AGF | Aarhus, Aarhus GF, Aarhus Gymnastikforening, Aarhus Gymnastikforening af 1880"
+    },
+    {
+      "name": "Viborg FF",
+      "founded": 1896,
+      "aliases": "Viborg | Viborg Fodsports Forening"
+    },
+    {
+      "name": "AC Horsens",
+      "founded": 1994,
+      "stadium": "CASA Arena Horsens",
+      "city": "Horsens",
+      "aliases": "Horsens, Alliance Club Horsens"
+    },
+    {
+      "name": "Silkeborg IF",
+      "founded": 1917,
+      "aliases": "Silkeborg | SIF | Silkeborg Idrætsforening"
+    },
+    {
+      "name": "Randers FC",
+      "founded": 2003,
+      "stadium": "Cepheus Park Randers",
+      "city": "Randers",
+      "aliases": "Randers | Randers Football Club, Randers Sportsklub Freja"
+    },
+    {
+      "name": "Sønderjysk Elitesport",
+      "founded": 2004,
+      "stadium": "Sydbank Park",
+      "city": "Haderslev",
+      "aliases": "SønderjyskE | SønderjyskE Fodbold"
+    },
+    {
+      "name": "Odense BK",
+      "founded": 1887,
+      "aliases": "OB | Odense | Odense Boldklub, OB Odense, B 1909 | Boldklubben 1909, B 1913 | Boldklubben 1913"
+    },
+    {
+      "name": "Esbjerg fB",
+      "founded": 1924,
+      "aliases": "Esbjerg | Esbjerg forenede Boldklubber"
+    },
+    {
+      "name": "Vejle",
+      "founded": 1891,
+      "stadium": "Vejle Stadion",
+      "city": "Vejle",
+      "aliases": "Vejle BK | Vejle Boldklub, VB, Vestsjælland"
+    },
+    {
+      "name": "HB Køge",
+      "founded": 2009,
+      "aliases": "Køge, Herfølge Boldklub, Køge Boldklub    # champs (1): 1976/77"
+    },
+    {
+      "name": "Holbæk B&I",
+      "founded": 1931,
+      "aliases": "Holbæk Bold- & Idrætsforening, Holbæk"
+    },
+    {
+      "name": "Hvidovre IF",
+      "founded": 1925,
+      "stadium": "Hvidovre Stadium",
+      "city": "Hvidovre",
+      "aliases": "Hvidovre, Hvidovre Idrætsforening, B1901 Nykøbing, Næstved IF, Næstved, Middelfart G&BK, HIK | HIK Hellerup"
+    }
+  ],
+  "meta": {
+    "title": "Danske fodboldklubber - Gratis download",
+    "description": "Football clubs in DK with founding year, stadium, city Indeholder 22 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Danske fodboldklubber | ListBase",
+    "seo_description": "Download Danske fodboldklubber — 22 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 22 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

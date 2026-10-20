@@ -1,0 +1,1596 @@
+{
+  "id": "da-laeger",
+  "name": "Læger og lægehuse i Danmark (Doctors and clinics in Denmark)",
+  "title": "Læger og lægehuse i Danmark (Doctors and clinics in Denmark)",
+  "description": "Doctors and clinics in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=doctors, healthcare=doctor.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 311,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aalestrup Lægehus",
+      "latitude": 56.69586,
+      "longitude": 9.492702
+    },
+    {
+      "name": "Aarup Lægerne",
+      "latitude": 55.374057,
+      "longitude": 10.052655
+    },
+    {
+      "name": "Akutmodtagelse",
+      "latitude": 55.056244,
+      "longitude": 10.606742
+    },
+    {
+      "name": "alles Lægehus",
+      "latitude": 56.357905,
+      "longitude": 8.61905
+    },
+    {
+      "name": "Alles Lægehus",
+      "latitude": 57.589809,
+      "longitude": 9.96211
+    },
+    {
+      "name": "alles Lægehus Bylderup-Bov",
+      "latitude": 54.937801,
+      "longitude": 9.080701
+    },
+    {
+      "name": "alles Lægehus Esbjerg",
+      "latitude": 55.518243,
+      "longitude": 8.368242
+    },
+    {
+      "name": "alles Lægehus Esbjerg C",
+      "latitude": 55.467327,
+      "longitude": 8.440799
+    },
+    {
+      "name": "alles Lægehus Fursund",
+      "latitude": 56.798533,
+      "longitude": 9.030131
+    },
+    {
+      "name": "alles Lægehus Hundested",
+      "latitude": 55.958272,
+      "longitude": 11.851892
+    },
+    {
+      "name": "Alles Lægehus Hurup",
+      "latitude": 56.752983,
+      "longitude": 8.416161
+    },
+    {
+      "name": "Alles Lægehus Nykøbing Sjælland",
+      "latitude": 55.920997,
+      "longitude": 11.663271
+    },
+    {
+      "name": "alles Lægehus Willemoesgade",
+      "latitude": 55.467214,
+      "longitude": 8.440841
+    },
+    {
+      "name": "Alléens Lægeklinik",
+      "latitude": 55.636459,
+      "longitude": 12.649232
+    },
+    {
+      "name": "Almen Lægeklinik Esbjerg C",
+      "latitude": 55.472687,
+      "longitude": 8.445797
+    },
+    {
+      "name": "Almen Lægeklinik Holstebro",
+      "latitude": 56.362088,
+      "longitude": 8.619433
+    },
+    {
+      "name": "Alment Praktiserende Læger Houmand & Grundsøe",
+      "latitude": 55.401585,
+      "longitude": 11.374821
+    },
+    {
+      "name": "Anders Munk",
+      "latitude": 55.633396,
+      "longitude": 12.582039
+    },
+    {
+      "name": "Bagvsærd Lægecenter",
+      "latitude": 55.760938,
+      "longitude": 12.451147
+    },
+    {
+      "name": "Behandlerhuset Dokken",
+      "latitude": 56.951786,
+      "longitude": 8.69485
+    },
+    {
+      "name": "Birkerød Gynækologiske Klinik",
+      "latitude": 55.840522,
+      "longitude": 12.431726
+    },
+    {
+      "name": "Boel Akupunktur",
+      "latitude": 56.262364,
+      "longitude": 8.783979
+    },
+    {
+      "name": "Bryggens Lægehus",
+      "latitude": 55.667105,
+      "longitude": 12.578318
+    },
+    {
+      "name": "Brøndby Lægeklinik",
+      "latitude": 55.665784,
+      "longitude": 12.436269
+    },
+    {
+      "name": "Byens Øjenklinik",
+      "latitude": 55.862223,
+      "longitude": 9.843933
+    },
+    {
+      "name": "Børnelægen",
+      "latitude": 56.166933,
+      "longitude": 10.228011
+    },
+    {
+      "name": "Center for Kommunikation",
+      "latitude": 56.148488,
+      "longitude": 8.961938
+    },
+    {
+      "name": "Copenhagen Eye Clinic",
+      "latitude": 55.666909,
+      "longitude": 12.531886
+    },
+    {
+      "name": "De to læger",
+      "latitude": 55.756518,
+      "longitude": 12.49755
+    },
+    {
+      "name": "Dianalund Lægecenter",
+      "latitude": 55.526194,
+      "longitude": 11.495958
+    },
+    {
+      "name": "Dine Læger Leth, Bøg og Damgaard",
+      "latitude": 56.03401,
+      "longitude": 9.928091
+    },
+    {
+      "name": "Doktorborg",
+      "latitude": 55.718933,
+      "longitude": 9.607067
+    },
+    {
+      "name": "Egålægerne",
+      "latitude": 56.208736,
+      "longitude": 10.274154
+    },
+    {
+      "name": "Eriksborg Lægehus",
+      "latitude": 56.202659,
+      "longitude": 9.597656
+    },
+    {
+      "name": "Erritsø Lægehus",
+      "latitude": 55.543973,
+      "longitude": 9.716605
+    },
+    {
+      "name": "Esbjerg Offshore Medicals",
+      "latitude": 55.472903,
+      "longitude": 8.473587
+    },
+    {
+      "name": "Esbjerg Offshore Medicals",
+      "latitude": 55.505332,
+      "longitude": 8.578175
+    },
+    {
+      "name": "Esbjerg øre- næse og halsklinik",
+      "latitude": 55.518273,
+      "longitude": 8.367993
+    },
+    {
+      "name": "Esbjerg-lægerne",
+      "latitude": 55.473461,
+      "longitude": 8.43198
+    },
+    {
+      "name": "Familielægerne Brøndby",
+      "latitude": 55.665793,
+      "longitude": 12.436482
+    },
+    {
+      "name": "FamilieLægerne Espergærde",
+      "latitude": 55.998146,
+      "longitude": 12.506987
+    },
+    {
+      "name": "Familielægerne i Børkop",
+      "latitude": 55.644693,
+      "longitude": 9.656108
+    },
+    {
+      "name": "Familielægerne Sydfyn",
+      "latitude": 55.060225,
+      "longitude": 10.607847
+    },
+    {
+      "name": "Familielægerne Sydvest",
+      "latitude": 57.018096,
+      "longitude": 9.878603
+    },
+    {
+      "name": "Familielægerne Viby Sjælland",
+      "latitude": 55.548106,
+      "longitude": 12.026598
+    },
+    {
+      "name": "Fod Fruen",
+      "latitude": 55.471061,
+      "longitude": 8.438409
+    },
+    {
+      "name": "Frederiksborgvej Lægerne",
+      "latitude": 55.870868,
+      "longitude": 12.3488
+    },
+    {
+      "name": "Furesø Gynækologi",
+      "latitude": 55.783832,
+      "longitude": 12.372786
+    },
+    {
+      "name": "Ghassan Øjenklinik",
+      "latitude": 57.046076,
+      "longitude": 9.921934
+    },
+    {
+      "name": "Glumsø lægehus",
+      "latitude": 55.354367,
+      "longitude": 11.690843
+    },
+    {
+      "name": "Grenaa Sundhedshus",
+      "latitude": 56.417971,
+      "longitude": 10.863727
+    },
+    {
+      "name": "Havnestadens Lægehus",
+      "latitude": 55.662146,
+      "longitude": 12.576881
+    },
+    {
+      "name": "Helkrops MR",
+      "latitude": 56.148845,
+      "longitude": 10.208509
+    },
+    {
+      "name": "Helsecenter Fyn",
+      "latitude": 55.394044,
+      "longitude": 10.350277
+    },
+    {
+      "name": "Helsecenter Midt",
+      "latitude": 55.958822,
+      "longitude": 8.643975
+    },
+    {
+      "name": "Helsecenter Midt Borris",
+      "latitude": 55.961764,
+      "longitude": 8.641835
+    },
+    {
+      "name": "Hinneruplægerne",
+      "latitude": 56.262196,
+      "longitude": 10.078376
+    },
+    {
+      "name": "Holstebro Øjenklinik",
+      "latitude": 56.357975,
+      "longitude": 8.619405
+    },
+    {
+      "name": "Hudklinikken Esbjerg",
+      "latitude": 55.465407,
+      "longitude": 8.447318
+    },
+    {
+      "name": "Hudklinikken Frederiksberg",
+      "latitude": 55.675915,
+      "longitude": 12.545126
+    },
+    {
+      "name": "Hudlæge Jette Riis",
+      "latitude": 57.038959,
+      "longitude": 9.952841
+    },
+    {
+      "name": "Hudlægeklinikken Ella Petersen",
+      "latitude": 55.467464,
+      "longitude": 8.454704
+    },
+    {
+      "name": "Hudlægerne Amagerbrogade",
+      "latitude": 55.666519,
+      "longitude": 12.598185
+    },
+    {
+      "name": "Hvide Sande Lægehus",
+      "latitude": 56.012354,
+      "longitude": 8.130091
+    },
+    {
+      "name": "Hårlevlægerne",
+      "latitude": 55.351608,
+      "longitude": 12.232292
+    },
+    {
+      "name": "Hørecenter-Nord",
+      "latitude": 57.046256,
+      "longitude": 9.920644
+    },
+    {
+      "name": "Jacobi Lægerne",
+      "latitude": 55.627704,
+      "longitude": 8.484088
+    },
+    {
+      "name": "Kanalbyens Lægeklinik",
+      "latitude": 55.648558,
+      "longitude": 12.551348
+    },
+    {
+      "name": "Karise Lægerne",
+      "latitude": 55.30552,
+      "longitude": 12.208067
+    },
+    {
+      "name": "Kirorisk Klinik Odense",
+      "latitude": 55.384959,
+      "longitude": 10.425982
+    },
+    {
+      "name": "Kirsten Habekost",
+      "latitude": 55.675054,
+      "longitude": 12.546853
+    },
+    {
+      "name": "Kirurgisk Klinik Esbjerg",
+      "latitude": 55.465523,
+      "longitude": 8.447376
+    },
+    {
+      "name": "Klinik for Fodterapi",
+      "latitude": 55.844181,
+      "longitude": 12.435138
+    },
+    {
+      "name": "Klinik for fodterapi",
+      "latitude": 57.045286,
+      "longitude": 9.923564
+    },
+    {
+      "name": "Klinik for fodterapi",
+      "latitude": 57.045356,
+      "longitude": 9.918115
+    },
+    {
+      "name": "Klinik for fodterapi ved Lene Nielsen",
+      "latitude": 55.46813,
+      "longitude": 8.456823
+    },
+    {
+      "name": "Klinik for Øre-Næse og Halssygdomme ved speciallæge",
+      "latitude": 55.770805,
+      "longitude": 12.50277
+    },
+    {
+      "name": "Kongsvejsparkens Lægehus",
+      "latitude": 54.913795,
+      "longitude": 9.802873
+    },
+    {
+      "name": "Korinth Lægehus",
+      "latitude": 55.142739,
+      "longitude": 10.328623
+    },
+    {
+      "name": "Kostmetisk Klinik",
+      "latitude": 55.384921,
+      "longitude": 10.425666
+    },
+    {
+      "name": "Lift Clinic",
+      "latitude": 55.46667,
+      "longitude": 8.448929
+    },
+    {
+      "name": "Lokalpsykiatri Odense",
+      "latitude": 55.405923,
+      "longitude": 10.38131
+    },
+    {
+      "name": "Lunge- og Allergiklinikken",
+      "latitude": 55.727508,
+      "longitude": 12.549483
+    },
+    {
+      "name": "Læge Amneh Hawwa",
+      "latitude": 55.71947,
+      "longitude": 12.481064
+    },
+    {
+      "name": "Læge Anders Peter Winther",
+      "latitude": 55.842015,
+      "longitude": 12.432977
+    },
+    {
+      "name": "Læge Anette Henriksen",
+      "latitude": 56.2387,
+      "longitude": 10.234834
+    },
+    {
+      "name": "Læge Bo Gamborg Nielsen",
+      "latitude": 55.396949,
+      "longitude": 10.379971
+    },
+    {
+      "name": "Læge Christel Jackson",
+      "latitude": 55.691324,
+      "longitude": 12.487742
+    },
+    {
+      "name": "Læge Jacob Laurberg",
+      "latitude": 56.16072,
+      "longitude": 10.209186
+    },
+    {
+      "name": "Læge Jan Andersen",
+      "latitude": 55.8431,
+      "longitude": 12.432591
+    },
+    {
+      "name": "Læge Jesper Stjernholm Micheelsen",
+      "latitude": 55.840461,
+      "longitude": 12.431734
+    },
+    {
+      "name": "Læge Jørgen Kristensens og medarbejdere",
+      "latitude": 55.946032,
+      "longitude": 8.495108
+    },
+    {
+      "name": "Læge Klaus Höfle",
+      "latitude": 55.469909,
+      "longitude": 8.448576
+    },
+    {
+      "name": "Læge Lars Ditlev Andersen",
+      "latitude": 55.840756,
+      "longitude": 12.431538
+    },
+    {
+      "name": "Læge Lise Svendsen og Hans Hanehø",
+      "latitude": 55.861238,
+      "longitude": 12.343296
+    },
+    {
+      "name": "Læge Michael Bruun",
+      "latitude": 56.49287,
+      "longitude": 8.593977
+    },
+    {
+      "name": "Læge Mikkel Granlien",
+      "latitude": 55.868115,
+      "longitude": 12.348254
+    },
+    {
+      "name": "Læge Mikkel Nordkap",
+      "latitude": 57.046925,
+      "longitude": 9.918179
+    },
+    {
+      "name": "Læge Mogens Lyngshøj",
+      "latitude": 55.464897,
+      "longitude": 8.448645
+    },
+    {
+      "name": "Læge Peter Søgård Jensen",
+      "latitude": 56.136454,
+      "longitude": 8.973911
+    },
+    {
+      "name": "Læge Peter Søndergaard",
+      "latitude": 55.843215,
+      "longitude": 12.43274
+    },
+    {
+      "name": "Læge Philipp Harbig",
+      "latitude": 56.18081,
+      "longitude": 10.202274
+    },
+    {
+      "name": "Læge Preben Dissing",
+      "latitude": 56.415613,
+      "longitude": 10.874751
+    },
+    {
+      "name": "Læge Regnar Rasmussen",
+      "latitude": 57.049618,
+      "longitude": 9.911428
+    },
+    {
+      "name": "Læge Susanne Garne",
+      "latitude": 55.840876,
+      "longitude": 12.430499
+    },
+    {
+      "name": "Læge Thomas Nygaard Nissen",
+      "latitude": 55.469958,
+      "longitude": 8.448589
+    },
+    {
+      "name": "Læge Uwe Karstensen",
+      "latitude": 54.967529,
+      "longitude": 8.695546
+    },
+    {
+      "name": "Lægecenter Syd",
+      "latitude": 57.018283,
+      "longitude": 9.878967
+    },
+    {
+      "name": "Lægecenter Værløse",
+      "latitude": 55.782867,
+      "longitude": 12.373961
+    },
+    {
+      "name": "Lægehjørnet",
+      "latitude": 55.695817,
+      "longitude": 12.550858
+    },
+    {
+      "name": "Lægehus",
+      "latitude": 54.999071,
+      "longitude": 12.085193
+    },
+    {
+      "name": "Lægehus",
+      "latitude": 55.701909,
+      "longitude": 9.374153
+    },
+    {
+      "name": "Lægehus Midtbyen",
+      "latitude": 55.492625,
+      "longitude": 9.48256
+    },
+    {
+      "name": "Lægehus Nord",
+      "latitude": 55.497462,
+      "longitude": 9.489624
+    },
+    {
+      "name": "Lægehuset",
+      "latitude": 55.09412,
+      "longitude": 14.709855
+    },
+    {
+      "name": "Lægehuset",
+      "latitude": 55.449911,
+      "longitude": 8.402563
+    },
+    {
+      "name": "Lægehuset",
+      "latitude": 55.577159,
+      "longitude": 12.276456
+    },
+    {
+      "name": "Lægehuset",
+      "latitude": 55.658768,
+      "longitude": 11.397182
+    },
+    {
+      "name": "Lægehuset",
+      "latitude": 55.808739,
+      "longitude": 12.360897
+    },
+    {
+      "name": "Lægehuset",
+      "latitude": 56.271536,
+      "longitude": 8.324304
+    },
+    {
+      "name": "Lægehuset",
+      "latitude": 56.29981,
+      "longitude": 10.475577
+    },
+    {
+      "name": "Lægehuset",
+      "latitude": 56.966527,
+      "longitude": 9.254073
+    },
+    {
+      "name": "Lægehuset Ansager",
+      "latitude": 55.70345,
+      "longitude": 8.753995
+    },
+    {
+      "name": "Lægehuset Banegårdspladsen 6",
+      "latitude": 56.150866,
+      "longitude": 10.20443
+    },
+    {
+      "name": "Lægehuset Dommervænget",
+      "latitude": 55.640472,
+      "longitude": 12.10926
+    },
+    {
+      "name": "Lægehuset Fjelsted",
+      "latitude": 55.441395,
+      "longitude": 10.015463
+    },
+    {
+      "name": "Lægehuset Fjerritslev I/S",
+      "latitude": 57.085663,
+      "longitude": 9.2678
+    },
+    {
+      "name": "Lægehuset Frederiks",
+      "latitude": 56.339189,
+      "longitude": 9.250815
+    },
+    {
+      "name": "Lægehuset Fyrvej",
+      "latitude": 55.496947,
+      "longitude": 8.40247
+    },
+    {
+      "name": "Lægehuset H. I. Biesgade",
+      "latitude": 56.639362,
+      "longitude": 9.796197
+    },
+    {
+      "name": "Lægehuset Helgolandsgade",
+      "latitude": 55.473511,
+      "longitude": 8.43193
+    },
+    {
+      "name": "Lægehuset i Bellinge",
+      "latitude": 55.337485,
+      "longitude": 10.315919
+    },
+    {
+      "name": "Lægehuset i Borup",
+      "latitude": 55.49991,
+      "longitude": 11.986095
+    },
+    {
+      "name": "Lægehuset i Fraugde",
+      "latitude": 55.358678,
+      "longitude": 10.49875
+    },
+    {
+      "name": "Lægehuset i Hedensted",
+      "latitude": 55.779548,
+      "longitude": 9.689984
+    },
+    {
+      "name": "Lægehuset i Kibæk",
+      "latitude": 56.027912,
+      "longitude": 8.852317
+    },
+    {
+      "name": "Lægehuset i Kværndrup",
+      "latitude": 55.178296,
+      "longitude": 10.525057
+    },
+    {
+      "name": "Lægehuset i Møldrup",
+      "latitude": 56.620618,
+      "longitude": 9.501936
+    },
+    {
+      "name": "Lægehuset i Ribe",
+      "latitude": 55.3303,
+      "longitude": 8.76953
+    },
+    {
+      "name": "Lægehuset i Smørum",
+      "latitude": 55.733211,
+      "longitude": 12.303495
+    },
+    {
+      "name": "Lægehuset i Spjald",
+      "latitude": 56.121186,
+      "longitude": 8.501974
+    },
+    {
+      "name": "Lægehuset i Tørring",
+      "latitude": 55.84919,
+      "longitude": 9.484684
+    },
+    {
+      "name": "Lægehuset i Vissenbjerg",
+      "latitude": 55.384672,
+      "longitude": 10.136797
+    },
+    {
+      "name": "Lægehuset Kirkedammen",
+      "latitude": 56.140097,
+      "longitude": 10.177724
+    },
+    {
+      "name": "Lægehuset Klostergården",
+      "latitude": 55.489071,
+      "longitude": 9.475523
+    },
+    {
+      "name": "Lægehuset Kongevejen",
+      "latitude": 55.791215,
+      "longitude": 12.485156
+    },
+    {
+      "name": "Lægehuset Korsgade",
+      "latitude": 56.63684,
+      "longitude": 9.791685
+    },
+    {
+      "name": "Lægehuset Korupcentret",
+      "latitude": 55.419396,
+      "longitude": 10.273708
+    },
+    {
+      "name": "Lægehuset Krumtappen",
+      "latitude": 55.659321,
+      "longitude": 12.517539
+    },
+    {
+      "name": "Lægehuset Københavnsvej",
+      "latitude": 55.933325,
+      "longitude": 12.313826
+    },
+    {
+      "name": "Lægehuset Langesvej",
+      "latitude": 55.929572,
+      "longitude": 12.310121
+    },
+    {
+      "name": "Lægehuset Lundby-Præstø",
+      "latitude": 55.10912,
+      "longitude": 11.871563
+    },
+    {
+      "name": "Lægehuset Nr. Broby",
+      "latitude": 55.251906,
+      "longitude": 10.23097
+    },
+    {
+      "name": "Lægehuset Nyvej 6",
+      "latitude": 55.641142,
+      "longitude": 9.650887
+    },
+    {
+      "name": "Lægehuset Nørregade 22",
+      "latitude": 55.468984,
+      "longitude": 8.454161
+    },
+    {
+      "name": "Lægehuset Rebæk Søpark",
+      "latitude": 55.663244,
+      "longitude": 12.457426
+    },
+    {
+      "name": "Lægehuset Regstrup",
+      "latitude": 55.663223,
+      "longitude": 11.619757
+    },
+    {
+      "name": "Lægehuset Rudkøbing",
+      "latitude": 54.934311,
+      "longitude": 10.7155
+    },
+    {
+      "name": "Lægehuset Ryomgård",
+      "latitude": 56.380385,
+      "longitude": 10.501566
+    },
+    {
+      "name": "Lægehuset Rødby",
+      "latitude": 54.696385,
+      "longitude": 11.393207
+    },
+    {
+      "name": "Lægehuset Sct. Anne",
+      "latitude": 55.39398,
+      "longitude": 10.384969
+    },
+    {
+      "name": "Lægehuset Stenløse",
+      "latitude": 55.76929,
+      "longitude": 12.194294
+    },
+    {
+      "name": "Lægehuset Storegade",
+      "latitude": 55.471249,
+      "longitude": 8.466584
+    },
+    {
+      "name": "Lægehuset Thyborøn",
+      "latitude": 56.699777,
+      "longitude": 8.213596
+    },
+    {
+      "name": "Lægehuset Vester Sottrup",
+      "latitude": 54.945059,
+      "longitude": 9.694099
+    },
+    {
+      "name": "Lægehuset Æblegården",
+      "latitude": 55.625453,
+      "longitude": 12.602513
+    },
+    {
+      "name": "Lægehuset Østergade",
+      "latitude": 55.468529,
+      "longitude": 8.456898
+    },
+    {
+      "name": "Lægehuset Østermarken",
+      "latitude": 56.804269,
+      "longitude": 9.526337
+    },
+    {
+      "name": "Lægeklinikken Saad Whaeb",
+      "latitude": 55.464744,
+      "longitude": 8.450549
+    },
+    {
+      "name": "Lægeklinikken Sulsted",
+      "latitude": 57.155959,
+      "longitude": 9.964614
+    },
+    {
+      "name": "Lægeklinikken Susanne Schovsbo",
+      "latitude": 56.357861,
+      "longitude": 8.619571
+    },
+    {
+      "name": "Lægeklinikken Tangevej",
+      "latitude": 55.326971,
+      "longitude": 8.777961
+    },
+    {
+      "name": "Lægen på Anholt",
+      "latitude": 56.706537,
+      "longitude": 11.543017
+    },
+    {
+      "name": "Lægerne Amagerbrogade 17",
+      "latitude": 55.667082,
+      "longitude": 12.598118
+    },
+    {
+      "name": "Lægerne Asylgade 19",
+      "latitude": 57.444482,
+      "longitude": 10.53442
+    },
+    {
+      "name": "Lægerne Baandrup & Secher",
+      "latitude": 56.233817,
+      "longitude": 10.228032
+    },
+    {
+      "name": "Lægerne Bagsværd Nord",
+      "latitude": 55.758239,
+      "longitude": 12.449425
+    },
+    {
+      "name": "Lægerne Bell og Rask",
+      "latitude": 56.142607,
+      "longitude": 10.202929
+    },
+    {
+      "name": "Lægerne Boulevarden 30",
+      "latitude": 57.045023,
+      "longitude": 9.917954
+    },
+    {
+      "name": "Lægerne Byparken",
+      "latitude": 55.464576,
+      "longitude": 8.453264
+    },
+    {
+      "name": "Lægerne Charlotte Syversen, Søren Clausen, Jens Bertelsen",
+      "latitude": 55.595325,
+      "longitude": 12.670161
+    },
+    {
+      "name": "Lægerne Cityhuset",
+      "latitude": 56.136012,
+      "longitude": 8.9719
+    },
+    {
+      "name": "Lægerne Dupont og Johansen",
+      "latitude": 55.843255,
+      "longitude": 12.432615
+    },
+    {
+      "name": "Lægerne Egevej",
+      "latitude": 55.755243,
+      "longitude": 9.856131
+    },
+    {
+      "name": "Lægerne Fredensvej I/S",
+      "latitude": 54.936383,
+      "longitude": 10.719222
+    },
+    {
+      "name": "Lægerne Frederiksværksgade",
+      "latitude": 55.935811,
+      "longitude": 12.294728
+    },
+    {
+      "name": "Lægerne Gasvej 5",
+      "latitude": 55.861819,
+      "longitude": 9.86077
+    },
+    {
+      "name": "Lægerne Hasseris Bymidte",
+      "latitude": 57.036428,
+      "longitude": 9.88501
+    },
+    {
+      "name": "Lægerne Havborgvej",
+      "latitude": 55.518126,
+      "longitude": 8.368547
+    },
+    {
+      "name": "Lægerne Havnegade 39B",
+      "latitude": 55.464815,
+      "longitude": 8.449701
+    },
+    {
+      "name": "Lægerne Hinneruplund",
+      "latitude": 56.261759,
+      "longitude": 10.077347
+    },
+    {
+      "name": "Lægerne Hoeg, Lind og Østergaard-Nielsen",
+      "latitude": 55.289357,
+      "longitude": 9.056634
+    },
+    {
+      "name": "Lægerne i Brohuset",
+      "latitude": 55.614753,
+      "longitude": 12.360104
+    },
+    {
+      "name": "Lægerne i Center for Sundhed",
+      "latitude": 56.371056,
+      "longitude": 8.622832
+    },
+    {
+      "name": "Lægerne I Det Gule Hus",
+      "latitude": 55.760883,
+      "longitude": 12.452729
+    },
+    {
+      "name": "Lægerne i Dronninglund",
+      "latitude": 57.161621,
+      "longitude": 10.296714
+    },
+    {
+      "name": "Lægerne i Gelsted",
+      "latitude": 55.395216,
+      "longitude": 9.968286
+    },
+    {
+      "name": "Lægerne i Gørding",
+      "latitude": 55.469139,
+      "longitude": 8.804187
+    },
+    {
+      "name": "Lægerne i Hasseris",
+      "latitude": 57.05067,
+      "longitude": 9.89544
+    },
+    {
+      "name": "Lægerne i Hesselager",
+      "latitude": 55.177867,
+      "longitude": 10.746865
+    },
+    {
+      "name": "Lægerne i Højslev",
+      "latitude": 56.548324,
+      "longitude": 9.114257
+    },
+    {
+      "name": "Lægerne i Kongensgade",
+      "latitude": 55.396447,
+      "longitude": 10.381104
+    },
+    {
+      "name": "Lægerne i Midtbyen",
+      "latitude": 56.152094,
+      "longitude": 10.205841
+    },
+    {
+      "name": "Lægerne i Nibe",
+      "latitude": 56.983664,
+      "longitude": 9.632453
+    },
+    {
+      "name": "Lægerne i Nr. Lyndelse",
+      "latitude": 55.300638,
+      "longitude": 10.400198
+    },
+    {
+      "name": "Lægerne i Nørre Nebel",
+      "latitude": 55.780279,
+      "longitude": 8.288363
+    },
+    {
+      "name": "Lægerne i Solbjerg",
+      "latitude": 56.045321,
+      "longitude": 10.086434
+    },
+    {
+      "name": "Lægerne i Svenstrup",
+      "latitude": 56.970788,
+      "longitude": 9.834029
+    },
+    {
+      "name": "Lægerne i Trige",
+      "latitude": 56.253024,
+      "longitude": 10.141325
+    },
+    {
+      "name": "Lægerne i Tårs",
+      "latitude": 57.385281,
+      "longitude": 10.109624
+    },
+    {
+      "name": "Lægerne i Vindeby",
+      "latitude": 55.042354,
+      "longitude": 10.612268
+    },
+    {
+      "name": "Lægerne i Viuf",
+      "latitude": 55.581622,
+      "longitude": 9.492071
+    },
+    {
+      "name": "Lægerne Idriss Kise",
+      "latitude": 56.17633,
+      "longitude": 9.779747
+    },
+    {
+      "name": "Lægerne Jakob Vammen & Mikkel Vammen",
+      "latitude": 55.842078,
+      "longitude": 12.433115
+    },
+    {
+      "name": "Lægerne Jerne Torv",
+      "latitude": 55.478806,
+      "longitude": 8.480405
+    },
+    {
+      "name": "Lægerne Kirkegade",
+      "latitude": 55.973404,
+      "longitude": 12.023563
+    },
+    {
+      "name": "Lægerne Kongelundsvej 290",
+      "latitude": 55.616869,
+      "longitude": 12.585331
+    },
+    {
+      "name": "Lægerne Kongelundsvej 434",
+      "latitude": 55.603714,
+      "longitude": 12.583013
+    },
+    {
+      "name": "Lægerne Lauritsen & Obel Dorff",
+      "latitude": 55.636161,
+      "longitude": 12.052547
+    },
+    {
+      "name": "Lægerne Louise Plads",
+      "latitude": 57.045227,
+      "longitude": 9.919272
+    },
+    {
+      "name": "Lægerne Marielund",
+      "latitude": 55.49736,
+      "longitude": 9.489966
+    },
+    {
+      "name": "Lægerne Mats og Malene Johansson Bechtold",
+      "latitude": 56.231974,
+      "longitude": 10.231301
+    },
+    {
+      "name": "Lægerne Mygind Øgaard og Jørgensen",
+      "latitude": 55.841879,
+      "longitude": 12.432547
+    },
+    {
+      "name": "Lægerne Møllegade",
+      "latitude": 57.046746,
+      "longitude": 9.921452
+    },
+    {
+      "name": "Lægerne Nordens Plads",
+      "latitude": 55.671255,
+      "longitude": 12.50064
+    },
+    {
+      "name": "Lægerne Nørreport, Skive",
+      "latitude": 56.569586,
+      "longitude": 9.028283
+    },
+    {
+      "name": "Lægerne på Tingvej",
+      "latitude": 55.862696,
+      "longitude": 12.336931
+    },
+    {
+      "name": "Lægerne på Torvet",
+      "latitude": 57.267305,
+      "longitude": 9.948386
+    },
+    {
+      "name": "Lægerne Sand og le-Fevre",
+      "latitude": 55.046407,
+      "longitude": 9.421632
+    },
+    {
+      "name": "Lægerne Sct. Knuds Allé",
+      "latitude": 55.465241,
+      "longitude": 8.702161
+    },
+    {
+      "name": "Lægerne Skolegade",
+      "latitude": 56.166054,
+      "longitude": 9.542629
+    },
+    {
+      "name": "Lægerne Skovbrynet",
+      "latitude": 57.720115,
+      "longitude": 10.57586
+    },
+    {
+      "name": "Lægerne Stjernepladsen",
+      "latitude": 56.174666,
+      "longitude": 10.20403
+    },
+    {
+      "name": "Lægerne Strandbygade 65",
+      "latitude": 55.472354,
+      "longitude": 8.437552
+    },
+    {
+      "name": "Lægerne Søren Thorborg og Jette Ohm",
+      "latitude": 55.380393,
+      "longitude": 10.41461
+    },
+    {
+      "name": "Lægerne Sørensen og Sachs",
+      "latitude": 55.843161,
+      "longitude": 12.433805
+    },
+    {
+      "name": "Lægerne Valseværksgade",
+      "latitude": 55.974037,
+      "longitude": 12.019237
+    },
+    {
+      "name": "Lægerne Ved Banegården",
+      "latitude": 54.936094,
+      "longitude": 9.257749
+    },
+    {
+      "name": "Lægerne ved Klippen",
+      "latitude": 56.358038,
+      "longitude": 8.619415
+    },
+    {
+      "name": "Lægerne ved Røde Port",
+      "latitude": 55.641483,
+      "longitude": 12.097299
+    },
+    {
+      "name": "Lægerne Ved Stranden",
+      "latitude": 56.720134,
+      "longitude": 10.12618
+    },
+    {
+      "name": "Lægerne ved Volden",
+      "latitude": 55.568488,
+      "longitude": 9.755859
+    },
+    {
+      "name": "Lægerne Vennelystparken",
+      "latitude": 56.163817,
+      "longitude": 10.207184
+    },
+    {
+      "name": "Lægerne Ørstedsgade",
+      "latitude": 54.935893,
+      "longitude": 10.714345
+    },
+    {
+      "name": "Lægernes Hus",
+      "latitude": 54.911293,
+      "longitude": 9.588331
+    },
+    {
+      "name": "Lægernes Hus",
+      "latitude": 55.32893,
+      "longitude": 11.145729
+    },
+    {
+      "name": "Lægernes Hus",
+      "latitude": 55.540687,
+      "longitude": 11.228269
+    },
+    {
+      "name": "Lægernes Hus",
+      "latitude": 56.137494,
+      "longitude": 9.147247
+    },
+    {
+      "name": "Lægevagt",
+      "latitude": 55.056344,
+      "longitude": 10.606514
+    },
+    {
+      "name": "Lægevagt Kolding",
+      "latitude": 55.502244,
+      "longitude": 9.484077
+    },
+    {
+      "name": "Maribo Sundhedscenter",
+      "latitude": 54.76582,
+      "longitude": 11.513688
+    },
+    {
+      "name": "Mesingelægen",
+      "latitude": 55.497292,
+      "longitude": 10.648339
+    },
+    {
+      "name": "Mette Th. Kristensen",
+      "latitude": 55.269667,
+      "longitude": 9.896692
+    },
+    {
+      "name": "Midtbyens Lægehus",
+      "latitude": 56.357883,
+      "longitude": 8.619053
+    },
+    {
+      "name": "Midtbylægerne",
+      "latitude": 57.046968,
+      "longitude": 9.91825
+    },
+    {
+      "name": "Molslægerne",
+      "latitude": 56.212545,
+      "longitude": 10.486656
+    },
+    {
+      "name": "Neurolog Jan L.S. Thomsen",
+      "latitude": 56.217907,
+      "longitude": 10.293138
+    },
+    {
+      "name": "Nordic Medicare",
+      "latitude": 55.046721,
+      "longitude": 9.420977
+    },
+    {
+      "name": "Nærklinik Nykøbing Sjælland",
+      "latitude": 55.921027,
+      "longitude": 11.663191
+    },
+    {
+      "name": "Offshore Medicalcenter",
+      "latitude": 55.46652,
+      "longitude": 8.448718
+    },
+    {
+      "name": "Potenslægen",
+      "latitude": 56.154202,
+      "longitude": 10.180319
+    },
+    {
+      "name": "Praktiserende læge",
+      "latitude": 55.071031,
+      "longitude": 10.925778
+    },
+    {
+      "name": "Psykiater Preben Freitag",
+      "latitude": 55.843082,
+      "longitude": 12.434169
+    },
+    {
+      "name": "Psykologcentret",
+      "latitude": 57.045696,
+      "longitude": 9.912484
+    },
+    {
+      "name": "Red Cross Health Clinic",
+      "latitude": 57.045184,
+      "longitude": 9.920966
+    },
+    {
+      "name": "Regionsklinikken Langeland",
+      "latitude": 54.941165,
+      "longitude": 10.717814
+    },
+    {
+      "name": "Reumaklinik Fyn",
+      "latitude": 55.424775,
+      "longitude": 10.453202
+    },
+    {
+      "name": "Rosengårdslægerne",
+      "latitude": 55.378955,
+      "longitude": 10.421606
+    },
+    {
+      "name": "Rosengårdslægerne",
+      "latitude": 55.384836,
+      "longitude": 10.425449
+    },
+    {
+      "name": "Roskilde Lægehus",
+      "latitude": 55.638353,
+      "longitude": 12.080832
+    },
+    {
+      "name": "Scanderma",
+      "latitude": 56.150242,
+      "longitude": 10.19935
+    },
+    {
+      "name": "Sellmer Klinik",
+      "latitude": 55.633412,
+      "longitude": 12.582058
+    },
+    {
+      "name": "Skejbylægerne",
+      "latitude": 56.194249,
+      "longitude": 10.194667
+    },
+    {
+      "name": "Skødstrup Lægepraksis",
+      "latitude": 56.262782,
+      "longitude": 10.302455
+    },
+    {
+      "name": "Speciallæge Dr. Med. Ghada Risk El Saeidi",
+      "latitude": 55.47354,
+      "longitude": 8.432042
+    },
+    {
+      "name": "Speciallæge Lisbeth Gede",
+      "latitude": 55.782646,
+      "longitude": 12.3738
+    },
+    {
+      "name": "Speciallæge Mads Stefan Lorentzen",
+      "latitude": 55.640981,
+      "longitude": 12.085816
+    },
+    {
+      "name": "Statsaut. Fodterapeut Helene Hansen",
+      "latitude": 55.638084,
+      "longitude": 12.63953
+    },
+    {
+      "name": "Strandbylægerne",
+      "latitude": 55.466292,
+      "longitude": 8.443686
+    },
+    {
+      "name": "Sunde Fødder",
+      "latitude": 55.542052,
+      "longitude": 12.116724
+    },
+    {
+      "name": "Sundhedens Hus",
+      "latitude": 57.04342,
+      "longitude": 9.925631
+    },
+    {
+      "name": "Sundhedenshus",
+      "latitude": 57.342881,
+      "longitude": 10.235644
+    },
+    {
+      "name": "Sundhedscenter",
+      "latitude": 55.256404,
+      "longitude": 11.307077
+    },
+    {
+      "name": "Sundhedshuset Brønshøj",
+      "latitude": 55.722404,
+      "longitude": 12.483216
+    },
+    {
+      "name": "Sundhedshuset Faaborg",
+      "latitude": 55.100258,
+      "longitude": 10.24148
+    },
+    {
+      "name": "Thomas Brander",
+      "latitude": 55.666352,
+      "longitude": 12.405785
+    },
+    {
+      "name": "Tinghuslægerne 1. sal",
+      "latitude": 55.946104,
+      "longitude": 8.495044
+    },
+    {
+      "name": "Tistrup lægehus",
+      "latitude": 55.71618,
+      "longitude": 8.605883
+    },
+    {
+      "name": "Torup Lægehus",
+      "latitude": 55.985669,
+      "longitude": 11.939363
+    },
+    {
+      "name": "Ulstrup Lægepraksis",
+      "latitude": 56.392615,
+      "longitude": 9.794892
+    },
+    {
+      "name": "Valby Hudlæge",
+      "latitude": 55.664263,
+      "longitude": 12.515871
+    },
+    {
+      "name": "Vesterhavslægerne",
+      "latitude": 55.506609,
+      "longitude": 8.431038
+    },
+    {
+      "name": "Vibyborup Lægehus",
+      "latitude": 55.552481,
+      "longitude": 12.021077
+    },
+    {
+      "name": "Vivild lægehus",
+      "latitude": 56.483579,
+      "longitude": 10.452741
+    },
+    {
+      "name": "Værløse Lægehus",
+      "latitude": 55.7834,
+      "longitude": 12.373869
+    },
+    {
+      "name": "Ældrelægen",
+      "latitude": 55.810215,
+      "longitude": 12.365933
+    },
+    {
+      "name": "Øjenklinikken",
+      "latitude": 57.045,
+      "longitude": 9.917956
+    },
+    {
+      "name": "Øjenklinikken Møller",
+      "latitude": 55.49098,
+      "longitude": 8.406848
+    },
+    {
+      "name": "Øjenklinikken Ribe",
+      "latitude": 55.353438,
+      "longitude": 8.784268
+    },
+    {
+      "name": "Øjenlæge Jonas Borup",
+      "latitude": 56.362054,
+      "longitude": 8.619336
+    },
+    {
+      "name": "Øjenlægen i Borgergade",
+      "latitude": 55.465543,
+      "longitude": 8.447447
+    },
+    {
+      "name": "Øjenlægerne Glostrup Centrum",
+      "latitude": 55.661848,
+      "longitude": 12.398772
+    },
+    {
+      "name": "Øre Næse Hals klinikken Allerød",
+      "latitude": 55.869801,
+      "longitude": 12.355144
+    },
+    {
+      "name": "Øre, næse, halsklinikken Birkerød",
+      "latitude": 55.840494,
+      "longitude": 12.431731
+    },
+    {
+      "name": "Øre-, Næse- & Halslæge Dadrash Fathi",
+      "latitude": 55.637227,
+      "longitude": 12.619262
+    },
+    {
+      "name": "Øre-, næse- og halsklinikken ved Kultorvet",
+      "latitude": 55.682075,
+      "longitude": 12.57442
+    },
+    {
+      "name": "Øre-næse-halsklinikken",
+      "latitude": 55.887858,
+      "longitude": 12.497634
+    },
+    {
+      "name": "Øre-næse-halsklinikken Sct. Joseph",
+      "latitude": 55.470005,
+      "longitude": 8.448608
+    },
+    {
+      "name": "Øre-næse-halsklinikken Strandbygade",
+      "latitude": 55.46827,
+      "longitude": 8.440431
+    },
+    {
+      "name": "Øreklinikken Søborg",
+      "latitude": 55.736467,
+      "longitude": 12.509982
+    },
+    {
+      "name": "Ørestadens Lægeklinik",
+      "latitude": 55.633436,
+      "longitude": 12.582072
+    }
+  ],
+  "meta": {
+    "title": "Læger og lægehuse i Danmark (Doctors and clinics in Denmark) - Gratis download",
+    "description": "Doctors and clinics in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=doctors, healthcare=doctor. Indeholder 311 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Læger og lægehuse i Danmark (Doctors and clinics in Denmark) | ListBase",
+    "seo_description": "Download Læger og lægehuse i Danmark (Doctors and clinics in Denmark) — 311 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 311 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

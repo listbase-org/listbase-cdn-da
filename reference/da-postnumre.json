@@ -1,0 +1,3598 @@
+{
+  "id": "da-postnumre",
+  "name": "Postnumre i Danmark",
+  "title": "Postnumre i Danmark",
+  "description": "Danske postnumre med tilhørende postbynavn. Inkluderer 7 København interval-postnumre (fx 1000-1499) der dækker mailing-only PO-boxe. Vintage 2014-02-13 (DAGI-snapshot).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 592,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "string"
+    },
+    {
+      "key": "postby",
+      "label": "Postby",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "is_range",
+      "label": "Is Range",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "1000-1499",
+      "postby": "København K",
+      "slug": "1000-1499-koebenhavn-k",
+      "is_range": true
+    },
+    {
+      "postnummer": "1500-1799",
+      "postby": "København V",
+      "slug": "1500-1799-koebenhavn-v",
+      "is_range": true
+    },
+    {
+      "postnummer": "1800-1899",
+      "postby": "Frederiksberg C",
+      "slug": "1800-1899-frederiksberg-c",
+      "is_range": true
+    },
+    {
+      "postnummer": "2000",
+      "postby": "Frederiksberg",
+      "slug": "2000-frederiksberg",
+      "is_range": false
+    },
+    {
+      "postnummer": "2100",
+      "postby": "København Ø",
+      "slug": "2100-koebenhavn-oe",
+      "is_range": false
+    },
+    {
+      "postnummer": "2150",
+      "postby": "Nordhavn",
+      "slug": "2150-nordhavn",
+      "is_range": false
+    },
+    {
+      "postnummer": "2200",
+      "postby": "København N",
+      "slug": "2200-koebenhavn-n",
+      "is_range": false
+    },
+    {
+      "postnummer": "2300",
+      "postby": "København S",
+      "slug": "2300-koebenhavn-s",
+      "is_range": false
+    },
+    {
+      "postnummer": "2400",
+      "postby": "København NV",
+      "slug": "2400-koebenhavn-nv",
+      "is_range": false
+    },
+    {
+      "postnummer": "2450",
+      "postby": "København SV",
+      "slug": "2450-koebenhavn-sv",
+      "is_range": false
+    },
+    {
+      "postnummer": "2500",
+      "postby": "Valby",
+      "slug": "2500-valby",
+      "is_range": false
+    },
+    {
+      "postnummer": "2600",
+      "postby": "Glostrup",
+      "slug": "2600-glostrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "2605",
+      "postby": "Brøndby",
+      "slug": "2605-broendby",
+      "is_range": false
+    },
+    {
+      "postnummer": "2610",
+      "postby": "Rødovre",
+      "slug": "2610-roedovre",
+      "is_range": false
+    },
+    {
+      "postnummer": "2620",
+      "postby": "Albertslund",
+      "slug": "2620-albertslund",
+      "is_range": false
+    },
+    {
+      "postnummer": "2625",
+      "postby": "Vallensbæk",
+      "slug": "2625-vallensbaek",
+      "is_range": false
+    },
+    {
+      "postnummer": "2630",
+      "postby": "Taastrup",
+      "slug": "2630-taastrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "2635",
+      "postby": "Ishøj",
+      "slug": "2635-ishoej",
+      "is_range": false
+    },
+    {
+      "postnummer": "2640",
+      "postby": "Hedehusene",
+      "slug": "2640-hedehusene",
+      "is_range": false
+    },
+    {
+      "postnummer": "2650",
+      "postby": "Hvidovre",
+      "slug": "2650-hvidovre",
+      "is_range": false
+    },
+    {
+      "postnummer": "2660",
+      "postby": "Brøndby Strand",
+      "slug": "2660-broendby-strand",
+      "is_range": false
+    },
+    {
+      "postnummer": "2665",
+      "postby": "Vallensbæk Strand",
+      "slug": "2665-vallensbaek-strand",
+      "is_range": false
+    },
+    {
+      "postnummer": "2670",
+      "postby": "Greve",
+      "slug": "2670-greve",
+      "is_range": false
+    },
+    {
+      "postnummer": "2680",
+      "postby": "Solrød Strand",
+      "slug": "2680-solroed-strand",
+      "is_range": false
+    },
+    {
+      "postnummer": "2690",
+      "postby": "Karlslunde",
+      "slug": "2690-karlslunde",
+      "is_range": false
+    },
+    {
+      "postnummer": "2700",
+      "postby": "Brønshøj",
+      "slug": "2700-broenshoej",
+      "is_range": false
+    },
+    {
+      "postnummer": "2720",
+      "postby": "Vanløse",
+      "slug": "2720-vanloese",
+      "is_range": false
+    },
+    {
+      "postnummer": "2730",
+      "postby": "Herlev",
+      "slug": "2730-herlev",
+      "is_range": false
+    },
+    {
+      "postnummer": "2740",
+      "postby": "Skovlunde",
+      "slug": "2740-skovlunde",
+      "is_range": false
+    },
+    {
+      "postnummer": "2750",
+      "postby": "Ballerup",
+      "slug": "2750-ballerup",
+      "is_range": false
+    },
+    {
+      "postnummer": "2760",
+      "postby": "Måløv",
+      "slug": "2760-maaloev",
+      "is_range": false
+    },
+    {
+      "postnummer": "2765",
+      "postby": "Smørum",
+      "slug": "2765-smoerum",
+      "is_range": false
+    },
+    {
+      "postnummer": "2770",
+      "postby": "Kastrup",
+      "slug": "2770-kastrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "2791",
+      "postby": "Dragør",
+      "slug": "2791-dragoer",
+      "is_range": false
+    },
+    {
+      "postnummer": "2800",
+      "postby": "Kongens Lyngby",
+      "slug": "2800-kongens-lyngby",
+      "is_range": false
+    },
+    {
+      "postnummer": "2820",
+      "postby": "Gentofte",
+      "slug": "2820-gentofte",
+      "is_range": false
+    },
+    {
+      "postnummer": "2830",
+      "postby": "Virum",
+      "slug": "2830-virum",
+      "is_range": false
+    },
+    {
+      "postnummer": "2840",
+      "postby": "Holte",
+      "slug": "2840-holte",
+      "is_range": false
+    },
+    {
+      "postnummer": "2850",
+      "postby": "Nærum",
+      "slug": "2850-naerum",
+      "is_range": false
+    },
+    {
+      "postnummer": "2860",
+      "postby": "Søborg",
+      "slug": "2860-soeborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "2870",
+      "postby": "Dyssegård",
+      "slug": "2870-dyssegaard",
+      "is_range": false
+    },
+    {
+      "postnummer": "2880",
+      "postby": "Bagsværd",
+      "slug": "2880-bagsvaerd",
+      "is_range": false
+    },
+    {
+      "postnummer": "2900",
+      "postby": "Hellerup",
+      "slug": "2900-hellerup",
+      "is_range": false
+    },
+    {
+      "postnummer": "2920",
+      "postby": "Charlottenlund",
+      "slug": "2920-charlottenlund",
+      "is_range": false
+    },
+    {
+      "postnummer": "2930",
+      "postby": "Klampenborg",
+      "slug": "2930-klampenborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "2942",
+      "postby": "Skodsborg",
+      "slug": "2942-skodsborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "2950",
+      "postby": "Vedbæk",
+      "slug": "2950-vedbaek",
+      "is_range": false
+    },
+    {
+      "postnummer": "2960",
+      "postby": "Rungsted Kyst",
+      "slug": "2960-rungsted-kyst",
+      "is_range": false
+    },
+    {
+      "postnummer": "2970",
+      "postby": "Hørsholm",
+      "slug": "2970-hoersholm",
+      "is_range": false
+    },
+    {
+      "postnummer": "2980",
+      "postby": "Kokkedal",
+      "slug": "2980-kokkedal",
+      "is_range": false
+    },
+    {
+      "postnummer": "2990",
+      "postby": "Nivå",
+      "slug": "2990-nivaa",
+      "is_range": false
+    },
+    {
+      "postnummer": "3000",
+      "postby": "Helsingør",
+      "slug": "3000-helsingoer",
+      "is_range": false
+    },
+    {
+      "postnummer": "3050",
+      "postby": "Humlebæk",
+      "slug": "3050-humlebaek",
+      "is_range": false
+    },
+    {
+      "postnummer": "3060",
+      "postby": "Espergærde",
+      "slug": "3060-espergaerde",
+      "is_range": false
+    },
+    {
+      "postnummer": "3070",
+      "postby": "Snekkersten",
+      "slug": "3070-snekkersten",
+      "is_range": false
+    },
+    {
+      "postnummer": "3080",
+      "postby": "Tikøb",
+      "slug": "3080-tikoeb",
+      "is_range": false
+    },
+    {
+      "postnummer": "3100",
+      "postby": "Hornbæk",
+      "slug": "3100-hornbaek",
+      "is_range": false
+    },
+    {
+      "postnummer": "3120",
+      "postby": "Dronningmølle",
+      "slug": "3120-dronningmoelle",
+      "is_range": false
+    },
+    {
+      "postnummer": "3140",
+      "postby": "Ålsgårde",
+      "slug": "3140-aalsgaarde",
+      "is_range": false
+    },
+    {
+      "postnummer": "3150",
+      "postby": "Hellebæk",
+      "slug": "3150-hellebaek",
+      "is_range": false
+    },
+    {
+      "postnummer": "3200",
+      "postby": "Helsinge",
+      "slug": "3200-helsinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "3210",
+      "postby": "Vejby",
+      "slug": "3210-vejby",
+      "is_range": false
+    },
+    {
+      "postnummer": "3220",
+      "postby": "Tisvildeleje",
+      "slug": "3220-tisvildeleje",
+      "is_range": false
+    },
+    {
+      "postnummer": "3230",
+      "postby": "Græsted",
+      "slug": "3230-graested",
+      "is_range": false
+    },
+    {
+      "postnummer": "3250",
+      "postby": "Gilleleje",
+      "slug": "3250-gilleleje",
+      "is_range": false
+    },
+    {
+      "postnummer": "3300",
+      "postby": "Frederiksværk",
+      "slug": "3300-frederiksvaerk",
+      "is_range": false
+    },
+    {
+      "postnummer": "3310",
+      "postby": "Ølsted",
+      "slug": "3310-oelsted",
+      "is_range": false
+    },
+    {
+      "postnummer": "3320",
+      "postby": "Skævinge",
+      "slug": "3320-skaevinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "3330",
+      "postby": "Gørløse",
+      "slug": "3330-goerloese",
+      "is_range": false
+    },
+    {
+      "postnummer": "3360",
+      "postby": "Liseleje",
+      "slug": "3360-liseleje",
+      "is_range": false
+    },
+    {
+      "postnummer": "3370",
+      "postby": "Melby",
+      "slug": "3370-melby",
+      "is_range": false
+    },
+    {
+      "postnummer": "3390",
+      "postby": "Hundested",
+      "slug": "3390-hundested",
+      "is_range": false
+    },
+    {
+      "postnummer": "3400",
+      "postby": "Hillerød",
+      "slug": "3400-hilleroed",
+      "is_range": false
+    },
+    {
+      "postnummer": "3450",
+      "postby": "Allerød",
+      "slug": "3450-alleroed",
+      "is_range": false
+    },
+    {
+      "postnummer": "3460",
+      "postby": "Birkerød",
+      "slug": "3460-birkeroed",
+      "is_range": false
+    },
+    {
+      "postnummer": "3480",
+      "postby": "Fredensborg",
+      "slug": "3480-fredensborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "3490",
+      "postby": "Kvistgård",
+      "slug": "3490-kvistgaard",
+      "is_range": false
+    },
+    {
+      "postnummer": "3500",
+      "postby": "Værløse",
+      "slug": "3500-vaerloese",
+      "is_range": false
+    },
+    {
+      "postnummer": "3520",
+      "postby": "Farum",
+      "slug": "3520-farum",
+      "is_range": false
+    },
+    {
+      "postnummer": "3540",
+      "postby": "Lynge",
+      "slug": "3540-lynge",
+      "is_range": false
+    },
+    {
+      "postnummer": "3550",
+      "postby": "Slangerup",
+      "slug": "3550-slangerup",
+      "is_range": false
+    },
+    {
+      "postnummer": "3600",
+      "postby": "Frederikssund",
+      "slug": "3600-frederikssund",
+      "is_range": false
+    },
+    {
+      "postnummer": "3630",
+      "postby": "Jægerspris",
+      "slug": "3630-jaegerspris",
+      "is_range": false
+    },
+    {
+      "postnummer": "3650",
+      "postby": "Ølstykke",
+      "slug": "3650-oelstykke",
+      "is_range": false
+    },
+    {
+      "postnummer": "3660",
+      "postby": "Stenløse",
+      "slug": "3660-stenloese",
+      "is_range": false
+    },
+    {
+      "postnummer": "3670",
+      "postby": "Veksø Sjælland",
+      "slug": "3670-veksoe-sjaelland",
+      "is_range": false
+    },
+    {
+      "postnummer": "3700",
+      "postby": "Rønne",
+      "slug": "3700-roenne",
+      "is_range": false
+    },
+    {
+      "postnummer": "3720",
+      "postby": "Aakirkeby",
+      "slug": "3720-aakirkeby",
+      "is_range": false
+    },
+    {
+      "postnummer": "3730",
+      "postby": "Nexø",
+      "slug": "3730-nexoe",
+      "is_range": false
+    },
+    {
+      "postnummer": "3740",
+      "postby": "Svaneke",
+      "slug": "3740-svaneke",
+      "is_range": false
+    },
+    {
+      "postnummer": "3751",
+      "postby": "Østermarie",
+      "slug": "3751-oestermarie",
+      "is_range": false
+    },
+    {
+      "postnummer": "3760",
+      "postby": "Gudhjem",
+      "slug": "3760-gudhjem",
+      "is_range": false
+    },
+    {
+      "postnummer": "3770",
+      "postby": "Allinge",
+      "slug": "3770-allinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "3782",
+      "postby": "Klemensker",
+      "slug": "3782-klemensker",
+      "is_range": false
+    },
+    {
+      "postnummer": "3790",
+      "postby": "Hasle",
+      "slug": "3790-hasle",
+      "is_range": false
+    },
+    {
+      "postnummer": "4000",
+      "postby": "Roskilde",
+      "slug": "4000-roskilde",
+      "is_range": false
+    },
+    {
+      "postnummer": "4030",
+      "postby": "Tune",
+      "slug": "4030-tune",
+      "is_range": false
+    },
+    {
+      "postnummer": "4040",
+      "postby": "Jyllinge",
+      "slug": "4040-jyllinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "4050",
+      "postby": "Skibby",
+      "slug": "4050-skibby",
+      "is_range": false
+    },
+    {
+      "postnummer": "4060",
+      "postby": "Kirke Såby",
+      "slug": "4060-kirke-saaby",
+      "is_range": false
+    },
+    {
+      "postnummer": "4070",
+      "postby": "Kirke Hyllinge",
+      "slug": "4070-kirke-hyllinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "4100",
+      "postby": "Ringsted",
+      "slug": "4100-ringsted",
+      "is_range": false
+    },
+    {
+      "postnummer": "4130",
+      "postby": "Viby Sjælland",
+      "slug": "4130-viby-sjaelland",
+      "is_range": false
+    },
+    {
+      "postnummer": "4140",
+      "postby": "Borup",
+      "slug": "4140-borup",
+      "is_range": false
+    },
+    {
+      "postnummer": "4160",
+      "postby": "Herlufmagle",
+      "slug": "4160-herlufmagle",
+      "is_range": false
+    },
+    {
+      "postnummer": "4171",
+      "postby": "Glumsø",
+      "slug": "4171-glumsoe",
+      "is_range": false
+    },
+    {
+      "postnummer": "4173",
+      "postby": "Fjenneslev",
+      "slug": "4173-fjenneslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "4174",
+      "postby": "Jystrup Midtsj",
+      "slug": "4174-jystrup-midtsj",
+      "is_range": false
+    },
+    {
+      "postnummer": "4180",
+      "postby": "Sorø",
+      "slug": "4180-soroe",
+      "is_range": false
+    },
+    {
+      "postnummer": "4190",
+      "postby": "Munke Bjergby",
+      "slug": "4190-munke-bjergby",
+      "is_range": false
+    },
+    {
+      "postnummer": "4200",
+      "postby": "Slagelse",
+      "slug": "4200-slagelse",
+      "is_range": false
+    },
+    {
+      "postnummer": "4220",
+      "postby": "Korsør",
+      "slug": "4220-korsoer",
+      "is_range": false
+    },
+    {
+      "postnummer": "4230",
+      "postby": "Skælskør",
+      "slug": "4230-skaelskoer",
+      "is_range": false
+    },
+    {
+      "postnummer": "4241",
+      "postby": "Vemmelev",
+      "slug": "4241-vemmelev",
+      "is_range": false
+    },
+    {
+      "postnummer": "4242",
+      "postby": "Boeslunde",
+      "slug": "4242-boeslunde",
+      "is_range": false
+    },
+    {
+      "postnummer": "4243",
+      "postby": "Rude",
+      "slug": "4243-rude",
+      "is_range": false
+    },
+    {
+      "postnummer": "4250",
+      "postby": "Fuglebjerg",
+      "slug": "4250-fuglebjerg",
+      "is_range": false
+    },
+    {
+      "postnummer": "4261",
+      "postby": "Dalmose",
+      "slug": "4261-dalmose",
+      "is_range": false
+    },
+    {
+      "postnummer": "4262",
+      "postby": "Sandved",
+      "slug": "4262-sandved",
+      "is_range": false
+    },
+    {
+      "postnummer": "4270",
+      "postby": "Høng",
+      "slug": "4270-hoeng",
+      "is_range": false
+    },
+    {
+      "postnummer": "4281",
+      "postby": "Gørlev",
+      "slug": "4281-goerlev",
+      "is_range": false
+    },
+    {
+      "postnummer": "4291",
+      "postby": "Ruds Vedby",
+      "slug": "4291-ruds-vedby",
+      "is_range": false
+    },
+    {
+      "postnummer": "4293",
+      "postby": "Dianalund",
+      "slug": "4293-dianalund",
+      "is_range": false
+    },
+    {
+      "postnummer": "4295",
+      "postby": "Stenlille",
+      "slug": "4295-stenlille",
+      "is_range": false
+    },
+    {
+      "postnummer": "4296",
+      "postby": "Nyrup",
+      "slug": "4296-nyrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "4300",
+      "postby": "Holbæk",
+      "slug": "4300-holbaek",
+      "is_range": false
+    },
+    {
+      "postnummer": "4320",
+      "postby": "Lejre",
+      "slug": "4320-lejre",
+      "is_range": false
+    },
+    {
+      "postnummer": "4330",
+      "postby": "Hvalsø",
+      "slug": "4330-hvalsoe",
+      "is_range": false
+    },
+    {
+      "postnummer": "4340",
+      "postby": "Tølløse",
+      "slug": "4340-toelloese",
+      "is_range": false
+    },
+    {
+      "postnummer": "4350",
+      "postby": "Ugerløse",
+      "slug": "4350-ugerloese",
+      "is_range": false
+    },
+    {
+      "postnummer": "4360",
+      "postby": "Kirke Eskilstrup",
+      "slug": "4360-kirke-eskilstrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "4370",
+      "postby": "Store Merløse",
+      "slug": "4370-store-merloese",
+      "is_range": false
+    },
+    {
+      "postnummer": "4390",
+      "postby": "Vipperød",
+      "slug": "4390-vipperoed",
+      "is_range": false
+    },
+    {
+      "postnummer": "4400",
+      "postby": "Kalundborg",
+      "slug": "4400-kalundborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "4420",
+      "postby": "Regstrup",
+      "slug": "4420-regstrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "4440",
+      "postby": "Mørkøv",
+      "slug": "4440-moerkoev",
+      "is_range": false
+    },
+    {
+      "postnummer": "4450",
+      "postby": "Jyderup",
+      "slug": "4450-jyderup",
+      "is_range": false
+    },
+    {
+      "postnummer": "4460",
+      "postby": "Snertinge",
+      "slug": "4460-snertinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "4470",
+      "postby": "Svebølle",
+      "slug": "4470-sveboelle",
+      "is_range": false
+    },
+    {
+      "postnummer": "4480",
+      "postby": "Store Fuglede",
+      "slug": "4480-store-fuglede",
+      "is_range": false
+    },
+    {
+      "postnummer": "4490",
+      "postby": "Jerslev Sjælland",
+      "slug": "4490-jerslev-sjaelland",
+      "is_range": false
+    },
+    {
+      "postnummer": "4500",
+      "postby": "Nykøbing Sj",
+      "slug": "4500-nykoebing-sj",
+      "is_range": false
+    },
+    {
+      "postnummer": "4520",
+      "postby": "Svinninge",
+      "slug": "4520-svinninge",
+      "is_range": false
+    },
+    {
+      "postnummer": "4532",
+      "postby": "Gislinge",
+      "slug": "4532-gislinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "4534",
+      "postby": "Hørve",
+      "slug": "4534-hoerve",
+      "is_range": false
+    },
+    {
+      "postnummer": "4540",
+      "postby": "Fårevejle",
+      "slug": "4540-faarevejle",
+      "is_range": false
+    },
+    {
+      "postnummer": "4550",
+      "postby": "Asnæs",
+      "slug": "4550-asnaes",
+      "is_range": false
+    },
+    {
+      "postnummer": "4560",
+      "postby": "Vig",
+      "slug": "4560-vig",
+      "is_range": false
+    },
+    {
+      "postnummer": "4571",
+      "postby": "Grevinge",
+      "slug": "4571-grevinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "4572",
+      "postby": "Nørre Asmindrup",
+      "slug": "4572-noerre-asmindrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "4573",
+      "postby": "Højby",
+      "slug": "4573-hoejby",
+      "is_range": false
+    },
+    {
+      "postnummer": "4581",
+      "postby": "Rørvig",
+      "slug": "4581-roervig",
+      "is_range": false
+    },
+    {
+      "postnummer": "4583",
+      "postby": "Sjællands Odde",
+      "slug": "4583-sjaellands-odde",
+      "is_range": false
+    },
+    {
+      "postnummer": "4591",
+      "postby": "Føllenslev",
+      "slug": "4591-foellenslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "4592",
+      "postby": "Sejerø",
+      "slug": "4592-sejeroe",
+      "is_range": false
+    },
+    {
+      "postnummer": "4593",
+      "postby": "Eskebjerg",
+      "slug": "4593-eskebjerg",
+      "is_range": false
+    },
+    {
+      "postnummer": "4600",
+      "postby": "Køge",
+      "slug": "4600-koege",
+      "is_range": false
+    },
+    {
+      "postnummer": "4621",
+      "postby": "Gadstrup",
+      "slug": "4621-gadstrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "4622",
+      "postby": "Havdrup",
+      "slug": "4622-havdrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "4623",
+      "postby": "Lille Skensved",
+      "slug": "4623-lille-skensved",
+      "is_range": false
+    },
+    {
+      "postnummer": "4632",
+      "postby": "Bjæverskov",
+      "slug": "4632-bjaeverskov",
+      "is_range": false
+    },
+    {
+      "postnummer": "4640",
+      "postby": "Faxe",
+      "slug": "4640-faxe",
+      "is_range": false
+    },
+    {
+      "postnummer": "4652",
+      "postby": "Hårlev",
+      "slug": "4652-haarlev",
+      "is_range": false
+    },
+    {
+      "postnummer": "4653",
+      "postby": "Karise",
+      "slug": "4653-karise",
+      "is_range": false
+    },
+    {
+      "postnummer": "4654",
+      "postby": "Faxe Ladeplads",
+      "slug": "4654-faxe-ladeplads",
+      "is_range": false
+    },
+    {
+      "postnummer": "4660",
+      "postby": "Store Heddinge",
+      "slug": "4660-store-heddinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "4671",
+      "postby": "Strøby",
+      "slug": "4671-stroeby",
+      "is_range": false
+    },
+    {
+      "postnummer": "4672",
+      "postby": "Klippinge",
+      "slug": "4672-klippinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "4673",
+      "postby": "Rødvig Stevns",
+      "slug": "4673-roedvig-stevns",
+      "is_range": false
+    },
+    {
+      "postnummer": "4681",
+      "postby": "Herfølge",
+      "slug": "4681-herfoelge",
+      "is_range": false
+    },
+    {
+      "postnummer": "4682",
+      "postby": "Tureby",
+      "slug": "4682-tureby",
+      "is_range": false
+    },
+    {
+      "postnummer": "4683",
+      "postby": "Rønnede",
+      "slug": "4683-roennede",
+      "is_range": false
+    },
+    {
+      "postnummer": "4684",
+      "postby": "Holmegaard",
+      "slug": "4684-holmegaard",
+      "is_range": false
+    },
+    {
+      "postnummer": "4690",
+      "postby": "Haslev",
+      "slug": "4690-haslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "4700",
+      "postby": "Næstved",
+      "slug": "4700-naestved",
+      "is_range": false
+    },
+    {
+      "postnummer": "4720",
+      "postby": "Præstø",
+      "slug": "4720-praestoe",
+      "is_range": false
+    },
+    {
+      "postnummer": "4733",
+      "postby": "Tappernøje",
+      "slug": "4733-tappernoeje",
+      "is_range": false
+    },
+    {
+      "postnummer": "4735",
+      "postby": "Mern",
+      "slug": "4735-mern",
+      "is_range": false
+    },
+    {
+      "postnummer": "4736",
+      "postby": "Karrebæksminde",
+      "slug": "4736-karrebaeksminde",
+      "is_range": false
+    },
+    {
+      "postnummer": "4750",
+      "postby": "Lundby",
+      "slug": "4750-lundby",
+      "is_range": false
+    },
+    {
+      "postnummer": "4760",
+      "postby": "Vordingborg",
+      "slug": "4760-vordingborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "4771",
+      "postby": "Kalvehave",
+      "slug": "4771-kalvehave",
+      "is_range": false
+    },
+    {
+      "postnummer": "4772",
+      "postby": "Langebæk",
+      "slug": "4772-langebaek",
+      "is_range": false
+    },
+    {
+      "postnummer": "4773",
+      "postby": "Stensved",
+      "slug": "4773-stensved",
+      "is_range": false
+    },
+    {
+      "postnummer": "4780",
+      "postby": "Stege",
+      "slug": "4780-stege",
+      "is_range": false
+    },
+    {
+      "postnummer": "4791",
+      "postby": "Borre",
+      "slug": "4791-borre",
+      "is_range": false
+    },
+    {
+      "postnummer": "4792",
+      "postby": "Askeby",
+      "slug": "4792-askeby",
+      "is_range": false
+    },
+    {
+      "postnummer": "4793",
+      "postby": "Bogø By",
+      "slug": "4793-bogoe-by",
+      "is_range": false
+    },
+    {
+      "postnummer": "4800",
+      "postby": "Nykøbing F",
+      "slug": "4800-nykoebing-f",
+      "is_range": false
+    },
+    {
+      "postnummer": "4840",
+      "postby": "Nørre Alslev",
+      "slug": "4840-noerre-alslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "4850",
+      "postby": "Stubbekøbing",
+      "slug": "4850-stubbekoebing",
+      "is_range": false
+    },
+    {
+      "postnummer": "4862",
+      "postby": "Guldborg",
+      "slug": "4862-guldborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "4863",
+      "postby": "Eskilstrup",
+      "slug": "4863-eskilstrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "4871",
+      "postby": "Horbelev",
+      "slug": "4871-horbelev",
+      "is_range": false
+    },
+    {
+      "postnummer": "4872",
+      "postby": "Idestrup",
+      "slug": "4872-idestrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "4873",
+      "postby": "Væggerløse",
+      "slug": "4873-vaeggerloese",
+      "is_range": false
+    },
+    {
+      "postnummer": "4874",
+      "postby": "Gedser",
+      "slug": "4874-gedser",
+      "is_range": false
+    },
+    {
+      "postnummer": "4880",
+      "postby": "Nysted",
+      "slug": "4880-nysted",
+      "is_range": false
+    },
+    {
+      "postnummer": "4891",
+      "postby": "Toreby L",
+      "slug": "4891-toreby-l",
+      "is_range": false
+    },
+    {
+      "postnummer": "4892",
+      "postby": "Kettinge",
+      "slug": "4892-kettinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "4894",
+      "postby": "Øster Ulslev",
+      "slug": "4894-oester-ulslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "4895",
+      "postby": "Errindlev",
+      "slug": "4895-errindlev",
+      "is_range": false
+    },
+    {
+      "postnummer": "4900",
+      "postby": "Nakskov",
+      "slug": "4900-nakskov",
+      "is_range": false
+    },
+    {
+      "postnummer": "4912",
+      "postby": "Harpelunde",
+      "slug": "4912-harpelunde",
+      "is_range": false
+    },
+    {
+      "postnummer": "4913",
+      "postby": "Horslunde",
+      "slug": "4913-horslunde",
+      "is_range": false
+    },
+    {
+      "postnummer": "4920",
+      "postby": "Søllested",
+      "slug": "4920-soellested",
+      "is_range": false
+    },
+    {
+      "postnummer": "4930",
+      "postby": "Maribo",
+      "slug": "4930-maribo",
+      "is_range": false
+    },
+    {
+      "postnummer": "4941",
+      "postby": "Bandholm",
+      "slug": "4941-bandholm",
+      "is_range": false
+    },
+    {
+      "postnummer": "4943",
+      "postby": "Torrig L",
+      "slug": "4943-torrig-l",
+      "is_range": false
+    },
+    {
+      "postnummer": "4944",
+      "postby": "Fejø",
+      "slug": "4944-fejoe",
+      "is_range": false
+    },
+    {
+      "postnummer": "4951",
+      "postby": "Nørreballe",
+      "slug": "4951-noerreballe",
+      "is_range": false
+    },
+    {
+      "postnummer": "4952",
+      "postby": "Stokkemarke",
+      "slug": "4952-stokkemarke",
+      "is_range": false
+    },
+    {
+      "postnummer": "4953",
+      "postby": "Vesterborg",
+      "slug": "4953-vesterborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "4960",
+      "postby": "Holeby",
+      "slug": "4960-holeby",
+      "is_range": false
+    },
+    {
+      "postnummer": "4970",
+      "postby": "Rødby",
+      "slug": "4970-roedby",
+      "is_range": false
+    },
+    {
+      "postnummer": "4983",
+      "postby": "Dannemare",
+      "slug": "4983-dannemare",
+      "is_range": false
+    },
+    {
+      "postnummer": "4990",
+      "postby": "Sakskøbing",
+      "slug": "4990-sakskoebing",
+      "is_range": false
+    },
+    {
+      "postnummer": "5000",
+      "postby": "Odense C",
+      "slug": "5000-odense-c",
+      "is_range": false
+    },
+    {
+      "postnummer": "5200",
+      "postby": "Odense V",
+      "slug": "5200-odense-v",
+      "is_range": false
+    },
+    {
+      "postnummer": "5210",
+      "postby": "Odense NV",
+      "slug": "5210-odense-nv",
+      "is_range": false
+    },
+    {
+      "postnummer": "5220",
+      "postby": "Odense SØ",
+      "slug": "5220-odense-soe",
+      "is_range": false
+    },
+    {
+      "postnummer": "5230",
+      "postby": "Odense M",
+      "slug": "5230-odense-m",
+      "is_range": false
+    },
+    {
+      "postnummer": "5240",
+      "postby": "Odense NØ",
+      "slug": "5240-odense-noe",
+      "is_range": false
+    },
+    {
+      "postnummer": "5250",
+      "postby": "Odense SV",
+      "slug": "5250-odense-sv",
+      "is_range": false
+    },
+    {
+      "postnummer": "5260",
+      "postby": "Odense S",
+      "slug": "5260-odense-s",
+      "is_range": false
+    },
+    {
+      "postnummer": "5270",
+      "postby": "Odense N",
+      "slug": "5270-odense-n",
+      "is_range": false
+    },
+    {
+      "postnummer": "5290",
+      "postby": "Marslev",
+      "slug": "5290-marslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "5300",
+      "postby": "Kerteminde",
+      "slug": "5300-kerteminde",
+      "is_range": false
+    },
+    {
+      "postnummer": "5320",
+      "postby": "Agedrup",
+      "slug": "5320-agedrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "5330",
+      "postby": "Munkebo",
+      "slug": "5330-munkebo",
+      "is_range": false
+    },
+    {
+      "postnummer": "5350",
+      "postby": "Rynkeby",
+      "slug": "5350-rynkeby",
+      "is_range": false
+    },
+    {
+      "postnummer": "5370",
+      "postby": "Mesinge",
+      "slug": "5370-mesinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "5380",
+      "postby": "Dalby",
+      "slug": "5380-dalby",
+      "is_range": false
+    },
+    {
+      "postnummer": "5390",
+      "postby": "Martofte",
+      "slug": "5390-martofte",
+      "is_range": false
+    },
+    {
+      "postnummer": "5400",
+      "postby": "Bogense",
+      "slug": "5400-bogense",
+      "is_range": false
+    },
+    {
+      "postnummer": "5450",
+      "postby": "Otterup",
+      "slug": "5450-otterup",
+      "is_range": false
+    },
+    {
+      "postnummer": "5462",
+      "postby": "Morud",
+      "slug": "5462-morud",
+      "is_range": false
+    },
+    {
+      "postnummer": "5463",
+      "postby": "Harndrup",
+      "slug": "5463-harndrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "5464",
+      "postby": "Brenderup Fyn",
+      "slug": "5464-brenderup-fyn",
+      "is_range": false
+    },
+    {
+      "postnummer": "5466",
+      "postby": "Asperup",
+      "slug": "5466-asperup",
+      "is_range": false
+    },
+    {
+      "postnummer": "5471",
+      "postby": "Søndersø",
+      "slug": "5471-soendersoe",
+      "is_range": false
+    },
+    {
+      "postnummer": "5474",
+      "postby": "Veflinge",
+      "slug": "5474-veflinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "5485",
+      "postby": "Skamby",
+      "slug": "5485-skamby",
+      "is_range": false
+    },
+    {
+      "postnummer": "5491",
+      "postby": "Blommenslyst",
+      "slug": "5491-blommenslyst",
+      "is_range": false
+    },
+    {
+      "postnummer": "5492",
+      "postby": "Vissenbjerg",
+      "slug": "5492-vissenbjerg",
+      "is_range": false
+    },
+    {
+      "postnummer": "5500",
+      "postby": "Middelfart",
+      "slug": "5500-middelfart",
+      "is_range": false
+    },
+    {
+      "postnummer": "5540",
+      "postby": "Ullerslev",
+      "slug": "5540-ullerslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "5550",
+      "postby": "Langeskov",
+      "slug": "5550-langeskov",
+      "is_range": false
+    },
+    {
+      "postnummer": "5560",
+      "postby": "Aarup",
+      "slug": "5560-aarup",
+      "is_range": false
+    },
+    {
+      "postnummer": "5580",
+      "postby": "Nørre Aaby",
+      "slug": "5580-noerre-aaby",
+      "is_range": false
+    },
+    {
+      "postnummer": "5591",
+      "postby": "Gelsted",
+      "slug": "5591-gelsted",
+      "is_range": false
+    },
+    {
+      "postnummer": "5592",
+      "postby": "Ejby",
+      "slug": "5592-ejby",
+      "is_range": false
+    },
+    {
+      "postnummer": "5600",
+      "postby": "Faaborg",
+      "slug": "5600-faaborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "5610",
+      "postby": "Assens",
+      "slug": "5610-assens",
+      "is_range": false
+    },
+    {
+      "postnummer": "5620",
+      "postby": "Glamsbjerg",
+      "slug": "5620-glamsbjerg",
+      "is_range": false
+    },
+    {
+      "postnummer": "5631",
+      "postby": "Ebberup",
+      "slug": "5631-ebberup",
+      "is_range": false
+    },
+    {
+      "postnummer": "5642",
+      "postby": "Millinge",
+      "slug": "5642-millinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "5672",
+      "postby": "Broby",
+      "slug": "5672-broby",
+      "is_range": false
+    },
+    {
+      "postnummer": "5683",
+      "postby": "Haarby",
+      "slug": "5683-haarby",
+      "is_range": false
+    },
+    {
+      "postnummer": "5690",
+      "postby": "Tommerup",
+      "slug": "5690-tommerup",
+      "is_range": false
+    },
+    {
+      "postnummer": "5700",
+      "postby": "Svendborg",
+      "slug": "5700-svendborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "5750",
+      "postby": "Ringe",
+      "slug": "5750-ringe",
+      "is_range": false
+    },
+    {
+      "postnummer": "5762",
+      "postby": "Vester Skerninge",
+      "slug": "5762-vester-skerninge",
+      "is_range": false
+    },
+    {
+      "postnummer": "5771",
+      "postby": "Stenstrup",
+      "slug": "5771-stenstrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "5772",
+      "postby": "Kværndrup",
+      "slug": "5772-kvaerndrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "5792",
+      "postby": "Årslev",
+      "slug": "5792-aarslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "5800",
+      "postby": "Nyborg",
+      "slug": "5800-nyborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "5853",
+      "postby": "Ørbæk",
+      "slug": "5853-oerbaek",
+      "is_range": false
+    },
+    {
+      "postnummer": "5854",
+      "postby": "Gislev",
+      "slug": "5854-gislev",
+      "is_range": false
+    },
+    {
+      "postnummer": "5856",
+      "postby": "Ryslinge",
+      "slug": "5856-ryslinge",
+      "is_range": false
+    },
+    {
+      "postnummer": "5863",
+      "postby": "Ferritslev Fyn",
+      "slug": "5863-ferritslev-fyn",
+      "is_range": false
+    },
+    {
+      "postnummer": "5871",
+      "postby": "Frørup",
+      "slug": "5871-froerup",
+      "is_range": false
+    },
+    {
+      "postnummer": "5874",
+      "postby": "Hesselager",
+      "slug": "5874-hesselager",
+      "is_range": false
+    },
+    {
+      "postnummer": "5881",
+      "postby": "Skårup Fyn",
+      "slug": "5881-skaarup-fyn",
+      "is_range": false
+    },
+    {
+      "postnummer": "5882",
+      "postby": "Vejstrup",
+      "slug": "5882-vejstrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "5883",
+      "postby": "Oure",
+      "slug": "5883-oure",
+      "is_range": false
+    },
+    {
+      "postnummer": "5884",
+      "postby": "Gudme",
+      "slug": "5884-gudme",
+      "is_range": false
+    },
+    {
+      "postnummer": "5892",
+      "postby": "Gudbjerg Sydfyn",
+      "slug": "5892-gudbjerg-sydfyn",
+      "is_range": false
+    },
+    {
+      "postnummer": "5900",
+      "postby": "Rudkøbing",
+      "slug": "5900-rudkoebing",
+      "is_range": false
+    },
+    {
+      "postnummer": "5932",
+      "postby": "Humble",
+      "slug": "5932-humble",
+      "is_range": false
+    },
+    {
+      "postnummer": "5935",
+      "postby": "Bagenkop",
+      "slug": "5935-bagenkop",
+      "is_range": false
+    },
+    {
+      "postnummer": "5953",
+      "postby": "Tranekær",
+      "slug": "5953-tranekaer",
+      "is_range": false
+    },
+    {
+      "postnummer": "5960",
+      "postby": "Marstal",
+      "slug": "5960-marstal",
+      "is_range": false
+    },
+    {
+      "postnummer": "5970",
+      "postby": "Ærøskøbing",
+      "slug": "5970-aeroeskoebing",
+      "is_range": false
+    },
+    {
+      "postnummer": "5985",
+      "postby": "Søby Ærø",
+      "slug": "5985-soeby-aeroe",
+      "is_range": false
+    },
+    {
+      "postnummer": "6000",
+      "postby": "Kolding",
+      "slug": "6000-kolding",
+      "is_range": false
+    },
+    {
+      "postnummer": "6040",
+      "postby": "Egtved",
+      "slug": "6040-egtved",
+      "is_range": false
+    },
+    {
+      "postnummer": "6051",
+      "postby": "Almind",
+      "slug": "6051-almind",
+      "is_range": false
+    },
+    {
+      "postnummer": "6052",
+      "postby": "Viuf",
+      "slug": "6052-viuf",
+      "is_range": false
+    },
+    {
+      "postnummer": "6064",
+      "postby": "Jordrup",
+      "slug": "6064-jordrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "6070",
+      "postby": "Christiansfeld",
+      "slug": "6070-christiansfeld",
+      "is_range": false
+    },
+    {
+      "postnummer": "6091",
+      "postby": "Bjert",
+      "slug": "6091-bjert",
+      "is_range": false
+    },
+    {
+      "postnummer": "6092",
+      "postby": "Sønder Stenderup",
+      "slug": "6092-soender-stenderup",
+      "is_range": false
+    },
+    {
+      "postnummer": "6093",
+      "postby": "Sjølund",
+      "slug": "6093-sjoelund",
+      "is_range": false
+    },
+    {
+      "postnummer": "6094",
+      "postby": "Hejls",
+      "slug": "6094-hejls",
+      "is_range": false
+    },
+    {
+      "postnummer": "6100",
+      "postby": "Haderslev",
+      "slug": "6100-haderslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "6200",
+      "postby": "Aabenraa",
+      "slug": "6200-aabenraa",
+      "is_range": false
+    },
+    {
+      "postnummer": "6230",
+      "postby": "Rødekro",
+      "slug": "6230-roedekro",
+      "is_range": false
+    },
+    {
+      "postnummer": "6240",
+      "postby": "Løgumkloster",
+      "slug": "6240-loegumkloster",
+      "is_range": false
+    },
+    {
+      "postnummer": "6261",
+      "postby": "Bredebro",
+      "slug": "6261-bredebro",
+      "is_range": false
+    },
+    {
+      "postnummer": "6270",
+      "postby": "Tønder",
+      "slug": "6270-toender",
+      "is_range": false
+    },
+    {
+      "postnummer": "6280",
+      "postby": "Højer",
+      "slug": "6280-hoejer",
+      "is_range": false
+    },
+    {
+      "postnummer": "6300",
+      "postby": "Gråsten",
+      "slug": "6300-graasten",
+      "is_range": false
+    },
+    {
+      "postnummer": "6310",
+      "postby": "Broager",
+      "slug": "6310-broager",
+      "is_range": false
+    },
+    {
+      "postnummer": "6320",
+      "postby": "Egernsund",
+      "slug": "6320-egernsund",
+      "is_range": false
+    },
+    {
+      "postnummer": "6330",
+      "postby": "Padborg",
+      "slug": "6330-padborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "6340",
+      "postby": "Kruså",
+      "slug": "6340-krusaa",
+      "is_range": false
+    },
+    {
+      "postnummer": "6360",
+      "postby": "Tinglev",
+      "slug": "6360-tinglev",
+      "is_range": false
+    },
+    {
+      "postnummer": "6372",
+      "postby": "Bylderup-Bov",
+      "slug": "6372-bylderup-bov",
+      "is_range": false
+    },
+    {
+      "postnummer": "6392",
+      "postby": "Bolderslev",
+      "slug": "6392-bolderslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "6400",
+      "postby": "Sønderborg",
+      "slug": "6400-soenderborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "6430",
+      "postby": "Nordborg",
+      "slug": "6430-nordborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "6440",
+      "postby": "Augustenborg",
+      "slug": "6440-augustenborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "6470",
+      "postby": "Sydals",
+      "slug": "6470-sydals",
+      "is_range": false
+    },
+    {
+      "postnummer": "6500",
+      "postby": "Vojens",
+      "slug": "6500-vojens",
+      "is_range": false
+    },
+    {
+      "postnummer": "6510",
+      "postby": "Gram",
+      "slug": "6510-gram",
+      "is_range": false
+    },
+    {
+      "postnummer": "6520",
+      "postby": "Toftlund",
+      "slug": "6520-toftlund",
+      "is_range": false
+    },
+    {
+      "postnummer": "6534",
+      "postby": "Agerskov",
+      "slug": "6534-agerskov",
+      "is_range": false
+    },
+    {
+      "postnummer": "6535",
+      "postby": "Branderup J",
+      "slug": "6535-branderup-j",
+      "is_range": false
+    },
+    {
+      "postnummer": "6541",
+      "postby": "Bevtoft",
+      "slug": "6541-bevtoft",
+      "is_range": false
+    },
+    {
+      "postnummer": "6560",
+      "postby": "Sommersted",
+      "slug": "6560-sommersted",
+      "is_range": false
+    },
+    {
+      "postnummer": "6580",
+      "postby": "Vamdrup",
+      "slug": "6580-vamdrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "6600",
+      "postby": "Vejen",
+      "slug": "6600-vejen",
+      "is_range": false
+    },
+    {
+      "postnummer": "6621",
+      "postby": "Gesten",
+      "slug": "6621-gesten",
+      "is_range": false
+    },
+    {
+      "postnummer": "6622",
+      "postby": "Bække",
+      "slug": "6622-baekke",
+      "is_range": false
+    },
+    {
+      "postnummer": "6623",
+      "postby": "Vorbasse",
+      "slug": "6623-vorbasse",
+      "is_range": false
+    },
+    {
+      "postnummer": "6630",
+      "postby": "Rødding",
+      "slug": "6630-roedding",
+      "is_range": false
+    },
+    {
+      "postnummer": "6640",
+      "postby": "Lunderskov",
+      "slug": "6640-lunderskov",
+      "is_range": false
+    },
+    {
+      "postnummer": "6650",
+      "postby": "Brørup",
+      "slug": "6650-broerup",
+      "is_range": false
+    },
+    {
+      "postnummer": "6660",
+      "postby": "Lintrup",
+      "slug": "6660-lintrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "6670",
+      "postby": "Holsted",
+      "slug": "6670-holsted",
+      "is_range": false
+    },
+    {
+      "postnummer": "6682",
+      "postby": "Hovborg",
+      "slug": "6682-hovborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "6683",
+      "postby": "Føvling",
+      "slug": "6683-foevling",
+      "is_range": false
+    },
+    {
+      "postnummer": "6690",
+      "postby": "Gørding",
+      "slug": "6690-goerding",
+      "is_range": false
+    },
+    {
+      "postnummer": "6700",
+      "postby": "Esbjerg",
+      "slug": "6700-esbjerg",
+      "is_range": false
+    },
+    {
+      "postnummer": "6705",
+      "postby": "Esbjerg Ø",
+      "slug": "6705-esbjerg-oe",
+      "is_range": false
+    },
+    {
+      "postnummer": "6710",
+      "postby": "Esbjerg V",
+      "slug": "6710-esbjerg-v",
+      "is_range": false
+    },
+    {
+      "postnummer": "6715",
+      "postby": "Esbjerg N",
+      "slug": "6715-esbjerg-n",
+      "is_range": false
+    },
+    {
+      "postnummer": "6720",
+      "postby": "Fanø",
+      "slug": "6720-fanoe",
+      "is_range": false
+    },
+    {
+      "postnummer": "6731",
+      "postby": "Tjæreborg",
+      "slug": "6731-tjaereborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "6740",
+      "postby": "Bramming",
+      "slug": "6740-bramming",
+      "is_range": false
+    },
+    {
+      "postnummer": "6752",
+      "postby": "Glejbjerg",
+      "slug": "6752-glejbjerg",
+      "is_range": false
+    },
+    {
+      "postnummer": "6753",
+      "postby": "Agerbæk",
+      "slug": "6753-agerbaek",
+      "is_range": false
+    },
+    {
+      "postnummer": "6760",
+      "postby": "Ribe",
+      "slug": "6760-ribe",
+      "is_range": false
+    },
+    {
+      "postnummer": "6771",
+      "postby": "Gredstedbro",
+      "slug": "6771-gredstedbro",
+      "is_range": false
+    },
+    {
+      "postnummer": "6780",
+      "postby": "Skærbæk",
+      "slug": "6780-skaerbaek",
+      "is_range": false
+    },
+    {
+      "postnummer": "6792",
+      "postby": "Rømø",
+      "slug": "6792-roemoe",
+      "is_range": false
+    },
+    {
+      "postnummer": "6800",
+      "postby": "Varde",
+      "slug": "6800-varde",
+      "is_range": false
+    },
+    {
+      "postnummer": "6818",
+      "postby": "Årre",
+      "slug": "6818-aarre",
+      "is_range": false
+    },
+    {
+      "postnummer": "6823",
+      "postby": "Ansager",
+      "slug": "6823-ansager",
+      "is_range": false
+    },
+    {
+      "postnummer": "6830",
+      "postby": "Nørre Nebel",
+      "slug": "6830-noerre-nebel",
+      "is_range": false
+    },
+    {
+      "postnummer": "6840",
+      "postby": "Oksbøl",
+      "slug": "6840-oksboel",
+      "is_range": false
+    },
+    {
+      "postnummer": "6851",
+      "postby": "Janderup Vestj",
+      "slug": "6851-janderup-vestj",
+      "is_range": false
+    },
+    {
+      "postnummer": "6852",
+      "postby": "Billum",
+      "slug": "6852-billum",
+      "is_range": false
+    },
+    {
+      "postnummer": "6853",
+      "postby": "Vejers Strand",
+      "slug": "6853-vejers-strand",
+      "is_range": false
+    },
+    {
+      "postnummer": "6854",
+      "postby": "Henne",
+      "slug": "6854-henne",
+      "is_range": false
+    },
+    {
+      "postnummer": "6855",
+      "postby": "Outrup",
+      "slug": "6855-outrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "6857",
+      "postby": "Blåvand",
+      "slug": "6857-blaavand",
+      "is_range": false
+    },
+    {
+      "postnummer": "6862",
+      "postby": "Tistrup",
+      "slug": "6862-tistrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "6870",
+      "postby": "Ølgod",
+      "slug": "6870-oelgod",
+      "is_range": false
+    },
+    {
+      "postnummer": "6880",
+      "postby": "Tarm",
+      "slug": "6880-tarm",
+      "is_range": false
+    },
+    {
+      "postnummer": "6893",
+      "postby": "Hemmet",
+      "slug": "6893-hemmet",
+      "is_range": false
+    },
+    {
+      "postnummer": "6900",
+      "postby": "Skjern",
+      "slug": "6900-skjern",
+      "is_range": false
+    },
+    {
+      "postnummer": "6920",
+      "postby": "Videbæk",
+      "slug": "6920-videbaek",
+      "is_range": false
+    },
+    {
+      "postnummer": "6933",
+      "postby": "Kibæk",
+      "slug": "6933-kibaek",
+      "is_range": false
+    },
+    {
+      "postnummer": "6940",
+      "postby": "Lem St",
+      "slug": "6940-lem-st",
+      "is_range": false
+    },
+    {
+      "postnummer": "6950",
+      "postby": "Ringkøbing",
+      "slug": "6950-ringkoebing",
+      "is_range": false
+    },
+    {
+      "postnummer": "6960",
+      "postby": "Hvide Sande",
+      "slug": "6960-hvide-sande",
+      "is_range": false
+    },
+    {
+      "postnummer": "6971",
+      "postby": "Spjald",
+      "slug": "6971-spjald",
+      "is_range": false
+    },
+    {
+      "postnummer": "6973",
+      "postby": "Ørnhøj",
+      "slug": "6973-oernhoej",
+      "is_range": false
+    },
+    {
+      "postnummer": "6980",
+      "postby": "Tim",
+      "slug": "6980-tim",
+      "is_range": false
+    },
+    {
+      "postnummer": "6990",
+      "postby": "Ulfborg",
+      "slug": "6990-ulfborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "7000",
+      "postby": "Fredericia",
+      "slug": "7000-fredericia",
+      "is_range": false
+    },
+    {
+      "postnummer": "7080",
+      "postby": "Børkop",
+      "slug": "7080-boerkop",
+      "is_range": false
+    },
+    {
+      "postnummer": "7100",
+      "postby": "Vejle",
+      "slug": "7100-vejle",
+      "is_range": false
+    },
+    {
+      "postnummer": "7120",
+      "postby": "Vejle Øst",
+      "slug": "7120-vejle-oest",
+      "is_range": false
+    },
+    {
+      "postnummer": "7130",
+      "postby": "Juelsminde",
+      "slug": "7130-juelsminde",
+      "is_range": false
+    },
+    {
+      "postnummer": "7140",
+      "postby": "Stouby",
+      "slug": "7140-stouby",
+      "is_range": false
+    },
+    {
+      "postnummer": "7150",
+      "postby": "Barrit",
+      "slug": "7150-barrit",
+      "is_range": false
+    },
+    {
+      "postnummer": "7160",
+      "postby": "Tørring",
+      "slug": "7160-toerring",
+      "is_range": false
+    },
+    {
+      "postnummer": "7171",
+      "postby": "Uldum",
+      "slug": "7171-uldum",
+      "is_range": false
+    },
+    {
+      "postnummer": "7173",
+      "postby": "Vonge",
+      "slug": "7173-vonge",
+      "is_range": false
+    },
+    {
+      "postnummer": "7182",
+      "postby": "Bredsten",
+      "slug": "7182-bredsten",
+      "is_range": false
+    },
+    {
+      "postnummer": "7183",
+      "postby": "Randbøl",
+      "slug": "7183-randboel",
+      "is_range": false
+    },
+    {
+      "postnummer": "7184",
+      "postby": "Vandel",
+      "slug": "7184-vandel",
+      "is_range": false
+    },
+    {
+      "postnummer": "7190",
+      "postby": "Billund",
+      "slug": "7190-billund",
+      "is_range": false
+    },
+    {
+      "postnummer": "7200",
+      "postby": "Grindsted",
+      "slug": "7200-grindsted",
+      "is_range": false
+    },
+    {
+      "postnummer": "7250",
+      "postby": "Hejnsvig",
+      "slug": "7250-hejnsvig",
+      "is_range": false
+    },
+    {
+      "postnummer": "7260",
+      "postby": "Sønder Omme",
+      "slug": "7260-soender-omme",
+      "is_range": false
+    },
+    {
+      "postnummer": "7270",
+      "postby": "Stakroge",
+      "slug": "7270-stakroge",
+      "is_range": false
+    },
+    {
+      "postnummer": "7280",
+      "postby": "Sønder Felding",
+      "slug": "7280-soender-felding",
+      "is_range": false
+    },
+    {
+      "postnummer": "7300",
+      "postby": "Jelling",
+      "slug": "7300-jelling",
+      "is_range": false
+    },
+    {
+      "postnummer": "7321",
+      "postby": "Gadbjerg",
+      "slug": "7321-gadbjerg",
+      "is_range": false
+    },
+    {
+      "postnummer": "7323",
+      "postby": "Give",
+      "slug": "7323-give",
+      "is_range": false
+    },
+    {
+      "postnummer": "7330",
+      "postby": "Brande",
+      "slug": "7330-brande",
+      "is_range": false
+    },
+    {
+      "postnummer": "7361",
+      "postby": "Ejstrupholm",
+      "slug": "7361-ejstrupholm",
+      "is_range": false
+    },
+    {
+      "postnummer": "7362",
+      "postby": "Hampen",
+      "slug": "7362-hampen",
+      "is_range": false
+    },
+    {
+      "postnummer": "7400",
+      "postby": "Herning",
+      "slug": "7400-herning",
+      "is_range": false
+    },
+    {
+      "postnummer": "7430",
+      "postby": "Ikast",
+      "slug": "7430-ikast",
+      "is_range": false
+    },
+    {
+      "postnummer": "7441",
+      "postby": "Bording",
+      "slug": "7441-bording",
+      "is_range": false
+    },
+    {
+      "postnummer": "7442",
+      "postby": "Engesvang",
+      "slug": "7442-engesvang",
+      "is_range": false
+    },
+    {
+      "postnummer": "7451",
+      "postby": "Sunds",
+      "slug": "7451-sunds",
+      "is_range": false
+    },
+    {
+      "postnummer": "7470",
+      "postby": "Karup J",
+      "slug": "7470-karup-j",
+      "is_range": false
+    },
+    {
+      "postnummer": "7480",
+      "postby": "Vildbjerg",
+      "slug": "7480-vildbjerg",
+      "is_range": false
+    },
+    {
+      "postnummer": "7490",
+      "postby": "Aulum",
+      "slug": "7490-aulum",
+      "is_range": false
+    },
+    {
+      "postnummer": "7500",
+      "postby": "Holstebro",
+      "slug": "7500-holstebro",
+      "is_range": false
+    },
+    {
+      "postnummer": "7540",
+      "postby": "Haderup",
+      "slug": "7540-haderup",
+      "is_range": false
+    },
+    {
+      "postnummer": "7550",
+      "postby": "Sørvad",
+      "slug": "7550-soervad",
+      "is_range": false
+    },
+    {
+      "postnummer": "7560",
+      "postby": "Hjerm",
+      "slug": "7560-hjerm",
+      "is_range": false
+    },
+    {
+      "postnummer": "7570",
+      "postby": "Vemb",
+      "slug": "7570-vemb",
+      "is_range": false
+    },
+    {
+      "postnummer": "7600",
+      "postby": "Struer",
+      "slug": "7600-struer",
+      "is_range": false
+    },
+    {
+      "postnummer": "7620",
+      "postby": "Lemvig",
+      "slug": "7620-lemvig",
+      "is_range": false
+    },
+    {
+      "postnummer": "7650",
+      "postby": "Bøvlingbjerg",
+      "slug": "7650-boevlingbjerg",
+      "is_range": false
+    },
+    {
+      "postnummer": "7660",
+      "postby": "Bækmarksbro",
+      "slug": "7660-baekmarksbro",
+      "is_range": false
+    },
+    {
+      "postnummer": "7673",
+      "postby": "Harboøre",
+      "slug": "7673-harbooere",
+      "is_range": false
+    },
+    {
+      "postnummer": "7680",
+      "postby": "Thyborøn",
+      "slug": "7680-thyboroen",
+      "is_range": false
+    },
+    {
+      "postnummer": "7700",
+      "postby": "Thisted",
+      "slug": "7700-thisted",
+      "is_range": false
+    },
+    {
+      "postnummer": "7730",
+      "postby": "Hanstholm",
+      "slug": "7730-hanstholm",
+      "is_range": false
+    },
+    {
+      "postnummer": "7741",
+      "postby": "Frøstrup",
+      "slug": "7741-froestrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "7742",
+      "postby": "Vesløs",
+      "slug": "7742-vesloes",
+      "is_range": false
+    },
+    {
+      "postnummer": "7752",
+      "postby": "Snedsted",
+      "slug": "7752-snedsted",
+      "is_range": false
+    },
+    {
+      "postnummer": "7755",
+      "postby": "Bedsted Thy",
+      "slug": "7755-bedsted-thy",
+      "is_range": false
+    },
+    {
+      "postnummer": "7760",
+      "postby": "Hurup Thy",
+      "slug": "7760-hurup-thy",
+      "is_range": false
+    },
+    {
+      "postnummer": "7770",
+      "postby": "Vestervig",
+      "slug": "7770-vestervig",
+      "is_range": false
+    },
+    {
+      "postnummer": "7790",
+      "postby": "Thyholm",
+      "slug": "7790-thyholm",
+      "is_range": false
+    },
+    {
+      "postnummer": "7800",
+      "postby": "Skive",
+      "slug": "7800-skive",
+      "is_range": false
+    },
+    {
+      "postnummer": "7830",
+      "postby": "Vinderup",
+      "slug": "7830-vinderup",
+      "is_range": false
+    },
+    {
+      "postnummer": "7840",
+      "postby": "Højslev",
+      "slug": "7840-hoejslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "7850",
+      "postby": "Stoholm Jyll",
+      "slug": "7850-stoholm-jyll",
+      "is_range": false
+    },
+    {
+      "postnummer": "7860",
+      "postby": "Spøttrup",
+      "slug": "7860-spoettrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "7870",
+      "postby": "Roslev",
+      "slug": "7870-roslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "7884",
+      "postby": "Fur",
+      "slug": "7884-fur",
+      "is_range": false
+    },
+    {
+      "postnummer": "7900",
+      "postby": "Nykøbing M",
+      "slug": "7900-nykoebing-m",
+      "is_range": false
+    },
+    {
+      "postnummer": "7950",
+      "postby": "Erslev",
+      "slug": "7950-erslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "7960",
+      "postby": "Karby",
+      "slug": "7960-karby",
+      "is_range": false
+    },
+    {
+      "postnummer": "7970",
+      "postby": "Redsted M",
+      "slug": "7970-redsted-m",
+      "is_range": false
+    },
+    {
+      "postnummer": "7980",
+      "postby": "Vils",
+      "slug": "7980-vils",
+      "is_range": false
+    },
+    {
+      "postnummer": "7990",
+      "postby": "Øster Assels",
+      "slug": "7990-oester-assels",
+      "is_range": false
+    },
+    {
+      "postnummer": "8000",
+      "postby": "Aarhus C",
+      "slug": "8000-aarhus-c",
+      "is_range": false
+    },
+    {
+      "postnummer": "8200",
+      "postby": "Aarhus N",
+      "slug": "8200-aarhus-n",
+      "is_range": false
+    },
+    {
+      "postnummer": "8210",
+      "postby": "Aarhus V",
+      "slug": "8210-aarhus-v",
+      "is_range": false
+    },
+    {
+      "postnummer": "8220",
+      "postby": "Brabrand",
+      "slug": "8220-brabrand",
+      "is_range": false
+    },
+    {
+      "postnummer": "8230",
+      "postby": "Åbyhøj",
+      "slug": "8230-aabyhoej",
+      "is_range": false
+    },
+    {
+      "postnummer": "8240",
+      "postby": "Risskov",
+      "slug": "8240-risskov",
+      "is_range": false
+    },
+    {
+      "postnummer": "8250",
+      "postby": "Egå",
+      "slug": "8250-egaa",
+      "is_range": false
+    },
+    {
+      "postnummer": "8260",
+      "postby": "Viby J",
+      "slug": "8260-viby-j",
+      "is_range": false
+    },
+    {
+      "postnummer": "8270",
+      "postby": "Højbjerg",
+      "slug": "8270-hoejbjerg",
+      "is_range": false
+    },
+    {
+      "postnummer": "8300",
+      "postby": "Odder",
+      "slug": "8300-odder",
+      "is_range": false
+    },
+    {
+      "postnummer": "8305",
+      "postby": "Samsø",
+      "slug": "8305-samsoe",
+      "is_range": false
+    },
+    {
+      "postnummer": "8310",
+      "postby": "Tranbjerg J",
+      "slug": "8310-tranbjerg-j",
+      "is_range": false
+    },
+    {
+      "postnummer": "8320",
+      "postby": "Mårslet",
+      "slug": "8320-maarslet",
+      "is_range": false
+    },
+    {
+      "postnummer": "8330",
+      "postby": "Beder",
+      "slug": "8330-beder",
+      "is_range": false
+    },
+    {
+      "postnummer": "8340",
+      "postby": "Malling",
+      "slug": "8340-malling",
+      "is_range": false
+    },
+    {
+      "postnummer": "8350",
+      "postby": "Hundslund",
+      "slug": "8350-hundslund",
+      "is_range": false
+    },
+    {
+      "postnummer": "8355",
+      "postby": "Solbjerg",
+      "slug": "8355-solbjerg",
+      "is_range": false
+    },
+    {
+      "postnummer": "8361",
+      "postby": "Hasselager",
+      "slug": "8361-hasselager",
+      "is_range": false
+    },
+    {
+      "postnummer": "8362",
+      "postby": "Hørning",
+      "slug": "8362-hoerning",
+      "is_range": false
+    },
+    {
+      "postnummer": "8370",
+      "postby": "Hadsten",
+      "slug": "8370-hadsten",
+      "is_range": false
+    },
+    {
+      "postnummer": "8380",
+      "postby": "Trige",
+      "slug": "8380-trige",
+      "is_range": false
+    },
+    {
+      "postnummer": "8381",
+      "postby": "Tilst",
+      "slug": "8381-tilst",
+      "is_range": false
+    },
+    {
+      "postnummer": "8382",
+      "postby": "Hinnerup",
+      "slug": "8382-hinnerup",
+      "is_range": false
+    },
+    {
+      "postnummer": "8400",
+      "postby": "Ebeltoft",
+      "slug": "8400-ebeltoft",
+      "is_range": false
+    },
+    {
+      "postnummer": "8410",
+      "postby": "Rønde",
+      "slug": "8410-roende",
+      "is_range": false
+    },
+    {
+      "postnummer": "8420",
+      "postby": "Knebel",
+      "slug": "8420-knebel",
+      "is_range": false
+    },
+    {
+      "postnummer": "8444",
+      "postby": "Balle",
+      "slug": "8444-balle",
+      "is_range": false
+    },
+    {
+      "postnummer": "8450",
+      "postby": "Hammel",
+      "slug": "8450-hammel",
+      "is_range": false
+    },
+    {
+      "postnummer": "8462",
+      "postby": "Harlev J",
+      "slug": "8462-harlev-j",
+      "is_range": false
+    },
+    {
+      "postnummer": "8464",
+      "postby": "Galten",
+      "slug": "8464-galten",
+      "is_range": false
+    },
+    {
+      "postnummer": "8471",
+      "postby": "Sabro",
+      "slug": "8471-sabro",
+      "is_range": false
+    },
+    {
+      "postnummer": "8472",
+      "postby": "Sporup",
+      "slug": "8472-sporup",
+      "is_range": false
+    },
+    {
+      "postnummer": "8500",
+      "postby": "Grenaa",
+      "slug": "8500-grenaa",
+      "is_range": false
+    },
+    {
+      "postnummer": "8520",
+      "postby": "Lystrup",
+      "slug": "8520-lystrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "8530",
+      "postby": "Hjortshøj",
+      "slug": "8530-hjortshoej",
+      "is_range": false
+    },
+    {
+      "postnummer": "8541",
+      "postby": "Skødstrup",
+      "slug": "8541-skoedstrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "8543",
+      "postby": "Hornslet",
+      "slug": "8543-hornslet",
+      "is_range": false
+    },
+    {
+      "postnummer": "8544",
+      "postby": "Mørke",
+      "slug": "8544-moerke",
+      "is_range": false
+    },
+    {
+      "postnummer": "8550",
+      "postby": "Ryomgård",
+      "slug": "8550-ryomgaard",
+      "is_range": false
+    },
+    {
+      "postnummer": "8560",
+      "postby": "Kolind",
+      "slug": "8560-kolind",
+      "is_range": false
+    },
+    {
+      "postnummer": "8570",
+      "postby": "Trustrup",
+      "slug": "8570-trustrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "8581",
+      "postby": "Nimtofte",
+      "slug": "8581-nimtofte",
+      "is_range": false
+    },
+    {
+      "postnummer": "8585",
+      "postby": "Glesborg",
+      "slug": "8585-glesborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "8586",
+      "postby": "Ørum Djurs",
+      "slug": "8586-oerum-djurs",
+      "is_range": false
+    },
+    {
+      "postnummer": "8592",
+      "postby": "Anholt",
+      "slug": "8592-anholt",
+      "is_range": false
+    },
+    {
+      "postnummer": "8600",
+      "postby": "Silkeborg",
+      "slug": "8600-silkeborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "8620",
+      "postby": "Kjellerup",
+      "slug": "8620-kjellerup",
+      "is_range": false
+    },
+    {
+      "postnummer": "8632",
+      "postby": "Lemming",
+      "slug": "8632-lemming",
+      "is_range": false
+    },
+    {
+      "postnummer": "8641",
+      "postby": "Sorring",
+      "slug": "8641-sorring",
+      "is_range": false
+    },
+    {
+      "postnummer": "8643",
+      "postby": "Ans By",
+      "slug": "8643-ans-by",
+      "is_range": false
+    },
+    {
+      "postnummer": "8653",
+      "postby": "Them",
+      "slug": "8653-them",
+      "is_range": false
+    },
+    {
+      "postnummer": "8654",
+      "postby": "Bryrup",
+      "slug": "8654-bryrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "8660",
+      "postby": "Skanderborg",
+      "slug": "8660-skanderborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "8670",
+      "postby": "Låsby",
+      "slug": "8670-laasby",
+      "is_range": false
+    },
+    {
+      "postnummer": "8680",
+      "postby": "Ry",
+      "slug": "8680-ry",
+      "is_range": false
+    },
+    {
+      "postnummer": "8700",
+      "postby": "Horsens",
+      "slug": "8700-horsens",
+      "is_range": false
+    },
+    {
+      "postnummer": "8721",
+      "postby": "Daugård",
+      "slug": "8721-daugaard",
+      "is_range": false
+    },
+    {
+      "postnummer": "8722",
+      "postby": "Hedensted",
+      "slug": "8722-hedensted",
+      "is_range": false
+    },
+    {
+      "postnummer": "8723",
+      "postby": "Løsning",
+      "slug": "8723-loesning",
+      "is_range": false
+    },
+    {
+      "postnummer": "8732",
+      "postby": "Hovedgård",
+      "slug": "8732-hovedgaard",
+      "is_range": false
+    },
+    {
+      "postnummer": "8740",
+      "postby": "Brædstrup",
+      "slug": "8740-braedstrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "8751",
+      "postby": "Gedved",
+      "slug": "8751-gedved",
+      "is_range": false
+    },
+    {
+      "postnummer": "8752",
+      "postby": "Østbirk",
+      "slug": "8752-oestbirk",
+      "is_range": false
+    },
+    {
+      "postnummer": "8762",
+      "postby": "Flemming",
+      "slug": "8762-flemming",
+      "is_range": false
+    },
+    {
+      "postnummer": "8763",
+      "postby": "Rask Mølle",
+      "slug": "8763-rask-moelle",
+      "is_range": false
+    },
+    {
+      "postnummer": "8765",
+      "postby": "Klovborg",
+      "slug": "8765-klovborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "8766",
+      "postby": "Nørre Snede",
+      "slug": "8766-noerre-snede",
+      "is_range": false
+    },
+    {
+      "postnummer": "8781",
+      "postby": "Stenderup",
+      "slug": "8781-stenderup",
+      "is_range": false
+    },
+    {
+      "postnummer": "8783",
+      "postby": "Hornsyld",
+      "slug": "8783-hornsyld",
+      "is_range": false
+    },
+    {
+      "postnummer": "8800",
+      "postby": "Viborg",
+      "slug": "8800-viborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "8830",
+      "postby": "Tjele",
+      "slug": "8830-tjele",
+      "is_range": false
+    },
+    {
+      "postnummer": "8831",
+      "postby": "Løgstrup",
+      "slug": "8831-loegstrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "8832",
+      "postby": "Skals",
+      "slug": "8832-skals",
+      "is_range": false
+    },
+    {
+      "postnummer": "8840",
+      "postby": "Rødkærsbro",
+      "slug": "8840-roedkaersbro",
+      "is_range": false
+    },
+    {
+      "postnummer": "8850",
+      "postby": "Bjerringbro",
+      "slug": "8850-bjerringbro",
+      "is_range": false
+    },
+    {
+      "postnummer": "8860",
+      "postby": "Ulstrup",
+      "slug": "8860-ulstrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "8870",
+      "postby": "Langå",
+      "slug": "8870-langaa",
+      "is_range": false
+    },
+    {
+      "postnummer": "8881",
+      "postby": "Thorsø",
+      "slug": "8881-thorsoe",
+      "is_range": false
+    },
+    {
+      "postnummer": "8882",
+      "postby": "Fårvang",
+      "slug": "8882-faarvang",
+      "is_range": false
+    },
+    {
+      "postnummer": "8883",
+      "postby": "Gjern",
+      "slug": "8883-gjern",
+      "is_range": false
+    },
+    {
+      "postnummer": "8900",
+      "postby": "Randers C",
+      "slug": "8900-randers-c",
+      "is_range": false
+    },
+    {
+      "postnummer": "8920",
+      "postby": "Randers NV",
+      "slug": "8920-randers-nv",
+      "is_range": false
+    },
+    {
+      "postnummer": "8930",
+      "postby": "Randers NØ",
+      "slug": "8930-randers-noe",
+      "is_range": false
+    },
+    {
+      "postnummer": "8940",
+      "postby": "Randers SV",
+      "slug": "8940-randers-sv",
+      "is_range": false
+    },
+    {
+      "postnummer": "8950",
+      "postby": "Ørsted",
+      "slug": "8950-oersted",
+      "is_range": false
+    },
+    {
+      "postnummer": "8960",
+      "postby": "Randers SØ",
+      "slug": "8960-randers-soe",
+      "is_range": false
+    },
+    {
+      "postnummer": "8961",
+      "postby": "Allingåbro",
+      "slug": "8961-allingaabro",
+      "is_range": false
+    },
+    {
+      "postnummer": "8963",
+      "postby": "Auning",
+      "slug": "8963-auning",
+      "is_range": false
+    },
+    {
+      "postnummer": "8970",
+      "postby": "Havndal",
+      "slug": "8970-havndal",
+      "is_range": false
+    },
+    {
+      "postnummer": "8981",
+      "postby": "Spentrup",
+      "slug": "8981-spentrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "8983",
+      "postby": "Gjerlev J",
+      "slug": "8983-gjerlev-j",
+      "is_range": false
+    },
+    {
+      "postnummer": "8990",
+      "postby": "Fårup",
+      "slug": "8990-faarup",
+      "is_range": false
+    },
+    {
+      "postnummer": "9000",
+      "postby": "Aalborg",
+      "slug": "9000-aalborg",
+      "is_range": false
+    },
+    {
+      "postnummer": "9200",
+      "postby": "Aalborg SV",
+      "slug": "9200-aalborg-sv",
+      "is_range": false
+    },
+    {
+      "postnummer": "9210",
+      "postby": "Aalborg SØ",
+      "slug": "9210-aalborg-soe",
+      "is_range": false
+    },
+    {
+      "postnummer": "9220",
+      "postby": "Aalborg Øst",
+      "slug": "9220-aalborg-oest",
+      "is_range": false
+    },
+    {
+      "postnummer": "9230",
+      "postby": "Svenstrup J",
+      "slug": "9230-svenstrup-j",
+      "is_range": false
+    },
+    {
+      "postnummer": "9240",
+      "postby": "Nibe",
+      "slug": "9240-nibe",
+      "is_range": false
+    },
+    {
+      "postnummer": "9260",
+      "postby": "Gistrup",
+      "slug": "9260-gistrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "9270",
+      "postby": "Klarup",
+      "slug": "9270-klarup",
+      "is_range": false
+    },
+    {
+      "postnummer": "9280",
+      "postby": "Storvorde",
+      "slug": "9280-storvorde",
+      "is_range": false
+    },
+    {
+      "postnummer": "9293",
+      "postby": "Kongerslev",
+      "slug": "9293-kongerslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "9300",
+      "postby": "Sæby",
+      "slug": "9300-saeby",
+      "is_range": false
+    },
+    {
+      "postnummer": "9310",
+      "postby": "Vodskov",
+      "slug": "9310-vodskov",
+      "is_range": false
+    },
+    {
+      "postnummer": "9320",
+      "postby": "Hjallerup",
+      "slug": "9320-hjallerup",
+      "is_range": false
+    },
+    {
+      "postnummer": "9330",
+      "postby": "Dronninglund",
+      "slug": "9330-dronninglund",
+      "is_range": false
+    },
+    {
+      "postnummer": "9340",
+      "postby": "Asaa",
+      "slug": "9340-asaa",
+      "is_range": false
+    },
+    {
+      "postnummer": "9352",
+      "postby": "Dybvad",
+      "slug": "9352-dybvad",
+      "is_range": false
+    },
+    {
+      "postnummer": "9362",
+      "postby": "Gandrup",
+      "slug": "9362-gandrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "9370",
+      "postby": "Hals",
+      "slug": "9370-hals",
+      "is_range": false
+    },
+    {
+      "postnummer": "9380",
+      "postby": "Vestbjerg",
+      "slug": "9380-vestbjerg",
+      "is_range": false
+    },
+    {
+      "postnummer": "9381",
+      "postby": "Sulsted",
+      "slug": "9381-sulsted",
+      "is_range": false
+    },
+    {
+      "postnummer": "9382",
+      "postby": "Tylstrup",
+      "slug": "9382-tylstrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "9400",
+      "postby": "Nørresundby",
+      "slug": "9400-noerresundby",
+      "is_range": false
+    },
+    {
+      "postnummer": "9430",
+      "postby": "Vadum",
+      "slug": "9430-vadum",
+      "is_range": false
+    },
+    {
+      "postnummer": "9440",
+      "postby": "Aabybro",
+      "slug": "9440-aabybro",
+      "is_range": false
+    },
+    {
+      "postnummer": "9460",
+      "postby": "Brovst",
+      "slug": "9460-brovst",
+      "is_range": false
+    },
+    {
+      "postnummer": "9480",
+      "postby": "Løkken",
+      "slug": "9480-loekken",
+      "is_range": false
+    },
+    {
+      "postnummer": "9490",
+      "postby": "Pandrup",
+      "slug": "9490-pandrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "9492",
+      "postby": "Blokhus",
+      "slug": "9492-blokhus",
+      "is_range": false
+    },
+    {
+      "postnummer": "9493",
+      "postby": "Saltum",
+      "slug": "9493-saltum",
+      "is_range": false
+    },
+    {
+      "postnummer": "9500",
+      "postby": "Hobro",
+      "slug": "9500-hobro",
+      "is_range": false
+    },
+    {
+      "postnummer": "9510",
+      "postby": "Arden",
+      "slug": "9510-arden",
+      "is_range": false
+    },
+    {
+      "postnummer": "9520",
+      "postby": "Skørping",
+      "slug": "9520-skoerping",
+      "is_range": false
+    },
+    {
+      "postnummer": "9530",
+      "postby": "Støvring",
+      "slug": "9530-stoevring",
+      "is_range": false
+    },
+    {
+      "postnummer": "9541",
+      "postby": "Suldrup",
+      "slug": "9541-suldrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "9550",
+      "postby": "Mariager",
+      "slug": "9550-mariager",
+      "is_range": false
+    },
+    {
+      "postnummer": "9560",
+      "postby": "Hadsund",
+      "slug": "9560-hadsund",
+      "is_range": false
+    },
+    {
+      "postnummer": "9574",
+      "postby": "Bælum",
+      "slug": "9574-baelum",
+      "is_range": false
+    },
+    {
+      "postnummer": "9575",
+      "postby": "Terndrup",
+      "slug": "9575-terndrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "9600",
+      "postby": "Aars",
+      "slug": "9600-aars",
+      "is_range": false
+    },
+    {
+      "postnummer": "9610",
+      "postby": "Nørager",
+      "slug": "9610-noerager",
+      "is_range": false
+    },
+    {
+      "postnummer": "9620",
+      "postby": "Aalestrup",
+      "slug": "9620-aalestrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "9631",
+      "postby": "Gedsted",
+      "slug": "9631-gedsted",
+      "is_range": false
+    },
+    {
+      "postnummer": "9632",
+      "postby": "Møldrup",
+      "slug": "9632-moeldrup",
+      "is_range": false
+    },
+    {
+      "postnummer": "9640",
+      "postby": "Farsø",
+      "slug": "9640-farsoe",
+      "is_range": false
+    },
+    {
+      "postnummer": "9670",
+      "postby": "Løgstør",
+      "slug": "9670-loegstoer",
+      "is_range": false
+    },
+    {
+      "postnummer": "9681",
+      "postby": "Ranum",
+      "slug": "9681-ranum",
+      "is_range": false
+    },
+    {
+      "postnummer": "9690",
+      "postby": "Fjerritslev",
+      "slug": "9690-fjerritslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "9700",
+      "postby": "Brønderslev",
+      "slug": "9700-broenderslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "9740",
+      "postby": "Jerslev J",
+      "slug": "9740-jerslev-j",
+      "is_range": false
+    },
+    {
+      "postnummer": "9750",
+      "postby": "Østervrå",
+      "slug": "9750-oestervraa",
+      "is_range": false
+    },
+    {
+      "postnummer": "9760",
+      "postby": "Vrå",
+      "slug": "9760-vraa",
+      "is_range": false
+    },
+    {
+      "postnummer": "9800",
+      "postby": "Hjørring",
+      "slug": "9800-hjoerring",
+      "is_range": false
+    },
+    {
+      "postnummer": "9830",
+      "postby": "Tårs",
+      "slug": "9830-taars",
+      "is_range": false
+    },
+    {
+      "postnummer": "9850",
+      "postby": "Hirtshals",
+      "slug": "9850-hirtshals",
+      "is_range": false
+    },
+    {
+      "postnummer": "9870",
+      "postby": "Sindal",
+      "slug": "9870-sindal",
+      "is_range": false
+    },
+    {
+      "postnummer": "9881",
+      "postby": "Bindslev",
+      "slug": "9881-bindslev",
+      "is_range": false
+    },
+    {
+      "postnummer": "9900",
+      "postby": "Frederikshavn",
+      "slug": "9900-frederikshavn",
+      "is_range": false
+    },
+    {
+      "postnummer": "9940",
+      "postby": "Læsø",
+      "slug": "9940-laesoe",
+      "is_range": false
+    },
+    {
+      "postnummer": "9970",
+      "postby": "Strandby",
+      "slug": "9970-strandby",
+      "is_range": false
+    },
+    {
+      "postnummer": "9981",
+      "postby": "Jerup",
+      "slug": "9981-jerup",
+      "is_range": false
+    },
+    {
+      "postnummer": "9982",
+      "postby": "Ålbæk",
+      "slug": "9982-aalbaek",
+      "is_range": false
+    },
+    {
+      "postnummer": "9990",
+      "postby": "Skagen",
+      "slug": "9990-skagen",
+      "is_range": false
+    }
+  ],
+  "meta": {
+    "title": "Postnumre i Danmark - Gratis download",
+    "description": "Danske postnumre med tilhørende postbynavn. Inkluderer 7 København interval-postnumre (fx 1000-1499) der dækker mailing-only PO-boxe. Vintage 2014-02-13 (DAGI-snapshot). Indeholder 592 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Postnumre i Danmark | ListBase",
+    "seo_description": "Download Postnumre i Danmark — 592 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 592 poster / 4 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

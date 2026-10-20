@@ -1,0 +1,2386 @@
+{
+  "id": "da-byggemarkeder",
+  "name": "Byggemarkeder i Danmark (DIY stores in Denmark)",
+  "title": "Byggemarkeder i Danmark (DIY stores in Denmark)",
+  "description": "DIY stores in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=doityourself.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 469,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Arnum Rør",
+      "latitude": 55.25222,
+      "longitude": 8.962794
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 54.921988,
+      "longitude": 9.815199
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 55.25074,
+      "longitude": 11.782609
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 55.404465,
+      "longitude": 10.424423
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 55.508451,
+      "longitude": 8.451989
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 55.512591,
+      "longitude": 9.45399
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 55.620188,
+      "longitude": 12.340181
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 55.646159,
+      "longitude": 12.132307
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 55.649014,
+      "longitude": 12.518194
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 55.663563,
+      "longitude": 12.383246
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 55.704752,
+      "longitude": 11.668521
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 55.728418,
+      "longitude": 9.581073
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 55.733306,
+      "longitude": 12.457706
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 55.933581,
+      "longitude": 12.258613
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 56.117551,
+      "longitude": 10.153215
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 56.132578,
+      "longitude": 9.01
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 56.183811,
+      "longitude": 10.100007
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 56.431664,
+      "longitude": 10.056246
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 56.999918,
+      "longitude": 9.870171
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 57.455413,
+      "longitude": 10.034714
+    },
+    {
+      "name": "Biltema",
+      "latitude": 55.647431,
+      "longitude": 12.137106
+    },
+    {
+      "name": "Biltema",
+      "latitude": 56.970633,
+      "longitude": 8.7423
+    },
+    {
+      "name": "Biltema Fredericia",
+      "latitude": 55.568397,
+      "longitude": 9.700564
+    },
+    {
+      "name": "Biltema Glostrup",
+      "latitude": 55.663549,
+      "longitude": 12.377376
+    },
+    {
+      "name": "Biltema Herning",
+      "latitude": 56.13159,
+      "longitude": 9.009976
+    },
+    {
+      "name": "Biltema Hjørring",
+      "latitude": 57.455367,
+      "longitude": 10.031063
+    },
+    {
+      "name": "Biltema Holstebro",
+      "latitude": 56.388342,
+      "longitude": 8.620016
+    },
+    {
+      "name": "Biltema Horsens",
+      "latitude": 55.85363,
+      "longitude": 9.850987
+    },
+    {
+      "name": "Biltema Nykøbing Falster",
+      "latitude": 54.758932,
+      "longitude": 11.845799
+    },
+    {
+      "name": "Biltema Næstved",
+      "latitude": 55.253731,
+      "longitude": 11.790747
+    },
+    {
+      "name": "Biltema Odense",
+      "latitude": 55.402357,
+      "longitude": 10.422816
+    },
+    {
+      "name": "Biltema Randers",
+      "latitude": 56.423107,
+      "longitude": 10.064599
+    },
+    {
+      "name": "Biltema Rødekro",
+      "latitude": 55.068719,
+      "longitude": 9.363102
+    },
+    {
+      "name": "Biltema Slagelse",
+      "latitude": 55.385959,
+      "longitude": 11.328209
+    },
+    {
+      "name": "Biltema Sønderborg",
+      "latitude": 54.921822,
+      "longitude": 9.812803
+    },
+    {
+      "name": "ByggeBilligt",
+      "latitude": 56.205536,
+      "longitude": 9.577275
+    },
+    {
+      "name": "Byggmax",
+      "latitude": 55.734744,
+      "longitude": 9.611098
+    },
+    {
+      "name": "Bygma",
+      "latitude": 54.833153,
+      "longitude": 9.34998
+    },
+    {
+      "name": "Bygma",
+      "latitude": 54.925116,
+      "longitude": 9.787343
+    },
+    {
+      "name": "Bygma",
+      "latitude": 54.985509,
+      "longitude": 9.865463
+    },
+    {
+      "name": "Bygma",
+      "latitude": 55.058018,
+      "longitude": 15.120282
+    },
+    {
+      "name": "Bygma",
+      "latitude": 55.096385,
+      "longitude": 14.709572
+    },
+    {
+      "name": "Bygma",
+      "latitude": 55.238428,
+      "longitude": 10.484398
+    },
+    {
+      "name": "Bygma",
+      "latitude": 55.266308,
+      "longitude": 12.026449
+    },
+    {
+      "name": "Bygma",
+      "latitude": 55.314628,
+      "longitude": 10.75697
+    },
+    {
+      "name": "Bygma",
+      "latitude": 55.438179,
+      "longitude": 8.394674
+    },
+    {
+      "name": "Bygma",
+      "latitude": 55.457337,
+      "longitude": 10.652293
+    },
+    {
+      "name": "Bygma",
+      "latitude": 55.476471,
+      "longitude": 12.182943
+    },
+    {
+      "name": "Bygma",
+      "latitude": 55.60493,
+      "longitude": 8.801792
+    },
+    {
+      "name": "Bygma",
+      "latitude": 55.732244,
+      "longitude": 12.466121
+    },
+    {
+      "name": "Bygma",
+      "latitude": 55.969458,
+      "longitude": 12.017128
+    },
+    {
+      "name": "Bygma",
+      "latitude": 56.021112,
+      "longitude": 12.558884
+    },
+    {
+      "name": "Bygma",
+      "latitude": 56.108217,
+      "longitude": 10.13047
+    },
+    {
+      "name": "Bygma",
+      "latitude": 56.419493,
+      "longitude": 10.882905
+    },
+    {
+      "name": "Bygma",
+      "latitude": 56.942033,
+      "longitude": 8.640645
+    },
+    {
+      "name": "Bygma",
+      "latitude": 57.576486,
+      "longitude": 9.983391
+    },
+    {
+      "name": "Bygma",
+      "latitude": 57.725919,
+      "longitude": 10.563127
+    },
+    {
+      "name": "Bygma (trælast)",
+      "latitude": 55.096881,
+      "longitude": 14.710067
+    },
+    {
+      "name": "Bygma Bindslev",
+      "latitude": 57.536872,
+      "longitude": 10.194995
+    },
+    {
+      "name": "Bygma Byggemarked",
+      "latitude": 55.469111,
+      "longitude": 9.470077
+    },
+    {
+      "name": "Bygma Galten",
+      "latitude": 56.15703,
+      "longitude": 9.91846
+    },
+    {
+      "name": "Bygma Roskilde Proffcenter",
+      "latitude": 55.644123,
+      "longitude": 12.108918
+    },
+    {
+      "name": "Bygma Skærbæk",
+      "latitude": 55.168204,
+      "longitude": 8.753939
+    },
+    {
+      "name": "Bygma Sæby",
+      "latitude": 57.32251,
+      "longitude": 10.486466
+    },
+    {
+      "name": "Bygma Trælast",
+      "latitude": 54.832821,
+      "longitude": 9.350811
+    },
+    {
+      "name": "Carl Møller Trælast",
+      "latitude": 55.670279,
+      "longitude": 12.541062
+    },
+    {
+      "name": "Carl Ras Engros Beslag",
+      "latitude": 56.361582,
+      "longitude": 8.660977
+    },
+    {
+      "name": "Celeste",
+      "latitude": 56.746765,
+      "longitude": 8.430075
+    },
+    {
+      "name": "Claus F Vision",
+      "latitude": 57.226396,
+      "longitude": 9.669972
+    },
+    {
+      "name": "Davidsen",
+      "latitude": 55.190334,
+      "longitude": 9.062456
+    },
+    {
+      "name": "Davidsen",
+      "latitude": 55.372416,
+      "longitude": 10.481886
+    },
+    {
+      "name": "Davidsen",
+      "latitude": 55.464242,
+      "longitude": 9.134616
+    },
+    {
+      "name": "Davidsen",
+      "latitude": 55.479524,
+      "longitude": 12.187884
+    },
+    {
+      "name": "Davidsen",
+      "latitude": 55.550635,
+      "longitude": 9.724137
+    },
+    {
+      "name": "Davidsen",
+      "latitude": 55.664789,
+      "longitude": 12.368789
+    },
+    {
+      "name": "Davidsen",
+      "latitude": 55.780912,
+      "longitude": 8.278566
+    },
+    {
+      "name": "Davidsen Allerød Erhverv & Privat",
+      "latitude": 55.864289,
+      "longitude": 12.372856
+    },
+    {
+      "name": "Davidsen Allerød Erhverv & Privat",
+      "latitude": 55.86485,
+      "longitude": 12.372228
+    },
+    {
+      "name": "Davidsen Høruphav",
+      "latitude": 54.913561,
+      "longitude": 9.908101
+    },
+    {
+      "name": "Davidsen Viborg",
+      "latitude": 56.454667,
+      "longitude": 9.454513
+    },
+    {
+      "name": "Davidsens Tømmerhandel",
+      "latitude": 55.072343,
+      "longitude": 9.350616
+    },
+    {
+      "name": "Davidsens Tømmerhandel",
+      "latitude": 55.24178,
+      "longitude": 9.275575
+    },
+    {
+      "name": "Davidsens Tømmerhandel",
+      "latitude": 55.251577,
+      "longitude": 9.496416
+    },
+    {
+      "name": "Davidsens Tømmerhandel",
+      "latitude": 55.253767,
+      "longitude": 9.506309
+    },
+    {
+      "name": "Davidsens Tømmerhandel",
+      "latitude": 55.493561,
+      "longitude": 9.018591
+    },
+    {
+      "name": "Davidsens Tømmerhandel",
+      "latitude": 55.775909,
+      "longitude": 11.909959
+    },
+    {
+      "name": "Davidsens Tømmerhandel",
+      "latitude": 56.106832,
+      "longitude": 10.136235
+    },
+    {
+      "name": "Del-Pin",
+      "latitude": 55.504345,
+      "longitude": 8.465933
+    },
+    {
+      "name": "Dorch & Danola A/S",
+      "latitude": 55.387677,
+      "longitude": 10.436637
+    },
+    {
+      "name": "EP Industri og Marineservice Assens A/S",
+      "latitude": 55.259211,
+      "longitude": 9.912829
+    },
+    {
+      "name": "FI Entreprise",
+      "latitude": 55.38732,
+      "longitude": 10.1946
+    },
+    {
+      "name": "Flügger Farver",
+      "latitude": 55.66334,
+      "longitude": 12.473472
+    },
+    {
+      "name": "Fog",
+      "latitude": 55.769648,
+      "longitude": 12.517029
+    },
+    {
+      "name": "Fog Byggecenter Hørsholm",
+      "latitude": 55.902394,
+      "longitude": 12.484727
+    },
+    {
+      "name": "Fog Trælast Hørsholm",
+      "latitude": 55.902511,
+      "longitude": 12.485397
+    },
+    {
+      "name": "Fog Trælast og Byggecenter",
+      "latitude": 55.818587,
+      "longitude": 12.361683
+    },
+    {
+      "name": "Founders House",
+      "latitude": 55.681754,
+      "longitude": 12.584645
+    },
+    {
+      "name": "Gantrup Byggemarked",
+      "latitude": 55.993809,
+      "longitude": 9.720738
+    },
+    {
+      "name": "Genbyg",
+      "latitude": 55.623965,
+      "longitude": 12.626628
+    },
+    {
+      "name": "Gersagerparkens gørdetselv værksted",
+      "latitude": 55.59555,
+      "longitude": 12.32291
+    },
+    {
+      "name": "Grundvad Tømmerhandel",
+      "latitude": 56.630912,
+      "longitude": 8.844767
+    },
+    {
+      "name": "Grønfeld Byggecenter",
+      "latitude": 56.255553,
+      "longitude": 10.547262
+    },
+    {
+      "name": "Gørlev Trælasthandel",
+      "latitude": 55.539571,
+      "longitude": 11.232924
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 54.759702,
+      "longitude": 11.851167
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 54.83152,
+      "longitude": 11.145843
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 54.921217,
+      "longitude": 9.80638
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 54.950412,
+      "longitude": 8.8863
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.068617,
+      "longitude": 9.360303
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.097577,
+      "longitude": 14.715976
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.099606,
+      "longitude": 10.242918
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.253692,
+      "longitude": 9.504292
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.254567,
+      "longitude": 11.792685
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.259796,
+      "longitude": 9.911179
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.307945,
+      "longitude": 10.80745
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.350776,
+      "longitude": 8.778585
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.383335,
+      "longitude": 10.419828
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.45424,
+      "longitude": 11.78563
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.567672,
+      "longitude": 9.719992
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.617101,
+      "longitude": 12.611072
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.644549,
+      "longitude": 12.12095
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.674965,
+      "longitude": 12.560645
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.703553,
+      "longitude": 11.666871
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.703747,
+      "longitude": 12.537572
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.722511,
+      "longitude": 12.378093
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.739438,
+      "longitude": 12.485985
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.776627,
+      "longitude": 12.185386
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.839707,
+      "longitude": 12.064158
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.855043,
+      "longitude": 9.852171
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.881459,
+      "longitude": 12.497185
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.932699,
+      "longitude": 12.28129
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.960547,
+      "longitude": 9.107654
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 55.978653,
+      "longitude": 12.006012
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 56.020531,
+      "longitude": 12.569395
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 56.021768,
+      "longitude": 12.175488
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 56.07767,
+      "longitude": 10.016188
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 56.132761,
+      "longitude": 9.039592
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 56.182176,
+      "longitude": 10.121246
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 56.18601,
+      "longitude": 9.544737
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 56.375956,
+      "longitude": 8.620094
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 56.569972,
+      "longitude": 8.994671
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 56.798086,
+      "longitude": 9.506196
+    },
+    {
+      "name": "Harald Nyborg Aabybro",
+      "latitude": 57.15199,
+      "longitude": 9.748357
+    },
+    {
+      "name": "Harald Nyborg Aalborg",
+      "latitude": 57.001315,
+      "longitude": 9.8742
+    },
+    {
+      "name": "Harald Nyborg Brønderslev",
+      "latitude": 57.265938,
+      "longitude": 9.971863
+    },
+    {
+      "name": "Harald Nyborg Esbjerg",
+      "latitude": 55.509376,
+      "longitude": 8.463334
+    },
+    {
+      "name": "Harald Nyborg Frederikshavn",
+      "latitude": 57.445211,
+      "longitude": 10.495233
+    },
+    {
+      "name": "Harald Nyborg Glostrup",
+      "latitude": 55.694012,
+      "longitude": 12.414697
+    },
+    {
+      "name": "Harald Nyborg Glostrup 2",
+      "latitude": 55.663955,
+      "longitude": 12.378438
+    },
+    {
+      "name": "Harald Nyborg Grenå",
+      "latitude": 56.384468,
+      "longitude": 10.865341
+    },
+    {
+      "name": "Harald Nyborg Haslev",
+      "latitude": 55.32808,
+      "longitude": 11.933222
+    },
+    {
+      "name": "Harald Nyborg Herlev",
+      "latitude": 55.718815,
+      "longitude": 12.448904
+    },
+    {
+      "name": "Harald Nyborg Hjørring",
+      "latitude": 57.454852,
+      "longitude": 9.993828
+    },
+    {
+      "name": "Harald Nyborg Hobro",
+      "latitude": 56.62357,
+      "longitude": 9.807888
+    },
+    {
+      "name": "Harald Nyborg Ishøj",
+      "latitude": 55.61782,
+      "longitude": 12.332484
+    },
+    {
+      "name": "Harald Nyborg Kalundborg",
+      "latitude": 55.678245,
+      "longitude": 11.135979
+    },
+    {
+      "name": "Harald Nyborg Kolding",
+      "latitude": 55.514336,
+      "longitude": 9.454508
+    },
+    {
+      "name": "Harald Nyborg Køge",
+      "latitude": 55.482504,
+      "longitude": 12.182397
+    },
+    {
+      "name": "Harald Nyborg Lemvig",
+      "latitude": 56.539116,
+      "longitude": 8.304351
+    },
+    {
+      "name": "Harald Nyborg Middelfart",
+      "latitude": 55.508433,
+      "longitude": 9.765848
+    },
+    {
+      "name": "Harald Nyborg Nykøbing Mors",
+      "latitude": 56.789018,
+      "longitude": 8.827418
+    },
+    {
+      "name": "Harald Nyborg Nørresundby",
+      "latitude": 57.089493,
+      "longitude": 9.981373
+    },
+    {
+      "name": "Harald Nyborg Randers",
+      "latitude": 56.425265,
+      "longitude": 10.058713
+    },
+    {
+      "name": "Harald Nyborg Ringe",
+      "latitude": 55.240569,
+      "longitude": 10.487577
+    },
+    {
+      "name": "Harald Nyborg Skjern",
+      "latitude": 55.955698,
+      "longitude": 8.510415
+    },
+    {
+      "name": "Harald Nyborg Slagelse",
+      "latitude": 55.386722,
+      "longitude": 11.328639
+    },
+    {
+      "name": "Harald Nyborg Støvring",
+      "latitude": 56.904647,
+      "longitude": 9.844426
+    },
+    {
+      "name": "Harald Nyborg Svendborg",
+      "latitude": 55.062397,
+      "longitude": 10.590017
+    },
+    {
+      "name": "Harald Nyborg Tarup Center",
+      "latitude": 55.408489,
+      "longitude": 10.339641
+    },
+    {
+      "name": "Harald Nyborg Thisted",
+      "latitude": 56.969288,
+      "longitude": 8.735714
+    },
+    {
+      "name": "Harald Nyborg Vejen",
+      "latitude": 55.489531,
+      "longitude": 9.129164
+    },
+    {
+      "name": "Harald Nyborg Vejle",
+      "latitude": 55.725514,
+      "longitude": 9.584477
+    },
+    {
+      "name": "Harald Nyborg Viborg",
+      "latitude": 56.447025,
+      "longitude": 9.363114
+    },
+    {
+      "name": "Harald Nyborg Viby J",
+      "latitude": 56.115166,
+      "longitude": 10.152197
+    },
+    {
+      "name": "Harald Nyborg Vordingborg",
+      "latitude": 55.024325,
+      "longitude": 11.893452
+    },
+    {
+      "name": "Herning Industri Lager",
+      "latitude": 56.132246,
+      "longitude": 8.932314
+    },
+    {
+      "name": "HK Trælast",
+      "latitude": 55.759449,
+      "longitude": 9.86523
+    },
+    {
+      "name": "HTH",
+      "latitude": 56.44732,
+      "longitude": 9.360443
+    },
+    {
+      "name": "Huset Holst A/S",
+      "latitude": 57.723163,
+      "longitude": 10.58837
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 54.758394,
+      "longitude": 11.849955
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 54.780245,
+      "longitude": 11.50946
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 54.823728,
+      "longitude": 11.157904
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 54.933395,
+      "longitude": 9.804193
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 54.939158,
+      "longitude": 10.736653
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.036389,
+      "longitude": 9.416054
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.06098,
+      "longitude": 15.115672
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.073876,
+      "longitude": 10.587187
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.097706,
+      "longitude": 14.716543
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.099208,
+      "longitude": 10.243346
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.253724,
+      "longitude": 11.312625
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.254314,
+      "longitude": 11.792403
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.259282,
+      "longitude": 9.908814
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.260032,
+      "longitude": 9.475259
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.304927,
+      "longitude": 12.390383
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.318579,
+      "longitude": 10.78971
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.330557,
+      "longitude": 11.940678
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.335292,
+      "longitude": 8.773159
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.347833,
+      "longitude": 11.143525
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.355503,
+      "longitude": 10.339412
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.380758,
+      "longitude": 10.422302
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.386487,
+      "longitude": 11.330576
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.395311,
+      "longitude": 10.367122
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.403877,
+      "longitude": 10.422499
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.444413,
+      "longitude": 11.565721
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.468493,
+      "longitude": 8.680431
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.46905,
+      "longitude": 9.472683
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.47936,
+      "longitude": 8.496556
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.481993,
+      "longitude": 12.185605
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.503971,
+      "longitude": 8.409625
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.508855,
+      "longitude": 9.766366
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.510059,
+      "longitude": 9.458555
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.527582,
+      "longitude": 11.234003
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.568531,
+      "longitude": 9.716169
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.604318,
+      "longitude": 8.499799
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.613416,
+      "longitude": 11.763409
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.616371,
+      "longitude": 12.612604
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.617519,
+      "longitude": 12.333063
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.632448,
+      "longitude": 12.580081
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.643618,
+      "longitude": 12.11923
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.663222,
+      "longitude": 12.601803
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.665084,
+      "longitude": 12.362495
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.669822,
+      "longitude": 12.547146
+    },
+    {
+      "name": "Jem & Fix",
+      "latitude": 55.677232,
+      "longitude": 11.134684
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.682333,
+      "longitude": 12.585881
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.690469,
+      "longitude": 12.529678
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.69877,
+      "longitude": 12.553564
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.707601,
+      "longitude": 12.522409
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.725027,
+      "longitude": 12.420388
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.745701,
+      "longitude": 12.323191
+    },
+    {
+      "name": "Jem & Fix",
+      "latitude": 55.761226,
+      "longitude": 11.959301
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.765386,
+      "longitude": 9.686062
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.777296,
+      "longitude": 12.184144
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.816569,
+      "longitude": 12.372584
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.845039,
+      "longitude": 12.075025
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.85218,
+      "longitude": 9.849142
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.902357,
+      "longitude": 12.481482
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.928423,
+      "longitude": 12.264671
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.929786,
+      "longitude": 11.658945
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.952268,
+      "longitude": 8.513846
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.959751,
+      "longitude": 9.105014
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.967568,
+      "longitude": 12.403547
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.971613,
+      "longitude": 9.605578
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 55.97843,
+      "longitude": 12.004538
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.02102,
+      "longitude": 12.173598
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.021754,
+      "longitude": 12.572298
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.076972,
+      "longitude": 10.018365
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.083422,
+      "longitude": 9.789671
+    },
+    {
+      "name": "JEM & FIX",
+      "latitude": 56.091933,
+      "longitude": 8.63829
+    },
+    {
+      "name": "JEM & FIX",
+      "latitude": 56.103282,
+      "longitude": 10.144991
+    },
+    {
+      "name": "JEM & FIX",
+      "latitude": 56.112426,
+      "longitude": 12.328002
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.133558,
+      "longitude": 9.007127
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.138219,
+      "longitude": 9.144747
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.148357,
+      "longitude": 9.918801
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.185757,
+      "longitude": 9.545599
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.190685,
+      "longitude": 10.673079
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.225027,
+      "longitude": 10.23692
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.246231,
+      "longitude": 10.075118
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.285907,
+      "longitude": 9.414961
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.319482,
+      "longitude": 10.043414
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.425752,
+      "longitude": 10.058499
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.432016,
+      "longitude": 10.059254
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.479655,
+      "longitude": 8.582442
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.48391,
+      "longitude": 10.025038
+    },
+    {
+      "name": "Jem & Fix",
+      "latitude": 56.537603,
+      "longitude": 8.307017
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.570195,
+      "longitude": 9.005406
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.571034,
+      "longitude": 8.994934
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.623644,
+      "longitude": 9.809211
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.728289,
+      "longitude": 10.135652
+    },
+    {
+      "name": "Jem & Fix",
+      "latitude": 56.814424,
+      "longitude": 9.50257
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.953231,
+      "longitude": 9.261411
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 56.985383,
+      "longitude": 9.635546
+    },
+    {
+      "name": "Jem & fix",
+      "latitude": 57.018302,
+      "longitude": 10.047014
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 57.087899,
+      "longitude": 9.252505
+    },
+    {
+      "name": "JEM & FIX",
+      "latitude": 57.15136,
+      "longitude": 9.746938
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 57.159848,
+      "longitude": 10.304579
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 57.265022,
+      "longitude": 9.970134
+    },
+    {
+      "name": "Jem & Fix",
+      "latitude": 57.446442,
+      "longitude": 10.506238
+    },
+    {
+      "name": "JEM & FIX",
+      "latitude": 57.456439,
+      "longitude": 10.02322
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 57.726505,
+      "longitude": 10.56236
+    },
+    {
+      "name": "jem & fix - Herfølge",
+      "latitude": 55.427807,
+      "longitude": 12.151443
+    },
+    {
+      "name": "jem & fix - Horsens S",
+      "latitude": 55.828079,
+      "longitude": 9.80084
+    },
+    {
+      "name": "jem & fix - Otterup",
+      "latitude": 55.503931,
+      "longitude": 10.397429
+    },
+    {
+      "name": "jem & fix Aalborg SV",
+      "latitude": 57.00611,
+      "longitude": 9.870927
+    },
+    {
+      "name": "Jem & fix Billund",
+      "latitude": 55.737009,
+      "longitude": 9.095816
+    },
+    {
+      "name": "JEM & FIX Bjerringbro",
+      "latitude": 56.367646,
+      "longitude": 9.67579
+    },
+    {
+      "name": "jem & fix Brøndby",
+      "latitude": 55.65523,
+      "longitude": 12.395727
+    },
+    {
+      "name": "jem & fix Børkop",
+      "latitude": 55.63217,
+      "longitude": 9.685085
+    },
+    {
+      "name": "jem & fix Egå",
+      "latitude": 56.205791,
+      "longitude": 10.260907
+    },
+    {
+      "name": "JEM & FIX Faxe",
+      "latitude": 55.260438,
+      "longitude": 12.106369
+    },
+    {
+      "name": "JEM & FIX Give",
+      "latitude": 55.857493,
+      "longitude": 9.249037
+    },
+    {
+      "name": "jem & fix Glostrup",
+      "latitude": 55.693619,
+      "longitude": 12.415616
+    },
+    {
+      "name": "jem & fix Grenaa",
+      "latitude": 56.382553,
+      "longitude": 10.863808
+    },
+    {
+      "name": "Jem & fix Haderslev",
+      "latitude": 55.264296,
+      "longitude": 9.497478
+    },
+    {
+      "name": "jem & fix Holbæk",
+      "latitude": 55.705054,
+      "longitude": 11.670341
+    },
+    {
+      "name": "jem & fix Holstebro",
+      "latitude": 56.375532,
+      "longitude": 8.618191
+    },
+    {
+      "name": "JEM & FIX Hornslet",
+      "latitude": 56.304798,
+      "longitude": 10.316139
+    },
+    {
+      "name": "Jem & fix Ikast",
+      "latitude": 56.121929,
+      "longitude": 9.170013
+    },
+    {
+      "name": "JEM & FIX Juelsminde",
+      "latitude": 55.711017,
+      "longitude": 9.978967
+    },
+    {
+      "name": "JEM & FIX Karlslunde",
+      "latitude": 55.567009,
+      "longitude": 12.267343
+    },
+    {
+      "name": "jem & fix Malling",
+      "latitude": 56.038881,
+      "longitude": 10.185053
+    },
+    {
+      "name": "JEM & FIX Nykøbing Mors",
+      "latitude": 56.789894,
+      "longitude": 8.830904
+    },
+    {
+      "name": "jem & fix Nørresundby",
+      "latitude": 57.089503,
+      "longitude": 9.968894
+    },
+    {
+      "name": "JEM & FIX Odder",
+      "latitude": 55.987614,
+      "longitude": 10.153915
+    },
+    {
+      "name": "jem & fix Ringe",
+      "latitude": 55.248254,
+      "longitude": 10.474253
+    },
+    {
+      "name": "JEM & FIX Ringkøbing",
+      "latitude": 56.086272,
+      "longitude": 8.276961
+    },
+    {
+      "name": "Jem & Fix Ringsted",
+      "latitude": 55.428219,
+      "longitude": 11.789891
+    },
+    {
+      "name": "JEM & FIX Skanderborg",
+      "latitude": 56.051131,
+      "longitude": 9.948903
+    },
+    {
+      "name": "jem & fix Skærbæk",
+      "latitude": 55.16722,
+      "longitude": 8.756864
+    },
+    {
+      "name": "JEM & FIX Støvring",
+      "latitude": 56.902964,
+      "longitude": 9.842688
+    },
+    {
+      "name": "Jem & fix Sæby",
+      "latitude": 57.322926,
+      "longitude": 10.485244
+    },
+    {
+      "name": "jem & fix Taastrup",
+      "latitude": 55.661351,
+      "longitude": 12.284369
+    },
+    {
+      "name": "jem & fix Thisted",
+      "latitude": 56.96437,
+      "longitude": 8.724912
+    },
+    {
+      "name": "jem & fix Tilst",
+      "latitude": 56.182144,
+      "longitude": 10.123612
+    },
+    {
+      "name": "JEM & FIX Tønder",
+      "latitude": 54.946695,
+      "longitude": 8.859487
+    },
+    {
+      "name": "jem & fix Valby",
+      "latitude": 55.648884,
+      "longitude": 12.507326
+    },
+    {
+      "name": "jem & fix Vejen",
+      "latitude": 55.491125,
+      "longitude": 9.129068
+    },
+    {
+      "name": "jem & fix Vejle Nord",
+      "latitude": 55.731662,
+      "longitude": 9.599946
+    },
+    {
+      "name": "JEM & FIX Viborg",
+      "latitude": 56.447352,
+      "longitude": 9.359864
+    },
+    {
+      "name": "JEM & FIX Vojens",
+      "latitude": 55.241068,
+      "longitude": 9.270173
+    },
+    {
+      "name": "jem & fix Vordingborg",
+      "latitude": 55.023578,
+      "longitude": 11.892885
+    },
+    {
+      "name": "Jensen's Træ & Byggemarked",
+      "latitude": 55.904104,
+      "longitude": 11.582196
+    },
+    {
+      "name": "Kim Rørdam",
+      "latitude": 55.677394,
+      "longitude": 11.133826
+    },
+    {
+      "name": "Kongerslev Trælast & Byggecenter",
+      "latitude": 56.8828,
+      "longitude": 10.1177
+    },
+    {
+      "name": "Kreaværk",
+      "latitude": 55.505286,
+      "longitude": 9.732847
+    },
+    {
+      "name": "L K Byggemarked",
+      "latitude": 55.09503,
+      "longitude": 9.454336
+    },
+    {
+      "name": "Lavpris træ",
+      "latitude": 55.38761,
+      "longitude": 11.324453
+    },
+    {
+      "name": "Læderiet",
+      "latitude": 56.10201,
+      "longitude": 10.081588
+    },
+    {
+      "name": "Mariager Tømmerhandel Og Byggecenter",
+      "latitude": 56.638226,
+      "longitude": 9.973527
+    },
+    {
+      "name": "My Home",
+      "latitude": 56.447233,
+      "longitude": 9.361564
+    },
+    {
+      "name": "Møns Tømmerhandel",
+      "latitude": 54.981629,
+      "longitude": 12.279744
+    },
+    {
+      "name": "Nørkleriet",
+      "latitude": 55.685741,
+      "longitude": 12.492051
+    },
+    {
+      "name": "Olieudlevering til skibsfarten",
+      "latitude": 56.702158,
+      "longitude": 8.221738
+    },
+    {
+      "name": "Outrup Tømmerhandel",
+      "latitude": 55.716034,
+      "longitude": 8.347522
+    },
+    {
+      "name": "P. Lindberg",
+      "latitude": 55.462338,
+      "longitude": 9.140719
+    },
+    {
+      "name": "P.W. Wulff",
+      "latitude": 54.890192,
+      "longitude": 12.039902
+    },
+    {
+      "name": "Panduro Hobby",
+      "latitude": 55.679909,
+      "longitude": 12.45594
+    },
+    {
+      "name": "Panduro Hobby",
+      "latitude": 55.771973,
+      "longitude": 12.507465
+    },
+    {
+      "name": "Panduro Hobby",
+      "latitude": 56.13563,
+      "longitude": 8.999978
+    },
+    {
+      "name": "PC Tønder Trælast",
+      "latitude": 54.937987,
+      "longitude": 8.872646
+    },
+    {
+      "name": "S.A. Petersen",
+      "latitude": 56.01272,
+      "longitude": 12.198841
+    },
+    {
+      "name": "S.I.F.",
+      "latitude": 55.676635,
+      "longitude": 11.138216
+    },
+    {
+      "name": "SB Værktøj",
+      "latitude": 56.467093,
+      "longitude": 9.376283
+    },
+    {
+      "name": "Sikkerhedsgigsnten",
+      "latitude": 55.504503,
+      "longitude": 8.467597
+    },
+    {
+      "name": "Silvan",
+      "latitude": 54.92214,
+      "longitude": 9.811446
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.060783,
+      "longitude": 10.583489
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.237268,
+      "longitude": 11.778771
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.317729,
+      "longitude": 10.783114
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.380052,
+      "longitude": 10.423663
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.393832,
+      "longitude": 10.367062
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.50386,
+      "longitude": 8.454964
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.616041,
+      "longitude": 12.609882
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.650994,
+      "longitude": 12.509801
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.651812,
+      "longitude": 12.510163
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.697726,
+      "longitude": 12.472203
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.703926,
+      "longitude": 9.527459
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.704212,
+      "longitude": 12.538458
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.722583,
+      "longitude": 12.383718
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.821907,
+      "longitude": 12.373123
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.84012,
+      "longitude": 12.440794
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.84478,
+      "longitude": 12.072354
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.85964,
+      "longitude": 9.871064
+    },
+    {
+      "name": "Silvan",
+      "latitude": 55.92696,
+      "longitude": 11.656886
+    },
+    {
+      "name": "Silvan",
+      "latitude": 56.029377,
+      "longitude": 12.569718
+    },
+    {
+      "name": "Silvan",
+      "latitude": 56.12853,
+      "longitude": 10.161643
+    },
+    {
+      "name": "Silvan",
+      "latitude": 56.18724,
+      "longitude": 9.549125
+    },
+    {
+      "name": "Silvan",
+      "latitude": 56.416558,
+      "longitude": 10.876679
+    },
+    {
+      "name": "Silvan",
+      "latitude": 57.033846,
+      "longitude": 9.92749
+    },
+    {
+      "name": "Silvan",
+      "latitude": 57.444334,
+      "longitude": 10.499009
+    },
+    {
+      "name": "SILVAN Aarhus Silkeborgvej",
+      "latitude": 56.156041,
+      "longitude": 10.181488
+    },
+    {
+      "name": "Silvan Amagerbrogade",
+      "latitude": 55.666054,
+      "longitude": 12.599226
+    },
+    {
+      "name": "Silvan Fisketorvet",
+      "latitude": 55.661202,
+      "longitude": 12.560613
+    },
+    {
+      "name": "Silvan Fredericia",
+      "latitude": 55.587605,
+      "longitude": 9.759053
+    },
+    {
+      "name": "SILVAN Frederiksberg - Domus Vista",
+      "latitude": 55.671213,
+      "longitude": 12.501271
+    },
+    {
+      "name": "Silvan Gladsaxe",
+      "latitude": 55.735605,
+      "longitude": 12.475205
+    },
+    {
+      "name": "Silvan Greve",
+      "latitude": 55.592586,
+      "longitude": 12.268096
+    },
+    {
+      "name": "Silvan Græsted",
+      "latitude": 56.071611,
+      "longitude": 12.287067
+    },
+    {
+      "name": "Silvan Kolding",
+      "latitude": 55.470976,
+      "longitude": 9.469606
+    },
+    {
+      "name": "Silvan Kultorvet",
+      "latitude": 55.682154,
+      "longitude": 12.574401
+    },
+    {
+      "name": "Silvan Køge",
+      "latitude": 55.483357,
+      "longitude": 12.186169
+    },
+    {
+      "name": "Silvan Lille Torv",
+      "latitude": 56.157775,
+      "longitude": 10.206865
+    },
+    {
+      "name": "Silvan Lyngby",
+      "latitude": 55.770612,
+      "longitude": 12.503101
+    },
+    {
+      "name": "Silvan Maribo",
+      "latitude": 54.777884,
+      "longitude": 11.517275
+    },
+    {
+      "name": "Silvan Nykøbing F.",
+      "latitude": 54.75369,
+      "longitude": 11.898887
+    },
+    {
+      "name": "Silvan Randers",
+      "latitude": 56.486202,
+      "longitude": 10.02469
+    },
+    {
+      "name": "Silvan Roskilde",
+      "latitude": 55.643796,
+      "longitude": 12.120609
+    },
+    {
+      "name": "Silvan Skejby",
+      "latitude": 56.201745,
+      "longitude": 10.181763
+    },
+    {
+      "name": "Silvan Slagelse",
+      "latitude": 55.41201,
+      "longitude": 11.342277
+    },
+    {
+      "name": "Silvan Vesterbrogade",
+      "latitude": 55.673546,
+      "longitude": 12.560802
+    },
+    {
+      "name": "Silvan Viborg",
+      "latitude": 56.469279,
+      "longitude": 9.412938
+    },
+    {
+      "name": "Silvan Viby",
+      "latitude": 56.128052,
+      "longitude": 10.161123
+    },
+    {
+      "name": "Special Butikken Ribe",
+      "latitude": 55.345687,
+      "longitude": 8.775485
+    },
+    {
+      "name": "Staby Fliser & Hegn",
+      "latitude": 56.262252,
+      "longitude": 8.318735
+    },
+    {
+      "name": "Stark",
+      "latitude": 54.918743,
+      "longitude": 9.816895
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.069384,
+      "longitude": 9.354841
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.260411,
+      "longitude": 9.90992
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.32293,
+      "longitude": 10.20632
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.325744,
+      "longitude": 8.756041
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.378432,
+      "longitude": 10.057583
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.47148,
+      "longitude": 9.47524
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.473332,
+      "longitude": 12.186203
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.566857,
+      "longitude": 10.083446
+    },
+    {
+      "name": "STARK",
+      "latitude": 55.645302,
+      "longitude": 12.122533
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.686651,
+      "longitude": 12.539893
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.686767,
+      "longitude": 12.502646
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.844189,
+      "longitude": 12.071812
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.849058,
+      "longitude": 9.821213
+    },
+    {
+      "name": "STARK",
+      "latitude": 55.903444,
+      "longitude": 12.481658
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.927102,
+      "longitude": 11.65591
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.933231,
+      "longitude": 12.276909
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.954464,
+      "longitude": 9.114405
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.967819,
+      "longitude": 10.149564
+    },
+    {
+      "name": "Stark",
+      "latitude": 55.970096,
+      "longitude": 12.015388
+    },
+    {
+      "name": "STARK",
+      "latitude": 56.029068,
+      "longitude": 12.567841
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.071836,
+      "longitude": 12.285884
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.111491,
+      "longitude": 10.126731
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.129959,
+      "longitude": 8.948476
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.154942,
+      "longitude": 10.056309
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.164724,
+      "longitude": 10.114196
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.37897,
+      "longitude": 8.619138
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.470026,
+      "longitude": 9.413277
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.471482,
+      "longitude": 9.413803
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.485794,
+      "longitude": 10.023479
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.536695,
+      "longitude": 8.304206
+    },
+    {
+      "name": "Stark",
+      "latitude": 56.650231,
+      "longitude": 9.800528
+    },
+    {
+      "name": "Stark",
+      "latitude": 57.037292,
+      "longitude": 9.928932
+    },
+    {
+      "name": "Stark",
+      "latitude": 57.16456,
+      "longitude": 10.293461
+    },
+    {
+      "name": "STARK Brøndby",
+      "latitude": 55.647245,
+      "longitude": 12.385826
+    },
+    {
+      "name": "Stark City 24-7",
+      "latitude": 55.641515,
+      "longitude": 12.536487
+    },
+    {
+      "name": "STARK Faaborg",
+      "latitude": 55.111194,
+      "longitude": 10.227965
+    },
+    {
+      "name": "STARK Grenå",
+      "latitude": 56.416509,
+      "longitude": 10.87636
+    },
+    {
+      "name": "Stark Kalundborg",
+      "latitude": 55.682842,
+      "longitude": 11.11381
+    },
+    {
+      "name": "STARK Roskilde C",
+      "latitude": 55.635365,
+      "longitude": 12.07412
+    },
+    {
+      "name": "STARK SHOP KBH S",
+      "latitude": 55.660339,
+      "longitude": 12.60533
+    },
+    {
+      "name": "STARK Silkeborg Trælast",
+      "latitude": 56.190095,
+      "longitude": 9.56524
+    },
+    {
+      "name": "STARK Skejby",
+      "latitude": 56.202589,
+      "longitude": 10.1879
+    },
+    {
+      "name": "Stark Skjern",
+      "latitude": 55.957023,
+      "longitude": 8.497915
+    },
+    {
+      "name": "Stark Stjernholm/Kalkværket",
+      "latitude": 55.859883,
+      "longitude": 9.868899
+    },
+    {
+      "name": "Stark Ølgod",
+      "latitude": 55.81115,
+      "longitude": 8.620833
+    },
+    {
+      "name": "Stenwerk",
+      "latitude": 55.468351,
+      "longitude": 8.452479
+    },
+    {
+      "name": "Strikkehjørnet",
+      "latitude": 55.661461,
+      "longitude": 12.473828
+    },
+    {
+      "name": "T Hansen",
+      "latitude": 56.960131,
+      "longitude": 8.716485
+    },
+    {
+      "name": "TEGNEOGKONTOR",
+      "latitude": 55.379449,
+      "longitude": 10.397356
+    },
+    {
+      "name": "Thansen",
+      "latitude": 55.036046,
+      "longitude": 9.414944
+    },
+    {
+      "name": "Trælast Johannes Fog",
+      "latitude": 55.968469,
+      "longitude": 12.404559
+    },
+    {
+      "name": "Tømmergaarden Silstrupvej Thisted",
+      "latitude": 56.955148,
+      "longitude": 8.645318
+    },
+    {
+      "name": "Tømmergården",
+      "latitude": 56.474592,
+      "longitude": 8.580676
+    },
+    {
+      "name": "Vejrup Granit",
+      "latitude": 55.522144,
+      "longitude": 8.768744
+    },
+    {
+      "name": "Vorup Tømmerhandel",
+      "latitude": 56.43952,
+      "longitude": 10.03506
+    },
+    {
+      "name": "VVS Eksperten",
+      "latitude": 54.924078,
+      "longitude": 9.794607
+    },
+    {
+      "name": "XL Byg",
+      "latitude": 56.960732,
+      "longitude": 8.730498
+    },
+    {
+      "name": "XL Byg Ry",
+      "latitude": 56.082541,
+      "longitude": 9.790601
+    },
+    {
+      "name": "XL-Byg",
+      "latitude": 55.118917,
+      "longitude": 12.0359
+    },
+    {
+      "name": "XL-Byg",
+      "latitude": 55.25433,
+      "longitude": 11.31371
+    },
+    {
+      "name": "XL-BYG",
+      "latitude": 55.723646,
+      "longitude": 12.417834
+    },
+    {
+      "name": "XL-Byg",
+      "latitude": 55.748313,
+      "longitude": 12.320563
+    },
+    {
+      "name": "XL-Byg",
+      "latitude": 55.783844,
+      "longitude": 9.686253
+    },
+    {
+      "name": "XL-BYG",
+      "latitude": 56.301591,
+      "longitude": 9.77648
+    },
+    {
+      "name": "XL-Byg",
+      "latitude": 56.618026,
+      "longitude": 9.506718
+    },
+    {
+      "name": "XL-Byg",
+      "latitude": 56.618106,
+      "longitude": 9.507718
+    },
+    {
+      "name": "XL-Byg",
+      "latitude": 57.088064,
+      "longitude": 9.253547
+    },
+    {
+      "name": "XL-Byg - Grønfeldt",
+      "latitude": 55.304883,
+      "longitude": 10.454134
+    },
+    {
+      "name": "XL-Byg - Trælast",
+      "latitude": 56.619229,
+      "longitude": 9.508332
+    },
+    {
+      "name": "XL-BYG Brejnholt Bjergmark",
+      "latitude": 55.759482,
+      "longitude": 11.958378
+    },
+    {
+      "name": "XL-BYG Brejnholt Vejle",
+      "latitude": 55.684274,
+      "longitude": 9.573997
+    },
+    {
+      "name": "XL-BYG C. Nobel Tømmerhandel",
+      "latitude": 55.962243,
+      "longitude": 11.895935
+    },
+    {
+      "name": "XL-Byg Hørve Byggecenter A/S",
+      "latitude": 55.756262,
+      "longitude": 11.453977
+    },
+    {
+      "name": "XL-BYG Meredin Jyderup",
+      "latitude": 55.658705,
+      "longitude": 11.401536
+    },
+    {
+      "name": "XL-Byg Samsø Byggecenter",
+      "latitude": 55.816367,
+      "longitude": 10.636021
+    },
+    {
+      "name": "XL-BYG Tømmergaarden Brovst",
+      "latitude": 57.098183,
+      "longitude": 9.528616
+    },
+    {
+      "name": "XL-Byg Tømmergaarden Løgstør",
+      "latitude": 56.96871,
+      "longitude": 9.264022
+    }
+  ],
+  "meta": {
+    "title": "Byggemarkeder i Danmark (DIY stores in Denmark) - Gratis download",
+    "description": "DIY stores in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=doityourself. Indeholder 469 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Byggemarkeder i Danmark (DIY stores in Denmark) | ListBase",
+    "seo_description": "Download Byggemarkeder i Danmark (DIY stores in Denmark) — 469 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 469 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "id": "da-tidszoner-america",
+  "name": "Tidszoner: America (43)",
+  "title": "Tidszoner: America (43)",
+  "description": "CLDR da-lokalets tidszoner i regionen 'America'.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "by_navn",
+      "label": "By Navn",
+      "type": "string"
+    },
+    {
+      "key": "standardtid",
+      "label": "Standardtid",
+      "type": "string"
+    },
+    {
+      "key": "sommertid",
+      "label": "Sommertid",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tz_id": "America/Araguaina",
+      "region": "America",
+      "by_navn": "Araguaína",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 1
+    },
+    {
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "region": "America",
+      "by_navn": "Río Gallegos",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 2
+    },
+    {
+      "tz_id": "America/Argentina/Tucuman",
+      "region": "America",
+      "by_navn": "Tucumán",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 3
+    },
+    {
+      "tz_id": "America/Asuncion",
+      "region": "America",
+      "by_navn": "Asunción",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 4
+    },
+    {
+      "tz_id": "America/Bahia_Banderas",
+      "region": "America",
+      "by_navn": "Bahia Banderas",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 5
+    },
+    {
+      "tz_id": "America/Belem",
+      "region": "America",
+      "by_navn": "Belém",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 6
+    },
+    {
+      "tz_id": "America/Bogota",
+      "region": "America",
+      "by_navn": "Bogotá",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 7
+    },
+    {
+      "tz_id": "America/Cancun",
+      "region": "America",
+      "by_navn": "Cancun",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 8
+    },
+    {
+      "tz_id": "America/Cayman",
+      "region": "America",
+      "by_navn": "Caymanøerne",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 9
+    },
+    {
+      "tz_id": "America/Ciudad_Juarez",
+      "region": "America",
+      "by_navn": "Ciudad Juárez",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 10
+    },
+    {
+      "tz_id": "America/Coral_Harbour",
+      "region": "America",
+      "by_navn": "Atikokan",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 11
+    },
+    {
+      "tz_id": "America/Cordoba",
+      "region": "America",
+      "by_navn": "Córdoba",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 12
+    },
+    {
+      "tz_id": "America/Cuiaba",
+      "region": "America",
+      "by_navn": "Cuiabá",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 13
+    },
+    {
+      "tz_id": "America/Curacao",
+      "region": "America",
+      "by_navn": "Curaçao",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 14
+    },
+    {
+      "tz_id": "America/Eirunepe",
+      "region": "America",
+      "by_navn": "Eirunepé",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 15
+    },
+    {
+      "tz_id": "America/Godthab",
+      "region": "America",
+      "by_navn": "Nuuk",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 16
+    },
+    {
+      "tz_id": "America/Indiana/Knox",
+      "region": "America",
+      "by_navn": "Knox, Indiana",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 17
+    },
+    {
+      "tz_id": "America/Indiana/Marengo",
+      "region": "America",
+      "by_navn": "Marengo, Indiana",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 18
+    },
+    {
+      "tz_id": "America/Indiana/Petersburg",
+      "region": "America",
+      "by_navn": "Petersburg, Indiana",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 19
+    },
+    {
+      "tz_id": "America/Indiana/Tell_City",
+      "region": "America",
+      "by_navn": "Tell City, Indiana",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 20
+    },
+    {
+      "tz_id": "America/Indiana/Vevay",
+      "region": "America",
+      "by_navn": "Vevay, Indiana",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 21
+    },
+    {
+      "tz_id": "America/Indiana/Vincennes",
+      "region": "America",
+      "by_navn": "Vincennes, Indiana",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 22
+    },
+    {
+      "tz_id": "America/Indiana/Winamac",
+      "region": "America",
+      "by_navn": "Winamac, Indiana",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 23
+    },
+    {
+      "tz_id": "America/Kentucky/Monticello",
+      "region": "America",
+      "by_navn": "Monticello, Kentucky",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 24
+    },
+    {
+      "tz_id": "America/Lower_Princes",
+      "region": "America",
+      "by_navn": "Lower Prince’s Quarter",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 25
+    },
+    {
+      "tz_id": "America/Maceio",
+      "region": "America",
+      "by_navn": "Maceió",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 26
+    },
+    {
+      "tz_id": "America/Mazatlan",
+      "region": "America",
+      "by_navn": "Mazatlán",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 27
+    },
+    {
+      "tz_id": "America/Merida",
+      "region": "America",
+      "by_navn": "Merida",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 28
+    },
+    {
+      "tz_id": "America/Mexico_City",
+      "region": "America",
+      "by_navn": "Ciudad de México",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 29
+    },
+    {
+      "tz_id": "America/Miquelon",
+      "region": "America",
+      "by_navn": "Saint-Pierre",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 30
+    },
+    {
+      "tz_id": "America/Noronha",
+      "region": "America",
+      "by_navn": "Fernando de Noronha",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 31
+    },
+    {
+      "tz_id": "America/North_Dakota/Beulah",
+      "region": "America",
+      "by_navn": "Beulah, North Dakota",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 32
+    },
+    {
+      "tz_id": "America/North_Dakota/Center",
+      "region": "America",
+      "by_navn": "Center, North Dakota",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 33
+    },
+    {
+      "tz_id": "America/North_Dakota/New_Salem",
+      "region": "America",
+      "by_navn": "New Salem, North Dakota",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 34
+    },
+    {
+      "tz_id": "America/Santarem",
+      "region": "America",
+      "by_navn": "Santarém",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 35
+    },
+    {
+      "tz_id": "America/Sao_Paulo",
+      "region": "America",
+      "by_navn": "São Paulo",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 36
+    },
+    {
+      "tz_id": "America/Scoresbysund",
+      "region": "America",
+      "by_navn": "Ittoqqortoormiit",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 37
+    },
+    {
+      "tz_id": "America/St_Barthelemy",
+      "region": "America",
+      "by_navn": "Saint-Barthélemy",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 38
+    },
+    {
+      "tz_id": "America/St_Johns",
+      "region": "America",
+      "by_navn": "St. John’s",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 39
+    },
+    {
+      "tz_id": "America/St_Kitts",
+      "region": "America",
+      "by_navn": "St. Kitts",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 40
+    },
+    {
+      "tz_id": "America/St_Lucia",
+      "region": "America",
+      "by_navn": "St. Lucia",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 41
+    },
+    {
+      "tz_id": "America/St_Thomas",
+      "region": "America",
+      "by_navn": "St. Thomas",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 42
+    },
+    {
+      "tz_id": "America/St_Vincent",
+      "region": "America",
+      "by_navn": "St. Vincent",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 43
+    }
+  ],
+  "meta": {
+    "title": "Tidszoner: America (43) - Gratis download",
+    "description": "CLDR da-lokalets tidszoner i regionen 'America'. Indeholder 43 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Tidszoner: America (43) | ListBase",
+    "seo_description": "Download Tidszoner: America (43) — 43 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 43 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

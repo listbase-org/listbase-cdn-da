@@ -1,0 +1,331 @@
+{
+  "id": "da-kulkraftvaerker",
+  "name": "Kulkraftværker (stenkul) i Danmark",
+  "title": "Kulkraftværker (stenkul) i Danmark",
+  "description": "Hard Coal power generation/storage units in Denmark (10 of 368), carved from da-kraftvaerker by the native `fueltype` field. Verbatim subset of the powerplantmatching (PyPSA) merged European power plant dataset: name, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes and cross-referenced upstream source IDs.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "number"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "string"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 201,
+      "name": "Fyns",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 597,
+      "efficiency": "",
+      "date_in": 1974,
+      "date_retrofit": 1991,
+      "date_out": 2024,
+      "lat": 55.429412,
+      "lon": 10.410212,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-DK-14-6, BEYOND-DK-14-7; ENTSOE: 45W000000000014V; GEM: G100000102873, G100000102874; GEO: GEO-44224; GPD: WRI1022032; OPSD: OEU-5168"
+    },
+    {
+      "id": 555,
+      "name": "Nordjylland",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 716,
+      "efficiency": "",
+      "date_in": 1976,
+      "date_retrofit": 1998,
+      "date_out": 2028,
+      "lat": 57.073694,
+      "lon": 10.040779,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-DK-19-2, BEYOND-DK-19-3; ENTSOE: 45W000000000016R; GEM: G100000107495, G100000107496; GPD: WRI1022029; OPSD: OEU-5178, OEU-5179"
+    },
+    {
+      "id": 556,
+      "name": "Esbjerg",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 407,
+      "efficiency": "",
+      "date_in": 1992,
+      "date_retrofit": 1992,
+      "date_out": 2024,
+      "lat": 55.454653,
+      "lon": 8.455244,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-DK-5-5; ENTSOE: 45W000000000017P; GEM: G100000102679; GPD: WRI1022035; OPSD: OEU-5167"
+    },
+    {
+      "id": 619,
+      "name": "Studstrup",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 760,
+      "efficiency": "",
+      "date_in": 1984,
+      "date_retrofit": 1986,
+      "date_out": 2024,
+      "lat": 56.250196,
+      "lon": 10.344861,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-DK-17-2, BEYOND-DK-17-3; ENTSOE: 45W000000000015T; GEM: G100000109638, G100000109639; GEO: GEO-44220; OPSD: OEU-5182, OEU-5183"
+    },
+    {
+      "id": 620,
+      "name": "Amager",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 424,
+      "efficiency": "",
+      "date_in": 1971,
+      "date_retrofit": 2004,
+      "date_out": 2020,
+      "lat": 55.686777,
+      "lon": 12.627702,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-DK-11-2; ENTSOE: 45W000000000013X; GEM: G100000100139, G100000100140, G100000100141; GEO: GEO-44225; OPSD: OEU-5163"
+    },
+    {
+      "id": 2679,
+      "name": "Ostkraft Timepoint",
+      "fueltype": "Hard Coal",
+      "technology": "",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 108,
+      "efficiency": "",
+      "date_in": 1995,
+      "date_retrofit": 2014,
+      "date_out": 2016,
+      "lat": 55.1,
+      "lon": 14.7,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-DK-4-5; GEM: G100000107695; OPSD: OEU-5180"
+    },
+    {
+      "id": 2736,
+      "name": "Asnaes",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 1319,
+      "efficiency": "",
+      "date_in": 1962,
+      "date_retrofit": "",
+      "date_out": 2020,
+      "lat": 55.661528,
+      "lon": 11.080892,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-DK-10-2, BEYOND-DK-10-4, BEYOND-DK-10-5; ENTSOE: 45W000000000012Z; GEM: G100000100379, G100000100380, G100000100381, G100000114609"
+    },
+    {
+      "id": 8862,
+      "name": "Stigsnaes",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 409,
+      "efficiency": "",
+      "date_in": 1966,
+      "date_retrofit": "",
+      "date_out": 2012,
+      "lat": 55.207693,
+      "lon": 11.25205,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-DK-16-1, BEYOND-DK-16-2; GEM: G100000109630, G100000109631"
+    },
+    {
+      "id": 8863,
+      "name": "Avedore Timepoint",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 263,
+      "efficiency": "",
+      "date_in": 1990,
+      "date_retrofit": "",
+      "date_out": 2016,
+      "lat": 55.60216,
+      "lon": 12.479064,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-DK-8-1; GEM: G100000100405"
+    },
+    {
+      "id": 21394,
+      "name": "Randers Timepoint",
+      "fueltype": "Hard Coal",
+      "technology": "",
+      "set": "",
+      "country": "Denmark",
+      "capacity_mw": 52,
+      "efficiency": "",
+      "date_in": 1982,
+      "date_retrofit": "",
+      "date_out": 2009,
+      "lat": 56.4579,
+      "lon": 10.0466,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000201364"
+    }
+  ],
+  "meta": {
+    "title": "Kulkraftværker (stenkul) i Danmark - Gratis download",
+    "description": "Hard Coal power generation/storage units in Denmark (10 of 368), carved from da-kraftvaerker by the native `fueltype` field. Verbatim subset of the powerplantmatching (PyPSA) merged European power plant dataset: name, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes and cross-referenced upstream source IDs. Indeholder 10 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Kulkraftværker (stenkul) i Danmark | ListBase",
+    "seo_description": "Download Kulkraftværker (stenkul) i Danmark — 10 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 10 poster / 19 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

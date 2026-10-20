@@ -1,0 +1,191 @@
+{
+  "id": "da-efternavne",
+  "name": "Mest udbredte efternavne i Danmark (Popular Danish Surnames)",
+  "title": "Mest udbredte efternavne i Danmark (Popular Danish Surnames)",
+  "description": "De mest udbredte efternavne i Danmark, rangeret efter antal navnebærere, baseret på Danmarks Statistik.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "DK-1",
+      "rank": 1,
+      "localized": "Nielsen",
+      "romanized": "Nielsen",
+      "count": 236397
+    },
+    {
+      "name_group": "DK-2",
+      "rank": 2,
+      "localized": "Jensen",
+      "romanized": "Jensen",
+      "count": 233713
+    },
+    {
+      "name_group": "DK-3",
+      "rank": 3,
+      "localized": "Hansen",
+      "romanized": "Hansen",
+      "count": 197548
+    },
+    {
+      "name_group": "DK-4",
+      "rank": 4,
+      "localized": "Pedersen",
+      "romanized": "Pedersen",
+      "count": 150161
+    },
+    {
+      "name_group": "DK-5",
+      "rank": 5,
+      "localized": "Andersen",
+      "romanized": "Andersen",
+      "count": 149643
+    },
+    {
+      "name_group": "DK-6",
+      "rank": 6,
+      "localized": "Christensen",
+      "romanized": "Christensen",
+      "count": 111816
+    },
+    {
+      "name_group": "DK-7",
+      "rank": 7,
+      "localized": "Larsen",
+      "romanized": "Larsen",
+      "count": 107721
+    },
+    {
+      "name_group": "DK-8",
+      "rank": 8,
+      "localized": "Sørensen",
+      "romanized": "Sørensen",
+      "count": 102848
+    },
+    {
+      "name_group": "DK-9",
+      "rank": 9,
+      "localized": "Rasmussen",
+      "romanized": "Rasmussen",
+      "count": 88351
+    },
+    {
+      "name_group": "DK-10",
+      "rank": 10,
+      "localized": "Jørgensen",
+      "romanized": "Jørgensen",
+      "count": 82285
+    },
+    {
+      "name_group": "DK-11",
+      "rank": 11,
+      "localized": "Petersen",
+      "romanized": "Petersen",
+      "count": 72757
+    },
+    {
+      "name_group": "DK-12",
+      "rank": 12,
+      "localized": "Madsen",
+      "romanized": "Madsen",
+      "count": 60676
+    },
+    {
+      "name_group": "DK-13",
+      "rank": 13,
+      "localized": "Kristensen",
+      "romanized": "Kristensen",
+      "count": 57758
+    },
+    {
+      "name_group": "DK-14",
+      "rank": 14,
+      "localized": "Olsen",
+      "romanized": "Olsen",
+      "count": 44629
+    },
+    {
+      "name_group": "DK-15",
+      "rank": 15,
+      "localized": "Thomsen",
+      "romanized": "Thomsen",
+      "count": 38244
+    },
+    {
+      "name_group": "DK-16",
+      "rank": 16,
+      "localized": "Christiansen",
+      "romanized": "Christiansen",
+      "count": 35143
+    },
+    {
+      "name_group": "DK-17",
+      "rank": 17,
+      "localized": "Poulsen",
+      "romanized": "Poulsen",
+      "count": 30545
+    },
+    {
+      "name_group": "DK-18",
+      "rank": 18,
+      "localized": "Johansen",
+      "romanized": "Johansen",
+      "count": 29866
+    },
+    {
+      "name_group": "DK-19",
+      "rank": 19,
+      "localized": "Møller",
+      "romanized": "Møller",
+      "count": 29481
+    },
+    {
+      "name_group": "DK-20",
+      "rank": 20,
+      "localized": "Mortensen",
+      "romanized": "Mortensen",
+      "count": 28124
+    }
+  ],
+  "meta": {
+    "title": "Mest udbredte efternavne i Danmark (Popular Danish Surnames) - Gratis download",
+    "description": "De mest udbredte efternavne i Danmark, rangeret efter antal navnebærere, baseret på Danmarks Statistik. Indeholder 20 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Mest udbredte efternavne i Danmark (Popular Danish Surnames) | ListBase",
+    "seo_description": "Download Mest udbredte efternavne i Danmark (Popular Danish Surnames) — 20 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 20 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

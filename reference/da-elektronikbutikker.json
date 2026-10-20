@@ -1,0 +1,1061 @@
+{
+  "id": "da-elektronikbutikker",
+  "name": "Elektronikbutikker i Danmark (Electronics shops in Denmark)",
+  "title": "Elektronikbutikker i Danmark (Electronics shops in Denmark)",
+  "description": "Electronics shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=electronics.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 204,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aalestrup Radio & TV",
+      "latitude": 56.69397,
+      "longitude": 9.494163
+    },
+    {
+      "name": "AC Antennas A/S",
+      "latitude": 55.685294,
+      "longitude": 12.3844
+    },
+    {
+      "name": "AV-Connection",
+      "latitude": 54.925064,
+      "longitude": 9.793814
+    },
+    {
+      "name": "B&O PLAY",
+      "latitude": 55.628576,
+      "longitude": 12.647199
+    },
+    {
+      "name": "Best Buy",
+      "latitude": 55.973489,
+      "longitude": 12.02137
+    },
+    {
+      "name": "Bjerre El",
+      "latitude": 55.785979,
+      "longitude": 9.851273
+    },
+    {
+      "name": "Bramming Electronic",
+      "latitude": 55.46417,
+      "longitude": 8.693356
+    },
+    {
+      "name": "Brinck Elektronik",
+      "latitude": 55.685405,
+      "longitude": 12.567549
+    },
+    {
+      "name": "Byens Serviceværksted",
+      "latitude": 55.715681,
+      "longitude": 11.717084
+    },
+    {
+      "name": "Byens TV Service",
+      "latitude": 56.180813,
+      "longitude": 9.569134
+    },
+    {
+      "name": "C. Thiim",
+      "latitude": 55.73087,
+      "longitude": 12.4693
+    },
+    {
+      "name": "Capi Electronics",
+      "latitude": 55.628586,
+      "longitude": 12.649957
+    },
+    {
+      "name": "Capi Electronics",
+      "latitude": 55.628707,
+      "longitude": 12.646486
+    },
+    {
+      "name": "Capi Electronics",
+      "latitude": 55.628945,
+      "longitude": 12.644244
+    },
+    {
+      "name": "Dahvid Hvidevarer",
+      "latitude": 55.644807,
+      "longitude": 12.120387
+    },
+    {
+      "name": "Dana Electric",
+      "latitude": 56.145302,
+      "longitude": 10.203642
+    },
+    {
+      "name": "Dianalund Radio",
+      "latitude": 55.53284,
+      "longitude": 11.49699
+    },
+    {
+      "name": "dji",
+      "latitude": 55.67875,
+      "longitude": 12.577611
+    },
+    {
+      "name": "EFIX",
+      "latitude": 55.697821,
+      "longitude": 12.54333
+    },
+    {
+      "name": "El 99",
+      "latitude": 55.659921,
+      "longitude": 11.397647
+    },
+    {
+      "name": "El-Keld",
+      "latitude": 55.728065,
+      "longitude": 9.107246
+    },
+    {
+      "name": "El-Salg",
+      "latitude": 55.094653,
+      "longitude": 10.246198
+    },
+    {
+      "name": "El-Salg",
+      "latitude": 55.344338,
+      "longitude": 8.774536
+    },
+    {
+      "name": "EL-Salg",
+      "latitude": 57.446339,
+      "longitude": 10.508453
+    },
+    {
+      "name": "El-salg Gram",
+      "latitude": 55.288024,
+      "longitude": 9.047707
+    },
+    {
+      "name": "Elektronik Lavpris",
+      "latitude": 56.179072,
+      "longitude": 10.139409
+    },
+    {
+      "name": "Elektronikhuset",
+      "latitude": 56.088737,
+      "longitude": 8.24617
+    },
+    {
+      "name": "Elextra - Esbjerg Electronic",
+      "latitude": 55.468082,
+      "longitude": 8.463454
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 54.759934,
+      "longitude": 11.855127
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 54.921716,
+      "longitude": 9.810576
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.062562,
+      "longitude": 10.589514
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.253628,
+      "longitude": 9.503526
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.254979,
+      "longitude": 11.796431
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.308977,
+      "longitude": 10.802001
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.381973,
+      "longitude": 10.424778
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.454324,
+      "longitude": 11.784777
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.509745,
+      "longitude": 8.463477
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.568205,
+      "longitude": 9.699309
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.597705,
+      "longitude": 12.330846
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.630181,
+      "longitude": 12.576074
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.646651,
+      "longitude": 12.135162
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.655873,
+      "longitude": 12.283972
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.661464,
+      "longitude": 12.561592
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.662613,
+      "longitude": 12.605067
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.662782,
+      "longitude": 12.60398
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.664009,
+      "longitude": 12.38113
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.679154,
+      "longitude": 12.581341
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.681669,
+      "longitude": 12.533778
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.698238,
+      "longitude": 12.578896
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.699873,
+      "longitude": 12.540097
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.704116,
+      "longitude": 9.52692
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.718132,
+      "longitude": 12.45125
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.754973,
+      "longitude": 12.517948
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.772151,
+      "longitude": 12.505223
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.858998,
+      "longitude": 9.846667
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.88221,
+      "longitude": 12.496729
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 55.928704,
+      "longitude": 12.291106
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 56.116125,
+      "longitude": 10.153301
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 56.132587,
+      "longitude": 9.007112
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 56.154798,
+      "longitude": 10.206795
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 56.181531,
+      "longitude": 10.09921
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 56.185052,
+      "longitude": 9.544527
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 56.376868,
+      "longitude": 8.620579
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 56.384138,
+      "longitude": 10.864592
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 56.428445,
+      "longitude": 10.058466
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 56.447109,
+      "longitude": 9.364455
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 56.56976,
+      "longitude": 8.997325
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 57.002777,
+      "longitude": 9.870744
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 57.048301,
+      "longitude": 9.923388
+    },
+    {
+      "name": "Elgiganten",
+      "latitude": 57.454869,
+      "longitude": 9.995057
+    },
+    {
+      "name": "Elgiganten Frederikshavn",
+      "latitude": 57.446195,
+      "longitude": 10.504308
+    },
+    {
+      "name": "Elgiganten Holbæk",
+      "latitude": 55.703211,
+      "longitude": 11.667857
+    },
+    {
+      "name": "Elgiganten Kalundborg",
+      "latitude": 55.678281,
+      "longitude": 11.134874
+    },
+    {
+      "name": "Elgiganten Kolding Storcenter",
+      "latitude": 55.51484,
+      "longitude": 9.461503
+    },
+    {
+      "name": "Elgiganten Køge",
+      "latitude": 55.482185,
+      "longitude": 12.182414
+    },
+    {
+      "name": "Elgiganten Skejby",
+      "latitude": 56.206845,
+      "longitude": 10.173203
+    },
+    {
+      "name": "Elgiganten Slagelse",
+      "latitude": 55.388095,
+      "longitude": 11.323406
+    },
+    {
+      "name": "Elgiganten Thisted",
+      "latitude": 56.968606,
+      "longitude": 8.733571
+    },
+    {
+      "name": "ELplus",
+      "latitude": 55.122032,
+      "longitude": 12.042576
+    },
+    {
+      "name": "Energig ApS",
+      "latitude": 56.253784,
+      "longitude": 10.074302
+    },
+    {
+      "name": "Euronics",
+      "latitude": 55.100935,
+      "longitude": 14.698612
+    },
+    {
+      "name": "euronics",
+      "latitude": 55.832847,
+      "longitude": 10.592948
+    },
+    {
+      "name": "Euronics",
+      "latitude": 55.973579,
+      "longitude": 12.021285
+    },
+    {
+      "name": "expert",
+      "latitude": 55.73301,
+      "longitude": 12.51644
+    },
+    {
+      "name": "Expert",
+      "latitude": 56.414182,
+      "longitude": 10.878034
+    },
+    {
+      "name": "Expert & Punkt1",
+      "latitude": 57.593283,
+      "longitude": 10.412787
+    },
+    {
+      "name": "F.B. Electronic",
+      "latitude": 55.66583,
+      "longitude": 12.595055
+    },
+    {
+      "name": "Fugmann",
+      "latitude": 55.658562,
+      "longitude": 12.503662
+    },
+    {
+      "name": "Geekd",
+      "latitude": 55.508491,
+      "longitude": 9.454203
+    },
+    {
+      "name": "Go Blue",
+      "latitude": 55.470031,
+      "longitude": 8.439688
+    },
+    {
+      "name": "Greenlight Battery ApS",
+      "latitude": 56.113555,
+      "longitude": 8.972133
+    },
+    {
+      "name": "GreenMind",
+      "latitude": 55.384405,
+      "longitude": 10.427046
+    },
+    {
+      "name": "GreenMind",
+      "latitude": 55.397153,
+      "longitude": 10.38119
+    },
+    {
+      "name": "GreenMind",
+      "latitude": 55.672684,
+      "longitude": 12.549434
+    },
+    {
+      "name": "GreenMind",
+      "latitude": 55.705973,
+      "longitude": 9.535573
+    },
+    {
+      "name": "GreenMind",
+      "latitude": 55.723411,
+      "longitude": 12.375262
+    },
+    {
+      "name": "GreenMind",
+      "latitude": 56.150833,
+      "longitude": 10.205369
+    },
+    {
+      "name": "GreenMind",
+      "latitude": 56.169984,
+      "longitude": 10.188133
+    },
+    {
+      "name": "Hanstholm Elektronik",
+      "latitude": 55.473992,
+      "longitude": 8.426983
+    },
+    {
+      "name": "Hi-Fi Klubben Esbjerg",
+      "latitude": 55.465727,
+      "longitude": 8.455409
+    },
+    {
+      "name": "HiFi Klubben",
+      "latitude": 56.448259,
+      "longitude": 9.407719
+    },
+    {
+      "name": "HiFi Klubben",
+      "latitude": 57.454732,
+      "longitude": 10.01697
+    },
+    {
+      "name": "Humac",
+      "latitude": 55.394168,
+      "longitude": 10.381127
+    },
+    {
+      "name": "Humac",
+      "latitude": 55.465887,
+      "longitude": 8.454003
+    },
+    {
+      "name": "Humac",
+      "latitude": 56.149548,
+      "longitude": 10.205111
+    },
+    {
+      "name": "i2i IT-Support",
+      "latitude": 54.889,
+      "longitude": 10.409985
+    },
+    {
+      "name": "iDevice",
+      "latitude": 55.007365,
+      "longitude": 11.914708
+    },
+    {
+      "name": "IKT Partner",
+      "latitude": 56.415051,
+      "longitude": 10.878964
+    },
+    {
+      "name": "iMania.dk",
+      "latitude": 57.047324,
+      "longitude": 9.919723
+    },
+    {
+      "name": "IT Trends Eddashop",
+      "latitude": 55.807743,
+      "longitude": 8.621327
+    },
+    {
+      "name": "ITLAGERSALG.DK",
+      "latitude": 57.44581,
+      "longitude": 10.501678
+    },
+    {
+      "name": "Jansson",
+      "latitude": 55.732374,
+      "longitude": 9.111546
+    },
+    {
+      "name": "Kidsprint",
+      "latitude": 55.844942,
+      "longitude": 9.23724
+    },
+    {
+      "name": "Kongerslev El",
+      "latitude": 56.886516,
+      "longitude": 10.115647
+    },
+    {
+      "name": "Kreafunk ApS",
+      "latitude": 56.141385,
+      "longitude": 10.153019
+    },
+    {
+      "name": "KT Radio",
+      "latitude": 55.670598,
+      "longitude": 12.532846
+    },
+    {
+      "name": "Laasby",
+      "latitude": 55.744002,
+      "longitude": 9.816427
+    },
+    {
+      "name": "LAG",
+      "latitude": 55.763857,
+      "longitude": 12.579056
+    },
+    {
+      "name": "Leo’s Radio",
+      "latitude": 56.544714,
+      "longitude": 9.125305
+    },
+    {
+      "name": "Lydbutikken",
+      "latitude": 55.674092,
+      "longitude": 12.54113
+    },
+    {
+      "name": "Mackabler.dk",
+      "latitude": 55.634229,
+      "longitude": 12.448664
+    },
+    {
+      "name": "matronics.dk",
+      "latitude": 54.943199,
+      "longitude": 9.087826
+    },
+    {
+      "name": "Miele",
+      "latitude": 56.157852,
+      "longitude": 10.2072
+    },
+    {
+      "name": "Mølholm Radio & AV Teknik",
+      "latitude": 55.687375,
+      "longitude": 9.551925
+    },
+    {
+      "name": "Nordcom",
+      "latitude": 57.046151,
+      "longitude": 9.938404
+    },
+    {
+      "name": "Nordjyllands batteriservice",
+      "latitude": 56.885134,
+      "longitude": 10.115486
+    },
+    {
+      "name": "Oksbøl installationsforretning",
+      "latitude": 55.62327,
+      "longitude": 8.291337
+    },
+    {
+      "name": "Oles Lyd og Billed",
+      "latitude": 55.465525,
+      "longitude": 8.698116
+    },
+    {
+      "name": "Padborg Elektro",
+      "latitude": 54.831851,
+      "longitude": 9.350281
+    },
+    {
+      "name": "Panasonic Center",
+      "latitude": 57.248755,
+      "longitude": 9.613632
+    },
+    {
+      "name": "Paulsen's Solutions",
+      "latitude": 55.158109,
+      "longitude": 8.768778
+    },
+    {
+      "name": "Playback",
+      "latitude": 56.22772,
+      "longitude": 10.251269
+    },
+    {
+      "name": "Power",
+      "latitude": 54.759841,
+      "longitude": 11.85224
+    },
+    {
+      "name": "Power",
+      "latitude": 54.920574,
+      "longitude": 9.807501
+    },
+    {
+      "name": "Power",
+      "latitude": 55.251562,
+      "longitude": 9.501402
+    },
+    {
+      "name": "Power",
+      "latitude": 55.253587,
+      "longitude": 11.788707
+    },
+    {
+      "name": "Power",
+      "latitude": 55.382455,
+      "longitude": 10.426251
+    },
+    {
+      "name": "Power",
+      "latitude": 55.388509,
+      "longitude": 11.324693
+    },
+    {
+      "name": "Power",
+      "latitude": 55.48183,
+      "longitude": 12.184514
+    },
+    {
+      "name": "Power",
+      "latitude": 55.510385,
+      "longitude": 8.455846
+    },
+    {
+      "name": "Power",
+      "latitude": 55.514213,
+      "longitude": 9.455666
+    },
+    {
+      "name": "Power",
+      "latitude": 55.619035,
+      "longitude": 12.338499
+    },
+    {
+      "name": "Power",
+      "latitude": 55.663512,
+      "longitude": 12.374169
+    },
+    {
+      "name": "Power",
+      "latitude": 55.67531,
+      "longitude": 12.561415
+    },
+    {
+      "name": "POWER",
+      "latitude": 55.678577,
+      "longitude": 12.455064
+    },
+    {
+      "name": "Power",
+      "latitude": 55.681388,
+      "longitude": 12.532011
+    },
+    {
+      "name": "Power",
+      "latitude": 55.719313,
+      "longitude": 12.449278
+    },
+    {
+      "name": "Power",
+      "latitude": 55.771456,
+      "longitude": 12.507572
+    },
+    {
+      "name": "Power",
+      "latitude": 55.858906,
+      "longitude": 9.853129
+    },
+    {
+      "name": "Power",
+      "latitude": 56.135627,
+      "longitude": 8.999708
+    },
+    {
+      "name": "Power",
+      "latitude": 56.181158,
+      "longitude": 10.098639
+    },
+    {
+      "name": "Power",
+      "latitude": 56.429518,
+      "longitude": 10.057162
+    },
+    {
+      "name": "Power",
+      "latitude": 56.571006,
+      "longitude": 8.995447
+    },
+    {
+      "name": "Power",
+      "latitude": 57.0025,
+      "longitude": 9.874942
+    },
+    {
+      "name": "Power",
+      "latitude": 57.446142,
+      "longitude": 10.502909
+    },
+    {
+      "name": "Power Holbæk",
+      "latitude": 55.70214,
+      "longitude": 11.670792
+    },
+    {
+      "name": "Power Holstebro",
+      "latitude": 56.37678,
+      "longitude": 8.618908
+    },
+    {
+      "name": "POWER Mega Syd, Viby J",
+      "latitude": 56.116516,
+      "longitude": 10.151195
+    },
+    {
+      "name": "Proshop",
+      "latitude": 55.646096,
+      "longitude": 12.541224
+    },
+    {
+      "name": "Punkt 1",
+      "latitude": 55.237883,
+      "longitude": 10.479093
+    },
+    {
+      "name": "Punkt 1",
+      "latitude": 55.259501,
+      "longitude": 9.475661
+    },
+    {
+      "name": "Punkt 1",
+      "latitude": 55.387769,
+      "longitude": 11.325399
+    },
+    {
+      "name": "Punkt 1",
+      "latitude": 55.666014,
+      "longitude": 12.510912
+    },
+    {
+      "name": "Punkt 1",
+      "latitude": 55.676648,
+      "longitude": 11.138409
+    },
+    {
+      "name": "Punkt1",
+      "latitude": 55.062405,
+      "longitude": 15.133016
+    },
+    {
+      "name": "Punkt1",
+      "latitude": 55.237901,
+      "longitude": 10.47908
+    },
+    {
+      "name": "Punkt1",
+      "latitude": 55.660167,
+      "longitude": 11.397053
+    },
+    {
+      "name": "Punkt1",
+      "latitude": 56.136259,
+      "longitude": 8.970841
+    },
+    {
+      "name": "Punkt1",
+      "latitude": 56.191578,
+      "longitude": 10.670794
+    },
+    {
+      "name": "Radio & TV",
+      "latitude": 57.219728,
+      "longitude": 9.676394
+    },
+    {
+      "name": "Radio og TV-Gården",
+      "latitude": 55.716695,
+      "longitude": 8.600805
+    },
+    {
+      "name": "Radio Vest",
+      "latitude": 55.916563,
+      "longitude": 8.51666
+    },
+    {
+      "name": "ReperationsCenter",
+      "latitude": 55.704654,
+      "longitude": 12.500424
+    },
+    {
+      "name": "Ringkøbing-Skjern Installationsforretning A/S",
+      "latitude": 55.952064,
+      "longitude": 8.515661
+    },
+    {
+      "name": "Rødekro Radio & TV",
+      "latitude": 55.070872,
+      "longitude": 9.335064
+    },
+    {
+      "name": "Rødekro Radio-TV",
+      "latitude": 55.069598,
+      "longitude": 9.352298
+    },
+    {
+      "name": "Skousen",
+      "latitude": 54.922449,
+      "longitude": 9.809895
+    },
+    {
+      "name": "Skousen",
+      "latitude": 55.259794,
+      "longitude": 9.475392
+    },
+    {
+      "name": "Skousen",
+      "latitude": 55.33477,
+      "longitude": 8.772565
+    },
+    {
+      "name": "Skousen",
+      "latitude": 55.478507,
+      "longitude": 12.186032
+    },
+    {
+      "name": "Skousen",
+      "latitude": 55.509057,
+      "longitude": 9.766633
+    },
+    {
+      "name": "Skousen",
+      "latitude": 55.567639,
+      "longitude": 9.705596
+    },
+    {
+      "name": "Skousen",
+      "latitude": 55.663963,
+      "longitude": 12.458061
+    },
+    {
+      "name": "Skousen",
+      "latitude": 55.725308,
+      "longitude": 9.583799
+    },
+    {
+      "name": "Skousen",
+      "latitude": 55.741807,
+      "longitude": 12.494869
+    },
+    {
+      "name": "Skousen",
+      "latitude": 55.84478,
+      "longitude": 12.075615
+    },
+    {
+      "name": "Skousen",
+      "latitude": 56.115313,
+      "longitude": 10.151785
+    },
+    {
+      "name": "Skousen",
+      "latitude": 56.134095,
+      "longitude": 9.002601
+    },
+    {
+      "name": "Skousen",
+      "latitude": 56.184762,
+      "longitude": 9.542187
+    },
+    {
+      "name": "Skousen",
+      "latitude": 56.627195,
+      "longitude": 9.80293
+    },
+    {
+      "name": "Skousen",
+      "latitude": 57.445112,
+      "longitude": 10.494869
+    },
+    {
+      "name": "Skousen Glostrup",
+      "latitude": 55.663905,
+      "longitude": 12.377811
+    },
+    {
+      "name": "Skærbæk Radio & TV",
+      "latitude": 55.158218,
+      "longitude": 8.769622
+    },
+    {
+      "name": "smeg Concept Store",
+      "latitude": 55.672459,
+      "longitude": 12.557039
+    },
+    {
+      "name": "SMOKE-IT",
+      "latitude": 56.149118,
+      "longitude": 10.204305
+    },
+    {
+      "name": "Sony",
+      "latitude": 55.769917,
+      "longitude": 12.504075
+    },
+    {
+      "name": "TECHNO CITY",
+      "latitude": 55.701755,
+      "longitude": 12.534446
+    },
+    {
+      "name": "Tejn El-teknik",
+      "latitude": 55.248672,
+      "longitude": 14.831132
+    },
+    {
+      "name": "Telek",
+      "latitude": 55.681715,
+      "longitude": 12.549305
+    },
+    {
+      "name": "Tifon",
+      "latitude": 55.00882,
+      "longitude": 11.908765
+    },
+    {
+      "name": "Unicom Fannikke",
+      "latitude": 55.096507,
+      "longitude": 14.702175
+    },
+    {
+      "name": "Veddum-Skelund El",
+      "latitude": 56.761374,
+      "longitude": 10.190246
+    },
+    {
+      "name": "Vitafone",
+      "latitude": 55.471114,
+      "longitude": 9.478935
+    },
+    {
+      "name": "Århus Hårde Hvidevarer",
+      "latitude": 56.16166,
+      "longitude": 10.210537
+    }
+  ],
+  "meta": {
+    "title": "Elektronikbutikker i Danmark (Electronics shops in Denmark) - Gratis download",
+    "description": "Electronics shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=electronics. Indeholder 204 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Elektronikbutikker i Danmark (Electronics shops in Denmark) | ListBase",
+    "seo_description": "Download Elektronikbutikker i Danmark (Electronics shops in Denmark) — 204 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 204 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

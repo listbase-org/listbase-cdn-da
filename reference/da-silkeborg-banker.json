@@ -1,0 +1,86 @@
+{
+  "id": "da-silkeborg-banker",
+  "name": "Banker i Silkeborg — SWIFT/BIC-koder",
+  "title": "Banker i Silkeborg — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Silkeborg, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"SILKEBORG\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 108,
+      "bank": "DANSKE BANK A/S",
+      "city": "SILKEBORG",
+      "branch": "",
+      "swift_code": "DABADKKKSIL"
+    },
+    {
+      "id": 182,
+      "bank": "FOLKESPAREKASSEN",
+      "city": "SILKEBORG",
+      "branch": "",
+      "swift_code": "FOSPDK21"
+    },
+    {
+      "id": 216,
+      "bank": "HENTON BORSMAEGLERSELSKAB A/S",
+      "city": "SILKEBORG",
+      "branch": "",
+      "swift_code": "HEBODK21"
+    },
+    {
+      "id": 303,
+      "bank": "JYSKE BANK A/S",
+      "city": "SILKEBORG",
+      "branch": "(CENTRAL TRADE MANAGER)",
+      "swift_code": "JYBADK21CTM"
+    },
+    {
+      "id": 304,
+      "bank": "JYSKE BANK A/S",
+      "city": "SILKEBORG",
+      "branch": "",
+      "swift_code": "JYBADK21"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Silkeborg — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Silkeborg, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"SILKEBORG\"). Delmængde af det nationale da-banker-datasæt. Indeholder 5 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Silkeborg — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Silkeborg — SWIFT/BIC-koder — 5 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 5 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

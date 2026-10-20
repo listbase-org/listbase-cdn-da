@@ -1,0 +1,344 @@
+{
+  "id": "da-ringkoebing-skjern-afstemningssteder",
+  "name": "Afstemningssteder i Ringkøbing-Skjern Kommune",
+  "title": "Afstemningssteder i Ringkøbing-Skjern Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Ringkøbing-Skjern Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Tarm,Foersum",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Holmsland",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Hoven",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Ådum",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Lyne",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Sdr. Vium",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Hemmet",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Sdr. Og Nr. Bork",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Lønborg,Vostrup",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Hvide Sande",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Vedersø",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Velling",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Ølstrup",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Ringkøbing By",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Rindum",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Hee",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Hover",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "No",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Stadil",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Højmark",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Lem",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Tim",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Torsted",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Skjern",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Borris",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Faster",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "27",
+      "afstemningssted": "Rk Mølle",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "Stauning",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "29",
+      "afstemningssted": "Herborg",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "30",
+      "afstemningssted": "Videbæk",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "31",
+      "afstemningssted": "Nr.Vium",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "32",
+      "afstemningssted": "Troldhede",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "33",
+      "afstemningssted": "Vorgod",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "34",
+      "afstemningssted": "Fjelstervang",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "35",
+      "afstemningssted": "Spjald",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    },
+    {
+      "afstemningsomraade_kode": "36",
+      "afstemningssted": "Grønbjerg",
+      "kommune_kode": 760,
+      "kommune": "Ringkøbing-Skjern",
+      "opstillingskreds_nummer": 83,
+      "opstillingskreds": "Ringkøbing"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Ringkøbing-Skjern Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Ringkøbing-Skjern Kommune med opstillingskreds. Indeholder 36 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Ringkøbing-Skjern Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Ringkøbing-Skjern Kommune — 36 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 36 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

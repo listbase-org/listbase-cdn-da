@@ -1,0 +1,208 @@
+{
+  "id": "da-vejen-afstemningssteder",
+  "name": "Afstemningssteder i Vejen Kommune",
+  "title": "Afstemningssteder i Vejen Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Vejen Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Brørup",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Lindknud",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Holsted",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Føvling",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Glejbjerg",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Hovborg",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Rødding",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Sdr. Hygum",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Jels",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Lintrup",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Skodborg",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Københoved",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Øster Lindet",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Vejen",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Læborg",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Askov-Malt",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Andst",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Gesten",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Bække",
+      "kommune_kode": 575,
+      "kommune": "Vejen",
+      "opstillingskreds_nummer": 55,
+      "opstillingskreds": "Vejen"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Vejen Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Vejen Kommune med opstillingskreds. Indeholder 19 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Vejen Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Vejen Kommune — 19 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 19 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

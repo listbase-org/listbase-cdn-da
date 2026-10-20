@@ -1,0 +1,161 @@
+{
+  "id": "da-retskredse",
+  "name": "Retskredse i Danmark",
+  "title": "Retskredse i Danmark",
+  "description": "24 retskredse i Danmark (byretterne) per Domstolsreformen 2007. RETSKRNR pr. DAGI 2014-02-13 (1=Hjørring → 24=Bornholm).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "1",
+      "name": "Retten i Hjørring",
+      "slug": "retten-i-hjoerring"
+    },
+    {
+      "id": "2",
+      "name": "Retten i Aalborg",
+      "slug": "retten-i-aalborg"
+    },
+    {
+      "id": "3",
+      "name": "Retten i Randers",
+      "slug": "retten-i-randers"
+    },
+    {
+      "id": "4",
+      "name": "Retten i Århus",
+      "slug": "retten-i-aarhus"
+    },
+    {
+      "id": "5",
+      "name": "Retten i Viborg",
+      "slug": "retten-i-viborg"
+    },
+    {
+      "id": "6",
+      "name": "Retten i Holstebro",
+      "slug": "retten-i-holstebro"
+    },
+    {
+      "id": "7",
+      "name": "Retten i Herning",
+      "slug": "retten-i-herning"
+    },
+    {
+      "id": "8",
+      "name": "Retten i Horsens",
+      "slug": "retten-i-horsens"
+    },
+    {
+      "id": "9",
+      "name": "Retten i Kolding",
+      "slug": "retten-i-kolding"
+    },
+    {
+      "id": "10",
+      "name": "Retten i Esbjerg",
+      "slug": "retten-i-esbjerg"
+    },
+    {
+      "id": "11",
+      "name": "Retten i Sønderborg",
+      "slug": "retten-i-soenderborg"
+    },
+    {
+      "id": "12",
+      "name": "Retten i Odense",
+      "slug": "retten-i-odense"
+    },
+    {
+      "id": "13",
+      "name": "Retten i Svendborg",
+      "slug": "retten-i-svendborg"
+    },
+    {
+      "id": "14",
+      "name": "Retten i Nykøbing Falster",
+      "slug": "retten-i-nykoebing-falster"
+    },
+    {
+      "id": "15",
+      "name": "Retten i Næstved",
+      "slug": "retten-i-naestved"
+    },
+    {
+      "id": "16",
+      "name": "Retten i Holbæk",
+      "slug": "retten-i-holbaek"
+    },
+    {
+      "id": "17",
+      "name": "Retten i Roskilde",
+      "slug": "retten-i-roskilde"
+    },
+    {
+      "id": "18",
+      "name": "Retten i Hillerød",
+      "slug": "retten-i-hilleroed"
+    },
+    {
+      "id": "19",
+      "name": "Retten i Helsingør",
+      "slug": "retten-i-helsingoer"
+    },
+    {
+      "id": "20",
+      "name": "Retten i Lyngby",
+      "slug": "retten-i-lyngby"
+    },
+    {
+      "id": "21",
+      "name": "Retten i Glostrup",
+      "slug": "retten-i-glostrup"
+    },
+    {
+      "id": "22",
+      "name": "Retten på Frederiksberg",
+      "slug": "retten-paa-frederiksberg"
+    },
+    {
+      "id": "23",
+      "name": "Københavns Byret",
+      "slug": "koebenhavns-byret"
+    },
+    {
+      "id": "24",
+      "name": "Retten på Bornholm",
+      "slug": "retten-paa-bornholm"
+    }
+  ],
+  "meta": {
+    "title": "Retskredse i Danmark - Gratis download",
+    "description": "24 retskredse i Danmark (byretterne) per Domstolsreformen 2007. RETSKRNR pr. DAGI 2014-02-13 (1=Hjørring → 24=Bornholm). Indeholder 24 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Retskredse i Danmark | ListBase",
+    "seo_description": "Download Retskredse i Danmark — 24 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 24 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

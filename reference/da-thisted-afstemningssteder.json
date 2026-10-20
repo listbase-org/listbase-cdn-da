@@ -1,0 +1,264 @@
+{
+  "id": "da-thisted-afstemningssteder",
+  "name": "Afstemningssteder i Thisted Kommune",
+  "title": "Afstemningssteder i Thisted Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Thisted Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Thisted By",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Harring-Stagstrup",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Hillerslev-Kåstrup",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Hundborg-Jannerup",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Vorupør",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Nors-Tved",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Sennels",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Sjørring-Thorsted",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Skjoldborg-Kallerup",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Snedsted-Nørhå",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Sønderhå-Hørsted",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Thisted Landsogn",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Vang-Tvorup",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Skinnerup, V Og Ø Vandet",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Øsløs, Vesløs Og Arup",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Østerild, Hunstrup",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Hanstholm",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Ræhr/Vigsø",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Klitmøller",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Frøstrup",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Lild",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Bedsted",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Hurup",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Koldby",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Vestervig",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    },
+    {
+      "afstemningsomraade_kode": "27",
+      "afstemningssted": "Ydby",
+      "kommune_kode": 787,
+      "kommune": "Thisted",
+      "opstillingskreds_nummer": 87,
+      "opstillingskreds": "Thisted"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Thisted Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Thisted Kommune med opstillingskreds. Indeholder 26 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Thisted Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Thisted Kommune — 26 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 26 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

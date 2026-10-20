@@ -1,0 +1,241 @@
+{
+  "id": "da-sjaelland-lufthavne",
+  "name": "Lufthavne — Region Sjælland",
+  "title": "Lufthavne — Region Sjælland",
+  "description": "Lufthavne og flyvepladser i Region Sjælland (Danmark / DK) — ICAO/IATA-koder, by, koordinater (WGS84), højde og tidszone. Udsnit af det nationale flagship-datasæt `da-lufthavne` filtreret på Region Sjælland. (Airports in Region Zealand — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EKAV",
+      "iata": "",
+      "name": "Avno Air Base",
+      "city": "Avno",
+      "subdivision": "Region Zealand",
+      "subdivision_native": "Region Sjælland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 13,
+      "latitude": 55.083,
+      "longitude": 11.783,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKFM",
+      "iata": "",
+      "name": "Femø Airfield",
+      "city": "Femø",
+      "subdivision": "Region Zealand",
+      "subdivision_native": "Region Sjælland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 2,
+      "latitude": 54.98412,
+      "longitude": 11.53766,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKHK",
+      "iata": "",
+      "name": "Holbaek (Ny Hagested) Airport",
+      "city": "Holbaek",
+      "subdivision": "Region Zealand",
+      "subdivision_native": "Region Sjælland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 2,
+      "latitude": 55.7328,
+      "longitude": 11.6028,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKKL",
+      "iata": "",
+      "name": "Kalundborg Airport",
+      "city": "Kalundborg",
+      "subdivision": "Region Zealand",
+      "subdivision_native": "Region Sjælland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 1,
+      "latitude": 55.7003,
+      "longitude": 11.25,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKKO",
+      "iata": "",
+      "name": "Korsor Airport",
+      "city": "Korsor",
+      "subdivision": "Region Zealand",
+      "subdivision_native": "Region Sjælland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 39,
+      "latitude": 55.3369,
+      "longitude": 11.2417,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKMB",
+      "iata": "MRW",
+      "name": "Lolland Falster Maribo Airport",
+      "city": "Lolland Falster / Maribo",
+      "subdivision": "Region Zealand",
+      "subdivision_native": "Region Sjælland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 16,
+      "latitude": 54.6993,
+      "longitude": 11.4401,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKMN",
+      "iata": "",
+      "name": "Kostervig Mon Airport",
+      "city": "Koster",
+      "subdivision": "Region Zealand",
+      "subdivision_native": "Region Sjælland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 3,
+      "latitude": 54.9647,
+      "longitude": 12.1944,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKNS",
+      "iata": "",
+      "name": "Nakskov Airport",
+      "city": "Naksnov",
+      "subdivision": "Region Zealand",
+      "subdivision_native": "Region Sjælland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 3,
+      "latitude": 54.8172,
+      "longitude": 11.1308,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKRK",
+      "iata": "RKE",
+      "name": "Copenhagen Roskilde Airport",
+      "city": "Copenhagen",
+      "subdivision": "Region Zealand",
+      "subdivision_native": "Region Sjælland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 146,
+      "latitude": 55.5856,
+      "longitude": 12.1314,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKRS",
+      "iata": "",
+      "name": "Ringsted Airport",
+      "city": "Ringsted",
+      "subdivision": "Region Zealand",
+      "subdivision_native": "Region Sjælland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 113,
+      "latitude": 55.4258,
+      "longitude": 11.8067,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Lufthavne — Region Sjælland - Gratis download",
+    "description": "Lufthavne og flyvepladser i Region Sjælland (Danmark / DK) — ICAO/IATA-koder, by, koordinater (WGS84), højde og tidszone. Udsnit af det nationale flagship-datasæt `da-lufthavne` filtreret på Region Sjælland. (Airports in Region Zealand — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.) Indeholder 10 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Lufthavne — Region Sjælland | ListBase",
+    "seo_description": "Download Lufthavne — Region Sjælland — 10 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 10 poster / 13 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

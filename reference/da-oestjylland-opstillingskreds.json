@@ -1,0 +1,208 @@
+{
+  "id": "da-oestjylland-opstillingskreds",
+  "name": "Opstillingskredse i Østjylland-storkredsen",
+  "title": "Opstillingskredse i Østjylland-storkredsen",
+  "description": "Opstillingskredse i storkredsen Østjylland (i alt 11). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "valgkreds_nr",
+      "label": "Valgkreds Nr",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_id",
+      "label": "Storkreds Id",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_name",
+      "label": "Storkreds Name",
+      "type": "string"
+    },
+    {
+      "key": "landsdel_id",
+      "label": "Landsdel Id",
+      "type": "number"
+    },
+    {
+      "key": "landsdel_name",
+      "label": "Landsdel Name",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "64",
+      "name": "Aarhus Nord",
+      "slug": "aarhus-nord",
+      "valgkreds_nr": "3",
+      "storkreds_id": "8",
+      "storkreds_name": "Østjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "62",
+      "name": "Aarhus Syd",
+      "slug": "aarhus-syd",
+      "valgkreds_nr": "1",
+      "storkreds_id": "8",
+      "storkreds_name": "Østjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "63",
+      "name": "Aarhus Vest",
+      "slug": "aarhus-vest",
+      "valgkreds_nr": "2",
+      "storkreds_id": "8",
+      "storkreds_name": "Østjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "65",
+      "name": "Aarhus Øst",
+      "slug": "aarhus-oest",
+      "valgkreds_nr": "4",
+      "storkreds_id": "8",
+      "storkreds_name": "Østjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "66",
+      "name": "Djurs",
+      "slug": "djurs",
+      "valgkreds_nr": "5",
+      "storkreds_id": "8",
+      "storkreds_name": "Østjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "69",
+      "name": "Favrskov",
+      "slug": "favrskov",
+      "valgkreds_nr": "8",
+      "storkreds_id": "8",
+      "storkreds_name": "Østjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "72",
+      "name": "Hedensted",
+      "slug": "hedensted",
+      "valgkreds_nr": "11",
+      "storkreds_id": "8",
+      "storkreds_name": "Østjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "71",
+      "name": "Horsens",
+      "slug": "horsens",
+      "valgkreds_nr": "10",
+      "storkreds_id": "8",
+      "storkreds_name": "Østjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "67",
+      "name": "Randers Nord",
+      "slug": "randers-nord",
+      "valgkreds_nr": "6",
+      "storkreds_id": "8",
+      "storkreds_name": "Østjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "68",
+      "name": "Randers Syd",
+      "slug": "randers-syd",
+      "valgkreds_nr": "7",
+      "storkreds_id": "8",
+      "storkreds_name": "Østjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "70",
+      "name": "Skanderborg",
+      "slug": "skanderborg",
+      "valgkreds_nr": "9",
+      "storkreds_id": "8",
+      "storkreds_name": "Østjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    }
+  ],
+  "meta": {
+    "title": "Opstillingskredse i Østjylland-storkredsen - Gratis download",
+    "description": "Opstillingskredse i storkredsen Østjylland (i alt 11). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget). Indeholder 11 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Opstillingskredse i Østjylland-storkredsen | ListBase",
+    "seo_description": "Download Opstillingskredse i Østjylland-storkredsen — 11 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 11 poster / 10 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

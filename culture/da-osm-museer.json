@@ -1,0 +1,3022 @@
+{
+  "id": "da-osm-museer",
+  "name": "Museer i Danmark – OpenStreetMap (Museums in Denmark, OSM)",
+  "title": "Museer i Danmark – OpenStreetMap (Museums in Denmark, OSM)",
+  "description": "Liste over 329 museer i Danmark fra OpenStreetMap (anden kilde end det Wikidata-baserede da-museer) — navn, by, koordinater og websted.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 329,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aalborg Forsvars- og Garnisonsmuseum",
+      "name_en": "",
+      "city": "Aalborg",
+      "country": "Denmark",
+      "latitude": 57.056172,
+      "longitude": 9.882878,
+      "website": "http://www.forsvarsmuseum.dk/"
+    },
+    {
+      "name": "Aalborg Historiske Museum",
+      "name_en": "Aalborg Historical Museum",
+      "city": "Aalborg",
+      "country": "Denmark",
+      "latitude": 57.048107,
+      "longitude": 9.917892,
+      "website": "http://www.nordmus.dk/aalborg-historiske-museum"
+    },
+    {
+      "name": "Abelines Gaard",
+      "name_en": "",
+      "city": "Hvide Sande",
+      "country": "Denmark",
+      "latitude": 55.9454,
+      "longitude": 8.156048,
+      "website": ""
+    },
+    {
+      "name": "Alans Rock Universe",
+      "name_en": "",
+      "city": "Skagen",
+      "country": "Denmark",
+      "latitude": 57.72053,
+      "longitude": 10.589101,
+      "website": "http://www.rockandrollmuseum.dk/"
+    },
+    {
+      "name": "Alle tiders Å",
+      "name_en": "",
+      "city": "Skjern",
+      "country": "Denmark",
+      "latitude": 55.948652,
+      "longitude": 8.491435,
+      "website": ""
+    },
+    {
+      "name": "Allerød Kunstforening",
+      "name_en": "",
+      "city": "Lillerød",
+      "country": "Denmark",
+      "latitude": 55.87282,
+      "longitude": 12.34672,
+      "website": "http://www.alleroedkunst.dk/"
+    },
+    {
+      "name": "Als Hjemstavns Museum",
+      "name_en": "",
+      "city": "Hadsund",
+      "country": "Denmark",
+      "latitude": 56.755032,
+      "longitude": 10.29275,
+      "website": ""
+    },
+    {
+      "name": "Andelslandsbyen Nyvang",
+      "name_en": "",
+      "city": "Vipperød",
+      "country": "Denmark",
+      "latitude": 55.693587,
+      "longitude": 11.747039,
+      "website": ""
+    },
+    {
+      "name": "Arbejdermuseet",
+      "name_en": "Worker's Museum",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.684993,
+      "longitude": 12.570289,
+      "website": "http://www.arbejdermuseet.dk/"
+    },
+    {
+      "name": "Asaa Havnemuseum",
+      "name_en": "",
+      "city": "Dronninglund",
+      "country": "Denmark",
+      "latitude": 57.144517,
+      "longitude": 10.424392,
+      "website": ""
+    },
+    {
+      "name": "Askø Museum",
+      "name_en": "",
+      "city": "Maribo",
+      "country": "Denmark",
+      "latitude": 54.896944,
+      "longitude": 11.491629,
+      "website": "http://askoe-museum.dk"
+    },
+    {
+      "name": "Auto Galleriet",
+      "name_en": "",
+      "city": "Gjellerup Kirkeby",
+      "country": "Denmark",
+      "latitude": 56.132777,
+      "longitude": 9.045701,
+      "website": "http://www.autogalleriet.dk/"
+    },
+    {
+      "name": "Ballerup Museum",
+      "name_en": "",
+      "city": "Ballerup",
+      "country": "Denmark",
+      "latitude": 55.734047,
+      "longitude": 12.338384,
+      "website": ""
+    },
+    {
+      "name": "Bangsbo Museum",
+      "name_en": "",
+      "city": "Frederikshavn",
+      "country": "Denmark",
+      "latitude": 57.420205,
+      "longitude": 10.503033,
+      "website": ""
+    },
+    {
+      "name": "Barbie Museum",
+      "name_en": "",
+      "city": "Frederiksberg",
+      "country": "Denmark",
+      "latitude": 55.697266,
+      "longitude": 12.52557,
+      "website": ""
+    },
+    {
+      "name": "Besættelsesmuseet",
+      "name_en": "",
+      "city": "Århus",
+      "country": "Denmark",
+      "latitude": 56.157198,
+      "longitude": 10.211458,
+      "website": "http://www.besaettelsesmuseet.dk/"
+    },
+    {
+      "name": "bogbylangeland.dk",
+      "name_en": "",
+      "city": "Rudkøbing",
+      "country": "Denmark",
+      "latitude": 55.027961,
+      "longitude": 10.885032,
+      "website": "http://bogbylangeland.dk/"
+    },
+    {
+      "name": "Bogtrykmuseet i Esbjerg",
+      "name_en": "",
+      "city": "Esbjerg",
+      "country": "Denmark",
+      "latitude": 55.46491,
+      "longitude": 8.455964,
+      "website": ""
+    },
+    {
+      "name": "Borgmestergården",
+      "name_en": "",
+      "city": "Nyborg",
+      "country": "Denmark",
+      "latitude": 55.311558,
+      "longitude": 10.788519,
+      "website": "http://www.ostfynsmuseer.dk/museer/borgmestergaarden/"
+    },
+    {
+      "name": "Bornholms Automobilmuseum",
+      "name_en": "",
+      "city": "Åkirkeby",
+      "country": "Denmark",
+      "latitude": 55.058582,
+      "longitude": 14.932739,
+      "website": ""
+    },
+    {
+      "name": "Bramming Byhistoriske Arkiv",
+      "name_en": "",
+      "city": "Bramming",
+      "country": "Denmark",
+      "latitude": 55.46661,
+      "longitude": 8.700424,
+      "website": "http://brammingby.dk/"
+    },
+    {
+      "name": "Brede Værk",
+      "name_en": "",
+      "city": "Kongens Lyngby",
+      "country": "Denmark",
+      "latitude": 55.794463,
+      "longitude": 12.499587,
+      "website": ""
+    },
+    {
+      "name": "Bronzealderhuset",
+      "name_en": "",
+      "city": "Vojens",
+      "country": "Denmark",
+      "latitude": 55.238126,
+      "longitude": 9.296817,
+      "website": "http://www.dmol.dk/billede_info.asp?genst_id=19890"
+    },
+    {
+      "name": "Bruunshaab Gamle Papfabrik",
+      "name_en": "",
+      "city": "Viborg",
+      "country": "Denmark",
+      "latitude": 56.422685,
+      "longitude": 9.445533,
+      "website": "http://www.papfabrik.dk/"
+    },
+    {
+      "name": "Bundsbæk Mølle",
+      "name_en": "",
+      "city": "Skjern",
+      "country": "Denmark",
+      "latitude": 56.006752,
+      "longitude": 8.478806,
+      "website": ""
+    },
+    {
+      "name": "Bunker Museum",
+      "name_en": "",
+      "city": "Skagen",
+      "country": "Denmark",
+      "latitude": 57.738898,
+      "longitude": 10.631828,
+      "website": ""
+    },
+    {
+      "name": "Bunker Museum",
+      "name_en": "",
+      "city": "Frederikshavn",
+      "country": "Denmark",
+      "latitude": 57.408595,
+      "longitude": 10.516019,
+      "website": ""
+    },
+    {
+      "name": "Bunkermuseet",
+      "name_en": "",
+      "city": "Frederikshavn",
+      "country": "Denmark",
+      "latitude": 57.459964,
+      "longitude": 10.536425,
+      "website": ""
+    },
+    {
+      "name": "Bunkermuseet",
+      "name_en": "",
+      "city": "Fredericia",
+      "country": "Denmark",
+      "latitude": 55.570199,
+      "longitude": 9.761936,
+      "website": ""
+    },
+    {
+      "name": "Bunkermuseum",
+      "name_en": "",
+      "city": "Hirtshals",
+      "country": "Denmark",
+      "latitude": 57.584845,
+      "longitude": 9.942471,
+      "website": "http://www.hirtshalsbunkermuseum.dk"
+    },
+    {
+      "name": "Bymuseet",
+      "name_en": "",
+      "city": "Fredericia",
+      "country": "Denmark",
+      "latitude": 55.56478,
+      "longitude": 9.744723,
+      "website": ""
+    },
+    {
+      "name": "Bådemotorklubben Columbus",
+      "name_en": "",
+      "city": "Rønne",
+      "country": "Denmark",
+      "latitude": 55.184075,
+      "longitude": 14.702508,
+      "website": ""
+    },
+    {
+      "name": "Børnekulturhuset Fyrtøjet",
+      "name_en": "",
+      "city": "Odense",
+      "country": "Denmark",
+      "latitude": 55.398227,
+      "longitude": 10.389966,
+      "website": "http://www.fyrtoejet.com/html/index.htm"
+    },
+    {
+      "name": "Børnemuseet",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.675401,
+      "longitude": 12.550472,
+      "website": "http://boernemuseet.dk/"
+    },
+    {
+      "name": "Christiansdal Vandkraftanlæg",
+      "name_en": "",
+      "city": "Vojens",
+      "country": "Denmark",
+      "latitude": 55.232913,
+      "longitude": 9.387348,
+      "website": ""
+    },
+    {
+      "name": "Cirkusmuseet",
+      "name_en": "",
+      "city": "Hvidovre",
+      "country": "Denmark",
+      "latitude": 55.632086,
+      "longitude": 12.449214,
+      "website": "http://cirkusmuseet.dk/"
+    },
+    {
+      "name": "Copenhagen Contemporary",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.679098,
+      "longitude": 12.597519,
+      "website": "http://cphco.org"
+    },
+    {
+      "name": "Danmarks Ferguson Museum",
+      "name_en": "",
+      "city": "Juelsminde",
+      "country": "Denmark",
+      "latitude": 55.792505,
+      "longitude": 9.975493,
+      "website": ""
+    },
+    {
+      "name": "Danmarks Flymuseum",
+      "name_en": "",
+      "city": "Ringkøbing",
+      "country": "Denmark",
+      "latitude": 55.991912,
+      "longitude": 8.346647,
+      "website": "http://flymuseum.dk/"
+    },
+    {
+      "name": "Danmarks Fotomuseum",
+      "name_en": "",
+      "city": "Herning",
+      "country": "Denmark",
+      "latitude": 56.132964,
+      "longitude": 8.971729,
+      "website": ""
+    },
+    {
+      "name": "Danmarks Industrimuseum",
+      "name_en": "",
+      "city": "Horsens",
+      "country": "Denmark",
+      "latitude": 55.860708,
+      "longitude": 9.861172,
+      "website": "http://www.industrimuseet.dk/"
+    },
+    {
+      "name": "Danmarks Keramikmuseum, Grimmerhus;CLAY Keramikmuseum Danmark",
+      "name_en": "",
+      "city": "Middelfart",
+      "country": "Denmark",
+      "latitude": 55.50789,
+      "longitude": 9.720229,
+      "website": "http://claymuseum.dk/"
+    },
+    {
+      "name": "Danmarks Lodsmuseum",
+      "name_en": "",
+      "city": "Dragør",
+      "country": "Denmark",
+      "latitude": 55.593524,
+      "longitude": 12.674912,
+      "website": ""
+    },
+    {
+      "name": "Danmarks Museum for Lystsejlads",
+      "name_en": "",
+      "city": "Thurø By",
+      "country": "Denmark",
+      "latitude": 55.022358,
+      "longitude": 10.653279,
+      "website": ""
+    },
+    {
+      "name": "Danmarks Sukkermuseum",
+      "name_en": "",
+      "city": "Nakskov",
+      "country": "Denmark",
+      "latitude": 54.832941,
+      "longitude": 11.149785,
+      "website": "http://www.sukkermuseet.dk/"
+    },
+    {
+      "name": "Dansk Cykel- og Knallertmuseum",
+      "name_en": "",
+      "city": "Frederiksberg",
+      "country": "Denmark",
+      "latitude": 55.356067,
+      "longitude": 11.685495,
+      "website": ""
+    },
+    {
+      "name": "Dansk Jødisk Museum",
+      "name_en": "Danish Jewish Museum",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.674365,
+      "longitude": 12.582303,
+      "website": "http://jewmus.dk/"
+    },
+    {
+      "name": "Dansk Klokkemuseum, Over Lerte Kirke",
+      "name_en": "",
+      "city": "Vamdrup",
+      "country": "Denmark",
+      "latitude": 55.378377,
+      "longitude": 9.277379,
+      "website": "http://www.klokkemuseum.dk/"
+    },
+    {
+      "name": "Dansk Landbrugsmuseum",
+      "name_en": "",
+      "city": "Allingåbro",
+      "country": "Denmark",
+      "latitude": 56.438252,
+      "longitude": 10.342169,
+      "website": "http://www.gl-estrup.dk/dk/forside.aspx"
+    },
+    {
+      "name": "Dansk Nutidsmuseum",
+      "name_en": "",
+      "city": "Aars",
+      "country": "Denmark",
+      "latitude": 56.799418,
+      "longitude": 9.49792,
+      "website": "http://www.dansk-nutidsmuseum.dk/"
+    },
+    {
+      "name": "Dansk Sygeplejehistorisk Museum",
+      "name_en": "",
+      "city": "Sønder Bjert",
+      "country": "Denmark",
+      "latitude": 55.498455,
+      "longitude": 9.552262,
+      "website": ""
+    },
+    {
+      "name": "Daugbjerg Kalkgruber",
+      "name_en": "",
+      "city": "Stoholm",
+      "country": "Denmark",
+      "latitude": 56.442623,
+      "longitude": 9.142352,
+      "website": "http://en.daugbjergkalkgruber.dk/"
+    },
+    {
+      "name": "David Risley Gallery",
+      "name_en": "",
+      "city": "Frederiksberg",
+      "country": "Denmark",
+      "latitude": 55.707612,
+      "longitude": 12.527776,
+      "website": "http://davidrisleygallery.com"
+    },
+    {
+      "name": "Davids Samling",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.684208,
+      "longitude": 12.582253,
+      "website": ""
+    },
+    {
+      "name": "De sorte huse",
+      "name_en": "",
+      "city": "Thyborøn",
+      "country": "Denmark",
+      "latitude": 56.784783,
+      "longitude": 8.235125,
+      "website": ""
+    },
+    {
+      "name": "Dejbjerg Jernalder",
+      "name_en": "",
+      "city": "Skjern",
+      "country": "Denmark",
+      "latitude": 56.004706,
+      "longitude": 8.47739,
+      "website": ""
+    },
+    {
+      "name": "Den Frie Udstilling",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.69139,
+      "longitude": 12.587482,
+      "website": ""
+    },
+    {
+      "name": "Den Gamle Købmandsbutik",
+      "name_en": "",
+      "city": "Ringe",
+      "country": "Denmark",
+      "latitude": 55.177093,
+      "longitude": 10.48701,
+      "website": ""
+    },
+    {
+      "name": "Den Gamle Købmandshandel",
+      "name_en": "",
+      "city": "Nykøbing Falster",
+      "country": "Denmark",
+      "latitude": 54.767143,
+      "longitude": 11.86717,
+      "website": ""
+    },
+    {
+      "name": "Den Gamle Station",
+      "name_en": "",
+      "city": "Allingåbro",
+      "country": "Denmark",
+      "latitude": 56.464036,
+      "longitude": 10.320402,
+      "website": ""
+    },
+    {
+      "name": "Den illegale udstilling - Historisk Samling fra Besættelsestiden",
+      "name_en": "",
+      "city": "Esbjerg",
+      "country": "Denmark",
+      "latitude": 55.49102,
+      "longitude": 8.449572,
+      "website": "http://www.hsb.dk"
+    },
+    {
+      "name": "Designmuseum Danmark",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.686565,
+      "longitude": 12.592861,
+      "website": "http://designmuseum.dk"
+    },
+    {
+      "name": "Det Nationalhistoriske Museum",
+      "name_en": "The Museum of National History",
+      "city": "Hillerød",
+      "country": "Denmark",
+      "latitude": 55.935174,
+      "longitude": 12.301515,
+      "website": "http://www.dnm.dk/"
+    },
+    {
+      "name": "Det Røde Hus",
+      "name_en": "",
+      "city": "Mariager",
+      "country": "Denmark",
+      "latitude": 56.644756,
+      "longitude": 9.999523,
+      "website": ""
+    },
+    {
+      "name": "Det sorte Geomuseum",
+      "name_en": "",
+      "city": "Nykøbing Falster",
+      "country": "Denmark",
+      "latitude": 54.575323,
+      "longitude": 11.935167,
+      "website": "http://www.detsortegeomuseum.dk/"
+    },
+    {
+      "name": "Deutsches Museum",
+      "name_en": "",
+      "city": "Sønderborg",
+      "country": "Denmark",
+      "latitude": 54.913395,
+      "longitude": 9.791879,
+      "website": "http://www.deutsches-museum.dk/"
+    },
+    {
+      "name": "Djursland Jernbanemuseum",
+      "name_en": "",
+      "city": "Ryomgård",
+      "country": "Denmark",
+      "latitude": 56.380356,
+      "longitude": 10.494895,
+      "website": "www.djbm.dk"
+    },
+    {
+      "name": "Djurslands Museum",
+      "name_en": "",
+      "city": "Grenaa",
+      "country": "Denmark",
+      "latitude": 56.41262,
+      "longitude": 10.87598,
+      "website": ""
+    },
+    {
+      "name": "Draculas Krypt",
+      "name_en": "",
+      "city": "Ringe",
+      "country": "Denmark",
+      "latitude": 55.177054,
+      "longitude": 10.486632,
+      "website": ""
+    },
+    {
+      "name": "Dragør Lokalarkiv",
+      "name_en": "",
+      "city": "Dragør",
+      "country": "Denmark",
+      "latitude": 55.595139,
+      "longitude": 12.670209,
+      "website": ""
+    },
+    {
+      "name": "Dragør Museum",
+      "name_en": "",
+      "city": "Dragør",
+      "country": "Denmark",
+      "latitude": 55.593504,
+      "longitude": 12.674789,
+      "website": ""
+    },
+    {
+      "name": "Egnssamlingen",
+      "name_en": "",
+      "city": "Pandrup",
+      "country": "Denmark",
+      "latitude": 57.27186,
+      "longitude": 9.696426,
+      "website": ""
+    },
+    {
+      "name": "Ehlers Samlingen",
+      "name_en": "",
+      "city": "Haderslev",
+      "country": "Denmark",
+      "latitude": 55.249746,
+      "longitude": 9.490749,
+      "website": "http://www.museum-sonderjylland.dk/"
+    },
+    {
+      "name": "Ejbybunkeren",
+      "name_en": "",
+      "city": "Rødovre",
+      "country": "Denmark",
+      "latitude": 55.689249,
+      "longitude": 12.436718,
+      "website": "http://vestvolden.dk/"
+    },
+    {
+      "name": "Else Klugs Cafemuseum",
+      "name_en": "",
+      "city": "Gilleleje",
+      "country": "Denmark",
+      "latitude": 56.123736,
+      "longitude": 12.311706,
+      "website": "http://museumns.dk/udstillinger/udstillingsteder-gilleleje/cafe-klugs-cafe/"
+    },
+    {
+      "name": "Elstrup Mølle",
+      "name_en": "",
+      "city": "Guderup",
+      "country": "Denmark",
+      "latitude": 54.992134,
+      "longitude": 9.891965,
+      "website": ""
+    },
+    {
+      "name": "Elværk",
+      "name_en": "",
+      "city": "Struer",
+      "country": "Denmark",
+      "latitude": 56.646165,
+      "longitude": 8.617988,
+      "website": ""
+    },
+    {
+      "name": "Emborg / Øm Kloster museum",
+      "name_en": "",
+      "city": "Ry",
+      "country": "Denmark",
+      "latitude": 56.052503,
+      "longitude": 9.74997,
+      "website": ""
+    },
+    {
+      "name": "Endelave Museum",
+      "name_en": "",
+      "city": "Odder",
+      "country": "Denmark",
+      "latitude": 55.757964,
+      "longitude": 10.272073,
+      "website": ""
+    },
+    {
+      "name": "Esbjerg Kunstmuseum",
+      "name_en": "",
+      "city": "Esbjerg",
+      "country": "Denmark",
+      "latitude": 55.46424,
+      "longitude": 8.450574,
+      "website": "http://www.eskum.dk"
+    },
+    {
+      "name": "Esbjerg Spejdermuseum",
+      "name_en": "",
+      "city": "Esbjerg",
+      "country": "Denmark",
+      "latitude": 55.496151,
+      "longitude": 8.454935,
+      "website": "http://www.esbjerg-spejdermuseum.dk/"
+    },
+    {
+      "name": "Esehytterne",
+      "name_en": "",
+      "city": "Hvide Sande",
+      "country": "Denmark",
+      "latitude": 55.818593,
+      "longitude": 8.184881,
+      "website": "http://borkguide.dk/da_DK/esehusene-fiskerihistorie-du-kan-gaa-ind-i/"
+    },
+    {
+      "name": "Europæisk Automobilmuseum",
+      "name_en": "",
+      "city": "Neder Holluf",
+      "country": "Denmark",
+      "latitude": 55.373968,
+      "longitude": 10.503115,
+      "website": "http://automuseum.dk/"
+    },
+    {
+      "name": "Faaborg Museum for Fynsk Malerkunst",
+      "name_en": "",
+      "city": "Faaborg",
+      "country": "Denmark",
+      "latitude": 55.094473,
+      "longitude": 10.247066,
+      "website": ""
+    },
+    {
+      "name": "Falkonergården",
+      "name_en": "",
+      "city": "Fredensborg",
+      "country": "Denmark",
+      "latitude": 55.986922,
+      "longitude": 12.422778,
+      "website": ""
+    },
+    {
+      "name": "Faurschou Foundation",
+      "name_en": "",
+      "city": "Charlottenlund",
+      "country": "Denmark",
+      "latitude": 55.71004,
+      "longitude": 12.59949,
+      "website": "http://www.faurschou.com"
+    },
+    {
+      "name": "Ferskvandsmuseet",
+      "name_en": "",
+      "city": "Ry",
+      "country": "Denmark",
+      "latitude": 56.094232,
+      "longitude": 9.754337,
+      "website": "ecomuseum.dk"
+    },
+    {
+      "name": "Fiskerhuset",
+      "name_en": "",
+      "city": "Thyborøn",
+      "country": "Denmark",
+      "latitude": 56.782229,
+      "longitude": 8.237069,
+      "website": ""
+    },
+    {
+      "name": "Fiskeriets Hus",
+      "name_en": "",
+      "city": "Hvide Sande",
+      "country": "Denmark",
+      "latitude": 56.004539,
+      "longitude": 8.12993,
+      "website": ""
+    },
+    {
+      "name": "Fjord & Bælt",
+      "name_en": "",
+      "city": "Kerteminde",
+      "country": "Denmark",
+      "latitude": 55.450173,
+      "longitude": 10.661405,
+      "website": "http://www.fjord-baelt.dk/"
+    },
+    {
+      "name": "Flynderupgaardmuseet",
+      "name_en": "",
+      "city": "Espergærde",
+      "country": "Denmark",
+      "latitude": 56.004359,
+      "longitude": 12.554819,
+      "website": ""
+    },
+    {
+      "name": "Folkestedet",
+      "name_en": "",
+      "city": "Århus",
+      "country": "Denmark",
+      "latitude": 56.155077,
+      "longitude": 10.193907,
+      "website": ""
+    },
+    {
+      "name": "Fonden Brødrene Grams historiske arkiv og museum",
+      "name_en": "",
+      "city": "Vojens",
+      "country": "Denmark",
+      "latitude": 55.243688,
+      "longitude": 9.3023,
+      "website": "http://www.broedrene-gram.dk/"
+    },
+    {
+      "name": "Forstadsmuseet",
+      "name_en": "",
+      "city": "Hvidovre",
+      "country": "Denmark",
+      "latitude": 55.632205,
+      "longitude": 12.448257,
+      "website": "http://forstadsmuseet.dk/"
+    },
+    {
+      "name": "Frilandsgården",
+      "name_en": "",
+      "city": "Randers",
+      "country": "Denmark",
+      "latitude": 56.458158,
+      "longitude": 10.029545,
+      "website": "http://www.regnskoven.dk/besoeg/spis-shop/danmarksparken/"
+    },
+    {
+      "name": "Friluftsmuseet Batteri \"Hanstholm I\"",
+      "name_en": "",
+      "city": "Hanstholm",
+      "country": "Denmark",
+      "latitude": 57.106156,
+      "longitude": 8.586936,
+      "website": ""
+    },
+    {
+      "name": "Frøken Fines Bonbonmuseum",
+      "name_en": "",
+      "city": "Hurup",
+      "country": "Denmark",
+      "latitude": 56.833246,
+      "longitude": 8.346369,
+      "website": ""
+    },
+    {
+      "name": "Fur Museum",
+      "name_en": "",
+      "city": "Nykøbing Mors",
+      "country": "Denmark",
+      "latitude": 56.81676,
+      "longitude": 9.021705,
+      "website": ""
+    },
+    {
+      "name": "Fyns Militærhistorisk Samling",
+      "name_en": "",
+      "city": "Odense",
+      "country": "Denmark",
+      "latitude": 55.384604,
+      "longitude": 10.408297,
+      "website": ""
+    },
+    {
+      "name": "Fængslet",
+      "name_en": "",
+      "city": "Horsens",
+      "country": "Denmark",
+      "latitude": 55.874302,
+      "longitude": 9.836446,
+      "website": "http://www.faengslet.dk/"
+    },
+    {
+      "name": "Gaia Museum Outsider Art",
+      "name_en": "",
+      "city": "Randers",
+      "country": "Denmark",
+      "latitude": 56.46181,
+      "longitude": 10.045919,
+      "website": "http://www.gaiamuseum.dk/"
+    },
+    {
+      "name": "Galleri Christoffer Egelund",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.68714,
+      "longitude": 12.5924,
+      "website": "http://christofferegelund.dk"
+    },
+    {
+      "name": "Galleri Nicolai Wallner",
+      "name_en": "",
+      "city": "Frederiksberg",
+      "country": "Denmark",
+      "latitude": 55.666624,
+      "longitude": 12.539081,
+      "website": "http://nicolaiwallner.com"
+    },
+    {
+      "name": "Gammel Elmegaard",
+      "name_en": "",
+      "city": "Ærøskøbing",
+      "country": "Denmark",
+      "latitude": 54.970495,
+      "longitude": 10.421168,
+      "website": "www.gammelelmegaard.dk"
+    },
+    {
+      "name": "Gammel Havn Museum",
+      "name_en": "",
+      "city": "Nykøbing Mors",
+      "country": "Denmark",
+      "latitude": 56.812795,
+      "longitude": 8.981182,
+      "website": ""
+    },
+    {
+      "name": "Gasmuseet",
+      "name_en": "",
+      "city": "Hobro",
+      "country": "Denmark",
+      "latitude": 56.637434,
+      "longitude": 9.804876,
+      "website": ""
+    },
+    {
+      "name": "Genforenings- og Grænsemuseet",
+      "name_en": "",
+      "city": "Christiansfeld",
+      "country": "Denmark",
+      "latitude": 55.380301,
+      "longitude": 9.481288,
+      "website": "http://www.genforeningsmuseet.dk"
+    },
+    {
+      "name": "Geomuseum Faxe",
+      "name_en": "",
+      "city": "Fakse",
+      "country": "Denmark",
+      "latitude": 55.255656,
+      "longitude": 12.123107,
+      "website": ""
+    },
+    {
+      "name": "Gilleleje Museum",
+      "name_en": "",
+      "city": "Gilleleje",
+      "country": "Denmark",
+      "latitude": 56.125849,
+      "longitude": 12.296056,
+      "website": ""
+    },
+    {
+      "name": "Gjellergaard",
+      "name_en": "",
+      "city": "Lemvig",
+      "country": "Denmark",
+      "latitude": 56.588818,
+      "longitude": 8.291242,
+      "website": "http://www.gjellergaard.dk/"
+    },
+    {
+      "name": "Glasmuseet Ebeltoft",
+      "name_en": "",
+      "city": "Ebeltoft",
+      "country": "Denmark",
+      "latitude": 56.197382,
+      "longitude": 10.673578,
+      "website": ""
+    },
+    {
+      "name": "Glumsø Saw mill",
+      "name_en": "",
+      "city": "Vipperød",
+      "country": "Denmark",
+      "latitude": 55.691519,
+      "longitude": 11.749231,
+      "website": ""
+    },
+    {
+      "name": "Godthaab Hammerværk",
+      "name_en": "",
+      "city": "Svenstrup",
+      "country": "Denmark",
+      "latitude": 56.968537,
+      "longitude": 9.811834,
+      "website": "http://www.godthaab-hammervaerk.dk/"
+    },
+    {
+      "name": "Greve Museum",
+      "name_en": "",
+      "city": "Greve",
+      "country": "Denmark",
+      "latitude": 55.590799,
+      "longitude": 12.252144,
+      "website": "http://www.grevemuseum.dk/"
+    },
+    {
+      "name": "Guinness World Records",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.680168,
+      "longitude": 12.583846,
+      "website": "https://www.ripleys.com/copenhagen/da/guinness-world-records/"
+    },
+    {
+      "name": "Guldborgsund Museum",
+      "name_en": "",
+      "city": "Nykøbing Falster",
+      "country": "Denmark",
+      "latitude": 54.767707,
+      "longitude": 11.866805,
+      "website": ""
+    },
+    {
+      "name": "H. C. Andersens Hus",
+      "name_en": "",
+      "city": "Odense",
+      "country": "Denmark",
+      "latitude": 55.398626,
+      "longitude": 10.390715,
+      "website": ""
+    },
+    {
+      "name": "H.C. Andersen Slottet",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.675013,
+      "longitude": 12.568689,
+      "website": ""
+    },
+    {
+      "name": "Haderslev Bymuseum",
+      "name_en": "",
+      "city": "Haderslev",
+      "country": "Denmark",
+      "latitude": 55.249747,
+      "longitude": 9.490992,
+      "website": "http://www.haderslev-museum.dk/Sider/ANDRE/HadByMuseum.html"
+    },
+    {
+      "name": "Hammershus Udstilling",
+      "name_en": "",
+      "city": "Rønne",
+      "country": "Denmark",
+      "latitude": 55.273191,
+      "longitude": 14.759817,
+      "website": ""
+    },
+    {
+      "name": "Hanne's Hus",
+      "name_en": "",
+      "city": "Nordby",
+      "country": "Denmark",
+      "latitude": 55.348867,
+      "longitude": 8.473303,
+      "website": ""
+    },
+    {
+      "name": "Harmonika Museet",
+      "name_en": "",
+      "city": "Kås",
+      "country": "Denmark",
+      "latitude": 57.154554,
+      "longitude": 9.610669,
+      "website": "http://harmonikamuseet.dk/"
+    },
+    {
+      "name": "Haslev Museum",
+      "name_en": "",
+      "city": "Haslev",
+      "country": "Denmark",
+      "latitude": 55.325626,
+      "longitude": 11.962478,
+      "website": "http://live.www.kalklandet.dk/attraktioner/flere-attraktioner/haslev-museum"
+    },
+    {
+      "name": "Havnemuseum",
+      "name_en": "",
+      "city": "Juelsminde",
+      "country": "Denmark",
+      "latitude": 55.715058,
+      "longitude": 10.015729,
+      "website": ""
+    },
+    {
+      "name": "HEART",
+      "name_en": "",
+      "city": "Gjellerup Kirkeby",
+      "country": "Denmark",
+      "latitude": 56.131838,
+      "longitude": 9.0218,
+      "website": ""
+    },
+    {
+      "name": "Hedvigs Hus",
+      "name_en": "",
+      "city": "Byrum",
+      "country": "Denmark",
+      "latitude": 57.307641,
+      "longitude": 11.125461,
+      "website": "http://www.laesoe-museum.dk/"
+    },
+    {
+      "name": "Helsingør Bymuseum",
+      "name_en": "",
+      "city": "Helsingør",
+      "country": "Denmark",
+      "latitude": 56.036419,
+      "longitude": 12.61258,
+      "website": ""
+    },
+    {
+      "name": "heltborg Museum",
+      "name_en": "",
+      "city": "Hurup",
+      "country": "Denmark",
+      "latitude": 56.752925,
+      "longitude": 8.453791,
+      "website": ""
+    },
+    {
+      "name": "Herning Kunstmuseum",
+      "name_en": "",
+      "city": "Gjellerup Kirkeby",
+      "country": "Denmark",
+      "latitude": 56.13331,
+      "longitude": 9.022428,
+      "website": ""
+    },
+    {
+      "name": "Herning Museum",
+      "name_en": "",
+      "city": "Herning",
+      "country": "Denmark",
+      "latitude": 56.132998,
+      "longitude": 8.972257,
+      "website": ""
+    },
+    {
+      "name": "Herregården Hessel",
+      "name_en": "",
+      "city": "Højslev",
+      "country": "Denmark",
+      "latitude": 56.687858,
+      "longitude": 9.191354,
+      "website": ""
+    },
+    {
+      "name": "Herregården Hessel",
+      "name_en": "",
+      "city": "Højslev",
+      "country": "Denmark",
+      "latitude": 56.687615,
+      "longitude": 9.191585,
+      "website": "http://www.herregaarden-hessel.dk/"
+    },
+    {
+      "name": "Herregårdsmuseet Sæbygård",
+      "name_en": "",
+      "city": "Sæby",
+      "country": "Denmark",
+      "latitude": 57.334102,
+      "longitude": 10.478751,
+      "website": ""
+    },
+    {
+      "name": "Hestestalden",
+      "name_en": "",
+      "city": "Assens",
+      "country": "Denmark",
+      "latitude": 55.312857,
+      "longitude": 9.806522,
+      "website": ""
+    },
+    {
+      "name": "Hindsholm Egnsmuseum",
+      "name_en": "",
+      "city": "Kerteminde",
+      "country": "Denmark",
+      "latitude": 55.54188,
+      "longitude": 10.66095,
+      "website": ""
+    },
+    {
+      "name": "Historiestalden",
+      "name_en": "",
+      "city": "Skælskør",
+      "country": "Denmark",
+      "latitude": 55.213221,
+      "longitude": 11.189536,
+      "website": "http://www.agersoe-moelle.dk/index-filer/Page434.htm"
+    },
+    {
+      "name": "Hjorths Fabrik",
+      "name_en": "",
+      "city": "Rønne",
+      "country": "Denmark",
+      "latitude": 55.102661,
+      "longitude": 14.696622,
+      "website": ""
+    },
+    {
+      "name": "Hjortsvang Museum",
+      "name_en": "",
+      "city": "Tørring",
+      "country": "Denmark",
+      "latitude": 55.887713,
+      "longitude": 9.50063,
+      "website": "http://www.hjortsvangmuseum.dk/"
+    },
+    {
+      "name": "Holbæk Museum",
+      "name_en": "",
+      "city": "Holbæk",
+      "country": "Denmark",
+      "latitude": 55.716392,
+      "longitude": 11.712547,
+      "website": ""
+    },
+    {
+      "name": "Holstebro Kunstmuseum",
+      "name_en": "",
+      "city": "Holstebro",
+      "country": "Denmark",
+      "latitude": 56.354464,
+      "longitude": 8.621088,
+      "website": ""
+    },
+    {
+      "name": "Holstebro Museum",
+      "name_en": "",
+      "city": "Holstebro",
+      "country": "Denmark",
+      "latitude": 56.353879,
+      "longitude": 8.620752,
+      "website": ""
+    },
+    {
+      "name": "Horserødlejrens Museum",
+      "name_en": "",
+      "city": "Hornbæk",
+      "country": "Denmark",
+      "latitude": 56.046249,
+      "longitude": 12.493819,
+      "website": ""
+    },
+    {
+      "name": "Husmandsstedet",
+      "name_en": "",
+      "city": "Hillerød",
+      "country": "Denmark",
+      "latitude": 55.9525,
+      "longitude": 12.26476,
+      "website": ""
+    },
+    {
+      "name": "Hygum Kunstmuseum",
+      "name_en": "",
+      "city": "Harboøre",
+      "country": "Denmark",
+      "latitude": 56.592262,
+      "longitude": 8.221251,
+      "website": "http://hygumkunstmuseum.dk"
+    },
+    {
+      "name": "Hørvævsmuseet",
+      "name_en": "",
+      "city": "Glamsbjerg",
+      "country": "Denmark",
+      "latitude": 55.309707,
+      "longitude": 10.116482,
+      "website": ""
+    },
+    {
+      "name": "Hørvævsmuseet",
+      "name_en": "",
+      "city": "Glamsbjerg",
+      "country": "Denmark",
+      "latitude": 55.312297,
+      "longitude": 10.092525,
+      "website": "http://hvm-krengerup.dk/"
+    },
+    {
+      "name": "I. C. Christensens Hus",
+      "name_en": "",
+      "city": "Ringkøbing",
+      "country": "Denmark",
+      "latitude": 56.145626,
+      "longitude": 8.282631,
+      "website": "http://www.jcchristensen.dk/"
+    },
+    {
+      "name": "Industriemuseum Kupfermühle",
+      "name_en": "",
+      "city": "Kruså",
+      "country": "Denmark",
+      "latitude": 54.837632,
+      "longitude": 9.415599,
+      "website": ""
+    },
+    {
+      "name": "Integrationsmuseet",
+      "name_en": "",
+      "city": "Farum",
+      "country": "Denmark",
+      "latitude": 55.814248,
+      "longitude": 12.377721,
+      "website": ""
+    },
+    {
+      "name": "Isbådsmuseet",
+      "name_en": "",
+      "city": "Korsør",
+      "country": "Denmark",
+      "latitude": 55.34855,
+      "longitude": 11.094837,
+      "website": "http://www.byogoverfartsmuseet.dk/video/video1/isbaad.htm"
+    },
+    {
+      "name": "J. F. Willumsens Museum",
+      "name_en": "",
+      "city": "Frederikssund",
+      "country": "Denmark",
+      "latitude": 55.844778,
+      "longitude": 12.05096,
+      "website": "http://www.jfwillumsensmuseum.dk/"
+    },
+    {
+      "name": "Jagt- og Skovbrugsmuseet\nDorf Møllegård",
+      "name_en": "",
+      "city": "Dronninglund",
+      "country": "Denmark",
+      "latitude": 57.221361,
+      "longitude": 10.283871,
+      "website": "http://www.bkmuseer.dk/Dorf_M%C3%B8lleg%C3%A5rd.asp"
+    },
+    {
+      "name": "Janus Kunstmuseum",
+      "name_en": "",
+      "city": "Ølgod",
+      "country": "Denmark",
+      "latitude": 55.719941,
+      "longitude": 8.607731,
+      "website": ""
+    },
+    {
+      "name": "Jenle",
+      "name_en": "",
+      "city": "Højslev",
+      "country": "Denmark",
+      "latitude": 56.665283,
+      "longitude": 9.087291,
+      "website": "http://www.jenle.dk/"
+    },
+    {
+      "name": "Jens Nielsen & Olivia Holm-Møller Museet",
+      "name_en": "",
+      "city": "Holstebro",
+      "country": "Denmark",
+      "latitude": 56.36424,
+      "longitude": 8.61122,
+      "website": ""
+    },
+    {
+      "name": "Jernbanemuseet Gedser Remise",
+      "name_en": "",
+      "city": "Nykøbing Falster",
+      "country": "Denmark",
+      "latitude": 54.575361,
+      "longitude": 11.925511,
+      "website": ""
+    },
+    {
+      "name": "Johannes Larsen Museet",
+      "name_en": "",
+      "city": "Kerteminde",
+      "country": "Denmark",
+      "latitude": 55.45584,
+      "longitude": 10.661245,
+      "website": "http://www.johanneslarsenmuseet.dk/"
+    },
+    {
+      "name": "Jysk Automobilmuseum",
+      "name_en": "",
+      "city": "Hammel",
+      "country": "Denmark",
+      "latitude": 56.226873,
+      "longitude": 9.742597,
+      "website": ""
+    },
+    {
+      "name": "Jónshús",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.68921,
+      "longitude": 12.58231,
+      "website": ""
+    },
+    {
+      "name": "Kalundborg Museum",
+      "name_en": "",
+      "city": "Kalundborg",
+      "country": "Denmark",
+      "latitude": 55.681038,
+      "longitude": 11.07961,
+      "website": "http://www.kalmus.dk/"
+    },
+    {
+      "name": "Kappel Stubmølle",
+      "name_en": "",
+      "city": "Nakskov",
+      "country": "Denmark",
+      "latitude": 54.774037,
+      "longitude": 11.036232,
+      "website": "http://www.kappelstubml.dk/"
+    },
+    {
+      "name": "Karen Blixen Museet",
+      "name_en": "",
+      "city": "Hørsholm",
+      "country": "Denmark",
+      "latitude": 55.883311,
+      "longitude": 12.543445,
+      "website": ""
+    },
+    {
+      "name": "Kirsten Kjærs Museum",
+      "name_en": "",
+      "city": "Thisted",
+      "country": "Denmark",
+      "latitude": 57.075405,
+      "longitude": 8.957999,
+      "website": ""
+    },
+    {
+      "name": "Klim Kalkovn",
+      "name_en": "",
+      "city": "Fjerritslev",
+      "country": "Denmark",
+      "latitude": 57.103829,
+      "longitude": 9.170438,
+      "website": ""
+    },
+    {
+      "name": "Klostermølle",
+      "name_en": "",
+      "city": "Ry",
+      "country": "Denmark",
+      "latitude": 56.039912,
+      "longitude": 9.693741,
+      "website": ""
+    },
+    {
+      "name": "Koldkrigsmuseum Langelandsfort",
+      "name_en": "",
+      "city": "Rudkøbing",
+      "country": "Denmark",
+      "latitude": 54.752885,
+      "longitude": 10.715857,
+      "website": "http://www.langelandsfortet.dk/"
+    },
+    {
+      "name": "Koldkrigsmuseum Stevnsfort",
+      "name_en": "",
+      "city": "Store Heddinge",
+      "country": "Denmark",
+      "latitude": 55.26581,
+      "longitude": 12.410555,
+      "website": ""
+    },
+    {
+      "name": "Kongernes Lapidarium",
+      "name_en": "The Lapidarium of Kings",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.673127,
+      "longitude": 12.57974,
+      "website": "http://www.kongerneslapidarium.dk/"
+    },
+    {
+      "name": "Kongernes Samling Amalienborg",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.684455,
+      "longitude": 12.592452,
+      "website": ""
+    },
+    {
+      "name": "Kongernes Samling Rosenborg",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.68583,
+      "longitude": 12.577343,
+      "website": ""
+    },
+    {
+      "name": "Kongsgaarden",
+      "name_en": "",
+      "city": "Frederiksberg",
+      "country": "Denmark",
+      "latitude": 55.381201,
+      "longitude": 11.62325,
+      "website": ""
+    },
+    {
+      "name": "Kramboden",
+      "name_en": "",
+      "city": "Odense",
+      "country": "Denmark",
+      "latitude": 55.397171,
+      "longitude": 10.393358,
+      "website": ""
+    },
+    {
+      "name": "Krudtværksmuseet",
+      "name_en": "",
+      "city": "Frederiksværk",
+      "country": "Denmark",
+      "latitude": 55.975328,
+      "longitude": 12.018049,
+      "website": ""
+    },
+    {
+      "name": "KTAS phone museum",
+      "name_en": "",
+      "city": "Vipperød",
+      "country": "Denmark",
+      "latitude": 55.694107,
+      "longitude": 11.748119,
+      "website": ""
+    },
+    {
+      "name": "KTASspolehus",
+      "name_en": "",
+      "city": "Vipperød",
+      "country": "Denmark",
+      "latitude": 55.695686,
+      "longitude": 11.743492,
+      "website": ""
+    },
+    {
+      "name": "Kunsthal Brænderigården",
+      "name_en": "",
+      "city": "Viborg",
+      "country": "Denmark",
+      "latitude": 56.44993,
+      "longitude": 9.415748,
+      "website": ""
+    },
+    {
+      "name": "Kvindemuseet",
+      "name_en": "",
+      "city": "Århus",
+      "country": "Denmark",
+      "latitude": 56.157201,
+      "longitude": 10.211395,
+      "website": "http://www.kvindemuseet.dk/"
+    },
+    {
+      "name": "Københavns Museum",
+      "name_en": "Museum of Copenhagen",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.672151,
+      "longitude": 12.553496,
+      "website": "http://www.copenhagen.dk/"
+    },
+    {
+      "name": "Købmandsgården",
+      "name_en": "",
+      "city": "Roskilde",
+      "country": "Denmark",
+      "latitude": 55.640045,
+      "longitude": 12.07573,
+      "website": ""
+    },
+    {
+      "name": "Ladbyskibet",
+      "name_en": "",
+      "city": "Kerteminde",
+      "country": "Denmark",
+      "latitude": 55.445262,
+      "longitude": 10.615153,
+      "website": ""
+    },
+    {
+      "name": "Landbrugsmuseet",
+      "name_en": "",
+      "city": "Kolding",
+      "country": "Denmark",
+      "latitude": 55.515854,
+      "longitude": 9.388147,
+      "website": ""
+    },
+    {
+      "name": "Landbrugsmuseet Fløjgården",
+      "name_en": "",
+      "city": "Gørlev",
+      "country": "Denmark",
+      "latitude": 55.528849,
+      "longitude": 11.146519,
+      "website": "http://www.flojgaarden-landbrugsmuseet.dk/i"
+    },
+    {
+      "name": "Landskabs- og Landbrugsmuseet i Mosbjerg",
+      "name_en": "",
+      "city": "Sindal",
+      "country": "Denmark",
+      "latitude": 57.504658,
+      "longitude": 10.299506,
+      "website": ""
+    },
+    {
+      "name": "Landskabsudstilling i Slusehuset",
+      "name_en": "",
+      "city": "Kolding",
+      "country": "Denmark",
+      "latitude": 55.536309,
+      "longitude": 9.399416,
+      "website": ""
+    },
+    {
+      "name": "Langelands Museum",
+      "name_en": "",
+      "city": "Rudkøbing",
+      "country": "Denmark",
+      "latitude": 54.935796,
+      "longitude": 10.713674,
+      "website": ""
+    },
+    {
+      "name": "Langelands museum",
+      "name_en": "",
+      "city": "Rudkøbing",
+      "country": "Denmark",
+      "latitude": 54.934302,
+      "longitude": 10.718072,
+      "website": ""
+    },
+    {
+      "name": "Lodsstationen",
+      "name_en": "",
+      "city": "Dragør",
+      "country": "Denmark",
+      "latitude": 55.593448,
+      "longitude": 12.675496,
+      "website": ""
+    },
+    {
+      "name": "Lokalhistorisk Samling",
+      "name_en": "",
+      "city": "Rødovre",
+      "country": "Denmark",
+      "latitude": 55.682717,
+      "longitude": 12.467294,
+      "website": ""
+    },
+    {
+      "name": "Lyø Søfartsmuseum",
+      "name_en": "",
+      "city": "Faaborg",
+      "country": "Denmark",
+      "latitude": 55.044555,
+      "longitude": 10.154525,
+      "website": ""
+    },
+    {
+      "name": "Læsø Museum",
+      "name_en": "",
+      "city": "Byrum",
+      "country": "Denmark",
+      "latitude": 57.293525,
+      "longitude": 10.923521,
+      "website": "http://www.laesoe-museum.dk/"
+    },
+    {
+      "name": "Læsø Museum",
+      "name_en": "",
+      "city": "Byrum",
+      "country": "Denmark",
+      "latitude": 57.30778,
+      "longitude": 11.146821,
+      "website": "http://www.laesoe-museum.dk/"
+    },
+    {
+      "name": "Læsø Sydesalt",
+      "name_en": "Læsø Salt Museum",
+      "city": "Byrum",
+      "country": "Denmark",
+      "latitude": 57.239583,
+      "longitude": 10.990124,
+      "website": "http://www.saltsyderiet.dk"
+    },
+    {
+      "name": "LØVEN bilmuseum",
+      "name_en": "",
+      "city": "Skjern",
+      "country": "Denmark",
+      "latitude": 55.956253,
+      "longitude": 8.488702,
+      "website": ""
+    },
+    {
+      "name": "M/S Museet for Søfart",
+      "name_en": "",
+      "city": "Helsingør",
+      "country": "Denmark",
+      "latitude": 56.039164,
+      "longitude": 12.615389,
+      "website": "http://mfs.dk/"
+    },
+    {
+      "name": "Magasin du Nord Museum",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.678754,
+      "longitude": 12.58401,
+      "website": "http://magasinmuseum.dk"
+    },
+    {
+      "name": "Malergården",
+      "name_en": "",
+      "city": "Holbæk",
+      "country": "Denmark",
+      "latitude": 55.789583,
+      "longitude": 11.622906,
+      "website": "http://www.vestmuseum.dk/Default.aspx?AreaID=10"
+    },
+    {
+      "name": "Mariager Museum",
+      "name_en": "",
+      "city": "Mariager",
+      "country": "Denmark",
+      "latitude": 56.6501,
+      "longitude": 9.982014,
+      "website": ""
+    },
+    {
+      "name": "Mariager Saltcenter",
+      "name_en": "",
+      "city": "Mariager",
+      "country": "Denmark",
+      "latitude": 56.654088,
+      "longitude": 9.979503,
+      "website": ""
+    },
+    {
+      "name": "Marielyst Sportscars",
+      "name_en": "",
+      "city": "Nykøbing Falster",
+      "country": "Denmark",
+      "latitude": 54.704172,
+      "longitude": 11.94469,
+      "website": ""
+    },
+    {
+      "name": "Marstal Søfartsmuseum",
+      "name_en": "",
+      "city": "Marstal",
+      "country": "Denmark",
+      "latitude": 54.853999,
+      "longitude": 10.521089,
+      "website": "http://www.marstal-maritime-museum.dk/"
+    },
+    {
+      "name": "Medicinsk Museion",
+      "name_en": "Medical Museion",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.685958,
+      "longitude": 12.591896,
+      "website": "http://www.museion.ku.dk"
+    },
+    {
+      "name": "Mekanisk Museum",
+      "name_en": "",
+      "city": "Kruså",
+      "country": "Denmark",
+      "latitude": 54.902431,
+      "longitude": 9.475843,
+      "website": "http://www.mekanisk-museum.dk/"
+    },
+    {
+      "name": "Middelalderlandsbyen",
+      "name_en": "",
+      "city": "Brøndbyvester",
+      "country": "Denmark",
+      "latitude": 55.632885,
+      "longitude": 12.409046,
+      "website": "http://www.middelalderlandsbyen.dk/"
+    },
+    {
+      "name": "Middelfart Museum",
+      "name_en": "",
+      "city": "Middelfart",
+      "country": "Denmark",
+      "latitude": 55.506233,
+      "longitude": 9.728231,
+      "website": "http://www.middelfart-museum.dk/"
+    },
+    {
+      "name": "Midt- og Vestjyllands Jernbanemuseum",
+      "name_en": "",
+      "city": "Struer",
+      "country": "Denmark",
+      "latitude": 56.492163,
+      "longitude": 8.600459,
+      "website": ""
+    },
+    {
+      "name": "Militærhistorisk Museum",
+      "name_en": "",
+      "city": "Ebeltoft",
+      "country": "Denmark",
+      "latitude": 56.194805,
+      "longitude": 10.676818,
+      "website": ""
+    },
+    {
+      "name": "Modeudstilling",
+      "name_en": "",
+      "city": "Ringe",
+      "country": "Denmark",
+      "latitude": 55.175945,
+      "longitude": 10.489409,
+      "website": ""
+    },
+    {
+      "name": "Moesgård Skovmølle",
+      "name_en": "",
+      "city": "Beder",
+      "country": "Denmark",
+      "latitude": 56.084528,
+      "longitude": 10.234881,
+      "website": ""
+    },
+    {
+      "name": "Morten Korch Museet",
+      "name_en": "",
+      "city": "Karup",
+      "country": "Denmark",
+      "latitude": 56.367431,
+      "longitude": 9.209484,
+      "website": "http://www.mortenkorchmuseet.dk/"
+    },
+    {
+      "name": "Museet for Religiøs Kunst",
+      "name_en": "",
+      "city": "Lemvig",
+      "country": "Denmark",
+      "latitude": 56.552798,
+      "longitude": 8.296306,
+      "website": "http://www.mfrk.dk/"
+    },
+    {
+      "name": "Museet for Samtidskunst",
+      "name_en": "",
+      "city": "Roskilde",
+      "country": "Denmark",
+      "latitude": 55.64252,
+      "longitude": 12.081782,
+      "website": ""
+    },
+    {
+      "name": "Museumscenter Blåvand",
+      "name_en": "",
+      "city": "Oksbøl",
+      "country": "Denmark",
+      "latitude": 55.550959,
+      "longitude": 8.172347,
+      "website": ""
+    },
+    {
+      "name": "Museumscenter Hanstholm",
+      "name_en": "",
+      "city": "Hanstholm",
+      "country": "Denmark",
+      "latitude": 57.12083,
+      "longitude": 8.616758,
+      "website": "http://www.museumscenterhanstholm.dk"
+    },
+    {
+      "name": "Museumsfyrskibet Horns Rev",
+      "name_en": "",
+      "city": "Esbjerg",
+      "country": "Denmark",
+      "latitude": 55.473772,
+      "longitude": 8.425753,
+      "website": "http://www.horns-rev.dk"
+    },
+    {
+      "name": "Museumsgården Karensminde",
+      "name_en": "",
+      "city": "Grindsted",
+      "country": "Denmark",
+      "latitude": 55.757837,
+      "longitude": 8.87062,
+      "website": ""
+    },
+    {
+      "name": "Museumshavn",
+      "name_en": "",
+      "city": "Kerteminde",
+      "country": "Denmark",
+      "latitude": 55.449079,
+      "longitude": 10.662572,
+      "website": ""
+    },
+    {
+      "name": "Musikmuseet",
+      "name_en": "The Danish Music Museum",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.682238,
+      "longitude": 12.5524,
+      "website": ""
+    },
+    {
+      "name": "Møntergården",
+      "name_en": "",
+      "city": "Odense",
+      "country": "Denmark",
+      "latitude": 55.397992,
+      "longitude": 10.394052,
+      "website": "museum.odense.dk"
+    },
+    {
+      "name": "Nationalmuseet",
+      "name_en": "The National Museum of Denmark",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.674425,
+      "longitude": 12.574644,
+      "website": "http://www.natmus.dk/"
+    },
+    {
+      "name": "Natur & Kultur formidlingscenter - Myrthuegård",
+      "name_en": "",
+      "city": "Oksbøl",
+      "country": "Denmark",
+      "latitude": 55.571894,
+      "longitude": 8.308842,
+      "website": ""
+    },
+    {
+      "name": "Naturcenter Skjern Enge",
+      "name_en": "",
+      "city": "Skjern",
+      "country": "Denmark",
+      "latitude": 55.905648,
+      "longitude": 8.398533,
+      "website": ""
+    },
+    {
+      "name": "Naturudstilling",
+      "name_en": "",
+      "city": "Holsted",
+      "country": "Denmark",
+      "latitude": 55.608612,
+      "longitude": 8.934976,
+      "website": ""
+    },
+    {
+      "name": "Nimbus Museet",
+      "name_en": "",
+      "city": "Horsens",
+      "country": "Denmark",
+      "latitude": 55.859915,
+      "longitude": 9.861801,
+      "website": ""
+    },
+    {
+      "name": "Nivaagaards Malerisamling",
+      "name_en": "",
+      "city": "Nivå",
+      "country": "Denmark",
+      "latitude": 55.927088,
+      "longitude": 12.510904,
+      "website": ""
+    },
+    {
+      "name": "Nordatlantens Brygge",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.677599,
+      "longitude": 12.596675,
+      "website": "http://www.nordatlantens.dk/"
+    },
+    {
+      "name": "Nordfyns Museum",
+      "name_en": "",
+      "city": "Bogense",
+      "country": "Denmark",
+      "latitude": 55.565011,
+      "longitude": 10.086252,
+      "website": ""
+    },
+    {
+      "name": "Nordsø Akvariet",
+      "name_en": "",
+      "city": "Hurup",
+      "country": "Denmark",
+      "latitude": 56.958363,
+      "longitude": 8.367344,
+      "website": "http://north-sea.dk/"
+    },
+    {
+      "name": "Nordsømuseet",
+      "name_en": "",
+      "city": "Hirtshals",
+      "country": "Denmark",
+      "latitude": 57.58669,
+      "longitude": 9.980224,
+      "website": ""
+    },
+    {
+      "name": "Nyboder Mindestuer",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.687371,
+      "longitude": 12.588053,
+      "website": ""
+    },
+    {
+      "name": "Nygaards Afrika",
+      "name_en": "",
+      "city": "Oksbøl",
+      "country": "Denmark",
+      "latitude": 55.805019,
+      "longitude": 8.344473,
+      "website": "http://www.nygaardsafrika.dk/"
+    },
+    {
+      "name": "Nykøbing F Brandmuseum",
+      "name_en": "",
+      "city": "Nykøbing Falster",
+      "country": "Denmark",
+      "latitude": 54.763283,
+      "longitude": 11.870991,
+      "website": "http://www.brandmuseet.dk/"
+    },
+    {
+      "name": "Nykøbing Falster Frisørmuseum",
+      "name_en": "",
+      "city": "Nykøbing Falster",
+      "country": "Denmark",
+      "latitude": 54.76344,
+      "longitude": 11.870883,
+      "website": "http://www.frisoermuseet.dk/"
+    },
+    {
+      "name": "Nymindegab Museum",
+      "name_en": "",
+      "city": "Hvide Sande",
+      "country": "Denmark",
+      "latitude": 55.816957,
+      "longitude": 8.19736,
+      "website": ""
+    },
+    {
+      "name": "Nymindegab Redningsstation",
+      "name_en": "",
+      "city": "Hvide Sande",
+      "country": "Denmark",
+      "latitude": 55.810864,
+      "longitude": 8.189987,
+      "website": ""
+    },
+    {
+      "name": "Nyord Lodseri",
+      "name_en": "",
+      "city": "Stege",
+      "country": "Denmark",
+      "latitude": 55.042494,
+      "longitude": 12.191828,
+      "website": ""
+    },
+    {
+      "name": "Næstved Automobilmuseum",
+      "name_en": "",
+      "city": "Næstved",
+      "country": "Denmark",
+      "latitude": 55.227769,
+      "longitude": 11.752491,
+      "website": "http://www.naestvedautomobilmuseum.dk/"
+    },
+    {
+      "name": "Odense Bunkermuseum",
+      "name_en": "",
+      "city": "Odense",
+      "country": "Denmark",
+      "latitude": 55.385383,
+      "longitude": 10.407669,
+      "website": ""
+    },
+    {
+      "name": "Ollerup Bunker Museum",
+      "name_en": "",
+      "city": "Svendborg",
+      "country": "Denmark",
+      "latitude": 55.070147,
+      "longitude": 10.512735,
+      "website": ""
+    },
+    {
+      "name": "Oluf Høst Museet",
+      "name_en": "",
+      "city": "Åkirkeby",
+      "country": "Denmark",
+      "latitude": 55.213683,
+      "longitude": 14.966533,
+      "website": "http://www.ohmus.dk/"
+    },
+    {
+      "name": "Oplevelsescenter Vestvolden Artillerimagasinet",
+      "name_en": "",
+      "city": "Rødovre",
+      "country": "Denmark",
+      "latitude": 55.6881,
+      "longitude": 12.436139,
+      "website": "http://vestvolden.dk/"
+    },
+    {
+      "name": "Orlogsmuseet",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.674126,
+      "longitude": 12.594705,
+      "website": "www.orlogsmuseet.dk/"
+    },
+    {
+      "name": "Overgaden",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.672468,
+      "longitude": 12.590195,
+      "website": "http://www.overgaden.org/"
+    },
+    {
+      "name": "Papirmuseet",
+      "name_en": "",
+      "city": "Silkeborg",
+      "country": "Denmark",
+      "latitude": 56.17066,
+      "longitude": 9.55538,
+      "website": ""
+    },
+    {
+      "name": "Politihistorisk Museum",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.690031,
+      "longitude": 12.560847,
+      "website": ""
+    },
+    {
+      "name": "Poul la Cour Museet",
+      "name_en": "",
+      "city": "Vejen",
+      "country": "Denmark",
+      "latitude": 55.467382,
+      "longitude": 9.09946,
+      "website": ""
+    },
+    {
+      "name": "Radio",
+      "name_en": "",
+      "city": "Nykøbing Mors",
+      "country": "Denmark",
+      "latitude": 56.88918,
+      "longitude": 8.793937,
+      "website": ""
+    },
+    {
+      "name": "RAGNAROCK",
+      "name_en": "",
+      "city": "Roskilde",
+      "country": "Denmark",
+      "latitude": 55.628112,
+      "longitude": 12.082609,
+      "website": "http://museumragnarock.dk/"
+    },
+    {
+      "name": "Randbøldal Museet",
+      "name_en": "",
+      "city": "Egtved",
+      "country": "Denmark",
+      "latitude": 55.692345,
+      "longitude": 9.265499,
+      "website": ""
+    },
+    {
+      "name": "Ravhuset",
+      "name_en": "",
+      "city": "Thyborøn",
+      "country": "Denmark",
+      "latitude": 56.706015,
+      "longitude": 8.217597,
+      "website": "ravhuset-thyboroen.dk"
+    },
+    {
+      "name": "Rebild Spillemands-,\nJagt og Skovbrugsmuseum",
+      "name_en": "",
+      "city": "Skørping",
+      "country": "Denmark",
+      "latitude": 56.831321,
+      "longitude": 9.843914,
+      "website": "http://www.rebildspillemaendene.dk/museum.htm"
+    },
+    {
+      "name": "Reersø Amerikanerbil Museum",
+      "name_en": "",
+      "city": "Gørlev",
+      "country": "Denmark",
+      "latitude": 55.52606,
+      "longitude": 11.110969,
+      "website": "http://mikael83.wix.com/reersoeamerikaner"
+    },
+    {
+      "name": "Retroworld",
+      "name_en": "",
+      "city": "Hadsten",
+      "country": "Denmark",
+      "latitude": 56.351059,
+      "longitude": 9.991082,
+      "website": "http://retroworld.dk/"
+    },
+    {
+      "name": "Reventlow-Museet Pederstrup",
+      "name_en": "",
+      "city": "Nakskov",
+      "country": "Denmark",
+      "latitude": 54.895825,
+      "longitude": 11.265524,
+      "website": "http://www.aabne-samlinger.dk/museumlollandfalster/"
+    },
+    {
+      "name": "Ringridermuseet",
+      "name_en": "",
+      "city": "Sønderborg",
+      "country": "Denmark",
+      "latitude": 54.910934,
+      "longitude": 9.787767,
+      "website": "http://www.ringridermuseet.dk/"
+    },
+    {
+      "name": "Ringsted Radiomuseum",
+      "name_en": "",
+      "city": "Ringsted",
+      "country": "Denmark",
+      "latitude": 55.44303,
+      "longitude": 11.792313,
+      "website": "http://www.ringsted-radiomuseum.dk/"
+    },
+    {
+      "name": "Ripley's Believe It or Not",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.676324,
+      "longitude": 12.56995,
+      "website": ""
+    },
+    {
+      "name": "Roskilde Museum",
+      "name_en": "",
+      "city": "Roskilde",
+      "country": "Denmark",
+      "latitude": 55.642556,
+      "longitude": 12.083329,
+      "website": ""
+    },
+    {
+      "name": "Roskilde Museum - Tadre Mølle",
+      "name_en": "",
+      "city": "Tølløse",
+      "country": "Denmark",
+      "latitude": 55.614644,
+      "longitude": 11.813079,
+      "website": ""
+    },
+    {
+      "name": "Sagnlandet Lejre",
+      "name_en": "",
+      "city": "Lejre",
+      "country": "Denmark",
+      "latitude": 55.615395,
+      "longitude": 11.943026,
+      "website": "http://www.sagnlandet.dk/"
+    },
+    {
+      "name": "Sallingsund og Omegns Museum",
+      "name_en": "",
+      "city": "Nykøbing Mors",
+      "country": "Denmark",
+      "latitude": 56.762469,
+      "longitude": 8.868015,
+      "website": "http://www.museumsallingsund.dk"
+    },
+    {
+      "name": "Samsø Austin Museum",
+      "name_en": "",
+      "city": "Tranebjerg",
+      "country": "Denmark",
+      "latitude": 55.846333,
+      "longitude": 10.624315,
+      "website": "http://www.austinmuseum.dk"
+    },
+    {
+      "name": "Samsø Økomuseum",
+      "name_en": "",
+      "city": "Tranebjerg",
+      "country": "Denmark",
+      "latitude": 55.83381,
+      "longitude": 10.59144,
+      "website": ""
+    },
+    {
+      "name": "Sea War Museum Jutland",
+      "name_en": "",
+      "city": "Thyborøn",
+      "country": "Denmark",
+      "latitude": 56.706744,
+      "longitude": 8.21552,
+      "website": "http://www.seawarmuseum.dk/"
+    },
+    {
+      "name": "Skagen Bamsemuseum",
+      "name_en": "",
+      "city": "Skagen",
+      "country": "Denmark",
+      "latitude": 57.725765,
+      "longitude": 10.597743,
+      "website": ""
+    },
+    {
+      "name": "Skagen Odde Naturcenter",
+      "name_en": "",
+      "city": "Skagen",
+      "country": "Denmark",
+      "latitude": 57.739902,
+      "longitude": 10.59536,
+      "website": "http://www.skagen-natur.dk/"
+    },
+    {
+      "name": "Skanderborg Frihedsmuseum",
+      "name_en": "",
+      "city": "Skanderborg",
+      "country": "Denmark",
+      "latitude": 56.02152,
+      "longitude": 9.918059,
+      "website": ""
+    },
+    {
+      "name": "Skodamuseet",
+      "name_en": "",
+      "city": "Glamsbjerg",
+      "country": "Denmark",
+      "latitude": 55.309493,
+      "longitude": 10.116916,
+      "website": ""
+    },
+    {
+      "name": "Skuldelev Dukkemuseum og Legetøjssamling",
+      "name_en": "",
+      "city": "Skibby",
+      "country": "Denmark",
+      "latitude": 55.783232,
+      "longitude": 12.017953,
+      "website": "http://www.skuldelev-dukkemuseum.dk/"
+    },
+    {
+      "name": "Skærbæk Fiskerisamling",
+      "name_en": "",
+      "city": "Taulov",
+      "country": "Denmark",
+      "latitude": 55.513526,
+      "longitude": 9.628474,
+      "website": ""
+    },
+    {
+      "name": "Slagmarken ved Nyborg - Danmark og Sverige 1659 /v. Nyborg Slot",
+      "name_en": "",
+      "city": "Nyborg",
+      "country": "Denmark",
+      "latitude": 55.320922,
+      "longitude": 10.765123,
+      "website": ""
+    },
+    {
+      "name": "Slesvigske Vognsamling",
+      "name_en": "",
+      "city": "Haderslev",
+      "country": "Denmark",
+      "latitude": 55.252578,
+      "longitude": 9.4739,
+      "website": "http://www.museum-sonderjylland.dk/"
+    },
+    {
+      "name": "Sletterhage Fyr",
+      "name_en": "",
+      "city": "Ebeltoft",
+      "country": "Denmark",
+      "latitude": 56.095209,
+      "longitude": 10.512951,
+      "website": ""
+    },
+    {
+      "name": "Socialmuseum",
+      "name_en": "",
+      "city": "Hinnerup",
+      "country": "Denmark",
+      "latitude": 56.247026,
+      "longitude": 10.039904,
+      "website": ""
+    },
+    {
+      "name": "Sorø Museum",
+      "name_en": "",
+      "city": "Sorø",
+      "country": "Denmark",
+      "latitude": 55.433278,
+      "longitude": 11.556469,
+      "website": "http://www.vestmuseum.dk/Default.aspx?AreaID"
+    },
+    {
+      "name": "Souvenariet",
+      "name_en": "",
+      "city": "Rudkøbing",
+      "country": "Denmark",
+      "latitude": 55.002038,
+      "longitude": 10.854957,
+      "website": "http://www.souvenariet.dk/"
+    },
+    {
+      "name": "Spejdermuseet",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.675214,
+      "longitude": 12.602337,
+      "website": "http://spejdermuseet.dk/"
+    },
+    {
+      "name": "Statsfængslet i Vridsløselille",
+      "name_en": "",
+      "city": "Albertslund",
+      "country": "Denmark",
+      "latitude": 55.660364,
+      "longitude": 12.347618,
+      "website": "http://kroppedal.dk/besoeg-museet/vridsloeselille-statsfaengsel/"
+    },
+    {
+      "name": "Stevnsfortet Koldkrigs museum",
+      "name_en": "",
+      "city": "Store Heddinge",
+      "country": "Denmark",
+      "latitude": 55.264547,
+      "longitude": 12.409857,
+      "website": "http://www.kalklandet.dk/attraktioner/koldkrigsmuseum-stevnsfort"
+    },
+    {
+      "name": "Stiftsmuseet Maribo",
+      "name_en": "",
+      "city": "Maribo",
+      "country": "Denmark",
+      "latitude": 54.776285,
+      "longitude": 11.501922,
+      "website": "http://www.aabne-samlinger.dk/lollandfalster/stiftsmuseet/"
+    },
+    {
+      "name": "Strandfogedgården",
+      "name_en": "",
+      "city": "Vrå",
+      "country": "Denmark",
+      "latitude": 57.437453,
+      "longitude": 9.778123,
+      "website": ""
+    },
+    {
+      "name": "Strib Automobilmuseum",
+      "name_en": "",
+      "city": "Strib",
+      "country": "Denmark",
+      "latitude": 55.530526,
+      "longitude": 9.778133,
+      "website": ""
+    },
+    {
+      "name": "Strøjer Samlingen",
+      "name_en": "",
+      "city": "Årup",
+      "country": "Denmark",
+      "latitude": 55.289214,
+      "longitude": 10.011907,
+      "website": ""
+    },
+    {
+      "name": "Stubbekøbing Motorcykel- og Radiomuseum",
+      "name_en": "",
+      "city": "Stubbekøbing",
+      "country": "Denmark",
+      "latitude": 54.885619,
+      "longitude": 12.035972,
+      "website": ""
+    },
+    {
+      "name": "Sundby Samlingerne",
+      "name_en": "",
+      "city": "Aalborg",
+      "country": "Denmark",
+      "latitude": 57.07238,
+      "longitude": 9.902943,
+      "website": ""
+    },
+    {
+      "name": "Sæby Museum",
+      "name_en": "",
+      "city": "Sæby",
+      "country": "Denmark",
+      "latitude": 57.335414,
+      "longitude": 10.520927,
+      "website": ""
+    },
+    {
+      "name": "Søby Brunkulsmuseum",
+      "name_en": "",
+      "city": "Lind",
+      "country": "Denmark",
+      "latitude": 56.043389,
+      "longitude": 9.050848,
+      "website": "http://www.brunkulsmuseum.dk"
+    },
+    {
+      "name": "Sønderho Gammel Redningstation",
+      "name_en": "",
+      "city": "Nordby",
+      "country": "Denmark",
+      "latitude": 55.348368,
+      "longitude": 8.460404,
+      "website": ""
+    },
+    {
+      "name": "Sønderjyllands Radiomuseum",
+      "name_en": "",
+      "city": "Sønderborg",
+      "country": "Denmark",
+      "latitude": 54.907603,
+      "longitude": 9.805401,
+      "website": "http://www.soenderjyllands-radiomuseum.dk/"
+    },
+    {
+      "name": "Sønderjysk Skolemuseum",
+      "name_en": "",
+      "city": "Vamdrup",
+      "country": "Denmark",
+      "latitude": 55.378107,
+      "longitude": 9.277594,
+      "website": "http://www.sonderjysk-skolemuseum.dk/"
+    },
+    {
+      "name": "Tandslet Transformatormuseum",
+      "name_en": "",
+      "city": "Høruphav",
+      "country": "Denmark",
+      "latitude": 54.925686,
+      "longitude": 9.977458,
+      "website": ""
+    },
+    {
+      "name": "Teatermuseet",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.674782,
+      "longitude": 12.578629,
+      "website": "http://www.teatermuseet.dk/"
+    },
+    {
+      "name": "Tekstilforum",
+      "name_en": "",
+      "city": "Herning",
+      "country": "Denmark",
+      "latitude": 56.136284,
+      "longitude": 8.963265,
+      "website": "http://www.museummidtjylland.dk/"
+    },
+    {
+      "name": "Thingbæk Kalkminer",
+      "name_en": "",
+      "city": "Støvring",
+      "country": "Denmark",
+      "latitude": 56.832577,
+      "longitude": 9.811987,
+      "website": ""
+    },
+    {
+      "name": "Thinghuset",
+      "name_en": "",
+      "city": "Hurup",
+      "country": "Denmark",
+      "latitude": 56.762126,
+      "longitude": 8.320744,
+      "website": ""
+    },
+    {
+      "name": "Thisted Lilleby",
+      "name_en": "",
+      "city": "Thisted",
+      "country": "Denmark",
+      "latitude": 56.957022,
+      "longitude": 8.690612,
+      "website": ""
+    },
+    {
+      "name": "Thorsbro Vandværk Museum",
+      "name_en": "",
+      "city": "Taastrup",
+      "country": "Denmark",
+      "latitude": 55.622124,
+      "longitude": 12.271534,
+      "website": ""
+    },
+    {
+      "name": "Thorsvang - Danmarks Samlermuseum",
+      "name_en": "",
+      "city": "Stege",
+      "country": "Denmark",
+      "latitude": 54.978082,
+      "longitude": 12.272875,
+      "website": "http://thorsvangsamlermuseum.dk/"
+    },
+    {
+      "name": "Thunø Museum",
+      "name_en": "",
+      "city": "Tranebjerg",
+      "country": "Denmark",
+      "latitude": 55.94883,
+      "longitude": 10.443662,
+      "website": ""
+    },
+    {
+      "name": "Tidens Samling",
+      "name_en": "",
+      "city": "Odense",
+      "country": "Denmark",
+      "latitude": 55.394821,
+      "longitude": 10.381003,
+      "website": ""
+    },
+    {
+      "name": "Trapholt Museet",
+      "name_en": "",
+      "city": "Sønder Bjert",
+      "country": "Denmark",
+      "latitude": 55.499889,
+      "longitude": 9.531875,
+      "website": "http://www.trapholt.dk/"
+    },
+    {
+      "name": "Træmuseet",
+      "name_en": "",
+      "city": "Skive",
+      "country": "Denmark",
+      "latitude": 56.652393,
+      "longitude": 8.932467,
+      "website": "http://www.traemuseet.dk"
+    },
+    {
+      "name": "Træskomuseum",
+      "name_en": "",
+      "city": "Ry",
+      "country": "Denmark",
+      "latitude": 56.076008,
+      "longitude": 9.701826,
+      "website": ""
+    },
+    {
+      "name": "Tåsinge Museum",
+      "name_en": "",
+      "city": "Vindeby",
+      "country": "Denmark",
+      "latitude": 55.02378,
+      "longitude": 10.609079,
+      "website": ""
+    },
+    {
+      "name": "Tørning Mølle",
+      "name_en": "",
+      "city": "Vojens",
+      "country": "Denmark",
+      "latitude": 55.237739,
+      "longitude": 9.373707,
+      "website": "http://www.toerning-moelle.dk/"
+    },
+    {
+      "name": "Udstilling \"Levende billeder\"",
+      "name_en": "Exhibition \"Living Pictures\"",
+      "city": "Åkirkeby",
+      "country": "Denmark",
+      "latitude": 55.175095,
+      "longitude": 14.956592,
+      "website": ""
+    },
+    {
+      "name": "Ulvsborg",
+      "name_en": "",
+      "city": "Asnæs",
+      "country": "Denmark",
+      "latitude": 55.790474,
+      "longitude": 11.52244,
+      "website": "http://www.ulvsborg.dk/UHV-English.html"
+    },
+    {
+      "name": "Vagns Saab Museum",
+      "name_en": "",
+      "city": "Guderup",
+      "country": "Denmark",
+      "latitude": 55.029693,
+      "longitude": 9.828872,
+      "website": "www.vagnssaabmuseum.dk"
+    },
+    {
+      "name": "Vejle Kunstmuseum",
+      "name_en": "Vejle Museum of Art",
+      "city": "Vejle",
+      "country": "Denmark",
+      "latitude": 55.7094,
+      "longitude": 9.529821,
+      "website": ""
+    },
+    {
+      "name": "Vesthimmerlands Museum",
+      "name_en": "",
+      "city": "Aars",
+      "country": "Denmark",
+      "latitude": 56.802409,
+      "longitude": 9.521907,
+      "website": "http://www.vesthimmerlandsmuseum.dk/"
+    },
+    {
+      "name": "Viborg Museum",
+      "name_en": "",
+      "city": "Viborg",
+      "country": "Denmark",
+      "latitude": 56.450125,
+      "longitude": 9.408334,
+      "website": ""
+    },
+    {
+      "name": "Vibæk Mølle",
+      "name_en": "",
+      "city": "Høruphav",
+      "country": "Denmark",
+      "latitude": 54.894552,
+      "longitude": 9.954678,
+      "website": "http://www.vibaek-moellerne.dk/"
+    },
+    {
+      "name": "Victor Petersens J F Willumsen Samling",
+      "name_en": "",
+      "city": "Sindal",
+      "country": "Denmark",
+      "latitude": 57.537711,
+      "longitude": 10.094153,
+      "website": "https://jfwillumsenodden.dk/"
+    },
+    {
+      "name": "Videbæk Egnsmuseum",
+      "name_en": "",
+      "city": "Videbæk",
+      "country": "Denmark",
+      "latitude": 56.08487,
+      "longitude": 8.689808,
+      "website": "http://www.vemu.dk/"
+    },
+    {
+      "name": "Vikingemuseet",
+      "name_en": "The Viking Museum",
+      "city": "Århus",
+      "country": "Denmark",
+      "latitude": 56.15669,
+      "longitude": 10.2091,
+      "website": "www.moesgaardmuseum.dk"
+    },
+    {
+      "name": "Vikingemuseet Ladby",
+      "name_en": "",
+      "city": "Kerteminde",
+      "country": "Denmark",
+      "latitude": 55.443398,
+      "longitude": 10.616917,
+      "website": ""
+    },
+    {
+      "name": "Vildmoseporten",
+      "name_en": "",
+      "city": "Åbybro",
+      "country": "Denmark",
+      "latitude": 57.204867,
+      "longitude": 9.816166,
+      "website": ""
+    },
+    {
+      "name": "Vingsted Jernaldermiljø",
+      "name_en": "",
+      "city": "Jelling",
+      "country": "Denmark",
+      "latitude": 55.675603,
+      "longitude": 9.392492,
+      "website": ""
+    },
+    {
+      "name": "Voergaard",
+      "name_en": "Voergaard Castle",
+      "city": "Dronninglund",
+      "country": "Denmark",
+      "latitude": 57.242584,
+      "longitude": 10.335469,
+      "website": ""
+    },
+    {
+      "name": "VW & Retro Museum",
+      "name_en": "",
+      "city": "Ulfborg",
+      "country": "Denmark",
+      "latitude": 56.262856,
+      "longitude": 8.321218,
+      "website": ""
+    },
+    {
+      "name": "Væggen",
+      "name_en": "The Wall",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.676296,
+      "longitude": 12.564063,
+      "website": "http://vaeggen.copenhagen.dk/en/"
+    },
+    {
+      "name": "Værftsmuseet",
+      "name_en": "",
+      "city": "Helsingør",
+      "country": "Denmark",
+      "latitude": 56.037763,
+      "longitude": 12.614184,
+      "website": ""
+    },
+    {
+      "name": "Værløse Museum",
+      "name_en": "",
+      "city": "Værløse",
+      "country": "Denmark",
+      "latitude": 55.785541,
+      "longitude": 12.376784,
+      "website": ""
+    },
+    {
+      "name": "Zeppelin- & Garnisonsmuseum Tønder",
+      "name_en": "",
+      "city": "Tønder",
+      "country": "Denmark",
+      "latitude": 54.960961,
+      "longitude": 8.867283,
+      "website": "http://www.zeppelin-museum.dk/"
+    },
+    {
+      "name": "Åbne Magasiner",
+      "name_en": "",
+      "city": "Ringe",
+      "country": "Denmark",
+      "latitude": 55.176863,
+      "longitude": 10.486313,
+      "website": ""
+    },
+    {
+      "name": "Æ’ Fywerhus",
+      "name_en": "",
+      "city": "Struer",
+      "country": "Denmark",
+      "latitude": 56.652936,
+      "longitude": 8.636649,
+      "website": "http://www.fywerhus.dk/"
+    },
+    {
+      "name": "Øhavsmuseet",
+      "name_en": "",
+      "city": "Faaborg",
+      "country": "Denmark",
+      "latitude": 55.095411,
+      "longitude": 10.240509,
+      "website": ""
+    },
+    {
+      "name": "Økolariet",
+      "name_en": "",
+      "city": "Vejle",
+      "country": "Denmark",
+      "latitude": 55.706978,
+      "longitude": 9.534946,
+      "website": "http://www.okolariet.dk/"
+    },
+    {
+      "name": "Øland Voldsted",
+      "name_en": "",
+      "city": "Hurup",
+      "country": "Denmark",
+      "latitude": 56.873124,
+      "longitude": 8.539306,
+      "website": ""
+    },
+    {
+      "name": "Østerbro lille Museum",
+      "name_en": "",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "latitude": 55.709827,
+      "longitude": 12.578402,
+      "website": "http://www.detlillemuseum.dk/"
+    }
+  ],
+  "meta": {
+    "title": "Museer i Danmark – OpenStreetMap (Museums in Denmark, OSM) - Gratis download",
+    "description": "Liste over 329 museer i Danmark fra OpenStreetMap (anden kilde end det Wikidata-baserede da-museer) — navn, by, koordinater og websted. Indeholder 329 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Danmark – OpenStreetMap (Museums in Denmark, OSM) | ListBase",
+    "seo_description": "Download Museer i Danmark – OpenStreetMap (Museums in Denmark, OSM) — 329 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 329 poster / 7 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

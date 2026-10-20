@@ -1,0 +1,200 @@
+{
+  "id": "da-aabenraa-afstemningssteder",
+  "name": "Afstemningssteder i Aabenraa Kommune",
+  "title": "Afstemningssteder i Aabenraa Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Aabenraa Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Hovslund",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Hellevad",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Rødekro",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Løjt",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Hjordkær",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Ravsted",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Bolderslev",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Ensted",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Felsted",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Varnæs",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Bylderup",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Tinglev",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Kliplev",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Kruså",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Padborg",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Aabenraa Midt",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Aabenraa Syd",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Aabenraa Nord",
+      "kommune_kode": 580,
+      "kommune": "Aabenraa",
+      "opstillingskreds_nummer": 50,
+      "opstillingskreds": "Aabenraa"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Aabenraa Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Aabenraa Kommune med opstillingskreds. Indeholder 18 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Aabenraa Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Aabenraa Kommune — 18 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 18 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

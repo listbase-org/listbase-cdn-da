@@ -1,0 +1,1880 @@
+{
+  "id": "da-oer",
+  "name": "Øer i Danmark",
+  "title": "Øer i Danmark",
+  "description": "Øer (islands) i Danmark fra Wikidata (P31 = Q23442, P17 = Danmark) med koordinater.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 228,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q393014",
+      "wikidata_id": "Q393014",
+      "name_da": "Agersø",
+      "name_en": "Agersø",
+      "latitude": 55.216111,
+      "longitude": 11.186389
+    },
+    {
+      "id": "Q393032",
+      "wikidata_id": "Q393032",
+      "name_da": "Agerø",
+      "name_en": "Agerø",
+      "latitude": 56.716667,
+      "longitude": 8.566667
+    },
+    {
+      "id": "Q23750290",
+      "wikidata_id": "Q23750290",
+      "name_da": "Alholm",
+      "name_en": "Alholm",
+      "latitude": 55.91536,
+      "longitude": 11.89362
+    },
+    {
+      "id": "Q1808645",
+      "wikidata_id": "Q1808645",
+      "name_da": "Alrø",
+      "name_en": "Alrø",
+      "latitude": 55.859722,
+      "longitude": 10.065833
+    },
+    {
+      "id": "Q165383",
+      "wikidata_id": "Q165383",
+      "name_da": "Als",
+      "name_en": "Als",
+      "latitude": 54.983333,
+      "longitude": 9.916667
+    },
+    {
+      "id": "Q210396",
+      "wikidata_id": "Q210396",
+      "name_da": "Amager",
+      "name_en": "Amager",
+      "latitude": 55.616667,
+      "longitude": 12.616667
+    },
+    {
+      "id": "Q216845",
+      "wikidata_id": "Q216845",
+      "name_da": "Anholt",
+      "name_en": "Anholt",
+      "latitude": 56.7125,
+      "longitude": 11.56
+    },
+    {
+      "id": "Q15518219",
+      "wikidata_id": "Q15518219",
+      "name_da": "Arsenaløen",
+      "name_en": "Arsenaløen",
+      "latitude": 55.677681,
+      "longitude": 12.605438
+    },
+    {
+      "id": "Q732364",
+      "wikidata_id": "Q732364",
+      "name_da": "Askø",
+      "name_en": "Askø",
+      "latitude": 54.8924,
+      "longitude": 11.4935
+    },
+    {
+      "id": "Q790617",
+      "wikidata_id": "Q790617",
+      "name_da": "Avernakø",
+      "name_en": "Avernakø",
+      "latitude": 55.016667,
+      "longitude": 10.283333
+    },
+    {
+      "id": "Q23750369",
+      "wikidata_id": "Q23750369",
+      "name_da": "Avnø Røn",
+      "name_en": "Avnø Røn",
+      "latitude": 55.082222,
+      "longitude": 11.728056
+    },
+    {
+      "id": "Q23750386",
+      "wikidata_id": "Q23750386",
+      "name_da": "Barholm",
+      "name_en": "Barholm",
+      "latitude": 54.909722,
+      "longitude": 12.080833
+    },
+    {
+      "id": "Q23750387",
+      "wikidata_id": "Q23750387",
+      "name_da": "Barholme",
+      "name_en": "Barholme",
+      "latitude": 54.7131,
+      "longitude": 11.8897
+    },
+    {
+      "id": "Q531611",
+      "wikidata_id": "Q531611",
+      "name_da": "Barsø",
+      "name_en": "Barsø",
+      "latitude": 55.116667,
+      "longitude": 9.566667
+    },
+    {
+      "id": "Q23750395",
+      "wikidata_id": "Q23750395",
+      "name_da": "Bastholm",
+      "name_en": "Bastholm",
+      "latitude": 55.284722,
+      "longitude": 9.769167
+    },
+    {
+      "id": "Q2037664",
+      "wikidata_id": "Q2037664",
+      "name_da": "Birkholm",
+      "name_en": "Birkholm",
+      "latitude": 54.930681,
+      "longitude": 10.504547
+    },
+    {
+      "id": "Q879893",
+      "wikidata_id": "Q879893",
+      "name_da": "Bjørnø",
+      "name_en": "Bjørnø",
+      "latitude": 55.0642,
+      "longitude": 10.2491
+    },
+    {
+      "id": "Q23750477",
+      "wikidata_id": "Q23750477",
+      "name_da": "Bletholm",
+      "name_en": "Bletholm",
+      "latitude": 56.392222,
+      "longitude": 8.131111
+    },
+    {
+      "id": "Q890730",
+      "wikidata_id": "Q890730",
+      "name_da": "Bogø",
+      "name_en": "Bogø",
+      "latitude": 54.9333,
+      "longitude": 12.0333
+    },
+    {
+      "id": "Q23749504",
+      "wikidata_id": "Q23749504",
+      "name_da": "Bogø",
+      "name_en": "Bogø",
+      "latitude": 55.580833,
+      "longitude": 10.609722
+    },
+    {
+      "id": "Q23749535",
+      "wikidata_id": "Q23749535",
+      "name_da": "Borgø",
+      "name_en": "Borgø",
+      "latitude": 54.75729,
+      "longitude": 11.53964
+    },
+    {
+      "id": "Q769680",
+      "wikidata_id": "Q769680",
+      "name_da": "Bornholm",
+      "name_en": "Bornholm",
+      "latitude": 55.125,
+      "longitude": 14.916667
+    },
+    {
+      "id": "Q23749539",
+      "wikidata_id": "Q23749539",
+      "name_da": "Borreholm",
+      "name_en": "Borreholm",
+      "latitude": 56.98743,
+      "longitude": 9.25524
+    },
+    {
+      "id": "Q592805",
+      "wikidata_id": "Q592805",
+      "name_da": "Brandsø",
+      "name_en": "Brandsø",
+      "latitude": 55.358333,
+      "longitude": 9.708333
+    },
+    {
+      "id": "Q23749564",
+      "wikidata_id": "Q23749564",
+      "name_da": "Bredholm",
+      "name_en": "Bredholm",
+      "latitude": 54.905833,
+      "longitude": 10.542778
+    },
+    {
+      "id": "Q109121760",
+      "wikidata_id": "Q109121760",
+      "name_da": "Byens Ø",
+      "name_en": "Byens Ø",
+      "latitude": 55.4082,
+      "longitude": 10.3788
+    },
+    {
+      "id": "Q1019322",
+      "wikidata_id": "Q1019322",
+      "name_da": "Bågø",
+      "name_en": "Bågø",
+      "latitude": 55.313611,
+      "longitude": 9.811944
+    },
+    {
+      "id": "Q1896595",
+      "wikidata_id": "Q1896595",
+      "name_da": "Christiansø",
+      "name_en": "Christiansø",
+      "latitude": 55.31982,
+      "longitude": 15.18783
+    },
+    {
+      "id": "Q1183537",
+      "wikidata_id": "Q1183537",
+      "name_da": "Dejrø",
+      "name_en": "Dejrø",
+      "latitude": 54.897222,
+      "longitude": 10.425
+    },
+    {
+      "id": "Q907769",
+      "wikidata_id": "Q907769",
+      "name_da": "Dokøen",
+      "name_en": "Dokøen",
+      "latitude": 55.68218,
+      "longitude": 12.6011
+    },
+    {
+      "id": "Q1251885",
+      "wikidata_id": "Q1251885",
+      "name_da": "Drejø",
+      "name_en": "Drejø",
+      "latitude": 54.971,
+      "longitude": 10.416
+    },
+    {
+      "id": "Q8770829",
+      "wikidata_id": "Q8770829",
+      "name_da": "Dræet",
+      "name_en": "Dræet",
+      "latitude": 55.6028,
+      "longitude": 10.1733
+    },
+    {
+      "id": "Q1297755",
+      "wikidata_id": "Q1297755",
+      "name_da": "Egholm",
+      "name_en": "Egholm",
+      "latitude": 55.244444,
+      "longitude": 11.180556
+    },
+    {
+      "id": "Q1297770",
+      "wikidata_id": "Q1297770",
+      "name_da": "Egholm",
+      "name_en": "Egholm",
+      "latitude": 57.063889,
+      "longitude": 9.843056
+    },
+    {
+      "id": "Q1321986",
+      "wikidata_id": "Q1321986",
+      "name_da": "Ejlinge",
+      "name_en": "Ejlinge",
+      "latitude": 55.6,
+      "longitude": 10.2
+    },
+    {
+      "id": "Q6412568",
+      "wikidata_id": "Q6412568",
+      "name_da": "Elleore",
+      "name_en": "Kingdom of Elleore",
+      "latitude": 55.6856,
+      "longitude": 12.0617
+    },
+    {
+      "id": "Q926716",
+      "wikidata_id": "Q926716",
+      "name_da": "Endelave",
+      "name_en": "Endelave",
+      "latitude": 55.75,
+      "longitude": 10.3
+    },
+    {
+      "id": "Q1341092",
+      "wikidata_id": "Q1341092",
+      "name_da": "Enehøje",
+      "name_en": "Enehøje",
+      "latitude": 54.841667,
+      "longitude": 11.016667
+    },
+    {
+      "id": "Q1346252",
+      "wikidata_id": "Q1346252",
+      "name_da": "Enø",
+      "name_en": "Enø",
+      "latitude": 55.160833,
+      "longitude": 11.678889
+    },
+    {
+      "id": "Q23748982",
+      "wikidata_id": "Q23748982",
+      "name_da": "Eskeholm",
+      "name_en": "Eskeholm",
+      "latitude": 55.885833,
+      "longitude": 10.651389
+    },
+    {
+      "id": "Q1367808",
+      "wikidata_id": "Q1367808",
+      "name_da": "Eskilsø",
+      "name_en": "Eskilsø",
+      "latitude": 55.734722,
+      "longitude": 12.079722
+    },
+    {
+      "id": "Q735905",
+      "wikidata_id": "Q735905",
+      "name_da": "Falster",
+      "name_en": "Falster",
+      "latitude": 54.8,
+      "longitude": 11.966667
+    },
+    {
+      "id": "Q20837",
+      "wikidata_id": "Q20837",
+      "name_da": "Fanø",
+      "name_en": "Fanø",
+      "latitude": 55.414167,
+      "longitude": 8.410278
+    },
+    {
+      "id": "Q684084",
+      "wikidata_id": "Q684084",
+      "name_da": "Farø",
+      "name_en": "Farø",
+      "latitude": 54.950278,
+      "longitude": 11.991389
+    },
+    {
+      "id": "Q23748268",
+      "wikidata_id": "Q23748268",
+      "name_da": "Feggerøn",
+      "name_en": "Feggerøn",
+      "latitude": 56.981944,
+      "longitude": 8.940278
+    },
+    {
+      "id": "Q1367154",
+      "wikidata_id": "Q1367154",
+      "name_da": "Fejø",
+      "name_en": "Fejø",
+      "latitude": 54.948611,
+      "longitude": 11.4175
+    },
+    {
+      "id": "Q1149834",
+      "wikidata_id": "Q1149834",
+      "name_da": "Femø",
+      "name_en": "Femø",
+      "latitude": 54.966667,
+      "longitude": 11.55
+    },
+    {
+      "id": "Q116703683",
+      "wikidata_id": "Q116703683",
+      "name_da": "Fiskeøen",
+      "name_en": "",
+      "latitude": 55.689472,
+      "longitude": 12.5665
+    },
+    {
+      "id": "Q23748292",
+      "wikidata_id": "Q23748292",
+      "name_da": "Fjandø",
+      "name_en": "Fjandø",
+      "latitude": 56.340833,
+      "longitude": 8.182778
+    },
+    {
+      "id": "Q23748305",
+      "wikidata_id": "Q23748305",
+      "name_da": "Flatø",
+      "name_en": "Flatø",
+      "latitude": 54.7306,
+      "longitude": 11.8633
+    },
+    {
+      "id": "Q23748311",
+      "wikidata_id": "Q23748311",
+      "name_da": "Flintholm",
+      "name_en": "Flintholm",
+      "latitude": 55.4805,
+      "longitude": 10.5433
+    },
+    {
+      "id": "Q23748316",
+      "wikidata_id": "Q23748316",
+      "name_da": "Flæskholm",
+      "name_en": "Flæskholm",
+      "latitude": 55.0051,
+      "longitude": 10.3756
+    },
+    {
+      "id": "Q11970043",
+      "wikidata_id": "Q11970043",
+      "name_da": "Frederiksholm",
+      "name_en": "Frederiksholm",
+      "latitude": 55.681,
+      "longitude": 12.604
+    },
+    {
+      "id": "Q3353163",
+      "wikidata_id": "Q3353163",
+      "name_da": "Frederiksø",
+      "name_en": "Frederiksø",
+      "latitude": 55.320403,
+      "longitude": 15.184264
+    },
+    {
+      "id": "Q23747580",
+      "wikidata_id": "Q23747580",
+      "name_da": "Fruens Holm",
+      "name_en": "Fruens Holm",
+      "latitude": 57.07574,
+      "longitude": 9.78453
+    },
+    {
+      "id": "Q12313089",
+      "wikidata_id": "Q12313089",
+      "name_da": "Fruerø",
+      "name_en": "",
+      "latitude": 54.765,
+      "longitude": 11.4958
+    },
+    {
+      "id": "Q23753342",
+      "wikidata_id": "Q23753342",
+      "name_da": "Fugleholm",
+      "name_en": "Fugleholm",
+      "latitude": 54.5722,
+      "longitude": 11.8381
+    },
+    {
+      "id": "Q23747587",
+      "wikidata_id": "Q23747587",
+      "name_da": "Fuglepolde",
+      "name_en": "Fuglepold",
+      "latitude": 55.897222,
+      "longitude": 8.238889
+    },
+    {
+      "id": "Q109943410",
+      "wikidata_id": "Q109943410",
+      "name_da": "Fugleøen",
+      "name_en": "Fugleøen",
+      "latitude": 55.694344,
+      "longitude": 12.573761
+    },
+    {
+      "id": "Q23747589",
+      "wikidata_id": "Q23747589",
+      "name_da": "Fuglholm",
+      "name_en": "Fuglholm",
+      "latitude": 56.6783,
+      "longitude": 8.59472
+    },
+    {
+      "id": "Q1474797",
+      "wikidata_id": "Q1474797",
+      "name_da": "Fur",
+      "name_en": "Fur",
+      "latitude": 56.831667,
+      "longitude": 9.024167
+    },
+    {
+      "id": "Q26503",
+      "wikidata_id": "Q26503",
+      "name_da": "Fyn",
+      "name_en": "Funen",
+      "latitude": 55.350278,
+      "longitude": 10.355833
+    },
+    {
+      "id": "Q1479268",
+      "wikidata_id": "Q1479268",
+      "name_da": "Fænø",
+      "name_en": "Fænø",
+      "latitude": 55.488333,
+      "longitude": 9.693611
+    },
+    {
+      "id": "Q1496460",
+      "wikidata_id": "Q1496460",
+      "name_da": "Gavnø",
+      "name_en": "Gavnø",
+      "latitude": 55.1847,
+      "longitude": 11.7111
+    },
+    {
+      "id": "Q1126070",
+      "wikidata_id": "Q1126070",
+      "name_da": "Glænø",
+      "name_en": "Glænø",
+      "latitude": 55.195833,
+      "longitude": 11.433333
+    },
+    {
+      "id": "Q23747703",
+      "wikidata_id": "Q23747703",
+      "name_da": "Gryderne",
+      "name_en": "Gryderne",
+      "latitude": 55.063889,
+      "longitude": 10.273611
+    },
+    {
+      "id": "Q3358297",
+      "wikidata_id": "Q3358297",
+      "name_da": "Græsholm",
+      "name_en": "Græsholm",
+      "latitude": 55.324,
+      "longitude": 15.1778
+    },
+    {
+      "id": "Q23747698",
+      "wikidata_id": "Q23747698",
+      "name_da": "Græsholm",
+      "name_en": "Græsholm",
+      "latitude": 54.978333,
+      "longitude": 10.459167
+    },
+    {
+      "id": "Q20728794",
+      "wikidata_id": "Q20728794",
+      "name_da": "Græsholm",
+      "name_en": "",
+      "latitude": 55.0447,
+      "longitude": 10.3352
+    },
+    {
+      "id": "Q23747656",
+      "wikidata_id": "Q23747656",
+      "name_da": "Gødsholm",
+      "name_en": "Gødsholm",
+      "latitude": 55.2,
+      "longitude": 11.716667
+    },
+    {
+      "id": "Q1572030",
+      "wikidata_id": "Q1572030",
+      "name_da": "Halmø",
+      "name_en": "Halmø",
+      "latitude": 54.888333,
+      "longitude": 10.495
+    },
+    {
+      "id": "Q1615765",
+      "wikidata_id": "Q1615765",
+      "name_da": "Hesselø",
+      "name_en": "Hesselø",
+      "latitude": 56.195833,
+      "longitude": 11.706944
+    },
+    {
+      "id": "Q12316725",
+      "wikidata_id": "Q12316725",
+      "name_da": "Hestø",
+      "name_en": "",
+      "latitude": 54.7625,
+      "longitude": 11.4958
+    },
+    {
+      "id": "Q23747401",
+      "wikidata_id": "Q23747401",
+      "name_da": "Hindø",
+      "name_en": "Hindø",
+      "latitude": 56.1517,
+      "longitude": 8.21
+    },
+    {
+      "id": "Q3436686",
+      "wikidata_id": "Q3436686",
+      "name_da": "Hirsholm",
+      "name_en": "Hirsholm",
+      "latitude": 57.4851,
+      "longitude": 10.6235
+    },
+    {
+      "id": "Q691962",
+      "wikidata_id": "Q691962",
+      "name_da": "Hjarnø",
+      "name_en": "Hjarnø",
+      "latitude": 55.825,
+      "longitude": 10.083333
+    },
+    {
+      "id": "Q23751056",
+      "wikidata_id": "Q23751056",
+      "name_da": "Hjellen",
+      "name_en": "Hjellen",
+      "latitude": 57.450833,
+      "longitude": 10.564444
+    },
+    {
+      "id": "Q1621342",
+      "wikidata_id": "Q1621342",
+      "name_da": "Hjelm",
+      "name_en": "Hjelm",
+      "latitude": 56.133333,
+      "longitude": 10.802778
+    },
+    {
+      "id": "Q23747100",
+      "wikidata_id": "Q23747100",
+      "name_da": "Hjelm Ø",
+      "name_en": "Hjelm Ø",
+      "latitude": 54.8386,
+      "longitude": 11.7694
+    },
+    {
+      "id": "Q1621335",
+      "wikidata_id": "Q1621335",
+      "name_da": "Hjelmshoved",
+      "name_en": "Hjelmshoved",
+      "latitude": 54.972222,
+      "longitude": 10.495833
+    },
+    {
+      "id": "Q23747111",
+      "wikidata_id": "Q23747111",
+      "name_da": "Hjortholm",
+      "name_en": "Hjortholm",
+      "latitude": 55.89234,
+      "longitude": 10.63866
+    },
+    {
+      "id": "Q1621360",
+      "wikidata_id": "Q1621360",
+      "name_da": "Hjortø",
+      "name_en": "Hjortø",
+      "latitude": 54.963889,
+      "longitude": 10.484722
+    },
+    {
+      "id": "Q23747132",
+      "wikidata_id": "Q23747132",
+      "name_da": "Holmene",
+      "name_en": "Holmene",
+      "latitude": 55.055278,
+      "longitude": 10.270278
+    },
+    {
+      "id": "Q23747181",
+      "wikidata_id": "Q23747181",
+      "name_da": "Hornfiskrøn",
+      "name_en": "Hornfiskrøn",
+      "latitude": 57.2075,
+      "longitude": 11.015833
+    },
+    {
+      "id": "Q23747186",
+      "wikidata_id": "Q23747186",
+      "name_da": "Horsehoved",
+      "name_en": "Horsehoved",
+      "latitude": 55.13948,
+      "longitude": 10.10253
+    },
+    {
+      "id": "Q23746877",
+      "wikidata_id": "Q23746877",
+      "name_da": "Hyldeholm",
+      "name_en": "Hyldeholm",
+      "latitude": 55.793889,
+      "longitude": 12.0625
+    },
+    {
+      "id": "Q23746880",
+      "wikidata_id": "Q23746880",
+      "name_da": "Hylleholm",
+      "name_en": "Hylleholm",
+      "latitude": 54.6508,
+      "longitude": 11.5772
+    },
+    {
+      "id": "Q1640547",
+      "wikidata_id": "Q1640547",
+      "name_da": "Hyllekrog",
+      "name_en": "Hyllekrog",
+      "latitude": 54.595833,
+      "longitude": 11.504167
+    },
+    {
+      "id": "Q23747157",
+      "wikidata_id": "Q23747157",
+      "name_da": "Høje Sande",
+      "name_en": "Høje Sande",
+      "latitude": 55.903889,
+      "longitude": 8.366944
+    },
+    {
+      "id": "Q23746886",
+      "wikidata_id": "Q23746886",
+      "name_da": "Iholm",
+      "name_en": "Iholm",
+      "latitude": 55.033889,
+      "longitude": 10.566111
+    },
+    {
+      "id": "Q1658889",
+      "wikidata_id": "Q1658889",
+      "name_da": "Illum",
+      "name_en": "Illum",
+      "latitude": 55.1334,
+      "longitude": 10.1
+    },
+    {
+      "id": "Q974684",
+      "wikidata_id": "Q974684",
+      "name_da": "Jegindø",
+      "name_en": "Jegindø",
+      "latitude": 56.64912,
+      "longitude": 8.61634
+    },
+    {
+      "id": "Q23746944",
+      "wikidata_id": "Q23746944",
+      "name_da": "Kalveholm",
+      "name_en": "Kalveholm",
+      "latitude": 54.6533,
+      "longitude": 11.5994
+    },
+    {
+      "id": "Q12321160",
+      "wikidata_id": "Q12321160",
+      "name_da": "Kalveholm",
+      "name_en": "",
+      "latitude": 54.6633,
+      "longitude": 11.7254
+    },
+    {
+      "id": "Q1699796",
+      "wikidata_id": "Q1699796",
+      "name_da": "Kalvø",
+      "name_en": "Kalvø",
+      "latitude": 55.119444,
+      "longitude": 9.466667
+    },
+    {
+      "id": "Q658114",
+      "wikidata_id": "Q658114",
+      "name_da": "Kalvø",
+      "name_en": "Kalvø",
+      "latitude": 54.724657,
+      "longitude": 11.85939
+    },
+    {
+      "id": "Q23746977",
+      "wikidata_id": "Q23746977",
+      "name_da": "Kejlsø",
+      "name_en": "Kejlsø",
+      "latitude": 54.7153,
+      "longitude": 11.8333
+    },
+    {
+      "id": "Q23746985",
+      "wikidata_id": "Q23746985",
+      "name_da": "Kidholm",
+      "name_en": "Kidholm",
+      "latitude": 55.051389,
+      "longitude": 10.324167
+    },
+    {
+      "id": "Q12322122",
+      "wikidata_id": "Q12322122",
+      "name_da": "Klaus Nars Holm",
+      "name_en": "Klaus Nars Holm",
+      "latitude": 55.8036,
+      "longitude": 12.3722
+    },
+    {
+      "id": "Q23747009",
+      "wikidata_id": "Q23747009",
+      "name_da": "Klægbanke",
+      "name_en": "Klægbanke",
+      "latitude": 55.996111,
+      "longitude": 8.284722
+    },
+    {
+      "id": "Q23746278",
+      "wikidata_id": "Q23746278",
+      "name_da": "Kringelrøn",
+      "name_en": "Kringelrøn",
+      "latitude": 57.229444,
+      "longitude": 11.005833
+    },
+    {
+      "id": "Q23746300",
+      "wikidata_id": "Q23746300",
+      "name_da": "Kuddeholm",
+      "name_en": "Kuddeholm",
+      "latitude": 54.8303,
+      "longitude": 11.0875
+    },
+    {
+      "id": "Q2245680",
+      "wikidata_id": "Q2245680",
+      "name_da": "Kyholm",
+      "name_en": "Kyholm",
+      "latitude": 55.9324,
+      "longitude": 10.6716
+    },
+    {
+      "id": "Q23746953",
+      "wikidata_id": "Q23746953",
+      "name_da": "Kåreholm",
+      "name_en": "Kåreholm",
+      "latitude": 54.8206,
+      "longitude": 11.0525
+    },
+    {
+      "id": "Q23746226",
+      "wikidata_id": "Q23746226",
+      "name_da": "Kølholm",
+      "name_en": "Kølholm",
+      "latitude": 55.80457,
+      "longitude": 12.06022
+    },
+    {
+      "id": "Q23746228",
+      "wikidata_id": "Q23746228",
+      "name_da": "Kølpen",
+      "name_en": "Kølpen",
+      "latitude": 57.473056,
+      "longitude": 10.604722
+    },
+    {
+      "id": "Q27524",
+      "wikidata_id": "Q27524",
+      "name_da": "Langeland",
+      "name_en": "Langeland",
+      "latitude": 54.929722,
+      "longitude": 10.778056
+    },
+    {
+      "id": "Q23746360",
+      "wikidata_id": "Q23746360",
+      "name_da": "Langesand",
+      "name_en": "Langesand",
+      "latitude": 55.213611,
+      "longitude": 10.880833
+    },
+    {
+      "id": "Q23746367",
+      "wikidata_id": "Q23746367",
+      "name_da": "Langholm",
+      "name_en": "Langholm",
+      "latitude": 54.8581,
+      "longitude": 10.5425
+    },
+    {
+      "id": "Q23746369",
+      "wikidata_id": "Q23746369",
+      "name_da": "Langholm",
+      "name_en": "Langholm",
+      "latitude": 56.706667,
+      "longitude": 8.2525
+    },
+    {
+      "id": "Q12323745",
+      "wikidata_id": "Q12323745",
+      "name_da": "Langholms Trille",
+      "name_en": "",
+      "latitude": 54.8586,
+      "longitude": 10.5453
+    },
+    {
+      "id": "Q1126067",
+      "wikidata_id": "Q1126067",
+      "name_da": "Langø",
+      "name_en": "Langø",
+      "latitude": 54.983333,
+      "longitude": 12.116667
+    },
+    {
+      "id": "Q23746375",
+      "wikidata_id": "Q23746375",
+      "name_da": "Langø",
+      "name_en": "Langø",
+      "latitude": 55.746389,
+      "longitude": 11.801667
+    },
+    {
+      "id": "Q23746378",
+      "wikidata_id": "Q23746378",
+      "name_da": "Langø",
+      "name_en": "Langø",
+      "latitude": 55.802222,
+      "longitude": 11.859167
+    },
+    {
+      "id": "Q107363902",
+      "wikidata_id": "Q107363902",
+      "name_da": "Langø",
+      "name_en": "",
+      "latitude": 54.8796,
+      "longitude": 10.6905
+    },
+    {
+      "id": "Q23744889",
+      "wikidata_id": "Q23744889",
+      "name_da": "Lille Egholm",
+      "name_en": "Lille Egholm",
+      "latitude": 54.9119,
+      "longitude": 10.4969
+    },
+    {
+      "id": "Q9022587",
+      "wikidata_id": "Q9022587",
+      "name_da": "Lilleø",
+      "name_en": "Lilleø",
+      "latitude": 54.9542,
+      "longitude": 12.045
+    },
+    {
+      "id": "Q976398",
+      "wikidata_id": "Q976398",
+      "name_da": "Lilleø",
+      "name_en": "Lilleø",
+      "latitude": 54.908333,
+      "longitude": 11.483333
+    },
+    {
+      "id": "Q23744902",
+      "wikidata_id": "Q23744902",
+      "name_da": "Lilleø",
+      "name_en": "Lilleø",
+      "latitude": 54.8806,
+      "longitude": 10.4331
+    },
+    {
+      "id": "Q23744906",
+      "wikidata_id": "Q23744906",
+      "name_da": "Lilleø",
+      "name_en": "Lilleø",
+      "latitude": 55.754167,
+      "longitude": 12.095833
+    },
+    {
+      "id": "Q936701",
+      "wikidata_id": "Q936701",
+      "name_da": "Lilleø",
+      "name_en": "",
+      "latitude": 54.7178,
+      "longitude": 11.8283
+    },
+    {
+      "id": "Q5976412",
+      "wikidata_id": "Q5976412",
+      "name_da": "Lilleø",
+      "name_en": "",
+      "latitude": 55.319372,
+      "longitude": 15.183875
+    },
+    {
+      "id": "Q131756392",
+      "wikidata_id": "Q131756392",
+      "name_da": "Lilleø",
+      "name_en": "",
+      "latitude": 56.126188,
+      "longitude": 9.665742
+    },
+    {
+      "id": "Q23744919",
+      "wikidata_id": "Q23744919",
+      "name_da": "Linderum",
+      "name_en": "Linderum",
+      "latitude": 55.289167,
+      "longitude": 9.713889
+    },
+    {
+      "id": "Q1826202",
+      "wikidata_id": "Q1826202",
+      "name_da": "Lindholm",
+      "name_en": "Lindholm",
+      "latitude": 54.8822,
+      "longitude": 11.4492
+    },
+    {
+      "id": "Q11689196",
+      "wikidata_id": "Q11689196",
+      "name_da": "Lindholm",
+      "name_en": "Lindholm",
+      "latitude": 54.6539,
+      "longitude": 11.6569
+    },
+    {
+      "id": "Q23744927",
+      "wikidata_id": "Q23744927",
+      "name_da": "Lindholm",
+      "name_en": "Lindholm",
+      "latitude": 55.190278,
+      "longitude": 11.6825
+    },
+    {
+      "id": "Q23744929",
+      "wikidata_id": "Q23744929",
+      "name_da": "Lindholm",
+      "name_en": "Lindholm",
+      "latitude": 55.740278,
+      "longitude": 11.814444
+    },
+    {
+      "id": "Q23744932",
+      "wikidata_id": "Q23744932",
+      "name_da": "Lindholm",
+      "name_en": "Lindholm",
+      "latitude": 56.700833,
+      "longitude": 8.537778
+    },
+    {
+      "id": "Q1306714",
+      "wikidata_id": "Q1306714",
+      "name_da": "Lindholm",
+      "name_en": "Lindholm",
+      "latitude": 55.006944,
+      "longitude": 12.222222
+    },
+    {
+      "id": "Q1826339",
+      "wikidata_id": "Q1826339",
+      "name_da": "Lindø",
+      "name_en": "Lindø",
+      "latitude": 54.8791,
+      "longitude": 10.704417
+    },
+    {
+      "id": "Q12324565",
+      "wikidata_id": "Q12324565",
+      "name_da": "Lindø",
+      "name_en": "",
+      "latitude": 54.7525,
+      "longitude": 11.5389
+    },
+    {
+      "id": "Q1866575",
+      "wikidata_id": "Q1866575",
+      "name_da": "Livø",
+      "name_en": "Livø",
+      "latitude": 56.8887,
+      "longitude": 9.0897
+    },
+    {
+      "id": "Q605839",
+      "wikidata_id": "Q605839",
+      "name_da": "Lolland",
+      "name_en": "Lolland",
+      "latitude": 54.769444,
+      "longitude": 11.424444
+    },
+    {
+      "id": "Q1552001",
+      "wikidata_id": "Q1552001",
+      "name_da": "Lyø",
+      "name_en": "Lyø",
+      "latitude": 55.044444,
+      "longitude": 10.147778
+    },
+    {
+      "id": "Q683719",
+      "wikidata_id": "Q683719",
+      "name_da": "Læsø",
+      "name_en": "Læsø",
+      "latitude": 57.26,
+      "longitude": 11
+    },
+    {
+      "id": "Q23745021",
+      "wikidata_id": "Q23745021",
+      "name_da": "Maderne",
+      "name_en": "Maderne",
+      "latitude": 55.129722,
+      "longitude": 12.108333
+    },
+    {
+      "id": "Q23745025",
+      "wikidata_id": "Q23745025",
+      "name_da": "Madstedborg",
+      "name_en": "Madstedborg",
+      "latitude": 56.871944,
+      "longitude": 8.404444
+    },
+    {
+      "id": "Q21156",
+      "wikidata_id": "Q21156",
+      "name_da": "Mandø",
+      "name_en": "Mandø",
+      "latitude": 55.283333,
+      "longitude": 8.55
+    },
+    {
+      "id": "Q1758574",
+      "wikidata_id": "Q1758574",
+      "name_da": "Masnedø",
+      "name_en": "Masnedø",
+      "latitude": 54.988889,
+      "longitude": 11.886111
+    },
+    {
+      "id": "Q23745070",
+      "wikidata_id": "Q23745070",
+      "name_da": "Mejlesholm",
+      "name_en": "Mejlesholm",
+      "latitude": 55.899167,
+      "longitude": 10.646389
+    },
+    {
+      "id": "Q23745076",
+      "wikidata_id": "Q23745076",
+      "name_da": "Mejlplet",
+      "name_en": "Mejlplet",
+      "latitude": 56.683333,
+      "longitude": 10.333333
+    },
+    {
+      "id": "Q23745074",
+      "wikidata_id": "Q23745074",
+      "name_da": "Mejlø",
+      "name_en": "Mejlø",
+      "latitude": 55.59004,
+      "longitude": 10.61385
+    },
+    {
+      "id": "Q920763",
+      "wikidata_id": "Q920763",
+      "name_da": "Mors",
+      "name_en": "Mors",
+      "latitude": 56.79,
+      "longitude": 8.745278
+    },
+    {
+      "id": "Q12327902",
+      "wikidata_id": "Q12327902",
+      "name_da": "Munkeholm",
+      "name_en": "",
+      "latitude": 54.82993,
+      "longitude": 11.04622
+    },
+    {
+      "id": "Q23743225",
+      "wikidata_id": "Q23743225",
+      "name_da": "Munkholm",
+      "name_en": "Munkholm",
+      "latitude": 55.675278,
+      "longitude": 11.804722
+    },
+    {
+      "id": "Q23743226",
+      "wikidata_id": "Q23743226",
+      "name_da": "Musholm",
+      "name_en": "Musholm",
+      "latitude": 55.476,
+      "longitude": 11.077
+    },
+    {
+      "id": "Q12328019",
+      "wikidata_id": "Q12328019",
+      "name_da": "Mågeøen",
+      "name_en": "",
+      "latitude": 56.7087,
+      "longitude": 10.1433
+    },
+    {
+      "id": "Q12328083",
+      "wikidata_id": "Q12328083",
+      "name_da": "Møgelø",
+      "name_en": "Møgelø",
+      "latitude": 56.12244,
+      "longitude": 9.68064
+    },
+    {
+      "id": "Q1975304",
+      "wikidata_id": "Q1975304",
+      "name_da": "Nekselø",
+      "name_en": "Nekselø",
+      "latitude": 55.780333,
+      "longitude": 11.291722
+    },
+    {
+      "id": "Q23743313",
+      "wikidata_id": "Q23743313",
+      "name_da": "Nordholm",
+      "name_en": "Nordholm",
+      "latitude": 55.48473,
+      "longitude": 11.09043
+    },
+    {
+      "id": "Q122841068",
+      "wikidata_id": "Q122841068",
+      "name_da": "Nordlige Dokø",
+      "name_en": "Nordlige Dokø",
+      "latitude": 55.6829,
+      "longitude": 12.6021
+    },
+    {
+      "id": "Q67667343",
+      "wikidata_id": "Q67667343",
+      "name_da": "Nordø",
+      "name_en": "Nordø",
+      "latitude": 55.7071,
+      "longitude": 12.6007
+    },
+    {
+      "id": "Q11992823",
+      "wikidata_id": "Q11992823",
+      "name_da": "Nyholm",
+      "name_en": "Nyholm",
+      "latitude": 55.686389,
+      "longitude": 12.606944
+    },
+    {
+      "id": "Q12329462",
+      "wikidata_id": "Q12329462",
+      "name_da": "Nyland",
+      "name_en": "",
+      "latitude": 54.915,
+      "longitude": 10.4675
+    },
+    {
+      "id": "Q521742",
+      "wikidata_id": "Q521742",
+      "name_da": "Nyord",
+      "name_en": "Nyord",
+      "latitude": 55.05,
+      "longitude": 12.216667
+    },
+    {
+      "id": "Q21158",
+      "wikidata_id": "Q21158",
+      "name_da": "Nørrejyske Ø",
+      "name_en": "North Jutlandic Island",
+      "latitude": 57.1,
+      "longitude": 9.5
+    },
+    {
+      "id": "Q338037",
+      "wikidata_id": "Q338037",
+      "name_da": "Omø",
+      "name_en": "Omø",
+      "latitude": 55.16,
+      "longitude": 11.155833
+    },
+    {
+      "id": "Q122841051",
+      "wikidata_id": "Q122841051",
+      "name_da": "Operaparkøen",
+      "name_en": "Operaparkøen",
+      "latitude": 55.6808,
+      "longitude": 12.5997
+    },
+    {
+      "id": "Q122841044",
+      "wikidata_id": "Q122841044",
+      "name_da": "Operaøen",
+      "name_en": "Operaøen",
+      "latitude": 55.682,
+      "longitude": 12.6007
+    },
+    {
+      "id": "Q23741559",
+      "wikidata_id": "Q23741559",
+      "name_da": "Ormø",
+      "name_en": "Ormø",
+      "latitude": 55.2036,
+      "longitude": 11.4572
+    },
+    {
+      "id": "Q1630674",
+      "wikidata_id": "Q1630674",
+      "name_da": "Orø",
+      "name_en": "Orø",
+      "latitude": 55.766667,
+      "longitude": 11.816667
+    },
+    {
+      "id": "Q23741586",
+      "wikidata_id": "Q23741586",
+      "name_da": "Peter Meyers Sand",
+      "name_en": "Peter Meyers Sand",
+      "latitude": 55.310556,
+      "longitude": 8.453056
+    },
+    {
+      "id": "Q23741593",
+      "wikidata_id": "Q23741593",
+      "name_da": "Pletten",
+      "name_en": "Pletten",
+      "latitude": 56.7043,
+      "longitude": 10.2784
+    },
+    {
+      "id": "Q67669914",
+      "wikidata_id": "Q67669914",
+      "name_da": "Prøvestenen",
+      "name_en": "Prøvestenen",
+      "latitude": 55.6758,
+      "longitude": 12.6364
+    },
+    {
+      "id": "Q23741699",
+      "wikidata_id": "Q23741699",
+      "name_da": "Roholm",
+      "name_en": "Roholm",
+      "latitude": 55.481389,
+      "longitude": 10.516944
+    },
+    {
+      "id": "Q23741703",
+      "wikidata_id": "Q23741703",
+      "name_da": "Rommerholm",
+      "name_en": "Rommerholm",
+      "latitude": 54.8444,
+      "longitude": 11.0361
+    },
+    {
+      "id": "Q2165277",
+      "wikidata_id": "Q2165277",
+      "name_da": "Romsø",
+      "name_en": "Romsø",
+      "latitude": 55.512778,
+      "longitude": 10.7875
+    },
+    {
+      "id": "Q23739848",
+      "wikidata_id": "Q23739848",
+      "name_da": "Rumpen",
+      "name_en": "Rumpen",
+      "latitude": 55.931944,
+      "longitude": 10.710833
+    },
+    {
+      "id": "Q1125193",
+      "wikidata_id": "Q1125193",
+      "name_da": "Rågø",
+      "name_en": "Rågø",
+      "latitude": 54.966667,
+      "longitude": 11.311111
+    },
+    {
+      "id": "Q2178645",
+      "wikidata_id": "Q2178645",
+      "name_da": "Rågø Kalv",
+      "name_en": "Rågø Kalv",
+      "latitude": 54.9722,
+      "longitude": 11.2931
+    },
+    {
+      "id": "Q21191",
+      "wikidata_id": "Q21191",
+      "name_da": "Rømø",
+      "name_en": "Rømø",
+      "latitude": 55.133333,
+      "longitude": 8.516667
+    },
+    {
+      "id": "Q23741730",
+      "wikidata_id": "Q23741730",
+      "name_da": "Rønholm",
+      "name_en": "Rønholm",
+      "latitude": 57.025,
+      "longitude": 9.610278
+    },
+    {
+      "id": "Q23741734",
+      "wikidata_id": "Q23741734",
+      "name_da": "Rønnen",
+      "name_en": "Rønnen",
+      "latitude": 55.51772,
+      "longitude": 11.07479
+    },
+    {
+      "id": "Q23741735",
+      "wikidata_id": "Q23741735",
+      "name_da": "Rønnen",
+      "name_en": "Rønnen",
+      "latitude": 55.731667,
+      "longitude": 11.72
+    },
+    {
+      "id": "Q23741737",
+      "wikidata_id": "Q23741737",
+      "name_da": "Rønnen",
+      "name_en": "Rønnen",
+      "latitude": 56.16698,
+      "longitude": 10.50964
+    },
+    {
+      "id": "Q23741745",
+      "wikidata_id": "Q23741745",
+      "name_da": "Rønø",
+      "name_en": "Rønø",
+      "latitude": 55.745,
+      "longitude": 11.834444
+    },
+    {
+      "id": "Q841736",
+      "wikidata_id": "Q841736",
+      "name_da": "Saltholm",
+      "name_en": "Saltholm",
+      "latitude": 55.633333,
+      "longitude": 12.766667
+    },
+    {
+      "id": "Q216422",
+      "wikidata_id": "Q216422",
+      "name_da": "Samsø",
+      "name_en": "Samsø",
+      "latitude": 55.866667,
+      "longitude": 10.616667
+    },
+    {
+      "id": "Q23739897",
+      "wikidata_id": "Q23739897",
+      "name_da": "Sandholm",
+      "name_en": "Sandholm",
+      "latitude": 55.201389,
+      "longitude": 11.401944
+    },
+    {
+      "id": "Q956682",
+      "wikidata_id": "Q956682",
+      "name_da": "Sejerø",
+      "name_en": "Sejerø",
+      "latitude": 55.883333,
+      "longitude": 11.15
+    },
+    {
+      "id": "Q2036993",
+      "wikidata_id": "Q2036993",
+      "name_da": "Siø",
+      "name_en": "Siø",
+      "latitude": 54.954167,
+      "longitude": 10.691667
+    },
+    {
+      "id": "Q25535",
+      "wikidata_id": "Q25535",
+      "name_da": "Sjælland",
+      "name_en": "Zealand",
+      "latitude": 55.57,
+      "longitude": 11.89
+    },
+    {
+      "id": "Q1125233",
+      "wikidata_id": "Q1125233",
+      "name_da": "Skalø",
+      "name_en": "Skalø",
+      "latitude": 54.961111,
+      "longitude": 11.358333
+    },
+    {
+      "id": "Q2066711",
+      "wikidata_id": "Q2066711",
+      "name_da": "Skarø",
+      "name_en": "Skarø",
+      "latitude": 55.004167,
+      "longitude": 10.467222
+    },
+    {
+      "id": "Q12335922",
+      "wikidata_id": "Q12335922",
+      "name_da": "Skåneholm",
+      "name_en": "",
+      "latitude": 54.96622,
+      "longitude": 11.83176
+    },
+    {
+      "id": "Q923130",
+      "wikidata_id": "Q923130",
+      "name_da": "Slotsholmen",
+      "name_en": "Slotsholmen",
+      "latitude": 55.675,
+      "longitude": 12.581
+    },
+    {
+      "id": "Q1126222",
+      "wikidata_id": "Q1126222",
+      "name_da": "Slotø",
+      "name_en": "Slotø",
+      "latitude": 54.840278,
+      "longitude": 11.058333
+    },
+    {
+      "id": "Q23754126",
+      "wikidata_id": "Q23754126",
+      "name_da": "Sluseholmen",
+      "name_en": "Sluseholmen",
+      "latitude": 55.6455,
+      "longitude": 12.54924
+    },
+    {
+      "id": "Q23738232",
+      "wikidata_id": "Q23738232",
+      "name_da": "Smedeholm",
+      "name_en": "Smedeholm",
+      "latitude": 54.8067,
+      "longitude": 11.0647
+    },
+    {
+      "id": "Q23738331",
+      "wikidata_id": "Q23738331",
+      "name_da": "Spirholm",
+      "name_en": "Spirholm",
+      "latitude": 57.36,
+      "longitude": 10.922778
+    },
+    {
+      "id": "Q2298709",
+      "wikidata_id": "Q2298709",
+      "name_da": "Sprogø",
+      "name_en": "Sprogø",
+      "latitude": 55.333333,
+      "longitude": 10.966667
+    },
+    {
+      "id": "Q23738338",
+      "wikidata_id": "Q23738338",
+      "name_da": "Stadilø",
+      "name_en": "Stadilø",
+      "latitude": 56.166667,
+      "longitude": 8.166667
+    },
+    {
+      "id": "Q12337231",
+      "wikidata_id": "Q12337231",
+      "name_da": "Stige Ø",
+      "name_en": "Stige Ø",
+      "latitude": 55.4486,
+      "longitude": 10.4289
+    },
+    {
+      "id": "Q23736538",
+      "wikidata_id": "Q23736538",
+      "name_da": "Store Egholm",
+      "name_en": "Store Egholm",
+      "latitude": 54.9194,
+      "longitude": 10.4833
+    },
+    {
+      "id": "Q12337366",
+      "wikidata_id": "Q12337366",
+      "name_da": "Store Skåne",
+      "name_en": "",
+      "latitude": 54.64008,
+      "longitude": 11.80878
+    },
+    {
+      "id": "Q2370772",
+      "wikidata_id": "Q2370772",
+      "name_da": "Store Svelmø",
+      "name_en": "Svelmø",
+      "latitude": 55.038889,
+      "longitude": 10.327778
+    },
+    {
+      "id": "Q1666057",
+      "wikidata_id": "Q1666057",
+      "name_da": "Storeager",
+      "name_en": "Storeager",
+      "latitude": 54.623611,
+      "longitude": 11.508333
+    },
+    {
+      "id": "Q639296",
+      "wikidata_id": "Q639296",
+      "name_da": "Strand",
+      "name_en": "Strand",
+      "latitude": 54.533333,
+      "longitude": 8.783333
+    },
+    {
+      "id": "Q2003643",
+      "wikidata_id": "Q2003643",
+      "name_da": "Strynø",
+      "name_en": "Strynø",
+      "latitude": 54.9066,
+      "longitude": 10.6099
+    },
+    {
+      "id": "Q1656394",
+      "wikidata_id": "Q1656394",
+      "name_da": "Strynø Kalv",
+      "name_en": "Strynø Kalv",
+      "latitude": 54.8987,
+      "longitude": 10.5777
+    },
+    {
+      "id": "Q2363187",
+      "wikidata_id": "Q2363187",
+      "name_da": "Suderø",
+      "name_en": "Suderø",
+      "latitude": 54.943889,
+      "longitude": 11.7
+    },
+    {
+      "id": "Q11682349",
+      "wikidata_id": "Q11682349",
+      "name_da": "Svaneklapperne",
+      "name_en": "Svaneklapperne",
+      "latitude": 55.6069,
+      "longitude": 12.8
+    },
+    {
+      "id": "Q23736670",
+      "wikidata_id": "Q23736670",
+      "name_da": "Svinø",
+      "name_en": "Svinø",
+      "latitude": 55.456389,
+      "longitude": 9.791389
+    },
+    {
+      "id": "Q23736680",
+      "wikidata_id": "Q23736680",
+      "name_da": "Sværm",
+      "name_en": "Sværm",
+      "latitude": 55.902222,
+      "longitude": 10.619444
+    },
+    {
+      "id": "Q23738283",
+      "wikidata_id": "Q23738283",
+      "name_da": "Sønder Nyland",
+      "name_en": "Sønder Nyland",
+      "latitude": 57.241944,
+      "longitude": 10.905
+    },
+    {
+      "id": "Q3375964",
+      "wikidata_id": "Q3375964",
+      "name_da": "Teglholmen",
+      "name_en": "Teglholmen",
+      "latitude": 55.65,
+      "longitude": 12.5556
+    },
+    {
+      "id": "Q672395",
+      "wikidata_id": "Q672395",
+      "name_da": "Thurø",
+      "name_en": "Thurø",
+      "latitude": 55.0456,
+      "longitude": 10.6672
+    },
+    {
+      "id": "Q612830",
+      "wikidata_id": "Q612830",
+      "name_da": "Torø",
+      "name_en": "Torø",
+      "latitude": 55.2472,
+      "longitude": 9.88056
+    },
+    {
+      "id": "Q12343348",
+      "wikidata_id": "Q12343348",
+      "name_da": "Treskelbakkeholm",
+      "name_en": "",
+      "latitude": 56.7067,
+      "longitude": 10.2344
+    },
+    {
+      "id": "Q48706",
+      "wikidata_id": "Q48706",
+      "name_da": "Tunø",
+      "name_en": "Tunø",
+      "latitude": 55.951667,
+      "longitude": 10.435278
+    },
+    {
+      "id": "Q402692",
+      "wikidata_id": "Q402692",
+      "name_da": "Tåsinge",
+      "name_en": "Tåsinge",
+      "latitude": 55,
+      "longitude": 10.6
+    },
+    {
+      "id": "Q1126090",
+      "wikidata_id": "Q1126090",
+      "name_da": "Tærø",
+      "name_en": "Tærø",
+      "latitude": 54.954167,
+      "longitude": 12.083333
+    },
+    {
+      "id": "Q2512223",
+      "wikidata_id": "Q2512223",
+      "name_da": "Vejlø",
+      "name_en": "Vejlø",
+      "latitude": 54.851389,
+      "longitude": 11.055556
+    },
+    {
+      "id": "Q174379",
+      "wikidata_id": "Q174379",
+      "name_da": "Vejrø",
+      "name_en": "Vejrø",
+      "latitude": 55.033333,
+      "longitude": 11.366667
+    },
+    {
+      "id": "Q23732841",
+      "wikidata_id": "Q23732841",
+      "name_da": "Vejrø",
+      "name_en": "Vejrø",
+      "latitude": 55.9459,
+      "longitude": 10.7582
+    },
+    {
+      "id": "Q23732863",
+      "wikidata_id": "Q23732863",
+      "name_da": "Vensholm",
+      "name_en": "Vensholm",
+      "latitude": 54.9297,
+      "longitude": 11.0464
+    },
+    {
+      "id": "Q1551473",
+      "wikidata_id": "Q1551473",
+      "name_da": "Venø",
+      "name_en": "Venø",
+      "latitude": 56.554167,
+      "longitude": 8.625
+    },
+    {
+      "id": "Q2523958",
+      "wikidata_id": "Q2523958",
+      "name_da": "Vigelsø",
+      "name_en": "Vigelsø",
+      "latitude": 55.466667,
+      "longitude": 10.466667
+    },
+    {
+      "id": "Q23732892",
+      "wikidata_id": "Q23732892",
+      "name_da": "Vigø",
+      "name_en": "Vigø",
+      "latitude": 55.145278,
+      "longitude": 10.117222
+    },
+    {
+      "id": "Q23732927",
+      "wikidata_id": "Q23732927",
+      "name_da": "Vogterholm",
+      "name_en": "Vogterholm",
+      "latitude": 54.92297,
+      "longitude": 10.59047
+    },
+    {
+      "id": "Q8001190",
+      "wikidata_id": "Q8001190",
+      "name_da": "Wilders Plads",
+      "name_en": "Wilders Plads",
+      "latitude": 55.6768,
+      "longitude": 12.5955
+    },
+    {
+      "id": "Q12341630",
+      "wikidata_id": "Q12341630",
+      "name_da": "Worsaaes Ø",
+      "name_en": "",
+      "latitude": 54.7431,
+      "longitude": 11.5781
+    },
+    {
+      "id": "Q271209",
+      "wikidata_id": "Q271209",
+      "name_da": "Årø",
+      "name_en": "Årø",
+      "latitude": 55.2625,
+      "longitude": 9.7475
+    },
+    {
+      "id": "Q271355",
+      "wikidata_id": "Q271355",
+      "name_da": "Æbelø",
+      "name_en": "Æbelø",
+      "latitude": 55.635,
+      "longitude": 10.178
+    },
+    {
+      "id": "Q23751072",
+      "wikidata_id": "Q23751072",
+      "name_da": "Æbeløholm",
+      "name_en": "",
+      "latitude": 55.6097,
+      "longitude": 10.1833
+    },
+    {
+      "id": "Q27150",
+      "wikidata_id": "Q27150",
+      "name_da": "Ærø",
+      "name_en": "Ærø",
+      "latitude": 54.883333,
+      "longitude": 10.333333
+    },
+    {
+      "id": "Q23743408",
+      "wikidata_id": "Q23743408",
+      "name_da": "Øksneholm",
+      "name_en": "Øksneholm",
+      "latitude": 55.875833,
+      "longitude": 12.010556
+    }
+  ],
+  "meta": {
+    "title": "Øer i Danmark - Gratis download",
+    "description": "Øer (islands) i Danmark fra Wikidata (P31 = Q23442, P17 = Danmark) med koordinater. Indeholder 228 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Øer i Danmark | ListBase",
+    "seo_description": "Download Øer i Danmark — 228 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 228 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

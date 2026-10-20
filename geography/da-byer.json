@@ -1,0 +1,2816 @@
+{
+  "id": "da-byer",
+  "name": "Danske byer",
+  "title": "Danske byer",
+  "description": "Danske byer og bebyggelser med over 500 indbyggere, inkl. kommune og geografiske koordinater. Kilde GeoNames (cities500).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 345,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "alternate_names",
+      "label": "Alternate Names",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Copenhagen",
+      "kommune": "København",
+      "population": 1153615,
+      "latitude": 55.6759,
+      "longitude": 12.5655,
+      "alternate_names": "CPH, Cobanhavan, Copenaga, Copenaghen, Copenaguen, Copenhaga, Copenhagen, Copenhague, Copenhaguen, Copenhaguen - Kobenhavn, Copenhaguen - København, Cóbanhávan, Hafnia, Kapehngagen, Kaupmannahoefn, Kaupmannahöfn, Keypmannahavn, Kjobenhavn, Kjopenhamn, Kjøpenhamn, Kobenhamman, Kobenhaven, Kobenhavn, Kodan, Kodaň, Koebenhavn, Koeoepenhamina, Koepenhamn, Kopenage, Kopenchage, Kopengagen, Kopenhaagen, Kopenhag, Kopenhaga, Kopenhage, Kopenhagen, Kopenhagena, Kopenhago, Kopenhāgena, Kopenkhagen, Koppenhaga, Koppenhága, Kòpenhaga, Köbenhavn, Köpenhamn, Kööpenhamina, København, Københámman, ge ben ha gen, khopenheken, kopanahagana, kopenahagena, kopenahegena, kopenhagen, kwbnhaghn, kwpnhgn, qwpnhgn, Κοπεγχάγη, Капэнгаген, Копенгаген, Копенхаген, Կոպենհագեն, קופנהאגן, קופנהגן, كوبنهاغن, كوپېنھاگېن, ܟܘܦܢܗܓܢ, कोपनहागन, কোপেনহাগেন, কোপেনহেগেন, โคเปนเฮเกน, ཀའོ་པེན་ཧ་ཀེན, კოპენჰაგენი, ኮፐንሀገን, ኮፕንሀግ, コペンハーゲン, 哥本哈根, 코펜하겐"
+    },
+    {
+      "name": "Århus",
+      "kommune": "Aarhus Kommune",
+      "population": 237551,
+      "latitude": 56.1567,
+      "longitude": 10.2108,
+      "alternate_names": "ARR, Aarhus, Aarhusium, Archous, Arhus, Arhuzo, Arosar, Orhusa, Orhūsa, Orkhus, ao hu si, ofusu, Árósar, Århus, Άρχους, Орхус, אורהוס, オーフス, 奥胡斯"
+    },
+    {
+      "name": "Odense",
+      "kommune": "Odense Kommune",
+      "population": 145931,
+      "latitude": 55.3959,
+      "longitude": 10.3883,
+      "alternate_names": "ODE, Odehnseh, Odensa, Odense, Odensė, Odinsve, Ontense, Othania, Ottensee, adnsh, awdnsh, odense, odinse, ou deng sai, xo den se, Óðinsvé, Όντενσε, Оденсе, Одэнсэ, Օդենսե, אודנזה, أودنسه, ادنسه, اودنسے, اوڈینس, ओडिन्से, โอเดนเซ, ოდენსე, オーデンセ, 欧登塞, 오덴세"
+    },
+    {
+      "name": "Aalborg",
+      "kommune": "Ålborg Kommune",
+      "population": 122219,
+      "latitude": 57.048,
+      "longitude": 9.9187,
+      "alternate_names": "AAL, Aalborg, Alaborg, Alborg, Almpornk, Ol'barg, Ol'borg, Olbor, Olborg, Olborga, Olborgas, albrg, albw, albwrg, albwrgh, ao er bao, olboleu, olborgi, orubo, xx lb xr, Álaborg, Ålborg, Άλμποργκ, Олбор, Олборг, Ольбарг, Ольборг, Օլբորգ, אולבורג, آلبرگ, آلبو, آلبورغ, آلبورگ, ออลบอร์, ოლბორგი, オールボー, 奥尔堡, 올보르"
+    },
+    {
+      "name": "Frederiksberg",
+      "kommune": "Frederiksberg Kommune",
+      "population": 95029,
+      "latitude": 55.6794,
+      "longitude": 12.5346,
+      "alternate_names": "Frederiksberg, Frederiksberg Kommune, Frederiksbergin kunta, Frenteriksmpernk, fei te lie si bei, frydryksbrgh, peuledeligseubeleu, prederikʼsbergi, Φρέντερικσμπεργκ, Фредериксберг, Фредеріксберг, فريدريكسبرغ, فریڈرکسبرگ, ფრედერიკსბერგი, 腓特烈斯贝, 프레데릭스베르"
+    },
+    {
+      "name": "Esbjerg",
+      "kommune": "Esbjerg Kommune",
+      "population": 72205,
+      "latitude": 55.4703,
+      "longitude": 8.4519,
+      "alternate_names": "EBJ, Ehsb'erg, Esber, Esberg, Esbjaerg, Esbjerg, Esbjerga, Esbjergas, Esbjærg, Esbyerq, ai si bi yue, asbjrg, asbyrg, aysbyrgh, esbieri, eseubieleu, esubyau, xe sbiyer, Есбер, Есбєрг, Есбјерг, Эсбьерг, אסביירג, إيسبيرغ, اسبجرگ, اسبیرگ, เอสบีเยร์, ესბიერი, エスビャウ, 埃斯比约, 에스비에르"
+    },
+    {
+      "name": "Horsens",
+      "kommune": "Horsens Kommune",
+      "population": 58646,
+      "latitude": 55.8607,
+      "longitude": 9.8503,
+      "alternate_names": "Horsens, Horsensas, Khorsens, h xr sens, holeusenseu, horsensi, hosensu, huo er sen si, hwrsyns, hwrzns, Хорсенс, هورزنس, هورسينس, ہارسنز, ฮอร์เซนส์, ჰორსენსი, ホーセンス, 霍尔森斯, 호르센스"
+    },
+    {
+      "name": "Randers",
+      "kommune": "Randers Kommune",
+      "population": 55780,
+      "latitude": 56.4607,
+      "longitude": 10.0364,
+      "alternate_names": "Randers, Randersa, Randersas, Raners, Ranners, Ranters, ZIR, lan ne si, laneleuseu, ra nex s, ranasu, randrs, ranersi, Ράντερς, Рандерс, Ранерс, Раннерс, راندرس, رانڈرز, ราเนอส์, რანერსი, ラナース, 蘭訥斯, 라네르스"
+    },
+    {
+      "name": "Kolding",
+      "kommune": "Kolding Kommune",
+      "population": 55363,
+      "latitude": 55.4904,
+      "longitude": 9.4722,
+      "alternate_names": "Kol'ding, Kol'dyng, Kolding, Koldinga, Koldingas, Koldingo, Kolling, ZBT, ke ling, khxleng, kolling, koringu, kwldngh, kwldyng, Колдинг, Коллинг, Кольдинг, Кольдынг, كولدنغ, کولدینگ, کولڈنگ, คอเลง, კოლინგი, コリング, 科靈, 콜링"
+    },
+    {
+      "name": "Vejle",
+      "kommune": "Vejle Kommune",
+      "population": 51177,
+      "latitude": 55.7093,
+      "longitude": 9.5357,
+      "alternate_names": "Vaile, Vailė, Vajle, Vejle, baille, vaile, vu~aire, wa ai lei, waylh, wile, Вайле, Вајле, Вејле, وایله, ไวเล, ვაილე, ヴァイレ, 瓦埃勒, 바일레"
+    },
+    {
+      "name": "Hvidovre",
+      "kommune": "Hvidovre Kommune",
+      "population": 49380,
+      "latitude": 55.6572,
+      "longitude": 12.4736,
+      "alternate_names": "Hvidovre, Khvidovre, Хвидовре"
+    },
+    {
+      "name": "Greve",
+      "kommune": "Greve Kommune",
+      "population": 47671,
+      "latitude": 55.5833,
+      "longitude": 12.3,
+      "alternate_names": ""
+    },
+    {
+      "name": "Herning",
+      "kommune": "Herning Kommune",
+      "population": 44763,
+      "latitude": 56.1362,
+      "longitude": 8.9766,
+      "alternate_names": "Gerning, Herning, Herningas, Kherning, Munisipalitas Herning, Munisipaliti Herning, ZRY, hai ning, heaningu, herningi, Гернінг, Хернинг, ჰერნინგი, ヘアニング, 海宁"
+    },
+    {
+      "name": "Roskilde",
+      "kommune": "Roskilde Kommune",
+      "population": 44285,
+      "latitude": 55.6415,
+      "longitude": 12.0803,
+      "alternate_names": "Hroarskelda, Hróarskelda, RKE, Roschildia, Roskil'de, Roskilde, Roskildė, Roskile, Roskille, loseukille, luo si ji lei, raskylh, rosukire, rx ski ld, Роскилде, Роскиле, Роскилле, Роскильде, Роскіле, Роскілле, Ռոսկիլդե, راسکیله, راسکیلے, รอสกิลด์, როსკილე, ロスキレ, 罗斯基勒, 로스킬레"
+    },
+    {
+      "name": "Silkeborg",
+      "kommune": "Silkeborg Kommune",
+      "population": 41674,
+      "latitude": 56.1697,
+      "longitude": 9.5451,
+      "alternate_names": "Sil'keborg, Silkeborg, Silkeborgas, XAH, shirukebo, silkeboleu, sylkybwrj, xi er ke bao, Силкеборг, Силькеборг, Сількеборг, سيلكيبورج, სილკებორგი, シルケボー, 锡尔克堡, 실케보르"
+    },
+    {
+      "name": "Næstved",
+      "kommune": "Næstved Kommune",
+      "population": 40660,
+      "latitude": 55.2299,
+      "longitude": 11.7609,
+      "alternate_names": "Naestved, Nestved, Nestvedas, nai si te wei ci, neseuteubedeu, nesutovu~ezu, Нествед, ნესტვედი, ネストヴェズ, 奈斯特韦兹, 네스트베드"
+    },
+    {
+      "name": "Ballerup",
+      "kommune": "Ballerup Kommune",
+      "population": 40000,
+      "latitude": 55.7317,
+      "longitude": 12.3633,
+      "alternate_names": "Balerup, Balleru, Ballerup, Ballerup Belediyesi, Ballerup Chu-ti-chhi, Ballerup Chū-tī-chhī, Ballerup Kommune, Ballerup Komuun, Ballerup Municipality, Ballerup koezseg, Ballerup kommune, Ballerup község, Ballerupin kunta, Comuna Ballerup, Kommun Ballerup, Municipi de Ballerup, Munisipalitas Ballerup, Munisipaliti Ballerup, ba lei lu pu zi zhi shi, Բալերուպ, 巴勒魯普自治市"
+    },
+    {
+      "name": "Charlottenlund",
+      "kommune": "Gentofte Kommune",
+      "population": 40000,
+      "latitude": 55.7524,
+      "longitude": 12.5745,
+      "alternate_names": "Charlottenlund"
+    },
+    {
+      "name": "Vanløse",
+      "kommune": "København",
+      "population": 37115,
+      "latitude": 55.6836,
+      "longitude": 12.4871,
+      "alternate_names": "Vanlose, Vanløse"
+    },
+    {
+      "name": "Fredericia",
+      "kommune": "Fredericia Kommune",
+      "population": 36946,
+      "latitude": 55.5657,
+      "longitude": 9.7526,
+      "alternate_names": "Fredericia, Fredericija, Frederisija, ZBJ, furezerishia, peuledelisia, prederisia, Фредерисия, Фредериција, ფრედერისია, フレゼリシア, 프레데리시아"
+    },
+    {
+      "name": "Hørsholm",
+      "kommune": "Hørsholm Kommune",
+      "population": 36670,
+      "latitude": 55.881,
+      "longitude": 12.5011,
+      "alternate_names": "Hiorsholmas, Horsholm, Hørsholm, Kherskhol'm, Khjorskhol'm, hersholmi, Херсхольм, Хёрсхольм, ჰერსჰოლმი"
+    },
+    {
+      "name": "Helsingør",
+      "kommune": "Helsingør Kommune",
+      "population": 35048,
+      "latitude": 56.0361,
+      "longitude": 12.6136,
+      "alternate_names": "Elseneur, Elsinoer, Elsinor, Elsinore, Elsinör, Gel'singer, Helsingioras, Helsingjaeyri, Helsingoer, Helsingor, Helsingör, Helsingør, Khel'singjor, Khelsinger, he er xin ge, hel singnge xr, helsing-oeleu, helsingeri, herushingeru, hylysynkwr, xi xing jia, Гельсінгер, Хелсингер, Хельсингёр, Хельсінгёр, هيليسينكور, เฮลซิงเงอร์, ჰელსინგერი, ヘルシンゲル, 希星加, 赫爾辛格, 헬싱외르"
+    },
+    {
+      "name": "Viborg",
+      "kommune": "Viborg Kommune",
+      "population": 34831,
+      "latitude": 56.4532,
+      "longitude": 9.402,
+      "alternate_names": "Vibor, Viborg, Viborga, Viborgas, Viburgo, Vimpornk, Wibergis, ZGX, biboleu, viborgi, vu~ibo, wei bao, Βίμποργκ, Вибор, Виборг, Віборг, ویبو، ڈنمارک, ვიბორგი, ヴィボー, 維堡, 비보르"
+    },
+    {
+      "name": "Køge",
+      "kommune": "Køge Kommune",
+      "population": 33885,
+      "latitude": 55.458,
+      "longitude": 12.1821,
+      "alternate_names": "Kege, Keje, Kioge, Kiogė, Kjoge, Koge, Køge, ke e, koie, kyuge, Кеге, Кеје, Кёге, კეგე, キューゲ, 克厄, 코이에"
+    },
+    {
+      "name": "Holstebro",
+      "kommune": "Holstebro Kommune",
+      "population": 32072,
+      "latitude": 56.3601,
+      "longitude": 8.6161,
+      "alternate_names": "Holstebro, Khol'stebro, Kholstebro, Kholtesbro, QWO, huo er si te bu luo, Холстебро, Холтесбро, Хольстебро, ჰოლსტებრო, 霍爾斯特布羅"
+    },
+    {
+      "name": "Slagelse",
+      "kommune": "Slagelse Kommune",
+      "population": 31896,
+      "latitude": 55.4028,
+      "longitude": 11.3546,
+      "alternate_names": "Slagel'se, Slagel'seh, Slagelse, si la e er se zi zhi shi, slagelse, Слагельсе, Слагельсэ, სლაგელსე, 斯拉厄爾瑟自治市"
+    },
+    {
+      "name": "Taastrup",
+      "kommune": "Høje-Taastrup Kommune",
+      "population": 30977,
+      "latitude": 55.6501,
+      "longitude": 12.3016,
+      "alternate_names": "Taastrup, Tastrup, Tåstrup, Тааструп"
+    },
+    {
+      "name": "Hillerød",
+      "kommune": "Hillerød Kommune",
+      "population": 30853,
+      "latitude": 55.9279,
+      "longitude": 12.3008,
+      "alternate_names": "Hillerod, Hillerød, Khillerod, hylrwd, Хиллерод, הילרוד"
+    },
+    {
+      "name": "Albertslund",
+      "kommune": "Albertslund Kommune",
+      "population": 30000,
+      "latitude": 55.6569,
+      "longitude": 12.3638,
+      "alternate_names": "Al'bertslunn, Albertslun, Albertslund, Albertslund Chu-ti-chhi, Albertslund Chū-tī-chhī, Albertslund Kommune, Albertslund Komuun, Albertslund Municipality, Albertslund koezseg, Albertslund kommune, Albertslund község, Albertslundin kunta, Comuna Albertslund, Gmina Albertslund, Kommun Albertslund, Municipi dAlbertslund, Munisipalitas Albertslund, Munisipaliti Albertslund, a er bei te si long zi zhi shi, Альбертслунн, Ալբերտսլուն, شهر البرتس‌لاند, 阿爾貝特斯隆自治市"
+    },
+    {
+      "name": "Rødovre",
+      "kommune": "Rødovre Kommune",
+      "population": 30000,
+      "latitude": 55.6806,
+      "longitude": 12.4537,
+      "alternate_names": "Comuna Rodovre, Comuna Rødovre, Kommun Rodovre, Kommun Rødovre, Municipi de Rodovre, Municipi de Rødovre, Munisipalitas Rodovre, Munisipalitas Rødovre, Redovre, Rodovre, Rodovre Chu-ti-chhi, Rodovre Kommune, Rodovre Komuun, Rodovre Municipality, Rodovre koezseg, Rodovre kommune, Rodovren kunta, Rødovre, Rødovre Chū-tī-chhī, Rødovre Kommune, Rødovre Komuun, Rødovre Municipality, Rødovre kommune, Rødovre község, Rødovren kunta, lei zao lei zi zhi shi, Редовре, 勒藻勒自治市"
+    },
+    {
+      "name": "Svendborg",
+      "kommune": "Svendborg Kommune",
+      "population": 27553,
+      "latitude": 55.0598,
+      "longitude": 10.6068,
+      "alternate_names": "QXV, Svenborg, Svendborg, Svennborge, svenborgi, Свендборг, Свеннборге, სვენბორგი"
+    },
+    {
+      "name": "Sønderborg",
+      "kommune": "Sønderborg Kommune",
+      "population": 27033,
+      "latitude": 54.909,
+      "longitude": 9.7892,
+      "alternate_names": "Munisipalitas Sonderborg, Munisipalitas Sønderborg, SGD, Senderborg, Sionderborgas, Sjonnenborg, Sjonnerborg, Soenderborg, Sonderborg, Sonderburg, Synneborre, Sønderborg, senabo, senerborgi, soeneleuboleu, Сендерборг, Сённенборг, Сённерборг, სენერბორგი, セナボー, 쇠네르보르"
+    },
+    {
+      "name": "Hjørring",
+      "kommune": "Hjørring Kommune",
+      "population": 24634,
+      "latitude": 57.4642,
+      "longitude": 9.9823,
+      "alternate_names": "Hjoerring, Hjorring, Hjörring, Hjørring, Jering, Khjoring, ieringi, Јеринг, Хјоринг, იერინგი"
+    },
+    {
+      "name": "Holbæk",
+      "kommune": "Holbæk Kommune",
+      "population": 24544,
+      "latitude": 55.7175,
+      "longitude": 11.7128,
+      "alternate_names": "Holbaek, Holbekas, Holbæk, Hollbaek, Hollbæk, Khol'bek, Kholbek, Холбек, Хольбек, ჰოლბეკი"
+    },
+    {
+      "name": "Frederikshavn",
+      "kommune": "Frederikshavn Kommune",
+      "population": 24103,
+      "latitude": 57.4407,
+      "longitude": 10.5366,
+      "alternate_names": "Fladstrand, Frederikshaunas, Frederikshavn kommuna, Frederikskhavn, Fredrikshamn, QFH, fei te lie gang, furezerikusuhaun, peuledeligseuhaun, prederikshavni, Фредериксхавн, ფრედერიქსჰავნი, フレゼリクスハウン, 腓特烈港, 프레데릭스하운"
+    },
+    {
+      "name": "Nørresundby",
+      "kommune": "Ålborg Kommune",
+      "population": 22083,
+      "latitude": 57.0588,
+      "longitude": 9.9228,
+      "alternate_names": "Norresundby, Nørresundby, neresunbiu, ნერესუნბიუ"
+    },
+    {
+      "name": "Haderslev",
+      "kommune": "Haderslev Kommune",
+      "population": 20825,
+      "latitude": 55.2494,
+      "longitude": 9.4877,
+      "alternate_names": "Hadersleben, Haderslev, Haderslevas, Haderslevo, Khadehrsleu, Khaderslev, haderslevi, Хадерслев, Хадэрслеў, ჰადერსლევი"
+    },
+    {
+      "name": "Skive",
+      "kommune": "Skive Kommune",
+      "population": 20815,
+      "latitude": 56.567,
+      "longitude": 9.0271,
+      "alternate_names": "SQW, Skive, Скиве"
+    },
+    {
+      "name": "Glostrup",
+      "kommune": "Glostrup Kommune",
+      "population": 20673,
+      "latitude": 55.6666,
+      "longitude": 12.4038,
+      "alternate_names": "Comuna Glostrup, Glostrup, Glostrup Chu-ti-chhi, Glostrup Chū-tī-chhī, Glostrup Kommune, Glostrup Komuun, Glostrup Municipality, Glostrup koezseg, Glostrup kommuna, Glostrup kommune, Glostrup község, Glostrupin kunta, Glostrups kommun, Gmina Glostrup, Kommun Glostrup, Municipi de Glostrup, Munisipalitas Glostrup, ge luo si chu pu zi zhi shi, Глоструп, Գլոստրուպ, გლოსტრუპი, 格洛斯楚普自治市"
+    },
+    {
+      "name": "Ringsted",
+      "kommune": "Ringsted Kommune",
+      "population": 20188,
+      "latitude": 55.4426,
+      "longitude": 11.7901,
+      "alternate_names": "Ringsted, ling si tai ci, Рингстед, რინგსტედი, 灵斯泰兹"
+    },
+    {
+      "name": "Stenløse",
+      "kommune": "Egedal Kommune",
+      "population": 19998,
+      "latitude": 55.7683,
+      "longitude": 12.1972,
+      "alternate_names": ""
+    },
+    {
+      "name": "Ishøj",
+      "kommune": "Ishøj Kommune",
+      "population": 19453,
+      "latitude": 55.6154,
+      "longitude": 12.3518,
+      "alternate_names": "Ishoj, Ishøj"
+    },
+    {
+      "name": "Birkerød",
+      "kommune": "Rudersdal Kommune",
+      "population": 18901,
+      "latitude": 55.8476,
+      "longitude": 12.4279,
+      "alternate_names": "Birkerod, Birkerød"
+    },
+    {
+      "name": "Farum",
+      "kommune": "Furesø Kommune",
+      "population": 18376,
+      "latitude": 55.8086,
+      "longitude": 12.3607,
+      "alternate_names": "Farum, Фарум"
+    },
+    {
+      "name": "Nykøbing Falster",
+      "kommune": "Guldborgsund Kommune",
+      "population": 16807,
+      "latitude": 54.7691,
+      "longitude": 11.8742,
+      "alternate_names": "Nikebing Falster, Niukiobingas, Njukebing Fal'ster, Njukjobing, Nykjobing, Nykobing F, Nykobing Falster, Nykøbing F, Никебинг Фалстер, Нюкебінґ Фальстер, Нюкёбинг, ニュークビン・ファルスター"
+    },
+    {
+      "name": "Aabenraa",
+      "kommune": "Aabenraa Kommune",
+      "population": 16344,
+      "latitude": 55.0443,
+      "longitude": 9.4174,
+      "alternate_names": "Aabenra, Aabenraa, Aabenrå, Abenra, Abenrá, Abrenra, Apenrade, Obenro, XNR, ao ben luo, obenlo, obenro, Åbenrå, Åbrenrå, Обенро, オーベンロー, 奥本罗, 오벤로"
+    },
+    {
+      "name": "Kalundborg",
+      "kommune": "Kalundborg Kommune",
+      "population": 15939,
+      "latitude": 55.6795,
+      "longitude": 11.0886,
+      "alternate_names": "Kallundborg, Kalundborg"
+    },
+    {
+      "name": "Nyborg",
+      "kommune": "Nyborg Kommune",
+      "population": 15826,
+      "latitude": 55.3127,
+      "longitude": 10.7896,
+      "alternate_names": "Niborg, Njuborg, Nyborg, ni bao zi zhi shi, Ниборг, Нюборг, 尼堡自治市"
+    },
+    {
+      "name": "Lillerød",
+      "kommune": "Allerød Kommune",
+      "population": 15359,
+      "latitude": 55.875,
+      "longitude": 12.3458,
+      "alternate_names": ""
+    },
+    {
+      "name": "Korsør",
+      "kommune": "Slagelse Kommune",
+      "population": 15029,
+      "latitude": 55.3299,
+      "longitude": 11.1386,
+      "alternate_names": "Korser, Korsjor, Korsor, Korsør, Корсер, Корсёр"
+    },
+    {
+      "name": "Solrød Strand",
+      "kommune": "Solrød Kommune",
+      "population": 14845,
+      "latitude": 55.5329,
+      "longitude": 12.2223,
+      "alternate_names": ""
+    },
+    {
+      "name": "Ikast",
+      "kommune": "Ikast-Brande Kommune",
+      "population": 14692,
+      "latitude": 56.1388,
+      "longitude": 9.1577,
+      "alternate_names": "QLZ"
+    },
+    {
+      "name": "Frederikssund",
+      "kommune": "Frederikssund Kommune",
+      "population": 14564,
+      "latitude": 55.8396,
+      "longitude": 12.069,
+      "alternate_names": "Frederikssund, Frederikssunn, Frederiksund, Фредерикссунн, Фредериксунд"
+    },
+    {
+      "name": "Grenaa",
+      "kommune": "Norddjurs Kommune",
+      "population": 14317,
+      "latitude": 56.4158,
+      "longitude": 10.8782,
+      "alternate_names": "Grena, Grenaa, Grenå"
+    },
+    {
+      "name": "Nakskov",
+      "kommune": "Lolland Kommune",
+      "population": 14081,
+      "latitude": 54.8304,
+      "longitude": 11.1357,
+      "alternate_names": "Nakskov, Nakskovas, Naskov, Наксков"
+    },
+    {
+      "name": "Rønne",
+      "kommune": "Bornholm Kommune",
+      "population": 13890,
+      "latitude": 55.1009,
+      "longitude": 14.7066,
+      "alternate_names": "RNN, Rene, Renne, Rione, Rionė, Rjonne, Roneh, Ronne, Rønne, ZDY, rene, Рене, Ронэ, Рённе, レネ"
+    },
+    {
+      "name": "Middelfart",
+      "kommune": "Middelfart Kommune",
+      "population": 13596,
+      "latitude": 55.5059,
+      "longitude": 9.7305,
+      "alternate_names": "Middel'fart, Миддельфарт"
+    },
+    {
+      "name": "Skanderborg",
+      "kommune": "Skanderborg Kommune",
+      "population": 13543,
+      "latitude": 56.0343,
+      "longitude": 9.9318,
+      "alternate_names": "Skanderborg"
+    },
+    {
+      "name": "Vallensbæk",
+      "kommune": "Vallensbæk Kommune",
+      "population": 13500,
+      "latitude": 55.622,
+      "longitude": 12.3851,
+      "alternate_names": "Vallensbaek, Vallensbæk"
+    },
+    {
+      "name": "Værløse",
+      "kommune": "Furesø Kommune",
+      "population": 13024,
+      "latitude": 55.7825,
+      "longitude": 12.3686,
+      "alternate_names": "Lille Vaerlose, Lille Værløse, Vaerlose, Værløse"
+    },
+    {
+      "name": "Thisted",
+      "kommune": "Thisted Kommune",
+      "population": 13020,
+      "latitude": 56.9552,
+      "longitude": 8.6949,
+      "alternate_names": "TED, Thystad, Tisted"
+    },
+    {
+      "name": "Varde",
+      "kommune": "Varde Kommune",
+      "population": 12735,
+      "latitude": 55.6211,
+      "longitude": 8.4807,
+      "alternate_names": "Varde, Варде"
+    },
+    {
+      "name": "Hedehusene",
+      "kommune": "Høje-Taastrup Kommune",
+      "population": 12250,
+      "latitude": 55.6495,
+      "longitude": 12.1983,
+      "alternate_names": "Hedehusene"
+    },
+    {
+      "name": "Frederiksværk",
+      "kommune": "Halsnæs Kommune",
+      "population": 12176,
+      "latitude": 55.9707,
+      "longitude": 12.0225,
+      "alternate_names": "Frederiksvaerk, Frederiksværk"
+    },
+    {
+      "name": "Vordingborg",
+      "kommune": "Vordingborg Kommune",
+      "population": 12014,
+      "latitude": 55.008,
+      "longitude": 11.9106,
+      "alternate_names": "Vordingborg, Вордингборг"
+    },
+    {
+      "name": "Brønderslev",
+      "kommune": "Brønderslev Kommune",
+      "population": 11671,
+      "latitude": 57.2702,
+      "longitude": 9.941,
+      "alternate_names": "Bronderslev, Brønderslev, XAQ"
+    },
+    {
+      "name": "Espergærde",
+      "kommune": "Helsingør Kommune",
+      "population": 11358,
+      "latitude": 55.9946,
+      "longitude": 12.5473,
+      "alternate_names": "Espergaerde, Espergjaerde, Espergjærde, Espergærde"
+    },
+    {
+      "name": "Struer",
+      "kommune": "Struer Kommune",
+      "population": 11317,
+      "latitude": 56.492,
+      "longitude": 8.594,
+      "alternate_names": "Comuna Struer, Kommun Struer, Municipi de Struer, Munisipalitas Struer, QWQ, Struehr, Struer, Struer Chu-ti-chhi, Struer Chū-tī-chhī, Struer Kommune, Struer Komuun, Struer Municipality, Struer kommune, Struerin kunta, si chu e zi zhi shi, Струер, Струэр, 斯楚厄自治市"
+    },
+    {
+      "name": "Fløng",
+      "kommune": "Høje-Taastrup Kommune",
+      "population": 11108,
+      "latitude": 55.6621,
+      "longitude": 12.187,
+      "alternate_names": "Flong, Fløng"
+    },
+    {
+      "name": "Hobro",
+      "kommune": "Mariagerfjord Kommune",
+      "population": 11064,
+      "latitude": 56.6431,
+      "longitude": 9.7903,
+      "alternate_names": "Hobro, Khobro, hwbrw, Хобро, هوبرو"
+    },
+    {
+      "name": "Dragør",
+      "kommune": "Dragør Kommune",
+      "population": 11045,
+      "latitude": 55.5928,
+      "longitude": 12.6722,
+      "alternate_names": "Dragjor, Dragoer, Dragor, Dragör, Dragør, de la e zi zhi shi, Драгёр, 德拉厄自治市"
+    },
+    {
+      "name": "Odder",
+      "kommune": "Odder Kommune",
+      "population": 11009,
+      "latitude": 55.9731,
+      "longitude": 10.153,
+      "alternate_names": "Odder, Оддер"
+    },
+    {
+      "name": "Kongens Lyngby",
+      "kommune": "Lyngby-Tårbæk Kommune",
+      "population": 10600,
+      "latitude": 55.7704,
+      "longitude": 12.5038,
+      "alternate_names": "Kgs. Lyngby, Konigs Lyngby, Lyngby"
+    },
+    {
+      "name": "Haslev",
+      "kommune": "Faxe Kommune",
+      "population": 10588,
+      "latitude": 55.3235,
+      "longitude": 11.9639,
+      "alternate_names": "Khaslev, Хаслев"
+    },
+    {
+      "name": "Christianshavn",
+      "kommune": "København",
+      "population": 10140,
+      "latitude": 55.6738,
+      "longitude": 12.5954,
+      "alternate_names": "Christianshavn"
+    },
+    {
+      "name": "Hedensted",
+      "kommune": "Hedensted Kommune",
+      "population": 10048,
+      "latitude": 55.7704,
+      "longitude": 9.7011,
+      "alternate_names": ""
+    },
+    {
+      "name": "Tårnby",
+      "kommune": "Tårnby Kommune",
+      "population": 10000,
+      "latitude": 55.6303,
+      "longitude": 12.6004,
+      "alternate_names": "Taarnby, Tarnby, Tornbju, Tårnby, Торнбю, ტორნბი"
+    },
+    {
+      "name": "Jyllinge",
+      "kommune": "Roskilde Kommune",
+      "population": 9981,
+      "latitude": 55.7529,
+      "longitude": 12.1031,
+      "alternate_names": "Jyllinge"
+    },
+    {
+      "name": "Skagen",
+      "kommune": "Frederikshavn Kommune",
+      "population": 9747,
+      "latitude": 57.7209,
+      "longitude": 10.5839,
+      "alternate_names": "QJV, Skagen, Skagenas, askagn, si ka en, skajn, Скаген, اسکاگن, سكاجن, 斯卡恩"
+    },
+    {
+      "name": "Smørumnedre",
+      "kommune": "Egedal Kommune",
+      "population": 9507,
+      "latitude": 55.7423,
+      "longitude": 12.3028,
+      "alternate_names": "Smorum, Smorumnedre, Smørum, Smørumnedre"
+    },
+    {
+      "name": "Grindsted",
+      "kommune": "Billund Kommune",
+      "population": 9414,
+      "latitude": 55.7573,
+      "longitude": 8.9275,
+      "alternate_names": "Grindsted"
+    },
+    {
+      "name": "Nykøbing Mors",
+      "kommune": "Morsø Kommune",
+      "population": 9326,
+      "latitude": 56.7933,
+      "longitude": 8.8528,
+      "alternate_names": "Nykjobing, Nykjöbing, Nykobing, Nykobing M, Nykøbing, Nykøbing M"
+    },
+    {
+      "name": "Ringkøbing",
+      "kommune": "Ringkøbing-Skjern Kommune",
+      "population": 9315,
+      "latitude": 56.0901,
+      "longitude": 8.244,
+      "alternate_names": "Ringkiobingas, Ringkjobing, Ringkjöbing, Ringkobing, Ringkøbing"
+    },
+    {
+      "name": "Lystrup",
+      "kommune": "Aarhus Kommune",
+      "population": 9107,
+      "latitude": 56.2375,
+      "longitude": 10.2378,
+      "alternate_names": "Lystrup"
+    },
+    {
+      "name": "Humlebæk",
+      "kommune": "Fredensborg Kommune",
+      "population": 8965,
+      "latitude": 55.9618,
+      "longitude": 12.5341,
+      "alternate_names": ""
+    },
+    {
+      "name": "Løkken",
+      "kommune": "Hjørring Kommune",
+      "population": 8828,
+      "latitude": 57.3705,
+      "longitude": 9.7147,
+      "alternate_names": "Lekken, Ljokken, Лёккен"
+    },
+    {
+      "name": "Hundested",
+      "kommune": "Halsnæs Kommune",
+      "population": 8615,
+      "latitude": 55.964,
+      "longitude": 11.8504,
+      "alternate_names": "Gmina Hundested, Hundested"
+    },
+    {
+      "name": "Trørød",
+      "kommune": "Rudersdal Kommune",
+      "population": 8576,
+      "latitude": 55.8395,
+      "longitude": 12.5443,
+      "alternate_names": "Trorod, Trørød"
+    },
+    {
+      "name": "Vejen",
+      "kommune": "Vejen Kommune",
+      "population": 8525,
+      "latitude": 55.4812,
+      "longitude": 9.138,
+      "alternate_names": "Comuna Vejen, Kommun Vejen, Municipi de Vejen, Munisipalitas Vejen, Vayen, Vejen, Vejen Chu-ti-chhi, Vejen Chū-tī-chhī, Vejen Kommune, Vejen Komuun, Vejen Municipality, Vejen kommune, Vejenin kunta, wa yi en zi zhi shi, Վայեն, ვეიენის მუნიციპალიტეტი, 瓦伊恩自治市"
+    },
+    {
+      "name": "Måløv",
+      "kommune": "Ballerup Kommune",
+      "population": 8513,
+      "latitude": 55.7553,
+      "longitude": 12.3233,
+      "alternate_names": "Maalov, Maaløv, Malov, Måløv"
+    },
+    {
+      "name": "Sæby",
+      "kommune": "Frederikshavn Kommune",
+      "population": 8435,
+      "latitude": 57.3319,
+      "longitude": 10.5225,
+      "alternate_names": "Saeby, Sæby"
+    },
+    {
+      "name": "Fredensborg",
+      "kommune": "Fredensborg Kommune",
+      "population": 8249,
+      "latitude": 55.9756,
+      "longitude": 12.4031,
+      "alternate_names": ""
+    },
+    {
+      "name": "Nivå",
+      "kommune": "Fredensborg Kommune",
+      "population": 8035,
+      "latitude": 55.934,
+      "longitude": 12.5048,
+      "alternate_names": "Niva, Nivaa, Nivå"
+    },
+    {
+      "name": "Vojens",
+      "kommune": "Haderslev Kommune",
+      "population": 8019,
+      "latitude": 55.2464,
+      "longitude": 9.306,
+      "alternate_names": "SKS, Vojens"
+    },
+    {
+      "name": "Ribe",
+      "kommune": "Esbjerg Kommune",
+      "population": 7983,
+      "latitude": 55.3305,
+      "longitude": 8.7697,
+      "alternate_names": "Ribe, Ripar, Rípar, li bo, libe, ribe, rybh, Рибе, Рібе, ریبه, リーベ, 里伯, 리베"
+    },
+    {
+      "name": "Tønder",
+      "kommune": "Tønder Kommune",
+      "population": 7841,
+      "latitude": 54.9331,
+      "longitude": 8.8667,
+      "alternate_names": "Tender, Tjonner, Tonder, Tondern, Tuner, Tynne, Tønder, tndr  danmark, toeneleu, to~una, Тендер, Тённер, تندر، دانمارک, トゥナー, 퇴네르"
+    },
+    {
+      "name": "Aars",
+      "kommune": "Vesthimmerland Kommune",
+      "population": 7771,
+      "latitude": 56.804,
+      "longitude": 9.5144,
+      "alternate_names": "Aars, Ars, Gmina Aars, asu, Års, アース"
+    },
+    {
+      "name": "Ebeltoft",
+      "kommune": "Syddjurs Kommune",
+      "population": 7501,
+      "latitude": 56.1944,
+      "longitude": 10.6821,
+      "alternate_names": "AEbeltoft, Ebeltoft kommune, Ehbel'toft, Æbeltoft, Эбельтофт"
+    },
+    {
+      "name": "Nordborg",
+      "kommune": "Sønderborg Kommune",
+      "population": 7406,
+      "latitude": 55.0573,
+      "longitude": 9.7408,
+      "alternate_names": "Gmina Nordborg, Nordborg, Nordburg"
+    },
+    {
+      "name": "Bjerringbro",
+      "kommune": "Viborg Kommune",
+      "population": 7390,
+      "latitude": 56.378,
+      "longitude": 9.6607,
+      "alternate_names": "Bjerringbro"
+    },
+    {
+      "name": "Helsinge",
+      "kommune": "Gribskov Kommune",
+      "population": 7354,
+      "latitude": 56.0228,
+      "longitude": 12.1975,
+      "alternate_names": "Khel'singe, Хельсинге"
+    },
+    {
+      "name": "Lemvig",
+      "kommune": "Lemvig Kommune",
+      "population": 7330,
+      "latitude": 56.5486,
+      "longitude": 8.3102,
+      "alternate_names": "Lemvig, Лемвиг"
+    },
+    {
+      "name": "Tranbjerg",
+      "kommune": "Aarhus Kommune",
+      "population": 7307,
+      "latitude": 56.0952,
+      "longitude": 10.136,
+      "alternate_names": "Tranbjaerg, Tranbjerg, Tranbjerg J, Tranbjærg"
+    },
+    {
+      "name": "Faaborg",
+      "kommune": "Faaborg-Midtfyn Kommune",
+      "population": 7239,
+      "latitude": 55.0951,
+      "longitude": 10.2423,
+      "alternate_names": "Fabberg, Faborg, Fåborg"
+    },
+    {
+      "name": "Sorø",
+      "kommune": "Sorø Kommune",
+      "population": 7167,
+      "latitude": 55.4318,
+      "longitude": 11.5555,
+      "alternate_names": "Sora, Sore, Sorey, Sorjo, Soro, Sorė, Sórey, soloe, sore, suo lei, Соре, Соро, Сорё, ソレ, 索勒, 소뢰"
+    },
+    {
+      "name": "Skjern",
+      "kommune": "Ringkøbing-Skjern Kommune",
+      "population": 7145,
+      "latitude": 55.95,
+      "longitude": 8.5,
+      "alternate_names": "Gmina Skjern, STA, Skern, Skerne, Skjern"
+    },
+    {
+      "name": "Hinnerup",
+      "kommune": "Favrskov Kommune",
+      "population": 7055,
+      "latitude": 56.2661,
+      "longitude": 10.063,
+      "alternate_names": "Gmina Hinnerup, Hinnerup, Hinnerup-Broby, Khinnerup, Хиннеруп"
+    },
+    {
+      "name": "Hadsten",
+      "kommune": "Favrskov Kommune",
+      "population": 7020,
+      "latitude": 56.3282,
+      "longitude": 10.0493,
+      "alternate_names": "Hadsten Stationsby, Khadsten, Хадстен"
+    },
+    {
+      "name": "Slangerup",
+      "kommune": "Frederikssund Kommune",
+      "population": 6829,
+      "latitude": 55.85,
+      "longitude": 12.1833,
+      "alternate_names": "Gmina Slangerup, Slangerup"
+    },
+    {
+      "name": "Bramming",
+      "kommune": "Esbjerg Kommune",
+      "population": 6726,
+      "latitude": 55.4695,
+      "longitude": 8.7001,
+      "alternate_names": "Bramming, Bramminge, Bramminge Stationsby, Gmina Bramming"
+    },
+    {
+      "name": "Hirtshals",
+      "kommune": "Hjørring Kommune",
+      "population": 6653,
+      "latitude": 57.5881,
+      "longitude": 9.9592,
+      "alternate_names": "Hirtshals, Khirtskhal's, Lilleheden Hornsnaes, Lilleheden Hornsnæs, XAJ, xi ci hai er si, Хиртсхальс, 希茨海尔斯"
+    },
+    {
+      "name": "Skælskør",
+      "kommune": "Slagelse Kommune",
+      "population": 6455,
+      "latitude": 55.2506,
+      "longitude": 11.2935,
+      "alternate_names": "Skaelskor, Skjelskor, Skjelskör, Skælskør"
+    },
+    {
+      "name": "Brande",
+      "kommune": "Ikast-Brande Kommune",
+      "population": 6357,
+      "latitude": 55.9432,
+      "longitude": 9.128,
+      "alternate_names": "Brande, Gmina Brande, ZMW"
+    },
+    {
+      "name": "Støvring",
+      "kommune": "Rebild Kommune",
+      "population": 6239,
+      "latitude": 56.8854,
+      "longitude": 9.8384,
+      "alternate_names": ""
+    },
+    {
+      "name": "Billund",
+      "kommune": "Billund Kommune",
+      "population": 6160,
+      "latitude": 55.7335,
+      "longitude": 9.1078,
+      "alternate_names": "BLL, Billund, Billunda, Billunn, Bilount, Bilundas, Gmina Billund, bi long, billun, bilundi, Μπιλούντ, Биллунн, ბილუნდი, 比隆, 빌룬"
+    },
+    {
+      "name": "Hammel",
+      "kommune": "Favrskov Kommune",
+      "population": 6138,
+      "latitude": 56.2576,
+      "longitude": 9.8632,
+      "alternate_names": "Gmina Hammel, Hammel, funmeru, フンメル"
+    },
+    {
+      "name": "Hørning",
+      "kommune": "Skanderborg Kommune",
+      "population": 6085,
+      "latitude": 56.087,
+      "longitude": 10.0372,
+      "alternate_names": "Horning, Hørning"
+    },
+    {
+      "name": "Assens",
+      "kommune": "Assens Kommune",
+      "population": 6053,
+      "latitude": 55.2702,
+      "longitude": 9.9008,
+      "alternate_names": "Assens, Ассенс"
+    },
+    {
+      "name": "Gilleleje",
+      "kommune": "Gribskov Kommune",
+      "population": 5799,
+      "latitude": 56.122,
+      "longitude": 12.3106,
+      "alternate_names": "Gilleje, Gilleleje"
+    },
+    {
+      "name": "Kerteminde",
+      "kommune": "Kerteminde Kommune",
+      "population": 5748,
+      "latitude": 55.449,
+      "longitude": 10.6577,
+      "alternate_names": "Kierteminde, Kjerteminde"
+    },
+    {
+      "name": "Stavnsholt",
+      "kommune": "Furesø Kommune",
+      "population": 5658,
+      "latitude": 55.8148,
+      "longitude": 12.4055,
+      "alternate_names": "Stavnsholt"
+    },
+    {
+      "name": "Neder Holluf",
+      "kommune": "Odense Kommune",
+      "population": 5612,
+      "latitude": 55.3645,
+      "longitude": 10.4482,
+      "alternate_names": "Neder Holluf"
+    },
+    {
+      "name": "Nykøbing Sjælland",
+      "kommune": "Odsherred Kommune",
+      "population": 5596,
+      "latitude": 55.9249,
+      "longitude": 11.6711,
+      "alternate_names": "Nykiobing, Nykiöbing, Nykjobing, Nykjöbing, Nykobing Sj, Nykøbing Sj"
+    },
+    {
+      "name": "Rødekro",
+      "kommune": "Aabenraa Kommune",
+      "population": 5452,
+      "latitude": 55.0708,
+      "longitude": 9.3353,
+      "alternate_names": "Gmina Rodekro, Gmina Rødekro, Rodekro, Rødekro"
+    },
+    {
+      "name": "Maribo",
+      "kommune": "Lolland Kommune",
+      "population": 5349,
+      "latitude": 54.7766,
+      "longitude": 11.5002,
+      "alternate_names": "MRW, Maribo, Марибо, Марібо"
+    },
+    {
+      "name": "Ølstykke",
+      "kommune": "Egedal Kommune",
+      "population": 5348,
+      "latitude": 55.7957,
+      "longitude": 12.1551,
+      "alternate_names": "Olstykke, Ølstykke"
+    },
+    {
+      "name": "Hellebæk",
+      "kommune": "Helsingør Kommune",
+      "population": 5243,
+      "latitude": 56.0682,
+      "longitude": 12.5578,
+      "alternate_names": "Hellebaek, Hellebæk"
+    },
+    {
+      "name": "Munkebo",
+      "kommune": "Kerteminde Kommune",
+      "population": 5225,
+      "latitude": 55.4555,
+      "longitude": 10.5543,
+      "alternate_names": "Munkebo"
+    },
+    {
+      "name": "Tune",
+      "kommune": "Greve Kommune",
+      "population": 5168,
+      "latitude": 55.5929,
+      "longitude": 12.1697,
+      "alternate_names": "Tune"
+    },
+    {
+      "name": "Hadsund",
+      "kommune": "Mariagerfjord Kommune",
+      "population": 5066,
+      "latitude": 56.7148,
+      "longitude": 10.1168,
+      "alternate_names": "Gmina Hadsund, Hadsund, Hadsundas, Khadsund, Khadsunn, hadsuni, qi xin, Хадсунд, Хадсунн, ჰადსუნი, 乞信"
+    },
+    {
+      "name": "Kolt",
+      "kommune": "Aarhus Kommune",
+      "population": 5061,
+      "latitude": 56.1084,
+      "longitude": 10.0699,
+      "alternate_names": "Kolt"
+    },
+    {
+      "name": "Løgten",
+      "kommune": "Aarhus Kommune",
+      "population": 5048,
+      "latitude": 56.2746,
+      "longitude": 10.3118,
+      "alternate_names": "Logten, Løgten"
+    },
+    {
+      "name": "Sakskøbing",
+      "kommune": "Guldborgsund Kommune",
+      "population": 4928,
+      "latitude": 54.7997,
+      "longitude": 11.626,
+      "alternate_names": "Gmina Sakskobing, Gmina Sakskøbing, Sakskobing, Sakskøbing, Saxkiobing, Saxkiöbing, Saxkjobing, Saxkjöbing"
+    },
+    {
+      "name": "Ry",
+      "kommune": "Skanderborg Kommune",
+      "population": 4909,
+      "latitude": 56.0904,
+      "longitude": 9.7651,
+      "alternate_names": "Ry, Rye, Rye Stationsby"
+    },
+    {
+      "name": "Hornslet",
+      "kommune": "Syddjurs Kommune",
+      "population": 4906,
+      "latitude": 56.3155,
+      "longitude": 10.3204,
+      "alternate_names": "Hornslet"
+    },
+    {
+      "name": "Galten",
+      "kommune": "Skanderborg Kommune",
+      "population": 4895,
+      "latitude": 56.159,
+      "longitude": 9.9169,
+      "alternate_names": "Galten, Sonder Galten"
+    },
+    {
+      "name": "Ringe",
+      "kommune": "Faaborg-Midtfyn Kommune",
+      "population": 4849,
+      "latitude": 55.2383,
+      "longitude": 10.4786,
+      "alternate_names": "Ringe"
+    },
+    {
+      "name": "Åbybro",
+      "kommune": "Jammerbugt Kommune",
+      "population": 4849,
+      "latitude": 57.1625,
+      "longitude": 9.73,
+      "alternate_names": "Aabybro, Abybro, Gmina Aabybro, Åbybro"
+    },
+    {
+      "name": "Vamdrup",
+      "kommune": "Kolding Kommune",
+      "population": 4685,
+      "latitude": 55.4276,
+      "longitude": 9.2843,
+      "alternate_names": "Vamdrup"
+    },
+    {
+      "name": "Padborg",
+      "kommune": "Aabenraa Kommune",
+      "population": 4684,
+      "latitude": 54.8266,
+      "longitude": 9.3625,
+      "alternate_names": "Padborg, Падборг"
+    },
+    {
+      "name": "Rudkøbing",
+      "kommune": "Langeland Kommune",
+      "population": 4666,
+      "latitude": 54.9364,
+      "longitude": 10.7102,
+      "alternate_names": "Rudkiobing, Rudkjobing, Rudkjöbing, Rudkobing, Rudkøbing"
+    },
+    {
+      "name": "Svenstrup",
+      "kommune": "Ålborg Kommune",
+      "population": 4550,
+      "latitude": 56.9723,
+      "longitude": 9.8481,
+      "alternate_names": "Svenstrup, Svenstrup J"
+    },
+    {
+      "name": "Otterup",
+      "kommune": "Nordfyns Kommune",
+      "population": 4522,
+      "latitude": 55.5153,
+      "longitude": 10.3976,
+      "alternate_names": "Otterup"
+    },
+    {
+      "name": "Kjellerup",
+      "kommune": "Silkeborg Kommune",
+      "population": 4514,
+      "latitude": 56.2858,
+      "longitude": 9.4353,
+      "alternate_names": "Kellerup, Kjellerup, QJW"
+    },
+    {
+      "name": "Viby",
+      "kommune": "Roskilde Kommune",
+      "population": 4505,
+      "latitude": 55.5487,
+      "longitude": 12.0239,
+      "alternate_names": "Viby, Viby Sj, Viby Sjaelland, Viby Sjælland"
+    },
+    {
+      "name": "Løgstør",
+      "kommune": "Vesthimmerland Kommune",
+      "population": 4469,
+      "latitude": 56.9624,
+      "longitude": 9.2583,
+      "alternate_names": "Gmina Logstor, Gmina Løgstør, Loegstoer, Logstor, Lögstör, Løgstør"
+    },
+    {
+      "name": "Højby",
+      "kommune": "Odense Kommune",
+      "population": 4406,
+      "latitude": 55.3318,
+      "longitude": 10.4373,
+      "alternate_names": ""
+    },
+    {
+      "name": "Vodskov",
+      "kommune": "Ålborg Kommune",
+      "population": 4406,
+      "latitude": 57.1085,
+      "longitude": 10.0221,
+      "alternate_names": "Vodskov"
+    },
+    {
+      "name": "Nibe",
+      "kommune": "Ålborg Kommune",
+      "population": 4376,
+      "latitude": 56.9815,
+      "longitude": 9.6392,
+      "alternate_names": "Nibe, Нибе"
+    },
+    {
+      "name": "Svogerslev",
+      "kommune": "Roskilde Kommune",
+      "population": 4355,
+      "latitude": 55.6342,
+      "longitude": 12.0146,
+      "alternate_names": "Svogerslev"
+    },
+    {
+      "name": "Strib",
+      "kommune": "Middelfart Kommune",
+      "population": 4339,
+      "latitude": 55.5402,
+      "longitude": 9.7675,
+      "alternate_names": "Strib, Стриб"
+    },
+    {
+      "name": "Lynge",
+      "kommune": "Allerød Kommune",
+      "population": 4284,
+      "latitude": 55.8394,
+      "longitude": 12.2773,
+      "alternate_names": "Lynge"
+    },
+    {
+      "name": "Give",
+      "kommune": "Vejle Kommune",
+      "population": 4240,
+      "latitude": 55.8452,
+      "longitude": 9.2377,
+      "alternate_names": "Give"
+    },
+    {
+      "name": "Brørup",
+      "kommune": "Vejen Kommune",
+      "population": 4233,
+      "latitude": 55.4819,
+      "longitude": 9.0176,
+      "alternate_names": "Brorup, Brørup"
+    },
+    {
+      "name": "Beder",
+      "kommune": "Aarhus Kommune",
+      "population": 4214,
+      "latitude": 56.0603,
+      "longitude": 10.2118,
+      "alternate_names": "Beder, Бедер"
+    },
+    {
+      "name": "Fensmark",
+      "kommune": "Næstved Kommune",
+      "population": 4203,
+      "latitude": 55.2792,
+      "longitude": 11.8038,
+      "alternate_names": ""
+    },
+    {
+      "name": "Bellinge",
+      "kommune": "Odense Kommune",
+      "population": 4129,
+      "latitude": 55.3353,
+      "longitude": 10.3204,
+      "alternate_names": "Bellinge"
+    },
+    {
+      "name": "Kirke Hvalsø",
+      "kommune": "Lejre Kommune",
+      "population": 4086,
+      "latitude": 55.5917,
+      "longitude": 11.8625,
+      "alternate_names": "Hvalso, Hvalsø"
+    },
+    {
+      "name": "Tarm",
+      "kommune": "Ringkøbing-Skjern Kommune",
+      "population": 4080,
+      "latitude": 55.9086,
+      "longitude": 8.5304,
+      "alternate_names": "Tarm"
+    },
+    {
+      "name": "Videbæk",
+      "kommune": "Ringkøbing-Skjern Kommune",
+      "population": 4052,
+      "latitude": 56.0876,
+      "longitude": 8.6285,
+      "alternate_names": "Videbaek, Videbäk, Videbæk"
+    },
+    {
+      "name": "Gråsten",
+      "kommune": "Sønderborg Kommune",
+      "population": 4022,
+      "latitude": 54.9192,
+      "longitude": 9.5952,
+      "alternate_names": "Gmina Grasten, Gmina Gråsten, Graasten, Grasten, Gravenstein, Gråsten"
+    },
+    {
+      "name": "Jyderup",
+      "kommune": "Holbæk Kommune",
+      "population": 3984,
+      "latitude": 55.664,
+      "longitude": 11.4203,
+      "alternate_names": "Jyderup"
+    },
+    {
+      "name": "Ølgod",
+      "kommune": "Varde Kommune",
+      "population": 3891,
+      "latitude": 55.8068,
+      "longitude": 8.6286,
+      "alternate_names": "Gmina Olgod, Gmina Ølgod, OElgod, Olgod, Ölgod, Ølgod"
+    },
+    {
+      "name": "Stege",
+      "kommune": "Vordingborg Kommune",
+      "population": 3881,
+      "latitude": 54.987,
+      "longitude": 12.2846,
+      "alternate_names": "Stege"
+    },
+    {
+      "name": "Nexø",
+      "kommune": "Bornholm Kommune",
+      "population": 3841,
+      "latitude": 55.0607,
+      "longitude": 15.1306,
+      "alternate_names": "Nekso, Neksø"
+    },
+    {
+      "name": "Havdrup",
+      "kommune": "Solrød Kommune",
+      "population": 3828,
+      "latitude": 55.5448,
+      "longitude": 12.1239,
+      "alternate_names": "Havdrup"
+    },
+    {
+      "name": "Jægerspris",
+      "kommune": "Frederikssund Kommune",
+      "population": 3805,
+      "latitude": 55.8525,
+      "longitude": 11.9856,
+      "alternate_names": "Gmina Jaegerspris, Gmina Jægerspris, Jaegerspris, Jægerspris"
+    },
+    {
+      "name": "Høng",
+      "kommune": "Kalundborg Kommune",
+      "population": 3789,
+      "latitude": 55.5074,
+      "longitude": 11.2887,
+      "alternate_names": "Gmina Hong, Gmina Høng, Hong, Høng"
+    },
+    {
+      "name": "Lind",
+      "kommune": "Herning Kommune",
+      "population": 3777,
+      "latitude": 56.106,
+      "longitude": 8.9792,
+      "alternate_names": ""
+    },
+    {
+      "name": "Vildbjerg",
+      "kommune": "Herning Kommune",
+      "population": 3773,
+      "latitude": 56.2,
+      "longitude": 8.7667,
+      "alternate_names": "Vilbjaerg, Vilbjerg, Vilbjærg, Vildbjerg"
+    },
+    {
+      "name": "Faxe",
+      "kommune": "Faxe Kommune",
+      "population": 3747,
+      "latitude": 55.2556,
+      "longitude": 12.1193,
+      "alternate_names": "Fakse, Faxe, Gmina Fakse, Факсе"
+    },
+    {
+      "name": "Svejbæk",
+      "kommune": "Silkeborg Kommune",
+      "population": 3743,
+      "latitude": 56.1326,
+      "longitude": 9.6329,
+      "alternate_names": ""
+    },
+    {
+      "name": "Gjellerup",
+      "kommune": "Herning Kommune",
+      "population": 3731,
+      "latitude": 56.1462,
+      "longitude": 9.0547,
+      "alternate_names": "Gellerup, Gjellerup, Gjellerup Kirkeby"
+    },
+    {
+      "name": "Langeskov",
+      "kommune": "Kerteminde Kommune",
+      "population": 3713,
+      "latitude": 55.3565,
+      "longitude": 10.5845,
+      "alternate_names": "Langeskov"
+    },
+    {
+      "name": "Præstø",
+      "kommune": "Vordingborg Kommune",
+      "population": 3695,
+      "latitude": 55.1237,
+      "longitude": 12.0448,
+      "alternate_names": "Gmina Praesto, Gmina Præstø, Praesto, Præstø"
+    },
+    {
+      "name": "Store Heddinge",
+      "kommune": "Stevns Kommune",
+      "population": 3679,
+      "latitude": 55.3096,
+      "longitude": 12.3888,
+      "alternate_names": "Store Hedinge"
+    },
+    {
+      "name": "Juelsminde",
+      "kommune": "Hedensted Kommune",
+      "population": 3667,
+      "latitude": 55.7088,
+      "longitude": 10.0167,
+      "alternate_names": "Juelsminde"
+    },
+    {
+      "name": "Stilling",
+      "kommune": "Skanderborg Kommune",
+      "population": 3655,
+      "latitude": 56.0622,
+      "longitude": 9.9882,
+      "alternate_names": "Stilling"
+    },
+    {
+      "name": "Gistrup",
+      "kommune": "Ålborg Kommune",
+      "population": 3622,
+      "latitude": 56.9943,
+      "longitude": 9.9909,
+      "alternate_names": "Gistrup"
+    },
+    {
+      "name": "Dianalund",
+      "kommune": "Sorø Kommune",
+      "population": 3605,
+      "latitude": 55.5313,
+      "longitude": 11.4925,
+      "alternate_names": "Dianalund"
+    },
+    {
+      "name": "Børkop",
+      "kommune": "Vejle Kommune",
+      "population": 3561,
+      "latitude": 55.642,
+      "longitude": 9.6496,
+      "alternate_names": "Borkop, Børkop"
+    },
+    {
+      "name": "Sunds",
+      "kommune": "Herning Kommune",
+      "population": 3525,
+      "latitude": 56.2074,
+      "longitude": 9.0139,
+      "alternate_names": "Sunde, Sunds"
+    },
+    {
+      "name": "Stavtrup",
+      "kommune": "Aarhus Kommune",
+      "population": 3519,
+      "latitude": 56.1312,
+      "longitude": 10.1199,
+      "alternate_names": "Stautrup, Stavtrup"
+    },
+    {
+      "name": "Snejbjerg",
+      "kommune": "Herning Kommune",
+      "population": 3513,
+      "latitude": 56.1329,
+      "longitude": 8.9035,
+      "alternate_names": "Snejbjaerg, Snejbjerg, Snejbjærg"
+    },
+    {
+      "name": "Tølløse",
+      "kommune": "Holbæk Kommune",
+      "population": 3457,
+      "latitude": 55.6125,
+      "longitude": 11.7703,
+      "alternate_names": "Tollose, Tollose Stationsby, Töllöse Stationsby, Tølløse"
+    },
+    {
+      "name": "Fjerritslev",
+      "kommune": "Jammerbugt Kommune",
+      "population": 3441,
+      "latitude": 57.0882,
+      "longitude": 9.2662,
+      "alternate_names": "Fjerreslev, Fjerritslev, Gmina Fjerritslev"
+    },
+    {
+      "name": "Toftlund",
+      "kommune": "Tønder Kommune",
+      "population": 3438,
+      "latitude": 55.1886,
+      "longitude": 9.0693,
+      "alternate_names": "Toftlund"
+    },
+    {
+      "name": "Bogense",
+      "kommune": "Nordfyns Kommune",
+      "population": 3410,
+      "latitude": 55.5669,
+      "longitude": 10.0886,
+      "alternate_names": "Bogense, Богенсе"
+    },
+    {
+      "name": "Broager",
+      "kommune": "Sønderborg Kommune",
+      "population": 3376,
+      "latitude": 54.8894,
+      "longitude": 9.6746,
+      "alternate_names": "Broacker, Broager, Broager Sogn, Gmina Broager"
+    },
+    {
+      "name": "Klarup",
+      "kommune": "Ålborg Kommune",
+      "population": 3352,
+      "latitude": 57.0119,
+      "longitude": 10.0562,
+      "alternate_names": "Klarup"
+    },
+    {
+      "name": "Seden",
+      "kommune": "Odense Kommune",
+      "population": 3350,
+      "latitude": 55.4265,
+      "longitude": 10.4427,
+      "alternate_names": "Seden"
+    },
+    {
+      "name": "Thurø By",
+      "kommune": "Svendborg Kommune",
+      "population": 3350,
+      "latitude": 55.0474,
+      "longitude": 10.6639,
+      "alternate_names": "Thuro, Thuro By, Thurø, Thurø By, Turo By, Turö By"
+    },
+    {
+      "name": "Malling",
+      "kommune": "Aarhus Kommune",
+      "population": 3339,
+      "latitude": 56.0363,
+      "longitude": 10.1963,
+      "alternate_names": "Malling"
+    },
+    {
+      "name": "Hjallerup",
+      "kommune": "Brønderslev Kommune",
+      "population": 3320,
+      "latitude": 57.1647,
+      "longitude": 10.1457,
+      "alternate_names": "Hjallerup"
+    },
+    {
+      "name": "Græsted",
+      "kommune": "Gribskov Kommune",
+      "population": 3310,
+      "latitude": 56.0656,
+      "longitude": 12.2851,
+      "alternate_names": "Graested, Græsted"
+    },
+    {
+      "name": "Hvide Sande",
+      "kommune": "Ringkøbing-Skjern Kommune",
+      "population": 3291,
+      "latitude": 55.9987,
+      "longitude": 8.126,
+      "alternate_names": ""
+    },
+    {
+      "name": "Farsø",
+      "kommune": "Vesthimmerland Kommune",
+      "population": 3271,
+      "latitude": 56.7728,
+      "longitude": 9.3392,
+      "alternate_names": "Farso, Farsoe, Farsö, Farsø, Gmina Farso, Gmina Farsø"
+    },
+    {
+      "name": "Årslev",
+      "kommune": "Faaborg-Midtfyn Kommune",
+      "population": 3228,
+      "latitude": 55.3035,
+      "longitude": 10.4643,
+      "alternate_names": "Aarslev, Arslev, Årslev"
+    },
+    {
+      "name": "Hornbæk",
+      "kommune": "Helsingør Kommune",
+      "population": 3223,
+      "latitude": 56.0903,
+      "longitude": 12.4569,
+      "alternate_names": "Hornbaek, Hornbæk"
+    },
+    {
+      "name": "Skaerbaek",
+      "kommune": "Tønder Kommune",
+      "population": 3174,
+      "latitude": 55.1574,
+      "longitude": 8.769,
+      "alternate_names": "Scherrebek, Skaerbaek, Skærbæk"
+    },
+    {
+      "name": "Frederiksberg",
+      "kommune": "Sorø Kommune",
+      "population": 3142,
+      "latitude": 55.4162,
+      "longitude": 11.5693,
+      "alternate_names": "Frederiksberg"
+    },
+    {
+      "name": "Augustenborg",
+      "kommune": "Sønderborg Kommune",
+      "population": 3132,
+      "latitude": 54.952,
+      "longitude": 9.8722,
+      "alternate_names": "Augustenborg, Gmina Augustenborg, Аугустенборг"
+    },
+    {
+      "name": "Brædstrup",
+      "kommune": "Horsens Kommune",
+      "population": 3130,
+      "latitude": 55.9715,
+      "longitude": 9.6113,
+      "alternate_names": "Braedstrup, Bredstrup, Brædstrup"
+    },
+    {
+      "name": "Borup",
+      "kommune": "Køge Kommune",
+      "population": 3120,
+      "latitude": 55.4947,
+      "longitude": 11.9758,
+      "alternate_names": "Borup"
+    },
+    {
+      "name": "Virklund",
+      "kommune": "Silkeborg Kommune",
+      "population": 3113,
+      "latitude": 56.1322,
+      "longitude": 9.5558,
+      "alternate_names": "Virklund"
+    },
+    {
+      "name": "Glamsbjerg",
+      "kommune": "Assens Kommune",
+      "population": 3099,
+      "latitude": 55.2724,
+      "longitude": 10.1048,
+      "alternate_names": "Glamsbjaerg, Glamsbjerg, Glamsbjærg, Gmina Glamsbjerg"
+    },
+    {
+      "name": "Holsted",
+      "kommune": "Vejen Kommune",
+      "population": 3096,
+      "latitude": 55.5109,
+      "longitude": 8.9187,
+      "alternate_names": "Holsted"
+    },
+    {
+      "name": "Dronninglund",
+      "kommune": "Brønderslev Kommune",
+      "population": 3084,
+      "latitude": 57.1604,
+      "longitude": 10.2929,
+      "alternate_names": "Dronninglund, Gmina Dronninglund"
+    },
+    {
+      "name": "Framlev",
+      "kommune": "Aarhus Kommune",
+      "population": 3067,
+      "latitude": 56.1566,
+      "longitude": 10.0132,
+      "alternate_names": ""
+    },
+    {
+      "name": "Jelling",
+      "kommune": "Vejle Kommune",
+      "population": 3059,
+      "latitude": 55.7559,
+      "longitude": 9.4258,
+      "alternate_names": "Eling, Elling, Gravhoegarna, Gravhögarna, Jelling, i~eringu, ye ling, yylyn, Еллинг, Елінг, יילין, イェリング, 耶靈"
+    },
+    {
+      "name": "Løgumkloster",
+      "kommune": "Tønder Kommune",
+      "population": 3056,
+      "latitude": 55.0594,
+      "longitude": 8.9551,
+      "alternate_names": "Gmina Logumkloster, Gmina Løgumkloster, Loegumkloster, Logumkloster, Logumkloster Sogn, Lögumkloster, Løgumkloster, Løgumkloster Sogn"
+    },
+    {
+      "name": "Vissenbjerg",
+      "kommune": "Assens Kommune",
+      "population": 3055,
+      "latitude": 55.3848,
+      "longitude": 10.1378,
+      "alternate_names": "Vissenbjerg, Vissenbjerg Kirke"
+    },
+    {
+      "name": "Hammerum",
+      "kommune": "Herning Kommune",
+      "population": 3025,
+      "latitude": 56.1336,
+      "longitude": 9.0612,
+      "alternate_names": "Hammerum, Hamrum"
+    },
+    {
+      "name": "Vinderup",
+      "kommune": "Holstebro Kommune",
+      "population": 2991,
+      "latitude": 56.4818,
+      "longitude": 8.7799,
+      "alternate_names": "Vinderup, Vinderup Garde, Vinderup Gårde"
+    },
+    {
+      "name": "Bullerup",
+      "kommune": "Odense Kommune",
+      "population": 2982,
+      "latitude": 55.4269,
+      "longitude": 10.4714,
+      "alternate_names": "Bullerup"
+    },
+    {
+      "name": "Solbjerg",
+      "kommune": "Aarhus Kommune",
+      "population": 2964,
+      "latitude": 56.0427,
+      "longitude": 10.0863,
+      "alternate_names": "Solbjaerg, Solbjærg"
+    },
+    {
+      "name": "Ullerslev",
+      "kommune": "Nyborg Kommune",
+      "population": 2962,
+      "latitude": 55.3617,
+      "longitude": 10.6519,
+      "alternate_names": "Ullerslev"
+    },
+    {
+      "name": "Pandrup",
+      "kommune": "Jammerbugt Kommune",
+      "population": 2942,
+      "latitude": 57.2215,
+      "longitude": 9.6757,
+      "alternate_names": "Gmina Pandrup, Panderup, Pandrup"
+    },
+    {
+      "name": "Liseleje",
+      "kommune": "Halsnæs Kommune",
+      "population": 2906,
+      "latitude": 56.0129,
+      "longitude": 11.9654,
+      "alternate_names": "Liseleje"
+    },
+    {
+      "name": "Sindal",
+      "kommune": "Hjørring Kommune",
+      "population": 2898,
+      "latitude": 57.4712,
+      "longitude": 10.2031,
+      "alternate_names": "CNL, Gmina Sindal, Sindal"
+    },
+    {
+      "name": "Taulov",
+      "kommune": "Fredericia Kommune",
+      "population": 2898,
+      "latitude": 55.5458,
+      "longitude": 9.6155,
+      "alternate_names": "Tavlov, Tavlov Nebel"
+    },
+    {
+      "name": "Avlum",
+      "kommune": "Herning Kommune",
+      "population": 2875,
+      "latitude": 56.2654,
+      "longitude": 8.7926,
+      "alternate_names": "Aulum, Avlum"
+    },
+    {
+      "name": "Søndersø",
+      "kommune": "Nordfyns Kommune",
+      "population": 2850,
+      "latitude": 55.4853,
+      "longitude": 10.2554,
+      "alternate_names": "Sonderse, Sonderso, Sönderse, Søndersø"
+    },
+    {
+      "name": "Oksbøl",
+      "kommune": "Varde Kommune",
+      "population": 2845,
+      "latitude": 55.6268,
+      "longitude": 8.2876,
+      "alternate_names": "Oksbol, Oksbøl, Oxbol, Oxbøl, Oxsbol, Oxsböl"
+    },
+    {
+      "name": "Ganløse",
+      "kommune": "Egedal Kommune",
+      "population": 2843,
+      "latitude": 55.7912,
+      "longitude": 12.2642,
+      "alternate_names": "Ganlose, Ganløse"
+    },
+    {
+      "name": "Sundby",
+      "kommune": "Guldborgsund Kommune",
+      "population": 2843,
+      "latitude": 54.7671,
+      "longitude": 11.8498,
+      "alternate_names": "Sundby"
+    },
+    {
+      "name": "Faxe Ladeplads",
+      "kommune": "Faxe Kommune",
+      "population": 2837,
+      "latitude": 55.2198,
+      "longitude": 12.1701,
+      "alternate_names": "Fakse Ladeplads, Faxe Havn"
+    },
+    {
+      "name": "Tinglev",
+      "kommune": "Aabenraa Kommune",
+      "population": 2829,
+      "latitude": 54.9379,
+      "longitude": 9.2555,
+      "alternate_names": "Tinglev"
+    },
+    {
+      "name": "Tjæreborg",
+      "kommune": "Esbjerg Kommune",
+      "population": 2804,
+      "latitude": 55.4646,
+      "longitude": 8.5797,
+      "alternate_names": "Tjaereborg, Tjb, Tjæreborg"
+    },
+    {
+      "name": "Storvorde",
+      "kommune": "Ålborg Kommune",
+      "population": 2796,
+      "latitude": 57.0039,
+      "longitude": 10.1013,
+      "alternate_names": "Storevorde, Storvorde"
+    },
+    {
+      "name": "Ålestrup",
+      "kommune": "Vesthimmerland Kommune",
+      "population": 2787,
+      "latitude": 56.6947,
+      "longitude": 9.4934,
+      "alternate_names": "Aalestrup, Alestrup, Ålestrup"
+    },
+    {
+      "name": "Hurup",
+      "kommune": "Thisted Kommune",
+      "population": 2769,
+      "latitude": 56.7494,
+      "longitude": 8.4195,
+      "alternate_names": "Hurup, Thy"
+    },
+    {
+      "name": "Rødding",
+      "kommune": "Vejen Kommune",
+      "population": 2769,
+      "latitude": 55.3657,
+      "longitude": 9.0632,
+      "alternate_names": "Rodding, Rødding"
+    },
+    {
+      "name": "Skørping",
+      "kommune": "Rebild Kommune",
+      "population": 2722,
+      "latitude": 56.8363,
+      "longitude": 9.8925,
+      "alternate_names": "Gmina Skorping, Gmina Skørping, Skoerping, Skorping, Skorping Stationsby, Skörping, Skörping Stationsby, Skørping"
+    },
+    {
+      "name": "Brovst",
+      "kommune": "Jammerbugt Kommune",
+      "population": 2710,
+      "latitude": 57.0975,
+      "longitude": 9.5226,
+      "alternate_names": "Brovst, Gmina Brovst"
+    },
+    {
+      "name": "Langå",
+      "kommune": "Randers Kommune",
+      "population": 2710,
+      "latitude": 56.3903,
+      "longitude": 9.8949,
+      "alternate_names": "Langa, Langaa, Langå"
+    },
+    {
+      "name": "Christiansfeld",
+      "kommune": "Kolding Kommune",
+      "population": 2709,
+      "latitude": 55.3582,
+      "longitude": 9.487,
+      "alternate_names": "Christianfeld, Christiansfeld, Gmina Christiansfeld"
+    },
+    {
+      "name": "Strøby Egede",
+      "kommune": "Stevns Kommune",
+      "population": 2700,
+      "latitude": 55.4138,
+      "longitude": 12.245,
+      "alternate_names": "Stroby Egede, Strøby Egede"
+    },
+    {
+      "name": "Mårslet",
+      "kommune": "Aarhus Kommune",
+      "population": 2698,
+      "latitude": 56.0669,
+      "longitude": 10.1611,
+      "alternate_names": "Maarslet, Marslet, Mårslet"
+    },
+    {
+      "name": "Ejby",
+      "kommune": "Køge Kommune",
+      "population": 2692,
+      "latitude": 55.4858,
+      "longitude": 12.0817,
+      "alternate_names": "Ejby"
+    },
+    {
+      "name": "Lunderskov",
+      "kommune": "Kolding Kommune",
+      "population": 2687,
+      "latitude": 55.4838,
+      "longitude": 9.2992,
+      "alternate_names": "Lunderskov"
+    },
+    {
+      "name": "Nørre Åby",
+      "kommune": "Middelfart Kommune",
+      "population": 2678,
+      "latitude": 55.4611,
+      "longitude": 9.8794,
+      "alternate_names": "Norre Aaby, Norre Aby, Nørre Aaby, Nørre Åby"
+    },
+    {
+      "name": "Skibby",
+      "kommune": "Frederikssund Kommune",
+      "population": 2661,
+      "latitude": 55.7512,
+      "longitude": 11.9608,
+      "alternate_names": "Skibby, Skiby"
+    },
+    {
+      "name": "Kibæk",
+      "kommune": "Herning Kommune",
+      "population": 2656,
+      "latitude": 56.0317,
+      "longitude": 8.857,
+      "alternate_names": "Kibaek, Kibæk"
+    },
+    {
+      "name": "Bjæverskov",
+      "kommune": "Køge Kommune",
+      "population": 2618,
+      "latitude": 55.4576,
+      "longitude": 12.0365,
+      "alternate_names": "Bjaeverskov, Bjeverskov, Bjæverskov"
+    },
+    {
+      "name": "Årup",
+      "kommune": "Assens Kommune",
+      "population": 2592,
+      "latitude": 55.3732,
+      "longitude": 10.0413,
+      "alternate_names": "Aarup, Arup, Årup"
+    },
+    {
+      "name": "Thyborøn",
+      "kommune": "Lemvig Kommune",
+      "population": 2587,
+      "latitude": 56.6985,
+      "longitude": 8.2124,
+      "alternate_names": "Thyboron, Thyborøn, Tyboron, Tyboron By, Tyborøn, Tyborøn By"
+    },
+    {
+      "name": "Skævinge",
+      "kommune": "Hillerød Kommune",
+      "population": 2555,
+      "latitude": 55.9079,
+      "longitude": 12.1504,
+      "alternate_names": "Gmina Skaevinge, Gmina Skævinge, Skaevinge, Skævinge"
+    },
+    {
+      "name": "Gram",
+      "kommune": "Haderslev Kommune",
+      "population": 2548,
+      "latitude": 55.2895,
+      "longitude": 9.0491,
+      "alternate_names": ""
+    },
+    {
+      "name": "Strandby",
+      "kommune": "Frederikshavn Kommune",
+      "population": 2518,
+      "latitude": 57.4915,
+      "longitude": 10.4961,
+      "alternate_names": "Strandby"
+    },
+    {
+      "name": "Arden",
+      "kommune": "Mariagerfjord Kommune",
+      "population": 2516,
+      "latitude": 56.769,
+      "longitude": 9.8618,
+      "alternate_names": "Arden, Arden Stationsby"
+    },
+    {
+      "name": "Hjortshøj",
+      "kommune": "Aarhus Kommune",
+      "population": 2515,
+      "latitude": 56.2481,
+      "longitude": 10.2653,
+      "alternate_names": "Hjortshoj, Hjortshøj"
+    },
+    {
+      "name": "Høruphav",
+      "kommune": "Sønderborg Kommune",
+      "population": 2514,
+      "latitude": 54.9102,
+      "longitude": 9.8987,
+      "alternate_names": "Horuphav, Høruphav"
+    },
+    {
+      "name": "Nordby",
+      "kommune": "Fanø Kommune",
+      "population": 2512,
+      "latitude": 55.446,
+      "longitude": 8.3979,
+      "alternate_names": "Nordby, Odden"
+    },
+    {
+      "name": "Auning",
+      "kommune": "Norddjurs Kommune",
+      "population": 2509,
+      "latitude": 56.4308,
+      "longitude": 10.3782,
+      "alternate_names": "Auning, Avning"
+    },
+    {
+      "name": "Skovby",
+      "kommune": "Skanderborg Kommune",
+      "population": 2489,
+      "latitude": 56.1567,
+      "longitude": 9.9452,
+      "alternate_names": "Skovby, Skovby Ostj, Skovby Østj"
+    },
+    {
+      "name": "Trige",
+      "kommune": "Aarhus Kommune",
+      "population": 2475,
+      "latitude": 56.2529,
+      "longitude": 10.1484,
+      "alternate_names": "Trige"
+    },
+    {
+      "name": "Asnæs",
+      "kommune": "Odsherred Kommune",
+      "population": 2441,
+      "latitude": 55.8123,
+      "longitude": 11.5013,
+      "alternate_names": "Asnaes, Asnæs"
+    },
+    {
+      "name": "Mariager",
+      "kommune": "Mariagerfjord Kommune",
+      "population": 2433,
+      "latitude": 56.6499,
+      "longitude": 9.9751,
+      "alternate_names": "Gmina Mariager, Mariager, Мариагер"
+    },
+    {
+      "name": "Assentoft",
+      "kommune": "Randers Kommune",
+      "population": 2432,
+      "latitude": 56.4421,
+      "longitude": 10.1517,
+      "alternate_names": "Assentoft"
+    },
+    {
+      "name": "Guderup",
+      "kommune": "Sønderborg Kommune",
+      "population": 2424,
+      "latitude": 54.9898,
+      "longitude": 9.8717,
+      "alternate_names": "Guderup"
+    },
+    {
+      "name": "Hårlev",
+      "kommune": "Stevns Kommune",
+      "population": 2423,
+      "latitude": 55.3494,
+      "longitude": 12.2338,
+      "alternate_names": "Haarlev, Harlev, Hårlev"
+    },
+    {
+      "name": "Hanstholm",
+      "kommune": "Thisted Kommune",
+      "population": 2418,
+      "latitude": 57.1155,
+      "longitude": 8.6172,
+      "alternate_names": "Gmina Hanstholm, Hanstholm"
+    },
+    {
+      "name": "Tommerup Stationsby",
+      "kommune": "Assens Kommune",
+      "population": 2401,
+      "latitude": 55.3454,
+      "longitude": 10.1759,
+      "alternate_names": "Tommerup, Tommerup Stationsby"
+    },
+    {
+      "name": "Hårby",
+      "kommune": "Assens Kommune",
+      "population": 2400,
+      "latitude": 55.2236,
+      "longitude": 10.1227,
+      "alternate_names": "Haarby, Harby, Hårby"
+    },
+    {
+      "name": "Rønnede",
+      "kommune": "Faxe Kommune",
+      "population": 2395,
+      "latitude": 55.2571,
+      "longitude": 12.0213,
+      "alternate_names": "Gmina Ronnede, Gmina Rønnede, Ronnede, Rønnede"
+    },
+    {
+      "name": "Hals",
+      "kommune": "Ålborg Kommune",
+      "population": 2388,
+      "latitude": 56.9961,
+      "longitude": 10.3081,
+      "alternate_names": "Hals"
+    },
+    {
+      "name": "Hørve",
+      "kommune": "Odsherred Kommune",
+      "population": 2382,
+      "latitude": 55.7529,
+      "longitude": 11.453,
+      "alternate_names": "Horv, Horve, Hørv, Hørve"
+    },
+    {
+      "name": "Rødby",
+      "kommune": "Lolland Kommune",
+      "population": 2379,
+      "latitude": 54.6949,
+      "longitude": 11.3888,
+      "alternate_names": "Gmina Rodby, Gmina Rødby, Rodby, Rødby, lei ci bi, 勒兹比"
+    },
+    {
+      "name": "Svinninge",
+      "kommune": "Holbæk Kommune",
+      "population": 2376,
+      "latitude": 55.7211,
+      "longitude": 11.4655,
+      "alternate_names": "Svinninge"
+    },
+    {
+      "name": "Snoghøj",
+      "kommune": "Fredericia Kommune",
+      "population": 2371,
+      "latitude": 55.5225,
+      "longitude": 9.7212,
+      "alternate_names": "Snoghoj, Snoghøj"
+    },
+    {
+      "name": "Tørring",
+      "kommune": "Hedensted Kommune",
+      "population": 2370,
+      "latitude": 55.85,
+      "longitude": 9.4833,
+      "alternate_names": "Nye Torring, Nye Törring, Torring, Torring Stationsby, Tørring, Tørring Stationsby"
+    },
+    {
+      "name": "Vipperød",
+      "kommune": "Holbæk Kommune",
+      "population": 2345,
+      "latitude": 55.6677,
+      "longitude": 11.7397,
+      "alternate_names": "Vipperod, Vipperød"
+    },
+    {
+      "name": "Dybbøl",
+      "kommune": "Sønderborg Kommune",
+      "population": 2303,
+      "latitude": 54.9108,
+      "longitude": 9.736,
+      "alternate_names": "Dybbol, Dybbøl"
+    },
+    {
+      "name": "Stubbekøbing",
+      "kommune": "Guldborgsund Kommune",
+      "population": 2301,
+      "latitude": 54.8888,
+      "longitude": 12.041,
+      "alternate_names": "Stubbekiobing, Stubbekiöbing, Stubbekjobing, Stubbekjöbing, Stubbekobing, Stubbekøbing"
+    },
+    {
+      "name": "Vester Hassing",
+      "kommune": "Ålborg Kommune",
+      "population": 2298,
+      "latitude": 57.0677,
+      "longitude": 10.1256,
+      "alternate_names": "Vester Hasing, Vester Hassing"
+    },
+    {
+      "name": "Frejlev",
+      "kommune": "Ålborg Kommune",
+      "population": 2286,
+      "latitude": 57.0062,
+      "longitude": 9.8171,
+      "alternate_names": "Freilev, Frejlev"
+    },
+    {
+      "name": "Vrå",
+      "kommune": "Hjørring Kommune",
+      "population": 2273,
+      "latitude": 57.3537,
+      "longitude": 9.9418,
+      "alternate_names": "Vra, Vraa, Vrå"
+    },
+    {
+      "name": "Gørlev",
+      "kommune": "Kalundborg Kommune",
+      "population": 2269,
+      "latitude": 55.5393,
+      "longitude": 11.2271,
+      "alternate_names": "Giorley, Gjorlev, Gjörlev, Gmina Gorlev, Gmina Gørlev, Gorlev, Gørlev"
+    },
+    {
+      "name": "Marstal",
+      "kommune": "Ærø Kommune",
+      "population": 2265,
+      "latitude": 54.8562,
+      "longitude": 10.5173,
+      "alternate_names": "Marstal, Marstal', Марсталь"
+    },
+    {
+      "name": "Vestbjerg",
+      "kommune": "Ålborg Kommune",
+      "population": 2251,
+      "latitude": 57.1317,
+      "longitude": 9.9594,
+      "alternate_names": "QXF, Vestbjaerg, Vestbjerg, Vestbjærg"
+    },
+    {
+      "name": "Nyråd",
+      "kommune": "Vordingborg Kommune",
+      "population": 2224,
+      "latitude": 55.0051,
+      "longitude": 11.9606,
+      "alternate_names": "Nyraad, Nyrad, Nyråd"
+    },
+    {
+      "name": "Brejning",
+      "kommune": "Vejle Kommune",
+      "population": 2220,
+      "latitude": 55.6659,
+      "longitude": 9.6722,
+      "alternate_names": "Bregning, Brejning"
+    },
+    {
+      "name": "Rønde",
+      "kommune": "Syddjurs Kommune",
+      "population": 2213,
+      "latitude": 56.3015,
+      "longitude": 10.475,
+      "alternate_names": "Ronde, Rønde"
+    },
+    {
+      "name": "Stoholm",
+      "kommune": "Viborg Kommune",
+      "population": 2202,
+      "latitude": 56.4845,
+      "longitude": 9.1462,
+      "alternate_names": "Stoholm"
+    },
+    {
+      "name": "Åkirkeby",
+      "kommune": "Bornholm Kommune",
+      "population": 2195,
+      "latitude": 55.0708,
+      "longitude": 14.9198,
+      "alternate_names": "Aakirkeby"
+    },
+    {
+      "name": "Svebølle",
+      "kommune": "Kalundborg Kommune",
+      "population": 2186,
+      "latitude": 55.6518,
+      "longitude": 11.2866,
+      "alternate_names": "Svebolle, Svebolle Stationsby, Svebølle, Svebølle Stationsby"
+    },
+    {
+      "name": "Stige",
+      "kommune": "Odense Kommune",
+      "population": 2182,
+      "latitude": 55.4394,
+      "longitude": 10.4094,
+      "alternate_names": "Stige"
+    },
+    {
+      "name": "Karup",
+      "kommune": "Viborg Kommune",
+      "population": 2176,
+      "latitude": 56.3067,
+      "longitude": 9.1684,
+      "alternate_names": "KRP, Karup, Karup J, Midtjylland, Каруп"
+    },
+    {
+      "name": "Spentrup",
+      "kommune": "Randers Kommune",
+      "population": 2155,
+      "latitude": 56.537,
+      "longitude": 10.0379,
+      "alternate_names": "Spentrup"
+    },
+    {
+      "name": "Egtved",
+      "kommune": "Vejle Kommune",
+      "population": 2151,
+      "latitude": 55.6161,
+      "longitude": 9.3076,
+      "alternate_names": "Egtved, Gmina Egtved"
+    },
+    {
+      "name": "Gundsømagle",
+      "kommune": "Roskilde Kommune",
+      "population": 2149,
+      "latitude": 55.7356,
+      "longitude": 12.1516,
+      "alternate_names": "Gundsomagle, Gundsømagle"
+    },
+    {
+      "name": "Rødbyhavn",
+      "kommune": "Lolland Kommune",
+      "population": 2145,
+      "latitude": 54.6594,
+      "longitude": 11.355,
+      "alternate_names": "Rodby Havn, Rodbyhavn, Roedby-havn, Rødbyhavn"
+    },
+    {
+      "name": "Vindeby",
+      "kommune": "Svendborg Kommune",
+      "population": 2144,
+      "latitude": 55.0449,
+      "longitude": 10.6131,
+      "alternate_names": "Vindeby"
+    },
+    {
+      "name": "Blovstrød",
+      "kommune": "Allerød Kommune",
+      "population": 2137,
+      "latitude": 55.8704,
+      "longitude": 12.3864,
+      "alternate_names": "Blovstrod, Blovstrød"
+    },
+    {
+      "name": "Nørre Alslev",
+      "kommune": "Guldborgsund Kommune",
+      "population": 2128,
+      "latitude": 54.8978,
+      "longitude": 11.8841,
+      "alternate_names": "Gmina Norre Alslev, Gmina Nørre Alslev, Norre Alslev, Nørre Alslev"
+    },
+    {
+      "name": "Osted",
+      "kommune": "Lejre Kommune",
+      "population": 2122,
+      "latitude": 55.5623,
+      "longitude": 11.9579,
+      "alternate_names": "Osted, Ousted"
+    },
+    {
+      "name": "Bording Kirkeby",
+      "kommune": "Ikast-Brande Kommune",
+      "population": 2104,
+      "latitude": 56.1687,
+      "longitude": 9.2438,
+      "alternate_names": "Bording, Bording Kirkeby, Borring"
+    },
+    {
+      "name": "Starup",
+      "kommune": "Haderslev Kommune",
+      "population": 2091,
+      "latitude": 55.241,
+      "longitude": 9.535,
+      "alternate_names": "Starup"
+    },
+    {
+      "name": "Tommerup",
+      "kommune": "Assens Kommune",
+      "population": 2072,
+      "latitude": 55.3195,
+      "longitude": 10.2066,
+      "alternate_names": "Tommerup"
+    },
+    {
+      "name": "Forlev",
+      "kommune": "Slagelse Kommune",
+      "population": 2058,
+      "latitude": 55.3745,
+      "longitude": 11.2597,
+      "alternate_names": ""
+    },
+    {
+      "name": "Vindinge",
+      "kommune": "Roskilde Kommune",
+      "population": 2045,
+      "latitude": 55.623,
+      "longitude": 12.1387,
+      "alternate_names": "Vindinge"
+    },
+    {
+      "name": "Lejre",
+      "kommune": "Lejre Kommune",
+      "population": 2036,
+      "latitude": 55.6046,
+      "longitude": 11.9748,
+      "alternate_names": ""
+    },
+    {
+      "name": "Søften",
+      "kommune": "Favrskov Kommune",
+      "population": 2030,
+      "latitude": 56.238,
+      "longitude": 10.0851,
+      "alternate_names": "Soften, Søften"
+    },
+    {
+      "name": "Solrød",
+      "kommune": "Solrød Kommune",
+      "population": 2000,
+      "latitude": 55.5363,
+      "longitude": 12.1827,
+      "alternate_names": ""
+    },
+    {
+      "name": "Ejby",
+      "kommune": "Middelfart Kommune",
+      "population": 1996,
+      "latitude": 55.4301,
+      "longitude": 9.9297,
+      "alternate_names": "Egby, Ejby, Gammel Ejby"
+    },
+    {
+      "name": "Ulfborg",
+      "kommune": "Holstebro Kommune",
+      "population": 1994,
+      "latitude": 56.2672,
+      "longitude": 8.3217,
+      "alternate_names": "Ulborg, Ulfborg, Ulfkaer, Ulfkær, Ulvborg Stationsby"
+    },
+    {
+      "name": "Kås",
+      "kommune": "Jammerbugt Kommune",
+      "population": 1990,
+      "latitude": 57.1977,
+      "longitude": 9.6717,
+      "alternate_names": "Kaas, Kas, Kås"
+    },
+    {
+      "name": "Ejby",
+      "kommune": "Lejre Kommune",
+      "population": 1987,
+      "latitude": 55.6892,
+      "longitude": 11.8473,
+      "alternate_names": "Ejby"
+    },
+    {
+      "name": "Fuglebjerg",
+      "kommune": "Næstved Kommune",
+      "population": 1985,
+      "latitude": 55.306,
+      "longitude": 11.5477,
+      "alternate_names": "Fuglebaerg, Fuglebjerg, Fuglebærg, Gmina Fuglebjerg"
+    },
+    {
+      "name": "Vadum",
+      "kommune": "Ålborg Kommune",
+      "population": 1978,
+      "latitude": 57.1179,
+      "longitude": 9.857,
+      "alternate_names": "Vadum"
+    },
+    {
+      "name": "Sabro",
+      "kommune": "Aarhus Kommune",
+      "population": 1977,
+      "latitude": 56.2133,
+      "longitude": 10.0344,
+      "alternate_names": "Sabro"
+    },
+    {
+      "name": "Løjt Kirkeby",
+      "kommune": "Aabenraa Kommune",
+      "population": 1975,
+      "latitude": 55.0896,
+      "longitude": 9.4608,
+      "alternate_names": "Loitkirkeby, Lojt, Lojt Kirkeby, Löjt, Løjt Kirkeby"
+    },
+    {
+      "name": "Ulstrup",
+      "kommune": "Favrskov Kommune",
+      "population": 1963,
+      "latitude": 56.3899,
+      "longitude": 9.7935,
+      "alternate_names": "Ulstrup, Ulstrupbro"
+    },
+    {
+      "name": "Ryomgård",
+      "kommune": "Syddjurs Kommune",
+      "population": 1952,
+      "latitude": 56.3843,
+      "longitude": 10.503,
+      "alternate_names": "Ryomgaard, Ryomgard, Ryomgård, Ryumgaard, Ryumgard, Ryumgård"
+    },
+    {
+      "name": "Veksø",
+      "kommune": "Egedal Kommune",
+      "population": 1921,
+      "latitude": 55.7547,
+      "longitude": 12.2384,
+      "alternate_names": "Vekso, Veksø, Vikso, Viksø"
+    },
+    {
+      "name": "Stenlille",
+      "kommune": "Sorø Kommune",
+      "population": 1905,
+      "latitude": 55.5389,
+      "longitude": 11.5912,
+      "alternate_names": "Stenlille"
+    },
+    {
+      "name": "Neder Vindinge",
+      "kommune": "Vordingborg Kommune",
+      "population": 1900,
+      "latitude": 55.0321,
+      "longitude": 11.8836,
+      "alternate_names": ""
+    },
+    {
+      "name": "Nødebo",
+      "kommune": "Hillerød Kommune",
+      "population": 1875,
+      "latitude": 55.9788,
+      "longitude": 12.3468,
+      "alternate_names": "Nodebo, Nødebo"
+    },
+    {
+      "name": "Tårs",
+      "kommune": "Hjørring Kommune",
+      "population": 1856,
+      "latitude": 57.3833,
+      "longitude": 10.1167,
+      "alternate_names": "Taars, Tars, Tors, Tårs"
+    },
+    {
+      "name": "Holeby",
+      "kommune": "Lolland Kommune",
+      "population": 1844,
+      "latitude": 54.7115,
+      "longitude": 11.4642,
+      "alternate_names": "Gmina Holeby, Holeby"
+    },
+    {
+      "name": "Allingåbro",
+      "kommune": "Norddjurs Kommune",
+      "population": 1842,
+      "latitude": 56.4643,
+      "longitude": 10.3196,
+      "alternate_names": "Allingaabro, Allingabro, Allingåbro"
+    },
+    {
+      "name": "Sønder Bjert",
+      "kommune": "Kolding Kommune",
+      "population": 1815,
+      "latitude": 55.4527,
+      "longitude": 9.5674,
+      "alternate_names": "Bjaert, Bjert, Bjært, Sonder Bjert, Stenderup Halvoen, Stenderup Halvøen, Sønder Bjert"
+    },
+    {
+      "name": "Ørslev",
+      "kommune": "Vordingborg Kommune",
+      "population": 1801,
+      "latitude": 55.0436,
+      "longitude": 11.9679,
+      "alternate_names": "Orslev, Ørslev"
+    },
+    {
+      "name": "Rødvig",
+      "kommune": "Stevns Kommune",
+      "population": 1783,
+      "latitude": 55.2554,
+      "longitude": 12.3794,
+      "alternate_names": "Rjodvig, Rodvig, Rødvig, Рёдвиг"
+    },
+    {
+      "name": "Harboøre",
+      "kommune": "Lemvig Kommune",
+      "population": 1745,
+      "latitude": 56.6175,
+      "longitude": 8.1807,
+      "alternate_names": "Harboor, Harboør"
+    },
+    {
+      "name": "Kruså",
+      "kommune": "Aabenraa Kommune",
+      "population": 1694,
+      "latitude": 54.851,
+      "longitude": 9.4013,
+      "alternate_names": "Krusa, Krusaa, Kruså"
+    },
+    {
+      "name": "Hornsyld",
+      "kommune": "Hedensted Kommune",
+      "population": 1619,
+      "latitude": 55.7562,
+      "longitude": 9.8564,
+      "alternate_names": "Hornsyld"
+    },
+    {
+      "name": "Brenderup",
+      "kommune": "Middelfart Kommune",
+      "population": 1366,
+      "latitude": 55.4841,
+      "longitude": 9.9791,
+      "alternate_names": "Braenderup, Brenderup, Brenderup Fyn, Brænderup"
+    },
+    {
+      "name": "Vester-Skerninge",
+      "kommune": "Svendborg Kommune",
+      "population": 1315,
+      "latitude": 55.0732,
+      "longitude": 10.4554,
+      "alternate_names": "Vester-Skerninge, West Skjerninge"
+    },
+    {
+      "name": "Skodsborg",
+      "kommune": "Rudersdal Kommune",
+      "population": 1231,
+      "latitude": 55.8225,
+      "longitude": 12.5732,
+      "alternate_names": "Skodsborg"
+    },
+    {
+      "name": "Vibekevang",
+      "kommune": "København",
+      "population": 1000,
+      "latitude": 55.7057,
+      "longitude": 12.5554,
+      "alternate_names": ""
+    },
+    {
+      "name": "Ærøskøbing",
+      "kommune": "Ærø Kommune",
+      "population": 951,
+      "latitude": 54.888,
+      "longitude": 10.4112,
+      "alternate_names": "AEroskiobing, AEroskjobing, AEroskobing, Æroskiobing, Æröskjöbing, Ærøskøbing"
+    },
+    {
+      "name": "Gedser",
+      "kommune": "Guldborgsund Kommune",
+      "population": 832,
+      "latitude": 54.5764,
+      "longitude": 11.93,
+      "alternate_names": "Gedser, Gjedser, Гедсер"
+    },
+    {
+      "name": "Harndrup",
+      "kommune": "Middelfart Kommune",
+      "population": 652,
+      "latitude": 55.4666,
+      "longitude": 10.0216,
+      "alternate_names": "Harendrup, Harndrup"
+    },
+    {
+      "name": "Isenvad",
+      "kommune": "Ikast-Brande Kommune",
+      "population": 645,
+      "latitude": 56.0992,
+      "longitude": 9.2047,
+      "alternate_names": ""
+    },
+    {
+      "name": "Brøndbyvester",
+      "kommune": "Brøndby Kommune",
+      "population": 0,
+      "latitude": 55.6455,
+      "longitude": 12.4101,
+      "alternate_names": "Brondby, Brondbyvester, Brøndby, Brøndbyvester, West Brondby, West Bröndby"
+    },
+    {
+      "name": "Buddinge",
+      "kommune": "Gladsaxe Municipality",
+      "population": 0,
+      "latitude": 55.7482,
+      "longitude": 12.4953,
+      "alternate_names": ""
+    },
+    {
+      "name": "Byrum",
+      "kommune": "Læso Kommune",
+      "population": 0,
+      "latitude": 57.2568,
+      "longitude": 10.9974,
+      "alternate_names": "Byrum"
+    },
+    {
+      "name": "Christiansø",
+      "kommune": "Christiansø",
+      "population": 0,
+      "latitude": 55.3201,
+      "longitude": 15.1866,
+      "alternate_names": ""
+    },
+    {
+      "name": "Herlev",
+      "kommune": "Herlev Kommune",
+      "population": 0,
+      "latitude": 55.7237,
+      "longitude": 12.44,
+      "alternate_names": "Herlev"
+    },
+    {
+      "name": "Holte",
+      "kommune": "Rudersdal Kommune",
+      "population": 0,
+      "latitude": 55.8167,
+      "longitude": 12.4667,
+      "alternate_names": "Holte, Ny-Holte"
+    },
+    {
+      "name": "Højby",
+      "kommune": "Odsherred Kommune",
+      "population": 0,
+      "latitude": 55.9115,
+      "longitude": 11.5976,
+      "alternate_names": "Hojby, Højby"
+    },
+    {
+      "name": "Kokkedal",
+      "kommune": "Fredensborg Kommune",
+      "population": 0,
+      "latitude": 55.9118,
+      "longitude": 12.4995,
+      "alternate_names": "Kokkedal', Коккедаль"
+    },
+    {
+      "name": "Tranebjerg",
+      "kommune": "Samsø Kommune",
+      "population": 0,
+      "latitude": 55.8326,
+      "longitude": 10.5972,
+      "alternate_names": "Tranebierg, Tranebjaerg, Tranebjerg, Tranebjærg"
+    }
+  ],
+  "meta": {
+    "title": "Danske byer - Gratis download",
+    "description": "Danske byer og bebyggelser med over 500 indbyggere, inkl. kommune og geografiske koordinater. Kilde GeoNames (cities500). Indeholder 345 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Danske byer | ListBase",
+    "seo_description": "Download Danske byer — 345 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 345 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "id": "da-haderslev-afstemningssteder",
+  "name": "Afstemningssteder i Haderslev Kommune",
+  "title": "Afstemningssteder i Haderslev Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Haderslev Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Gram",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Arnum",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Tiset",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Fole",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Haderslev Syd-Vest",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Haderslev Syd",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Haderslev Midtby",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Haderslev Vest",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Sommersted",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Haderslev Nord",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Haderslev Øst",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Moltrup",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Hoptrup",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Starup",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Vilstrup",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Kelstrup",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Vonsbæk",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Aastrup",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Øsby",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Aarø",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Marstrup",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Halk",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Fjelstrup",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Bevtoft",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Vojens Øst",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "Vojens Vest",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "29",
+      "afstemningssted": "Skrydstrup",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "30",
+      "afstemningssted": "Hammelev",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "31",
+      "afstemningssted": "Jegerup",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "32",
+      "afstemningssted": "Simmersted",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "33",
+      "afstemningssted": "Nustrup",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "34",
+      "afstemningssted": "Oksenvad",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "35",
+      "afstemningssted": "Vedsted",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    },
+    {
+      "afstemningsomraade_kode": "36",
+      "afstemningssted": "Over Jerstal",
+      "kommune_kode": 510,
+      "kommune": "Haderslev",
+      "opstillingskreds_nummer": 61,
+      "opstillingskreds": "Haderslev"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Haderslev Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Haderslev Kommune med opstillingskreds. Indeholder 34 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Haderslev Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Haderslev Kommune — 34 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 34 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

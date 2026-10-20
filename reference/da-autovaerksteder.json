@@ -1,0 +1,2901 @@
+{
+  "id": "da-autovaerksteder",
+  "name": "Autoværksteder i Danmark (Car repair shops in Denmark)",
+  "title": "Autoværksteder i Danmark (Car repair shops in Denmark)",
+  "description": "Car repair shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=car_repair.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 572,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "2B Biler",
+      "latitude": 56.424798,
+      "longitude": 10.375906
+    },
+    {
+      "name": "3H Automotive",
+      "latitude": 55.736408,
+      "longitude": 12.484045
+    },
+    {
+      "name": "4M Auto",
+      "latitude": 55.73386,
+      "longitude": 12.475129
+    },
+    {
+      "name": "A and j autoservice",
+      "latitude": 54.92726,
+      "longitude": 9.8052
+    },
+    {
+      "name": "A.M. Auto",
+      "latitude": 57.019299,
+      "longitude": 9.89621
+    },
+    {
+      "name": "A.N. Auto",
+      "latitude": 56.368929,
+      "longitude": 9.470572
+    },
+    {
+      "name": "Aadum Autoservice",
+      "latitude": 55.87526,
+      "longitude": 8.591442
+    },
+    {
+      "name": "Aagesen Biler",
+      "latitude": 55.792066,
+      "longitude": 12.485941
+    },
+    {
+      "name": "AB Autoservice",
+      "latitude": 56.024614,
+      "longitude": 8.382017
+    },
+    {
+      "name": "Abildgaard's Auto",
+      "latitude": 54.91278,
+      "longitude": 9.801488
+    },
+    {
+      "name": "AJ Biler",
+      "latitude": 56.162386,
+      "longitude": 9.545779
+    },
+    {
+      "name": "AL-Auto/",
+      "latitude": 55.615323,
+      "longitude": 12.631435
+    },
+    {
+      "name": "Alhedens Autoteknik",
+      "latitude": 56.357614,
+      "longitude": 9.296098
+    },
+    {
+      "name": "Allerød Auto",
+      "latitude": 55.860008,
+      "longitude": 12.34236
+    },
+    {
+      "name": "Als Autoglas",
+      "latitude": 54.92316,
+      "longitude": 9.818631
+    },
+    {
+      "name": "Amager Autoteknik",
+      "latitude": 55.614519,
+      "longitude": 12.614499
+    },
+    {
+      "name": "AmagerMøller Autoservice Aps",
+      "latitude": 55.613937,
+      "longitude": 12.616289
+    },
+    {
+      "name": "AMS Autoservice",
+      "latitude": 55.699295,
+      "longitude": 12.537452
+    },
+    {
+      "name": "Anders Petersen Automobiler",
+      "latitude": 56.20364,
+      "longitude": 10.248356
+    },
+    {
+      "name": "AP Auto og Trauto",
+      "latitude": 56.186042,
+      "longitude": 9.087846
+    },
+    {
+      "name": "Applus Bilsyn",
+      "latitude": 54.998128,
+      "longitude": 11.90175
+    },
+    {
+      "name": "Applus Bilsyn",
+      "latitude": 55.378767,
+      "longitude": 10.42081
+    },
+    {
+      "name": "Applus Bilsyn",
+      "latitude": 56.964147,
+      "longitude": 8.730787
+    },
+    {
+      "name": "Applus Bilsyn Skjern",
+      "latitude": 55.959832,
+      "longitude": 8.488401
+    },
+    {
+      "name": "Arnes Auto",
+      "latitude": 56.233848,
+      "longitude": 10.523858
+    },
+    {
+      "name": "Asserbo Autoværksted",
+      "latitude": 56.006794,
+      "longitude": 11.988234
+    },
+    {
+      "name": "ATbiler A/S - Give",
+      "latitude": 55.854316,
+      "longitude": 9.246701
+    },
+    {
+      "name": "Atlantic Auto",
+      "latitude": 55.669165,
+      "longitude": 12.540884
+    },
+    {
+      "name": "AU2KVIK",
+      "latitude": 56.466297,
+      "longitude": 10.054568
+    },
+    {
+      "name": "Au2shop",
+      "latitude": 55.257218,
+      "longitude": 12.373433
+    },
+    {
+      "name": "Audi Servicepartner Esbjerg",
+      "latitude": 55.516545,
+      "longitude": 8.4695
+    },
+    {
+      "name": "Audi Servicepartner Viborg",
+      "latitude": 56.463697,
+      "longitude": 9.371461
+    },
+    {
+      "name": "Aunetto A/S",
+      "latitude": 56.132305,
+      "longitude": 8.948612
+    },
+    {
+      "name": "Auto Center på Toppen",
+      "latitude": 55.646432,
+      "longitude": 9.657748
+    },
+    {
+      "name": "Auto Gården",
+      "latitude": 57.337347,
+      "longitude": 9.769858
+    },
+    {
+      "name": "Auto KC ApS v/ Kim Christensen",
+      "latitude": 56.88321,
+      "longitude": 10.121306
+    },
+    {
+      "name": "Auto Kronborg",
+      "latitude": 55.813173,
+      "longitude": 11.457319
+    },
+    {
+      "name": "Auto Mester",
+      "latitude": 57.088672,
+      "longitude": 9.260809
+    },
+    {
+      "name": "Auto Toppen",
+      "latitude": 55.649833,
+      "longitude": 12.521274
+    },
+    {
+      "name": "Auto- & Pladeværkstedet",
+      "latitude": 55.657604,
+      "longitude": 12.519404
+    },
+    {
+      "name": "Auto-Cramer Bramming",
+      "latitude": 55.467593,
+      "longitude": 8.687687
+    },
+    {
+      "name": "Auto-Partner",
+      "latitude": 57.062575,
+      "longitude": 9.997711
+    },
+    {
+      "name": "Autoaars A/S - Hyundai & Suzuki",
+      "latitude": 56.808792,
+      "longitude": 9.502401
+    },
+    {
+      "name": "Autocenter Midtsjælland ApS",
+      "latitude": 55.526276,
+      "longitude": 11.516506
+    },
+    {
+      "name": "Autocenter Sydals, AutoMester",
+      "latitude": 54.92394,
+      "longitude": 9.794939
+    },
+    {
+      "name": "Autocentralen Svinninge",
+      "latitude": 55.722679,
+      "longitude": 11.471037
+    },
+    {
+      "name": "Autocentret Billund",
+      "latitude": 55.722051,
+      "longitude": 9.122041
+    },
+    {
+      "name": "Autogården",
+      "latitude": 55.638545,
+      "longitude": 12.076727
+    },
+    {
+      "name": "Autohallens Autolak",
+      "latitude": 56.347465,
+      "longitude": 8.609755
+    },
+    {
+      "name": "Autohuset Kronsbjerg",
+      "latitude": 55.403284,
+      "longitude": 10.354255
+    },
+    {
+      "name": "Automester",
+      "latitude": 54.932842,
+      "longitude": 9.241083
+    },
+    {
+      "name": "Automester",
+      "latitude": 55.243069,
+      "longitude": 10.531037
+    },
+    {
+      "name": "Automester",
+      "latitude": 55.497605,
+      "longitude": 10.649142
+    },
+    {
+      "name": "Automester",
+      "latitude": 55.855095,
+      "longitude": 9.484273
+    },
+    {
+      "name": "Automester",
+      "latitude": 55.928297,
+      "longitude": 11.659442
+    },
+    {
+      "name": "Automester",
+      "latitude": 56.214008,
+      "longitude": 10.677777
+    },
+    {
+      "name": "AutoMester",
+      "latitude": 56.251466,
+      "longitude": 10.075267
+    },
+    {
+      "name": "AutoMester",
+      "latitude": 56.702279,
+      "longitude": 8.216949
+    },
+    {
+      "name": "AutoMester - Galten AutoTeknik",
+      "latitude": 56.15827,
+      "longitude": 9.921133
+    },
+    {
+      "name": "Automester - ML Automobiler",
+      "latitude": 55.479467,
+      "longitude": 8.693406
+    },
+    {
+      "name": "Automester Holsted",
+      "latitude": 55.479977,
+      "longitude": 8.909422
+    },
+    {
+      "name": "Automester Låsby ApS",
+      "latitude": 56.148476,
+      "longitude": 9.806418
+    },
+    {
+      "name": "Automester Sdr. Omme",
+      "latitude": 55.838609,
+      "longitude": 8.897737
+    },
+    {
+      "name": "Automester Smedegård Tim",
+      "latitude": 56.196495,
+      "longitude": 8.298752
+    },
+    {
+      "name": "AutoMester Vroldvejs Auto",
+      "latitude": 56.037291,
+      "longitude": 9.909867
+    },
+    {
+      "name": "Automic.dk",
+      "latitude": 56.26495,
+      "longitude": 8.268053
+    },
+    {
+      "name": "AutoPartner",
+      "latitude": 55.465891,
+      "longitude": 9.145316
+    },
+    {
+      "name": "Autopartner",
+      "latitude": 55.921795,
+      "longitude": 11.654092
+    },
+    {
+      "name": "Autopartner",
+      "latitude": 56.035553,
+      "longitude": 8.869468
+    },
+    {
+      "name": "AutoPartner",
+      "latitude": 56.252677,
+      "longitude": 10.070737
+    },
+    {
+      "name": "AutoPartner",
+      "latitude": 56.701852,
+      "longitude": 8.213208
+    },
+    {
+      "name": "Autopartner Himmerland",
+      "latitude": 56.95453,
+      "longitude": 9.269171
+    },
+    {
+      "name": "AutoPartner Roust Auto",
+      "latitude": 55.551527,
+      "longitude": 8.634217
+    },
+    {
+      "name": "Autoservis",
+      "latitude": 55.704404,
+      "longitude": 12.554128
+    },
+    {
+      "name": "Autoskadestuen",
+      "latitude": 55.615544,
+      "longitude": 12.613211
+    },
+    {
+      "name": "Autospecialisten Aalborg",
+      "latitude": 57.0974,
+      "longitude": 10.008067
+    },
+    {
+      "name": "Autotek",
+      "latitude": 55.50233,
+      "longitude": 9.770626
+    },
+    {
+      "name": "AutoVest",
+      "latitude": 56.339219,
+      "longitude": 8.345106
+    },
+    {
+      "name": "Autoværksted Leif Petersen",
+      "latitude": 54.9897,
+      "longitude": 12.086615
+    },
+    {
+      "name": "Autoværkstedet Nørre Aaby",
+      "latitude": 55.461072,
+      "longitude": 9.88339
+    },
+    {
+      "name": "B-K Auto",
+      "latitude": 56.225933,
+      "longitude": 10.238633
+    },
+    {
+      "name": "Bakkely Auto v/ Peter Thestrup - WD Tuning Nordjylland",
+      "latitude": 57.441166,
+      "longitude": 10.003916
+    },
+    {
+      "name": "Balling Autoværksted",
+      "latitude": 56.614308,
+      "longitude": 8.869702
+    },
+    {
+      "name": "BB Au2teknik",
+      "latitude": 54.938628,
+      "longitude": 9.081097
+    },
+    {
+      "name": "Becks Autoservice",
+      "latitude": 54.930598,
+      "longitude": 9.235321
+    },
+    {
+      "name": "Bent Pedersen - Bilpleje",
+      "latitude": 55.479897,
+      "longitude": 8.497494
+    },
+    {
+      "name": "Bent Pedersen - Skadecenter",
+      "latitude": 55.48046,
+      "longitude": 8.493973
+    },
+    {
+      "name": "Bent´s Autoservice",
+      "latitude": 55.356483,
+      "longitude": 9.190231
+    },
+    {
+      "name": "Bilcenter Vendsyssel",
+      "latitude": 57.442802,
+      "longitude": 10.493552
+    },
+    {
+      "name": "Bilcentret Peer Glad A/S",
+      "latitude": 55.672333,
+      "longitude": 11.109204
+    },
+    {
+      "name": "Bilerne.com",
+      "latitude": 56.655085,
+      "longitude": 9.792807
+    },
+    {
+      "name": "Bilgården",
+      "latitude": 55.393926,
+      "longitude": 10.363949
+    },
+    {
+      "name": "Bilhuset Bagsværd",
+      "latitude": 55.758061,
+      "longitude": 12.4476
+    },
+    {
+      "name": "Bilhuset Frederiksen",
+      "latitude": 55.655871,
+      "longitude": 12.394269
+    },
+    {
+      "name": "Bilhuset i Fuglebjerg",
+      "latitude": 55.307607,
+      "longitude": 11.52931
+    },
+    {
+      "name": "Bilhuset Lind",
+      "latitude": 56.11166,
+      "longitude": 8.976171
+    },
+    {
+      "name": "BilligtBilsyn",
+      "latitude": 55.237613,
+      "longitude": 10.487576
+    },
+    {
+      "name": "Bilrådgiveren",
+      "latitude": 55.494481,
+      "longitude": 8.611886
+    },
+    {
+      "name": "Bilsalg & Service",
+      "latitude": 56.226051,
+      "longitude": 10.162951
+    },
+    {
+      "name": "BilsynPlus",
+      "latitude": 56.207034,
+      "longitude": 10.26585
+    },
+    {
+      "name": "Birk Skilte & Solfilm",
+      "latitude": 55.352898,
+      "longitude": 8.781743
+    },
+    {
+      "name": "BLINKILDE HOLBÆK ApS",
+      "latitude": 55.706712,
+      "longitude": 11.671956
+    },
+    {
+      "name": "BMI",
+      "latitude": 55.691424,
+      "longitude": 12.465691
+    },
+    {
+      "name": "Bo's Autoservice",
+      "latitude": 55.875095,
+      "longitude": 12.346267
+    },
+    {
+      "name": "Bogø Bilcenter",
+      "latitude": 54.917987,
+      "longitude": 12.043248
+    },
+    {
+      "name": "Bosch",
+      "latitude": 55.699255,
+      "longitude": 12.430469
+    },
+    {
+      "name": "Bosch Car Service",
+      "latitude": 57.039696,
+      "longitude": 9.922782
+    },
+    {
+      "name": "Bosch Car Service - Auto & Elektro Esbjerg",
+      "latitude": 55.464749,
+      "longitude": 8.494375
+    },
+    {
+      "name": "Bosch Car Service Farstrup ApS",
+      "latitude": 56.983089,
+      "longitude": 9.466443
+    },
+    {
+      "name": "Bosch Service",
+      "latitude": 56.351553,
+      "longitude": 8.623022
+    },
+    {
+      "name": "BP Biler Bramming",
+      "latitude": 55.466965,
+      "longitude": 8.685773
+    },
+    {
+      "name": "Brdr. Drejers Auto",
+      "latitude": 56.407255,
+      "longitude": 10.875072
+    },
+    {
+      "name": "Brdr. Henriksen Auto",
+      "latitude": 56.301846,
+      "longitude": 10.471833
+    },
+    {
+      "name": "Brdr. Hosbond",
+      "latitude": 57.029882,
+      "longitude": 9.975339
+    },
+    {
+      "name": "Brodersens Auto- og Lastvognsteknik",
+      "latitude": 55.14271,
+      "longitude": 9.203689
+    },
+    {
+      "name": "Brårup Auto",
+      "latitude": 56.936862,
+      "longitude": 9.374386
+    },
+    {
+      "name": "Buledoktor",
+      "latitude": 55.479443,
+      "longitude": 8.498205
+    },
+    {
+      "name": "Byens Autocenter A/S",
+      "latitude": 56.028643,
+      "longitude": 8.118839
+    },
+    {
+      "name": "Byens Bilpleje",
+      "latitude": 55.479521,
+      "longitude": 8.498456
+    },
+    {
+      "name": "Byens Dæk & Autoservice",
+      "latitude": 54.775235,
+      "longitude": 11.490506
+    },
+    {
+      "name": "Byggebjerg Auto",
+      "latitude": 55.133648,
+      "longitude": 9.121984
+    },
+    {
+      "name": "Byrum Auto",
+      "latitude": 57.257406,
+      "longitude": 11.004491
+    },
+    {
+      "name": "Bährings Autolak",
+      "latitude": 54.931886,
+      "longitude": 9.238216
+    },
+    {
+      "name": "Bøgeskov auto og dæk",
+      "latitude": 56.075586,
+      "longitude": 9.839478
+    },
+    {
+      "name": "C&C Garage",
+      "latitude": 55.878712,
+      "longitude": 9.825962
+    },
+    {
+      "name": "Car Special",
+      "latitude": 55.606668,
+      "longitude": 12.355242
+    },
+    {
+      "name": "Carbucks",
+      "latitude": 55.515625,
+      "longitude": 9.460752
+    },
+    {
+      "name": "Carbucks Aarhus",
+      "latitude": 56.18238,
+      "longitude": 10.106924
+    },
+    {
+      "name": "Carbucks ApS",
+      "latitude": 55.713175,
+      "longitude": 12.419608
+    },
+    {
+      "name": "Carglass",
+      "latitude": 55.502165,
+      "longitude": 9.770441
+    },
+    {
+      "name": "Carglass",
+      "latitude": 55.689912,
+      "longitude": 12.48202
+    },
+    {
+      "name": "Carglass",
+      "latitude": 55.92815,
+      "longitude": 12.266171
+    },
+    {
+      "name": "Carglass",
+      "latitude": 56.199502,
+      "longitude": 9.567331
+    },
+    {
+      "name": "Carglass Odense SV",
+      "latitude": 55.354754,
+      "longitude": 10.334997
+    },
+    {
+      "name": "CarPeople",
+      "latitude": 55.849244,
+      "longitude": 9.486698
+    },
+    {
+      "name": "CarPeople",
+      "latitude": 56.207128,
+      "longitude": 10.266237
+    },
+    {
+      "name": "CarPeople",
+      "latitude": 56.250641,
+      "longitude": 10.072572
+    },
+    {
+      "name": "CarPeople",
+      "latitude": 56.833756,
+      "longitude": 9.887149
+    },
+    {
+      "name": "CarPeople",
+      "latitude": 57.445031,
+      "longitude": 10.532157
+    },
+    {
+      "name": "CarPeople Tarp",
+      "latitude": 55.527298,
+      "longitude": 8.45874
+    },
+    {
+      "name": "Carspot Bilrådgiverens Autoværksted",
+      "latitude": 55.490228,
+      "longitude": 8.478206
+    },
+    {
+      "name": "Carsten Jessen Automobiler",
+      "latitude": 56.026295,
+      "longitude": 8.390125
+    },
+    {
+      "name": "CC Auto",
+      "latitude": 55.850952,
+      "longitude": 12.339437
+    },
+    {
+      "name": "CG Autoteknik",
+      "latitude": 56.986551,
+      "longitude": 8.749944
+    },
+    {
+      "name": "CH Classic",
+      "latitude": 55.476988,
+      "longitude": 8.69824
+    },
+    {
+      "name": "Christiansfeld Trafikcenter",
+      "latitude": 55.349072,
+      "longitude": 9.48411
+    },
+    {
+      "name": "City Auto",
+      "latitude": 57.044453,
+      "longitude": 9.931319
+    },
+    {
+      "name": "City Auto Service",
+      "latitude": 55.479014,
+      "longitude": 8.460417
+    },
+    {
+      "name": "City Biler",
+      "latitude": 54.91814,
+      "longitude": 9.803874
+    },
+    {
+      "name": "Classiko",
+      "latitude": 56.464064,
+      "longitude": 9.402917
+    },
+    {
+      "name": "Claus Kragh Automobiler",
+      "latitude": 55.954189,
+      "longitude": 8.489663
+    },
+    {
+      "name": "CS Autoteknik",
+      "latitude": 55.719745,
+      "longitude": 11.382594
+    },
+    {
+      "name": "D.M. Auto- og Maskinværksted",
+      "latitude": 56.106203,
+      "longitude": 8.979499
+    },
+    {
+      "name": "Dalmose Auto",
+      "latitude": 55.291649,
+      "longitude": 11.42784
+    },
+    {
+      "name": "Dalsgaard Freelance Auto Service",
+      "latitude": 56.541752,
+      "longitude": 9.027629
+    },
+    {
+      "name": "Danglas København",
+      "latitude": 55.734419,
+      "longitude": 12.47565
+    },
+    {
+      "name": "Dansk Autohjælp",
+      "latitude": 55.535128,
+      "longitude": 9.457396
+    },
+    {
+      "name": "Dansk bilglas",
+      "latitude": 55.482578,
+      "longitude": 9.476577
+    },
+    {
+      "name": "Dansk Bilglas",
+      "latitude": 55.643099,
+      "longitude": 12.38594
+    },
+    {
+      "name": "Dansk Bilglas",
+      "latitude": 55.724338,
+      "longitude": 12.376641
+    },
+    {
+      "name": "Dansk Bilglas",
+      "latitude": 56.371686,
+      "longitude": 8.62759
+    },
+    {
+      "name": "Dansk Bilglas A/S",
+      "latitude": 56.14472,
+      "longitude": 8.994367
+    },
+    {
+      "name": "Daugaard Biler",
+      "latitude": 55.735534,
+      "longitude": 12.480823
+    },
+    {
+      "name": "Daugaard Biler",
+      "latitude": 55.736477,
+      "longitude": 12.488363
+    },
+    {
+      "name": "Den Franske Autospecialist",
+      "latitude": 56.488273,
+      "longitude": 10.020438
+    },
+    {
+      "name": "Dent Away",
+      "latitude": 54.91208,
+      "longitude": 9.791566
+    },
+    {
+      "name": "Diernæs Autoværksted",
+      "latitude": 55.159817,
+      "longitude": 9.46696
+    },
+    {
+      "name": "Din Bilpartner",
+      "latitude": 56.039903,
+      "longitude": 10.19311
+    },
+    {
+      "name": "Din Bilpartner - Brunos Autoservice",
+      "latitude": 55.530106,
+      "longitude": 8.402434
+    },
+    {
+      "name": "Din Bilpartner Autoværkstedet Ivan Thygesen",
+      "latitude": 56.188469,
+      "longitude": 9.573216
+    },
+    {
+      "name": "Din Bilpartner Dronninglund",
+      "latitude": 57.163269,
+      "longitude": 10.292658
+    },
+    {
+      "name": "Din Bilpartner Hansen",
+      "latitude": 54.939559,
+      "longitude": 9.084197
+    },
+    {
+      "name": "Din Bilpartner Hornum",
+      "latitude": 56.842346,
+      "longitude": 9.421623
+    },
+    {
+      "name": "Din Bilpartner Mejdal Auto",
+      "latitude": 56.347735,
+      "longitude": 8.641911
+    },
+    {
+      "name": "Din Mekaniker",
+      "latitude": 56.33373,
+      "longitude": 10.051977
+    },
+    {
+      "name": "Dinitrol Center Fårevejle",
+      "latitude": 55.805492,
+      "longitude": 11.434246
+    },
+    {
+      "name": "Dinitrol Center Roskilde",
+      "latitude": 55.625602,
+      "longitude": 12.062343
+    },
+    {
+      "name": "Dit Autoværksted",
+      "latitude": 55.642809,
+      "longitude": 12.469814
+    },
+    {
+      "name": "DK-FORD",
+      "latitude": 55.708917,
+      "longitude": 9.521025
+    },
+    {
+      "name": "DX Auto",
+      "latitude": 57.573237,
+      "longitude": 9.983505
+    },
+    {
+      "name": "Dækpartner",
+      "latitude": 56.029843,
+      "longitude": 12.599045
+    },
+    {
+      "name": "Døstrup Traktor og Maskinværksted",
+      "latitude": 56.688094,
+      "longitude": 9.749745
+    },
+    {
+      "name": "E P Auto",
+      "latitude": 55.47449,
+      "longitude": 8.433025
+    },
+    {
+      "name": "Egå Farvelak",
+      "latitude": 56.212553,
+      "longitude": 10.267933
+    },
+    {
+      "name": "Eigils Autoservice",
+      "latitude": 55.524708,
+      "longitude": 8.464602
+    },
+    {
+      "name": "Ellegaard Auto",
+      "latitude": 54.92848,
+      "longitude": 9.798472
+    },
+    {
+      "name": "Ellegards Undervognscenter",
+      "latitude": 55.510832,
+      "longitude": 8.40982
+    },
+    {
+      "name": "Engelykke AutoService",
+      "latitude": 57.430213,
+      "longitude": 10.507667
+    },
+    {
+      "name": "Erik Maibom A/S",
+      "latitude": 57.025225,
+      "longitude": 9.913743
+    },
+    {
+      "name": "Erling Høi-Nielsen",
+      "latitude": 54.925973,
+      "longitude": 9.789339
+    },
+    {
+      "name": "Erritsø Autoservice",
+      "latitude": 55.544717,
+      "longitude": 9.701461
+    },
+    {
+      "name": "Esbjerg Bilglas",
+      "latitude": 55.463901,
+      "longitude": 8.488807
+    },
+    {
+      "name": "Esbjerg Cylinder Service",
+      "latitude": 55.486856,
+      "longitude": 8.496189
+    },
+    {
+      "name": "Euromaster Slagelse",
+      "latitude": 55.408753,
+      "longitude": 11.368298
+    },
+    {
+      "name": "F24",
+      "latitude": 55.746491,
+      "longitude": 12.55764
+    },
+    {
+      "name": "Faaborg Autoværksted",
+      "latitude": 55.088408,
+      "longitude": 10.257573
+    },
+    {
+      "name": "Familiebilen",
+      "latitude": 55.931532,
+      "longitude": 12.315599
+    },
+    {
+      "name": "Fanø Autoværksted",
+      "latitude": 55.438739,
+      "longitude": 8.396486
+    },
+    {
+      "name": "FDM Testcenter",
+      "latitude": 56.188233,
+      "longitude": 9.554817
+    },
+    {
+      "name": "Finn's Auto",
+      "latitude": 56.77008,
+      "longitude": 9.856306
+    },
+    {
+      "name": "First Stop",
+      "latitude": 55.425303,
+      "longitude": 8.646123
+    },
+    {
+      "name": "First Stop",
+      "latitude": 55.511751,
+      "longitude": 8.410093
+    },
+    {
+      "name": "First Stop",
+      "latitude": 55.535185,
+      "longitude": 9.4576
+    },
+    {
+      "name": "First Stop",
+      "latitude": 55.628591,
+      "longitude": 12.066556
+    },
+    {
+      "name": "First Stop Aarup",
+      "latitude": 55.37734,
+      "longitude": 10.05638
+    },
+    {
+      "name": "Flakkebjerg Autoværksted I/S",
+      "latitude": 55.311862,
+      "longitude": 11.395639
+    },
+    {
+      "name": "Flejsborg Autoservice ApS",
+      "latitude": 56.86507,
+      "longitude": 9.349265
+    },
+    {
+      "name": "Flemmings Autoservice",
+      "latitude": 55.869289,
+      "longitude": 12.346551
+    },
+    {
+      "name": "Flex-A",
+      "latitude": 55.7243,
+      "longitude": 12.376138
+    },
+    {
+      "name": "FN Auto Special",
+      "latitude": 55.699117,
+      "longitude": 12.537439
+    },
+    {
+      "name": "Foldby Autoteknik",
+      "latitude": 56.318707,
+      "longitude": 10.041991
+    },
+    {
+      "name": "Fredericia Dæk- & Bilservice",
+      "latitude": 55.535632,
+      "longitude": 9.714075
+    },
+    {
+      "name": "Frederiksværk Karrosserifabrik",
+      "latitude": 55.979939,
+      "longitude": 12.014263
+    },
+    {
+      "name": "Frederiksværk Vulkanisering ApS",
+      "latitude": 55.979673,
+      "longitude": 12.006367
+    },
+    {
+      "name": "Friis Jensen Biler",
+      "latitude": 54.696914,
+      "longitude": 11.625876
+    },
+    {
+      "name": "Friis Nielsen Automobiler ApS, Automester Søborg",
+      "latitude": 55.737477,
+      "longitude": 12.486095
+    },
+    {
+      "name": "Fur Autoservice",
+      "latitude": 56.818481,
+      "longitude": 9.029065
+    },
+    {
+      "name": "Fyns Auto-Opret",
+      "latitude": 55.306292,
+      "longitude": 10.466738
+    },
+    {
+      "name": "Gadbjerg Autoværksted",
+      "latitude": 55.77467,
+      "longitude": 9.326641
+    },
+    {
+      "name": "Ganløse Dækcenter",
+      "latitude": 55.791878,
+      "longitude": 12.262894
+    },
+    {
+      "name": "Gasberg Biler",
+      "latitude": 55.463085,
+      "longitude": 8.466976
+    },
+    {
+      "name": "Gelsted bilservice",
+      "latitude": 55.30005,
+      "longitude": 11.7556
+    },
+    {
+      "name": "Gevinge Autocenter",
+      "latitude": 55.641344,
+      "longitude": 11.960128
+    },
+    {
+      "name": "Give Auto",
+      "latitude": 55.839321,
+      "longitude": 9.24975
+    },
+    {
+      "name": "Gjellerup Auto",
+      "latitude": 56.146846,
+      "longitude": 9.049251
+    },
+    {
+      "name": "GJW Auto",
+      "latitude": 56.107954,
+      "longitude": 10.162022
+    },
+    {
+      "name": "Grenaa Autoservice",
+      "latitude": 56.409846,
+      "longitude": 10.873398
+    },
+    {
+      "name": "Grenå Autoværksted",
+      "latitude": 56.416332,
+      "longitude": 10.867652
+    },
+    {
+      "name": "Grindsted Autoværksted",
+      "latitude": 57.145269,
+      "longitude": 10.050471
+    },
+    {
+      "name": "Grome Auto",
+      "latitude": 55.81756,
+      "longitude": 12.374995
+    },
+    {
+      "name": "Gunnar Jørgensen",
+      "latitude": 55.686979,
+      "longitude": 9.129906
+    },
+    {
+      "name": "Gustavs Auto",
+      "latitude": 56.834132,
+      "longitude": 9.360428
+    },
+    {
+      "name": "Hadsund Autohandel",
+      "latitude": 56.718941,
+      "longitude": 10.113673
+    },
+    {
+      "name": "Halim's Autovaerksted",
+      "latitude": 54.997888,
+      "longitude": 9.582272
+    },
+    {
+      "name": "Handbergs Auto",
+      "latitude": 55.871089,
+      "longitude": 9.833939
+    },
+    {
+      "name": "Handicare",
+      "latitude": 55.351424,
+      "longitude": 8.777452
+    },
+    {
+      "name": "Hansens Auto",
+      "latitude": 55.69941,
+      "longitude": 12.537472
+    },
+    {
+      "name": "Hansens Auto og Maskinservice",
+      "latitude": 55.539297,
+      "longitude": 8.460768
+    },
+    {
+      "name": "Hasle Autoværksted",
+      "latitude": 55.181297,
+      "longitude": 14.711915
+    },
+    {
+      "name": "Hatting Bilcenter",
+      "latitude": 55.856302,
+      "longitude": 9.770677
+    },
+    {
+      "name": "Haurum's Autoservice",
+      "latitude": 56.154279,
+      "longitude": 9.446375
+    },
+    {
+      "name": "Havndal Auto",
+      "latitude": 56.653333,
+      "longitude": 10.186471
+    },
+    {
+      "name": "Havnelev Auto",
+      "latitude": 55.268548,
+      "longitude": 12.341131
+    },
+    {
+      "name": "Havnens Auto",
+      "latitude": 56.411437,
+      "longitude": 10.912387
+    },
+    {
+      "name": "HC Auto- & Dækcenter",
+      "latitude": 55.467803,
+      "longitude": 8.676664
+    },
+    {
+      "name": "Hedelunds Autoservice I/S",
+      "latitude": 56.741591,
+      "longitude": 8.87502
+    },
+    {
+      "name": "Hejls Garage",
+      "latitude": 55.38325,
+      "longitude": 9.577732
+    },
+    {
+      "name": "Hejnsvig Auto",
+      "latitude": 55.693103,
+      "longitude": 9.001192
+    },
+    {
+      "name": "Hennings Autoservice",
+      "latitude": 55.463956,
+      "longitude": 8.485383
+    },
+    {
+      "name": "Herlev Autoværksted I/S",
+      "latitude": 55.72266,
+      "longitude": 12.44329
+    },
+    {
+      "name": "Herlevs Autoværksted",
+      "latitude": 56.190202,
+      "longitude": 9.694296
+    },
+    {
+      "name": "Hinnerup Auto",
+      "latitude": 56.248855,
+      "longitude": 10.072092
+    },
+    {
+      "name": "Hinnerup Autoservice",
+      "latitude": 56.252012,
+      "longitude": 10.07122
+    },
+    {
+      "name": "Hjerting Auto",
+      "latitude": 55.517097,
+      "longitude": 8.371094
+    },
+    {
+      "name": "Hjulskift.dk - Sønderborg Autohandel",
+      "latitude": 54.92628,
+      "longitude": 9.80373
+    },
+    {
+      "name": "HN Auto",
+      "latitude": 56.353782,
+      "longitude": 10.571161
+    },
+    {
+      "name": "Holstebro Bilcenter",
+      "latitude": 56.343815,
+      "longitude": 8.633605
+    },
+    {
+      "name": "Horne Autoværksted",
+      "latitude": 57.571127,
+      "longitude": 9.983895
+    },
+    {
+      "name": "Hou Autoservice",
+      "latitude": 55.913827,
+      "longitude": 10.248914
+    },
+    {
+      "name": "Hune Auto",
+      "latitude": 57.247872,
+      "longitude": 9.626393
+    },
+    {
+      "name": "Hvidovre Anti-Rust Center",
+      "latitude": 55.671728,
+      "longitude": 12.440987
+    },
+    {
+      "name": "Hydro Autocenter",
+      "latitude": 56.086665,
+      "longitude": 8.26797
+    },
+    {
+      "name": "Højby Autocenter",
+      "latitude": 55.912839,
+      "longitude": 11.591932
+    },
+    {
+      "name": "Højby Autoværksted",
+      "latitude": 55.330231,
+      "longitude": 10.438137
+    },
+    {
+      "name": "Højst Biler",
+      "latitude": 55.000243,
+      "longitude": 9.035223
+    },
+    {
+      "name": "Intopit Carservice",
+      "latitude": 55.6402,
+      "longitude": 12.115676
+    },
+    {
+      "name": "IRS Autolakering",
+      "latitude": 55.724355,
+      "longitude": 12.38319
+    },
+    {
+      "name": "J P Auto",
+      "latitude": 56.896741,
+      "longitude": 9.228387
+    },
+    {
+      "name": "J. Dawall & Sønner",
+      "latitude": 55.789013,
+      "longitude": 12.474066
+    },
+    {
+      "name": "J.H. Auto Løgten",
+      "latitude": 56.277282,
+      "longitude": 10.316526
+    },
+    {
+      "name": "Jacobil",
+      "latitude": 57.575173,
+      "longitude": 9.965148
+    },
+    {
+      "name": "Jakobs Auto",
+      "latitude": 56.727376,
+      "longitude": 9.029415
+    },
+    {
+      "name": "Jakobsens Dæk",
+      "latitude": 55.960707,
+      "longitude": 8.494546
+    },
+    {
+      "name": "Jannsen Biler",
+      "latitude": 55.536973,
+      "longitude": 9.715573
+    },
+    {
+      "name": "JB Autolakering",
+      "latitude": 55.961104,
+      "longitude": 8.494969
+    },
+    {
+      "name": "Jels Autoværksted",
+      "latitude": 55.357708,
+      "longitude": 9.187884
+    },
+    {
+      "name": "Jels Bilhus",
+      "latitude": 55.356756,
+      "longitude": 9.190515
+    },
+    {
+      "name": "Jensen's Paint",
+      "latitude": 55.724645,
+      "longitude": 12.380886
+    },
+    {
+      "name": "Jerne Biler",
+      "latitude": 55.492705,
+      "longitude": 8.464004
+    },
+    {
+      "name": "Jerslev Auto",
+      "latitude": 57.288372,
+      "longitude": 10.090672
+    },
+    {
+      "name": "JM Autoteknik",
+      "latitude": 56.546061,
+      "longitude": 9.128052
+    },
+    {
+      "name": "John Hoffmanns Autoservice",
+      "latitude": 55.463304,
+      "longitude": 8.479961
+    },
+    {
+      "name": "JP Autoservice",
+      "latitude": 55.733424,
+      "longitude": 8.312201
+    },
+    {
+      "name": "Juhls Auto",
+      "latitude": 55.690603,
+      "longitude": 9.00642
+    },
+    {
+      "name": "Junior's Biler",
+      "latitude": 54.92556,
+      "longitude": 9.802611
+    },
+    {
+      "name": "Jyderup Maskinforretning / DækCenter",
+      "latitude": 55.662692,
+      "longitude": 11.405682
+    },
+    {
+      "name": "Jyndevad Autoservice",
+      "latitude": 54.903051,
+      "longitude": 9.150087
+    },
+    {
+      "name": "Jysk Autocenter",
+      "latitude": 56.999263,
+      "longitude": 10.000636
+    },
+    {
+      "name": "Jørgen Jensen Automobiler",
+      "latitude": 56.104947,
+      "longitude": 8.222311
+    },
+    {
+      "name": "Jørgens Auto v/Jørgen Dyrberg, Gudnæsvej 24",
+      "latitude": 56.809838,
+      "longitude": 8.528342
+    },
+    {
+      "name": "K-Service",
+      "latitude": 56.325625,
+      "longitude": 9.457594
+    },
+    {
+      "name": "Kaj Juel Karosseri & Auto",
+      "latitude": 57.164955,
+      "longitude": 10.29558
+    },
+    {
+      "name": "Kalvehave Autoværksted",
+      "latitude": 54.998809,
+      "longitude": 12.157487
+    },
+    {
+      "name": "KB Trading",
+      "latitude": 54.927467,
+      "longitude": 9.682302
+    },
+    {
+      "name": "KC Autoteknik",
+      "latitude": 55.463739,
+      "longitude": 8.488822
+    },
+    {
+      "name": "Keolis Danmark A/S",
+      "latitude": 57.087571,
+      "longitude": 9.250273
+    },
+    {
+      "name": "Ketner",
+      "latitude": 57.012546,
+      "longitude": 9.894429
+    },
+    {
+      "name": "KG Auto",
+      "latitude": 56.191484,
+      "longitude": 10.684617
+    },
+    {
+      "name": "Ki-Auto Service",
+      "latitude": 55.692094,
+      "longitude": 12.484287
+    },
+    {
+      "name": "Kims Auto",
+      "latitude": 56.962933,
+      "longitude": 9.362398
+    },
+    {
+      "name": "Kl Auto Service",
+      "latitude": 56.63617,
+      "longitude": 8.816191
+    },
+    {
+      "name": "Klokholm Automobiler",
+      "latitude": 55.422153,
+      "longitude": 10.032504
+    },
+    {
+      "name": "Kloster Auto",
+      "latitude": 56.119531,
+      "longitude": 8.176692
+    },
+    {
+      "name": "Knebel Autoservice",
+      "latitude": 56.205822,
+      "longitude": 10.479745
+    },
+    {
+      "name": "Knuds Auto",
+      "latitude": 55.757532,
+      "longitude": 9.430384
+    },
+    {
+      "name": "Knuds Auto",
+      "latitude": 56.59593,
+      "longitude": 8.835392
+    },
+    {
+      "name": "Knudsens Auto",
+      "latitude": 55.644705,
+      "longitude": 12.069881
+    },
+    {
+      "name": "Koch's Auto",
+      "latitude": 57.111691,
+      "longitude": 9.858305
+    },
+    {
+      "name": "Koefoeds Garage",
+      "latitude": 55.056181,
+      "longitude": 10.490033
+    },
+    {
+      "name": "Kongerslev Auto",
+      "latitude": 56.886057,
+      "longitude": 10.114196
+    },
+    {
+      "name": "Kongevejens Autoservice",
+      "latitude": 55.842697,
+      "longitude": 12.436442
+    },
+    {
+      "name": "Kongsgårde Autoværksted",
+      "latitude": 56.145448,
+      "longitude": 10.519393
+    },
+    {
+      "name": "Korinth Autoophug",
+      "latitude": 55.145658,
+      "longitude": 10.341726
+    },
+    {
+      "name": "KP Biler",
+      "latitude": 55.073309,
+      "longitude": 10.45271
+    },
+    {
+      "name": "Kristians Auto ApS",
+      "latitude": 56.150031,
+      "longitude": 9.816086
+    },
+    {
+      "name": "Krogsgaard-Jensen Gentofte Værksted",
+      "latitude": 55.754329,
+      "longitude": 12.511832
+    },
+    {
+      "name": "Krogsgaard-Jensen Værksted",
+      "latitude": 55.843437,
+      "longitude": 12.436256
+    },
+    {
+      "name": "Kronow's Autoservice",
+      "latitude": 55.704927,
+      "longitude": 12.576835
+    },
+    {
+      "name": "Kruså Auto Service",
+      "latitude": 54.844489,
+      "longitude": 9.400348
+    },
+    {
+      "name": "KS Auto",
+      "latitude": 57.039436,
+      "longitude": 9.926846
+    },
+    {
+      "name": "Kvalitetsbiler.dk - værksted",
+      "latitude": 55.843323,
+      "longitude": 9.49922
+    },
+    {
+      "name": "Kæstel Biler",
+      "latitude": 54.911775,
+      "longitude": 9.712586
+    },
+    {
+      "name": "Køng Auto",
+      "latitude": 55.113198,
+      "longitude": 11.819618
+    },
+    {
+      "name": "Langer Biler",
+      "latitude": 56.624435,
+      "longitude": 9.809714
+    },
+    {
+      "name": "Langkilde Biler",
+      "latitude": 55.642704,
+      "longitude": 8.516806
+    },
+    {
+      "name": "Lanthers Autoværksted",
+      "latitude": 55.678776,
+      "longitude": 11.102112
+    },
+    {
+      "name": "Last-Bus & Dækcenter Vestjylland",
+      "latitude": 55.959977,
+      "longitude": 8.488619
+    },
+    {
+      "name": "Leifs Autoruder",
+      "latitude": 55.352947,
+      "longitude": 8.781832
+    },
+    {
+      "name": "Lestrup Auto",
+      "latitude": 55.863757,
+      "longitude": 11.671481
+    },
+    {
+      "name": "Lihn & Boi A/S",
+      "latitude": 56.558965,
+      "longitude": 9.40392
+    },
+    {
+      "name": "Lindenskov Mercasol Center",
+      "latitude": 55.660919,
+      "longitude": 11.413576
+    },
+    {
+      "name": "Linhardt Auto",
+      "latitude": 55.422441,
+      "longitude": 10.033128
+    },
+    {
+      "name": "LL Auto",
+      "latitude": 55.322968,
+      "longitude": 10.205248
+    },
+    {
+      "name": "Louis Lund - Esbjerg",
+      "latitude": 55.486372,
+      "longitude": 8.496787
+    },
+    {
+      "name": "LS Auto",
+      "latitude": 56.309002,
+      "longitude": 9.594085
+    },
+    {
+      "name": "LS Autoteknik",
+      "latitude": 56.56745,
+      "longitude": 8.995981
+    },
+    {
+      "name": "Lundager Carservice",
+      "latitude": 55.46777,
+      "longitude": 8.673736
+    },
+    {
+      "name": "Lundager Carservice",
+      "latitude": 55.611092,
+      "longitude": 8.493883
+    },
+    {
+      "name": "Lyddæmper-Central",
+      "latitude": 56.02369,
+      "longitude": 12.573098
+    },
+    {
+      "name": "Lyngby Auto Center",
+      "latitude": 55.763341,
+      "longitude": 12.507712
+    },
+    {
+      "name": "Lyngen Auto",
+      "latitude": 55.484649,
+      "longitude": 12.188385
+    },
+    {
+      "name": "Løgstør Autoværksted",
+      "latitude": 56.95893,
+      "longitude": 9.261421
+    },
+    {
+      "name": "Løkken Auto",
+      "latitude": 57.36752,
+      "longitude": 9.739675
+    },
+    {
+      "name": "Løkkes Auto",
+      "latitude": 56.407875,
+      "longitude": 8.313245
+    },
+    {
+      "name": "Lønborg Auto",
+      "latitude": 55.901978,
+      "longitude": 8.45028
+    },
+    {
+      "name": "Løve Auto ApS",
+      "latitude": 55.488659,
+      "longitude": 11.2944
+    },
+    {
+      "name": "Malle Auto",
+      "latitude": 56.920159,
+      "longitude": 9.243899
+    },
+    {
+      "name": "Mans Auto",
+      "latitude": 55.653968,
+      "longitude": 12.399151
+    },
+    {
+      "name": "MD Autoservice",
+      "latitude": 55.635562,
+      "longitude": 12.468515
+    },
+    {
+      "name": "Mejdal Auto",
+      "latitude": 56.347792,
+      "longitude": 8.641972
+    },
+    {
+      "name": "Mekaniker Claus-Walther Andersen",
+      "latitude": 54.90999,
+      "longitude": 9.799796
+    },
+    {
+      "name": "Mekanikeren Aarup",
+      "latitude": 55.380193,
+      "longitude": 10.056408
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 55.396651,
+      "longitude": 10.372075
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 56.563272,
+      "longitude": 9.028172
+    },
+    {
+      "name": "Mekonomen Autoteknik - ES Motor",
+      "latitude": 55.643961,
+      "longitude": 12.398494
+    },
+    {
+      "name": "MFA Lakering",
+      "latitude": 54.823836,
+      "longitude": 11.866371
+    },
+    {
+      "name": "MH - Autoreparation",
+      "latitude": 55.546088,
+      "longitude": 9.710469
+    },
+    {
+      "name": "Midtfyns mc og autoreparation",
+      "latitude": 55.306014,
+      "longitude": 10.465618
+    },
+    {
+      "name": "MJ Autoservice",
+      "latitude": 54.99285,
+      "longitude": 9.271052
+    },
+    {
+      "name": "MMT Auto",
+      "latitude": 56.49418,
+      "longitude": 9.50636
+    },
+    {
+      "name": "Mojohs Autoservice",
+      "latitude": 55.702202,
+      "longitude": 12.555787
+    },
+    {
+      "name": "Mortens Motorservice",
+      "latitude": 55.505168,
+      "longitude": 8.40965
+    },
+    {
+      "name": "Mosegårds Autolakering",
+      "latitude": 55.465212,
+      "longitude": 8.67902
+    },
+    {
+      "name": "Motor-Depotet A/S",
+      "latitude": 56.112052,
+      "longitude": 10.123862
+    },
+    {
+      "name": "Motorshop",
+      "latitude": 55.668068,
+      "longitude": 12.607878
+    },
+    {
+      "name": "Mr. Torp's Bil, Båd og Knallert - Knallert - Reparation",
+      "latitude": 57.009124,
+      "longitude": 9.952759
+    },
+    {
+      "name": "MS-Performance",
+      "latitude": 55.595466,
+      "longitude": 9.169127
+    },
+    {
+      "name": "Multismedien",
+      "latitude": 55.396513,
+      "longitude": 10.555072
+    },
+    {
+      "name": "Munch Auto",
+      "latitude": 56.231767,
+      "longitude": 10.249266
+    },
+    {
+      "name": "Møllegårdens Auto",
+      "latitude": 55.379804,
+      "longitude": 10.418612
+    },
+    {
+      "name": "Next Mobility Solutions",
+      "latitude": 55.343539,
+      "longitude": 8.775206
+    },
+    {
+      "name": "Nordby Autoværksted",
+      "latitude": 55.960121,
+      "longitude": 10.553646
+    },
+    {
+      "name": "Nr Lyndelse Auto",
+      "latitude": 55.305472,
+      "longitude": 10.395513
+    },
+    {
+      "name": "NR Professional",
+      "latitude": 55.536146,
+      "longitude": 9.713876
+    },
+    {
+      "name": "Nybo's Autoservice",
+      "latitude": 56.178926,
+      "longitude": 9.095791
+    },
+    {
+      "name": "Nyborg Autoforretning",
+      "latitude": 55.310097,
+      "longitude": 10.763246
+    },
+    {
+      "name": "Nyholm Auto",
+      "latitude": 56.289318,
+      "longitude": 8.337714
+    },
+    {
+      "name": "Nykøbing Autoservice",
+      "latitude": 55.9294,
+      "longitude": 11.660102
+    },
+    {
+      "name": "Nørre Åby Auto Service",
+      "latitude": 55.458641,
+      "longitude": 9.872729
+    },
+    {
+      "name": "Nørregades Auto",
+      "latitude": 55.708146,
+      "longitude": 8.752658
+    },
+    {
+      "name": "OC Auto",
+      "latitude": 55.261829,
+      "longitude": 9.47315
+    },
+    {
+      "name": "Odsherred Motor Co.",
+      "latitude": 55.922975,
+      "longitude": 11.662901
+    },
+    {
+      "name": "OJ Autolak A/S",
+      "latitude": 55.34579,
+      "longitude": 10.404201
+    },
+    {
+      "name": "Oksbøl Autoservice",
+      "latitude": 55.625081,
+      "longitude": 8.284877
+    },
+    {
+      "name": "OLE's Autoservice",
+      "latitude": 57.062439,
+      "longitude": 9.997598
+    },
+    {
+      "name": "Olling Auto og omsyn",
+      "latitude": 56.037348,
+      "longitude": 8.79647
+    },
+    {
+      "name": "Olsen's Auto",
+      "latitude": 55.835245,
+      "longitude": 11.988064
+    },
+    {
+      "name": "Original Sachs Service",
+      "latitude": 57.062503,
+      "longitude": 9.997617
+    },
+    {
+      "name": "Ortved Autoopretning",
+      "latitude": 55.490412,
+      "longitude": 11.860534
+    },
+    {
+      "name": "Oure autoværksted",
+      "latitude": 55.118767,
+      "longitude": 10.722393
+    },
+    {
+      "name": "Overlade Autoværksted",
+      "latitude": 56.860614,
+      "longitude": 9.259059
+    },
+    {
+      "name": "Ovesen Biler ApS",
+      "latitude": 56.888518,
+      "longitude": 10.110719
+    },
+    {
+      "name": "P. J. Auto",
+      "latitude": 57.114466,
+      "longitude": 9.858331
+    },
+    {
+      "name": "Palle Mathiesen Auto ApS",
+      "latitude": 55.743127,
+      "longitude": 12.367993
+    },
+    {
+      "name": "Palle's Autoværksted ApS",
+      "latitude": 54.91209,
+      "longitude": 9.802823
+    },
+    {
+      "name": "Pandrup Autoservice",
+      "latitude": 57.219355,
+      "longitude": 9.683637
+    },
+    {
+      "name": "Pape's Auto",
+      "latitude": 55.269171,
+      "longitude": 12.373911
+    },
+    {
+      "name": "Pava Center Vest",
+      "latitude": 55.837891,
+      "longitude": 8.491043
+    },
+    {
+      "name": "PC Auto",
+      "latitude": 56.370689,
+      "longitude": 9.673701
+    },
+    {
+      "name": "Pedersen & Graversen Automobilforretning ApS",
+      "latitude": 56.152726,
+      "longitude": 8.985711
+    },
+    {
+      "name": "Pedersen & Nielsen - Nissan Service",
+      "latitude": 54.926665,
+      "longitude": 9.794828
+    },
+    {
+      "name": "Pedersen & Nielsen - Værksted",
+      "latitude": 54.92775,
+      "longitude": 9.797551
+    },
+    {
+      "name": "Per's Automobiler",
+      "latitude": 55.432373,
+      "longitude": 10.356644
+    },
+    {
+      "name": "Peter's Autocenter",
+      "latitude": 55.653813,
+      "longitude": 12.427416
+    },
+    {
+      "name": "Peter's Autoværksted",
+      "latitude": 55.525283,
+      "longitude": 8.359511
+    },
+    {
+      "name": "Peters Auto & Marine",
+      "latitude": 56.341785,
+      "longitude": 8.535502
+    },
+    {
+      "name": "Peters Auto - Mekaniker og Autoværksted",
+      "latitude": 56.952407,
+      "longitude": 9.354335
+    },
+    {
+      "name": "Peugeot Bejstrup",
+      "latitude": 57.033065,
+      "longitude": 9.332249
+    },
+    {
+      "name": "Peugeot Specialværksted (Peugeotdoktor)",
+      "latitude": 55.69741,
+      "longitude": 12.53578
+    },
+    {
+      "name": "Peugeot Viby",
+      "latitude": 56.111135,
+      "longitude": 10.121446
+    },
+    {
+      "name": "Philips Bilpleje",
+      "latitude": 56.108647,
+      "longitude": 8.977311
+    },
+    {
+      "name": "PK Auto- og Karosseriværksted",
+      "latitude": 56.989357,
+      "longitude": 9.860582
+    },
+    {
+      "name": "Pladesmedend Autoservice",
+      "latitude": 55.603294,
+      "longitude": 11.586007
+    },
+    {
+      "name": "PM Auto",
+      "latitude": 56.611265,
+      "longitude": 9.50019
+    },
+    {
+      "name": "Point S Hadsund",
+      "latitude": 56.727533,
+      "longitude": 10.134607
+    },
+    {
+      "name": "PR Auto",
+      "latitude": 55.660058,
+      "longitude": 11.41305
+    },
+    {
+      "name": "Prebens Auto",
+      "latitude": 55.697473,
+      "longitude": 12.430229
+    },
+    {
+      "name": "ProShine Bilpleje",
+      "latitude": 55.507467,
+      "longitude": 8.415155
+    },
+    {
+      "name": "Præstø Vulkanisering",
+      "latitude": 55.120943,
+      "longitude": 12.0363
+    },
+    {
+      "name": "QARS",
+      "latitude": 55.478835,
+      "longitude": 8.497165
+    },
+    {
+      "name": "Quickpoint",
+      "latitude": 55.478778,
+      "longitude": 8.494469
+    },
+    {
+      "name": "Quickpoint",
+      "latitude": 55.667365,
+      "longitude": 12.418625
+    },
+    {
+      "name": "Quickpoint",
+      "latitude": 56.154176,
+      "longitude": 10.179651
+    },
+    {
+      "name": "Quickpoint",
+      "latitude": 56.180242,
+      "longitude": 10.122724
+    },
+    {
+      "name": "Quickpoint",
+      "latitude": 56.449176,
+      "longitude": 9.389576
+    },
+    {
+      "name": "Quickpoint",
+      "latitude": 56.560164,
+      "longitude": 9.046492
+    },
+    {
+      "name": "Quickpoint",
+      "latitude": 57.038833,
+      "longitude": 9.924278
+    },
+    {
+      "name": "QuickPoint Kastrup",
+      "latitude": 55.621677,
+      "longitude": 12.604222
+    },
+    {
+      "name": "Quickpoint Skanderborg",
+      "latitude": 56.037547,
+      "longitude": 9.910857
+    },
+    {
+      "name": "QuickPot",
+      "latitude": 56.371778,
+      "longitude": 8.627389
+    },
+    {
+      "name": "R.B. Auto",
+      "latitude": 55.555781,
+      "longitude": 11.954726
+    },
+    {
+      "name": "Rasmus Damsgaard Autolakering",
+      "latitude": 56.110687,
+      "longitude": 8.97546
+    },
+    {
+      "name": "Rasmussen & Sønner",
+      "latitude": 56.226013,
+      "longitude": 10.237296
+    },
+    {
+      "name": "Ravnstrup Auto",
+      "latitude": 56.447763,
+      "longitude": 9.289805
+    },
+    {
+      "name": "Refsvindinge Autoforretning",
+      "latitude": 55.28251,
+      "longitude": 10.69067
+    },
+    {
+      "name": "Rettrup Auto",
+      "latitude": 56.578378,
+      "longitude": 9.030007
+    },
+    {
+      "name": "RH Autoteknik",
+      "latitude": 55.235697,
+      "longitude": 10.255987
+    },
+    {
+      "name": "Ribe Undervognscenter",
+      "latitude": 55.345825,
+      "longitude": 8.77399
+    },
+    {
+      "name": "Risbjerg Auto",
+      "latitude": 55.660404,
+      "longitude": 12.474599
+    },
+    {
+      "name": "Risskov Autoværksted",
+      "latitude": 56.199424,
+      "longitude": 10.236289
+    },
+    {
+      "name": "RM Autoteknik Aps",
+      "latitude": 55.653111,
+      "longitude": 12.501976
+    },
+    {
+      "name": "Roos Auto",
+      "latitude": 55.424026,
+      "longitude": 9.151461
+    },
+    {
+      "name": "Rosengaard Auto",
+      "latitude": 55.38481,
+      "longitude": 10.43942
+    },
+    {
+      "name": "Roum Auto",
+      "latitude": 56.609431,
+      "longitude": 9.538492
+    },
+    {
+      "name": "Roust Auto og Lastbil Service",
+      "latitude": 55.551529,
+      "longitude": 8.63422
+    },
+    {
+      "name": "RS Autoteknik",
+      "latitude": 55.312178,
+      "longitude": 10.210599
+    },
+    {
+      "name": "RS Car Care ApS",
+      "latitude": 56.227601,
+      "longitude": 10.251296
+    },
+    {
+      "name": "Ry Auto-Centrum",
+      "latitude": 56.087597,
+      "longitude": 9.78385
+    },
+    {
+      "name": "Rødovre Bilsyn",
+      "latitude": 55.671759,
+      "longitude": 12.459143
+    },
+    {
+      "name": "Røjklit Auto",
+      "latitude": 56.129841,
+      "longitude": 8.175224
+    },
+    {
+      "name": "Rømø Auto Service",
+      "latitude": 55.151908,
+      "longitude": 8.550772
+    },
+    {
+      "name": "S.E. Biler",
+      "latitude": 55.943593,
+      "longitude": 9.115926
+    },
+    {
+      "name": "Saltum Auto",
+      "latitude": 57.272157,
+      "longitude": 9.697866
+    },
+    {
+      "name": "Sandholdt Biler",
+      "latitude": 54.930483,
+      "longitude": 9.732312
+    },
+    {
+      "name": "Schmidt TIP",
+      "latitude": 55.05096,
+      "longitude": 8.951787
+    },
+    {
+      "name": "Schou-Jensen Auto Aps",
+      "latitude": 55.057435,
+      "longitude": 15.133827
+    },
+    {
+      "name": "Schultz Automobiler Holsted",
+      "latitude": 55.482854,
+      "longitude": 8.911461
+    },
+    {
+      "name": "SDKbiler A/S - Hjørring",
+      "latitude": 57.448565,
+      "longitude": 10.010565
+    },
+    {
+      "name": "Sdr Høe Autoværksted",
+      "latitude": 55.468399,
+      "longitude": 8.730349
+    },
+    {
+      "name": "Sdr. Nissum Auto",
+      "latitude": 56.306646,
+      "longitude": 8.18671
+    },
+    {
+      "name": "Servicecenter Rømø",
+      "latitude": 55.152295,
+      "longitude": 8.548965
+    },
+    {
+      "name": "SK-Autocenter",
+      "latitude": 55.536355,
+      "longitude": 12.207818
+    },
+    {
+      "name": "SkadeCenterFalster",
+      "latitude": 54.806967,
+      "longitude": 11.872691
+    },
+    {
+      "name": "Skalborg Ny Autolakering",
+      "latitude": 57.011502,
+      "longitude": 9.896525
+    },
+    {
+      "name": "Skalborg Undervognscenter",
+      "latitude": 57.021325,
+      "longitude": 9.895865
+    },
+    {
+      "name": "Skallebølle Auto",
+      "latitude": 55.387,
+      "longitude": 10.19035
+    },
+    {
+      "name": "Skave Center",
+      "latitude": 56.390322,
+      "longitude": 8.804856
+    },
+    {
+      "name": "Skelby autoværksted",
+      "latitude": 55.313732,
+      "longitude": 11.680708
+    },
+    {
+      "name": "Skjern Auto & Karosseri",
+      "latitude": 55.957458,
+      "longitude": 8.487093
+    },
+    {
+      "name": "Skjern Autoservice",
+      "latitude": 55.957777,
+      "longitude": 8.497917
+    },
+    {
+      "name": "Skorstensgaard",
+      "latitude": 55.509159,
+      "longitude": 8.4122
+    },
+    {
+      "name": "Skorstensgaard",
+      "latitude": 55.535211,
+      "longitude": 9.714886
+    },
+    {
+      "name": "Skorstensgaard",
+      "latitude": 55.724674,
+      "longitude": 12.378644
+    },
+    {
+      "name": "Skorstensgaard",
+      "latitude": 56.562875,
+      "longitude": 9.038263
+    },
+    {
+      "name": "Skovgaard Biler",
+      "latitude": 55.511378,
+      "longitude": 8.875279
+    },
+    {
+      "name": "Skovhus Biler",
+      "latitude": 55.356601,
+      "longitude": 9.191166
+    },
+    {
+      "name": "Skægkær Auto og Traktorværksted",
+      "latitude": 56.212944,
+      "longitude": 9.504309
+    },
+    {
+      "name": "SMC-biler",
+      "latitude": 57.032972,
+      "longitude": 9.927603
+    },
+    {
+      "name": "Smede & Maskinværksted",
+      "latitude": 57.095753,
+      "longitude": 9.169199
+    },
+    {
+      "name": "Solbjerg Biler ApS",
+      "latitude": 56.043955,
+      "longitude": 10.082243
+    },
+    {
+      "name": "Soldal Auto",
+      "latitude": 57.468163,
+      "longitude": 10.173384
+    },
+    {
+      "name": "Solsø Auto",
+      "latitude": 55.497992,
+      "longitude": 8.531265
+    },
+    {
+      "name": "Solsø Auto",
+      "latitude": 55.526865,
+      "longitude": 8.453288
+    },
+    {
+      "name": "Sondrup Auto",
+      "latitude": 55.897105,
+      "longitude": 10.070123
+    },
+    {
+      "name": "Sortimo",
+      "latitude": 55.845469,
+      "longitude": 9.735615
+    },
+    {
+      "name": "SOS Dansk Autohjælp",
+      "latitude": 55.425414,
+      "longitude": 8.645887
+    },
+    {
+      "name": "St. Binderup Auto I/S",
+      "latitude": 56.740568,
+      "longitude": 9.535292
+    },
+    {
+      "name": "St. Darum Autocenter",
+      "latitude": 55.427738,
+      "longitude": 8.644558
+    },
+    {
+      "name": "Stabil Auto",
+      "latitude": 56.263487,
+      "longitude": 8.318854
+    },
+    {
+      "name": "Stadil Auto",
+      "latitude": 56.197801,
+      "longitude": 8.218713
+    },
+    {
+      "name": "Stanges Auto",
+      "latitude": 57.58793,
+      "longitude": 9.978317
+    },
+    {
+      "name": "Starup Auto",
+      "latitude": 55.648135,
+      "longitude": 8.812481
+    },
+    {
+      "name": "Steentoft Autocenter",
+      "latitude": 56.145065,
+      "longitude": 10.15198
+    },
+    {
+      "name": "Stenderup Auto",
+      "latitude": 54.930533,
+      "longitude": 9.691377
+    },
+    {
+      "name": "Stiholt Erhverv",
+      "latitude": 55.479104,
+      "longitude": 8.498816
+    },
+    {
+      "name": "Strandvejens Autocenter",
+      "latitude": 54.691797,
+      "longitude": 11.963598
+    },
+    {
+      "name": "Super Dæk Service",
+      "latitude": 54.835837,
+      "longitude": 9.344015
+    },
+    {
+      "name": "Super Dæk Service",
+      "latitude": 55.836416,
+      "longitude": 9.786151
+    },
+    {
+      "name": "Super Dæk Service",
+      "latitude": 56.115246,
+      "longitude": 10.134868
+    },
+    {
+      "name": "Super Dæk Service",
+      "latitude": 56.378228,
+      "longitude": 8.613761
+    },
+    {
+      "name": "Super Dæk Service",
+      "latitude": 56.652498,
+      "longitude": 9.794652
+    },
+    {
+      "name": "Super Dæk Service Skejby",
+      "latitude": 56.209689,
+      "longitude": 10.176016
+    },
+    {
+      "name": "Super Dæk Truck Center",
+      "latitude": 55.846381,
+      "longitude": 9.737296
+    },
+    {
+      "name": "Sydjysk Lastvognsservice",
+      "latitude": 55.492504,
+      "longitude": 9.126931
+    },
+    {
+      "name": "Sydthy Dækservice",
+      "latitude": 56.805658,
+      "longitude": 8.395228
+    },
+    {
+      "name": "Synshallen Vejen",
+      "latitude": 55.492284,
+      "longitude": 9.128238
+    },
+    {
+      "name": "Sønderborg rustbeskyttelse og bilpleje",
+      "latitude": 54.9286,
+      "longitude": 9.797356
+    },
+    {
+      "name": "Søndermarkens Auto",
+      "latitude": 55.69845,
+      "longitude": 9.526791
+    },
+    {
+      "name": "Søren Friis Auto",
+      "latitude": 55.660525,
+      "longitude": 11.41465
+    },
+    {
+      "name": "Sørens Auto",
+      "latitude": 54.827549,
+      "longitude": 9.363167
+    },
+    {
+      "name": "Sørens Auto",
+      "latitude": 55.742419,
+      "longitude": 12.413746
+    },
+    {
+      "name": "Sørens Auto",
+      "latitude": 57.449089,
+      "longitude": 10.429364
+    },
+    {
+      "name": "Sørens Auto Bedsted",
+      "latitude": 56.80579,
+      "longitude": 8.408286
+    },
+    {
+      "name": "T. Olesen",
+      "latitude": 55.337658,
+      "longitude": 10.314444
+    },
+    {
+      "name": "TA Auto",
+      "latitude": 56.607774,
+      "longitude": 9.500229
+    },
+    {
+      "name": "Tanken",
+      "latitude": 56.207184,
+      "longitude": 10.235108
+    },
+    {
+      "name": "Tectyl Center Vangen",
+      "latitude": 57.38965,
+      "longitude": 10.509374
+    },
+    {
+      "name": "Teknicar",
+      "latitude": 56.170996,
+      "longitude": 10.215294
+    },
+    {
+      "name": "Terminalen",
+      "latitude": 55.827555,
+      "longitude": 12.429447
+    },
+    {
+      "name": "Tesla Service Center Aarhus",
+      "latitude": 56.178456,
+      "longitude": 10.138918
+    },
+    {
+      "name": "Theed Auto",
+      "latitude": 55.58172,
+      "longitude": 9.753465
+    },
+    {
+      "name": "This' Auto",
+      "latitude": 57.356319,
+      "longitude": 9.883397
+    },
+    {
+      "name": "Thomses Auto & Dækcenter",
+      "latitude": 55.644234,
+      "longitude": 12.410777
+    },
+    {
+      "name": "Thor Autocenter",
+      "latitude": 55.6738,
+      "longitude": 12.445345
+    },
+    {
+      "name": "Thorkilds Auto",
+      "latitude": 55.838903,
+      "longitude": 8.886776
+    },
+    {
+      "name": "Tjørring Autoteknik",
+      "latitude": 56.14626,
+      "longitude": 8.995212
+    },
+    {
+      "name": "TM Biler",
+      "latitude": 56.690763,
+      "longitude": 9.206635
+    },
+    {
+      "name": "Tommy's Auto",
+      "latitude": 55.074758,
+      "longitude": 10.438503
+    },
+    {
+      "name": "Top Ti Auto",
+      "latitude": 57.344552,
+      "longitude": 10.238629
+    },
+    {
+      "name": "Toyota Service - Green Garage",
+      "latitude": 55.842517,
+      "longitude": 12.438246
+    },
+    {
+      "name": "Toyota Via Biler A/S - Skanderborg",
+      "latitude": 56.049197,
+      "longitude": 9.939652
+    },
+    {
+      "name": "Toys Auto",
+      "latitude": 55.673502,
+      "longitude": 11.74029
+    },
+    {
+      "name": "TPM Bilpleje",
+      "latitude": 55.509135,
+      "longitude": 8.595628
+    },
+    {
+      "name": "Tranevej Auto Service",
+      "latitude": 55.700959,
+      "longitude": 12.530519
+    },
+    {
+      "name": "Trige Auto & Diesel ApS",
+      "latitude": 56.253143,
+      "longitude": 10.152809
+    },
+    {
+      "name": "Troldhede Autoteknik",
+      "latitude": 55.996046,
+      "longitude": 8.746825
+    },
+    {
+      "name": "Truck Center Kolding",
+      "latitude": 55.540086,
+      "longitude": 9.485576
+    },
+    {
+      "name": "TST Biler",
+      "latitude": 56.347801,
+      "longitude": 8.611256
+    },
+    {
+      "name": "Tuta's auto",
+      "latitude": 55.718873,
+      "longitude": 12.427285
+    },
+    {
+      "name": "Tyson Auto",
+      "latitude": 56.212955,
+      "longitude": 10.268428
+    },
+    {
+      "name": "Tørring Autolak",
+      "latitude": 55.84893,
+      "longitude": 9.48827
+    },
+    {
+      "name": "Ulf Gad",
+      "latitude": 56.276036,
+      "longitude": 8.325008
+    },
+    {
+      "name": "Universal Autoservice",
+      "latitude": 54.91914,
+      "longitude": 9.823556
+    },
+    {
+      "name": "Uno-X Værksted",
+      "latitude": 55.708831,
+      "longitude": 12.574039
+    },
+    {
+      "name": "Vallø Autoværksted",
+      "latitude": 55.400105,
+      "longitude": 12.241963
+    },
+    {
+      "name": "Vandel Biler",
+      "latitude": 55.712306,
+      "longitude": 9.217697
+    },
+    {
+      "name": "Vandel Undervognscenter v/René Høybye Carstensen",
+      "latitude": 55.712389,
+      "longitude": 9.219302
+    },
+    {
+      "name": "Vangen Autoværksted",
+      "latitude": 57.389493,
+      "longitude": 10.509252
+    },
+    {
+      "name": "Varde Biler",
+      "latitude": 55.599702,
+      "longitude": 8.499041
+    },
+    {
+      "name": "Vardevejens Autoservice",
+      "latitude": 55.667612,
+      "longitude": 8.575539
+    },
+    {
+      "name": "Vejen AutoTeknik",
+      "latitude": 55.488855,
+      "longitude": 9.12693
+    },
+    {
+      "name": "Vejrup Undervognscenter",
+      "latitude": 55.521568,
+      "longitude": 8.781264
+    },
+    {
+      "name": "Vejstrup Auto",
+      "latitude": 55.105907,
+      "longitude": 10.713873
+    },
+    {
+      "name": "Verninge Auto",
+      "latitude": 55.295572,
+      "longitude": 10.226435
+    },
+    {
+      "name": "Vester Lyby Reservedelslager",
+      "latitude": 56.644142,
+      "longitude": 8.986364
+    },
+    {
+      "name": "Vestfyns Auto",
+      "latitude": 55.213077,
+      "longitude": 10.036408
+    },
+    {
+      "name": "Vestfyns Undervogns Center",
+      "latitude": 55.37789,
+      "longitude": 10.05566
+    },
+    {
+      "name": "Vestjysk Pladeteknik",
+      "latitude": 55.461472,
+      "longitude": 8.59441
+    },
+    {
+      "name": "Viby Au2center",
+      "latitude": 55.549001,
+      "longitude": 12.019817
+    },
+    {
+      "name": "Voerså Auto",
+      "latitude": 57.20863,
+      "longitude": 10.48088
+    },
+    {
+      "name": "Volvo buscenter",
+      "latitude": 55.533623,
+      "longitude": 9.485759
+    },
+    {
+      "name": "Volvo Truck Center",
+      "latitude": 57.029601,
+      "longitude": 9.973662
+    },
+    {
+      "name": "Windinge Auto",
+      "latitude": 55.98684,
+      "longitude": 12.41299
+    },
+    {
+      "name": "Xander's Autoværksted",
+      "latitude": 55.472426,
+      "longitude": 12.185313
+    },
+    {
+      "name": "Ydesens Auto",
+      "latitude": 57.420466,
+      "longitude": 9.833773
+    },
+    {
+      "name": "Årre Truck & Traktorservice",
+      "latitude": 55.571461,
+      "longitude": 8.663198
+    },
+    {
+      "name": "Ølholm SUVO og Autocenter",
+      "latitude": 55.834791,
+      "longitude": 9.513907
+    },
+    {
+      "name": "Øster Hurup Autoværksted",
+      "latitude": 56.804155,
+      "longitude": 10.269898
+    },
+    {
+      "name": "Øster Højst Autoværksted",
+      "latitude": 55.000507,
+      "longitude": 9.038687
+    },
+    {
+      "name": "Østerbro Bilhus",
+      "latitude": 55.702963,
+      "longitude": 12.590423
+    },
+    {
+      "name": "Østerbyens Autoværksted",
+      "latitude": 55.464027,
+      "longitude": 8.480737
+    },
+    {
+      "name": "Østergaards Auto",
+      "latitude": 55.965994,
+      "longitude": 9.291063
+    }
+  ],
+  "meta": {
+    "title": "Autoværksteder i Danmark (Car repair shops in Denmark) - Gratis download",
+    "description": "Car repair shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=car_repair. Indeholder 572 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Autoværksteder i Danmark (Car repair shops in Denmark) | ListBase",
+    "seo_description": "Download Autoværksteder i Danmark (Car repair shops in Denmark) — 572 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 572 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

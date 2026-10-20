@@ -1,0 +1,220 @@
+{
+  "id": "da-sjaelland-opstillingskreds",
+  "name": "Opstillingskredse i Sjælland-storkredsen",
+  "title": "Opstillingskredse i Sjælland-storkredsen",
+  "description": "Opstillingskredse i storkredsen Sjælland (i alt 12). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "valgkreds_nr",
+      "label": "Valgkreds Nr",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_id",
+      "label": "Storkreds Id",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_name",
+      "label": "Storkreds Name",
+      "type": "string"
+    },
+    {
+      "key": "landsdel_id",
+      "label": "Landsdel Id",
+      "type": "number"
+    },
+    {
+      "key": "landsdel_name",
+      "label": "Landsdel Name",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "33",
+      "name": "Faxe",
+      "slug": "faxe",
+      "valgkreds_nr": "2",
+      "storkreds_id": "5",
+      "storkreds_name": "Sjælland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "35",
+      "name": "Greve",
+      "slug": "greve",
+      "valgkreds_nr": "7",
+      "storkreds_id": "5",
+      "storkreds_name": "Sjælland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "30",
+      "name": "Guldborgsund",
+      "slug": "guldborgsund",
+      "valgkreds_nr": "2",
+      "storkreds_id": "5",
+      "storkreds_name": "Sjælland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "37",
+      "name": "Holbæk",
+      "slug": "holbaek",
+      "valgkreds_nr": "9",
+      "storkreds_id": "5",
+      "storkreds_name": "Sjælland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "38",
+      "name": "Kalundborg",
+      "slug": "kalundborg",
+      "valgkreds_nr": "10",
+      "storkreds_id": "5",
+      "storkreds_name": "Sjælland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "34",
+      "name": "Køge",
+      "slug": "koege",
+      "valgkreds_nr": "6",
+      "storkreds_id": "5",
+      "storkreds_name": "Sjælland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "29",
+      "name": "Lolland",
+      "slug": "lolland",
+      "valgkreds_nr": "1",
+      "storkreds_id": "5",
+      "storkreds_name": "Sjælland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "32",
+      "name": "Næstved",
+      "slug": "naestved",
+      "valgkreds_nr": "4",
+      "storkreds_id": "5",
+      "storkreds_name": "Sjælland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "39",
+      "name": "Ringsted",
+      "slug": "ringsted",
+      "valgkreds_nr": "11",
+      "storkreds_id": "5",
+      "storkreds_name": "Sjælland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "36",
+      "name": "Roskilde",
+      "slug": "roskilde",
+      "valgkreds_nr": "8",
+      "storkreds_id": "5",
+      "storkreds_name": "Sjælland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "40",
+      "name": "Slagelse",
+      "slug": "slagelse",
+      "valgkreds_nr": "12",
+      "storkreds_id": "5",
+      "storkreds_name": "Sjælland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    },
+    {
+      "id": "31",
+      "name": "Vordingborg",
+      "slug": "vordingborg",
+      "valgkreds_nr": "3",
+      "storkreds_id": "5",
+      "storkreds_name": "Sjælland",
+      "landsdel_id": "2",
+      "landsdel_name": "Sjælland-Syddanmark",
+      "region_id": "1085",
+      "region_name": "Region Sjælland"
+    }
+  ],
+  "meta": {
+    "title": "Opstillingskredse i Sjælland-storkredsen - Gratis download",
+    "description": "Opstillingskredse i storkredsen Sjælland (i alt 12). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget). Indeholder 12 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Opstillingskredse i Sjælland-storkredsen | ListBase",
+    "seo_description": "Download Opstillingskredse i Sjælland-storkredsen — 12 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 12 poster / 10 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

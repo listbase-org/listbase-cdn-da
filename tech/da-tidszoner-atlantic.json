@@ -1,0 +1,96 @@
+{
+  "id": "da-tidszoner-atlantic",
+  "name": "Tidszoner: Atlantic (5)",
+  "title": "Tidszoner: Atlantic (5)",
+  "description": "CLDR da-lokalets tidszoner i regionen 'Atlantic'.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "by_navn",
+      "label": "By Navn",
+      "type": "string"
+    },
+    {
+      "key": "standardtid",
+      "label": "Standardtid",
+      "type": "string"
+    },
+    {
+      "key": "sommertid",
+      "label": "Sommertid",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tz_id": "Atlantic/Azores",
+      "region": "Atlantic",
+      "by_navn": "Azorerne",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 1
+    },
+    {
+      "tz_id": "Atlantic/Canary",
+      "region": "Atlantic",
+      "by_navn": "De Kanariske Øer",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 2
+    },
+    {
+      "tz_id": "Atlantic/Cape_Verde",
+      "region": "Atlantic",
+      "by_navn": "Kap Verde",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 3
+    },
+    {
+      "tz_id": "Atlantic/Faeroe",
+      "region": "Atlantic",
+      "by_navn": "Færøerne",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 4
+    },
+    {
+      "tz_id": "Atlantic/St_Helena",
+      "region": "Atlantic",
+      "by_navn": "St. Helena",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 5
+    }
+  ],
+  "meta": {
+    "title": "Tidszoner: Atlantic (5) - Gratis download",
+    "description": "CLDR da-lokalets tidszoner i regionen 'Atlantic'. Indeholder 5 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Tidszoner: Atlantic (5) | ListBase",
+    "seo_description": "Download Tidszoner: Atlantic (5) — 5 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 5 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

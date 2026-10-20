@@ -1,0 +1,224 @@
+{
+  "id": "da-hjoerring-afstemningssteder",
+  "name": "Afstemningssteder i Hjørring Kommune",
+  "title": "Afstemningssteder i Hjørring Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Hjørring Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Horne - Asdal",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Hirtshals",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Hjørring-Centrum",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Tornby - Vidstrup",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Bindslev",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Tversted",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Tårs",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Vrejlev-Hæstrup",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Bjergby-Mygdal",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Skallerup",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Hjørring-Nord",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Hjørring-Syd",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Hjørring-Vest",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Vrå",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Hundelev",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Løkken",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Sindal",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Astrup",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Tolne - Mosbjerg",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "27",
+      "afstemningssted": "Ugilt",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "Lendum - Hørmested",
+      "kommune_kode": 860,
+      "kommune": "Hjørring",
+      "opstillingskreds_nummer": 85,
+      "opstillingskreds": "Hjørring"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Hjørring Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Hjørring Kommune med opstillingskreds. Indeholder 21 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Hjørring Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Hjørring Kommune — 21 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 21 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

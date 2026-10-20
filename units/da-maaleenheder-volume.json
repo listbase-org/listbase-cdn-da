@@ -1,0 +1,506 @@
+{
+  "id": "da-maaleenheder-volume",
+  "name": "Måleenheder: volume (44)",
+  "title": "Måleenheder: volume (44)",
+  "description": "CLDR da-lokalets måleenheder i kategorien 'volume'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "volume-acre-foot",
+      "kategori": "volume",
+      "navn": "acre-fod",
+      "moenster_en": "{0} acre-fod",
+      "moenster_flere": "{0} acre-fod",
+      "kort_moenster": "{0} ac ft",
+      "smal_moenster": "{0} ac ft"
+    },
+    {
+      "id": 2,
+      "unit_code": "volume-barrel",
+      "kategori": "volume",
+      "navn": "tønder",
+      "moenster_en": "{0} tønde",
+      "moenster_flere": "{0} tønder",
+      "kort_moenster": "{0} tdr.",
+      "smal_moenster": "{0} tdr."
+    },
+    {
+      "id": 3,
+      "unit_code": "volume-bushel",
+      "kategori": "volume",
+      "navn": "skæpper",
+      "moenster_en": "{0} skæppe",
+      "moenster_flere": "{0} skæpper",
+      "kort_moenster": "{0} skp.",
+      "smal_moenster": "{0} skp."
+    },
+    {
+      "id": 4,
+      "unit_code": "volume-centiliter",
+      "kategori": "volume",
+      "navn": "centiliter",
+      "moenster_en": "{0} centiliter",
+      "moenster_flere": "{0} centiliter",
+      "kort_moenster": "{0} cl",
+      "smal_moenster": "{0} cl"
+    },
+    {
+      "id": 5,
+      "unit_code": "volume-cubic-centimeter",
+      "kategori": "volume",
+      "navn": "kubikcentimeter",
+      "moenster_en": "{0} kubikcentimeter",
+      "moenster_flere": "{0} kubikcentimeter",
+      "kort_moenster": "{0} cm³",
+      "smal_moenster": "{0}cm³"
+    },
+    {
+      "id": 6,
+      "unit_code": "volume-cubic-foot",
+      "kategori": "volume",
+      "navn": "kubikfod",
+      "moenster_en": "{0} kubikfod",
+      "moenster_flere": "{0} kubikfod",
+      "kort_moenster": "{0} ft³",
+      "smal_moenster": "{0} fod³"
+    },
+    {
+      "id": 7,
+      "unit_code": "volume-cubic-inch",
+      "kategori": "volume",
+      "navn": "kubiktommer",
+      "moenster_en": "{0} kubiktomme",
+      "moenster_flere": "{0} kubiktommer",
+      "kort_moenster": "{0} in³",
+      "smal_moenster": "{0} in³"
+    },
+    {
+      "id": 8,
+      "unit_code": "volume-cubic-kilometer",
+      "kategori": "volume",
+      "navn": "kubikkilometer",
+      "moenster_en": "{0} kubikkilometer",
+      "moenster_flere": "{0} kubikkilometer",
+      "kort_moenster": "{0} km³",
+      "smal_moenster": "{0}km³"
+    },
+    {
+      "id": 9,
+      "unit_code": "volume-cubic-meter",
+      "kategori": "volume",
+      "navn": "kubikmeter",
+      "moenster_en": "{0} kubikmeter",
+      "moenster_flere": "{0} kubikmeter",
+      "kort_moenster": "{0} m³",
+      "smal_moenster": "{0}m³"
+    },
+    {
+      "id": 10,
+      "unit_code": "volume-cubic-mile",
+      "kategori": "volume",
+      "navn": "kubik-engelske mil",
+      "moenster_en": "{0} kubik-engelsk mil",
+      "moenster_flere": "{0} kubik-engelske mil",
+      "kort_moenster": "{0} mi³",
+      "smal_moenster": "{0} mi³"
+    },
+    {
+      "id": 11,
+      "unit_code": "volume-cubic-yard",
+      "kategori": "volume",
+      "navn": "kubik-engelske yard",
+      "moenster_en": "{0} kubik-engelske yard",
+      "moenster_flere": "{0} kubik-engelske yard",
+      "kort_moenster": "{0} yd³",
+      "smal_moenster": "{0} yd³"
+    },
+    {
+      "id": 12,
+      "unit_code": "volume-cup",
+      "kategori": "volume",
+      "navn": "cups",
+      "moenster_en": "{0} cup",
+      "moenster_flere": "{0} cups",
+      "kort_moenster": "{0} c",
+      "smal_moenster": "{0} c"
+    },
+    {
+      "id": 13,
+      "unit_code": "volume-cup-imperial",
+      "kategori": "volume",
+      "navn": "cup Imp.",
+      "moenster_en": "",
+      "moenster_flere": "{0} cup Imp.",
+      "kort_moenster": "{0} cup Imp.",
+      "smal_moenster": "{0} cup Imp."
+    },
+    {
+      "id": 14,
+      "unit_code": "volume-cup-jp",
+      "kategori": "volume",
+      "navn": "cup [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} cup [JP]",
+      "kort_moenster": "{0} cup [JP]",
+      "smal_moenster": "{0} cup [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "volume-cup-metric",
+      "kategori": "volume",
+      "navn": "metriske kopper",
+      "moenster_en": "{0} metrisk kop",
+      "moenster_flere": "{0} metriske kopper",
+      "kort_moenster": "{0} mc",
+      "smal_moenster": "{0} mc"
+    },
+    {
+      "id": 16,
+      "unit_code": "volume-deciliter",
+      "kategori": "volume",
+      "navn": "deciliter",
+      "moenster_en": "{0} deciliter",
+      "moenster_flere": "{0} deciliter",
+      "kort_moenster": "{0} dl",
+      "smal_moenster": "{0}dl"
+    },
+    {
+      "id": 17,
+      "unit_code": "volume-dessert-spoon",
+      "kategori": "volume",
+      "navn": "dessertske",
+      "moenster_en": "{0} dessertske",
+      "moenster_flere": "{0} dessertskeer",
+      "kort_moenster": "{0} dsk.",
+      "smal_moenster": "{0} dsk."
+    },
+    {
+      "id": 18,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategori": "volume",
+      "navn": "britisk dessertske",
+      "moenster_en": "{0} britisk dessertske",
+      "moenster_flere": "{0} britiske dessertskeer",
+      "kort_moenster": "{0} brit. dsk.",
+      "smal_moenster": "{0}brit.dsk."
+    },
+    {
+      "id": 19,
+      "unit_code": "volume-dram",
+      "kategori": "volume",
+      "navn": "britisk flydende dram",
+      "moenster_en": "{0} britisk flydende dram",
+      "moenster_flere": "{0} britiske flydende dramme",
+      "kort_moenster": "{0} br. fl. dr.",
+      "smal_moenster": "{0}br.fl.dr."
+    },
+    {
+      "id": 20,
+      "unit_code": "volume-drop",
+      "kategori": "volume",
+      "navn": "dråbe",
+      "moenster_en": "{0} dråbe",
+      "moenster_flere": "{0} dråber",
+      "kort_moenster": "{0} dråber",
+      "smal_moenster": "{0} dråber"
+    },
+    {
+      "id": 21,
+      "unit_code": "volume-fluid-ounce",
+      "kategori": "volume",
+      "navn": "engelske fluid ounces",
+      "moenster_en": "{0} engelsk fluid ounce",
+      "moenster_flere": "{0} engelske fluid ounces",
+      "kort_moenster": "{0} fl oz",
+      "smal_moenster": "{0} fl oz"
+    },
+    {
+      "id": 22,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategori": "volume",
+      "navn": "Imp. fl oz",
+      "moenster_en": "{0} Imp. fluid ounce",
+      "moenster_flere": "{0} Imp. fluid ounces",
+      "kort_moenster": "{0} fl oz Imp.",
+      "smal_moenster": "{0}fl oz Im"
+    },
+    {
+      "id": 23,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategori": "volume",
+      "navn": "metriske flydende ounces",
+      "moenster_en": "{0} metrisk flydende ounce",
+      "moenster_flere": "{0} metriske flydende ounces",
+      "kort_moenster": "{0} fl oz m.",
+      "smal_moenster": "{0} fl oz m."
+    },
+    {
+      "id": 24,
+      "unit_code": "volume-gallon",
+      "kategori": "volume",
+      "navn": "gallons",
+      "moenster_en": "{0} gallon",
+      "moenster_flere": "{0} gallons",
+      "kort_moenster": "{0} gal",
+      "smal_moenster": "{0} gal"
+    },
+    {
+      "id": 25,
+      "unit_code": "volume-gallon-imperial",
+      "kategori": "volume",
+      "navn": "engelske gallons",
+      "moenster_en": "{0} engelsk gallon",
+      "moenster_flere": "{0} engelske gallons",
+      "kort_moenster": "{0} eng. gal",
+      "smal_moenster": "{0} eng. gal"
+    },
+    {
+      "id": 26,
+      "unit_code": "volume-hectoliter",
+      "kategori": "volume",
+      "navn": "hektoliter",
+      "moenster_en": "{0} hektoliter",
+      "moenster_flere": "{0} hektoliter",
+      "kort_moenster": "{0} hl",
+      "smal_moenster": "{0} hl"
+    },
+    {
+      "id": 27,
+      "unit_code": "volume-jigger",
+      "kategori": "volume",
+      "navn": "jigger",
+      "moenster_en": "",
+      "moenster_flere": "{0} jigger",
+      "kort_moenster": "{0} jigger",
+      "smal_moenster": "{0} jigger"
+    },
+    {
+      "id": 28,
+      "unit_code": "volume-koku",
+      "kategori": "volume",
+      "navn": "koku [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} koku [JP]",
+      "kort_moenster": "{0} koku [JP]",
+      "smal_moenster": "{0} koku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "volume-kosaji",
+      "kategori": "volume",
+      "navn": "kosaji [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} kosaji [JP]",
+      "kort_moenster": "{0} kosaji [JP]",
+      "smal_moenster": "{0} kosaji [JP]"
+    },
+    {
+      "id": 30,
+      "unit_code": "volume-liter",
+      "kategori": "volume",
+      "navn": "liter",
+      "moenster_en": "{0} liter",
+      "moenster_flere": "{0} liter",
+      "kort_moenster": "{0} l",
+      "smal_moenster": "{0} l"
+    },
+    {
+      "id": 31,
+      "unit_code": "volume-megaliter",
+      "kategori": "volume",
+      "navn": "megaliter",
+      "moenster_en": "{0} megaliter",
+      "moenster_flere": "{0} megaliter",
+      "kort_moenster": "{0} ML",
+      "smal_moenster": "{0} ML"
+    },
+    {
+      "id": 32,
+      "unit_code": "volume-milliliter",
+      "kategori": "volume",
+      "navn": "milliliter",
+      "moenster_en": "{0} milliliter",
+      "moenster_flere": "{0} milliliter",
+      "kort_moenster": "{0} ml",
+      "smal_moenster": "{0} ml"
+    },
+    {
+      "id": 33,
+      "unit_code": "volume-osaji",
+      "kategori": "volume",
+      "navn": "osaji [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} osaji [JP]",
+      "kort_moenster": "{0} osaji [JP]",
+      "smal_moenster": "{0} osaji [JP]"
+    },
+    {
+      "id": 34,
+      "unit_code": "volume-pinch",
+      "kategori": "volume",
+      "navn": "knivspids",
+      "moenster_en": "{0} knivspids",
+      "moenster_flere": "{0} knivspidser",
+      "kort_moenster": "{0} knsp.",
+      "smal_moenster": "{0} knsp."
+    },
+    {
+      "id": 35,
+      "unit_code": "volume-pint",
+      "kategori": "volume",
+      "navn": "pints",
+      "moenster_en": "{0} pint",
+      "moenster_flere": "{0} pints",
+      "kort_moenster": "{0} pt",
+      "smal_moenster": "{0} pt"
+    },
+    {
+      "id": 36,
+      "unit_code": "volume-pint-imperial",
+      "kategori": "volume",
+      "navn": "pint Imp.",
+      "moenster_en": "",
+      "moenster_flere": "{0} pt Imp.",
+      "kort_moenster": "{0} pt Imp.",
+      "smal_moenster": "{0} pt Imp."
+    },
+    {
+      "id": 37,
+      "unit_code": "volume-pint-metric",
+      "kategori": "volume",
+      "navn": "metriske pints",
+      "moenster_en": "{0} metrisk pint",
+      "moenster_flere": "{0} metriske pints",
+      "kort_moenster": "{0} mpt",
+      "smal_moenster": "{0} mpt"
+    },
+    {
+      "id": 38,
+      "unit_code": "volume-quart",
+      "kategori": "volume",
+      "navn": "engelske quarts",
+      "moenster_en": "{0} engelsk quart",
+      "moenster_flere": "{0} engelske quarts",
+      "kort_moenster": "{0} qt",
+      "smal_moenster": "{0} qt"
+    },
+    {
+      "id": 39,
+      "unit_code": "volume-quart-imperial",
+      "kategori": "volume",
+      "navn": "britisk quart",
+      "moenster_en": "{0} britisk quart",
+      "moenster_flere": "{0} britiske quarts",
+      "kort_moenster": "{0} britiske qt",
+      "smal_moenster": "{0} br. qt."
+    },
+    {
+      "id": 40,
+      "unit_code": "volume-sai",
+      "kategori": "volume",
+      "navn": "sai [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} sai [JP]",
+      "kort_moenster": "{0} sai [JP]",
+      "smal_moenster": "{0} sai [JP]"
+    },
+    {
+      "id": 41,
+      "unit_code": "volume-shaku",
+      "kategori": "volume",
+      "navn": "shaku [vol, JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} shaku [vol, JP]",
+      "kort_moenster": "{0} shaku [vol, JP]",
+      "smal_moenster": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 42,
+      "unit_code": "volume-tablespoon",
+      "kategori": "volume",
+      "navn": "spiseskeer",
+      "moenster_en": "{0} spiseske",
+      "moenster_flere": "{0} spiseskeer",
+      "kort_moenster": "{0} spsk.",
+      "smal_moenster": "{0} spsk."
+    },
+    {
+      "id": 43,
+      "unit_code": "volume-teaspoon",
+      "kategori": "volume",
+      "navn": "teskeer",
+      "moenster_en": "{0} teske",
+      "moenster_flere": "{0} teskeer",
+      "kort_moenster": "{0} tsk.",
+      "smal_moenster": "{0} tsk."
+    },
+    {
+      "id": 44,
+      "unit_code": "volume-to-jp",
+      "kategori": "volume",
+      "navn": "to [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} to [JP]",
+      "kort_moenster": "{0} to [JP]",
+      "smal_moenster": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Måleenheder: volume (44) - Gratis download",
+    "description": "CLDR da-lokalets måleenheder i kategorien 'volume'. Indeholder 44 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Måleenheder: volume (44) | ListBase",
+    "seo_description": "Download Måleenheder: volume (44) — 44 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 44 poster / 8 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

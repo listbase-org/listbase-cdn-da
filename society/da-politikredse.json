@@ -1,0 +1,135 @@
+{
+  "id": "da-politikredse",
+  "name": "Politikredse i Danmark",
+  "title": "Politikredse i Danmark",
+  "description": "12 politikredse oprettet ved Politiforliget 2007 (træder i kraft 2007-01-01). id_official 1–12 per officiel nummerering; id_dagi bevarer DAGI's POLKR_NR upstream-as-is (Københavns Vestegns Politi har None i DAGI 2014-snapshot).",
+  "category": "society",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id_official",
+      "label": "Id Official",
+      "type": "number"
+    },
+    {
+      "key": "id_dagi",
+      "label": "Id Dagi",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id_official": 1,
+      "id_dagi": "1",
+      "name": "Nordjyllands Politi",
+      "name_en": "North Jutland Police",
+      "slug": "nordjyllands-politi"
+    },
+    {
+      "id_official": 2,
+      "id_dagi": "2",
+      "name": "Østjyllands Politi",
+      "name_en": "East Jutland Police",
+      "slug": "oestjyllands-politi"
+    },
+    {
+      "id_official": 3,
+      "id_dagi": "3",
+      "name": "Midt- og Vestjyllands Politi",
+      "name_en": "Central and West Jutland Police",
+      "slug": "midt-og-vestjyllands-politi"
+    },
+    {
+      "id_official": 4,
+      "id_dagi": "4",
+      "name": "Sydøstjyllands Politi",
+      "name_en": "South-East Jutland Police",
+      "slug": "sydoestjyllands-politi"
+    },
+    {
+      "id_official": 5,
+      "id_dagi": "5",
+      "name": "Syd- og Sønderjyllands Politi",
+      "name_en": "South Jutland and Southern Jutland Police",
+      "slug": "syd-og-soenderjyllands-politi"
+    },
+    {
+      "id_official": 6,
+      "id_dagi": "6",
+      "name": "Fyns Politi",
+      "name_en": "Funen Police",
+      "slug": "fyns-politi"
+    },
+    {
+      "id_official": 7,
+      "id_dagi": "7",
+      "name": "Sydsjællands og Lolland-Falsters Politi",
+      "name_en": "South Zealand and Lolland-Falster Police",
+      "slug": "sydsjaellands-og-lolland-falsters-politi"
+    },
+    {
+      "id_official": 8,
+      "id_dagi": "8",
+      "name": "Midt- og Vestsjællands Politi",
+      "name_en": "Central and West Zealand Police",
+      "slug": "midt-og-vestsjaellands-politi"
+    },
+    {
+      "id_official": 9,
+      "id_dagi": "9",
+      "name": "Nordsjællands Politi",
+      "name_en": "North Zealand Police",
+      "slug": "nordsjaellands-politi"
+    },
+    {
+      "id_official": 10,
+      "id_dagi": "",
+      "name": "Københavns Vestegns Politi",
+      "name_en": "Copenhagen West Police",
+      "slug": "koebenhavns-vestegns-politi"
+    },
+    {
+      "id_official": 11,
+      "id_dagi": "11",
+      "name": "Københavns Politi",
+      "name_en": "Copenhagen Police",
+      "slug": "koebenhavns-politi"
+    },
+    {
+      "id_official": 12,
+      "id_dagi": "12",
+      "name": "Bornholms Politi",
+      "name_en": "Bornholm Police",
+      "slug": "bornholms-politi"
+    }
+  ],
+  "meta": {
+    "title": "Politikredse i Danmark - Gratis download",
+    "description": "12 politikredse oprettet ved Politiforliget 2007 (træder i kraft 2007-01-01). id_official 1–12 per officiel nummerering; id_dagi bevarer DAGI's POLKR_NR upstream-as-is (Københavns Vestegns Politi har None i DAGI 2014-snapshot). Indeholder 12 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Politikredse i Danmark | ListBase",
+    "seo_description": "Download Politikredse i Danmark — 12 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 12 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

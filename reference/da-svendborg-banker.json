@@ -1,0 +1,79 @@
+{
+  "id": "da-svendborg-banker",
+  "name": "Banker i Svendborg — SWIFT/BIC-koder",
+  "title": "Banker i Svendborg — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Svendborg, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"SVENDBORG\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 113,
+      "bank": "DANSKE BANK A/S",
+      "city": "SVENDBORG",
+      "branch": "",
+      "swift_code": "DABADKKKSVB"
+    },
+    {
+      "id": 201,
+      "bank": "FYNSKE BANK A/S",
+      "city": "SVENDBORG",
+      "branch": "",
+      "swift_code": "VESBDK22"
+    },
+    {
+      "id": 362,
+      "bank": "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE",
+      "city": "SVENDBORG",
+      "branch": "",
+      "swift_code": "NDEADKKKSVB"
+    },
+    {
+      "id": 480,
+      "bank": "SYDBANK A/S",
+      "city": "SVENDBORG",
+      "branch": "",
+      "swift_code": "SYBKDK22SVB"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Svendborg — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Svendborg, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"SVENDBORG\"). Delmængde af det nationale da-banker-datasæt. Indeholder 4 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Svendborg — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Svendborg — SWIFT/BIC-koder — 4 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 4 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

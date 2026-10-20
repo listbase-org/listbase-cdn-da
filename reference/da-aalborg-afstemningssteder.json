@@ -1,0 +1,304 @@
+{
+  "id": "da-aalborg-afstemningssteder",
+  "name": "Afstemningssteder i Aalborg Kommune",
+  "title": "Afstemningssteder i Aalborg Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Aalborg Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Gl. Lindholm Skole, Kulturhus",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 92,
+      "opstillingskreds": "Aalborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Løvvanghallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 92,
+      "opstillingskreds": "Aalborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Vadumhallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 92,
+      "opstillingskreds": "Aalborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Sulsted Skolehal",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 92,
+      "opstillingskreds": "Aalborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Vodskov Hallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 92,
+      "opstillingskreds": "Aalborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Vesterkærets Skole",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 91,
+      "opstillingskreds": "Aalborg Vest"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Sct. Mariæ Skole, Gymnastiksal",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 91,
+      "opstillingskreds": "Aalborg Vest"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Aalborghallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 92,
+      "opstillingskreds": "Aalborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Vester Mariendal Skolehal",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 91,
+      "opstillingskreds": "Aalborg Vest"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Hallen Ved Skalborggård",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 91,
+      "opstillingskreds": "Aalborg Vest"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Kfum - Hallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 91,
+      "opstillingskreds": "Aalborg Vest"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Frejlev Skoles Idrætshal",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 91,
+      "opstillingskreds": "Aalborg Vest"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Svenstruphallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 91,
+      "opstillingskreds": "Aalborg Vest"
+    },
+    {
+      "afstemningsomraade_kode": "27",
+      "afstemningssted": "Sønderbroskolen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 90,
+      "opstillingskreds": "Aalborg Øst"
+    },
+    {
+      "afstemningsomraade_kode": "29",
+      "afstemningssted": "Gigantium",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 90,
+      "opstillingskreds": "Aalborg Øst"
+    },
+    {
+      "afstemningsomraade_kode": "30",
+      "afstemningssted": "Vejgaard - Hallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 90,
+      "opstillingskreds": "Aalborg Øst"
+    },
+    {
+      "afstemningsomraade_kode": "31",
+      "afstemningssted": "Vejgaard Østre Skole",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 90,
+      "opstillingskreds": "Aalborg Øst"
+    },
+    {
+      "afstemningsomraade_kode": "32",
+      "afstemningssted": "Mellervangskolens Idrætshal",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 90,
+      "opstillingskreds": "Aalborg Øst"
+    },
+    {
+      "afstemningsomraade_kode": "33",
+      "afstemningssted": "Klaruphallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 90,
+      "opstillingskreds": "Aalborg Øst"
+    },
+    {
+      "afstemningsomraade_kode": "34",
+      "afstemningssted": "Gug Skole",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 90,
+      "opstillingskreds": "Aalborg Øst"
+    },
+    {
+      "afstemningsomraade_kode": "35",
+      "afstemningssted": "Gistrup Skoles Idrætshal",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 90,
+      "opstillingskreds": "Aalborg Øst"
+    },
+    {
+      "afstemningsomraade_kode": "38",
+      "afstemningssted": "Ferslev Skolehal",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 91,
+      "opstillingskreds": "Aalborg Vest"
+    },
+    {
+      "afstemningsomraade_kode": "40",
+      "afstemningssted": "Tornhøjskolen, Hallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 90,
+      "opstillingskreds": "Aalborg Øst"
+    },
+    {
+      "afstemningsomraade_kode": "43",
+      "afstemningssted": "Vester Hassing Hallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 92,
+      "opstillingskreds": "Aalborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "44",
+      "afstemningssted": "Hals Skole",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 92,
+      "opstillingskreds": "Aalborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "46",
+      "afstemningssted": "Ulstedhallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 92,
+      "opstillingskreds": "Aalborg Nord"
+    },
+    {
+      "afstemningsomraade_kode": "47",
+      "afstemningssted": "Nibe Skole",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 91,
+      "opstillingskreds": "Aalborg Vest"
+    },
+    {
+      "afstemningsomraade_kode": "52",
+      "afstemningssted": "Farstruphallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 91,
+      "opstillingskreds": "Aalborg Vest"
+    },
+    {
+      "afstemningsomraade_kode": "56",
+      "afstemningssted": "Idrætscentret Kongerslev",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 90,
+      "opstillingskreds": "Aalborg Øst"
+    },
+    {
+      "afstemningsomraade_kode": "58",
+      "afstemningssted": "Mou - Hallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 90,
+      "opstillingskreds": "Aalborg Øst"
+    },
+    {
+      "afstemningsomraade_kode": "61",
+      "afstemningssted": "Båndby - Hallen",
+      "kommune_kode": 851,
+      "kommune": "Aalborg",
+      "opstillingskreds_nummer": 90,
+      "opstillingskreds": "Aalborg Øst"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Aalborg Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Aalborg Kommune med opstillingskreds. Indeholder 31 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Aalborg Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Aalborg Kommune — 31 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 31 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

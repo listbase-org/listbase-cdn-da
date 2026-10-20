@@ -1,0 +1,128 @@
+{
+  "id": "da-nordjylland-kommuner",
+  "name": "Kommuner i Region Nordjylland",
+  "title": "Kommuner i Region Nordjylland",
+  "description": "Kommuner tilhørende Region Nordjylland (i alt 11). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 + editorial kommune→region map per Lov om regioner (2007 reform).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "0851",
+      "name": "Aalborg",
+      "slug": "aalborg",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0810",
+      "name": "Brønderslev",
+      "slug": "broenderslev",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0813",
+      "name": "Frederikshavn",
+      "slug": "frederikshavn",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0860",
+      "name": "Hjørring",
+      "slug": "hjoerring",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0849",
+      "name": "Jammerbugt",
+      "slug": "jammerbugt",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0825",
+      "name": "Læsø",
+      "slug": "laesoe",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0846",
+      "name": "Mariagerfjord",
+      "slug": "mariagerfjord",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0773",
+      "name": "Morsø",
+      "slug": "morsoe",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0840",
+      "name": "Rebild",
+      "slug": "rebild",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0787",
+      "name": "Thisted",
+      "slug": "thisted",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "0820",
+      "name": "Vesthimmerlands",
+      "slug": "vesthimmerlands",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Region Nordjylland - Gratis download",
+    "description": "Kommuner tilhørende Region Nordjylland (i alt 11). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 + editorial kommune→region map per Lov om regioner (2007 reform). Indeholder 11 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Region Nordjylland | ListBase",
+    "seo_description": "Download Kommuner i Region Nordjylland — 11 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 11 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

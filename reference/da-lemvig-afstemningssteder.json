@@ -1,0 +1,120 @@
+{
+  "id": "da-lemvig-afstemningssteder",
+  "name": "Afstemningssteder i Lemvig Kommune",
+  "title": "Afstemningssteder i Lemvig Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Lemvig Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Lemvig",
+      "kommune_kode": 665,
+      "kommune": "Lemvig",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Nørre Nissum",
+      "kommune_kode": 665,
+      "kommune": "Lemvig",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Klinkby",
+      "kommune_kode": 665,
+      "kommune": "Lemvig",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Ramme",
+      "kommune_kode": 665,
+      "kommune": "Lemvig",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Bøvling",
+      "kommune_kode": 665,
+      "kommune": "Lemvig",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Flynder",
+      "kommune_kode": 665,
+      "kommune": "Lemvig",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Thyborøn",
+      "kommune_kode": 665,
+      "kommune": "Lemvig",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Harboøre",
+      "kommune_kode": 665,
+      "kommune": "Lemvig",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Lemvig Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Lemvig Kommune med opstillingskreds. Indeholder 8 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Lemvig Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Lemvig Kommune — 8 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 8 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

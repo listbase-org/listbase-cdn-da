@@ -1,0 +1,120 @@
+{
+  "id": "da-frederiksberg-afstemningssteder",
+  "name": "Afstemningssteder i Frederiksberg Kommune",
+  "title": "Afstemningssteder i Frederiksberg Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Frederiksberg Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "10. kreds, Søerne",
+      "kommune_kode": 147,
+      "kommune": "Frederiksberg",
+      "opstillingskreds_nummer": 10,
+      "opstillingskreds": "Falkoner"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "10. kreds, Ny Hollænder",
+      "kommune_kode": 147,
+      "kommune": "Frederiksberg",
+      "opstillingskreds_nummer": 10,
+      "opstillingskreds": "Falkoner"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "10. kreds, Bülowsvej",
+      "kommune_kode": 147,
+      "kommune": "Frederiksberg",
+      "opstillingskreds_nummer": 10,
+      "opstillingskreds": "Falkoner"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "10. kreds, Duevej",
+      "kommune_kode": 147,
+      "kommune": "Frederiksberg",
+      "opstillingskreds_nummer": 10,
+      "opstillingskreds": "Falkoner"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "11. kreds, Lindevang",
+      "kommune_kode": 147,
+      "kommune": "Frederiksberg",
+      "opstillingskreds_nummer": 11,
+      "opstillingskreds": "Slots"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "11. kreds, Søndermark",
+      "kommune_kode": 147,
+      "kommune": "Frederiksberg",
+      "opstillingskreds_nummer": 11,
+      "opstillingskreds": "Slots"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "11. kreds, Rådhuset",
+      "kommune_kode": 147,
+      "kommune": "Frederiksberg",
+      "opstillingskreds_nummer": 11,
+      "opstillingskreds": "Slots"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "11. kreds, Nyelandsvej",
+      "kommune_kode": 147,
+      "kommune": "Frederiksberg",
+      "opstillingskreds_nummer": 11,
+      "opstillingskreds": "Slots"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Frederiksberg Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Frederiksberg Kommune med opstillingskreds. Indeholder 8 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Frederiksberg Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Frederiksberg Kommune — 8 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 8 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

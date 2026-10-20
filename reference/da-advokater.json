@@ -1,0 +1,411 @@
+{
+  "id": "da-advokater",
+  "name": "Advokater i Danmark (Law firms in Denmark)",
+  "title": "Advokater i Danmark (Law firms in Denmark)",
+  "description": "Law firms in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: office=lawyer.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aarhus Retshjælp",
+      "latitude": 56.153648,
+      "longitude": 10.201862
+    },
+    {
+      "name": "Accura",
+      "latitude": 55.712213,
+      "longitude": 12.594322
+    },
+    {
+      "name": "Accura",
+      "latitude": 55.727145,
+      "longitude": 12.577964
+    },
+    {
+      "name": "Advodan Aalborg",
+      "latitude": 57.046015,
+      "longitude": 9.922097
+    },
+    {
+      "name": "Advokat Højbjerg Jensen",
+      "latitude": 55.498175,
+      "longitude": 8.408407
+    },
+    {
+      "name": "Advokat Westergaard",
+      "latitude": 55.498223,
+      "longitude": 8.408388
+    },
+    {
+      "name": "Advokatcenteret",
+      "latitude": 54.912449,
+      "longitude": 9.790786
+    },
+    {
+      "name": "Advokaterne Passagen",
+      "latitude": 56.413142,
+      "longitude": 10.877455
+    },
+    {
+      "name": "Advokatfirmaet Dahl",
+      "latitude": 56.135355,
+      "longitude": 8.99358
+    },
+    {
+      "name": "Advokatfirmaet Grotkjær Elmstrøm",
+      "latitude": 56.157973,
+      "longitude": 10.206823
+    },
+    {
+      "name": "Advokatfirmaet Kryger",
+      "latitude": 55.498122,
+      "longitude": 8.408436
+    },
+    {
+      "name": "Advokatfirmaet Thuesen, Bødker & Jæger",
+      "latitude": 55.466039,
+      "longitude": 8.450187
+    },
+    {
+      "name": "Advokatfirmaet Ulrik Møller",
+      "latitude": 55.783867,
+      "longitude": 12.372788
+    },
+    {
+      "name": "Advokatfirmaet Vingaardshus",
+      "latitude": 57.047605,
+      "longitude": 9.917306
+    },
+    {
+      "name": "Advokatfirmaet Vølund",
+      "latitude": 55.060723,
+      "longitude": 10.613822
+    },
+    {
+      "name": "Advokathuset Esbjerg – Bramming",
+      "latitude": 55.465916,
+      "longitude": 8.699321
+    },
+    {
+      "name": "Andersen Partners",
+      "latitude": 55.488337,
+      "longitude": 9.480503
+    },
+    {
+      "name": "Angelo-Dose Bolig",
+      "latitude": 55.312794,
+      "longitude": 10.792348
+    },
+    {
+      "name": "AWA",
+      "latitude": 55.676069,
+      "longitude": 12.593516
+    },
+    {
+      "name": "Axel & Borre Advokater",
+      "latitude": 55.38056,
+      "longitude": 10.395545
+    },
+    {
+      "name": "Baker Tilly",
+      "latitude": 55.380826,
+      "longitude": 10.396606
+    },
+    {
+      "name": "Bech-Bruun",
+      "latitude": 55.699807,
+      "longitude": 12.599776
+    },
+    {
+      "name": "BorgerRetshjælpen",
+      "latitude": 55.668873,
+      "longitude": 12.495778
+    },
+    {
+      "name": "Bruun & Hjejlle",
+      "latitude": 55.680387,
+      "longitude": 12.57099
+    },
+    {
+      "name": "BUUR advokatfirma",
+      "latitude": 56.152711,
+      "longitude": 8.985652
+    },
+    {
+      "name": "CED Advokater",
+      "latitude": 56.021481,
+      "longitude": 12.196312
+    },
+    {
+      "name": "Codex Advokater",
+      "latitude": 55.704473,
+      "longitude": 9.528859
+    },
+    {
+      "name": "DK Advokaterne",
+      "latitude": 55.832209,
+      "longitude": 10.594788
+    },
+    {
+      "name": "DLA Piper",
+      "latitude": 56.153159,
+      "longitude": 10.214199
+    },
+    {
+      "name": "DreistStorgaard Advokater",
+      "latitude": 55.454409,
+      "longitude": 12.183821
+    },
+    {
+      "name": "Esbjerg retshjælp",
+      "latitude": 55.469353,
+      "longitude": 8.454906
+    },
+    {
+      "name": "ETOS Advokater",
+      "latitude": 55.6494,
+      "longitude": 12.269059
+    },
+    {
+      "name": "Gorrissen Federspiel",
+      "latitude": 55.675388,
+      "longitude": 12.565299
+    },
+    {
+      "name": "Gorrissen Federspiel Advokatpartnerselskab",
+      "latitude": 56.157564,
+      "longitude": 10.192994
+    },
+    {
+      "name": "Handicap WC",
+      "latitude": 55.406924,
+      "longitude": 10.38302
+    },
+    {
+      "name": "Helle Larsen",
+      "latitude": 56.71615,
+      "longitude": 10.11515
+    },
+    {
+      "name": "HjulmandKaptain",
+      "latitude": 56.164294,
+      "longitude": 10.210005
+    },
+    {
+      "name": "Holdt Advokat",
+      "latitude": 54.913079,
+      "longitude": 9.792869
+    },
+    {
+      "name": "Holst",
+      "latitude": 56.145102,
+      "longitude": 10.204032
+    },
+    {
+      "name": "Horten",
+      "latitude": 56.148744,
+      "longitude": 10.209192
+    },
+    {
+      "name": "Hovmøller og Thorup Advokatfirma",
+      "latitude": 57.051792,
+      "longitude": 9.919976
+    },
+    {
+      "name": "Isaksen & Nomanni",
+      "latitude": 56.129498,
+      "longitude": 10.162862
+    },
+    {
+      "name": "Kaløadvokaterne",
+      "latitude": 56.30126,
+      "longitude": 10.47383
+    },
+    {
+      "name": "Kammeradvokaten",
+      "latitude": 55.677784,
+      "longitude": 12.562151
+    },
+    {
+      "name": "Kirk Larsen & Ascanius",
+      "latitude": 55.481007,
+      "longitude": 8.412218
+    },
+    {
+      "name": "Kirk Larsen & Ascanius",
+      "latitude": 55.948263,
+      "longitude": 8.491925
+    },
+    {
+      "name": "Kjølby Juristen",
+      "latitude": 55.398243,
+      "longitude": 10.367604
+    },
+    {
+      "name": "Kromann Reumert Advokatpartnerselskab",
+      "latitude": 55.709976,
+      "longitude": 12.591023
+    },
+    {
+      "name": "Kromann Reumert Advokatpartnerselskab",
+      "latitude": 56.149605,
+      "longitude": 10.211627
+    },
+    {
+      "name": "Kvist og Jensen",
+      "latitude": 56.726889,
+      "longitude": 10.104961
+    },
+    {
+      "name": "Labora",
+      "latitude": 55.679887,
+      "longitude": 12.586729
+    },
+    {
+      "name": "Leoni Advokater",
+      "latitude": 56.449641,
+      "longitude": 9.413114
+    },
+    {
+      "name": "Leoni Advokater",
+      "latitude": 57.022796,
+      "longitude": 9.900127
+    },
+    {
+      "name": "Lett",
+      "latitude": 55.676792,
+      "longitude": 12.567686
+    },
+    {
+      "name": "Liv&Lov",
+      "latitude": 55.82754,
+      "longitude": 12.431812
+    },
+    {
+      "name": "Meyn Advokater",
+      "latitude": 55.061991,
+      "longitude": 10.613896
+    },
+    {
+      "name": "Moalem Weitemeyer Advokatpartnerselskab",
+      "latitude": 55.682189,
+      "longitude": 12.591397
+    },
+    {
+      "name": "Muff & Partnere",
+      "latitude": 56.126898,
+      "longitude": 12.305091
+    },
+    {
+      "name": "Patrade",
+      "latitude": 56.153665,
+      "longitude": 10.209883
+    },
+    {
+      "name": "Penta Advokater",
+      "latitude": 55.330472,
+      "longitude": 8.770262
+    },
+    {
+      "name": "Penta Advokater",
+      "latitude": 55.352564,
+      "longitude": 8.779718
+    },
+    {
+      "name": "Plesner Advokatpartnerselskab",
+      "latitude": 55.700642,
+      "longitude": 12.594233
+    },
+    {
+      "name": "Poul Schmith",
+      "latitude": 56.15327,
+      "longitude": 10.21181
+    },
+    {
+      "name": "Prolex Advokater",
+      "latitude": 56.164882,
+      "longitude": 9.552008
+    },
+    {
+      "name": "Ret & Råd",
+      "latitude": 56.4136,
+      "longitude": 10.87663
+    },
+    {
+      "name": "Ret&Råd Advokater Hinnerup",
+      "latitude": 56.250115,
+      "longitude": 10.074099
+    },
+    {
+      "name": "Skovbo Hjort Advokater",
+      "latitude": 56.153958,
+      "longitude": 10.212388
+    },
+    {
+      "name": "Steen Harrsen",
+      "latitude": 55.689343,
+      "longitude": 11.789842
+    },
+    {
+      "name": "Strandby Advokatfirma",
+      "latitude": 55.498065,
+      "longitude": 8.40846
+    },
+    {
+      "name": "Styrishave Advokatfirma",
+      "latitude": 57.046903,
+      "longitude": 9.918252
+    },
+    {
+      "name": "TVC Advokatfirma",
+      "latitude": 56.152817,
+      "longitude": 10.175821
+    },
+    {
+      "name": "United Law",
+      "latitude": 56.156901,
+      "longitude": 10.209352
+    },
+    {
+      "name": "Valencia - Danske Advokater",
+      "latitude": 55.672635,
+      "longitude": 12.556624
+    },
+    {
+      "name": "Ventus Advokater",
+      "latitude": 55.521163,
+      "longitude": 8.553563
+    }
+  ],
+  "meta": {
+    "title": "Advokater i Danmark (Law firms in Denmark) - Gratis download",
+    "description": "Law firms in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: office=lawyer. Indeholder 74 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Advokater i Danmark (Law firms in Denmark) | ListBase",
+    "seo_description": "Download Advokater i Danmark (Law firms in Denmark) — 74 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 74 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

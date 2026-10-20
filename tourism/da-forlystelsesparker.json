@@ -1,0 +1,184 @@
+{
+  "id": "da-forlystelsesparker",
+  "name": "Forlystelsesparker i Danmark",
+  "title": "Forlystelsesparker i Danmark",
+  "description": "Forlystelsesparker (amusement parks) i Danmark fra Wikidata (P31 = Q194195, P17 = Danmark) med koordinater.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q12301022",
+      "wikidata_id": "Q12301022",
+      "name_da": "Alhambra",
+      "name_en": "Alhambra Copenhagen",
+      "latitude": 55.6745,
+      "longitude": 12.5448
+    },
+    {
+      "id": "Q17312081",
+      "wikidata_id": "Q17312081",
+      "name_da": "Alhambra (Kolding)",
+      "name_en": "Alhambra",
+      "latitude": 55.4852,
+      "longitude": 9.46593
+    },
+    {
+      "id": "Q892017",
+      "wikidata_id": "Q892017",
+      "name_da": "BonBon-Land",
+      "name_en": "BonBon-Land",
+      "latitude": 55.260556,
+      "longitude": 11.863333
+    },
+    {
+      "id": "Q6206829",
+      "wikidata_id": "Q6206829",
+      "name_da": "Brændesgårdshaven",
+      "name_en": "Brændesgårdshaven",
+      "latitude": 55.129167,
+      "longitude": 15.103611
+    },
+    {
+      "id": "Q51127878",
+      "wikidata_id": "Q51127878",
+      "name_da": "Camp Adventure",
+      "name_en": "Camp Adventure",
+      "latitude": 55.2587,
+      "longitude": 11.9802
+    },
+    {
+      "id": "Q593464",
+      "wikidata_id": "Q593464",
+      "name_da": "Djurs Sommerland",
+      "name_en": "Djurs Sommerland",
+      "latitude": 56.424785,
+      "longitude": 10.549922
+    },
+    {
+      "id": "Q496893",
+      "wikidata_id": "Q496893",
+      "name_da": "Dyrehavsbakken",
+      "name_en": "Dyrehavsbakken",
+      "latitude": 55.7761,
+      "longitude": 12.5739
+    },
+    {
+      "id": "Q19588537",
+      "wikidata_id": "Q19588537",
+      "name_da": "Fyns Sommerland",
+      "name_en": "Fun Park Fyn",
+      "latitude": 55.4249,
+      "longitude": 10.0407
+    },
+    {
+      "id": "Q12313234",
+      "wikidata_id": "Q12313234",
+      "name_da": "Fyns Tivoli",
+      "name_en": "",
+      "latitude": 55.3785,
+      "longitude": 10.3714
+    },
+    {
+      "id": "Q125316",
+      "wikidata_id": "Q125316",
+      "name_da": "Fårup Sommerland",
+      "name_en": "Fårup Summer Park",
+      "latitude": 57.270556,
+      "longitude": 9.647778
+    },
+    {
+      "id": "Q1688118",
+      "wikidata_id": "Q1688118",
+      "name_da": "Jesperhus",
+      "name_en": "Jesperhus",
+      "latitude": 56.76131,
+      "longitude": 8.82159
+    },
+    {
+      "id": "Q12322771",
+      "wikidata_id": "Q12322771",
+      "name_da": "Korups Have",
+      "name_en": "Korups Have",
+      "latitude": 55.666528,
+      "longitude": 12.522917
+    },
+    {
+      "id": "Q12336409",
+      "wikidata_id": "Q12336409",
+      "name_da": "Sommerland Sjælland",
+      "name_en": "",
+      "latitude": 55.8963,
+      "longitude": 11.6106
+    },
+    {
+      "id": "Q12336411",
+      "wikidata_id": "Q12336411",
+      "name_da": "Sommerland Syd",
+      "name_en": "Sommerland Syd",
+      "latitude": 54.963,
+      "longitude": 9.18083
+    },
+    {
+      "id": "Q110289",
+      "wikidata_id": "Q110289",
+      "name_da": "Tivoli",
+      "name_en": "Tivoli Gardens",
+      "latitude": 55.673611,
+      "longitude": 12.568333
+    },
+    {
+      "id": "Q3529963",
+      "wikidata_id": "Q3529963",
+      "name_da": "Tivoli Friheden",
+      "name_en": "Tivoli Friheden",
+      "latitude": 56.136417,
+      "longitude": 10.198083
+    }
+  ],
+  "meta": {
+    "title": "Forlystelsesparker i Danmark - Gratis download",
+    "description": "Forlystelsesparker (amusement parks) i Danmark fra Wikidata (P31 = Q194195, P17 = Danmark) med koordinater. Indeholder 16 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Forlystelsesparker i Danmark | ListBase",
+    "seo_description": "Download Forlystelsesparker i Danmark — 16 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 16 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

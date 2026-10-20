@@ -1,0 +1,1036 @@
+{
+  "id": "da-golfbaner",
+  "name": "Golfbaner i Danmark (Golf courses in Denmark)",
+  "title": "Golfbaner i Danmark (Golf courses in Denmark)",
+  "description": "Golf courses in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: leisure=golf_course.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 199,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aabenraa Golfklub",
+      "latitude": 55.107068,
+      "longitude": 9.496105
+    },
+    {
+      "name": "Aabybro Golfklub",
+      "latitude": 57.141441,
+      "longitude": 9.758466
+    },
+    {
+      "name": "Aalborg Golf Klub",
+      "latitude": 57.023215,
+      "longitude": 9.778774
+    },
+    {
+      "name": "Aarhus Aadal Golf Club",
+      "latitude": 56.120729,
+      "longitude": 10.004254
+    },
+    {
+      "name": "Aarhus Golf Club",
+      "latitude": 56.091242,
+      "longitude": 10.213133
+    },
+    {
+      "name": "Aars Golfclub",
+      "latitude": 56.815372,
+      "longitude": 9.484721
+    },
+    {
+      "name": "Albertslund Golfklub",
+      "latitude": 55.675329,
+      "longitude": 12.321308
+    },
+    {
+      "name": "Arrild Golf Club",
+      "latitude": 55.164334,
+      "longitude": 8.954727
+    },
+    {
+      "name": "Asserbo Golf Club",
+      "latitude": 55.997414,
+      "longitude": 12.023819
+    },
+    {
+      "name": "Barløseborg Golfbane",
+      "latitude": 55.339351,
+      "longitude": 9.959931
+    },
+    {
+      "name": "Benniksgaard Golf Course",
+      "latitude": 54.884514,
+      "longitude": 9.545365
+    },
+    {
+      "name": "Birkemose Golfclub",
+      "latitude": 55.537877,
+      "longitude": 9.542367
+    },
+    {
+      "name": "Blokhus Klit Golf Center",
+      "latitude": 57.233394,
+      "longitude": 9.623125
+    },
+    {
+      "name": "Blåvandshuk Golfklub",
+      "latitude": 55.542305,
+      "longitude": 8.234014
+    },
+    {
+      "name": "Borbjerg Mølle Golfklub",
+      "latitude": 56.4097,
+      "longitude": 8.764869
+    },
+    {
+      "name": "Bornholms Golf Klub",
+      "latitude": 55.087013,
+      "longitude": 14.754067
+    },
+    {
+      "name": "Brande Golf Klub",
+      "latitude": 55.947854,
+      "longitude": 9.078438
+    },
+    {
+      "name": "Breinholtgård Golf",
+      "latitude": 55.553714,
+      "longitude": 8.390503
+    },
+    {
+      "name": "Brændeskovgård Golf",
+      "latitude": 55.127879,
+      "longitude": 10.603052
+    },
+    {
+      "name": "Brøndby Golfklub",
+      "latitude": 55.631586,
+      "longitude": 12.401946
+    },
+    {
+      "name": "Brønderslev Golfklub",
+      "latitude": 57.289484,
+      "longitude": 9.922354
+    },
+    {
+      "name": "Copenhagen Golf Center",
+      "latitude": 55.633747,
+      "longitude": 12.385934
+    },
+    {
+      "name": "Dansk Golfakademi Charlottenlund",
+      "latitude": 55.754477,
+      "longitude": 12.587723
+    },
+    {
+      "name": "Dejbjerg Golf Klub",
+      "latitude": 55.9996,
+      "longitude": 8.47317
+    },
+    {
+      "name": "Dragsholm Golf Club",
+      "latitude": 55.801856,
+      "longitude": 11.425702
+    },
+    {
+      "name": "Dragør Golfklub",
+      "latitude": 55.575036,
+      "longitude": 12.596346
+    },
+    {
+      "name": "Drive In Golf",
+      "latitude": 55.786372,
+      "longitude": 12.164042
+    },
+    {
+      "name": "Dronninglund Golfbane",
+      "latitude": 57.16636,
+      "longitude": 10.259336
+    },
+    {
+      "name": "Ebeltoft Golf Club",
+      "latitude": 56.205972,
+      "longitude": 10.692937
+    },
+    {
+      "name": "Esbjerg Golfklub",
+      "latitude": 55.569256,
+      "longitude": 8.333934
+    },
+    {
+      "name": "Faaborg Golfklub",
+      "latitude": 55.136103,
+      "longitude": 10.251561
+    },
+    {
+      "name": "Falster Golfklub",
+      "latitude": 54.839041,
+      "longitude": 11.952355
+    },
+    {
+      "name": "Fanø Golf Links",
+      "latitude": 55.441526,
+      "longitude": 8.366252
+    },
+    {
+      "name": "Football golf",
+      "latitude": 55.651452,
+      "longitude": 12.64457
+    },
+    {
+      "name": "Fredensborg Golf Club",
+      "latitude": 55.971148,
+      "longitude": 12.381887
+    },
+    {
+      "name": "Fredericia Golf Klub",
+      "latitude": 55.577184,
+      "longitude": 9.716727
+    },
+    {
+      "name": "Frederikshavn Golf Klub",
+      "latitude": 57.469997,
+      "longitude": 10.491875
+    },
+    {
+      "name": "Frederikssund Golfklub",
+      "latitude": 55.833514,
+      "longitude": 12.026174
+    },
+    {
+      "name": "Furesø Golfklub",
+      "latitude": 55.828302,
+      "longitude": 12.412345
+    },
+    {
+      "name": "Gilleleje Golfbane",
+      "latitude": 56.081542,
+      "longitude": 12.371834
+    },
+    {
+      "name": "Give Golf",
+      "latitude": 55.830955,
+      "longitude": 9.204386
+    },
+    {
+      "name": "Golfklubben Hedeland",
+      "latitude": 55.614096,
+      "longitude": 12.171052
+    },
+    {
+      "name": "Golfklubben Hvide Klit",
+      "latitude": 57.621163,
+      "longitude": 10.428145
+    },
+    {
+      "name": "Golfklubben Lillebælt",
+      "latitude": 55.48781,
+      "longitude": 9.735506
+    },
+    {
+      "name": "Golfklubben Storstrømmen",
+      "latitude": 54.76035,
+      "longitude": 11.902236
+    },
+    {
+      "name": "Great Northern",
+      "latitude": 55.464205,
+      "longitude": 10.64269
+    },
+    {
+      "name": "Grenaa Golfbane",
+      "latitude": 56.40727,
+      "longitude": 10.841125
+    },
+    {
+      "name": "Grenaa Golfbane",
+      "latitude": 56.414777,
+      "longitude": 10.846792
+    },
+    {
+      "name": "Greve Golfklub",
+      "latitude": 55.58556,
+      "longitude": 12.194231
+    },
+    {
+      "name": "Gudme Golf Club",
+      "latitude": 55.13618,
+      "longitude": 10.714179
+    },
+    {
+      "name": "Gudme Pay and Play",
+      "latitude": 55.136729,
+      "longitude": 10.709862
+    },
+    {
+      "name": "Gyttegård Golfcenter",
+      "latitude": 55.711946,
+      "longitude": 9.034677
+    },
+    {
+      "name": "H.C. Andersen Golfklub",
+      "latitude": 55.556677,
+      "longitude": 10.10464
+    },
+    {
+      "name": "Haderslev Golfklub",
+      "latitude": 55.251064,
+      "longitude": 9.448256
+    },
+    {
+      "name": "Hals Seaside Golf",
+      "latitude": 56.996582,
+      "longitude": 10.329167
+    },
+    {
+      "name": "Halsted Kloster Golfklub",
+      "latitude": 54.846331,
+      "longitude": 11.235194
+    },
+    {
+      "name": "Hammel Golf Klub",
+      "latitude": 56.25432,
+      "longitude": 9.88383
+    },
+    {
+      "name": "Harekær Golf Klub",
+      "latitude": 55.486538,
+      "longitude": 12.093236
+    },
+    {
+      "name": "Harre Vig Golfklub",
+      "latitude": 56.714701,
+      "longitude": 8.896756
+    },
+    {
+      "name": "Haunstrup Golfklub",
+      "latitude": 56.137165,
+      "longitude": 8.810397
+    },
+    {
+      "name": "Hedens Golfklub",
+      "latitude": 56.368122,
+      "longitude": 9.200667
+    },
+    {
+      "name": "Hedensted Golf Klub",
+      "latitude": 55.751768,
+      "longitude": 9.722708
+    },
+    {
+      "name": "Helsingør Golf Club",
+      "latitude": 56.049513,
+      "longitude": 12.577668
+    },
+    {
+      "name": "Henne Golfklub",
+      "latitude": 55.736671,
+      "longitude": 8.238315
+    },
+    {
+      "name": "Herning Golf Klub",
+      "latitude": 56.142541,
+      "longitude": 9.004658
+    },
+    {
+      "name": "Hillerød Golfklub",
+      "latitude": 55.905297,
+      "longitude": 12.317634
+    },
+    {
+      "name": "Himmelbjerg Golf Club",
+      "latitude": 56.091104,
+      "longitude": 9.622775
+    },
+    {
+      "name": "Himmerland",
+      "latitude": 56.870279,
+      "longitude": 9.387553
+    },
+    {
+      "name": "Hirtshals Golfklub",
+      "latitude": 57.576601,
+      "longitude": 10.032171
+    },
+    {
+      "name": "Hjarbæk Fjord Golf Klub",
+      "latitude": 56.573119,
+      "longitude": 9.296369
+    },
+    {
+      "name": "Hjortespring Golfklub",
+      "latitude": 55.745141,
+      "longitude": 12.399891
+    },
+    {
+      "name": "Hjørring Golfklub",
+      "latitude": 57.495054,
+      "longitude": 9.993228
+    },
+    {
+      "name": "Hobro Golfklub",
+      "latitude": 56.653322,
+      "longitude": 9.829702
+    },
+    {
+      "name": "Holbæk Golfklub",
+      "latitude": 55.727563,
+      "longitude": 11.771881
+    },
+    {
+      "name": "Holmsland Klit Golf",
+      "latitude": 56.128238,
+      "longitude": 8.127049
+    },
+    {
+      "name": "Holstebro Golfklub - Skovbanen",
+      "latitude": 56.322254,
+      "longitude": 8.428429
+    },
+    {
+      "name": "Holstebro Golfklub - Storåbanen",
+      "latitude": 56.364938,
+      "longitude": 8.566141
+    },
+    {
+      "name": "Holsted Golfklub",
+      "latitude": 55.524436,
+      "longitude": 8.936414
+    },
+    {
+      "name": "Hornbæk Golfklub",
+      "latitude": 56.047098,
+      "longitude": 12.439973
+    },
+    {
+      "name": "Horsens Golfklub",
+      "latitude": 55.881796,
+      "longitude": 9.810695
+    },
+    {
+      "name": "Hvalpsund Golf Club",
+      "latitude": 56.699401,
+      "longitude": 9.222487
+    },
+    {
+      "name": "Hørsholm Golf",
+      "latitude": 55.888796,
+      "longitude": 12.450455
+    },
+    {
+      "name": "Ikast Golf Klub",
+      "latitude": 56.124885,
+      "longitude": 9.190725
+    },
+    {
+      "name": "Ishøj Golf Center",
+      "latitude": 55.620713,
+      "longitude": 12.288505
+    },
+    {
+      "name": "Jammerbugtens Golfklub",
+      "latitude": 57.098169,
+      "longitude": 9.251741
+    },
+    {
+      "name": "Jelling Golfklub",
+      "latitude": 55.74785,
+      "longitude": 9.423102
+    },
+    {
+      "name": "Juelsminde Golfklub",
+      "latitude": 55.719356,
+      "longitude": 9.987087
+    },
+    {
+      "name": "Kaj Lykke Golfklub",
+      "latitude": 55.48487,
+      "longitude": 8.679456
+    },
+    {
+      "name": "Kalundborg Golfklub",
+      "latitude": 55.718506,
+      "longitude": 11.011213
+    },
+    {
+      "name": "Kalø Golf Club",
+      "latitude": 56.310228,
+      "longitude": 10.403113
+    },
+    {
+      "name": "Kellers Park Golf Club",
+      "latitude": 55.659423,
+      "longitude": 9.685732
+    },
+    {
+      "name": "Kokkedal Golfklub",
+      "latitude": 55.899492,
+      "longitude": 12.516368
+    },
+    {
+      "name": "Kokkedal Golfklub",
+      "latitude": 55.904605,
+      "longitude": 12.516854
+    },
+    {
+      "name": "Kolding fodbold golf",
+      "latitude": 55.377624,
+      "longitude": 9.586149
+    },
+    {
+      "name": "Kolding Golf Club",
+      "latitude": 55.51178,
+      "longitude": 9.473997
+    },
+    {
+      "name": "Korsør Golf Klub",
+      "latitude": 55.342175,
+      "longitude": 11.154814
+    },
+    {
+      "name": "Køge Golfklub",
+      "latitude": 55.424763,
+      "longitude": 12.171873
+    },
+    {
+      "name": "Langelands Golfklub",
+      "latitude": 54.795312,
+      "longitude": 10.73599
+    },
+    {
+      "name": "Langesø Golfklub",
+      "latitude": 55.429937,
+      "longitude": 10.214657
+    },
+    {
+      "name": "Ledreborg Slot Golfklub",
+      "latitude": 55.613822,
+      "longitude": 11.934366
+    },
+    {
+      "name": "Lemvig Golfbane",
+      "latitude": 56.561244,
+      "longitude": 8.286704
+    },
+    {
+      "name": "Lyngbygård Golf",
+      "latitude": 56.176255,
+      "longitude": 10.030745
+    },
+    {
+      "name": "Læsø Seaside Golfklub",
+      "latitude": 57.314643,
+      "longitude": 11.093985
+    },
+    {
+      "name": "Læsø Seaside Golfklub",
+      "latitude": 57.314705,
+      "longitude": 11.094866
+    },
+    {
+      "name": "Løgstør Golfklub",
+      "latitude": 56.949702,
+      "longitude": 9.246067
+    },
+    {
+      "name": "Løkken Golfklub",
+      "latitude": 57.35995,
+      "longitude": 9.728791
+    },
+    {
+      "name": "Lübker Golf & Spa Resort",
+      "latitude": 56.41673,
+      "longitude": 10.586043
+    },
+    {
+      "name": "Lübker Golf & Spa Resort",
+      "latitude": 56.424152,
+      "longitude": 10.580233
+    },
+    {
+      "name": "Lübker Golf & Spa Resort",
+      "latitude": 56.429158,
+      "longitude": 10.571057
+    },
+    {
+      "name": "Mariagerfjord Golfklub",
+      "latitude": 56.686029,
+      "longitude": 10.112284
+    },
+    {
+      "name": "Marielyst Golf Klub",
+      "latitude": 54.686504,
+      "longitude": 11.945157
+    },
+    {
+      "name": "Marienlyst Golfklub",
+      "latitude": 56.180753,
+      "longitude": 10.15707
+    },
+    {
+      "name": "Markusminde Golf",
+      "latitude": 56.248971,
+      "longitude": 9.964224
+    },
+    {
+      "name": "Markusminde Golf Club",
+      "latitude": 56.250652,
+      "longitude": 9.960317
+    },
+    {
+      "name": "Mensalgård Golfklub",
+      "latitude": 55.90937,
+      "longitude": 11.567612
+    },
+    {
+      "name": "Midtfyns Golfbane",
+      "latitude": 55.232881,
+      "longitude": 10.456241
+    },
+    {
+      "name": "Midtsjællands Golfcenter",
+      "latitude": 55.650626,
+      "longitude": 11.661511
+    },
+    {
+      "name": "Mollerup Golf Club",
+      "latitude": 56.212706,
+      "longitude": 10.19451
+    },
+    {
+      "name": "Morsø Golfklub",
+      "latitude": 56.815235,
+      "longitude": 8.852554
+    },
+    {
+      "name": "Mølleåens Golf Klub",
+      "latitude": 55.824753,
+      "longitude": 12.26584
+    },
+    {
+      "name": "Møn Golfbane",
+      "latitude": 54.986053,
+      "longitude": 12.350592
+    },
+    {
+      "name": "Nexø Golf-Club",
+      "latitude": 55.004992,
+      "longitude": 15.02598
+    },
+    {
+      "name": "Nivå Golf",
+      "latitude": 55.92257,
+      "longitude": 12.470666
+    },
+    {
+      "name": "Nordborg Golfklub",
+      "latitude": 55.045654,
+      "longitude": 9.774524
+    },
+    {
+      "name": "Nordbornholms Golf Klub",
+      "latitude": 55.209462,
+      "longitude": 14.86659
+    },
+    {
+      "name": "Norddjurs Golfklub",
+      "latitude": 56.46774,
+      "longitude": 10.362318
+    },
+    {
+      "name": "Nordvest Jysk Golfklub",
+      "latitude": 57.011934,
+      "longitude": 8.523332
+    },
+    {
+      "name": "Nordvest Jysk Golfklub",
+      "latitude": 57.017643,
+      "longitude": 8.507844
+    },
+    {
+      "name": "Næstved Golfklub",
+      "latitude": 55.210678,
+      "longitude": 11.70351
+    },
+    {
+      "name": "Odder Golfklub",
+      "latitude": 55.943966,
+      "longitude": 10.106557
+    },
+    {
+      "name": "Odense Blommenslyst Golfklub",
+      "latitude": 55.388233,
+      "longitude": 10.283515
+    },
+    {
+      "name": "Odense Eventyr Golf",
+      "latitude": 55.375016,
+      "longitude": 10.329103
+    },
+    {
+      "name": "Odense Golfklub",
+      "latitude": 55.36433,
+      "longitude": 10.440301
+    },
+    {
+      "name": "Odsherred Golfklub",
+      "latitude": 55.90608,
+      "longitude": 11.610883
+    },
+    {
+      "name": "Outrup Golfbane",
+      "latitude": 55.706093,
+      "longitude": 8.336184
+    },
+    {
+      "name": "Par 3 banen",
+      "latitude": 55.631283,
+      "longitude": 12.398309
+    },
+    {
+      "name": "Passebækgård Golfbane",
+      "latitude": 56.109281,
+      "longitude": 12.344686
+    },
+    {
+      "name": "PIBE MØLLE GOLF",
+      "latitude": 55.994422,
+      "longitude": 12.221365
+    },
+    {
+      "name": "Pitch and Putt",
+      "latitude": 56.210569,
+      "longitude": 10.192477
+    },
+    {
+      "name": "Randers Fjord Golfklub",
+      "latitude": 56.502726,
+      "longitude": 10.189847
+    },
+    {
+      "name": "Randers Golf Klub",
+      "latitude": 56.453008,
+      "longitude": 9.956644
+    },
+    {
+      "name": "Ribe Golfklub",
+      "latitude": 55.292366,
+      "longitude": 8.85876
+    },
+    {
+      "name": "Rold Skov Golfklub",
+      "latitude": 56.83656,
+      "longitude": 9.923603
+    },
+    {
+      "name": "Rold Skov Golfklub",
+      "latitude": 56.843657,
+      "longitude": 9.913341
+    },
+    {
+      "name": "Roskilde Golf Klub",
+      "latitude": 55.648573,
+      "longitude": 12.03511
+    },
+    {
+      "name": "Royal Golf Center Course",
+      "latitude": 55.63479,
+      "longitude": 12.566032
+    },
+    {
+      "name": "Royal Oak",
+      "latitude": 55.363689,
+      "longitude": 9.212677
+    },
+    {
+      "name": "Rungsted Golf Klub",
+      "latitude": 55.876936,
+      "longitude": 12.534392
+    },
+    {
+      "name": "Ry Golf Klub",
+      "latitude": 56.092857,
+      "longitude": 9.807413
+    },
+    {
+      "name": "Rømø Golf Klub",
+      "latitude": 55.083792,
+      "longitude": 8.544411
+    },
+    {
+      "name": "Rønnede Golf Klub",
+      "latitude": 55.254483,
+      "longitude": 12.004556
+    },
+    {
+      "name": "Samsø Golfklub",
+      "latitude": 55.852104,
+      "longitude": 10.638095
+    },
+    {
+      "name": "Sct. Knuds Golfklub",
+      "latitude": 55.298078,
+      "longitude": 10.828903
+    },
+    {
+      "name": "Sebber Kloster Golf",
+      "latitude": 56.964799,
+      "longitude": 9.526715
+    },
+    {
+      "name": "Sejerø Golf",
+      "latitude": 55.904938,
+      "longitude": 11.117157
+    },
+    {
+      "name": "Silkeborg Ry Golfklub",
+      "latitude": 56.173898,
+      "longitude": 9.638495
+    },
+    {
+      "name": "Simgolf Amager",
+      "latitude": 55.619285,
+      "longitude": 12.62807
+    },
+    {
+      "name": "Simons Golf Club",
+      "latitude": 55.974206,
+      "longitude": 12.483098
+    },
+    {
+      "name": "Sindal Golfklub",
+      "latitude": 57.459945,
+      "longitude": 10.276512
+    },
+    {
+      "name": "Skanderborg Golf Klub",
+      "latitude": 56.004817,
+      "longitude": 9.927129
+    },
+    {
+      "name": "Skive Golfklub",
+      "latitude": 56.595362,
+      "longitude": 9.010304
+    },
+    {
+      "name": "Skive Golfklub",
+      "latitude": 56.601985,
+      "longitude": 9.013493
+    },
+    {
+      "name": "Skovbo Golfklub",
+      "latitude": 55.48193,
+      "longitude": 12.044359
+    },
+    {
+      "name": "Skærbæk Mølle Golfklub",
+      "latitude": 55.817818,
+      "longitude": 8.574653
+    },
+    {
+      "name": "Smørum Golfclub",
+      "latitude": 55.725131,
+      "longitude": 12.312536
+    },
+    {
+      "name": "Sorø Golfbane",
+      "latitude": 55.385942,
+      "longitude": 11.560029
+    },
+    {
+      "name": "Stensballegård Golf",
+      "latitude": 55.866129,
+      "longitude": 9.943956
+    },
+    {
+      "name": "Struer Golfklub",
+      "latitude": 56.549266,
+      "longitude": 8.549662
+    },
+    {
+      "name": "Svendborg Golfbane",
+      "latitude": 55.090982,
+      "longitude": 10.553804
+    },
+    {
+      "name": "Sydsjællands Golfklub",
+      "latitude": 55.184311,
+      "longitude": 11.879983
+    },
+    {
+      "name": "Sydthy Golfklub",
+      "latitude": 56.745204,
+      "longitude": 8.38305
+    },
+    {
+      "name": "Sæby Golfklub",
+      "latitude": 57.334855,
+      "longitude": 10.468759
+    },
+    {
+      "name": "Søhøjlandet Golf",
+      "latitude": 56.211075,
+      "longitude": 9.730975
+    },
+    {
+      "name": "Søllerød Golfklub",
+      "latitude": 55.833351,
+      "longitude": 12.500755
+    },
+    {
+      "name": "Sølykke Golf",
+      "latitude": 55.343125,
+      "longitude": 10.595362
+    },
+    {
+      "name": "Sønderborg Golfklub",
+      "latitude": 54.952424,
+      "longitude": 9.907561
+    },
+    {
+      "name": "Sønderborg Golfklub",
+      "latitude": 54.952823,
+      "longitude": 9.908169
+    },
+    {
+      "name": "Sønderjyllands Golfklub",
+      "latitude": 54.966842,
+      "longitude": 9.358969
+    },
+    {
+      "name": "Tange Sø Golfklub",
+      "latitude": 56.331169,
+      "longitude": 9.564781
+    },
+    {
+      "name": "The Scandinavian Golf Club",
+      "latitude": 55.8334,
+      "longitude": 12.33706
+    },
+    {
+      "name": "Tikøb Golf",
+      "latitude": 56.023854,
+      "longitude": 12.450452
+    },
+    {
+      "name": "Tollundgaard Golf Park",
+      "latitude": 56.152739,
+      "longitude": 9.417616
+    },
+    {
+      "name": "Trehøje Golf",
+      "latitude": 56.197096,
+      "longitude": 8.684864
+    },
+    {
+      "name": "Trelleborg Golfklub Slagelse",
+      "latitude": 55.419949,
+      "longitude": 11.400689
+    },
+    {
+      "name": "Tullamore Golf Club",
+      "latitude": 56.151295,
+      "longitude": 9.152882
+    },
+    {
+      "name": "Tønder Golfklub",
+      "latitude": 54.945844,
+      "longitude": 8.943258
+    },
+    {
+      "name": "Varde Golfbane",
+      "latitude": 55.626931,
+      "longitude": 8.508247
+    },
+    {
+      "name": "Vejen Golfklub",
+      "latitude": 55.530109,
+      "longitude": 9.116643
+    },
+    {
+      "name": "Vejle Golf Club",
+      "latitude": 55.679533,
+      "longitude": 9.608339
+    },
+    {
+      "name": "Vennebjerg Golf",
+      "latitude": 57.456988,
+      "longitude": 9.854968
+    },
+    {
+      "name": "Vestfyns Golfklub",
+      "latitude": 55.292958,
+      "longitude": 10.113376
+    },
+    {
+      "name": "Viborg Golfklub",
+      "latitude": 56.436734,
+      "longitude": 9.446416
+    },
+    {
+      "name": "Vilvordes Golfbane",
+      "latitude": 55.624252,
+      "longitude": 12.096278
+    },
+    {
+      "name": "Volstrup Golfcenter",
+      "latitude": 56.676154,
+      "longitude": 9.704068
+    },
+    {
+      "name": "Værløse Golfklub",
+      "latitude": 55.788798,
+      "longitude": 12.328278
+    },
+    {
+      "name": "Åskov Golfklub",
+      "latitude": 55.930397,
+      "longitude": 8.806016
+    },
+    {
+      "name": "Ærø Golf Klub",
+      "latitude": 54.966932,
+      "longitude": 10.208952
+    },
+    {
+      "name": "Øland Golfklub",
+      "latitude": 57.063456,
+      "longitude": 9.594873
+    },
+    {
+      "name": "Ørnehøj Golfklub",
+      "latitude": 56.987274,
+      "longitude": 9.967202
+    }
+  ],
+  "meta": {
+    "title": "Golfbaner i Danmark (Golf courses in Denmark) - Gratis download",
+    "description": "Golf courses in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: leisure=golf_course. Indeholder 199 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Golfbaner i Danmark (Golf courses in Denmark) | ListBase",
+    "seo_description": "Download Golfbaner i Danmark (Golf courses in Denmark) — 199 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 199 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

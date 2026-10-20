@@ -1,0 +1,88 @@
+{
+  "id": "da-verdensdele",
+  "name": "Verdensdele (kontinenter)",
+  "title": "Verdensdele (kontinenter)",
+  "description": "7 verdensdele efter den almindelige angelsaksiske konvention (Afrika, Antarktis, Asien, Europa, Nordamerika, Oceanien, Sydamerika).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "AF",
+      "name_da": "Afrika",
+      "name_en": "Africa",
+      "slug": "afrika"
+    },
+    {
+      "code": "AN",
+      "name_da": "Antarktis",
+      "name_en": "Antarctica",
+      "slug": "antarktis"
+    },
+    {
+      "code": "AS",
+      "name_da": "Asien",
+      "name_en": "Asia",
+      "slug": "asien"
+    },
+    {
+      "code": "EU",
+      "name_da": "Europa",
+      "name_en": "Europe",
+      "slug": "europa"
+    },
+    {
+      "code": "NA",
+      "name_da": "Nordamerika",
+      "name_en": "North America",
+      "slug": "nordamerika"
+    },
+    {
+      "code": "OC",
+      "name_da": "Oceanien",
+      "name_en": "Oceania",
+      "slug": "oceanien"
+    },
+    {
+      "code": "SA",
+      "name_da": "Sydamerika",
+      "name_en": "South America",
+      "slug": "sydamerika"
+    }
+  ],
+  "meta": {
+    "title": "Verdensdele (kontinenter) - Gratis download",
+    "description": "7 verdensdele efter den almindelige angelsaksiske konvention (Afrika, Antarktis, Asien, Europa, Nordamerika, Oceanien, Sydamerika). Indeholder 7 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Verdensdele (kontinenter) | ListBase",
+    "seo_description": "Download Verdensdele (kontinenter) — 7 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 7 poster / 4 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

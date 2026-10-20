@@ -1,0 +1,456 @@
+{
+  "id": "da-koebenhavn-afstemningssteder",
+  "name": "Afstemningssteder i København Kommune",
+  "title": "Afstemningssteder i København Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i København Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "1. Østerbro",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 1,
+      "opstillingskreds": "Østerbro"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "1. nord",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 1,
+      "opstillingskreds": "Østerbro"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "1. syd",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 1,
+      "opstillingskreds": "Østerbro"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "1. vest",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 1,
+      "opstillingskreds": "Østerbro"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "1. nordvest",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 1,
+      "opstillingskreds": "Østerbro"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "2. Sundbyvester",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 2,
+      "opstillingskreds": "Sundbyvester"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "2. nord",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 2,
+      "opstillingskreds": "Sundbyvester"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "2. syd",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 2,
+      "opstillingskreds": "Sundbyvester"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "2.vest",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 2,
+      "opstillingskreds": "Sundbyvester"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "3. Indre By",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 3,
+      "opstillingskreds": "Indre By"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "3. nord",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 3,
+      "opstillingskreds": "Indre By"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "3. syd",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 3,
+      "opstillingskreds": "Indre By"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "3. øst",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 3,
+      "opstillingskreds": "Indre By"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "4. Sundbyøster",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 4,
+      "opstillingskreds": "Sundbyøster"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "4. nord",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 4,
+      "opstillingskreds": "Sundbyøster"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "4. syd",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 4,
+      "opstillingskreds": "Sundbyøster"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "4. øst",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 4,
+      "opstillingskreds": "Sundbyøster"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "5. Nørrebro",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 5,
+      "opstillingskreds": "Nørrebro"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "5. nord",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 5,
+      "opstillingskreds": "Nørrebro"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "5. syd",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 5,
+      "opstillingskreds": "Nørrebro"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "5. øst",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 5,
+      "opstillingskreds": "Nørrebro"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "5. vest",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 5,
+      "opstillingskreds": "Nørrebro"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "5. nordvest",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 5,
+      "opstillingskreds": "Nørrebro"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "5. midt",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 5,
+      "opstillingskreds": "Nørrebro"
+    },
+    {
+      "afstemningsomraade_kode": "27",
+      "afstemningssted": "6. Utterslev",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 6,
+      "opstillingskreds": "Bispebjerg"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "6. nord",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 6,
+      "opstillingskreds": "Bispebjerg"
+    },
+    {
+      "afstemningsomraade_kode": "29",
+      "afstemningssted": "6. øst",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 6,
+      "opstillingskreds": "Bispebjerg"
+    },
+    {
+      "afstemningsomraade_kode": "30",
+      "afstemningssted": "6. syd",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 6,
+      "opstillingskreds": "Bispebjerg"
+    },
+    {
+      "afstemningsomraade_kode": "31",
+      "afstemningssted": "7. Brønshøj",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 7,
+      "opstillingskreds": "Brønshøj"
+    },
+    {
+      "afstemningsomraade_kode": "32",
+      "afstemningssted": "7. nord",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 7,
+      "opstillingskreds": "Brønshøj"
+    },
+    {
+      "afstemningsomraade_kode": "33",
+      "afstemningssted": "7. syd",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 7,
+      "opstillingskreds": "Brønshøj"
+    },
+    {
+      "afstemningsomraade_kode": "34",
+      "afstemningssted": "7. øst",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 7,
+      "opstillingskreds": "Brønshøj"
+    },
+    {
+      "afstemningsomraade_kode": "35",
+      "afstemningssted": "7. vest",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 7,
+      "opstillingskreds": "Brønshøj"
+    },
+    {
+      "afstemningsomraade_kode": "36",
+      "afstemningssted": "7. nordvest",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 7,
+      "opstillingskreds": "Brønshøj"
+    },
+    {
+      "afstemningsomraade_kode": "39",
+      "afstemningssted": "7. Katrinedal",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 7,
+      "opstillingskreds": "Brønshøj"
+    },
+    {
+      "afstemningsomraade_kode": "40",
+      "afstemningssted": "7. Kirkebjerg",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 7,
+      "opstillingskreds": "Brønshøj"
+    },
+    {
+      "afstemningsomraade_kode": "41",
+      "afstemningssted": "7. Vanløse",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 7,
+      "opstillingskreds": "Brønshøj"
+    },
+    {
+      "afstemningsomraade_kode": "42",
+      "afstemningssted": "8. Valby",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 8,
+      "opstillingskreds": "Valby"
+    },
+    {
+      "afstemningsomraade_kode": "43",
+      "afstemningssted": "8. nord",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 8,
+      "opstillingskreds": "Valby"
+    },
+    {
+      "afstemningsomraade_kode": "44",
+      "afstemningssted": "8. syd",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 8,
+      "opstillingskreds": "Valby"
+    },
+    {
+      "afstemningsomraade_kode": "46",
+      "afstemningssted": "8. vest",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 8,
+      "opstillingskreds": "Valby"
+    },
+    {
+      "afstemningsomraade_kode": "47",
+      "afstemningssted": "8. sydøst",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 8,
+      "opstillingskreds": "Valby"
+    },
+    {
+      "afstemningsomraade_kode": "48",
+      "afstemningssted": "8. midt",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 8,
+      "opstillingskreds": "Valby"
+    },
+    {
+      "afstemningsomraade_kode": "49",
+      "afstemningssted": "9. Vesterbro",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 9,
+      "opstillingskreds": "Vesterbro"
+    },
+    {
+      "afstemningsomraade_kode": "50",
+      "afstemningssted": "9. nord",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 9,
+      "opstillingskreds": "Vesterbro"
+    },
+    {
+      "afstemningsomraade_kode": "51",
+      "afstemningssted": "9. syd",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 9,
+      "opstillingskreds": "Vesterbro"
+    },
+    {
+      "afstemningsomraade_kode": "52",
+      "afstemningssted": "9. øst",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 9,
+      "opstillingskreds": "Vesterbro"
+    },
+    {
+      "afstemningsomraade_kode": "53",
+      "afstemningssted": "9. vest",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 9,
+      "opstillingskreds": "Vesterbro"
+    },
+    {
+      "afstemningsomraade_kode": "54",
+      "afstemningssted": "9. midt",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 9,
+      "opstillingskreds": "Vesterbro"
+    },
+    {
+      "afstemningsomraade_kode": "55",
+      "afstemningssted": "9. Sydhavn",
+      "kommune_kode": 101,
+      "kommune": "København",
+      "opstillingskreds_nummer": 9,
+      "opstillingskreds": "Vesterbro"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i København Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i København Kommune med opstillingskreds. Indeholder 50 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i København Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i København Kommune — 50 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 50 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

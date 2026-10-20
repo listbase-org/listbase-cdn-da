@@ -1,0 +1,144 @@
+{
+  "id": "da-gladsaxe-afstemningssteder",
+  "name": "Afstemningssteder i Gladsaxe Kommune",
+  "title": "Afstemningssteder i Gladsaxe Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Gladsaxe Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Bagsværd",
+      "kommune_kode": 159,
+      "kommune": "Gladsaxe",
+      "opstillingskreds_nummer": 15,
+      "opstillingskreds": "Gladsaxe"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Buddinge",
+      "kommune_kode": 159,
+      "kommune": "Gladsaxe",
+      "opstillingskreds_nummer": 15,
+      "opstillingskreds": "Gladsaxe"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Egegård",
+      "kommune_kode": 159,
+      "kommune": "Gladsaxe",
+      "opstillingskreds_nummer": 15,
+      "opstillingskreds": "Gladsaxe"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Høje Gladsaxe",
+      "kommune_kode": 159,
+      "kommune": "Gladsaxe",
+      "opstillingskreds_nummer": 15,
+      "opstillingskreds": "Gladsaxe"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Kildebakken",
+      "kommune_kode": 159,
+      "kommune": "Gladsaxe",
+      "opstillingskreds_nummer": 15,
+      "opstillingskreds": "Gladsaxe"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Marielyst",
+      "kommune_kode": 159,
+      "kommune": "Gladsaxe",
+      "opstillingskreds_nummer": 15,
+      "opstillingskreds": "Gladsaxe"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Mørkhøj",
+      "kommune_kode": 159,
+      "kommune": "Gladsaxe",
+      "opstillingskreds_nummer": 15,
+      "opstillingskreds": "Gladsaxe"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Stengård",
+      "kommune_kode": 159,
+      "kommune": "Gladsaxe",
+      "opstillingskreds_nummer": 15,
+      "opstillingskreds": "Gladsaxe"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Søborg",
+      "kommune_kode": 159,
+      "kommune": "Gladsaxe",
+      "opstillingskreds_nummer": 15,
+      "opstillingskreds": "Gladsaxe"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Vadgård",
+      "kommune_kode": 159,
+      "kommune": "Gladsaxe",
+      "opstillingskreds_nummer": 15,
+      "opstillingskreds": "Gladsaxe"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Værebro",
+      "kommune_kode": 159,
+      "kommune": "Gladsaxe",
+      "opstillingskreds_nummer": 15,
+      "opstillingskreds": "Gladsaxe"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Gladsaxe Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Gladsaxe Kommune med opstillingskreds. Indeholder 11 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Gladsaxe Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Gladsaxe Kommune — 11 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 11 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

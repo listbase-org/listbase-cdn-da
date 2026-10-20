@@ -1,0 +1,331 @@
+{
+  "id": "da-midtjylland-lufthavne",
+  "name": "Lufthavne — Region Midtjylland",
+  "title": "Lufthavne — Region Midtjylland",
+  "description": "Lufthavne og flyvepladser i Region Midtjylland (Danmark / DK) — ICAO/IATA-koder, by, koordinater (WGS84), højde og tidszone. Udsnit af det nationale flagship-datasæt `da-lufthavne` filtreret på Region Midtjylland. (Airports in Central Denmark Region — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EKAH",
+      "iata": "AAR",
+      "name": "Aarhus Airport",
+      "city": "Aarhus",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 82,
+      "latitude": 56.3,
+      "longitude": 10.619,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKAT",
+      "iata": "",
+      "name": "Anholt Airport",
+      "city": "Anholt",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 23,
+      "latitude": 56.6989,
+      "longitude": 11.5559,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKEL",
+      "iata": "",
+      "name": "Endelave West Airport",
+      "city": "Endelave",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 15,
+      "latitude": 55.7565,
+      "longitude": 10.2485,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKFU",
+      "iata": "",
+      "name": "Fur Airport",
+      "city": "Fur",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 30,
+      "latitude": 56.8244,
+      "longitude": 8.98611,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKGR",
+      "iata": "",
+      "name": "Grenaa Airport",
+      "city": "Grenaa",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 20,
+      "latitude": 56.4425,
+      "longitude": 10.9306,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKHG",
+      "iata": "",
+      "name": "Herning Airport",
+      "city": "Herning",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 167,
+      "latitude": 56.1847,
+      "longitude": 9.04445,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKHO",
+      "iata": "",
+      "name": "Lindtorp Airport",
+      "city": "Holstebro",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 49,
+      "latitude": 56.3967,
+      "longitude": 8.44194,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKKA",
+      "iata": "KRP",
+      "name": "Karup Airport",
+      "city": "Karup",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 170,
+      "latitude": 56.2975,
+      "longitude": 9.12463,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKLV",
+      "iata": "",
+      "name": "Lemvig Airport",
+      "city": "Lemvig",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 97,
+      "latitude": 56.503,
+      "longitude": 8.31133,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKRA",
+      "iata": "",
+      "name": "Rarup Airport",
+      "city": "Rarup",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 131,
+      "latitude": 55.7786,
+      "longitude": 9.93889,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKRD",
+      "iata": "",
+      "name": "Randers Airport",
+      "city": "Randers",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 139,
+      "latitude": 56.5066,
+      "longitude": 10.0364,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKSD",
+      "iata": "",
+      "name": "Spjald Airport",
+      "city": "Spjald",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 249,
+      "latitude": 56.1027,
+      "longitude": 8.51423,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKSS",
+      "iata": "",
+      "name": "Samso Airport",
+      "city": "Samso",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 1,
+      "latitude": 55.8895,
+      "longitude": 10.6137,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKSV",
+      "iata": "SQW",
+      "name": "Skive Airport",
+      "city": "Skive",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 74,
+      "latitude": 56.5502,
+      "longitude": 9.17298,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKVB",
+      "iata": "",
+      "name": "Viborg Airport",
+      "city": "Viborg",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 75,
+      "latitude": 56.41,
+      "longitude": 9.4091,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    },
+    {
+      "icao": "EKVJ",
+      "iata": "STA",
+      "name": "Stauning Airport",
+      "city": "Skjern / Ringkobing",
+      "subdivision": "Central Denmark Region",
+      "subdivision_native": "Region Midtjylland",
+      "country": "DK",
+      "country_native": "Danmark",
+      "elevation_ft": 17,
+      "latitude": 55.9901,
+      "longitude": 8.35391,
+      "timezone": "Europe/Copenhagen",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Lufthavne — Region Midtjylland - Gratis download",
+    "description": "Lufthavne og flyvepladser i Region Midtjylland (Danmark / DK) — ICAO/IATA-koder, by, koordinater (WGS84), højde og tidszone. Udsnit af det nationale flagship-datasæt `da-lufthavne` filtreret på Region Midtjylland. (Airports in Central Denmark Region — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.) Indeholder 16 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Lufthavne — Region Midtjylland | ListBase",
+    "seo_description": "Download Lufthavne — Region Midtjylland — 16 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 16 poster / 13 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

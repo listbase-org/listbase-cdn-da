@@ -1,0 +1,196 @@
+{
+  "id": "da-posthuse",
+  "name": "Posthuse i Danmark – OpenStreetMap (Post offices in Denmark, OSM)",
+  "title": "Posthuse i Danmark – OpenStreetMap (Post offices in Denmark, OSM)",
+  "description": "Liste over 31 posthuse i Danmark fra OpenStreetMap (amenity=post_office) — navn og koordinater (WGS84).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aarup Pakkepost",
+      "latitude": 55.379795,
+      "longitude": 10.047586
+    },
+    {
+      "name": "BrevBoksCentret",
+      "latitude": 55.67093,
+      "longitude": 12.531533
+    },
+    {
+      "name": "Christiansø Posthus",
+      "latitude": 55.320438,
+      "longitude": 15.186488
+    },
+    {
+      "name": "Click & Collect",
+      "latitude": 55.393714,
+      "longitude": 10.350498
+    },
+    {
+      "name": "daoSHOP",
+      "latitude": 55.362751,
+      "longitude": 10.353742
+    },
+    {
+      "name": "daoSHOP",
+      "latitude": 55.368961,
+      "longitude": 10.371507
+    },
+    {
+      "name": "Det gamle posthus",
+      "latitude": 55.651289,
+      "longitude": 12.536768
+    },
+    {
+      "name": "DHL",
+      "latitude": 55.472208,
+      "longitude": 8.433948
+    },
+    {
+      "name": "Din PakkeShop",
+      "latitude": 55.784813,
+      "longitude": 12.372914
+    },
+    {
+      "name": "GLS",
+      "latitude": 55.665781,
+      "longitude": 12.545741
+    },
+    {
+      "name": "GLS Depot Aalborg",
+      "latitude": 57.08836,
+      "longitude": 9.961448
+    },
+    {
+      "name": "GLS Pakkeshop",
+      "latitude": 55.659313,
+      "longitude": 12.606616
+    },
+    {
+      "name": "GLS pakkeshop",
+      "latitude": 55.681075,
+      "longitude": 12.520701
+    },
+    {
+      "name": "GLS Pakkeshop",
+      "latitude": 55.691357,
+      "longitude": 12.53108
+    },
+    {
+      "name": "GLS Pakkeshop Islands Brygge",
+      "latitude": 55.669047,
+      "longitude": 12.579963
+    },
+    {
+      "name": "Hadsund Posthus",
+      "latitude": 56.71769,
+      "longitude": 10.111476
+    },
+    {
+      "name": "Hornbæk Posthus",
+      "latitude": 56.089355,
+      "longitude": 12.459645
+    },
+    {
+      "name": "Let Køb Hørby postbutik",
+      "latitude": 57.322925,
+      "longitude": 10.382221
+    },
+    {
+      "name": "Læsø Uldstue",
+      "latitude": 57.253634,
+      "longitude": 11.005467
+    },
+    {
+      "name": "Pakkeboks 624",
+      "latitude": 55.685003,
+      "longitude": 12.499925
+    },
+    {
+      "name": "Pakkeshop Allerød",
+      "latitude": 55.869309,
+      "longitude": 12.356073
+    },
+    {
+      "name": "Post Danmark Hvidovre Stations Center",
+      "latitude": 55.663765,
+      "longitude": 12.475353
+    },
+    {
+      "name": "Posthus Brøndby Strand Centerkiosken",
+      "latitude": 55.622005,
+      "longitude": 12.422678
+    },
+    {
+      "name": "Posthus Spilloppen",
+      "latitude": 55.642015,
+      "longitude": 9.64984
+    },
+    {
+      "name": "PostNord",
+      "latitude": 55.661613,
+      "longitude": 12.55998
+    },
+    {
+      "name": "Postnord",
+      "latitude": 56.170954,
+      "longitude": 10.188105
+    },
+    {
+      "name": "PostNord / GLS / DAO",
+      "latitude": 55.40952,
+      "longitude": 10.338551
+    },
+    {
+      "name": "Stege Posthus",
+      "latitude": 54.98299,
+      "longitude": 12.282894
+    },
+    {
+      "name": "Suldrup Postbutik",
+      "latitude": 56.846991,
+      "longitude": 9.700466
+    },
+    {
+      "name": "Tagensvej Pakkeshop",
+      "latitude": 55.701442,
+      "longitude": 12.550763
+    },
+    {
+      "name": "Tranebjerg Postbutik",
+      "latitude": 55.831213,
+      "longitude": 10.589697
+    }
+  ],
+  "meta": {
+    "title": "Posthuse i Danmark – OpenStreetMap (Post offices in Denmark, OSM) - Gratis download",
+    "description": "Liste over 31 posthuse i Danmark fra OpenStreetMap (amenity=post_office) — navn og koordinater (WGS84). Indeholder 31 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Posthuse i Danmark – OpenStreetMap (Post offices in Denmark, OSM) | ListBase",
+    "seo_description": "Download Posthuse i Danmark – OpenStreetMap (Post offices in Denmark, OSM) — 31 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 31 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

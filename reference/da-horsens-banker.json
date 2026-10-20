@@ -1,0 +1,86 @@
+{
+  "id": "da-horsens-banker",
+  "name": "Banker i Horsens — SWIFT/BIC-koder",
+  "title": "Banker i Horsens — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Horsens, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"HORSENS\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 51,
+      "bank": "DANSK AUTORISERET MARKEDSPLADS A/S",
+      "city": "HORSENS",
+      "branch": "",
+      "swift_code": "DAMKDK21"
+    },
+    {
+      "id": 54,
+      "bank": "DANSK O.T.C FONDSMAEGLERSELSKAB A/S",
+      "city": "HORSENS",
+      "branch": "",
+      "swift_code": "DAOFDK21"
+    },
+    {
+      "id": 87,
+      "bank": "DANSKE BANK A/S",
+      "city": "HORSENS",
+      "branch": "",
+      "swift_code": "DABADKKKHOR"
+    },
+    {
+      "id": 173,
+      "bank": "EGNS-INVEST",
+      "city": "HORSENS",
+      "branch": "",
+      "swift_code": "EGNSDK21"
+    },
+    {
+      "id": 474,
+      "bank": "SYDBANK A/S",
+      "city": "HORSENS",
+      "branch": "",
+      "swift_code": "SYBKDK22HOR"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Horsens — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Horsens, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"HORSENS\"). Delmængde af det nationale da-banker-datasæt. Indeholder 5 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Horsens — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Horsens — SWIFT/BIC-koder — 5 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 5 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

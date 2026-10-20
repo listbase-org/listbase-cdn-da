@@ -1,0 +1,168 @@
+{
+  "id": "da-hilleroed-afstemningssteder",
+  "name": "Afstemningssteder i Hillerød Kommune",
+  "title": "Afstemningssteder i Hillerød Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Hillerød Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Frederiksborgcentret",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Hillerødsholmsskolen",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Brødeskov",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Hammersholt",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Alsønderup",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Ullerød",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Nødebo",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Gadevang",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Grønnevang Skole, Jespervej",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Grønnevang Skole, Østervang",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Lille Lyngby",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Skævinge, Harløse, Strø",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Gørløse",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Uvelse",
+      "kommune_kode": 219,
+      "kommune": "Hillerød",
+      "opstillingskreds_nummer": 23,
+      "opstillingskreds": "Hillerød"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Hillerød Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Hillerød Kommune med opstillingskreds. Indeholder 14 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Hillerød Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Hillerød Kommune — 14 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 14 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

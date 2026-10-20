@@ -1,0 +1,126 @@
+{
+  "id": "da-maaleenheder-speed",
+  "name": "Måleenheder: speed (6)",
+  "title": "Måleenheder: speed (6)",
+  "description": "CLDR da-lokalets måleenheder i kategorien 'speed'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "speed-beaufort",
+      "kategori": "speed",
+      "navn": "beaufort",
+      "moenster_en": "beaufort {0}",
+      "moenster_flere": "beaufort {0}",
+      "kort_moenster": "bft {0}",
+      "smal_moenster": "bft {0}"
+    },
+    {
+      "id": 2,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategori": "speed",
+      "navn": "kilometer i timen",
+      "moenster_en": "{0} kilometer i timen",
+      "moenster_flere": "{0} kilometer i timen",
+      "kort_moenster": "{0} km/t.",
+      "smal_moenster": "{0} km/t"
+    },
+    {
+      "id": 3,
+      "unit_code": "speed-knot",
+      "kategori": "speed",
+      "navn": "knob",
+      "moenster_en": "{0} knob",
+      "moenster_flere": "{0} knob",
+      "kort_moenster": "{0} knob",
+      "smal_moenster": "{0} knob"
+    },
+    {
+      "id": 4,
+      "unit_code": "speed-light-speed",
+      "kategori": "speed",
+      "navn": "lys",
+      "moenster_en": "{0} lys",
+      "moenster_flere": "{0} lys",
+      "kort_moenster": "{0} lys",
+      "smal_moenster": "{0} lys"
+    },
+    {
+      "id": 5,
+      "unit_code": "speed-meter-per-second",
+      "kategori": "speed",
+      "navn": "meter pr. sekund",
+      "moenster_en": "{0} meter i sekundet",
+      "moenster_flere": "{0} meter i sekundet",
+      "kort_moenster": "{0} m/s",
+      "smal_moenster": "{0}m/s"
+    },
+    {
+      "id": 6,
+      "unit_code": "speed-mile-per-hour",
+      "kategori": "speed",
+      "navn": "engelske mil i timen",
+      "moenster_en": "{0} engelsk mil i timen",
+      "moenster_flere": "{0} engelske mil i timen",
+      "kort_moenster": "{0} mph",
+      "smal_moenster": "{0} mph"
+    }
+  ],
+  "meta": {
+    "title": "Måleenheder: speed (6) - Gratis download",
+    "description": "CLDR da-lokalets måleenheder i kategorien 'speed'. Indeholder 6 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Måleenheder: speed (6) | ListBase",
+    "seo_description": "Download Måleenheder: speed (6) — 6 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 6 poster / 8 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,952 @@
+{
+  "id": "da-kalender-maaneder",
+  "name": "Månedsnavne pr. kalender (CLDR da, 112)",
+  "title": "Månedsnavne pr. kalender (CLDR da, 112)",
+  "description": "Månedsnavne i danske CLDR-former for gregoriansk, buddhistisk, kinesisk, koptisk, dangi, etiopisk, hebraisk, islamisk og persisk kalender.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 112,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "kalender",
+      "label": "Kalender",
+      "type": "string"
+    },
+    {
+      "key": "maaned_kode",
+      "label": "Maaned Kode",
+      "type": "number"
+    },
+    {
+      "key": "maaned_nummer",
+      "label": "Maaned Nummer",
+      "type": "number"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "forkortelse",
+      "label": "Forkortelse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "kalender": "buddhist",
+      "maaned_kode": "1",
+      "maaned_nummer": 1,
+      "navn": "januar",
+      "forkortelse": "jan."
+    },
+    {
+      "id": 2,
+      "kalender": "buddhist",
+      "maaned_kode": "2",
+      "maaned_nummer": 2,
+      "navn": "februar",
+      "forkortelse": "feb."
+    },
+    {
+      "id": 3,
+      "kalender": "buddhist",
+      "maaned_kode": "3",
+      "maaned_nummer": 3,
+      "navn": "marts",
+      "forkortelse": "mar."
+    },
+    {
+      "id": 4,
+      "kalender": "buddhist",
+      "maaned_kode": "4",
+      "maaned_nummer": 4,
+      "navn": "april",
+      "forkortelse": "apr."
+    },
+    {
+      "id": 5,
+      "kalender": "buddhist",
+      "maaned_kode": "5",
+      "maaned_nummer": 5,
+      "navn": "maj",
+      "forkortelse": "maj"
+    },
+    {
+      "id": 6,
+      "kalender": "buddhist",
+      "maaned_kode": "6",
+      "maaned_nummer": 6,
+      "navn": "juni",
+      "forkortelse": "jun."
+    },
+    {
+      "id": 7,
+      "kalender": "buddhist",
+      "maaned_kode": "7",
+      "maaned_nummer": 7,
+      "navn": "juli",
+      "forkortelse": "jul."
+    },
+    {
+      "id": 8,
+      "kalender": "buddhist",
+      "maaned_kode": "8",
+      "maaned_nummer": 8,
+      "navn": "august",
+      "forkortelse": "aug."
+    },
+    {
+      "id": 9,
+      "kalender": "buddhist",
+      "maaned_kode": "9",
+      "maaned_nummer": 9,
+      "navn": "september",
+      "forkortelse": "sep."
+    },
+    {
+      "id": 10,
+      "kalender": "buddhist",
+      "maaned_kode": "10",
+      "maaned_nummer": 10,
+      "navn": "oktober",
+      "forkortelse": "okt."
+    },
+    {
+      "id": 11,
+      "kalender": "buddhist",
+      "maaned_kode": "11",
+      "maaned_nummer": 11,
+      "navn": "november",
+      "forkortelse": "nov."
+    },
+    {
+      "id": 12,
+      "kalender": "buddhist",
+      "maaned_kode": "12",
+      "maaned_nummer": 12,
+      "navn": "december",
+      "forkortelse": "dec."
+    },
+    {
+      "id": 13,
+      "kalender": "chinese",
+      "maaned_kode": "1",
+      "maaned_nummer": 1,
+      "navn": "M01",
+      "forkortelse": "M01"
+    },
+    {
+      "id": 14,
+      "kalender": "chinese",
+      "maaned_kode": "2",
+      "maaned_nummer": 2,
+      "navn": "M02",
+      "forkortelse": "M02"
+    },
+    {
+      "id": 15,
+      "kalender": "chinese",
+      "maaned_kode": "3",
+      "maaned_nummer": 3,
+      "navn": "M03",
+      "forkortelse": "M03"
+    },
+    {
+      "id": 16,
+      "kalender": "chinese",
+      "maaned_kode": "4",
+      "maaned_nummer": 4,
+      "navn": "M04",
+      "forkortelse": "M04"
+    },
+    {
+      "id": 17,
+      "kalender": "chinese",
+      "maaned_kode": "5",
+      "maaned_nummer": 5,
+      "navn": "M05",
+      "forkortelse": "M05"
+    },
+    {
+      "id": 18,
+      "kalender": "chinese",
+      "maaned_kode": "6",
+      "maaned_nummer": 6,
+      "navn": "M06",
+      "forkortelse": "M06"
+    },
+    {
+      "id": 19,
+      "kalender": "chinese",
+      "maaned_kode": "7",
+      "maaned_nummer": 7,
+      "navn": "M07",
+      "forkortelse": "M07"
+    },
+    {
+      "id": 20,
+      "kalender": "chinese",
+      "maaned_kode": "8",
+      "maaned_nummer": 8,
+      "navn": "M08",
+      "forkortelse": "M08"
+    },
+    {
+      "id": 21,
+      "kalender": "chinese",
+      "maaned_kode": "9",
+      "maaned_nummer": 9,
+      "navn": "M09",
+      "forkortelse": "M09"
+    },
+    {
+      "id": 22,
+      "kalender": "chinese",
+      "maaned_kode": "10",
+      "maaned_nummer": 10,
+      "navn": "M10",
+      "forkortelse": "M10"
+    },
+    {
+      "id": 23,
+      "kalender": "chinese",
+      "maaned_kode": "11",
+      "maaned_nummer": 11,
+      "navn": "M11",
+      "forkortelse": "M11"
+    },
+    {
+      "id": 24,
+      "kalender": "chinese",
+      "maaned_kode": "12",
+      "maaned_nummer": 12,
+      "navn": "M12",
+      "forkortelse": "M12"
+    },
+    {
+      "id": 25,
+      "kalender": "coptic",
+      "maaned_kode": "1",
+      "maaned_nummer": 1,
+      "navn": "tut",
+      "forkortelse": "tut"
+    },
+    {
+      "id": 26,
+      "kalender": "coptic",
+      "maaned_kode": "2",
+      "maaned_nummer": 2,
+      "navn": "babah",
+      "forkortelse": "babah"
+    },
+    {
+      "id": 27,
+      "kalender": "coptic",
+      "maaned_kode": "3",
+      "maaned_nummer": 3,
+      "navn": "hatur",
+      "forkortelse": "hatur"
+    },
+    {
+      "id": 28,
+      "kalender": "coptic",
+      "maaned_kode": "4",
+      "maaned_nummer": 4,
+      "navn": "kiyahk",
+      "forkortelse": "kiyahk"
+    },
+    {
+      "id": 29,
+      "kalender": "coptic",
+      "maaned_kode": "5",
+      "maaned_nummer": 5,
+      "navn": "tubah",
+      "forkortelse": "tubah"
+    },
+    {
+      "id": 30,
+      "kalender": "coptic",
+      "maaned_kode": "6",
+      "maaned_nummer": 6,
+      "navn": "amshir",
+      "forkortelse": "amshir"
+    },
+    {
+      "id": 31,
+      "kalender": "coptic",
+      "maaned_kode": "7",
+      "maaned_nummer": 7,
+      "navn": "baramhat",
+      "forkortelse": "baramhat"
+    },
+    {
+      "id": 32,
+      "kalender": "coptic",
+      "maaned_kode": "8",
+      "maaned_nummer": 8,
+      "navn": "baramundah",
+      "forkortelse": "baramundah"
+    },
+    {
+      "id": 33,
+      "kalender": "coptic",
+      "maaned_kode": "9",
+      "maaned_nummer": 9,
+      "navn": "bashans",
+      "forkortelse": "bashans"
+    },
+    {
+      "id": 34,
+      "kalender": "coptic",
+      "maaned_kode": "10",
+      "maaned_nummer": 10,
+      "navn": "ba’unah",
+      "forkortelse": "ba’unah"
+    },
+    {
+      "id": 35,
+      "kalender": "coptic",
+      "maaned_kode": "11",
+      "maaned_nummer": 11,
+      "navn": "abib",
+      "forkortelse": "abib"
+    },
+    {
+      "id": 36,
+      "kalender": "coptic",
+      "maaned_kode": "12",
+      "maaned_nummer": 12,
+      "navn": "misra",
+      "forkortelse": "misra"
+    },
+    {
+      "id": 37,
+      "kalender": "coptic",
+      "maaned_kode": "13",
+      "maaned_nummer": 13,
+      "navn": "nasi",
+      "forkortelse": "nasi"
+    },
+    {
+      "id": 38,
+      "kalender": "dangi",
+      "maaned_kode": "1",
+      "maaned_nummer": 1,
+      "navn": "M01",
+      "forkortelse": "M01"
+    },
+    {
+      "id": 39,
+      "kalender": "dangi",
+      "maaned_kode": "2",
+      "maaned_nummer": 2,
+      "navn": "M02",
+      "forkortelse": "M02"
+    },
+    {
+      "id": 40,
+      "kalender": "dangi",
+      "maaned_kode": "3",
+      "maaned_nummer": 3,
+      "navn": "M03",
+      "forkortelse": "M03"
+    },
+    {
+      "id": 41,
+      "kalender": "dangi",
+      "maaned_kode": "4",
+      "maaned_nummer": 4,
+      "navn": "M04",
+      "forkortelse": "M04"
+    },
+    {
+      "id": 42,
+      "kalender": "dangi",
+      "maaned_kode": "5",
+      "maaned_nummer": 5,
+      "navn": "M05",
+      "forkortelse": "M05"
+    },
+    {
+      "id": 43,
+      "kalender": "dangi",
+      "maaned_kode": "6",
+      "maaned_nummer": 6,
+      "navn": "M06",
+      "forkortelse": "M06"
+    },
+    {
+      "id": 44,
+      "kalender": "dangi",
+      "maaned_kode": "7",
+      "maaned_nummer": 7,
+      "navn": "M07",
+      "forkortelse": "M07"
+    },
+    {
+      "id": 45,
+      "kalender": "dangi",
+      "maaned_kode": "8",
+      "maaned_nummer": 8,
+      "navn": "M08",
+      "forkortelse": "M08"
+    },
+    {
+      "id": 46,
+      "kalender": "dangi",
+      "maaned_kode": "9",
+      "maaned_nummer": 9,
+      "navn": "M09",
+      "forkortelse": "M09"
+    },
+    {
+      "id": 47,
+      "kalender": "dangi",
+      "maaned_kode": "10",
+      "maaned_nummer": 10,
+      "navn": "M10",
+      "forkortelse": "M10"
+    },
+    {
+      "id": 48,
+      "kalender": "dangi",
+      "maaned_kode": "11",
+      "maaned_nummer": 11,
+      "navn": "M11",
+      "forkortelse": "M11"
+    },
+    {
+      "id": 49,
+      "kalender": "dangi",
+      "maaned_kode": "12",
+      "maaned_nummer": 12,
+      "navn": "M12",
+      "forkortelse": "M12"
+    },
+    {
+      "id": 50,
+      "kalender": "ethiopic",
+      "maaned_kode": "1",
+      "maaned_nummer": 1,
+      "navn": "meskerem",
+      "forkortelse": "meskerem"
+    },
+    {
+      "id": 51,
+      "kalender": "ethiopic",
+      "maaned_kode": "2",
+      "maaned_nummer": 2,
+      "navn": "tekemt",
+      "forkortelse": "tekemt"
+    },
+    {
+      "id": 52,
+      "kalender": "ethiopic",
+      "maaned_kode": "3",
+      "maaned_nummer": 3,
+      "navn": "hedar",
+      "forkortelse": "hedar"
+    },
+    {
+      "id": 53,
+      "kalender": "ethiopic",
+      "maaned_kode": "4",
+      "maaned_nummer": 4,
+      "navn": "tahsas",
+      "forkortelse": "tahsas"
+    },
+    {
+      "id": 54,
+      "kalender": "ethiopic",
+      "maaned_kode": "5",
+      "maaned_nummer": 5,
+      "navn": "ter",
+      "forkortelse": "ter"
+    },
+    {
+      "id": 55,
+      "kalender": "ethiopic",
+      "maaned_kode": "6",
+      "maaned_nummer": 6,
+      "navn": "yekatit",
+      "forkortelse": "yekatit"
+    },
+    {
+      "id": 56,
+      "kalender": "ethiopic",
+      "maaned_kode": "7",
+      "maaned_nummer": 7,
+      "navn": "megabit",
+      "forkortelse": "megabit"
+    },
+    {
+      "id": 57,
+      "kalender": "ethiopic",
+      "maaned_kode": "8",
+      "maaned_nummer": 8,
+      "navn": "miazia",
+      "forkortelse": "miazia"
+    },
+    {
+      "id": 58,
+      "kalender": "ethiopic",
+      "maaned_kode": "9",
+      "maaned_nummer": 9,
+      "navn": "genbot",
+      "forkortelse": "genbot"
+    },
+    {
+      "id": 59,
+      "kalender": "ethiopic",
+      "maaned_kode": "10",
+      "maaned_nummer": 10,
+      "navn": "sene",
+      "forkortelse": "sene"
+    },
+    {
+      "id": 60,
+      "kalender": "ethiopic",
+      "maaned_kode": "11",
+      "maaned_nummer": 11,
+      "navn": "hamle",
+      "forkortelse": "hamle"
+    },
+    {
+      "id": 61,
+      "kalender": "ethiopic",
+      "maaned_kode": "12",
+      "maaned_nummer": 12,
+      "navn": "nehasse",
+      "forkortelse": "nehasse"
+    },
+    {
+      "id": 62,
+      "kalender": "ethiopic",
+      "maaned_kode": "13",
+      "maaned_nummer": 13,
+      "navn": "pagumen",
+      "forkortelse": "pagumen"
+    },
+    {
+      "id": 63,
+      "kalender": "gregorian",
+      "maaned_kode": "1",
+      "maaned_nummer": 1,
+      "navn": "januar",
+      "forkortelse": "jan."
+    },
+    {
+      "id": 64,
+      "kalender": "gregorian",
+      "maaned_kode": "2",
+      "maaned_nummer": 2,
+      "navn": "februar",
+      "forkortelse": "feb."
+    },
+    {
+      "id": 65,
+      "kalender": "gregorian",
+      "maaned_kode": "3",
+      "maaned_nummer": 3,
+      "navn": "marts",
+      "forkortelse": "mar."
+    },
+    {
+      "id": 66,
+      "kalender": "gregorian",
+      "maaned_kode": "4",
+      "maaned_nummer": 4,
+      "navn": "april",
+      "forkortelse": "apr."
+    },
+    {
+      "id": 67,
+      "kalender": "gregorian",
+      "maaned_kode": "5",
+      "maaned_nummer": 5,
+      "navn": "maj",
+      "forkortelse": "maj"
+    },
+    {
+      "id": 68,
+      "kalender": "gregorian",
+      "maaned_kode": "6",
+      "maaned_nummer": 6,
+      "navn": "juni",
+      "forkortelse": "jun."
+    },
+    {
+      "id": 69,
+      "kalender": "gregorian",
+      "maaned_kode": "7",
+      "maaned_nummer": 7,
+      "navn": "juli",
+      "forkortelse": "jul."
+    },
+    {
+      "id": 70,
+      "kalender": "gregorian",
+      "maaned_kode": "8",
+      "maaned_nummer": 8,
+      "navn": "august",
+      "forkortelse": "aug."
+    },
+    {
+      "id": 71,
+      "kalender": "gregorian",
+      "maaned_kode": "9",
+      "maaned_nummer": 9,
+      "navn": "september",
+      "forkortelse": "sep."
+    },
+    {
+      "id": 72,
+      "kalender": "gregorian",
+      "maaned_kode": "10",
+      "maaned_nummer": 10,
+      "navn": "oktober",
+      "forkortelse": "okt."
+    },
+    {
+      "id": 73,
+      "kalender": "gregorian",
+      "maaned_kode": "11",
+      "maaned_nummer": 11,
+      "navn": "november",
+      "forkortelse": "nov."
+    },
+    {
+      "id": 74,
+      "kalender": "gregorian",
+      "maaned_kode": "12",
+      "maaned_nummer": 12,
+      "navn": "december",
+      "forkortelse": "dec."
+    },
+    {
+      "id": 75,
+      "kalender": "hebrew",
+      "maaned_kode": "1",
+      "maaned_nummer": 1,
+      "navn": "tishri",
+      "forkortelse": "tishri"
+    },
+    {
+      "id": 76,
+      "kalender": "hebrew",
+      "maaned_kode": "2",
+      "maaned_nummer": 2,
+      "navn": "heshvan",
+      "forkortelse": "heshvan"
+    },
+    {
+      "id": 77,
+      "kalender": "hebrew",
+      "maaned_kode": "3",
+      "maaned_nummer": 3,
+      "navn": "kislev",
+      "forkortelse": "kislev"
+    },
+    {
+      "id": 78,
+      "kalender": "hebrew",
+      "maaned_kode": "4",
+      "maaned_nummer": 4,
+      "navn": "tevet",
+      "forkortelse": "tevet"
+    },
+    {
+      "id": 79,
+      "kalender": "hebrew",
+      "maaned_kode": "5",
+      "maaned_nummer": 5,
+      "navn": "shevat",
+      "forkortelse": "shevat"
+    },
+    {
+      "id": 80,
+      "kalender": "hebrew",
+      "maaned_kode": "6",
+      "maaned_nummer": 6,
+      "navn": "adar I",
+      "forkortelse": "adar I"
+    },
+    {
+      "id": 81,
+      "kalender": "hebrew",
+      "maaned_kode": "7",
+      "maaned_nummer": 7,
+      "navn": "adar",
+      "forkortelse": "adar"
+    },
+    {
+      "id": 82,
+      "kalender": "hebrew",
+      "maaned_kode": "7-yeartype-leap",
+      "maaned_nummer": 7,
+      "navn": "adar II",
+      "forkortelse": "adar II"
+    },
+    {
+      "id": 83,
+      "kalender": "hebrew",
+      "maaned_kode": "8",
+      "maaned_nummer": 8,
+      "navn": "nisan",
+      "forkortelse": "nisan"
+    },
+    {
+      "id": 84,
+      "kalender": "hebrew",
+      "maaned_kode": "9",
+      "maaned_nummer": 9,
+      "navn": "iyar",
+      "forkortelse": "iyar"
+    },
+    {
+      "id": 85,
+      "kalender": "hebrew",
+      "maaned_kode": "10",
+      "maaned_nummer": 10,
+      "navn": "sivan",
+      "forkortelse": "sivan"
+    },
+    {
+      "id": 86,
+      "kalender": "hebrew",
+      "maaned_kode": "11",
+      "maaned_nummer": 11,
+      "navn": "tamuz",
+      "forkortelse": "tamuz"
+    },
+    {
+      "id": 87,
+      "kalender": "hebrew",
+      "maaned_kode": "12",
+      "maaned_nummer": 12,
+      "navn": "av",
+      "forkortelse": "av"
+    },
+    {
+      "id": 88,
+      "kalender": "hebrew",
+      "maaned_kode": "13",
+      "maaned_nummer": 13,
+      "navn": "elul",
+      "forkortelse": "elul"
+    },
+    {
+      "id": 89,
+      "kalender": "islamic",
+      "maaned_kode": "1",
+      "maaned_nummer": 1,
+      "navn": "muharram",
+      "forkortelse": "Muh."
+    },
+    {
+      "id": 90,
+      "kalender": "islamic",
+      "maaned_kode": "2",
+      "maaned_nummer": 2,
+      "navn": "safar",
+      "forkortelse": "Saf."
+    },
+    {
+      "id": 91,
+      "kalender": "islamic",
+      "maaned_kode": "3",
+      "maaned_nummer": 3,
+      "navn": "rabiʻ I",
+      "forkortelse": "Rab. I"
+    },
+    {
+      "id": 92,
+      "kalender": "islamic",
+      "maaned_kode": "4",
+      "maaned_nummer": 4,
+      "navn": "rabiʻ II",
+      "forkortelse": "Rab. II"
+    },
+    {
+      "id": 93,
+      "kalender": "islamic",
+      "maaned_kode": "5",
+      "maaned_nummer": 5,
+      "navn": "jumada I",
+      "forkortelse": "Jum. I"
+    },
+    {
+      "id": 94,
+      "kalender": "islamic",
+      "maaned_kode": "6",
+      "maaned_nummer": 6,
+      "navn": "jumada II",
+      "forkortelse": "Jum. II"
+    },
+    {
+      "id": 95,
+      "kalender": "islamic",
+      "maaned_kode": "7",
+      "maaned_nummer": 7,
+      "navn": "rajab",
+      "forkortelse": "Raj."
+    },
+    {
+      "id": 96,
+      "kalender": "islamic",
+      "maaned_kode": "8",
+      "maaned_nummer": 8,
+      "navn": "shaʻban",
+      "forkortelse": "Sha."
+    },
+    {
+      "id": 97,
+      "kalender": "islamic",
+      "maaned_kode": "9",
+      "maaned_nummer": 9,
+      "navn": "ramadan",
+      "forkortelse": "Ram."
+    },
+    {
+      "id": 98,
+      "kalender": "islamic",
+      "maaned_kode": "10",
+      "maaned_nummer": 10,
+      "navn": "shawwal",
+      "forkortelse": "Shaw."
+    },
+    {
+      "id": 99,
+      "kalender": "islamic",
+      "maaned_kode": "11",
+      "maaned_nummer": 11,
+      "navn": "dhuʻl-Qiʻdah",
+      "forkortelse": "Dhuʻl-Q."
+    },
+    {
+      "id": 100,
+      "kalender": "islamic",
+      "maaned_kode": "12",
+      "maaned_nummer": 12,
+      "navn": "dhuʻl-Hijjah",
+      "forkortelse": "Dhuʻl-H."
+    },
+    {
+      "id": 101,
+      "kalender": "persian",
+      "maaned_kode": "1",
+      "maaned_nummer": 1,
+      "navn": "farvardin",
+      "forkortelse": "farvardin"
+    },
+    {
+      "id": 102,
+      "kalender": "persian",
+      "maaned_kode": "2",
+      "maaned_nummer": 2,
+      "navn": "ordibehesht",
+      "forkortelse": "ordibehesht"
+    },
+    {
+      "id": 103,
+      "kalender": "persian",
+      "maaned_kode": "3",
+      "maaned_nummer": 3,
+      "navn": "khordad",
+      "forkortelse": "khordad"
+    },
+    {
+      "id": 104,
+      "kalender": "persian",
+      "maaned_kode": "4",
+      "maaned_nummer": 4,
+      "navn": "tir",
+      "forkortelse": "tir"
+    },
+    {
+      "id": 105,
+      "kalender": "persian",
+      "maaned_kode": "5",
+      "maaned_nummer": 5,
+      "navn": "mordad",
+      "forkortelse": "mordad"
+    },
+    {
+      "id": 106,
+      "kalender": "persian",
+      "maaned_kode": "6",
+      "maaned_nummer": 6,
+      "navn": "shahrivar",
+      "forkortelse": "shahrivar"
+    },
+    {
+      "id": 107,
+      "kalender": "persian",
+      "maaned_kode": "7",
+      "maaned_nummer": 7,
+      "navn": "mehr",
+      "forkortelse": "mehr"
+    },
+    {
+      "id": 108,
+      "kalender": "persian",
+      "maaned_kode": "8",
+      "maaned_nummer": 8,
+      "navn": "aban",
+      "forkortelse": "aban"
+    },
+    {
+      "id": 109,
+      "kalender": "persian",
+      "maaned_kode": "9",
+      "maaned_nummer": 9,
+      "navn": "azar",
+      "forkortelse": "azar"
+    },
+    {
+      "id": 110,
+      "kalender": "persian",
+      "maaned_kode": "10",
+      "maaned_nummer": 10,
+      "navn": "dey",
+      "forkortelse": "dey"
+    },
+    {
+      "id": 111,
+      "kalender": "persian",
+      "maaned_kode": "11",
+      "maaned_nummer": 11,
+      "navn": "bahman",
+      "forkortelse": "bahman"
+    },
+    {
+      "id": 112,
+      "kalender": "persian",
+      "maaned_kode": "12",
+      "maaned_nummer": 12,
+      "navn": "esfand",
+      "forkortelse": "esfand"
+    }
+  ],
+  "meta": {
+    "title": "Månedsnavne pr. kalender (CLDR da, 112) - Gratis download",
+    "description": "Månedsnavne i danske CLDR-former for gregoriansk, buddhistisk, kinesisk, koptisk, dangi, etiopisk, hebraisk, islamisk og persisk kalender. Indeholder 112 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Månedsnavne pr. kalender (CLDR da, 112) | ListBase",
+    "seo_description": "Download Månedsnavne pr. kalender (CLDR da, 112) — 112 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 112 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

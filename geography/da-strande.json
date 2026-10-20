@@ -1,0 +1,744 @@
+{
+  "id": "da-strande",
+  "name": "Strande i Danmark",
+  "title": "Strande i Danmark",
+  "description": "Strande (beaches) i Danmark fra Wikidata (P31 = Q40080, P17 = Danmark) med koordinater.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q113549770",
+      "wikidata_id": "Q113549770",
+      "name_da": "Aabenraa Strand",
+      "name_en": "Aabenraa Strand",
+      "latitude": 55.0333,
+      "longitude": 9.4216
+    },
+    {
+      "id": "Q133277723",
+      "wikidata_id": "Q133277723",
+      "name_da": "Agger Strand",
+      "name_en": "Agger Beach",
+      "latitude": 56.780475,
+      "longitude": 8.228879
+    },
+    {
+      "id": "Q12300907",
+      "wikidata_id": "Q12300907",
+      "name_da": "Albuen Strand",
+      "name_en": "Albuen",
+      "latitude": 55.7047,
+      "longitude": 9.5803
+    },
+    {
+      "id": "Q452470",
+      "wikidata_id": "Q452470",
+      "name_da": "Amager Strandpark",
+      "name_en": "Amager Strandpark",
+      "latitude": 55.65764,
+      "longitude": 12.639213
+    },
+    {
+      "id": "Q23754188",
+      "wikidata_id": "Q23754188",
+      "name_da": "Antoinette",
+      "name_en": "Antoinette",
+      "latitude": 55.11963,
+      "longitude": 14.70058
+    },
+    {
+      "id": "Q23753262",
+      "wikidata_id": "Q23753262",
+      "name_da": "Ballehage",
+      "name_en": "Ballehage",
+      "latitude": 56.12096,
+      "longitude": 10.22565
+    },
+    {
+      "id": "Q3375957",
+      "wikidata_id": "Q3375957",
+      "name_da": "Bellevue Strand",
+      "name_en": "Bellevue Beach",
+      "latitude": 55.778,
+      "longitude": 12.5923
+    },
+    {
+      "id": "Q28225945",
+      "wikidata_id": "Q28225945",
+      "name_da": "Bellevue Strand",
+      "name_en": "Bellevue Beach",
+      "latitude": 56.1905,
+      "longitude": 10.249
+    },
+    {
+      "id": "Q120833896",
+      "wikidata_id": "Q120833896",
+      "name_da": "Bildsø Strand",
+      "name_en": "",
+      "latitude": 55.4562,
+      "longitude": 11.1991
+    },
+    {
+      "id": "Q23750435",
+      "wikidata_id": "Q23750435",
+      "name_da": "Bildsøstrand",
+      "name_en": "Bildsøstrand",
+      "latitude": 55.453333,
+      "longitude": 11.201389
+    },
+    {
+      "id": "Q12303619",
+      "wikidata_id": "Q12303619",
+      "name_da": "Bisserup Strand",
+      "name_en": "Bisserup Beach",
+      "latitude": 55.2019,
+      "longitude": 11.5028
+    },
+    {
+      "id": "Q23754184",
+      "wikidata_id": "Q23754184",
+      "name_da": "Bjerge Nordstrand",
+      "name_en": "Bjerge Nordstrand",
+      "latitude": 55.59138,
+      "longitude": 11.15472
+    },
+    {
+      "id": "Q17489404",
+      "wikidata_id": "Q17489404",
+      "name_da": "Blokhus Strand",
+      "name_en": "Blokhus beach",
+      "latitude": 57.2564,
+      "longitude": 9.5813
+    },
+    {
+      "id": "Q107118554",
+      "wikidata_id": "Q107118554",
+      "name_da": "Boderne Strand",
+      "name_en": "Boderne",
+      "latitude": 55.0218,
+      "longitude": 14.91069
+    },
+    {
+      "id": "Q107118097",
+      "wikidata_id": "Q107118097",
+      "name_da": "Bunken Strand",
+      "name_en": "Bunken Strand",
+      "latitude": 57.63783,
+      "longitude": 10.46119
+    },
+    {
+      "id": "Q957702",
+      "wikidata_id": "Q957702",
+      "name_da": "Bønnerup Strand",
+      "name_en": "Bønnerup Strand",
+      "latitude": 56.528889,
+      "longitude": 10.721111
+    },
+    {
+      "id": "Q12304896",
+      "wikidata_id": "Q12304896",
+      "name_da": "Børsmose Strand",
+      "name_en": "Børsmose Strand",
+      "latitude": 55.6709,
+      "longitude": 8.14338
+    },
+    {
+      "id": "Q23754182",
+      "wikidata_id": "Q23754182",
+      "name_da": "Charlottenlund Søbad",
+      "name_en": "Charlottenlund Søbad",
+      "latitude": 55.74941,
+      "longitude": 12.59007
+    },
+    {
+      "id": "Q23754180",
+      "wikidata_id": "Q23754180",
+      "name_da": "Copencabana",
+      "name_en": "Copencabana",
+      "latitude": 55.66239,
+      "longitude": 12.56373
+    },
+    {
+      "id": "Q23749613",
+      "wikidata_id": "Q23749613",
+      "name_da": "Dalbystrand",
+      "name_en": "Dalbystrand",
+      "latitude": 55.518056,
+      "longitude": 11.139444
+    },
+    {
+      "id": "Q136689360",
+      "wikidata_id": "Q136689360",
+      "name_da": "Danzigmand",
+      "name_en": "",
+      "latitude": 57.323271,
+      "longitude": 11.181058
+    },
+    {
+      "id": "Q5256478",
+      "wikidata_id": "Q5256478",
+      "name_da": "Den Permanente Badeanstalt",
+      "name_en": "Den Permanente Badeanstalt",
+      "latitude": 56.176667,
+      "longitude": 10.231667
+    },
+    {
+      "id": "Q2189435",
+      "wikidata_id": "Q2189435",
+      "name_da": "Dueodde",
+      "name_en": "Dueodde",
+      "latitude": 54.9877,
+      "longitude": 15.07941
+    },
+    {
+      "id": "Q107118664",
+      "wikidata_id": "Q107118664",
+      "name_da": "Dueodde Strand",
+      "name_en": "Dueodde Beach",
+      "latitude": 54.99439,
+      "longitude": 15.0894
+    },
+    {
+      "id": "Q107118414",
+      "wikidata_id": "Q107118414",
+      "name_da": "Falkebrøn",
+      "name_en": "Falkebrøn",
+      "latitude": 55.24782,
+      "longitude": 14.84254
+    },
+    {
+      "id": "Q23753425",
+      "wikidata_id": "Q23753425",
+      "name_da": "Flovt Strand",
+      "name_en": "Flovt Strand",
+      "latitude": 55.2289,
+      "longitude": 9.7004
+    },
+    {
+      "id": "Q23754178",
+      "wikidata_id": "Q23754178",
+      "name_da": "Flyvesandet",
+      "name_en": "Flyvesandet",
+      "latitude": 55.62115,
+      "longitude": 10.30099
+    },
+    {
+      "id": "Q23752186",
+      "wikidata_id": "Q23752186",
+      "name_da": "Gisseløre Sand",
+      "name_en": "Gisseløre Sand",
+      "latitude": 55.681111,
+      "longitude": 11.064444
+    },
+    {
+      "id": "Q107117923",
+      "wikidata_id": "Q107117923",
+      "name_da": "Gl. Skagen Strand",
+      "name_en": "Gl. Skagen Strand",
+      "latitude": 57.72916,
+      "longitude": 10.52135
+    },
+    {
+      "id": "Q15956974",
+      "wikidata_id": "Q15956974",
+      "name_da": "Glatved Strand",
+      "name_en": "Glatved Beach",
+      "latitude": 56.3,
+      "longitude": 10.8667
+    },
+    {
+      "id": "Q15917528",
+      "wikidata_id": "Q15917528",
+      "name_da": "Grenaa Strand",
+      "name_en": "Grenaa Beach",
+      "latitude": 56.3333,
+      "longitude": 10.8833
+    },
+    {
+      "id": "Q23747694",
+      "wikidata_id": "Q23747694",
+      "name_da": "Grærup Strand",
+      "name_en": "Grærup Strand",
+      "latitude": 55.65,
+      "longitude": 8.13806
+    },
+    {
+      "id": "Q23747692",
+      "wikidata_id": "Q23747692",
+      "name_da": "Grønnestrand",
+      "name_en": "Grønnestrand",
+      "latitude": 57.1425,
+      "longitude": 9.262778
+    },
+    {
+      "id": "Q135497522",
+      "wikidata_id": "Q135497522",
+      "name_da": "Gudmindrup Strand",
+      "name_en": "",
+      "latitude": 55.907028,
+      "longitude": 11.525982
+    },
+    {
+      "id": "Q23747361",
+      "wikidata_id": "Q23747361",
+      "name_da": "Havsand",
+      "name_en": "Havsand",
+      "latitude": 55.083333,
+      "longitude": 8.5
+    },
+    {
+      "id": "Q12316102",
+      "wikidata_id": "Q12316102",
+      "name_da": "Hellerup Strand",
+      "name_en": "",
+      "latitude": 55.7329,
+      "longitude": 12.5822
+    },
+    {
+      "id": "Q23754176",
+      "wikidata_id": "Q23754176",
+      "name_da": "Hestehovedet",
+      "name_en": "Hestehovedet",
+      "latitude": 54.8328,
+      "longitude": 11.09143
+    },
+    {
+      "id": "Q115729787",
+      "wikidata_id": "Q115729787",
+      "name_da": "Hjerting Strand",
+      "name_en": "Hjerting Beach",
+      "latitude": 55.510897,
+      "longitude": 8.377947
+    },
+    {
+      "id": "Q17489415",
+      "wikidata_id": "Q17489415",
+      "name_da": "Hornbæk Strand",
+      "name_en": "Hornbæk Strand",
+      "latitude": 56.0944,
+      "longitude": 12.4539
+    },
+    {
+      "id": "Q17489416",
+      "wikidata_id": "Q17489416",
+      "name_da": "Hou Strand",
+      "name_en": "",
+      "latitude": 57.0539,
+      "longitude": 10.3794
+    },
+    {
+      "id": "Q20202455",
+      "wikidata_id": "Q20202455",
+      "name_da": "Houstrup Strand",
+      "name_en": "Houstrup Strand",
+      "latitude": 55.766828,
+      "longitude": 8.178064
+    },
+    {
+      "id": "Q23753274",
+      "wikidata_id": "Q23753274",
+      "name_da": "Hullehavn",
+      "name_en": "Hullehavn",
+      "latitude": 55.131,
+      "longitude": 15.15262
+    },
+    {
+      "id": "Q107118104",
+      "wikidata_id": "Q107118104",
+      "name_da": "Hulsig Strand ved Karredvej",
+      "name_en": "Hulsig V, Karredvej",
+      "latitude": 57.6589,
+      "longitude": 10.48604
+    },
+    {
+      "id": "Q127275140",
+      "wikidata_id": "Q127275140",
+      "name_da": "Hundige Strandpark",
+      "name_en": "",
+      "latitude": 55.596417,
+      "longitude": 12.358332
+    },
+    {
+      "id": "Q107118648",
+      "wikidata_id": "Q107118648",
+      "name_da": "Jomfrugård Strand",
+      "name_en": "Jomfrugård",
+      "latitude": 54.99433,
+      "longitude": 15.03814
+    },
+    {
+      "id": "Q23746925",
+      "wikidata_id": "Q23746925",
+      "name_da": "Juvre Sand",
+      "name_en": "Juvre Sand",
+      "latitude": 55.183333,
+      "longitude": 8.5
+    },
+    {
+      "id": "Q107118056",
+      "wikidata_id": "Q107118056",
+      "name_da": "Kandestederne Strand",
+      "name_en": "Kandestederne",
+      "latitude": 57.6665,
+      "longitude": 10.3888
+    },
+    {
+      "id": "Q137924286",
+      "wikidata_id": "Q137924286",
+      "name_da": "Kollerup Strand",
+      "name_en": "",
+      "latitude": 57.141727,
+      "longitude": 9.247825
+    },
+    {
+      "id": "Q12323355",
+      "wikidata_id": "Q12323355",
+      "name_da": "Kærsgård Strand",
+      "name_en": "Kjærsgaard Strand",
+      "latitude": 57.522481,
+      "longitude": 9.876492
+    },
+    {
+      "id": "Q129570978",
+      "wikidata_id": "Q129570978",
+      "name_da": "Liseleje Strand",
+      "name_en": "",
+      "latitude": 56.015626,
+      "longitude": 11.967523
+    },
+    {
+      "id": "Q107172399",
+      "wikidata_id": "Q107172399",
+      "name_da": "Lyngby Strand",
+      "name_en": "Lyngby Strand",
+      "latitude": 56.8752,
+      "longitude": 8.2879
+    },
+    {
+      "id": "Q17480835",
+      "wikidata_id": "Q17480835",
+      "name_da": "Løkken Strand",
+      "name_en": "Løkken strand",
+      "latitude": 57.3717,
+      "longitude": 9.70389
+    },
+    {
+      "id": "Q107118631",
+      "wikidata_id": "Q107118631",
+      "name_da": "Melsted Strand",
+      "name_en": "Melsted",
+      "latitude": 55.20138,
+      "longitude": 14.98351
+    },
+    {
+      "id": "Q23753270",
+      "wikidata_id": "Q23753270",
+      "name_da": "Moesgård Strand",
+      "name_en": "Moesgård Beach",
+      "latitude": 56.0879,
+      "longitude": 10.2489
+    },
+    {
+      "id": "Q23754163",
+      "wikidata_id": "Q23754163",
+      "name_da": "Mulbjerg Strand",
+      "name_en": "Mulbjerg public beach",
+      "latitude": 56.90624,
+      "longitude": 10.26359
+    },
+    {
+      "id": "Q23754167",
+      "wikidata_id": "Q23754167",
+      "name_da": "Novo Strand",
+      "name_en": "Novo Public beach",
+      "latitude": 56.79564,
+      "longitude": 10.27732
+    },
+    {
+      "id": "Q23743352",
+      "wikidata_id": "Q23743352",
+      "name_da": "Næsbystrand",
+      "name_en": "Næsbystrand",
+      "latitude": 55.401944,
+      "longitude": 11.214444
+    },
+    {
+      "id": "Q12330411",
+      "wikidata_id": "Q12330411",
+      "name_da": "Ore Strand",
+      "name_en": "",
+      "latitude": 55.0056,
+      "longitude": 11.8725
+    },
+    {
+      "id": "Q17489408",
+      "wikidata_id": "Q17489408",
+      "name_da": "Palmestranden",
+      "name_en": "Palm Beach",
+      "latitude": 57.4613,
+      "longitude": 10.5401
+    },
+    {
+      "id": "Q23753282",
+      "wikidata_id": "Q23753282",
+      "name_da": "Rindby Strand",
+      "name_en": "Rindby Strand",
+      "latitude": 55.416667,
+      "longitude": 8.375
+    },
+    {
+      "id": "Q23741666",
+      "wikidata_id": "Q23741666",
+      "name_da": "Rævshalen",
+      "name_en": "Rævshalen",
+      "latitude": 55.175278,
+      "longitude": 9.633889
+    },
+    {
+      "id": "Q12335052",
+      "wikidata_id": "Q12335052",
+      "name_da": "Serup Strand",
+      "name_en": "",
+      "latitude": 56.6072,
+      "longitude": 8.5925
+    },
+    {
+      "id": "Q107118110",
+      "wikidata_id": "Q107118110",
+      "name_da": "Skagen Syd, V, Damstedvej",
+      "name_en": "Skagen Syd, V, Damstedvej",
+      "latitude": 57.70599,
+      "longitude": 10.55661
+    },
+    {
+      "id": "Q107117888",
+      "wikidata_id": "Q107117888",
+      "name_da": "Skagen Søndre Strand, V.vippefyr",
+      "name_en": "Skagen Søndre Strand, V.vippefyr",
+      "latitude": 57.72323,
+      "longitude": 10.6064
+    },
+    {
+      "id": "Q107117902",
+      "wikidata_id": "Q107117902",
+      "name_da": "Skiveren Strand, syd for Skiverrenden",
+      "name_en": "Skiveren Strand, Syd For Skiverrenden",
+      "latitude": 57.62014,
+      "longitude": 10.27138
+    },
+    {
+      "id": "Q107118139",
+      "wikidata_id": "Q107118139",
+      "name_da": "Skiveren Strand, Syd For Skiverrenden",
+      "name_en": "Skiveren Strand, Syd For Skiverrenden",
+      "latitude": 57.62014,
+      "longitude": 10.27138
+    },
+    {
+      "id": "Q23754174",
+      "wikidata_id": "Q23754174",
+      "name_da": "Smørmosen",
+      "name_en": "Smørmosen",
+      "latitude": 55.04361,
+      "longitude": 10.71087
+    },
+    {
+      "id": "Q110189711",
+      "wikidata_id": "Q110189711",
+      "name_da": "Snekkersten strand",
+      "name_en": "Snekkersten Strand",
+      "latitude": 56.0058,
+      "longitude": 12.5816
+    },
+    {
+      "id": "Q23754137",
+      "wikidata_id": "Q23754137",
+      "name_da": "",
+      "name_en": "Solbakken Naturistcamping - beach",
+      "latitude": 55.71047,
+      "longitude": 11.84311
+    },
+    {
+      "id": "Q23736581",
+      "wikidata_id": "Q23736581",
+      "name_da": "Store Vrøj",
+      "name_en": "Store Vrøj",
+      "latitude": 55.743611,
+      "longitude": 11.173889
+    },
+    {
+      "id": "Q126142795",
+      "wikidata_id": "Q126142795",
+      "name_da": "Struckmannparken",
+      "name_en": "Struckmann Park",
+      "latitude": 55.834483,
+      "longitude": 12.573645
+    },
+    {
+      "id": "Q3966675",
+      "wikidata_id": "Q3966675",
+      "name_da": "Svanemøllestranden",
+      "name_en": "Svanemølle Beach",
+      "latitude": 55.7206,
+      "longitude": 12.5831
+    },
+    {
+      "id": "Q20496625",
+      "wikidata_id": "Q20496625",
+      "name_da": "Sædding Strand",
+      "name_en": "Sædding Beach",
+      "latitude": 55.496611,
+      "longitude": 8.394806
+    },
+    {
+      "id": "Q23736694",
+      "wikidata_id": "Q23736694",
+      "name_da": "Taksensand",
+      "name_en": "Taksensand",
+      "latitude": 55.009167,
+      "longitude": 9.958889
+    },
+    {
+      "id": "Q70455108",
+      "wikidata_id": "Q70455108",
+      "name_da": "Tisvilde Strand",
+      "name_en": "Tisvilde Beach",
+      "latitude": 56.0683,
+      "longitude": 12.0888
+    },
+    {
+      "id": "Q17489429",
+      "wikidata_id": "Q17489429",
+      "name_da": "Tisvildeleje Strand",
+      "name_en": "Tisvildeleje Strand",
+      "latitude": 56.0569,
+      "longitude": 12.0586
+    },
+    {
+      "id": "Q23754165",
+      "wikidata_id": "Q23754165",
+      "name_da": "Toft Strand",
+      "name_en": "Toft public beach",
+      "latitude": 56.83033,
+      "longitude": 10.26973
+    },
+    {
+      "id": "Q23754160",
+      "wikidata_id": "Q23754160",
+      "name_da": "Toftskov Strand",
+      "name_en": "Toftskov public beach",
+      "latitude": 56.84464,
+      "longitude": 10.26754
+    },
+    {
+      "id": "Q17489433",
+      "wikidata_id": "Q17489433",
+      "name_da": "Tversted Strand",
+      "name_en": "",
+      "latitude": 57.5975,
+      "longitude": 10.1808
+    },
+    {
+      "id": "Q107118090",
+      "wikidata_id": "Q107118090",
+      "name_da": "Tversted Strand, 500m Øst For Nedkørsel",
+      "name_en": "Tversted Strand, 500m Øst For Nedkørsel",
+      "latitude": 57.59931,
+      "longitude": 10.18856
+    },
+    {
+      "id": "Q107118067",
+      "wikidata_id": "Q107118067",
+      "name_da": "Tversted Strand, Ud For Nedkørsel",
+      "name_en": "Tversted Strand, Ud For Nedkørsel",
+      "latitude": 57.59829,
+      "longitude": 10.1804
+    },
+    {
+      "id": "Q107117858",
+      "wikidata_id": "Q107117858",
+      "name_da": "Tålfor Strand",
+      "name_en": "Tålfor Strand",
+      "latitude": 56.21998,
+      "longitude": 10.29925
+    },
+    {
+      "id": "Q138313125",
+      "wikidata_id": "Q138313125",
+      "name_da": "Vrinners Strand",
+      "name_en": "",
+      "latitude": 56.248338,
+      "longitude": 10.477139
+    },
+    {
+      "id": "Q107118567",
+      "wikidata_id": "Q107118567",
+      "name_da": "Ålhammer Bugt",
+      "name_en": "Ålhammer Bugt",
+      "latitude": 55.00404,
+      "longitude": 14.96905
+    },
+    {
+      "id": "Q23754158",
+      "wikidata_id": "Q23754158",
+      "name_da": "Øster Hurup Strand",
+      "name_en": "",
+      "latitude": 56.80134,
+      "longitude": 10.27601
+    },
+    {
+      "id": "Q20107607",
+      "wikidata_id": "Q20107607",
+      "name_da": "Østerstrand",
+      "name_en": "Østerstrand",
+      "latitude": 55.566,
+      "longitude": 9.7691
+    }
+  ],
+  "meta": {
+    "title": "Strande i Danmark - Gratis download",
+    "description": "Strande (beaches) i Danmark fra Wikidata (P31 = Q40080, P17 = Danmark) med koordinater. Indeholder 86 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Strande i Danmark | ListBase",
+    "seo_description": "Download Strande i Danmark — 86 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 86 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

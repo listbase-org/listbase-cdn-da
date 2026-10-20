@@ -1,0 +1,100 @@
+{
+  "id": "da-bornholm-opstillingskreds",
+  "name": "Opstillingskredse i Bornholm-storkredsen",
+  "title": "Opstillingskredse i Bornholm-storkredsen",
+  "description": "Opstillingskredse i storkredsen Bornholm (i alt 2). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "valgkreds_nr",
+      "label": "Valgkreds Nr",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_id",
+      "label": "Storkreds Id",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_name",
+      "label": "Storkreds Name",
+      "type": "string"
+    },
+    {
+      "key": "landsdel_id",
+      "label": "Landsdel Id",
+      "type": "number"
+    },
+    {
+      "key": "landsdel_name",
+      "label": "Landsdel Name",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "28",
+      "name": "Aakirkeby",
+      "slug": "aakirkeby",
+      "valgkreds_nr": "2",
+      "storkreds_id": "4",
+      "storkreds_name": "Bornholm",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "27",
+      "name": "Rønne",
+      "slug": "roenne",
+      "valgkreds_nr": "1",
+      "storkreds_id": "4",
+      "storkreds_name": "Bornholm",
+      "landsdel_id": "1",
+      "landsdel_name": "Hovedstaden",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    }
+  ],
+  "meta": {
+    "title": "Opstillingskredse i Bornholm-storkredsen - Gratis download",
+    "description": "Opstillingskredse i storkredsen Bornholm (i alt 2). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget). Indeholder 2 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Opstillingskredse i Bornholm-storkredsen | ListBase",
+    "seo_description": "Download Opstillingskredse i Bornholm-storkredsen — 2 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 2 poster / 10 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

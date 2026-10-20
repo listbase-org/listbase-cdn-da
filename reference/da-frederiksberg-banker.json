@@ -1,0 +1,72 @@
+{
+  "id": "da-frederiksberg-banker",
+  "name": "Banker i Frederiksberg — SWIFT/BIC-koder",
+  "title": "Banker i Frederiksberg — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Frederiksberg, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"FREDERIKSBERG\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 174,
+      "bank": "FAELLESKASSEN SAMOEKONOMI J.A.K. ANDELSKASSE",
+      "city": "FREDERIKSBERG",
+      "branch": "",
+      "swift_code": "FAELDKK1"
+    },
+    {
+      "id": 223,
+      "bank": "INVEST ADMINISTRATION A/S",
+      "city": "FREDERIKSBERG",
+      "branch": "",
+      "swift_code": "IADMDK21"
+    },
+    {
+      "id": 314,
+      "bank": "LAEGERNES BANK",
+      "city": "FREDERIKSBERG",
+      "branch": "",
+      "swift_code": "LAPNDKK1"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Frederiksberg — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Frederiksberg, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"FREDERIKSBERG\"). Delmængde af det nationale da-banker-datasæt. Indeholder 3 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Frederiksberg — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Frederiksberg — SWIFT/BIC-koder — 3 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 3 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

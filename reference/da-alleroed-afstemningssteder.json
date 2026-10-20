@@ -1,0 +1,96 @@
+{
+  "id": "da-alleroed-afstemningssteder",
+  "name": "Afstemningssteder i Allerød Kommune",
+  "title": "Afstemningssteder i Allerød Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Allerød Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Blovstrød",
+      "kommune_kode": 201,
+      "kommune": "Allerød",
+      "opstillingskreds_nummer": 26,
+      "opstillingskreds": "Rudersdal"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Skovvang",
+      "kommune_kode": 201,
+      "kommune": "Allerød",
+      "opstillingskreds_nummer": 26,
+      "opstillingskreds": "Rudersdal"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Lillerød",
+      "kommune_kode": 201,
+      "kommune": "Allerød",
+      "opstillingskreds_nummer": 26,
+      "opstillingskreds": "Rudersdal"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Lynge",
+      "kommune_kode": 201,
+      "kommune": "Allerød",
+      "opstillingskreds_nummer": 26,
+      "opstillingskreds": "Rudersdal"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Ravnsholt",
+      "kommune_kode": 201,
+      "kommune": "Allerød",
+      "opstillingskreds_nummer": 26,
+      "opstillingskreds": "Rudersdal"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Allerød Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Allerød Kommune med opstillingskreds. Indeholder 5 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Allerød Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Allerød Kommune — 5 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 5 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

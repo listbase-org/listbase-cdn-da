@@ -1,0 +1,328 @@
+{
+  "id": "da-vejle-afstemningssteder",
+  "name": "Afstemningssteder i Vejle Kommune",
+  "title": "Afstemningssteder i Vejle Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Vejle Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Brejning Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Børkop Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Gårslev Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Smidstrup Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Ødsted Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Egtved Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Jerlev Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Øster Starup Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Dgi-Huset Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Multihuset Højen Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Vindinghallen Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Mølholmhallen Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Løget Kirke Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Csv Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Rødkilde Gymnasium Syd",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Skibethallen Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Give Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Thyregod Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Gadbjerg Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Givskud Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Grønbjerg Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Lindeballe Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Øster Nykirke Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Jelling Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 57,
+      "opstillingskreds": "Vejle Syd"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Kollerup-Sandvad Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Grejs Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "27",
+      "afstemningssted": "Bredsten Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "Nørup Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "29",
+      "afstemningssted": "Randbøl Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "30",
+      "afstemningssted": "Nørremarkshallen Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "31",
+      "afstemningssted": "Engum Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "32",
+      "afstemningssted": "Hældagerhallen Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "33",
+      "afstemningssted": "Grejsdalshallen Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    },
+    {
+      "afstemningsomraade_kode": "34",
+      "afstemningssted": "Petersmindehallen Nord",
+      "kommune_kode": 630,
+      "kommune": "Vejle",
+      "opstillingskreds_nummer": 56,
+      "opstillingskreds": "Vejle Nord"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Vejle Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Vejle Kommune med opstillingskreds. Indeholder 34 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Vejle Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Vejle Kommune — 34 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 34 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

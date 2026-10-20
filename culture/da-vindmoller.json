@@ -1,0 +1,280 @@
+{
+  "id": "da-vindmoller",
+  "name": "Vindmøller i Danmark",
+  "title": "Vindmøller i Danmark",
+  "description": "Vindmøller (windmills) i Danmark fra Wikidata (P31 = Q38720, P17 = Danmark) med koordinater. Historiske og bevarede møller.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q130351033",
+      "wikidata_id": "Q130351033",
+      "name_da": "Amerikamøllen",
+      "name_en": "",
+      "latitude": 55.669,
+      "longitude": 12.5414
+    },
+    {
+      "id": "Q135448652",
+      "wikidata_id": "Q135448652",
+      "name_da": "Bramming Mølle",
+      "name_en": "",
+      "latitude": 55.467,
+      "longitude": 8.699
+    },
+    {
+      "id": "Q130011902",
+      "wikidata_id": "Q130011902",
+      "name_da": "Buddinge Mølle",
+      "name_en": "",
+      "latitude": 55.756298,
+      "longitude": 12.495857
+    },
+    {
+      "id": "Q137923641",
+      "wikidata_id": "Q137923641",
+      "name_da": "Bybjerg Mølle",
+      "name_en": "",
+      "latitude": 55.768073,
+      "longitude": 11.79241
+    },
+    {
+      "id": "Q137908291",
+      "wikidata_id": "Q137908291",
+      "name_da": "Christiansminde",
+      "name_en": "",
+      "latitude": 55.717362,
+      "longitude": 11.689764
+    },
+    {
+      "id": "Q30247895",
+      "wikidata_id": "Q30247895",
+      "name_da": "Christiansø",
+      "name_en": "",
+      "latitude": 55.3188,
+      "longitude": 15.188745
+    },
+    {
+      "id": "Q137908366",
+      "wikidata_id": "Q137908366",
+      "name_da": "Drags Mølle",
+      "name_en": "",
+      "latitude": 55.765338,
+      "longitude": 11.432879
+    },
+    {
+      "id": "Q37271489",
+      "wikidata_id": "Q37271489",
+      "name_da": "Dronningens Mølle",
+      "name_en": "",
+      "latitude": 55.69079,
+      "longitude": 12.58573
+    },
+    {
+      "id": "Q138110527",
+      "wikidata_id": "Q138110527",
+      "name_da": "Dunkær Mølle",
+      "name_en": "",
+      "latitude": 54.852753,
+      "longitude": 10.419398
+    },
+    {
+      "id": "Q129520290",
+      "wikidata_id": "Q129520290",
+      "name_da": "Fløng Mølle",
+      "name_en": "",
+      "latitude": 55.660966,
+      "longitude": 12.186576
+    },
+    {
+      "id": "Q131313893",
+      "wikidata_id": "Q131313893",
+      "name_da": "Foerlev Mølle",
+      "name_en": "",
+      "latitude": 56.058123,
+      "longitude": 9.910907
+    },
+    {
+      "id": "Q124819603",
+      "wikidata_id": "Q124819603",
+      "name_da": "Frederiksberg Mølle",
+      "name_en": "",
+      "latitude": 55.417,
+      "longitude": 11.567
+    },
+    {
+      "id": "Q12316808",
+      "wikidata_id": "Q12316808",
+      "name_da": "Hine Mølle",
+      "name_en": "Hine Mølle",
+      "latitude": 54.9353,
+      "longitude": 10.7273
+    },
+    {
+      "id": "Q137908370",
+      "wikidata_id": "Q137908370",
+      "name_da": "Hørve Mekaniske Mølle",
+      "name_en": "",
+      "latitude": 55.751944,
+      "longitude": 11.451831
+    },
+    {
+      "id": "Q130906752",
+      "wikidata_id": "Q130906752",
+      "name_da": "Kristineberg",
+      "name_en": "",
+      "latitude": 55.710029,
+      "longitude": 12.563084
+    },
+    {
+      "id": "Q127255889",
+      "wikidata_id": "Q127255889",
+      "name_da": "Marie Mølle",
+      "name_en": "",
+      "latitude": 56.18443,
+      "longitude": 10.21657
+    },
+    {
+      "id": "Q135916245",
+      "wikidata_id": "Q135916245",
+      "name_da": "Nautrup Mølle",
+      "name_en": "",
+      "latitude": 56.7365,
+      "longitude": 8.918
+    },
+    {
+      "id": "Q137840857",
+      "wikidata_id": "Q137840857",
+      "name_da": "Nobis Mølle",
+      "name_en": "",
+      "latitude": 55.843,
+      "longitude": 12.435
+    },
+    {
+      "id": "Q138109635",
+      "wikidata_id": "Q138109635",
+      "name_da": "Olde Mølle",
+      "name_en": "",
+      "latitude": 54.865802,
+      "longitude": 10.371871
+    },
+    {
+      "id": "Q137923833",
+      "wikidata_id": "Q137923833",
+      "name_da": "Roeds Mølle",
+      "name_en": "",
+      "latitude": 55.7177,
+      "longitude": 11.7243
+    },
+    {
+      "id": "Q16324454",
+      "wikidata_id": "Q16324454",
+      "name_da": "Skanderborg Mølle",
+      "name_en": "Skanderborg Mølle",
+      "latitude": 56.028218,
+      "longitude": 9.958079
+    },
+    {
+      "id": "Q130320335",
+      "wikidata_id": "Q130320335",
+      "name_da": "Store Mølle",
+      "name_en": "",
+      "latitude": 55.668,
+      "longitude": 12.599
+    },
+    {
+      "id": "Q137993731",
+      "wikidata_id": "Q137993731",
+      "name_da": "Stormøllen",
+      "name_en": "",
+      "latitude": 55.715,
+      "longitude": 11.726
+    },
+    {
+      "id": "Q137994064",
+      "wikidata_id": "Q137994064",
+      "name_da": "Strandmøllen",
+      "name_en": "",
+      "latitude": 55.719012,
+      "longitude": 11.731164
+    },
+    {
+      "id": "Q130357881",
+      "wikidata_id": "Q130357881",
+      "name_da": "Valby Mølle",
+      "name_en": "",
+      "latitude": 55.6647,
+      "longitude": 12.5189
+    },
+    {
+      "id": "Q130548391",
+      "wikidata_id": "Q130548391",
+      "name_da": "Vordingborg Mølle",
+      "name_en": "",
+      "latitude": 55.010396,
+      "longitude": 11.917864
+    },
+    {
+      "id": "Q136994736",
+      "wikidata_id": "Q136994736",
+      "name_da": "Ørnstrup Mølle",
+      "name_en": "",
+      "latitude": 55.8289,
+      "longitude": 9.8033
+    },
+    {
+      "id": "Q136994739",
+      "wikidata_id": "Q136994739",
+      "name_da": "Ørnstrup Nymølle",
+      "name_en": "",
+      "latitude": 55.8224,
+      "longitude": 9.8269
+    }
+  ],
+  "meta": {
+    "title": "Vindmøller i Danmark - Gratis download",
+    "description": "Vindmøller (windmills) i Danmark fra Wikidata (P31 = Q38720, P17 = Danmark) med koordinater. Historiske og bevarede møller. Indeholder 28 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Vindmøller i Danmark | ListBase",
+    "seo_description": "Download Vindmøller i Danmark — 28 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 28 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

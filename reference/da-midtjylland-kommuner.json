@@ -1,0 +1,184 @@
+{
+  "id": "da-midtjylland-kommuner",
+  "name": "Kommuner i Region Midtjylland",
+  "title": "Kommuner i Region Midtjylland",
+  "description": "Kommuner tilhørende Region Midtjylland (i alt 19). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 + editorial kommune→region map per Lov om regioner (2007 reform).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "0751",
+      "name": "Aarhus",
+      "slug": "aarhus",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0710",
+      "name": "Favrskov",
+      "slug": "favrskov",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0766",
+      "name": "Hedensted",
+      "slug": "hedensted",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0657",
+      "name": "Herning",
+      "slug": "herning",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0661",
+      "name": "Holstebro",
+      "slug": "holstebro",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0615",
+      "name": "Horsens",
+      "slug": "horsens",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0756",
+      "name": "Ikast-Brande",
+      "slug": "ikast-brande",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0665",
+      "name": "Lemvig",
+      "slug": "lemvig",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0707",
+      "name": "Norddjurs",
+      "slug": "norddjurs",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0727",
+      "name": "Odder",
+      "slug": "odder",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0730",
+      "name": "Randers",
+      "slug": "randers",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0760",
+      "name": "Ringkøbing-Skjern",
+      "slug": "ringkoebing-skjern",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0741",
+      "name": "Samsø",
+      "slug": "samsoe",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0740",
+      "name": "Silkeborg",
+      "slug": "silkeborg",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0746",
+      "name": "Skanderborg",
+      "slug": "skanderborg",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0779",
+      "name": "Skive",
+      "slug": "skive",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0671",
+      "name": "Struer",
+      "slug": "struer",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0706",
+      "name": "Syddjurs",
+      "slug": "syddjurs",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    },
+    {
+      "id": "0791",
+      "name": "Viborg",
+      "slug": "viborg",
+      "region_id": "1082",
+      "region_name": "Region Midtjylland"
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Region Midtjylland - Gratis download",
+    "description": "Kommuner tilhørende Region Midtjylland (i alt 19). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 + editorial kommune→region map per Lov om regioner (2007 reform). Indeholder 19 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Region Midtjylland | ListBase",
+    "seo_description": "Download Kommuner i Region Midtjylland — 19 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 19 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

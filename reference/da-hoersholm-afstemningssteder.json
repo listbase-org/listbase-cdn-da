@@ -1,0 +1,96 @@
+{
+  "id": "da-hoersholm-afstemningssteder",
+  "name": "Afstemningssteder i Hørsholm Kommune",
+  "title": "Afstemningssteder i Hørsholm Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Hørsholm Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Hørsholm",
+      "kommune_kode": 223,
+      "kommune": "Hørsholm",
+      "opstillingskreds_nummer": 22,
+      "opstillingskreds": "Fredensborg"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Usserød",
+      "kommune_kode": 223,
+      "kommune": "Hørsholm",
+      "opstillingskreds_nummer": 22,
+      "opstillingskreds": "Fredensborg"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Rungsted",
+      "kommune_kode": 223,
+      "kommune": "Hørsholm",
+      "opstillingskreds_nummer": 22,
+      "opstillingskreds": "Fredensborg"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Grønnegade",
+      "kommune_kode": 223,
+      "kommune": "Hørsholm",
+      "opstillingskreds_nummer": 22,
+      "opstillingskreds": "Fredensborg"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Vallerød",
+      "kommune_kode": 223,
+      "kommune": "Hørsholm",
+      "opstillingskreds_nummer": 22,
+      "opstillingskreds": "Fredensborg"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Hørsholm Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Hørsholm Kommune med opstillingskreds. Indeholder 5 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Hørsholm Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Hørsholm Kommune — 5 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 5 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "id": "da-naestved-afstemningssteder",
+  "name": "Afstemningssteder i Næstved Kommune",
+  "title": "Afstemningssteder i Næstved Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Næstved Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Fuglebjerg Hallen",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Everdrup",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Grønbro-Hallen",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Næstelsø - Mogenstrup",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Tybjerg",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Snesere",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Hammer - Vester Egesborg",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Fensmark",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Holme-Olstrup",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Toksværd",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Glumsø",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Sandby",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Skelby",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Herlufmagle",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Ll. Næstved Skole-Karrebækvej",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Grønnegades Kaserne",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Kildemarkskolen",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Næstved Hallerne",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Sct. Jørgens Skole",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Kalbyrisskolen",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Ll Næstved Skole-Herlufsholmve",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "27",
+      "afstemningssted": "Herlufsholmhallen",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "Sydbyskolen",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "29",
+      "afstemningssted": "Rønnebæk",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "31",
+      "afstemningssted": "Hyllinge",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    },
+    {
+      "afstemningsomraade_kode": "32",
+      "afstemningssted": "Karrebæk",
+      "kommune_kode": 370,
+      "kommune": "Næstved",
+      "opstillingskreds_nummer": 32,
+      "opstillingskreds": "Næstved"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Næstved Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Næstved Kommune med opstillingskreds. Indeholder 26 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Næstved Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Næstved Kommune — 26 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 26 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "da-struer-afstemningssteder",
+  "name": "Afstemningssteder i Struer Kommune",
+  "title": "Afstemningssteder i Struer Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Struer Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Struer",
+      "kommune_kode": 671,
+      "kommune": "Struer",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Gimsing",
+      "kommune_kode": 671,
+      "kommune": "Struer",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Hjerm",
+      "kommune_kode": 671,
+      "kommune": "Struer",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Humlum",
+      "kommune_kode": 671,
+      "kommune": "Struer",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Bremdal",
+      "kommune_kode": 671,
+      "kommune": "Struer",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Langhøj",
+      "kommune_kode": 671,
+      "kommune": "Struer",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Hvidbjerg",
+      "kommune_kode": 671,
+      "kommune": "Struer",
+      "opstillingskreds_nummer": 73,
+      "opstillingskreds": "Struer"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Struer Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Struer Kommune med opstillingskreds. Indeholder 7 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Struer Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Struer Kommune — 7 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 7 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

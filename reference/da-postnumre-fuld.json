@@ -1,0 +1,8829 @@
+{
+  "id": "da-postnumre-fuld",
+  "name": "Komplette danske postnumre (med gade- og firmakoder)",
+  "title": "Komplette danske postnumre (med gade- og firmakoder)",
+  "description": "Komplette danske postnumre inklusive gade-niveau koder i København, postboks-pulje koder og virksomheds-/firmakoder. Indeholder 1.254 poster — et superset af de geografiske postnumre, der dækker enhver post-tilgængelig kode (gader i indre København, PO-box pools, banker, store virksomheder, og Ufrankerede svarforsendelser). Comprehensive Danish postal code list (postnumre) sourced from PostNord Denmark via tjconcept/postal-codes-denmark. Includes street-level codes for inner Copenhagen, PO-box pool codes, reserved business/company codes, and reply-mail codes — substantially richer than a purely geographic 4-digit gazette.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1254,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "street",
+      "label": "Street",
+      "type": "string"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "kind",
+      "label": "Kind",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "0555",
+      "city": "Scanning",
+      "street": "",
+      "company": "Data Scanning A/S, \"Læs Ind\"-service",
+      "kind": "company"
+    },
+    {
+      "code": "0800",
+      "city": "Høje Taastrup",
+      "street": "Girostrøget 1",
+      "company": "BG-Bank A/S",
+      "kind": "company"
+    },
+    {
+      "code": "0877",
+      "city": "Valby",
+      "street": "Vigerslev Allé 18",
+      "company": "Aller Press (konkurrencer",
+      "kind": "company"
+    },
+    {
+      "code": "0900",
+      "city": "København C",
+      "street": "",
+      "company": "Københavns Postcenter + erhvervskunder",
+      "kind": "company"
+    },
+    {
+      "code": "0910",
+      "city": "København C",
+      "street": "Ufrankerede svarforsendelser",
+      "company": "",
+      "kind": "reply-mail"
+    },
+    {
+      "code": "0929",
+      "city": "København C",
+      "street": "Ufrankerede svarforsendelser",
+      "company": "",
+      "kind": "reply-mail"
+    },
+    {
+      "code": "0999",
+      "city": "København C",
+      "street": "",
+      "company": "DR Byen",
+      "kind": "company"
+    },
+    {
+      "code": "1000",
+      "city": "København K",
+      "street": "Købmagergade 33",
+      "company": "Købmagergade Postkontor",
+      "kind": "company"
+    },
+    {
+      "code": "1001",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1002",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1003",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1004",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1005",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1006",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1007",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1008",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1009",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1010",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1011",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1012",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1013",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1014",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1015",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1016",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1017",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1018",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1019",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1020",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1021",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1022",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1023",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1024",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1025",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1026",
+      "city": "København K",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1045",
+      "city": "København K",
+      "street": "Ufrankerede svarforsendelser",
+      "company": "",
+      "kind": "reply-mail"
+    },
+    {
+      "code": "1050",
+      "city": "København K",
+      "street": "Kongens Nytorv",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1051",
+      "city": "København K",
+      "street": "Nyhavn",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1052",
+      "city": "København K",
+      "street": "Herluf Trolles Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1053",
+      "city": "København K",
+      "street": "Cort Adelers Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1054",
+      "city": "København K",
+      "street": "Peder Skrams Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1055",
+      "city": "København K",
+      "street": "Tordenskjoldsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1055",
+      "city": "København K",
+      "street": "August Bournonvilles Passage",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1056",
+      "city": "København K",
+      "street": "Heibergsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1057",
+      "city": "København K",
+      "street": "Holbergsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1058",
+      "city": "København K",
+      "street": "Havnegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1059",
+      "city": "København K",
+      "street": "Niels Juels Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1060",
+      "city": "København K",
+      "street": "Holmens Kanal",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1061",
+      "city": "København K",
+      "street": "Ved Stranden",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1062",
+      "city": "København K",
+      "street": "Boldhusgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1063",
+      "city": "København K",
+      "street": "Laksegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1064",
+      "city": "København K",
+      "street": "Asylgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1065",
+      "city": "København K",
+      "street": "Fortunstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1066",
+      "city": "København K",
+      "street": "Admiralgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1067",
+      "city": "København K",
+      "street": "Nikolaj Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1068",
+      "city": "København K",
+      "street": "Nikolajgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1069",
+      "city": "København K",
+      "street": "Bremerholm",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1070",
+      "city": "København K",
+      "street": "Vingårdstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1071",
+      "city": "København K",
+      "street": "Dybensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1072",
+      "city": "København K",
+      "street": "Lille Kirkestræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1073",
+      "city": "København K",
+      "street": "Store Kirkestræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1074",
+      "city": "København K",
+      "street": "Lille Kongensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1092",
+      "city": "København K",
+      "street": "Holmens Kanal 2-12",
+      "company": "Danske Bank A/S",
+      "kind": "company"
+    },
+    {
+      "code": "1093",
+      "city": "København K",
+      "street": "Havnegade 5",
+      "company": "Danmarks Nationalbank",
+      "kind": "company"
+    },
+    {
+      "code": "1095",
+      "city": "København K",
+      "street": "Kongens Nytorv 13",
+      "company": "Magasin du Nord",
+      "kind": "company"
+    },
+    {
+      "code": "1098",
+      "city": "København K",
+      "street": "Esplanaden 50",
+      "company": "A.P. Møller",
+      "kind": "company"
+    },
+    {
+      "code": "1100",
+      "city": "København K",
+      "street": "Østergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1101",
+      "city": "København K",
+      "street": "Ny Østergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1102",
+      "city": "København K",
+      "street": "Pistolstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1103",
+      "city": "København K",
+      "street": "Hovedvagtsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1104",
+      "city": "København K",
+      "street": "Ny Adelgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1105",
+      "city": "København K",
+      "street": "Kristen Bernikows Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1106",
+      "city": "København K",
+      "street": "Antonigade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1107",
+      "city": "København K",
+      "street": "Grønnegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1110",
+      "city": "København K",
+      "street": "Store Regnegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1111",
+      "city": "København K",
+      "street": "Christian IX's Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1112",
+      "city": "København K",
+      "street": "Pilestræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1113",
+      "city": "København K",
+      "street": "Silkegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1114",
+      "city": "København K",
+      "street": "Kronprinsensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1115",
+      "city": "København K",
+      "street": "Klareboderne",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1116",
+      "city": "København K",
+      "street": "Møntergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1117",
+      "city": "København K",
+      "street": "Gammel Mønt",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1118",
+      "city": "København K",
+      "street": "Sværtegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1119",
+      "city": "København K",
+      "street": "Landemærket",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1120",
+      "city": "København K",
+      "street": "Vognmagergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1121",
+      "city": "København K",
+      "street": "Lønporten",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1122",
+      "city": "København K",
+      "street": "Sjæleboderne",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1123",
+      "city": "København K",
+      "street": "Gothersgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1124",
+      "city": "København K",
+      "street": "Åbenrå",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1125",
+      "city": "København K",
+      "street": "Suhmsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1126",
+      "city": "København K",
+      "street": "Pustervig",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1127",
+      "city": "København K",
+      "street": "Hauser Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1128",
+      "city": "København K",
+      "street": "Hausergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1129",
+      "city": "København K",
+      "street": "Sankt Gertruds Stræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1130",
+      "city": "København K",
+      "street": "Rosenborggade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1131",
+      "city": "København K",
+      "street": "Tornebuskegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1140",
+      "city": "København K",
+      "street": "Møntergade 19",
+      "company": "Dagbladet Børsen",
+      "kind": "company"
+    },
+    {
+      "code": "1147",
+      "city": "København K",
+      "street": "Pilestræde 34",
+      "company": "Berlingske Tidende",
+      "kind": "company"
+    },
+    {
+      "code": "1148",
+      "city": "København K",
+      "street": "Vognmagergade 11",
+      "company": "Gutenberghus",
+      "kind": "company"
+    },
+    {
+      "code": "1150",
+      "city": "København K",
+      "street": "Købmagergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1151",
+      "city": "København K",
+      "street": "Valkendorfsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1152",
+      "city": "København K",
+      "street": "Løvstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1153",
+      "city": "København K",
+      "street": "Niels Hemmingsens Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1154",
+      "city": "København K",
+      "street": "Gråbrødretorv",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1155",
+      "city": "København K",
+      "street": "Kejsergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1156",
+      "city": "København K",
+      "street": "Gråbrødrestræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1157",
+      "city": "København K",
+      "street": "Klosterstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1158",
+      "city": "København K",
+      "street": "Skoubogade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1159",
+      "city": "København K",
+      "street": "Skindergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1160",
+      "city": "København K",
+      "street": "Amagertorv",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1161",
+      "city": "København K",
+      "street": "Vimmelskaftet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1162",
+      "city": "København K",
+      "street": "Jorcks Passage",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1163",
+      "city": "København K",
+      "street": "Klostergården",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1164",
+      "city": "København K",
+      "street": "Nygade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1165",
+      "city": "København K",
+      "street": "Nørregade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1166",
+      "city": "København K",
+      "street": "Dyrkøb",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1167",
+      "city": "København K",
+      "street": "Bispetorvet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1168",
+      "city": "København K",
+      "street": "Frue Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1169",
+      "city": "København K",
+      "street": "Store Kannikestræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1170",
+      "city": "København K",
+      "street": "Lille Kannikestræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1171",
+      "city": "København K",
+      "street": "Fiolstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1172",
+      "city": "København K",
+      "street": "Krystalgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1173",
+      "city": "København K",
+      "street": "Peder Hvitfeldts Stræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1174",
+      "city": "København K",
+      "street": "Rosengården",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1175",
+      "city": "København K",
+      "street": "Kultorvet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1200",
+      "city": "København K",
+      "street": "Højbro Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1201",
+      "city": "København K",
+      "street": "Læderstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1202",
+      "city": "København K",
+      "street": "Gammel Strand",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1203",
+      "city": "København K",
+      "street": "Nybrogade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1204",
+      "city": "København K",
+      "street": "Magstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1205",
+      "city": "København K",
+      "street": "Snaregade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1206",
+      "city": "København K",
+      "street": "Naboløs",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1207",
+      "city": "København K",
+      "street": "Hyskenstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1208",
+      "city": "København K",
+      "street": "Kompagnistræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1209",
+      "city": "København K",
+      "street": "Badstuestræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1210",
+      "city": "København K",
+      "street": "Knabrostræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1211",
+      "city": "København K",
+      "street": "Brolæggerstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1212",
+      "city": "København K",
+      "street": "Vindebrogade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1213",
+      "city": "København K",
+      "street": "Bertel Thorvaldsens Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1214",
+      "city": "København K",
+      "street": "Søren Kierkegaards Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1214",
+      "city": "København K",
+      "street": "Tøjhusgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1215",
+      "city": "København K",
+      "street": "Børsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1216",
+      "city": "København K",
+      "street": "Slotsholmsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1217",
+      "city": "København K",
+      "street": "Børsen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1218",
+      "city": "København K",
+      "street": "Christiansborg Ridebane",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1218",
+      "city": "København K",
+      "street": "Proviantpassagen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1218",
+      "city": "København K",
+      "street": "Christiansborg",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1218",
+      "city": "København K",
+      "street": "Rigsdagsgården",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1218",
+      "city": "København K",
+      "street": "Christiansborg Slotsplads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1218",
+      "city": "København K",
+      "street": "Prins Jørgens Gård",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1219",
+      "city": "København K",
+      "street": "Christians Brygge ulige nr. + 2-22",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1220",
+      "city": "København K",
+      "street": "Frederiksholms Kanal",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1240",
+      "city": "København K",
+      "street": "Christiansborg",
+      "company": "Folketinget",
+      "kind": "company"
+    },
+    {
+      "code": "1250",
+      "city": "København K",
+      "street": "Sankt Annæ Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1251",
+      "city": "København K",
+      "street": "Kvæsthusgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1252",
+      "city": "København K",
+      "street": "Kvæsthusbroen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1253",
+      "city": "København K",
+      "street": "Toldbodgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1254",
+      "city": "København K",
+      "street": "Lille Strandstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1255",
+      "city": "København K",
+      "street": "Store Strandstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1256",
+      "city": "København K",
+      "street": "Amaliegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1257",
+      "city": "København K",
+      "street": "Amalienborg",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1258",
+      "city": "København K",
+      "street": "Larsens Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1259",
+      "city": "København K",
+      "street": "Nordre Toldbod",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1259",
+      "city": "København K",
+      "street": "Trekroner",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1260",
+      "city": "København K",
+      "street": "Bredgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1261",
+      "city": "København K",
+      "street": "Palægade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1263",
+      "city": "København K",
+      "street": "Esplanaden",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1263",
+      "city": "København K",
+      "street": "Churchillparken",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1264",
+      "city": "København K",
+      "street": "Store Kongensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1265",
+      "city": "København K",
+      "street": "Frederiksgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1266",
+      "city": "København K",
+      "street": "Bornholmsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1267",
+      "city": "København K",
+      "street": "Hammerensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1268",
+      "city": "København K",
+      "street": "Jens Kofods Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1270",
+      "city": "København K",
+      "street": "Grønningen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1271",
+      "city": "København K",
+      "street": "Poul Ankers Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1291",
+      "city": "København K",
+      "street": "Sankt Annæ Plads 28",
+      "company": "J. Lauritzen A/S",
+      "kind": "company"
+    },
+    {
+      "code": "1300",
+      "city": "København K",
+      "street": "Borgergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1301",
+      "city": "København K",
+      "street": "Landgreven",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1302",
+      "city": "København K",
+      "street": "Dronningens Tværgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1303",
+      "city": "København K",
+      "street": "Hindegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1304",
+      "city": "København K",
+      "street": "Adelgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1306",
+      "city": "København K",
+      "street": "Kronprinsessegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1307",
+      "city": "København K",
+      "street": "Sølvgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1307",
+      "city": "København K",
+      "street": "Georg Brandes Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1308",
+      "city": "København K",
+      "street": "Klerkegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1309",
+      "city": "København K",
+      "street": "Rosengade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1310",
+      "city": "København K",
+      "street": "Fredericiagade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1311",
+      "city": "København K",
+      "street": "Olfert Fischers Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1312",
+      "city": "København K",
+      "street": "Gammelvagt",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1313",
+      "city": "København K",
+      "street": "Sankt Pauls Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1314",
+      "city": "København K",
+      "street": "Sankt Pauls Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1315",
+      "city": "København K",
+      "street": "Rævegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1316",
+      "city": "København K",
+      "street": "Rigensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1317",
+      "city": "København K",
+      "street": "Stokhusgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1318",
+      "city": "København K",
+      "street": "Krusemyntegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1319",
+      "city": "København K",
+      "street": "Gernersgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1320",
+      "city": "København K",
+      "street": "Haregade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1321",
+      "city": "København K",
+      "street": "Tigergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1322",
+      "city": "København K",
+      "street": "Suensonsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1323",
+      "city": "København K",
+      "street": "Hjertensfrydsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1324",
+      "city": "København K",
+      "street": "Elsdyrsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1325",
+      "city": "København K",
+      "street": "Delfingade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1326",
+      "city": "København K",
+      "street": "Krokodillegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1327",
+      "city": "København K",
+      "street": "Vildandegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1328",
+      "city": "København K",
+      "street": "Svanegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1329",
+      "city": "København K",
+      "street": "Timiansgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1349",
+      "city": "København K",
+      "street": "Sølvgade 40",
+      "company": "DSB",
+      "kind": "company"
+    },
+    {
+      "code": "1350",
+      "city": "København K",
+      "street": "Øster Voldgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1352",
+      "city": "København K",
+      "street": "Rørholmsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1353",
+      "city": "København K",
+      "street": "Øster Farimagsgade 1-19 + 2-2D",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1354",
+      "city": "København K",
+      "street": "Ole Suhrs Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1355",
+      "city": "København K",
+      "street": "Gammeltoftsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1356",
+      "city": "København K",
+      "street": "Bartholinsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1357",
+      "city": "København K",
+      "street": "Øster Søgade 1 - 36",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1358",
+      "city": "København K",
+      "street": "Nørre Voldgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1359",
+      "city": "København K",
+      "street": "Ahlefeldtsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1360",
+      "city": "København K",
+      "street": "Frederiksborggade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1361",
+      "city": "København K",
+      "street": "Israels Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1361",
+      "city": "København K",
+      "street": "Linnésgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1362",
+      "city": "København K",
+      "street": "Rømersgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1363",
+      "city": "København K",
+      "street": "Vendersgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1364",
+      "city": "København K",
+      "street": "Nørre Farimagsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1365",
+      "city": "København K",
+      "street": "Schacksgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1366",
+      "city": "København K",
+      "street": "Nansensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1367",
+      "city": "København K",
+      "street": "Kjeld Langes Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1368",
+      "city": "København K",
+      "street": "Turesensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1369",
+      "city": "København K",
+      "street": "Gyldenløvesgade Lige nr",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1370",
+      "city": "København K",
+      "street": "Nørre Søgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1371",
+      "city": "København K",
+      "street": "Søtorvet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1390",
+      "city": "København K",
+      "street": "Nørre Voldgade 68",
+      "company": "BG-Bank",
+      "kind": "company"
+    },
+    {
+      "code": "1400",
+      "city": "København K",
+      "street": "Torvegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1400",
+      "city": "København K",
+      "street": "Knippelsbro",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1401",
+      "city": "København K",
+      "street": "Strandgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1402",
+      "city": "København K",
+      "street": "Asiatisk Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1402",
+      "city": "København K",
+      "street": "Johan Semps Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1402",
+      "city": "København K",
+      "street": "Nicolai Eigtveds Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1402",
+      "city": "København K",
+      "street": "David Balfours Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1402",
+      "city": "København K",
+      "street": "Hammershøi Kaj",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1403",
+      "city": "København K",
+      "street": "Wilders Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1404",
+      "city": "København K",
+      "street": "Krøyers Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1405",
+      "city": "København K",
+      "street": "Grønlandske Handels Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1406",
+      "city": "København K",
+      "street": "Christianshavns Kanal",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1407",
+      "city": "København K",
+      "street": "Bådsmandsstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1408",
+      "city": "København K",
+      "street": "Wildersgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1409",
+      "city": "København K",
+      "street": "Knippelsbrogade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1410",
+      "city": "København K",
+      "street": "Christianshavns Torv",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1411",
+      "city": "København K",
+      "street": "Langebrogade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1411",
+      "city": "København K",
+      "street": "Applebys Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1412",
+      "city": "København K",
+      "street": "Voldgården",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1413",
+      "city": "København K",
+      "street": "Ved Kanalen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1414",
+      "city": "København K",
+      "street": "Overgaden neden Vandet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1415",
+      "city": "København K",
+      "street": "Overgaden oven Vandet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1416",
+      "city": "København K",
+      "street": "Sankt Annæ Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1417",
+      "city": "København K",
+      "street": "Mikkel Vibes Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1418",
+      "city": "København K",
+      "street": "Sofiegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1419",
+      "city": "København K",
+      "street": "Store Søndervoldstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1420",
+      "city": "København K",
+      "street": "Dronningensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1421",
+      "city": "København K",
+      "street": "Lille Søndervoldstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1422",
+      "city": "København K",
+      "street": "Prinsessegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1423",
+      "city": "København K",
+      "street": "Amagergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1424",
+      "city": "København K",
+      "street": "Christianshavns Voldgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1425",
+      "city": "København K",
+      "street": "Ved Volden",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1426",
+      "city": "København K",
+      "street": "Voldboligerne",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1427",
+      "city": "København K",
+      "street": "Brobergsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1428",
+      "city": "København K",
+      "street": "Andreas Bjørns Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1429",
+      "city": "København K",
+      "street": "Burmeistersgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1430",
+      "city": "København K",
+      "street": "Bodenhoffs Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1431",
+      "city": "København K",
+      "street": "Islands Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1432",
+      "city": "København K",
+      "street": "Margretheholmsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1432",
+      "city": "København K",
+      "street": "Refshalevej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1432",
+      "city": "København K",
+      "street": "William Wains Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1433",
+      "city": "København K",
+      "street": "Refshaleøen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1433",
+      "city": "København K",
+      "street": "Quintus",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1433",
+      "city": "København K",
+      "street": "Flakfortet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1433",
+      "city": "København K",
+      "street": "Lynetten",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1433",
+      "city": "København K",
+      "street": "Margretheholm",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1433",
+      "city": "København K",
+      "street": "Middelgrundsfortet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1433",
+      "city": "København K",
+      "street": "Christiansholms Ø",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1434",
+      "city": "København K",
+      "street": "Danneskiold-Samsøes Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1435",
+      "city": "København K",
+      "street": "Philip de Langes Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1436",
+      "city": "København K",
+      "street": "Værftsbroen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1436",
+      "city": "København K",
+      "street": "Søartillerivej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1436",
+      "city": "København K",
+      "street": "Halvtolv",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1436",
+      "city": "København K",
+      "street": "Trangravsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1436",
+      "city": "København K",
+      "street": "Arsenalvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1436",
+      "city": "København K",
+      "street": "Kuglegårdsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1436",
+      "city": "København K",
+      "street": "Kuglegården",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Fabrikmestervej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Masteskursvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Bohlendachvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Stibolts Kvarter",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Takkelloftsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Theodor Christensens Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Hohlenbergs Kvarter",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Galionsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Krabbes Kvarter",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Kanonbådsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Leo Mathisens Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Per Knutzons Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Eik Skaløes Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1437",
+      "city": "København K",
+      "street": "Schifters Kvarter",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1438",
+      "city": "København K",
+      "street": "Benstrups Kvarter",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1438",
+      "city": "København K",
+      "street": "Judichærs Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1438",
+      "city": "København K",
+      "street": "Judichærs Kvarter",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1438",
+      "city": "København K",
+      "street": "Dokøvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1438",
+      "city": "København K",
+      "street": "Ekvipagemestervej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1438",
+      "city": "København K",
+      "street": "Orlogsværftvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1439",
+      "city": "København K",
+      "street": "Takkeladsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1439",
+      "city": "København K",
+      "street": "Elefanten",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1439",
+      "city": "København K",
+      "street": "H.C. Sneedorffs Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1439",
+      "city": "København K",
+      "street": "Eskadrevej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1439",
+      "city": "København K",
+      "street": "Henrik Spans Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1439",
+      "city": "København K",
+      "street": "Spanteloftvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1439",
+      "city": "København K",
+      "street": "Kongebrovej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1439",
+      "city": "København K",
+      "street": "P. Løvenørns Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1439",
+      "city": "København K",
+      "street": "Henrik Gerners Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1439",
+      "city": "København K",
+      "street": "Krudtløbsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1439",
+      "city": "København K",
+      "street": "Bradbænken",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1439",
+      "city": "København K",
+      "street": "A.H. Vedels Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1440",
+      "city": "København K",
+      "street": "Tinghuset",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1440",
+      "city": "København K",
+      "street": "Blå Karamel",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1440",
+      "city": "København K",
+      "street": "Fredens Ark",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1440",
+      "city": "København K",
+      "street": "Sydområdet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1440",
+      "city": "København K",
+      "street": "Bjørnekloen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1440",
+      "city": "København K",
+      "street": "Nordområdet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1440",
+      "city": "København K",
+      "street": "Mælkebøtten",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1440",
+      "city": "København K",
+      "street": "Fabriksområdet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1440",
+      "city": "København K",
+      "street": "Løvehuset",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1440",
+      "city": "København K",
+      "street": "Mælkevejen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1440",
+      "city": "København K",
+      "street": "Psyak",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1441",
+      "city": "København K",
+      "street": "Syddyssen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1441",
+      "city": "København K",
+      "street": "Midtdyssen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1441",
+      "city": "København K",
+      "street": "Norddyssen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1448",
+      "city": "København K",
+      "street": "Asiatisk Plads 2",
+      "company": "Udenrigsministeriet",
+      "kind": "company"
+    },
+    {
+      "code": "1450",
+      "city": "København K",
+      "street": "Nytorv",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1451",
+      "city": "København K",
+      "street": "Larslejsstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1452",
+      "city": "København K",
+      "street": "Teglgårdstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1453",
+      "city": "København K",
+      "street": "Sankt Peders Stræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1454",
+      "city": "København K",
+      "street": "Larsbjørnsstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1455",
+      "city": "København K",
+      "street": "Studiestræde 1-49 + 2-42",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1456",
+      "city": "København K",
+      "street": "Vestergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1457",
+      "city": "København K",
+      "street": "Gammeltorv",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1458",
+      "city": "København K",
+      "street": "Kattesundet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1459",
+      "city": "København K",
+      "street": "Frederiksberggade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1460",
+      "city": "København K",
+      "street": "Mikkel Bryggers Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1461",
+      "city": "København K",
+      "street": "Slutterigade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1462",
+      "city": "København K",
+      "street": "Lavendelstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1463",
+      "city": "København K",
+      "street": "Farvergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1464",
+      "city": "København K",
+      "street": "Hestemøllestræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1465",
+      "city": "København K",
+      "street": "Gåsegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1466",
+      "city": "København K",
+      "street": "Rådhusstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1467",
+      "city": "København K",
+      "street": "Vandkunsten",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1468",
+      "city": "København K",
+      "street": "Løngangstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1470",
+      "city": "København K",
+      "street": "Stormgade 2-16",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1471",
+      "city": "København K",
+      "street": "Ny Vestergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1472",
+      "city": "København K",
+      "street": "Ny Kongensgade,  til 17 + til 16",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1473",
+      "city": "København K",
+      "street": "Bryghusgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1500",
+      "city": "København V",
+      "street": "Bernstorffsgade 40",
+      "company": "Vesterbro Postkontor",
+      "kind": "company"
+    },
+    {
+      "code": "1501",
+      "city": "København V",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1502",
+      "city": "København V",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1503",
+      "city": "København V",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1504",
+      "city": "København V",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1505",
+      "city": "København V",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1506",
+      "city": "København V",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1507",
+      "city": "København V",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1508",
+      "city": "København V",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1509",
+      "city": "København V",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1510",
+      "city": "København V",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "1532",
+      "city": "København V",
+      "street": "Kystvejen 26, 2770 Kastrup",
+      "company": "Internationalt Postcenter, returforsendelser + consignment",
+      "kind": "company"
+    },
+    {
+      "code": "1533",
+      "city": "København V",
+      "street": "Kystvejen 26, 2770 Kastrup",
+      "company": "Internationalt Postcenter",
+      "kind": "company"
+    },
+    {
+      "code": "1550",
+      "city": "København V",
+      "street": "Bag Rådhuset",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1550",
+      "city": "København V",
+      "street": "Rådhuspladsen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1551",
+      "city": "København V",
+      "street": "Jarmers Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1552",
+      "city": "København V",
+      "street": "Vester Voldgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1553",
+      "city": "København V",
+      "street": "H.C. Andersens Boulevard",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1553",
+      "city": "København V",
+      "street": "Langebro",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1554",
+      "city": "København V",
+      "street": "Studiestræde 51-69 + 46-54",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1555",
+      "city": "København V",
+      "street": "Stormgade Ulige nr + 18-20",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1556",
+      "city": "København V",
+      "street": "Dantes Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1557",
+      "city": "København V",
+      "street": "Ny Kongensgade, fra 18 + fra 19",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1558",
+      "city": "København V",
+      "street": "Christiansborggade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1559",
+      "city": "København V",
+      "street": "Christians Brygge 24 - 30",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1560",
+      "city": "København V",
+      "street": "Kalvebod Brygge",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1561",
+      "city": "København V",
+      "street": "Fisketorvet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1561",
+      "city": "København V",
+      "street": "Kalvebod Pladsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1562",
+      "city": "København V",
+      "street": "Hambrosgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1563",
+      "city": "København V",
+      "street": "Otto Mønsteds Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1564",
+      "city": "København V",
+      "street": "Rysensteensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1566",
+      "city": "København V",
+      "street": "Tietgensgade 37",
+      "company": "Post Danmark A/S",
+      "kind": "company"
+    },
+    {
+      "code": "1567",
+      "city": "København V",
+      "street": "Polititorvet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1568",
+      "city": "København V",
+      "street": "Mitchellsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1569",
+      "city": "København V",
+      "street": "Edvard Falcks Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1570",
+      "city": "København V",
+      "street": "Banegårdspladsen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1570",
+      "city": "København V",
+      "street": "Københavns Hovedbanegård",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1571",
+      "city": "København V",
+      "street": "Otto Mønsteds Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1572",
+      "city": "København V",
+      "street": "Anker Heegaards Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1573",
+      "city": "København V",
+      "street": "Puggaardsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1574",
+      "city": "København V",
+      "street": "Niels Brocks Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1575",
+      "city": "København V",
+      "street": "Ved Glyptoteket",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1576",
+      "city": "København V",
+      "street": "Stoltenbergsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1577",
+      "city": "København V",
+      "street": "Bernstorffsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1590",
+      "city": "København V",
+      "street": "Jarmers Plads 2",
+      "company": "Realkredit Danmark",
+      "kind": "company"
+    },
+    {
+      "code": "1592",
+      "city": "København V",
+      "street": "Bernstorffsgade 17-19",
+      "company": "Københavns Socialdirektorat",
+      "kind": "company"
+    },
+    {
+      "code": "1599",
+      "city": "København V",
+      "street": "Rådhuspladsen",
+      "company": "Københavns Rådhus",
+      "kind": "company"
+    },
+    {
+      "code": "1600",
+      "city": "København V",
+      "street": "Gyldenløvesgade Ulige nr",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1601",
+      "city": "København V",
+      "street": "Vester Søgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1602",
+      "city": "København V",
+      "street": "Nyropsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1603",
+      "city": "København V",
+      "street": "Dahlerupsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1604",
+      "city": "København V",
+      "street": "Kampmannsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1605",
+      "city": "København V",
+      "street": "Herholdtsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1606",
+      "city": "København V",
+      "street": "Vester Farimagsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1607",
+      "city": "København V",
+      "street": "Staunings Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1608",
+      "city": "København V",
+      "street": "Jernbanegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1609",
+      "city": "København V",
+      "street": "Axeltorv",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1610",
+      "city": "København V",
+      "street": "Gammel Kongevej 1-51 + 2-10",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1611",
+      "city": "København V",
+      "street": "Hammerichsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1612",
+      "city": "København V",
+      "street": "Ved Vesterport",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1613",
+      "city": "København V",
+      "street": "Meldahlsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1614",
+      "city": "København V",
+      "street": "Trommesalen",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1615",
+      "city": "København V",
+      "street": "Sankt Jørgens Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1616",
+      "city": "København V",
+      "street": "Stenosgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1617",
+      "city": "København V",
+      "street": "Bagerstræde",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1618",
+      "city": "København V",
+      "street": "Tullinsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1619",
+      "city": "København V",
+      "street": "Værnedamsvej Lige nr",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1620",
+      "city": "København V",
+      "street": "Vesterbros Torv",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1620",
+      "city": "København V",
+      "street": "Vesterbrogade 1-151 + 2-150",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1621",
+      "city": "København V",
+      "street": "Frederiksberg Allé 1 - 13B",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1622",
+      "city": "København V",
+      "street": "Boyesgade Ulige nr",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1623",
+      "city": "København V",
+      "street": "Kingosgade 1-9 + 2-6",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1624",
+      "city": "København V",
+      "street": "Brorsonsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1630",
+      "city": "København V",
+      "street": "Vesterbrogade 3",
+      "company": "Tivoli A/S",
+      "kind": "company"
+    },
+    {
+      "code": "1631",
+      "city": "København V",
+      "street": "Herman Triers Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1632",
+      "city": "København V",
+      "street": "Julius Thomsens Gade Lige nr",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1633",
+      "city": "København V",
+      "street": "Kleinsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1634",
+      "city": "København V",
+      "street": "Rosenørns Allé 2-18",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1635",
+      "city": "København V",
+      "street": "Åboulevard 1-13",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1639",
+      "city": "København V",
+      "street": "Gyldenløvesgade 15",
+      "company": "Københavns Skatteforvaltning",
+      "kind": "company"
+    },
+    {
+      "code": "1640",
+      "city": "København V",
+      "street": "Dahlerupsgade 6",
+      "company": "Københavns Folkeregister",
+      "kind": "company"
+    },
+    {
+      "code": "1650",
+      "city": "København V",
+      "street": "Istedgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1651",
+      "city": "København V",
+      "street": "Reventlowsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1652",
+      "city": "København V",
+      "street": "Colbjørnsensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1653",
+      "city": "København V",
+      "street": "Helgolandsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1654",
+      "city": "København V",
+      "street": "Abel Cathrines Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1655",
+      "city": "København V",
+      "street": "Viktoriagade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1656",
+      "city": "København V",
+      "street": "Gasværksvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1657",
+      "city": "København V",
+      "street": "Eskildsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1658",
+      "city": "København V",
+      "street": "Absalonsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1659",
+      "city": "København V",
+      "street": "Svendsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1660",
+      "city": "København V",
+      "street": "Otto Krabbes Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1660",
+      "city": "København V",
+      "street": "Dannebrogsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1661",
+      "city": "København V",
+      "street": "Westend",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1662",
+      "city": "København V",
+      "street": "Saxogade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1663",
+      "city": "København V",
+      "street": "Oehlenschlægersgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1664",
+      "city": "København V",
+      "street": "Kaalundsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1665",
+      "city": "København V",
+      "street": "Valdemarsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1666",
+      "city": "København V",
+      "street": "Matthæusgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1667",
+      "city": "København V",
+      "street": "Frederiksstadsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1668",
+      "city": "København V",
+      "street": "Mysundegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1669",
+      "city": "København V",
+      "street": "Flensborggade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1670",
+      "city": "København V",
+      "street": "Enghave Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1671",
+      "city": "København V",
+      "street": "Tove Ditlevsens Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1671",
+      "city": "København V",
+      "street": "Haderslevgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1672",
+      "city": "København V",
+      "street": "Broagergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1673",
+      "city": "København V",
+      "street": "Ullerupgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1674",
+      "city": "København V",
+      "street": "Enghavevej, til 79 + til 78",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1675",
+      "city": "København V",
+      "street": "Kongshøjgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1676",
+      "city": "København V",
+      "street": "Sankelmarksgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1677",
+      "city": "København V",
+      "street": "Gråstensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1699",
+      "city": "København V",
+      "street": "Staldgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1700",
+      "city": "København V",
+      "street": "Halmtorvet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1701",
+      "city": "København V",
+      "street": "Reverdilsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1702",
+      "city": "København V",
+      "street": "Stampesgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1703",
+      "city": "København V",
+      "street": "Lille Colbjørnsensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1704",
+      "city": "København V",
+      "street": "Tietgensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1705",
+      "city": "København V",
+      "street": "Ingerslevsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1706",
+      "city": "København V",
+      "street": "Lille Istedgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1707",
+      "city": "København V",
+      "street": "Maria Kirkeplads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1708",
+      "city": "København V",
+      "street": "Eriksgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1709",
+      "city": "København V",
+      "street": "Skydebanegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1710",
+      "city": "København V",
+      "street": "Kvægtorvsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1711",
+      "city": "København V",
+      "street": "Flæsketorvet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1712",
+      "city": "København V",
+      "street": "Høkerboderne",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1713",
+      "city": "København V",
+      "street": "Kvægtorvet",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1714",
+      "city": "København V",
+      "street": "Kødboderne",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1715",
+      "city": "København V",
+      "street": "Slagtehusgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1716",
+      "city": "København V",
+      "street": "Slagterboderne",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1717",
+      "city": "København V",
+      "street": "Skelbækgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1718",
+      "city": "København V",
+      "street": "Sommerstedgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1719",
+      "city": "København V",
+      "street": "Krusågade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1720",
+      "city": "København V",
+      "street": "Sønder Boulevard",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1721",
+      "city": "København V",
+      "street": "Dybbølsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1722",
+      "city": "København V",
+      "street": "Godsbanegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1723",
+      "city": "København V",
+      "street": "Letlandsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1724",
+      "city": "København V",
+      "street": "Estlandsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1725",
+      "city": "København V",
+      "street": "Esbern Snares Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1726",
+      "city": "København V",
+      "street": "Arkonagade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1727",
+      "city": "København V",
+      "street": "Asger Rygs Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1728",
+      "city": "København V",
+      "street": "Skjalm Hvides Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1729",
+      "city": "København V",
+      "street": "Sigerstedgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1730",
+      "city": "København V",
+      "street": "Knud Lavards Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1731",
+      "city": "København V",
+      "street": "Erik Ejegods Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1732",
+      "city": "København V",
+      "street": "Bodilsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1733",
+      "city": "København V",
+      "street": "Palnatokesgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1734",
+      "city": "København V",
+      "street": "Heilsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1735",
+      "city": "København V",
+      "street": "Røddinggade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1736",
+      "city": "København V",
+      "street": "Bevtoftgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1737",
+      "city": "København V",
+      "street": "Bustrupgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1738",
+      "city": "København V",
+      "street": "Stenderupgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1739",
+      "city": "København V",
+      "street": "Enghave Passage",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1748",
+      "city": "København V",
+      "street": "Kammasvej 2",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1749",
+      "city": "København V",
+      "street": "Rahbeks Allé 3-15",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1750",
+      "city": "København V",
+      "street": "Vesterfælledvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1751",
+      "city": "København V",
+      "street": "Sundevedsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1752",
+      "city": "København V",
+      "street": "Tøndergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1753",
+      "city": "København V",
+      "street": "Ballumgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1754",
+      "city": "København V",
+      "street": "Hedebygade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1755",
+      "city": "København V",
+      "street": "Møgeltøndergade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1756",
+      "city": "København V",
+      "street": "Amerikavej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1757",
+      "city": "København V",
+      "street": "Trøjborggade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1758",
+      "city": "København V",
+      "street": "Lyrskovgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1759",
+      "city": "København V",
+      "street": "Rejsbygade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1760",
+      "city": "København V",
+      "street": "Ny Carlsberg Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1761",
+      "city": "København V",
+      "street": "Ejderstedgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1762",
+      "city": "København V",
+      "street": "Slesvigsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1763",
+      "city": "København V",
+      "street": "Dannevirkegade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1764",
+      "city": "København V",
+      "street": "Alsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1765",
+      "city": "København V",
+      "street": "Angelgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1766",
+      "city": "København V",
+      "street": "Slien",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1770",
+      "city": "København V",
+      "street": "Carstensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1771",
+      "city": "København V",
+      "street": "Lundbyesgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1772",
+      "city": "København V",
+      "street": "Ernst Meyers Gade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1773",
+      "city": "København V",
+      "street": "Bissensgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1774",
+      "city": "København V",
+      "street": "Küchlersgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1775",
+      "city": "København V",
+      "street": "Freundsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1777",
+      "city": "København V",
+      "street": "Jerichausgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1778",
+      "city": "København V",
+      "street": "Pasteursvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1780",
+      "city": "København V",
+      "street": "",
+      "company": "Erhvervskunder",
+      "kind": "company"
+    },
+    {
+      "code": "1782",
+      "city": "København V",
+      "street": "Ufrankerede svarforsendelser",
+      "company": "",
+      "kind": "reply-mail"
+    },
+    {
+      "code": "1784",
+      "city": "København V",
+      "street": "Gerdasgade 37",
+      "company": "Forlagsgruppen (ufrankerede svarforsendelser",
+      "kind": "company"
+    },
+    {
+      "code": "1785",
+      "city": "København V",
+      "street": "Rådhuspladsen 33 og 37",
+      "company": "Politiken og Ekstrabladet",
+      "kind": "company"
+    },
+    {
+      "code": "1786",
+      "city": "København V",
+      "street": "Vesterbrogade 8",
+      "company": "Unibank",
+      "kind": "company"
+    },
+    {
+      "code": "1787",
+      "city": "København V",
+      "street": "H.C. Andersens Boulevard 18",
+      "company": "Dansk Industri",
+      "kind": "company"
+    },
+    {
+      "code": "1788",
+      "city": "København V",
+      "street": "",
+      "company": "Erhvervskunder",
+      "kind": "company"
+    },
+    {
+      "code": "1789",
+      "city": "København V",
+      "street": "H.C. Andersens Boulevard 12",
+      "company": "Star Tour A/S",
+      "kind": "company"
+    },
+    {
+      "code": "1790",
+      "city": "København V",
+      "street": "",
+      "company": "Erhvervskunder",
+      "kind": "company"
+    },
+    {
+      "code": "1795",
+      "city": "København V",
+      "street": "Gerdasgade 35-37",
+      "company": "Bogklubforlag",
+      "kind": "company"
+    },
+    {
+      "code": "1799",
+      "city": "København V",
+      "street": "Vester Fælledvej 100",
+      "company": "Carlsberg",
+      "kind": "company"
+    },
+    {
+      "code": "1800",
+      "city": "Frederiksberg C",
+      "street": "Vesterbrogade, fra 152 og 153",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1801",
+      "city": "Frederiksberg C",
+      "street": "Rahbeks Allé 2-36 + 17-23",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1802",
+      "city": "Frederiksberg C",
+      "street": "Halls Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1803",
+      "city": "Frederiksberg C",
+      "street": "Brøndsteds Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1804",
+      "city": "Frederiksberg C",
+      "street": "Bakkegårds Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1805",
+      "city": "Frederiksberg C",
+      "street": "Kammasvej 1-3 + 4",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1806",
+      "city": "Frederiksberg C",
+      "street": "Jacobys Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1807",
+      "city": "Frederiksberg C",
+      "street": "Schlegels Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1808",
+      "city": "Frederiksberg C",
+      "street": "Asmussens Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1809",
+      "city": "Frederiksberg C",
+      "street": "Frydendalsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1810",
+      "city": "Frederiksberg C",
+      "street": "Platanvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1811",
+      "city": "Frederiksberg C",
+      "street": "Asgårdsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1812",
+      "city": "Frederiksberg C",
+      "street": "Kochsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1813",
+      "city": "Frederiksberg C",
+      "street": "Henrik Ibsens Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1814",
+      "city": "Frederiksberg C",
+      "street": "Carit Etlars Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1815",
+      "city": "Frederiksberg C",
+      "street": "Paludan Müllers Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1816",
+      "city": "Frederiksberg C",
+      "street": "Engtoftevej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1817",
+      "city": "Frederiksberg C",
+      "street": "Carl Bernhards Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1818",
+      "city": "Frederiksberg C",
+      "street": "Kingosgade 8-12 + 11-17",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1819",
+      "city": "Frederiksberg C",
+      "street": "Værnedamsvej Ulige nr",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1820",
+      "city": "Frederiksberg C",
+      "street": "Frederiksberg Allé 15-65 + 2-104",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1822",
+      "city": "Frederiksberg C",
+      "street": "Boyesgade Lige nr",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1823",
+      "city": "Frederiksberg C",
+      "street": "Haveselskabetsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1824",
+      "city": "Frederiksberg C",
+      "street": "Sankt Thomas Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1825",
+      "city": "Frederiksberg C",
+      "street": "Hauchsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1826",
+      "city": "Frederiksberg C",
+      "street": "Alhambravej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1827",
+      "city": "Frederiksberg C",
+      "street": "Mynstersvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1828",
+      "city": "Frederiksberg C",
+      "street": "Martensens Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1829",
+      "city": "Frederiksberg C",
+      "street": "Madvigs Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1835",
+      "city": "Frederiksberg C",
+      "street": "Postboks",
+      "company": "inkl. Frederiksberg C Postkontor",
+      "kind": "company"
+    },
+    {
+      "code": "1850",
+      "city": "Frederiksberg C",
+      "street": "Gammel Kongevej 85-179 + 60-178",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1851",
+      "city": "Frederiksberg C",
+      "street": "Nyvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1852",
+      "city": "Frederiksberg C",
+      "street": "Amicisvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1853",
+      "city": "Frederiksberg C",
+      "street": "Maglekildevej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1854",
+      "city": "Frederiksberg C",
+      "street": "Dr. Priemes Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1855",
+      "city": "Frederiksberg C",
+      "street": "Hollændervej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1856",
+      "city": "Frederiksberg C",
+      "street": "Edisonsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1857",
+      "city": "Frederiksberg C",
+      "street": "Hortensiavej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1860",
+      "city": "Frederiksberg C",
+      "street": "Christian Winthers Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1861",
+      "city": "Frederiksberg C",
+      "street": "Sagasvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1862",
+      "city": "Frederiksberg C",
+      "street": "Rathsacksvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1863",
+      "city": "Frederiksberg C",
+      "street": "Ceresvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1864",
+      "city": "Frederiksberg C",
+      "street": "Grundtvigsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1865",
+      "city": "Frederiksberg C",
+      "street": "Grundtvigs Sidevej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1866",
+      "city": "Frederiksberg C",
+      "street": "Henrik Steffens Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1867",
+      "city": "Frederiksberg C",
+      "street": "Acaciavej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1868",
+      "city": "Frederiksberg C",
+      "street": "Bianco Lunos Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1870",
+      "city": "Frederiksberg C",
+      "street": "Bülowsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1871",
+      "city": "Frederiksberg C",
+      "street": "Thorvaldsensvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1872",
+      "city": "Frederiksberg C",
+      "street": "Bomhoffs Have",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1873",
+      "city": "Frederiksberg C",
+      "street": "Helenevej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1874",
+      "city": "Frederiksberg C",
+      "street": "Harsdorffsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1875",
+      "city": "Frederiksberg C",
+      "street": "Amalievej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1876",
+      "city": "Frederiksberg C",
+      "street": "Kastanievej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1877",
+      "city": "Frederiksberg C",
+      "street": "Lindevej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1878",
+      "city": "Frederiksberg C",
+      "street": "Uraniavej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1879",
+      "city": "Frederiksberg C",
+      "street": "H.C. Ørsteds Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1900",
+      "city": "Frederiksberg C",
+      "street": "Vodroffsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1901",
+      "city": "Frederiksberg C",
+      "street": "Tårnborgvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1902",
+      "city": "Frederiksberg C",
+      "street": "Lykkesholms Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1903",
+      "city": "Frederiksberg C",
+      "street": "Sankt Knuds Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1904",
+      "city": "Frederiksberg C",
+      "street": "Forhåbningsholms Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1905",
+      "city": "Frederiksberg C",
+      "street": "Svanholmsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1906",
+      "city": "Frederiksberg C",
+      "street": "Schønbergsgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1908",
+      "city": "Frederiksberg C",
+      "street": "Prinsesse Maries Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1909",
+      "city": "Frederiksberg C",
+      "street": "Vodroffs Tværgade",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1910",
+      "city": "Frederiksberg C",
+      "street": "Danasvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1911",
+      "city": "Frederiksberg C",
+      "street": "Niels Ebbesens Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1912",
+      "city": "Frederiksberg C",
+      "street": "Svend Trøsts Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1913",
+      "city": "Frederiksberg C",
+      "street": "Carl Plougs Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1914",
+      "city": "Frederiksberg C",
+      "street": "Vodroffslund",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1915",
+      "city": "Frederiksberg C",
+      "street": "Danas Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1916",
+      "city": "Frederiksberg C",
+      "street": "Norsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1917",
+      "city": "Frederiksberg C",
+      "street": "Sveasvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1920",
+      "city": "Frederiksberg C",
+      "street": "Forchhammersvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1921",
+      "city": "Frederiksberg C",
+      "street": "Sankt Markus Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1922",
+      "city": "Frederiksberg C",
+      "street": "Sankt Markus Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1923",
+      "city": "Frederiksberg C",
+      "street": "Johnstrups Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1924",
+      "city": "Frederiksberg C",
+      "street": "Steenstrups Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1925",
+      "city": "Frederiksberg C",
+      "street": "Julius Thomsens Plads",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1926",
+      "city": "Frederiksberg C",
+      "street": "Martinsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1927",
+      "city": "Frederiksberg C",
+      "street": "Suomisvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1928",
+      "city": "Frederiksberg C",
+      "street": "Filippavej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1931",
+      "city": "Frederiksberg C",
+      "street": "Ufrankerede svarforsendelser",
+      "company": "",
+      "kind": "reply-mail"
+    },
+    {
+      "code": "1950",
+      "city": "Frederiksberg C",
+      "street": "Hostrupsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1951",
+      "city": "Frederiksberg C",
+      "street": "Christian Richardts Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1952",
+      "city": "Frederiksberg C",
+      "street": "Falkonervænget",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1953",
+      "city": "Frederiksberg C",
+      "street": "Sankt Nikolaj Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1954",
+      "city": "Frederiksberg C",
+      "street": "Hostrups Have",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1955",
+      "city": "Frederiksberg C",
+      "street": "Dr. Abildgaards Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1956",
+      "city": "Frederiksberg C",
+      "street": "L.I. Brandes Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1957",
+      "city": "Frederiksberg C",
+      "street": "N.J. Fjords Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1958",
+      "city": "Frederiksberg C",
+      "street": "Rolighedsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1959",
+      "city": "Frederiksberg C",
+      "street": "Falkonergårdsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1960",
+      "city": "Frederiksberg C",
+      "street": "Åboulevard 15-55",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1961",
+      "city": "Frederiksberg C",
+      "street": "J.M. Thieles Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1962",
+      "city": "Frederiksberg C",
+      "street": "Fuglevangsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1963",
+      "city": "Frederiksberg C",
+      "street": "Bille Brahes Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1964",
+      "city": "Frederiksberg C",
+      "street": "Ingemannsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1965",
+      "city": "Frederiksberg C",
+      "street": "Erik Menveds Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1966",
+      "city": "Frederiksberg C",
+      "street": "Steenwinkelsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1967",
+      "city": "Frederiksberg C",
+      "street": "Svanemosegårdsvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1970",
+      "city": "Frederiksberg C",
+      "street": "Rosenørns Allé 1-65 + 20-70",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1971",
+      "city": "Frederiksberg C",
+      "street": "Adolph Steens Allé",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1972",
+      "city": "Frederiksberg C",
+      "street": "Worsaaesvej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1973",
+      "city": "Frederiksberg C",
+      "street": "Jakob Dannefærds Vej",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1974",
+      "city": "Frederiksberg C",
+      "street": "Julius Thomsens Gade Ulige nr",
+      "company": "",
+      "kind": "street"
+    },
+    {
+      "code": "1999",
+      "city": "Frederiksberg C",
+      "street": "Rosenørns Allé 22",
+      "company": "Danmarks Radio",
+      "kind": "company"
+    },
+    {
+      "code": "2000",
+      "city": "Frederiksberg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2100",
+      "city": "København Ø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2200",
+      "city": "København N",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2300",
+      "city": "København S",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2400",
+      "city": "København NV",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2450",
+      "city": "København SV",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2500",
+      "city": "Valby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2600",
+      "city": "Glostrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2605",
+      "city": "Brøndby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2610",
+      "city": "Rødovre",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2620",
+      "city": "Albertslund",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2625",
+      "city": "Vallensbæk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2630",
+      "city": "Taastrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2633",
+      "city": "Taastrup",
+      "street": "",
+      "company": "Erhvervskunder",
+      "kind": "company"
+    },
+    {
+      "code": "2635",
+      "city": "Ishøj",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2640",
+      "city": "Hedehusene",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2650",
+      "city": "Hvidovre",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2660",
+      "city": "Brøndby Strand",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2665",
+      "city": "Vallensbæk Strand",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2670",
+      "city": "Greve",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2680",
+      "city": "Solrød Strand",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2690",
+      "city": "Karlslunde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2700",
+      "city": "Brønshøj",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2720",
+      "city": "Vanløse",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2730",
+      "city": "Herlev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2740",
+      "city": "Skovlunde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2750",
+      "city": "Ballerup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2760",
+      "city": "Måløv",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2765",
+      "city": "Smørum",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2770",
+      "city": "Kastrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2791",
+      "city": "Dragør",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2800",
+      "city": "Kongens Lyngby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2820",
+      "city": "Gentofte",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2830",
+      "city": "Virum",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2840",
+      "city": "Holte",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2850",
+      "city": "Nærum",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2860",
+      "city": "Søborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2870",
+      "city": "Dyssegård",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2880",
+      "city": "Bagsværd",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2900",
+      "city": "Hellerup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2920",
+      "city": "Charlottenlund",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2930",
+      "city": "Klampenborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2942",
+      "city": "Skodsborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2950",
+      "city": "Vedbæk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2960",
+      "city": "Rungsted Kyst",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2970",
+      "city": "Hørsholm",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2980",
+      "city": "Kokkedal",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "2990",
+      "city": "Nivå",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3000",
+      "city": "Helsingør",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3050",
+      "city": "Humlebæk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3060",
+      "city": "Espergærde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3070",
+      "city": "Snekkersten",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3080",
+      "city": "Tikøb",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3100",
+      "city": "Hornbæk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3120",
+      "city": "Dronningmølle",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3140",
+      "city": "Ålsgårde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3150",
+      "city": "Hellebæk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3200",
+      "city": "Helsinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3210",
+      "city": "Vejby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3220",
+      "city": "Tisvildeleje",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3230",
+      "city": "Græsted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3250",
+      "city": "Gilleleje",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3300",
+      "city": "Frederiksværk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3310",
+      "city": "Ølsted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3320",
+      "city": "Skævinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3330",
+      "city": "Gørløse",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3360",
+      "city": "Liseleje",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3370",
+      "city": "Melby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3390",
+      "city": "Hundested",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3400",
+      "city": "Hillerød",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3450",
+      "city": "Allerød",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3460",
+      "city": "Birkerød",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3480",
+      "city": "Fredensborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3490",
+      "city": "Kvistgård",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3500",
+      "city": "Værløse",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3520",
+      "city": "Farum",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3540",
+      "city": "Lynge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3550",
+      "city": "Slangerup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3600",
+      "city": "Frederikssund",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3630",
+      "city": "Jægerspris",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3650",
+      "city": "Ølstykke",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3660",
+      "city": "Stenløse",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3670",
+      "city": "Veksø Sjælland",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3700",
+      "city": "Rønne",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3720",
+      "city": "Aakirkeby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3730",
+      "city": "Nexø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3740",
+      "city": "Svaneke",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3751",
+      "city": "Østermarie",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3760",
+      "city": "Gudhjem",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3770",
+      "city": "Allinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3782",
+      "city": "Klemensker",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "3790",
+      "city": "Hasle",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4000",
+      "city": "Roskilde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4040",
+      "city": "Jyllinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4050",
+      "city": "Skibby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4060",
+      "city": "Kirke Såby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4070",
+      "city": "Kirke Hyllinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4100",
+      "city": "Ringsted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4105",
+      "city": "Ringsted",
+      "street": "",
+      "company": "Midtsjællands Postcenter + erhvervskunder",
+      "kind": "company"
+    },
+    {
+      "code": "4129",
+      "city": "Ringsted",
+      "street": "Ufrankerede svarforsendelser",
+      "company": "",
+      "kind": "reply-mail"
+    },
+    {
+      "code": "4130",
+      "city": "Viby Sjælland",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4140",
+      "city": "Borup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4160",
+      "city": "Herlufmagle",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4171",
+      "city": "Glumsø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4173",
+      "city": "Fjenneslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4174",
+      "city": "Jystrup Midtsj",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4180",
+      "city": "Sorø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4190",
+      "city": "Munke Bjergby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4200",
+      "city": "Slagelse",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4220",
+      "city": "Korsør",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4230",
+      "city": "Skælskør",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4241",
+      "city": "Vemmelev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4242",
+      "city": "Boeslunde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4243",
+      "city": "Rude",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4250",
+      "city": "Fuglebjerg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4261",
+      "city": "Dalmose",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4262",
+      "city": "Sandved",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4270",
+      "city": "Høng",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4281",
+      "city": "Gørlev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4291",
+      "city": "Ruds Vedby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4293",
+      "city": "Dianalund",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4295",
+      "city": "Stenlille",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4296",
+      "city": "Nyrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4300",
+      "city": "Holbæk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4320",
+      "city": "Lejre",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4330",
+      "city": "Hvalsø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4340",
+      "city": "Tølløse",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4350",
+      "city": "Ugerløse",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4360",
+      "city": "Kirke Eskilstrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4370",
+      "city": "Store Merløse",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4390",
+      "city": "Vipperød",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4400",
+      "city": "Kalundborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4420",
+      "city": "Regstrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4440",
+      "city": "Mørkøv",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4450",
+      "city": "Jyderup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4460",
+      "city": "Snertinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4470",
+      "city": "Svebølle",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4480",
+      "city": "Store Fuglede",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4490",
+      "city": "Jerslev Sjælland",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4500",
+      "city": "Nykøbing Sj",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4520",
+      "city": "Svinninge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4532",
+      "city": "Gislinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4534",
+      "city": "Hørve",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4540",
+      "city": "Fårevejle",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4550",
+      "city": "Asnæs",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4560",
+      "city": "Vig",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4571",
+      "city": "Grevinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4572",
+      "city": "Nørre Asmindrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4573",
+      "city": "Højby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4581",
+      "city": "Rørvig",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4583",
+      "city": "Sjællands Odde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4591",
+      "city": "Føllenslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4592",
+      "city": "Sejerø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4593",
+      "city": "Eskebjerg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4600",
+      "city": "Køge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4621",
+      "city": "Gadstrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4622",
+      "city": "Havdrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4623",
+      "city": "Lille Skensved",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4632",
+      "city": "Bjæverskov",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4640",
+      "city": "Fakse",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4652",
+      "city": "Hårlev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4653",
+      "city": "Karise",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4654",
+      "city": "Fakse Ladeplads",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4660",
+      "city": "Store Heddinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4671",
+      "city": "Strøby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4672",
+      "city": "Klippinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4673",
+      "city": "Rødvig Stevns",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4681",
+      "city": "Herfølge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4682",
+      "city": "Tureby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4683",
+      "city": "Rønnede",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4684",
+      "city": "Holmegaard",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4690",
+      "city": "Haslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4700",
+      "city": "Næstved",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4720",
+      "city": "Præstø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4733",
+      "city": "Tappernøje",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4735",
+      "city": "Mern",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4736",
+      "city": "Karrebæksminde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4750",
+      "city": "Lundby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4760",
+      "city": "Vordingborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4771",
+      "city": "Kalvehave",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4772",
+      "city": "Langebæk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4773",
+      "city": "Stensved",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4780",
+      "city": "Stege",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4791",
+      "city": "Borre",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4792",
+      "city": "Askeby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4793",
+      "city": "Bogø By",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4800",
+      "city": "Nykøbing F",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4840",
+      "city": "Nørre Alslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4850",
+      "city": "Stubbekøbing",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4862",
+      "city": "Guldborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4863",
+      "city": "Eskilstrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4871",
+      "city": "Horbelev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4872",
+      "city": "Idestrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4873",
+      "city": "Væggerløse",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4874",
+      "city": "Gedser",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4880",
+      "city": "Nysted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4891",
+      "city": "Toreby L",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4892",
+      "city": "Kettinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4894",
+      "city": "Øster Ulslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4895",
+      "city": "Errindlev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4900",
+      "city": "Nakskov",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4912",
+      "city": "Harpelunde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4913",
+      "city": "Horslunde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4920",
+      "city": "Søllested",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4930",
+      "city": "Maribo",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4941",
+      "city": "Bandholm",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4943",
+      "city": "Torrig L",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4944",
+      "city": "Fejø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4951",
+      "city": "Nørreballe",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4952",
+      "city": "Stokkemarke",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4953",
+      "city": "Vesterborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4960",
+      "city": "Holeby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4970",
+      "city": "Rødby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4983",
+      "city": "Dannemare",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "4990",
+      "city": "Sakskøbing",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5000",
+      "city": "Odense C",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5029",
+      "city": "Odense C",
+      "street": "Ufrankerede svarforsendelser",
+      "company": "",
+      "kind": "reply-mail"
+    },
+    {
+      "code": "5090",
+      "city": "Odense C",
+      "street": "",
+      "company": "Erhvervskunder",
+      "kind": "company"
+    },
+    {
+      "code": "5100",
+      "city": "Odense C",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "5200",
+      "city": "Odense V",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5210",
+      "city": "Odense NV",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5220",
+      "city": "Odense SØ",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5230",
+      "city": "Odense M",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5240",
+      "city": "Odense NØ",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5250",
+      "city": "Odense SV",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5260",
+      "city": "Odense S",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5270",
+      "city": "Odense N",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5290",
+      "city": "Marslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5300",
+      "city": "Kerteminde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5320",
+      "city": "Agedrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5330",
+      "city": "Munkebo",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5350",
+      "city": "Rynkeby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5370",
+      "city": "Mesinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5380",
+      "city": "Dalby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5390",
+      "city": "Martofte",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5400",
+      "city": "Bogense",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5450",
+      "city": "Otterup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5462",
+      "city": "Morud",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5463",
+      "city": "Harndrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5464",
+      "city": "Brenderup Fyn",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5466",
+      "city": "Asperup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5471",
+      "city": "Søndersø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5474",
+      "city": "Veflinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5485",
+      "city": "Skamby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5491",
+      "city": "Blommenslyst",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5492",
+      "city": "Vissenbjerg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5500",
+      "city": "Middelfart",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5540",
+      "city": "Ullerslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5550",
+      "city": "Langeskov",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5560",
+      "city": "Aarup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5580",
+      "city": "Nørre Aaby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5591",
+      "city": "Gelsted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5592",
+      "city": "Ejby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5600",
+      "city": "Faaborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5610",
+      "city": "Assens",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5620",
+      "city": "Glamsbjerg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5631",
+      "city": "Ebberup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5642",
+      "city": "Millinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5672",
+      "city": "Broby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5683",
+      "city": "Haarby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5690",
+      "city": "Tommerup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5700",
+      "city": "Svendborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5750",
+      "city": "Ringe",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5762",
+      "city": "Vester Skerninge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5771",
+      "city": "Stenstrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5772",
+      "city": "Kværndrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5792",
+      "city": "Årslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5800",
+      "city": "Nyborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5853",
+      "city": "Ørbæk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5854",
+      "city": "Gislev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5856",
+      "city": "Ryslinge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5863",
+      "city": "Ferritslev Fyn",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5871",
+      "city": "Frørup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5874",
+      "city": "Hesselager",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5881",
+      "city": "Skårup Fyn",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5882",
+      "city": "Vejstrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5883",
+      "city": "Oure",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5884",
+      "city": "Gudme",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5892",
+      "city": "Gudbjerg Sydfyn",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5900",
+      "city": "Rudkøbing",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5932",
+      "city": "Humble",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5935",
+      "city": "Bagenkop",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5953",
+      "city": "Tranekær",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5960",
+      "city": "Marstal",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5970",
+      "city": "Ærøskøbing",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "5985",
+      "city": "Søby Ærø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6000",
+      "city": "Kolding",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6040",
+      "city": "Egtved",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6051",
+      "city": "Almind",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6052",
+      "city": "Viuf",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6064",
+      "city": "Jordrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6070",
+      "city": "Christiansfeld",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6091",
+      "city": "Bjert",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6092",
+      "city": "Sønder Stenderup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6093",
+      "city": "Sjølund",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6094",
+      "city": "Hejls",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6100",
+      "city": "Haderslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6200",
+      "city": "Aabenraa",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6230",
+      "city": "Rødekro",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6240",
+      "city": "Løgumkloster",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6261",
+      "city": "Bredebro",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6270",
+      "city": "Tønder",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6280",
+      "city": "Højer",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6300",
+      "city": "Gråsten",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6310",
+      "city": "Broager",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6320",
+      "city": "Egernsund",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6330",
+      "city": "Padborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6340",
+      "city": "Kruså",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6360",
+      "city": "Tinglev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6372",
+      "city": "Bylderup-Bov",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6392",
+      "city": "Bolderslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6400",
+      "city": "Sønderborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6430",
+      "city": "Nordborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6440",
+      "city": "Augustenborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6470",
+      "city": "Sydals",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6500",
+      "city": "Vojens",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6510",
+      "city": "Gram",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6520",
+      "city": "Toftlund",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6534",
+      "city": "Agerskov",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6535",
+      "city": "Branderup J",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6541",
+      "city": "Bevtoft",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6560",
+      "city": "Sommersted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6580",
+      "city": "Vamdrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6600",
+      "city": "Vejen",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6621",
+      "city": "Gesten",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6622",
+      "city": "Bække",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6623",
+      "city": "Vorbasse",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6630",
+      "city": "Rødding",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6640",
+      "city": "Lunderskov",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6650",
+      "city": "Brørup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6660",
+      "city": "Lintrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6670",
+      "city": "Holsted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6682",
+      "city": "Hovborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6683",
+      "city": "Føvling",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6690",
+      "city": "Gørding",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6700",
+      "city": "Esbjerg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6701",
+      "city": "Esbjerg",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "6705",
+      "city": "Esbjerg Ø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6710",
+      "city": "Esbjerg V",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6715",
+      "city": "Esbjerg N",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6720",
+      "city": "Fanø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6731",
+      "city": "Tjæreborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6740",
+      "city": "Bramming",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6752",
+      "city": "Glejbjerg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6753",
+      "city": "Agerbæk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6760",
+      "city": "Ribe",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6771",
+      "city": "Gredstedbro",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6780",
+      "city": "Skærbæk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6792",
+      "city": "Rømø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6800",
+      "city": "Varde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6818",
+      "city": "Årre",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6823",
+      "city": "Ansager",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6830",
+      "city": "Nørre Nebel",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6840",
+      "city": "Oksbøl",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6851",
+      "city": "Janderup Vestj",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6852",
+      "city": "Billum",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6853",
+      "city": "Vejers Strand",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6854",
+      "city": "Henne",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6855",
+      "city": "Outrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6857",
+      "city": "Blåvand",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6862",
+      "city": "Tistrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6870",
+      "city": "Ølgod",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6880",
+      "city": "Tarm",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6893",
+      "city": "Hemmet",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6900",
+      "city": "Skjern",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6920",
+      "city": "Videbæk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6933",
+      "city": "Kibæk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6940",
+      "city": "Lem St",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6950",
+      "city": "Ringkøbing",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6960",
+      "city": "Hvide Sande",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6971",
+      "city": "Spjald",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6973",
+      "city": "Ørnhøj",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6980",
+      "city": "Tim",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "6990",
+      "city": "Ulfborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7000",
+      "city": "Fredericia",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7007",
+      "city": "Fredericia",
+      "street": "",
+      "company": "Sydjyllands Postcenter + erhvervskunder",
+      "kind": "company"
+    },
+    {
+      "code": "7029",
+      "city": "Fredericia",
+      "street": "Ufrankerede svarforsendelser",
+      "company": "",
+      "kind": "reply-mail"
+    },
+    {
+      "code": "7080",
+      "city": "Børkop",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7100",
+      "city": "Vejle",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7120",
+      "city": "Vejle Øst",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7130",
+      "city": "Juelsminde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7140",
+      "city": "Stouby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7150",
+      "city": "Barrit",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7160",
+      "city": "Tørring",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7171",
+      "city": "Uldum",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7173",
+      "city": "Vonge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7182",
+      "city": "Bredsten",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7183",
+      "city": "Randbøl",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7184",
+      "city": "Vandel",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7190",
+      "city": "Billund",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7200",
+      "city": "Grindsted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7250",
+      "city": "Hejnsvig",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7260",
+      "city": "Sønder Omme",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7270",
+      "city": "Stakroge",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7280",
+      "city": "Sønder Felding",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7300",
+      "city": "Jelling",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7321",
+      "city": "Gadbjerg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7323",
+      "city": "Give",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7330",
+      "city": "Brande",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7361",
+      "city": "Ejstrupholm",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7362",
+      "city": "Hampen",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7400",
+      "city": "Herning",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7401",
+      "city": "Herning",
+      "street": "",
+      "company": "Erhvervskunder",
+      "kind": "company"
+    },
+    {
+      "code": "7429",
+      "city": "Herning",
+      "street": "Ufrankerede svarforsendelser",
+      "company": "",
+      "kind": "reply-mail"
+    },
+    {
+      "code": "7430",
+      "city": "Ikast",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7441",
+      "city": "Bording",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7442",
+      "city": "Engesvang",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7451",
+      "city": "Sunds",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7470",
+      "city": "Karup J",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7480",
+      "city": "Vildbjerg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7490",
+      "city": "Aulum",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7500",
+      "city": "Holstebro",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7540",
+      "city": "Haderup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7550",
+      "city": "Sørvad",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7560",
+      "city": "Hjerm",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7570",
+      "city": "Vemb",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7600",
+      "city": "Struer",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7620",
+      "city": "Lemvig",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7650",
+      "city": "Bøvlingbjerg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7660",
+      "city": "Bækmarksbro",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7673",
+      "city": "Harboøre",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7680",
+      "city": "Thyborøn",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7700",
+      "city": "Thisted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7730",
+      "city": "Hanstholm",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7741",
+      "city": "Frøstrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7742",
+      "city": "Vesløs",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7752",
+      "city": "Snedsted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7755",
+      "city": "Bedsted Thy",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7760",
+      "city": "Hurup Thy",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7770",
+      "city": "Vestervig",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7790",
+      "city": "Thyholm",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7800",
+      "city": "Skive",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7830",
+      "city": "Vinderup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7840",
+      "city": "Højslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7850",
+      "city": "Stoholm Jyll",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7860",
+      "city": "Spøttrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7870",
+      "city": "Roslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7884",
+      "city": "Fur",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7900",
+      "city": "Nykøbing M",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7950",
+      "city": "Erslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7960",
+      "city": "Karby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7970",
+      "city": "Redsted M",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7980",
+      "city": "Vils",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "7990",
+      "city": "Øster Assels",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8000",
+      "city": "Århus C",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8100",
+      "city": "Århus C",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "8200",
+      "city": "Århus N",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8210",
+      "city": "Århus V",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8220",
+      "city": "Brabrand",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8229",
+      "city": "Risskov Ø",
+      "street": "Ufrankerede svarforsendelser",
+      "company": "",
+      "kind": "reply-mail"
+    },
+    {
+      "code": "8230",
+      "city": "Åbyhøj",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8240",
+      "city": "Risskov",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8245",
+      "city": "Risskov Ø",
+      "street": "",
+      "company": "Østjyllands Postcenter + erhvervskunder",
+      "kind": "company"
+    },
+    {
+      "code": "8250",
+      "city": "Egå",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8260",
+      "city": "Viby J",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8270",
+      "city": "Højbjerg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8300",
+      "city": "Odder",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8305",
+      "city": "Samsø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8310",
+      "city": "Tranbjerg J",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8320",
+      "city": "Mårslet",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8330",
+      "city": "Beder",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8340",
+      "city": "Malling",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8350",
+      "city": "Hundslund",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8355",
+      "city": "Solbjerg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8361",
+      "city": "Hasselager",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8362",
+      "city": "Hørning",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8370",
+      "city": "Hadsten",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8380",
+      "city": "Trige",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8381",
+      "city": "Tilst",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8382",
+      "city": "Hinnerup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8400",
+      "city": "Ebeltoft",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8410",
+      "city": "Rønde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8420",
+      "city": "Knebel",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8444",
+      "city": "Balle",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8450",
+      "city": "Hammel",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8462",
+      "city": "Harlev J",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8464",
+      "city": "Galten",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8471",
+      "city": "Sabro",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8472",
+      "city": "Sporup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8500",
+      "city": "Grenaa",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8520",
+      "city": "Lystrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8530",
+      "city": "Hjortshøj",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8541",
+      "city": "Skødstrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8543",
+      "city": "Hornslet",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8544",
+      "city": "Mørke",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8550",
+      "city": "Ryomgård",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8560",
+      "city": "Kolind",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8570",
+      "city": "Trustrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8581",
+      "city": "Nimtofte",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8585",
+      "city": "Glesborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8586",
+      "city": "Ørum Djurs",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8592",
+      "city": "Anholt",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8600",
+      "city": "Silkeborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8620",
+      "city": "Kjellerup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8632",
+      "city": "Lemming",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8641",
+      "city": "Sorring",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8643",
+      "city": "Ans By",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8653",
+      "city": "Them",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8654",
+      "city": "Bryrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8660",
+      "city": "Skanderborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8670",
+      "city": "Låsby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8680",
+      "city": "Ry",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8700",
+      "city": "Horsens",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8721",
+      "city": "Daugård",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8722",
+      "city": "Hedensted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8723",
+      "city": "Løsning",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8732",
+      "city": "Hovedgård",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8740",
+      "city": "Brædstrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8751",
+      "city": "Gedved",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8752",
+      "city": "Østbirk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8762",
+      "city": "Flemming",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8763",
+      "city": "Rask Mølle",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8765",
+      "city": "Klovborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8766",
+      "city": "Nørre Snede",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8781",
+      "city": "Stenderup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8783",
+      "city": "Hornsyld",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8800",
+      "city": "Viborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8830",
+      "city": "Tjele",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8831",
+      "city": "Løgstrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8832",
+      "city": "Skals",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8840",
+      "city": "Rødkærsbro",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8850",
+      "city": "Bjerringbro",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8860",
+      "city": "Ulstrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8870",
+      "city": "Langå",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8881",
+      "city": "Thorsø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8882",
+      "city": "Fårvang",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8883",
+      "city": "Gjern",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8900",
+      "city": "Randers",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8950",
+      "city": "Ørsted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8961",
+      "city": "Allingåbro",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8963",
+      "city": "Auning",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8970",
+      "city": "Havndal",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8981",
+      "city": "Spentrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8983",
+      "city": "Gjerlev J",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "8990",
+      "city": "Fårup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9000",
+      "city": "Aalborg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9020",
+      "city": "Aalborg",
+      "street": "",
+      "company": "Erhvervskunder",
+      "kind": "company"
+    },
+    {
+      "code": "9029",
+      "city": "Aalborg",
+      "street": "Ufrankerede svarforsendelser",
+      "company": "",
+      "kind": "reply-mail"
+    },
+    {
+      "code": "9100",
+      "city": "Aalborg",
+      "street": "Postboks",
+      "company": "",
+      "kind": "postbox"
+    },
+    {
+      "code": "9200",
+      "city": "Aalborg SV",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9210",
+      "city": "Aalborg SØ",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9220",
+      "city": "Aalborg Øst",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9230",
+      "city": "Svenstrup J",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9240",
+      "city": "Nibe",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9260",
+      "city": "Gistrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9270",
+      "city": "Klarup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9280",
+      "city": "Storvorde",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9293",
+      "city": "Kongerslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9300",
+      "city": "Sæby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9310",
+      "city": "Vodskov",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9320",
+      "city": "Hjallerup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9330",
+      "city": "Dronninglund",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9340",
+      "city": "Asaa",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9352",
+      "city": "Dybvad",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9362",
+      "city": "Gandrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9370",
+      "city": "Hals",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9380",
+      "city": "Vestbjerg",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9381",
+      "city": "Sulsted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9382",
+      "city": "Tylstrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9400",
+      "city": "Nørresundby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9430",
+      "city": "Vadum",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9440",
+      "city": "Aabybro",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9460",
+      "city": "Brovst",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9480",
+      "city": "Løkken",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9490",
+      "city": "Pandrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9492",
+      "city": "Blokhus",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9493",
+      "city": "Saltum",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9500",
+      "city": "Hobro",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9510",
+      "city": "Arden",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9520",
+      "city": "Skørping",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9530",
+      "city": "Støvring",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9541",
+      "city": "Suldrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9550",
+      "city": "Mariager",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9560",
+      "city": "Hadsund",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9574",
+      "city": "Bælum",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9575",
+      "city": "Terndrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9600",
+      "city": "Aars",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9610",
+      "city": "Nørager",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9620",
+      "city": "Aalestrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9631",
+      "city": "Gedsted",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9632",
+      "city": "Møldrup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9640",
+      "city": "Farsø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9670",
+      "city": "Løgstør",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9681",
+      "city": "Ranum",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9690",
+      "city": "Fjerritslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9700",
+      "city": "Brønderslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9740",
+      "city": "Jerslev J",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9750",
+      "city": "Østervrå",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9760",
+      "city": "Vrå",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9800",
+      "city": "Hjørring",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9830",
+      "city": "Tårs",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9850",
+      "city": "Hirtshals",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9870",
+      "city": "Sindal",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9881",
+      "city": "Bindslev",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9900",
+      "city": "Frederikshavn",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9940",
+      "city": "Læsø",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9970",
+      "city": "Strandby",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9981",
+      "city": "Jerup",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9982",
+      "city": "Ålbæk",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    },
+    {
+      "code": "9990",
+      "city": "Skagen",
+      "street": "",
+      "company": "",
+      "kind": "geographic"
+    }
+  ],
+  "meta": {
+    "title": "Komplette danske postnumre (med gade- og firmakoder) - Gratis download",
+    "description": "Komplette danske postnumre inklusive gade-niveau koder i København, postboks-pulje koder og virksomheds-/firmakoder. Indeholder 1.254 poster — et superset af de geografiske postnumre, der dækker enhver post-tilgængelig kode (gader i indre København, PO-box pools, banker, store virksomheder, og Ufrankerede svarforsendelser). Comprehensive Danish postal code list (postnumre) sourced from PostNord Denmark via tjconcept/postal-codes-denmark. Includes street-level codes for inner Copenhagen, PO-box pool codes, reserved business/company codes, and reply-mail codes — substantially richer than a purely geographic 4-digit gazette. Indeholder 1254 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Komplette danske postnumre (med gade- og firmakoder) | ListBase",
+    "seo_description": "Download Komplette danske postnumre (med gade- og firmakoder) — 1254 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 1254 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

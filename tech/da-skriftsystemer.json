@@ -1,0 +1,881 @@
+{
+  "id": "da-skriftsystemer",
+  "name": "Skriftsystemer (ISO 15924 / CLDR, 168)",
+  "title": "Skriftsystemer (ISO 15924 / CLDR, 168)",
+  "description": "ISO 15924-skriftsystemkoder med danske navne. Hele CLDR da-lokalets scripts.json.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 168,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "kode",
+      "label": "Kode",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "kode": "Adlm",
+      "navn": "adlam"
+    },
+    {
+      "id": 2,
+      "kode": "Afak",
+      "navn": "afaka"
+    },
+    {
+      "id": 3,
+      "kode": "Arab",
+      "navn": "arabisk"
+    },
+    {
+      "id": 4,
+      "kode": "Arab-alt-variant",
+      "navn": "persisk-arabisk"
+    },
+    {
+      "id": 5,
+      "kode": "Aran",
+      "navn": "nastaliq"
+    },
+    {
+      "id": 6,
+      "kode": "Armi",
+      "navn": "armi"
+    },
+    {
+      "id": 7,
+      "kode": "Armn",
+      "navn": "armensk"
+    },
+    {
+      "id": 8,
+      "kode": "Avst",
+      "navn": "avestansk"
+    },
+    {
+      "id": 9,
+      "kode": "Bali",
+      "navn": "balinesisk"
+    },
+    {
+      "id": 10,
+      "kode": "Bamu",
+      "navn": "bamum"
+    },
+    {
+      "id": 11,
+      "kode": "Bass",
+      "navn": "bassa"
+    },
+    {
+      "id": 12,
+      "kode": "Batk",
+      "navn": "batak"
+    },
+    {
+      "id": 13,
+      "kode": "Beng",
+      "navn": "bengali"
+    },
+    {
+      "id": 14,
+      "kode": "Blis",
+      "navn": "blissymboler"
+    },
+    {
+      "id": 15,
+      "kode": "Bopo",
+      "navn": "bopomofo"
+    },
+    {
+      "id": 16,
+      "kode": "Brah",
+      "navn": "bramisk"
+    },
+    {
+      "id": 17,
+      "kode": "Brai",
+      "navn": "punktskrift"
+    },
+    {
+      "id": 18,
+      "kode": "Bugi",
+      "navn": "buginesisk"
+    },
+    {
+      "id": 19,
+      "kode": "Buhd",
+      "navn": "buhid"
+    },
+    {
+      "id": 20,
+      "kode": "Cakm",
+      "navn": "chakma"
+    },
+    {
+      "id": 21,
+      "kode": "Cans",
+      "navn": "oprindelige canadiske symboler"
+    },
+    {
+      "id": 22,
+      "kode": "Cari",
+      "navn": "kariansk"
+    },
+    {
+      "id": 23,
+      "kode": "Cham",
+      "navn": "cham"
+    },
+    {
+      "id": 24,
+      "kode": "Cher",
+      "navn": "cherokee"
+    },
+    {
+      "id": 25,
+      "kode": "Cirt",
+      "navn": "cirt"
+    },
+    {
+      "id": 26,
+      "kode": "Copt",
+      "navn": "koptisk"
+    },
+    {
+      "id": 27,
+      "kode": "Cprt",
+      "navn": "cypriotisk"
+    },
+    {
+      "id": 28,
+      "kode": "Cyrl",
+      "navn": "kyrillisk"
+    },
+    {
+      "id": 29,
+      "kode": "Cyrs",
+      "navn": "kyrillisk - oldkirkeslavisk variant"
+    },
+    {
+      "id": 30,
+      "kode": "Deva",
+      "navn": "devanagari"
+    },
+    {
+      "id": 31,
+      "kode": "Dsrt",
+      "navn": "deseret"
+    },
+    {
+      "id": 32,
+      "kode": "Dupl",
+      "navn": "Duploya-stenografi"
+    },
+    {
+      "id": 33,
+      "kode": "Egyd",
+      "navn": "egyptisk demotisk"
+    },
+    {
+      "id": 34,
+      "kode": "Egyh",
+      "navn": "egyptisk hieratisk"
+    },
+    {
+      "id": 35,
+      "kode": "Egyp",
+      "navn": "egyptiske hieroglyffer"
+    },
+    {
+      "id": 36,
+      "kode": "Ethi",
+      "navn": "etiopisk"
+    },
+    {
+      "id": 37,
+      "kode": "Geok",
+      "navn": "georgisk kutsuri"
+    },
+    {
+      "id": 38,
+      "kode": "Geor",
+      "navn": "georgisk"
+    },
+    {
+      "id": 39,
+      "kode": "Glag",
+      "navn": "glagolitisk"
+    },
+    {
+      "id": 40,
+      "kode": "Goth",
+      "navn": "gotisk"
+    },
+    {
+      "id": 41,
+      "kode": "Gran",
+      "navn": "grantha"
+    },
+    {
+      "id": 42,
+      "kode": "Grek",
+      "navn": "græsk"
+    },
+    {
+      "id": 43,
+      "kode": "Gujr",
+      "navn": "gujarati"
+    },
+    {
+      "id": 44,
+      "kode": "Guru",
+      "navn": "gurmukhi"
+    },
+    {
+      "id": 45,
+      "kode": "Hanb",
+      "navn": "han med bopomofo"
+    },
+    {
+      "id": 46,
+      "kode": "Hang",
+      "navn": "hangul"
+    },
+    {
+      "id": 47,
+      "kode": "Hani",
+      "navn": "han"
+    },
+    {
+      "id": 48,
+      "kode": "Hano",
+      "navn": "hanunoo"
+    },
+    {
+      "id": 49,
+      "kode": "Hans",
+      "navn": "forenklet"
+    },
+    {
+      "id": 50,
+      "kode": "Hans-alt-stand-alone",
+      "navn": "forenklet han"
+    },
+    {
+      "id": 51,
+      "kode": "Hant",
+      "navn": "traditionelt"
+    },
+    {
+      "id": 52,
+      "kode": "Hant-alt-stand-alone",
+      "navn": "traditionelt han"
+    },
+    {
+      "id": 53,
+      "kode": "Hebr",
+      "navn": "hebraisk"
+    },
+    {
+      "id": 54,
+      "kode": "Hira",
+      "navn": "hiragana"
+    },
+    {
+      "id": 55,
+      "kode": "Hluw",
+      "navn": "anatolske hieroglyffer"
+    },
+    {
+      "id": 56,
+      "kode": "Hmng",
+      "navn": "pahawh hmong"
+    },
+    {
+      "id": 57,
+      "kode": "Hrkt",
+      "navn": "japanske skrifttegn"
+    },
+    {
+      "id": 58,
+      "kode": "Hung",
+      "navn": "oldungarsk"
+    },
+    {
+      "id": 59,
+      "kode": "Inds",
+      "navn": "indus"
+    },
+    {
+      "id": 60,
+      "kode": "Ital",
+      "navn": "Olditalisk"
+    },
+    {
+      "id": 61,
+      "kode": "Jamo",
+      "navn": "jamo"
+    },
+    {
+      "id": 62,
+      "kode": "Java",
+      "navn": "javanesisk"
+    },
+    {
+      "id": 63,
+      "kode": "Jpan",
+      "navn": "japansk"
+    },
+    {
+      "id": 64,
+      "kode": "Jurc",
+      "navn": "jurchen"
+    },
+    {
+      "id": 65,
+      "kode": "Kali",
+      "navn": "kaya li"
+    },
+    {
+      "id": 66,
+      "kode": "Kana",
+      "navn": "katakana"
+    },
+    {
+      "id": 67,
+      "kode": "Khar",
+      "navn": "kharoshti"
+    },
+    {
+      "id": 68,
+      "kode": "Khmr",
+      "navn": "khmer"
+    },
+    {
+      "id": 69,
+      "kode": "Khoj",
+      "navn": "khojki"
+    },
+    {
+      "id": 70,
+      "kode": "Knda",
+      "navn": "kannada"
+    },
+    {
+      "id": 71,
+      "kode": "Kore",
+      "navn": "koreansk"
+    },
+    {
+      "id": 72,
+      "kode": "Kpel",
+      "navn": "kpelle"
+    },
+    {
+      "id": 73,
+      "kode": "Kthi",
+      "navn": "kthi"
+    },
+    {
+      "id": 74,
+      "kode": "Lana",
+      "navn": "lanna"
+    },
+    {
+      "id": 75,
+      "kode": "Laoo",
+      "navn": "lao"
+    },
+    {
+      "id": 76,
+      "kode": "Latf",
+      "navn": "latinsk - frakturvariant"
+    },
+    {
+      "id": 77,
+      "kode": "Latg",
+      "navn": "latinsk - gælisk variant"
+    },
+    {
+      "id": 78,
+      "kode": "Latn",
+      "navn": "latinsk"
+    },
+    {
+      "id": 79,
+      "kode": "Lepc",
+      "navn": "lepcha"
+    },
+    {
+      "id": 80,
+      "kode": "Limb",
+      "navn": "limbu"
+    },
+    {
+      "id": 81,
+      "kode": "Lina",
+      "navn": "lineær A"
+    },
+    {
+      "id": 82,
+      "kode": "Linb",
+      "navn": "lineær B"
+    },
+    {
+      "id": 83,
+      "kode": "Lisu",
+      "navn": "lisu"
+    },
+    {
+      "id": 84,
+      "kode": "Loma",
+      "navn": "loma"
+    },
+    {
+      "id": 85,
+      "kode": "Lyci",
+      "navn": "lykisk"
+    },
+    {
+      "id": 86,
+      "kode": "Lydi",
+      "navn": "lydisk"
+    },
+    {
+      "id": 87,
+      "kode": "Mand",
+      "navn": "mandaisk"
+    },
+    {
+      "id": 88,
+      "kode": "Mani",
+      "navn": "manikæisk"
+    },
+    {
+      "id": 89,
+      "kode": "Maya",
+      "navn": "mayahieroglyffer"
+    },
+    {
+      "id": 90,
+      "kode": "Mend",
+      "navn": "mende"
+    },
+    {
+      "id": 91,
+      "kode": "Merc",
+      "navn": "metroitisk sammenhængende"
+    },
+    {
+      "id": 92,
+      "kode": "Mero",
+      "navn": "meroitisk"
+    },
+    {
+      "id": 93,
+      "kode": "Mlym",
+      "navn": "malayalam"
+    },
+    {
+      "id": 94,
+      "kode": "Mong",
+      "navn": "mongolsk"
+    },
+    {
+      "id": 95,
+      "kode": "Moon",
+      "navn": "moon"
+    },
+    {
+      "id": 96,
+      "kode": "Mroo",
+      "navn": "mroo"
+    },
+    {
+      "id": 97,
+      "kode": "Mtei",
+      "navn": "meitei-mayek"
+    },
+    {
+      "id": 98,
+      "kode": "Mymr",
+      "navn": "burmesisk"
+    },
+    {
+      "id": 99,
+      "kode": "Narb",
+      "navn": "gammelt nordarabisk"
+    },
+    {
+      "id": 100,
+      "kode": "Nbat",
+      "navn": "nabateisk"
+    },
+    {
+      "id": 101,
+      "kode": "Nkgb",
+      "navn": "nakhi geba"
+    },
+    {
+      "id": 102,
+      "kode": "Nkoo",
+      "navn": "n’ko"
+    },
+    {
+      "id": 103,
+      "kode": "Nshu",
+      "navn": "nüshu"
+    },
+    {
+      "id": 104,
+      "kode": "Ogam",
+      "navn": "ogham"
+    },
+    {
+      "id": 105,
+      "kode": "Olck",
+      "navn": "ol-chiki"
+    },
+    {
+      "id": 106,
+      "kode": "Orkh",
+      "navn": "orkhon"
+    },
+    {
+      "id": 107,
+      "kode": "Orya",
+      "navn": "oriya"
+    },
+    {
+      "id": 108,
+      "kode": "Osma",
+      "navn": "osmannisk"
+    },
+    {
+      "id": 109,
+      "kode": "Palm",
+      "navn": "palmyrensk"
+    },
+    {
+      "id": 110,
+      "kode": "Perm",
+      "navn": "oldpermisk"
+    },
+    {
+      "id": 111,
+      "kode": "Phag",
+      "navn": "phags-pa"
+    },
+    {
+      "id": 112,
+      "kode": "Phli",
+      "navn": "phli"
+    },
+    {
+      "id": 113,
+      "kode": "Phlp",
+      "navn": "phlp"
+    },
+    {
+      "id": 114,
+      "kode": "Phlv",
+      "navn": "pahlavi"
+    },
+    {
+      "id": 115,
+      "kode": "Phnx",
+      "navn": "fønikisk"
+    },
+    {
+      "id": 116,
+      "kode": "Plrd",
+      "navn": "pollardtegn"
+    },
+    {
+      "id": 117,
+      "kode": "Prti",
+      "navn": "prti"
+    },
+    {
+      "id": 118,
+      "kode": "Qaag",
+      "navn": "zawgyi"
+    },
+    {
+      "id": 119,
+      "kode": "Rjng",
+      "navn": "rejang"
+    },
+    {
+      "id": 120,
+      "kode": "Rohg",
+      "navn": "hanifi"
+    },
+    {
+      "id": 121,
+      "kode": "Roro",
+      "navn": "rongo-rongo"
+    },
+    {
+      "id": 122,
+      "kode": "Runr",
+      "navn": "runer"
+    },
+    {
+      "id": 123,
+      "kode": "Samr",
+      "navn": "samaritansk"
+    },
+    {
+      "id": 124,
+      "kode": "Sara",
+      "navn": "sarati"
+    },
+    {
+      "id": 125,
+      "kode": "Sarb",
+      "navn": "oldsørarabisk"
+    },
+    {
+      "id": 126,
+      "kode": "Saur",
+      "navn": "saurashtra"
+    },
+    {
+      "id": 127,
+      "kode": "Sgnw",
+      "navn": "tegnskrift"
+    },
+    {
+      "id": 128,
+      "kode": "Shaw",
+      "navn": "shavisk"
+    },
+    {
+      "id": 129,
+      "kode": "Shrd",
+      "navn": "sharada"
+    },
+    {
+      "id": 130,
+      "kode": "Sind",
+      "navn": "khudawadi"
+    },
+    {
+      "id": 131,
+      "kode": "Sinh",
+      "navn": "singalesisk"
+    },
+    {
+      "id": 132,
+      "kode": "Sora",
+      "navn": "sora"
+    },
+    {
+      "id": 133,
+      "kode": "Sund",
+      "navn": "sundanesisk"
+    },
+    {
+      "id": 134,
+      "kode": "Sylo",
+      "navn": "syloti nagri"
+    },
+    {
+      "id": 135,
+      "kode": "Syrc",
+      "navn": "syrisk"
+    },
+    {
+      "id": 136,
+      "kode": "Syre",
+      "navn": "syrisk - estrangelovariant"
+    },
+    {
+      "id": 137,
+      "kode": "Syrj",
+      "navn": "vestsyrisk"
+    },
+    {
+      "id": 138,
+      "kode": "Syrn",
+      "navn": "østsyriakisk"
+    },
+    {
+      "id": 139,
+      "kode": "Tagb",
+      "navn": "tagbanwa"
+    },
+    {
+      "id": 140,
+      "kode": "Takr",
+      "navn": "takri"
+    },
+    {
+      "id": 141,
+      "kode": "Tale",
+      "navn": "tai le"
+    },
+    {
+      "id": 142,
+      "kode": "Talu",
+      "navn": "tai lue"
+    },
+    {
+      "id": 143,
+      "kode": "Taml",
+      "navn": "tamilsk"
+    },
+    {
+      "id": 144,
+      "kode": "Tang",
+      "navn": "tangut"
+    },
+    {
+      "id": 145,
+      "kode": "Tavt",
+      "navn": "tavt"
+    },
+    {
+      "id": 146,
+      "kode": "Telu",
+      "navn": "telugu"
+    },
+    {
+      "id": 147,
+      "kode": "Teng",
+      "navn": "tengwar"
+    },
+    {
+      "id": 148,
+      "kode": "Tfng",
+      "navn": "tifinagh"
+    },
+    {
+      "id": 149,
+      "kode": "Tglg",
+      "navn": "tagalog"
+    },
+    {
+      "id": 150,
+      "kode": "Thaa",
+      "navn": "thaana"
+    },
+    {
+      "id": 151,
+      "kode": "Thai",
+      "navn": "thailandsk"
+    },
+    {
+      "id": 152,
+      "kode": "Tibt",
+      "navn": "tibetansk"
+    },
+    {
+      "id": 153,
+      "kode": "Tirh",
+      "navn": "tirhuta"
+    },
+    {
+      "id": 154,
+      "kode": "Ugar",
+      "navn": "ugaritisk"
+    },
+    {
+      "id": 155,
+      "kode": "Vaii",
+      "navn": "vai"
+    },
+    {
+      "id": 156,
+      "kode": "Visp",
+      "navn": "synlig tale"
+    },
+    {
+      "id": 157,
+      "kode": "Wara",
+      "navn": "varang kshiti"
+    },
+    {
+      "id": 158,
+      "kode": "Wole",
+      "navn": "woleai"
+    },
+    {
+      "id": 159,
+      "kode": "Xpeo",
+      "navn": "oldpersisk"
+    },
+    {
+      "id": 160,
+      "kode": "Xsux",
+      "navn": "sumero-akkadisk cuneiform"
+    },
+    {
+      "id": 161,
+      "kode": "Yiii",
+      "navn": "yi"
+    },
+    {
+      "id": 162,
+      "kode": "Zinh",
+      "navn": "arvet"
+    },
+    {
+      "id": 163,
+      "kode": "Zmth",
+      "navn": "matematisk notation"
+    },
+    {
+      "id": 164,
+      "kode": "Zsye",
+      "navn": "emoji"
+    },
+    {
+      "id": 165,
+      "kode": "Zsym",
+      "navn": "symboler"
+    },
+    {
+      "id": 166,
+      "kode": "Zxxx",
+      "navn": "uden skriftsprog"
+    },
+    {
+      "id": 167,
+      "kode": "Zyyy",
+      "navn": "fælles"
+    },
+    {
+      "id": 168,
+      "kode": "Zzzz",
+      "navn": "ukendt skriftsprog"
+    }
+  ],
+  "meta": {
+    "title": "Skriftsystemer (ISO 15924 / CLDR, 168) - Gratis download",
+    "description": "ISO 15924-skriftsystemkoder med danske navne. Hele CLDR da-lokalets scripts.json. Indeholder 168 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Skriftsystemer (ISO 15924 / CLDR, 168) | ListBase",
+    "seo_description": "Download Skriftsystemer (ISO 15924 / CLDR, 168) — 168 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 168 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "id": "da-esbjerg-afstemningssteder",
+  "name": "Afstemningssteder i Esbjerg Kommune",
+  "title": "Afstemningssteder i Esbjerg Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Esbjerg Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Esbjerg Rådhus",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 52,
+      "opstillingskreds": "Esbjerg By"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Skovbo Centeret",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 52,
+      "opstillingskreds": "Esbjerg By"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Rørkjær SKole",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 52,
+      "opstillingskreds": "Esbjerg By"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Bakkeskolen",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 52,
+      "opstillingskreds": "Esbjerg By"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Boldesager Skole",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 52,
+      "opstillingskreds": "Esbjerg By"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Østerbycentret",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 52,
+      "opstillingskreds": "Esbjerg By"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Skads Skole",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 53,
+      "opstillingskreds": "Esbjerg Omegn"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Vestervangskolen",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 52,
+      "opstillingskreds": "Esbjerg By"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Bryndum Skole",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 53,
+      "opstillingskreds": "Esbjerg Omegn"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Sædding Skole",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 52,
+      "opstillingskreds": "Esbjerg By"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Hjerting Skole",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 53,
+      "opstillingskreds": "Esbjerg Omegn"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Guldager",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 53,
+      "opstillingskreds": "Esbjerg Omegn"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Tjæreborg Fritidscenter",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 53,
+      "opstillingskreds": "Esbjerg Omegn"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Kvaglund",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 52,
+      "opstillingskreds": "Esbjerg By"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Ådalskolen",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 52,
+      "opstillingskreds": "Esbjerg By"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Blåbjerggårdskolen",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 52,
+      "opstillingskreds": "Esbjerg By"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Sønderris",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 53,
+      "opstillingskreds": "Esbjerg Omegn"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Bramming",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 53,
+      "opstillingskreds": "Esbjerg Omegn"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "Ribe",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 53,
+      "opstillingskreds": "Esbjerg Omegn"
+    },
+    {
+      "afstemningsomraade_kode": "32",
+      "afstemningssted": "Egebæk-Hviding",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 53,
+      "opstillingskreds": "Esbjerg Omegn"
+    },
+    {
+      "afstemningsomraade_kode": "33",
+      "afstemningssted": "Gredstedbro",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 53,
+      "opstillingskreds": "Esbjerg Omegn"
+    },
+    {
+      "afstemningsomraade_kode": "35",
+      "afstemningssted": "Mandø",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 53,
+      "opstillingskreds": "Esbjerg Omegn"
+    },
+    {
+      "afstemningsomraade_kode": "38",
+      "afstemningssted": "Høm",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 53,
+      "opstillingskreds": "Esbjerg Omegn"
+    },
+    {
+      "afstemningsomraade_kode": "40",
+      "afstemningssted": "Gørding",
+      "kommune_kode": 561,
+      "kommune": "Esbjerg",
+      "opstillingskreds_nummer": 53,
+      "opstillingskreds": "Esbjerg Omegn"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Esbjerg Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Esbjerg Kommune med opstillingskreds. Indeholder 24 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Esbjerg Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Esbjerg Kommune — 24 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 24 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

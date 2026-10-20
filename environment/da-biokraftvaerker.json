@@ -1,0 +1,331 @@
+{
+  "id": "da-biokraftvaerker",
+  "name": "Biokraftværker (fast biomasse) i Danmark",
+  "title": "Biokraftværker (fast biomasse) i Danmark",
+  "description": "Solid Biomass power generation/storage units in Denmark (10 of 368), carved from da-kraftvaerker by the native `fueltype` field. Verbatim subset of the powerplantmatching (PyPSA) merged European power plant dataset: name, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes and cross-referenced upstream source IDs.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "number"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "string"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 960,
+      "name": "Herning",
+      "fueltype": "Solid Biomass",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 80,
+      "efficiency": "",
+      "date_in": 1982,
+      "date_retrofit": 2008,
+      "date_out": "",
+      "lat": 56.1214,
+      "lon": 9.0068,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000200229; GEO: GEO-44236; GPD: WRI1022044; OPSD: OEU-5172"
+    },
+    {
+      "id": 1915,
+      "name": "Randers",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 52,
+      "efficiency": "",
+      "date_in": 1982,
+      "date_retrofit": 2002,
+      "date_out": "",
+      "lat": 56.4579,
+      "lon": 10.0466,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000202506; GEO: GEO-44227; GPD: WRI1022042"
+    },
+    {
+      "id": 2563,
+      "name": "Avedore",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "PP",
+      "country": "Denmark",
+      "capacity_mw": 835,
+      "efficiency": "",
+      "date_in": 1990,
+      "date_retrofit": 2002,
+      "date_out": "",
+      "lat": 55.60216,
+      "lon": 12.479064,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "ENTSOE: 45W0000000000102; GEM: G100000201362, G100000202505; OPSD: OEU-5165, OEU-5166"
+    },
+    {
+      "id": 5084,
+      "name": "Fyns",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "PP",
+      "country": "Denmark",
+      "capacity_mw": 35,
+      "efficiency": "",
+      "date_in": 2009,
+      "date_retrofit": 2009,
+      "date_out": "",
+      "lat": 55.429412,
+      "lon": 10.410212,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000201363; OPSD: OEU-5169"
+    },
+    {
+      "id": 5085,
+      "name": "Amager",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "PP",
+      "country": "Denmark",
+      "capacity_mw": 218,
+      "efficiency": "",
+      "date_in": 1971,
+      "date_retrofit": 2009,
+      "date_out": "",
+      "lat": 55.686777,
+      "lon": 12.627702,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000200243, G100000202504; OPSD: OEU-5162"
+    },
+    {
+      "id": 9707,
+      "name": "Asnaes",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "",
+      "country": "Denmark",
+      "capacity_mw": 30,
+      "efficiency": "",
+      "date_in": 2019,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 55.661528,
+      "lon": 11.080892,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000201360"
+    },
+    {
+      "id": 17883,
+      "name": "Lisbjerg",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "",
+      "country": "Denmark",
+      "capacity_mw": 37,
+      "efficiency": "",
+      "date_in": 2017,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 56.2282,
+      "lon": 10.1577,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000200294"
+    },
+    {
+      "id": 19973,
+      "name": "Ostkraft",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "",
+      "country": "Denmark",
+      "capacity_mw": 37,
+      "efficiency": "",
+      "date_in": 2016,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 55.1,
+      "lon": 14.7,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001018792"
+    },
+    {
+      "id": 22580,
+      "name": "Skaerbaek",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "",
+      "country": "Denmark",
+      "capacity_mw": 95,
+      "efficiency": "",
+      "date_in": 1951,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 55.5123,
+      "lon": 9.6188,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000201365"
+    },
+    {
+      "id": 23289,
+      "name": "Studstrup",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "",
+      "country": "Denmark",
+      "capacity_mw": 362,
+      "efficiency": "",
+      "date_in": 1985,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 56.250196,
+      "lon": 10.344861,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000202507"
+    }
+  ],
+  "meta": {
+    "title": "Biokraftværker (fast biomasse) i Danmark - Gratis download",
+    "description": "Solid Biomass power generation/storage units in Denmark (10 of 368), carved from da-kraftvaerker by the native `fueltype` field. Verbatim subset of the powerplantmatching (PyPSA) merged European power plant dataset: name, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes and cross-referenced upstream source IDs. Indeholder 10 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Biokraftværker (fast biomasse) i Danmark | ListBase",
+    "seo_description": "Download Biokraftværker (fast biomasse) i Danmark — 10 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 10 poster / 19 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

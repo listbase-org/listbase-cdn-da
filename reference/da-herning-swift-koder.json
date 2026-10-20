@@ -1,0 +1,82 @@
+{
+  "id": "da-herning-swift-koder",
+  "name": "SWIFT/BIC-koder — Herning",
+  "title": "SWIFT/BIC-koder — Herning",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 6 institutioner, som kilden angiver med byen \"HERNING\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "HERNING",
+      "branch": "",
+      "swift_code": "DABADKKKHER"
+    },
+    {
+      "bank": "INVESTERING AND TRYGHED A/S",
+      "city": "HERNING",
+      "branch": "",
+      "swift_code": "ITRYDK21"
+    },
+    {
+      "bank": "MIDTINVEST INVESTERINGSFORVALTNING A/S",
+      "city": "HERNING",
+      "branch": "",
+      "swift_code": "MIDIDK21"
+    },
+    {
+      "bank": "RINGKJOBING LANDBOBANK A/S",
+      "city": "HERNING",
+      "branch": "",
+      "swift_code": "RINGDK22HER"
+    },
+    {
+      "bank": "SYDBANK A/S",
+      "city": "HERNING",
+      "branch": "",
+      "swift_code": "SYBKDK22HER"
+    },
+    {
+      "bank": "VESTJYSK BANK",
+      "city": "HERNING",
+      "branch": "",
+      "swift_code": "VEHODK22HER"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Herning - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 6 institutioner, som kilden angiver med byen \"HERNING\". Indeholder 6 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Herning | ListBase",
+    "seo_description": "Download SWIFT/BIC-koder — Herning — 6 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 6 poster / 4 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

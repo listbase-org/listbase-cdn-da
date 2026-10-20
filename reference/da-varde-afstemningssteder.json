@@ -1,0 +1,240 @@
+{
+  "id": "da-varde-afstemningssteder",
+  "name": "Afstemningssteder i Varde Kommune",
+  "title": "Afstemningssteder i Varde Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Varde Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Varde By",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Sig",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Billum",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Tinghøj",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Alslev",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Horne",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Janderup",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Lunde",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Nørre Nebel",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Henne",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Outrup",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Oksbøl",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Blåvand",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Årre",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Agerbæk",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Fåborg",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Næsbjerg",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "27",
+      "afstemningssted": "Starup",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "28",
+      "afstemningssted": "Nordenskov",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "30",
+      "afstemningssted": "Ølgod",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "31",
+      "afstemningssted": "Tistrup",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "32",
+      "afstemningssted": "Ansager",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    },
+    {
+      "afstemningsomraade_kode": "33",
+      "afstemningssted": "Skovlund",
+      "kommune_kode": 573,
+      "kommune": "Varde",
+      "opstillingskreds_nummer": 54,
+      "opstillingskreds": "Varde"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Varde Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Varde Kommune med opstillingskreds. Indeholder 23 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Varde Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Varde Kommune — 23 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 23 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

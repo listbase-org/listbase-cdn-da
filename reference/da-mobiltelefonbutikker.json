@@ -1,0 +1,631 @@
+{
+  "id": "da-mobiltelefonbutikker",
+  "name": "Mobiltelefonbutikker i Danmark (Mobile phone shops in Denmark)",
+  "title": "Mobiltelefonbutikker i Danmark (Mobile phone shops in Denmark)",
+  "description": "Mobile phone shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=mobile_phone.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 118,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "3 Butikken",
+      "latitude": 55.771787,
+      "longitude": 12.506591
+    },
+    {
+      "name": "3 Butikken",
+      "latitude": 56.149474,
+      "longitude": 10.205152
+    },
+    {
+      "name": "3 Mobil",
+      "latitude": 55.38289,
+      "longitude": 10.427951
+    },
+    {
+      "name": "3 Mobil",
+      "latitude": 55.513751,
+      "longitude": 9.458928
+    },
+    {
+      "name": "3Butikken",
+      "latitude": 55.254205,
+      "longitude": 11.779963
+    },
+    {
+      "name": "3Butikken",
+      "latitude": 55.665719,
+      "longitude": 12.399497
+    },
+    {
+      "name": "3Butikken",
+      "latitude": 55.68276,
+      "longitude": 12.573461
+    },
+    {
+      "name": "Cirbit",
+      "latitude": 55.046277,
+      "longitude": 9.418486
+    },
+    {
+      "name": "Cover City",
+      "latitude": 55.401772,
+      "longitude": 10.38682
+    },
+    {
+      "name": "Fonefix",
+      "latitude": 55.409745,
+      "longitude": 10.337895
+    },
+    {
+      "name": "fonia.dk",
+      "latitude": 56.168611,
+      "longitude": 9.549788
+    },
+    {
+      "name": "Free Mobil",
+      "latitude": 55.665319,
+      "longitude": 12.599123
+    },
+    {
+      "name": "Go Blue",
+      "latitude": 56.358068,
+      "longitude": 8.619071
+    },
+    {
+      "name": "Gophone",
+      "latitude": 55.697432,
+      "longitude": 12.543889
+    },
+    {
+      "name": "Green Mind",
+      "latitude": 57.049425,
+      "longitude": 9.917084
+    },
+    {
+      "name": "GreenMind",
+      "latitude": 57.005298,
+      "longitude": 9.873839
+    },
+    {
+      "name": "Hallo",
+      "latitude": 55.695959,
+      "longitude": 12.546124
+    },
+    {
+      "name": "i-Point",
+      "latitude": 55.687657,
+      "longitude": 12.527855
+    },
+    {
+      "name": "I-Tech Rep",
+      "latitude": 55.312308,
+      "longitude": 10.790809
+    },
+    {
+      "name": "iDoktoren.dk",
+      "latitude": 55.883243,
+      "longitude": 12.498454
+    },
+    {
+      "name": "iDrop",
+      "latitude": 56.263336,
+      "longitude": 10.061335
+    },
+    {
+      "name": "Ifix Mobil",
+      "latitude": 55.695853,
+      "longitude": 12.550293
+    },
+    {
+      "name": "iHero",
+      "latitude": 56.168008,
+      "longitude": 9.54999
+    },
+    {
+      "name": "Intercall",
+      "latitude": 55.700214,
+      "longitude": 12.540133
+    },
+    {
+      "name": "iPhoneRepair.dk",
+      "latitude": 55.479095,
+      "longitude": 8.460969
+    },
+    {
+      "name": "Irep.dk",
+      "latitude": 55.681706,
+      "longitude": 12.574676
+    },
+    {
+      "name": "Irepair",
+      "latitude": 55.666239,
+      "longitude": 12.51355
+    },
+    {
+      "name": "iSmartRepair",
+      "latitude": 55.058916,
+      "longitude": 10.608507
+    },
+    {
+      "name": "Leki",
+      "latitude": 55.465919,
+      "longitude": 8.457744
+    },
+    {
+      "name": "Leki",
+      "latitude": 56.154369,
+      "longitude": 10.206408
+    },
+    {
+      "name": "Leki bycph",
+      "latitude": 55.51427,
+      "longitude": 9.45902
+    },
+    {
+      "name": "Leki CPH",
+      "latitude": 55.382775,
+      "longitude": 10.428117
+    },
+    {
+      "name": "Leki Denmark",
+      "latitude": 56.136049,
+      "longitude": 9.002434
+    },
+    {
+      "name": "LF FIX",
+      "latitude": 54.766513,
+      "longitude": 11.869921
+    },
+    {
+      "name": "Lycamobile",
+      "latitude": 55.46705,
+      "longitude": 8.456834
+    },
+    {
+      "name": "Mobile Service",
+      "latitude": 55.686002,
+      "longitude": 12.53917
+    },
+    {
+      "name": "Mobiledoc",
+      "latitude": 56.618533,
+      "longitude": 9.502429
+    },
+    {
+      "name": "Mobilhuset",
+      "latitude": 55.504719,
+      "longitude": 9.734185
+    },
+    {
+      "name": "Mobilhuset",
+      "latitude": 55.567049,
+      "longitude": 9.755755
+    },
+    {
+      "name": "My Mobile",
+      "latitude": 55.669784,
+      "longitude": 12.555735
+    },
+    {
+      "name": "My Trendy Phone",
+      "latitude": 55.681568,
+      "longitude": 12.572282
+    },
+    {
+      "name": "My Trendy Phone",
+      "latitude": 55.932655,
+      "longitude": 12.297761
+    },
+    {
+      "name": "MyRepair",
+      "latitude": 56.169923,
+      "longitude": 10.188971
+    },
+    {
+      "name": "Nordic Mobile iRepair",
+      "latitude": 55.694192,
+      "longitude": 12.530489
+    },
+    {
+      "name": "Norlys",
+      "latitude": 54.76673,
+      "longitude": 11.869143
+    },
+    {
+      "name": "Norlys",
+      "latitude": 54.909341,
+      "longitude": 9.791785
+    },
+    {
+      "name": "Norlys",
+      "latitude": 55.46539,
+      "longitude": 8.458631
+    },
+    {
+      "name": "Norlys",
+      "latitude": 55.681648,
+      "longitude": 12.574747
+    },
+    {
+      "name": "Norlys",
+      "latitude": 55.860972,
+      "longitude": 9.847063
+    },
+    {
+      "name": "Norlys",
+      "latitude": 56.135449,
+      "longitude": 8.999861
+    },
+    {
+      "name": "Nørrebro Electronic Center",
+      "latitude": 55.699489,
+      "longitude": 12.541332
+    },
+    {
+      "name": "OneFone",
+      "latitude": 55.254214,
+      "longitude": 11.780076
+    },
+    {
+      "name": "PC Fone",
+      "latitude": 54.766681,
+      "longitude": 11.868949
+    },
+    {
+      "name": "Phon-Rep",
+      "latitude": 55.672483,
+      "longitude": 12.549865
+    },
+    {
+      "name": "Phone Fixer",
+      "latitude": 55.688605,
+      "longitude": 12.55842
+    },
+    {
+      "name": "Phone Gadgets",
+      "latitude": 56.151283,
+      "longitude": 10.204597
+    },
+    {
+      "name": "Phone Republik",
+      "latitude": 55.699316,
+      "longitude": 12.553739
+    },
+    {
+      "name": "Phone2Fix",
+      "latitude": 57.047208,
+      "longitude": 9.92148
+    },
+    {
+      "name": "PhoneCenter",
+      "latitude": 55.701528,
+      "longitude": 12.534148
+    },
+    {
+      "name": "PhoneLab",
+      "latitude": 55.679686,
+      "longitude": 12.577362
+    },
+    {
+      "name": "Phones of Copenhagen",
+      "latitude": 55.67153,
+      "longitude": 12.562933
+    },
+    {
+      "name": "Pro Phone",
+      "latitude": 55.56662,
+      "longitude": 9.756546
+    },
+    {
+      "name": "Quickphone.dk",
+      "latitude": 55.514312,
+      "longitude": 9.45903
+    },
+    {
+      "name": "Rep-World",
+      "latitude": 54.909838,
+      "longitude": 9.789595
+    },
+    {
+      "name": "Repmobil",
+      "latitude": 55.469949,
+      "longitude": 8.439879
+    },
+    {
+      "name": "RepPhone",
+      "latitude": 56.194093,
+      "longitude": 10.19478
+    },
+    {
+      "name": "SaveMyPhonE",
+      "latitude": 55.672409,
+      "longitude": 12.549377
+    },
+    {
+      "name": "Sawa Mobile",
+      "latitude": 55.701666,
+      "longitude": 12.533372
+    },
+    {
+      "name": "Smart Phone House",
+      "latitude": 55.696032,
+      "longitude": 12.546491
+    },
+    {
+      "name": "Smart Things",
+      "latitude": 55.401984,
+      "longitude": 10.387192
+    },
+    {
+      "name": "Smart-rep",
+      "latitude": 55.614213,
+      "longitude": 12.355334
+    },
+    {
+      "name": "StorePhone",
+      "latitude": 56.358108,
+      "longitude": 8.617694
+    },
+    {
+      "name": "TDC",
+      "latitude": 55.678289,
+      "longitude": 12.573227
+    },
+    {
+      "name": "TDC Butikken",
+      "latitude": 56.136333,
+      "longitude": 8.973496
+    },
+    {
+      "name": "Tele Østerbro",
+      "latitude": 55.700611,
+      "longitude": 12.57968
+    },
+    {
+      "name": "Telefoncovers.dk ApS",
+      "latitude": 55.441199,
+      "longitude": 9.254208
+    },
+    {
+      "name": "Telenor",
+      "latitude": 55.38271,
+      "longitude": 10.426897
+    },
+    {
+      "name": "Telenor",
+      "latitude": 55.510156,
+      "longitude": 8.456444
+    },
+    {
+      "name": "Telenor",
+      "latitude": 55.513126,
+      "longitude": 9.459145
+    },
+    {
+      "name": "Telenor",
+      "latitude": 55.566244,
+      "longitude": 9.756839
+    },
+    {
+      "name": "Telenor",
+      "latitude": 55.648025,
+      "longitude": 12.542626
+    },
+    {
+      "name": "Telenor",
+      "latitude": 55.664468,
+      "longitude": 12.51168
+    },
+    {
+      "name": "Telenor",
+      "latitude": 55.679942,
+      "longitude": 12.584763
+    },
+    {
+      "name": "Telenor",
+      "latitude": 55.772357,
+      "longitude": 12.506099
+    },
+    {
+      "name": "Telenor",
+      "latitude": 56.135751,
+      "longitude": 8.996943
+    },
+    {
+      "name": "Telenor",
+      "latitude": 56.149165,
+      "longitude": 10.204412
+    },
+    {
+      "name": "Telenor",
+      "latitude": 56.168492,
+      "longitude": 9.549615
+    },
+    {
+      "name": "Telenor",
+      "latitude": 57.004009,
+      "longitude": 9.874052
+    },
+    {
+      "name": "Telenor",
+      "latitude": 57.047102,
+      "longitude": 9.922472
+    },
+    {
+      "name": "telerepair",
+      "latitude": 55.665134,
+      "longitude": 12.59951
+    },
+    {
+      "name": "Telerepair",
+      "latitude": 55.680428,
+      "longitude": 12.534132
+    },
+    {
+      "name": "Telerepair",
+      "latitude": 55.707226,
+      "longitude": 12.577712
+    },
+    {
+      "name": "Telereparation.dk",
+      "latitude": 55.666063,
+      "longitude": 12.598596
+    },
+    {
+      "name": "Telia",
+      "latitude": 55.253228,
+      "longitude": 11.781126
+    },
+    {
+      "name": "Telia",
+      "latitude": 55.383739,
+      "longitude": 10.426615
+    },
+    {
+      "name": "Telia",
+      "latitude": 55.395069,
+      "longitude": 10.384518
+    },
+    {
+      "name": "Telia",
+      "latitude": 55.513972,
+      "longitude": 9.461592
+    },
+    {
+      "name": "Telia",
+      "latitude": 55.665888,
+      "longitude": 12.400422
+    },
+    {
+      "name": "Telia",
+      "latitude": 55.678866,
+      "longitude": 12.578413
+    },
+    {
+      "name": "Telia",
+      "latitude": 55.771759,
+      "longitude": 12.50571
+    },
+    {
+      "name": "Telia",
+      "latitude": 56.032893,
+      "longitude": 12.608948
+    },
+    {
+      "name": "Telia",
+      "latitude": 56.149256,
+      "longitude": 10.204497
+    },
+    {
+      "name": "Telia",
+      "latitude": 56.36009,
+      "longitude": 8.617757
+    },
+    {
+      "name": "Telia",
+      "latitude": 57.004859,
+      "longitude": 9.875676
+    },
+    {
+      "name": "We Cover You",
+      "latitude": 55.382759,
+      "longitude": 10.426992
+    },
+    {
+      "name": "WeCoverYou",
+      "latitude": 55.465629,
+      "longitude": 8.459012
+    },
+    {
+      "name": "wecoveryou",
+      "latitude": 55.514602,
+      "longitude": 9.460545
+    },
+    {
+      "name": "Wecoveryou",
+      "latitude": 56.136018,
+      "longitude": 8.997359
+    },
+    {
+      "name": "Xfix",
+      "latitude": 55.664055,
+      "longitude": 12.60055
+    },
+    {
+      "name": "youSee",
+      "latitude": 54.766428,
+      "longitude": 11.870873
+    },
+    {
+      "name": "youSee",
+      "latitude": 55.059505,
+      "longitude": 10.610883
+    },
+    {
+      "name": "YouSee",
+      "latitude": 55.383479,
+      "longitude": 10.426937
+    },
+    {
+      "name": "YouSee",
+      "latitude": 55.465651,
+      "longitude": 8.458722
+    },
+    {
+      "name": "YouSee",
+      "latitude": 55.662781,
+      "longitude": 12.605225
+    },
+    {
+      "name": "YouSee",
+      "latitude": 55.679014,
+      "longitude": 12.533199
+    },
+    {
+      "name": "Yousee",
+      "latitude": 56.135447,
+      "longitude": 8.999999
+    },
+    {
+      "name": "youSee",
+      "latitude": 56.359127,
+      "longitude": 8.61704
+    },
+    {
+      "name": "YouSee",
+      "latitude": 57.004865,
+      "longitude": 9.875267
+    }
+  ],
+  "meta": {
+    "title": "Mobiltelefonbutikker i Danmark (Mobile phone shops in Denmark) - Gratis download",
+    "description": "Mobile phone shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=mobile_phone. Indeholder 118 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Mobiltelefonbutikker i Danmark (Mobile phone shops in Denmark) | ListBase",
+    "seo_description": "Download Mobiltelefonbutikker i Danmark (Mobile phone shops in Denmark) — 118 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 118 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

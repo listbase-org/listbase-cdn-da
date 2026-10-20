@@ -1,0 +1,976 @@
+{
+  "id": "da-sprog",
+  "name": "Sprog efter ISO 639-1",
+  "title": "Sprog efter ISO 639-1",
+  "description": "184 levende verdenssprog efter ISO 639-1 med danske, engelske og oprindelige navne samt RTL-flag.",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 115,
+  "columns": [
+    {
+      "key": "iso_639_1",
+      "label": "Iso 639 1",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rtl",
+      "label": "Rtl",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "iso_639_1": "af",
+      "name_da": "Afrikaans",
+      "name_en": "Afrikaans",
+      "name_native": "Afrikaans",
+      "slug": "afrikaans",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "am",
+      "name_da": "Amharisk",
+      "name_en": "Amharic",
+      "name_native": "አማርኛ",
+      "slug": "amharisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ar",
+      "name_da": "Arabisk",
+      "name_en": "Arabic",
+      "name_native": "العربية",
+      "slug": "arabisk",
+      "rtl": true
+    },
+    {
+      "iso_639_1": "ay",
+      "name_da": "Aymara",
+      "name_en": "Aymara",
+      "name_native": "Aymar",
+      "slug": "aymara",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "az",
+      "name_da": "Aserbajdsjansk",
+      "name_en": "Azerbaijani",
+      "name_native": "Azərbaycanca / آذربايجان",
+      "slug": "aserbajdsjansk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "be",
+      "name_da": "Hviderussisk",
+      "name_en": "Belarusian",
+      "name_native": "Беларуская",
+      "slug": "hviderussisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "bg",
+      "name_da": "Bulgarsk",
+      "name_en": "Bulgarian",
+      "name_native": "Български",
+      "slug": "bulgarsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "bi",
+      "name_da": "Bislama",
+      "name_en": "Bislama",
+      "name_native": "Bislama",
+      "slug": "bislama",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "bn",
+      "name_da": "Bengali",
+      "name_en": "Bengali",
+      "name_native": "বাংলা",
+      "slug": "bengali",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "bs",
+      "name_da": "Bosnisk",
+      "name_en": "Bosnian",
+      "name_native": "Bosanski",
+      "slug": "bosnisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ca",
+      "name_da": "Catalansk",
+      "name_en": "Catalan",
+      "name_native": "Català",
+      "slug": "catalansk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ch",
+      "name_da": "Chamorro",
+      "name_en": "Chamorro",
+      "name_native": "Chamoru",
+      "slug": "chamorro",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "cs",
+      "name_da": "Tjekkisk",
+      "name_en": "Czech",
+      "name_native": "Čeština",
+      "slug": "tjekkisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "da",
+      "name_da": "Dansk",
+      "name_en": "Danish",
+      "name_native": "Dansk",
+      "slug": "dansk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "de",
+      "name_da": "Tysk",
+      "name_en": "German",
+      "name_native": "Deutsch",
+      "slug": "tysk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "dv",
+      "name_da": "Divehi",
+      "name_en": "Divehi",
+      "name_native": "ދިވެހިބަސް",
+      "slug": "divehi",
+      "rtl": true
+    },
+    {
+      "iso_639_1": "dz",
+      "name_da": "Dzongkha",
+      "name_en": "Dzongkha",
+      "name_native": "ཇོང་ཁ",
+      "slug": "dzongkha",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "el",
+      "name_da": "Græsk",
+      "name_en": "Greek",
+      "name_native": "Ελληνικά",
+      "slug": "graesk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "en",
+      "name_da": "Engelsk",
+      "name_en": "English",
+      "name_native": "English",
+      "slug": "engelsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "es",
+      "name_da": "Spansk",
+      "name_en": "Spanish",
+      "name_native": "Español",
+      "slug": "spansk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "et",
+      "name_da": "Estisk",
+      "name_en": "Estonian",
+      "name_native": "Eesti",
+      "slug": "estisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "eu",
+      "name_da": "Baskisk",
+      "name_en": "Basque",
+      "name_native": "Euskara",
+      "slug": "baskisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "fa",
+      "name_da": "Persisk",
+      "name_en": "Persian",
+      "name_native": "فارسی",
+      "slug": "persisk",
+      "rtl": true
+    },
+    {
+      "iso_639_1": "ff",
+      "name_da": "Fulani",
+      "name_en": "Peul",
+      "name_native": "Fulfulde",
+      "slug": "fulani",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "fi",
+      "name_da": "Finsk",
+      "name_en": "Finnish",
+      "name_native": "Suomi",
+      "slug": "finsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "fj",
+      "name_da": "Fijiansk",
+      "name_en": "Fijian",
+      "name_native": "Na Vosa Vakaviti",
+      "slug": "fijiansk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "fo",
+      "name_da": "Færøsk",
+      "name_en": "Faroese",
+      "name_native": "Føroyskt",
+      "slug": "faeroesk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "fr",
+      "name_da": "Fransk",
+      "name_en": "French",
+      "name_native": "Français",
+      "slug": "fransk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ga",
+      "name_da": "Irsk",
+      "name_en": "Irish",
+      "name_native": "Gaeilge",
+      "slug": "irsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "gl",
+      "name_da": "Galicisk",
+      "name_en": "Galician",
+      "name_native": "Galego",
+      "slug": "galicisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "gn",
+      "name_da": "Guarani",
+      "name_en": "Guarani",
+      "name_native": "Avañe'ẽ",
+      "slug": "guarani",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "gv",
+      "name_da": "Manxgælisk",
+      "name_en": "Manx",
+      "name_native": "Gaelg",
+      "slug": "manxgaelisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "he",
+      "name_da": "Hebraisk",
+      "name_en": "Hebrew",
+      "name_native": "עברית",
+      "slug": "hebraisk",
+      "rtl": true
+    },
+    {
+      "iso_639_1": "hi",
+      "name_da": "Hindi",
+      "name_en": "Hindi",
+      "name_native": "हिन्दी",
+      "slug": "hindi",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "hr",
+      "name_da": "Kroatisk",
+      "name_en": "Croatian",
+      "name_native": "Hrvatski",
+      "slug": "kroatisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ht",
+      "name_da": "Haitisk kreol",
+      "name_en": "Haitian",
+      "name_native": "Krèyol ayisyen",
+      "slug": "haitisk-kreol",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "hu",
+      "name_da": "Ungarsk",
+      "name_en": "Hungarian",
+      "name_native": "Magyar",
+      "slug": "ungarsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "hy",
+      "name_da": "Armensk",
+      "name_en": "Armenian",
+      "name_native": "Հայերեն",
+      "slug": "armensk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "id",
+      "name_da": "Indonesisk",
+      "name_en": "Indonesian",
+      "name_native": "Bahasa Indonesia",
+      "slug": "indonesisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "is",
+      "name_da": "Islandsk",
+      "name_en": "Icelandic",
+      "name_native": "Íslenska",
+      "slug": "islandsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "it",
+      "name_da": "Italiensk",
+      "name_en": "Italian",
+      "name_native": "Italiano",
+      "slug": "italiensk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ja",
+      "name_da": "Japansk",
+      "name_en": "Japanese",
+      "name_native": "日本語",
+      "slug": "japansk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ka",
+      "name_da": "Georgisk",
+      "name_en": "Georgian",
+      "name_native": "ქართული",
+      "slug": "georgisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "kg",
+      "name_da": "Kongo",
+      "name_en": "Kongo",
+      "name_native": "KiKongo",
+      "slug": "kongo",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "kk",
+      "name_da": "Kasakhisk",
+      "name_en": "Kazakh",
+      "name_native": "Қазақша",
+      "slug": "kasakhisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "kl",
+      "name_da": "Grønlandsk",
+      "name_en": "Greenlandic",
+      "name_native": "Kalaallisut",
+      "slug": "groenlandsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "km",
+      "name_da": "Khmer",
+      "name_en": "Cambodian",
+      "name_native": "ភាសាខ្មែរ",
+      "slug": "khmer",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ko",
+      "name_da": "Koreansk",
+      "name_en": "Korean",
+      "name_native": "한국어",
+      "slug": "koreansk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ku",
+      "name_da": "Kurdisk",
+      "name_en": "Kurdish",
+      "name_native": "Kurdî / كوردی",
+      "slug": "kurdisk",
+      "rtl": true
+    },
+    {
+      "iso_639_1": "ky",
+      "name_da": "Kirgisisk",
+      "name_en": "Kyrgyz",
+      "name_native": "Кыргызча",
+      "slug": "kirgisisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "la",
+      "name_da": "Latin",
+      "name_en": "Latin",
+      "name_native": "Latina",
+      "slug": "latin",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "lb",
+      "name_da": "Luxembourgsk",
+      "name_en": "Luxembourgish",
+      "name_native": "Lëtzebuergesch",
+      "slug": "luxembourgsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ln",
+      "name_da": "Lingala",
+      "name_en": "Lingala",
+      "name_native": "Lingála",
+      "slug": "lingala",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "lo",
+      "name_da": "Laotisk",
+      "name_en": "Laotian",
+      "name_native": "ລາວ / Pha xa lao",
+      "slug": "laotisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "lt",
+      "name_da": "Litauisk",
+      "name_en": "Lithuanian",
+      "name_native": "Lietuvių",
+      "slug": "litauisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "lu",
+      "name_da": "Luba-Katanga",
+      "name_en": "Luba-Katanga",
+      "name_native": "Tshiluba",
+      "slug": "luba-katanga",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "lv",
+      "name_da": "Lettisk",
+      "name_en": "Latvian",
+      "name_native": "Latviešu",
+      "slug": "lettisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "mg",
+      "name_da": "Malagassisk",
+      "name_en": "Malagasy",
+      "name_native": "Malagasy",
+      "slug": "malagassisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "mh",
+      "name_da": "Marshallsk",
+      "name_en": "Marshallese",
+      "name_native": "Kajin Majel / Ebon",
+      "slug": "marshallsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "mi",
+      "name_da": "Maori",
+      "name_en": "Maori",
+      "name_native": "Māori",
+      "slug": "maori",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "mk",
+      "name_da": "Makedonsk",
+      "name_en": "Macedonian",
+      "name_native": "Македонски",
+      "slug": "makedonsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "mn",
+      "name_da": "Mongolsk",
+      "name_en": "Mongolian",
+      "name_native": "Монгол",
+      "slug": "mongolsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ms",
+      "name_da": "Malajisk",
+      "name_en": "Malay",
+      "name_native": "Bahasa Melayu",
+      "slug": "malajisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "mt",
+      "name_da": "Maltesisk",
+      "name_en": "Maltese",
+      "name_native": "bil-Malti",
+      "slug": "maltesisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "my",
+      "name_da": "Burmesisk",
+      "name_en": "Burmese",
+      "name_native": "မြန်မာစာ",
+      "slug": "burmesisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "na",
+      "name_da": "Nauruansk",
+      "name_en": "Nauruan",
+      "name_native": "Dorerin Naoero",
+      "slug": "nauruansk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "nb",
+      "name_da": "Norsk bokmål",
+      "name_en": "Norwegian Bokmål",
+      "name_native": "Norsk bokmål",
+      "slug": "norsk-bokmaal",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "nd",
+      "name_da": "Nordndebele",
+      "name_en": "North Ndebele",
+      "name_native": "Sindebele",
+      "slug": "nordndebele",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ne",
+      "name_da": "Nepalesisk",
+      "name_en": "Nepali",
+      "name_native": "नेपाली",
+      "slug": "nepalesisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "nl",
+      "name_da": "Hollandsk",
+      "name_en": "Dutch",
+      "name_native": "Nederlands",
+      "slug": "hollandsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "nn",
+      "name_da": "Nynorsk",
+      "name_en": "Norwegian Nynorsk",
+      "name_native": "Norsk nynorsk",
+      "slug": "nynorsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "no",
+      "name_da": "Norsk",
+      "name_en": "Norwegian",
+      "name_native": "Norsk",
+      "slug": "norsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "nr",
+      "name_da": "Sydndebele",
+      "name_en": "South Ndebele",
+      "name_native": "isiNdebele",
+      "slug": "sydndebele",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ny",
+      "name_da": "Chichewa",
+      "name_en": "Chichewa",
+      "name_native": "Chi-Chewa",
+      "slug": "chichewa",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "oc",
+      "name_da": "Occitansk",
+      "name_en": "Occitan",
+      "name_native": "Occitan",
+      "slug": "occitansk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "pa",
+      "name_da": "Punjabi",
+      "name_en": "Panjabi / Punjabi",
+      "name_native": "ਪੰਜਾਬੀ / पंजाबी / پنجابي",
+      "slug": "punjabi",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "pl",
+      "name_da": "Polsk",
+      "name_en": "Polish",
+      "name_native": "Polski",
+      "slug": "polsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ps",
+      "name_da": "Pashto",
+      "name_en": "Pashto",
+      "name_native": "پښتو",
+      "slug": "pashto",
+      "rtl": true
+    },
+    {
+      "iso_639_1": "pt",
+      "name_da": "Portugisisk",
+      "name_en": "Portuguese",
+      "name_native": "Português",
+      "slug": "portugisisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "qu",
+      "name_da": "Quechua",
+      "name_en": "Quechua",
+      "name_native": "Runa Simi",
+      "slug": "quechua",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "rn",
+      "name_da": "Kirundi",
+      "name_en": "Kirundi",
+      "name_native": "Kirundi",
+      "slug": "kirundi",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ro",
+      "name_da": "Rumænsk",
+      "name_en": "Romanian",
+      "name_native": "Română",
+      "slug": "rumaensk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ru",
+      "name_da": "Russisk",
+      "name_en": "Russian",
+      "name_native": "Русский",
+      "slug": "russisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "rw",
+      "name_da": "Kinyarwanda",
+      "name_en": "Rwandi",
+      "name_native": "Kinyarwandi",
+      "slug": "kinyarwanda",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "sg",
+      "name_da": "Sango",
+      "name_en": "Sango",
+      "name_native": "Sängö",
+      "slug": "sango",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "si",
+      "name_da": "Singalesisk",
+      "name_en": "Sinhalese",
+      "name_native": "සිංහල",
+      "slug": "singalesisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "sk",
+      "name_da": "Slovakisk",
+      "name_en": "Slovak",
+      "name_native": "Slovenčina",
+      "slug": "slovakisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "sl",
+      "name_da": "Slovensk",
+      "name_en": "Slovenian",
+      "name_native": "Slovenščina",
+      "slug": "slovensk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "sm",
+      "name_da": "Samoansk",
+      "name_en": "Samoan",
+      "name_native": "Gagana Samoa",
+      "slug": "samoansk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "sn",
+      "name_da": "Shona",
+      "name_en": "Shona",
+      "name_native": "chiShona",
+      "slug": "shona",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "so",
+      "name_da": "Somali",
+      "name_en": "Somalia",
+      "name_native": "Soomaaliga",
+      "slug": "somali",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "sq",
+      "name_da": "Albansk",
+      "name_en": "Albanian",
+      "name_native": "Shqip",
+      "slug": "albansk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "sr",
+      "name_da": "Serbisk",
+      "name_en": "Serbian",
+      "name_native": "Српски",
+      "slug": "serbisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ss",
+      "name_da": "Swati",
+      "name_en": "Swati",
+      "name_native": "SiSwati",
+      "slug": "swati",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "st",
+      "name_da": "Sydsotho",
+      "name_en": "Southern Sotho",
+      "name_native": "Sesotho",
+      "slug": "sydsotho",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "sv",
+      "name_da": "Svensk",
+      "name_en": "Swedish",
+      "name_native": "Svenska",
+      "slug": "svensk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "sw",
+      "name_da": "Swahili",
+      "name_en": "Swahili",
+      "name_native": "Kiswahili",
+      "slug": "swahili",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ta",
+      "name_da": "Tamil",
+      "name_en": "Tamil",
+      "name_native": "தமிழ்",
+      "slug": "tamil",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "tg",
+      "name_da": "Tadsjikisk",
+      "name_en": "Tajik",
+      "name_native": "Тоҷикӣ",
+      "slug": "tadsjikisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "th",
+      "name_da": "Thai",
+      "name_en": "Thai",
+      "name_native": "ไทย / Phasa Thai",
+      "slug": "thai",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ti",
+      "name_da": "Tigrinya",
+      "name_en": "Tigrinya",
+      "name_native": "ትግርኛ",
+      "slug": "tigrinya",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "tk",
+      "name_da": "Turkmensk",
+      "name_en": "Turkmen",
+      "name_native": "Туркмен / تركمن",
+      "slug": "turkmensk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "tl",
+      "name_da": "Tagalog",
+      "name_en": "Tagalog / Filipino",
+      "name_native": "Tagalog",
+      "slug": "tagalog",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "tn",
+      "name_da": "Tswana",
+      "name_en": "Tswana",
+      "name_native": "Setswana",
+      "slug": "tswana",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "to",
+      "name_da": "Tongansk",
+      "name_en": "Tonga",
+      "name_native": "Lea Faka-Tonga",
+      "slug": "tongansk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "tr",
+      "name_da": "Tyrkisk",
+      "name_en": "Turkish",
+      "name_native": "Türkçe",
+      "slug": "tyrkisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ts",
+      "name_da": "Tsonga",
+      "name_en": "Tsonga",
+      "name_native": "Xitsonga",
+      "slug": "tsonga",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "uk",
+      "name_da": "Ukrainsk",
+      "name_en": "Ukrainian",
+      "name_native": "Українська",
+      "slug": "ukrainsk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ur",
+      "name_da": "Urdu",
+      "name_en": "Urdu",
+      "name_native": "اردو",
+      "slug": "urdu",
+      "rtl": true
+    },
+    {
+      "iso_639_1": "uz",
+      "name_da": "Usbekisk",
+      "name_en": "Uzbek",
+      "name_native": "O'zbekcha",
+      "slug": "usbekisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "ve",
+      "name_da": "Venda",
+      "name_en": "Venda",
+      "name_native": "Tshivenḓa",
+      "slug": "venda",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "vi",
+      "name_da": "Vietnamesisk",
+      "name_en": "Vietnamese",
+      "name_native": "Tiếng Việt",
+      "slug": "vietnamesisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "xh",
+      "name_da": "Xhosa",
+      "name_en": "Xhosa",
+      "name_native": "isiXhosa",
+      "slug": "xhosa",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "zh",
+      "name_da": "Kinesisk",
+      "name_en": "Chinese",
+      "name_native": "中文",
+      "slug": "kinesisk",
+      "rtl": false
+    },
+    {
+      "iso_639_1": "zu",
+      "name_da": "Zulu",
+      "name_en": "Zulu",
+      "name_native": "isiZulu",
+      "slug": "zulu",
+      "rtl": false
+    }
+  ],
+  "meta": {
+    "title": "Sprog efter ISO 639-1 - Gratis download",
+    "description": "184 levende verdenssprog efter ISO 639-1 med danske, engelske og oprindelige navne samt RTL-flag. Indeholder 115 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Sprog efter ISO 639-1 | ListBase",
+    "seo_description": "Download Sprog efter ISO 639-1 — 115 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 115 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

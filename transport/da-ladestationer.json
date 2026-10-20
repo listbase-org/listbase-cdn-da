@@ -1,0 +1,3461 @@
+{
+  "id": "da-ladestationer",
+  "name": "Ladestationer (elbil) i Danmark – OpenStreetMap (EV charging stations in Denmark, OSM)",
+  "title": "Ladestationer (elbil) i Danmark – OpenStreetMap (EV charging stations in Denmark, OSM)",
+  "description": "Liste over 684 ladestationer (elbil) i Danmark fra OpenStreetMap (amenity=charging_station) — navn og koordinater (WGS84).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 684,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "12720",
+      "latitude": 55.692292,
+      "longitude": 12.561161
+    },
+    {
+      "name": "12721",
+      "latitude": 55.692314,
+      "longitude": 12.561165
+    },
+    {
+      "name": "12722",
+      "latitude": 55.692328,
+      "longitude": 12.561168
+    },
+    {
+      "name": "12723",
+      "latitude": 55.692353,
+      "longitude": 12.561168
+    },
+    {
+      "name": "12724",
+      "latitude": 55.692377,
+      "longitude": 12.561174
+    },
+    {
+      "name": "12725",
+      "latitude": 55.693175,
+      "longitude": 12.555556
+    },
+    {
+      "name": "12726",
+      "latitude": 55.693204,
+      "longitude": 12.555512
+    },
+    {
+      "name": "12727",
+      "latitude": 55.69324,
+      "longitude": 12.555481
+    },
+    {
+      "name": "12728",
+      "latitude": 55.693266,
+      "longitude": 12.555446
+    },
+    {
+      "name": "Aalborg Supercharger",
+      "latitude": 57.004187,
+      "longitude": 9.871294
+    },
+    {
+      "name": "Aarhus Havn - Molslinjen - Clever",
+      "latitude": 56.150003,
+      "longitude": 10.252038
+    },
+    {
+      "name": "Aarhus Supercharger",
+      "latitude": 56.178005,
+      "longitude": 10.138786
+    },
+    {
+      "name": "ABC Lavpris - Randers - Hobrovej 134",
+      "latitude": 56.474014,
+      "longitude": 10.011404
+    },
+    {
+      "name": "ABC Lavpris Billund",
+      "latitude": 55.730073,
+      "longitude": 9.113414
+    },
+    {
+      "name": "ABC Lavpris Ulfborg",
+      "latitude": 56.271262,
+      "longitude": 8.318886
+    },
+    {
+      "name": "ABC Videbæk",
+      "latitude": 56.08876,
+      "longitude": 8.617058
+    },
+    {
+      "name": "AC/DC",
+      "latitude": 55.453182,
+      "longitude": 11.789056
+    },
+    {
+      "name": "ALDI Herning - Valløvej - PowerFuel",
+      "latitude": 56.153262,
+      "longitude": 8.9321
+    },
+    {
+      "name": "Alkjærparken",
+      "latitude": 56.081039,
+      "longitude": 8.270155
+    },
+    {
+      "name": "Allegade 1",
+      "latitude": 56.038813,
+      "longitude": 12.611309
+    },
+    {
+      "name": "Allego",
+      "latitude": 56.181661,
+      "longitude": 10.124749
+    },
+    {
+      "name": "Allego - Gamle Hovedvej 25 Aarup",
+      "latitude": 55.413918,
+      "longitude": 10.055632
+    },
+    {
+      "name": "Allego - Strandby Kirkevej 6",
+      "latitude": 55.478245,
+      "longitude": 8.487433
+    },
+    {
+      "name": "Allego Odense SØ",
+      "latitude": 55.354123,
+      "longitude": 10.420051
+    },
+    {
+      "name": "Allegro Lynlader",
+      "latitude": 55.60869,
+      "longitude": 8.495633
+    },
+    {
+      "name": "AmpGo - Monta - Skagensvej 23",
+      "latitude": 57.592479,
+      "longitude": 10.412606
+    },
+    {
+      "name": "Anton Rosens Plads",
+      "latitude": 55.831837,
+      "longitude": 10.593848
+    },
+    {
+      "name": "AURA Energi DC",
+      "latitude": 56.130232,
+      "longitude": 10.164483
+    },
+    {
+      "name": "Autoteknik Hundelev - OK",
+      "latitude": 57.424644,
+      "longitude": 9.843431
+    },
+    {
+      "name": "Ballen Færgehavn",
+      "latitude": 55.807153,
+      "longitude": 10.644097
+    },
+    {
+      "name": "Bang og Olufsen Allé 1 - Clever",
+      "latitude": 56.480316,
+      "longitude": 8.606659
+    },
+    {
+      "name": "Base2Charge",
+      "latitude": 54.912123,
+      "longitude": 9.7806
+    },
+    {
+      "name": "Base2Charge",
+      "latitude": 55.350082,
+      "longitude": 10.183336
+    },
+    {
+      "name": "Better Energy Jyllandsgade Sønderborg",
+      "latitude": 54.91958,
+      "longitude": 9.81772
+    },
+    {
+      "name": "Bilka Herning - Clever",
+      "latitude": 56.135329,
+      "longitude": 9.006357
+    },
+    {
+      "name": "Bilka Tilst",
+      "latitude": 56.182622,
+      "longitude": 10.103627
+    },
+    {
+      "name": "Bilka Vejle - Nord",
+      "latitude": 55.725391,
+      "longitude": 9.581539
+    },
+    {
+      "name": "Bilka Viborg - Clever",
+      "latitude": 56.447417,
+      "longitude": 9.36794
+    },
+    {
+      "name": "Billund Supercharger",
+      "latitude": 55.732333,
+      "longitude": 9.134682
+    },
+    {
+      "name": "Bjerregaard",
+      "latitude": 55.86375,
+      "longitude": 8.181271
+    },
+    {
+      "name": "Blokhus Supercharger",
+      "latitude": 57.252384,
+      "longitude": 9.58252
+    },
+    {
+      "name": "Bork Havn Surfstrand",
+      "latitude": 55.846802,
+      "longitude": 8.277193
+    },
+    {
+      "name": "Brylle auto",
+      "latitude": 55.32284,
+      "longitude": 10.253938
+    },
+    {
+      "name": "Byens Egen Ladestation",
+      "latitude": 56.075394,
+      "longitude": 9.698006
+    },
+    {
+      "name": "ChargePoint",
+      "latitude": 55.666812,
+      "longitude": 12.519079
+    },
+    {
+      "name": "ChargePoint",
+      "latitude": 55.759308,
+      "longitude": 8.920248
+    },
+    {
+      "name": "ChargePoint",
+      "latitude": 55.915142,
+      "longitude": 12.278181
+    },
+    {
+      "name": "ChargePoint",
+      "latitude": 56.139783,
+      "longitude": 9.607108
+    },
+    {
+      "name": "Circle K",
+      "latitude": 54.947817,
+      "longitude": 8.87551
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.097985,
+      "longitude": 14.712001
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.121227,
+      "longitude": 11.969159
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.165685,
+      "longitude": 11.959363
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.169229,
+      "longitude": 11.956043
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.309307,
+      "longitude": 10.805098
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.353502,
+      "longitude": 10.419163
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.394362,
+      "longitude": 10.356734
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.446233,
+      "longitude": 12.172819
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.460067,
+      "longitude": 11.799207
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.4828,
+      "longitude": 9.148041
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.488612,
+      "longitude": 12.161872
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.559344,
+      "longitude": 11.96121
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.640178,
+      "longitude": 11.830877
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.646848,
+      "longitude": 12.288674
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.646903,
+      "longitude": 12.541701
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.653477,
+      "longitude": 12.540486
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.65475,
+      "longitude": 12.405189
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.684546,
+      "longitude": 11.090549
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.697903,
+      "longitude": 11.726831
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.70623,
+      "longitude": 12.531556
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.754602,
+      "longitude": 12.512998
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.797064,
+      "longitude": 12.480578
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.843645,
+      "longitude": 12.065842
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.946719,
+      "longitude": 12.047843
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.048543,
+      "longitude": 9.946262
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.068258,
+      "longitude": 9.978051
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.135227,
+      "longitude": 8.98522
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.139697,
+      "longitude": 10.183151
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.265893,
+      "longitude": 9.313577
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.365821,
+      "longitude": 8.636664
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.413778,
+      "longitude": 10.885727
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.438992,
+      "longitude": 10.049673
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.449946,
+      "longitude": 9.391916
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.488921,
+      "longitude": 8.583295
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.792869,
+      "longitude": 8.853504
+    },
+    {
+      "name": "Circle K - Bregnevej Silkeborg",
+      "latitude": 56.186158,
+      "longitude": 9.557997
+    },
+    {
+      "name": "Circle K - Ikast",
+      "latitude": 56.139478,
+      "longitude": 9.149903
+    },
+    {
+      "name": "Circle K - Kongevejen Helsingør",
+      "latitude": 56.030179,
+      "longitude": 12.601044
+    },
+    {
+      "name": "Circle K - Nivå",
+      "latitude": 55.937354,
+      "longitude": 12.4877
+    },
+    {
+      "name": "Circle K - Strandbygade",
+      "latitude": 55.473068,
+      "longitude": 8.436333
+    },
+    {
+      "name": "Circle K Aabenraa",
+      "latitude": 55.065272,
+      "longitude": 9.366138
+    },
+    {
+      "name": "Circle K Aalborg Ø",
+      "latitude": 57.020388,
+      "longitude": 9.967502
+    },
+    {
+      "name": "Circle K Amager Landevej",
+      "latitude": 55.627027,
+      "longitude": 12.624534
+    },
+    {
+      "name": "Circle K Bøgeparken",
+      "latitude": 55.68501,
+      "longitude": 9.561308
+    },
+    {
+      "name": "Circle K Danmarksgade, Frederikshavn",
+      "latitude": 57.444004,
+      "longitude": 10.539229
+    },
+    {
+      "name": "Circle K Harlev J",
+      "latitude": 56.151557,
+      "longitude": 10.006686
+    },
+    {
+      "name": "Circle K Hellerup",
+      "latitude": 55.745532,
+      "longitude": 12.55628
+    },
+    {
+      "name": "Circle K Hirtshals",
+      "latitude": 57.588018,
+      "longitude": 9.958146
+    },
+    {
+      "name": "Circle K Hvidovre",
+      "latitude": 55.645479,
+      "longitude": 12.460311
+    },
+    {
+      "name": "Circle K Kongens Lyngby",
+      "latitude": 55.775114,
+      "longitude": 12.521032
+    },
+    {
+      "name": "Circle K København S",
+      "latitude": 55.668592,
+      "longitude": 12.605917
+    },
+    {
+      "name": "Circle K Lillerød",
+      "latitude": 55.869685,
+      "longitude": 12.346861
+    },
+    {
+      "name": "Circle K Lind",
+      "latitude": 56.108653,
+      "longitude": 8.978211
+    },
+    {
+      "name": "Circle K Lynlader",
+      "latitude": 54.922772,
+      "longitude": 9.785144
+    },
+    {
+      "name": "Circle K Lynlader",
+      "latitude": 55.640448,
+      "longitude": 12.097762
+    },
+    {
+      "name": "Circle K Lynlader",
+      "latitude": 55.663459,
+      "longitude": 12.362003
+    },
+    {
+      "name": "Circle K Lynlader",
+      "latitude": 55.883117,
+      "longitude": 12.497869
+    },
+    {
+      "name": "Circle K Lynlader Padborg",
+      "latitude": 54.83185,
+      "longitude": 9.351222
+    },
+    {
+      "name": "Circle K Nørager",
+      "latitude": 56.782865,
+      "longitude": 9.694248
+    },
+    {
+      "name": "Circle K Recharge City",
+      "latitude": 55.845088,
+      "longitude": 9.733081
+    },
+    {
+      "name": "Circle K Ribevej, Varde",
+      "latitude": 55.610579,
+      "longitude": 8.493982
+    },
+    {
+      "name": "Circle K Rødovre",
+      "latitude": 55.692217,
+      "longitude": 12.462984
+    },
+    {
+      "name": "Circle K Søborg",
+      "latitude": 55.733908,
+      "longitude": 12.476718
+    },
+    {
+      "name": "Circle K Taastrup",
+      "latitude": 55.65616,
+      "longitude": 12.3079
+    },
+    {
+      "name": "Circle K Trafikcenter Slagelse",
+      "latitude": 55.387767,
+      "longitude": 11.362387
+    },
+    {
+      "name": "Circle K Tranbjerg J",
+      "latitude": 56.103734,
+      "longitude": 10.145423
+    },
+    {
+      "name": "Circle K TRUCK",
+      "latitude": 56.413263,
+      "longitude": 10.070908
+    },
+    {
+      "name": "Circle K Vejle",
+      "latitude": 55.722764,
+      "longitude": 9.57058
+    },
+    {
+      "name": "Circle K Østerbakken, Thisted",
+      "latitude": 56.957311,
+      "longitude": 8.706355
+    },
+    {
+      "name": "Cirkel K Havnegade, Næstved",
+      "latitude": 55.22332,
+      "longitude": 11.758375
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.876551,
+      "longitude": 9.657629
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.887231,
+      "longitude": 9.669831
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.887942,
+      "longitude": 9.675004
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.889378,
+      "longitude": 9.674034
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.890956,
+      "longitude": 9.548855
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.903349,
+      "longitude": 9.812309
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.905094,
+      "longitude": 9.786394
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.905943,
+      "longitude": 9.803885
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.906253,
+      "longitude": 9.799519
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.906283,
+      "longitude": 9.813879
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.907579,
+      "longitude": 9.795697
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.910458,
+      "longitude": 9.786414
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.911585,
+      "longitude": 9.765908
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.911593,
+      "longitude": 9.79375
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.912247,
+      "longitude": 9.779519
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.913239,
+      "longitude": 9.790719
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.9149,
+      "longitude": 9.784351
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.914938,
+      "longitude": 9.812275
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.915107,
+      "longitude": 9.804272
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.916281,
+      "longitude": 9.78723
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.92063,
+      "longitude": 9.756493
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.922867,
+      "longitude": 9.834569
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.923565,
+      "longitude": 9.806601
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.924473,
+      "longitude": 9.830066
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.926092,
+      "longitude": 10.041405
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.92916,
+      "longitude": 9.806922
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.932018,
+      "longitude": 9.49679
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.937079,
+      "longitude": 9.255142
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.937511,
+      "longitude": 8.871779
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.938125,
+      "longitude": 9.08591
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.938181,
+      "longitude": 9.406435
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.939536,
+      "longitude": 9.086457
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.94639,
+      "longitude": 9.860575
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.946668,
+      "longitude": 9.103747
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.949723,
+      "longitude": 9.885825
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.95045,
+      "longitude": 9.748544
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.95534,
+      "longitude": 8.683311
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.962109,
+      "longitude": 9.786108
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.981492,
+      "longitude": 9.973188
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.98572,
+      "longitude": 9.866479
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.990444,
+      "longitude": 9.289356
+    },
+    {
+      "name": "Clever",
+      "latitude": 54.994167,
+      "longitude": 9.429892
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.006647,
+      "longitude": 9.429246
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.010554,
+      "longitude": 9.127737
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.032216,
+      "longitude": 9.817396
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.033771,
+      "longitude": 9.817801
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.034461,
+      "longitude": 9.809678
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.041189,
+      "longitude": 9.809122
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.043624,
+      "longitude": 9.812307
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.058643,
+      "longitude": 10.61761
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.063992,
+      "longitude": 10.615522
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.06437,
+      "longitude": 9.366323
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.075432,
+      "longitude": 8.673647
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.08046,
+      "longitude": 11.959245
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.087907,
+      "longitude": 9.462537
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.158556,
+      "longitude": 8.763679
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.168584,
+      "longitude": 8.754347
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.182833,
+      "longitude": 9.066109
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.216462,
+      "longitude": 8.850811
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.219934,
+      "longitude": 9.476401
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.249499,
+      "longitude": 9.468778
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.251572,
+      "longitude": 9.480339
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.253055,
+      "longitude": 9.503232
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.25336,
+      "longitude": 9.488549
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.255707,
+      "longitude": 9.486948
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.256517,
+      "longitude": 9.486947
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.262251,
+      "longitude": 8.685467
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.270868,
+      "longitude": 9.498302
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.280149,
+      "longitude": 8.725072
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.309897,
+      "longitude": 9.14833
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.324665,
+      "longitude": 8.757175
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.331164,
+      "longitude": 8.771143
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.332618,
+      "longitude": 8.769813
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.342254,
+      "longitude": 8.787977
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.35254,
+      "longitude": 9.357332
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.368249,
+      "longitude": 9.052872
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.369301,
+      "longitude": 9.059229
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.377064,
+      "longitude": 10.429877
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.378084,
+      "longitude": 10.433361
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.394588,
+      "longitude": 10.377044
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.404843,
+      "longitude": 9.531096
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.417947,
+      "longitude": 9.565109
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.422555,
+      "longitude": 9.293612
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.42765,
+      "longitude": 9.283602
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.427987,
+      "longitude": 9.276752
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.429858,
+      "longitude": 9.293798
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.437207,
+      "longitude": 8.721122
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.451083,
+      "longitude": 9.46886
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.45631,
+      "longitude": 9.13842
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.456871,
+      "longitude": 9.557235
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.464472,
+      "longitude": 8.702977
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.478621,
+      "longitude": 8.800198
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.478742,
+      "longitude": 8.798964
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.479526,
+      "longitude": 12.185711
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.48448,
+      "longitude": 9.021167
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.488959,
+      "longitude": 9.112146
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.498375,
+      "longitude": 8.914241
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.501346,
+      "longitude": 8.988067
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.513102,
+      "longitude": 8.90158
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.554984,
+      "longitude": 8.126475
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.654627,
+      "longitude": 12.62034
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.676377,
+      "longitude": 12.561984
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.68321,
+      "longitude": 12.585101
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.710946,
+      "longitude": 12.570801
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.711198,
+      "longitude": 12.478501
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.711275,
+      "longitude": 12.540375
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.711393,
+      "longitude": 12.561117
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.715238,
+      "longitude": 12.571676
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.716001,
+      "longitude": 12.575286
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.716026,
+      "longitude": 12.541585
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.728472,
+      "longitude": 12.439716
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.732629,
+      "longitude": 12.382266
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.732855,
+      "longitude": 12.386627
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.735464,
+      "longitude": 9.101852
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.740811,
+      "longitude": 12.545105
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.75978,
+      "longitude": 12.416733
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.962124,
+      "longitude": 11.850475
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.968149,
+      "longitude": 12.019742
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.969356,
+      "longitude": 12.010351
+    },
+    {
+      "name": "Clever",
+      "latitude": 55.976625,
+      "longitude": 12.017286
+    },
+    {
+      "name": "Clever",
+      "latitude": 56.11366,
+      "longitude": 10.17345
+    },
+    {
+      "name": "Clever",
+      "latitude": 56.541657,
+      "longitude": 9.896975
+    },
+    {
+      "name": "Clever",
+      "latitude": 56.793019,
+      "longitude": 8.852524
+    },
+    {
+      "name": "Clever",
+      "latitude": 57.590448,
+      "longitude": 9.961218
+    },
+    {
+      "name": "Clever - Andelskassen i Skjern",
+      "latitude": 55.947976,
+      "longitude": 8.492191
+    },
+    {
+      "name": "Clever - Autohuset Vestergaard, Hillerød",
+      "latitude": 55.927246,
+      "longitude": 12.261313
+    },
+    {
+      "name": "Clever - Ballerup Byvej",
+      "latitude": 55.736894,
+      "longitude": 12.356189
+    },
+    {
+      "name": "Clever - Borgergade 34, Esbjerg",
+      "latitude": 55.46514,
+      "longitude": 8.452638
+    },
+    {
+      "name": "Clever - Føtex Esbjerg",
+      "latitude": 55.465677,
+      "longitude": 8.445437
+    },
+    {
+      "name": "Clever - Hansen & Larsen",
+      "latitude": 55.986562,
+      "longitude": 8.411541
+    },
+    {
+      "name": "Clever - Kia Skjern - Unique Biler A/S",
+      "latitude": 55.954396,
+      "longitude": 8.514469
+    },
+    {
+      "name": "Clever - Lalandia Søndervig",
+      "latitude": 56.120131,
+      "longitude": 8.121416
+    },
+    {
+      "name": "Clever - Maribo Erhvervspark",
+      "latitude": 54.779441,
+      "longitude": 11.479787
+    },
+    {
+      "name": "Clever - Netto",
+      "latitude": 56.13911,
+      "longitude": 9.144479
+    },
+    {
+      "name": "Clever - Netto Hvidbjerg Strandvej - Blåvand",
+      "latitude": 55.555668,
+      "longitude": 8.141736
+    },
+    {
+      "name": "Clever - Netto Rønne",
+      "latitude": 55.092776,
+      "longitude": 14.729774
+    },
+    {
+      "name": "Clever - Nykøbing Mors",
+      "latitude": 56.788046,
+      "longitude": 8.827864
+    },
+    {
+      "name": "Clever - Rema 1000 Bording",
+      "latitude": 56.140994,
+      "longitude": 9.272549
+    },
+    {
+      "name": "Clever - Rønnede",
+      "latitude": 55.2571,
+      "longitude": 11.996431
+    },
+    {
+      "name": "Clever - SPAR Fanø",
+      "latitude": 55.438332,
+      "longitude": 8.385958
+    },
+    {
+      "name": "Clever - Storcenter Nord Århus - P-Tag",
+      "latitude": 56.171199,
+      "longitude": 10.18828
+    },
+    {
+      "name": "Clever - Superbrugsen Nordby",
+      "latitude": 55.442315,
+      "longitude": 8.399166
+    },
+    {
+      "name": "Clever - Sønderho Strandvej",
+      "latitude": 55.349002,
+      "longitude": 8.466516
+    },
+    {
+      "name": "Clever 50kW",
+      "latitude": 56.1605,
+      "longitude": 10.221953
+    },
+    {
+      "name": "Clever AC - Borgen Tagparkering",
+      "latitude": 54.909503,
+      "longitude": 9.792532
+    },
+    {
+      "name": "Clever Bilka Esbjerg",
+      "latitude": 55.509914,
+      "longitude": 8.456919
+    },
+    {
+      "name": "Clever Elgiganten Fredercia",
+      "latitude": 55.568115,
+      "longitude": 9.699135
+    },
+    {
+      "name": "Clever Esbjerg Lufthavn",
+      "latitude": 55.521191,
+      "longitude": 8.547812
+    },
+    {
+      "name": "Clever Føtex Bolbro",
+      "latitude": 55.394744,
+      "longitude": 10.348216
+    },
+    {
+      "name": "Clever Hurtiglader",
+      "latitude": 54.929495,
+      "longitude": 9.805634
+    },
+    {
+      "name": "Clever Hurtiglader",
+      "latitude": 55.215593,
+      "longitude": 9.371833
+    },
+    {
+      "name": "Clever Hurtiglader",
+      "latitude": 55.216364,
+      "longitude": 9.376631
+    },
+    {
+      "name": "Clever Hurtiglader",
+      "latitude": 55.255509,
+      "longitude": 9.48167
+    },
+    {
+      "name": "Clever Hurtiglader - Borgen parkeringskælder",
+      "latitude": 54.909053,
+      "longitude": 9.792037
+    },
+    {
+      "name": "Clever Ladestandere Spaniensgade",
+      "latitude": 55.660585,
+      "longitude": 12.608776
+    },
+    {
+      "name": "Clever Ladestandere Tyrolsgade",
+      "latitude": 55.659275,
+      "longitude": 12.608559
+    },
+    {
+      "name": "Clever Lynlader",
+      "latitude": 54.908779,
+      "longitude": 9.792089
+    },
+    {
+      "name": "Clever Lynlader",
+      "latitude": 54.910374,
+      "longitude": 9.588275
+    },
+    {
+      "name": "Clever Lynlader",
+      "latitude": 54.911706,
+      "longitude": 9.793866
+    },
+    {
+      "name": "Clever Lynlader",
+      "latitude": 54.913036,
+      "longitude": 9.79149
+    },
+    {
+      "name": "Clever Lynlader",
+      "latitude": 54.923582,
+      "longitude": 9.806834
+    },
+    {
+      "name": "Clever Lynlader",
+      "latitude": 54.925004,
+      "longitude": 9.787758
+    },
+    {
+      "name": "Clever Lynlader",
+      "latitude": 54.9467,
+      "longitude": 9.875963
+    },
+    {
+      "name": "Clever Lynlader",
+      "latitude": 55.056337,
+      "longitude": 9.742862
+    },
+    {
+      "name": "Clever Lynlader",
+      "latitude": 55.168515,
+      "longitude": 8.754133
+    },
+    {
+      "name": "Clever Lynlader",
+      "latitude": 55.2461,
+      "longitude": 9.484379
+    },
+    {
+      "name": "Clever Lynlader",
+      "latitude": 55.246148,
+      "longitude": 9.304326
+    },
+    {
+      "name": "Clever Lynlader",
+      "latitude": 55.254677,
+      "longitude": 9.482914
+    },
+    {
+      "name": "Clever Lynlader",
+      "latitude": 55.333146,
+      "longitude": 8.770331
+    },
+    {
+      "name": "Clever Lynlader - Moveero",
+      "latitude": 55.457504,
+      "longitude": 9.275882
+    },
+    {
+      "name": "Clever Lynlader - Netto Skærbæk",
+      "latitude": 55.15874,
+      "longitude": 8.769467
+    },
+    {
+      "name": "Clever Lynladestation Billund",
+      "latitude": 55.725391,
+      "longitude": 9.135382
+    },
+    {
+      "name": "Clever Lynladestation Nørresundby",
+      "latitude": 57.088735,
+      "longitude": 9.968864
+    },
+    {
+      "name": "Clever Lynladestation Odense",
+      "latitude": 55.352831,
+      "longitude": 10.419939
+    },
+    {
+      "name": "Clever Lynladestation Pårup",
+      "latitude": 56.131303,
+      "longitude": 9.349935
+    },
+    {
+      "name": "Clever Mega Syd",
+      "latitude": 56.117128,
+      "longitude": 10.151759
+    },
+    {
+      "name": "Clever Nyborg",
+      "latitude": 55.308405,
+      "longitude": 10.808782
+    },
+    {
+      "name": "Clever Rasteplads Lillebælt Nord",
+      "latitude": 55.488472,
+      "longitude": 9.844058
+    },
+    {
+      "name": "Clever ved Baettr Lem A/S",
+      "latitude": 56.02133,
+      "longitude": 8.375806
+    },
+    {
+      "name": "Clever XL-Byg",
+      "latitude": 55.479408,
+      "longitude": 12.186789
+    },
+    {
+      "name": "Clever Ålsgårde Station",
+      "latitude": 56.075574,
+      "longitude": 12.539223
+    },
+    {
+      "name": "CloudCharge - Bluefox",
+      "latitude": 56.156864,
+      "longitude": 8.96733
+    },
+    {
+      "name": "DagliBrugsen - Outrup - Storegade",
+      "latitude": 55.720579,
+      "longitude": 8.343029
+    },
+    {
+      "name": "Den Franske Autospecialist",
+      "latitude": 56.487974,
+      "longitude": 10.020676
+    },
+    {
+      "name": "Dæmningen 4 - Norlys",
+      "latitude": 56.131157,
+      "longitude": 8.957719
+    },
+    {
+      "name": "e-bike charging station",
+      "latitude": 55.009914,
+      "longitude": 14.991874
+    },
+    {
+      "name": "e-bike charging station",
+      "latitude": 55.027722,
+      "longitude": 15.109657
+    },
+    {
+      "name": "e-bike charging station",
+      "latitude": 55.062157,
+      "longitude": 15.133245
+    },
+    {
+      "name": "e-on",
+      "latitude": 54.982302,
+      "longitude": 12.525126
+    },
+    {
+      "name": "E.ON",
+      "latitude": 54.906508,
+      "longitude": 9.75305
+    },
+    {
+      "name": "E.ON",
+      "latitude": 54.921446,
+      "longitude": 9.814379
+    },
+    {
+      "name": "E.ON",
+      "latitude": 55.487189,
+      "longitude": 9.474972
+    },
+    {
+      "name": "E.On",
+      "latitude": 55.660302,
+      "longitude": 12.285519
+    },
+    {
+      "name": "E.ON",
+      "latitude": 55.708804,
+      "longitude": 12.565947
+    },
+    {
+      "name": "E.ON",
+      "latitude": 55.711267,
+      "longitude": 12.561292
+    },
+    {
+      "name": "E.ON",
+      "latitude": 55.711352,
+      "longitude": 12.570166
+    },
+    {
+      "name": "E.ON",
+      "latitude": 55.714643,
+      "longitude": 12.576617
+    },
+    {
+      "name": "E.ON",
+      "latitude": 56.354955,
+      "longitude": 8.615674
+    },
+    {
+      "name": "E.ON",
+      "latitude": 56.361289,
+      "longitude": 8.620965
+    },
+    {
+      "name": "E.ON",
+      "latitude": 56.763568,
+      "longitude": 8.863444
+    },
+    {
+      "name": "E.ON - Hotel Fjordgaarden",
+      "latitude": 56.094601,
+      "longitude": 8.236058
+    },
+    {
+      "name": "E.ON - Hotel Gjerrild Kro",
+      "latitude": 56.501427,
+      "longitude": 10.829851
+    },
+    {
+      "name": "E.ON - Løgismose 1 Frederikssund - 300 kW",
+      "latitude": 55.843522,
+      "longitude": 12.060408
+    },
+    {
+      "name": "E.ON - Løgismose 1 Frederikssund - 50 kW",
+      "latitude": 55.843549,
+      "longitude": 12.060561
+    },
+    {
+      "name": "E.ON - Prags Boulevard",
+      "latitude": 55.669915,
+      "longitude": 12.623059
+    },
+    {
+      "name": "E.ON - Tyrstrup Kro UFC",
+      "latitude": 55.359782,
+      "longitude": 9.466363
+    },
+    {
+      "name": "E.ON Charging Station",
+      "latitude": 57.116248,
+      "longitude": 8.606733
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 54.90837,
+      "longitude": 9.789876
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 54.911549,
+      "longitude": 9.78814
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 54.913035,
+      "longitude": 9.791413
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 54.919755,
+      "longitude": 9.794652
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 54.921083,
+      "longitude": 9.682155
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 55.332482,
+      "longitude": 8.76972
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 55.634957,
+      "longitude": 9.742265
+    },
+    {
+      "name": "E.ON Drive Charging Station",
+      "latitude": 54.70974,
+      "longitude": 11.91955
+    },
+    {
+      "name": "E.ON Drive Hurtiglader",
+      "latitude": 54.82701,
+      "longitude": 9.330987
+    },
+    {
+      "name": "E.ON Drive Lynlader",
+      "latitude": 55.395451,
+      "longitude": 10.188252
+    },
+    {
+      "name": "E.ON Drive Lynlader - Britanniavej 2",
+      "latitude": 55.463409,
+      "longitude": 8.447638
+    },
+    {
+      "name": "E.On Level 2 charging",
+      "latitude": 56.204931,
+      "longitude": 10.269986
+    },
+    {
+      "name": "E.ON Lynlader",
+      "latitude": 55.340637,
+      "longitude": 8.773362
+    },
+    {
+      "name": "E.ON Thorsminde Camping",
+      "latitude": 56.37615,
+      "longitude": 8.122477
+    },
+    {
+      "name": "Enghavevej Varde Eviny",
+      "latitude": 55.620393,
+      "longitude": 8.487674
+    },
+    {
+      "name": "Eon",
+      "latitude": 55.697451,
+      "longitude": 12.581337
+    },
+    {
+      "name": "eon Drive",
+      "latitude": 54.984812,
+      "longitude": 12.285419
+    },
+    {
+      "name": "Eon Drive",
+      "latitude": 57.576424,
+      "longitude": 9.985325
+    },
+    {
+      "name": "Eon Drive",
+      "latitude": 57.5921,
+      "longitude": 9.965662
+    },
+    {
+      "name": "EUC Nordvest Fiskeriskolen",
+      "latitude": 56.698148,
+      "longitude": 8.214916
+    },
+    {
+      "name": "EV-EL Struer - Spirii",
+      "latitude": 56.486961,
+      "longitude": 8.583876
+    },
+    {
+      "name": "Eviny",
+      "latitude": 55.353029,
+      "longitude": 10.420835
+    },
+    {
+      "name": "Eviny HBC1 360kW",
+      "latitude": 55.723415,
+      "longitude": 12.439561
+    },
+    {
+      "name": "Eviny HBC2 200kW",
+      "latitude": 55.723503,
+      "longitude": 12.439579
+    },
+    {
+      "name": "Eviny HBC3 360kW",
+      "latitude": 55.723586,
+      "longitude": 12.439597
+    },
+    {
+      "name": "Eviny HBC4 200kW",
+      "latitude": 55.723669,
+      "longitude": 12.439614
+    },
+    {
+      "name": "EWII",
+      "latitude": 55.463558,
+      "longitude": 8.583514
+    },
+    {
+      "name": "EWII",
+      "latitude": 55.477049,
+      "longitude": 9.118015
+    },
+    {
+      "name": "EWII",
+      "latitude": 55.53054,
+      "longitude": 8.654023
+    },
+    {
+      "name": "EWII - Bergs Plads",
+      "latitude": 55.949012,
+      "longitude": 8.492496
+    },
+    {
+      "name": "EWII - Bork Havn Nord",
+      "latitude": 55.849615,
+      "longitude": 8.281104
+    },
+    {
+      "name": "EWII - Klostervej",
+      "latitude": 55.943483,
+      "longitude": 8.488036
+    },
+    {
+      "name": "EWII - Ringkøbing ved McDonald's",
+      "latitude": 56.091375,
+      "longitude": 8.238844
+    },
+    {
+      "name": "EWII - Ringkøbing-Skjern Kulturcenter",
+      "latitude": 55.952568,
+      "longitude": 8.502748
+    },
+    {
+      "name": "EWII - Skjern Borgerservice",
+      "latitude": 55.947704,
+      "longitude": 8.495655
+    },
+    {
+      "name": "EWII - Stauning Havn",
+      "latitude": 55.954116,
+      "longitude": 8.372153
+    },
+    {
+      "name": "EWII - Trælborgvej 1",
+      "latitude": 55.057111,
+      "longitude": 8.829198
+    },
+    {
+      "name": "EWII Lynladestation, CPH",
+      "latitude": 55.630074,
+      "longitude": 12.65611
+    },
+    {
+      "name": "EXPRESS VEJLE ØST",
+      "latitude": 55.727702,
+      "longitude": 9.597842
+    },
+    {
+      "name": "Faster Kirke - Clever",
+      "latitude": 55.986226,
+      "longitude": 8.590975
+    },
+    {
+      "name": "Flintholm Alle Clever",
+      "latitude": 55.682579,
+      "longitude": 12.502104
+    },
+    {
+      "name": "Fogtmanns Plads",
+      "latitude": 55.621686,
+      "longitude": 8.480091
+    },
+    {
+      "name": "For Lind Pleje & Aktivitetscenter biler",
+      "latitude": 56.10501,
+      "longitude": 8.976978
+    },
+    {
+      "name": "Forbeholdt hjemmepleje",
+      "latitude": 56.136687,
+      "longitude": 8.952868
+    },
+    {
+      "name": "Frandsen Biler",
+      "latitude": 56.453959,
+      "longitude": 9.449846
+    },
+    {
+      "name": "Fredericia Supercharger",
+      "latitude": 55.534352,
+      "longitude": 9.717341
+    },
+    {
+      "name": "Frederikshavn Supercharger",
+      "latitude": 57.389305,
+      "longitude": 10.510393
+    },
+    {
+      "name": "Frelloskolen Varde - Clever",
+      "latitude": 55.632825,
+      "longitude": 8.467123
+    },
+    {
+      "name": "Føtex Ebeltoft - Clever",
+      "latitude": 56.202708,
+      "longitude": 10.678978
+    },
+    {
+      "name": "Føtex Egå - Clever",
+      "latitude": 56.205513,
+      "longitude": 10.262765
+    },
+    {
+      "name": "Føtex Food Skæring - Clever",
+      "latitude": 56.23423,
+      "longitude": 10.299577
+    },
+    {
+      "name": "Føtex Skive - Clever",
+      "latitude": 56.562687,
+      "longitude": 9.026895
+    },
+    {
+      "name": "Føtex Varde - Clever",
+      "latitude": 55.625154,
+      "longitude": 8.480854
+    },
+    {
+      "name": "Gl. Århusvej",
+      "latitude": 56.412357,
+      "longitude": 10.076184
+    },
+    {
+      "name": "Gl. Århusvej 3 UFC - E.ON",
+      "latitude": 56.412844,
+      "longitude": 10.074074
+    },
+    {
+      "name": "Gubsøtoften 2A, Silkeborg - Norlys",
+      "latitude": 56.19852,
+      "longitude": 9.5466
+    },
+    {
+      "name": "Halsskov UFC - E.ON Drive & Clever",
+      "latitude": 55.347689,
+      "longitude": 11.120189
+    },
+    {
+      "name": "Hanstholm Camping",
+      "latitude": 57.10969,
+      "longitude": 8.667802
+    },
+    {
+      "name": "Haverslev Supercharger",
+      "latitude": 56.783129,
+      "longitude": 9.690834
+    },
+    {
+      "name": "Havnepladsen 2C - Norlys",
+      "latitude": 56.699642,
+      "longitude": 9.192553
+    },
+    {
+      "name": "Hedensted Supercharger",
+      "latitude": 55.786399,
+      "longitude": 9.667849
+    },
+    {
+      "name": "Hee Skole - EWII",
+      "latitude": 56.145291,
+      "longitude": 8.280521
+    },
+    {
+      "name": "Herning Centret - Clever",
+      "latitude": 56.135637,
+      "longitude": 8.996579
+    },
+    {
+      "name": "Hjallerup Vest",
+      "latitude": 57.154268,
+      "longitude": 10.158036
+    },
+    {
+      "name": "Hjallerup Øst",
+      "latitude": 57.152382,
+      "longitude": 10.161268
+    },
+    {
+      "name": "Hjørring Supercharger",
+      "latitude": 57.455788,
+      "longitude": 10.042347
+    },
+    {
+      "name": "Hjørring Supercharger",
+      "latitude": 57.455877,
+      "longitude": 10.040438
+    },
+    {
+      "name": "Hobro Sygehus",
+      "latitude": 56.632389,
+      "longitude": 9.797495
+    },
+    {
+      "name": "HomeCharge",
+      "latitude": 55.980025,
+      "longitude": 12.026451
+    },
+    {
+      "name": "Hotel du Nord - Monta",
+      "latitude": 56.969722,
+      "longitude": 9.253528
+    },
+    {
+      "name": "Hotel Fredericia Destination Charger",
+      "latitude": 55.576328,
+      "longitude": 9.72669
+    },
+    {
+      "name": "Hotel Lidenlund",
+      "latitude": 56.548591,
+      "longitude": 8.311233
+    },
+    {
+      "name": "Hotel Lynggården - Monta",
+      "latitude": 56.110235,
+      "longitude": 8.976729
+    },
+    {
+      "name": "Hummingen Camping",
+      "latitude": 54.717848,
+      "longitude": 11.226486
+    },
+    {
+      "name": "Hvalpsund Færgekro - OK",
+      "latitude": 56.699408,
+      "longitude": 9.19249
+    },
+    {
+      "name": "Hydra-Specma",
+      "latitude": 55.957818,
+      "longitude": 8.49963
+    },
+    {
+      "name": "Hypercharger - Følfodvej 28, Vodskov",
+      "latitude": 57.100167,
+      "longitude": 10.023801
+    },
+    {
+      "name": "Hærvejen 8 - Monta",
+      "latitude": 55.073134,
+      "longitude": 9.33597
+    },
+    {
+      "name": "Hørsholm Midtpunkt",
+      "latitude": 55.882577,
+      "longitude": 12.497705
+    },
+    {
+      "name": "idHAIR",
+      "latitude": 56.227375,
+      "longitude": 10.248245
+    },
+    {
+      "name": "Ikast Supercharger",
+      "latitude": 56.122283,
+      "longitude": 9.172444
+    },
+    {
+      "name": "Ionity Aabenraa",
+      "latitude": 55.065066,
+      "longitude": 9.366207
+    },
+    {
+      "name": "Ionity Billund",
+      "latitude": 55.736281,
+      "longitude": 9.100215
+    },
+    {
+      "name": "IONITY Fredericia",
+      "latitude": 55.536679,
+      "longitude": 9.717723
+    },
+    {
+      "name": "Ionity Mors",
+      "latitude": 56.786918,
+      "longitude": 8.830572
+    },
+    {
+      "name": "IONITY Nørager",
+      "latitude": 56.782826,
+      "longitude": 9.694521
+    },
+    {
+      "name": "IONITY Skanderborg",
+      "latitude": 56.068087,
+      "longitude": 9.97843
+    },
+    {
+      "name": "Ionity Struer",
+      "latitude": 56.487744,
+      "longitude": 8.582033
+    },
+    {
+      "name": "JELD-WEN Løgstør - Monta",
+      "latitude": 56.963428,
+      "longitude": 9.266404
+    },
+    {
+      "name": "Kirke Såby Supercharger",
+      "latitude": 55.640141,
+      "longitude": 11.830555
+    },
+    {
+      "name": "Kliplev UFC - E.ON Drive & Clever",
+      "latitude": 54.940038,
+      "longitude": 9.379571
+    },
+    {
+      "name": "Kolding Storcenter Supercharger",
+      "latitude": 55.512516,
+      "longitude": 9.462908
+    },
+    {
+      "name": "København-Kastrup Supercharger",
+      "latitude": 55.614676,
+      "longitude": 12.613174
+    },
+    {
+      "name": "Køge Lynladestation",
+      "latitude": 55.489333,
+      "longitude": 12.161331
+    },
+    {
+      "name": "Køge Supercharger",
+      "latitude": 55.489012,
+      "longitude": 12.163042
+    },
+    {
+      "name": "Ladeområde",
+      "latitude": 55.412589,
+      "longitude": 10.054439
+    },
+    {
+      "name": "Ladestation CleanCharge",
+      "latitude": 56.094485,
+      "longitude": 8.23576
+    },
+    {
+      "name": "LEGOLAND Holiday Village - Monta",
+      "latitude": 55.731453,
+      "longitude": 9.135492
+    },
+    {
+      "name": "Lemvig Havn - Clever",
+      "latitude": 56.550078,
+      "longitude": 8.304429
+    },
+    {
+      "name": "Lidl",
+      "latitude": 56.122241,
+      "longitude": 10.169828
+    },
+    {
+      "name": "Lidl Aabenraa",
+      "latitude": 55.035192,
+      "longitude": 9.416316
+    },
+    {
+      "name": "Lidl Ribe",
+      "latitude": 55.332183,
+      "longitude": 8.767705
+    },
+    {
+      "name": "Lidl Sjælør",
+      "latitude": 55.657739,
+      "longitude": 12.525244
+    },
+    {
+      "name": "Lidl Skjern - Chargepoint",
+      "latitude": 55.935863,
+      "longitude": 8.505526
+    },
+    {
+      "name": "Lind Pleje & Aktivitetscenter EWII",
+      "latitude": 56.105134,
+      "longitude": 8.976568
+    },
+    {
+      "name": "Lynladestation Kolding",
+      "latitude": 55.531965,
+      "longitude": 9.471843
+    },
+    {
+      "name": "Lynladestation RingStedet - Clever",
+      "latitude": 55.454361,
+      "longitude": 11.788646
+    },
+    {
+      "name": "Lynladestation Vejle Syd - Clever",
+      "latitude": 55.663758,
+      "longitude": 9.547198
+    },
+    {
+      "name": "Løgstør Parkhotel - Monta",
+      "latitude": 56.953861,
+      "longitude": 9.252869
+    },
+    {
+      "name": "Løvbjerg Viborg - Norlys",
+      "latitude": 56.430827,
+      "longitude": 9.386508
+    },
+    {
+      "name": "M. Kabelsvej - Norlys",
+      "latitude": 57.473054,
+      "longitude": 9.79793
+    },
+    {
+      "name": "Maribo Erhvervspark Supercharger",
+      "latitude": 54.779284,
+      "longitude": 11.476846
+    },
+    {
+      "name": "MCH Arena - Norlys",
+      "latitude": 56.116103,
+      "longitude": 8.953561
+    },
+    {
+      "name": "Merkur",
+      "latitude": 55.698279,
+      "longitude": 12.579387
+    },
+    {
+      "name": "Mindet P-Plads",
+      "latitude": 56.038539,
+      "longitude": 9.929944
+    },
+    {
+      "name": "Monta",
+      "latitude": 56.763901,
+      "longitude": 8.81433
+    },
+    {
+      "name": "Monta - Jyllands Park Zoo",
+      "latitude": 56.096463,
+      "longitude": 8.809306
+    },
+    {
+      "name": "Monta - Kliplev Erhvervspark",
+      "latitude": 54.937262,
+      "longitude": 9.37397
+    },
+    {
+      "name": "Monta - Kongensgade 42",
+      "latitude": 55.360737,
+      "longitude": 9.483708
+    },
+    {
+      "name": "Monta - Lind Hallen",
+      "latitude": 56.106285,
+      "longitude": 8.985691
+    },
+    {
+      "name": "Monta - Stagehøjvej 27",
+      "latitude": 56.187249,
+      "longitude": 9.559832
+    },
+    {
+      "name": "MS SyltExpress",
+      "latitude": 55.057615,
+      "longitude": 8.527216
+    },
+    {
+      "name": "Museumspladsen, Esbjerg",
+      "latitude": 55.468963,
+      "longitude": 8.456481
+    },
+    {
+      "name": "Narvikvej 145 Silkeborg",
+      "latitude": 56.190138,
+      "longitude": 9.60659
+    },
+    {
+      "name": "Narvikvej 221 Silkeborg",
+      "latitude": 56.189889,
+      "longitude": 9.60448
+    },
+    {
+      "name": "Netto Holstebrovej - Skive - Clever",
+      "latitude": 56.568587,
+      "longitude": 9.003678
+    },
+    {
+      "name": "Netto Industrivej - Struer - Clever",
+      "latitude": 56.487282,
+      "longitude": 8.582399
+    },
+    {
+      "name": "Netto Limfjordsvej - Løgstør - Clever",
+      "latitude": 56.967181,
+      "longitude": 9.266265
+    },
+    {
+      "name": "Netto Møllehegnet - Jægerspris",
+      "latitude": 55.851008,
+      "longitude": 11.986047
+    },
+    {
+      "name": "Netto Nygade - Vrå - Clever",
+      "latitude": 57.354831,
+      "longitude": 9.944272
+    },
+    {
+      "name": "Netto Ringkøbing - Clever",
+      "latitude": 56.092004,
+      "longitude": 8.242435
+    },
+    {
+      "name": "Netto Skjern - Clever",
+      "latitude": 55.951065,
+      "longitude": 8.503155
+    },
+    {
+      "name": "Netto Thisted",
+      "latitude": 56.951911,
+      "longitude": 8.692131
+    },
+    {
+      "name": "Netto Vestergade - Holstebro - Clever",
+      "latitude": 56.357017,
+      "longitude": 8.615151
+    },
+    {
+      "name": "Nordby Centrum",
+      "latitude": 55.965338,
+      "longitude": 10.550849
+    },
+    {
+      "name": "Norlys",
+      "latitude": 54.91694,
+      "longitude": 9.580399
+    },
+    {
+      "name": "Norlys",
+      "latitude": 54.92102,
+      "longitude": 9.77518
+    },
+    {
+      "name": "Norlys",
+      "latitude": 54.942909,
+      "longitude": 9.695859
+    },
+    {
+      "name": "Norlys",
+      "latitude": 54.951191,
+      "longitude": 9.703971
+    },
+    {
+      "name": "Norlys",
+      "latitude": 55.056615,
+      "longitude": 9.748808
+    },
+    {
+      "name": "Norlys",
+      "latitude": 55.41244,
+      "longitude": 10.055227
+    },
+    {
+      "name": "Norlys",
+      "latitude": 55.976744,
+      "longitude": 12.017223
+    },
+    {
+      "name": "Norlys",
+      "latitude": 56.154779,
+      "longitude": 10.208269
+    },
+    {
+      "name": "Norlys",
+      "latitude": 56.181795,
+      "longitude": 10.121724
+    },
+    {
+      "name": "Norlys",
+      "latitude": 57.587288,
+      "longitude": 9.978504
+    },
+    {
+      "name": "Norlys",
+      "latitude": 57.588854,
+      "longitude": 9.957643
+    },
+    {
+      "name": "Norlys",
+      "latitude": 57.590434,
+      "longitude": 9.961463
+    },
+    {
+      "name": "Norlys - Holmsland Brugsforening",
+      "latitude": 56.117539,
+      "longitude": 8.176093
+    },
+    {
+      "name": "Norlys - McDonald Vordingborg",
+      "latitude": 54.997819,
+      "longitude": 12.001774
+    },
+    {
+      "name": "Norlys - McDonald's Tønder",
+      "latitude": 54.950622,
+      "longitude": 8.887928
+    },
+    {
+      "name": "Norlys - MCH Arena",
+      "latitude": 56.117493,
+      "longitude": 8.95042
+    },
+    {
+      "name": "Norlys - samkørsels / pendler plads Galten",
+      "latitude": 56.145792,
+      "longitude": 9.917567
+    },
+    {
+      "name": "Norlys - Ålbækvej 288",
+      "latitude": 57.644691,
+      "longitude": 10.461898
+    },
+    {
+      "name": "Norlys Ladepark Ikast",
+      "latitude": 56.121593,
+      "longitude": 9.172838
+    },
+    {
+      "name": "Norlys ladestation",
+      "latitude": 55.352546,
+      "longitude": 10.421002
+    },
+    {
+      "name": "Norlys Lynlader",
+      "latitude": 54.920848,
+      "longitude": 9.809442
+    },
+    {
+      "name": "Norlys Lynlader",
+      "latitude": 54.923456,
+      "longitude": 9.810661
+    },
+    {
+      "name": "Norlys Lynlader",
+      "latitude": 54.924368,
+      "longitude": 9.807067
+    },
+    {
+      "name": "Norlys Lynlader",
+      "latitude": 54.939783,
+      "longitude": 9.38038
+    },
+    {
+      "name": "Norlys Lynlader",
+      "latitude": 55.067488,
+      "longitude": 9.36176
+    },
+    {
+      "name": "Norlys Lynlader",
+      "latitude": 55.068117,
+      "longitude": 9.362014
+    },
+    {
+      "name": "Norlys Lynlader",
+      "latitude": 55.251579,
+      "longitude": 9.490092
+    },
+    {
+      "name": "Norlys Lynlader",
+      "latitude": 55.253002,
+      "longitude": 9.504286
+    },
+    {
+      "name": "Norlys RAH service A/S- Meny Søndervig",
+      "latitude": 56.117839,
+      "longitude": 8.115724
+    },
+    {
+      "name": "Norlys UFC",
+      "latitude": 55.06927,
+      "longitude": 9.361831
+    },
+    {
+      "name": "Norlys Viborg",
+      "latitude": 56.459814,
+      "longitude": 9.400983
+    },
+    {
+      "name": "Nyborg Supercharger",
+      "latitude": 55.30884,
+      "longitude": 10.809723
+    },
+    {
+      "name": "Nykøbing Mors Supercharger",
+      "latitude": 56.787035,
+      "longitude": 8.830188
+    },
+    {
+      "name": "Næstved Supercharger",
+      "latitude": 55.255771,
+      "longitude": 11.80656
+    },
+    {
+      "name": "Nørre Alslev - Clever",
+      "latitude": 54.899506,
+      "longitude": 11.917902
+    },
+    {
+      "name": "Nørre Alslev Supercharger - Tesla",
+      "latitude": 54.899834,
+      "longitude": 11.896945
+    },
+    {
+      "name": "Nørre Snede UFC - E.ON",
+      "latitude": 55.964471,
+      "longitude": 9.393419
+    },
+    {
+      "name": "Nørregade 9",
+      "latitude": 55.469018,
+      "longitude": 8.456083
+    },
+    {
+      "name": "Nørreport centeret, Holstebro - Clever 22 kW",
+      "latitude": 56.361659,
+      "longitude": 8.621293
+    },
+    {
+      "name": "Nørreport centeret, Holstebro - Clever lynlader",
+      "latitude": 56.361687,
+      "longitude": 8.620125
+    },
+    {
+      "name": "OK",
+      "latitude": 54.912034,
+      "longitude": 9.588116
+    },
+    {
+      "name": "OK",
+      "latitude": 54.91998,
+      "longitude": 9.682138
+    },
+    {
+      "name": "OK",
+      "latitude": 54.949907,
+      "longitude": 9.701911
+    },
+    {
+      "name": "OK",
+      "latitude": 55.354247,
+      "longitude": 10.423918
+    },
+    {
+      "name": "OK",
+      "latitude": 55.508002,
+      "longitude": 8.452076
+    },
+    {
+      "name": "OK",
+      "latitude": 55.670078,
+      "longitude": 12.564238
+    },
+    {
+      "name": "OK",
+      "latitude": 57.369011,
+      "longitude": 9.714569
+    },
+    {
+      "name": "OK  Nykøbing Mors, Vester Fald",
+      "latitude": 56.789509,
+      "longitude": 8.827869
+    },
+    {
+      "name": "OK - Esbjerg Taxa",
+      "latitude": 55.505913,
+      "longitude": 8.464106
+    },
+    {
+      "name": "OK - Maribo Erhvervspark",
+      "latitude": 54.780065,
+      "longitude": 11.4785
+    },
+    {
+      "name": "Ok - Praghs Boulevard",
+      "latitude": 55.67001,
+      "longitude": 12.623002
+    },
+    {
+      "name": "OK - Superbrugsen Fanø",
+      "latitude": 55.442371,
+      "longitude": 8.39904
+    },
+    {
+      "name": "OK 001140",
+      "latitude": 55.622227,
+      "longitude": 12.625989
+    },
+    {
+      "name": "OK 75 kW",
+      "latitude": 57.10347,
+      "longitude": 10.023853
+    },
+    {
+      "name": "OK Balling, DagliBrugsen",
+      "latitude": 56.613042,
+      "longitude": 8.880984
+    },
+    {
+      "name": "OK Bønnerup, DagliBrugsen",
+      "latitude": 56.52836,
+      "longitude": 10.704518
+    },
+    {
+      "name": "OK E-Truck Taulov",
+      "latitude": 55.542963,
+      "longitude": 9.641953
+    },
+    {
+      "name": "OK Fjellerup, DagliBrugsen",
+      "latitude": 56.506429,
+      "longitude": 10.588729
+    },
+    {
+      "name": "OK Hammelev Lynlader",
+      "latitude": 55.245984,
+      "longitude": 9.397779
+    },
+    {
+      "name": "OK Holsted",
+      "latitude": 55.523062,
+      "longitude": 8.902565
+    },
+    {
+      "name": "OK Horsens Recharge City",
+      "latitude": 55.846025,
+      "longitude": 9.735247
+    },
+    {
+      "name": "OK Hurtiglader",
+      "latitude": 54.826444,
+      "longitude": 9.363082
+    },
+    {
+      "name": "OK Hurtiglader",
+      "latitude": 54.888967,
+      "longitude": 9.67265
+    },
+    {
+      "name": "OK Hurtiglader",
+      "latitude": 54.913508,
+      "longitude": 9.726429
+    },
+    {
+      "name": "OK Hurtiglader",
+      "latitude": 54.925414,
+      "longitude": 9.725946
+    },
+    {
+      "name": "OK Hurtiglader",
+      "latitude": 54.939119,
+      "longitude": 9.398161
+    },
+    {
+      "name": "OK Hurtiglader",
+      "latitude": 55.056168,
+      "longitude": 9.74137
+    },
+    {
+      "name": "OK Hurtiglader",
+      "latitude": 55.331992,
+      "longitude": 8.769631
+    },
+    {
+      "name": "OK Hurtiglader",
+      "latitude": 55.462854,
+      "longitude": 8.583971
+    },
+    {
+      "name": "OK Hårup",
+      "latitude": 56.153725,
+      "longitude": 9.63813
+    },
+    {
+      "name": "OK Ikast, Coop365",
+      "latitude": 56.137397,
+      "longitude": 9.1672
+    },
+    {
+      "name": "OK Jægerspris, SuperBrugsen",
+      "latitude": 55.850325,
+      "longitude": 11.986902
+    },
+    {
+      "name": "OK Kongens Lyngby, Lærkereden rasteplads",
+      "latitude": 55.799771,
+      "longitude": 12.532668
+    },
+    {
+      "name": "OK Kongens Lyngby, Storkereden rasteplads",
+      "latitude": 55.799347,
+      "longitude": 12.534033
+    },
+    {
+      "name": "OK Lemvig, Kvickly",
+      "latitude": 56.548788,
+      "longitude": 8.306437
+    },
+    {
+      "name": "OK Lynlader",
+      "latitude": 54.925003,
+      "longitude": 9.724817
+    },
+    {
+      "name": "OK Lynlader",
+      "latitude": 55.167608,
+      "longitude": 8.755554
+    },
+    {
+      "name": "OK Lynlader",
+      "latitude": 55.35226,
+      "longitude": 8.781966
+    },
+    {
+      "name": "OK Lynlader",
+      "latitude": 55.357153,
+      "longitude": 9.058234
+    },
+    {
+      "name": "OK Lynlader",
+      "latitude": 55.413116,
+      "longitude": 10.057234
+    },
+    {
+      "name": "OK Løgstør, SuperBrugsen",
+      "latitude": 56.968984,
+      "longitude": 9.259837
+    },
+    {
+      "name": "OK Løkken, Coop365",
+      "latitude": 57.373286,
+      "longitude": 9.728089
+    },
+    {
+      "name": "OK Ringkøbing, SuperBrugsen",
+      "latitude": 56.090638,
+      "longitude": 8.239903
+    },
+    {
+      "name": "OK Ringsted",
+      "latitude": 55.452463,
+      "longitude": 11.788567
+    },
+    {
+      "name": "OK Sjørup",
+      "latitude": 56.426554,
+      "longitude": 9.084172
+    },
+    {
+      "name": "OK Skive - City Vest",
+      "latitude": 56.569502,
+      "longitude": 9.003806
+    },
+    {
+      "name": "OK Skovlunde, Mileparken",
+      "latitude": 55.712853,
+      "longitude": 12.418464
+    },
+    {
+      "name": "OK Taulov",
+      "latitude": 55.542781,
+      "longitude": 9.64158
+    },
+    {
+      "name": "OK Trafikcenter Sæby Syd",
+      "latitude": 57.313209,
+      "longitude": 10.450104
+    },
+    {
+      "name": "OK TRUCK",
+      "latitude": 56.413325,
+      "longitude": 10.070845
+    },
+    {
+      "name": "OK Vesløs, Dagli'Brugsen",
+      "latitude": 57.035873,
+      "longitude": 8.970772
+    },
+    {
+      "name": "OK Vester Lyby, Kåstrupvej",
+      "latitude": 56.64466,
+      "longitude": 8.983988
+    },
+    {
+      "name": "Oksby Kirke",
+      "latitude": 55.556144,
+      "longitude": 8.139482
+    },
+    {
+      "name": "Padel Sport Lemvig - Monta",
+      "latitude": 56.538565,
+      "longitude": 8.307594
+    },
+    {
+      "name": "Parkeringspladen Engen - Clever",
+      "latitude": 56.549214,
+      "longitude": 8.307214
+    },
+    {
+      "name": "Powered by E.ON Drive & Clever",
+      "latitude": 56.784005,
+      "longitude": 9.694888
+    },
+    {
+      "name": "PowerGo",
+      "latitude": 56.47333,
+      "longitude": 10.051672
+    },
+    {
+      "name": "PowerGo",
+      "latitude": 56.474716,
+      "longitude": 10.067576
+    },
+    {
+      "name": "PowerGo - Hanstholm Havn",
+      "latitude": 57.117785,
+      "longitude": 8.597126
+    },
+    {
+      "name": "PowerGo Ikast Rådhuset",
+      "latitude": 56.139113,
+      "longitude": 9.156787
+    },
+    {
+      "name": "ProStrøm - Gartnervænget 2",
+      "latitude": 56.092339,
+      "longitude": 8.272481
+    },
+    {
+      "name": "Provstlund UFC - E.ON",
+      "latitude": 55.888466,
+      "longitude": 9.781811
+    },
+    {
+      "name": "Q8",
+      "latitude": 57.417654,
+      "longitude": 10.523177
+    },
+    {
+      "name": "Q8 Ebeltoftvej 3, Drastrup",
+      "latitude": 56.44035,
+      "longitude": 10.180677
+    },
+    {
+      "name": "Q8 Esbjerg Ø",
+      "latitude": 55.478388,
+      "longitude": 8.493031
+    },
+    {
+      "name": "Q8 Frederiksborgvej 9",
+      "latitude": 55.812425,
+      "longitude": 12.376585
+    },
+    {
+      "name": "Q8 Gåbensevej 1, Nørre Alslev",
+      "latitude": 54.898893,
+      "longitude": 11.871595
+    },
+    {
+      "name": "Q8 Mariagervej 64",
+      "latitude": 56.470747,
+      "longitude": 10.031287
+    },
+    {
+      "name": "Q8 Motelvej 1",
+      "latitude": 55.545707,
+      "longitude": 12.215639
+    },
+    {
+      "name": "Q8 Mørkhøjvej 229",
+      "latitude": 55.726958,
+      "longitude": 12.47268
+    },
+    {
+      "name": "Q8 Nordre Ringvej 8",
+      "latitude": 56.186916,
+      "longitude": 9.563599
+    },
+    {
+      "name": "Q8 Sønderskovvej 6",
+      "latitude": 56.230818,
+      "longitude": 10.237581
+    },
+    {
+      "name": "Q8 Tagensvej 90",
+      "latitude": 55.70267,
+      "longitude": 12.549559
+    },
+    {
+      "name": "Q8 Tomsgårdsvej 33",
+      "latitude": 55.708945,
+      "longitude": 12.525096
+    },
+    {
+      "name": "Q8 Tårnvej 300",
+      "latitude": 55.685213,
+      "longitude": 12.451928
+    },
+    {
+      "name": "Q8 Vallensbækvej 1",
+      "latitude": 55.643253,
+      "longitude": 12.399238
+    },
+    {
+      "name": "Q8 Viborg",
+      "latitude": 56.456589,
+      "longitude": 9.394011
+    },
+    {
+      "name": "Q8 Viborg Hovedvej 80",
+      "latitude": 55.845221,
+      "longitude": 9.488442
+    },
+    {
+      "name": "Q8 Vrøndingvej 1A",
+      "latitude": 55.886394,
+      "longitude": 9.785995
+    },
+    {
+      "name": "Q8 Ørestads Boulevard 4",
+      "latitude": 55.66618,
+      "longitude": 12.585487
+    },
+    {
+      "name": "Q8 Østre Landevej 46",
+      "latitude": 54.776533,
+      "longitude": 11.515458
+    },
+    {
+      "name": "Randers Storcenter - Clever",
+      "latitude": 56.429525,
+      "longitude": 10.062798
+    },
+    {
+      "name": "Randers Supercharger",
+      "latitude": 56.433678,
+      "longitude": 10.0555
+    },
+    {
+      "name": "Randers Supercharger Syd",
+      "latitude": 56.430303,
+      "longitude": 10.061695
+    },
+    {
+      "name": "Recharge",
+      "latitude": 55.380336,
+      "longitude": 10.431436
+    },
+    {
+      "name": "Rolfsgade 50, Esbjerg",
+      "latitude": 55.472058,
+      "longitude": 8.454399
+    },
+    {
+      "name": "Rådhus",
+      "latitude": 54.773722,
+      "longitude": 11.501822
+    },
+    {
+      "name": "Rødekro Supercharger",
+      "latitude": 55.067293,
+      "longitude": 9.36103
+    },
+    {
+      "name": "Rødekro Supercharger 2 (Sunset Boulevard)",
+      "latitude": 55.06811,
+      "longitude": 9.36096
+    },
+    {
+      "name": "Rødovre Supercharger",
+      "latitude": 55.678426,
+      "longitude": 12.4578
+    },
+    {
+      "name": "Rønde Supercharger",
+      "latitude": 56.316055,
+      "longitude": 10.424732
+    },
+    {
+      "name": "SAGRO Billund",
+      "latitude": 55.735653,
+      "longitude": 9.095326
+    },
+    {
+      "name": "Shell",
+      "latitude": 57.019846,
+      "longitude": 9.958564
+    },
+    {
+      "name": "Shell Express Hinnerup - Spirii",
+      "latitude": 56.237881,
+      "longitude": 10.08882
+    },
+    {
+      "name": "Shell Express Vordingborg",
+      "latitude": 54.998038,
+      "longitude": 12.00109
+    },
+    {
+      "name": "SHELL Hammel",
+      "latitude": 56.25158,
+      "longitude": 9.859653
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 55.735384,
+      "longitude": 9.10199
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 55.922509,
+      "longitude": 11.662321
+    },
+    {
+      "name": "Shell recharge",
+      "latitude": 56.186704,
+      "longitude": 9.549963
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 56.200717,
+      "longitude": 9.517513
+    },
+    {
+      "name": "Shell Recharge - Ryomgård",
+      "latitude": 56.380821,
+      "longitude": 10.50624
+    },
+    {
+      "name": "Shell Recharge Ikast",
+      "latitude": 56.139722,
+      "longitude": 9.16233
+    },
+    {
+      "name": "Shell Recharge Lynlader",
+      "latitude": 54.919217,
+      "longitude": 9.809138
+    },
+    {
+      "name": "Shell Recharge Lynlader - Kruså",
+      "latitude": 54.849581,
+      "longitude": 9.405057
+    },
+    {
+      "name": "Shell Recharge Ringkøbing",
+      "latitude": 56.093869,
+      "longitude": 8.243671
+    },
+    {
+      "name": "Shell Recharge Thisted",
+      "latitude": 56.952553,
+      "longitude": 8.692502
+    },
+    {
+      "name": "SHELL Vorgod-Barde",
+      "latitude": 56.100428,
+      "longitude": 8.703058
+    },
+    {
+      "name": "Silvan - Vejle, Damhaven 7",
+      "latitude": 55.704433,
+      "longitude": 9.528065
+    },
+    {
+      "name": "Skjern Auto & Karosseri",
+      "latitude": 55.95739,
+      "longitude": 8.487491
+    },
+    {
+      "name": "Skælskør cykelplads",
+      "latitude": 55.252181,
+      "longitude": 11.289998
+    },
+    {
+      "name": "Slagelse Supercharger",
+      "latitude": 55.387958,
+      "longitude": 11.361818
+    },
+    {
+      "name": "Snejbjerg Skole",
+      "latitude": 56.128068,
+      "longitude": 8.887706
+    },
+    {
+      "name": "Sokkelundsvej 40",
+      "latitude": 55.708821,
+      "longitude": 12.517022
+    },
+    {
+      "name": "Sol og Strand Thisted - OK",
+      "latitude": 57.040502,
+      "longitude": 8.51111
+    },
+    {
+      "name": "Sperto - GrillStedet",
+      "latitude": 56.086248,
+      "longitude": 8.508693
+    },
+    {
+      "name": "Sperto - Græsted",
+      "latitude": 56.065061,
+      "longitude": 12.286178
+    },
+    {
+      "name": "Sperto - Meny Hjørring",
+      "latitude": 57.455585,
+      "longitude": 10.005551
+    },
+    {
+      "name": "Sperto - Trafikcenter Sæby Syd",
+      "latitude": 57.3139,
+      "longitude": 10.451591
+    },
+    {
+      "name": "Sperto - Voerså",
+      "latitude": 57.211977,
+      "longitude": 10.490536
+    },
+    {
+      "name": "Sperto Skjern (0212)",
+      "latitude": 55.946366,
+      "longitude": 8.495416
+    },
+    {
+      "name": "Sperto Skjern 75 KW",
+      "latitude": 55.946341,
+      "longitude": 8.49533
+    },
+    {
+      "name": "SPERTO Ulfborg",
+      "latitude": 56.271289,
+      "longitude": 8.319107
+    },
+    {
+      "name": "Spirii",
+      "latitude": 55.276198,
+      "longitude": 14.804978
+    },
+    {
+      "name": "Spirii  - Rasmus Degn A/S",
+      "latitude": 55.488037,
+      "longitude": 11.295944
+    },
+    {
+      "name": "Spirii - Bluefox",
+      "latitude": 56.156744,
+      "longitude": 8.967257
+    },
+    {
+      "name": "Spirii - Vejdirektoratet - Haderup (PowerGo)",
+      "latitude": 56.387443,
+      "longitude": 8.994251
+    },
+    {
+      "name": "Spirii Ladestandere Lyongade",
+      "latitude": 55.66042,
+      "longitude": 12.609295
+    },
+    {
+      "name": "Spirii Vadehavscentret",
+      "latitude": 55.296163,
+      "longitude": 8.6696
+    },
+    {
+      "name": "Stationsvej Vemb - Clever",
+      "latitude": 56.343747,
+      "longitude": 8.344631
+    },
+    {
+      "name": "Stilling UFC - E.ON",
+      "latitude": 56.068081,
+      "longitude": 9.977062
+    },
+    {
+      "name": "strandhotel Klitrosen",
+      "latitude": 57.149455,
+      "longitude": 9.362352
+    },
+    {
+      "name": "Strandvejen 88",
+      "latitude": 56.598688,
+      "longitude": 8.148551
+    },
+    {
+      "name": "Struer Supercharger",
+      "latitude": 56.480075,
+      "longitude": 8.586379
+    },
+    {
+      "name": "Stålværkpladsen - Vestervold",
+      "latitude": 55.620954,
+      "longitude": 8.475427
+    },
+    {
+      "name": "SuperBrugsen - Hobro - Adelgade - OK",
+      "latitude": 56.639539,
+      "longitude": 9.791819
+    },
+    {
+      "name": "SuperBrugsen - Samsø - Møllebakkevej",
+      "latitude": 55.83126,
+      "longitude": 10.593994
+    },
+    {
+      "name": "SuperBrugsen Skjern",
+      "latitude": 55.948883,
+      "longitude": 8.494911
+    },
+    {
+      "name": "Svenstrup Supercharger",
+      "latitude": 56.952496,
+      "longitude": 9.865923
+    },
+    {
+      "name": "Sydvestjysk Sygehus Indgang Vest Svendsgade",
+      "latitude": 55.474212,
+      "longitude": 8.455814
+    },
+    {
+      "name": "Sydvestjysk Sygehus Indgang Øst Østergade",
+      "latitude": 55.474331,
+      "longitude": 8.458412
+    },
+    {
+      "name": "Sydvestjysk Sygehus P-Hus",
+      "latitude": 55.473756,
+      "longitude": 8.462556
+    },
+    {
+      "name": "Sydvestjysk Sygehus Rolfsgade",
+      "latitude": 55.47205,
+      "longitude": 8.457626
+    },
+    {
+      "name": "Søndervig Supercharger",
+      "latitude": 56.120524,
+      "longitude": 8.122181
+    },
+    {
+      "name": "Taastrup - City 2 Supercharger",
+      "latitude": 55.64287,
+      "longitude": 12.274784
+    },
+    {
+      "name": "Tesla",
+      "latitude": 55.352981,
+      "longitude": 8.778891
+    },
+    {
+      "name": "Tesla 17 KW",
+      "latitude": 56.695356,
+      "longitude": 8.205307
+    },
+    {
+      "name": "Tesla Supercharger",
+      "latitude": 55.51127,
+      "longitude": 9.764919
+    },
+    {
+      "name": "Tesla Supercharger",
+      "latitude": 55.932691,
+      "longitude": 12.260085
+    },
+    {
+      "name": "Tesla Supercharger - Herning Centret",
+      "latitude": 56.136271,
+      "longitude": 8.998836
+    },
+    {
+      "name": "Tesla Supercharger Esbjerg",
+      "latitude": 55.465751,
+      "longitude": 8.443972
+    },
+    {
+      "name": "Tesla Supercharger Kliplev",
+      "latitude": 54.940101,
+      "longitude": 9.378923
+    },
+    {
+      "name": "Tesla Supercharger Lyngby Storcenter",
+      "latitude": 55.772478,
+      "longitude": 12.505087
+    },
+    {
+      "name": "Tesla Supercharger Odense",
+      "latitude": 55.386364,
+      "longitude": 10.42692
+    },
+    {
+      "name": "Thisted ladepark - Spirii",
+      "latitude": 56.972364,
+      "longitude": 8.742125
+    },
+    {
+      "name": "Thy-Mors Energi - Klitmøller - Clever",
+      "latitude": 57.043328,
+      "longitude": 8.482088
+    },
+    {
+      "name": "Thyborøn Havn - Spirii",
+      "latitude": 56.700185,
+      "longitude": 8.221632
+    },
+    {
+      "name": "Toften i Tarm",
+      "latitude": 55.907844,
+      "longitude": 8.51912
+    },
+    {
+      "name": "Torvet (PowerGo)",
+      "latitude": 55.780337,
+      "longitude": 8.289355
+    },
+    {
+      "name": "Troldbjerg elcykel ladeplads",
+      "latitude": 56.004998,
+      "longitude": 8.127713
+    },
+    {
+      "name": "Uno X",
+      "latitude": 56.185134,
+      "longitude": 10.123295
+    },
+    {
+      "name": "Uno X",
+      "latitude": 56.422075,
+      "longitude": 9.404937
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 55.729747,
+      "longitude": 12.513478
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 56.176902,
+      "longitude": 10.136185
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 56.225526,
+      "longitude": 10.237358
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 56.364358,
+      "longitude": 8.67291
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 56.541481,
+      "longitude": 9.896853
+    },
+    {
+      "name": "Uno-X EV Truck Horsens",
+      "latitude": 55.838628,
+      "longitude": 9.783909
+    },
+    {
+      "name": "Uno-X Fredericia",
+      "latitude": 55.534936,
+      "longitude": 9.716883
+    },
+    {
+      "name": "Uno-X Lynlader",
+      "latitude": 54.939676,
+      "longitude": 9.379139
+    },
+    {
+      "name": "Uno-X Nyborg",
+      "latitude": 55.308551,
+      "longitude": 10.810021
+    },
+    {
+      "name": "Uno-X Pårup",
+      "latitude": 56.131863,
+      "longitude": 9.350847
+    },
+    {
+      "name": "Uno-X Vejle Syd",
+      "latitude": 55.663999,
+      "longitude": 9.549253
+    },
+    {
+      "name": "Vadehavsvej 1 - Monta",
+      "latitude": 55.613681,
+      "longitude": 8.32614
+    },
+    {
+      "name": "Valdemarsgade 3",
+      "latitude": 55.473078,
+      "longitude": 8.459082
+    },
+    {
+      "name": "Varde Station",
+      "latitude": 55.61621,
+      "longitude": 8.483423
+    },
+    {
+      "name": "Ved Østerbjerg 6, 2605 Brøndby",
+      "latitude": 55.650542,
+      "longitude": 12.402532
+    },
+    {
+      "name": "Vedersø Klit Strandparking",
+      "latitude": 56.257247,
+      "longitude": 8.135041
+    },
+    {
+      "name": "Vejle Supercharger",
+      "latitude": 55.664293,
+      "longitude": 9.550968
+    },
+    {
+      "name": "Vennebjerg Mølle",
+      "latitude": 57.459332,
+      "longitude": 9.824033
+    },
+    {
+      "name": "Viborg Supercharger",
+      "latitude": 56.452875,
+      "longitude": 9.449378
+    },
+    {
+      "name": "Viby J Supercharger",
+      "latitude": 56.11672,
+      "longitude": 10.120932
+    },
+    {
+      "name": "Ørhagevej 150 - Clever",
+      "latitude": 57.043302,
+      "longitude": 8.481199
+    },
+    {
+      "name": "Østersøvej, Rødvig - Norlys",
+      "latitude": 55.253073,
+      "longitude": 12.378153
+    }
+  ],
+  "meta": {
+    "title": "Ladestationer (elbil) i Danmark – OpenStreetMap (EV charging stations in Denmark, OSM) - Gratis download",
+    "description": "Liste over 684 ladestationer (elbil) i Danmark fra OpenStreetMap (amenity=charging_station) — navn og koordinater (WGS84). Indeholder 684 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Ladestationer (elbil) i Danmark – OpenStreetMap (EV charging stations in Denmark, OSM) | ListBase",
+    "seo_description": "Download Ladestationer (elbil) i Danmark – OpenStreetMap (EV charging stations in Denmark, OSM) — 684 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 684 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

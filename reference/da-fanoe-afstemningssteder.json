@@ -1,0 +1,72 @@
+{
+  "id": "da-fanoe-afstemningssteder",
+  "name": "Afstemningssteder i Fanø Kommune",
+  "title": "Afstemningssteder i Fanø Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Fanø Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Nordby",
+      "kommune_kode": 563,
+      "kommune": "Fanø",
+      "opstillingskreds_nummer": 52,
+      "opstillingskreds": "Esbjerg By"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Sønderho",
+      "kommune_kode": 563,
+      "kommune": "Fanø",
+      "opstillingskreds_nummer": 52,
+      "opstillingskreds": "Esbjerg By"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Fanø Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Fanø Kommune med opstillingskreds. Indeholder 2 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Fanø Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Fanø Kommune — 2 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 2 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

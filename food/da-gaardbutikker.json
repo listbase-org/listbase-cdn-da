@@ -1,0 +1,4191 @@
+{
+  "id": "da-gaardbutikker",
+  "name": "Gårdbutikker i Danmark (Farm shops in Denmark)",
+  "title": "Gårdbutikker i Danmark (Farm shops in Denmark)",
+  "description": "Farm shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=farm.",
+  "category": "food",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 830,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aarø 70",
+      "latitude": 55.267756,
+      "longitude": 9.726845
+    },
+    {
+      "name": "AB Naurbjerg",
+      "latitude": 55.515313,
+      "longitude": 12.14703
+    },
+    {
+      "name": "Abildskær økologiske gårdbutik",
+      "latitude": 55.332105,
+      "longitude": 8.919683
+    },
+    {
+      "name": "Adamsgården Gårdbutik",
+      "latitude": 55.667058,
+      "longitude": 11.42368
+    },
+    {
+      "name": "Adamshøj Gods Økologiske Ægproduktion",
+      "latitude": 55.441878,
+      "longitude": 11.850891
+    },
+    {
+      "name": "Agersø Farm",
+      "latitude": 55.212505,
+      "longitude": 11.188287
+    },
+    {
+      "name": "Akaushi",
+      "latitude": 55.337023,
+      "longitude": 10.527963
+    },
+    {
+      "name": "Akkerup Gl. Præstegaard - Zone-boden",
+      "latitude": 55.230905,
+      "longitude": 10.14231
+    },
+    {
+      "name": "Aldersminde Frugt og Grønt",
+      "latitude": 55.698054,
+      "longitude": 12.482398
+    },
+    {
+      "name": "Allégårdens Gårdbutik",
+      "latitude": 55.535409,
+      "longitude": 10.220873
+    },
+    {
+      "name": "Alpevejens Gårdbutik",
+      "latitude": 55.106252,
+      "longitude": 10.512509
+    },
+    {
+      "name": "Andreigaard",
+      "latitude": 54.759709,
+      "longitude": 12.014544
+    },
+    {
+      "name": "Anholt Gartneri",
+      "latitude": 56.712456,
+      "longitude": 11.529371
+    },
+    {
+      "name": "Ann Nielsen",
+      "latitude": 56.112551,
+      "longitude": 12.285871
+    },
+    {
+      "name": "Anne Marie Skovsgård Vejbod",
+      "latitude": 57.435704,
+      "longitude": 10.010718
+    },
+    {
+      "name": "Annexgårdens Gårdbutik",
+      "latitude": 55.600526,
+      "longitude": 11.500403
+    },
+    {
+      "name": "Aqua Vitae Gårdbutik",
+      "latitude": 55.079862,
+      "longitude": 10.696556
+    },
+    {
+      "name": "Arne Andersen",
+      "latitude": 55.449062,
+      "longitude": 10.353707
+    },
+    {
+      "name": "Arne Christensen",
+      "latitude": 55.394014,
+      "longitude": 10.108961
+    },
+    {
+      "name": "Arne Christensen",
+      "latitude": 55.569653,
+      "longitude": 9.728905
+    },
+    {
+      "name": "Aromagaarden",
+      "latitude": 55.7828,
+      "longitude": 8.273199
+    },
+    {
+      "name": "Aronia food service",
+      "latitude": 55.113416,
+      "longitude": 15.046715
+    },
+    {
+      "name": "Arresø Plantage",
+      "latitude": 55.989516,
+      "longitude": 12.038033
+    },
+    {
+      "name": "Arvelund Gårdbutik",
+      "latitude": 54.925069,
+      "longitude": 11.773663
+    },
+    {
+      "name": "Assenbjerg Highland Cattle",
+      "latitude": 55.783865,
+      "longitude": 9.238958
+    },
+    {
+      "name": "Assendrup Gårdbutik",
+      "latitude": 55.972197,
+      "longitude": 10.006178
+    },
+    {
+      "name": "Astrup Gods",
+      "latitude": 55.651807,
+      "longitude": 11.355761
+    },
+    {
+      "name": "Ausumgaard Gårdbutik",
+      "latitude": 56.427912,
+      "longitude": 8.59961
+    },
+    {
+      "name": "Avernakø - Lam",
+      "latitude": 55.022273,
+      "longitude": 10.272554
+    },
+    {
+      "name": "Babberup Gammelgaard Gårdbutik",
+      "latitude": 55.312865,
+      "longitude": 12.043811
+    },
+    {
+      "name": "Bagekassen",
+      "latitude": 56.698537,
+      "longitude": 8.213076
+    },
+    {
+      "name": "Bakkegården",
+      "latitude": 55.478192,
+      "longitude": 11.682379
+    },
+    {
+      "name": "Bakkegården Ulbjerg",
+      "latitude": 55.045133,
+      "longitude": 9.730927
+    },
+    {
+      "name": "Bakkegårdens Hereford",
+      "latitude": 54.832926,
+      "longitude": 10.397593
+    },
+    {
+      "name": "Bakkegårdens Hereford",
+      "latitude": 56.001516,
+      "longitude": 12.129427
+    },
+    {
+      "name": "Bakkemosegaard",
+      "latitude": 54.892782,
+      "longitude": 11.352849
+    },
+    {
+      "name": "Bakkemosegård",
+      "latitude": 54.726159,
+      "longitude": 11.45883
+    },
+    {
+      "name": "Bandholm Frugtplantage Gårdbutik",
+      "latitude": 54.830697,
+      "longitude": 11.447918
+    },
+    {
+      "name": "Bangs Hønniker",
+      "latitude": 55.599722,
+      "longitude": 11.641883
+    },
+    {
+      "name": "Besøgsbondegården",
+      "latitude": 54.985521,
+      "longitude": 12.399491
+    },
+    {
+      "name": "Bigaard",
+      "latitude": 54.883391,
+      "longitude": 9.286626
+    },
+    {
+      "name": "Bigaarden",
+      "latitude": 54.883446,
+      "longitude": 9.286733
+    },
+    {
+      "name": "Bigården i Raklev",
+      "latitude": 55.698498,
+      "longitude": 11.073741
+    },
+    {
+      "name": "Birgitte Busk Yssing/Busk Økologi",
+      "latitude": 57.280573,
+      "longitude": 9.890783
+    },
+    {
+      "name": "Birkegården Limousine",
+      "latitude": 55.119205,
+      "longitude": 9.154001
+    },
+    {
+      "name": "Birkely Grøntsager",
+      "latitude": 56.083875,
+      "longitude": 12.387399
+    },
+    {
+      "name": "Birkemosegården",
+      "latitude": 55.961344,
+      "longitude": 11.386503
+    },
+    {
+      "name": "Birkemosehus",
+      "latitude": 55.381779,
+      "longitude": 11.478752
+    },
+    {
+      "name": "Birkevang",
+      "latitude": 55.699128,
+      "longitude": 11.673976
+    },
+    {
+      "name": "Birkholm",
+      "latitude": 54.913961,
+      "longitude": 10.603527
+    },
+    {
+      "name": "Birthesminde Gårdbutik",
+      "latitude": 55.672103,
+      "longitude": 11.775036
+    },
+    {
+      "name": "Bjarne Kurt Christensen",
+      "latitude": 55.730056,
+      "longitude": 11.526198
+    },
+    {
+      "name": "Bjørnø Gårdbutik",
+      "latitude": 55.064792,
+      "longitude": 10.249594
+    },
+    {
+      "name": "Bjørnø Vingård",
+      "latitude": 55.06558,
+      "longitude": 10.24222
+    },
+    {
+      "name": "Blueberry Farm Cafe",
+      "latitude": 55.569435,
+      "longitude": 11.396287
+    },
+    {
+      "name": "Blåbær Gårdbutik & café",
+      "latitude": 54.886338,
+      "longitude": 10.41093
+    },
+    {
+      "name": "Bodebjergvej 42",
+      "latitude": 55.251746,
+      "longitude": 10.100876
+    },
+    {
+      "name": "Boden i Byen",
+      "latitude": 55.948776,
+      "longitude": 10.446787
+    },
+    {
+      "name": "Bodholtgård 1952",
+      "latitude": 56.178797,
+      "longitude": 9.152862
+    },
+    {
+      "name": "Boel s Suppehøner",
+      "latitude": 57.48251,
+      "longitude": 9.903932
+    },
+    {
+      "name": "Boltinge Gårdbutik",
+      "latitude": 55.225104,
+      "longitude": 10.455721
+    },
+    {
+      "name": "Bomgården",
+      "latitude": 55.646815,
+      "longitude": 11.909519
+    },
+    {
+      "name": "Bondelauget",
+      "latitude": 56.194204,
+      "longitude": 10.673178
+    },
+    {
+      "name": "Bornholms Bikompagni",
+      "latitude": 55.102546,
+      "longitude": 14.765952
+    },
+    {
+      "name": "Brandbygegaards butik",
+      "latitude": 55.890593,
+      "longitude": 10.124399
+    },
+    {
+      "name": "Bregnedalsgaard",
+      "latitude": 56.734367,
+      "longitude": 9.816141
+    },
+    {
+      "name": "Brian Johannesen",
+      "latitude": 55.675542,
+      "longitude": 8.440792
+    },
+    {
+      "name": "Brodamgaard Gårdbutik",
+      "latitude": 57.077842,
+      "longitude": 10.134487
+    },
+    {
+      "name": "Brogaardens Økologiske Angus",
+      "latitude": 54.904317,
+      "longitude": 10.617927
+    },
+    {
+      "name": "Brogård",
+      "latitude": 55.74704,
+      "longitude": 11.557143
+    },
+    {
+      "name": "Brænde-Holz",
+      "latitude": 56.546705,
+      "longitude": 8.171259
+    },
+    {
+      "name": "Bundgaardens stalddørssalg",
+      "latitude": 56.827754,
+      "longitude": 10.147925
+    },
+    {
+      "name": "Buresødal",
+      "latitude": 55.832203,
+      "longitude": 12.204319
+    },
+    {
+      "name": "Burtikken",
+      "latitude": 56.365972,
+      "longitude": 8.43379
+    },
+    {
+      "name": "Butik",
+      "latitude": 56.147963,
+      "longitude": 8.157889
+    },
+    {
+      "name": "Butik Aftensol",
+      "latitude": 55.657758,
+      "longitude": 12.132153
+    },
+    {
+      "name": "Butik Grønt og Sager",
+      "latitude": 55.331835,
+      "longitude": 10.794397
+    },
+    {
+      "name": "Bybjerggaard",
+      "latitude": 55.83586,
+      "longitude": 12.116584
+    },
+    {
+      "name": "Byrumgaard",
+      "latitude": 57.252037,
+      "longitude": 11.005071
+    },
+    {
+      "name": "Bågø gårdslagteri",
+      "latitude": 55.313932,
+      "longitude": 9.807949
+    },
+    {
+      "name": "Båstrup Skovgård",
+      "latitude": 55.992687,
+      "longitude": 9.950375
+    },
+    {
+      "name": "Bækgården Kaniner",
+      "latitude": 55.411151,
+      "longitude": 11.750401
+    },
+    {
+      "name": "Bøgebakkegård",
+      "latitude": 56.38531,
+      "longitude": 10.620702
+    },
+    {
+      "name": "Bøgebjerggaard",
+      "latitude": 55.505891,
+      "longitude": 10.703237
+    },
+    {
+      "name": "Bøgebjerggårds Gårdbutik",
+      "latitude": 55.335051,
+      "longitude": 9.968898
+    },
+    {
+      "name": "Bøgeskovgård",
+      "latitude": 55.618634,
+      "longitude": 9.761417
+    },
+    {
+      "name": "Bølgegården",
+      "latitude": 56.67534,
+      "longitude": 10.085538
+    },
+    {
+      "name": "Bølle Æbler",
+      "latitude": 55.411285,
+      "longitude": 10.152375
+    },
+    {
+      "name": "C.S.J. Mink/Landbrug/Jensen Jordbær",
+      "latitude": 57.36322,
+      "longitude": 10.431169
+    },
+    {
+      "name": "Café Guldbæk Vingård",
+      "latitude": 56.937435,
+      "longitude": 9.813857
+    },
+    {
+      "name": "Cafébutikken",
+      "latitude": 55.782455,
+      "longitude": 11.941432
+    },
+    {
+      "name": "Carl-Ejnar Sørensen",
+      "latitude": 56.252315,
+      "longitude": 9.449442
+    },
+    {
+      "name": "Carsten Christensen",
+      "latitude": 55.292196,
+      "longitude": 10.450021
+    },
+    {
+      "name": "Casa Ghiorsi",
+      "latitude": 54.910394,
+      "longitude": 10.322573
+    },
+    {
+      "name": "Christensminde gårdbutik",
+      "latitude": 55.4367,
+      "longitude": 9.858314
+    },
+    {
+      "name": "Christina Bernstein",
+      "latitude": 54.991249,
+      "longitude": 12.037998
+    },
+    {
+      "name": "Claus Poulsen",
+      "latitude": 55.660052,
+      "longitude": 11.638473
+    },
+    {
+      "name": "Cypreshøj",
+      "latitude": 54.799264,
+      "longitude": 11.654457
+    },
+    {
+      "name": "Dalbakkegaard",
+      "latitude": 54.693821,
+      "longitude": 11.573304
+    },
+    {
+      "name": "Dalhøjgaard",
+      "latitude": 54.781713,
+      "longitude": 11.708921
+    },
+    {
+      "name": "Dalsbakkegaard",
+      "latitude": 55.833696,
+      "longitude": 11.71803
+    },
+    {
+      "name": "Dalsgaard Agro",
+      "latitude": 56.608619,
+      "longitude": 8.757108
+    },
+    {
+      "name": "Dalsgaard i Langballe",
+      "latitude": 56.075251,
+      "longitude": 10.204448
+    },
+    {
+      "name": "Damgaardens kød & grønt",
+      "latitude": 56.652592,
+      "longitude": 9.592909
+    },
+    {
+      "name": "Dammens vildtslagteri",
+      "latitude": 55.510828,
+      "longitude": 10.038321
+    },
+    {
+      "name": "Dan Christensen",
+      "latitude": 56.332437,
+      "longitude": 10.456343
+    },
+    {
+      "name": "Dansk Jergyu",
+      "latitude": 55.069703,
+      "longitude": 12.064775
+    },
+    {
+      "name": "Dansk Kvalitetskød",
+      "latitude": 55.813383,
+      "longitude": 8.669643
+    },
+    {
+      "name": "Dansk Wagyu",
+      "latitude": 55.728071,
+      "longitude": 12.200818
+    },
+    {
+      "name": "Darup BnB Gårdbutik & Café",
+      "latitude": 55.608812,
+      "longitude": 12.061137
+    },
+    {
+      "name": "Daugaard Permabrug",
+      "latitude": 55.96134,
+      "longitude": 12.368802
+    },
+    {
+      "name": "Davrehøj Økobrug",
+      "latitude": 55.194278,
+      "longitude": 10.066248
+    },
+    {
+      "name": "Den Gamle Danske Gaard",
+      "latitude": 57.401756,
+      "longitude": 9.979214
+    },
+    {
+      "name": "Den Glade Bondemand Gårdbutik",
+      "latitude": 57.249623,
+      "longitude": 9.761245
+    },
+    {
+      "name": "Den Gode Gård",
+      "latitude": 57.478445,
+      "longitude": 10.230924
+    },
+    {
+      "name": "Den lille Bondegård",
+      "latitude": 55.63697,
+      "longitude": 9.496749
+    },
+    {
+      "name": "Den lille gårdbutik",
+      "latitude": 55.657823,
+      "longitude": 11.659932
+    },
+    {
+      "name": "Den Tibetanske Hvidløgskur",
+      "latitude": 57.280577,
+      "longitude": 9.890826
+    },
+    {
+      "name": "Det Glade Jordbær",
+      "latitude": 55.67059,
+      "longitude": 12.092582
+    },
+    {
+      "name": "Det Lille Gartneri",
+      "latitude": 56.436007,
+      "longitude": 10.636328
+    },
+    {
+      "name": "Det Lille Gartneri",
+      "latitude": 56.52836,
+      "longitude": 10.810709
+    },
+    {
+      "name": "Det lille Gartneri Grøntforretning",
+      "latitude": 56.509768,
+      "longitude": 10.544463
+    },
+    {
+      "name": "Det lille Økori",
+      "latitude": 55.803061,
+      "longitude": 9.781633
+    },
+    {
+      "name": "Diddesminde Gårdbutik",
+      "latitude": 55.294757,
+      "longitude": 9.507427
+    },
+    {
+      "name": "Din gårdbutik - jordbærsalg",
+      "latitude": 55.73341,
+      "longitude": 9.137174
+    },
+    {
+      "name": "DK Kød",
+      "latitude": 56.406701,
+      "longitude": 8.468068
+    },
+    {
+      "name": "Dorthea Lysemose Larsen",
+      "latitude": 55.312215,
+      "longitude": 10.016017
+    },
+    {
+      "name": "Dragsholm Slot - Herskabsstalden",
+      "latitude": 55.770971,
+      "longitude": 11.39088
+    },
+    {
+      "name": "Dreyers Gårdbutik",
+      "latitude": 55.338672,
+      "longitude": 10.276543
+    },
+    {
+      "name": "Drivhuset",
+      "latitude": 56.71592,
+      "longitude": 9.380804
+    },
+    {
+      "name": "Dyresøgård Butik",
+      "latitude": 56.037589,
+      "longitude": 12.562834
+    },
+    {
+      "name": "Dyssegården Morten Gjerskov",
+      "latitude": 55.743357,
+      "longitude": 12.134671
+    },
+    {
+      "name": "Egebak",
+      "latitude": 57.323499,
+      "longitude": 10.087244
+    },
+    {
+      "name": "Egebjerggårdgrønt",
+      "latitude": 55.484958,
+      "longitude": 9.919714
+    },
+    {
+      "name": "Egeby Frugtplantage",
+      "latitude": 55.597862,
+      "longitude": 10.327449
+    },
+    {
+      "name": "Egeholmhus gårdbutik",
+      "latitude": 55.41051,
+      "longitude": 11.537626
+    },
+    {
+      "name": "Egehøjgaard",
+      "latitude": 55.882578,
+      "longitude": 12.251834
+    },
+    {
+      "name": "Egeskovgaard Gårdbod",
+      "latitude": 54.906388,
+      "longitude": 9.960587
+    },
+    {
+      "name": "Ejgil Loklindt",
+      "latitude": 55.537367,
+      "longitude": 8.456508
+    },
+    {
+      "name": "Elkærholm",
+      "latitude": 55.555683,
+      "longitude": 9.402483
+    },
+    {
+      "name": "Elmegård Gårdbutik",
+      "latitude": 55.322431,
+      "longitude": 9.301458
+    },
+    {
+      "name": "Emmas Have",
+      "latitude": 55.441068,
+      "longitude": 9.544838
+    },
+    {
+      "name": "Endelave Lægeurtehave",
+      "latitude": 55.75719,
+      "longitude": 10.274465
+    },
+    {
+      "name": "Enemærkegaards Hereford",
+      "latitude": 55.497167,
+      "longitude": 11.5988
+    },
+    {
+      "name": "Engbogaard",
+      "latitude": 55.273116,
+      "longitude": 11.711995
+    },
+    {
+      "name": "Enghave Naturlandbrug",
+      "latitude": 55.819683,
+      "longitude": 12.417051
+    },
+    {
+      "name": "Enghavegård Ost",
+      "latitude": 55.593279,
+      "longitude": 8.319301
+    },
+    {
+      "name": "Engholm",
+      "latitude": 55.513953,
+      "longitude": 8.910166
+    },
+    {
+      "name": "Engvang",
+      "latitude": 55.485819,
+      "longitude": 8.689639
+    },
+    {
+      "name": "Erholm Gods",
+      "latitude": 55.396232,
+      "longitude": 10.048463
+    },
+    {
+      "name": "Erling Hansen",
+      "latitude": 56.048507,
+      "longitude": 12.455456
+    },
+    {
+      "name": "Erling Hansen Gårdbutik",
+      "latitude": 56.072008,
+      "longitude": 12.514117
+    },
+    {
+      "name": "Eskebæk grønt",
+      "latitude": 57.450257,
+      "longitude": 10.394158
+    },
+    {
+      "name": "Eskeholm",
+      "latitude": 55.088612,
+      "longitude": 9.500917
+    },
+    {
+      "name": "Esromgaard",
+      "latitude": 56.040487,
+      "longitude": 12.395448
+    },
+    {
+      "name": "Esromgaard",
+      "latitude": 56.127295,
+      "longitude": 12.308683
+    },
+    {
+      "name": "Fallesgaard Blonde DAquitaine",
+      "latitude": 55.102748,
+      "longitude": 9.441503
+    },
+    {
+      "name": "Familiegaarden",
+      "latitude": 55.418768,
+      "longitude": 10.653336
+    },
+    {
+      "name": "Fanefjord Frugt",
+      "latitude": 54.901512,
+      "longitude": 12.183039
+    },
+    {
+      "name": "Fanefjord Frugt",
+      "latitude": 54.995443,
+      "longitude": 11.981254
+    },
+    {
+      "name": "Fanø Angus og Merino",
+      "latitude": 55.421434,
+      "longitude": 8.400226
+    },
+    {
+      "name": "Farendløse Mosteri",
+      "latitude": 55.3845,
+      "longitude": 11.885225
+    },
+    {
+      "name": "Farmeren og Skytten",
+      "latitude": 55.237534,
+      "longitude": 12.214935
+    },
+    {
+      "name": "Farsbøllegaard",
+      "latitude": 55.488176,
+      "longitude": 10.088072
+    },
+    {
+      "name": "Fejø Cider",
+      "latitude": 54.946939,
+      "longitude": 11.463832
+    },
+    {
+      "name": "Fejø Frilandskvæg",
+      "latitude": 54.947226,
+      "longitude": 11.467519
+    },
+    {
+      "name": "Finn Hansen",
+      "latitude": 54.900873,
+      "longitude": 9.649989
+    },
+    {
+      "name": "Fiskbæk Gårdbutik",
+      "latitude": 54.939073,
+      "longitude": 9.601642
+    },
+    {
+      "name": "Fjand Gårdbutik",
+      "latitude": 56.318426,
+      "longitude": 8.14645
+    },
+    {
+      "name": "Fjerland",
+      "latitude": 56.474485,
+      "longitude": 9.465785
+    },
+    {
+      "name": "Fjordkvæg Naturpleje",
+      "latitude": 56.789486,
+      "longitude": 9.198124
+    },
+    {
+      "name": "Fjordvang Frugtplantage",
+      "latitude": 55.559547,
+      "longitude": 10.413141
+    },
+    {
+      "name": "Fogedgaard Landbrug",
+      "latitude": 55.305155,
+      "longitude": 10.162839
+    },
+    {
+      "name": "Fole Tulipaner",
+      "latitude": 55.303236,
+      "longitude": 9.011121
+    },
+    {
+      "name": "Fole Tulipaner",
+      "latitude": 55.330473,
+      "longitude": 8.970276
+    },
+    {
+      "name": "Franaturen Naturplejekoed.dk",
+      "latitude": 55.946938,
+      "longitude": 10.564255
+    },
+    {
+      "name": "Fredbogårdbutikken",
+      "latitude": 56.126021,
+      "longitude": 12.302192
+    },
+    {
+      "name": "Fridmakød",
+      "latitude": 55.786324,
+      "longitude": 12.033493
+    },
+    {
+      "name": "Frilandsgartneriet Bod i Dytmærsken i Randers",
+      "latitude": 56.512766,
+      "longitude": 9.803828
+    },
+    {
+      "name": "Frisk Fra Fyn",
+      "latitude": 55.431483,
+      "longitude": 10.475429
+    },
+    {
+      "name": "Fru Hansens",
+      "latitude": 56.438572,
+      "longitude": 10.181939
+    },
+    {
+      "name": "Fru Jensens Vejbod",
+      "latitude": 55.103668,
+      "longitude": 12.150608
+    },
+    {
+      "name": "Fru Møllers Mølleri",
+      "latitude": 55.958809,
+      "longitude": 10.205444
+    },
+    {
+      "name": "Frugt Farmen",
+      "latitude": 55.779985,
+      "longitude": 12.260641
+    },
+    {
+      "name": "Frugtboden",
+      "latitude": 55.716054,
+      "longitude": 11.685069
+    },
+    {
+      "name": "Frugtboden Sommerland Sjælland",
+      "latitude": 55.895631,
+      "longitude": 11.614051
+    },
+    {
+      "name": "Frugthaven",
+      "latitude": 56.83339,
+      "longitude": 10.027007
+    },
+    {
+      "name": "Frugtplantagen Hellas",
+      "latitude": 55.736243,
+      "longitude": 11.976927
+    },
+    {
+      "name": "Frugtplantagen Lyby Strand",
+      "latitude": 56.632168,
+      "longitude": 9.050712
+    },
+    {
+      "name": "Frydendal Ismejeri",
+      "latitude": 54.909343,
+      "longitude": 9.715512
+    },
+    {
+      "name": "Frydenlund Frugtplantage",
+      "latitude": 55.839978,
+      "longitude": 12.562873
+    },
+    {
+      "name": "Frølund Økologi",
+      "latitude": 56.157776,
+      "longitude": 9.101378
+    },
+    {
+      "name": "Fuglebjerggaard Gårdbutik",
+      "latitude": 56.056441,
+      "longitude": 12.242719
+    },
+    {
+      "name": "Fuglehal Gårdbutik",
+      "latitude": 55.930298,
+      "longitude": 12.044528
+    },
+    {
+      "name": "Fuglhøjgaard Kødformidler",
+      "latitude": 55.645254,
+      "longitude": 9.325261
+    },
+    {
+      "name": "Fuglsang Grønt",
+      "latitude": 55.173298,
+      "longitude": 9.304651
+    },
+    {
+      "name": "Fuglsø Gaard",
+      "latitude": 55.216896,
+      "longitude": 9.621172
+    },
+    {
+      "name": "Fur Bryghus Gårdbutik",
+      "latitude": 56.831653,
+      "longitude": 8.963458
+    },
+    {
+      "name": "Fur Gårdbutik",
+      "latitude": 56.818636,
+      "longitude": 9.01048
+    },
+    {
+      "name": "Fyns GræsÆg - Hovgården",
+      "latitude": 55.068064,
+      "longitude": 10.503328
+    },
+    {
+      "name": "Får på Bjerget",
+      "latitude": 55.661573,
+      "longitude": 9.626109
+    },
+    {
+      "name": "Fårehold",
+      "latitude": 55.423525,
+      "longitude": 10.507796
+    },
+    {
+      "name": "FællesGro",
+      "latitude": 55.711205,
+      "longitude": 12.56434
+    },
+    {
+      "name": "Fællinggaard Den lille Gårdbutik",
+      "latitude": 55.265488,
+      "longitude": 10.290657
+    },
+    {
+      "name": "Føltved Frederikshavn - v/ JYSK",
+      "latitude": 57.446864,
+      "longitude": 10.50045
+    },
+    {
+      "name": "Gaardmester",
+      "latitude": 55.240577,
+      "longitude": 9.567211
+    },
+    {
+      "name": "Galgebakkens Hjortefarm",
+      "latitude": 56.811952,
+      "longitude": 8.450875
+    },
+    {
+      "name": "Galloway godt kød",
+      "latitude": 55.347879,
+      "longitude": 11.417437
+    },
+    {
+      "name": "Gartnergården Djurs",
+      "latitude": 56.315866,
+      "longitude": 10.425594
+    },
+    {
+      "name": "Gartneriet Hedegården",
+      "latitude": 55.600763,
+      "longitude": 12.285218
+    },
+    {
+      "name": "Gartneriet Lumbygaard",
+      "latitude": 55.461359,
+      "longitude": 10.376647
+    },
+    {
+      "name": "Gartneriet Rosenlund",
+      "latitude": 55.316832,
+      "longitude": 10.316561
+    },
+    {
+      "name": "Gikisa",
+      "latitude": 55.391999,
+      "longitude": 12.227524
+    },
+    {
+      "name": "Glass Agro",
+      "latitude": 55.650602,
+      "longitude": 11.878988
+    },
+    {
+      "name": "Gløvermosegård",
+      "latitude": 55.527959,
+      "longitude": 12.102682
+    },
+    {
+      "name": "Goods Gårdbutik",
+      "latitude": 55.004256,
+      "longitude": 9.823673
+    },
+    {
+      "name": "Gothenborg",
+      "latitude": 56.100862,
+      "longitude": 9.539233
+    },
+    {
+      "name": "Gothenborg Gårdbutik",
+      "latitude": 56.102268,
+      "longitude": 9.544908
+    },
+    {
+      "name": "Gothenborg Landkøkken",
+      "latitude": 56.1009,
+      "longitude": 9.538857
+    },
+    {
+      "name": "Gram Slots Gårdbutik",
+      "latitude": 55.296757,
+      "longitude": 9.059068
+    },
+    {
+      "name": "Graverens Grøntsager",
+      "latitude": 57.552577,
+      "longitude": 10.158632
+    },
+    {
+      "name": "Gravlund Øko æg",
+      "latitude": 55.343798,
+      "longitude": 8.778382
+    },
+    {
+      "name": "Gravlund Øko æg",
+      "latitude": 55.467645,
+      "longitude": 9.079502
+    },
+    {
+      "name": "Grennessminde",
+      "latitude": 55.641707,
+      "longitude": 12.294565
+    },
+    {
+      "name": "Grennessmindes økologiske Gartneri",
+      "latitude": 55.666756,
+      "longitude": 12.289203
+    },
+    {
+      "name": "Grøn Oase",
+      "latitude": 55.060751,
+      "longitude": 14.953315
+    },
+    {
+      "name": "Grønnegård",
+      "latitude": 55.982852,
+      "longitude": 12.535255
+    },
+    {
+      "name": "Grønnehavegård",
+      "latitude": 56.002102,
+      "longitude": 12.038478
+    },
+    {
+      "name": "Grønt fra Månen",
+      "latitude": 55.850934,
+      "longitude": 12.488487
+    },
+    {
+      "name": "Grøntbod",
+      "latitude": 55.105571,
+      "longitude": 10.131401
+    },
+    {
+      "name": "Grøntbod",
+      "latitude": 56.633127,
+      "longitude": 10.061033
+    },
+    {
+      "name": "Grøntsagsboden",
+      "latitude": 55.254414,
+      "longitude": 11.695528
+    },
+    {
+      "name": "Guldager Highland Cattle",
+      "latitude": 55.5287,
+      "longitude": 8.454147
+    },
+    {
+      "name": "Guldborgsund økojuletræer",
+      "latitude": 54.887724,
+      "longitude": 11.662599
+    },
+    {
+      "name": "Gundekildegård",
+      "latitude": 56.074912,
+      "longitude": 12.143586
+    },
+    {
+      "name": "Gundestrup Mejeri og Bryghus A/S",
+      "latitude": 55.092546,
+      "longitude": 10.407443
+    },
+    {
+      "name": "Gundhøjgaard Kødformidler",
+      "latitude": 55.971724,
+      "longitude": 12.222032
+    },
+    {
+      "name": "Gyldenlund",
+      "latitude": 55.772951,
+      "longitude": 9.895768
+    },
+    {
+      "name": "Gårdagergård",
+      "latitude": 55.382837,
+      "longitude": 11.324803
+    },
+    {
+      "name": "Gårdbutik",
+      "latitude": 55.900166,
+      "longitude": 11.105264
+    },
+    {
+      "name": "Gårdbutik",
+      "latitude": 56.308597,
+      "longitude": 8.701082
+    },
+    {
+      "name": "Gårdbutik Ditlevsdal Bison Farm",
+      "latitude": 55.455573,
+      "longitude": 10.195207
+    },
+    {
+      "name": "Gårdbutik Hesseldal",
+      "latitude": 55.293529,
+      "longitude": 9.92678
+    },
+    {
+      "name": "Gårdbutik Linien",
+      "latitude": 55.231606,
+      "longitude": 10.128816
+    },
+    {
+      "name": "Gårdbutik Lunden",
+      "latitude": 55.705996,
+      "longitude": 11.282338
+    },
+    {
+      "name": "Gårdbutik Mobrogaard",
+      "latitude": 56.005029,
+      "longitude": 12.243387
+    },
+    {
+      "name": "Gårdbutik Nøest",
+      "latitude": 57.433487,
+      "longitude": 9.77353
+    },
+    {
+      "name": "Gårdbutik Saftstationen",
+      "latitude": 55.050354,
+      "longitude": 12.055234
+    },
+    {
+      "name": "Gårdbutikken",
+      "latitude": 55.940339,
+      "longitude": 12.159002
+    },
+    {
+      "name": "Gårdbutikken Aarstiderne",
+      "latitude": 55.972631,
+      "longitude": 12.534204
+    },
+    {
+      "name": "Gårdbutikken Den Glade Gris",
+      "latitude": 55.074656,
+      "longitude": 10.652837
+    },
+    {
+      "name": "Gårdbutikken Dyrenes Verden",
+      "latitude": 55.110774,
+      "longitude": 10.26693
+    },
+    {
+      "name": "Gårdbutikken Hyldemarken",
+      "latitude": 55.409961,
+      "longitude": 11.217399
+    },
+    {
+      "name": "Gårdbutikken i Gjurup",
+      "latitude": 57.465277,
+      "longitude": 9.923959
+    },
+    {
+      "name": "Gårdbutikken Langemarksgaard",
+      "latitude": 55.850779,
+      "longitude": 10.628912
+    },
+    {
+      "name": "Gårdbutikken Lindegaard",
+      "latitude": 55.135334,
+      "longitude": 10.199423
+    },
+    {
+      "name": "Gårdbutikken Lystlunden",
+      "latitude": 55.566564,
+      "longitude": 9.454746
+    },
+    {
+      "name": "Gårdbutikken Marielyst",
+      "latitude": 54.678593,
+      "longitude": 11.948083
+    },
+    {
+      "name": "Gårdbutikken Marielyst Ostevogn",
+      "latitude": 54.67853,
+      "longitude": 11.948319
+    },
+    {
+      "name": "Gårdbutikken Mindegård",
+      "latitude": 55.513181,
+      "longitude": 11.182665
+    },
+    {
+      "name": "Gårdbutikken Månsson",
+      "latitude": 55.942257,
+      "longitude": 9.178235
+    },
+    {
+      "name": "Gårdbutikken Ny Hellested",
+      "latitude": 57.154822,
+      "longitude": 10.121674
+    },
+    {
+      "name": "Gårdbutikken Nørresø",
+      "latitude": 54.973028,
+      "longitude": 10.429297
+    },
+    {
+      "name": "Gårdbutikken Over Ugilt",
+      "latitude": 57.420039,
+      "longitude": 10.130282
+    },
+    {
+      "name": "Gårdbutikken Peterslyst",
+      "latitude": 56.079312,
+      "longitude": 10.082036
+    },
+    {
+      "name": "Gårdbutikken på Flytkær",
+      "latitude": 56.110639,
+      "longitude": 8.389458
+    },
+    {
+      "name": "Gårdbutikken Rosilde Højgård",
+      "latitude": 55.306691,
+      "longitude": 10.749973
+    },
+    {
+      "name": "Gårdcaféen Månsson",
+      "latitude": 55.942266,
+      "longitude": 9.17825
+    },
+    {
+      "name": "Gårdejer Birgit Strand Sørensen",
+      "latitude": 55.040819,
+      "longitude": 11.918226
+    },
+    {
+      "name": "Gårdejer Erik Gert Christoffersen Jensen",
+      "latitude": 55.894686,
+      "longitude": 12.223116
+    },
+    {
+      "name": "Gårdejer Karsten Nygaard Jensen",
+      "latitude": 56.968649,
+      "longitude": 9.673965
+    },
+    {
+      "name": "Gårdejer Lars Jørgen Jensen",
+      "latitude": 55.25565,
+      "longitude": 11.903593
+    },
+    {
+      "name": "Gårdejer Ronald Rokkedal",
+      "latitude": 56.980633,
+      "longitude": 9.423143
+    },
+    {
+      "name": "Gårdsbutik",
+      "latitude": 55.194242,
+      "longitude": 11.436371
+    },
+    {
+      "name": "Gårdstoften",
+      "latitude": 55.476457,
+      "longitude": 11.703122
+    },
+    {
+      "name": "H K Æg Salg",
+      "latitude": 55.879232,
+      "longitude": 11.602072
+    },
+    {
+      "name": "HAGELSKJÆR",
+      "latitude": 55.855398,
+      "longitude": 9.072842
+    },
+    {
+      "name": "Hallegaard Pølsemageri og Gårdbutik",
+      "latitude": 55.117632,
+      "longitude": 15.060427
+    },
+    {
+      "name": "Hammershøj Angus",
+      "latitude": 55.176395,
+      "longitude": 10.715076
+    },
+    {
+      "name": "Hanne og Allan Jørgensen Melbjerggård Grønt",
+      "latitude": 56.556276,
+      "longitude": 9.110055
+    },
+    {
+      "name": "Hannes æg",
+      "latitude": 56.652066,
+      "longitude": 9.745192
+    },
+    {
+      "name": "Hans Jesper Christensen",
+      "latitude": 54.855971,
+      "longitude": 11.073069
+    },
+    {
+      "name": "Hansens Frugt og Grønt",
+      "latitude": 55.398409,
+      "longitude": 9.972525
+    },
+    {
+      "name": "Hausted Jersey",
+      "latitude": 55.435536,
+      "longitude": 8.936504
+    },
+    {
+      "name": "Havebasen",
+      "latitude": 56.095245,
+      "longitude": 8.295239
+    },
+    {
+      "name": "Havehøjegård Gårdbutik",
+      "latitude": 54.993199,
+      "longitude": 12.490029
+    },
+    {
+      "name": "Havredal Gårdbutik",
+      "latitude": 56.320874,
+      "longitude": 9.267908
+    },
+    {
+      "name": "HC Øko Æg",
+      "latitude": 55.804033,
+      "longitude": 9.363496
+    },
+    {
+      "name": "Heddahgaarden",
+      "latitude": 55.739177,
+      "longitude": 9.613307
+    },
+    {
+      "name": "Hedeagergaard",
+      "latitude": 55.797942,
+      "longitude": 8.576822
+    },
+    {
+      "name": "Hegnsholt Friland",
+      "latitude": 56.298956,
+      "longitude": 10.413002
+    },
+    {
+      "name": "Hegnsholt Gårdbutik",
+      "latitude": 55.589173,
+      "longitude": 11.968043
+    },
+    {
+      "name": "Hegnstrup",
+      "latitude": 55.840087,
+      "longitude": 12.212782
+    },
+    {
+      "name": "Hejne Mogens Egelund",
+      "latitude": 55.496565,
+      "longitude": 10.003799
+    },
+    {
+      "name": "Heldgård Økologisk gårdbutik",
+      "latitude": 56.012947,
+      "longitude": 12.232223
+    },
+    {
+      "name": "Hellebjerggaard",
+      "latitude": 55.171968,
+      "longitude": 10.280537
+    },
+    {
+      "name": "Helsingehus Frugtplantage",
+      "latitude": 55.519027,
+      "longitude": 11.194692
+    },
+    {
+      "name": "Hennegaard",
+      "latitude": 55.728283,
+      "longitude": 8.229927
+    },
+    {
+      "name": "Henriks Æg",
+      "latitude": 55.075145,
+      "longitude": 14.835016
+    },
+    {
+      "name": "Henriks Æg Gårdbutik",
+      "latitude": 55.074075,
+      "longitude": 14.784926
+    },
+    {
+      "name": "Herefordhaven",
+      "latitude": 55.369541,
+      "longitude": 12.198812
+    },
+    {
+      "name": "Herregårdens Madbutik",
+      "latitude": 56.175975,
+      "longitude": 8.760193
+    },
+    {
+      "name": "Hesselkildegaard",
+      "latitude": 55.812593,
+      "longitude": 12.334789
+    },
+    {
+      "name": "Hestehavegård Frugtplantage",
+      "latitude": 54.94564,
+      "longitude": 9.778849
+    },
+    {
+      "name": "Hittegodset",
+      "latitude": 56.203676,
+      "longitude": 10.20365
+    },
+    {
+      "name": "Hjortefarmen Brotræet",
+      "latitude": 55.864609,
+      "longitude": 12.295216
+    },
+    {
+      "name": "Holdgaardens Highland",
+      "latitude": 55.939642,
+      "longitude": 8.872233
+    },
+    {
+      "name": "Holistia",
+      "latitude": 55.445575,
+      "longitude": 10.338985
+    },
+    {
+      "name": "Holmegårdsvejen Dexter",
+      "latitude": 56.886908,
+      "longitude": 8.489331
+    },
+    {
+      "name": "Holmelund & Ko",
+      "latitude": 55.216729,
+      "longitude": 10.39317
+    },
+    {
+      "name": "Holmevang Frugtplantage",
+      "latitude": 55.69712,
+      "longitude": 12.268906
+    },
+    {
+      "name": "Holmgårds Grønt",
+      "latitude": 56.908541,
+      "longitude": 9.60152
+    },
+    {
+      "name": "Holms Bøffer",
+      "latitude": 56.260389,
+      "longitude": 9.545005
+    },
+    {
+      "name": "Honning",
+      "latitude": 55.035525,
+      "longitude": 12.10638
+    },
+    {
+      "name": "Honningbiksen",
+      "latitude": 55.998449,
+      "longitude": 11.927571
+    },
+    {
+      "name": "Honninghuset",
+      "latitude": 54.900245,
+      "longitude": 10.282685
+    },
+    {
+      "name": "Honninghuset",
+      "latitude": 55.15228,
+      "longitude": 14.959981
+    },
+    {
+      "name": "Hopballe Mølle Gårdbutik",
+      "latitude": 55.741952,
+      "longitude": 9.46996
+    },
+    {
+      "name": "Horn Skovgård",
+      "latitude": 56.254468,
+      "longitude": 9.709347
+    },
+    {
+      "name": "Hos Fru Nielsen",
+      "latitude": 55.532921,
+      "longitude": 9.589693
+    },
+    {
+      "name": "Hotel Sakskjobing - Gårdbutik",
+      "latitude": 54.799426,
+      "longitude": 11.634423
+    },
+    {
+      "name": "Hovedvejens Gårdbutik",
+      "latitude": 55.469729,
+      "longitude": 9.890408
+    },
+    {
+      "name": "Hovgården",
+      "latitude": 56.409766,
+      "longitude": 9.80372
+    },
+    {
+      "name": "Hovkrogvej 35",
+      "latitude": 55.506284,
+      "longitude": 9.853946
+    },
+    {
+      "name": "Husmandsstedet",
+      "latitude": 55.480747,
+      "longitude": 11.575307
+    },
+    {
+      "name": "Husmandsstedet",
+      "latitude": 55.504613,
+      "longitude": 11.741699
+    },
+    {
+      "name": "Husumgård",
+      "latitude": 55.778259,
+      "longitude": 9.105023
+    },
+    {
+      "name": "Hyrupdal Gårdbutik",
+      "latitude": 55.243702,
+      "longitude": 9.640519
+    },
+    {
+      "name": "Håbets Haver",
+      "latitude": 55.897994,
+      "longitude": 8.804638
+    },
+    {
+      "name": "Hækbæk",
+      "latitude": 55.797353,
+      "longitude": 11.529168
+    },
+    {
+      "name": "Hækbæk",
+      "latitude": 55.802879,
+      "longitude": 11.445756
+    },
+    {
+      "name": "Høbjerg Cafe & Gårdbutik",
+      "latitude": 56.373436,
+      "longitude": 10.872513
+    },
+    {
+      "name": "Høbjerg Gartneri",
+      "latitude": 56.37385,
+      "longitude": 10.87203
+    },
+    {
+      "name": "Højbakkegaard Økologisk Landbrug",
+      "latitude": 55.966968,
+      "longitude": 11.894252
+    },
+    {
+      "name": "Højbogård",
+      "latitude": 55.197591,
+      "longitude": 11.913069
+    },
+    {
+      "name": "Højbogård Gårdbutik",
+      "latitude": 56.030643,
+      "longitude": 12.175147
+    },
+    {
+      "name": "Højbyhus Gårdbutik",
+      "latitude": 55.329683,
+      "longitude": 10.4317
+    },
+    {
+      "name": "Højgaard",
+      "latitude": 55.529255,
+      "longitude": 8.420858
+    },
+    {
+      "name": "Højgaard Landbrug Gårdbutik",
+      "latitude": 55.565011,
+      "longitude": 12.126009
+    },
+    {
+      "name": "Højlund Gårdbutik",
+      "latitude": 55.971487,
+      "longitude": 9.365016
+    },
+    {
+      "name": "Højmark Gårdbutik",
+      "latitude": 55.987411,
+      "longitude": 9.729888
+    },
+    {
+      "name": "Højvang Økologi",
+      "latitude": 56.341209,
+      "longitude": 9.526247
+    },
+    {
+      "name": "Høkildegård",
+      "latitude": 55.052828,
+      "longitude": 10.463961
+    },
+    {
+      "name": "Høns & hamp",
+      "latitude": 54.978658,
+      "longitude": 11.535644
+    },
+    {
+      "name": "Hønseriet Åstrup Bakkes gårdbutik",
+      "latitude": 56.558533,
+      "longitude": 9.484844
+    },
+    {
+      "name": "Hørhaven",
+      "latitude": 55.351014,
+      "longitude": 11.58743
+    },
+    {
+      "name": "Høstet Gårdbutik",
+      "latitude": 55.093882,
+      "longitude": 15.133802
+    },
+    {
+      "name": "Høstkassen",
+      "latitude": 54.916876,
+      "longitude": 8.961154
+    },
+    {
+      "name": "Igelsø Gårdbutik",
+      "latitude": 55.635319,
+      "longitude": 11.669846
+    },
+    {
+      "name": "Inges frugt",
+      "latitude": 54.949419,
+      "longitude": 11.424812
+    },
+    {
+      "name": "Ingrediensen",
+      "latitude": 55.422028,
+      "longitude": 12.140951
+    },
+    {
+      "name": "Isleholm Wagyu",
+      "latitude": 55.818921,
+      "longitude": 12.111
+    },
+    {
+      "name": "Jens & Niels",
+      "latitude": 55.243944,
+      "longitude": 9.503836
+    },
+    {
+      "name": "Jens Bonderup Kjeldsen",
+      "latitude": 56.874862,
+      "longitude": 9.792868
+    },
+    {
+      "name": "Jensens Frilandsgrise",
+      "latitude": 56.745197,
+      "longitude": 9.593233
+    },
+    {
+      "name": "Jershave Naturkød",
+      "latitude": 55.3942,
+      "longitude": 10.053344
+    },
+    {
+      "name": "Jersore Galloway",
+      "latitude": 55.394372,
+      "longitude": 10.053278
+    },
+    {
+      "name": "Jesper Svennesen",
+      "latitude": 55.577721,
+      "longitude": 8.577054
+    },
+    {
+      "name": "Jettes Strudsefarm",
+      "latitude": 56.1479,
+      "longitude": 8.158137
+    },
+    {
+      "name": "JIM SAABYE DAMSMOSEGÅRD",
+      "latitude": 56.070723,
+      "longitude": 12.388448
+    },
+    {
+      "name": "John Bjerregaard",
+      "latitude": 56.324657,
+      "longitude": 10.39921
+    },
+    {
+      "name": "John Engsig",
+      "latitude": 56.371113,
+      "longitude": 9.978683
+    },
+    {
+      "name": "John Meier Andersen",
+      "latitude": 55.240237,
+      "longitude": 9.992692
+    },
+    {
+      "name": "Jordbær Pluk Selv Esbjerg",
+      "latitude": 55.562934,
+      "longitude": 8.358388
+    },
+    {
+      "name": "Jordbær salg mm.",
+      "latitude": 55.046273,
+      "longitude": 10.68737
+    },
+    {
+      "name": "Jordbærboden",
+      "latitude": 56.086168,
+      "longitude": 8.507535
+    },
+    {
+      "name": "Jordbærgården",
+      "latitude": 55.717201,
+      "longitude": 12.29503
+    },
+    {
+      "name": "Juhl & Agger",
+      "latitude": 55.956224,
+      "longitude": 8.398614
+    },
+    {
+      "name": "Julegåsen",
+      "latitude": 56.094789,
+      "longitude": 8.779188
+    },
+    {
+      "name": "Jysk Naturkød",
+      "latitude": 56.158768,
+      "longitude": 10.001019
+    },
+    {
+      "name": "Jystrup Møllegaard",
+      "latitude": 55.507965,
+      "longitude": 11.864542
+    },
+    {
+      "name": "Jytte og Jens Jakob Hindhede",
+      "latitude": 56.058258,
+      "longitude": 12.339055
+    },
+    {
+      "name": "Kalø Økologi Gårdbutik",
+      "latitude": 56.276749,
+      "longitude": 10.507568
+    },
+    {
+      "name": "Karensminde Frugtplantage",
+      "latitude": 55.949215,
+      "longitude": 10.209681
+    },
+    {
+      "name": "Karsten Jensen",
+      "latitude": 55.282519,
+      "longitude": 10.163582
+    },
+    {
+      "name": "Kasperskartofler Vejbod egebækvej",
+      "latitude": 55.282996,
+      "longitude": 8.725525
+    },
+    {
+      "name": "Kastanjegården",
+      "latitude": 56.242829,
+      "longitude": 9.550424
+    },
+    {
+      "name": "Kathrinelund Gårdbutik",
+      "latitude": 55.497331,
+      "longitude": 8.40869
+    },
+    {
+      "name": "Kathrinelund Gårdbutik",
+      "latitude": 55.532592,
+      "longitude": 8.381086
+    },
+    {
+      "name": "Katrinelund Gårdbutik",
+      "latitude": 56.009963,
+      "longitude": 12.464221
+    },
+    {
+      "name": "Kiddo & Ko",
+      "latitude": 55.723884,
+      "longitude": 11.457523
+    },
+    {
+      "name": "Kik-forbi Gårdbutik",
+      "latitude": 55.97818,
+      "longitude": 11.875646
+    },
+    {
+      "name": "Kildebrønde Frugtplantage",
+      "latitude": 55.604842,
+      "longitude": 12.26552
+    },
+    {
+      "name": "Kildegaard Land- og Skovbrug Gårdbutik",
+      "latitude": 55.135258,
+      "longitude": 10.200235
+    },
+    {
+      "name": "Kildegaarden",
+      "latitude": 55.923654,
+      "longitude": 11.72853
+    },
+    {
+      "name": "Kildegaarden Highland Cattle - Gårdbutik",
+      "latitude": 55.369766,
+      "longitude": 10.735213
+    },
+    {
+      "name": "Kildemarksgården Gårdbutik",
+      "latitude": 55.32544,
+      "longitude": 11.888433
+    },
+    {
+      "name": "Kildevejens Frugt",
+      "latitude": 54.717222,
+      "longitude": 11.781288
+    },
+    {
+      "name": "Kimergården Mosteri og Biavl",
+      "latitude": 54.931843,
+      "longitude": 12.233045
+    },
+    {
+      "name": "Kimesbjerggaard Vingaard",
+      "latitude": 55.081002,
+      "longitude": 10.168769
+    },
+    {
+      "name": "Kirkbakgaard",
+      "latitude": 57.275961,
+      "longitude": 9.67408
+    },
+    {
+      "name": "Kirstineborg.",
+      "latitude": 56.240594,
+      "longitude": 10.26377
+    },
+    {
+      "name": "Kirstinesminde",
+      "latitude": 57.042758,
+      "longitude": 9.406828
+    },
+    {
+      "name": "Kiselgården Gårdbutik",
+      "latitude": 55.575157,
+      "longitude": 11.657129
+    },
+    {
+      "name": "KJ Thorup",
+      "latitude": 56.432838,
+      "longitude": 10.793042
+    },
+    {
+      "name": "Kjølholm",
+      "latitude": 55.001293,
+      "longitude": 12.000503
+    },
+    {
+      "name": "Klintemarksgård",
+      "latitude": 55.360757,
+      "longitude": 11.826872
+    },
+    {
+      "name": "Klintholm Gods Gårdbutik",
+      "latitude": 54.978794,
+      "longitude": 12.502528
+    },
+    {
+      "name": "Klippeøens Gårdbutik",
+      "latitude": 55.17485,
+      "longitude": 15.022471
+    },
+    {
+      "name": "Klippingegård",
+      "latitude": 55.358139,
+      "longitude": 12.313108
+    },
+    {
+      "name": "Klitgaard Vin",
+      "latitude": 55.296221,
+      "longitude": 10.497767
+    },
+    {
+      "name": "Klosterhedens Vildt",
+      "latitude": 56.423556,
+      "longitude": 8.343236
+    },
+    {
+      "name": "Kløverbakken Gårdbutik",
+      "latitude": 55.312708,
+      "longitude": 11.684392
+    },
+    {
+      "name": "Knabegaarden",
+      "latitude": 55.164316,
+      "longitude": 10.277218
+    },
+    {
+      "name": "Kobbersted Jordbær",
+      "latitude": 55.363077,
+      "longitude": 9.553699
+    },
+    {
+      "name": "Kogsbølle Landhandel",
+      "latitude": 55.28941,
+      "longitude": 10.749679
+    },
+    {
+      "name": "Koholm Gårdbutik",
+      "latitude": 55.785912,
+      "longitude": 12.032695
+    },
+    {
+      "name": "Kokærgård",
+      "latitude": 55.318904,
+      "longitude": 9.464734
+    },
+    {
+      "name": "Kongebryg Gårdbutik",
+      "latitude": 55.232801,
+      "longitude": 11.79355
+    },
+    {
+      "name": "Kongelundgaard",
+      "latitude": 55.578404,
+      "longitude": 12.577699
+    },
+    {
+      "name": "Kongeå Kylling",
+      "latitude": 55.437596,
+      "longitude": 9.086617
+    },
+    {
+      "name": "Koster Færgegård/Camping Mønbroen",
+      "latitude": 54.983737,
+      "longitude": 12.173819
+    },
+    {
+      "name": "Kraghøjgård Gårdbutik",
+      "latitude": 56.973654,
+      "longitude": 8.552591
+    },
+    {
+      "name": "Krastrupsøgaard Gårdbutik",
+      "latitude": 56.862225,
+      "longitude": 10.043744
+    },
+    {
+      "name": "Kratholt Fjerkræ",
+      "latitude": 55.475966,
+      "longitude": 9.855078
+    },
+    {
+      "name": "Kroghs Grønt",
+      "latitude": 55.471444,
+      "longitude": 9.472055
+    },
+    {
+      "name": "KrogHuset Gårdbutik",
+      "latitude": 55.799148,
+      "longitude": 8.545806
+    },
+    {
+      "name": "Krogsholm Frugt og Grønt",
+      "latitude": 55.168554,
+      "longitude": 14.891322
+    },
+    {
+      "name": "Krokildegård Mosteri",
+      "latitude": 54.869783,
+      "longitude": 10.356743
+    },
+    {
+      "name": "Kræmmergaard",
+      "latitude": 56.403048,
+      "longitude": 8.329937
+    },
+    {
+      "name": "Kysøko",
+      "latitude": 55.289103,
+      "longitude": 11.628011
+    },
+    {
+      "name": "Kæragergård Grisen",
+      "latitude": 55.642366,
+      "longitude": 9.708261
+    },
+    {
+      "name": "Kærby Gårdbutik",
+      "latitude": 55.484242,
+      "longitude": 9.927813
+    },
+    {
+      "name": "Kærby Gårdbutik",
+      "latitude": 55.659592,
+      "longitude": 11.172777
+    },
+    {
+      "name": "Kærsbo Frugtplantage Frugtsalg",
+      "latitude": 55.245393,
+      "longitude": 10.247252
+    },
+    {
+      "name": "Kærum Gårdbutik",
+      "latitude": 55.25143,
+      "longitude": 9.951842
+    },
+    {
+      "name": "Københavns Fødevarefællesskab",
+      "latitude": 55.685328,
+      "longitude": 12.557258
+    },
+    {
+      "name": "Kød & Ko",
+      "latitude": 54.951177,
+      "longitude": 9.717367
+    },
+    {
+      "name": "Kødformidler Bøgeskovens Highland Cattle Kødformidler",
+      "latitude": 55.204034,
+      "longitude": 14.930067
+    },
+    {
+      "name": "Kølbækgård",
+      "latitude": 56.386997,
+      "longitude": 10.367265
+    },
+    {
+      "name": "Laasbækgaard økologi",
+      "latitude": 56.074266,
+      "longitude": 9.078014
+    },
+    {
+      "name": "Labøllegaard",
+      "latitude": 55.489542,
+      "longitude": 10.121326
+    },
+    {
+      "name": "Lamdrupnaturkød",
+      "latitude": 55.212799,
+      "longitude": 10.622598
+    },
+    {
+      "name": "Lammefjordens Spisekammer",
+      "latitude": 55.789972,
+      "longitude": 11.460789
+    },
+    {
+      "name": "Lammehave Økologi - Gårdbutik",
+      "latitude": 54.821776,
+      "longitude": 12.037907
+    },
+    {
+      "name": "Landevejs Boden",
+      "latitude": 56.576904,
+      "longitude": 8.850564
+    },
+    {
+      "name": "Landevejsgaarden",
+      "latitude": 55.545028,
+      "longitude": 11.670906
+    },
+    {
+      "name": "Landhandelen",
+      "latitude": 56.018944,
+      "longitude": 12.061477
+    },
+    {
+      "name": "Landhygge Gårdbutik",
+      "latitude": 57.083403,
+      "longitude": 10.379552
+    },
+    {
+      "name": "Landmand Erik Døssing Jensen",
+      "latitude": 56.427014,
+      "longitude": 9.004231
+    },
+    {
+      "name": "Landmand Lars Rasmussen",
+      "latitude": 56.313314,
+      "longitude": 9.925926
+    },
+    {
+      "name": "Landmand Viggo Kirkegård Veje",
+      "latitude": 55.577343,
+      "longitude": 8.362769
+    },
+    {
+      "name": "Langager Gårdbutik",
+      "latitude": 54.93071,
+      "longitude": 9.703219
+    },
+    {
+      "name": "Langdrætgård Friland",
+      "latitude": 55.253849,
+      "longitude": 9.552264
+    },
+    {
+      "name": "Langebjerggård Frugtplantage",
+      "latitude": 55.51285,
+      "longitude": 11.781213
+    },
+    {
+      "name": "Langstedgård",
+      "latitude": 56.843245,
+      "longitude": 9.019113
+    },
+    {
+      "name": "Lars B. Jacobsen vejbod",
+      "latitude": 55.143685,
+      "longitude": 10.159329
+    },
+    {
+      "name": "Leopoldsminde",
+      "latitude": 56.102277,
+      "longitude": 12.243459
+    },
+    {
+      "name": "Leregården",
+      "latitude": 57.003601,
+      "longitude": 9.479904
+    },
+    {
+      "name": "Lertoftegård",
+      "latitude": 56.98707,
+      "longitude": 8.697705
+    },
+    {
+      "name": "Lervanggård",
+      "latitude": 56.105758,
+      "longitude": 8.417061
+    },
+    {
+      "name": "Liholms grønt",
+      "latitude": 55.852335,
+      "longitude": 10.575816
+    },
+    {
+      "name": "Lille Bredkær",
+      "latitude": 56.175012,
+      "longitude": 8.858562
+    },
+    {
+      "name": "Lille Fjordgaard",
+      "latitude": 56.469315,
+      "longitude": 8.695625
+    },
+    {
+      "name": "Lille Jord",
+      "latitude": 56.045499,
+      "longitude": 12.292033
+    },
+    {
+      "name": "Lille Krusegård",
+      "latitude": 55.081044,
+      "longitude": 15.076593
+    },
+    {
+      "name": "Lillegaard-Hereford",
+      "latitude": 55.629913,
+      "longitude": 11.594549
+    },
+    {
+      "name": "Lillemarken",
+      "latitude": 55.467226,
+      "longitude": 10.008503
+    },
+    {
+      "name": "Lilleø Gårdbutik",
+      "latitude": 54.910586,
+      "longitude": 11.484133
+    },
+    {
+      "name": "Limousine kød fra høstemark",
+      "latitude": 56.940673,
+      "longitude": 10.206247
+    },
+    {
+      "name": "Linda Mørk Jensen",
+      "latitude": 57.476737,
+      "longitude": 9.991254
+    },
+    {
+      "name": "Lindbjerggård Gårdbutik",
+      "latitude": 56.5275,
+      "longitude": 10.138324
+    },
+    {
+      "name": "Lindegaarden Gårdbutik",
+      "latitude": 55.255204,
+      "longitude": 9.668303
+    },
+    {
+      "name": "Lindegård",
+      "latitude": 55.43333,
+      "longitude": 10.319438
+    },
+    {
+      "name": "Lindehøj Beck",
+      "latitude": 55.197154,
+      "longitude": 11.65793
+    },
+    {
+      "name": "Lindenborg Avlsgaard Vildthåndtering",
+      "latitude": 56.904894,
+      "longitude": 10.034819
+    },
+    {
+      "name": "Lindgaards Frugt og Grønt",
+      "latitude": 55.475811,
+      "longitude": 9.798071
+    },
+    {
+      "name": "Lipperts Chili",
+      "latitude": 55.781828,
+      "longitude": 11.600162
+    },
+    {
+      "name": "Lipperts Landbod",
+      "latitude": 55.781711,
+      "longitude": 11.600266
+    },
+    {
+      "name": "Lisbeth Hansen",
+      "latitude": 56.565642,
+      "longitude": 9.170209
+    },
+    {
+      "name": "Liv på landet",
+      "latitude": 56.714896,
+      "longitude": 9.161665
+    },
+    {
+      "name": "LMH Gårdbutik",
+      "latitude": 55.190938,
+      "longitude": 10.152879
+    },
+    {
+      "name": "Lodals Geder",
+      "latitude": 55.973633,
+      "longitude": 8.600439
+    },
+    {
+      "name": "Lolle Frugt",
+      "latitude": 54.824838,
+      "longitude": 11.656782
+    },
+    {
+      "name": "Lophave hereford",
+      "latitude": 57.456397,
+      "longitude": 9.81583
+    },
+    {
+      "name": "Lundevang Gårdbutik",
+      "latitude": 54.96082,
+      "longitude": 12.47429
+    },
+    {
+      "name": "Lundsbjerggaard",
+      "latitude": 55.483007,
+      "longitude": 10.192896
+    },
+    {
+      "name": "Lykkelund Gedemejeri",
+      "latitude": 55.173774,
+      "longitude": 14.944039
+    },
+    {
+      "name": "Lykkesholm Æbler",
+      "latitude": 57.472805,
+      "longitude": 10.051855
+    },
+    {
+      "name": "Lyngholmkød",
+      "latitude": 55.966655,
+      "longitude": 9.424543
+    },
+    {
+      "name": "Lyns Blomster",
+      "latitude": 54.697327,
+      "longitude": 11.948339
+    },
+    {
+      "name": "Lærkehaven",
+      "latitude": 55.701171,
+      "longitude": 9.883204
+    },
+    {
+      "name": "Lærkeholtgård",
+      "latitude": 55.747539,
+      "longitude": 8.68431
+    },
+    {
+      "name": "Lærkehøj Økologisk Frugt",
+      "latitude": 55.633658,
+      "longitude": 11.566404
+    },
+    {
+      "name": "Løvegårdens glutenfri webshop",
+      "latitude": 56.81494,
+      "longitude": 9.660097
+    },
+    {
+      "name": "Maarager Gårdbutik",
+      "latitude": 57.404872,
+      "longitude": 9.77683
+    },
+    {
+      "name": "Mad og Mennesker",
+      "latitude": 55.953528,
+      "longitude": 11.922372
+    },
+    {
+      "name": "Madgården",
+      "latitude": 56.766579,
+      "longitude": 9.86606
+    },
+    {
+      "name": "Madkasse på Moselund",
+      "latitude": 55.128786,
+      "longitude": 10.643019
+    },
+    {
+      "name": "Maglemosegård Gårdbutik",
+      "latitude": 54.864482,
+      "longitude": 11.894327
+    },
+    {
+      "name": "Magtenbølle Honning & Mjød",
+      "latitude": 55.375095,
+      "longitude": 10.170717
+    },
+    {
+      "name": "Maigaard & Belling Naturpleje",
+      "latitude": 55.447762,
+      "longitude": 10.527239
+    },
+    {
+      "name": "Maileg",
+      "latitude": 56.11553,
+      "longitude": 8.980024
+    },
+    {
+      "name": "Mangholm",
+      "latitude": 55.961794,
+      "longitude": 12.223013
+    },
+    {
+      "name": "Mangholm Gårdbutik",
+      "latitude": 55.961923,
+      "longitude": 12.223445
+    },
+    {
+      "name": "Marianne Elgaard Olesen",
+      "latitude": 56.437114,
+      "longitude": 9.368282
+    },
+    {
+      "name": "Marjatta - Gårdbutik",
+      "latitude": 55.191718,
+      "longitude": 12.077437
+    },
+    {
+      "name": "Marys Vin & Bøf",
+      "latitude": 56.28313,
+      "longitude": 8.978478
+    },
+    {
+      "name": "Mejnerts Gårdbutik",
+      "latitude": 55.657722,
+      "longitude": 11.245371
+    },
+    {
+      "name": "Mjelsmark Gårdbutik",
+      "latitude": 55.027289,
+      "longitude": 9.685134
+    },
+    {
+      "name": "Moesgaard bær og grønt",
+      "latitude": 56.393526,
+      "longitude": 9.598498
+    },
+    {
+      "name": "Mogens Kjærgaard Vejbod",
+      "latitude": 55.408384,
+      "longitude": 10.26475
+    },
+    {
+      "name": "Mollwitz Mjød",
+      "latitude": 56.926028,
+      "longitude": 9.925686
+    },
+    {
+      "name": "Mols Bjerge Hereford",
+      "latitude": 56.193163,
+      "longitude": 10.537315
+    },
+    {
+      "name": "Montage & Grønt",
+      "latitude": 55.11192,
+      "longitude": 14.813797
+    },
+    {
+      "name": "Mosegården Jordbrug I/S",
+      "latitude": 55.649056,
+      "longitude": 11.596789
+    },
+    {
+      "name": "Moselund Gårdbutik",
+      "latitude": 55.155067,
+      "longitude": 10.701822
+    },
+    {
+      "name": "Moseminde Vildt",
+      "latitude": 56.122063,
+      "longitude": 8.601919
+    },
+    {
+      "name": "Mukkergårdens gårdbutik",
+      "latitude": 55.501926,
+      "longitude": 11.869895
+    },
+    {
+      "name": "Multismedien Skovløkke",
+      "latitude": 55.447771,
+      "longitude": 10.527088
+    },
+    {
+      "name": "Munkebjerg Øko frugtplantage",
+      "latitude": 55.677718,
+      "longitude": 9.632239
+    },
+    {
+      "name": "Munkebjerggaard",
+      "latitude": 55.839978,
+      "longitude": 11.460372
+    },
+    {
+      "name": "Møllebakkegaard Gårdbutik",
+      "latitude": 55.031729,
+      "longitude": 12.031311
+    },
+    {
+      "name": "Møllebakkegaard Isproduktion",
+      "latitude": 55.027681,
+      "longitude": 12.035036
+    },
+    {
+      "name": "Møllebjergaard",
+      "latitude": 56.352969,
+      "longitude": 9.4354
+    },
+    {
+      "name": "Møllebjerggård",
+      "latitude": 55.878336,
+      "longitude": 11.643749
+    },
+    {
+      "name": "Møllebrogaard",
+      "latitude": 56.049558,
+      "longitude": 9.888659
+    },
+    {
+      "name": "Møllegaarden",
+      "latitude": 55.547885,
+      "longitude": 11.726117
+    },
+    {
+      "name": "Møllegård",
+      "latitude": 55.961003,
+      "longitude": 10.553492
+    },
+    {
+      "name": "Møllehøj",
+      "latitude": 55.776136,
+      "longitude": 12.234446
+    },
+    {
+      "name": "Mølleriet",
+      "latitude": 55.560676,
+      "longitude": 8.472897
+    },
+    {
+      "name": "Møllerup Gods",
+      "latitude": 56.284271,
+      "longitude": 10.554771
+    },
+    {
+      "name": "Møllevanglimousine",
+      "latitude": 56.35944,
+      "longitude": 8.76423
+    },
+    {
+      "name": "Møn Økologisk",
+      "latitude": 54.925858,
+      "longitude": 12.182815
+    },
+    {
+      "name": "Mønstergård gårdbutik",
+      "latitude": 55.105446,
+      "longitude": 14.994966
+    },
+    {
+      "name": "Mønstergård Kødformidler",
+      "latitude": 55.105477,
+      "longitude": 14.994955
+    },
+    {
+      "name": "Müller & Moeslund",
+      "latitude": 55.268781,
+      "longitude": 10.365954
+    },
+    {
+      "name": "Nakkehage Æblemost",
+      "latitude": 55.9077,
+      "longitude": 11.749705
+    },
+    {
+      "name": "Napati vejbod",
+      "latitude": 56.437618,
+      "longitude": 8.720258
+    },
+    {
+      "name": "Natur og Anlæg",
+      "latitude": 56.381978,
+      "longitude": 8.209302
+    },
+    {
+      "name": "Naturbruget Tranum",
+      "latitude": 57.130314,
+      "longitude": 9.447939
+    },
+    {
+      "name": "Niels & Grete Gårdbutik",
+      "latitude": 56.370819,
+      "longitude": 10.055093
+    },
+    {
+      "name": "Nielsens",
+      "latitude": 55.390003,
+      "longitude": 9.031432
+    },
+    {
+      "name": "Ninas mad og Gårdbutik Butik",
+      "latitude": 55.9114,
+      "longitude": 12.058897
+    },
+    {
+      "name": "Nordic Wagyu",
+      "latitude": 57.567997,
+      "longitude": 9.999129
+    },
+    {
+      "name": "Nordisk Honning",
+      "latitude": 55.200862,
+      "longitude": 14.858557
+    },
+    {
+      "name": "Nordsjællands Vildt",
+      "latitude": 56.076623,
+      "longitude": 12.17058
+    },
+    {
+      "name": "Nordvildt",
+      "latitude": 56.05534,
+      "longitude": 12.495968
+    },
+    {
+      "name": "Nr. Hedelam",
+      "latitude": 55.215834,
+      "longitude": 8.935198
+    },
+    {
+      "name": "Nr. Nissum Håndbryg Gårdbutik",
+      "latitude": 56.556626,
+      "longitude": 8.385028
+    },
+    {
+      "name": "Ny Møllegård",
+      "latitude": 55.42377,
+      "longitude": 10.218106
+    },
+    {
+      "name": "Nybro Frugt Gårdbutik",
+      "latitude": 55.489299,
+      "longitude": 10.639678
+    },
+    {
+      "name": "Nygård",
+      "latitude": 55.79859,
+      "longitude": 12.186783
+    },
+    {
+      "name": "Nygårdens Gårdbutik",
+      "latitude": 55.917331,
+      "longitude": 11.643752
+    },
+    {
+      "name": "Nyhavegård",
+      "latitude": 55.036779,
+      "longitude": 10.696404
+    },
+    {
+      "name": "Nørballegård Gårdbutik",
+      "latitude": 55.577917,
+      "longitude": 9.378621
+    },
+    {
+      "name": "Nørbygaard økologi",
+      "latitude": 55.326073,
+      "longitude": 9.494193
+    },
+    {
+      "name": "Nørbygaard økologi Ejsbølvej",
+      "latitude": 55.258703,
+      "longitude": 9.462415
+    },
+    {
+      "name": "Nørbys Grøntsager",
+      "latitude": 55.364286,
+      "longitude": 12.314584
+    },
+    {
+      "name": "Nørgaard Charolais",
+      "latitude": 56.998693,
+      "longitude": 8.797767
+    },
+    {
+      "name": "Nørgaards familielandbrug",
+      "latitude": 56.066723,
+      "longitude": 8.678478
+    },
+    {
+      "name": "Nørregaarden",
+      "latitude": 56.934644,
+      "longitude": 9.374755
+    },
+    {
+      "name": "Nørreløkkegård",
+      "latitude": 55.509933,
+      "longitude": 10.064867
+    },
+    {
+      "name": "Nørskov",
+      "latitude": 56.571396,
+      "longitude": 8.638427
+    },
+    {
+      "name": "Oak River Farm",
+      "latitude": 55.288226,
+      "longitude": 8.71895
+    },
+    {
+      "name": "Oddersbjerg Grøntsager",
+      "latitude": 55.775497,
+      "longitude": 11.416652
+    },
+    {
+      "name": "Ole Krummelbein Gårdbutik",
+      "latitude": 55.613011,
+      "longitude": 12.368343
+    },
+    {
+      "name": "Olsens",
+      "latitude": 55.602757,
+      "longitude": 12.024367
+    },
+    {
+      "name": "Olsens Agro",
+      "latitude": 54.888239,
+      "longitude": 12.190936
+    },
+    {
+      "name": "Omfaun Landbrug",
+      "latitude": 57.155736,
+      "longitude": 10.262023
+    },
+    {
+      "name": "Orchid Farm Village",
+      "latitude": 55.382222,
+      "longitude": 10.121718
+    },
+    {
+      "name": "Orøganic",
+      "latitude": 55.775361,
+      "longitude": 11.833034
+    },
+    {
+      "name": "Palleshavegaard",
+      "latitude": 55.250019,
+      "longitude": 10.412653
+    },
+    {
+      "name": "Paradiset Gårdbutik",
+      "latitude": 56.032056,
+      "longitude": 10.237644
+    },
+    {
+      "name": "Per Nielsen",
+      "latitude": 55.367895,
+      "longitude": 10.357483
+    },
+    {
+      "name": "Perlen",
+      "latitude": 55.623091,
+      "longitude": 11.471146
+    },
+    {
+      "name": "Peter Richardy Sørensen",
+      "latitude": 55.203154,
+      "longitude": 10.15726
+    },
+    {
+      "name": "Peters Gartneri",
+      "latitude": 56.050423,
+      "longitude": 10.262509
+    },
+    {
+      "name": "Petershave",
+      "latitude": 55.311752,
+      "longitude": 11.616523
+    },
+    {
+      "name": "Petershave Formidling af kød",
+      "latitude": 55.311769,
+      "longitude": 11.616516
+    },
+    {
+      "name": "Pilegaard",
+      "latitude": 55.873272,
+      "longitude": 12.135864
+    },
+    {
+      "name": "Pilegården Orø",
+      "latitude": 55.778152,
+      "longitude": 11.804792
+    },
+    {
+      "name": "Pilti Marjatta",
+      "latitude": 55.155478,
+      "longitude": 12.013504
+    },
+    {
+      "name": "Planter og Pesto",
+      "latitude": 56.176581,
+      "longitude": 8.520321
+    },
+    {
+      "name": "Pluk-Butik på Søbysøgård",
+      "latitude": 55.289901,
+      "longitude": 10.367031
+    },
+    {
+      "name": "Poul Bækgaard Kødformidler",
+      "latitude": 56.067428,
+      "longitude": 12.20371
+    },
+    {
+      "name": "Preben Klarskov Hansen Kød formidler",
+      "latitude": 55.216871,
+      "longitude": 11.510032
+    },
+    {
+      "name": "Primærproducent - Lars Bruhn Lindhøjs Dexter",
+      "latitude": 54.809018,
+      "longitude": 11.769142
+    },
+    {
+      "name": "Præstegården Jyderup",
+      "latitude": 55.664015,
+      "longitude": 11.420117
+    },
+    {
+      "name": "Præsteskovgård",
+      "latitude": 55.276709,
+      "longitude": 10.230518
+    },
+    {
+      "name": "PølseMageriet",
+      "latitude": 56.206684,
+      "longitude": 9.63802
+    },
+    {
+      "name": "Pøtgaard Fåreost Gårdmejeri",
+      "latitude": 56.531832,
+      "longitude": 9.571241
+    },
+    {
+      "name": "Raade fjerkræfarm",
+      "latitude": 55.247259,
+      "longitude": 9.682573
+    },
+    {
+      "name": "Rabarbergaarden Butik",
+      "latitude": 56.054679,
+      "longitude": 12.119157
+    },
+    {
+      "name": "Radissen",
+      "latitude": 56.503729,
+      "longitude": 9.641212
+    },
+    {
+      "name": "Radstedlund",
+      "latitude": 54.788939,
+      "longitude": 11.698222
+    },
+    {
+      "name": "Ramsmosegård Gårdbutik",
+      "latitude": 55.109418,
+      "longitude": 11.830682
+    },
+    {
+      "name": "Randeris Bison",
+      "latitude": 56.111517,
+      "longitude": 8.596562
+    },
+    {
+      "name": "Ravnsminde",
+      "latitude": 55.643203,
+      "longitude": 9.615842
+    },
+    {
+      "name": "Ravnstrup Gårdbutik",
+      "latitude": 54.875089,
+      "longitude": 11.89075
+    },
+    {
+      "name": "RBMEagro",
+      "latitude": 55.622177,
+      "longitude": 11.895524
+    },
+    {
+      "name": "Refshalegården",
+      "latitude": 55.004186,
+      "longitude": 12.338937
+    },
+    {
+      "name": "Refshøjgaard Landbutik",
+      "latitude": 56.241411,
+      "longitude": 10.025586
+    },
+    {
+      "name": "Rishøjgård Gårdbutik",
+      "latitude": 56.228494,
+      "longitude": 10.267488
+    },
+    {
+      "name": "Rismosegård",
+      "latitude": 55.832958,
+      "longitude": 11.487231
+    },
+    {
+      "name": "Rixgaarden",
+      "latitude": 56.455718,
+      "longitude": 9.891191
+    },
+    {
+      "name": "Rokkedyssegaard",
+      "latitude": 55.779764,
+      "longitude": 12.322869
+    },
+    {
+      "name": "Rolighed Friland Gårdbutik",
+      "latitude": 55.570269,
+      "longitude": 8.75782
+    },
+    {
+      "name": "Rosendals Højlandskvæg",
+      "latitude": 57.418935,
+      "longitude": 10.239489
+    },
+    {
+      "name": "Rosengård Friland",
+      "latitude": 55.424309,
+      "longitude": 8.685503
+    },
+    {
+      "name": "Roskilde Jordbær",
+      "latitude": 55.509375,
+      "longitude": 11.887688
+    },
+    {
+      "name": "Rudbøl Sivsko",
+      "latitude": 54.896979,
+      "longitude": 8.750104
+    },
+    {
+      "name": "Rurup.dk Gårdbutik",
+      "latitude": 55.155645,
+      "longitude": 9.038845
+    },
+    {
+      "name": "Rydalsgaard Angus",
+      "latitude": 56.543622,
+      "longitude": 10.274093
+    },
+    {
+      "name": "Rydskovgård",
+      "latitude": 55.609042,
+      "longitude": 9.509258
+    },
+    {
+      "name": "Rye Nørskov Gods Gårdbutik",
+      "latitude": 56.092201,
+      "longitude": 9.752742
+    },
+    {
+      "name": "Ryesminde Mosteri",
+      "latitude": 54.901518,
+      "longitude": 9.950503
+    },
+    {
+      "name": "Ryesminde Mosteri",
+      "latitude": 54.905364,
+      "longitude": 9.936996
+    },
+    {
+      "name": "Ryesplantage",
+      "latitude": 55.250981,
+      "longitude": 10.241095
+    },
+    {
+      "name": "Ryttergaardens gårdbutik",
+      "latitude": 55.720932,
+      "longitude": 12.181852
+    },
+    {
+      "name": "Rødmose",
+      "latitude": 55.62805,
+      "longitude": 9.502716
+    },
+    {
+      "name": "Røjlegårdens gårdbutik",
+      "latitude": 55.66912,
+      "longitude": 11.483947
+    },
+    {
+      "name": "Rønhøjgaard",
+      "latitude": 56.813598,
+      "longitude": 9.279692
+    },
+    {
+      "name": "Rørmosegård VIN",
+      "latitude": 55.928283,
+      "longitude": 11.742469
+    },
+    {
+      "name": "Samsø Torv Niels Vinther",
+      "latitude": 55.858552,
+      "longitude": 10.600306
+    },
+    {
+      "name": "Samsø Øko Æbler",
+      "latitude": 55.879293,
+      "longitude": 10.607695
+    },
+    {
+      "name": "Sandgaarden",
+      "latitude": 55.841757,
+      "longitude": 11.49499
+    },
+    {
+      "name": "Sandholms Farm Shop",
+      "latitude": 55.526827,
+      "longitude": 9.347993
+    },
+    {
+      "name": "Saxegaard",
+      "latitude": 56.100356,
+      "longitude": 12.31882
+    },
+    {
+      "name": "Saxenhøj Økologi",
+      "latitude": 54.803836,
+      "longitude": 11.623167
+    },
+    {
+      "name": "Sejerø-gæs",
+      "latitude": 55.895182,
+      "longitude": 11.133299
+    },
+    {
+      "name": "Selsø-øko",
+      "latitude": 55.756916,
+      "longitude": 12.037903
+    },
+    {
+      "name": "Sidinge Gårdbutik",
+      "latitude": 55.837475,
+      "longitude": 11.645399
+    },
+    {
+      "name": "Silkeborg Rovfugleshow og Bisonfarm",
+      "latitude": 56.072757,
+      "longitude": 9.511901
+    },
+    {
+      "name": "Skagen OX",
+      "latitude": 57.513696,
+      "longitude": 10.439561
+    },
+    {
+      "name": "Skelbjerggård",
+      "latitude": 55.93067,
+      "longitude": 11.551804
+    },
+    {
+      "name": "Skelleris Webshop",
+      "latitude": 55.529487,
+      "longitude": 11.431684
+    },
+    {
+      "name": "Skelsø",
+      "latitude": 55.15298,
+      "longitude": 10.733762
+    },
+    {
+      "name": "Skippergården",
+      "latitude": 55.123939,
+      "longitude": 12.123572
+    },
+    {
+      "name": "Skjelledgaard Gårdbutik",
+      "latitude": 55.29211,
+      "longitude": 11.265047
+    },
+    {
+      "name": "Skodborgskov Gårdbutik",
+      "latitude": 55.399839,
+      "longitude": 9.18269
+    },
+    {
+      "name": "Skotsgaard Gårdbutik",
+      "latitude": 55.699702,
+      "longitude": 9.39173
+    },
+    {
+      "name": "Skovhjælperne Østsjælland Kødformidler",
+      "latitude": 55.688431,
+      "longitude": 12.366894
+    },
+    {
+      "name": "Skovlund Limousine",
+      "latitude": 55.14278,
+      "longitude": 9.042811
+    },
+    {
+      "name": "Skovly Grisen",
+      "latitude": 55.557248,
+      "longitude": 9.365305
+    },
+    {
+      "name": "Skovlyhø",
+      "latitude": 55.316513,
+      "longitude": 12.12484
+    },
+    {
+      "name": "Skovridergården",
+      "latitude": 54.807819,
+      "longitude": 11.517159
+    },
+    {
+      "name": "Slagter Lund Gårdbutik",
+      "latitude": 56.270338,
+      "longitude": 10.132788
+    },
+    {
+      "name": "SmagenAf.dk",
+      "latitude": 54.854415,
+      "longitude": 9.449384
+    },
+    {
+      "name": "Snogekærgård Gårdbutik",
+      "latitude": 55.7587,
+      "longitude": 11.872915
+    },
+    {
+      "name": "Sofienlund Gårdbutik",
+      "latitude": 54.884933,
+      "longitude": 10.369584
+    },
+    {
+      "name": "Solbjerggaard",
+      "latitude": 54.798666,
+      "longitude": 11.190965
+    },
+    {
+      "name": "Solbjerggaard Vinproduktion",
+      "latitude": 55.140959,
+      "longitude": 11.914198
+    },
+    {
+      "name": "Soldalen",
+      "latitude": 55.233852,
+      "longitude": 14.772884
+    },
+    {
+      "name": "Solgården",
+      "latitude": 55.825293,
+      "longitude": 12.3737
+    },
+    {
+      "name": "Solhøjgård Økologi",
+      "latitude": 55.736625,
+      "longitude": 9.286812
+    },
+    {
+      "name": "Solkærgaard Gårdbutik",
+      "latitude": 54.932417,
+      "longitude": 9.522773
+    },
+    {
+      "name": "Solskin",
+      "latitude": 55.391134,
+      "longitude": 9.472059
+    },
+    {
+      "name": "Solvang",
+      "latitude": 56.286613,
+      "longitude": 9.299085
+    },
+    {
+      "name": "Sommergården",
+      "latitude": 54.832168,
+      "longitude": 11.87333
+    },
+    {
+      "name": "Sophiagårds gårdbutik",
+      "latitude": 55.247759,
+      "longitude": 10.309825
+    },
+    {
+      "name": "Sort Muld",
+      "latitude": 56.765766,
+      "longitude": 9.099478
+    },
+    {
+      "name": "Spar/ Bjørn Ryttersgaard Jacobsen",
+      "latitude": 56.406834,
+      "longitude": 8.75077
+    },
+    {
+      "name": "Spidsbjergård",
+      "latitude": 56.024,
+      "longitude": 12.543061
+    },
+    {
+      "name": "Spirefryd",
+      "latitude": 57.052208,
+      "longitude": 9.394516
+    },
+    {
+      "name": "Spireriget",
+      "latitude": 55.735028,
+      "longitude": 12.276272
+    },
+    {
+      "name": "Spoelsbjerg Juletræer & Gran",
+      "latitude": 55.773329,
+      "longitude": 12.131035
+    },
+    {
+      "name": "Spånlundgård",
+      "latitude": 55.082171,
+      "longitude": 10.682835
+    },
+    {
+      "name": "St. Gåsdal Gårdbutik",
+      "latitude": 55.983294,
+      "longitude": 8.705888
+    },
+    {
+      "name": "Stald Kærsgård",
+      "latitude": 54.971887,
+      "longitude": 10.565367
+    },
+    {
+      "name": "Stalddørssalg af æg",
+      "latitude": 56.474058,
+      "longitude": 9.55633
+    },
+    {
+      "name": "Stampenborg",
+      "latitude": 55.152607,
+      "longitude": 9.401036
+    },
+    {
+      "name": "Stavnskær Gårdbutik",
+      "latitude": 55.721058,
+      "longitude": 11.519778
+    },
+    {
+      "name": "Steen Nordahl Nielsen Bod",
+      "latitude": 56.144795,
+      "longitude": 10.197661
+    },
+    {
+      "name": "Steffenskilde",
+      "latitude": 55.537163,
+      "longitude": 11.282224
+    },
+    {
+      "name": "Stengaarden",
+      "latitude": 55.040225,
+      "longitude": 10.32802
+    },
+    {
+      "name": "Stengården",
+      "latitude": 55.838247,
+      "longitude": 12.378392
+    },
+    {
+      "name": "Stenholm",
+      "latitude": 55.956519,
+      "longitude": 12.241585
+    },
+    {
+      "name": "Stensbygaard",
+      "latitude": 54.978186,
+      "longitude": 12.028356
+    },
+    {
+      "name": "Stensbølgård",
+      "latitude": 55.71046,
+      "longitude": 11.87115
+    },
+    {
+      "name": "Stensgård Jordbær",
+      "latitude": 57.44652,
+      "longitude": 9.906878
+    },
+    {
+      "name": "Stollig gartneri",
+      "latitude": 55.063587,
+      "longitude": 9.450707
+    },
+    {
+      "name": "Storhaven",
+      "latitude": 57.25007,
+      "longitude": 10.988636
+    },
+    {
+      "name": "Stougaard",
+      "latitude": 55.016246,
+      "longitude": 10.589708
+    },
+    {
+      "name": "Strandgårdens Frugtplantage",
+      "latitude": 55.879998,
+      "longitude": 10.009728
+    },
+    {
+      "name": "Strandgårdens Gårdbutik",
+      "latitude": 55.750382,
+      "longitude": 11.338885
+    },
+    {
+      "name": "Strandgårdens Gårdbutik og Blomster",
+      "latitude": 54.701363,
+      "longitude": 11.936926
+    },
+    {
+      "name": "Strandlyst Frugtplantage",
+      "latitude": 54.946642,
+      "longitude": 10.723753
+    },
+    {
+      "name": "Strids Mølle",
+      "latitude": 55.638013,
+      "longitude": 11.359035
+    },
+    {
+      "name": "Stæremosegård Gårdbutik",
+      "latitude": 55.27541,
+      "longitude": 12.347821
+    },
+    {
+      "name": "Susie Ris Jakobsen Kødformidling",
+      "latitude": 54.867712,
+      "longitude": 11.429381
+    },
+    {
+      "name": "Susvind",
+      "latitude": 55.16557,
+      "longitude": 9.075491
+    },
+    {
+      "name": "Svalegaard",
+      "latitude": 55.480633,
+      "longitude": 11.667358
+    },
+    {
+      "name": "Svalehøj Highlandcattel",
+      "latitude": 55.489404,
+      "longitude": 10.639773
+    },
+    {
+      "name": "Svendborg Vingård",
+      "latitude": 55.072819,
+      "longitude": 10.648165
+    },
+    {
+      "name": "Sydvestjysk Andel",
+      "latitude": 55.304418,
+      "longitude": 8.768556
+    },
+    {
+      "name": "Sæby Gårdslagteri",
+      "latitude": 57.320023,
+      "longitude": 10.475357
+    },
+    {
+      "name": "Søagergård Regenerativt Jordbrug Gårdbutik",
+      "latitude": 55.727959,
+      "longitude": 12.285748
+    },
+    {
+      "name": "Søbjerggaard",
+      "latitude": 55.581146,
+      "longitude": 11.986392
+    },
+    {
+      "name": "Søbogaard Gårdbutik",
+      "latitude": 56.081236,
+      "longitude": 8.906957
+    },
+    {
+      "name": "Søborggaards butik",
+      "latitude": 55.287986,
+      "longitude": 11.348772
+    },
+    {
+      "name": "Søgaard",
+      "latitude": 55.539929,
+      "longitude": 11.205906
+    },
+    {
+      "name": "Søgaard Lam",
+      "latitude": 56.918355,
+      "longitude": 9.547531
+    },
+    {
+      "name": "Søgaards Gårdbutik",
+      "latitude": 57.034071,
+      "longitude": 9.803143
+    },
+    {
+      "name": "Søglimt",
+      "latitude": 55.196891,
+      "longitude": 9.393608
+    },
+    {
+      "name": "Søhulegaard",
+      "latitude": 55.205708,
+      "longitude": 11.628769
+    },
+    {
+      "name": "Søkjærgård Samsø",
+      "latitude": 55.802722,
+      "longitude": 10.53445
+    },
+    {
+      "name": "Sølager Værksteder",
+      "latitude": 55.950699,
+      "longitude": 11.897365
+    },
+    {
+      "name": "Sølager Værksteder Kødformidler",
+      "latitude": 55.950813,
+      "longitude": 11.897457
+    },
+    {
+      "name": "Sølvskovgård",
+      "latitude": 55.350034,
+      "longitude": 12.002731
+    },
+    {
+      "name": "Sønderborg Spisekammer",
+      "latitude": 54.921833,
+      "longitude": 9.725463
+    },
+    {
+      "name": "Søndergaards Æg",
+      "latitude": 57.500022,
+      "longitude": 10.311994
+    },
+    {
+      "name": "Søndergård",
+      "latitude": 55.286407,
+      "longitude": 12.401037
+    },
+    {
+      "name": "Søndergårdensrapsodi",
+      "latitude": 56.652908,
+      "longitude": 9.606054
+    },
+    {
+      "name": "Sønderho Gårdbutik",
+      "latitude": 55.357839,
+      "longitude": 8.461964
+    },
+    {
+      "name": "Søndregård Nyker",
+      "latitude": 55.131371,
+      "longitude": 14.765164
+    },
+    {
+      "name": "Søren Petesen",
+      "latitude": 54.791534,
+      "longitude": 11.804888
+    },
+    {
+      "name": "Søtofte Gårdsalg",
+      "latitude": 55.513054,
+      "longitude": 11.688423
+    },
+    {
+      "name": "Tavs & Lam",
+      "latitude": 56.993821,
+      "longitude": 8.614102
+    },
+    {
+      "name": "Tessebølle Får og Uld Gårdbutik",
+      "latitude": 55.395226,
+      "longitude": 12.156593
+    },
+    {
+      "name": "Tessebølle Får og Uld Kødformidler",
+      "latitude": 55.395201,
+      "longitude": 12.15664
+    },
+    {
+      "name": "Thien Quang",
+      "latitude": 55.375744,
+      "longitude": 10.557968
+    },
+    {
+      "name": "Thomas Gettermann",
+      "latitude": 56.564269,
+      "longitude": 9.307727
+    },
+    {
+      "name": "Thomas Ladegaard",
+      "latitude": 56.771087,
+      "longitude": 9.5683
+    },
+    {
+      "name": "Thorshøjgård",
+      "latitude": 56.086749,
+      "longitude": 12.39092
+    },
+    {
+      "name": "Thorvald",
+      "latitude": 55.760306,
+      "longitude": 11.867661
+    },
+    {
+      "name": "Thy gårdbutik",
+      "latitude": 56.876104,
+      "longitude": 8.579924
+    },
+    {
+      "name": "Thy Lam",
+      "latitude": 56.897563,
+      "longitude": 8.600948
+    },
+    {
+      "name": "THY ØKOBÆR Salgsbod",
+      "latitude": 56.873134,
+      "longitude": 8.437168
+    },
+    {
+      "name": "Tinnetgaard Butik",
+      "latitude": 55.898557,
+      "longitude": 9.401594
+    },
+    {
+      "name": "Tjørnemosegård gårdbutik",
+      "latitude": 54.966872,
+      "longitude": 12.235069
+    },
+    {
+      "name": "TK Agro",
+      "latitude": 55.073331,
+      "longitude": 9.326412
+    },
+    {
+      "name": "TK Agro",
+      "latitude": 55.128987,
+      "longitude": 9.137869
+    },
+    {
+      "name": "Toftegaard Økologi Gårdbutik",
+      "latitude": 55.774113,
+      "longitude": 8.29978
+    },
+    {
+      "name": "Toftegaards Gårdbutik",
+      "latitude": 55.214472,
+      "longitude": 10.689719
+    },
+    {
+      "name": "Toftegården",
+      "latitude": 55.659019,
+      "longitude": 12.33093
+    },
+    {
+      "name": "Tofteladen",
+      "latitude": 57.260716,
+      "longitude": 11.000618
+    },
+    {
+      "name": "Tokkerupgård",
+      "latitude": 54.707235,
+      "longitude": 11.726147
+    },
+    {
+      "name": "Tokkeruplund",
+      "latitude": 55.29844,
+      "longitude": 12.134073
+    },
+    {
+      "name": "Tolstrup Æbler",
+      "latitude": 55.920133,
+      "longitude": 9.879711
+    },
+    {
+      "name": "Tolykkegård",
+      "latitude": 56.031987,
+      "longitude": 12.233265
+    },
+    {
+      "name": "Tonnys Grønsager Salgsbod",
+      "latitude": 56.77902,
+      "longitude": 9.243019
+    },
+    {
+      "name": "Topkær Julestue",
+      "latitude": 56.207727,
+      "longitude": 10.152326
+    },
+    {
+      "name": "Topkærgaard Campingvognshønseæg",
+      "latitude": 56.207447,
+      "longitude": 10.151924
+    },
+    {
+      "name": "Torsøgård Gårdbutik",
+      "latitude": 54.649485,
+      "longitude": 11.510596
+    },
+    {
+      "name": "Torup Bakkegaard & Orelund detail",
+      "latitude": 55.337602,
+      "longitude": 9.938049
+    },
+    {
+      "name": "Tranegården ismejeri",
+      "latitude": 56.039465,
+      "longitude": 12.178717
+    },
+    {
+      "name": "Trines Grønt",
+      "latitude": 56.312559,
+      "longitude": 10.319452
+    },
+    {
+      "name": "Trines Grønt",
+      "latitude": 56.361177,
+      "longitude": 10.586559
+    },
+    {
+      "name": "Trines Grønt",
+      "latitude": 56.508019,
+      "longitude": 10.588099
+    },
+    {
+      "name": "Trines Grønt Bod Skæring Havvej",
+      "latitude": 56.228815,
+      "longitude": 10.304858
+    },
+    {
+      "name": "Troldgaarden",
+      "latitude": 55.953491,
+      "longitude": 10.033144
+    },
+    {
+      "name": "Truelshøjgård",
+      "latitude": 55.935406,
+      "longitude": 12.097146
+    },
+    {
+      "name": "Trympellyng Fjerkræ",
+      "latitude": 54.994913,
+      "longitude": 9.90891
+    },
+    {
+      "name": "Tunø Grønt",
+      "latitude": 55.949357,
+      "longitude": 10.450664
+    },
+    {
+      "name": "Tunø grønt",
+      "latitude": 55.951998,
+      "longitude": 10.452742
+    },
+    {
+      "name": "Tvedemose Ejendom Gårdbutik",
+      "latitude": 55.145139,
+      "longitude": 11.942945
+    },
+    {
+      "name": "Tvilum Cafe og Gårdbutik",
+      "latitude": 56.264618,
+      "longitude": 9.696853
+    },
+    {
+      "name": "Tvis Gårdbutik",
+      "latitude": 56.298463,
+      "longitude": 8.760654
+    },
+    {
+      "name": "Ugerløse Gårdbutik",
+      "latitude": 55.635396,
+      "longitude": 11.162171
+    },
+    {
+      "name": "Ullemose Frugt",
+      "latitude": 55.115961,
+      "longitude": 10.746006
+    },
+    {
+      "name": "Ulstrup Får Gårdbutik",
+      "latitude": 55.383805,
+      "longitude": 12.048299
+    },
+    {
+      "name": "Ulvskovgård",
+      "latitude": 55.966941,
+      "longitude": 10.09117
+    },
+    {
+      "name": "Urbakgård",
+      "latitude": 56.190629,
+      "longitude": 9.421738
+    },
+    {
+      "name": "Urtekurven Gårdbutik",
+      "latitude": 55.844636,
+      "longitude": 10.608371
+    },
+    {
+      "name": "Urup Dam Oksen",
+      "latitude": 55.378152,
+      "longitude": 10.604969
+    },
+    {
+      "name": "Vadehavslam.dk",
+      "latitude": 55.151666,
+      "longitude": 8.767241
+    },
+    {
+      "name": "Valnøddegården",
+      "latitude": 55.760635,
+      "longitude": 12.001493
+    },
+    {
+      "name": "Valnøddegården Gårdbutik",
+      "latitude": 55.760592,
+      "longitude": 12.001497
+    },
+    {
+      "name": "Valnødlund",
+      "latitude": 55.612037,
+      "longitude": 12.025327
+    },
+    {
+      "name": "Varde Ådal Lam",
+      "latitude": 55.598489,
+      "longitude": 8.425548
+    },
+    {
+      "name": "Vasebækgaard self-service stand",
+      "latitude": 55.446792,
+      "longitude": 12.142385
+    },
+    {
+      "name": "Vedersø Vildt Gårdbutik",
+      "latitude": 56.26347,
+      "longitude": 8.156847
+    },
+    {
+      "name": "Vejbod",
+      "latitude": 54.93446,
+      "longitude": 10.799047
+    },
+    {
+      "name": "Vejbod",
+      "latitude": 55.490888,
+      "longitude": 9.899251
+    },
+    {
+      "name": "Vejbod",
+      "latitude": 55.49998,
+      "longitude": 9.837177
+    },
+    {
+      "name": "Vejbod",
+      "latitude": 55.789958,
+      "longitude": 8.240414
+    },
+    {
+      "name": "Vejbod Langager Gårdbutik",
+      "latitude": 54.92553,
+      "longitude": 9.836796
+    },
+    {
+      "name": "Vejbod m/frugt og grønt",
+      "latitude": 55.128161,
+      "longitude": 9.126073
+    },
+    {
+      "name": "Vejboden Alrø støtter Dansk Flygtningehjælp",
+      "latitude": 55.863139,
+      "longitude": 10.101609
+    },
+    {
+      "name": "Vejby Grønsagsgartneri",
+      "latitude": 56.609338,
+      "longitude": 8.803675
+    },
+    {
+      "name": "Vejrø Gårdbutik",
+      "latitude": 55.035258,
+      "longitude": 11.374051
+    },
+    {
+      "name": "Vendsyssel Fjerkræslagteri",
+      "latitude": 57.401435,
+      "longitude": 9.759965
+    },
+    {
+      "name": "Ventegodtgaard",
+      "latitude": 55.519837,
+      "longitude": 12.1362
+    },
+    {
+      "name": "Venø Urtehave",
+      "latitude": 56.551155,
+      "longitude": 8.616631
+    },
+    {
+      "name": "Vera & Johannes",
+      "latitude": 55.460488,
+      "longitude": 8.58372
+    },
+    {
+      "name": "Verningelund",
+      "latitude": 55.297067,
+      "longitude": 10.230292
+    },
+    {
+      "name": "Vester Burlund",
+      "latitude": 56.355405,
+      "longitude": 8.44248
+    },
+    {
+      "name": "Vester Hedegaard",
+      "latitude": 57.219122,
+      "longitude": 9.646868
+    },
+    {
+      "name": "Vester Krogsgaard",
+      "latitude": 56.781022,
+      "longitude": 8.232134
+    },
+    {
+      "name": "Vester Krogsgaard",
+      "latitude": 56.897424,
+      "longitude": 8.458979
+    },
+    {
+      "name": "Vestergård Mølleri Gårdbutik",
+      "latitude": 55.828223,
+      "longitude": 10.063118
+    },
+    {
+      "name": "Vestergårds stalddørssalg",
+      "latitude": 56.113275,
+      "longitude": 8.913986
+    },
+    {
+      "name": "Vesterhave Vingaard",
+      "latitude": 55.185892,
+      "longitude": 11.619635
+    },
+    {
+      "name": "Vibegaard gårdbutik",
+      "latitude": 55.155565,
+      "longitude": 8.838142
+    },
+    {
+      "name": "Vibesand Grønsager",
+      "latitude": 55.729895,
+      "longitude": 11.130175
+    },
+    {
+      "name": "Vild Hvede",
+      "latitude": 55.432486,
+      "longitude": 10.126751
+    },
+    {
+      "name": "Vindelev gårdbutik",
+      "latitude": 55.795339,
+      "longitude": 9.489856
+    },
+    {
+      "name": "Vingården Lille Gadegård",
+      "latitude": 55.02911,
+      "longitude": 14.96817
+    },
+    {
+      "name": "Vinkelgaard Gårdbutik",
+      "latitude": 55.481316,
+      "longitude": 11.884914
+    },
+    {
+      "name": "Virkelyst Alpacafarm",
+      "latitude": 55.641597,
+      "longitude": 8.36323
+    },
+    {
+      "name": "Visbjerg Highland",
+      "latitude": 56.076788,
+      "longitude": 10.179896
+    },
+    {
+      "name": "Vivis Pryd Gårdbutik",
+      "latitude": 55.340347,
+      "longitude": 11.748884
+    },
+    {
+      "name": "Voddersminde Cafe og Gårdbutik",
+      "latitude": 55.480989,
+      "longitude": 8.887928
+    },
+    {
+      "name": "Volleshave Gårdbutik",
+      "latitude": 56.052641,
+      "longitude": 10.242347
+    },
+    {
+      "name": "Vores Lille Gård",
+      "latitude": 55.457892,
+      "longitude": 11.537884
+    },
+    {
+      "name": "Vrangbækgaard",
+      "latitude": 55.1206,
+      "longitude": 10.765401
+    },
+    {
+      "name": "Waff gårdbutik",
+      "latitude": 56.120771,
+      "longitude": 12.27859
+    },
+    {
+      "name": "Westjysk Smag",
+      "latitude": 56.064626,
+      "longitude": 8.507752
+    },
+    {
+      "name": "Yduns Have bod & detailsalg",
+      "latitude": 55.877867,
+      "longitude": 10.619905
+    },
+    {
+      "name": "Zenas Pedersholt",
+      "latitude": 57.289662,
+      "longitude": 10.292071
+    },
+    {
+      "name": "Zeneli Frugt & Grønt Salgsbod",
+      "latitude": 55.200281,
+      "longitude": 10.761383
+    },
+    {
+      "name": "Zoneboden",
+      "latitude": 55.224459,
+      "longitude": 10.131908
+    },
+    {
+      "name": "Ådalens Kødkvæg",
+      "latitude": 55.376703,
+      "longitude": 11.257834
+    },
+    {
+      "name": "Ådum Kalkunfarm",
+      "latitude": 55.88676,
+      "longitude": 8.577169
+    },
+    {
+      "name": "Åens Fjerkræ",
+      "latitude": 54.92186,
+      "longitude": 8.812443
+    },
+    {
+      "name": "Årø Galloway Gårdbutik",
+      "latitude": 55.258857,
+      "longitude": 9.75253
+    },
+    {
+      "name": "Æ Kalgo",
+      "latitude": 54.971192,
+      "longitude": 8.741483
+    },
+    {
+      "name": "Æblegrisen",
+      "latitude": 56.640745,
+      "longitude": 8.79143
+    },
+    {
+      "name": "Æblegården Holev",
+      "latitude": 55.414845,
+      "longitude": 10.496092
+    },
+    {
+      "name": "Æblegården Søbo Gårdbutik & Cafee",
+      "latitude": 55.466519,
+      "longitude": 11.222023
+    },
+    {
+      "name": "Æblepresseri",
+      "latitude": 55.827921,
+      "longitude": 12.198703
+    },
+    {
+      "name": "Ærø Kartofler Bod 2",
+      "latitude": 54.850971,
+      "longitude": 10.431674
+    },
+    {
+      "name": "Ærø Kartofler Bod 5",
+      "latitude": 54.89127,
+      "longitude": 10.408147
+    },
+    {
+      "name": "Ærø Kartofler Bod 6",
+      "latitude": 54.891505,
+      "longitude": 10.405754
+    },
+    {
+      "name": "Øko Ged & Grønt",
+      "latitude": 55.901162,
+      "longitude": 10.052928
+    },
+    {
+      "name": "Økogården Baksminde",
+      "latitude": 57.156908,
+      "longitude": 10.393437
+    },
+    {
+      "name": "Økologisk Gårdbutik",
+      "latitude": 55.710492,
+      "longitude": 9.093529
+    },
+    {
+      "name": "Økomølleriet",
+      "latitude": 55.295177,
+      "longitude": 10.567313
+    },
+    {
+      "name": "Økotopen",
+      "latitude": 55.423891,
+      "longitude": 8.645131
+    },
+    {
+      "name": "Øksendrup vejbod",
+      "latitude": 55.220644,
+      "longitude": 10.73304
+    },
+    {
+      "name": "Øllingegaard Mejeri Gård Butik",
+      "latitude": 55.899971,
+      "longitude": 12.188183
+    },
+    {
+      "name": "Ølsted Gårdbutik",
+      "latitude": 55.243301,
+      "longitude": 10.308782
+    },
+    {
+      "name": "Østergaard",
+      "latitude": 56.344887,
+      "longitude": 8.76476
+    },
+    {
+      "name": "Østergårds Mostbutik Gårdbutik",
+      "latitude": 55.793186,
+      "longitude": 11.963545
+    },
+    {
+      "name": "Østerlund",
+      "latitude": 55.134048,
+      "longitude": 10.660925
+    },
+    {
+      "name": "Østermølle",
+      "latitude": 54.943225,
+      "longitude": 9.349824
+    },
+    {
+      "name": "Østerskovgård",
+      "latitude": 55.068216,
+      "longitude": 11.970718
+    },
+    {
+      "name": "Østervang Økologisk Landbrug",
+      "latitude": 55.199056,
+      "longitude": 10.159367
+    },
+    {
+      "name": "Østofte Hedegaard Hereford",
+      "latitude": 54.78334,
+      "longitude": 11.411782
+    }
+  ],
+  "meta": {
+    "title": "Gårdbutikker i Danmark (Farm shops in Denmark) - Gratis download",
+    "description": "Farm shops in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=farm. Indeholder 830 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Gårdbutikker i Danmark (Farm shops in Denmark) | ListBase",
+    "seo_description": "Download Gårdbutikker i Danmark (Farm shops in Denmark) — 830 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 830 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "id": "da-tidszoner-europe",
+  "name": "Tidszoner: Europe (20)",
+  "title": "Tidszoner: Europe (20)",
+  "description": "CLDR da-lokalets tidszoner i regionen 'Europe'.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "by_navn",
+      "label": "By Navn",
+      "type": "string"
+    },
+    {
+      "key": "standardtid",
+      "label": "Standardtid",
+      "type": "string"
+    },
+    {
+      "key": "sommertid",
+      "label": "Sommertid",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tz_id": "Europe/Athens",
+      "region": "Europe",
+      "by_navn": "Athen",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 1
+    },
+    {
+      "tz_id": "Europe/Belgrade",
+      "region": "Europe",
+      "by_navn": "Beograd",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 2
+    },
+    {
+      "tz_id": "Europe/Brussels",
+      "region": "Europe",
+      "by_navn": "Bruxelles",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 3
+    },
+    {
+      "tz_id": "Europe/Bucharest",
+      "region": "Europe",
+      "by_navn": "Bukarest",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 4
+    },
+    {
+      "tz_id": "Europe/Busingen",
+      "region": "Europe",
+      "by_navn": "Büsingen",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 5
+    },
+    {
+      "tz_id": "Europe/Chisinau",
+      "region": "Europe",
+      "by_navn": "Chișinău",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 6
+    },
+    {
+      "tz_id": "Europe/Copenhagen",
+      "region": "Europe",
+      "by_navn": "København",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 7
+    },
+    {
+      "tz_id": "Europe/Dublin",
+      "region": "Europe",
+      "by_navn": "",
+      "standardtid": "",
+      "sommertid": "Irsk normaltid",
+      "id": 8
+    },
+    {
+      "tz_id": "Europe/Kiev",
+      "region": "Europe",
+      "by_navn": "Kiev",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 9
+    },
+    {
+      "tz_id": "Europe/Lisbon",
+      "region": "Europe",
+      "by_navn": "Lissabon",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 10
+    },
+    {
+      "tz_id": "Europe/London",
+      "region": "Europe",
+      "by_navn": "",
+      "standardtid": "",
+      "sommertid": "Britisk sommertid",
+      "id": 11
+    },
+    {
+      "tz_id": "Europe/Moscow",
+      "region": "Europe",
+      "by_navn": "Moskva",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 12
+    },
+    {
+      "tz_id": "Europe/Prague",
+      "region": "Europe",
+      "by_navn": "Prag",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 13
+    },
+    {
+      "tz_id": "Europe/Rome",
+      "region": "Europe",
+      "by_navn": "Rom",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 14
+    },
+    {
+      "tz_id": "Europe/Tirane",
+      "region": "Europe",
+      "by_navn": "Tirana",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 15
+    },
+    {
+      "tz_id": "Europe/Ulyanovsk",
+      "region": "Europe",
+      "by_navn": "Uljanovsk",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 16
+    },
+    {
+      "tz_id": "Europe/Vatican",
+      "region": "Europe",
+      "by_navn": "Vatikanet",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 17
+    },
+    {
+      "tz_id": "Europe/Vienna",
+      "region": "Europe",
+      "by_navn": "Wien",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 18
+    },
+    {
+      "tz_id": "Europe/Warsaw",
+      "region": "Europe",
+      "by_navn": "Warszawa",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 19
+    },
+    {
+      "tz_id": "Europe/Zurich",
+      "region": "Europe",
+      "by_navn": "Zürich",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 20
+    }
+  ],
+  "meta": {
+    "title": "Tidszoner: Europe (20) - Gratis download",
+    "description": "CLDR da-lokalets tidszoner i regionen 'Europe'. Indeholder 20 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Tidszoner: Europe (20) | ListBase",
+    "seo_description": "Download Tidszoner: Europe (20) — 20 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 20 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

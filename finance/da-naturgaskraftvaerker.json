@@ -1,0 +1,373 @@
+{
+  "id": "da-naturgaskraftvaerker",
+  "name": "Naturgaskraftværker i Danmark",
+  "title": "Naturgaskraftværker i Danmark",
+  "description": "Natural Gas power generation/storage units in Denmark (12 of 368), carved from da-kraftvaerker by the native `fueltype` field. Verbatim subset of the powerplantmatching (PyPSA) merged European power plant dataset: name, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes and cross-referenced upstream source IDs.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "number"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "string"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 2373,
+      "name": "Orsted",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 338,
+      "efficiency": "",
+      "date_in": 1985,
+      "date_retrofit": 2004,
+      "date_out": 2025,
+      "lat": 55.654741,
+      "lon": 12.549117333333333,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400070, G100000410795, G100001030699; GPD: WRI1022043; OPSD: OEU-5170, OEU-5171"
+    },
+    {
+      "id": 5044,
+      "name": "Skaerbaekvaerket",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "PP",
+      "country": "Denmark",
+      "capacity_mw": 392,
+      "efficiency": "",
+      "date_in": 1997,
+      "date_retrofit": 1997,
+      "date_out": "",
+      "lat": 55.51132,
+      "lon": 9.61331,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "45W0000000000110",
+      "project_ids": "ENTSOE: 45W0000000000110; OPSD: OEU-5181"
+    },
+    {
+      "id": 8706,
+      "name": "Silkeborgvaerket",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 108.2,
+      "efficiency": "",
+      "date_in": 1995,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 56.201,
+      "lon": 9.558,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "ENTSOE: 45W000000000112V; GEM: G100000400073"
+    },
+    {
+      "id": 9124,
+      "name": "Akzo Mariager",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 25,
+      "efficiency": "",
+      "date_in": 1999,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 56.681337,
+      "lon": 10.042186,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000410478"
+    },
+    {
+      "id": 13592,
+      "name": "Dtu Cogeneration",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 38,
+      "efficiency": "",
+      "date_in": 1998,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 55.78469,
+      "lon": 12.52276,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400067"
+    },
+    {
+      "id": 13961,
+      "name": "Esbjerg Reserve",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "PP",
+      "country": "Denmark",
+      "capacity_mw": 25,
+      "efficiency": "",
+      "date_in": 2005,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 55.46181,
+      "lon": 8.46562,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400068"
+    },
+    {
+      "id": 14476,
+      "name": "Fyns",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 362,
+      "efficiency": "",
+      "date_in": 2024,
+      "date_retrofit": "",
+      "date_out": 2030,
+      "lat": 55.429412,
+      "lon": 10.410212,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001018032"
+    },
+    {
+      "id": 14993,
+      "name": "Grenaa Reserve",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "PP",
+      "country": "Denmark",
+      "capacity_mw": 25,
+      "efficiency": "",
+      "date_in": 2008,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 56.42181,
+      "lon": 10.89476,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400069"
+    },
+    {
+      "id": 15449,
+      "name": "Hjorring Cogeneration",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 59,
+      "efficiency": "",
+      "date_in": 1996,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 57.46417,
+      "lon": 9.98229,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400072"
+    },
+    {
+      "id": 15517,
+      "name": "Horsens",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 34,
+      "efficiency": "",
+      "date_in": 1991,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 55.851905,
+      "lon": 9.857664,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000410477"
+    },
+    {
+      "id": 22905,
+      "name": "Sonderborg Kraftvarmevaerk Chp",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 52,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 54.930277,
+      "lon": 9.781908,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000409393"
+    },
+    {
+      "id": 24630,
+      "name": "Viborg",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Denmark",
+      "capacity_mw": 55,
+      "efficiency": "",
+      "date_in": 1996,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 56.47377,
+      "lon": 9.41262,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400074"
+    }
+  ],
+  "meta": {
+    "title": "Naturgaskraftværker i Danmark - Gratis download",
+    "description": "Natural Gas power generation/storage units in Denmark (12 of 368), carved from da-kraftvaerker by the native `fueltype` field. Verbatim subset of the powerplantmatching (PyPSA) merged European power plant dataset: name, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes and cross-referenced upstream source IDs. Indeholder 12 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Naturgaskraftværker i Danmark | ListBase",
+    "seo_description": "Download Naturgaskraftværker i Danmark — 12 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 12 poster / 19 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

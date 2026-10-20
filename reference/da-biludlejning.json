@@ -1,0 +1,361 @@
+{
+  "id": "da-biludlejning",
+  "name": "Biludlejning i Danmark (Car rental in Denmark)",
+  "title": "Biludlejning i Danmark (Car rental in Denmark)",
+  "description": "Car rental in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=car_rental.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agilease",
+      "latitude": 56.462699,
+      "longitude": 9.371061
+    },
+    {
+      "name": "Agilease",
+      "latitude": 56.463148,
+      "longitude": 9.371792
+    },
+    {
+      "name": "Autolease",
+      "latitude": 55.722616,
+      "longitude": 12.55853
+    },
+    {
+      "name": "Avis",
+      "latitude": 55.395681,
+      "longitude": 10.364823
+    },
+    {
+      "name": "Avis",
+      "latitude": 55.46431,
+      "longitude": 8.459237
+    },
+    {
+      "name": "AVIS",
+      "latitude": 55.496653,
+      "longitude": 9.49045
+    },
+    {
+      "name": "Avis",
+      "latitude": 55.537084,
+      "longitude": 9.715621
+    },
+    {
+      "name": "Avis",
+      "latitude": 55.62995,
+      "longitude": 12.632773
+    },
+    {
+      "name": "Avis",
+      "latitude": 55.631304,
+      "longitude": 12.621149
+    },
+    {
+      "name": "Avis",
+      "latitude": 55.677564,
+      "longitude": 12.561213
+    },
+    {
+      "name": "Avis",
+      "latitude": 56.145835,
+      "longitude": 10.151726
+    },
+    {
+      "name": "Avis",
+      "latitude": 57.087377,
+      "longitude": 9.870726
+    },
+    {
+      "name": "Avis Albertslund City",
+      "latitude": 55.664168,
+      "longitude": 12.364034
+    },
+    {
+      "name": "Bilforum",
+      "latitude": 57.082074,
+      "longitude": 9.959214
+    },
+    {
+      "name": "Budget",
+      "latitude": 55.629842,
+      "longitude": 12.632777
+    },
+    {
+      "name": "Budget Albertslund",
+      "latitude": 55.664216,
+      "longitude": 12.364015
+    },
+    {
+      "name": "Byrum Auto",
+      "latitude": 57.257441,
+      "longitude": 11.004727
+    },
+    {
+      "name": "Cars4less.dk",
+      "latitude": 55.699532,
+      "longitude": 12.531067
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 55.629691,
+      "longitude": 12.632783
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 55.706843,
+      "longitude": 12.544193
+    },
+    {
+      "name": "Euromobil Bilhuset Allerød",
+      "latitude": 55.887226,
+      "longitude": 12.354487
+    },
+    {
+      "name": "Europcar",
+      "latitude": 55.100339,
+      "longitude": 14.689721
+    },
+    {
+      "name": "Europcar",
+      "latitude": 55.218912,
+      "longitude": 11.75481
+    },
+    {
+      "name": "Europcar",
+      "latitude": 55.47008,
+      "longitude": 8.458545
+    },
+    {
+      "name": "Europcar",
+      "latitude": 55.501264,
+      "longitude": 9.457171
+    },
+    {
+      "name": "Europcar",
+      "latitude": 55.629894,
+      "longitude": 12.632775
+    },
+    {
+      "name": "Europcar",
+      "latitude": 55.674014,
+      "longitude": 12.558021
+    },
+    {
+      "name": "Europcar",
+      "latitude": 55.851787,
+      "longitude": 9.847769
+    },
+    {
+      "name": "Europcar",
+      "latitude": 55.92993,
+      "longitude": 12.310486
+    },
+    {
+      "name": "Europcar",
+      "latitude": 56.13851,
+      "longitude": 10.178253
+    },
+    {
+      "name": "Europcar",
+      "latitude": 56.169823,
+      "longitude": 10.194712
+    },
+    {
+      "name": "Europcar",
+      "latitude": 57.041602,
+      "longitude": 9.925378
+    },
+    {
+      "name": "Europcar",
+      "latitude": 57.087195,
+      "longitude": 9.870952
+    },
+    {
+      "name": "Europcar / PS Biludlejning",
+      "latitude": 55.703624,
+      "longitude": 9.544273
+    },
+    {
+      "name": "Europcar / Østergaard",
+      "latitude": 56.152305,
+      "longitude": 10.209573
+    },
+    {
+      "name": "Europcar Herning",
+      "latitude": 56.134973,
+      "longitude": 8.949011
+    },
+    {
+      "name": "Europcar Odense",
+      "latitude": 55.397003,
+      "longitude": 10.373206
+    },
+    {
+      "name": "Europcar Silkeborg",
+      "latitude": 56.186867,
+      "longitude": 9.563035
+    },
+    {
+      "name": "Hertz",
+      "latitude": 55.629794,
+      "longitude": 12.632779
+    },
+    {
+      "name": "Hertz",
+      "latitude": 55.72991,
+      "longitude": 9.592526
+    },
+    {
+      "name": "Hertz",
+      "latitude": 56.155816,
+      "longitude": 10.184219
+    },
+    {
+      "name": "Hertz",
+      "latitude": 57.042194,
+      "longitude": 9.928224
+    },
+    {
+      "name": "Hertz",
+      "latitude": 57.087286,
+      "longitude": 9.870839
+    },
+    {
+      "name": "Lej Et Lig",
+      "latitude": 55.710333,
+      "longitude": 12.552188
+    },
+    {
+      "name": "Next",
+      "latitude": 55.629656,
+      "longitude": 12.628012
+    },
+    {
+      "name": "One2Move",
+      "latitude": 55.464739,
+      "longitude": 8.494172
+    },
+    {
+      "name": "One2move",
+      "latitude": 56.552081,
+      "longitude": 9.01664
+    },
+    {
+      "name": "One2move Biludlejning",
+      "latitude": 55.349293,
+      "longitude": 10.400743
+    },
+    {
+      "name": "Oscar",
+      "latitude": 57.039896,
+      "longitude": 9.923924
+    },
+    {
+      "name": "Oscar Biludlejning",
+      "latitude": 55.669109,
+      "longitude": 12.614742
+    },
+    {
+      "name": "Oscar Biludlejning",
+      "latitude": 55.724407,
+      "longitude": 12.375713
+    },
+    {
+      "name": "Oscar Biludlejning",
+      "latitude": 55.928378,
+      "longitude": 11.659485
+    },
+    {
+      "name": "Oscar Biludlejning",
+      "latitude": 56.115294,
+      "longitude": 10.153439
+    },
+    {
+      "name": "Oscar Biludlejning",
+      "latitude": 56.163097,
+      "longitude": 10.219893
+    },
+    {
+      "name": "Oscar Biludlejning",
+      "latitude": 57.016291,
+      "longitude": 9.895736
+    },
+    {
+      "name": "Oscar Biludlejning Rønne",
+      "latitude": 55.095872,
+      "longitude": 14.711103
+    },
+    {
+      "name": "Oscar Biludlejning Skanderborg",
+      "latitude": 56.047629,
+      "longitude": 9.939637
+    },
+    {
+      "name": "PS Biludlejning",
+      "latitude": 55.398788,
+      "longitude": 10.371339
+    },
+    {
+      "name": "SIXT",
+      "latitude": 55.397399,
+      "longitude": 10.374059
+    },
+    {
+      "name": "SIXT",
+      "latitude": 55.629741,
+      "longitude": 12.63278
+    },
+    {
+      "name": "SIXT",
+      "latitude": 55.675281,
+      "longitude": 12.562644
+    },
+    {
+      "name": "SIXT",
+      "latitude": 56.152503,
+      "longitude": 10.196407
+    },
+    {
+      "name": "SIXT",
+      "latitude": 57.08701,
+      "longitude": 9.871182
+    },
+    {
+      "name": "Tegllund",
+      "latitude": 55.492915,
+      "longitude": 9.128038
+    }
+  ],
+  "meta": {
+    "title": "Biludlejning i Danmark (Car rental in Denmark) - Gratis download",
+    "description": "Car rental in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=car_rental. Indeholder 64 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Biludlejning i Danmark (Car rental in Denmark) | ListBase",
+    "seo_description": "Download Biludlejning i Danmark (Car rental in Denmark) — 64 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 64 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

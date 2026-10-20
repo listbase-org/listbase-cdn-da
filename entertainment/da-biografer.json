@@ -1,0 +1,861 @@
+{
+  "id": "da-biografer",
+  "name": "Biografer i Danmark – OpenStreetMap (Cinemas in Denmark, OSM)",
+  "title": "Biografer i Danmark – OpenStreetMap (Cinemas in Denmark, OSM)",
+  "description": "Liste over 164 biografer i Danmark fra OpenStreetMap (amenity=cinema) — navn og koordinater (WGS84).",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 164,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "360 Fulldome Show",
+      "latitude": 55.040089,
+      "longitude": 9.809771
+    },
+    {
+      "name": "4D Biograf",
+      "latitude": 57.27029,
+      "longitude": 9.657969
+    },
+    {
+      "name": "4D-Bio",
+      "latitude": 56.761957,
+      "longitude": 8.821101
+    },
+    {
+      "name": "Aarhus Bio",
+      "latitude": 56.151309,
+      "longitude": 10.205843
+    },
+    {
+      "name": "Aars Teater Bio",
+      "latitude": 56.80317,
+      "longitude": 9.518222
+    },
+    {
+      "name": "Aarup Bio",
+      "latitude": 55.378536,
+      "longitude": 10.047584
+    },
+    {
+      "name": "Agger BIO",
+      "latitude": 56.781002,
+      "longitude": 8.232204
+    },
+    {
+      "name": "Albertslund Biograferne",
+      "latitude": 55.656716,
+      "longitude": 12.355953
+    },
+    {
+      "name": "Allerød Bio",
+      "latitude": 55.86828,
+      "longitude": 12.353496
+    },
+    {
+      "name": "Apollon",
+      "latitude": 56.491158,
+      "longitude": 8.589871
+    },
+    {
+      "name": "Atlas Biograferne",
+      "latitude": 55.678456,
+      "longitude": 12.455193
+    },
+    {
+      "name": "Baltoppen Bio",
+      "latitude": 55.730655,
+      "longitude": 12.352219
+    },
+    {
+      "name": "Bibliografen",
+      "latitude": 55.760757,
+      "longitude": 12.456706
+    },
+    {
+      "name": "Biffen",
+      "latitude": 57.04623,
+      "longitude": 9.932652
+    },
+    {
+      "name": "Biffen Restaurant",
+      "latitude": 55.972569,
+      "longitude": 10.147724
+    },
+    {
+      "name": "Big Bio",
+      "latitude": 55.707432,
+      "longitude": 12.59687
+    },
+    {
+      "name": "Big Bio",
+      "latitude": 55.717978,
+      "longitude": 12.449124
+    },
+    {
+      "name": "BIG BIO Holstebro",
+      "latitude": 56.358922,
+      "longitude": 8.618934
+    },
+    {
+      "name": "Bigbio",
+      "latitude": 55.718019,
+      "longitude": 12.449623
+    },
+    {
+      "name": "Bio Bernhard",
+      "latitude": 55.121627,
+      "longitude": 12.040595
+    },
+    {
+      "name": "Bio City",
+      "latitude": 55.930083,
+      "longitude": 12.30779
+    },
+    {
+      "name": "Bio City Herning",
+      "latitude": 56.134194,
+      "longitude": 8.976926
+    },
+    {
+      "name": "BIO Huset Galten",
+      "latitude": 56.154612,
+      "longitude": 9.903853
+    },
+    {
+      "name": "Bio Langeland",
+      "latitude": 54.93705,
+      "longitude": 10.712977
+    },
+    {
+      "name": "Bio Mors",
+      "latitude": 56.794563,
+      "longitude": 8.860712
+    },
+    {
+      "name": "Bio Møn",
+      "latitude": 54.985879,
+      "longitude": 12.287639
+    },
+    {
+      "name": "BIO Silkeborg",
+      "latitude": 56.172207,
+      "longitude": 9.556356
+    },
+    {
+      "name": "Bio-Huset",
+      "latitude": 56.548128,
+      "longitude": 8.311529
+    },
+    {
+      "name": "Biocity",
+      "latitude": 57.042179,
+      "longitude": 9.918577
+    },
+    {
+      "name": "BioCity Odense",
+      "latitude": 55.401264,
+      "longitude": 10.386901
+    },
+    {
+      "name": "Biograf Caféen",
+      "latitude": 55.011669,
+      "longitude": 11.900285
+    },
+    {
+      "name": "Biografen",
+      "latitude": 55.352378,
+      "longitude": 11.693544
+    },
+    {
+      "name": "Biografen 1 & 2",
+      "latitude": 54.9334,
+      "longitude": 8.866444
+    },
+    {
+      "name": "Biografen i Kulturhuset",
+      "latitude": 56.03555,
+      "longitude": 9.932589
+    },
+    {
+      "name": "Biografen Samsø",
+      "latitude": 55.832649,
+      "longitude": 10.593672
+    },
+    {
+      "name": "Biohuset",
+      "latitude": 56.154644,
+      "longitude": 9.903784
+    },
+    {
+      "name": "Birkerød Bio",
+      "latitude": 55.841246,
+      "longitude": 12.431587
+    },
+    {
+      "name": "Bjerringbro Biograf",
+      "latitude": 56.376896,
+      "longitude": 9.656253
+    },
+    {
+      "name": "Bon-Bio 4D",
+      "latitude": 55.259999,
+      "longitude": 11.860649
+    },
+    {
+      "name": "Borup Kino",
+      "latitude": 55.495806,
+      "longitude": 11.973604
+    },
+    {
+      "name": "Bramming Kosmorama",
+      "latitude": 55.464938,
+      "longitude": 8.701683
+    },
+    {
+      "name": "Brørup Bio",
+      "latitude": 55.484232,
+      "longitude": 9.018573
+    },
+    {
+      "name": "Byens Lys",
+      "latitude": 55.673497,
+      "longitude": 12.601956
+    },
+    {
+      "name": "Byens- Bio",
+      "latitude": 55.75476,
+      "longitude": 9.41818
+    },
+    {
+      "name": "Cafebiografen",
+      "latitude": 55.39588,
+      "longitude": 10.380339
+    },
+    {
+      "name": "Café Slotsbio",
+      "latitude": 55.934809,
+      "longitude": 12.295364
+    },
+    {
+      "name": "Cinema 4",
+      "latitude": 56.54534,
+      "longitude": 9.027993
+    },
+    {
+      "name": "Cinema Center, Helsingør",
+      "latitude": 56.025435,
+      "longitude": 12.589835
+    },
+    {
+      "name": "Cinemateket",
+      "latitude": 55.683065,
+      "longitude": 12.578742
+    },
+    {
+      "name": "Cinemaxx",
+      "latitude": 56.149357,
+      "longitude": 10.203641
+    },
+    {
+      "name": "Dagmar",
+      "latitude": 55.676352,
+      "longitude": 12.566405
+    },
+    {
+      "name": "Den Gamle Biograf",
+      "latitude": 55.058248,
+      "longitude": 8.950933
+    },
+    {
+      "name": "Den Gamle Biograf",
+      "latitude": 55.539672,
+      "longitude": 11.231629
+    },
+    {
+      "name": "Drive In Bio, Lynge",
+      "latitude": 55.823018,
+      "longitude": 12.304332
+    },
+    {
+      "name": "Empire Bio",
+      "latitude": 55.691954,
+      "longitude": 12.555818
+    },
+    {
+      "name": "Falkoner Biografen",
+      "latitude": 55.680159,
+      "longitude": 12.531347
+    },
+    {
+      "name": "Film Teatret Hobro",
+      "latitude": 56.63802,
+      "longitude": 9.792913
+    },
+    {
+      "name": "Fjerritslev Kino",
+      "latitude": 57.088412,
+      "longitude": 9.265272
+    },
+    {
+      "name": "Foreningen Kerteminde Kino",
+      "latitude": 55.451126,
+      "longitude": 10.658311
+    },
+    {
+      "name": "FORMAT",
+      "latitude": 55.729112,
+      "longitude": 12.356059
+    },
+    {
+      "name": "Fotorama",
+      "latitude": 56.256924,
+      "longitude": 9.868294
+    },
+    {
+      "name": "Fotorama Viborg",
+      "latitude": 56.455353,
+      "longitude": 9.4044
+    },
+    {
+      "name": "Gentofte Kino",
+      "latitude": 55.746867,
+      "longitude": 12.541218
+    },
+    {
+      "name": "Gloria",
+      "latitude": 55.676112,
+      "longitude": 12.570674
+    },
+    {
+      "name": "Glostrup Bio",
+      "latitude": 55.664994,
+      "longitude": 12.390977
+    },
+    {
+      "name": "Grafen",
+      "latitude": 55.813615,
+      "longitude": 12.378027
+    },
+    {
+      "name": "Grand Teatret",
+      "latitude": 55.676466,
+      "longitude": 12.571008
+    },
+    {
+      "name": "Hadsten Biograf",
+      "latitude": 56.328555,
+      "longitude": 10.047379
+    },
+    {
+      "name": "Hadsund Bio 1-2",
+      "latitude": 56.7183,
+      "longitude": 10.118119
+    },
+    {
+      "name": "Hillerød Bio",
+      "latitude": 55.928938,
+      "longitude": 12.301339
+    },
+    {
+      "name": "Hjørring Biocenter A/S",
+      "latitude": 57.455718,
+      "longitude": 9.977066
+    },
+    {
+      "name": "Humle Bio",
+      "latitude": 55.957079,
+      "longitude": 12.529963
+    },
+    {
+      "name": "Hundested Kino",
+      "latitude": 55.961383,
+      "longitude": 11.851075
+    },
+    {
+      "name": "Husets Biograf",
+      "latitude": 55.676423,
+      "longitude": 12.574728
+    },
+    {
+      "name": "Hvalsø Bio",
+      "latitude": 55.595816,
+      "longitude": 11.859333
+    },
+    {
+      "name": "Hårby Bio",
+      "latitude": 55.223032,
+      "longitude": 10.120782
+    },
+    {
+      "name": "Ikast Biograf",
+      "latitude": 56.142751,
+      "longitude": 9.154503
+    },
+    {
+      "name": "Kanten",
+      "latitude": 55.255528,
+      "longitude": 12.122827
+    },
+    {
+      "name": "Karup Bio Aps",
+      "latitude": 56.308232,
+      "longitude": 9.165518
+    },
+    {
+      "name": "Kastrup Bio",
+      "latitude": 55.638802,
+      "longitude": 12.634684
+    },
+    {
+      "name": "Kino",
+      "latitude": 55.641727,
+      "longitude": 12.100956
+    },
+    {
+      "name": "Kino 1-3, Thisted",
+      "latitude": 56.955102,
+      "longitude": 8.694975
+    },
+    {
+      "name": "Kino Den Blå Engel",
+      "latitude": 55.678715,
+      "longitude": 11.088921
+    },
+    {
+      "name": "Kino Grenaa",
+      "latitude": 56.413554,
+      "longitude": 10.878504
+    },
+    {
+      "name": "Kino Hjallerup",
+      "latitude": 57.168372,
+      "longitude": 10.144932
+    },
+    {
+      "name": "Kino Nibe",
+      "latitude": 56.982033,
+      "longitude": 9.638518
+    },
+    {
+      "name": "Kino Ro's Torv",
+      "latitude": 55.641924,
+      "longitude": 12.100349
+    },
+    {
+      "name": "Kino Teatret",
+      "latitude": 55.31266,
+      "longitude": 10.79212
+    },
+    {
+      "name": "KinoPalæet",
+      "latitude": 55.771384,
+      "longitude": 12.507825
+    },
+    {
+      "name": "Kinorama Aabenraa",
+      "latitude": 55.04665,
+      "longitude": 9.419829
+    },
+    {
+      "name": "Kinorama Sønderborg",
+      "latitude": 54.909681,
+      "longitude": 9.791612
+    },
+    {
+      "name": "Kinorevuen",
+      "latitude": 56.835308,
+      "longitude": 9.887673
+    },
+    {
+      "name": "Klovborg Kino",
+      "latitude": 55.931571,
+      "longitude": 9.491141
+    },
+    {
+      "name": "Kom-Bi",
+      "latitude": 56.317536,
+      "longitude": 10.317638
+    },
+    {
+      "name": "Korsør Biograf Teater",
+      "latitude": 55.328282,
+      "longitude": 11.141756
+    },
+    {
+      "name": "Kosmorama",
+      "latitude": 55.24886,
+      "longitude": 9.487699
+    },
+    {
+      "name": "Kosmorama",
+      "latitude": 55.250755,
+      "longitude": 9.493391
+    },
+    {
+      "name": "Kosmorama Bio",
+      "latitude": 55.253657,
+      "longitude": 11.293153
+    },
+    {
+      "name": "Kosmorama Frederiksværk",
+      "latitude": 55.973988,
+      "longitude": 12.021351
+    },
+    {
+      "name": "Kulturbiografen Frysehuset",
+      "latitude": 55.719605,
+      "longitude": 11.722147
+    },
+    {
+      "name": "Lalandia Bio",
+      "latitude": 54.666762,
+      "longitude": 11.33292
+    },
+    {
+      "name": "Lido Biograferne",
+      "latitude": 55.705366,
+      "longitude": 9.532576
+    },
+    {
+      "name": "Læsø Bio",
+      "latitude": 57.25342,
+      "longitude": 11.007151
+    },
+    {
+      "name": "Løgstør BIO",
+      "latitude": 56.956573,
+      "longitude": 9.249672
+    },
+    {
+      "name": "Løgstør Bio",
+      "latitude": 56.968522,
+      "longitude": 9.2549
+    },
+    {
+      "name": "Løgstør Bio",
+      "latitude": 56.968704,
+      "longitude": 9.256005
+    },
+    {
+      "name": "Lønstrup Cafe-Bio",
+      "latitude": 57.47329,
+      "longitude": 9.798147
+    },
+    {
+      "name": "Malling Bio",
+      "latitude": 56.038633,
+      "longitude": 10.193765
+    },
+    {
+      "name": "Megascope",
+      "latitude": 55.856841,
+      "longitude": 9.849523
+    },
+    {
+      "name": "Movie House Ringsted",
+      "latitude": 55.453455,
+      "longitude": 11.787987
+    },
+    {
+      "name": "MovieHouse Slagelse",
+      "latitude": 55.406234,
+      "longitude": 11.351401
+    },
+    {
+      "name": "Nicolai Biograf",
+      "latitude": 55.491448,
+      "longitude": 9.470662
+    },
+    {
+      "name": "Nordborg Bio",
+      "latitude": 55.05808,
+      "longitude": 9.741052
+    },
+    {
+      "name": "Nordisk Film Biograf",
+      "latitude": 55.466368,
+      "longitude": 8.459273
+    },
+    {
+      "name": "Nordisk Film Biografer",
+      "latitude": 54.771786,
+      "longitude": 11.86527
+    },
+    {
+      "name": "Nordisk Film Biografer",
+      "latitude": 55.228465,
+      "longitude": 11.754801
+    },
+    {
+      "name": "Nordisk Film Biografer",
+      "latitude": 55.514069,
+      "longitude": 9.461923
+    },
+    {
+      "name": "Nordisk Film Biografer",
+      "latitude": 57.002535,
+      "longitude": 9.871942
+    },
+    {
+      "name": "Nordisk Film Biografer Esbjerg",
+      "latitude": 55.466965,
+      "longitude": 8.459496
+    },
+    {
+      "name": "Nordisk Film Biografer Field's",
+      "latitude": 55.629248,
+      "longitude": 12.578387
+    },
+    {
+      "name": "Nordisk Film Biografer Frederikssund",
+      "latitude": 55.835386,
+      "longitude": 12.06501
+    },
+    {
+      "name": "Nordisk Film Biografer Imperial",
+      "latitude": 55.675248,
+      "longitude": 12.56129
+    },
+    {
+      "name": "Nordisk Film Biografer Randers",
+      "latitude": 56.462966,
+      "longitude": 10.037643
+    },
+    {
+      "name": "Nordisk Film Biografer Waves",
+      "latitude": 55.597845,
+      "longitude": 12.329233
+    },
+    {
+      "name": "Nordisk Films Biografer",
+      "latitude": 55.455792,
+      "longitude": 12.18406
+    },
+    {
+      "name": "Næstved Bio",
+      "latitude": 55.229652,
+      "longitude": 11.761517
+    },
+    {
+      "name": "Nørre Åby Bio",
+      "latitude": 55.459254,
+      "longitude": 9.871403
+    },
+    {
+      "name": "Palads",
+      "latitude": 55.676318,
+      "longitude": 12.563522
+    },
+    {
+      "name": "Palads Biograferne",
+      "latitude": 55.676502,
+      "longitude": 12.563481
+    },
+    {
+      "name": "Pandrup Kino",
+      "latitude": 57.223257,
+      "longitude": 9.676994
+    },
+    {
+      "name": "Panorama",
+      "latitude": 55.505653,
+      "longitude": 9.736349
+    },
+    {
+      "name": "Panorama",
+      "latitude": 55.564933,
+      "longitude": 9.75778
+    },
+    {
+      "name": "Park Bio",
+      "latitude": 55.703757,
+      "longitude": 12.57719
+    },
+    {
+      "name": "Park Teatret",
+      "latitude": 55.836456,
+      "longitude": 12.066081
+    },
+    {
+      "name": "Reprise Teatret",
+      "latitude": 55.812708,
+      "longitude": 12.47728
+    },
+    {
+      "name": "Reservoir",
+      "latitude": 55.666637,
+      "longitude": 12.531907
+    },
+    {
+      "name": "Ringe Bio",
+      "latitude": 55.238202,
+      "longitude": 10.479711
+    },
+    {
+      "name": "Ringkøbing Bio \"Borgen\"",
+      "latitude": 56.092382,
+      "longitude": 8.24732
+    },
+    {
+      "name": "Rødding Bio",
+      "latitude": 55.365856,
+      "longitude": 9.053019
+    },
+    {
+      "name": "Rønne Bio",
+      "latitude": 55.102649,
+      "longitude": 14.699803
+    },
+    {
+      "name": "Scala Svendborg",
+      "latitude": 55.060275,
+      "longitude": 10.606913
+    },
+    {
+      "name": "Skagen Bio",
+      "latitude": 57.722765,
+      "longitude": 10.587506
+    },
+    {
+      "name": "Skibby Kino",
+      "latitude": 55.749866,
+      "longitude": 11.959729
+    },
+    {
+      "name": "Slagtehal3",
+      "latitude": 56.159681,
+      "longitude": 10.212929
+    },
+    {
+      "name": "Slangerup Bio",
+      "latitude": 55.844208,
+      "longitude": 12.17112
+    },
+    {
+      "name": "Snurretoppen",
+      "latitude": 55.311957,
+      "longitude": 12.389837
+    },
+    {
+      "name": "Solrød Bio",
+      "latitude": 55.540396,
+      "longitude": 12.218375
+    },
+    {
+      "name": "Store Bjørn",
+      "latitude": 56.193917,
+      "longitude": 10.690879
+    },
+    {
+      "name": "Svaneke Bio",
+      "latitude": 55.136086,
+      "longitude": 15.143182
+    },
+    {
+      "name": "Søllerød Bio",
+      "latitude": 54.804467,
+      "longitude": 11.273011
+    },
+    {
+      "name": "Tisvilde Bio",
+      "latitude": 56.058162,
+      "longitude": 12.07872
+    },
+    {
+      "name": "Toftlund Biograf",
+      "latitude": 55.19223,
+      "longitude": 9.06078
+    },
+    {
+      "name": "Trommen Biograf",
+      "latitude": 55.880687,
+      "longitude": 12.497197
+    },
+    {
+      "name": "Trøjborg Biograf",
+      "latitude": 56.170373,
+      "longitude": 10.215824
+    },
+    {
+      "name": "Valby Kino",
+      "latitude": 55.664468,
+      "longitude": 12.517744
+    },
+    {
+      "name": "Varde Bio",
+      "latitude": 55.620665,
+      "longitude": 8.48196
+    },
+    {
+      "name": "Vester Vov Vov",
+      "latitude": 55.671984,
+      "longitude": 12.554053
+    },
+    {
+      "name": "Victoria Teatret",
+      "latitude": 55.433127,
+      "longitude": 11.556229
+    },
+    {
+      "name": "Vig Bio",
+      "latitude": 55.852973,
+      "longitude": 11.577088
+    },
+    {
+      "name": "Vue",
+      "latitude": 55.662452,
+      "longitude": 12.563132
+    },
+    {
+      "name": "Vue Rosengård",
+      "latitude": 55.384127,
+      "longitude": 10.427334
+    },
+    {
+      "name": "Værløse Bio & Café",
+      "latitude": 55.783659,
+      "longitude": 12.372398
+    },
+    {
+      "name": "Ørsted Biograf",
+      "latitude": 56.503603,
+      "longitude": 10.33326
+    },
+    {
+      "name": "Øst for Paradis",
+      "latitude": 56.160151,
+      "longitude": 10.2094
+    }
+  ],
+  "meta": {
+    "title": "Biografer i Danmark – OpenStreetMap (Cinemas in Denmark, OSM) - Gratis download",
+    "description": "Liste over 164 biografer i Danmark fra OpenStreetMap (amenity=cinema) — navn og koordinater (WGS84). Indeholder 164 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Biografer i Danmark – OpenStreetMap (Cinemas in Denmark, OSM) | ListBase",
+    "seo_description": "Download Biografer i Danmark – OpenStreetMap (Cinemas in Denmark, OSM) — 164 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 164 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

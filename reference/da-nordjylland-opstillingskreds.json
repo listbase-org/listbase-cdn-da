@@ -1,0 +1,184 @@
+{
+  "id": "da-nordjylland-opstillingskreds",
+  "name": "Opstillingskredse i Nordjylland-storkredsen",
+  "title": "Opstillingskredse i Nordjylland-storkredsen",
+  "description": "Opstillingskredse i storkredsen Nordjylland (i alt 9). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "valgkreds_nr",
+      "label": "Valgkreds Nr",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_id",
+      "label": "Storkreds Id",
+      "type": "number"
+    },
+    {
+      "key": "storkreds_name",
+      "label": "Storkreds Name",
+      "type": "string"
+    },
+    {
+      "key": "landsdel_id",
+      "label": "Landsdel Id",
+      "type": "number"
+    },
+    {
+      "key": "landsdel_name",
+      "label": "Landsdel Name",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "92",
+      "name": "Aalborg Nord",
+      "slug": "aalborg-nord",
+      "valgkreds_nr": "9",
+      "storkreds_id": "10",
+      "storkreds_name": "Nordjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "91",
+      "name": "Aalborg Vest",
+      "slug": "aalborg-vest",
+      "valgkreds_nr": "8",
+      "storkreds_id": "10",
+      "storkreds_name": "Nordjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "90",
+      "name": "Aalborg Øst",
+      "slug": "aalborg-oest",
+      "valgkreds_nr": "7",
+      "storkreds_id": "10",
+      "storkreds_name": "Nordjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "86",
+      "name": "Brønderslev",
+      "slug": "broenderslev",
+      "valgkreds_nr": "3",
+      "storkreds_id": "10",
+      "storkreds_name": "Nordjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "84",
+      "name": "Frederikshavn",
+      "slug": "frederikshavn",
+      "valgkreds_nr": "1",
+      "storkreds_id": "10",
+      "storkreds_name": "Nordjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "88",
+      "name": "Himmerland",
+      "slug": "himmerland",
+      "valgkreds_nr": "5",
+      "storkreds_id": "10",
+      "storkreds_name": "Nordjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "85",
+      "name": "Hjørring",
+      "slug": "hjoerring",
+      "valgkreds_nr": "2",
+      "storkreds_id": "10",
+      "storkreds_name": "Nordjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "89",
+      "name": "Mariagerfjord",
+      "slug": "mariagerfjord",
+      "valgkreds_nr": "6",
+      "storkreds_id": "10",
+      "storkreds_name": "Nordjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    },
+    {
+      "id": "87",
+      "name": "Thisted",
+      "slug": "thisted",
+      "valgkreds_nr": "4",
+      "storkreds_id": "10",
+      "storkreds_name": "Nordjylland",
+      "landsdel_id": "3",
+      "landsdel_name": "Midtjylland-Nordjylland",
+      "region_id": "1081",
+      "region_name": "Region Nordjylland"
+    }
+  ],
+  "meta": {
+    "title": "Opstillingskredse i Nordjylland-storkredsen - Gratis download",
+    "description": "Opstillingskredse i storkredsen Nordjylland (i alt 9). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 (opstillingskreds-laget). Indeholder 9 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Opstillingskredse i Nordjylland-storkredsen | ListBase",
+    "seo_description": "Download Opstillingskredse i Nordjylland-storkredsen — 9 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 9 poster / 10 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "da-lejre-afstemningssteder",
+  "name": "Afstemningssteder i Lejre Kommune",
+  "title": "Afstemningssteder i Lejre Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Lejre Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Hyllinge-Lyndby",
+      "kommune_kode": 350,
+      "kommune": "Lejre",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Rye",
+      "kommune_kode": 350,
+      "kommune": "Lejre",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Sæby-Gershøj",
+      "kommune_kode": 350,
+      "kommune": "Lejre",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Sonnerup",
+      "kommune_kode": 350,
+      "kommune": "Lejre",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Glim",
+      "kommune_kode": 350,
+      "kommune": "Lejre",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Hvalsø",
+      "kommune_kode": 350,
+      "kommune": "Lejre",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Kr.Såby",
+      "kommune_kode": 350,
+      "kommune": "Lejre",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Gevninge",
+      "kommune_kode": 350,
+      "kommune": "Lejre",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Lejre",
+      "kommune_kode": 350,
+      "kommune": "Lejre",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Osted",
+      "kommune_kode": 350,
+      "kommune": "Lejre",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Lejre Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Lejre Kommune med opstillingskreds. Indeholder 10 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Lejre Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Lejre Kommune — 10 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 10 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

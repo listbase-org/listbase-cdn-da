@@ -1,0 +1,1756 @@
+{
+  "id": "da-bilvask",
+  "name": "Bilvask i Danmark (Car washes in Denmark)",
+  "title": "Bilvask i Danmark (Car washes in Denmark)",
+  "description": "Car washes in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=car_wash.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 343,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aalborg Bilcenter",
+      "latitude": 57.039862,
+      "longitude": 9.92882
+    },
+    {
+      "name": "Auto Clean",
+      "latitude": 55.504217,
+      "longitude": 9.459018
+    },
+    {
+      "name": "Bilvask",
+      "latitude": 55.391665,
+      "longitude": 11.353029
+    },
+    {
+      "name": "Bilvask",
+      "latitude": 55.488723,
+      "longitude": 11.294298
+    },
+    {
+      "name": "Bilvask",
+      "latitude": 55.548803,
+      "longitude": 12.019727
+    },
+    {
+      "name": "Bilvask",
+      "latitude": 55.556096,
+      "longitude": 8.132547
+    },
+    {
+      "name": "Bilvask",
+      "latitude": 55.638414,
+      "longitude": 12.639101
+    },
+    {
+      "name": "Bilvask",
+      "latitude": 55.645388,
+      "longitude": 12.296651
+    },
+    {
+      "name": "Bilvask",
+      "latitude": 55.646971,
+      "longitude": 12.288487
+    },
+    {
+      "name": "Bilvask",
+      "latitude": 55.708816,
+      "longitude": 12.573953
+    },
+    {
+      "name": "Bilvask",
+      "latitude": 56.10832,
+      "longitude": 8.978035
+    },
+    {
+      "name": "Bilvask.Nu",
+      "latitude": 55.649142,
+      "longitude": 12.289872
+    },
+    {
+      "name": "Bonus",
+      "latitude": 54.951311,
+      "longitude": 8.871253
+    },
+    {
+      "name": "Bonus",
+      "latitude": 55.355737,
+      "longitude": 11.686143
+    },
+    {
+      "name": "Byens Bilvask",
+      "latitude": 56.096643,
+      "longitude": 8.629834
+    },
+    {
+      "name": "Circle K",
+      "latitude": 54.831886,
+      "longitude": 9.351494
+    },
+    {
+      "name": "Circle K",
+      "latitude": 54.922881,
+      "longitude": 9.784898
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.065551,
+      "longitude": 9.366192
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.216617,
+      "longitude": 11.753364
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.223821,
+      "longitude": 11.757725
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.253971,
+      "longitude": 9.484081
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.309833,
+      "longitude": 10.805235
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.353645,
+      "longitude": 10.419444
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.36181,
+      "longitude": 10.391166
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.394549,
+      "longitude": 10.357232
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.398106,
+      "longitude": 11.340918
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.446486,
+      "longitude": 12.173238
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.471262,
+      "longitude": 9.471553
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.501236,
+      "longitude": 9.74798
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.507249,
+      "longitude": 9.457597
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.533104,
+      "longitude": 11.48716
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.536721,
+      "longitude": 9.71718
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.569811,
+      "longitude": 9.723858
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.58236,
+      "longitude": 12.297178
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.616651,
+      "longitude": 12.350964
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.617879,
+      "longitude": 12.345287
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.640419,
+      "longitude": 12.097251
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.647229,
+      "longitude": 12.541114
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.650358,
+      "longitude": 12.084178
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.653139,
+      "longitude": 12.540905
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.654476,
+      "longitude": 12.404874
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.663517,
+      "longitude": 12.361789
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.668596,
+      "longitude": 12.606257
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.69231,
+      "longitude": 12.463027
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.706113,
+      "longitude": 12.531467
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.706234,
+      "longitude": 12.585697
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.707999,
+      "longitude": 9.544086
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.713007,
+      "longitude": 9.522357
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.720137,
+      "longitude": 12.45015
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.722606,
+      "longitude": 12.377293
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.722716,
+      "longitude": 9.569918
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.733781,
+      "longitude": 12.476847
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.754922,
+      "longitude": 12.51264
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.843867,
+      "longitude": 12.066344
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.845559,
+      "longitude": 9.734019
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.867165,
+      "longitude": 9.844033
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.883389,
+      "longitude": 12.497602
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.937585,
+      "longitude": 12.487456
+    },
+    {
+      "name": "Circle K",
+      "latitude": 55.989959,
+      "longitude": 12.5335
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.030451,
+      "longitude": 12.601067
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.103771,
+      "longitude": 10.14575
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.135385,
+      "longitude": 8.984663
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.139355,
+      "longitude": 9.149383
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.189752,
+      "longitude": 10.219201
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.237339,
+      "longitude": 10.089644
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.284335,
+      "longitude": 9.415098
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.801677,
+      "longitude": 9.539191
+    },
+    {
+      "name": "Circle K",
+      "latitude": 57.036914,
+      "longitude": 9.883722
+    },
+    {
+      "name": "Circle K",
+      "latitude": 57.039232,
+      "longitude": 9.931205
+    },
+    {
+      "name": "Circle K",
+      "latitude": 57.268179,
+      "longitude": 9.969135
+    },
+    {
+      "name": "Circle K",
+      "latitude": 57.389781,
+      "longitude": 10.51156
+    },
+    {
+      "name": "Circle K",
+      "latitude": 57.444237,
+      "longitude": 10.539461
+    },
+    {
+      "name": "Circle K",
+      "latitude": 57.449632,
+      "longitude": 10.010522
+    },
+    {
+      "name": "Circle K Ballerup",
+      "latitude": 55.731125,
+      "longitude": 12.374835
+    },
+    {
+      "name": "Circle K Car Wash",
+      "latitude": 56.068552,
+      "longitude": 9.978618
+    },
+    {
+      "name": "Circle K Kirke Såby",
+      "latitude": 55.639797,
+      "longitude": 11.830938
+    },
+    {
+      "name": "Circle K Snertinge",
+      "latitude": 55.711681,
+      "longitude": 11.38251
+    },
+    {
+      "name": "Cirkle K",
+      "latitude": 55.664471,
+      "longitude": 12.370712
+    },
+    {
+      "name": "Cirkle K",
+      "latitude": 55.690136,
+      "longitude": 12.518899
+    },
+    {
+      "name": "Cirkle K",
+      "latitude": 55.760289,
+      "longitude": 12.111796
+    },
+    {
+      "name": "Cirkle K",
+      "latitude": 56.442561,
+      "longitude": 10.048059
+    },
+    {
+      "name": "DSV - Bilvask",
+      "latitude": 55.647045,
+      "longitude": 12.165029
+    },
+    {
+      "name": "F24",
+      "latitude": 55.156027,
+      "longitude": 8.771237
+    },
+    {
+      "name": "F24",
+      "latitude": 55.375247,
+      "longitude": 9.055487
+    },
+    {
+      "name": "F24",
+      "latitude": 55.474597,
+      "longitude": 8.43466
+    },
+    {
+      "name": "F24",
+      "latitude": 55.517154,
+      "longitude": 8.371108
+    },
+    {
+      "name": "F24",
+      "latitude": 55.55721,
+      "longitude": 9.72862
+    },
+    {
+      "name": "F24",
+      "latitude": 55.613932,
+      "longitude": 11.763401
+    },
+    {
+      "name": "F24",
+      "latitude": 55.670865,
+      "longitude": 12.339298
+    },
+    {
+      "name": "F24",
+      "latitude": 55.715063,
+      "longitude": 10.002172
+    },
+    {
+      "name": "f24",
+      "latitude": 55.750495,
+      "longitude": 12.109268
+    },
+    {
+      "name": "F24",
+      "latitude": 55.778764,
+      "longitude": 12.395028
+    },
+    {
+      "name": "F24",
+      "latitude": 55.860885,
+      "longitude": 9.837655
+    },
+    {
+      "name": "F24",
+      "latitude": 55.915668,
+      "longitude": 8.517621
+    },
+    {
+      "name": "F24",
+      "latitude": 56.016281,
+      "longitude": 12.199241
+    },
+    {
+      "name": "F24",
+      "latitude": 57.045398,
+      "longitude": 9.901758
+    },
+    {
+      "name": "F24",
+      "latitude": 57.067438,
+      "longitude": 9.944538
+    },
+    {
+      "name": "F24",
+      "latitude": 57.587813,
+      "longitude": 9.977908
+    },
+    {
+      "name": "F24",
+      "latitude": 57.717364,
+      "longitude": 10.579874
+    },
+    {
+      "name": "F24 Bilvask",
+      "latitude": 57.159085,
+      "longitude": 10.288024
+    },
+    {
+      "name": "F24 vaskehal",
+      "latitude": 55.713543,
+      "longitude": 9.522517
+    },
+    {
+      "name": "Formula Bilvask",
+      "latitude": 54.99756,
+      "longitude": 12.002925
+    },
+    {
+      "name": "Frandsen Bilvask",
+      "latitude": 56.453807,
+      "longitude": 9.449457
+    },
+    {
+      "name": "Fårup Bilvask",
+      "latitude": 56.545626,
+      "longitude": 9.855949
+    },
+    {
+      "name": "Go Wash Hornslet",
+      "latitude": 56.306206,
+      "longitude": 10.314511
+    },
+    {
+      "name": "Go'on",
+      "latitude": 56.389424,
+      "longitude": 9.791399
+    },
+    {
+      "name": "HAL 1",
+      "latitude": 55.712984,
+      "longitude": 12.418142
+    },
+    {
+      "name": "HAL 2",
+      "latitude": 55.712992,
+      "longitude": 12.418286
+    },
+    {
+      "name": "Halsnæs Bilvask",
+      "latitude": 55.963084,
+      "longitude": 11.888101
+    },
+    {
+      "name": "Hatting Bilvask",
+      "latitude": 55.854551,
+      "longitude": 9.767209
+    },
+    {
+      "name": "Hune Bilvask",
+      "latitude": 57.247862,
+      "longitude": 9.626455
+    },
+    {
+      "name": "Højby Bilvask",
+      "latitude": 55.330001,
+      "longitude": 10.438097
+    },
+    {
+      "name": "IMO",
+      "latitude": 55.725266,
+      "longitude": 9.582483
+    },
+    {
+      "name": "IMO Car Wash",
+      "latitude": 56.181959,
+      "longitude": 10.102708
+    },
+    {
+      "name": "Ingo",
+      "latitude": 55.471589,
+      "longitude": 8.466185
+    },
+    {
+      "name": "Ingo",
+      "latitude": 55.504021,
+      "longitude": 8.402879
+    },
+    {
+      "name": "ingo",
+      "latitude": 55.660658,
+      "longitude": 12.556776
+    },
+    {
+      "name": "Ingo",
+      "latitude": 55.81613,
+      "longitude": 12.374422
+    },
+    {
+      "name": "Ingo",
+      "latitude": 55.85253,
+      "longitude": 9.831547
+    },
+    {
+      "name": "Ingo",
+      "latitude": 56.37161,
+      "longitude": 8.617506
+    },
+    {
+      "name": "Ingo",
+      "latitude": 57.446654,
+      "longitude": 10.510191
+    },
+    {
+      "name": "Ingo Bilvask",
+      "latitude": 55.64204,
+      "longitude": 12.11498
+    },
+    {
+      "name": "Ingo Carwash",
+      "latitude": 57.019431,
+      "longitude": 9.925405
+    },
+    {
+      "name": "iWash",
+      "latitude": 55.932526,
+      "longitude": 12.262249
+    },
+    {
+      "name": "Jørgen Hansen Biler - Bilvask og Bilpleje",
+      "latitude": 55.162888,
+      "longitude": 8.765008
+    },
+    {
+      "name": "MegaWash Truck Wash",
+      "latitude": 55.846221,
+      "longitude": 9.737083
+    },
+    {
+      "name": "Mekanikeren Aarup",
+      "latitude": 55.380154,
+      "longitude": 10.056538
+    },
+    {
+      "name": "Nem Bilvask",
+      "latitude": 55.851861,
+      "longitude": 9.847783
+    },
+    {
+      "name": "Nordjysk Bilpleje v/Dennis Lindstrøm",
+      "latitude": 56.981725,
+      "longitude": 9.858621
+    },
+    {
+      "name": "OIL!",
+      "latitude": 57.086375,
+      "longitude": 9.263956
+    },
+    {
+      "name": "OK",
+      "latitude": 54.779765,
+      "longitude": 11.479078
+    },
+    {
+      "name": "OK",
+      "latitude": 54.834778,
+      "longitude": 9.34353
+    },
+    {
+      "name": "OK",
+      "latitude": 54.922023,
+      "longitude": 9.810051
+    },
+    {
+      "name": "OK",
+      "latitude": 54.924728,
+      "longitude": 9.725079
+    },
+    {
+      "name": "OK",
+      "latitude": 54.938315,
+      "longitude": 8.855079
+    },
+    {
+      "name": "OK",
+      "latitude": 54.940826,
+      "longitude": 10.736186
+    },
+    {
+      "name": "OK",
+      "latitude": 55.033133,
+      "longitude": 9.814691
+    },
+    {
+      "name": "OK",
+      "latitude": 55.063894,
+      "longitude": 8.956399
+    },
+    {
+      "name": "OK",
+      "latitude": 55.236237,
+      "longitude": 9.487119
+    },
+    {
+      "name": "OK",
+      "latitude": 55.307688,
+      "longitude": 10.809664
+    },
+    {
+      "name": "OK",
+      "latitude": 55.352502,
+      "longitude": 8.782564
+    },
+    {
+      "name": "OK",
+      "latitude": 55.354658,
+      "longitude": 10.423882
+    },
+    {
+      "name": "OK",
+      "latitude": 55.406554,
+      "longitude": 10.3858
+    },
+    {
+      "name": "OK",
+      "latitude": 55.413021,
+      "longitude": 10.055798
+    },
+    {
+      "name": "OK",
+      "latitude": 55.446874,
+      "longitude": 12.173565
+    },
+    {
+      "name": "OK",
+      "latitude": 55.473071,
+      "longitude": 9.898237
+    },
+    {
+      "name": "OK",
+      "latitude": 55.480044,
+      "longitude": 8.466707
+    },
+    {
+      "name": "OK",
+      "latitude": 55.489013,
+      "longitude": 9.128218
+    },
+    {
+      "name": "OK",
+      "latitude": 55.530932,
+      "longitude": 9.715391
+    },
+    {
+      "name": "OK",
+      "latitude": 55.572884,
+      "longitude": 12.232236
+    },
+    {
+      "name": "OK",
+      "latitude": 55.593152,
+      "longitude": 9.757687
+    },
+    {
+      "name": "OK",
+      "latitude": 55.613047,
+      "longitude": 11.784195
+    },
+    {
+      "name": "OK",
+      "latitude": 55.645363,
+      "longitude": 12.542111
+    },
+    {
+      "name": "OK",
+      "latitude": 55.709372,
+      "longitude": 10.010478
+    },
+    {
+      "name": "OK",
+      "latitude": 55.778157,
+      "longitude": 8.29799
+    },
+    {
+      "name": "OK",
+      "latitude": 55.804395,
+      "longitude": 9.564808
+    },
+    {
+      "name": "OK",
+      "latitude": 55.836226,
+      "longitude": 9.78862
+    },
+    {
+      "name": "OK",
+      "latitude": 55.843616,
+      "longitude": 9.820543
+    },
+    {
+      "name": "OK",
+      "latitude": 55.851954,
+      "longitude": 8.375029
+    },
+    {
+      "name": "OK",
+      "latitude": 55.90123,
+      "longitude": 9.830323
+    },
+    {
+      "name": "OK",
+      "latitude": 55.927731,
+      "longitude": 9.158616
+    },
+    {
+      "name": "OK",
+      "latitude": 56.104373,
+      "longitude": 8.256138
+    },
+    {
+      "name": "OK",
+      "latitude": 56.140833,
+      "longitude": 9.27425
+    },
+    {
+      "name": "OK",
+      "latitude": 56.152934,
+      "longitude": 8.985451
+    },
+    {
+      "name": "OK",
+      "latitude": 56.218867,
+      "longitude": 10.167551
+    },
+    {
+      "name": "OK",
+      "latitude": 56.310926,
+      "longitude": 10.13431
+    },
+    {
+      "name": "OK",
+      "latitude": 56.444209,
+      "longitude": 9.390027
+    },
+    {
+      "name": "OK",
+      "latitude": 56.882446,
+      "longitude": 8.626667
+    },
+    {
+      "name": "OK",
+      "latitude": 57.031744,
+      "longitude": 9.925855
+    },
+    {
+      "name": "OK",
+      "latitude": 57.369073,
+      "longitude": 9.714216
+    },
+    {
+      "name": "OK Aarup Bilvask",
+      "latitude": 55.379356,
+      "longitude": 10.057172
+    },
+    {
+      "name": "OK Assens Bilvask",
+      "latitude": 55.266698,
+      "longitude": 9.890804
+    },
+    {
+      "name": "OK Ballerup",
+      "latitude": 55.724626,
+      "longitude": 12.355339
+    },
+    {
+      "name": "OK Benzin",
+      "latitude": 55.663416,
+      "longitude": 12.456391
+    },
+    {
+      "name": "OK Benzin",
+      "latitude": 57.031743,
+      "longitude": 9.925844
+    },
+    {
+      "name": "OK bil vask",
+      "latitude": 56.061299,
+      "longitude": 9.983891
+    },
+    {
+      "name": "OK Bilvask",
+      "latitude": 55.332292,
+      "longitude": 10.435716
+    },
+    {
+      "name": "OK Bilvask",
+      "latitude": 55.518816,
+      "longitude": 8.413129
+    },
+    {
+      "name": "OK bilvask",
+      "latitude": 55.521464,
+      "longitude": 9.478694
+    },
+    {
+      "name": "OK Bilvask",
+      "latitude": 55.705669,
+      "longitude": 11.671338
+    },
+    {
+      "name": "OK bilvask",
+      "latitude": 57.004857,
+      "longitude": 9.881552
+    },
+    {
+      "name": "OK Glamsbjerg Bilvask",
+      "latitude": 55.272719,
+      "longitude": 10.107516
+    },
+    {
+      "name": "OK Hårup",
+      "latitude": 56.153833,
+      "longitude": 9.637991
+    },
+    {
+      "name": "OK Ikast Jyllandsgade",
+      "latitude": 56.122329,
+      "longitude": 9.172857
+    },
+    {
+      "name": "OK Plus Vaskehal",
+      "latitude": 55.523535,
+      "longitude": 8.903142
+    },
+    {
+      "name": "OK Ubberud Bilvask",
+      "latitude": 55.389615,
+      "longitude": 10.244701
+    },
+    {
+      "name": "OK Vask",
+      "latitude": 54.935336,
+      "longitude": 9.257543
+    },
+    {
+      "name": "OK Vask",
+      "latitude": 55.035652,
+      "longitude": 9.416968
+    },
+    {
+      "name": "OK Vask",
+      "latitude": 55.068628,
+      "longitude": 10.572305
+    },
+    {
+      "name": "OK vask",
+      "latitude": 55.644416,
+      "longitude": 12.374054
+    },
+    {
+      "name": "OK Vask",
+      "latitude": 55.843353,
+      "longitude": 12.176704
+    },
+    {
+      "name": "OK Vask Skjern Farverivej",
+      "latitude": 55.952103,
+      "longitude": 8.512213
+    },
+    {
+      "name": "OK Vask Skjern Ferrodanvej",
+      "latitude": 55.95444,
+      "longitude": 8.51591
+    },
+    {
+      "name": "OK Vaskehal",
+      "latitude": 54.909906,
+      "longitude": 9.589136
+    },
+    {
+      "name": "OK vaskehal",
+      "latitude": 55.180151,
+      "longitude": 9.064485
+    },
+    {
+      "name": "OK vaskehal",
+      "latitude": 55.5065,
+      "longitude": 11.286759
+    },
+    {
+      "name": "OK Vaskehal",
+      "latitude": 55.726141,
+      "longitude": 12.415418
+    },
+    {
+      "name": "OK Ørbæk Bilvask",
+      "latitude": 55.255236,
+      "longitude": 10.670975
+    },
+    {
+      "name": "OK-vaskehal",
+      "latitude": 57.455839,
+      "longitude": 10.525715
+    },
+    {
+      "name": "Power Wash",
+      "latitude": 55.930905,
+      "longitude": 12.267939
+    },
+    {
+      "name": "Q8",
+      "latitude": 54.937763,
+      "longitude": 8.868201
+    },
+    {
+      "name": "Q8",
+      "latitude": 55.223422,
+      "longitude": 11.760036
+    },
+    {
+      "name": "Q8",
+      "latitude": 55.246249,
+      "longitude": 9.482017
+    },
+    {
+      "name": "Q8",
+      "latitude": 55.5264,
+      "longitude": 9.464111
+    },
+    {
+      "name": "Q8",
+      "latitude": 55.642845,
+      "longitude": 12.59071
+    },
+    {
+      "name": "Q8",
+      "latitude": 55.643111,
+      "longitude": 12.399868
+    },
+    {
+      "name": "Q8",
+      "latitude": 55.652856,
+      "longitude": 12.492413
+    },
+    {
+      "name": "Q8",
+      "latitude": 55.666094,
+      "longitude": 12.404406
+    },
+    {
+      "name": "Q8",
+      "latitude": 55.666188,
+      "longitude": 12.585936
+    },
+    {
+      "name": "Q8",
+      "latitude": 55.698526,
+      "longitude": 12.471901
+    },
+    {
+      "name": "Q8",
+      "latitude": 55.720449,
+      "longitude": 9.563368
+    },
+    {
+      "name": "Q8",
+      "latitude": 55.727204,
+      "longitude": 12.345188
+    },
+    {
+      "name": "Q8",
+      "latitude": 55.767031,
+      "longitude": 12.185723
+    },
+    {
+      "name": "Q8",
+      "latitude": 55.876777,
+      "longitude": 12.477181
+    },
+    {
+      "name": "Q8",
+      "latitude": 57.022423,
+      "longitude": 9.903863
+    },
+    {
+      "name": "Q8 - Vangedevej",
+      "latitude": 55.740623,
+      "longitude": 12.522989
+    },
+    {
+      "name": "Q8 Allerød",
+      "latitude": 55.869699,
+      "longitude": 12.35684
+    },
+    {
+      "name": "Q8 Bilvask",
+      "latitude": 55.651016,
+      "longitude": 12.107048
+    },
+    {
+      "name": "Q8 Gåbensevej 1, Nørre Alslev",
+      "latitude": 54.899178,
+      "longitude": 11.871683
+    },
+    {
+      "name": "Q8 Vaskehal",
+      "latitude": 56.230486,
+      "longitude": 10.237417
+    },
+    {
+      "name": "Reflect Bilvask",
+      "latitude": 55.655867,
+      "longitude": 12.307611
+    },
+    {
+      "name": "Shell",
+      "latitude": 54.918958,
+      "longitude": 9.808966
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.007281,
+      "longitude": 11.915976
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.07166,
+      "longitude": 14.914906
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.192537,
+      "longitude": 9.059106
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.213604,
+      "longitude": 11.759952
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.229155,
+      "longitude": 11.751735
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.246874,
+      "longitude": 11.760918
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.306118,
+      "longitude": 12.390349
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.330231,
+      "longitude": 11.957994
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.410085,
+      "longitude": 10.339564
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.414907,
+      "longitude": 10.320322
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.479367,
+      "longitude": 8.428564
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.524873,
+      "longitude": 8.589711
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.556081,
+      "longitude": 8.132551
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.64126,
+      "longitude": 12.096486
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.650461,
+      "longitude": 12.202693
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.705237,
+      "longitude": 12.495593
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.706704,
+      "longitude": 11.711201
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.706714,
+      "longitude": 12.538179
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.719277,
+      "longitude": 9.563205
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.735678,
+      "longitude": 9.102335
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.751173,
+      "longitude": 12.402927
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.840173,
+      "longitude": 12.065281
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.84406,
+      "longitude": 12.073704
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.849517,
+      "longitude": 11.574117
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.864488,
+      "longitude": 12.496432
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.922617,
+      "longitude": 11.662826
+    },
+    {
+      "name": "Shell",
+      "latitude": 56.031628,
+      "longitude": 8.859424
+    },
+    {
+      "name": "Shell",
+      "latitude": 56.09407,
+      "longitude": 8.243595
+    },
+    {
+      "name": "Shell",
+      "latitude": 56.100729,
+      "longitude": 8.703813
+    },
+    {
+      "name": "Shell",
+      "latitude": 56.137282,
+      "longitude": 10.177789
+    },
+    {
+      "name": "Shell",
+      "latitude": 56.138886,
+      "longitude": 10.179418
+    },
+    {
+      "name": "Shell",
+      "latitude": 56.139698,
+      "longitude": 9.162599
+    },
+    {
+      "name": "Shell",
+      "latitude": 56.196308,
+      "longitude": 8.298803
+    },
+    {
+      "name": "Shell",
+      "latitude": 56.251874,
+      "longitude": 9.860065
+    },
+    {
+      "name": "Shell",
+      "latitude": 56.287991,
+      "longitude": 9.421004
+    },
+    {
+      "name": "Shell",
+      "latitude": 56.952616,
+      "longitude": 8.692757
+    },
+    {
+      "name": "Shell",
+      "latitude": 56.996407,
+      "longitude": 9.668036
+    },
+    {
+      "name": "Shell",
+      "latitude": 57.043165,
+      "longitude": 9.934489
+    },
+    {
+      "name": "Shell",
+      "latitude": 57.053766,
+      "longitude": 9.892414
+    },
+    {
+      "name": "Shell Bilvask",
+      "latitude": 55.37672,
+      "longitude": 10.428856
+    },
+    {
+      "name": "Shell Bilvask",
+      "latitude": 55.561406,
+      "longitude": 9.751925
+    },
+    {
+      "name": "Shell Bilvask",
+      "latitude": 55.668884,
+      "longitude": 12.437169
+    },
+    {
+      "name": "Shell bilvask",
+      "latitude": 55.716708,
+      "longitude": 12.437496
+    },
+    {
+      "name": "Shell Express",
+      "latitude": 55.452244,
+      "longitude": 10.541393
+    },
+    {
+      "name": "Shell Express",
+      "latitude": 55.713443,
+      "longitude": 12.467559
+    },
+    {
+      "name": "Shell Express",
+      "latitude": 55.727377,
+      "longitude": 9.120672
+    },
+    {
+      "name": "Shell Express",
+      "latitude": 56.416663,
+      "longitude": 8.307687
+    },
+    {
+      "name": "SHELL EXPRESS SALTUM",
+      "latitude": 57.27575,
+      "longitude": 9.699431
+    },
+    {
+      "name": "Statoil",
+      "latitude": 55.393016,
+      "longitude": 10.413721
+    },
+    {
+      "name": "Statoil",
+      "latitude": 56.016147,
+      "longitude": 12.198223
+    },
+    {
+      "name": "Tam Vask",
+      "latitude": 55.916086,
+      "longitude": 8.517503
+    },
+    {
+      "name": "Tappernøje Auto",
+      "latitude": 55.162683,
+      "longitude": 11.980288
+    },
+    {
+      "name": "Tarp Bilvask",
+      "latitude": 55.528922,
+      "longitude": 8.453068
+    },
+    {
+      "name": "Thy Bilvask",
+      "latitude": 57.031822,
+      "longitude": 8.856164
+    },
+    {
+      "name": "Turtle Wash",
+      "latitude": 57.045593,
+      "longitude": 9.945333
+    },
+    {
+      "name": "Turtlevask",
+      "latitude": 55.769126,
+      "longitude": 12.200644
+    },
+    {
+      "name": "Tversted Bilvask",
+      "latitude": 57.581458,
+      "longitude": 10.184667
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 55.401387,
+      "longitude": 10.423907
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 55.483435,
+      "longitude": 9.447026
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 55.551212,
+      "longitude": 9.725988
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 55.664905,
+      "longitude": 12.38766
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 55.729854,
+      "longitude": 12.513319
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 55.849556,
+      "longitude": 12.425106
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 55.851429,
+      "longitude": 9.82918
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 56.090654,
+      "longitude": 9.777315
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 56.412966,
+      "longitude": 10.07478
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 57.058706,
+      "longitude": 9.928308
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 57.102354,
+      "longitude": 10.024114
+    },
+    {
+      "name": "Uno-X",
+      "latitude": 57.251708,
+      "longitude": 9.973663
+    },
+    {
+      "name": "Uno-X Bilvask",
+      "latitude": 54.856776,
+      "longitude": 9.3677
+    },
+    {
+      "name": "Uno-x Bilvask",
+      "latitude": 55.487199,
+      "longitude": 8.449005
+    },
+    {
+      "name": "Uno-X Vaskehal",
+      "latitude": 55.634641,
+      "longitude": 12.073832
+    },
+    {
+      "name": "UnoX bilvask",
+      "latitude": 55.369248,
+      "longitude": 10.39319
+    },
+    {
+      "name": "Varde Bilvask",
+      "latitude": 55.62541,
+      "longitude": 8.462145
+    },
+    {
+      "name": "Vask Autogården Fredericia",
+      "latitude": 55.57811,
+      "longitude": 9.754309
+    },
+    {
+      "name": "Wash",
+      "latitude": 54.919486,
+      "longitude": 9.80815
+    },
+    {
+      "name": "Wash",
+      "latitude": 55.01101,
+      "longitude": 11.909932
+    },
+    {
+      "name": "Wash",
+      "latitude": 55.239104,
+      "longitude": 11.778196
+    },
+    {
+      "name": "Wash",
+      "latitude": 55.308902,
+      "longitude": 10.809557
+    },
+    {
+      "name": "Wash",
+      "latitude": 55.394918,
+      "longitude": 10.346329
+    },
+    {
+      "name": "Wash",
+      "latitude": 55.451363,
+      "longitude": 11.790346
+    },
+    {
+      "name": "Wash",
+      "latitude": 55.628487,
+      "longitude": 12.066466
+    },
+    {
+      "name": "Wash",
+      "latitude": 55.703268,
+      "longitude": 11.665311
+    },
+    {
+      "name": "Wash",
+      "latitude": 55.845177,
+      "longitude": 12.074366
+    },
+    {
+      "name": "Wash",
+      "latitude": 55.97761,
+      "longitude": 12.007407
+    },
+    {
+      "name": "Wash",
+      "latitude": 56.18161,
+      "longitude": 10.125065
+    },
+    {
+      "name": "Wash",
+      "latitude": 56.190741,
+      "longitude": 10.672238
+    },
+    {
+      "name": "Wash",
+      "latitude": 57.006137,
+      "longitude": 9.926129
+    },
+    {
+      "name": "Wash & Polish",
+      "latitude": 55.653983,
+      "longitude": 12.399397
+    },
+    {
+      "name": "Wash World",
+      "latitude": 55.065237,
+      "longitude": 9.364932
+    },
+    {
+      "name": "Wash World",
+      "latitude": 55.35185,
+      "longitude": 8.780107
+    },
+    {
+      "name": "Wash World",
+      "latitude": 55.379876,
+      "longitude": 10.43292
+    },
+    {
+      "name": "Wash World",
+      "latitude": 55.503826,
+      "longitude": 8.407483
+    },
+    {
+      "name": "Wash World",
+      "latitude": 55.512001,
+      "longitude": 9.766199
+    },
+    {
+      "name": "Wash World",
+      "latitude": 55.618249,
+      "longitude": 12.423671
+    },
+    {
+      "name": "Wash World",
+      "latitude": 55.678607,
+      "longitude": 11.136049
+    },
+    {
+      "name": "Wash World",
+      "latitude": 55.724593,
+      "longitude": 9.584397
+    },
+    {
+      "name": "Wash World",
+      "latitude": 55.816866,
+      "longitude": 12.370327
+    },
+    {
+      "name": "Wash World",
+      "latitude": 55.960605,
+      "longitude": 9.103546
+    },
+    {
+      "name": "Wash World",
+      "latitude": 56.107623,
+      "longitude": 10.16699
+    },
+    {
+      "name": "Wash World",
+      "latitude": 56.181395,
+      "longitude": 9.537184
+    },
+    {
+      "name": "Wash World",
+      "latitude": 56.224743,
+      "longitude": 10.236623
+    },
+    {
+      "name": "Wash World",
+      "latitude": 56.383432,
+      "longitude": 10.866054
+    },
+    {
+      "name": "Wash World",
+      "latitude": 56.4441,
+      "longitude": 9.388413
+    },
+    {
+      "name": "Wash World",
+      "latitude": 56.469314,
+      "longitude": 9.409524
+    },
+    {
+      "name": "Wash World",
+      "latitude": 56.561503,
+      "longitude": 9.041768
+    },
+    {
+      "name": "Wash World",
+      "latitude": 56.968952,
+      "longitude": 8.734248
+    },
+    {
+      "name": "Wash World",
+      "latitude": 57.015402,
+      "longitude": 9.896143
+    },
+    {
+      "name": "Wash World",
+      "latitude": 57.089266,
+      "longitude": 9.970781
+    },
+    {
+      "name": "Wash World",
+      "latitude": 57.455363,
+      "longitude": 10.039365
+    },
+    {
+      "name": "Wash World",
+      "latitude": 57.462041,
+      "longitude": 10.519475
+    },
+    {
+      "name": "Wash World - Aabenraa - Egevej",
+      "latitude": 55.065033,
+      "longitude": 9.364573
+    },
+    {
+      "name": "Wash World Fredericia - Strevelinsvej",
+      "latitude": 55.535497,
+      "longitude": 9.718757
+    },
+    {
+      "name": "Wash World Struer",
+      "latitude": 56.480495,
+      "longitude": 8.585538
+    },
+    {
+      "name": "Wash-Drive",
+      "latitude": 55.424777,
+      "longitude": 10.454782
+    },
+    {
+      "name": "Washngo",
+      "latitude": 56.985029,
+      "longitude": 9.858276
+    },
+    {
+      "name": "Washworld",
+      "latitude": 55.504063,
+      "longitude": 9.458726
+    },
+    {
+      "name": "Washworld",
+      "latitude": 55.513175,
+      "longitude": 9.455197
+    },
+    {
+      "name": "WashWorld",
+      "latitude": 55.733595,
+      "longitude": 12.459457
+    },
+    {
+      "name": "Washworld",
+      "latitude": 56.153367,
+      "longitude": 8.987322
+    },
+    {
+      "name": "WashWorld - Ikast - Europavej",
+      "latitude": 56.123727,
+      "longitude": 9.173781
+    }
+  ],
+  "meta": {
+    "title": "Bilvask i Danmark (Car washes in Denmark) - Gratis download",
+    "description": "Car washes in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=car_wash. Indeholder 343 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Bilvask i Danmark (Car washes in Denmark) | ListBase",
+    "seo_description": "Download Bilvask i Danmark (Car washes in Denmark) — 343 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 343 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

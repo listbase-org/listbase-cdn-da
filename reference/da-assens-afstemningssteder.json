@@ -1,0 +1,240 @@
+{
+  "id": "da-assens-afstemningssteder",
+  "name": "Afstemningssteder i Assens Kommune",
+  "title": "Afstemningssteder i Assens Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Assens Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Assens",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Ebberup",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Turup",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Salbrovad",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Helnæs",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Køng",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Glamsbjerg",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Flemløse",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Søllested",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Ørsted",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Dreslette",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Haarby",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Jordløse",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Brylle",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Tommerup",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Tommerup St",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Verninge",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Nårup",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Vissenbjerg",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Aarup",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Kerte",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Orte",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Rørup",
+      "kommune_kode": 420,
+      "kommune": "Assens",
+      "opstillingskreds_nummer": 44,
+      "opstillingskreds": "Assens"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Assens Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Assens Kommune med opstillingskreds. Indeholder 23 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Assens Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Assens Kommune — 23 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 23 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

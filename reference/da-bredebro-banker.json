@@ -1,0 +1,107 @@
+{
+  "id": "da-bredebro-banker",
+  "name": "Banker i Bredebro — SWIFT/BIC-koder",
+  "title": "Banker i Bredebro — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Bredebro, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"BREDEBRO\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 165,
+      "bank": "ECCO SKO A/S",
+      "city": "BREDEBRO",
+      "branch": "",
+      "swift_code": "ECSKDK22"
+    },
+    {
+      "id": 166,
+      "bank": "ECCO SKO A/S",
+      "city": "BREDEBRO",
+      "branch": "",
+      "swift_code": "ECSKDK22CHI"
+    },
+    {
+      "id": 167,
+      "bank": "ECCO SKO A/S",
+      "city": "BREDEBRO",
+      "branch": "",
+      "swift_code": "ECSKDK22ELB"
+    },
+    {
+      "id": 168,
+      "bank": "ECCO SKO A/S",
+      "city": "BREDEBRO",
+      "branch": "",
+      "swift_code": "ECSKDK22ESI"
+    },
+    {
+      "id": 169,
+      "bank": "ECCO SKO A/S",
+      "city": "BREDEBRO",
+      "branch": "",
+      "swift_code": "ECSKDK22IND"
+    },
+    {
+      "id": 170,
+      "bank": "ECCO SKO A/S",
+      "city": "BREDEBRO",
+      "branch": "",
+      "swift_code": "ECSKDK22KRM"
+    },
+    {
+      "id": 171,
+      "bank": "ECCO SKO A/S",
+      "city": "BREDEBRO",
+      "branch": "",
+      "swift_code": "ECSKDK22THA"
+    },
+    {
+      "id": 452,
+      "bank": "SPAREKASSEN BREDEBRO",
+      "city": "BREDEBRO",
+      "branch": "",
+      "swift_code": "BBRODK21"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Bredebro — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Bredebro, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"BREDEBRO\"). Delmængde af det nationale da-banker-datasæt. Indeholder 8 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Bredebro — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Bredebro — SWIFT/BIC-koder — 8 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 8 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

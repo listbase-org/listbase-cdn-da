@@ -1,0 +1,316 @@
+{
+  "id": "da-vandfald",
+  "name": "Vandfald i Danmark, Grønland og Færøerne",
+  "title": "Vandfald i Danmark, Grønland og Færøerne",
+  "description": "Vandfald (waterfalls) i Kongeriget Danmark — alle 10 kendte vandfald i Wikidata med P17 = Danmark, Grønland eller Færøerne. Fordeling: Danmark (3), Grønland (2), Færøerne (5). Felter: id, wikidata_id, name_da, name_en, country_da, country_qid, height_m, width_m, elevation_m, basin, part_of, mountain_range, admin, latitude, longitude, wikipedia_da. Inkluderer både ægte (overjordiske) vandfald som Maglevands Fald (Møn), Døndalen (Bornholm), Stavehøl (Bornholm), Qorlortorsuaq (Sydgrønland) samt færøske kystvandfald (P31 = Q2967706 coastal waterfall) som Múlafossur (Gásadalur, Vágar), Bøsdalafossur (Sørvágsvatn, Vágar), Fossá (Streymoy — Færøernes højeste, ~140 m i alt), Svartafoss (Eysturoy), Áarstíggjafossur. Inkluderer også det unikke undersøiske vandfald Grønlandspumpen (Denmark Strait cataract) i Grønlandsstrædet — verdens største undersøiske vandfald (~3,5 km vertikalt fald). Multi-klasse-poster accepteres: Qorlortorsuaq har P31=Q34038 (vandfald) + Q486972 (bebyggelse — den grønlandske bygd er navngivet efter vandfaldet); Døndalen har P31=Q34038 + Q473972 (beskyttet område) + Q1191622 (EU-habitat) + Q2306627 (sprækkedal).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_fo",
+      "label": "Name Fo",
+      "type": "string"
+    },
+    {
+      "key": "name_kl",
+      "label": "Name Kl",
+      "type": "string"
+    },
+    {
+      "key": "country_da",
+      "label": "Country Da",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "height_m",
+      "label": "Height M",
+      "type": "number"
+    },
+    {
+      "key": "width_m",
+      "label": "Width M",
+      "type": "string"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "basin",
+      "label": "Basin",
+      "type": "string"
+    },
+    {
+      "key": "part_of",
+      "label": "Part Of",
+      "type": "string"
+    },
+    {
+      "key": "mountain_range",
+      "label": "Mountain Range",
+      "type": "string"
+    },
+    {
+      "key": "admin",
+      "label": "Admin",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_da",
+      "label": "Wikipedia Da",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q5320402",
+      "wikidata_id": "Q5320402",
+      "name_da": "Døndalen",
+      "name_en": "Døndalen",
+      "name_fo": "",
+      "name_kl": "",
+      "country_da": "Danmark",
+      "country_qid": "Q35",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": 59,
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "Bornholms Regionskommune",
+      "latitude": 55.22777778,
+      "longitude": 14.88333333,
+      "wikipedia_da": "https://da.wikipedia.org/wiki/D%C3%B8ndalen"
+    },
+    {
+      "id": "Q23745044",
+      "wikidata_id": "Q23745044",
+      "name_da": "Maglevands Fald",
+      "name_en": "Maglevands Fald",
+      "name_fo": "",
+      "name_kl": "",
+      "country_da": "Danmark",
+      "country_qid": "Q35",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "Vordingborg Kommune",
+      "latitude": 54.966666666667,
+      "longitude": 12.566666666667,
+      "wikipedia_da": ""
+    },
+    {
+      "id": "Q41954133",
+      "wikidata_id": "Q41954133",
+      "name_da": "Stavehøl",
+      "name_en": "Stavehøl",
+      "name_fo": "",
+      "name_kl": "",
+      "country_da": "Danmark",
+      "country_qid": "Q35",
+      "height_m": 3,
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "Bornholms Regionskommune",
+      "latitude": 55.1802842,
+      "longitude": 14.973589,
+      "wikipedia_da": ""
+    },
+    {
+      "id": "Q16959664",
+      "wikidata_id": "Q16959664",
+      "name_da": "Grønlandspumpen",
+      "name_en": "Denmark Strait cataract",
+      "name_fo": "",
+      "name_kl": "",
+      "country_da": "Grønland",
+      "country_qid": "Q223",
+      "height_m": 3500,
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_da": "https://da.wikipedia.org/wiki/Gr%C3%B8nlandspumpen"
+    },
+    {
+      "id": "Q2714832",
+      "wikidata_id": "Q2714832",
+      "name_da": "Qorlortorsuaq",
+      "name_en": "Qorlortorsuaq",
+      "name_fo": "",
+      "name_kl": "",
+      "country_da": "Grønland",
+      "country_qid": "Q223",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "Kujalleq Kommune",
+      "latitude": 60.775,
+      "longitude": -45.231666666667,
+      "wikipedia_da": "https://da.wikipedia.org/wiki/Qorlortorsuaq"
+    },
+    {
+      "id": "Q845082",
+      "wikidata_id": "Q845082",
+      "name_da": "Bøsdalafossur",
+      "name_en": "Bøsdalafossur",
+      "name_fo": "Bøsdalafossur",
+      "name_kl": "",
+      "country_da": "Færøerne",
+      "country_qid": "Q4628",
+      "height_m": 30,
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "",
+      "latitude": 62.0237,
+      "longitude": -7.2396,
+      "wikipedia_da": "https://da.wikipedia.org/wiki/B%C3%B8sdalafossur"
+    },
+    {
+      "id": "Q25247466",
+      "wikidata_id": "Q25247466",
+      "name_da": "Fossá",
+      "name_en": "Fossá",
+      "name_fo": "Fossá",
+      "name_kl": "",
+      "country_da": "Færøerne",
+      "country_qid": "Q4628",
+      "height_m": 140,
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "Sunda kommuna",
+      "latitude": 62.25,
+      "longitude": -7.0666666666667,
+      "wikipedia_da": ""
+    },
+    {
+      "id": "Q56322370",
+      "wikidata_id": "Q56322370",
+      "name_da": "Múlafossur",
+      "name_en": "Múlafossur",
+      "name_fo": "Múlafossur",
+      "name_kl": "",
+      "country_da": "Færøerne",
+      "country_qid": "Q4628",
+      "height_m": 30,
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "Sørvágs Kommune",
+      "latitude": 62.10748,
+      "longitude": -7.43578,
+      "wikipedia_da": ""
+    },
+    {
+      "id": "Q26883240",
+      "wikidata_id": "Q26883240",
+      "name_da": "Svartifossur",
+      "name_en": "Svartafoss",
+      "name_fo": "Svartifossur",
+      "name_kl": "",
+      "country_da": "Færøerne",
+      "country_qid": "Q4628",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "Tórshavn Kommune",
+      "latitude": 62.02606,
+      "longitude": -6.78075,
+      "wikipedia_da": ""
+    },
+    {
+      "id": "Q26883244",
+      "wikidata_id": "Q26883244",
+      "name_da": "Áarstíggjafossur",
+      "name_en": "Áarstíggjafossur",
+      "name_fo": "Áarstíggjafossur",
+      "name_kl": "",
+      "country_da": "Færøerne",
+      "country_qid": "Q4628",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "",
+      "latitude": 62.04826,
+      "longitude": -6.98554,
+      "wikipedia_da": ""
+    }
+  ],
+  "meta": {
+    "title": "Vandfald i Danmark, Grønland og Færøerne - Gratis download",
+    "description": "Vandfald (waterfalls) i Kongeriget Danmark — alle 10 kendte vandfald i Wikidata med P17 = Danmark, Grønland eller Færøerne. Fordeling: Danmark (3), Grønland (2), Færøerne (5). Felter: id, wikidata_id, name_da, name_en, country_da, country_qid, height_m, width_m, elevation_m, basin, part_of, mountain_range, admin, latitude, longitude, wikipedia_da. Inkluderer både ægte (overjordiske) vandfald som Maglevands Fald (Møn), Døndalen (Bornholm), Stavehøl (Bornholm), Qorlortorsuaq (Sydgrønland) samt færøske kystvandfald (P31 = Q2967706 coastal waterfall) som Múlafossur (Gásadalur, Vágar), Bøsdalafossur (Sørvágsvatn, Vágar), Fossá (Streymoy — Færøernes højeste, ~140 m i alt), Svartafoss (Eysturoy), Áarstíggjafossur. Inkluderer også det unikke undersøiske vandfald Grønlandspumpen (Denmark Strait cataract) i Grønlandsstrædet — verdens største undersøiske vandfald (~3,5 km vertikalt fald). Multi-klasse-poster accepteres: Qorlortorsuaq har P31=Q34038 (vandfald) + Q486972 (bebyggelse — den grønlandske bygd er navngivet efter vandfaldet); Døndalen har P31=Q34038 + Q473972 (beskyttet område) + Q1191622 (EU-habitat) + Q2306627 (sprækkedal). Indeholder 10 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Vandfald i Danmark, Grønland og Færøerne | ListBase",
+    "seo_description": "Download Vandfald i Danmark, Grønland og Færøerne — 10 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 10 poster / 18 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

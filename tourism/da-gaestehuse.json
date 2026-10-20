@@ -1,0 +1,2016 @@
+{
+  "id": "da-gaestehuse",
+  "name": "Gæstehuse i Danmark (Guest houses in Denmark)",
+  "title": "Gæstehuse i Danmark (Guest houses in Denmark)",
+  "description": "Guest houses in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: tourism=guest_house.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 395,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "272 Bed & Breakfast",
+      "latitude": 55.518177,
+      "longitude": 8.453562
+    },
+    {
+      "name": "A-Bed",
+      "latitude": 55.480271,
+      "longitude": 8.467799
+    },
+    {
+      "name": "Aaseminde Bed & Breakfast",
+      "latitude": 55.096708,
+      "longitude": 10.350633
+    },
+    {
+      "name": "Alberte Bed & Breakfast",
+      "latitude": 55.407996,
+      "longitude": 10.396138
+    },
+    {
+      "name": "Allingåbro Hotel",
+      "latitude": 56.464338,
+      "longitude": 10.320061
+    },
+    {
+      "name": "Aloha B&B",
+      "latitude": 55.324876,
+      "longitude": 10.188703
+    },
+    {
+      "name": "Alrum bed & Breakfast - Bondegårdsferie",
+      "latitude": 56.181893,
+      "longitude": 8.244544
+    },
+    {
+      "name": "Als Kloster",
+      "latitude": 54.900477,
+      "longitude": 9.861615
+    },
+    {
+      "name": "Alsbrogaard Bed & Breakfast",
+      "latitude": 55.425341,
+      "longitude": 8.739033
+    },
+    {
+      "name": "Amalie Bed & Breakfast",
+      "latitude": 55.406113,
+      "longitude": 10.394184
+    },
+    {
+      "name": "Ana's Bed & Kitchen",
+      "latitude": 55.719499,
+      "longitude": 12.553495
+    },
+    {
+      "name": "Andelen Guesthouse",
+      "latitude": 54.887193,
+      "longitude": 10.411919
+    },
+    {
+      "name": "Anholt Bed & Breakfast",
+      "latitude": 56.707661,
+      "longitude": 11.542995
+    },
+    {
+      "name": "Anna Hus",
+      "latitude": 54.966532,
+      "longitude": 10.775727
+    },
+    {
+      "name": "Anneberg B & B",
+      "latitude": 57.049964,
+      "longitude": 9.897156
+    },
+    {
+      "name": "Anneks Humlum",
+      "latitude": 57.118833,
+      "longitude": 9.168207
+    },
+    {
+      "name": "Aqua Overnatning Langeland",
+      "latitude": 54.930195,
+      "longitude": 10.759223
+    },
+    {
+      "name": "Askeris B&B",
+      "latitude": 55.075082,
+      "longitude": 10.304226
+    },
+    {
+      "name": "B & B Gødstrup",
+      "latitude": 56.160091,
+      "longitude": 8.887288
+    },
+    {
+      "name": "B&B",
+      "latitude": 54.91275,
+      "longitude": 9.80169
+    },
+    {
+      "name": "B&B by the Sea",
+      "latitude": 57.588152,
+      "longitude": 9.948399
+    },
+    {
+      "name": "B&B Gundershøj",
+      "latitude": 55.22977,
+      "longitude": 9.957554
+    },
+    {
+      "name": "B&B Køge Centrum",
+      "latitude": 55.451911,
+      "longitude": 12.183338
+    },
+    {
+      "name": "B&B Munkebo",
+      "latitude": 55.595808,
+      "longitude": 8.322489
+    },
+    {
+      "name": "B&B Vemmingbund",
+      "latitude": 54.887524,
+      "longitude": 9.706724
+    },
+    {
+      "name": "B&B Villa Trolle",
+      "latitude": 54.934132,
+      "longitude": 10.707767
+    },
+    {
+      "name": "Badepensionat Sandloppen",
+      "latitude": 55.287048,
+      "longitude": 14.784396
+    },
+    {
+      "name": "Baekgaarden B&B",
+      "latitude": 55.205046,
+      "longitude": 10.301381
+    },
+    {
+      "name": "Bakkehuset",
+      "latitude": 54.909631,
+      "longitude": 10.320722
+    },
+    {
+      "name": "Bakkehuset",
+      "latitude": 55.30943,
+      "longitude": 10.78399
+    },
+    {
+      "name": "Ballen B&B",
+      "latitude": 55.04031,
+      "longitude": 10.490118
+    },
+    {
+      "name": "Balliwood",
+      "latitude": 55.815778,
+      "longitude": 10.636214
+    },
+    {
+      "name": "Barsø Bed & Breakfast",
+      "latitude": 55.124531,
+      "longitude": 9.559815
+    },
+    {
+      "name": "Barsøhuset",
+      "latitude": 55.119903,
+      "longitude": 9.54927
+    },
+    {
+      "name": "Baunæsgaard Land- og Miljøferie",
+      "latitude": 55.329857,
+      "longitude": 9.898701
+    },
+    {
+      "name": "BB Albertine",
+      "latitude": 55.594673,
+      "longitude": 12.170295
+    },
+    {
+      "name": "BB Esbjerg",
+      "latitude": 55.528696,
+      "longitude": 8.421118
+    },
+    {
+      "name": "Beas Bed & Breakfast",
+      "latitude": 54.984709,
+      "longitude": 12.488187
+    },
+    {
+      "name": "Bech’s Gård",
+      "latitude": 55.594499,
+      "longitude": 8.296593
+    },
+    {
+      "name": "Bed & breakfast",
+      "latitude": 55.54149,
+      "longitude": 12.07413
+    },
+    {
+      "name": "Bed & Breakfast Fredericia",
+      "latitude": 55.573855,
+      "longitude": 9.771134
+    },
+    {
+      "name": "Bed & Breakfast Klitgaarden",
+      "latitude": 57.117087,
+      "longitude": 9.255795
+    },
+    {
+      "name": "Bed & Breakfast Kyster",
+      "latitude": 55.832062,
+      "longitude": 12.076023
+    },
+    {
+      "name": "Bed & Healing",
+      "latitude": 55.607515,
+      "longitude": 11.584473
+    },
+    {
+      "name": "Bed & Kitchen",
+      "latitude": 54.963241,
+      "longitude": 8.698698
+    },
+    {
+      "name": "Bed and Birds",
+      "latitude": 55.747938,
+      "longitude": 11.985762
+    },
+    {
+      "name": "Bed and Breakfast",
+      "latitude": 55.724974,
+      "longitude": 11.002792
+    },
+    {
+      "name": "Bed and Breakfast Aaløkke",
+      "latitude": 55.33799,
+      "longitude": 10.7142
+    },
+    {
+      "name": "Bed And Breakfast Lolland",
+      "latitude": 54.794707,
+      "longitude": 11.277337
+    },
+    {
+      "name": "Bed and Breakfast Nordensbjerg",
+      "latitude": 55.909199,
+      "longitude": 12.068778
+    },
+    {
+      "name": "Bed and Breakfast Oksbøl",
+      "latitude": 55.619543,
+      "longitude": 8.282616
+    },
+    {
+      "name": "Beer, Bed & Breakfast",
+      "latitude": 55.290128,
+      "longitude": 10.702076
+    },
+    {
+      "name": "Bennetgård",
+      "latitude": 55.419911,
+      "longitude": 9.101557
+    },
+    {
+      "name": "Bibis Cosy Little Crib",
+      "latitude": 55.658389,
+      "longitude": 12.472961
+    },
+    {
+      "name": "Bikers Barn",
+      "latitude": 57.068935,
+      "longitude": 9.698575
+    },
+    {
+      "name": "Bikers Rest",
+      "latitude": 57.333951,
+      "longitude": 9.70848
+    },
+    {
+      "name": "Billund Rooms",
+      "latitude": 55.762505,
+      "longitude": 9.177457
+    },
+    {
+      "name": "Bindingsværksannekset",
+      "latitude": 56.393042,
+      "longitude": 9.343474
+    },
+    {
+      "name": "Birkely B&B",
+      "latitude": 54.972244,
+      "longitude": 12.270557
+    },
+    {
+      "name": "Birkelygaard Bed and Breakfast og Gæstehus",
+      "latitude": 55.154287,
+      "longitude": 10.147389
+    },
+    {
+      "name": "Bjerrumgaard Bed & Breakfast",
+      "latitude": 55.328288,
+      "longitude": 8.751111
+    },
+    {
+      "name": "Bjørnegaarden",
+      "latitude": 55.521092,
+      "longitude": 10.699326
+    },
+    {
+      "name": "Bjørnøgård",
+      "latitude": 55.065256,
+      "longitude": 10.249926
+    },
+    {
+      "name": "Blomster og Cafe Stalden",
+      "latitude": 54.93012,
+      "longitude": 12.028163
+    },
+    {
+      "name": "Boerderij Houmgaard",
+      "latitude": 55.846841,
+      "longitude": 8.346486
+    },
+    {
+      "name": "Bolding Apartments",
+      "latitude": 55.714433,
+      "longitude": 9.003372
+    },
+    {
+      "name": "Bording B&B",
+      "latitude": 56.146509,
+      "longitude": 9.276853
+    },
+    {
+      "name": "Brogaard Bed & Breakfast",
+      "latitude": 55.825523,
+      "longitude": 12.162567
+    },
+    {
+      "name": "Brohumlegaard",
+      "latitude": 55.512457,
+      "longitude": 9.984288
+    },
+    {
+      "name": "By the Bridge Bed & Breakfast",
+      "latitude": 55.516873,
+      "longitude": 9.77564
+    },
+    {
+      "name": "Bybjerggaard Bed & Breakfast",
+      "latitude": 55.835991,
+      "longitude": 12.11676
+    },
+    {
+      "name": "Bøgebjergferie",
+      "latitude": 55.037072,
+      "longitude": 10.161746
+    },
+    {
+      "name": "Bøllingsø Bed and Breakfast",
+      "latitude": 56.16547,
+      "longitude": 9.367931
+    },
+    {
+      "name": "Café Gammelby",
+      "latitude": 55.208668,
+      "longitude": 8.810004
+    },
+    {
+      "name": "Café Sallys B&B",
+      "latitude": 55.327612,
+      "longitude": 8.763184
+    },
+    {
+      "name": "Casa Bétula",
+      "latitude": 55.224,
+      "longitude": 12.181632
+    },
+    {
+      "name": "Casa Corner",
+      "latitude": 57.040607,
+      "longitude": 9.911133
+    },
+    {
+      "name": "Centrum B&B",
+      "latitude": 55.12146,
+      "longitude": 12.0406
+    },
+    {
+      "name": "CoCo Bed and Breakfast",
+      "latitude": 55.501485,
+      "longitude": 8.535063
+    },
+    {
+      "name": "Cosy B&B",
+      "latitude": 54.972116,
+      "longitude": 10.588237
+    },
+    {
+      "name": "Country B&B",
+      "latitude": 55.89125,
+      "longitude": 9.885772
+    },
+    {
+      "name": "Dalbyneder Forsamlingshus",
+      "latitude": 56.63504,
+      "longitude": 10.22155
+    },
+    {
+      "name": "Dalvang",
+      "latitude": 54.790379,
+      "longitude": 11.164994
+    },
+    {
+      "name": "Danakilde",
+      "latitude": 55.924691,
+      "longitude": 9.357897
+    },
+    {
+      "name": "Debbies Bed & Breakfast",
+      "latitude": 55.675561,
+      "longitude": 11.145892
+    },
+    {
+      "name": "Den Gamle Købmandsgård",
+      "latitude": 55.177804,
+      "longitude": 11.645969
+    },
+    {
+      "name": "Den gamle Lægebolig",
+      "latitude": 55.852003,
+      "longitude": 10.574364
+    },
+    {
+      "name": "Den Gamle Præstegård",
+      "latitude": 56.114766,
+      "longitude": 8.178914
+    },
+    {
+      "name": "Den gamle Skole",
+      "latitude": 56.872648,
+      "longitude": 8.385316
+    },
+    {
+      "name": "Den Gamle Smedie",
+      "latitude": 56.649184,
+      "longitude": 9.98173
+    },
+    {
+      "name": "DENMARK FISHING OUTDOOR LODGE",
+      "latitude": 55.188377,
+      "longitude": 10.034327
+    },
+    {
+      "name": "Det Danske Forfatter- og Oversættercenter Hald",
+      "latitude": 56.392864,
+      "longitude": 9.343938
+    },
+    {
+      "name": "Det Gamle Apotek",
+      "latitude": 54.925777,
+      "longitude": 9.598022
+    },
+    {
+      "name": "Det Gamle Apotek",
+      "latitude": 55.295758,
+      "longitude": 12.00187
+    },
+    {
+      "name": "Digebjerggaard Bed & Breakfast",
+      "latitude": 55.07775,
+      "longitude": 10.466799
+    },
+    {
+      "name": "Domaine Nyballe",
+      "latitude": 54.860153,
+      "longitude": 9.725943
+    },
+    {
+      "name": "drivethru Surfcamp Hvide Sande",
+      "latitude": 56.029497,
+      "longitude": 8.12038
+    },
+    {
+      "name": "Drivvejens Bed & Breakfast",
+      "latitude": 55.391833,
+      "longitude": 8.723363
+    },
+    {
+      "name": "Egebjerggård",
+      "latitude": 55.662885,
+      "longitude": 8.592714
+    },
+    {
+      "name": "Egeborg Bed & Breakfast",
+      "latitude": 55.794227,
+      "longitude": 12.053402
+    },
+    {
+      "name": "Egn bed and breakfast",
+      "latitude": 54.96928,
+      "longitude": 12.38667
+    },
+    {
+      "name": "Ejendomsmægler København",
+      "latitude": 55.670719,
+      "longitude": 12.583669
+    },
+    {
+      "name": "Eleonoras",
+      "latitude": 55.289062,
+      "longitude": 8.683212
+    },
+    {
+      "name": "Ellevilde",
+      "latitude": 54.995327,
+      "longitude": 12.422205
+    },
+    {
+      "name": "Elmegaard Overnatning",
+      "latitude": 55.321865,
+      "longitude": 9.303955
+    },
+    {
+      "name": "Emda Holiday Apartments",
+      "latitude": 55.748136,
+      "longitude": 9.032668
+    },
+    {
+      "name": "Enggård Bed & Breakfast",
+      "latitude": 56.883288,
+      "longitude": 9.851641
+    },
+    {
+      "name": "Enghavegård",
+      "latitude": 55.38528,
+      "longitude": 10.72306
+    },
+    {
+      "name": "EngholmBB",
+      "latitude": 55.419756,
+      "longitude": 10.370763
+    },
+    {
+      "name": "Engly B&B",
+      "latitude": 55.209532,
+      "longitude": 10.086321
+    },
+    {
+      "name": "Engsvang Bed and Breakfast",
+      "latitude": 55.668329,
+      "longitude": 11.127515
+    },
+    {
+      "name": "Esbjerg Bed and Breakfast og Hotel",
+      "latitude": 55.4678,
+      "longitude": 8.444363
+    },
+    {
+      "name": "Ewaldsgaarden",
+      "latitude": 56.088378,
+      "longitude": 12.461553
+    },
+    {
+      "name": "Falksminde",
+      "latitude": 55.123708,
+      "longitude": 10.902945
+    },
+    {
+      "name": "family Sadolin",
+      "latitude": 55.828325,
+      "longitude": 12.436102
+    },
+    {
+      "name": "Fasan Sleeping",
+      "latitude": 55.476467,
+      "longitude": 8.481183
+    },
+    {
+      "name": "Favsbjerg Naturhostel",
+      "latitude": 55.053303,
+      "longitude": 9.192061
+    },
+    {
+      "name": "Fejøcenteret",
+      "latitude": 54.946136,
+      "longitude": 11.411012
+    },
+    {
+      "name": "Femhøj",
+      "latitude": 55.823092,
+      "longitude": 12.000471
+    },
+    {
+      "name": "Feriehus Oasen",
+      "latitude": 55.576214,
+      "longitude": 10.251449
+    },
+    {
+      "name": "Feriekoloni",
+      "latitude": 54.777358,
+      "longitude": 12.063614
+    },
+    {
+      "name": "Filsøgård Bed & Breakfast",
+      "latitude": 55.70044,
+      "longitude": 8.205696
+    },
+    {
+      "name": "Fitting Landsbyferie",
+      "latitude": 55.623719,
+      "longitude": 9.143066
+    },
+    {
+      "name": "Fjaltring Ferieby",
+      "latitude": 56.486776,
+      "longitude": 8.125885
+    },
+    {
+      "name": "Fjand B&B",
+      "latitude": 56.318319,
+      "longitude": 8.146618
+    },
+    {
+      "name": "Fjellerup Kro",
+      "latitude": 56.505244,
+      "longitude": 10.589433
+    },
+    {
+      "name": "Foldenhus B&B",
+      "latitude": 55.56569,
+      "longitude": 10.092132
+    },
+    {
+      "name": "Forlev Mølle Bed and Breakfast",
+      "latitude": 56.058511,
+      "longitude": 9.910134
+    },
+    {
+      "name": "Frederiksensminde Bed & Breakfast",
+      "latitude": 54.678001,
+      "longitude": 11.903975
+    },
+    {
+      "name": "Frederikshøj Bed & Breakfast",
+      "latitude": 55.263716,
+      "longitude": 10.728542
+    },
+    {
+      "name": "Frokost i det grønne",
+      "latitude": 56.319085,
+      "longitude": 9.974692
+    },
+    {
+      "name": "Fru Møllers Antikcafé",
+      "latitude": 57.595015,
+      "longitude": 10.413626
+    },
+    {
+      "name": "Frøken Stay",
+      "latitude": 55.358127,
+      "longitude": 9.210642
+    },
+    {
+      "name": "Fuglsang Ferie",
+      "latitude": 55.084691,
+      "longitude": 10.879482
+    },
+    {
+      "name": "Fuglsanggård",
+      "latitude": 55.116596,
+      "longitude": 12.132908
+    },
+    {
+      "name": "Fuglsø Kro",
+      "latitude": 56.192864,
+      "longitude": 10.537928
+    },
+    {
+      "name": "Gadegaard bed and breakfast",
+      "latitude": 56.124266,
+      "longitude": 8.189953
+    },
+    {
+      "name": "Galgebakkens Bed & Breakfast",
+      "latitude": 56.07531,
+      "longitude": 9.703853
+    },
+    {
+      "name": "Gamby Fattiggård",
+      "latitude": 55.47356,
+      "longitude": 10.085975
+    },
+    {
+      "name": "Gamle Station",
+      "latitude": 57.588488,
+      "longitude": 9.970108
+    },
+    {
+      "name": "Garbolund",
+      "latitude": 55.982441,
+      "longitude": 12.174737
+    },
+    {
+      "name": "Gl. Hastrup Bed & Breakfast",
+      "latitude": 55.42705,
+      "longitude": 12.177972
+    },
+    {
+      "name": "Glenholm vingård",
+      "latitude": 56.916117,
+      "longitude": 9.189244
+    },
+    {
+      "name": "Godstedlund B&B",
+      "latitude": 54.721548,
+      "longitude": 11.611702
+    },
+    {
+      "name": "Grisehuset",
+      "latitude": 54.902343,
+      "longitude": 10.614516
+    },
+    {
+      "name": "Grundahlgård",
+      "latitude": 55.495061,
+      "longitude": 8.534439
+    },
+    {
+      "name": "Grønnegården B&B",
+      "latitude": 55.883557,
+      "longitude": 11.143851
+    },
+    {
+      "name": "Guesthouse Hvide Sande",
+      "latitude": 56.01875,
+      "longitude": 8.12087
+    },
+    {
+      "name": "Guesthouse Klitmøller",
+      "latitude": 57.040287,
+      "longitude": 8.491792
+    },
+    {
+      "name": "Guesthouse Læsø",
+      "latitude": 57.29237,
+      "longitude": 10.924574
+    },
+    {
+      "name": "Guesthouse Tradsborgvej",
+      "latitude": 55.475156,
+      "longitude": 8.587671
+    },
+    {
+      "name": "Gåsvig Kro - Bed & Breakfast",
+      "latitude": 54.868737,
+      "longitude": 9.951844
+    },
+    {
+      "name": "Gæsteetage",
+      "latitude": 56.166613,
+      "longitude": 10.19964
+    },
+    {
+      "name": "Gæsteriet",
+      "latitude": 55.060224,
+      "longitude": 12.120983
+    },
+    {
+      "name": "Gæstgivergården Phønix",
+      "latitude": 56.355413,
+      "longitude": 8.618329
+    },
+    {
+      "name": "Gæstgiveri Bregninge",
+      "latitude": 54.894784,
+      "longitude": 10.309898
+    },
+    {
+      "name": "Gørding Bed & Breakfast",
+      "latitude": 55.468519,
+      "longitude": 8.797162
+    },
+    {
+      "name": "Gørdinglund Herregård Bed and Breakfast",
+      "latitude": 55.482268,
+      "longitude": 8.789905
+    },
+    {
+      "name": "Hammerknuden Sommerpension",
+      "latitude": 55.286171,
+      "longitude": 14.772689
+    },
+    {
+      "name": "Harbogaarde Bed & Breakfast",
+      "latitude": 56.11117,
+      "longitude": 8.19361
+    },
+    {
+      "name": "Hartel House",
+      "latitude": 55.070953,
+      "longitude": 10.496249
+    },
+    {
+      "name": "Hasselø Bed & Breakfast",
+      "latitude": 54.741556,
+      "longitude": 11.878555
+    },
+    {
+      "name": "Havrevejens Bed & Breakfast",
+      "latitude": 55.326593,
+      "longitude": 10.795775
+    },
+    {
+      "name": "Hedekaffes værelser",
+      "latitude": 56.301336,
+      "longitude": 8.340077
+    },
+    {
+      "name": "Helen Therkildsen",
+      "latitude": 55.31733,
+      "longitude": 10.80225
+    },
+    {
+      "name": "Hellerup Bed & Breakfast",
+      "latitude": 56.492697,
+      "longitude": 9.34182
+    },
+    {
+      "name": "Helnæs Mølle",
+      "latitude": 55.153204,
+      "longitude": 10.01475
+    },
+    {
+      "name": "Henne Strand Ferie",
+      "latitude": 55.7481,
+      "longitude": 8.300441
+    },
+    {
+      "name": "Hesselhogaard bed&breakfast",
+      "latitude": 55.640823,
+      "longitude": 8.852016
+    },
+    {
+      "name": "Holiday Rooms Rudkøbing",
+      "latitude": 54.937275,
+      "longitude": 10.716057
+    },
+    {
+      "name": "Horseskovens B&B",
+      "latitude": 55.035723,
+      "longitude": 10.601317
+    },
+    {
+      "name": "Hos Else og Keld",
+      "latitude": 55.127037,
+      "longitude": 8.547574
+    },
+    {
+      "name": "Hos Mette",
+      "latitude": 55.630254,
+      "longitude": 9.621712
+    },
+    {
+      "name": "Hos Sanne",
+      "latitude": 55.633955,
+      "longitude": 12.013886
+    },
+    {
+      "name": "Hotel Egeskoven",
+      "latitude": 56.399408,
+      "longitude": 9.348276
+    },
+    {
+      "name": "Hotel Kongegaarden",
+      "latitude": 55.366275,
+      "longitude": 11.166206
+    },
+    {
+      "name": "Hotel Villa Strand",
+      "latitude": 56.091989,
+      "longitude": 12.44996
+    },
+    {
+      "name": "Hvidegaard Møn",
+      "latitude": 54.976386,
+      "longitude": 12.310217
+    },
+    {
+      "name": "Håberdetgård Bondegårdsferie",
+      "latitude": 55.625926,
+      "longitude": 12.254418
+    },
+    {
+      "name": "Hødalen Bed & Breakfast",
+      "latitude": 56.94568,
+      "longitude": 9.733281
+    },
+    {
+      "name": "Højelse Vinkælder",
+      "latitude": 55.492329,
+      "longitude": 12.121195
+    },
+    {
+      "name": "Højkilde",
+      "latitude": 55.973707,
+      "longitude": 8.898419
+    },
+    {
+      "name": "Højriis",
+      "latitude": 54.980961,
+      "longitude": 11.532206
+    },
+    {
+      "name": "Høloftet B&B",
+      "latitude": 55.540267,
+      "longitude": 8.365804
+    },
+    {
+      "name": "Hørhavegården Bed & Breakfast",
+      "latitude": 56.11207,
+      "longitude": 10.22692
+    },
+    {
+      "name": "Hørhaven Bed & Breakfast",
+      "latitude": 55.35109,
+      "longitude": 11.587657
+    },
+    {
+      "name": "Jerup B&B",
+      "latitude": 57.535038,
+      "longitude": 10.419288
+    },
+    {
+      "name": "Johan Ludvigs B&B",
+      "latitude": 55.151704,
+      "longitude": 10.34885
+    },
+    {
+      "name": "Jonna Skovsen",
+      "latitude": 56.615895,
+      "longitude": 10.245121
+    },
+    {
+      "name": "Jungshoved Kro og Bed & Breakfast",
+      "latitude": 55.090775,
+      "longitude": 12.109248
+    },
+    {
+      "name": "Jungshoved Præstegård",
+      "latitude": 55.084564,
+      "longitude": 12.138275
+    },
+    {
+      "name": "Just Sleep",
+      "latitude": 55.463669,
+      "longitude": 8.478573
+    },
+    {
+      "name": "Kanogården",
+      "latitude": 56.585865,
+      "longitude": 9.659068
+    },
+    {
+      "name": "Kapelannekset",
+      "latitude": 56.392903,
+      "longitude": 9.343357
+    },
+    {
+      "name": "Katrinelund",
+      "latitude": 56.00999,
+      "longitude": 12.464185
+    },
+    {
+      "name": "Kjærsgaard",
+      "latitude": 55.318482,
+      "longitude": 10.232478
+    },
+    {
+      "name": "Klintgård Bed & Breakfast",
+      "latitude": 55.282294,
+      "longitude": 12.447602
+    },
+    {
+      "name": "Klintholm Bed og Breakfast",
+      "latitude": 54.984445,
+      "longitude": 12.48199
+    },
+    {
+      "name": "Klippely",
+      "latitude": 55.211189,
+      "longitude": 14.971858
+    },
+    {
+      "name": "Klithedegårdens Bed & Breakfast",
+      "latitude": 56.280374,
+      "longitude": 8.165391
+    },
+    {
+      "name": "Klægager – Den Gamle Digegreves Gård",
+      "latitude": 55.089345,
+      "longitude": 8.675666
+    },
+    {
+      "name": "Knudhule",
+      "latitude": 56.102507,
+      "longitude": 9.78533
+    },
+    {
+      "name": "Koppes Mølle B&B",
+      "latitude": 56.918709,
+      "longitude": 9.517804
+    },
+    {
+      "name": "Korinth Bed & Breakfast",
+      "latitude": 55.144216,
+      "longitude": 10.335442
+    },
+    {
+      "name": "Koruplund Vingård",
+      "latitude": 56.375838,
+      "longitude": 10.534624
+    },
+    {
+      "name": "Kragelund Bed & Breakfast",
+      "latitude": 57.154374,
+      "longitude": 9.624068
+    },
+    {
+      "name": "Krejbjerggaard",
+      "latitude": 54.859088,
+      "longitude": 10.680392
+    },
+    {
+      "name": "Kridthuset",
+      "latitude": 55.257536,
+      "longitude": 12.381121
+    },
+    {
+      "name": "Kristiansminde",
+      "latitude": 55.691137,
+      "longitude": 8.686378
+    },
+    {
+      "name": "Kroen Endelave",
+      "latitude": 55.758814,
+      "longitude": 10.277119
+    },
+    {
+      "name": "Krudthuset Byferie",
+      "latitude": 55.394964,
+      "longitude": 10.37254
+    },
+    {
+      "name": "Kulinariske Kildegaarden",
+      "latitude": 55.237792,
+      "longitude": 10.723537
+    },
+    {
+      "name": "Langebjerggård",
+      "latitude": 55.730406,
+      "longitude": 11.216171
+    },
+    {
+      "name": "Ledgård Landboturisme",
+      "latitude": 56.273424,
+      "longitude": 8.206965
+    },
+    {
+      "name": "Lergravgaard",
+      "latitude": 56.295405,
+      "longitude": 10.3987
+    },
+    {
+      "name": "Letbæk Mølle",
+      "latitude": 55.705066,
+      "longitude": 8.645153
+    },
+    {
+      "name": "Lihmskov B&B",
+      "latitude": 55.662039,
+      "longitude": 9.305826
+    },
+    {
+      "name": "Lille Grynborg",
+      "latitude": 55.379137,
+      "longitude": 10.226755
+    },
+    {
+      "name": "Lille Raneladegård",
+      "latitude": 56.146467,
+      "longitude": 10.711403
+    },
+    {
+      "name": "Lillevang Apartments",
+      "latitude": 55.712442,
+      "longitude": 9.118199
+    },
+    {
+      "name": "Lis Sørensen B&B",
+      "latitude": 55.057562,
+      "longitude": 9.750183
+    },
+    {
+      "name": "Liseleje Badehotel",
+      "latitude": 56.01283,
+      "longitude": 11.964511
+    },
+    {
+      "name": "Liselund",
+      "latitude": 55.385872,
+      "longitude": 10.761527
+    },
+    {
+      "name": "Livø Kro - Feriecenter",
+      "latitude": 56.892094,
+      "longitude": 9.090659
+    },
+    {
+      "name": "Lone og Peters Bed & Breakfast",
+      "latitude": 54.897523,
+      "longitude": 9.566182
+    },
+    {
+      "name": "Louises Loppecafe og Pensionat",
+      "latitude": 55.758382,
+      "longitude": 10.278576
+    },
+    {
+      "name": "Lundeborg BnB",
+      "latitude": 55.142732,
+      "longitude": 10.779868
+    },
+    {
+      "name": "Lundebrogaard",
+      "latitude": 54.840777,
+      "longitude": 10.385916
+    },
+    {
+      "name": "Lundsgaard",
+      "latitude": 55.106686,
+      "longitude": 10.171651
+    },
+    {
+      "name": "Lundshøjgaard Bed & Breakfast",
+      "latitude": 56.65919,
+      "longitude": 9.923742
+    },
+    {
+      "name": "Lustrup Farmhouse",
+      "latitude": 55.306676,
+      "longitude": 8.776341
+    },
+    {
+      "name": "Lykkebjerg bondegårdsferie",
+      "latitude": 55.582186,
+      "longitude": 11.384009
+    },
+    {
+      "name": "Lyng Guest House",
+      "latitude": 56.179005,
+      "longitude": 10.049781
+    },
+    {
+      "name": "Løgten BB",
+      "latitude": 56.274906,
+      "longitude": 10.313836
+    },
+    {
+      "name": "Løkken Bondegårdsferie",
+      "latitude": 57.372622,
+      "longitude": 9.758965
+    },
+    {
+      "name": "Løkken House",
+      "latitude": 57.386984,
+      "longitude": 9.762408
+    },
+    {
+      "name": "Løkkensvej Bondegårdsferie",
+      "latitude": 57.388891,
+      "longitude": 9.774085
+    },
+    {
+      "name": "Mandø Bed & Breakfast",
+      "latitude": 55.274273,
+      "longitude": 8.536767
+    },
+    {
+      "name": "Marskens Bondegårdsferie Hohenwarte",
+      "latitude": 54.955157,
+      "longitude": 8.68261
+    },
+    {
+      "name": "Marskture Hostel",
+      "latitude": 54.963904,
+      "longitude": 8.698363
+    },
+    {
+      "name": "Martofte BnB",
+      "latitude": 55.545344,
+      "longitude": 10.657151
+    },
+    {
+      "name": "MC Overnatning",
+      "latitude": 55.64757,
+      "longitude": 8.449744
+    },
+    {
+      "name": "Mejerigaarden Bed & Breakfast",
+      "latitude": 54.638842,
+      "longitude": 11.893927
+    },
+    {
+      "name": "Mekanisk Museum",
+      "latitude": 54.902358,
+      "longitude": 9.475986
+    },
+    {
+      "name": "Metre",
+      "latitude": 55.088212,
+      "longitude": 10.259407
+    },
+    {
+      "name": "Midtgolf Guesthouse",
+      "latitude": 55.650392,
+      "longitude": 11.667558
+    },
+    {
+      "name": "Moselundgaard",
+      "latitude": 55.12095,
+      "longitude": 10.23779
+    },
+    {
+      "name": "Moselundgaard B/B Og Hestehotel",
+      "latitude": 56.164193,
+      "longitude": 9.368395
+    },
+    {
+      "name": "Munkebjerg Bed & Breakfast",
+      "latitude": 55.678323,
+      "longitude": 9.642786
+    },
+    {
+      "name": "Munkenes B&B",
+      "latitude": 55.853662,
+      "longitude": 12.006866
+    },
+    {
+      "name": "Munkgaard",
+      "latitude": 55.246711,
+      "longitude": 12.289464
+    },
+    {
+      "name": "Myregaard Bed &Breakfast",
+      "latitude": 55.018313,
+      "longitude": 15.04296
+    },
+    {
+      "name": "Myrehøj",
+      "latitude": 55.712767,
+      "longitude": 11.301819
+    },
+    {
+      "name": "Mølholm Hundepension",
+      "latitude": 56.842574,
+      "longitude": 9.414104
+    },
+    {
+      "name": "Møllesti bed & breakfast",
+      "latitude": 55.443739,
+      "longitude": 8.400875
+    },
+    {
+      "name": "Naboløs Bed and Breakfast",
+      "latitude": 55.4005,
+      "longitude": 10.73047
+    },
+    {
+      "name": "Naturly",
+      "latitude": 55.903993,
+      "longitude": 12.405348
+    },
+    {
+      "name": "Naturperlen",
+      "latitude": 55.123863,
+      "longitude": 9.460633
+    },
+    {
+      "name": "Nordgården",
+      "latitude": 55.784599,
+      "longitude": 12.01995
+    },
+    {
+      "name": "Nordgården Pension",
+      "latitude": 55.852564,
+      "longitude": 10.57029
+    },
+    {
+      "name": "Nordliv",
+      "latitude": 55.179802,
+      "longitude": 14.704669
+    },
+    {
+      "name": "Nordvig",
+      "latitude": 55.287448,
+      "longitude": 14.777758
+    },
+    {
+      "name": "Ny Gammelsø Bed and Breakfast",
+      "latitude": 54.941717,
+      "longitude": 12.220459
+    },
+    {
+      "name": "Nygård Multiferie",
+      "latitude": 55.798437,
+      "longitude": 12.187291
+    },
+    {
+      "name": "Nymarksminde",
+      "latitude": 57.110837,
+      "longitude": 10.061955
+    },
+    {
+      "name": "Nymarksminde Bed & Breakfast",
+      "latitude": 57.110612,
+      "longitude": 10.061831
+    },
+    {
+      "name": "Nyords Bed And Breakfast",
+      "latitude": 55.041337,
+      "longitude": 12.197911
+    },
+    {
+      "name": "Nyvangsgården",
+      "latitude": 55.811527,
+      "longitude": 11.923382
+    },
+    {
+      "name": "Nørre Nebel Overnatning",
+      "latitude": 55.77821,
+      "longitude": 8.296103
+    },
+    {
+      "name": "Nørå Gamle Skole Bed & Breakfast",
+      "latitude": 55.493919,
+      "longitude": 8.70903
+    },
+    {
+      "name": "Oase Lyø",
+      "latitude": 55.047857,
+      "longitude": 10.140854
+    },
+    {
+      "name": "Oasen",
+      "latitude": 56.452584,
+      "longitude": 9.403856
+    },
+    {
+      "name": "Obitsøminde",
+      "latitude": 56.342534,
+      "longitude": 8.889788
+    },
+    {
+      "name": "Odense City B&B",
+      "latitude": 55.397367,
+      "longitude": 10.378737
+    },
+    {
+      "name": "Olsson B&B",
+      "latitude": 56.426427,
+      "longitude": 10.096081
+    },
+    {
+      "name": "Onholm",
+      "latitude": 54.997259,
+      "longitude": 12.311815
+    },
+    {
+      "name": "Pasescia",
+      "latitude": 56.361832,
+      "longitude": 10.588438
+    },
+    {
+      "name": "Pausestedet",
+      "latitude": 55.164664,
+      "longitude": 14.899934
+    },
+    {
+      "name": "Pederstrup Bed and Breakfast",
+      "latitude": 54.897444,
+      "longitude": 11.261139
+    },
+    {
+      "name": "Pension Ellegaard",
+      "latitude": 55.238713,
+      "longitude": 9.96295
+    },
+    {
+      "name": "Pension Elmehøj",
+      "latitude": 54.995099,
+      "longitude": 12.399131
+    },
+    {
+      "name": "Pension Holmegaard",
+      "latitude": 55.288054,
+      "longitude": 14.778987
+    },
+    {
+      "name": "Pension Kildegaard",
+      "latitude": 56.060639,
+      "longitude": 12.074565
+    },
+    {
+      "name": "Pension Langebjerg",
+      "latitude": 55.286926,
+      "longitude": 14.777842
+    },
+    {
+      "name": "Pension Lærkelil",
+      "latitude": 55.74654,
+      "longitude": 8.698866
+    },
+    {
+      "name": "Pension Sandbogaard",
+      "latitude": 55.287652,
+      "longitude": 14.779538
+    },
+    {
+      "name": "Pension Skovly",
+      "latitude": 55.133498,
+      "longitude": 10.904568
+    },
+    {
+      "name": "Pension Solgarden",
+      "latitude": 55.109244,
+      "longitude": 15.142342
+    },
+    {
+      "name": "Pension Stenvang",
+      "latitude": 55.850715,
+      "longitude": 10.547712
+    },
+    {
+      "name": "Pensionat Gjøl",
+      "latitude": 57.068137,
+      "longitude": 9.718857
+    },
+    {
+      "name": "Pensionat Næsgaarden",
+      "latitude": 55.273799,
+      "longitude": 14.805238
+    },
+    {
+      "name": "Pensionat Rolykke",
+      "latitude": 57.335436,
+      "longitude": 10.510496
+    },
+    {
+      "name": "Petersholm",
+      "latitude": 55.960848,
+      "longitude": 10.074425
+    },
+    {
+      "name": "Picobello B&B",
+      "latitude": 55.397455,
+      "longitude": 12.236118
+    },
+    {
+      "name": "Pilgrimshuset - Birgitta Huset",
+      "latitude": 56.647913,
+      "longitude": 9.977961
+    },
+    {
+      "name": "Pilgrimshuset Albergue Ballerup",
+      "latitude": 55.732921,
+      "longitude": 12.357938
+    },
+    {
+      "name": "Postgaarden Bramming",
+      "latitude": 55.464591,
+      "longitude": 8.705278
+    },
+    {
+      "name": "Postgaarden Ribe",
+      "latitude": 55.329561,
+      "longitude": 8.766005
+    },
+    {
+      "name": "Potters Hus",
+      "latitude": 56.702826,
+      "longitude": 11.543588
+    },
+    {
+      "name": "Povlskro B&B",
+      "latitude": 54.954157,
+      "longitude": 9.353934
+    },
+    {
+      "name": "på Herrens Mark",
+      "latitude": 56.831793,
+      "longitude": 9.01676
+    },
+    {
+      "name": "Qvistgaarden",
+      "latitude": 55.20817,
+      "longitude": 11.547242
+    },
+    {
+      "name": "Raakilde Bed & Breakfast, Fur",
+      "latitude": 56.833693,
+      "longitude": 8.977624
+    },
+    {
+      "name": "Randers Fjord Feriecenter",
+      "latitude": 56.464136,
+      "longitude": 10.190312
+    },
+    {
+      "name": "Ravning Bed & Breakfast",
+      "latitude": 55.689929,
+      "longitude": 9.346944
+    },
+    {
+      "name": "Ravnshus",
+      "latitude": 56.546241,
+      "longitude": 8.172933
+    },
+    {
+      "name": "Residens Svalhøj",
+      "latitude": 55.177338,
+      "longitude": 14.732554
+    },
+    {
+      "name": "Restaurant Sælhunden B&B",
+      "latitude": 55.329566,
+      "longitude": 8.762128
+    },
+    {
+      "name": "Retroworld",
+      "latitude": 56.35078,
+      "longitude": 9.991342
+    },
+    {
+      "name": "Risinge Herregaard",
+      "latitude": 55.410532,
+      "longitude": 10.712866
+    },
+    {
+      "name": "Risskov Bellevue Guesthouse",
+      "latitude": 56.193591,
+      "longitude": 10.244822
+    },
+    {
+      "name": "Ristorante Toscana",
+      "latitude": 54.877448,
+      "longitude": 9.303536
+    },
+    {
+      "name": "Rose",
+      "latitude": 55.794577,
+      "longitude": 10.554041
+    },
+    {
+      "name": "Rosengård Friland - B&B",
+      "latitude": 55.424429,
+      "longitude": 8.685423
+    },
+    {
+      "name": "Rosengård Friland - Feriehus",
+      "latitude": 55.424445,
+      "longitude": 8.684584
+    },
+    {
+      "name": "Rosenhøj bed and breakfast",
+      "latitude": 55.063401,
+      "longitude": 10.623885
+    },
+    {
+      "name": "Rosenvænge Ferielejligheder",
+      "latitude": 55.113011,
+      "longitude": 15.035326
+    },
+    {
+      "name": "Roskilde B&B",
+      "latitude": 55.56917,
+      "longitude": 12.15123
+    },
+    {
+      "name": "Rotoftegaard",
+      "latitude": 55.951736,
+      "longitude": 11.586091
+    },
+    {
+      "name": "Rudkøbing Gæstehouse",
+      "latitude": 54.935157,
+      "longitude": 10.731177
+    },
+    {
+      "name": "Rundvejen Guest House",
+      "latitude": 57.030259,
+      "longitude": 9.930216
+    },
+    {
+      "name": "Rønholtdyregård",
+      "latitude": 55.415226,
+      "longitude": 10.15894
+    },
+    {
+      "name": "Safine Bed and Breakfast",
+      "latitude": 55.148197,
+      "longitude": 10.329635
+    },
+    {
+      "name": "Samsted Spisested & gårdbutik",
+      "latitude": 55.523642,
+      "longitude": 9.826902
+    },
+    {
+      "name": "Sandbogaard",
+      "latitude": 55.28767,
+      "longitude": 14.779487
+    },
+    {
+      "name": "Skansen Bed & Breakfast",
+      "latitude": 55.969532,
+      "longitude": 11.849678
+    },
+    {
+      "name": "Skelhøje B&B",
+      "latitude": 56.363409,
+      "longitude": 9.301457
+    },
+    {
+      "name": "Skjern BnB",
+      "latitude": 55.943285,
+      "longitude": 8.577205
+    },
+    {
+      "name": "Skulpturhaven Svankjær",
+      "latitude": 56.846923,
+      "longitude": 8.361538
+    },
+    {
+      "name": "Skyttegården Countryhouse",
+      "latitude": 55.129425,
+      "longitude": 10.365204
+    },
+    {
+      "name": "Slettegaard",
+      "latitude": 57.137433,
+      "longitude": 9.347544
+    },
+    {
+      "name": "Slægtsgaarden",
+      "latitude": 55.275805,
+      "longitude": 14.804177
+    },
+    {
+      "name": "Sneum Vingård - Bed & Breakfast",
+      "latitude": 55.466285,
+      "longitude": 8.624787
+    },
+    {
+      "name": "Sohns B&B",
+      "latitude": 56.820671,
+      "longitude": 9.000374
+    },
+    {
+      "name": "Solbjerggård",
+      "latitude": 55.134449,
+      "longitude": 10.201277
+    },
+    {
+      "name": "Solvang Apartments",
+      "latitude": 55.6992,
+      "longitude": 8.74716
+    },
+    {
+      "name": "Sondrup B&B",
+      "latitude": 55.895171,
+      "longitude": 10.050938
+    },
+    {
+      "name": "Sovgodt 8",
+      "latitude": 54.914773,
+      "longitude": 8.901776
+    },
+    {
+      "name": "Spurvevej B & B",
+      "latitude": 56.675421,
+      "longitude": 10.053482
+    },
+    {
+      "name": "Staytel",
+      "latitude": 55.466743,
+      "longitude": 8.460836
+    },
+    {
+      "name": "Stenlandsdal",
+      "latitude": 55.516292,
+      "longitude": 12.152873
+    },
+    {
+      "name": "Stevns Klint",
+      "latitude": 55.280823,
+      "longitude": 12.437351
+    },
+    {
+      "name": "Store Ejlstrup Bed & Breakfast",
+      "latitude": 55.407117,
+      "longitude": 10.268355
+    },
+    {
+      "name": "Store Stensig",
+      "latitude": 57.392097,
+      "longitude": 10.467401
+    },
+    {
+      "name": "Strandhave B&B",
+      "latitude": 55.06809,
+      "longitude": 10.500635
+    },
+    {
+      "name": "Strandhuse B&B",
+      "latitude": 55.048832,
+      "longitude": 10.596347
+    },
+    {
+      "name": "Strandidyl",
+      "latitude": 55.191974,
+      "longitude": 9.576398
+    },
+    {
+      "name": "Strågården Nyord",
+      "latitude": 55.042029,
+      "longitude": 12.19579
+    },
+    {
+      "name": "Stævnegaarden",
+      "latitude": 55.383179,
+      "longitude": 10.668274
+    },
+    {
+      "name": "Sunset Bed & no Breakfast",
+      "latitude": 54.622485,
+      "longitude": 11.901392
+    },
+    {
+      "name": "Svanfolk Bed & Breakfast",
+      "latitude": 56.849306,
+      "longitude": 10.09033
+    },
+    {
+      "name": "Svendborg Rooms & Apartment",
+      "latitude": 55.048489,
+      "longitude": 10.678449
+    },
+    {
+      "name": "Søby Mejeri",
+      "latitude": 54.938938,
+      "longitude": 10.252274
+    },
+    {
+      "name": "Søhavegård Bed and Breakfast",
+      "latitude": 57.501435,
+      "longitude": 10.273311
+    },
+    {
+      "name": "Sønderly",
+      "latitude": 54.897717,
+      "longitude": 10.615326
+    },
+    {
+      "name": "Tanternes Hus",
+      "latitude": 56.702967,
+      "longitude": 11.543798
+    },
+    {
+      "name": "Teglgaarden B&B",
+      "latitude": 55.026619,
+      "longitude": 10.62662
+    },
+    {
+      "name": "The White House",
+      "latitude": 55.946775,
+      "longitude": 11.863238
+    },
+    {
+      "name": "Thisted Bed and Breakfast",
+      "latitude": 56.96232,
+      "longitude": 8.703861
+    },
+    {
+      "name": "Thorup Gjæstgiveri",
+      "latitude": 56.198318,
+      "longitude": 10.464804
+    },
+    {
+      "name": "Thorupgaard Bondegaardsferie",
+      "latitude": 57.317457,
+      "longitude": 9.857031
+    },
+    {
+      "name": "Tidevands Bed & Breakfast",
+      "latitude": 55.294164,
+      "longitude": 8.682042
+    },
+    {
+      "name": "Tiendegaarden",
+      "latitude": 54.98306,
+      "longitude": 12.44519
+    },
+    {
+      "name": "Tinghus 1846",
+      "latitude": 55.510073,
+      "longitude": 8.919749
+    },
+    {
+      "name": "Torvehallen Voervadsbro Bed & Breakfast",
+      "latitude": 56.020618,
+      "longitude": 9.641839
+    },
+    {
+      "name": "Trelde Bed and Breakfast",
+      "latitude": 55.620072,
+      "longitude": 9.777271
+    },
+    {
+      "name": "Troense Bed and Breakfast",
+      "latitude": 55.031923,
+      "longitude": 10.655655
+    },
+    {
+      "name": "Tunø Bed & Breakfast",
+      "latitude": 55.948447,
+      "longitude": 10.443521
+    },
+    {
+      "name": "Tvillingegård",
+      "latitude": 55.601969,
+      "longitude": 12.64702
+    },
+    {
+      "name": "Tåsinge B&B",
+      "latitude": 55.007223,
+      "longitude": 10.581883
+    },
+    {
+      "name": "Udbyhøj B&B",
+      "latitude": 56.61175,
+      "longitude": 10.303672
+    },
+    {
+      "name": "Udkigshus",
+      "latitude": 54.946598,
+      "longitude": 12.540501
+    },
+    {
+      "name": "Vadstrupgård 1771",
+      "latitude": 55.848454,
+      "longitude": 10.587597
+    },
+    {
+      "name": "Vandel Bed & Breakfast",
+      "latitude": 55.710554,
+      "longitude": 9.199766
+    },
+    {
+      "name": "Vejle Golf Bed & Breakfast",
+      "latitude": 55.667898,
+      "longitude": 9.61003
+    },
+    {
+      "name": "Vester Kraghede Bed & Breakfast",
+      "latitude": 57.19986,
+      "longitude": 10.037268
+    },
+    {
+      "name": "Victoria",
+      "latitude": 55.212684,
+      "longitude": 14.970115
+    },
+    {
+      "name": "Villa Gertrud",
+      "latitude": 55.488551,
+      "longitude": 9.482381
+    },
+    {
+      "name": "Villa Kastell B&B",
+      "latitude": 55.235764,
+      "longitude": 10.775691
+    },
+    {
+      "name": "Villa Quisisana",
+      "latitude": 55.4327,
+      "longitude": 8.365491
+    },
+    {
+      "name": "Villa Vendel",
+      "latitude": 57.371083,
+      "longitude": 9.717206
+    },
+    {
+      "name": "Vindinge Bed and Breakfast",
+      "latitude": 55.3097,
+      "longitude": 10.73391
+    },
+    {
+      "name": "Vinkelbæk 11",
+      "latitude": 55.072181,
+      "longitude": 9.78737
+    },
+    {
+      "name": "Vinkelbæk 33",
+      "latitude": 55.071791,
+      "longitude": 9.789318
+    },
+    {
+      "name": "Vinkelbæk 36",
+      "latitude": 55.071213,
+      "longitude": 9.789272
+    },
+    {
+      "name": "Vogelkop",
+      "latitude": 55.666379,
+      "longitude": 12.547368
+    },
+    {
+      "name": "Yellowhouse B&B",
+      "latitude": 55.007643,
+      "longitude": 10.56071
+    },
+    {
+      "name": "Zpey Lodge",
+      "latitude": 55.940356,
+      "longitude": 8.563537
+    },
+    {
+      "name": "Ålbæk Bed & Breakfast",
+      "latitude": 57.60625,
+      "longitude": 10.359968
+    },
+    {
+      "name": "Æblegården B&B",
+      "latitude": 55.275529,
+      "longitude": 10.699613
+    },
+    {
+      "name": "Øbjerggaard B&B",
+      "latitude": 55.226415,
+      "longitude": 9.945181
+    },
+    {
+      "name": "Øret",
+      "latitude": 55.053456,
+      "longitude": 10.630524
+    },
+    {
+      "name": "Ørum B&B",
+      "latitude": 56.482055,
+      "longitude": 9.639464
+    },
+    {
+      "name": "Østergård Kultur B&B",
+      "latitude": 57.261384,
+      "longitude": 11.02393
+    },
+    {
+      "name": "​Den Gamle Apotekergaard Bed and Breakfast​",
+      "latitude": 55.548081,
+      "longitude": 11.308597
+    }
+  ],
+  "meta": {
+    "title": "Gæstehuse i Danmark (Guest houses in Denmark) - Gratis download",
+    "description": "Guest houses in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: tourism=guest_house. Indeholder 395 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Gæstehuse i Danmark (Guest houses in Denmark) | ListBase",
+    "seo_description": "Download Gæstehuse i Danmark (Guest houses in Denmark) — 395 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 395 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

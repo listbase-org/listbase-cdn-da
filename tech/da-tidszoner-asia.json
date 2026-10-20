@@ -1,0 +1,264 @@
+{
+  "id": "da-tidszoner-asia",
+  "name": "Tidszoner: Asia (26)",
+  "title": "Tidszoner: Asia (26)",
+  "description": "CLDR da-lokalets tidszoner i regionen 'Asia'.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "by_navn",
+      "label": "By Navn",
+      "type": "string"
+    },
+    {
+      "key": "standardtid",
+      "label": "Standardtid",
+      "type": "string"
+    },
+    {
+      "key": "sommertid",
+      "label": "Sommertid",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tz_id": "Asia/Aqtau",
+      "region": "Asia",
+      "by_navn": "Aktau",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 1
+    },
+    {
+      "tz_id": "Asia/Aqtobe",
+      "region": "Asia",
+      "by_navn": "Aktobe",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 2
+    },
+    {
+      "tz_id": "Asia/Ashgabat",
+      "region": "Asia",
+      "by_navn": "Asjkhabad",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 3
+    },
+    {
+      "tz_id": "Asia/Baghdad",
+      "region": "Asia",
+      "by_navn": "Bagdad",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 4
+    },
+    {
+      "tz_id": "Asia/Bishkek",
+      "region": "Asia",
+      "by_navn": "Bisjkek",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 5
+    },
+    {
+      "tz_id": "Asia/Calcutta",
+      "region": "Asia",
+      "by_navn": "Kolkata",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 6
+    },
+    {
+      "tz_id": "Asia/Damascus",
+      "region": "Asia",
+      "by_navn": "Damaskus",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 7
+    },
+    {
+      "tz_id": "Asia/Dushanbe",
+      "region": "Asia",
+      "by_navn": "Dusjanbe",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 8
+    },
+    {
+      "tz_id": "Asia/Hong_Kong",
+      "region": "Asia",
+      "by_navn": "Hongkong",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 9
+    },
+    {
+      "tz_id": "Asia/Hovd",
+      "region": "Asia",
+      "by_navn": "Khovd",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 10
+    },
+    {
+      "tz_id": "Asia/Kamchatka",
+      "region": "Asia",
+      "by_navn": "Kamtjatka",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 11
+    },
+    {
+      "tz_id": "Asia/Katmandu",
+      "region": "Asia",
+      "by_navn": "Katmandu",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 12
+    },
+    {
+      "tz_id": "Asia/Krasnoyarsk",
+      "region": "Asia",
+      "by_navn": "Krasnojarsk",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 13
+    },
+    {
+      "tz_id": "Asia/Macau",
+      "region": "Asia",
+      "by_navn": "Macao",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 14
+    },
+    {
+      "tz_id": "Asia/Novokuznetsk",
+      "region": "Asia",
+      "by_navn": "Novokusnetsk",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 15
+    },
+    {
+      "tz_id": "Asia/Qostanay",
+      "region": "Asia",
+      "by_navn": "Kostanay",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 16
+    },
+    {
+      "tz_id": "Asia/Qyzylorda",
+      "region": "Asia",
+      "by_navn": "Kyzylorda",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 17
+    },
+    {
+      "tz_id": "Asia/Rangoon",
+      "region": "Asia",
+      "by_navn": "Rangoon",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 18
+    },
+    {
+      "tz_id": "Asia/Saigon",
+      "region": "Asia",
+      "by_navn": "Ho Chi Minh City",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 19
+    },
+    {
+      "tz_id": "Asia/Tashkent",
+      "region": "Asia",
+      "by_navn": "Tasjkent",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 20
+    },
+    {
+      "tz_id": "Asia/Tehran",
+      "region": "Asia",
+      "by_navn": "Teheran",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 21
+    },
+    {
+      "tz_id": "Asia/Ulaanbaatar",
+      "region": "Asia",
+      "by_navn": "Ulan Bator",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 22
+    },
+    {
+      "tz_id": "Asia/Urumqi",
+      "region": "Asia",
+      "by_navn": "Ürümqi",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 23
+    },
+    {
+      "tz_id": "Asia/Yakutsk",
+      "region": "Asia",
+      "by_navn": "Jakutsk",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 24
+    },
+    {
+      "tz_id": "Asia/Yekaterinburg",
+      "region": "Asia",
+      "by_navn": "Jekaterinburg",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 25
+    },
+    {
+      "tz_id": "Asia/Yerevan",
+      "region": "Asia",
+      "by_navn": "Jerevan",
+      "standardtid": "",
+      "sommertid": "",
+      "id": 26
+    }
+  ],
+  "meta": {
+    "title": "Tidszoner: Asia (26) - Gratis download",
+    "description": "CLDR da-lokalets tidszoner i regionen 'Asia'. Indeholder 26 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Tidszoner: Asia (26) | ListBase",
+    "seo_description": "Download Tidszoner: Asia (26) — 26 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 26 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

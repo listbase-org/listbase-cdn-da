@@ -1,0 +1,651 @@
+{
+  "id": "da-indkoebscentre",
+  "name": "Indkøbscentre i Danmark (Shopping malls in Denmark)",
+  "title": "Indkøbscentre i Danmark (Shopping malls in Denmark)",
+  "description": "Shopping malls in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=mall.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 122,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "2G Shopping",
+      "latitude": 55.663798,
+      "longitude": 12.400525
+    },
+    {
+      "name": "Aalborg Storcenter",
+      "latitude": 57.004262,
+      "longitude": 9.875028
+    },
+    {
+      "name": "Amager Centret",
+      "latitude": 55.66321,
+      "longitude": 12.604233
+    },
+    {
+      "name": "Asnæs Centret",
+      "latitude": 55.812089,
+      "longitude": 11.50052
+    },
+    {
+      "name": "Ballerup Centret",
+      "latitude": 55.728888,
+      "longitude": 12.357963
+    },
+    {
+      "name": "Bazar Vest",
+      "latitude": 56.163309,
+      "longitude": 10.133549
+    },
+    {
+      "name": "BIG Shopping",
+      "latitude": 55.718443,
+      "longitude": 12.448508
+    },
+    {
+      "name": "Bloms Butikker",
+      "latitude": 56.033336,
+      "longitude": 9.930717
+    },
+    {
+      "name": "Borgen",
+      "latitude": 54.909455,
+      "longitude": 9.792086
+    },
+    {
+      "name": "Bramdrupdam Center",
+      "latitude": 55.522019,
+      "longitude": 9.479334
+    },
+    {
+      "name": "Broen Shopping",
+      "latitude": 55.465926,
+      "longitude": 8.458146
+    },
+    {
+      "name": "Bruuns Galleri",
+      "latitude": 56.149073,
+      "longitude": 10.204627
+    },
+    {
+      "name": "Bryggen",
+      "latitude": 55.704965,
+      "longitude": 9.531101
+    },
+    {
+      "name": "Brøndby Strand Centrum",
+      "latitude": 55.622103,
+      "longitude": 12.422057
+    },
+    {
+      "name": "Bytorv Horsens",
+      "latitude": 55.861302,
+      "longitude": 9.846489
+    },
+    {
+      "name": "City 2",
+      "latitude": 55.643558,
+      "longitude": 12.27728
+    },
+    {
+      "name": "City Nord",
+      "latitude": 55.510377,
+      "longitude": 8.455703
+    },
+    {
+      "name": "City Vest",
+      "latitude": 56.154284,
+      "longitude": 10.134764
+    },
+    {
+      "name": "Dagmarcentret",
+      "latitude": 56.03394,
+      "longitude": 9.930584
+    },
+    {
+      "name": "Dalumcentret",
+      "latitude": 55.371028,
+      "longitude": 10.372656
+    },
+    {
+      "name": "Dianalund Centret",
+      "latitude": 55.526844,
+      "longitude": 11.497818
+    },
+    {
+      "name": "Egedal Centret",
+      "latitude": 55.76815,
+      "longitude": 12.193369
+    },
+    {
+      "name": "Elisesminde",
+      "latitude": 55.762882,
+      "longitude": 8.879488
+    },
+    {
+      "name": "Esbjerg Storcenter",
+      "latitude": 55.508416,
+      "longitude": 8.448992
+    },
+    {
+      "name": "Espergærde Centret",
+      "latitude": 55.994859,
+      "longitude": 12.545543
+    },
+    {
+      "name": "Farsø Rådhuscenter",
+      "latitude": 56.772019,
+      "longitude": 9.341834
+    },
+    {
+      "name": "Farum Bytorv",
+      "latitude": 55.814442,
+      "longitude": 12.379925
+    },
+    {
+      "name": "Field's",
+      "latitude": 55.630461,
+      "longitude": 12.577649
+    },
+    {
+      "name": "Fisketorvet",
+      "latitude": 55.661723,
+      "longitude": 12.561116
+    },
+    {
+      "name": "Folkebos Butikstorv",
+      "latitude": 55.375114,
+      "longitude": 10.395684
+    },
+    {
+      "name": "Frederiksberg centeret",
+      "latitude": 55.682243,
+      "longitude": 12.533355
+    },
+    {
+      "name": "Frederiksberg Centret",
+      "latitude": 55.681721,
+      "longitude": 12.532238
+    },
+    {
+      "name": "Frihedens Butikscenter",
+      "latitude": 55.626968,
+      "longitude": 12.484105
+    },
+    {
+      "name": "Friis",
+      "latitude": 57.047492,
+      "longitude": 9.926449
+    },
+    {
+      "name": "Frydenlunds Centret",
+      "latitude": 56.164164,
+      "longitude": 10.174295
+    },
+    {
+      "name": "Gallerierne",
+      "latitude": 55.92892,
+      "longitude": 12.301183
+    },
+    {
+      "name": "Glostrup Shoppingcenter",
+      "latitude": 55.664884,
+      "longitude": 12.399617
+    },
+    {
+      "name": "Grantoftecentret",
+      "latitude": 55.727184,
+      "longitude": 12.34316
+    },
+    {
+      "name": "Greve Midtby Center",
+      "latitude": 55.582005,
+      "longitude": 12.294715
+    },
+    {
+      "name": "H-Centret",
+      "latitude": 56.25622,
+      "longitude": 9.86652
+    },
+    {
+      "name": "Hadsund Butikscenter",
+      "latitude": 56.717956,
+      "longitude": 10.114195
+    },
+    {
+      "name": "Hedegårdscentret",
+      "latitude": 55.718838,
+      "longitude": 12.357891
+    },
+    {
+      "name": "Helsingør Bycenter",
+      "latitude": 56.033229,
+      "longitude": 12.607323
+    },
+    {
+      "name": "Herlev Bymidte",
+      "latitude": 55.723568,
+      "longitude": 12.438951
+    },
+    {
+      "name": "Herning Centret",
+      "latitude": 56.135745,
+      "longitude": 8.999321
+    },
+    {
+      "name": "Holte Midtpunkt",
+      "latitude": 55.811307,
+      "longitude": 12.471886
+    },
+    {
+      "name": "Hvidovre C",
+      "latitude": 55.663543,
+      "longitude": 12.475971
+    },
+    {
+      "name": "Hvidovrevejs Butikstorv",
+      "latitude": 55.653294,
+      "longitude": 12.474098
+    },
+    {
+      "name": "Høje Gladsaxe Center",
+      "latitude": 55.729944,
+      "longitude": 12.497336
+    },
+    {
+      "name": "Høng Centret",
+      "latitude": 55.504571,
+      "longitude": 11.289561
+    },
+    {
+      "name": "Hørsholm Midtpunkt",
+      "latitude": 55.881885,
+      "longitude": 12.497256
+    },
+    {
+      "name": "Illum",
+      "latitude": 55.679494,
+      "longitude": 12.580206
+    },
+    {
+      "name": "iNoord",
+      "latitude": 55.976076,
+      "longitude": 12.019339
+    },
+    {
+      "name": "J.P. Jacobsen Shoppingcenter",
+      "latitude": 56.954375,
+      "longitude": 8.691333
+    },
+    {
+      "name": "Jyllinge Centret",
+      "latitude": 55.749938,
+      "longitude": 12.108058
+    },
+    {
+      "name": "Karlslunde Stationscenter",
+      "latitude": 55.566999,
+      "longitude": 12.268487
+    },
+    {
+      "name": "Kennedy Arkaden",
+      "latitude": 57.041954,
+      "longitude": 9.918804
+    },
+    {
+      "name": "Kolding Storcenter",
+      "latitude": 55.513897,
+      "longitude": 9.460655
+    },
+    {
+      "name": "Kongevejscentret",
+      "latitude": 55.88781,
+      "longitude": 12.497667
+    },
+    {
+      "name": "Kronen Vanløse",
+      "latitude": 55.687693,
+      "longitude": 12.492406
+    },
+    {
+      "name": "Kvaglund Centret",
+      "latitude": 55.495259,
+      "longitude": 8.484624
+    },
+    {
+      "name": "LadegårdsCentret",
+      "latitude": 56.047253,
+      "longitude": 9.93772
+    },
+    {
+      "name": "Langelinieskuret",
+      "latitude": 55.695635,
+      "longitude": 12.599865
+    },
+    {
+      "name": "Langeskovcentret",
+      "latitude": 55.360266,
+      "longitude": 10.589664
+    },
+    {
+      "name": "Lavhedecentret",
+      "latitude": 56.37582,
+      "longitude": 8.616982
+    },
+    {
+      "name": "Lollands Centret",
+      "latitude": 54.774274,
+      "longitude": 11.505447
+    },
+    {
+      "name": "Lyngby Storcenter",
+      "latitude": 55.772004,
+      "longitude": 12.505692
+    },
+    {
+      "name": "Marsk Centret",
+      "latitude": 55.334325,
+      "longitude": 8.772842
+    },
+    {
+      "name": "Mega Syd",
+      "latitude": 56.116457,
+      "longitude": 10.152864
+    },
+    {
+      "name": "Metropol",
+      "latitude": 57.457552,
+      "longitude": 9.991063
+    },
+    {
+      "name": "Midt-I",
+      "latitude": 55.46618,
+      "longitude": 8.452757
+    },
+    {
+      "name": "Nymarkscentret",
+      "latitude": 55.575784,
+      "longitude": 9.760506
+    },
+    {
+      "name": "Næstved Megacenter",
+      "latitude": 55.253565,
+      "longitude": 11.788463
+    },
+    {
+      "name": "Næstved Storcenter",
+      "latitude": 55.254184,
+      "longitude": 11.782132
+    },
+    {
+      "name": "Nørrebro Bycenter",
+      "latitude": 55.703333,
+      "longitude": 12.5382
+    },
+    {
+      "name": "Nørreport Centret",
+      "latitude": 56.362014,
+      "longitude": 8.619885
+    },
+    {
+      "name": "Nørresundby Butikscenter",
+      "latitude": 57.059808,
+      "longitude": 9.917792
+    },
+    {
+      "name": "Odense Banegård Center",
+      "latitude": 55.401688,
+      "longitude": 10.387406
+    },
+    {
+      "name": "Randers Storcenter",
+      "latitude": 56.430367,
+      "longitude": 10.064841
+    },
+    {
+      "name": "Rebæk Søpark Butikscenter",
+      "latitude": 55.663606,
+      "longitude": 12.45819
+    },
+    {
+      "name": "Ringsted Outlet",
+      "latitude": 55.451727,
+      "longitude": 11.785911
+    },
+    {
+      "name": "Ringstedet",
+      "latitude": 55.453493,
+      "longitude": 11.787847
+    },
+    {
+      "name": "Ro's Torv",
+      "latitude": 55.641924,
+      "longitude": 12.09984
+    },
+    {
+      "name": "Rosengårdcentret",
+      "latitude": 55.383837,
+      "longitude": 10.426609
+    },
+    {
+      "name": "Ræveholmscenteret",
+      "latitude": 55.557693,
+      "longitude": 12.254505
+    },
+    {
+      "name": "Rødovre Centrum",
+      "latitude": 55.679389,
+      "longitude": 12.457133
+    },
+    {
+      "name": "Salgshytterne på Rørvig Havn",
+      "latitude": 55.945018,
+      "longitude": 11.764607
+    },
+    {
+      "name": "Sanct Mathias Centret",
+      "latitude": 56.448741,
+      "longitude": 9.405006
+    },
+    {
+      "name": "Shoppen",
+      "latitude": 57.002931,
+      "longitude": 9.871891
+    },
+    {
+      "name": "Shopping Center Blokhus",
+      "latitude": 57.252119,
+      "longitude": 9.584912
+    },
+    {
+      "name": "Sillebroen Shoppingcenter",
+      "latitude": 55.83572,
+      "longitude": 12.064365
+    },
+    {
+      "name": "Skejby Centret",
+      "latitude": 56.193923,
+      "longitude": 10.194089
+    },
+    {
+      "name": "Slotsarkaderne",
+      "latitude": 55.928578,
+      "longitude": 12.298002
+    },
+    {
+      "name": "Slotscentret",
+      "latitude": 55.717785,
+      "longitude": 11.703333
+    },
+    {
+      "name": "Snellemarkcentret",
+      "latitude": 55.101586,
+      "longitude": 14.693761
+    },
+    {
+      "name": "Spinderiet",
+      "latitude": 55.664792,
+      "longitude": 12.511364
+    },
+    {
+      "name": "Stay Arcade",
+      "latitude": 55.70966,
+      "longitude": 12.594895
+    },
+    {
+      "name": "Stenager Center",
+      "latitude": 54.923512,
+      "longitude": 9.80931
+    },
+    {
+      "name": "Storcenter Nord",
+      "latitude": 56.170266,
+      "longitude": 10.188475
+    },
+    {
+      "name": "Sundhedshuset Hadsten",
+      "latitude": 56.328057,
+      "longitude": 10.047543
+    },
+    {
+      "name": "Svendborg Bycenter",
+      "latitude": 55.059798,
+      "longitude": 10.604879
+    },
+    {
+      "name": "Sædding Centret",
+      "latitude": 55.497498,
+      "longitude": 8.40531
+    },
+    {
+      "name": "SønderCentret",
+      "latitude": 56.565884,
+      "longitude": 9.032379
+    },
+    {
+      "name": "Taastrup Torv",
+      "latitude": 55.651923,
+      "longitude": 12.301843
+    },
+    {
+      "name": "Tarup Center",
+      "latitude": 55.409374,
+      "longitude": 10.338745
+    },
+    {
+      "name": "Tranbjergcentret",
+      "latitude": 56.090848,
+      "longitude": 10.135815
+    },
+    {
+      "name": "Tranekærcentret",
+      "latitude": 56.474257,
+      "longitude": 10.011757
+    },
+    {
+      "name": "Trøjborg Centret",
+      "latitude": 56.172619,
+      "longitude": 10.211776
+    },
+    {
+      "name": "Tårnby Torv",
+      "latitude": 55.630791,
+      "longitude": 12.600722
+    },
+    {
+      "name": "Vanggaard-Centret",
+      "latitude": 56.16848,
+      "longitude": 10.191062
+    },
+    {
+      "name": "Varde Centret",
+      "latitude": 55.614806,
+      "longitude": 8.485045
+    },
+    {
+      "name": "Veri Center",
+      "latitude": 56.188967,
+      "longitude": 10.215209
+    },
+    {
+      "name": "Vestsjællandscenteret",
+      "latitude": 55.406328,
+      "longitude": 11.354635
+    },
+    {
+      "name": "Vibe-Centret",
+      "latitude": 56.265348,
+      "longitude": 10.062485
+    },
+    {
+      "name": "Viby Centret",
+      "latitude": 56.129911,
+      "longitude": 10.161577
+    },
+    {
+      "name": "Vollsmose Torv",
+      "latitude": 55.406667,
+      "longitude": 10.439955
+    },
+    {
+      "name": "Værebro Centeret",
+      "latitude": 55.757554,
+      "longitude": 12.439598
+    },
+    {
+      "name": "Værløse Bymidte",
+      "latitude": 55.783477,
+      "longitude": 12.372873
+    },
+    {
+      "name": "Waterfront Shopping",
+      "latitude": 55.725846,
+      "longitude": 12.579361
+    },
+    {
+      "name": "Waves",
+      "latitude": 55.598157,
+      "longitude": 12.328149
+    },
+    {
+      "name": "Å centeret",
+      "latitude": 55.706396,
+      "longitude": 9.53147
+    },
+    {
+      "name": "Østervang Centret",
+      "latitude": 55.501599,
+      "longitude": 8.455261
+    }
+  ],
+  "meta": {
+    "title": "Indkøbscentre i Danmark (Shopping malls in Denmark) - Gratis download",
+    "description": "Shopping malls in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=mall. Indeholder 122 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Indkøbscentre i Danmark (Shopping malls in Denmark) | ListBase",
+    "seo_description": "Download Indkøbscentre i Danmark (Shopping malls in Denmark) — 122 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 122 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

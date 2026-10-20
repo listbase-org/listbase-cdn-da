@@ -1,0 +1,142 @@
+{
+  "id": "da-aarhus-swift-koder",
+  "name": "SWIFT/BIC-koder — Aarhus",
+  "title": "SWIFT/BIC-koder — Aarhus",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 16 institutioner, som kilden angiver med byen \"AARHUS\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "ANDELSKASSEN OIKOS",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "ANOKDK21"
+    },
+    {
+      "bank": "DANSK SUPERMARKED A/S",
+      "city": "AARHUS",
+      "branch": "(D S FORSIKRING)",
+      "swift_code": "DASKDK21DSF"
+    },
+    {
+      "bank": "DANSK SUPERMARKED A/S",
+      "city": "AARHUS",
+      "branch": "(SALLING INVEST)",
+      "swift_code": "DASKDK21FSI"
+    },
+    {
+      "bank": "DANSK SUPERMARKED A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "DASKDK21NET"
+    },
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "DABADKKKAAR"
+    },
+    {
+      "bank": "DANSKE COMMODITIES A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "DACDDK21"
+    },
+    {
+      "bank": "FORMUEPLEJE A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "FORJDK21"
+    },
+    {
+      "bank": "HEMONTO A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "HMTODK22"
+    },
+    {
+      "bank": "KAPITALFORENINGEN ABSALON INVEST",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "KAAIDK21"
+    },
+    {
+      "bank": "KAPITALFORENINGEN ABSALON INVEST AFD. VERDENSAKTIEINDEKS KL",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "KAIFDK21"
+    },
+    {
+      "bank": "KAPITALFORENINGEN FORMUEPLEJE PENTA AFDELING FORMUEPLEJE PENTA",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "KFPFDK21"
+    },
+    {
+      "bank": "LIND CAPITAL A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "LCAIDK21"
+    },
+    {
+      "bank": "LIND CAPITAL FONDSMAEGLERSELSKAB A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "LICFDK21"
+    },
+    {
+      "bank": "MARKEDSKRAFT DANMARK, FILIAL AF MARKEDSKRAFT ASA NORGE",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "MDFMDK21"
+    },
+    {
+      "bank": "SYDBANK A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "SYBKDK22AAR"
+    },
+    {
+      "bank": "VESTAS WIND SYSTEMS A/S",
+      "city": "AARHUS",
+      "branch": "",
+      "swift_code": "WINDDK22"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Aarhus - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 16 institutioner, som kilden angiver med byen \"AARHUS\". Indeholder 16 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Aarhus | ListBase",
+    "seo_description": "Download SWIFT/BIC-koder — Aarhus — 16 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 16 poster / 4 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

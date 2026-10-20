@@ -1,0 +1,93 @@
+{
+  "id": "da-herning-banker",
+  "name": "Banker i Herning — SWIFT/BIC-koder",
+  "title": "Banker i Herning — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Herning, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"HERNING\"). Delmængde af det nationale da-banker-datasæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 81,
+      "bank": "DANSKE BANK A/S",
+      "city": "HERNING",
+      "branch": "",
+      "swift_code": "DABADKKKHER"
+    },
+    {
+      "id": 224,
+      "bank": "INVESTERING AND TRYGHED A/S",
+      "city": "HERNING",
+      "branch": "",
+      "swift_code": "ITRYDK21"
+    },
+    {
+      "id": 335,
+      "bank": "MIDTINVEST INVESTERINGSFORVALTNING A/S",
+      "city": "HERNING",
+      "branch": "",
+      "swift_code": "MIDIDK21"
+    },
+    {
+      "id": 416,
+      "bank": "RINGKJOBING LANDBOBANK A/S",
+      "city": "HERNING",
+      "branch": "",
+      "swift_code": "RINGDK22HER"
+    },
+    {
+      "id": 473,
+      "bank": "SYDBANK A/S",
+      "city": "HERNING",
+      "branch": "",
+      "swift_code": "SYBKDK22HER"
+    },
+    {
+      "id": 501,
+      "bank": "VESTJYSK BANK",
+      "city": "HERNING",
+      "branch": "",
+      "swift_code": "VEHODK22HER"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Herning — SWIFT/BIC-koder - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Herning, Danmark. Udtrukket fra SwiftCodes-datasættet (kildens by-streng: \"HERNING\"). Delmængde af det nationale da-banker-datasæt. Indeholder 6 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Herning — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Download Banker i Herning — SWIFT/BIC-koder — 6 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 6 poster / 5 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

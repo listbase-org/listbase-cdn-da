@@ -1,0 +1,144 @@
+{
+  "id": "da-helsingoer-afstemningssteder",
+  "name": "Afstemningssteder i Helsingør Kommune",
+  "title": "Afstemningssteder i Helsingør Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Helsingør Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Helngor Hallen",
+      "kommune_kode": 217,
+      "kommune": "Helsingør",
+      "opstillingskreds_nummer": 21,
+      "opstillingskreds": "Helsingør"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Montebello",
+      "kommune_kode": 217,
+      "kommune": "Helsingør",
+      "opstillingskreds_nummer": 21,
+      "opstillingskreds": "Helsingør"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Laden, Gl.Vapnagård",
+      "kommune_kode": 217,
+      "kommune": "Helsingør",
+      "opstillingskreds_nummer": 21,
+      "opstillingskreds": "Helsingør"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Bolgen",
+      "kommune_kode": 217,
+      "kommune": "Helsingør",
+      "opstillingskreds_nummer": 21,
+      "opstillingskreds": "Helsingør"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Hornbæk Skole",
+      "kommune_kode": 217,
+      "kommune": "Helsingør",
+      "opstillingskreds_nummer": 21,
+      "opstillingskreds": "Helsingør"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Helsingor Skole, afd Nygård",
+      "kommune_kode": 217,
+      "kommune": "Helsingør",
+      "opstillingskreds_nummer": 21,
+      "opstillingskreds": "Helsingør"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Tikob Skole",
+      "kommune_kode": 217,
+      "kommune": "Helsingør",
+      "opstillingskreds_nummer": 21,
+      "opstillingskreds": "Helsingør"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Kvistgårds Idrætsanlæg",
+      "kommune_kode": 217,
+      "kommune": "Helsingør",
+      "opstillingskreds_nummer": 21,
+      "opstillingskreds": "Helsingør"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Snekkersten Hallen",
+      "kommune_kode": 217,
+      "kommune": "Helsingør",
+      "opstillingskreds_nummer": 21,
+      "opstillingskreds": "Helsingør"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Administrationsbygningen Mordrupvej 15",
+      "kommune_kode": 217,
+      "kommune": "Helsingør",
+      "opstillingskreds_nummer": 21,
+      "opstillingskreds": "Helsingør"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Espergærde Skole, afd Mordrup",
+      "kommune_kode": 217,
+      "kommune": "Helsingør",
+      "opstillingskreds_nummer": 21,
+      "opstillingskreds": "Helsingør"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Helsingør Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Helsingør Kommune med opstillingskreds. Indeholder 11 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Helsingør Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Helsingør Kommune — 11 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 11 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

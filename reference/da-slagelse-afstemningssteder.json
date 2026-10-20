@@ -1,0 +1,256 @@
+{
+  "id": "da-slagelse-afstemningssteder",
+  "name": "Afstemningssteder i Slagelse Kommune",
+  "title": "Afstemningssteder i Slagelse Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Slagelse Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Dalmose",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Flakkebjerg",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Slots Bjergby",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Sørbymagle",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Korsør Søndre Bydel",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Korsør Nordre Bydel",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Tårnborg",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Vemmelev",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Søndermark",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Rude",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Skælskør Vest",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Agersø",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Boeslunde",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Konfirmandstuen Eggeslevmagle",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Skælskør Øst",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Magleby Forsamlingshus",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Omø",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Tjæreby Forsamlingshus",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Slagelse Hallen",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "20",
+      "afstemningssted": "Antvorskov",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Vesthallen",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "22",
+      "afstemningssted": "Nordhallen",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Vestermose",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Stillinge",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    },
+    {
+      "afstemningsomraade_kode": "26",
+      "afstemningssted": "Havrebjerg Heldagsskole",
+      "kommune_kode": 330,
+      "kommune": "Slagelse",
+      "opstillingskreds_nummer": 40,
+      "opstillingskreds": "Slagelse"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Slagelse Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Slagelse Kommune med opstillingskreds. Indeholder 25 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Slagelse Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Slagelse Kommune — 25 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 25 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

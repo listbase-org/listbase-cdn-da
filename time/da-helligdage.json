@@ -1,0 +1,289 @@
+{
+  "id": "da-helligdage",
+  "name": "Helligdage og mærkedage i Danmark",
+  "title": "Helligdage og mærkedage i Danmark",
+  "description": "Offentlige helligdage, mærkedage og flagdage i Kongeriget Danmark — herunder kristne højtider (jul, påske, pinse) og nationale mærkedage. Bevægelige højtider (påske, Kristi himmelfartsdag) beregnes ud fra den gregorianske påskedato. Kilde: commenthol/date-holidays (Wikipedia, CC-BY-SA-3.0).",
+  "category": "time",
+  "source": "https://github.com/commenthol/date-holidays",
+  "source_url": "https://github.com/commenthol/date-holidays",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "rule",
+      "label": "Rule",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "reference",
+      "label": "Reference",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "string"
+    },
+    {
+      "key": "substitute",
+      "label": "Substitute",
+      "type": "boolean"
+    },
+    {
+      "key": "disable",
+      "label": "Disable",
+      "type": "string"
+    },
+    {
+      "key": "enable",
+      "label": "Enable",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "rule": "01-01",
+      "name_native": "Nytår",
+      "name_en": "New Year's Day",
+      "type": "public",
+      "reference": "01-01",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 2,
+      "rule": "easter -48",
+      "name_native": "Fastelavn",
+      "name_en": "",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 3,
+      "rule": "easter -3",
+      "name_native": "Skærtorsdag",
+      "name_en": "Maundy Thursday",
+      "type": "public",
+      "reference": "easter -3",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 4,
+      "rule": "easter -2",
+      "name_native": "Langfredag",
+      "name_en": "Good Friday",
+      "type": "public",
+      "reference": "easter -2",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 5,
+      "rule": "easter",
+      "name_native": "Påskesøndag",
+      "name_en": "Easter Sunday",
+      "type": "public",
+      "reference": "easter",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 6,
+      "rule": "easter 1",
+      "name_native": "Anden påskedag",
+      "name_en": "Easter Monday",
+      "type": "public",
+      "reference": "easter 1",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 7,
+      "rule": "easter 26 prior to 2024",
+      "name_native": "Store Bededag",
+      "name_en": "Prayer Day",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 8,
+      "rule": "easter 39",
+      "name_native": "Kristi Himmelfartsdag",
+      "name_en": "Ascension Day",
+      "type": "public",
+      "reference": "easter 39",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 9,
+      "rule": "05-01",
+      "name_native": "1. maj",
+      "name_en": "Labour Day",
+      "type": "observance",
+      "reference": "05-01",
+      "note": "Full holiday for blue collar workers",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 10,
+      "rule": "2nd sunday in May",
+      "name_native": "Mors Dag",
+      "name_en": "Mother's Day",
+      "type": "observance",
+      "reference": "Mothers Day",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 11,
+      "rule": "06-05",
+      "name_native": "Grundlovsdag",
+      "name_en": "Constitution Day",
+      "type": "observance",
+      "reference": "Constitution Day",
+      "note": "Shops are closed",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 12,
+      "rule": "easter 49",
+      "name_native": "Pinsedag",
+      "name_en": "Pentecost",
+      "type": "public",
+      "reference": "easter 49",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 13,
+      "rule": "easter 50",
+      "name_native": "Anden Pinsedag",
+      "name_en": "Whit Monday",
+      "type": "public",
+      "reference": "easter 50",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 14,
+      "rule": "12-24",
+      "name_native": "Juleaften",
+      "name_en": "Christmas Eve",
+      "type": "observance",
+      "reference": "12-24",
+      "note": "Shops are closed",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 15,
+      "rule": "12-25",
+      "name_native": "Juledag",
+      "name_en": "Christmas Day",
+      "type": "public",
+      "reference": "12-25",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 16,
+      "rule": "12-26",
+      "name_native": "Anden Juledag",
+      "name_en": "Boxing Day",
+      "type": "public",
+      "reference": "12-26",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    }
+  ],
+  "meta": {
+    "title": "Helligdage og mærkedage i Danmark - Gratis download",
+    "description": "Offentlige helligdage, mærkedage og flagdage i Kongeriget Danmark — herunder kristne højtider (jul, påske, pinse) og nationale mærkedage. Bevægelige højtider (påske, Kristi himmelfartsdag) beregnes ud fra den gregorianske påskedato. Kilde: commenthol/date-holidays (Wikipedia, CC-BY-SA-3.0). Indeholder 16 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Helligdage og mærkedage i Danmark | ListBase",
+    "seo_description": "Download Helligdage og mærkedage i Danmark — 16 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 16 poster / 11 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/commenthol/date-holidays"
+    ]
+  }
+}

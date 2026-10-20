@@ -1,0 +1,186 @@
+{
+  "id": "da-antarktis-lande",
+  "name": "Lande — Antarktis",
+  "title": "Lande — Antarktis",
+  "description": "Lande og afhængige territorier i verdensdelen Antarktis (5 poster) — udsnit af da-lande.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "phone_codes",
+      "label": "Phone Codes",
+      "type": "number"
+    },
+    {
+      "key": "phone_codes_formatted",
+      "label": "Phone Codes Formatted",
+      "type": "string"
+    },
+    {
+      "key": "continent_code",
+      "label": "Continent Code",
+      "type": "string"
+    },
+    {
+      "key": "continent_da",
+      "label": "Continent Da",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "currency_codes",
+      "label": "Currency Codes",
+      "type": "string"
+    },
+    {
+      "key": "language_codes",
+      "label": "Language Codes",
+      "type": "string"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    },
+    {
+      "key": "part_of_iso2",
+      "label": "Part Of Iso2",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AQ",
+      "iso_3166_1_alpha_3": "ATA",
+      "name_da": "Antarktis",
+      "name_en": "Antarctica",
+      "name_native": "Antarctica",
+      "slug": "antarktis",
+      "phone_codes": "672",
+      "phone_codes_formatted": "+672",
+      "continent_code": "AN",
+      "continent_da": "Antarktis",
+      "capital": "",
+      "currency_codes": "",
+      "language_codes": "",
+      "emoji_flag": "🇦🇶",
+      "part_of_iso2": ""
+    },
+    {
+      "iso_3166_1_alpha_2": "BV",
+      "iso_3166_1_alpha_3": "BVT",
+      "name_da": "Bouvetøen",
+      "name_en": "Bouvet Island",
+      "name_native": "Bouvetøya",
+      "slug": "bouvetoeen",
+      "phone_codes": "47",
+      "phone_codes_formatted": "+47",
+      "continent_code": "AN",
+      "continent_da": "Antarktis",
+      "capital": "",
+      "currency_codes": "NOK",
+      "language_codes": "no, nb, nn",
+      "emoji_flag": "🇧🇻",
+      "part_of_iso2": ""
+    },
+    {
+      "iso_3166_1_alpha_2": "TF",
+      "iso_3166_1_alpha_3": "ATF",
+      "name_da": "De Franske Besiddelser i Det Sydlige Indiske Ocean",
+      "name_en": "French Southern Territories",
+      "name_native": "Territoire des Terres australes et antarctiques fr",
+      "slug": "de-franske-besiddelser-i-det-sydlige-indiske-ocean",
+      "phone_codes": "262",
+      "phone_codes_formatted": "+262",
+      "continent_code": "AN",
+      "continent_da": "Antarktis",
+      "capital": "Port-aux-Français",
+      "currency_codes": "EUR",
+      "language_codes": "fr",
+      "emoji_flag": "🇹🇫",
+      "part_of_iso2": ""
+    },
+    {
+      "iso_3166_1_alpha_2": "HM",
+      "iso_3166_1_alpha_3": "HMD",
+      "name_da": "Heard Island og McDonald Islands",
+      "name_en": "Heard Island and McDonald Islands",
+      "name_native": "Heard Island and McDonald Islands",
+      "slug": "heard-island-og-mcdonald-islands",
+      "phone_codes": "61",
+      "phone_codes_formatted": "+61",
+      "continent_code": "AN",
+      "continent_da": "Antarktis",
+      "capital": "",
+      "currency_codes": "AUD",
+      "language_codes": "en",
+      "emoji_flag": "🇭🇲",
+      "part_of_iso2": ""
+    },
+    {
+      "iso_3166_1_alpha_2": "GS",
+      "iso_3166_1_alpha_3": "SGS",
+      "name_da": "South Georgia og South Sandwich Islands",
+      "name_en": "South Georgia and the South Sandwich Islands",
+      "name_native": "South Georgia",
+      "slug": "south-georgia-og-south-sandwich-islands",
+      "phone_codes": "500",
+      "phone_codes_formatted": "+500",
+      "continent_code": "AN",
+      "continent_da": "Antarktis",
+      "capital": "King Edward Point",
+      "currency_codes": "GBP",
+      "language_codes": "en",
+      "emoji_flag": "🇬🇸",
+      "part_of_iso2": ""
+    }
+  ],
+  "meta": {
+    "title": "Lande — Antarktis - Gratis download",
+    "description": "Lande og afhængige territorier i verdensdelen Antarktis (5 poster) — udsnit af da-lande. Indeholder 5 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Lande — Antarktis | ListBase",
+    "seo_description": "Download Lande — Antarktis — 5 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 5 poster / 15 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

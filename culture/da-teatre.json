@@ -1,0 +1,1131 @@
+{
+  "id": "da-teatre",
+  "name": "Teatre i Danmark – OpenStreetMap (Theatres in Denmark, OSM)",
+  "title": "Teatre i Danmark – OpenStreetMap (Theatres in Denmark, OSM)",
+  "description": "Liste over 218 teatre i Danmark fra OpenStreetMap (amenity=theatre) — navn og koordinater (WGS84).",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 218,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "7-kanten",
+      "latitude": 55.623665,
+      "longitude": 8.368116
+    },
+    {
+      "name": "Aalborg Comedy Club",
+      "latitude": 57.049753,
+      "longitude": 9.921207
+    },
+    {
+      "name": "Aalborg Teater",
+      "latitude": 57.046808,
+      "longitude": 9.916377
+    },
+    {
+      "name": "Aarhus Comedy Club",
+      "latitude": 56.152406,
+      "longitude": 10.212944
+    },
+    {
+      "name": "Aarhus Teater",
+      "latitude": 56.156033,
+      "longitude": 10.210881
+    },
+    {
+      "name": "Alexandersalen",
+      "latitude": 55.67908,
+      "longitude": 12.5715
+    },
+    {
+      "name": "Amatørcenen Teaterkatten",
+      "latitude": 55.685687,
+      "longitude": 12.566809
+    },
+    {
+      "name": "Amatørscenen Mælkebøtten",
+      "latitude": 54.889801,
+      "longitude": 12.042695
+    },
+    {
+      "name": "Amatørteatret Stavtrupscenen",
+      "latitude": 56.129916,
+      "longitude": 10.116371
+    },
+    {
+      "name": "Amfi Scenen",
+      "latitude": 55.470439,
+      "longitude": 9.492464
+    },
+    {
+      "name": "AMFI Vestsjælland",
+      "latitude": 55.68267,
+      "longitude": 11.310327
+    },
+    {
+      "name": "AMFI-banen",
+      "latitude": 54.941377,
+      "longitude": 8.859239
+    },
+    {
+      "name": "Amfi-scenen på Bytoften",
+      "latitude": 56.153933,
+      "longitude": 9.900867
+    },
+    {
+      "name": "Amfien",
+      "latitude": 57.057885,
+      "longitude": 9.941941
+    },
+    {
+      "name": "Amfiscenen",
+      "latitude": 55.115169,
+      "longitude": 10.722711
+    },
+    {
+      "name": "Amfiscenen",
+      "latitude": 55.39579,
+      "longitude": 10.380796
+    },
+    {
+      "name": "Amfiscenen",
+      "latitude": 56.170216,
+      "longitude": 10.200933
+    },
+    {
+      "name": "Amfiscenen, Byparken",
+      "latitude": 55.464086,
+      "longitude": 8.449775
+    },
+    {
+      "name": "Amfiteatret",
+      "latitude": 56.05845,
+      "longitude": 9.885984
+    },
+    {
+      "name": "Anemone Teatret",
+      "latitude": 55.682608,
+      "longitude": 12.576146
+    },
+    {
+      "name": "Anlægsscenen",
+      "latitude": 55.944093,
+      "longitude": 8.499124
+    },
+    {
+      "name": "Aveny-T",
+      "latitude": 55.674991,
+      "longitude": 12.53312
+    },
+    {
+      "name": "BaggårdTeatret",
+      "latitude": 55.06797,
+      "longitude": 10.620836
+    },
+    {
+      "name": "Bellahøj Friluftsscene",
+      "latitude": 55.702814,
+      "longitude": 12.508713
+    },
+    {
+      "name": "Bellevue Teatret",
+      "latitude": 55.777562,
+      "longitude": 12.590006
+    },
+    {
+      "name": "Betty Nansen Teatret",
+      "latitude": 55.673965,
+      "longitude": 12.5369
+    },
+    {
+      "name": "Billingescenen",
+      "latitude": 56.481555,
+      "longitude": 9.227792
+    },
+    {
+      "name": "Blaagaard Teater",
+      "latitude": 55.688499,
+      "longitude": 12.558683
+    },
+    {
+      "name": "Bora Bora",
+      "latitude": 56.152052,
+      "longitude": 10.199348
+    },
+    {
+      "name": "Borgerforeningen",
+      "latitude": 55.060416,
+      "longitude": 10.608514
+    },
+    {
+      "name": "Borreby Teater",
+      "latitude": 55.232946,
+      "longitude": 11.289509
+    },
+    {
+      "name": "Borupgårdteatret",
+      "latitude": 56.013046,
+      "longitude": 12.583695
+    },
+    {
+      "name": "Bovlund Friluftsscene",
+      "latitude": 55.102248,
+      "longitude": 9.102892
+    },
+    {
+      "name": "Bremen Teater",
+      "latitude": 55.676546,
+      "longitude": 12.561025
+    },
+    {
+      "name": "Brønderslev Amatør Scene",
+      "latitude": 57.272895,
+      "longitude": 9.946346
+    },
+    {
+      "name": "Bådteatret",
+      "latitude": 55.679767,
+      "longitude": 12.59036
+    },
+    {
+      "name": "Cafe Liva",
+      "latitude": 55.679632,
+      "longitude": 12.59083
+    },
+    {
+      "name": "Cirkus Panik & KBHFF Vanløse",
+      "latitude": 55.69341,
+      "longitude": 12.48237
+    },
+    {
+      "name": "Cirkusbygningen",
+      "latitude": 55.675966,
+      "longitude": 12.564951
+    },
+    {
+      "name": "Comedy Zoo",
+      "latitude": 55.677086,
+      "longitude": 12.575589
+    },
+    {
+      "name": "Dansehallerne",
+      "latitude": 55.665923,
+      "longitude": 12.534603
+    },
+    {
+      "name": "Den Fynske Opera",
+      "latitude": 55.392895,
+      "longitude": 10.381661
+    },
+    {
+      "name": "Det Hemlige Teater",
+      "latitude": 57.044111,
+      "longitude": 9.929774
+    },
+    {
+      "name": "Det Kongelige Teater",
+      "latitude": 55.679187,
+      "longitude": 12.586354
+    },
+    {
+      "name": "Det Lille Teater",
+      "latitude": 55.676293,
+      "longitude": 12.571997
+    },
+    {
+      "name": "Det Musiske Hus",
+      "latitude": 57.440333,
+      "longitude": 10.53351
+    },
+    {
+      "name": "Det Ny Teater",
+      "latitude": 55.673137,
+      "longitude": 12.555202
+    },
+    {
+      "name": "Det Ny Teater",
+      "latitude": 56.151582,
+      "longitude": 9.524069
+    },
+    {
+      "name": "DOK5000",
+      "latitude": 55.411377,
+      "longitude": 10.383206
+    },
+    {
+      "name": "DR Koncerthuset",
+      "latitude": 55.658025,
+      "longitude": 12.588906
+    },
+    {
+      "name": "Drakomir",
+      "latitude": 55.328526,
+      "longitude": 8.770264
+    },
+    {
+      "name": "Dronning Dorothea Teatret",
+      "latitude": 55.492562,
+      "longitude": 9.468403
+    },
+    {
+      "name": "Dynamo",
+      "latitude": 55.408315,
+      "longitude": 10.37969
+    },
+    {
+      "name": "Edison",
+      "latitude": 55.676611,
+      "longitude": 12.536647
+    },
+    {
+      "name": "Fair Play",
+      "latitude": 55.715707,
+      "longitude": 11.723215
+    },
+    {
+      "name": "Filuren",
+      "latitude": 56.151793,
+      "longitude": 10.19917
+    },
+    {
+      "name": "Foderstoffen",
+      "latitude": 55.198364,
+      "longitude": 10.48256
+    },
+    {
+      "name": "Folketeatret",
+      "latitude": 55.681465,
+      "longitude": 12.570939
+    },
+    {
+      "name": "Forsøgsscenen",
+      "latitude": 55.263043,
+      "longitude": 9.492508
+    },
+    {
+      "name": "Forsøgsstationen",
+      "latitude": 55.665092,
+      "longitude": 12.549528
+    },
+    {
+      "name": "Fredericia Teater",
+      "latitude": 55.566841,
+      "longitude": 9.757828
+    },
+    {
+      "name": "Frederiksberg Teater",
+      "latitude": 55.682451,
+      "longitude": 12.496872
+    },
+    {
+      "name": "Frederikssund Vikingespil",
+      "latitude": 55.830301,
+      "longitude": 12.058624
+    },
+    {
+      "name": "Fredtoften",
+      "latitude": 55.905029,
+      "longitude": 12.462002
+    },
+    {
+      "name": "Frilandsmuseets udendørsscene",
+      "latitude": 55.791992,
+      "longitude": 12.49815
+    },
+    {
+      "name": "Friluft scenen",
+      "latitude": 55.813564,
+      "longitude": 8.61636
+    },
+    {
+      "name": "Friluftscenen",
+      "latitude": 56.157859,
+      "longitude": 9.563326
+    },
+    {
+      "name": "Friluftsscene",
+      "latitude": 55.864896,
+      "longitude": 9.862684
+    },
+    {
+      "name": "Friluftsscenen",
+      "latitude": 55.366859,
+      "longitude": 10.381676
+    },
+    {
+      "name": "Friluftsscenen",
+      "latitude": 55.776656,
+      "longitude": 12.575012
+    },
+    {
+      "name": "Friluftsscenen",
+      "latitude": 56.361457,
+      "longitude": 8.630635
+    },
+    {
+      "name": "Friluftsscenen",
+      "latitude": 56.466175,
+      "longitude": 10.044518
+    },
+    {
+      "name": "Friluftsscenen, Sct. Knuds Kilde",
+      "latitude": 57.454516,
+      "longitude": 9.96691
+    },
+    {
+      "name": "Frøbjerg Festspil",
+      "latitude": 55.338865,
+      "longitude": 10.110827
+    },
+    {
+      "name": "Fugl Føniks",
+      "latitude": 55.479333,
+      "longitude": 8.467576
+    },
+    {
+      "name": "Galaksen",
+      "latitude": 55.783287,
+      "longitude": 12.371408
+    },
+    {
+      "name": "Glassalen",
+      "latitude": 55.673953,
+      "longitude": 12.568561
+    },
+    {
+      "name": "Godset",
+      "latitude": 55.490839,
+      "longitude": 9.482988
+    },
+    {
+      "name": "Grand prix",
+      "latitude": 55.672917,
+      "longitude": 12.567702
+    },
+    {
+      "name": "Grand Teatret",
+      "latitude": 56.458855,
+      "longitude": 10.036462
+    },
+    {
+      "name": "Gryden",
+      "latitude": 55.681527,
+      "longitude": 11.088784
+    },
+    {
+      "name": "Gudrun Schous Friluftsscene",
+      "latitude": 55.746963,
+      "longitude": 10.026411
+    },
+    {
+      "name": "Gundestrupspillene",
+      "latitude": 56.80494,
+      "longitude": 9.577578
+    },
+    {
+      "name": "Helios Teatrets Biograf",
+      "latitude": 55.094257,
+      "longitude": 10.245084
+    },
+    {
+      "name": "Herlev Teaterbio",
+      "latitude": 55.725394,
+      "longitude": 12.439358
+    },
+    {
+      "name": "Hermans Teater",
+      "latitude": 56.137065,
+      "longitude": 10.197714
+    },
+    {
+      "name": "Herning Kongrescenter",
+      "latitude": 56.136167,
+      "longitude": 8.981289
+    },
+    {
+      "name": "Hillerød Ny Teater",
+      "latitude": 55.920426,
+      "longitude": 12.293999
+    },
+    {
+      "name": "Himmerlands Teater",
+      "latitude": 56.637592,
+      "longitude": 9.801977
+    },
+    {
+      "name": "Holbæk Teater",
+      "latitude": 55.717879,
+      "longitude": 11.715362
+    },
+    {
+      "name": "Horsens Ny Teater",
+      "latitude": 55.862779,
+      "longitude": 9.847699
+    },
+    {
+      "name": "Husets Teater",
+      "latitude": 55.66966,
+      "longitude": 12.559969
+    },
+    {
+      "name": "Husets Teater",
+      "latitude": 55.670189,
+      "longitude": 12.561461
+    },
+    {
+      "name": "Håndværkeren",
+      "latitude": 56.038129,
+      "longitude": 12.610772
+    },
+    {
+      "name": "Høgsbjerget",
+      "latitude": 55.64632,
+      "longitude": 12.34268
+    },
+    {
+      "name": "Jels Vikingespil",
+      "latitude": 55.359789,
+      "longitude": 9.21577
+    },
+    {
+      "name": "Jysk Musikteater",
+      "latitude": 56.170421,
+      "longitude": 9.555889
+    },
+    {
+      "name": "Jægerspris Amatør Scene",
+      "latitude": 55.854626,
+      "longitude": 11.98345
+    },
+    {
+      "name": "Knaberscenen",
+      "latitude": 56.693731,
+      "longitude": 9.495763
+    },
+    {
+      "name": "Kolding Egnsteater",
+      "latitude": 55.490352,
+      "longitude": 9.477693
+    },
+    {
+      "name": "Kolding Teater",
+      "latitude": 55.498226,
+      "longitude": 9.482099
+    },
+    {
+      "name": "Kometen",
+      "latitude": 55.641808,
+      "longitude": 12.478252
+    },
+    {
+      "name": "Koncertsalen",
+      "latitude": 55.46402,
+      "longitude": 8.451766
+    },
+    {
+      "name": "Koncertsalen Alsion",
+      "latitude": 54.913215,
+      "longitude": 9.778506
+    },
+    {
+      "name": "Konservatoriets Koncertsal",
+      "latitude": 55.682286,
+      "longitude": 12.553591
+    },
+    {
+      "name": "Krabasken",
+      "latitude": 55.401406,
+      "longitude": 11.350778
+    },
+    {
+      "name": "Kulissen Randers",
+      "latitude": 56.457711,
+      "longitude": 10.03868
+    },
+    {
+      "name": "Køge Amatørscene",
+      "latitude": 55.444321,
+      "longitude": 12.16344
+    },
+    {
+      "name": "Lego Studios 4D biograf",
+      "latitude": 55.733892,
+      "longitude": 9.12623
+    },
+    {
+      "name": "Legorado scenen",
+      "latitude": 55.735283,
+      "longitude": 9.1274
+    },
+    {
+      "name": "Lille Sal",
+      "latitude": 56.153147,
+      "longitude": 10.199261
+    },
+    {
+      "name": "Magasinet",
+      "latitude": 55.395287,
+      "longitude": 10.381144
+    },
+    {
+      "name": "Magneten",
+      "latitude": 55.697161,
+      "longitude": 12.60983
+    },
+    {
+      "name": "MantziusLive",
+      "latitude": 55.841682,
+      "longitude": 12.427516
+    },
+    {
+      "name": "Marionetteatret",
+      "latitude": 55.685547,
+      "longitude": 12.582838
+    },
+    {
+      "name": "Miniborg",
+      "latitude": 55.736509,
+      "longitude": 9.124757
+    },
+    {
+      "name": "Mogens Dahl Koncertsal",
+      "latitude": 55.663624,
+      "longitude": 12.576097
+    },
+    {
+      "name": "Momentum-Tidens Teater",
+      "latitude": 55.393202,
+      "longitude": 10.38154
+    },
+    {
+      "name": "Mungo Park",
+      "latitude": 55.868907,
+      "longitude": 12.354983
+    },
+    {
+      "name": "Munkebo Bakke Amfiscene",
+      "latitude": 55.467124,
+      "longitude": 10.570873
+    },
+    {
+      "name": "Musik og Teaterhuset",
+      "latitude": 55.191817,
+      "longitude": 9.065769
+    },
+    {
+      "name": "Musikhus Elværket",
+      "latitude": 55.719414,
+      "longitude": 11.712477
+    },
+    {
+      "name": "Musikhuzet",
+      "latitude": 55.102555,
+      "longitude": 14.6988
+    },
+    {
+      "name": "MusikTeatret Albertslund",
+      "latitude": 55.657093,
+      "longitude": 12.355828
+    },
+    {
+      "name": "Musikteatret Holstebro",
+      "latitude": 56.356667,
+      "longitude": 8.61678
+    },
+    {
+      "name": "Musikteatret Vejle",
+      "latitude": 55.710021,
+      "longitude": 9.53135
+    },
+    {
+      "name": "Mødesal",
+      "latitude": 55.464298,
+      "longitude": 8.451781
+    },
+    {
+      "name": "Mølleparkens Friluftscene",
+      "latitude": 54.916173,
+      "longitude": 9.793772
+    },
+    {
+      "name": "Nedergadeteatret",
+      "latitude": 55.394094,
+      "longitude": 10.347791
+    },
+    {
+      "name": "Nicolai Scene",
+      "latitude": 55.490706,
+      "longitude": 9.469943
+    },
+    {
+      "name": "Nyborg Voldspil",
+      "latitude": 55.313151,
+      "longitude": 10.78904
+    },
+    {
+      "name": "Nyborg Voldspils Billetkontor",
+      "latitude": 55.313142,
+      "longitude": 10.788758
+    },
+    {
+      "name": "Nykøbing F Teater",
+      "latitude": 54.767193,
+      "longitude": 11.86813
+    },
+    {
+      "name": "Nykøbing Falster Revyen",
+      "latitude": 54.767204,
+      "longitude": 11.867985
+    },
+    {
+      "name": "Nørrebro Teater",
+      "latitude": 55.688246,
+      "longitude": 12.561026
+    },
+    {
+      "name": "Nørregadeteatret",
+      "latitude": 54.776282,
+      "longitude": 11.499505
+    },
+    {
+      "name": "Odense Koncerthus",
+      "latitude": 55.399619,
+      "longitude": 10.392414
+    },
+    {
+      "name": "Odense Teater",
+      "latitude": 55.398483,
+      "longitude": 10.38534
+    },
+    {
+      "name": "Odeon",
+      "latitude": 55.400147,
+      "longitude": 10.391786
+    },
+    {
+      "name": "Odsherred Teater",
+      "latitude": 55.922451,
+      "longitude": 11.669567
+    },
+    {
+      "name": "Opera Hedeland",
+      "latitude": 55.624177,
+      "longitude": 12.174461
+    },
+    {
+      "name": "Operaen",
+      "latitude": 55.681826,
+      "longitude": 12.600759
+    },
+    {
+      "name": "Outdoor Scene",
+      "latitude": 55.738015,
+      "longitude": 9.113607
+    },
+    {
+      "name": "Padborg Friluftsscene",
+      "latitude": 54.82249,
+      "longitude": 9.370156
+    },
+    {
+      "name": "Pantomimeteatret",
+      "latitude": 55.67448,
+      "longitude": 12.566509
+    },
+    {
+      "name": "Pavillon K",
+      "latitude": 55.007992,
+      "longitude": 11.900481
+    },
+    {
+      "name": "Perronteatret Goglertruppen",
+      "latitude": 54.856104,
+      "longitude": 11.885636
+    },
+    {
+      "name": "Play",
+      "latitude": 55.666982,
+      "longitude": 12.620624
+    },
+    {
+      "name": "Portalen, Greve Teater- & Musikhus",
+      "latitude": 55.598321,
+      "longitude": 12.332397
+    },
+    {
+      "name": "Randers Teater",
+      "latitude": 56.465464,
+      "longitude": 10.032923
+    },
+    {
+      "name": "Raschs Pakhuz",
+      "latitude": 55.102807,
+      "longitude": 14.698624
+    },
+    {
+      "name": "Rasmus Klumps hus",
+      "latitude": 55.674369,
+      "longitude": 12.569474
+    },
+    {
+      "name": "Ravnsholt Friluftsscene",
+      "latitude": 55.856312,
+      "longitude": 12.345644
+    },
+    {
+      "name": "Revolver",
+      "latitude": 55.706352,
+      "longitude": 12.575822
+    },
+    {
+      "name": "Riddersalen",
+      "latitude": 55.675954,
+      "longitude": 12.531692
+    },
+    {
+      "name": "Rosenteatret",
+      "latitude": 56.158176,
+      "longitude": 10.210653
+    },
+    {
+      "name": "Rottefælden",
+      "latitude": 55.067776,
+      "longitude": 10.620999
+    },
+    {
+      "name": "Rytmisk Sal",
+      "latitude": 56.153329,
+      "longitude": 10.198333
+    },
+    {
+      "name": "Rønne Theater",
+      "latitude": 55.099609,
+      "longitude": 14.699126
+    },
+    {
+      "name": "Skive Theater",
+      "latitude": 56.56787,
+      "longitude": 9.025482
+    },
+    {
+      "name": "Skovlunde Friluftsscene",
+      "latitude": 55.717536,
+      "longitude": 12.404571
+    },
+    {
+      "name": "Skovrock",
+      "latitude": 57.041614,
+      "longitude": 9.907607
+    },
+    {
+      "name": "Skuespilhuset",
+      "latitude": 55.680136,
+      "longitude": 12.594756
+    },
+    {
+      "name": "Slagelse Musikhus",
+      "latitude": 55.406324,
+      "longitude": 11.35273
+    },
+    {
+      "name": "Slagelse Teater",
+      "latitude": 55.403602,
+      "longitude": 11.348253
+    },
+    {
+      "name": "Slesvigske Musikhus",
+      "latitude": 55.255997,
+      "longitude": 9.487021
+    },
+    {
+      "name": "Slotsmøllen",
+      "latitude": 55.313169,
+      "longitude": 10.78904
+    },
+    {
+      "name": "sløjdscenen",
+      "latitude": 55.469961,
+      "longitude": 9.107639
+    },
+    {
+      "name": "Store Sal",
+      "latitude": 56.152854,
+      "longitude": 10.199103
+    },
+    {
+      "name": "Studio 73 - Vejen fritidsteater",
+      "latitude": 55.483535,
+      "longitude": 9.138731
+    },
+    {
+      "name": "Støbeskeen",
+      "latitude": 55.974564,
+      "longitude": 12.013314
+    },
+    {
+      "name": "Svalegangen",
+      "latitude": 56.152045,
+      "longitude": 10.206277
+    },
+    {
+      "name": "Svendborg Teater",
+      "latitude": 55.060638,
+      "longitude": 10.608258
+    },
+    {
+      "name": "Symfonisk Sal",
+      "latitude": 56.153153,
+      "longitude": 10.198088
+    },
+    {
+      "name": "Sø-scenen",
+      "latitude": 55.055622,
+      "longitude": 9.766921
+    },
+    {
+      "name": "Søholm Opera",
+      "latitude": 55.952252,
+      "longitude": 10.558291
+    },
+    {
+      "name": "Sønderborg Teater",
+      "latitude": 54.905984,
+      "longitude": 9.787871
+    },
+    {
+      "name": "Taastrup Teater og Musikhus",
+      "latitude": 55.655273,
+      "longitude": 12.295721
+    },
+    {
+      "name": "TAP1",
+      "latitude": 55.671392,
+      "longitude": 12.622254
+    },
+    {
+      "name": "Team Teatret",
+      "latitude": 56.135596,
+      "longitude": 8.979903
+    },
+    {
+      "name": "Teater 95B",
+      "latitude": 55.394621,
+      "longitude": 10.379643
+    },
+    {
+      "name": "Teater Hund & Co.",
+      "latitude": 55.708427,
+      "longitude": 12.576593
+    },
+    {
+      "name": "Teater Katapult",
+      "latitude": 56.153574,
+      "longitude": 10.193986
+    },
+    {
+      "name": "Teater Momentum",
+      "latitude": 55.392807,
+      "longitude": 10.381353
+    },
+    {
+      "name": "Teater Nordkraft",
+      "latitude": 57.046443,
+      "longitude": 9.932865
+    },
+    {
+      "name": "Teater og Oplevelseshuset",
+      "latitude": 57.457285,
+      "longitude": 9.987626
+    },
+    {
+      "name": "Teater Refleksion",
+      "latitude": 56.154239,
+      "longitude": 10.203589
+    },
+    {
+      "name": "Teater Republique",
+      "latitude": 55.705693,
+      "longitude": 12.574679
+    },
+    {
+      "name": "Teater V",
+      "latitude": 55.664596,
+      "longitude": 12.509822
+    },
+    {
+      "name": "Teater Vestvolden",
+      "latitude": 55.64272,
+      "longitude": 12.479128
+    },
+    {
+      "name": "Teaterbygningen Fanefjord",
+      "latitude": 54.91429,
+      "longitude": 12.16004
+    },
+    {
+      "name": "Teaterhuset",
+      "latitude": 55.465273,
+      "longitude": 8.453702
+    },
+    {
+      "name": "Teatersalen",
+      "latitude": 55.464291,
+      "longitude": 8.452001
+    },
+    {
+      "name": "Teaterøen",
+      "latitude": 55.634095,
+      "longitude": 12.577822
+    },
+    {
+      "name": "Teatret Gruppe 38",
+      "latitude": 56.163206,
+      "longitude": 10.227462
+    },
+    {
+      "name": "Teatret Masken",
+      "latitude": 54.76447,
+      "longitude": 11.872401
+    },
+    {
+      "name": "Teatret Møllen",
+      "latitude": 55.247957,
+      "longitude": 9.489279
+    },
+    {
+      "name": "Teatret ved Sorte Hest",
+      "latitude": 55.670329,
+      "longitude": 12.539804
+    },
+    {
+      "name": "Teatret Ved Sorte Hest",
+      "latitude": 55.670543,
+      "longitude": 12.539949
+    },
+    {
+      "name": "Teatret Zeppelin",
+      "latitude": 55.670884,
+      "longitude": 12.548764
+    },
+    {
+      "name": "Theater Møn",
+      "latitude": 54.97204,
+      "longitude": 12.480881
+    },
+    {
+      "name": "Thisted Friluftsteater",
+      "latitude": 56.956014,
+      "longitude": 8.68856
+    },
+    {
+      "name": "Thisted Musikteater",
+      "latitude": 56.954972,
+      "longitude": 8.694212
+    },
+    {
+      "name": "Thy Teater",
+      "latitude": 56.953478,
+      "longitude": 8.687953
+    },
+    {
+      "name": "Tivolis Koncertsal",
+      "latitude": 55.672835,
+      "longitude": 12.568836
+    },
+    {
+      "name": "Tårnby Teater",
+      "latitude": 55.632266,
+      "longitude": 12.601026
+    },
+    {
+      "name": "Tåstrup Amatørscene",
+      "latitude": 55.649931,
+      "longitude": 12.300694
+    },
+    {
+      "name": "Ulvedalene",
+      "latitude": 55.78143,
+      "longitude": 12.563634
+    },
+    {
+      "name": "Varde Friluftsscene",
+      "latitude": 55.621125,
+      "longitude": 8.485471
+    },
+    {
+      "name": "Vendelbohus",
+      "latitude": 57.462437,
+      "longitude": 9.983738
+    },
+    {
+      "name": "Viborg Teater",
+      "latitude": 56.451097,
+      "longitude": 9.406159
+    },
+    {
+      "name": "Zangenbergs Teater",
+      "latitude": 55.681612,
+      "longitude": 12.578205
+    },
+    {
+      "name": "Zebu",
+      "latitude": 55.65806,
+      "longitude": 12.608693
+    },
+    {
+      "name": "Zoo Scenen",
+      "latitude": 55.377063,
+      "longitude": 10.372352
+    },
+    {
+      "name": "Åben Dans",
+      "latitude": 55.628762,
+      "longitude": 12.084201
+    },
+    {
+      "name": "Åbne Scene",
+      "latitude": 56.153482,
+      "longitude": 10.193857
+    },
+    {
+      "name": "Ølsted Sommerscene",
+      "latitude": 55.918427,
+      "longitude": 12.065419
+    },
+    {
+      "name": "Østre Gasværk Teater",
+      "latitude": 55.71011,
+      "longitude": 12.581841
+    }
+  ],
+  "meta": {
+    "title": "Teatre i Danmark – OpenStreetMap (Theatres in Denmark, OSM) - Gratis download",
+    "description": "Liste over 218 teatre i Danmark fra OpenStreetMap (amenity=theatre) — navn og koordinater (WGS84). Indeholder 218 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Teatre i Danmark – OpenStreetMap (Theatres in Denmark, OSM) | ListBase",
+    "seo_description": "Download Teatre i Danmark – OpenStreetMap (Theatres in Denmark, OSM) — 218 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 218 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

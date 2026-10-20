@@ -1,0 +1,1151 @@
+{
+  "id": "da-udsigtspunkter",
+  "name": "Udsigtspunkter i Danmark – OpenStreetMap (Viewpoints in Denmark, OSM)",
+  "title": "Udsigtspunkter i Danmark – OpenStreetMap (Viewpoints in Denmark, OSM)",
+  "description": "Liste over 222 udsigtspunkter i Danmark fra OpenStreetMap (tourism=viewpoint) — navn og koordinater (WGS84).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 222,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1000 års Skoven",
+      "latitude": 55.381602,
+      "longitude": 10.338741
+    },
+    {
+      "name": "Aftægten",
+      "latitude": 55.2854,
+      "longitude": 8.94161
+    },
+    {
+      "name": "Allice's Bakke",
+      "latitude": 54.99883,
+      "longitude": 12.298823
+    },
+    {
+      "name": "Alsbjerg",
+      "latitude": 56.987668,
+      "longitude": 10.002547
+    },
+    {
+      "name": "Alsik PoV",
+      "latitude": 54.914319,
+      "longitude": 9.783327
+    },
+    {
+      "name": "Atterhøj",
+      "latitude": 57.026921,
+      "longitude": 8.625884
+    },
+    {
+      "name": "Avnbjerg",
+      "latitude": 54.907699,
+      "longitude": 9.721292
+    },
+    {
+      "name": "Ballum Bjerg",
+      "latitude": 55.268098,
+      "longitude": 8.948176
+    },
+    {
+      "name": "Baunen",
+      "latitude": 55.346709,
+      "longitude": 11.587838
+    },
+    {
+      "name": "Birkehøj",
+      "latitude": 56.15827,
+      "longitude": 9.576226
+    },
+    {
+      "name": "Bjerget",
+      "latitude": 55.586465,
+      "longitude": 9.759957
+    },
+    {
+      "name": "Bjerget",
+      "latitude": 55.636341,
+      "longitude": 12.504449
+    },
+    {
+      "name": "Bjerget Udsigtspunkt",
+      "latitude": 55.212714,
+      "longitude": 10.225803
+    },
+    {
+      "name": "Blokhus kanonudsigt (nord)",
+      "latitude": 57.254741,
+      "longitude": 9.580908
+    },
+    {
+      "name": "Blokhus kanonudsigt (syd)",
+      "latitude": 57.254396,
+      "longitude": 9.579897
+    },
+    {
+      "name": "Blushøj Camping",
+      "latitude": 56.167608,
+      "longitude": 10.73147
+    },
+    {
+      "name": "Blåvands Huk",
+      "latitude": 55.558749,
+      "longitude": 8.077614
+    },
+    {
+      "name": "Bornholmertårnet",
+      "latitude": 55.001882,
+      "longitude": 15.073499
+    },
+    {
+      "name": "Bregnebjerg",
+      "latitude": 55.513532,
+      "longitude": 10.651687
+    },
+    {
+      "name": "Broager Dæk",
+      "latitude": 54.884482,
+      "longitude": 9.733623
+    },
+    {
+      "name": "Bruns Banke",
+      "latitude": 54.727481,
+      "longitude": 10.696827
+    },
+    {
+      "name": "Bursklint",
+      "latitude": 56.102598,
+      "longitude": 10.537175
+    },
+    {
+      "name": "Bykrog Bjerge",
+      "latitude": 55.750478,
+      "longitude": 8.213448
+    },
+    {
+      "name": "Bøgebakke",
+      "latitude": 56.140707,
+      "longitude": 9.968915
+    },
+    {
+      "name": "Christiansborg Slotstårn",
+      "latitude": 55.67628,
+      "longitude": 12.580424
+    },
+    {
+      "name": "Cigaren",
+      "latitude": 56.952791,
+      "longitude": 8.361613
+    },
+    {
+      "name": "Damsbjerg",
+      "latitude": 56.123599,
+      "longitude": 9.917974
+    },
+    {
+      "name": "Den Gamle Golfbane",
+      "latitude": 55.792633,
+      "longitude": 12.360344
+    },
+    {
+      "name": "Dirkbakken",
+      "latitude": 55.005876,
+      "longitude": 12.30305
+    },
+    {
+      "name": "Dronning Margrethe den II.s udsigt",
+      "latitude": 55.226963,
+      "longitude": 9.425221
+    },
+    {
+      "name": "Dronningestenen",
+      "latitude": 55.105524,
+      "longitude": 14.893385
+    },
+    {
+      "name": "Dronningestolen",
+      "latitude": 56.163722,
+      "longitude": 9.562973
+    },
+    {
+      "name": "Dronningeudsigten",
+      "latitude": 55.176082,
+      "longitude": 10.212776
+    },
+    {
+      "name": "Dyrehøj",
+      "latitude": 55.940621,
+      "longitude": 11.509942
+    },
+    {
+      "name": "Ellemandsbjerg",
+      "latitude": 56.116721,
+      "longitude": 10.524671
+    },
+    {
+      "name": "Elsbjerg",
+      "latitude": 55.038799,
+      "longitude": 9.811753
+    },
+    {
+      "name": "Fakse Kalkbrud",
+      "latitude": 55.255486,
+      "longitude": 12.123136
+    },
+    {
+      "name": "Fandens Eng",
+      "latitude": 55.942964,
+      "longitude": 8.579849
+    },
+    {
+      "name": "Fejlbergs Banke",
+      "latitude": 55.751993,
+      "longitude": 8.226884
+    },
+    {
+      "name": "Flagbakken",
+      "latitude": 57.718817,
+      "longitude": 10.545331
+    },
+    {
+      "name": "Forballum",
+      "latitude": 55.108698,
+      "longitude": 8.715947
+    },
+    {
+      "name": "Forchhammers Pynt",
+      "latitude": 54.968727,
+      "longitude": 12.550279
+    },
+    {
+      "name": "Frederik den VII's høj",
+      "latitude": 56.133591,
+      "longitude": 9.502883
+    },
+    {
+      "name": "Fredningssten",
+      "latitude": 55.010793,
+      "longitude": 12.006238
+    },
+    {
+      "name": "Frøbakke",
+      "latitude": 56.050212,
+      "longitude": 12.087853
+    },
+    {
+      "name": "Fyns Vestligste Punkt",
+      "latitude": 55.513357,
+      "longitude": 9.677091
+    },
+    {
+      "name": "Fårebakkerne",
+      "latitude": 55.194389,
+      "longitude": 11.838537
+    },
+    {
+      "name": "Galgebakke",
+      "latitude": 55.376232,
+      "longitude": 11.335387
+    },
+    {
+      "name": "Galgebakken",
+      "latitude": 55.052041,
+      "longitude": 9.414697
+    },
+    {
+      "name": "Galgebakken",
+      "latitude": 56.073306,
+      "longitude": 9.70614
+    },
+    {
+      "name": "Gammel Slot",
+      "latitude": 55.542112,
+      "longitude": 9.776389
+    },
+    {
+      "name": "Gammelborg",
+      "latitude": 55.113385,
+      "longitude": 14.907592
+    },
+    {
+      "name": "Gammelkol",
+      "latitude": 56.124972,
+      "longitude": 9.695981
+    },
+    {
+      "name": "Geilgård Bakke",
+      "latitude": 56.559212,
+      "longitude": 8.422724
+    },
+    {
+      "name": "Granathøj",
+      "latitude": 55.601687,
+      "longitude": 12.556123
+    },
+    {
+      "name": "Grand view",
+      "latitude": 55.673509,
+      "longitude": 12.582532
+    },
+    {
+      "name": "Granhøj Udsigtspunkt",
+      "latitude": 55.813656,
+      "longitude": 10.605311
+    },
+    {
+      "name": "Gråyg Fald",
+      "latitude": 54.959077,
+      "longitude": 12.549838
+    },
+    {
+      "name": "Græderen",
+      "latitude": 54.963468,
+      "longitude": 12.550565
+    },
+    {
+      "name": "Gyldenbjerg",
+      "latitude": 55.125678,
+      "longitude": 9.556749
+    },
+    {
+      "name": "Hald, den offentlige strandgrund",
+      "latitude": 55.998258,
+      "longitude": 11.919349
+    },
+    {
+      "name": "Hanehoved",
+      "latitude": 55.966303,
+      "longitude": 11.987888
+    },
+    {
+      "name": "Hanklit",
+      "latitude": 56.895063,
+      "longitude": 8.751731
+    },
+    {
+      "name": "Harehøje",
+      "latitude": 56.039099,
+      "longitude": 12.046883
+    },
+    {
+      "name": "Harkens Bakke",
+      "latitude": 57.146409,
+      "longitude": 9.02798
+    },
+    {
+      "name": "Hashøj",
+      "latitude": 55.374662,
+      "longitude": 11.334458
+    },
+    {
+      "name": "Hattebjerget",
+      "latitude": 55.803858,
+      "longitude": 8.192239
+    },
+    {
+      "name": "Havhøj",
+      "latitude": 55.467961,
+      "longitude": 12.190486
+    },
+    {
+      "name": "Havørnekig",
+      "latitude": 55.136854,
+      "longitude": 12.006402
+    },
+    {
+      "name": "Herstedhøje",
+      "latitude": 55.689098,
+      "longitude": 12.364027
+    },
+    {
+      "name": "Hesbjerg",
+      "latitude": 55.371967,
+      "longitude": 10.21025
+    },
+    {
+      "name": "Hesbjerg",
+      "latitude": 55.37226,
+      "longitude": 10.211695
+    },
+    {
+      "name": "Hesbjerg",
+      "latitude": 56.10675,
+      "longitude": 12.354099
+    },
+    {
+      "name": "Hjerpsted Strand",
+      "latitude": 55.026682,
+      "longitude": 8.637745
+    },
+    {
+      "name": "Holgers kig",
+      "latitude": 54.964712,
+      "longitude": 12.550845
+    },
+    {
+      "name": "Holing Sø Udsigtpunkt",
+      "latitude": 56.163962,
+      "longitude": 8.947506
+    },
+    {
+      "name": "Holmen",
+      "latitude": 56.716224,
+      "longitude": 9.341361
+    },
+    {
+      "name": "Holtser Hage",
+      "latitude": 55.691608,
+      "longitude": 9.663491
+    },
+    {
+      "name": "Hotel Munkebjerg",
+      "latitude": 55.687475,
+      "longitude": 9.616101
+    },
+    {
+      "name": "Husbjerg klit",
+      "latitude": 55.573265,
+      "longitude": 8.180334
+    },
+    {
+      "name": "Hvidbjerg Klit",
+      "latitude": 55.640319,
+      "longitude": 9.74359
+    },
+    {
+      "name": "Hvidskud Fruestuefald",
+      "latitude": 54.955891,
+      "longitude": 12.549672
+    },
+    {
+      "name": "Hvidørepynten",
+      "latitude": 55.771922,
+      "longitude": 12.596375
+    },
+    {
+      "name": "Hyllekrog Fyr",
+      "latitude": 54.594977,
+      "longitude": 11.503847
+    },
+    {
+      "name": "Hyllingebjerg",
+      "latitude": 56.005861,
+      "longitude": 11.939089
+    },
+    {
+      "name": "Høje Klæbjerg",
+      "latitude": 56.100627,
+      "longitude": 10.525478
+    },
+    {
+      "name": "Høje Knøs",
+      "latitude": 55.733778,
+      "longitude": 9.538116
+    },
+    {
+      "name": "Isbjerg",
+      "latitude": 55.642512,
+      "longitude": 8.45175
+    },
+    {
+      "name": "Jens Jessens Sande",
+      "latitude": 55.544399,
+      "longitude": 8.217071
+    },
+    {
+      "name": "Jernhatten",
+      "latitude": 56.244812,
+      "longitude": 10.787045
+    },
+    {
+      "name": "Jyllands Midtpunkt",
+      "latitude": 56.43715,
+      "longitude": 9.250922
+    },
+    {
+      "name": "Kammerdal Høj",
+      "latitude": 57.081728,
+      "longitude": 9.924248
+    },
+    {
+      "name": "Kammerslusen",
+      "latitude": 55.340011,
+      "longitude": 8.676097
+    },
+    {
+      "name": "Karen Sofies Høj",
+      "latitude": 55.859381,
+      "longitude": 12.373375
+    },
+    {
+      "name": "kignæs",
+      "latitude": 55.851793,
+      "longitude": 12.028517
+    },
+    {
+      "name": "Kløvbakke",
+      "latitude": 55.724877,
+      "longitude": 8.263218
+    },
+    {
+      "name": "Kongehøj",
+      "latitude": 55.34604,
+      "longitude": 11.146334
+    },
+    {
+      "name": "Kongestolen",
+      "latitude": 56.121684,
+      "longitude": 9.613736
+    },
+    {
+      "name": "Kongsbjerg",
+      "latitude": 54.965199,
+      "longitude": 12.507719
+    },
+    {
+      "name": "Korsbjerg",
+      "latitude": 55.387446,
+      "longitude": 11.371448
+    },
+    {
+      "name": "Kragbjerg Høj",
+      "latitude": 56.487332,
+      "longitude": 9.815707
+    },
+    {
+      "name": "Krangs Stub",
+      "latitude": 54.955819,
+      "longitude": 11.543219
+    },
+    {
+      "name": "Kroghs Bænk",
+      "latitude": 56.146504,
+      "longitude": 9.545232
+    },
+    {
+      "name": "Kys-mig-straks-huset",
+      "latitude": 55.683024,
+      "longitude": 9.753562
+    },
+    {
+      "name": "Kælkebakken",
+      "latitude": 55.485053,
+      "longitude": 8.439562
+    },
+    {
+      "name": "Kælkebakken",
+      "latitude": 55.514317,
+      "longitude": 8.393013
+    },
+    {
+      "name": "Kælkebakken",
+      "latitude": 56.13935,
+      "longitude": 9.043134
+    },
+    {
+      "name": "Lille Østrig",
+      "latitude": 55.422413,
+      "longitude": 8.974842
+    },
+    {
+      "name": "Lilletåen",
+      "latitude": 55.756037,
+      "longitude": 9.290048
+    },
+    {
+      "name": "Lokes høje",
+      "latitude": 55.421799,
+      "longitude": 9.114484
+    },
+    {
+      "name": "Lokeshøj",
+      "latitude": 55.83877,
+      "longitude": 12.573183
+    },
+    {
+      "name": "Lovisehøj",
+      "latitude": 56.151711,
+      "longitude": 9.587953
+    },
+    {
+      "name": "Lyngbjerg udsigtspunkt",
+      "latitude": 56.708343,
+      "longitude": 9.343164
+    },
+    {
+      "name": "Låddenhøj",
+      "latitude": 55.585996,
+      "longitude": 9.745273
+    },
+    {
+      "name": "Lønne Kirke Klit",
+      "latitude": 55.791691,
+      "longitude": 8.233308
+    },
+    {
+      "name": "Maglebjerg",
+      "latitude": 55.566398,
+      "longitude": 11.578447
+    },
+    {
+      "name": "Marbæk Høj",
+      "latitude": 55.565624,
+      "longitude": 8.333134
+    },
+    {
+      "name": "Marens Maw",
+      "latitude": 56.303866,
+      "longitude": 8.131918
+    },
+    {
+      "name": "Maskenkol",
+      "latitude": 56.104972,
+      "longitude": 9.746329
+    },
+    {
+      "name": "Mulbjerge",
+      "latitude": 56.907906,
+      "longitude": 10.258936
+    },
+    {
+      "name": "Mussebakken",
+      "latitude": 56.0707,
+      "longitude": 9.704697
+    },
+    {
+      "name": "Møgelkol",
+      "latitude": 56.031098,
+      "longitude": 9.727863
+    },
+    {
+      "name": "Møllebakken",
+      "latitude": 55.877323,
+      "longitude": 11.173329
+    },
+    {
+      "name": "Møllebakken",
+      "latitude": 56.215355,
+      "longitude": 9.445015
+    },
+    {
+      "name": "Mønsted Kalkgruber",
+      "latitude": 56.456071,
+      "longitude": 9.166327
+    },
+    {
+      "name": "Navet",
+      "latitude": 56.955654,
+      "longitude": 9.564986
+    },
+    {
+      "name": "Nellerendefald",
+      "latitude": 54.959874,
+      "longitude": 12.550487
+    },
+    {
+      "name": "Nordbjerg",
+      "latitude": 57.112859,
+      "longitude": 9.321079
+    },
+    {
+      "name": "Nordbro tower",
+      "latitude": 55.702738,
+      "longitude": 12.539032
+    },
+    {
+      "name": "Nøgenbjerg",
+      "latitude": 56.286205,
+      "longitude": 8.141931
+    },
+    {
+      "name": "Nørlev Strand",
+      "latitude": 57.501502,
+      "longitude": 9.86019
+    },
+    {
+      "name": "Penbjerg",
+      "latitude": 56.836874,
+      "longitude": 8.260032
+    },
+    {
+      "name": "Pikkerbakken",
+      "latitude": 57.415303,
+      "longitude": 10.513285
+    },
+    {
+      "name": "Pumpehuset",
+      "latitude": 55.579579,
+      "longitude": 10.147062
+    },
+    {
+      "name": "Pumpestation Øst",
+      "latitude": 55.930028,
+      "longitude": 8.525541
+    },
+    {
+      "name": "Risby Vandværkshøj",
+      "latitude": 55.688853,
+      "longitude": 12.330272
+    },
+    {
+      "name": "Roborg Ladeplads",
+      "latitude": 55.451502,
+      "longitude": 8.558461
+    },
+    {
+      "name": "Runkenbjerg",
+      "latitude": 55.653674,
+      "longitude": 9.288602
+    },
+    {
+      "name": "Ryethøj",
+      "latitude": 55.792816,
+      "longitude": 12.342026
+    },
+    {
+      "name": "Rævebjerg",
+      "latitude": 55.029916,
+      "longitude": 9.578517
+    },
+    {
+      "name": "Røjle Klint",
+      "latitude": 55.551244,
+      "longitude": 9.80565
+    },
+    {
+      "name": "Salling ROOFTOP",
+      "latitude": 56.154544,
+      "longitude": 10.206893
+    },
+    {
+      "name": "Salling ROOFTOP",
+      "latitude": 57.047366,
+      "longitude": 9.922259
+    },
+    {
+      "name": "Samlingspunkt for Midtsø og Nedersø",
+      "latitude": 55.37185,
+      "longitude": 9.222684
+    },
+    {
+      "name": "Sankt Nicolajs Bjerg",
+      "latitude": 56.962463,
+      "longitude": 9.561413
+    },
+    {
+      "name": "Sillebjerg",
+      "latitude": 56.067133,
+      "longitude": 9.714536
+    },
+    {
+      "name": "Skallerup",
+      "latitude": 57.496739,
+      "longitude": 9.851613
+    },
+    {
+      "name": "Skansebakken",
+      "latitude": 55.934025,
+      "longitude": 12.335554
+    },
+    {
+      "name": "Skansen",
+      "latitude": 55.054674,
+      "longitude": 10.621029
+    },
+    {
+      "name": "Skovhøj",
+      "latitude": 55.595889,
+      "longitude": 12.550936
+    },
+    {
+      "name": "Skyum bjerge",
+      "latitude": 56.846007,
+      "longitude": 8.606383
+    },
+    {
+      "name": "Skårup Høje",
+      "latitude": 57.041982,
+      "longitude": 9.010707
+    },
+    {
+      "name": "Slettre Bakke",
+      "latitude": 55.908174,
+      "longitude": 11.714125
+    },
+    {
+      "name": "Sliewbakke",
+      "latitude": 56.757245,
+      "longitude": 8.836194
+    },
+    {
+      "name": "Sneglehøjen",
+      "latitude": 55.354117,
+      "longitude": 10.442122
+    },
+    {
+      "name": "Sneum Digesø",
+      "latitude": 55.434011,
+      "longitude": 8.607212
+    },
+    {
+      "name": "Solnedskrænten",
+      "latitude": 55.012501,
+      "longitude": 12.501401
+    },
+    {
+      "name": "Sortbjerg",
+      "latitude": 55.476216,
+      "longitude": 9.28503
+    },
+    {
+      "name": "SSW",
+      "latitude": 55.104413,
+      "longitude": 10.260913
+    },
+    {
+      "name": "Stendyssehøj",
+      "latitude": 57.563416,
+      "longitude": 10.000806
+    },
+    {
+      "name": "Stensbjerg",
+      "latitude": 55.769014,
+      "longitude": 11.80868
+    },
+    {
+      "name": "Stevns Kridtbrud",
+      "latitude": 55.322784,
+      "longitude": 12.436305
+    },
+    {
+      "name": "Stigsborghøjen",
+      "latitude": 57.056442,
+      "longitude": 9.9433
+    },
+    {
+      "name": "Stokmile",
+      "latitude": 57.705694,
+      "longitude": 10.552824
+    },
+    {
+      "name": "Store Høj",
+      "latitude": 55.616986,
+      "longitude": 12.562861
+    },
+    {
+      "name": "Store Råbjerg",
+      "latitude": 55.729182,
+      "longitude": 9.001809
+    },
+    {
+      "name": "Storebjerg",
+      "latitude": 55.95805,
+      "longitude": 11.8623
+    },
+    {
+      "name": "Storeknøs",
+      "latitude": 56.111455,
+      "longitude": 9.644918
+    },
+    {
+      "name": "Storkebakken",
+      "latitude": 56.96353,
+      "longitude": 9.668629
+    },
+    {
+      "name": "Strandstation 1",
+      "latitude": 55.663009,
+      "longitude": 12.638498
+    },
+    {
+      "name": "Strandstation 2",
+      "latitude": 55.65827,
+      "longitude": 12.642807
+    },
+    {
+      "name": "Strandstation 3",
+      "latitude": 55.654578,
+      "longitude": 12.649151
+    },
+    {
+      "name": "Strandstation 4",
+      "latitude": 55.651122,
+      "longitude": 12.646631
+    },
+    {
+      "name": "Strandstation 5",
+      "latitude": 55.648494,
+      "longitude": 12.647164
+    },
+    {
+      "name": "Støvlen",
+      "latitude": 54.932629,
+      "longitude": 9.773197
+    },
+    {
+      "name": "Svenskehøjen",
+      "latitude": 55.320806,
+      "longitude": 10.768603
+    },
+    {
+      "name": "Svinklovene",
+      "latitude": 57.147341,
+      "longitude": 9.29651
+    },
+    {
+      "name": "SW",
+      "latitude": 55.101511,
+      "longitude": 10.262586
+    },
+    {
+      "name": "Søbakke",
+      "latitude": 56.195158,
+      "longitude": 10.096127
+    },
+    {
+      "name": "Sønderbjerg",
+      "latitude": 56.691028,
+      "longitude": 11.539524
+    },
+    {
+      "name": "Sønderholmen udsigtspunkt",
+      "latitude": 56.703339,
+      "longitude": 9.324742
+    },
+    {
+      "name": "Sønderkol",
+      "latitude": 56.830499,
+      "longitude": 9.835898
+    },
+    {
+      "name": "Tejnebjerg",
+      "latitude": 55.718224,
+      "longitude": 8.208786
+    },
+    {
+      "name": "Toppen",
+      "latitude": 57.118073,
+      "longitude": 9.284994
+    },
+    {
+      "name": "Tornby Bjerg",
+      "latitude": 57.534766,
+      "longitude": 9.976155
+    },
+    {
+      "name": "Tragten",
+      "latitude": 54.960502,
+      "longitude": 12.551095
+    },
+    {
+      "name": "Treldetoppen",
+      "latitude": 55.60874,
+      "longitude": 9.785072
+    },
+    {
+      "name": "Troldbjerg",
+      "latitude": 56.005061,
+      "longitude": 8.128412
+    },
+    {
+      "name": "Troldetoppen",
+      "latitude": 55.720431,
+      "longitude": 9.539187
+    },
+    {
+      "name": "Troldhøj",
+      "latitude": 55.642966,
+      "longitude": 8.506207
+    },
+    {
+      "name": "Træskohage Fyr",
+      "latitude": 55.680648,
+      "longitude": 9.746366
+    },
+    {
+      "name": "Tyrelodspynten",
+      "latitude": 55.701012,
+      "longitude": 9.533895
+    },
+    {
+      "name": "Tyvebakken",
+      "latitude": 56.858326,
+      "longitude": 8.327827
+    },
+    {
+      "name": "Tyvsbjerg",
+      "latitude": 55.878615,
+      "longitude": 11.142702
+    },
+    {
+      "name": "Tårnbjerg",
+      "latitude": 55.351551,
+      "longitude": 11.187946
+    },
+    {
+      "name": "Tårnborg Borgbanke",
+      "latitude": 55.351385,
+      "longitude": 11.188002
+    },
+    {
+      "name": "Udkigstårn",
+      "latitude": 56.768672,
+      "longitude": 9.207219
+    },
+    {
+      "name": "Udkigstårn",
+      "latitude": 57.293272,
+      "longitude": 9.818918
+    },
+    {
+      "name": "Udsigt over Langsande",
+      "latitude": 57.052037,
+      "longitude": 8.666999
+    },
+    {
+      "name": "Udsigt over Storebælt",
+      "latitude": 55.351025,
+      "longitude": 11.09409
+    },
+    {
+      "name": "Udsigten",
+      "latitude": 55.097963,
+      "longitude": 10.513511
+    },
+    {
+      "name": "Udsigten",
+      "latitude": 55.224345,
+      "longitude": 9.400477
+    },
+    {
+      "name": "Udsigten",
+      "latitude": 55.381931,
+      "longitude": 10.129563
+    },
+    {
+      "name": "Udsigten",
+      "latitude": 55.716948,
+      "longitude": 9.323662
+    },
+    {
+      "name": "Udsigten",
+      "latitude": 56.118966,
+      "longitude": 9.637487
+    },
+    {
+      "name": "Udsigtsplatform Sårup",
+      "latitude": 57.084054,
+      "longitude": 8.627517
+    },
+    {
+      "name": "Udsigtspunkt",
+      "latitude": 55.382185,
+      "longitude": 11.551585
+    },
+    {
+      "name": "Ulvehoved",
+      "latitude": 56.154783,
+      "longitude": 9.583583
+    },
+    {
+      "name": "Ulykken på Brede Å",
+      "latitude": 55.112751,
+      "longitude": 8.731562
+    },
+    {
+      "name": "Vang Pier",
+      "latitude": 55.245396,
+      "longitude": 14.729466
+    },
+    {
+      "name": "Veddinge Bakker",
+      "latitude": 55.837683,
+      "longitude": 11.484925
+    },
+    {
+      "name": "Velling Gavl",
+      "latitude": 56.043135,
+      "longitude": 9.487262
+    },
+    {
+      "name": "Velling Kalv",
+      "latitude": 56.044423,
+      "longitude": 9.490207
+    },
+    {
+      "name": "Vitmundts Nakke",
+      "latitude": 54.97218,
+      "longitude": 12.54893
+    },
+    {
+      "name": "Voderup Klint",
+      "latitude": 54.866,
+      "longitude": 10.334736
+    },
+    {
+      "name": "Vulkanen",
+      "latitude": 55.790058,
+      "longitude": 12.383361
+    },
+    {
+      "name": "Vågehøj",
+      "latitude": 55.737201,
+      "longitude": 10.893692
+    },
+    {
+      "name": "ZooLook",
+      "latitude": 55.670343,
+      "longitude": 12.519319
+    },
+    {
+      "name": "ZooLook",
+      "latitude": 55.674096,
+      "longitude": 12.522158
+    },
+    {
+      "name": "Åsebakken",
+      "latitude": 55.856206,
+      "longitude": 12.466236
+    },
+    {
+      "name": "Ø Bakker",
+      "latitude": 56.457346,
+      "longitude": 9.628449
+    },
+    {
+      "name": "Ørnumbanken",
+      "latitude": 55.355013,
+      "longitude": 11.167688
+    }
+  ],
+  "meta": {
+    "title": "Udsigtspunkter i Danmark – OpenStreetMap (Viewpoints in Denmark, OSM) - Gratis download",
+    "description": "Liste over 222 udsigtspunkter i Danmark fra OpenStreetMap (tourism=viewpoint) — navn og koordinater (WGS84). Indeholder 222 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Udsigtspunkter i Danmark – OpenStreetMap (Viewpoints in Denmark, OSM) | ListBase",
+    "seo_description": "Download Udsigtspunkter i Danmark – OpenStreetMap (Viewpoints in Denmark, OSM) — 222 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 222 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,2671 @@
+{
+  "id": "da-lystbaadehavne",
+  "name": "Lystbådehavne i Danmark – OpenStreetMap (Marinas in Denmark, OSM)",
+  "title": "Lystbådehavne i Danmark – OpenStreetMap (Marinas in Denmark, OSM)",
+  "description": "Liste over 526 lystbådehavne i Danmark fra OpenStreetMap (leisure=marina) — navn og koordinater (WGS84).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 526,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aabenraa Lystbådehavn",
+      "latitude": 55.03575,
+      "longitude": 9.423644
+    },
+    {
+      "name": "Aalborg Skudehavn",
+      "latitude": 57.058445,
+      "longitude": 9.896559
+    },
+    {
+      "name": "Aalbæk Havn",
+      "latitude": 57.592422,
+      "longitude": 10.429111
+    },
+    {
+      "name": "Aarhus Lystbådehavn",
+      "latitude": 56.1664,
+      "longitude": 10.222027
+    },
+    {
+      "name": "Aarø Havn",
+      "latitude": 55.260723,
+      "longitude": 9.730851
+    },
+    {
+      "name": "Agernæs Havn",
+      "latitude": 55.199961,
+      "longitude": 9.986866
+    },
+    {
+      "name": "Agersbæk Havn",
+      "latitude": 56.153974,
+      "longitude": 8.247672
+    },
+    {
+      "name": "Agersø Havn",
+      "latitude": 55.210884,
+      "longitude": 11.197883
+    },
+    {
+      "name": "Agger Havn",
+      "latitude": 56.777823,
+      "longitude": 8.255948
+    },
+    {
+      "name": "Aggersund Havn",
+      "latitude": 56.997407,
+      "longitude": 9.293422
+    },
+    {
+      "name": "Allinge Havn",
+      "latitude": 55.278493,
+      "longitude": 14.801582
+    },
+    {
+      "name": "Als Odde Bro",
+      "latitude": 56.705174,
+      "longitude": 10.328632
+    },
+    {
+      "name": "Amtoft Havn",
+      "latitude": 57.004978,
+      "longitude": 8.94382
+    },
+    {
+      "name": "Anholt havn",
+      "latitude": 56.715113,
+      "longitude": 11.512766
+    },
+    {
+      "name": "Ans Søplads",
+      "latitude": 56.314126,
+      "longitude": 9.586904
+    },
+    {
+      "name": "Arnager Havn",
+      "latitude": 55.050992,
+      "longitude": 14.780754
+    },
+    {
+      "name": "Asaa Havn",
+      "latitude": 57.14399,
+      "longitude": 10.427254
+    },
+    {
+      "name": "Askø Havn",
+      "latitude": 54.884664,
+      "longitude": 11.4826
+    },
+    {
+      "name": "Assens Marina",
+      "latitude": 55.268008,
+      "longitude": 9.885641
+    },
+    {
+      "name": "Attrup Havn Bådelaug",
+      "latitude": 57.037837,
+      "longitude": 9.455364
+    },
+    {
+      "name": "Auderød Havn",
+      "latitude": 55.988767,
+      "longitude": 12.083692
+    },
+    {
+      "name": "Augustenborg Havn",
+      "latitude": 54.943997,
+      "longitude": 9.87038
+    },
+    {
+      "name": "Augustenborg Yachthavn",
+      "latitude": 54.941962,
+      "longitude": 9.871071
+    },
+    {
+      "name": "Avernakø Bådehavn",
+      "latitude": 55.039852,
+      "longitude": 10.253924
+    },
+    {
+      "name": "Baagø Havn",
+      "latitude": 55.296954,
+      "longitude": 9.804107
+    },
+    {
+      "name": "Bagenkop Havn",
+      "latitude": 54.752031,
+      "longitude": 10.673353
+    },
+    {
+      "name": "Bakkerne Bådehavn",
+      "latitude": 54.999405,
+      "longitude": 14.98962
+    },
+    {
+      "name": "Balka Havn",
+      "latitude": 55.039652,
+      "longitude": 15.11113
+    },
+    {
+      "name": "Ballebro Jollehavn",
+      "latitude": 54.999415,
+      "longitude": 9.670842
+    },
+    {
+      "name": "Ballen Havn",
+      "latitude": 55.041845,
+      "longitude": 10.472677
+    },
+    {
+      "name": "Ballen Havn",
+      "latitude": 55.816466,
+      "longitude": 10.639733
+    },
+    {
+      "name": "BalleStrand NordHavn",
+      "latitude": 55.033951,
+      "longitude": 12.142876
+    },
+    {
+      "name": "Bandholm Havn",
+      "latitude": 54.837373,
+      "longitude": 11.489313
+    },
+    {
+      "name": "Barakkebroen",
+      "latitude": 55.667033,
+      "longitude": 12.741695
+    },
+    {
+      "name": "Birkholm Havn",
+      "latitude": 54.927317,
+      "longitude": 10.499332
+    },
+    {
+      "name": "Bisserup Havn",
+      "latitude": 55.199514,
+      "longitude": 11.491759
+    },
+    {
+      "name": "Bjerregård Havn",
+      "latitude": 55.880418,
+      "longitude": 8.1817
+    },
+    {
+      "name": "Bjørnø Landingsbro",
+      "latitude": 55.067443,
+      "longitude": 10.251623
+    },
+    {
+      "name": "Blans Havn",
+      "latitude": 54.868794,
+      "longitude": 11.431853
+    },
+    {
+      "name": "Boderne Havn",
+      "latitude": 55.022721,
+      "longitude": 14.904813
+    },
+    {
+      "name": "Boelsbro Bådehavn",
+      "latitude": 55.475008,
+      "longitude": 10.559183
+    },
+    {
+      "name": "Bogense Havn og Marina",
+      "latitude": 55.56623,
+      "longitude": 10.080183
+    },
+    {
+      "name": "Bogø Havn",
+      "latitude": 54.912655,
+      "longitude": 12.051929
+    },
+    {
+      "name": "Borgmesterbroen",
+      "latitude": 56.165261,
+      "longitude": 9.554739
+    },
+    {
+      "name": "Bork Havn",
+      "latitude": 55.84963,
+      "longitude": 8.27788
+    },
+    {
+      "name": "Bork Hytteby Havn",
+      "latitude": 55.832229,
+      "longitude": 8.26409
+    },
+    {
+      "name": "Brandsbøl Havn",
+      "latitude": 55.011246,
+      "longitude": 9.779584
+    },
+    {
+      "name": "Bregnør Havn",
+      "latitude": 55.486048,
+      "longitude": 10.597617
+    },
+    {
+      "name": "Brejning Lystbådehavn",
+      "latitude": 55.674772,
+      "longitude": 9.690986
+    },
+    {
+      "name": "Brøndby Havn",
+      "latitude": 55.608978,
+      "longitude": 12.442117
+    },
+    {
+      "name": "Bådelaug Havnestad",
+      "latitude": 55.660099,
+      "longitude": 12.56769
+    },
+    {
+      "name": "Bådelauget Bøgeskov",
+      "latitude": 55.627137,
+      "longitude": 9.748056
+    },
+    {
+      "name": "Bådklubben Sjællandsbroen",
+      "latitude": 55.637822,
+      "longitude": 12.543619
+    },
+    {
+      "name": "Bådklubben Vidå",
+      "latitude": 54.912572,
+      "longitude": 8.833758
+    },
+    {
+      "name": "Bøgeskov Havn",
+      "latitude": 55.369815,
+      "longitude": 12.415491
+    },
+    {
+      "name": "Bøjden Bro",
+      "latitude": 55.10654,
+      "longitude": 10.096236
+    },
+    {
+      "name": "Bølshavn",
+      "latitude": 55.154839,
+      "longitude": 15.076831
+    },
+    {
+      "name": "Bønnerup Lystbådehavn",
+      "latitude": 56.532898,
+      "longitude": 10.710859
+    },
+    {
+      "name": "Bøvlingbjerg Jollehavn",
+      "latitude": 56.418923,
+      "longitude": 8.203002
+    },
+    {
+      "name": "Christian Sørens Havn",
+      "latitude": 55.181329,
+      "longitude": 11.655235
+    },
+    {
+      "name": "Christianshavn",
+      "latitude": 55.676377,
+      "longitude": 12.596927
+    },
+    {
+      "name": "Christiansminde Bro",
+      "latitude": 55.059575,
+      "longitude": 10.634998
+    },
+    {
+      "name": "Christiansø Havn",
+      "latitude": 55.31953,
+      "longitude": 15.185815
+    },
+    {
+      "name": "Dageløkke Lystbådehavn",
+      "latitude": 55.062813,
+      "longitude": 10.861915
+    },
+    {
+      "name": "Damhus Å Havn",
+      "latitude": 56.350899,
+      "longitude": 8.24418
+    },
+    {
+      "name": "Doverodde Havn",
+      "latitude": 56.717515,
+      "longitude": 8.47399
+    },
+    {
+      "name": "Dragør Havn",
+      "latitude": 55.594044,
+      "longitude": 12.677675
+    },
+    {
+      "name": "Dragør Lystbådehavn",
+      "latitude": 55.590561,
+      "longitude": 12.678015
+    },
+    {
+      "name": "Drejø Gamle Havn",
+      "latitude": 54.974617,
+      "longitude": 10.420294
+    },
+    {
+      "name": "Drejø Havn",
+      "latitude": 54.965779,
+      "longitude": 10.436509
+    },
+    {
+      "name": "Dronningborg Lystbådehavn",
+      "latitude": 56.466965,
+      "longitude": 10.081511
+    },
+    {
+      "name": "Dybvig Havn",
+      "latitude": 54.944508,
+      "longitude": 11.4354
+    },
+    {
+      "name": "Dyreborg Havn",
+      "latitude": 55.071671,
+      "longitude": 10.217581
+    },
+    {
+      "name": "Dyvig Bro",
+      "latitude": 55.044318,
+      "longitude": 9.704529
+    },
+    {
+      "name": "Dyvig Bådelaug Lystbådehavn",
+      "latitude": 55.041777,
+      "longitude": 9.705255
+    },
+    {
+      "name": "Ebeltoft Havn",
+      "latitude": 56.195567,
+      "longitude": 10.669872
+    },
+    {
+      "name": "Ebeltoft Skudehavn",
+      "latitude": 56.190867,
+      "longitude": 10.668406
+    },
+    {
+      "name": "Egense Lystbådehavn",
+      "latitude": 56.98383,
+      "longitude": 10.30571
+    },
+    {
+      "name": "Egernsund Havn",
+      "latitude": 54.908566,
+      "longitude": 9.60249
+    },
+    {
+      "name": "Egå Marina",
+      "latitude": 56.209873,
+      "longitude": 10.289702
+    },
+    {
+      "name": "Ejby Havn",
+      "latitude": 55.695466,
+      "longitude": 11.837341
+    },
+    {
+      "name": "Ejerslev Havn",
+      "latitude": 56.918578,
+      "longitude": 8.922018
+    },
+    {
+      "name": "Endelave Havn",
+      "latitude": 55.762231,
+      "longitude": 10.272002
+    },
+    {
+      "name": "Ensted Havn",
+      "latitude": 55.02579,
+      "longitude": 9.439247
+    },
+    {
+      "name": "Errindlev Havn",
+      "latitude": 54.646115,
+      "longitude": 11.54983
+    },
+    {
+      "name": "Esbjerg Havn",
+      "latitude": 55.468144,
+      "longitude": 8.430268
+    },
+    {
+      "name": "Esbjerg Havn",
+      "latitude": 55.474479,
+      "longitude": 8.423994
+    },
+    {
+      "name": "Esbjerg Lystbådehavn",
+      "latitude": 55.48194,
+      "longitude": 8.410768
+    },
+    {
+      "name": "Esbjerg Strand Lystbådehavn",
+      "latitude": 55.482501,
+      "longitude": 8.4112
+    },
+    {
+      "name": "Esby havn",
+      "latitude": 56.128692,
+      "longitude": 10.557776
+    },
+    {
+      "name": "Espergærde Havn",
+      "latitude": 55.992416,
+      "longitude": 12.562441
+    },
+    {
+      "name": "Faldsled Havn",
+      "latitude": 55.152793,
+      "longitude": 10.143466
+    },
+    {
+      "name": "Fanø Lystbådehavn",
+      "latitude": 55.443401,
+      "longitude": 8.407948
+    },
+    {
+      "name": "Faurby Marina",
+      "latitude": 55.512501,
+      "longitude": 9.630428
+    },
+    {
+      "name": "Faxe Ladeplads Lystbådehavn A.m.b.a.",
+      "latitude": 55.213431,
+      "longitude": 12.159974
+    },
+    {
+      "name": "Fedhavnen",
+      "latitude": 55.170421,
+      "longitude": 12.091166
+    },
+    {
+      "name": "Felsted Kog Havn",
+      "latitude": 56.320142,
+      "longitude": 8.236603
+    },
+    {
+      "name": "Femø Havn",
+      "latitude": 54.972362,
+      "longitude": 11.51408
+    },
+    {
+      "name": "Fiskerhavnen",
+      "latitude": 55.642037,
+      "longitude": 12.543053
+    },
+    {
+      "name": "Fiskerihavn",
+      "latitude": 56.193738,
+      "longitude": 10.668481
+    },
+    {
+      "name": "Fiskerihavnen",
+      "latitude": 55.449485,
+      "longitude": 10.663135
+    },
+    {
+      "name": "Fiskerihavnen",
+      "latitude": 55.724537,
+      "longitude": 12.602993
+    },
+    {
+      "name": "Fjellebroen Havn",
+      "latitude": 55.059474,
+      "longitude": 10.380427
+    },
+    {
+      "name": "Fjordhavn",
+      "latitude": 56.008676,
+      "longitude": 8.132713
+    },
+    {
+      "name": "Flakfortet Havn",
+      "latitude": 55.702881,
+      "longitude": 12.730507
+    },
+    {
+      "name": "Fredensborg Havn",
+      "latitude": 55.977505,
+      "longitude": 12.379173
+    },
+    {
+      "name": "Fredericia Lystbådehavn",
+      "latitude": 55.5533,
+      "longitude": 9.729267
+    },
+    {
+      "name": "Frederikshavn Marina",
+      "latitude": 57.425561,
+      "longitude": 10.529762
+    },
+    {
+      "name": "Frederikssund Havn",
+      "latitude": 55.836135,
+      "longitude": 12.05389
+    },
+    {
+      "name": "Frederikssund Lystbådehavn",
+      "latitude": 55.826125,
+      "longitude": 12.05851
+    },
+    {
+      "name": "Frederiksværk Marina",
+      "latitude": 55.963249,
+      "longitude": 11.997217
+    },
+    {
+      "name": "Fur Havn",
+      "latitude": 56.803371,
+      "longitude": 9.02071
+    },
+    {
+      "name": "Fynshav Bådehavn",
+      "latitude": 54.992175,
+      "longitude": 9.985947
+    },
+    {
+      "name": "Fåborg Lystbådehavn",
+      "latitude": 55.094471,
+      "longitude": 10.238644
+    },
+    {
+      "name": "Fåborg Lystbådehavn",
+      "latitude": 55.097556,
+      "longitude": 10.232615
+    },
+    {
+      "name": "Færgehagen",
+      "latitude": 56.711168,
+      "longitude": 10.116046
+    },
+    {
+      "name": "Gambøt Lystbådehavn",
+      "latitude": 55.041821,
+      "longitude": 10.668417
+    },
+    {
+      "name": "Gamle Havn",
+      "latitude": 55.507942,
+      "longitude": 9.725148
+    },
+    {
+      "name": "Gamle Havn",
+      "latitude": 56.087616,
+      "longitude": 8.240361
+    },
+    {
+      "name": "Gammel Havn",
+      "latitude": 55.71478,
+      "longitude": 10.016084
+    },
+    {
+      "name": "Gammel Kalvehave Havn",
+      "latitude": 54.994575,
+      "longitude": 12.135996
+    },
+    {
+      "name": "Gammelhavn",
+      "latitude": 55.042143,
+      "longitude": 9.425475
+    },
+    {
+      "name": "Garderhøjens Havn",
+      "latitude": 55.400019,
+      "longitude": 12.317929
+    },
+    {
+      "name": "Gedser Lystbådehavn",
+      "latitude": 54.581018,
+      "longitude": 11.922441
+    },
+    {
+      "name": "Gershøj Havn",
+      "latitude": 55.716501,
+      "longitude": 11.980629
+    },
+    {
+      "name": "Gilleleje Havn",
+      "latitude": 56.127497,
+      "longitude": 12.310576
+    },
+    {
+      "name": "Gisseløre Lystbådehavn",
+      "latitude": 55.677492,
+      "longitude": 11.073072
+    },
+    {
+      "name": "Gjøl Fiskeri- og Lystbådehavn",
+      "latitude": 57.062331,
+      "longitude": 9.700911
+    },
+    {
+      "name": "Glyngøre Havn",
+      "latitude": 56.764225,
+      "longitude": 8.863977
+    },
+    {
+      "name": "Grenaa Marina",
+      "latitude": 56.404581,
+      "longitude": 10.922906
+    },
+    {
+      "name": "Greve Marina",
+      "latitude": 55.59482,
+      "longitude": 12.354919
+    },
+    {
+      "name": "Grevebroen",
+      "latitude": 54.903383,
+      "longitude": 10.628362
+    },
+    {
+      "name": "Gråsten Havn",
+      "latitude": 54.918702,
+      "longitude": 9.599305
+    },
+    {
+      "name": "Gråsten Sejlklubs Havn",
+      "latitude": 54.912413,
+      "longitude": 9.60044
+    },
+    {
+      "name": "Grønlandshavnen",
+      "latitude": 57.04921,
+      "longitude": 10.056356
+    },
+    {
+      "name": "Grønlandshavnen",
+      "latitude": 57.049295,
+      "longitude": 10.05725
+    },
+    {
+      "name": "Gudhjem Havn",
+      "latitude": 55.212426,
+      "longitude": 14.971857
+    },
+    {
+      "name": "Guldborg Bro og Bådehavn",
+      "latitude": 54.870273,
+      "longitude": 11.750411
+    },
+    {
+      "name": "Guldborg Havn",
+      "latitude": 54.870897,
+      "longitude": 11.746648
+    },
+    {
+      "name": "Gundestrup Marina",
+      "latitude": 55.779355,
+      "longitude": 11.616056
+    },
+    {
+      "name": "Gyldendal Lystbådehavn",
+      "latitude": 56.579863,
+      "longitude": 8.709805
+    },
+    {
+      "name": "Gåbense Lystbådehavn",
+      "latitude": 54.943325,
+      "longitude": 11.880597
+    },
+    {
+      "name": "Haarum Havn",
+      "latitude": 56.629181,
+      "longitude": 8.217541
+    },
+    {
+      "name": "Haderslev Havn",
+      "latitude": 55.248277,
+      "longitude": 9.499763
+    },
+    {
+      "name": "Hadsund Fiskerihavn",
+      "latitude": 56.716747,
+      "longitude": 10.125726
+    },
+    {
+      "name": "Hadsund Lystbådehavn",
+      "latitude": 56.7097,
+      "longitude": 10.105173
+    },
+    {
+      "name": "Hals Havn",
+      "latitude": 56.990597,
+      "longitude": 10.308027
+    },
+    {
+      "name": "Hals Jollehavn",
+      "latitude": 56.990868,
+      "longitude": 10.310981
+    },
+    {
+      "name": "Hammer Havn",
+      "latitude": 55.277917,
+      "longitude": 14.756045
+    },
+    {
+      "name": "Handbjerg Marina",
+      "latitude": 56.481172,
+      "longitude": 8.71972
+    },
+    {
+      "name": "Handermelle Havn",
+      "latitude": 54.658073,
+      "longitude": 11.570689
+    },
+    {
+      "name": "Hanstholm Havn",
+      "latitude": 57.125267,
+      "longitude": 8.593128
+    },
+    {
+      "name": "Haralds Havn",
+      "latitude": 55.166024,
+      "longitude": 15.051329
+    },
+    {
+      "name": "Hardeshøj Færgebro",
+      "latitude": 55.008612,
+      "longitude": 9.692684
+    },
+    {
+      "name": "Harpøth Havn",
+      "latitude": 56.363612,
+      "longitude": 8.222415
+    },
+    {
+      "name": "Hasle Havn",
+      "latitude": 55.187908,
+      "longitude": 14.702328
+    },
+    {
+      "name": "Hasle Havn",
+      "latitude": 55.1887,
+      "longitude": 14.702975
+    },
+    {
+      "name": "Haurvig Havn",
+      "latitude": 55.939423,
+      "longitude": 8.168289
+    },
+    {
+      "name": "Haverslev Havn",
+      "latitude": 57.028366,
+      "longitude": 9.402107
+    },
+    {
+      "name": "Havnsø Havn",
+      "latitude": 55.754094,
+      "longitude": 11.324269
+    },
+    {
+      "name": "Hejlsminde Havn",
+      "latitude": 55.360868,
+      "longitude": 9.600712
+    },
+    {
+      "name": "Hellerup Havn",
+      "latitude": 55.731885,
+      "longitude": 12.581333
+    },
+    {
+      "name": "Helligpeder Havn",
+      "latitude": 55.211952,
+      "longitude": 14.706823
+    },
+    {
+      "name": "Helmklink Havn",
+      "latitude": 56.330852,
+      "longitude": 8.147493
+    },
+    {
+      "name": "Helsingør Nordhavn",
+      "latitude": 56.042993,
+      "longitude": 12.615358
+    },
+    {
+      "name": "Hemmet Havn",
+      "latitude": 55.869821,
+      "longitude": 8.328367
+    },
+    {
+      "name": "Herslev Havn",
+      "latitude": 55.67765,
+      "longitude": 11.989338
+    },
+    {
+      "name": "Hesnæs Havn",
+      "latitude": 54.823159,
+      "longitude": 12.138022
+    },
+    {
+      "name": "Hestehoved Lystbådehavn",
+      "latitude": 54.832176,
+      "longitude": 11.093859
+    },
+    {
+      "name": "Hirsholm Havn",
+      "latitude": 57.484242,
+      "longitude": 10.622392
+    },
+    {
+      "name": "Hirtshals Havn",
+      "latitude": 57.595058,
+      "longitude": 9.959302
+    },
+    {
+      "name": "Hirtshals Marina",
+      "latitude": 57.592219,
+      "longitude": 9.956201
+    },
+    {
+      "name": "Hjarbæk Havn",
+      "latitude": 56.531214,
+      "longitude": 9.318621
+    },
+    {
+      "name": "Hjarnø Havn",
+      "latitude": 55.822242,
+      "longitude": 10.064329
+    },
+    {
+      "name": "Hjortø Havn",
+      "latitude": 54.966702,
+      "longitude": 10.491658
+    },
+    {
+      "name": "Hobro Både- og Fiskerihavn",
+      "latitude": 56.638517,
+      "longitude": 9.806289
+    },
+    {
+      "name": "Hobro Lystbådehavn",
+      "latitude": 56.643507,
+      "longitude": 9.811966
+    },
+    {
+      "name": "Holbæk Bådelaug",
+      "latitude": 55.720796,
+      "longitude": 11.724154
+    },
+    {
+      "name": "Holbæk Gammel Havn",
+      "latitude": 55.720526,
+      "longitude": 11.709957
+    },
+    {
+      "name": "Holbæk Marina",
+      "latitude": 55.723791,
+      "longitude": 11.76078
+    },
+    {
+      "name": "Holstebro-Struer Havn",
+      "latitude": 56.493874,
+      "longitude": 8.597285
+    },
+    {
+      "name": "Holstebro-Struer Havn",
+      "latitude": 56.495129,
+      "longitude": 8.59072
+    },
+    {
+      "name": "Holte Havn",
+      "latitude": 55.810495,
+      "longitude": 12.467959
+    },
+    {
+      "name": "Hornbæk Havn",
+      "latitude": 56.094851,
+      "longitude": 12.457934
+    },
+    {
+      "name": "Horsens Lystbådehavn",
+      "latitude": 55.857635,
+      "longitude": 9.873916
+    },
+    {
+      "name": "Hou Lystbådehavn",
+      "latitude": 55.909789,
+      "longitude": 10.255179
+    },
+    {
+      "name": "Hou Lystbådehavn",
+      "latitude": 57.056013,
+      "longitude": 10.37969
+    },
+    {
+      "name": "Humlebæk Havn",
+      "latitude": 55.970982,
+      "longitude": 12.546193
+    },
+    {
+      "name": "Humlum Fiskerleje & Camping Havn",
+      "latitude": 56.548639,
+      "longitude": 8.57422
+    },
+    {
+      "name": "Hundested Lystbådehavn",
+      "latitude": 55.963459,
+      "longitude": 11.84368
+    },
+    {
+      "name": "Hundested Lystbådehavn",
+      "latitude": 55.965136,
+      "longitude": 11.843934
+    },
+    {
+      "name": "Hvalpsund Fiskerihavn",
+      "latitude": 56.701012,
+      "longitude": 9.193222
+    },
+    {
+      "name": "Hvalpsund Lystbådehavn",
+      "latitude": 56.705266,
+      "longitude": 9.201659
+    },
+    {
+      "name": "Hvide Sande Havn",
+      "latitude": 56.002442,
+      "longitude": 8.125065
+    },
+    {
+      "name": "Hvidovre Havn",
+      "latitude": 55.625616,
+      "longitude": 12.500495
+    },
+    {
+      "name": "Hårbølle Havn",
+      "latitude": 54.890484,
+      "longitude": 12.132792
+    },
+    {
+      "name": "Højer Havn",
+      "latitude": 54.955409,
+      "longitude": 8.687476
+    },
+    {
+      "name": "Høllet",
+      "latitude": 56.665882,
+      "longitude": 9.953008
+    },
+    {
+      "name": "Hørby Lystbådehavn",
+      "latitude": 55.734716,
+      "longitude": 11.706488
+    },
+    {
+      "name": "Høruphav Havn",
+      "latitude": 54.906568,
+      "longitude": 9.888674
+    },
+    {
+      "name": "Høvænge Havn",
+      "latitude": 54.659615,
+      "longitude": 11.610578
+    },
+    {
+      "name": "Inderhavn",
+      "latitude": 54.941907,
+      "longitude": 10.258627
+    },
+    {
+      "name": "Inderhavn",
+      "latitude": 55.965213,
+      "longitude": 11.847197
+    },
+    {
+      "name": "Industribassin",
+      "latitude": 54.943229,
+      "longitude": 10.257294
+    },
+    {
+      "name": "Ishøj Havn",
+      "latitude": 55.609556,
+      "longitude": 12.387441
+    },
+    {
+      "name": "Jacobshavn",
+      "latitude": 55.198189,
+      "longitude": 11.746581
+    },
+    {
+      "name": "Jegindø Havn",
+      "latitude": 56.65183,
+      "longitude": 8.636785
+    },
+    {
+      "name": "Juelsminde Havn og Marina",
+      "latitude": 55.715858,
+      "longitude": 10.016128
+    },
+    {
+      "name": "Jungshoved Kirkehavn",
+      "latitude": 55.081333,
+      "longitude": 12.121515
+    },
+    {
+      "name": "Jyllinge Fiskerihavn",
+      "latitude": 55.752071,
+      "longitude": 12.100649
+    },
+    {
+      "name": "Jyllinge Lystbådehavn",
+      "latitude": 55.745195,
+      "longitude": 12.096301
+    },
+    {
+      "name": "Jyllinge Nordhavn",
+      "latitude": 55.761454,
+      "longitude": 12.094506
+    },
+    {
+      "name": "Kalkbrænderihavnen",
+      "latitude": 55.71144,
+      "longitude": 12.590512
+    },
+    {
+      "name": "Kalvehave Havn",
+      "latitude": 54.994565,
+      "longitude": 12.167187
+    },
+    {
+      "name": "Kalvø Havn",
+      "latitude": 55.122392,
+      "longitude": 9.466264
+    },
+    {
+      "name": "Kaløvig Bådehavn",
+      "latitude": 56.243842,
+      "longitude": 10.342528
+    },
+    {
+      "name": "Kampeløkke Havn",
+      "latitude": 55.281071,
+      "longitude": 14.797203
+    },
+    {
+      "name": "Kanalhavn",
+      "latitude": 56.967476,
+      "longitude": 9.244729
+    },
+    {
+      "name": "Kappelsbjerg Lystbådebro",
+      "latitude": 55.506966,
+      "longitude": 9.746263
+    },
+    {
+      "name": "Karrebæksminde Inderhavn",
+      "latitude": 55.177641,
+      "longitude": 11.653682
+    },
+    {
+      "name": "Karrebæksminde Strandjagtforening",
+      "latitude": 55.176432,
+      "longitude": 11.657018
+    },
+    {
+      "name": "Kastrup Broforenings Bådehavn",
+      "latitude": 55.635043,
+      "longitude": 12.656087
+    },
+    {
+      "name": "Kastrup Lystbådehavn",
+      "latitude": 55.634046,
+      "longitude": 12.655712
+    },
+    {
+      "name": "Kastrup Strandpark",
+      "latitude": 55.642529,
+      "longitude": 12.651825
+    },
+    {
+      "name": "Kerteminde Havn",
+      "latitude": 55.449427,
+      "longitude": 10.662725
+    },
+    {
+      "name": "Kerteminde Jollehavn",
+      "latitude": 55.449932,
+      "longitude": 10.665687
+    },
+    {
+      "name": "Kerteminde Marina",
+      "latitude": 55.453137,
+      "longitude": 10.666663
+    },
+    {
+      "name": "Kignæs Havn",
+      "latitude": 55.857365,
+      "longitude": 12.009268
+    },
+    {
+      "name": "Kindvig havn",
+      "latitude": 55.047873,
+      "longitude": 12.129215
+    },
+    {
+      "name": "Kindvig Lystbådehavn",
+      "latitude": 55.050817,
+      "longitude": 12.127671
+    },
+    {
+      "name": "Kleven Havn",
+      "latitude": 54.869957,
+      "longitude": 10.480021
+    },
+    {
+      "name": "Klint Havn",
+      "latitude": 55.959318,
+      "longitude": 11.595399
+    },
+    {
+      "name": "Klintebjerg Havn",
+      "latitude": 55.478181,
+      "longitude": 10.452269
+    },
+    {
+      "name": "Klintholm Havn",
+      "latitude": 54.953346,
+      "longitude": 12.465193
+    },
+    {
+      "name": "Kloster Havn",
+      "latitude": 56.295959,
+      "longitude": 8.277554
+    },
+    {
+      "name": "Knebelbro Jolle- og Bådehavn",
+      "latitude": 56.204314,
+      "longitude": 10.472102
+    },
+    {
+      "name": "Kolding Marina Nord",
+      "latitude": 55.495109,
+      "longitude": 9.498592
+    },
+    {
+      "name": "Kolding Marina Syd",
+      "latitude": 55.488488,
+      "longitude": 9.499791
+    },
+    {
+      "name": "Kollund Mole",
+      "latitude": 54.837198,
+      "longitude": 9.445582
+    },
+    {
+      "name": "Kongebro Havn",
+      "latitude": 55.512573,
+      "longitude": 9.709803
+    },
+    {
+      "name": "Kongsdal Lystbådehavn",
+      "latitude": 56.683945,
+      "longitude": 10.072497
+    },
+    {
+      "name": "Kongsgårde Bro",
+      "latitude": 56.145643,
+      "longitude": 10.514224
+    },
+    {
+      "name": "Korshavn Bro",
+      "latitude": 55.012678,
+      "longitude": 10.315831
+    },
+    {
+      "name": "Korshavn Lystbådebro",
+      "latitude": 55.604325,
+      "longitude": 10.608982
+    },
+    {
+      "name": "Korsør Lystbådehavn",
+      "latitude": 55.327788,
+      "longitude": 11.130176
+    },
+    {
+      "name": "Kragenæs Marina Lystcamp",
+      "latitude": 54.914522,
+      "longitude": 11.35867
+    },
+    {
+      "name": "Kramnitse Havn",
+      "latitude": 54.70742,
+      "longitude": 11.250314
+    },
+    {
+      "name": "Kulhuse Havn",
+      "latitude": 55.936803,
+      "longitude": 11.906214
+    },
+    {
+      "name": "Kvols Havn",
+      "latitude": 56.526354,
+      "longitude": 9.300239
+    },
+    {
+      "name": "Kyndby Huse Bådhavn",
+      "latitude": 55.809417,
+      "longitude": 11.879697
+    },
+    {
+      "name": "Kytterup Havn",
+      "latitude": 56.310865,
+      "longitude": 8.294607
+    },
+    {
+      "name": "Køge Marina",
+      "latitude": 55.469419,
+      "longitude": 12.197768
+    },
+    {
+      "name": "Langebæk bådehavn",
+      "latitude": 54.985855,
+      "longitude": 12.104362
+    },
+    {
+      "name": "Langelinie Lystbådehavn",
+      "latitude": 55.694139,
+      "longitude": 12.599296
+    },
+    {
+      "name": "Langø Havn",
+      "latitude": 54.816547,
+      "longitude": 11.017352
+    },
+    {
+      "name": "Langør Havn",
+      "latitude": 55.910848,
+      "longitude": 10.642365
+    },
+    {
+      "name": "Lemvig Havn",
+      "latitude": 56.551075,
+      "longitude": 8.30507
+    },
+    {
+      "name": "Lemvig Marina",
+      "latitude": 56.565922,
+      "longitude": 8.29807
+    },
+    {
+      "name": "Lergravsbroen",
+      "latitude": 54.754043,
+      "longitude": 11.875283
+    },
+    {
+      "name": "Lindholm Brygge Bådelaug",
+      "latitude": 57.063481,
+      "longitude": 9.900516
+    },
+    {
+      "name": "Listed Havn",
+      "latitude": 55.145766,
+      "longitude": 15.1115
+    },
+    {
+      "name": "Livø Lystbådehavn",
+      "latitude": 56.886447,
+      "longitude": 9.098651
+    },
+    {
+      "name": "Lohals Havn",
+      "latitude": 55.133216,
+      "longitude": 10.901215
+    },
+    {
+      "name": "Lund Havn",
+      "latitude": 55.237925,
+      "longitude": 12.302144
+    },
+    {
+      "name": "Lundeborg Havn",
+      "latitude": 55.138725,
+      "longitude": 10.786413
+    },
+    {
+      "name": "Lundehøje Havn",
+      "latitude": 54.636668,
+      "longitude": 11.511523
+    },
+    {
+      "name": "Lyndby Havn",
+      "latitude": 55.668658,
+      "longitude": 11.938079
+    },
+    {
+      "name": "Lynæs Havn",
+      "latitude": 55.942317,
+      "longitude": 11.869331
+    },
+    {
+      "name": "Lystbådehavn",
+      "latitude": 56.008415,
+      "longitude": 8.136155
+    },
+    {
+      "name": "Lystbådehavn",
+      "latitude": 56.086425,
+      "longitude": 8.23934
+    },
+    {
+      "name": "Lystbådehavn Troense",
+      "latitude": 55.034538,
+      "longitude": 10.645339
+    },
+    {
+      "name": "Lystbådehavnen Stige Ø",
+      "latitude": 55.439574,
+      "longitude": 10.423115
+    },
+    {
+      "name": "Lyø Havn",
+      "latitude": 55.051546,
+      "longitude": 10.158011
+    },
+    {
+      "name": "Løgstør Lystbådehavn",
+      "latitude": 56.968299,
+      "longitude": 9.247313
+    },
+    {
+      "name": "Løver Odde Anløbs- og Bådebro",
+      "latitude": 55.498216,
+      "longitude": 9.622304
+    },
+    {
+      "name": "Madsens Plads",
+      "latitude": 55.047071,
+      "longitude": 10.593824
+    },
+    {
+      "name": "Marbæk Lystbådehavn",
+      "latitude": 55.827859,
+      "longitude": 12.060371
+    },
+    {
+      "name": "Margretheholms Havn",
+      "latitude": 55.687866,
+      "longitude": 12.616785
+    },
+    {
+      "name": "Mariager Jollehavn",
+      "latitude": 56.653189,
+      "longitude": 9.982293
+    },
+    {
+      "name": "Mariager Lystbådehavn",
+      "latitude": 56.654074,
+      "longitude": 9.983085
+    },
+    {
+      "name": "Marina Fiskenæs",
+      "latitude": 54.917904,
+      "longitude": 9.604319
+    },
+    {
+      "name": "Marina Fjordparken",
+      "latitude": 57.056236,
+      "longitude": 9.876363
+    },
+    {
+      "name": "Marina Minde Havn",
+      "latitude": 54.897001,
+      "longitude": 9.618236
+    },
+    {
+      "name": "Marina Toft",
+      "latitude": 54.909352,
+      "longitude": 9.599154
+    },
+    {
+      "name": "Marselisborg Lystbådehavn",
+      "latitude": 56.138447,
+      "longitude": 10.215454
+    },
+    {
+      "name": "Marstal Havkajakcenter",
+      "latitude": 54.847969,
+      "longitude": 10.521844
+    },
+    {
+      "name": "Marstal Lystbådehavn",
+      "latitude": 54.849537,
+      "longitude": 10.523507
+    },
+    {
+      "name": "Masnedsund Havn",
+      "latitude": 54.994725,
+      "longitude": 11.898434
+    },
+    {
+      "name": "Masnedø Jernhavn",
+      "latitude": 54.981845,
+      "longitude": 11.886184
+    },
+    {
+      "name": "Masnedø Marinecenter",
+      "latitude": 54.994713,
+      "longitude": 11.891264
+    },
+    {
+      "name": "Mejeri Havnen",
+      "latitude": 55.051753,
+      "longitude": 10.678048
+    },
+    {
+      "name": "Mellemfortet",
+      "latitude": 55.637769,
+      "longitude": 12.542604
+    },
+    {
+      "name": "Mellemhavn",
+      "latitude": 55.965315,
+      "longitude": 11.845669
+    },
+    {
+      "name": "Mellerup Lystbådehavn",
+      "latitude": 56.524107,
+      "longitude": 10.223591
+    },
+    {
+      "name": "Melsted Havn",
+      "latitude": 55.204331,
+      "longitude": 14.982573
+    },
+    {
+      "name": "Middelfart city harbour",
+      "latitude": 55.506251,
+      "longitude": 9.736727
+    },
+    {
+      "name": "Middelfart Marina",
+      "latitude": 55.492323,
+      "longitude": 9.726845
+    },
+    {
+      "name": "Mjelsvig Bådehavn",
+      "latitude": 55.032023,
+      "longitude": 9.715441
+    },
+    {
+      "name": "Mommark Marina",
+      "latitude": 54.932478,
+      "longitude": 10.044446
+    },
+    {
+      "name": "Morsø Sejlklub og Marina",
+      "latitude": 56.792691,
+      "longitude": 8.864189
+    },
+    {
+      "name": "Mosede Havn",
+      "latitude": 55.566261,
+      "longitude": 12.287324
+    },
+    {
+      "name": "Mou Bro",
+      "latitude": 56.980958,
+      "longitude": 10.227451
+    },
+    {
+      "name": "Mullerup Havn",
+      "latitude": 55.493643,
+      "longitude": 11.173653
+    },
+    {
+      "name": "Munkebo Havn",
+      "latitude": 55.455918,
+      "longitude": 10.559065
+    },
+    {
+      "name": "Museumshavn",
+      "latitude": 56.198161,
+      "longitude": 10.67215
+    },
+    {
+      "name": "Mårup Havn",
+      "latitude": 55.937362,
+      "longitude": 10.551873
+    },
+    {
+      "name": "Mündung der Krusau",
+      "latitude": 54.832229,
+      "longitude": 9.420123
+    },
+    {
+      "name": "Nakskov",
+      "latitude": 54.829107,
+      "longitude": 11.134915
+    },
+    {
+      "name": "Nakskov Havn",
+      "latitude": 54.83372,
+      "longitude": 11.120568
+    },
+    {
+      "name": "Nappedam Lystbådehavn",
+      "latitude": 56.27686,
+      "longitude": 10.494539
+    },
+    {
+      "name": "Nekselø Havn",
+      "latitude": 55.781645,
+      "longitude": 11.297072
+    },
+    {
+      "name": "Neppens Havn",
+      "latitude": 57.419572,
+      "longitude": 10.528751
+    },
+    {
+      "name": "Nexø",
+      "latitude": 55.062798,
+      "longitude": 15.13484
+    },
+    {
+      "name": "Nibe Havn",
+      "latitude": 56.987854,
+      "longitude": 9.631798
+    },
+    {
+      "name": "Nivå Havn",
+      "latitude": 55.939789,
+      "longitude": 12.528149
+    },
+    {
+      "name": "Nold's Havn",
+      "latitude": 55.216375,
+      "longitude": 11.742052
+    },
+    {
+      "name": "Nordhammer Bådelaug",
+      "latitude": 55.756636,
+      "longitude": 11.850781
+    },
+    {
+      "name": "Nordhavn",
+      "latitude": 56.004119,
+      "longitude": 8.122056
+    },
+    {
+      "name": "Nordre Havn",
+      "latitude": 54.983912,
+      "longitude": 12.280725
+    },
+    {
+      "name": "Nordre Inderhavn",
+      "latitude": 56.706198,
+      "longitude": 8.222189
+    },
+    {
+      "name": "Norsminde Lystbådehavn",
+      "latitude": 56.023349,
+      "longitude": 10.26332
+    },
+    {
+      "name": "Ny Havn",
+      "latitude": 56.088145,
+      "longitude": 8.239124
+    },
+    {
+      "name": "Ny Marina",
+      "latitude": 55.716197,
+      "longitude": 10.01295
+    },
+    {
+      "name": "Nyborg Lystbådehavn",
+      "latitude": 55.304875,
+      "longitude": 10.788529
+    },
+    {
+      "name": "Nyborg Marina",
+      "latitude": 55.30651,
+      "longitude": 10.791526
+    },
+    {
+      "name": "Nyhavn",
+      "latitude": 55.044604,
+      "longitude": 9.42794
+    },
+    {
+      "name": "Nyhavn",
+      "latitude": 55.680061,
+      "longitude": 12.589598
+    },
+    {
+      "name": "Nykøbing Falster Lystbådehavn",
+      "latitude": 54.771096,
+      "longitude": 11.861351
+    },
+    {
+      "name": "Nykøbing Mors Havn",
+      "latitude": 56.792627,
+      "longitude": 8.865346
+    },
+    {
+      "name": "Nykøbing Sjælland Lystbådehavn",
+      "latitude": 55.913452,
+      "longitude": 11.676752
+    },
+    {
+      "name": "Nykøbing Sjælland Lystbådehavn",
+      "latitude": 55.913761,
+      "longitude": 11.671847
+    },
+    {
+      "name": "Nykøbing Sjælland Lystbådehavn",
+      "latitude": 55.915523,
+      "longitude": 11.675955
+    },
+    {
+      "name": "Nymindegab Havn",
+      "latitude": 55.818947,
+      "longitude": 8.184466
+    },
+    {
+      "name": "Nyord Havn",
+      "latitude": 55.03937,
+      "longitude": 12.193715
+    },
+    {
+      "name": "Nysted Havn",
+      "latitude": 54.664213,
+      "longitude": 11.729353
+    },
+    {
+      "name": "Næstved Kanalhavn",
+      "latitude": 55.207995,
+      "longitude": 11.714511
+    },
+    {
+      "name": "Næstved Sejlklub Yderhavnen",
+      "latitude": 55.175952,
+      "longitude": 11.645342
+    },
+    {
+      "name": "Nørre Lyngvig Havn",
+      "latitude": 56.053835,
+      "longitude": 8.127407
+    },
+    {
+      "name": "Nørresand Havn",
+      "latitude": 55.214823,
+      "longitude": 14.966779
+    },
+    {
+      "name": "Nørresundby Lystbådehavn",
+      "latitude": 57.056915,
+      "longitude": 9.919658
+    },
+    {
+      "name": "Odden Fiskeri Havn",
+      "latitude": 55.972568,
+      "longitude": 11.367926
+    },
+    {
+      "name": "Odden Lystbaadehavn",
+      "latitude": 55.972185,
+      "longitude": 11.36978
+    },
+    {
+      "name": "Oddesund Lystbådehavn",
+      "latitude": 56.582778,
+      "longitude": 8.549147
+    },
+    {
+      "name": "Omø Lystbådehavn",
+      "latitude": 55.170996,
+      "longitude": 11.160929
+    },
+    {
+      "name": "Onsevig Havn",
+      "latitude": 54.947158,
+      "longitude": 11.1073
+    },
+    {
+      "name": "Oreby Bro",
+      "latitude": 54.826726,
+      "longitude": 11.593499
+    },
+    {
+      "name": "Orø Havn",
+      "latitude": 55.755935,
+      "longitude": 11.801053
+    },
+    {
+      "name": "Otterup Lystbådehavn",
+      "latitude": 55.52686,
+      "longitude": 10.472087
+    },
+    {
+      "name": "Præstø Havn",
+      "latitude": 55.125542,
+      "longitude": 12.043868
+    },
+    {
+      "name": "Ramløse Havn",
+      "latitude": 56.001398,
+      "longitude": 12.109863
+    },
+    {
+      "name": "Randers Lystbådehavn",
+      "latitude": 56.462344,
+      "longitude": 10.053242
+    },
+    {
+      "name": "Randers Motorbådsklub",
+      "latitude": 56.455235,
+      "longitude": 10.03741
+    },
+    {
+      "name": "Rantzausminde Lystbådehavn",
+      "latitude": 55.034128,
+      "longitude": 10.541942
+    },
+    {
+      "name": "Reersø Havn",
+      "latitude": 55.517053,
+      "longitude": 11.119404
+    },
+    {
+      "name": "Remmerstrand Jollehavn",
+      "latitude": 56.547679,
+      "longitude": 8.496066
+    },
+    {
+      "name": "Rendbjerg Jollehavn",
+      "latitude": 54.894413,
+      "longitude": 9.62739
+    },
+    {
+      "name": "Render Havn",
+      "latitude": 55.984817,
+      "longitude": 8.139664
+    },
+    {
+      "name": "Ribe Bådklub",
+      "latitude": 55.33174,
+      "longitude": 8.757179
+    },
+    {
+      "name": "Ribe Havn",
+      "latitude": 55.329563,
+      "longitude": 8.763091
+    },
+    {
+      "name": "Ring Andersen",
+      "latitude": 55.059668,
+      "longitude": 10.616011
+    },
+    {
+      "name": "Ringkøbing Havn",
+      "latitude": 56.087075,
+      "longitude": 8.239796
+    },
+    {
+      "name": "Ringkøbing Jollehavn",
+      "latitude": 56.085528,
+      "longitude": 8.244306
+    },
+    {
+      "name": "Ristinge Havn",
+      "latitude": 54.832837,
+      "longitude": 10.63738
+    },
+    {
+      "name": "Rosenvold Havn",
+      "latitude": 55.675123,
+      "longitude": 9.813139
+    },
+    {
+      "name": "Roskilde lystbådehavn",
+      "latitude": 55.650914,
+      "longitude": 12.077489
+    },
+    {
+      "name": "Rudkøbing Havn",
+      "latitude": 54.941136,
+      "longitude": 10.709581
+    },
+    {
+      "name": "Rungsted Havn",
+      "latitude": 55.88499,
+      "longitude": 12.546897
+    },
+    {
+      "name": "Ry Marina",
+      "latitude": 56.095055,
+      "longitude": 9.750938
+    },
+    {
+      "name": "Rødbyhavn Trafikhavn",
+      "latitude": 54.652634,
+      "longitude": 11.346531
+    },
+    {
+      "name": "Rødvig Lystbådehavn",
+      "latitude": 55.25349,
+      "longitude": 12.373711
+    },
+    {
+      "name": "Røjklit Havn",
+      "latitude": 56.143488,
+      "longitude": 8.176606
+    },
+    {
+      "name": "Rømø Havn",
+      "latitude": 55.087282,
+      "longitude": 8.568755
+    },
+    {
+      "name": "Rønbjerg Lystbådehavn",
+      "latitude": 56.891803,
+      "longitude": 9.166396
+    },
+    {
+      "name": "Rønne Lystbådehavn Nørrekås",
+      "latitude": 55.104156,
+      "longitude": 14.692946
+    },
+    {
+      "name": "Rønnerhavnen",
+      "latitude": 57.464662,
+      "longitude": 10.538253
+    },
+    {
+      "name": "Rørvig Havn",
+      "latitude": 55.943074,
+      "longitude": 11.76858
+    },
+    {
+      "name": "Røsnæs Havn",
+      "latitude": 55.751731,
+      "longitude": 10.944564
+    },
+    {
+      "name": "Sakskøbing Bådelaug og Lystbådehavn",
+      "latitude": 54.811335,
+      "longitude": 11.619879
+    },
+    {
+      "name": "Sakskøbing Havn",
+      "latitude": 54.802697,
+      "longitude": 11.63529
+    },
+    {
+      "name": "Sandager Havn",
+      "latitude": 54.662825,
+      "longitude": 11.600229
+    },
+    {
+      "name": "Sandbjerg Marina",
+      "latitude": 55.717288,
+      "longitude": 10.008701
+    },
+    {
+      "name": "Sandholm Havn",
+      "latitude": 56.321824,
+      "longitude": 8.200517
+    },
+    {
+      "name": "Sandvig Fiskerihavn",
+      "latitude": 55.060274,
+      "longitude": 12.123716
+    },
+    {
+      "name": "Sandvig Havn",
+      "latitude": 55.289295,
+      "longitude": 14.7825
+    },
+    {
+      "name": "Scanport Havn",
+      "latitude": 55.636323,
+      "longitude": 12.655915
+    },
+    {
+      "name": "Sebber Bådehavn",
+      "latitude": 56.960949,
+      "longitude": 9.571709
+    },
+    {
+      "name": "Sejerø Lystbådehavn",
+      "latitude": 55.880597,
+      "longitude": 11.134621
+    },
+    {
+      "name": "Sejl- og Motorbådsklubben Frem",
+      "latitude": 55.410403,
+      "longitude": 10.376153
+    },
+    {
+      "name": "Sejlklubben Aarhus Nordhavn",
+      "latitude": 56.164491,
+      "longitude": 10.218972
+    },
+    {
+      "name": "Selsø Møllekrog Bådelaug",
+      "latitude": 55.740505,
+      "longitude": 11.99
+    },
+    {
+      "name": "Silkeborg Motorbaadklub",
+      "latitude": 56.159998,
+      "longitude": 9.562028
+    },
+    {
+      "name": "Silkeborg Sejlklub",
+      "latitude": 56.148741,
+      "longitude": 9.575618
+    },
+    {
+      "name": "Sillerslev Havn",
+      "latitude": 56.680858,
+      "longitude": 8.730156
+    },
+    {
+      "name": "Skagen Baadelaug",
+      "latitude": 57.71572,
+      "longitude": 10.587589
+    },
+    {
+      "name": "Skagen Lystbådehavn",
+      "latitude": 57.718608,
+      "longitude": 10.588632
+    },
+    {
+      "name": "Skagen Sejlklub",
+      "latitude": 57.715353,
+      "longitude": 10.588393
+    },
+    {
+      "name": "Skalø Havn",
+      "latitude": 54.956595,
+      "longitude": 11.356545
+    },
+    {
+      "name": "Skanderborg lystbådehavn",
+      "latitude": 56.043464,
+      "longitude": 9.935425
+    },
+    {
+      "name": "Skarø Havn",
+      "latitude": 55.01059,
+      "longitude": 10.472447
+    },
+    {
+      "name": "Skaven Lystbådehavn",
+      "latitude": 55.893196,
+      "longitude": 8.359093
+    },
+    {
+      "name": "Skive Jollehavn",
+      "latitude": 56.566826,
+      "longitude": 9.054358
+    },
+    {
+      "name": "Skive Sydhavn",
+      "latitude": 56.569834,
+      "longitude": 9.053086
+    },
+    {
+      "name": "Skive Søsportshavn",
+      "latitude": 56.575596,
+      "longitude": 9.054084
+    },
+    {
+      "name": "Skovballe Havn",
+      "latitude": 54.965919,
+      "longitude": 10.542534
+    },
+    {
+      "name": "Skovshoved Havn",
+      "latitude": 55.761269,
+      "longitude": 12.602118
+    },
+    {
+      "name": "Skuldelev Havn",
+      "latitude": 55.795701,
+      "longitude": 12.057285
+    },
+    {
+      "name": "Skyllebakke Havn",
+      "latitude": 55.838044,
+      "longitude": 12.054055
+    },
+    {
+      "name": "Skåningebro",
+      "latitude": 54.936969,
+      "longitude": 12.028298
+    },
+    {
+      "name": "Skælskør Lystbådehavn",
+      "latitude": 55.252222,
+      "longitude": 11.287662
+    },
+    {
+      "name": "Skærbæk Lystbådehavn",
+      "latitude": 55.512864,
+      "longitude": 9.626606
+    },
+    {
+      "name": "Skødshoved Bro og Jollehavn",
+      "latitude": 56.181229,
+      "longitude": 10.374188
+    },
+    {
+      "name": "Sletten Havn",
+      "latitude": 55.95359,
+      "longitude": 12.536882
+    },
+    {
+      "name": "Snaptun Lystbådehavn",
+      "latitude": 55.822671,
+      "longitude": 10.052038
+    },
+    {
+      "name": "Snekkersten Havn",
+      "latitude": 56.007902,
+      "longitude": 12.588862
+    },
+    {
+      "name": "Snogebæk Havn",
+      "latitude": 55.025219,
+      "longitude": 15.122418
+    },
+    {
+      "name": "Sommerlyst",
+      "latitude": 56.09615,
+      "longitude": 8.233961
+    },
+    {
+      "name": "Sortsø Fritidshavn",
+      "latitude": 54.91532,
+      "longitude": 11.982018
+    },
+    {
+      "name": "Spodsbjerg Turistbådehavn",
+      "latitude": 54.932926,
+      "longitude": 10.833064
+    },
+    {
+      "name": "Staun Havn",
+      "latitude": 57.015719,
+      "longitude": 9.489349
+    },
+    {
+      "name": "Stauning Havn",
+      "latitude": 55.953371,
+      "longitude": 8.370244
+    },
+    {
+      "name": "Stavreby Havn",
+      "latitude": 55.079557,
+      "longitude": 12.145368
+    },
+    {
+      "name": "Stege Lystbådehavn",
+      "latitude": 54.984483,
+      "longitude": 12.279576
+    },
+    {
+      "name": "Stenværkshavn",
+      "latitude": 55.833439,
+      "longitude": 12.054058
+    },
+    {
+      "name": "Stinesminde Havn",
+      "latitude": 56.671311,
+      "longitude": 9.970317
+    },
+    {
+      "name": "Strandby Lystbådehavn",
+      "latitude": 57.494075,
+      "longitude": 10.503501
+    },
+    {
+      "name": "Strandbyen havn",
+      "latitude": 54.874767,
+      "longitude": 10.49184
+    },
+    {
+      "name": "Strib Bådehavn",
+      "latitude": 55.538603,
+      "longitude": 9.762769
+    },
+    {
+      "name": "Stubbekøbing",
+      "latitude": 54.891834,
+      "longitude": 12.047509
+    },
+    {
+      "name": "Stubberup Havn",
+      "latitude": 54.664139,
+      "longitude": 11.690247
+    },
+    {
+      "name": "Sukkerfabrikshavn",
+      "latitude": 54.982079,
+      "longitude": 12.278748
+    },
+    {
+      "name": "Sundby Mors Havn",
+      "latitude": 56.884405,
+      "longitude": 8.637267
+    },
+    {
+      "name": "Sundby Sejlforenings Havn",
+      "latitude": 55.664545,
+      "longitude": 12.634129
+    },
+    {
+      "name": "Sundsøre Lystbådehavn",
+      "latitude": 56.709576,
+      "longitude": 9.174599
+    },
+    {
+      "name": "Suså Havn",
+      "latitude": 55.226124,
+      "longitude": 11.756627
+    },
+    {
+      "name": "Svaneke Havn",
+      "latitude": 55.135823,
+      "longitude": 15.144835
+    },
+    {
+      "name": "Svanemøllehavnen",
+      "latitude": 55.716221,
+      "longitude": 12.589388
+    },
+    {
+      "name": "Svanemøllehavnen",
+      "latitude": 55.719901,
+      "longitude": 12.599445
+    },
+    {
+      "name": "Svendborg Havn",
+      "latitude": 55.061505,
+      "longitude": 10.614985
+    },
+    {
+      "name": "Svendborg Lystbådehavn",
+      "latitude": 55.052351,
+      "longitude": 10.61176
+    },
+    {
+      "name": "Svendborg Sund Marina",
+      "latitude": 55.054995,
+      "longitude": 10.643677
+    },
+    {
+      "name": "Svinø Broer",
+      "latitude": 55.458994,
+      "longitude": 9.796505
+    },
+    {
+      "name": "Svinø Havn",
+      "latitude": 55.125077,
+      "longitude": 11.720516
+    },
+    {
+      "name": "Sydhavn",
+      "latitude": 55.040827,
+      "longitude": 9.424164
+    },
+    {
+      "name": "Sydhavn",
+      "latitude": 56.001246,
+      "longitude": 8.125071
+    },
+    {
+      "name": "Syrens Jolleplads",
+      "latitude": 57.054717,
+      "longitude": 9.944807
+    },
+    {
+      "name": "Sæby Havn",
+      "latitude": 57.333162,
+      "longitude": 10.532481
+    },
+    {
+      "name": "Søby Lystbådehavn",
+      "latitude": 54.942549,
+      "longitude": 10.260719
+    },
+    {
+      "name": "Søfronten Lystbådehavn",
+      "latitude": 55.176622,
+      "longitude": 11.64228
+    },
+    {
+      "name": "Sønderballe Bådehavn",
+      "latitude": 55.129638,
+      "longitude": 9.480505
+    },
+    {
+      "name": "Sønderborg Havn",
+      "latitude": 54.908745,
+      "longitude": 9.784528
+    },
+    {
+      "name": "Sønderborg Lystbådehavn",
+      "latitude": 54.898701,
+      "longitude": 9.793948
+    },
+    {
+      "name": "Sønderby Lystbådehavn",
+      "latitude": 55.729309,
+      "longitude": 12.034778
+    },
+    {
+      "name": "Søndre Bådehavn",
+      "latitude": 55.098351,
+      "longitude": 14.696098
+    },
+    {
+      "name": "Søndre Frihavn Lystbådehavn",
+      "latitude": 55.697298,
+      "longitude": 12.596128
+    },
+    {
+      "name": "Sørup Havn",
+      "latitude": 55.969089,
+      "longitude": 12.369113
+    },
+    {
+      "name": "Taarbæk Havn",
+      "latitude": 55.787507,
+      "longitude": 12.595893
+    },
+    {
+      "name": "Tambohus Naturhavn",
+      "latitude": 56.636437,
+      "longitude": 8.593748
+    },
+    {
+      "name": "Teglkås Bådehavn",
+      "latitude": 55.222754,
+      "longitude": 14.711991
+    },
+    {
+      "name": "Teglværkshavnen",
+      "latitude": 55.64996,
+      "longitude": 12.544989
+    },
+    {
+      "name": "Tejn",
+      "latitude": 55.248371,
+      "longitude": 14.836556
+    },
+    {
+      "name": "Thisted Lystbådehavn",
+      "latitude": 56.952456,
+      "longitude": 8.696408
+    },
+    {
+      "name": "Thorsminde Jollehavn",
+      "latitude": 56.371353,
+      "longitude": 8.125994
+    },
+    {
+      "name": "Thorsminde Slusehavn",
+      "latitude": 56.372091,
+      "longitude": 8.124257
+    },
+    {
+      "name": "Thorsminde Vesthavn",
+      "latitude": 56.367988,
+      "longitude": 8.12052
+    },
+    {
+      "name": "Thyborøn Lystbådehavn",
+      "latitude": 56.701251,
+      "longitude": 8.221551
+    },
+    {
+      "name": "Thyborøn-Harboøre Lystbådehavn",
+      "latitude": 56.688237,
+      "longitude": 8.222453
+    },
+    {
+      "name": "Toldbodens Bådehavn",
+      "latitude": 55.689118,
+      "longitude": 12.599404
+    },
+    {
+      "name": "Toreby Sejlklubs havn",
+      "latitude": 54.760441,
+      "longitude": 11.86044
+    },
+    {
+      "name": "Træskibshavnen",
+      "latitude": 56.168599,
+      "longitude": 10.222824
+    },
+    {
+      "name": "Tuborg Havn",
+      "latitude": 55.726765,
+      "longitude": 12.583487
+    },
+    {
+      "name": "Tunnelhavnen",
+      "latitude": 57.059102,
+      "longitude": 9.954951
+    },
+    {
+      "name": "Tunø bådehavn",
+      "latitude": 55.948984,
+      "longitude": 10.453128
+    },
+    {
+      "name": "Tunø Havn",
+      "latitude": 55.948444,
+      "longitude": 10.454927
+    },
+    {
+      "name": "Tårs Fiskeri- og Lystbådehavn",
+      "latitude": 54.877644,
+      "longitude": 11.024112
+    },
+    {
+      "name": "Udbyhøj Lystbådehavn",
+      "latitude": 56.610208,
+      "longitude": 10.306102
+    },
+    {
+      "name": "Udbyhøj Syd Lystbådehavn",
+      "latitude": 56.60669,
+      "longitude": 10.301775
+    },
+    {
+      "name": "Uggelhuse Jollehavn",
+      "latitude": 56.473217,
+      "longitude": 10.216037
+    },
+    {
+      "name": "Uggelhuse Marina",
+      "latitude": 56.471524,
+      "longitude": 10.206317
+    },
+    {
+      "name": "Ulkebøl Krigshavn",
+      "latitude": 54.93385,
+      "longitude": 9.834941
+    },
+    {
+      "name": "Urne Havn",
+      "latitude": 54.951884,
+      "longitude": 11.284674
+    },
+    {
+      "name": "Vallensbæk Havn",
+      "latitude": 55.611369,
+      "longitude": 12.395873
+    },
+    {
+      "name": "Vang Havn",
+      "latitude": 55.248681,
+      "longitude": 14.736276
+    },
+    {
+      "name": "Varde Havn",
+      "latitude": 55.617267,
+      "longitude": 8.477234
+    },
+    {
+      "name": "Varde Havn",
+      "latitude": 55.61805,
+      "longitude": 8.481511
+    },
+    {
+      "name": "Varnæs Vig Bro",
+      "latitude": 55.033943,
+      "longitude": 9.568787
+    },
+    {
+      "name": "Vasebro",
+      "latitude": 55.245873,
+      "longitude": 11.2465
+    },
+    {
+      "name": "Vedbæk Havn",
+      "latitude": 55.849639,
+      "longitude": 12.572466
+    },
+    {
+      "name": "Veddelev Strand Bådelaug",
+      "latitude": 55.678885,
+      "longitude": 12.068677
+    },
+    {
+      "name": "Vejle Lystbådehavn",
+      "latitude": 55.706973,
+      "longitude": 9.555839
+    },
+    {
+      "name": "Vejrø Havn",
+      "latitude": 55.0353,
+      "longitude": 11.375288
+    },
+    {
+      "name": "Velling Havn",
+      "latitude": 56.040343,
+      "longitude": 8.311353
+    },
+    {
+      "name": "Vemmenæs Anløbsbro",
+      "latitude": 54.972194,
+      "longitude": 10.677778
+    },
+    {
+      "name": "Venø Havn",
+      "latitude": 56.550774,
+      "longitude": 8.614764
+    },
+    {
+      "name": "Verdens Ende",
+      "latitude": 54.918216,
+      "longitude": 9.771901
+    },
+    {
+      "name": "Vester Havn",
+      "latitude": 54.935608,
+      "longitude": 11.373627
+    },
+    {
+      "name": "Vesterø Havn",
+      "latitude": 57.295845,
+      "longitude": 10.923783
+    },
+    {
+      "name": "Vesterøn Havn",
+      "latitude": 55.032437,
+      "longitude": 10.532214
+    },
+    {
+      "name": "Vesthavn",
+      "latitude": 55.941883,
+      "longitude": 11.866189
+    },
+    {
+      "name": "Vesthavn",
+      "latitude": 56.00161,
+      "longitude": 8.119094
+    },
+    {
+      "name": "Vesthavnen",
+      "latitude": 55.677614,
+      "longitude": 11.082199
+    },
+    {
+      "name": "Vestre Bådehavn",
+      "latitude": 57.057661,
+      "longitude": 9.901811
+    },
+    {
+      "name": "Vigehavnen",
+      "latitude": 55.139358,
+      "longitude": 15.140265
+    },
+    {
+      "name": "Vilsund Havn",
+      "latitude": 56.882829,
+      "longitude": 8.62861
+    },
+    {
+      "name": "Vindeby Havn",
+      "latitude": 55.049419,
+      "longitude": 10.614582
+    },
+    {
+      "name": "Vindebyøre Bro",
+      "latitude": 55.055682,
+      "longitude": 10.630962
+    },
+    {
+      "name": "Vinterleje Havn",
+      "latitude": 55.918789,
+      "longitude": 8.173035
+    },
+    {
+      "name": "Virksund Lystbådehavn",
+      "latitude": 56.609132,
+      "longitude": 9.291381
+    },
+    {
+      "name": "Vive Havn",
+      "latitude": 56.698827,
+      "longitude": 10.044603
+    },
+    {
+      "name": "Voer Anlægsbro",
+      "latitude": 56.520301,
+      "longitude": 10.230477
+    },
+    {
+      "name": "Voerså Fiskerleje",
+      "latitude": 57.203601,
+      "longitude": 10.495232
+    },
+    {
+      "name": "Vordingborg Nordhavn",
+      "latitude": 55.004438,
+      "longitude": 11.915605
+    },
+    {
+      "name": "Yachtklubben Furesøen",
+      "latitude": 55.80862,
+      "longitude": 12.443174
+    },
+    {
+      "name": "Ydernæs Fritidshavn",
+      "latitude": 55.206138,
+      "longitude": 11.719641
+    },
+    {
+      "name": "Ålsgårde Langebro",
+      "latitude": 56.076448,
+      "longitude": 12.547296
+    },
+    {
+      "name": "Årsdale Havn",
+      "latitude": 55.107636,
+      "longitude": 15.145531
+    },
+    {
+      "name": "Årøsund Havn",
+      "latitude": 55.262618,
+      "longitude": 9.709008
+    },
+    {
+      "name": "Ærøskøbing Lystbådehavn",
+      "latitude": 54.893617,
+      "longitude": 10.409847
+    },
+    {
+      "name": "Øer Maritime Havn",
+      "latitude": 56.151475,
+      "longitude": 10.68849
+    },
+    {
+      "name": "Ørndalens Bådelaug",
+      "latitude": 56.637094,
+      "longitude": 9.84051
+    },
+    {
+      "name": "Ørodde Havn",
+      "latitude": 56.787262,
+      "longitude": 8.876385
+    },
+    {
+      "name": "Østby Havn",
+      "latitude": 55.752854,
+      "longitude": 12.063311
+    },
+    {
+      "name": "Øster Hurup Havn",
+      "latitude": 56.80532,
+      "longitude": 10.282382
+    },
+    {
+      "name": "Østerby Havn Marina",
+      "latitude": 57.320939,
+      "longitude": 11.122925
+    },
+    {
+      "name": "Østerhavn",
+      "latitude": 55.309332,
+      "longitude": 10.793056
+    },
+    {
+      "name": "Østhavn",
+      "latitude": 55.715804,
+      "longitude": 10.018267
+    },
+    {
+      "name": "Østhavn",
+      "latitude": 55.999392,
+      "longitude": 8.13109
+    }
+  ],
+  "meta": {
+    "title": "Lystbådehavne i Danmark – OpenStreetMap (Marinas in Denmark, OSM) - Gratis download",
+    "description": "Liste over 526 lystbådehavne i Danmark fra OpenStreetMap (leisure=marina) — navn og koordinater (WGS84). Indeholder 526 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Lystbådehavne i Danmark – OpenStreetMap (Marinas in Denmark, OSM) | ListBase",
+    "seo_description": "Download Lystbådehavne i Danmark – OpenStreetMap (Marinas in Denmark, OSM) — 526 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 526 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

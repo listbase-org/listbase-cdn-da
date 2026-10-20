@@ -1,0 +1,267 @@
+{
+  "id": "da-hovedstaden-kommuner",
+  "name": "Kommuner i Region Hovedstaden",
+  "title": "Kommuner i Region Hovedstaden",
+  "description": "Kommuner tilhørende Region Hovedstaden (i alt 30). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 + editorial kommune→region map per Lov om regioner (2007 reform).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "0165",
+      "name": "Albertslund",
+      "slug": "albertslund",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0201",
+      "name": "Allerød",
+      "slug": "alleroed",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0151",
+      "name": "Ballerup",
+      "slug": "ballerup",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0400",
+      "name": "Bornholm",
+      "slug": "bornholm",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0153",
+      "name": "Brøndby",
+      "slug": "broendby",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0411",
+      "name": "Christiansø",
+      "slug": "christiansoe",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden",
+      "note": "Christiansø — administreres af Forsvarsministeriet (uden for kommunal inddeling)."
+    },
+    {
+      "id": "0155",
+      "name": "Dragør",
+      "slug": "dragoer",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0240",
+      "name": "Egedal",
+      "slug": "egedal",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0210",
+      "name": "Fredensborg",
+      "slug": "fredensborg",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0147",
+      "name": "Frederiksberg",
+      "slug": "frederiksberg",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0250",
+      "name": "Frederikssund",
+      "slug": "frederikssund",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0190",
+      "name": "Furesø",
+      "slug": "furesoe",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0157",
+      "name": "Gentofte",
+      "slug": "gentofte",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0159",
+      "name": "Gladsaxe",
+      "slug": "gladsaxe",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0161",
+      "name": "Glostrup",
+      "slug": "glostrup",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0270",
+      "name": "Gribskov",
+      "slug": "gribskov",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0260",
+      "name": "Halsnæs",
+      "slug": "halsnaes",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0217",
+      "name": "Helsingør",
+      "slug": "helsingoer",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0163",
+      "name": "Herlev",
+      "slug": "herlev",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0219",
+      "name": "Hillerød",
+      "slug": "hilleroed",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0167",
+      "name": "Hvidovre",
+      "slug": "hvidovre",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0169",
+      "name": "Høje Taastrup",
+      "slug": "hoeje-taastrup",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0223",
+      "name": "Hørsholm",
+      "slug": "hoersholm",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0183",
+      "name": "Ishøj",
+      "slug": "ishoej",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0101",
+      "name": "København",
+      "slug": "koebenhavn",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0173",
+      "name": "Lyngby-Taarbæk",
+      "slug": "lyngby-taarbaek",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0230",
+      "name": "Rudersdal",
+      "slug": "rudersdal",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0175",
+      "name": "Rødovre",
+      "slug": "roedovre",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0185",
+      "name": "Tårnby",
+      "slug": "taarnby",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    },
+    {
+      "id": "0187",
+      "name": "Vallensbæk",
+      "slug": "vallensbaek",
+      "region_id": "1084",
+      "region_name": "Region Hovedstaden"
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Region Hovedstaden - Gratis download",
+    "description": "Kommuner tilhørende Region Hovedstaden (i alt 30). Kilde: DAGI / Geodatastyrelsen FOT 2014-02-13 + editorial kommune→region map per Lov om regioner (2007 reform). Indeholder 30 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Region Hovedstaden | ListBase",
+    "seo_description": "Download Kommuner i Region Hovedstaden — 30 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 30 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

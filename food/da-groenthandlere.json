@@ -1,0 +1,806 @@
+{
+  "id": "da-groenthandlere",
+  "name": "Grønthandlere i Danmark (Greengrocers in Denmark)",
+  "title": "Grønthandlere i Danmark (Greengrocers in Denmark)",
+  "description": "Greengrocers in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=greengrocer.",
+  "category": "food",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 153,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "10 Plus",
+      "latitude": 55.699794,
+      "longitude": 12.540868
+    },
+    {
+      "name": "1001 Nat",
+      "latitude": 55.231052,
+      "longitude": 11.763424
+    },
+    {
+      "name": "1001 Nat Frugt og Grønt",
+      "latitude": 54.766058,
+      "longitude": 11.86842
+    },
+    {
+      "name": "AB Frugt & Grønt Detailsalg",
+      "latitude": 55.446466,
+      "longitude": 9.972663
+    },
+    {
+      "name": "Aeiat Marked",
+      "latitude": 55.696516,
+      "longitude": 12.545783
+    },
+    {
+      "name": "Afro products",
+      "latitude": 55.671663,
+      "longitude": 12.563321
+    },
+    {
+      "name": "AK Frugt",
+      "latitude": 55.65284,
+      "longitude": 12.300669
+    },
+    {
+      "name": "Al-Basra Marked",
+      "latitude": 55.664201,
+      "longitude": 12.602896
+    },
+    {
+      "name": "Alsaadi Greens",
+      "latitude": 55.69987,
+      "longitude": 12.54097
+    },
+    {
+      "name": "Amandas Frugt og Grønt",
+      "latitude": 55.755975,
+      "longitude": 12.565033
+    },
+    {
+      "name": "Ana Frugt og Grønt",
+      "latitude": 56.170306,
+      "longitude": 10.216237
+    },
+    {
+      "name": "Asia Market - frugt og grønt",
+      "latitude": 55.509239,
+      "longitude": 9.459243
+    },
+    {
+      "name": "Asiatisk Minimarked og Blomster",
+      "latitude": 55.76832,
+      "longitude": 12.192422
+    },
+    {
+      "name": "Assensvejen Grøntbod",
+      "latitude": 55.485414,
+      "longitude": 9.785311
+    },
+    {
+      "name": "Avedøre Frugt/Grønt",
+      "latitude": 55.627084,
+      "longitude": 12.453576
+    },
+    {
+      "name": "Bakkely Kartofler & Grønt",
+      "latitude": 55.477604,
+      "longitude": 8.795748
+    },
+    {
+      "name": "Banana Leaf",
+      "latitude": 56.46218,
+      "longitude": 10.036986
+    },
+    {
+      "name": "Banegårdens Frugt & Grønt",
+      "latitude": 55.648278,
+      "longitude": 12.269504
+    },
+    {
+      "name": "Basilikum",
+      "latitude": 55.931118,
+      "longitude": 12.306231
+    },
+    {
+      "name": "Bonita",
+      "latitude": 55.656165,
+      "longitude": 12.354245
+    },
+    {
+      "name": "Brabrand frugt",
+      "latitude": 56.157985,
+      "longitude": 10.129367
+    },
+    {
+      "name": "Byens Frugt & Grønt",
+      "latitude": 55.649449,
+      "longitude": 12.199738
+    },
+    {
+      "name": "Byens Frugt & Grønt",
+      "latitude": 55.72902,
+      "longitude": 12.35994
+    },
+    {
+      "name": "Byens Orientalske Marked",
+      "latitude": 55.448117,
+      "longitude": 11.789182
+    },
+    {
+      "name": "California Frugt & Grønt",
+      "latitude": 55.685994,
+      "longitude": 12.536201
+    },
+    {
+      "name": "Centrums Frugt Og Grønt",
+      "latitude": 55.035785,
+      "longitude": 10.601337
+    },
+    {
+      "name": "Cömert",
+      "latitude": 55.759824,
+      "longitude": 12.5842
+    },
+    {
+      "name": "Dalos Bazar",
+      "latitude": 55.503654,
+      "longitude": 9.738027
+    },
+    {
+      "name": "Dania Frugt",
+      "latitude": 55.394009,
+      "longitude": 10.348842
+    },
+    {
+      "name": "Dari Market",
+      "latitude": 55.862521,
+      "longitude": 9.839263
+    },
+    {
+      "name": "Den Nye Grønne",
+      "latitude": 55.746415,
+      "longitude": 12.541876
+    },
+    {
+      "name": "Denn Jai Market",
+      "latitude": 55.672076,
+      "longitude": 12.563728
+    },
+    {
+      "name": "Din Mira",
+      "latitude": 55.327272,
+      "longitude": 11.963389
+    },
+    {
+      "name": "Din SuperCenter",
+      "latitude": 55.650723,
+      "longitude": 12.50079
+    },
+    {
+      "name": "DS Frugt og Grønt",
+      "latitude": 56.163007,
+      "longitude": 10.133376
+    },
+    {
+      "name": "El-Soussi",
+      "latitude": 55.392832,
+      "longitude": 10.398093
+    },
+    {
+      "name": "Esbjerg Asian Market",
+      "latitude": 55.471365,
+      "longitude": 8.438497
+    },
+    {
+      "name": "Espe Grønt",
+      "latitude": 55.20179,
+      "longitude": 10.416737
+    },
+    {
+      "name": "EVETH'S",
+      "latitude": 55.67191,
+      "longitude": 12.563406
+    },
+    {
+      "name": "Exotisk Marked",
+      "latitude": 54.767377,
+      "longitude": 11.877385
+    },
+    {
+      "name": "Farm living-ged og grønt.",
+      "latitude": 55.900955,
+      "longitude": 10.052923
+    },
+    {
+      "name": "Feldskov Have",
+      "latitude": 55.419265,
+      "longitude": 11.56936
+    },
+    {
+      "name": "Fredericia Frugt og Grønt",
+      "latitude": 55.567558,
+      "longitude": 9.755718
+    },
+    {
+      "name": "Freshmarket",
+      "latitude": 55.72136,
+      "longitude": 9.560393
+    },
+    {
+      "name": "Frugt & Blomster",
+      "latitude": 55.375087,
+      "longitude": 10.395763
+    },
+    {
+      "name": "Frugt & Grønt Bazar",
+      "latitude": 55.705982,
+      "longitude": 9.533505
+    },
+    {
+      "name": "Frugt og Grønt Plantagen",
+      "latitude": 56.194369,
+      "longitude": 10.234264
+    },
+    {
+      "name": "Frugt og grøntplantagen Skejby",
+      "latitude": 56.194058,
+      "longitude": 10.193829
+    },
+    {
+      "name": "Frugtboden",
+      "latitude": 55.700724,
+      "longitude": 12.537371
+    },
+    {
+      "name": "Frugtboden",
+      "latitude": 55.922256,
+      "longitude": 11.667951
+    },
+    {
+      "name": "Frugtbørsen",
+      "latitude": 55.491211,
+      "longitude": 9.47182
+    },
+    {
+      "name": "Frugthuset",
+      "latitude": 55.841264,
+      "longitude": 12.431834
+    },
+    {
+      "name": "Frugtlageret",
+      "latitude": 56.964189,
+      "longitude": 8.707936
+    },
+    {
+      "name": "Frugtskoven",
+      "latitude": 55.411416,
+      "longitude": 12.099952
+    },
+    {
+      "name": "Ganefryd",
+      "latitude": 56.158991,
+      "longitude": 10.209249
+    },
+    {
+      "name": "Gjern Græs og Grønt",
+      "latitude": 56.21659,
+      "longitude": 9.760735
+    },
+    {
+      "name": "Godis Grønt Blæsenborgvej",
+      "latitude": 55.609199,
+      "longitude": 11.975323
+    },
+    {
+      "name": "Godt Grønt",
+      "latitude": 55.390324,
+      "longitude": 10.396146
+    },
+    {
+      "name": "Green World",
+      "latitude": 55.671252,
+      "longitude": 12.556958
+    },
+    {
+      "name": "Grøn Verden",
+      "latitude": 55.647466,
+      "longitude": 12.269528
+    },
+    {
+      "name": "Grønsagen",
+      "latitude": 55.673044,
+      "longitude": 12.600535
+    },
+    {
+      "name": "Grøntland",
+      "latitude": 54.913719,
+      "longitude": 9.794981
+    },
+    {
+      "name": "Grønttorvet",
+      "latitude": 56.466864,
+      "longitude": 9.39696
+    },
+    {
+      "name": "Grønært Rørvig",
+      "latitude": 55.942842,
+      "longitude": 11.750683
+    },
+    {
+      "name": "Halsnæs Market",
+      "latitude": 55.974221,
+      "longitude": 12.020731
+    },
+    {
+      "name": "Hasso Trade",
+      "latitude": 55.862249,
+      "longitude": 9.859086
+    },
+    {
+      "name": "Helsingør Frugt Og Grønt",
+      "latitude": 56.034415,
+      "longitude": 12.604657
+    },
+    {
+      "name": "Hind Marked",
+      "latitude": 55.687856,
+      "longitude": 12.559714
+    },
+    {
+      "name": "Holmemarked",
+      "latitude": 56.11749,
+      "longitude": 10.173395
+    },
+    {
+      "name": "Holstebro Frugtlager",
+      "latitude": 56.377193,
+      "longitude": 8.61301
+    },
+    {
+      "name": "Horsens Asian Marked",
+      "latitude": 55.860911,
+      "longitude": 9.843462
+    },
+    {
+      "name": "HP Grønt",
+      "latitude": 55.01541,
+      "longitude": 8.785437
+    },
+    {
+      "name": "Ishøj Food Store",
+      "latitude": 55.612423,
+      "longitude": 12.361876
+    },
+    {
+      "name": "Jafa Frugt & Grønt",
+      "latitude": 55.689553,
+      "longitude": 12.560483
+    },
+    {
+      "name": "Jaffa Frugt og Grønt",
+      "latitude": 55.655427,
+      "longitude": 12.61013
+    },
+    {
+      "name": "Jordbærteltet",
+      "latitude": 55.858431,
+      "longitude": 12.08749
+    },
+    {
+      "name": "Kabul Frugt & Grønt",
+      "latitude": 56.163476,
+      "longitude": 10.133546
+    },
+    {
+      "name": "Karroum Trading",
+      "latitude": 56.165919,
+      "longitude": 10.119585
+    },
+    {
+      "name": "Kiwi & Mango",
+      "latitude": 55.712066,
+      "longitude": 12.472346
+    },
+    {
+      "name": "Klarskov frugt",
+      "latitude": 55.300155,
+      "longitude": 11.207973
+    },
+    {
+      "name": "Kloster Grønt & Frugt",
+      "latitude": 56.15879,
+      "longitude": 10.207036
+    },
+    {
+      "name": "kobbevang",
+      "latitude": 55.182743,
+      "longitude": 14.965512
+    },
+    {
+      "name": "Kokkedal Frugt og Grønt",
+      "latitude": 55.90963,
+      "longitude": 12.492027
+    },
+    {
+      "name": "Kolding Bazar",
+      "latitude": 55.48904,
+      "longitude": 9.480566
+    },
+    {
+      "name": "Kolibri",
+      "latitude": 54.910455,
+      "longitude": 9.790355
+    },
+    {
+      "name": "Kongens Frugt & Grønt",
+      "latitude": 55.683203,
+      "longitude": 12.586918
+    },
+    {
+      "name": "Kroghs-Grønt",
+      "latitude": 54.842833,
+      "longitude": 9.459503
+    },
+    {
+      "name": "Kroghs-Grønt - Bov",
+      "latitude": 54.84124,
+      "longitude": 9.367073
+    },
+    {
+      "name": "Kroghs-Grønt - Kruså",
+      "latitude": 54.84955,
+      "longitude": 9.405222
+    },
+    {
+      "name": "Kroghs-Grønt - Rødekro",
+      "latitude": 55.065708,
+      "longitude": 9.335542
+    },
+    {
+      "name": "Kroghs-Grønt Hejlsminde",
+      "latitude": 55.361549,
+      "longitude": 9.600615
+    },
+    {
+      "name": "Kroghs-Grønt Kolding",
+      "latitude": 55.48803,
+      "longitude": 9.500225
+    },
+    {
+      "name": "Køkkenhaven",
+      "latitude": 55.700013,
+      "longitude": 12.578577
+    },
+    {
+      "name": "La Rose",
+      "latitude": 55.679061,
+      "longitude": 12.455664
+    },
+    {
+      "name": "Larose",
+      "latitude": 55.405645,
+      "longitude": 11.350665
+    },
+    {
+      "name": "Lassefars Grønthandel",
+      "latitude": 55.623753,
+      "longitude": 12.388256
+    },
+    {
+      "name": "LM Market",
+      "latitude": 55.689242,
+      "longitude": 12.555178
+    },
+    {
+      "name": "Magasin Frugt og Grønt",
+      "latitude": 55.679075,
+      "longitude": 12.584605
+    },
+    {
+      "name": "manzel bazar",
+      "latitude": 55.707603,
+      "longitude": 12.531845
+    },
+    {
+      "name": "Medina",
+      "latitude": 54.762246,
+      "longitude": 11.877214
+    },
+    {
+      "name": "Mega Bazar",
+      "latitude": 56.133427,
+      "longitude": 8.993514
+    },
+    {
+      "name": "Michellas Frugt & Gront",
+      "latitude": 55.490622,
+      "longitude": 9.473268
+    },
+    {
+      "name": "Mini Bazar Esbjerg",
+      "latitude": 55.479536,
+      "longitude": 8.468597
+    },
+    {
+      "name": "Mondial",
+      "latitude": 55.659748,
+      "longitude": 12.605995
+    },
+    {
+      "name": "Mondila Market",
+      "latitude": 55.659753,
+      "longitude": 12.606053
+    },
+    {
+      "name": "Mørkhøj Frugt og Blomster",
+      "latitude": 55.720533,
+      "longitude": 12.47056
+    },
+    {
+      "name": "Nordic Frugt & Grønt",
+      "latitude": 56.032686,
+      "longitude": 12.457606
+    },
+    {
+      "name": "Nordvest Bazar",
+      "latitude": 55.702829,
+      "longitude": 12.531232
+    },
+    {
+      "name": "Northern Bazaar",
+      "latitude": 55.930634,
+      "longitude": 12.306114
+    },
+    {
+      "name": "Næstved Bazar Slagter",
+      "latitude": 55.230644,
+      "longitude": 11.762609
+    },
+    {
+      "name": "Orientalsk Frugt og Grønt",
+      "latitude": 55.010667,
+      "longitude": 11.905705
+    },
+    {
+      "name": "P. Greens Frugt & Grønt",
+      "latitude": 55.474133,
+      "longitude": 8.431195
+    },
+    {
+      "name": "Paradis Frugt Colormix Paradise",
+      "latitude": 55.682504,
+      "longitude": 12.573868
+    },
+    {
+      "name": "Pillayar Stores",
+      "latitude": 56.134804,
+      "longitude": 8.972936
+    },
+    {
+      "name": "Polat Bazar",
+      "latitude": 55.657944,
+      "longitude": 12.607429
+    },
+    {
+      "name": "Prøvestenens Bazar Grønthandler",
+      "latitude": 56.020419,
+      "longitude": 12.572195
+    },
+    {
+      "name": "R. S Frugt & Grønt",
+      "latitude": 56.163081,
+      "longitude": 10.133295
+    },
+    {
+      "name": "Raneem Market",
+      "latitude": 55.251921,
+      "longitude": 9.488349
+    },
+    {
+      "name": "Regnbuen",
+      "latitude": 55.470812,
+      "longitude": 8.453751
+    },
+    {
+      "name": "Renes Øko Grønt",
+      "latitude": 55.811333,
+      "longitude": 10.617795
+    },
+    {
+      "name": "Rokkedyssegård Stade",
+      "latitude": 55.683984,
+      "longitude": 12.569638
+    },
+    {
+      "name": "Safir Frugt og Grønt",
+      "latitude": 55.686196,
+      "longitude": 12.550134
+    },
+    {
+      "name": "Sahin Import",
+      "latitude": 56.461601,
+      "longitude": 10.039351
+    },
+    {
+      "name": "SARI SARI",
+      "latitude": 55.671763,
+      "longitude": 12.563626
+    },
+    {
+      "name": "SAVING MART AMAGER",
+      "latitude": 55.657793,
+      "longitude": 12.606499
+    },
+    {
+      "name": "Shahba Frugt & Grønt",
+      "latitude": 55.0435,
+      "longitude": 9.41894
+    },
+    {
+      "name": "Skagen grønt",
+      "latitude": 57.659908,
+      "longitude": 10.456193
+    },
+    {
+      "name": "Smørum Frugt og Grønt",
+      "latitude": 55.732694,
+      "longitude": 12.305504
+    },
+    {
+      "name": "Solbo Grønt",
+      "latitude": 54.937985,
+      "longitude": 10.271074
+    },
+    {
+      "name": "Solfrugt",
+      "latitude": 55.683856,
+      "longitude": 12.569583
+    },
+    {
+      "name": "Soran Minimarked",
+      "latitude": 55.697953,
+      "longitude": 12.58738
+    },
+    {
+      "name": "Spil Købmand og Frugt",
+      "latitude": 55.649882,
+      "longitude": 12.61245
+    },
+    {
+      "name": "Stations Grønt-Fugt",
+      "latitude": 55.663936,
+      "longitude": 12.515714
+    },
+    {
+      "name": "Stefanos Grønne Hjørne",
+      "latitude": 55.694837,
+      "longitude": 12.543425
+    },
+    {
+      "name": "Struervejens Frugt & Grønt",
+      "latitude": 56.366274,
+      "longitude": 8.617864
+    },
+    {
+      "name": "Sukaynas Bazar",
+      "latitude": 56.140515,
+      "longitude": 8.960654
+    },
+    {
+      "name": "Super Center",
+      "latitude": 55.700521,
+      "longitude": 12.532135
+    },
+    {
+      "name": "Svampe Fabrikken",
+      "latitude": 56.158145,
+      "longitude": 10.217961
+    },
+    {
+      "name": "Sydfyns Frugt & Grønt",
+      "latitude": 55.047344,
+      "longitude": 10.654606
+    },
+    {
+      "name": "Sæby Frugtlager",
+      "latitude": 57.329638,
+      "longitude": 10.517746
+    },
+    {
+      "name": "Tmn",
+      "latitude": 55.387293,
+      "longitude": 10.19968
+    },
+    {
+      "name": "Top Star Mix",
+      "latitude": 55.69472,
+      "longitude": 12.549592
+    },
+    {
+      "name": "Trines Grønt",
+      "latitude": 56.500693,
+      "longitude": 10.337518
+    },
+    {
+      "name": "Trines Grønt",
+      "latitude": 56.511248,
+      "longitude": 10.589043
+    },
+    {
+      "name": "Trines Grønt",
+      "latitude": 56.518516,
+      "longitude": 10.598283
+    },
+    {
+      "name": "Trines Grønt",
+      "latitude": 56.528772,
+      "longitude": 10.711266
+    },
+    {
+      "name": "Uganda Grønt",
+      "latitude": 55.611955,
+      "longitude": 12.612519
+    },
+    {
+      "name": "Valby Grønne Hjørne",
+      "latitude": 55.66576,
+      "longitude": 12.510246
+    },
+    {
+      "name": "Vatan Bazar",
+      "latitude": 55.706075,
+      "longitude": 12.490238
+    },
+    {
+      "name": "Vejle Asian Food",
+      "latitude": 55.710765,
+      "longitude": 9.535136
+    },
+    {
+      "name": "vest frugt og grønt",
+      "latitude": 56.163633,
+      "longitude": 10.133422
+    },
+    {
+      "name": "Vestbyens Grønt",
+      "latitude": 57.053873,
+      "longitude": 9.903261
+    },
+    {
+      "name": "Younis Minimarket",
+      "latitude": 56.1608,
+      "longitude": 10.134831
+    }
+  ],
+  "meta": {
+    "title": "Grønthandlere i Danmark (Greengrocers in Denmark) - Gratis download",
+    "description": "Greengrocers in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=greengrocer. Indeholder 153 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Grønthandlere i Danmark (Greengrocers in Denmark) | ListBase",
+    "seo_description": "Download Grønthandlere i Danmark (Greengrocers in Denmark) — 153 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 153 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

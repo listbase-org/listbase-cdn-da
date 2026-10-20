@@ -1,0 +1,70 @@
+{
+  "id": "da-varde-swift-koder",
+  "name": "SWIFT/BIC-koder — Varde",
+  "title": "SWIFT/BIC-koder — Varde",
+  "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 4 institutioner, som kilden angiver med byen \"VARDE\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "VARDE",
+      "branch": "",
+      "swift_code": "DABADKKKVAR"
+    },
+    {
+      "bank": "JAK ANDELSKASSE VARDE",
+      "city": "VARDE",
+      "branch": "",
+      "swift_code": "JANVDK21"
+    },
+    {
+      "bank": "SKJERN BANK",
+      "city": "VARDE",
+      "branch": "",
+      "swift_code": "SKJBDK22VAR"
+    },
+    {
+      "bank": "SYDBANK A/S",
+      "city": "VARDE",
+      "branch": "",
+      "swift_code": "SYBKDK22VAR"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Varde - Gratis download",
+    "description": "SWIFT/BIC-koder for banker og finansielle institutioner i Danmark. Hver post angiver institutionens navn, by, eventuel afdeling samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmængde omfatter de 4 institutioner, som kilden angiver med byen \"VARDE\". Indeholder 4 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Varde | ListBase",
+    "seo_description": "Download SWIFT/BIC-koder — Varde — 4 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 4 poster / 4 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

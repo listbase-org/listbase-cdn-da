@@ -1,0 +1,232 @@
+{
+  "id": "da-toender-afstemningssteder",
+  "name": "Afstemningssteder i Tønder Kommune",
+  "title": "Afstemningssteder i Tønder Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Tønder Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Bredebro",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Ballum",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Visby",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Højer",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Sdr. Sejerslev",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Møgeltønder",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Løgumkloster",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Nr. Løgum",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Bedsted",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Ø. Højst",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "17",
+      "afstemningssted": "Agerskov",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "18",
+      "afstemningssted": "Arrild",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "19",
+      "afstemningssted": "Branderup",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "21",
+      "afstemningssted": "Døstrup",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "23",
+      "afstemningssted": "Toftlund",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "24",
+      "afstemningssted": "Brøns",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "25",
+      "afstemningssted": "Tønder",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "27",
+      "afstemningssted": "Abild",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "29",
+      "afstemningssted": "Hostrup",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "51",
+      "afstemningssted": "Rømø",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "61",
+      "afstemningssted": "Skærbæk",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    },
+    {
+      "afstemningsomraade_kode": "71",
+      "afstemningssted": "Vodder",
+      "kommune_kode": 550,
+      "kommune": "Tønder",
+      "opstillingskreds_nummer": 51,
+      "opstillingskreds": "Tønder"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Tønder Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Tønder Kommune med opstillingskreds. Indeholder 22 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Tønder Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Tønder Kommune — 22 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 22 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

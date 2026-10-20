@@ -1,0 +1,160 @@
+{
+  "id": "da-ringsted-afstemningssteder",
+  "name": "Afstemningssteder i Ringsted Kommune",
+  "title": "Afstemningssteder i Ringsted Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Ringsted Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Ringsted Nørretorv",
+      "kommune_kode": 329,
+      "kommune": "Ringsted",
+      "opstillingskreds_nummer": 39,
+      "opstillingskreds": "Ringsted"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Bringstrup",
+      "kommune_kode": 329,
+      "kommune": "Ringsted",
+      "opstillingskreds_nummer": 39,
+      "opstillingskreds": "Ringsted"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Gyrstinge",
+      "kommune_kode": 329,
+      "kommune": "Ringsted",
+      "opstillingskreds_nummer": 39,
+      "opstillingskreds": "Ringsted"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Benløse",
+      "kommune_kode": 329,
+      "kommune": "Ringsted",
+      "opstillingskreds_nummer": 39,
+      "opstillingskreds": "Ringsted"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Haraldsted",
+      "kommune_kode": 329,
+      "kommune": "Ringsted",
+      "opstillingskreds_nummer": 39,
+      "opstillingskreds": "Ringsted"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Ringsted Dagmarskolen",
+      "kommune_kode": 329,
+      "kommune": "Ringsted",
+      "opstillingskreds_nummer": 39,
+      "opstillingskreds": "Ringsted"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Jystrup",
+      "kommune_kode": 329,
+      "kommune": "Ringsted",
+      "opstillingskreds_nummer": 39,
+      "opstillingskreds": "Ringsted"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Kværkeby",
+      "kommune_kode": 329,
+      "kommune": "Ringsted",
+      "opstillingskreds_nummer": 39,
+      "opstillingskreds": "Ringsted"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Vetterslev",
+      "kommune_kode": 329,
+      "kommune": "Ringsted",
+      "opstillingskreds_nummer": 39,
+      "opstillingskreds": "Ringsted"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Sneslev",
+      "kommune_kode": 329,
+      "kommune": "Ringsted",
+      "opstillingskreds_nummer": 39,
+      "opstillingskreds": "Ringsted"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Nordrup",
+      "kommune_kode": 329,
+      "kommune": "Ringsted",
+      "opstillingskreds_nummer": 39,
+      "opstillingskreds": "Ringsted"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Vigersted",
+      "kommune_kode": 329,
+      "kommune": "Ringsted",
+      "opstillingskreds_nummer": 39,
+      "opstillingskreds": "Ringsted"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Ørslev",
+      "kommune_kode": 329,
+      "kommune": "Ringsted",
+      "opstillingskreds_nummer": 39,
+      "opstillingskreds": "Ringsted"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Ringsted Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Ringsted Kommune med opstillingskreds. Indeholder 13 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Ringsted Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Ringsted Kommune — 13 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 13 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

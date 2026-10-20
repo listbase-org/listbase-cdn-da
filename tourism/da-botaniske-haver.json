@@ -1,0 +1,120 @@
+{
+  "id": "da-botaniske-haver",
+  "name": "Botaniske haver i Danmark",
+  "title": "Botaniske haver i Danmark",
+  "description": "Botaniske haver (botanical gardens) i Danmark fra Wikidata (P31 = Q167346, P17 = Danmark) med koordinater.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_da",
+      "label": "Name Da",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q12302850",
+      "wikidata_id": "Q12302850",
+      "name_da": "Bangsbo Botanisk Have",
+      "name_en": "Bangsbo Botaniske Have",
+      "latitude": 57.420594,
+      "longitude": 10.507767
+    },
+    {
+      "id": "Q3198468",
+      "wikidata_id": "Q3198468",
+      "name_da": "Botanisk Have",
+      "name_en": "Aarhus Botanical Gardens",
+      "latitude": 56.160556,
+      "longitude": 10.190833
+    },
+    {
+      "id": "Q892711",
+      "wikidata_id": "Q892711",
+      "name_da": "Botanisk Have",
+      "name_en": "University of Copenhagen Botanical Garden",
+      "latitude": 55.686944,
+      "longitude": 12.573889
+    },
+    {
+      "id": "Q12313655",
+      "wikidata_id": "Q12313655",
+      "name_da": "Geografisk Have",
+      "name_en": "Geographical Garden",
+      "latitude": 55.4727,
+      "longitude": 9.4929
+    },
+    {
+      "id": "Q140130291",
+      "wikidata_id": "Q140130291",
+      "name_da": "Historisk Botanisk Have",
+      "name_en": "",
+      "latitude": 55.007032,
+      "longitude": 11.910402
+    },
+    {
+      "id": "Q12323105",
+      "wikidata_id": "Q12323105",
+      "name_da": "Kulturbotanisk Have",
+      "name_en": "Kulturbotanisk Have",
+      "latitude": 55.3988,
+      "longitude": 10.4298
+    },
+    {
+      "id": "Q11965363",
+      "wikidata_id": "Q11965363",
+      "name_da": "Universitetshaverne på Frederiksberg",
+      "name_en": "The University Garden at Frederiksberg",
+      "latitude": 55.6808,
+      "longitude": 12.542
+    },
+    {
+      "id": "Q12308250",
+      "wikidata_id": "Q12308250",
+      "name_da": "Økologiens Have",
+      "name_en": "Den Økologiske Have",
+      "latitude": 55.9769,
+      "longitude": 10.1764
+    }
+  ],
+  "meta": {
+    "title": "Botaniske haver i Danmark - Gratis download",
+    "description": "Botaniske haver (botanical gardens) i Danmark fra Wikidata (P31 = Q167346, P17 = Danmark) med koordinater. Indeholder 8 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Botaniske haver i Danmark | ListBase",
+    "seo_description": "Download Botaniske haver i Danmark — 8 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 8 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

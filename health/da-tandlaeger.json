@@ -1,0 +1,1406 @@
+{
+  "id": "da-tandlaeger",
+  "name": "Tandlæger i Danmark (Dentists in Denmark)",
+  "title": "Tandlæger i Danmark (Dentists in Denmark)",
+  "description": "Dentists in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=dentist, healthcare=dentist.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 273,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aarup Tandlægerne",
+      "latitude": 55.377653,
+      "longitude": 10.047006
+    },
+    {
+      "name": "Adenta",
+      "latitude": 55.6801,
+      "longitude": 12.58355
+    },
+    {
+      "name": "Akut Tandlæge København",
+      "latitude": 55.6785,
+      "longitude": 12.592336
+    },
+    {
+      "name": "Amager Tandklinik",
+      "latitude": 55.652827,
+      "longitude": 12.61178
+    },
+    {
+      "name": "AROS Tandlægerne",
+      "latitude": 56.155831,
+      "longitude": 10.183184
+    },
+    {
+      "name": "Aut. Klinisk Tandtekniker Susan Berthelsen",
+      "latitude": 55.696995,
+      "longitude": 12.524915
+    },
+    {
+      "name": "Bay Tandlæge & Implantatklinik",
+      "latitude": 56.362361,
+      "longitude": 8.61906
+    },
+    {
+      "name": "Bedre Tænder",
+      "latitude": 55.514638,
+      "longitude": 9.637999
+    },
+    {
+      "name": "Broens Tandlæger",
+      "latitude": 55.72888,
+      "longitude": 12.35981
+    },
+    {
+      "name": "Byens Tandklinik",
+      "latitude": 56.274072,
+      "longitude": 8.322603
+    },
+    {
+      "name": "Byens tandtekniker",
+      "latitude": 56.565633,
+      "longitude": 9.02507
+    },
+    {
+      "name": "Center For Tandregulering I/S",
+      "latitude": 55.730465,
+      "longitude": 12.351376
+    },
+    {
+      "name": "Centrum Tandlægerne",
+      "latitude": 55.396362,
+      "longitude": 10.380135
+    },
+    {
+      "name": "Colosseum Tandlægerne",
+      "latitude": 54.911032,
+      "longitude": 9.791708
+    },
+    {
+      "name": "Dental Nord",
+      "latitude": 57.047306,
+      "longitude": 9.915232
+    },
+    {
+      "name": "Dentalklinikken Amager",
+      "latitude": 55.65637,
+      "longitude": 12.609146
+    },
+    {
+      "name": "Dentalklinikken Ballerup",
+      "latitude": 55.726377,
+      "longitude": 12.356783
+    },
+    {
+      "name": "Dentalklinikken Hedehusene",
+      "latitude": 55.649669,
+      "longitude": 12.202151
+    },
+    {
+      "name": "Dentalklinikken Hillerød",
+      "latitude": 55.930083,
+      "longitude": 12.299778
+    },
+    {
+      "name": "Dentalklinikken Husum",
+      "latitude": 55.710419,
+      "longitude": 12.478204
+    },
+    {
+      "name": "Dentalklinikken Jægerspris",
+      "latitude": 55.852504,
+      "longitude": 11.982581
+    },
+    {
+      "name": "Dentalklinikken Nørrebro",
+      "latitude": 55.695762,
+      "longitude": 12.546926
+    },
+    {
+      "name": "Dentalklinikken Odense",
+      "latitude": 55.398316,
+      "longitude": 10.379549
+    },
+    {
+      "name": "Dentalklinikken Rødovre",
+      "latitude": 55.690622,
+      "longitude": 12.462693
+    },
+    {
+      "name": "Dentis",
+      "latitude": 55.928869,
+      "longitude": 12.303944
+    },
+    {
+      "name": "dentist.dk",
+      "latitude": 55.15591,
+      "longitude": 8.772931
+    },
+    {
+      "name": "Dentist.dk",
+      "latitude": 56.0904,
+      "longitude": 8.242336
+    },
+    {
+      "name": "Dentist.dk i Egtved",
+      "latitude": 55.61991,
+      "longitude": 9.302573
+    },
+    {
+      "name": "din Tandlæge",
+      "latitude": 56.645421,
+      "longitude": 9.784393
+    },
+    {
+      "name": "din Tandlæge Lund Wittorff",
+      "latitude": 55.486181,
+      "longitude": 9.473769
+    },
+    {
+      "name": "din Tandlæge Tjæreborg",
+      "latitude": 55.465545,
+      "longitude": 8.581651
+    },
+    {
+      "name": "dinTANDLÆGE - Odense SV",
+      "latitude": 55.36366,
+      "longitude": 10.350519
+    },
+    {
+      "name": "Dragør Tandlægerne",
+      "latitude": 55.593982,
+      "longitude": 12.673017
+    },
+    {
+      "name": "Faaborg-Midtfyn Kommunale Tandpleje",
+      "latitude": 55.239181,
+      "longitude": 10.469051
+    },
+    {
+      "name": "Forum Tandlæge & Implantat Center",
+      "latitude": 55.682223,
+      "longitude": 12.550028
+    },
+    {
+      "name": "Furesø Tandlægerne",
+      "latitude": 55.783859,
+      "longitude": 12.373609
+    },
+    {
+      "name": "Ganium",
+      "latitude": 55.686855,
+      "longitude": 12.540565
+    },
+    {
+      "name": "Glostrup Tandplejecenter",
+      "latitude": 55.66638,
+      "longitude": 12.405871
+    },
+    {
+      "name": "Godt Smil",
+      "latitude": 54.91254,
+      "longitude": 9.793072
+    },
+    {
+      "name": "Godt smil",
+      "latitude": 55.402265,
+      "longitude": 10.358932
+    },
+    {
+      "name": "Godt Smil",
+      "latitude": 55.465988,
+      "longitude": 8.451235
+    },
+    {
+      "name": "Godt Smil",
+      "latitude": 55.66627,
+      "longitude": 12.598982
+    },
+    {
+      "name": "Godt Smil",
+      "latitude": 55.701517,
+      "longitude": 12.551273
+    },
+    {
+      "name": "Godt Smil Tandlægerne Frederiksberg",
+      "latitude": 55.671846,
+      "longitude": 12.516079
+    },
+    {
+      "name": "Hadsund Tandklinik",
+      "latitude": 56.722916,
+      "longitude": 10.130376
+    },
+    {
+      "name": "Harald",
+      "latitude": 57.045026,
+      "longitude": 9.921162
+    },
+    {
+      "name": "Harald - Tandlægerne i Gjesing",
+      "latitude": 55.503389,
+      "longitude": 8.449833
+    },
+    {
+      "name": "Harald Tandlægerne",
+      "latitude": 57.049861,
+      "longitude": 9.922701
+    },
+    {
+      "name": "Heidi Kromann",
+      "latitude": 57.723787,
+      "longitude": 10.593552
+    },
+    {
+      "name": "Henrik Hammer",
+      "latitude": 55.781015,
+      "longitude": 12.482338
+    },
+    {
+      "name": "Husum Torv Tandlægecenter",
+      "latitude": 55.712139,
+      "longitude": 12.472093
+    },
+    {
+      "name": "Inger Olsen",
+      "latitude": 56.717186,
+      "longitude": 10.113128
+    },
+    {
+      "name": "Irene Vestergaard - Klinisk Tandtekniker",
+      "latitude": 57.033456,
+      "longitude": 9.907512
+    },
+    {
+      "name": "Jægerhusets Tandklinik",
+      "latitude": 55.216321,
+      "longitude": 11.747283
+    },
+    {
+      "name": "Jægersborg Tandlægeklinik",
+      "latitude": 55.762429,
+      "longitude": 12.528255
+    },
+    {
+      "name": "Klinik For Tandproteser",
+      "latitude": 54.774501,
+      "longitude": 11.498056
+    },
+    {
+      "name": "Klinik Holmberg",
+      "latitude": 55.012123,
+      "longitude": 11.908676
+    },
+    {
+      "name": "Klinikhuset Klitgård",
+      "latitude": 54.940045,
+      "longitude": 10.714122
+    },
+    {
+      "name": "Klinisk tandtekniker",
+      "latitude": 55.700594,
+      "longitude": 12.538399
+    },
+    {
+      "name": "Klinisk Tandtekniker Inez Berg",
+      "latitude": 54.934183,
+      "longitude": 8.86694
+    },
+    {
+      "name": "Klinisk Tandtekniker Inez Berg",
+      "latitude": 55.46758,
+      "longitude": 8.454923
+    },
+    {
+      "name": "Klinisk Tandtekniker Lars Kongsbak",
+      "latitude": 55.470465,
+      "longitude": 8.458692
+    },
+    {
+      "name": "Kohberg Tandklinik",
+      "latitude": 54.936862,
+      "longitude": 9.257182
+    },
+    {
+      "name": "Krogh Isakson",
+      "latitude": 57.045773,
+      "longitude": 9.918311
+    },
+    {
+      "name": "Lind Tandklinik",
+      "latitude": 56.106107,
+      "longitude": 8.984596
+    },
+    {
+      "name": "Lolk tandlæge",
+      "latitude": 55.732988,
+      "longitude": 9.110291
+    },
+    {
+      "name": "Lotus Dental",
+      "latitude": 57.049582,
+      "longitude": 9.92006
+    },
+    {
+      "name": "Louise Høyer Klinisk Tandtekniker",
+      "latitude": 56.565649,
+      "longitude": 9.024926
+    },
+    {
+      "name": "Lystrup Tandklinik",
+      "latitude": 56.238723,
+      "longitude": 10.234824
+    },
+    {
+      "name": "Marinas Tandprotese Klinik",
+      "latitude": 55.471307,
+      "longitude": 8.438197
+    },
+    {
+      "name": "Michael Nørgaard Andersen Tandlæge",
+      "latitude": 55.063615,
+      "longitude": 15.134495
+    },
+    {
+      "name": "MinTandtekniker",
+      "latitude": 57.047565,
+      "longitude": 9.915444
+    },
+    {
+      "name": "Møns Tandplejecenter",
+      "latitude": 54.980698,
+      "longitude": 12.277435
+    },
+    {
+      "name": "Nord-Smil",
+      "latitude": 57.048657,
+      "longitude": 9.922773
+    },
+    {
+      "name": "Nordfyns Tandpleje - Søndersø",
+      "latitude": 55.490055,
+      "longitude": 10.249771
+    },
+    {
+      "name": "Nordisk Implantatcenter",
+      "latitude": 55.677373,
+      "longitude": 12.546286
+    },
+    {
+      "name": "NV-Tand",
+      "latitude": 55.711394,
+      "longitude": 12.532285
+    },
+    {
+      "name": "Odense Tandpleje",
+      "latitude": 55.398638,
+      "longitude": 10.365882
+    },
+    {
+      "name": "Oris Tandlægerne",
+      "latitude": 57.048408,
+      "longitude": 9.923156
+    },
+    {
+      "name": "ORIS Tandlægerne Kolding",
+      "latitude": 55.491672,
+      "longitude": 9.481209
+    },
+    {
+      "name": "Oris Tandlægerne Odense",
+      "latitude": 55.396587,
+      "longitude": 10.382783
+    },
+    {
+      "name": "Palæklinikken",
+      "latitude": 55.681603,
+      "longitude": 12.587688
+    },
+    {
+      "name": "Regionstandplejen, Region Syddanmark- Esbjerg",
+      "latitude": 55.470096,
+      "longitude": 8.448621
+    },
+    {
+      "name": "Ringe Tandlægehus",
+      "latitude": 55.239218,
+      "longitude": 10.479718
+    },
+    {
+      "name": "Risskov Tandklinik",
+      "latitude": 56.194431,
+      "longitude": 10.220548
+    },
+    {
+      "name": "Ry Tandlaegernes hus",
+      "latitude": 56.095718,
+      "longitude": 9.764975
+    },
+    {
+      "name": "Rødby Tandlægehus",
+      "latitude": 54.696393,
+      "longitude": 11.39284
+    },
+    {
+      "name": "Rønde Tandlægehus",
+      "latitude": 56.299243,
+      "longitude": 10.479817
+    },
+    {
+      "name": "Silketand.dk",
+      "latitude": 56.168454,
+      "longitude": 9.547232
+    },
+    {
+      "name": "Skibhus Tandlægerne",
+      "latitude": 55.411842,
+      "longitude": 10.395051
+    },
+    {
+      "name": "Skoletandpleje",
+      "latitude": 55.487736,
+      "longitude": 9.447796
+    },
+    {
+      "name": "Smil med Østergaard",
+      "latitude": 56.339185,
+      "longitude": 9.251618
+    },
+    {
+      "name": "Smil med Østergaard",
+      "latitude": 56.564687,
+      "longitude": 9.026746
+    },
+    {
+      "name": "Smil med Østergaard",
+      "latitude": 56.699865,
+      "longitude": 8.977869
+    },
+    {
+      "name": "Smilecentret",
+      "latitude": 55.567216,
+      "longitude": 9.758007
+    },
+    {
+      "name": "Specialtandklinikken Sønderjylland",
+      "latitude": 55.054675,
+      "longitude": 9.427212
+    },
+    {
+      "name": "Specialtandlæge Allan Derry",
+      "latitude": 57.445085,
+      "longitude": 10.539494
+    },
+    {
+      "name": "Specialtandlæge Barbara Rank",
+      "latitude": 55.056317,
+      "longitude": 10.600742
+    },
+    {
+      "name": "Specialtandlægerne Aarhus Tandregulering",
+      "latitude": 56.148192,
+      "longitude": 10.196895
+    },
+    {
+      "name": "Strandvejens Tandlægeteam",
+      "latitude": 55.583897,
+      "longitude": 12.315168
+    },
+    {
+      "name": "Susanne Thrane",
+      "latitude": 54.709043,
+      "longitude": 11.475411
+    },
+    {
+      "name": "Svaneklinikken",
+      "latitude": 55.708216,
+      "longitude": 12.577747
+    },
+    {
+      "name": "Sydthy Tandteknik",
+      "latitude": 56.750999,
+      "longitude": 8.416415
+    },
+    {
+      "name": "Sønderborg Tand",
+      "latitude": 54.913858,
+      "longitude": 9.802762
+    },
+    {
+      "name": "Tand & Teknik",
+      "latitude": 55.659514,
+      "longitude": 12.605891
+    },
+    {
+      "name": "Tandklinik",
+      "latitude": 56.968051,
+      "longitude": 9.253471
+    },
+    {
+      "name": "Tandkliniken i Virum",
+      "latitude": 55.796206,
+      "longitude": 12.471169
+    },
+    {
+      "name": "Tandklinikken Absalons Skole",
+      "latitude": 55.640338,
+      "longitude": 12.074393
+    },
+    {
+      "name": "Tandklinikken Bakke",
+      "latitude": 55.481901,
+      "longitude": 8.481535
+    },
+    {
+      "name": "Tandklinikken Bakkevej",
+      "latitude": 55.469634,
+      "longitude": 8.701775
+    },
+    {
+      "name": "Tandklinikken Esbjerg",
+      "latitude": 55.470059,
+      "longitude": 8.439725
+    },
+    {
+      "name": "Tandklinikken Hasle Torv",
+      "latitude": 56.168101,
+      "longitude": 10.16292
+    },
+    {
+      "name": "Tandklinikken Hersegade 28",
+      "latitude": 55.638993,
+      "longitude": 12.085256
+    },
+    {
+      "name": "Tandklinikken i Gistrup",
+      "latitude": 56.997235,
+      "longitude": 9.994726
+    },
+    {
+      "name": "Tandklinikken Kgs. Bastionsvej",
+      "latitude": 55.310951,
+      "longitude": 10.785665
+    },
+    {
+      "name": "Tandklinikken Klostermarkskolen",
+      "latitude": 55.649741,
+      "longitude": 12.094865
+    },
+    {
+      "name": "Tandklinikken Kongensgade 13",
+      "latitude": 55.465922,
+      "longitude": 8.454461
+    },
+    {
+      "name": "Tandklinikken Lille Torv",
+      "latitude": 55.10048,
+      "longitude": 14.700626
+    },
+    {
+      "name": "Tandklinikken Sindal",
+      "latitude": 57.475977,
+      "longitude": 10.197082
+    },
+    {
+      "name": "Tandklinikken Skolen på La Cours Vej",
+      "latitude": 55.685033,
+      "longitude": 12.51806
+    },
+    {
+      "name": "Tandklinikken Sofiendal",
+      "latitude": 57.017521,
+      "longitude": 9.895588
+    },
+    {
+      "name": "Tandklinikken Sydfyn Vindeby",
+      "latitude": 55.040448,
+      "longitude": 10.613358
+    },
+    {
+      "name": "Tandklinikken Søndersøskolen",
+      "latitude": 55.783509,
+      "longitude": 12.352777
+    },
+    {
+      "name": "Tandklinikken Vejle",
+      "latitude": 55.718971,
+      "longitude": 9.609003
+    },
+    {
+      "name": "Tandklinikken Vestfyn",
+      "latitude": 55.377271,
+      "longitude": 10.049082
+    },
+    {
+      "name": "tandlaegen.dk",
+      "latitude": 55.760163,
+      "longitude": 12.455185
+    },
+    {
+      "name": "Tandlæge",
+      "latitude": 56.36237,
+      "longitude": 10.58733
+    },
+    {
+      "name": "Tandlæge Anne Kuniss Kriegbaum ApS",
+      "latitude": 55.840722,
+      "longitude": 12.431075
+    },
+    {
+      "name": "Tandlæge Barkmann",
+      "latitude": 56.720664,
+      "longitude": 10.104
+    },
+    {
+      "name": "Tandlæge Bro Kaj",
+      "latitude": 55.842613,
+      "longitude": 12.433521
+    },
+    {
+      "name": "Tandlæge Ellen Larsen ApS",
+      "latitude": 56.155199,
+      "longitude": 9.809103
+    },
+    {
+      "name": "Tandlæge Joy Breinstrup",
+      "latitude": 56.387957,
+      "longitude": 9.789226
+    },
+    {
+      "name": "Tandlæge Line Molander Kragh",
+      "latitude": 55.842381,
+      "longitude": 12.433445
+    },
+    {
+      "name": "Tandlæge Martin Hansen",
+      "latitude": 56.136132,
+      "longitude": 8.973907
+    },
+    {
+      "name": "Tandlæge Matilde Brand",
+      "latitude": 55.059408,
+      "longitude": 10.610011
+    },
+    {
+      "name": "Tandlæge Peter Schlünzen",
+      "latitude": 56.16688,
+      "longitude": 10.161162
+    },
+    {
+      "name": "Tandlæge Poul Erik Vestergaard",
+      "latitude": 56.029578,
+      "longitude": 8.854933
+    },
+    {
+      "name": "Tandlæge Rune Gravesen",
+      "latitude": 55.841722,
+      "longitude": 12.433448
+    },
+    {
+      "name": "Tandlæge Sanne Eckard",
+      "latitude": 55.640325,
+      "longitude": 12.084729
+    },
+    {
+      "name": "Tandlæge Stig Holden",
+      "latitude": 55.840436,
+      "longitude": 12.430645
+    },
+    {
+      "name": "Tandlæge Susanne Huber",
+      "latitude": 55.841806,
+      "longitude": 12.432348
+    },
+    {
+      "name": "Tandlæge Troels Friis",
+      "latitude": 55.065977,
+      "longitude": 10.614524
+    },
+    {
+      "name": "Tandlægegruppen Rosenhøj",
+      "latitude": 55.65113,
+      "longitude": 12.475316
+    },
+    {
+      "name": "Tandlægehuset Aalestrup",
+      "latitude": 56.696015,
+      "longitude": 9.492382
+    },
+    {
+      "name": "Tandlægehuset Broby",
+      "latitude": 55.230816,
+      "longitude": 10.251847
+    },
+    {
+      "name": "Tandlægehuset Brønderslev",
+      "latitude": 57.267474,
+      "longitude": 9.948554
+    },
+    {
+      "name": "Tandlægehuset Grenaa",
+      "latitude": 56.413124,
+      "longitude": 10.885737
+    },
+    {
+      "name": "Tandlægehuset i Bramming",
+      "latitude": 55.46631,
+      "longitude": 8.698617
+    },
+    {
+      "name": "Tandlægehuset i Humlebæk",
+      "latitude": 55.962133,
+      "longitude": 12.534212
+    },
+    {
+      "name": "Tandlægehuset Skjern",
+      "latitude": 55.945673,
+      "longitude": 8.495333
+    },
+    {
+      "name": "Tandlægen Kirkegade",
+      "latitude": 55.449165,
+      "longitude": 8.406762
+    },
+    {
+      "name": "Tandlægen Kirkegade",
+      "latitude": 55.471031,
+      "longitude": 8.450361
+    },
+    {
+      "name": "tandlægen.dk",
+      "latitude": 55.355899,
+      "longitude": 10.341195
+    },
+    {
+      "name": "tandlægen.dk",
+      "latitude": 55.473561,
+      "longitude": 8.432134
+    },
+    {
+      "name": "tandlægen.dk",
+      "latitude": 55.493008,
+      "longitude": 9.483365
+    },
+    {
+      "name": "tandlægen.dk",
+      "latitude": 55.518525,
+      "longitude": 8.368623
+    },
+    {
+      "name": "tandlægen.dk",
+      "latitude": 55.703314,
+      "longitude": 8.75402
+    },
+    {
+      "name": "tandlægen.dk",
+      "latitude": 55.708164,
+      "longitude": 12.562624
+    },
+    {
+      "name": "tandlægen.dk",
+      "latitude": 55.758558,
+      "longitude": 8.925996
+    },
+    {
+      "name": "tandlægen.dk",
+      "latitude": 57.037124,
+      "longitude": 9.932332
+    },
+    {
+      "name": "tandlægen.dk Brøndby",
+      "latitude": 55.665632,
+      "longitude": 12.436339
+    },
+    {
+      "name": "Tandlæger Møller & Lyngsaa",
+      "latitude": 55.057843,
+      "longitude": 10.607502
+    },
+    {
+      "name": "Tandlægerne",
+      "latitude": 55.384582,
+      "longitude": 10.425144
+    },
+    {
+      "name": "Tandlægerne",
+      "latitude": 55.648565,
+      "longitude": 12.527963
+    },
+    {
+      "name": "Tandlægerne",
+      "latitude": 55.662232,
+      "longitude": 12.517797
+    },
+    {
+      "name": "Tandlægerne",
+      "latitude": 55.664815,
+      "longitude": 12.578002
+    },
+    {
+      "name": "Tandlægerne",
+      "latitude": 55.683053,
+      "longitude": 12.575464
+    },
+    {
+      "name": "Tandlægerne",
+      "latitude": 57.0466,
+      "longitude": 9.927623
+    },
+    {
+      "name": "Tandlægerne Aarhus Ø",
+      "latitude": 56.166258,
+      "longitude": 10.226752
+    },
+    {
+      "name": "Tandlægerne Banegårdspladsen 10",
+      "latitude": 56.150732,
+      "longitude": 10.203621
+    },
+    {
+      "name": "Tandlægerne Bankpladsen",
+      "latitude": 56.715094,
+      "longitude": 10.113334
+    },
+    {
+      "name": "Tandlægerne Bargfeldt, Dalum og Tarp",
+      "latitude": 55.057735,
+      "longitude": 10.607806
+    },
+    {
+      "name": "Tandlægerne Berthelsen & Valdimarsson",
+      "latitude": 55.353516,
+      "longitude": 8.780759
+    },
+    {
+      "name": "Tandlægerne Berthelsen & Valdimarsson",
+      "latitude": 55.465147,
+      "longitude": 8.454815
+    },
+    {
+      "name": "Tandlægerne Berthelsen & Valdimarsson",
+      "latitude": 55.620096,
+      "longitude": 8.481052
+    },
+    {
+      "name": "Tandlægerne Birgitte Pram & Søren T. Poulsen ApS",
+      "latitude": 55.385081,
+      "longitude": 10.137167
+    },
+    {
+      "name": "Tandlægerne Bredgade",
+      "latitude": 55.639437,
+      "longitude": 12.077562
+    },
+    {
+      "name": "Tandlægerne Centrumpladsen",
+      "latitude": 55.059616,
+      "longitude": 10.60604
+    },
+    {
+      "name": "Tandlægerne Det Gule Pakhus",
+      "latitude": 55.057606,
+      "longitude": 10.613912
+    },
+    {
+      "name": "Tandlægerne Dronninglund",
+      "latitude": 57.159584,
+      "longitude": 10.28732
+    },
+    {
+      "name": "Tandlægerne Enebærvej",
+      "latitude": 55.364598,
+      "longitude": 10.392095
+    },
+    {
+      "name": "Tandlægerne Engboulevarden",
+      "latitude": 56.448043,
+      "longitude": 10.05508
+    },
+    {
+      "name": "Tandlægerne Fagernæs",
+      "latitude": 55.490213,
+      "longitude": 9.475841
+    },
+    {
+      "name": "Tandlægerne Fredensborghus",
+      "latitude": 55.979511,
+      "longitude": 12.405618
+    },
+    {
+      "name": "Tandlægerne Frederiksbjerg",
+      "latitude": 56.1482,
+      "longitude": 10.196928
+    },
+    {
+      "name": "Tandlægerne Frederiksgade",
+      "latitude": 56.154322,
+      "longitude": 10.204065
+    },
+    {
+      "name": "Tandlægerne Fyrvej",
+      "latitude": 55.497413,
+      "longitude": 8.403058
+    },
+    {
+      "name": "Tandlægerne Gammel Strand",
+      "latitude": 55.677447,
+      "longitude": 12.577329
+    },
+    {
+      "name": "Tandlægerne Gothersgade",
+      "latitude": 55.564515,
+      "longitude": 9.756874
+    },
+    {
+      "name": "Tandlægerne Grundtvigsvej",
+      "latitude": 56.12968,
+      "longitude": 10.167862
+    },
+    {
+      "name": "Tandlægerne Hedegaard & Kjærgaard",
+      "latitude": 56.263793,
+      "longitude": 10.06188
+    },
+    {
+      "name": "Tandlægerne Helle og Kim Nielsen",
+      "latitude": 55.842036,
+      "longitude": 12.43215
+    },
+    {
+      "name": "Tandlægerne Hørmand",
+      "latitude": 55.059288,
+      "longitude": 10.606788
+    },
+    {
+      "name": "Tandlægerne i Centrum v/Lars Weltzer ApS",
+      "latitude": 55.641219,
+      "longitude": 12.082264
+    },
+    {
+      "name": "Tandlægerne i Frederiksværk",
+      "latitude": 55.972224,
+      "longitude": 12.016032
+    },
+    {
+      "name": "Tandlægerne i Glumsø",
+      "latitude": 55.353424,
+      "longitude": 11.690981
+    },
+    {
+      "name": "Tandlægerne i Gram",
+      "latitude": 55.28965,
+      "longitude": 9.056251
+    },
+    {
+      "name": "Tandlægerne i Hasseris",
+      "latitude": 57.036366,
+      "longitude": 9.885464
+    },
+    {
+      "name": "Tandlægerne i Hellerup",
+      "latitude": 55.727474,
+      "longitude": 12.549506
+    },
+    {
+      "name": "Tandlægerne i Kollehus",
+      "latitude": 55.868353,
+      "longitude": 12.351361
+    },
+    {
+      "name": "Tandlægerne i Kværndrup",
+      "latitude": 55.178088,
+      "longitude": 10.524512
+    },
+    {
+      "name": "Tandlægerne i Møldrup",
+      "latitude": 56.616424,
+      "longitude": 9.502202
+    },
+    {
+      "name": "Tandlægerne i Skottegården",
+      "latitude": 55.637758,
+      "longitude": 12.634554
+    },
+    {
+      "name": "Tandlægerne i Sportsbyen",
+      "latitude": 55.697761,
+      "longitude": 11.684462
+    },
+    {
+      "name": "Tandlægerne i Vesterbrogade",
+      "latitude": 56.157504,
+      "longitude": 10.195129
+    },
+    {
+      "name": "Tandlægerne i Viby",
+      "latitude": 55.548027,
+      "longitude": 12.027011
+    },
+    {
+      "name": "Tandlægerne i Ørestaden",
+      "latitude": 55.638511,
+      "longitude": 12.581839
+    },
+    {
+      "name": "Tandlægerne I/S",
+      "latitude": 56.966637,
+      "longitude": 9.253052
+    },
+    {
+      "name": "Tandlægerne Jernbanegade 13",
+      "latitude": 55.568122,
+      "longitude": 9.741239
+    },
+    {
+      "name": "Tandlægerne Jerne Torv",
+      "latitude": 55.478625,
+      "longitude": 8.480193
+    },
+    {
+      "name": "Tandlægerne Kold",
+      "latitude": 56.135167,
+      "longitude": 8.973069
+    },
+    {
+      "name": "Tandlægerne Kystcentret",
+      "latitude": 56.217958,
+      "longitude": 10.292934
+    },
+    {
+      "name": "Tandlægerne Købmagergade",
+      "latitude": 55.566542,
+      "longitude": 9.759305
+    },
+    {
+      "name": "Tandlægerne Luise Duhn Sextus, Helle Langhede Olsen",
+      "latitude": 55.15832,
+      "longitude": 8.767456
+    },
+    {
+      "name": "Tandlægerne Middelfart",
+      "latitude": 55.506096,
+      "longitude": 9.729538
+    },
+    {
+      "name": "Tandlægerne Nissen og Jensen",
+      "latitude": 56.316306,
+      "longitude": 10.313876
+    },
+    {
+      "name": "Tandlægerne Nord Smil",
+      "latitude": 56.168181,
+      "longitude": 10.190694
+    },
+    {
+      "name": "Tandlægerne på Frederiksberg",
+      "latitude": 55.679392,
+      "longitude": 12.52394
+    },
+    {
+      "name": "Tandlægerne på Kongelundsvej",
+      "latitude": 55.616047,
+      "longitude": 12.585961
+    },
+    {
+      "name": "Tandlægerne på Thujavej",
+      "latitude": 55.356744,
+      "longitude": 10.343167
+    },
+    {
+      "name": "Tandlægerne på Torvet",
+      "latitude": 55.465845,
+      "longitude": 8.452379
+    },
+    {
+      "name": "Tandlægerne på Torvet i Tønder ApS",
+      "latitude": 54.936172,
+      "longitude": 8.870302
+    },
+    {
+      "name": "Tandlægerne på Østerbro",
+      "latitude": 55.72136,
+      "longitude": 12.577577
+    },
+    {
+      "name": "Tandlægerne Ryesgade",
+      "latitude": 56.151629,
+      "longitude": 10.205132
+    },
+    {
+      "name": "Tandlægerne Rødegårdsvej",
+      "latitude": 55.390774,
+      "longitude": 10.410143
+    },
+    {
+      "name": "Tandlægerne Sanne Gerdes",
+      "latitude": 55.547781,
+      "longitude": 9.722556
+    },
+    {
+      "name": "Tandlægerne Silkeborgvej 297",
+      "latitude": 56.154539,
+      "longitude": 10.158778
+    },
+    {
+      "name": "Tandlægerne Skou",
+      "latitude": 56.261848,
+      "longitude": 10.078466
+    },
+    {
+      "name": "Tandlægerne Skørping",
+      "latitude": 56.834783,
+      "longitude": 9.887151
+    },
+    {
+      "name": "Tandlægerne Sloth-Lisbjerg ApS",
+      "latitude": 55.493016,
+      "longitude": 9.481373
+    },
+    {
+      "name": "Tandlægerne Strandbysvinget",
+      "latitude": 55.474875,
+      "longitude": 8.435404
+    },
+    {
+      "name": "Tandlægerne Sundhedshuset",
+      "latitude": 55.061152,
+      "longitude": 10.611322
+    },
+    {
+      "name": "Tandlægerne Svendborgvej",
+      "latitude": 55.356535,
+      "longitude": 10.399764
+    },
+    {
+      "name": "Tandlægerne Svenstrup Torv",
+      "latitude": 56.972722,
+      "longitude": 9.85098
+    },
+    {
+      "name": "Tandlægerne Søborg",
+      "latitude": 55.741863,
+      "longitude": 12.497898
+    },
+    {
+      "name": "Tandlægerne Tandcare",
+      "latitude": 55.467877,
+      "longitude": 8.456481
+    },
+    {
+      "name": "Tandlægerne Toft og Jakobsen",
+      "latitude": 55.465719,
+      "longitude": 8.699623
+    },
+    {
+      "name": "Tandlægerne ved Nytorv",
+      "latitude": 55.503872,
+      "longitude": 9.737673
+    },
+    {
+      "name": "Tandlægerne Ved Slotssøen",
+      "latitude": 55.492493,
+      "longitude": 9.480635
+    },
+    {
+      "name": "Tandlægerne ved Storkespringvandet",
+      "latitude": 55.679275,
+      "longitude": 12.580644
+    },
+    {
+      "name": "Tandlægerne Ved Stranden",
+      "latitude": 56.720466,
+      "longitude": 10.127355
+    },
+    {
+      "name": "Tandlægerne Viborgvej 113",
+      "latitude": 56.164204,
+      "longitude": 10.170468
+    },
+    {
+      "name": "Tandlægerne Vindinggård Center",
+      "latitude": 55.687553,
+      "longitude": 9.55137
+    },
+    {
+      "name": "Tandlægerne Ågade",
+      "latitude": 56.413386,
+      "longitude": 10.87416
+    },
+    {
+      "name": "Tandlægerne Østergade 61",
+      "latitude": 57.457348,
+      "longitude": 9.994911
+    },
+    {
+      "name": "Tandlægernes Hus",
+      "latitude": 56.151695,
+      "longitude": 9.901081
+    },
+    {
+      "name": "Tandlægeselskabet Adamsen ApS",
+      "latitude": 55.921726,
+      "longitude": 11.671901
+    },
+    {
+      "name": "Tandlægeselskabet Godt Smil Aalborg ApS",
+      "latitude": 57.05095,
+      "longitude": 9.91912
+    },
+    {
+      "name": "Tandlægeselskabet Roskilde Aps",
+      "latitude": 55.651905,
+      "longitude": 12.091193
+    },
+    {
+      "name": "Tandlægeselskabet Sv. Ulrich Jensen",
+      "latitude": 55.966598,
+      "longitude": 11.851006
+    },
+    {
+      "name": "Tandplejecentret",
+      "latitude": 56.694596,
+      "longitude": 9.49545
+    },
+    {
+      "name": "Tandplejeklinikken i Tommerup",
+      "latitude": 55.323355,
+      "longitude": 10.202973
+    },
+    {
+      "name": "Tandplejen",
+      "latitude": 55.482401,
+      "longitude": 9.144421
+    },
+    {
+      "name": "Tandplejen",
+      "latitude": 55.627126,
+      "longitude": 12.449211
+    },
+    {
+      "name": "Tandplejen",
+      "latitude": 55.852488,
+      "longitude": 12.334139
+    },
+    {
+      "name": "Tandplejen",
+      "latitude": 56.033077,
+      "longitude": 9.929977
+    },
+    {
+      "name": "Tandplejen Gadehave",
+      "latitude": 55.65232,
+      "longitude": 12.268936
+    },
+    {
+      "name": "Tandplejen Greve Kommune",
+      "latitude": 55.592397,
+      "longitude": 12.286716
+    },
+    {
+      "name": "Tandplejen Karrebækvej",
+      "latitude": 55.219682,
+      "longitude": 11.733123
+    },
+    {
+      "name": "Tandplejen Svendborg Kommune",
+      "latitude": 55.062108,
+      "longitude": 10.612225
+    },
+    {
+      "name": "Tandprotese Klinikken",
+      "latitude": 55.467907,
+      "longitude": 8.456306
+    },
+    {
+      "name": "Tandprotesehuset - klinisk tandtekniker Marianne Thomassen",
+      "latitude": 55.482328,
+      "longitude": 9.017909
+    },
+    {
+      "name": "Tandreguleringen",
+      "latitude": 55.627289,
+      "longitude": 12.449116
+    },
+    {
+      "name": "Tandtek v/ Birgitte Lüdemann",
+      "latitude": 55.567429,
+      "longitude": 9.759388
+    },
+    {
+      "name": "Tinglev Klinikken",
+      "latitude": 54.934229,
+      "longitude": 9.24534
+    },
+    {
+      "name": "Tårnby Kommunale Tandpleje",
+      "latitude": 55.633964,
+      "longitude": 12.620925
+    },
+    {
+      "name": "Tårnby Tandteknik",
+      "latitude": 55.635574,
+      "longitude": 12.619296
+    },
+    {
+      "name": "VH Dent Dentallaboratorium",
+      "latitude": 55.4735,
+      "longitude": 8.432084
+    },
+    {
+      "name": "Viby Tandklinik",
+      "latitude": 56.128282,
+      "longitude": 10.162947
+    },
+    {
+      "name": "Værebro Tandlæge Center",
+      "latitude": 55.757508,
+      "longitude": 12.439885
+    },
+    {
+      "name": "Ålekistevej Tandklinik",
+      "latitude": 55.68281,
+      "longitude": 12.483618
+    },
+    {
+      "name": "Østerbro Tandlægecenter",
+      "latitude": 55.712415,
+      "longitude": 12.560465
+    },
+    {
+      "name": "Østerbro Tandlægerne",
+      "latitude": 55.700312,
+      "longitude": 12.577675
+    }
+  ],
+  "meta": {
+    "title": "Tandlæger i Danmark (Dentists in Denmark) - Gratis download",
+    "description": "Dentists in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: amenity=dentist, healthcare=dentist. Indeholder 273 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Tandlæger i Danmark (Dentists in Denmark) | ListBase",
+    "seo_description": "Download Tandlæger i Danmark (Dentists in Denmark) — 273 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 273 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

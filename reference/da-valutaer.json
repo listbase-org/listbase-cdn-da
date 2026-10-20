@@ -1,0 +1,841 @@
+{
+  "id": "da-valutaer",
+  "name": "Valutaer i verden (ISO 4217)",
+  "title": "Valutaer i verden (ISO 4217)",
+  "description": "Valutakoder efter ISO 4217 udledt af lande-tildelingen i annexare/Countries; for hver valuta angives antal lande og et eksempelsæt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 160,
+  "columns": [
+    {
+      "key": "iso_4217",
+      "label": "Iso 4217",
+      "type": "string"
+    },
+    {
+      "key": "country_count",
+      "label": "Country Count",
+      "type": "number"
+    },
+    {
+      "key": "example_countries_da",
+      "label": "Example Countries Da",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_4217": "AED",
+      "country_count": 1,
+      "example_countries_da": "De Forenede Arabiske Emirater"
+    },
+    {
+      "iso_4217": "AFN",
+      "country_count": 1,
+      "example_countries_da": "Afghanistan"
+    },
+    {
+      "iso_4217": "ALL",
+      "country_count": 1,
+      "example_countries_da": "Albanien"
+    },
+    {
+      "iso_4217": "AMD",
+      "country_count": 1,
+      "example_countries_da": "Armenien"
+    },
+    {
+      "iso_4217": "ANG",
+      "country_count": 2,
+      "example_countries_da": "Curaçao, Sint Maarten (nederlandsk del)"
+    },
+    {
+      "iso_4217": "AOA",
+      "country_count": 1,
+      "example_countries_da": "Angola"
+    },
+    {
+      "iso_4217": "ARS",
+      "country_count": 1,
+      "example_countries_da": "Argentina"
+    },
+    {
+      "iso_4217": "AUD",
+      "country_count": 9,
+      "example_countries_da": "Australien, Cocosøerne, Heard Island og McDonald Islands, Juleøen, Kiribati"
+    },
+    {
+      "iso_4217": "AWG",
+      "country_count": 1,
+      "example_countries_da": "Aruba"
+    },
+    {
+      "iso_4217": "AZN",
+      "country_count": 1,
+      "example_countries_da": "Aserbajdsjan"
+    },
+    {
+      "iso_4217": "BAM",
+      "country_count": 1,
+      "example_countries_da": "Bosnien-Hercegovina"
+    },
+    {
+      "iso_4217": "BBD",
+      "country_count": 1,
+      "example_countries_da": "Barbados"
+    },
+    {
+      "iso_4217": "BDT",
+      "country_count": 1,
+      "example_countries_da": "Bangladesh"
+    },
+    {
+      "iso_4217": "BHD",
+      "country_count": 1,
+      "example_countries_da": "Bahrain"
+    },
+    {
+      "iso_4217": "BIF",
+      "country_count": 1,
+      "example_countries_da": "Burundi"
+    },
+    {
+      "iso_4217": "BMD",
+      "country_count": 1,
+      "example_countries_da": "Bermuda"
+    },
+    {
+      "iso_4217": "BND",
+      "country_count": 1,
+      "example_countries_da": "Brunei"
+    },
+    {
+      "iso_4217": "BOB",
+      "country_count": 1,
+      "example_countries_da": "Bolivia"
+    },
+    {
+      "iso_4217": "BOV",
+      "country_count": 1,
+      "example_countries_da": "Bolivia"
+    },
+    {
+      "iso_4217": "BRL",
+      "country_count": 1,
+      "example_countries_da": "Brasilien"
+    },
+    {
+      "iso_4217": "BSD",
+      "country_count": 1,
+      "example_countries_da": "Bahamas"
+    },
+    {
+      "iso_4217": "BTN",
+      "country_count": 1,
+      "example_countries_da": "Bhutan"
+    },
+    {
+      "iso_4217": "BWP",
+      "country_count": 2,
+      "example_countries_da": "Botswana, Zimbabwe"
+    },
+    {
+      "iso_4217": "BYN",
+      "country_count": 1,
+      "example_countries_da": "Hviderusland"
+    },
+    {
+      "iso_4217": "BZD",
+      "country_count": 1,
+      "example_countries_da": "Belize"
+    },
+    {
+      "iso_4217": "CAD",
+      "country_count": 1,
+      "example_countries_da": "Canada"
+    },
+    {
+      "iso_4217": "CDF",
+      "country_count": 1,
+      "example_countries_da": "Den Demokratiske Republik Congo"
+    },
+    {
+      "iso_4217": "CHE",
+      "country_count": 1,
+      "example_countries_da": "Schweiz"
+    },
+    {
+      "iso_4217": "CHF",
+      "country_count": 2,
+      "example_countries_da": "Liechtenstein, Schweiz"
+    },
+    {
+      "iso_4217": "CHW",
+      "country_count": 1,
+      "example_countries_da": "Schweiz"
+    },
+    {
+      "iso_4217": "CLF",
+      "country_count": 1,
+      "example_countries_da": "Chile"
+    },
+    {
+      "iso_4217": "CLP",
+      "country_count": 1,
+      "example_countries_da": "Chile"
+    },
+    {
+      "iso_4217": "CNY",
+      "country_count": 2,
+      "example_countries_da": "Kina, Zimbabwe"
+    },
+    {
+      "iso_4217": "COP",
+      "country_count": 1,
+      "example_countries_da": "Colombia"
+    },
+    {
+      "iso_4217": "CRC",
+      "country_count": 1,
+      "example_countries_da": "Costa Rica"
+    },
+    {
+      "iso_4217": "CUP",
+      "country_count": 1,
+      "example_countries_da": "Cuba"
+    },
+    {
+      "iso_4217": "CVE",
+      "country_count": 1,
+      "example_countries_da": "Kap Verde"
+    },
+    {
+      "iso_4217": "CZK",
+      "country_count": 1,
+      "example_countries_da": "Tjekkiet"
+    },
+    {
+      "iso_4217": "DJF",
+      "country_count": 1,
+      "example_countries_da": "Djibouti"
+    },
+    {
+      "iso_4217": "DKK",
+      "country_count": 3,
+      "example_countries_da": "Danmark, Færøerne, Grønland"
+    },
+    {
+      "iso_4217": "DOP",
+      "country_count": 1,
+      "example_countries_da": "Den Dominikanske Republik"
+    },
+    {
+      "iso_4217": "DZD",
+      "country_count": 2,
+      "example_countries_da": "Algeriet, Vestsahara"
+    },
+    {
+      "iso_4217": "EGP",
+      "country_count": 1,
+      "example_countries_da": "Egypten"
+    },
+    {
+      "iso_4217": "ERN",
+      "country_count": 1,
+      "example_countries_da": "Eritrea"
+    },
+    {
+      "iso_4217": "ETB",
+      "country_count": 1,
+      "example_countries_da": "Etiopien"
+    },
+    {
+      "iso_4217": "EUR",
+      "country_count": 37,
+      "example_countries_da": "Andorra, Belgien, Bulgarien, Cypern, De Franske Besiddelser i Det Sydlige Indiske Ocean"
+    },
+    {
+      "iso_4217": "FJD",
+      "country_count": 1,
+      "example_countries_da": "Fiji"
+    },
+    {
+      "iso_4217": "FKP",
+      "country_count": 1,
+      "example_countries_da": "Falklandsøerne"
+    },
+    {
+      "iso_4217": "GBP",
+      "country_count": 6,
+      "example_countries_da": "Guernsey, Isle of Man, Jersey, South Georgia og South Sandwich Islands, Storbritannien"
+    },
+    {
+      "iso_4217": "GEL",
+      "country_count": 1,
+      "example_countries_da": "Georgien"
+    },
+    {
+      "iso_4217": "GHS",
+      "country_count": 1,
+      "example_countries_da": "Ghana"
+    },
+    {
+      "iso_4217": "GIP",
+      "country_count": 1,
+      "example_countries_da": "Gibraltar"
+    },
+    {
+      "iso_4217": "GMD",
+      "country_count": 1,
+      "example_countries_da": "Gambia"
+    },
+    {
+      "iso_4217": "GNF",
+      "country_count": 1,
+      "example_countries_da": "Guinea"
+    },
+    {
+      "iso_4217": "GTQ",
+      "country_count": 1,
+      "example_countries_da": "Guatemala"
+    },
+    {
+      "iso_4217": "GYD",
+      "country_count": 1,
+      "example_countries_da": "Guyana"
+    },
+    {
+      "iso_4217": "HKD",
+      "country_count": 1,
+      "example_countries_da": "Hongkong"
+    },
+    {
+      "iso_4217": "HNL",
+      "country_count": 1,
+      "example_countries_da": "Honduras"
+    },
+    {
+      "iso_4217": "HTG",
+      "country_count": 1,
+      "example_countries_da": "Haiti"
+    },
+    {
+      "iso_4217": "HUF",
+      "country_count": 1,
+      "example_countries_da": "Ungarn"
+    },
+    {
+      "iso_4217": "IDR",
+      "country_count": 1,
+      "example_countries_da": "Indonesien"
+    },
+    {
+      "iso_4217": "ILS",
+      "country_count": 2,
+      "example_countries_da": "Israel, Palæstina"
+    },
+    {
+      "iso_4217": "INR",
+      "country_count": 3,
+      "example_countries_da": "Bhutan, Indien, Zimbabwe"
+    },
+    {
+      "iso_4217": "IQD",
+      "country_count": 1,
+      "example_countries_da": "Irak"
+    },
+    {
+      "iso_4217": "IRR",
+      "country_count": 1,
+      "example_countries_da": "Iran"
+    },
+    {
+      "iso_4217": "ISK",
+      "country_count": 1,
+      "example_countries_da": "Island"
+    },
+    {
+      "iso_4217": "JMD",
+      "country_count": 1,
+      "example_countries_da": "Jamaica"
+    },
+    {
+      "iso_4217": "JOD",
+      "country_count": 1,
+      "example_countries_da": "Jordan"
+    },
+    {
+      "iso_4217": "JPY",
+      "country_count": 2,
+      "example_countries_da": "Japan, Zimbabwe"
+    },
+    {
+      "iso_4217": "KES",
+      "country_count": 1,
+      "example_countries_da": "Kenya"
+    },
+    {
+      "iso_4217": "KGS",
+      "country_count": 1,
+      "example_countries_da": "Kirgisistan"
+    },
+    {
+      "iso_4217": "KHR",
+      "country_count": 1,
+      "example_countries_da": "Cambodja"
+    },
+    {
+      "iso_4217": "KMF",
+      "country_count": 1,
+      "example_countries_da": "Comorerne"
+    },
+    {
+      "iso_4217": "KPW",
+      "country_count": 1,
+      "example_countries_da": "Nordkorea"
+    },
+    {
+      "iso_4217": "KRW",
+      "country_count": 1,
+      "example_countries_da": "Sydkorea"
+    },
+    {
+      "iso_4217": "KWD",
+      "country_count": 1,
+      "example_countries_da": "Kuwait"
+    },
+    {
+      "iso_4217": "KYD",
+      "country_count": 1,
+      "example_countries_da": "Caymanøerne"
+    },
+    {
+      "iso_4217": "KZT",
+      "country_count": 1,
+      "example_countries_da": "Kasakhstan"
+    },
+    {
+      "iso_4217": "LAK",
+      "country_count": 1,
+      "example_countries_da": "Laos"
+    },
+    {
+      "iso_4217": "LBP",
+      "country_count": 1,
+      "example_countries_da": "Libanon"
+    },
+    {
+      "iso_4217": "LKR",
+      "country_count": 1,
+      "example_countries_da": "Sri Lanka"
+    },
+    {
+      "iso_4217": "LRD",
+      "country_count": 1,
+      "example_countries_da": "Liberia"
+    },
+    {
+      "iso_4217": "LSL",
+      "country_count": 1,
+      "example_countries_da": "Lesotho"
+    },
+    {
+      "iso_4217": "LYD",
+      "country_count": 1,
+      "example_countries_da": "Libyen"
+    },
+    {
+      "iso_4217": "MAD",
+      "country_count": 2,
+      "example_countries_da": "Marokko, Vestsahara"
+    },
+    {
+      "iso_4217": "MDL",
+      "country_count": 1,
+      "example_countries_da": "Moldova"
+    },
+    {
+      "iso_4217": "MGA",
+      "country_count": 1,
+      "example_countries_da": "Madagaskar"
+    },
+    {
+      "iso_4217": "MKD",
+      "country_count": 1,
+      "example_countries_da": "Nordmakedonien"
+    },
+    {
+      "iso_4217": "MMK",
+      "country_count": 1,
+      "example_countries_da": "Myanmar"
+    },
+    {
+      "iso_4217": "MNT",
+      "country_count": 1,
+      "example_countries_da": "Mongoliet"
+    },
+    {
+      "iso_4217": "MOP",
+      "country_count": 1,
+      "example_countries_da": "Macao"
+    },
+    {
+      "iso_4217": "MRU",
+      "country_count": 2,
+      "example_countries_da": "Mauretanien, Vestsahara"
+    },
+    {
+      "iso_4217": "MUR",
+      "country_count": 1,
+      "example_countries_da": "Mauritius"
+    },
+    {
+      "iso_4217": "MVR",
+      "country_count": 1,
+      "example_countries_da": "Maldiverne"
+    },
+    {
+      "iso_4217": "MWK",
+      "country_count": 1,
+      "example_countries_da": "Malawi"
+    },
+    {
+      "iso_4217": "MXN",
+      "country_count": 1,
+      "example_countries_da": "Mexico"
+    },
+    {
+      "iso_4217": "MYR",
+      "country_count": 1,
+      "example_countries_da": "Malaysia"
+    },
+    {
+      "iso_4217": "MZN",
+      "country_count": 1,
+      "example_countries_da": "Mozambique"
+    },
+    {
+      "iso_4217": "NAD",
+      "country_count": 1,
+      "example_countries_da": "Namibia"
+    },
+    {
+      "iso_4217": "NGN",
+      "country_count": 1,
+      "example_countries_da": "Nigeria"
+    },
+    {
+      "iso_4217": "NIO",
+      "country_count": 1,
+      "example_countries_da": "Nicaragua"
+    },
+    {
+      "iso_4217": "NOK",
+      "country_count": 3,
+      "example_countries_da": "Bouvetøen, Norge, Svalbard og Jan Mayen"
+    },
+    {
+      "iso_4217": "NPR",
+      "country_count": 1,
+      "example_countries_da": "Nepal"
+    },
+    {
+      "iso_4217": "NZD",
+      "country_count": 5,
+      "example_countries_da": "Cookøerne, New Zealand, Niue, Pitcairn, Tokelau"
+    },
+    {
+      "iso_4217": "OMR",
+      "country_count": 1,
+      "example_countries_da": "Oman"
+    },
+    {
+      "iso_4217": "PAB",
+      "country_count": 1,
+      "example_countries_da": "Panama"
+    },
+    {
+      "iso_4217": "PEN",
+      "country_count": 1,
+      "example_countries_da": "Peru"
+    },
+    {
+      "iso_4217": "PGK",
+      "country_count": 1,
+      "example_countries_da": "Papua Ny Guinea"
+    },
+    {
+      "iso_4217": "PHP",
+      "country_count": 1,
+      "example_countries_da": "Filippinerne"
+    },
+    {
+      "iso_4217": "PKR",
+      "country_count": 1,
+      "example_countries_da": "Pakistan"
+    },
+    {
+      "iso_4217": "PLN",
+      "country_count": 1,
+      "example_countries_da": "Polen"
+    },
+    {
+      "iso_4217": "PYG",
+      "country_count": 1,
+      "example_countries_da": "Paraguay"
+    },
+    {
+      "iso_4217": "QAR",
+      "country_count": 1,
+      "example_countries_da": "Qatar"
+    },
+    {
+      "iso_4217": "RON",
+      "country_count": 1,
+      "example_countries_da": "Rumænien"
+    },
+    {
+      "iso_4217": "RSD",
+      "country_count": 1,
+      "example_countries_da": "Serbien"
+    },
+    {
+      "iso_4217": "RUB",
+      "country_count": 1,
+      "example_countries_da": "Rusland"
+    },
+    {
+      "iso_4217": "RWF",
+      "country_count": 1,
+      "example_countries_da": "Rwanda"
+    },
+    {
+      "iso_4217": "SAR",
+      "country_count": 1,
+      "example_countries_da": "Saudi-Arabien"
+    },
+    {
+      "iso_4217": "SBD",
+      "country_count": 1,
+      "example_countries_da": "Salomonøerne"
+    },
+    {
+      "iso_4217": "SCR",
+      "country_count": 1,
+      "example_countries_da": "Seychellerne"
+    },
+    {
+      "iso_4217": "SDG",
+      "country_count": 1,
+      "example_countries_da": "Sudan"
+    },
+    {
+      "iso_4217": "SEK",
+      "country_count": 1,
+      "example_countries_da": "Sverige"
+    },
+    {
+      "iso_4217": "SGD",
+      "country_count": 1,
+      "example_countries_da": "Singapore"
+    },
+    {
+      "iso_4217": "SHP",
+      "country_count": 3,
+      "example_countries_da": "Ascension, Sankt Helena, Tristan da Cunha"
+    },
+    {
+      "iso_4217": "SLL",
+      "country_count": 1,
+      "example_countries_da": "Sierra Leone"
+    },
+    {
+      "iso_4217": "SOS",
+      "country_count": 1,
+      "example_countries_da": "Somalia"
+    },
+    {
+      "iso_4217": "SRD",
+      "country_count": 1,
+      "example_countries_da": "Surinam"
+    },
+    {
+      "iso_4217": "SSP",
+      "country_count": 1,
+      "example_countries_da": "Sydsudan"
+    },
+    {
+      "iso_4217": "STN",
+      "country_count": 1,
+      "example_countries_da": "São Tomé og Príncipe"
+    },
+    {
+      "iso_4217": "SVC",
+      "country_count": 1,
+      "example_countries_da": "El Salvador"
+    },
+    {
+      "iso_4217": "SYP",
+      "country_count": 1,
+      "example_countries_da": "Syrien"
+    },
+    {
+      "iso_4217": "SZL",
+      "country_count": 1,
+      "example_countries_da": "Eswatini"
+    },
+    {
+      "iso_4217": "THB",
+      "country_count": 1,
+      "example_countries_da": "Thailand"
+    },
+    {
+      "iso_4217": "TJS",
+      "country_count": 1,
+      "example_countries_da": "Tadsjikistan"
+    },
+    {
+      "iso_4217": "TMT",
+      "country_count": 1,
+      "example_countries_da": "Turkmenistan"
+    },
+    {
+      "iso_4217": "TND",
+      "country_count": 1,
+      "example_countries_da": "Tunesien"
+    },
+    {
+      "iso_4217": "TOP",
+      "country_count": 1,
+      "example_countries_da": "Tonga"
+    },
+    {
+      "iso_4217": "TRY",
+      "country_count": 1,
+      "example_countries_da": "Tyrkiet"
+    },
+    {
+      "iso_4217": "TTD",
+      "country_count": 1,
+      "example_countries_da": "Trinidad og Tobago"
+    },
+    {
+      "iso_4217": "TWD",
+      "country_count": 1,
+      "example_countries_da": "Taiwan"
+    },
+    {
+      "iso_4217": "TZS",
+      "country_count": 1,
+      "example_countries_da": "Tanzania"
+    },
+    {
+      "iso_4217": "UAH",
+      "country_count": 1,
+      "example_countries_da": "Ukraine"
+    },
+    {
+      "iso_4217": "UGX",
+      "country_count": 1,
+      "example_countries_da": "Uganda"
+    },
+    {
+      "iso_4217": "USD",
+      "country_count": 20,
+      "example_countries_da": "Amerikansk Samoa, De Amerikanske Jomfruøer, De Britiske Jomfruøer, Det Britiske Territorium i Det Indiske Ocean, Det Caribiske Nederland"
+    },
+    {
+      "iso_4217": "USN",
+      "country_count": 1,
+      "example_countries_da": "USA"
+    },
+    {
+      "iso_4217": "USS",
+      "country_count": 1,
+      "example_countries_da": "USA"
+    },
+    {
+      "iso_4217": "UYI",
+      "country_count": 1,
+      "example_countries_da": "Uruguay"
+    },
+    {
+      "iso_4217": "UYU",
+      "country_count": 1,
+      "example_countries_da": "Uruguay"
+    },
+    {
+      "iso_4217": "UZS",
+      "country_count": 1,
+      "example_countries_da": "Usbekistan"
+    },
+    {
+      "iso_4217": "VES",
+      "country_count": 1,
+      "example_countries_da": "Venezuela"
+    },
+    {
+      "iso_4217": "VND",
+      "country_count": 1,
+      "example_countries_da": "Vietnam"
+    },
+    {
+      "iso_4217": "VUV",
+      "country_count": 1,
+      "example_countries_da": "Vanuatu"
+    },
+    {
+      "iso_4217": "WST",
+      "country_count": 1,
+      "example_countries_da": "Samoa"
+    },
+    {
+      "iso_4217": "XAF",
+      "country_count": 6,
+      "example_countries_da": "Cameroun, Den Centralafrikanske Republik, Gabon, Republikken Congo, Tchad"
+    },
+    {
+      "iso_4217": "XCD",
+      "country_count": 8,
+      "example_countries_da": "Anguilla, Antigua og Barbuda, Dominica, Grenada, Montserrat"
+    },
+    {
+      "iso_4217": "XOF",
+      "country_count": 8,
+      "example_countries_da": "Benin, Burkina Faso, Elfenbenskysten, Guinea-Bissau, Mali"
+    },
+    {
+      "iso_4217": "XPF",
+      "country_count": 3,
+      "example_countries_da": "Fransk Polynesien, Ny Kaledonien, Wallis og Futuna"
+    },
+    {
+      "iso_4217": "YER",
+      "country_count": 1,
+      "example_countries_da": "Yemen"
+    },
+    {
+      "iso_4217": "ZAR",
+      "country_count": 4,
+      "example_countries_da": "Lesotho, Namibia, Sydafrika, Zimbabwe"
+    },
+    {
+      "iso_4217": "ZMW",
+      "country_count": 1,
+      "example_countries_da": "Zambia"
+    }
+  ],
+  "meta": {
+    "title": "Valutaer i verden (ISO 4217) - Gratis download",
+    "description": "Valutakoder efter ISO 4217 udledt af lande-tildelingen i annexare/Countries; for hver valuta angives antal lande og et eksempelsæt. Indeholder 160 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Valutaer i verden (ISO 4217) | ListBase",
+    "seo_description": "Download Valutaer i verden (ISO 4217) — 160 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 160 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

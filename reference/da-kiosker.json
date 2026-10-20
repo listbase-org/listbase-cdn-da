@@ -1,0 +1,3136 @@
+{
+  "id": "da-kiosker",
+  "name": "Kiosker i Danmark (Kiosks in Denmark)",
+  "title": "Kiosker i Danmark (Kiosks in Denmark)",
+  "description": "Kiosks in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=kiosk.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 619,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1001 Nat Vin & Tobak",
+      "latitude": 55.668479,
+      "longitude": 12.550559
+    },
+    {
+      "name": "1st Choice",
+      "latitude": 55.759937,
+      "longitude": 12.570485
+    },
+    {
+      "name": "7-Eleven Solrød Strand",
+      "latitude": 55.53302,
+      "longitude": 12.206865
+    },
+    {
+      "name": "A C Marked",
+      "latitude": 55.690687,
+      "longitude": 12.533223
+    },
+    {
+      "name": "Adams Kiosk",
+      "latitude": 55.861872,
+      "longitude": 9.842876
+    },
+    {
+      "name": "Adventure Spil",
+      "latitude": 55.931059,
+      "longitude": 12.306046
+    },
+    {
+      "name": "Afro Kiosk",
+      "latitude": 55.638626,
+      "longitude": 12.086024
+    },
+    {
+      "name": "Al Aqsa 2",
+      "latitude": 55.699443,
+      "longitude": 12.538103
+    },
+    {
+      "name": "Al Ayham",
+      "latitude": 55.715728,
+      "longitude": 9.53027
+    },
+    {
+      "name": "Allegades tips og trav",
+      "latitude": 55.866709,
+      "longitude": 9.844385
+    },
+    {
+      "name": "Anam Smirtee",
+      "latitude": 55.671637,
+      "longitude": 12.488508
+    },
+    {
+      "name": "ASIAN BAZAR FOOD & KIOSK",
+      "latitude": 55.701552,
+      "longitude": 12.534068
+    },
+    {
+      "name": "Asians Food Store",
+      "latitude": 56.164053,
+      "longitude": 10.133221
+    },
+    {
+      "name": "Asiatisk kiosk og spillehal",
+      "latitude": 56.138372,
+      "longitude": 9.157873
+    },
+    {
+      "name": "Assentorp Camping kiosk & grill",
+      "latitude": 55.559057,
+      "longitude": 11.569624
+    },
+    {
+      "name": "Atlas Kiosk & Pakkeshop",
+      "latitude": 55.63587,
+      "longitude": 12.602619
+    },
+    {
+      "name": "Aynkaran Stores",
+      "latitude": 56.462187,
+      "longitude": 10.036998
+    },
+    {
+      "name": "B&B Shop",
+      "latitude": 55.711107,
+      "longitude": 12.532317
+    },
+    {
+      "name": "Bagsværd Vin og Tobak",
+      "latitude": 55.76109,
+      "longitude": 12.450897
+    },
+    {
+      "name": "Bahaya Shop",
+      "latitude": 56.458226,
+      "longitude": 10.038935
+    },
+    {
+      "name": "Bakkegårdens kiosk",
+      "latitude": 56.164538,
+      "longitude": 10.202124
+    },
+    {
+      "name": "Ballerup bazar",
+      "latitude": 55.718508,
+      "longitude": 12.357455
+    },
+    {
+      "name": "Balqis",
+      "latitude": 55.328234,
+      "longitude": 11.96367
+    },
+    {
+      "name": "Banekiosken",
+      "latitude": 54.833236,
+      "longitude": 11.138457
+    },
+    {
+      "name": "Banekiosken",
+      "latitude": 56.023461,
+      "longitude": 12.204029
+    },
+    {
+      "name": "Bavnehøj sandwichbar & kiosk",
+      "latitude": 56.417695,
+      "longitude": 10.867998
+    },
+    {
+      "name": "Bazar LuLu Market",
+      "latitude": 55.738213,
+      "longitude": 12.538548
+    },
+    {
+      "name": "Beethoven",
+      "latitude": 55.648529,
+      "longitude": 12.533471
+    },
+    {
+      "name": "BF Kiosken",
+      "latitude": 55.716856,
+      "longitude": 9.53339
+    },
+    {
+      "name": "Bildsø camping",
+      "latitude": 55.455297,
+      "longitude": 11.209877
+    },
+    {
+      "name": "Bingo cafeen",
+      "latitude": 57.460022,
+      "longitude": 10.018022
+    },
+    {
+      "name": "Birkerød Pakkeshop",
+      "latitude": 55.840113,
+      "longitude": 12.421291
+    },
+    {
+      "name": "Birkhede Camping Kiosk",
+      "latitude": 56.103606,
+      "longitude": 9.745156
+    },
+    {
+      "name": "Bispeparkens Kiosk",
+      "latitude": 55.715663,
+      "longitude": 12.532002
+    },
+    {
+      "name": "Bisserup Camping Kiosken",
+      "latitude": 55.201169,
+      "longitude": 11.496797
+    },
+    {
+      "name": "Bixen",
+      "latitude": 55.673422,
+      "longitude": 12.599834
+    },
+    {
+      "name": "Bixen Kragskovhede",
+      "latitude": 57.523116,
+      "longitude": 10.396964
+    },
+    {
+      "name": "Bjergbyparkens kiosk",
+      "latitude": 56.514681,
+      "longitude": 10.028569
+    },
+    {
+      "name": "Bjerghytten",
+      "latitude": 56.102998,
+      "longitude": 9.686464
+    },
+    {
+      "name": "BLACKKAT",
+      "latitude": 55.599444,
+      "longitude": 12.594826
+    },
+    {
+      "name": "Bladcentralen",
+      "latitude": 55.443376,
+      "longitude": 11.790263
+    },
+    {
+      "name": "Bladcentralen",
+      "latitude": 55.716324,
+      "longitude": 11.715628
+    },
+    {
+      "name": "Bladcentralen",
+      "latitude": 55.756738,
+      "longitude": 8.928759
+    },
+    {
+      "name": "Bladcentralen",
+      "latitude": 55.972703,
+      "longitude": 9.611539
+    },
+    {
+      "name": "Bladkiosken",
+      "latitude": 54.778217,
+      "longitude": 11.8672
+    },
+    {
+      "name": "Bogboksen",
+      "latitude": 55.249141,
+      "longitude": 9.712508
+    },
+    {
+      "name": "Boholte Center Kiosk",
+      "latitude": 55.447999,
+      "longitude": 12.16459
+    },
+    {
+      "name": "Boholte Kiosk og Spil",
+      "latitude": 55.448006,
+      "longitude": 12.166837
+    },
+    {
+      "name": "Bookin Hjallerup",
+      "latitude": 57.1685,
+      "longitude": 10.145053
+    },
+    {
+      "name": "Borgens Kiosk Sommerland Sjælland",
+      "latitude": 55.896357,
+      "longitude": 11.610683
+    },
+    {
+      "name": "Borgvold-kiosken",
+      "latitude": 56.451093,
+      "longitude": 9.41957
+    },
+    {
+      "name": "Bornholms Familiecamping",
+      "latitude": 55.003187,
+      "longitude": 15.096053
+    },
+    {
+      "name": "Borups Kiosk",
+      "latitude": 55.691674,
+      "longitude": 12.539244
+    },
+    {
+      "name": "Botilbuddet Boserupvej Kiosk",
+      "latitude": 55.649304,
+      "longitude": 12.06473
+    },
+    {
+      "name": "Boulevard Kiosken",
+      "latitude": 55.66531,
+      "longitude": 12.599168
+    },
+    {
+      "name": "Brabrand Kiosk",
+      "latitude": 56.153014,
+      "longitude": 10.102806
+    },
+    {
+      "name": "Broager Strand Camping",
+      "latitude": 54.867621,
+      "longitude": 9.744035
+    },
+    {
+      "name": "Brunsnæs ta' selv is",
+      "latitude": 54.866811,
+      "longitude": 9.638731
+    },
+    {
+      "name": "Bryggens Kjosk",
+      "latitude": 55.66511,
+      "longitude": 12.577455
+    },
+    {
+      "name": "Brændesgårdshaven Vandlandskiosk",
+      "latitude": 55.130547,
+      "longitude": 15.103188
+    },
+    {
+      "name": "Brønshøj kiosk",
+      "latitude": 55.704979,
+      "longitude": 12.504182
+    },
+    {
+      "name": "Brørup Svømmebad",
+      "latitude": 55.498867,
+      "longitude": 9.021941
+    },
+    {
+      "name": "Burger Factory Fredensborg",
+      "latitude": 55.967372,
+      "longitude": 12.403863
+    },
+    {
+      "name": "Butikken ved OK-tanken",
+      "latitude": 56.481605,
+      "longitude": 9.625674
+    },
+    {
+      "name": "Byens Kiosk",
+      "latitude": 56.998697,
+      "longitude": 10.307226
+    },
+    {
+      "name": "Byens lækkeri",
+      "latitude": 55.05647,
+      "longitude": 10.58974
+    },
+    {
+      "name": "Bygholm Camping",
+      "latitude": 57.026969,
+      "longitude": 9.01949
+    },
+    {
+      "name": "Cabinn Aalborg Kiosk",
+      "latitude": 57.047227,
+      "longitude": 9.925728
+    },
+    {
+      "name": "Cabinn City Kiosk",
+      "latitude": 55.670586,
+      "longitude": 12.570808
+    },
+    {
+      "name": "Cabinn Kiosk",
+      "latitude": 55.665624,
+      "longitude": 12.564637
+    },
+    {
+      "name": "Cafe Dorothea og kiosk",
+      "latitude": 55.501777,
+      "longitude": 9.484225
+    },
+    {
+      "name": "Cafe Dueodde",
+      "latitude": 54.996672,
+      "longitude": 15.086506
+    },
+    {
+      "name": "Café Birkeboden",
+      "latitude": 55.840776,
+      "longitude": 12.414763
+    },
+    {
+      "name": "Calamity Jane's Popcorn",
+      "latitude": 56.423898,
+      "longitude": 10.550123
+    },
+    {
+      "name": "Camping & Fritid Center Kiosk",
+      "latitude": 55.078683,
+      "longitude": 9.728196
+    },
+    {
+      "name": "Camping og feriecenter Samsø",
+      "latitude": 55.796898,
+      "longitude": 10.55126
+    },
+    {
+      "name": "Candy Kiosk Brønshøj",
+      "latitude": 55.705129,
+      "longitude": 12.503508
+    },
+    {
+      "name": "Center Kiosken",
+      "latitude": 55.409743,
+      "longitude": 10.339153
+    },
+    {
+      "name": "Centerkiosken",
+      "latitude": 55.504424,
+      "longitude": 11.289581
+    },
+    {
+      "name": "Centerkiosken",
+      "latitude": 55.629722,
+      "longitude": 12.578352
+    },
+    {
+      "name": "Centerkiosken",
+      "latitude": 55.758353,
+      "longitude": 12.439218
+    },
+    {
+      "name": "Centerkiosken",
+      "latitude": 55.814429,
+      "longitude": 12.378537
+    },
+    {
+      "name": "Centerkiosken",
+      "latitude": 56.49139,
+      "longitude": 8.597662
+    },
+    {
+      "name": "Centerkiosken",
+      "latitude": 57.113114,
+      "longitude": 8.606773
+    },
+    {
+      "name": "Centerkiosken Brøndby",
+      "latitude": 55.62199,
+      "longitude": 12.422694
+    },
+    {
+      "name": "Centerkiosken Farsø",
+      "latitude": 56.77208,
+      "longitude": 9.341757
+    },
+    {
+      "name": "Centerkiosken Hammel",
+      "latitude": 56.256485,
+      "longitude": 9.866598
+    },
+    {
+      "name": "Centerkiosken Nørreport",
+      "latitude": 56.362285,
+      "longitude": 8.619477
+    },
+    {
+      "name": "Centerkiosken sillebroen",
+      "latitude": 55.835637,
+      "longitude": 12.0643
+    },
+    {
+      "name": "Centerkøb",
+      "latitude": 56.160237,
+      "longitude": 10.18428
+    },
+    {
+      "name": "Centralkiosken",
+      "latitude": 57.267994,
+      "longitude": 9.946554
+    },
+    {
+      "name": "Centrum Kiosken",
+      "latitude": 54.774074,
+      "longitude": 11.499136
+    },
+    {
+      "name": "Chandon Garden Spritz",
+      "latitude": 55.673369,
+      "longitude": 12.56828
+    },
+    {
+      "name": "Charlottenlund Fort Camping",
+      "latitude": 55.744522,
+      "longitude": 12.584919
+    },
+    {
+      "name": "Charlottenlund Søbad Kiosk",
+      "latitude": 55.749158,
+      "longitude": 12.590937
+    },
+    {
+      "name": "Cherry Kiosk",
+      "latitude": 55.674247,
+      "longitude": 12.549654
+    },
+    {
+      "name": "Christiansø Kiosk",
+      "latitude": 55.320694,
+      "longitude": 15.186534
+    },
+    {
+      "name": "Circle K",
+      "latitude": 56.108354,
+      "longitude": 8.978471
+    },
+    {
+      "name": "Cirkel K",
+      "latitude": 55.869481,
+      "longitude": 12.346534
+    },
+    {
+      "name": "City Biksen - Seden",
+      "latitude": 55.426001,
+      "longitude": 10.439685
+    },
+    {
+      "name": "City K",
+      "latitude": 55.678886,
+      "longitude": 12.569029
+    },
+    {
+      "name": "City Kiosk",
+      "latitude": 55.502081,
+      "longitude": 9.733501
+    },
+    {
+      "name": "City Kiosk Vejle",
+      "latitude": 55.709876,
+      "longitude": 9.526202
+    },
+    {
+      "name": "City Kiosken",
+      "latitude": 55.491643,
+      "longitude": 9.471658
+    },
+    {
+      "name": "City Kiosken",
+      "latitude": 56.549852,
+      "longitude": 8.310122
+    },
+    {
+      "name": "City Kiosken Silkeborg",
+      "latitude": 56.168304,
+      "longitude": 9.545932
+    },
+    {
+      "name": "City Shoppen",
+      "latitude": 55.399926,
+      "longitude": 10.388507
+    },
+    {
+      "name": "Citykiosken Holstebro",
+      "latitude": 56.3585,
+      "longitude": 8.619084
+    },
+    {
+      "name": "Cocos Minimarket",
+      "latitude": 55.680591,
+      "longitude": 12.534209
+    },
+    {
+      "name": "Concorde Kiosk",
+      "latitude": 55.674233,
+      "longitude": 12.550794
+    },
+    {
+      "name": "Copenhagen Marriott Shoppen",
+      "latitude": 55.668762,
+      "longitude": 12.574056
+    },
+    {
+      "name": "CPH KIOSK",
+      "latitude": 55.673137,
+      "longitude": 12.589635
+    },
+    {
+      "name": "Dalgas Kiosken",
+      "latitude": 55.685495,
+      "longitude": 12.513963
+    },
+    {
+      "name": "Damascus",
+      "latitude": 55.839056,
+      "longitude": 12.06319
+    },
+    {
+      "name": "Damkiosken",
+      "latitude": 55.250538,
+      "longitude": 9.483721
+    },
+    {
+      "name": "Danhostel Kiosk",
+      "latitude": 56.04806,
+      "longitude": 12.598325
+    },
+    {
+      "name": "DCU Camping",
+      "latitude": 56.21351,
+      "longitude": 10.687452
+    },
+    {
+      "name": "DCU-Camping Rønne Strand - Galløkken",
+      "latitude": 55.089108,
+      "longitude": 14.705159
+    },
+    {
+      "name": "Den Gamle Told",
+      "latitude": 54.751801,
+      "longitude": 10.675418
+    },
+    {
+      "name": "Den Røde Kiosk",
+      "latitude": 55.706291,
+      "longitude": 12.580654
+    },
+    {
+      "name": "Det Lille Vinhjørne Tomgårdsvej",
+      "latitude": 55.706207,
+      "longitude": 12.521972
+    },
+    {
+      "name": "DGI-Byen Vandkulturhuset Kiosk",
+      "latitude": 55.67013,
+      "longitude": 12.564798
+    },
+    {
+      "name": "Din lokale kiosk",
+      "latitude": 56.158084,
+      "longitude": 10.129381
+    },
+    {
+      "name": "Din Pakkeshop Roskildevej",
+      "latitude": 55.67276,
+      "longitude": 12.487718
+    },
+    {
+      "name": "Din PakkeShop Værløse",
+      "latitude": 55.7848,
+      "longitude": 12.372935
+    },
+    {
+      "name": "Ditlagersalg / Dalton City",
+      "latitude": 54.695574,
+      "longitude": 11.39007
+    },
+    {
+      "name": "Djurs Sommerland Kiosk 5",
+      "latitude": 56.425354,
+      "longitude": 10.550985
+    },
+    {
+      "name": "Djurs Sommerland kiosk 7",
+      "latitude": 56.424997,
+      "longitude": 10.54825
+    },
+    {
+      "name": "Djurs Sommerland kiosk 9",
+      "latitude": 56.425381,
+      "longitude": 10.551022
+    },
+    {
+      "name": "DK-Spillecafé",
+      "latitude": 57.448648,
+      "longitude": 10.528197
+    },
+    {
+      "name": "Dos Mundos Vin & Tobak",
+      "latitude": 55.757887,
+      "longitude": 12.557779
+    },
+    {
+      "name": "DT Butik",
+      "latitude": 55.67079,
+      "longitude": 12.562547
+    },
+    {
+      "name": "Døgn Kiosk",
+      "latitude": 55.67138,
+      "longitude": 12.560042
+    },
+    {
+      "name": "Egebjerg kiosk",
+      "latitude": 55.750469,
+      "longitude": 12.377768
+    },
+    {
+      "name": "Ekkodalens Kiosk",
+      "latitude": 56.172445,
+      "longitude": 10.181664
+    },
+    {
+      "name": "Ekkodalshuset Kiosk",
+      "latitude": 55.11008,
+      "longitude": 14.906005
+    },
+    {
+      "name": "Elite Købmand",
+      "latitude": 55.70067,
+      "longitude": 12.544042
+    },
+    {
+      "name": "Elmelunden",
+      "latitude": 55.935018,
+      "longitude": 11.90816
+    },
+    {
+      "name": "Energivejens Kiosk",
+      "latitude": 56.4721,
+      "longitude": 10.027689
+    },
+    {
+      "name": "Epidamnos",
+      "latitude": 55.665798,
+      "longitude": 12.545745
+    },
+    {
+      "name": "Epilepsihuspitalet Filadelfia Kiosk",
+      "latitude": 55.529872,
+      "longitude": 11.511143
+    },
+    {
+      "name": "Esbjerg Camping kiosk",
+      "latitude": 55.512823,
+      "longitude": 8.388807
+    },
+    {
+      "name": "Esbjerg Lufthavn toldfri kiosk",
+      "latitude": 55.52166,
+      "longitude": 8.549395
+    },
+    {
+      "name": "Esrumvej Kiosk og Spilhus",
+      "latitude": 56.039961,
+      "longitude": 12.592911
+    },
+    {
+      "name": "Experimentarium Restauranten",
+      "latitude": 55.726593,
+      "longitude": 12.579937
+    },
+    {
+      "name": "Extra",
+      "latitude": 54.833464,
+      "longitude": 11.15027
+    },
+    {
+      "name": "Extra",
+      "latitude": 55.323391,
+      "longitude": 11.964804
+    },
+    {
+      "name": "Eyland Kiosk",
+      "latitude": 55.707544,
+      "longitude": 12.59473
+    },
+    {
+      "name": "Farum Arena Kiosk A",
+      "latitude": 55.814744,
+      "longitude": 12.393519
+    },
+    {
+      "name": "Farum Arena Kiosk M",
+      "latitude": 55.814789,
+      "longitude": 12.39335
+    },
+    {
+      "name": "Farum Marked",
+      "latitude": 55.808782,
+      "longitude": 12.358088
+    },
+    {
+      "name": "Faxe kiosken",
+      "latitude": 55.257103,
+      "longitude": 12.119904
+    },
+    {
+      "name": "Fornæs camping",
+      "latitude": 56.453902,
+      "longitude": 10.940701
+    },
+    {
+      "name": "Four Hands Kiosk",
+      "latitude": 56.166931,
+      "longitude": 9.545899
+    },
+    {
+      "name": "Frejaparkens kiosk",
+      "latitude": 55.479263,
+      "longitude": 8.467954
+    },
+    {
+      "name": "Fresh Corner",
+      "latitude": 55.711128,
+      "longitude": 12.522019
+    },
+    {
+      "name": "Frilandsmuseet Hjerl Hede kiosk",
+      "latitude": 56.484917,
+      "longitude": 8.870199
+    },
+    {
+      "name": "Friluftsbadet Badesøen Kiosk",
+      "latitude": 55.676057,
+      "longitude": 12.333652
+    },
+    {
+      "name": "Friluftsbadets Kiosk",
+      "latitude": 55.753649,
+      "longitude": 9.406355
+    },
+    {
+      "name": "Frueskov Lystfiskersø Kiosk",
+      "latitude": 54.876752,
+      "longitude": 9.473325
+    },
+    {
+      "name": "Fur Camping Kiosk",
+      "latitude": 56.833706,
+      "longitude": 8.977372
+    },
+    {
+      "name": "Fælledparkens Kiosk",
+      "latitude": 55.696037,
+      "longitude": 12.571234
+    },
+    {
+      "name": "Færgekiosken",
+      "latitude": 55.714504,
+      "longitude": 10.001249
+    },
+    {
+      "name": "Føtex Kiosk",
+      "latitude": 55.394534,
+      "longitude": 10.376217
+    },
+    {
+      "name": "Fürst Madsen",
+      "latitude": 57.482089,
+      "longitude": 10.475977
+    },
+    {
+      "name": "Gammel Estrup Herregårdsmuseet Kiosk",
+      "latitude": 56.437944,
+      "longitude": 10.344465
+    },
+    {
+      "name": "Gammel Ålbo Camping",
+      "latitude": 55.467745,
+      "longitude": 9.67991
+    },
+    {
+      "name": "Gardenia mini market",
+      "latitude": 56.023052,
+      "longitude": 12.203034
+    },
+    {
+      "name": "Gevinsten Kiosk og Spil",
+      "latitude": 55.794111,
+      "longitude": 12.156875
+    },
+    {
+      "name": "Gl. Klitgaard Camping",
+      "latitude": 57.420576,
+      "longitude": 9.760899
+    },
+    {
+      "name": "Glostrup Spilleland",
+      "latitude": 55.666867,
+      "longitude": 12.4065
+    },
+    {
+      "name": "Grønhøj Kiosken",
+      "latitude": 55.146252,
+      "longitude": 11.818041
+    },
+    {
+      "name": "Grønnedalens kiosk",
+      "latitude": 55.675969,
+      "longitude": 9.533994
+    },
+    {
+      "name": "GS Kiosk",
+      "latitude": 55.68251,
+      "longitude": 12.459984
+    },
+    {
+      "name": "Guldberg Kiosk",
+      "latitude": 55.691897,
+      "longitude": 12.557728
+    },
+    {
+      "name": "Guldgraveriet",
+      "latitude": 57.269984,
+      "longitude": 9.657869
+    },
+    {
+      "name": "Guras Tips Corner",
+      "latitude": 55.671378,
+      "longitude": 12.455838
+    },
+    {
+      "name": "Haderslev Idrætscenter Kiosk",
+      "latitude": 55.261557,
+      "longitude": 9.489339
+    },
+    {
+      "name": "Hafniakiosken",
+      "latitude": 55.106078,
+      "longitude": 14.701139
+    },
+    {
+      "name": "Haider Invest",
+      "latitude": 55.70638,
+      "longitude": 12.554235
+    },
+    {
+      "name": "Halk Camping",
+      "latitude": 55.186129,
+      "longitude": 9.654239
+    },
+    {
+      "name": "Hannibal Coffee and Hot Drinks",
+      "latitude": 55.674522,
+      "longitude": 12.565651
+    },
+    {
+      "name": "Harald Jensens Plads Shoppen",
+      "latitude": 56.143951,
+      "longitude": 10.188731
+    },
+    {
+      "name": "Hasle Feriepark kiosk",
+      "latitude": 55.176751,
+      "longitude": 14.71141
+    },
+    {
+      "name": "Havnehuset",
+      "latitude": 56.550586,
+      "longitude": 8.616336
+    },
+    {
+      "name": "Havnekiosken",
+      "latitude": 55.650473,
+      "longitude": 12.076938
+    },
+    {
+      "name": "Havnekiosken",
+      "latitude": 56.092818,
+      "longitude": 12.457243
+    },
+    {
+      "name": "Havnekiosken",
+      "latitude": 56.706355,
+      "longitude": 8.220799
+    },
+    {
+      "name": "Havnekiosken",
+      "latitude": 57.592022,
+      "longitude": 9.961474
+    },
+    {
+      "name": "Havnekiosken",
+      "latitude": 57.59226,
+      "longitude": 10.426172
+    },
+    {
+      "name": "Havnekiosken Hundested",
+      "latitude": 55.965915,
+      "longitude": 11.846061
+    },
+    {
+      "name": "Havneshoppen Ishøj",
+      "latitude": 55.608458,
+      "longitude": 12.387757
+    },
+    {
+      "name": "Hee Pizza Og Grill",
+      "latitude": 56.144945,
+      "longitude": 8.28392
+    },
+    {
+      "name": "Helsingør Camping kiosken",
+      "latitude": 56.043294,
+      "longitude": 12.604983
+    },
+    {
+      "name": "Helsted Fremad IF Kiosk",
+      "latitude": 56.480586,
+      "longitude": 9.990939
+    },
+    {
+      "name": "Henry Hansen",
+      "latitude": 55.758728,
+      "longitude": 10.277402
+    },
+    {
+      "name": "Hillerødgade kiosk",
+      "latitude": 55.696657,
+      "longitude": 12.52728
+    },
+    {
+      "name": "HimmerLand",
+      "latitude": 56.873347,
+      "longitude": 9.395037
+    },
+    {
+      "name": "Hirtshals Golfklub Kiosk",
+      "latitude": 57.576222,
+      "longitude": 10.036476
+    },
+    {
+      "name": "Hjerting Kiosken",
+      "latitude": 55.526476,
+      "longitude": 8.358254
+    },
+    {
+      "name": "Hjørne Købmanden",
+      "latitude": 55.692513,
+      "longitude": 12.501814
+    },
+    {
+      "name": "Hjørnekiosken",
+      "latitude": 55.697666,
+      "longitude": 12.586199
+    },
+    {
+      "name": "Hjørnet",
+      "latitude": 55.406496,
+      "longitude": 11.340881
+    },
+    {
+      "name": "Hobro City Camping Gattenborg",
+      "latitude": 56.635953,
+      "longitude": 9.781072
+    },
+    {
+      "name": "Hobrovejens kiosk",
+      "latitude": 56.463462,
+      "longitude": 10.030586
+    },
+    {
+      "name": "Holmstrup Market",
+      "latitude": 56.173352,
+      "longitude": 10.132251
+    },
+    {
+      "name": "Holstebro friluftsbad kiosk",
+      "latitude": 56.356217,
+      "longitude": 8.613071
+    },
+    {
+      "name": "Holte Kiosk",
+      "latitude": 55.812484,
+      "longitude": 12.471351
+    },
+    {
+      "name": "Hos Dani",
+      "latitude": 55.490236,
+      "longitude": 9.470175
+    },
+    {
+      "name": "Husum Torv Kiosk",
+      "latitude": 55.711482,
+      "longitude": 12.472037
+    },
+    {
+      "name": "Hvidovre Kiosken",
+      "latitude": 55.664479,
+      "longitude": 12.474752
+    },
+    {
+      "name": "Højby Kiosk Tips",
+      "latitude": 55.331385,
+      "longitude": 10.43451
+    },
+    {
+      "name": "Højene Kiosk",
+      "latitude": 57.477636,
+      "longitude": 9.991558
+    },
+    {
+      "name": "Is Pavillionen",
+      "latitude": 55.744539,
+      "longitude": 12.585965
+    },
+    {
+      "name": "Ishøjgårds kiosk",
+      "latitude": 55.618706,
+      "longitude": 12.301072
+    },
+    {
+      "name": "JACK-POT",
+      "latitude": 56.134771,
+      "longitude": 8.98798
+    },
+    {
+      "name": "Jackpot Kolonial",
+      "latitude": 55.929228,
+      "longitude": 12.300559
+    },
+    {
+      "name": "Jagtvej Kiosken",
+      "latitude": 55.707259,
+      "longitude": 12.566145
+    },
+    {
+      "name": "Jegum Butik",
+      "latitude": 55.667256,
+      "longitude": 8.316829
+    },
+    {
+      "name": "Jenta Kiosk",
+      "latitude": 55.7119,
+      "longitude": 9.539964
+    },
+    {
+      "name": "Jernbanekiosken",
+      "latitude": 55.664564,
+      "longitude": 12.519454
+    },
+    {
+      "name": "Jersie Strandkiosk",
+      "latitude": 55.517632,
+      "longitude": 12.213796
+    },
+    {
+      "name": "Jesperhus Blomsterpark Minigolf Kiosk",
+      "latitude": 56.764853,
+      "longitude": 8.815469
+    },
+    {
+      "name": "Jobani",
+      "latitude": 55.716,
+      "longitude": 11.716995
+    },
+    {
+      "name": "Johnnys kiosk & spillehal",
+      "latitude": 57.044444,
+      "longitude": 9.948803
+    },
+    {
+      "name": "Julias Kiosk",
+      "latitude": 55.728832,
+      "longitude": 12.517378
+    },
+    {
+      "name": "Jyderup Kiosk & spillehal",
+      "latitude": 55.659686,
+      "longitude": 11.399551
+    },
+    {
+      "name": "JÆGERSPRISHALLEN Kiosk",
+      "latitude": 55.841942,
+      "longitude": 11.986712
+    },
+    {
+      "name": "Kabyssen i Skibet Hallen",
+      "latitude": 55.705928,
+      "longitude": 9.440135
+    },
+    {
+      "name": "Kaffe/Kiosk Søndermarken",
+      "latitude": 55.671414,
+      "longitude": 12.520375
+    },
+    {
+      "name": "Kaj Kiosk",
+      "latitude": 56.139217,
+      "longitude": 10.213848
+    },
+    {
+      "name": "Kattegatcentret Kiosk",
+      "latitude": 56.406092,
+      "longitude": 10.926575
+    },
+    {
+      "name": "KBH Kiosk",
+      "latitude": 55.699074,
+      "longitude": 12.553971
+    },
+    {
+      "name": "KC Kiosk og Spil",
+      "latitude": 56.491679,
+      "longitude": 8.597022
+    },
+    {
+      "name": "Kinda",
+      "latitude": 55.068203,
+      "longitude": 10.629427
+    },
+    {
+      "name": "Kings Kiosk",
+      "latitude": 55.698495,
+      "longitude": 12.538324
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 55.661112,
+      "longitude": 12.619505
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 55.682305,
+      "longitude": 12.489123
+    },
+    {
+      "name": "Kiosk & Pakkeshop",
+      "latitude": 55.702252,
+      "longitude": 12.531904
+    },
+    {
+      "name": "Kiosk & Slikland",
+      "latitude": 55.839534,
+      "longitude": 12.057784
+    },
+    {
+      "name": "Kiosk & Spil",
+      "latitude": 55.584618,
+      "longitude": 12.654062
+    },
+    {
+      "name": "Kiosk 1",
+      "latitude": 55.453699,
+      "longitude": 11.342763
+    },
+    {
+      "name": "Kiosk 17",
+      "latitude": 55.62127,
+      "longitude": 12.43125
+    },
+    {
+      "name": "Kiosk 2",
+      "latitude": 55.453721,
+      "longitude": 11.34241
+    },
+    {
+      "name": "Kiosk 2001",
+      "latitude": 55.736509,
+      "longitude": 12.508674
+    },
+    {
+      "name": "Kiosk 22",
+      "latitude": 55.663971,
+      "longitude": 12.614368
+    },
+    {
+      "name": "Kiosk 22",
+      "latitude": 55.675361,
+      "longitude": 12.519417
+    },
+    {
+      "name": "Kiosk 25",
+      "latitude": 56.17453,
+      "longitude": 10.202336
+    },
+    {
+      "name": "Kiosk 26",
+      "latitude": 55.68495,
+      "longitude": 12.531636
+    },
+    {
+      "name": "Kiosk 3",
+      "latitude": 55.658409,
+      "longitude": 12.538628
+    },
+    {
+      "name": "Kiosk 36",
+      "latitude": 55.639927,
+      "longitude": 12.588758
+    },
+    {
+      "name": "kiosk 37",
+      "latitude": 55.652024,
+      "longitude": 12.616337
+    },
+    {
+      "name": "Kiosk 37",
+      "latitude": 55.681429,
+      "longitude": 12.514898
+    },
+    {
+      "name": "Kiosk 4 Solstrålen Sommerland Sjælland.",
+      "latitude": 55.896953,
+      "longitude": 11.602654
+    },
+    {
+      "name": "Kiosk 41",
+      "latitude": 55.681703,
+      "longitude": 12.510297
+    },
+    {
+      "name": "Kiosk 5",
+      "latitude": 55.648484,
+      "longitude": 12.647088
+    },
+    {
+      "name": "Kiosk 5 Sommerland Sjælland.",
+      "latitude": 55.896685,
+      "longitude": 11.604937
+    },
+    {
+      "name": "Kiosk 52",
+      "latitude": 55.687293,
+      "longitude": 12.53057
+    },
+    {
+      "name": "Kiosk 54",
+      "latitude": 55.687486,
+      "longitude": 12.547245
+    },
+    {
+      "name": "Kiosk 57",
+      "latitude": 55.700594,
+      "longitude": 12.55199
+    },
+    {
+      "name": "Kiosk 75",
+      "latitude": 55.710818,
+      "longitude": 12.529082
+    },
+    {
+      "name": "Kiosk Bien",
+      "latitude": 55.597476,
+      "longitude": 12.326768
+    },
+    {
+      "name": "Kiosk Bien",
+      "latitude": 55.722517,
+      "longitude": 12.530079
+    },
+    {
+      "name": "Kiosk Bien",
+      "latitude": 55.929027,
+      "longitude": 12.298909
+    },
+    {
+      "name": "Kiosk Centrum",
+      "latitude": 55.711663,
+      "longitude": 12.569979
+    },
+    {
+      "name": "Kiosk i Hillerød Hospital",
+      "latitude": 55.931116,
+      "longitude": 12.325794
+    },
+    {
+      "name": "Kiosk K210",
+      "latitude": 56.190762,
+      "longitude": 10.165079
+    },
+    {
+      "name": "Kiosk Kringlen",
+      "latitude": 56.264069,
+      "longitude": 10.062043
+    },
+    {
+      "name": "Kiosk midt",
+      "latitude": 55.711824,
+      "longitude": 9.532738
+    },
+    {
+      "name": "Kiosk og Brødudsalg",
+      "latitude": 55.542089,
+      "longitude": 8.545585
+    },
+    {
+      "name": "Kiosk Stjernen",
+      "latitude": 55.570653,
+      "longitude": 9.753245
+    },
+    {
+      "name": "Kiosk Stoppen",
+      "latitude": 55.667564,
+      "longitude": 12.500082
+    },
+    {
+      "name": "Kiosk trekanten",
+      "latitude": 55.467228,
+      "longitude": 12.181128
+    },
+    {
+      "name": "Kiosk ved Opvisningshal Frihedens Idrætscenter",
+      "latitude": 55.625798,
+      "longitude": 12.477646
+    },
+    {
+      "name": "Kiosk ved Træningshallen Frihedens Idrætscenter",
+      "latitude": 55.62543,
+      "longitude": 12.478007
+    },
+    {
+      "name": "Kiosk Vin & Tobak",
+      "latitude": 55.675658,
+      "longitude": 12.453628
+    },
+    {
+      "name": "Kiosk Ådalsparken",
+      "latitude": 55.900954,
+      "longitude": 12.501214
+    },
+    {
+      "name": "Kiosk1",
+      "latitude": 55.666202,
+      "longitude": 12.613035
+    },
+    {
+      "name": "Kiosken",
+      "latitude": 55.065494,
+      "longitude": 10.594373
+    },
+    {
+      "name": "Kiosken",
+      "latitude": 55.661659,
+      "longitude": 12.597669
+    },
+    {
+      "name": "Kiosken",
+      "latitude": 55.672368,
+      "longitude": 12.594002
+    },
+    {
+      "name": "Kiosken",
+      "latitude": 56.142433,
+      "longitude": 10.190394
+    },
+    {
+      "name": "Kiosken",
+      "latitude": 56.173955,
+      "longitude": 8.737885
+    },
+    {
+      "name": "Kiosken",
+      "latitude": 56.379383,
+      "longitude": 9.162956
+    },
+    {
+      "name": "Kiosken",
+      "latitude": 57.714082,
+      "longitude": 10.5437
+    },
+    {
+      "name": "Kiosken 63",
+      "latitude": 55.667247,
+      "longitude": 12.487003
+    },
+    {
+      "name": "Kiosken i Peberrenden",
+      "latitude": 55.640486,
+      "longitude": 12.076998
+    },
+    {
+      "name": "Kiosken i Sjællandsgade",
+      "latitude": 56.463574,
+      "longitude": 10.020368
+    },
+    {
+      "name": "Kiosken Ishockeybanen",
+      "latitude": 55.757386,
+      "longitude": 12.526107
+    },
+    {
+      "name": "Kiosken Kofoedsminde",
+      "latitude": 54.661663,
+      "longitude": 11.351915
+    },
+    {
+      "name": "Kiosken Morsø Områdecenter",
+      "latitude": 55.732229,
+      "longitude": 11.640858
+    },
+    {
+      "name": "Kiosken Mågevej",
+      "latitude": 55.702301,
+      "longitude": 12.527746
+    },
+    {
+      "name": "Kiosken Møllehøj",
+      "latitude": 55.573676,
+      "longitude": 12.222447
+    },
+    {
+      "name": "Kiosken på Odden",
+      "latitude": 55.968504,
+      "longitude": 11.364152
+    },
+    {
+      "name": "Kiosken Spedalsø Torv",
+      "latitude": 55.856803,
+      "longitude": 9.837075
+    },
+    {
+      "name": "Kiosken Vigsø Feriecenter",
+      "latitude": 57.094288,
+      "longitude": 8.714494
+    },
+    {
+      "name": "Kioskland",
+      "latitude": 55.582086,
+      "longitude": 12.29473
+    },
+    {
+      "name": "Kirkebjerg Kiosk",
+      "latitude": 55.654577,
+      "longitude": 12.401268
+    },
+    {
+      "name": "Knudhule Kiosk",
+      "latitude": 56.103461,
+      "longitude": 9.784335
+    },
+    {
+      "name": "Kolding Bazar",
+      "latitude": 55.492058,
+      "longitude": 9.481923
+    },
+    {
+      "name": "Kollektivbebyggelsen Sorgenfrivang 2",
+      "latitude": 55.782824,
+      "longitude": 12.479493
+    },
+    {
+      "name": "Kollektivhuset Høje Søborg Kiosk",
+      "latitude": 55.73733,
+      "longitude": 12.507295
+    },
+    {
+      "name": "Kongensgade Horsens",
+      "latitude": 55.862374,
+      "longitude": 9.837744
+    },
+    {
+      "name": "Kongshøjcentret Kiosk",
+      "latitude": 55.459535,
+      "longitude": 9.88341
+    },
+    {
+      "name": "Korsvejens Kiosk",
+      "latitude": 55.636555,
+      "longitude": 12.618797
+    },
+    {
+      "name": "Kort og godt skovlunde station",
+      "latitude": 55.722756,
+      "longitude": 12.403595
+    },
+    {
+      "name": "Kragelund Svømmebad - kiosk",
+      "latitude": 56.196809,
+      "longitude": 9.40443
+    },
+    {
+      "name": "Kragerup Gods Go High Kiosk/Skovkøkken",
+      "latitude": 55.511624,
+      "longitude": 11.378118
+    },
+    {
+      "name": "Kreaklubbens",
+      "latitude": 55.5935,
+      "longitude": 12.32565
+    },
+    {
+      "name": "Krik Vig Camping kiosk",
+      "latitude": 56.778925,
+      "longitude": 8.262271
+    },
+    {
+      "name": "Kringlen",
+      "latitude": 56.264193,
+      "longitude": 10.061637
+    },
+    {
+      "name": "Kumar Marked",
+      "latitude": 57.045207,
+      "longitude": 9.922594
+    },
+    {
+      "name": "Kvarterets Købmand",
+      "latitude": 55.688009,
+      "longitude": 12.547299
+    },
+    {
+      "name": "Kvickly Kiosk",
+      "latitude": 55.246295,
+      "longitude": 9.291386
+    },
+    {
+      "name": "Kvikevitten",
+      "latitude": 55.30979,
+      "longitude": 12.389246
+    },
+    {
+      "name": "Køl & Klar Kiosk",
+      "latitude": 55.866026,
+      "longitude": 9.877814
+    },
+    {
+      "name": "Lalandia Billund Pavillonen",
+      "latitude": 55.73253,
+      "longitude": 9.138814
+    },
+    {
+      "name": "Landal greenparks parkshop",
+      "latitude": 56.217727,
+      "longitude": 9.729396
+    },
+    {
+      "name": "Langelinie Pavillonen",
+      "latitude": 54.65512,
+      "longitude": 11.345003
+    },
+    {
+      "name": "LBs kiosken",
+      "latitude": 55.483461,
+      "longitude": 9.289385
+    },
+    {
+      "name": "Lemvig Vin & Tobak",
+      "latitude": 56.549831,
+      "longitude": 8.306996
+    },
+    {
+      "name": "Lille Kiosk",
+      "latitude": 55.251206,
+      "longitude": 9.486649
+    },
+    {
+      "name": "Lion kiosk og spillehal",
+      "latitude": 55.648622,
+      "longitude": 12.613062
+    },
+    {
+      "name": "Lions Park Kiosk",
+      "latitude": 55.8388,
+      "longitude": 12.40986
+    },
+    {
+      "name": "Lisegaard",
+      "latitude": 55.080564,
+      "longitude": 15.100804
+    },
+    {
+      "name": "Liseleje camping",
+      "latitude": 55.998807,
+      "longitude": 11.966463
+    },
+    {
+      "name": "Lobby Shop Scandic Eremitage",
+      "latitude": 55.772008,
+      "longitude": 12.506825
+    },
+    {
+      "name": "Lunden Kiosk",
+      "latitude": 55.636068,
+      "longitude": 8.505864
+    },
+    {
+      "name": "Lundø Strand Camping Kiosk",
+      "latitude": 56.637885,
+      "longitude": 9.147774
+    },
+    {
+      "name": "Luxor kiosk",
+      "latitude": 55.667554,
+      "longitude": 12.546779
+    },
+    {
+      "name": "Luxor Spillecafe & Kiosk",
+      "latitude": 55.684105,
+      "longitude": 12.486119
+    },
+    {
+      "name": "Lystrup Center Kiosk",
+      "latitude": 56.233883,
+      "longitude": 10.22936
+    },
+    {
+      "name": "Løgstør Kiosk",
+      "latitude": 56.967266,
+      "longitude": 9.252679
+    },
+    {
+      "name": "Løkken Klit Camping",
+      "latitude": 57.34429,
+      "longitude": 9.70645
+    },
+    {
+      "name": "M&G",
+      "latitude": 55.710037,
+      "longitude": 12.537914
+    },
+    {
+      "name": "Maaveeran Peter Buhl",
+      "latitude": 55.567165,
+      "longitude": 9.765627
+    },
+    {
+      "name": "Madkiosken",
+      "latitude": 56.159976,
+      "longitude": 10.133518
+    },
+    {
+      "name": "Madsby-Kiosken",
+      "latitude": 55.570683,
+      "longitude": 9.737798
+    },
+    {
+      "name": "Mariager Camping",
+      "latitude": 56.654267,
+      "longitude": 9.975372
+    },
+    {
+      "name": "Marias Kiosk",
+      "latitude": 55.678223,
+      "longitude": 12.588531
+    },
+    {
+      "name": "Marielyst Kiosk",
+      "latitude": 55.730129,
+      "longitude": 12.507993
+    },
+    {
+      "name": "Marinekiosken",
+      "latitude": 55.942742,
+      "longitude": 11.864779
+    },
+    {
+      "name": "Marketenderi Grænsen & Risvangen",
+      "latitude": 56.187923,
+      "longitude": 10.20517
+    },
+    {
+      "name": "Medina Marked",
+      "latitude": 55.715755,
+      "longitude": 11.715692
+    },
+    {
+      "name": "Mejeriet Kiosk",
+      "latitude": 55.648146,
+      "longitude": 12.529322
+    },
+    {
+      "name": "Mejeriudsalg",
+      "latitude": 55.69695,
+      "longitude": 12.530368
+    },
+    {
+      "name": "MENY Kiosk",
+      "latitude": 55.365517,
+      "longitude": 10.343182
+    },
+    {
+      "name": "MG Kiosken",
+      "latitude": 57.105344,
+      "longitude": 10.032096
+    },
+    {
+      "name": "Midtby Kiosken",
+      "latitude": 55.059489,
+      "longitude": 10.611126
+    },
+    {
+      "name": "Midtvejskiosken",
+      "latitude": 55.734992,
+      "longitude": 12.434116
+    },
+    {
+      "name": "Milkshake og Softicefabrikken",
+      "latitude": 56.42502,
+      "longitude": 10.549781
+    },
+    {
+      "name": "Mini kiosk",
+      "latitude": 55.738778,
+      "longitude": 12.546748
+    },
+    {
+      "name": "Mokka Kompagniet",
+      "latitude": 55.715872,
+      "longitude": 12.54124
+    },
+    {
+      "name": "Monarch og Kiosk",
+      "latitude": 55.297225,
+      "longitude": 10.842745
+    },
+    {
+      "name": "Monkey World / kiosk",
+      "latitude": 55.954756,
+      "longitude": 12.218091
+    },
+    {
+      "name": "Moretto Nærbutik",
+      "latitude": 55.368713,
+      "longitude": 10.328388
+    },
+    {
+      "name": "Mozarts kiosk og pakkeshop",
+      "latitude": 55.64852,
+      "longitude": 12.533736
+    },
+    {
+      "name": "MUMS",
+      "latitude": 56.358474,
+      "longitude": 8.619051
+    },
+    {
+      "name": "Munkebo Kiosken",
+      "latitude": 55.459826,
+      "longitude": 10.557821
+    },
+    {
+      "name": "Munkholm Grillen",
+      "latitude": 55.68133,
+      "longitude": 11.803338
+    },
+    {
+      "name": "Møllehjulet",
+      "latitude": 55.977485,
+      "longitude": 9.830597
+    },
+    {
+      "name": "Møllehuskiosken",
+      "latitude": 57.420698,
+      "longitude": 10.510254
+    },
+    {
+      "name": "Mølleparkens Kolonial",
+      "latitude": 55.226883,
+      "longitude": 11.747338
+    },
+    {
+      "name": "Møllevangens kiosk",
+      "latitude": 55.696123,
+      "longitude": 9.525657
+    },
+    {
+      "name": "Møn Strandcamping - Ulvshale",
+      "latitude": 55.037902,
+      "longitude": 12.28213
+    },
+    {
+      "name": "Mørkhøj Købmand",
+      "latitude": 55.726656,
+      "longitude": 12.459382
+    },
+    {
+      "name": "N.K. Kiosken",
+      "latitude": 55.752973,
+      "longitude": 12.467816
+    },
+    {
+      "name": "N.V Kiosk 83",
+      "latitude": 55.708532,
+      "longitude": 12.531831
+    },
+    {
+      "name": "Nabo Kiosk",
+      "latitude": 56.144974,
+      "longitude": 10.199921
+    },
+    {
+      "name": "Nature Event Klatreparken",
+      "latitude": 55.196554,
+      "longitude": 14.907209
+    },
+    {
+      "name": "Nero aps",
+      "latitude": 55.683766,
+      "longitude": 12.584906
+    },
+    {
+      "name": "Net-Kiosken",
+      "latitude": 57.053761,
+      "longitude": 9.90255
+    },
+    {
+      "name": "Ninn's Kiosk",
+      "latitude": 55.69572,
+      "longitude": 12.546509
+    },
+    {
+      "name": "Nivå Vin & Kiosk",
+      "latitude": 55.934616,
+      "longitude": 12.504682
+    },
+    {
+      "name": "Nordcenter kiosken",
+      "latitude": 55.415499,
+      "longitude": 11.354325
+    },
+    {
+      "name": "Nordstrandens Ishus",
+      "latitude": 55.455287,
+      "longitude": 10.664499
+    },
+    {
+      "name": "NP Service",
+      "latitude": 55.737397,
+      "longitude": 11.862117
+    },
+    {
+      "name": "Ny Vejen Bazar",
+      "latitude": 55.476916,
+      "longitude": 9.137317
+    },
+    {
+      "name": "Nybro Kiosken Nakskov",
+      "latitude": 54.829589,
+      "longitude": 11.139924
+    },
+    {
+      "name": "Nybrogårdkollegiet Kiosk & Pizzaria",
+      "latitude": 55.771595,
+      "longitude": 12.475998
+    },
+    {
+      "name": "Nygård Kiosk",
+      "latitude": 56.046603,
+      "longitude": 12.529566
+    },
+    {
+      "name": "Nørrebro Späti",
+      "latitude": 55.696872,
+      "longitude": 12.544337
+    },
+    {
+      "name": "Nørreskov Bakke Grill og Kiosk",
+      "latitude": 56.191714,
+      "longitude": 9.581935
+    },
+    {
+      "name": "Nørretorvs kiosk",
+      "latitude": 55.867968,
+      "longitude": 9.845201
+    },
+    {
+      "name": "Odense Aafart",
+      "latitude": 55.392097,
+      "longitude": 10.380681
+    },
+    {
+      "name": "Oldins Kiosk",
+      "latitude": 55.232841,
+      "longitude": 11.776862
+    },
+    {
+      "name": "Områdecenter Lystoftebakken Kiosk",
+      "latitude": 55.791199,
+      "longitude": 12.505052
+    },
+    {
+      "name": "Online-Kiosken.dk",
+      "latitude": 55.398007,
+      "longitude": 10.384865
+    },
+    {
+      "name": "OUH Minimarked",
+      "latitude": 55.384025,
+      "longitude": 10.367494
+    },
+    {
+      "name": "Pak og Send",
+      "latitude": 55.694012,
+      "longitude": 12.532181
+    },
+    {
+      "name": "PAKKE & MUMS",
+      "latitude": 55.698613,
+      "longitude": 12.586947
+    },
+    {
+      "name": "Pakke og Spilleshoppen",
+      "latitude": 55.768966,
+      "longitude": 9.698004
+    },
+    {
+      "name": "Pakkeshop Det Lille Vinhjørne",
+      "latitude": 55.661375,
+      "longitude": 12.616555
+    },
+    {
+      "name": "pakkeshoppen kbh k",
+      "latitude": 55.686857,
+      "longitude": 12.582096
+    },
+    {
+      "name": "Palads Kiosk",
+      "latitude": 56.171382,
+      "longitude": 10.21648
+    },
+    {
+      "name": "Park Kiosken",
+      "latitude": 55.795694,
+      "longitude": 12.528091
+    },
+    {
+      "name": "Pirates Snack Bar",
+      "latitude": 56.426226,
+      "longitude": 10.549842
+    },
+    {
+      "name": "Pit Stop",
+      "latitude": 55.663313,
+      "longitude": 12.516588
+    },
+    {
+      "name": "Pit Stop",
+      "latitude": 56.56828,
+      "longitude": 9.029485
+    },
+    {
+      "name": "Politikens Kiosk",
+      "latitude": 55.394681,
+      "longitude": 10.386155
+    },
+    {
+      "name": "Politikens kiosk",
+      "latitude": 55.86149,
+      "longitude": 9.853798
+    },
+    {
+      "name": "Polski Kacik",
+      "latitude": 57.443921,
+      "longitude": 10.538736
+    },
+    {
+      "name": "Postkiosken",
+      "latitude": 57.445857,
+      "longitude": 9.995763
+    },
+    {
+      "name": "Prima",
+      "latitude": 56.460658,
+      "longitude": 10.036048
+    },
+    {
+      "name": "Prince Kiosk",
+      "latitude": 55.699578,
+      "longitude": 12.531115
+    },
+    {
+      "name": "På Hjørnet Kiosk",
+      "latitude": 55.704092,
+      "longitude": 12.528067
+    },
+    {
+      "name": "Q8",
+      "latitude": 56.186898,
+      "longitude": 9.563208
+    },
+    {
+      "name": "Quick Kiosk",
+      "latitude": 55.655744,
+      "longitude": 12.612762
+    },
+    {
+      "name": "Quick stop to go",
+      "latitude": 55.665028,
+      "longitude": 12.440648
+    },
+    {
+      "name": "Qvik to go",
+      "latitude": 55.839004,
+      "longitude": 8.886933
+    },
+    {
+      "name": "Radiokiosken",
+      "latitude": 55.682452,
+      "longitude": 12.551108
+    },
+    {
+      "name": "Raei Habasha Shop",
+      "latitude": 55.394184,
+      "longitude": 10.374695
+    },
+    {
+      "name": "Randbøl Camping Kiosk",
+      "latitude": 55.688806,
+      "longitude": 9.268752
+    },
+    {
+      "name": "Randers City Camp",
+      "latitude": 56.449756,
+      "longitude": 9.952328
+    },
+    {
+      "name": "Randers Regnskov kiosken",
+      "latitude": 56.456658,
+      "longitude": 10.033419
+    },
+    {
+      "name": "Rebildcentret",
+      "latitude": 56.832009,
+      "longitude": 9.811907
+    },
+    {
+      "name": "Refina Kiosken",
+      "latitude": 55.935864,
+      "longitude": 12.294636
+    },
+    {
+      "name": "RHIF Kiosk Roskilde Handicap Idrætsforening",
+      "latitude": 55.638475,
+      "longitude": 12.070541
+    },
+    {
+      "name": "Ribergård",
+      "latitude": 57.260698,
+      "longitude": 9.646862
+    },
+    {
+      "name": "Ringvejens Kiosk",
+      "latitude": 55.688278,
+      "longitude": 9.551285
+    },
+    {
+      "name": "Ringvejs kiosken",
+      "latitude": 55.230565,
+      "longitude": 11.783748
+    },
+    {
+      "name": "RO Marked",
+      "latitude": 55.659557,
+      "longitude": 12.405976
+    },
+    {
+      "name": "Rom Bazar Nizar Mahouk",
+      "latitude": 56.451713,
+      "longitude": 9.407383
+    },
+    {
+      "name": "Romanita Butik",
+      "latitude": 55.718791,
+      "longitude": 9.608921
+    },
+    {
+      "name": "Romanita Butik Tarm",
+      "latitude": 55.908524,
+      "longitude": 8.521813
+    },
+    {
+      "name": "Rosa Kiosk",
+      "latitude": 55.699495,
+      "longitude": 12.541296
+    },
+    {
+      "name": "Rosenhavens Kiosk",
+      "latitude": 55.497713,
+      "longitude": 9.461082
+    },
+    {
+      "name": "Rubjerg Knude Kiosk",
+      "latitude": 57.452779,
+      "longitude": 9.795144
+    },
+    {
+      "name": "Runddel Kiosk",
+      "latitude": 55.693165,
+      "longitude": 12.550893
+    },
+    {
+      "name": "Rutebilkiosken",
+      "latitude": 56.694962,
+      "longitude": 9.495549
+    },
+    {
+      "name": "Rådmandscentrets kiosk",
+      "latitude": 55.253355,
+      "longitude": 11.282846
+    },
+    {
+      "name": "Rødbo Kiosk",
+      "latitude": 55.736851,
+      "longitude": 12.401355
+    },
+    {
+      "name": "Rødby Kiosk",
+      "latitude": 54.695746,
+      "longitude": 11.390192
+    },
+    {
+      "name": "Rødhus Klit Camping",
+      "latitude": 57.200386,
+      "longitude": 9.51388
+    },
+    {
+      "name": "Rødovre Skøjte & Ishockey Klub Kiosk",
+      "latitude": 55.680021,
+      "longitude": 12.44151
+    },
+    {
+      "name": "Rørvig Strand Camping Kiosk",
+      "latitude": 55.941522,
+      "longitude": 11.683682
+    },
+    {
+      "name": "S-Mart",
+      "latitude": 55.6845,
+      "longitude": 12.537461
+    },
+    {
+      "name": "Saffi",
+      "latitude": 55.690357,
+      "longitude": 12.555026
+    },
+    {
+      "name": "Sandkaas Strandbar",
+      "latitude": 55.259775,
+      "longitude": 14.815347
+    },
+    {
+      "name": "Sandkassen's",
+      "latitude": 55.553847,
+      "longitude": 8.093107
+    },
+    {
+      "name": "Sandlinien",
+      "latitude": 55.288639,
+      "longitude": 14.776046
+    },
+    {
+      "name": "Sankt hans kiosk",
+      "latitude": 55.689893,
+      "longitude": 12.563268
+    },
+    {
+      "name": "Scandic Kiosk",
+      "latitude": 55.652692,
+      "longitude": 12.540715
+    },
+    {
+      "name": "Scandic Kiosk",
+      "latitude": 55.668196,
+      "longitude": 12.419397
+    },
+    {
+      "name": "Scandic Kiosk",
+      "latitude": 55.673142,
+      "longitude": 12.56113
+    },
+    {
+      "name": "Scandic Lobby Shop",
+      "latitude": 55.360821,
+      "longitude": 10.341496
+    },
+    {
+      "name": "Scandic Lobby Shop",
+      "latitude": 55.531377,
+      "longitude": 9.470651
+    },
+    {
+      "name": "Scandic Lobby Shop",
+      "latitude": 55.632244,
+      "longitude": 12.079961
+    },
+    {
+      "name": "Scandic Lobby Shop",
+      "latitude": 55.675031,
+      "longitude": 12.559485
+    },
+    {
+      "name": "Scandic Lobby Shop",
+      "latitude": 55.681299,
+      "longitude": 12.593291
+    },
+    {
+      "name": "Scandic Lobby Shop",
+      "latitude": 56.133456,
+      "longitude": 8.978986
+    },
+    {
+      "name": "Scandic Lobby Shop",
+      "latitude": 56.166643,
+      "longitude": 10.15135
+    },
+    {
+      "name": "Scandic Lobby Shop",
+      "latitude": 57.020995,
+      "longitude": 9.964775
+    },
+    {
+      "name": "Scandic Palace Hotel Kiosk",
+      "latitude": 55.676278,
+      "longitude": 12.570255
+    },
+    {
+      "name": "Scandic Sluseholmen Shoppen",
+      "latitude": 55.643426,
+      "longitude": 12.545005
+    },
+    {
+      "name": "Scandinavia Kiosk",
+      "latitude": 55.691681,
+      "longitude": 12.545659
+    },
+    {
+      "name": "Seawest Snackbar",
+      "latitude": 55.78789,
+      "longitude": 8.24816
+    },
+    {
+      "name": "Send N Hent Gentofte",
+      "latitude": 55.75346,
+      "longitude": 12.541315
+    },
+    {
+      "name": "Send N Hent Østerbro",
+      "latitude": 55.691647,
+      "longitude": 12.576597
+    },
+    {
+      "name": "Service kiosk",
+      "latitude": 55.67806,
+      "longitude": 12.491039
+    },
+    {
+      "name": "Service Kiosk",
+      "latitude": 55.679683,
+      "longitude": 12.554707
+    },
+    {
+      "name": "Service Kiosk",
+      "latitude": 55.688189,
+      "longitude": 12.527662
+    },
+    {
+      "name": "Service Kiosk",
+      "latitude": 55.694002,
+      "longitude": 12.542508
+    },
+    {
+      "name": "Service Kiosk",
+      "latitude": 55.69538,
+      "longitude": 12.543535
+    },
+    {
+      "name": "Service kiosk",
+      "latitude": 55.695812,
+      "longitude": 12.507899
+    },
+    {
+      "name": "Service Kiosk",
+      "latitude": 55.696952,
+      "longitude": 12.540007
+    },
+    {
+      "name": "Service Kiosk",
+      "latitude": 55.702489,
+      "longitude": 12.533635
+    },
+    {
+      "name": "Service Kiosk",
+      "latitude": 55.71477,
+      "longitude": 12.480105
+    },
+    {
+      "name": "service kiosk",
+      "latitude": 56.035815,
+      "longitude": 12.594592
+    },
+    {
+      "name": "Service Kiosken",
+      "latitude": 55.654951,
+      "longitude": 12.603415
+    },
+    {
+      "name": "Service Kiosken",
+      "latitude": 55.665611,
+      "longitude": 12.441596
+    },
+    {
+      "name": "Service Kiosken",
+      "latitude": 55.722965,
+      "longitude": 12.535179
+    },
+    {
+      "name": "Servicekiosken",
+      "latitude": 55.69702,
+      "longitude": 12.540064
+    },
+    {
+      "name": "Servicekoisken & Spillehal",
+      "latitude": 55.674857,
+      "longitude": 12.598903
+    },
+    {
+      "name": "Shell",
+      "latitude": 55.849407,
+      "longitude": 11.574062
+    },
+    {
+      "name": "Shop a8",
+      "latitude": 55.657734,
+      "longitude": 12.606351
+    },
+    {
+      "name": "Shop N Play",
+      "latitude": 55.662412,
+      "longitude": 12.615975
+    },
+    {
+      "name": "Shop Spectrum",
+      "latitude": 55.669542,
+      "longitude": 12.573668
+    },
+    {
+      "name": "Sivas døgnkiosk",
+      "latitude": 56.160287,
+      "longitude": 10.20818
+    },
+    {
+      "name": "Skandinavisk Dyrepark Entreen",
+      "latitude": 56.344278,
+      "longitude": 10.654129
+    },
+    {
+      "name": "Skansekiosken",
+      "latitude": 54.654143,
+      "longitude": 11.731521
+    },
+    {
+      "name": "Skoma'r Kiosken",
+      "latitude": 55.30847,
+      "longitude": 10.48569
+    },
+    {
+      "name": "Skovkiosken",
+      "latitude": 55.372115,
+      "longitude": 10.384354
+    },
+    {
+      "name": "Skovkiosken",
+      "latitude": 57.290659,
+      "longitude": 9.625535
+    },
+    {
+      "name": "Skovvænget-Kiosken",
+      "latitude": 56.379605,
+      "longitude": 9.649237
+    },
+    {
+      "name": "Skyttehuset Outdoor Camp",
+      "latitude": 56.125379,
+      "longitude": 9.638012
+    },
+    {
+      "name": "Skævinge Kiosk & Spillehal",
+      "latitude": 55.907516,
+      "longitude": 12.153667
+    },
+    {
+      "name": "Slik Safari",
+      "latitude": 55.406863,
+      "longitude": 11.348769
+    },
+    {
+      "name": "Slikhjørnet kiosk & spillehal",
+      "latitude": 55.228287,
+      "longitude": 11.753747
+    },
+    {
+      "name": "Slusekoisken",
+      "latitude": 56.152278,
+      "longitude": 10.692744
+    },
+    {
+      "name": "Slushicefabrikken",
+      "latitude": 56.425678,
+      "longitude": 10.550161
+    },
+    {
+      "name": "Smag Nexø",
+      "latitude": 55.063028,
+      "longitude": 15.133298
+    },
+    {
+      "name": "SN INTERNATIONAL",
+      "latitude": 55.679679,
+      "longitude": 12.577361
+    },
+    {
+      "name": "Solbiksen",
+      "latitude": 55.709795,
+      "longitude": 11.844337
+    },
+    {
+      "name": "Solgavens Kiosk",
+      "latitude": 55.813852,
+      "longitude": 12.404578
+    },
+    {
+      "name": "Solgårdens kiosk",
+      "latitude": 55.86546,
+      "longitude": 9.857649
+    },
+    {
+      "name": "Solrød Strandkiosk",
+      "latitude": 55.535447,
+      "longitude": 12.231486
+    },
+    {
+      "name": "Souvenirs Kiosk",
+      "latitude": 55.671102,
+      "longitude": 12.559229
+    },
+    {
+      "name": "Spil & Vind",
+      "latitude": 55.338971,
+      "longitude": 11.135406
+    },
+    {
+      "name": "spil 74",
+      "latitude": 57.043583,
+      "longitude": 9.943753
+    },
+    {
+      "name": "Spil Her",
+      "latitude": 55.643269,
+      "longitude": 12.591208
+    },
+    {
+      "name": "Spillehjørnet",
+      "latitude": 54.935338,
+      "longitude": 8.8631
+    },
+    {
+      "name": "Spillekiosken",
+      "latitude": 55.662156,
+      "longitude": 12.520287
+    },
+    {
+      "name": "Spilloppen",
+      "latitude": 55.641992,
+      "longitude": 9.649866
+    },
+    {
+      "name": "Sporvejsmuseet Kiosk",
+      "latitude": 55.533347,
+      "longitude": 11.845059
+    },
+    {
+      "name": "Sriambaal Kiosk",
+      "latitude": 55.576495,
+      "longitude": 9.753369
+    },
+    {
+      "name": "SSP Kiosk",
+      "latitude": 56.307868,
+      "longitude": 10.626928
+    },
+    {
+      "name": "station kiosken & royaltaste",
+      "latitude": 55.479639,
+      "longitude": 12.175274
+    },
+    {
+      "name": "Station-Kiosk",
+      "latitude": 55.678787,
+      "longitude": 12.504183
+    },
+    {
+      "name": "Stations Kiosk/S-Café",
+      "latitude": 55.836194,
+      "longitude": 12.065544
+    },
+    {
+      "name": "Stations Kiosken",
+      "latitude": 55.549568,
+      "longitude": 12.024499
+    },
+    {
+      "name": "Stationskiosken",
+      "latitude": 55.968899,
+      "longitude": 12.019466
+    },
+    {
+      "name": "Stationsvejens Kiosk",
+      "latitude": 57.064746,
+      "longitude": 9.909557
+    },
+    {
+      "name": "Stensager Strand Camping",
+      "latitude": 55.419865,
+      "longitude": 9.587514
+    },
+    {
+      "name": "Stjernekiosken",
+      "latitude": 56.194197,
+      "longitude": 10.194558
+    },
+    {
+      "name": "Stjernekøb",
+      "latitude": 56.174204,
+      "longitude": 10.203542
+    },
+    {
+      "name": "Stoppestedet",
+      "latitude": 55.946369,
+      "longitude": 9.962043
+    },
+    {
+      "name": "Storehus Service Kiosk",
+      "latitude": 55.627274,
+      "longitude": 12.454255
+    },
+    {
+      "name": "Strandkiosken",
+      "latitude": 55.432919,
+      "longitude": 8.364499
+    },
+    {
+      "name": "Strandkiosken Tisvilde",
+      "latitude": 56.056943,
+      "longitude": 12.060248
+    },
+    {
+      "name": "Strandskovens Kiosk",
+      "latitude": 55.445261,
+      "longitude": 12.193755
+    },
+    {
+      "name": "Strøg Kiosk",
+      "latitude": 55.639218,
+      "longitude": 12.479518
+    },
+    {
+      "name": "Strøgkiosken",
+      "latitude": 55.490607,
+      "longitude": 9.969631
+    },
+    {
+      "name": "Super Kiosk",
+      "latitude": 55.677876,
+      "longitude": 12.57698
+    },
+    {
+      "name": "Super kiosken ikast",
+      "latitude": 56.137615,
+      "longitude": 9.166446
+    },
+    {
+      "name": "SuperBrugsen Auning Bake-off Kiosk",
+      "latitude": 56.431694,
+      "longitude": 10.374266
+    },
+    {
+      "name": "Superdøgneren",
+      "latitude": 56.547195,
+      "longitude": 9.019127
+    },
+    {
+      "name": "Superkiosken",
+      "latitude": 56.12839,
+      "longitude": 10.11541
+    },
+    {
+      "name": "Superkiosken",
+      "latitude": 56.140057,
+      "longitude": 8.959367
+    },
+    {
+      "name": "Superkiosken Pitten",
+      "latitude": 56.694024,
+      "longitude": 9.492349
+    },
+    {
+      "name": "Superkiosken Stavtrup",
+      "latitude": 56.12848,
+      "longitude": 10.115231
+    },
+    {
+      "name": "Supertips",
+      "latitude": 56.462465,
+      "longitude": 10.023
+    },
+    {
+      "name": "Svinkløv Camping",
+      "latitude": 57.149405,
+      "longitude": 9.322467
+    },
+    {
+      "name": "Sweet Alabama 2",
+      "latitude": 55.735087,
+      "longitude": 12.574618
+    },
+    {
+      "name": "Søernes Kiosk",
+      "latitude": 55.685557,
+      "longitude": 12.567134
+    },
+    {
+      "name": "Søholmhus Café",
+      "latitude": 55.818257,
+      "longitude": 12.232044
+    },
+    {
+      "name": "Sølles Kiosk",
+      "latitude": 55.397196,
+      "longitude": 10.392795
+    },
+    {
+      "name": "Sønderby Strand Kiosk",
+      "latitude": 54.865796,
+      "longitude": 9.891902
+    },
+    {
+      "name": "Søndergårdens Tips & Lotto",
+      "latitude": 55.757138,
+      "longitude": 12.459972
+    },
+    {
+      "name": "Søpark kiosken",
+      "latitude": 54.774456,
+      "longitude": 11.498653
+    },
+    {
+      "name": "Søvangsgården Kiosk",
+      "latitude": 55.620335,
+      "longitude": 12.46402
+    },
+    {
+      "name": "Tanken",
+      "latitude": 55.691541,
+      "longitude": 12.558659
+    },
+    {
+      "name": "Teglholmsmarked",
+      "latitude": 55.65329,
+      "longitude": 12.543349
+    },
+    {
+      "name": "TG Biksen",
+      "latitude": 56.965696,
+      "longitude": 8.698414
+    },
+    {
+      "name": "THE BOX",
+      "latitude": 55.718757,
+      "longitude": 12.555748
+    },
+    {
+      "name": "Thisted Minibazar",
+      "latitude": 56.955794,
+      "longitude": 8.692957
+    },
+    {
+      "name": "Thorsminde Camping",
+      "latitude": 56.376202,
+      "longitude": 8.122566
+    },
+    {
+      "name": "THU Kiosken",
+      "latitude": 56.48153,
+      "longitude": 9.621037
+    },
+    {
+      "name": "TIF Kiosk",
+      "latitude": 55.236668,
+      "longitude": 10.739487
+    },
+    {
+      "name": "Tigerboden",
+      "latitude": 56.426163,
+      "longitude": 10.552589
+    },
+    {
+      "name": "Tingbæk kalkminer",
+      "latitude": 56.832178,
+      "longitude": 9.812127
+    },
+    {
+      "name": "TIPS & LOTTO KIOSKEN",
+      "latitude": 55.710647,
+      "longitude": 12.537298
+    },
+    {
+      "name": "Tips Corner",
+      "latitude": 55.706851,
+      "longitude": 12.515089
+    },
+    {
+      "name": "Tips kiosken",
+      "latitude": 55.667398,
+      "longitude": 12.387606
+    },
+    {
+      "name": "Tips Lotto Kiosken",
+      "latitude": 55.706291,
+      "longitude": 12.532364
+    },
+    {
+      "name": "Tips og Lotto Kiosk",
+      "latitude": 55.692346,
+      "longitude": 12.487061
+    },
+    {
+      "name": "Tipskiosken",
+      "latitude": 55.23908,
+      "longitude": 10.48115
+    },
+    {
+      "name": "Tipskiosken",
+      "latitude": 55.713951,
+      "longitude": 9.52345
+    },
+    {
+      "name": "Tobak og vin",
+      "latitude": 55.658273,
+      "longitude": 12.60314
+    },
+    {
+      "name": "Tobakshuset",
+      "latitude": 55.708863,
+      "longitude": 12.525936
+    },
+    {
+      "name": "Toldboden Kiosk / Spillehal",
+      "latitude": 56.795311,
+      "longitude": 8.862726
+    },
+    {
+      "name": "Tornby Strand Camping Kiosk",
+      "latitude": 57.554947,
+      "longitude": 9.932643
+    },
+    {
+      "name": "Torvegadens Kiosk",
+      "latitude": 55.671752,
+      "longitude": 12.592339
+    },
+    {
+      "name": "Torvekiosken",
+      "latitude": 55.793711,
+      "longitude": 12.504476
+    },
+    {
+      "name": "Torvets kiosk",
+      "latitude": 56.036263,
+      "longitude": 12.609924
+    },
+    {
+      "name": "Torvets kiosk og pakker",
+      "latitude": 55.929195,
+      "longitude": 12.303465
+    },
+    {
+      "name": "Tousparkens Minimarked",
+      "latitude": 56.148933,
+      "longitude": 10.154346
+    },
+    {
+      "name": "Trekroner Kiosken",
+      "latitude": 55.651002,
+      "longitude": 12.134442
+    },
+    {
+      "name": "Treldevejens Kiosk",
+      "latitude": 55.577239,
+      "longitude": 9.767055
+    },
+    {
+      "name": "Trelleborg",
+      "latitude": 55.39457,
+      "longitude": 11.2719
+    },
+    {
+      "name": "Trige Pakkeshop",
+      "latitude": 56.253428,
+      "longitude": 10.145236
+    },
+    {
+      "name": "Troldebakken Camping",
+      "latitude": 56.839922,
+      "longitude": 9.212216
+    },
+    {
+      "name": "Træfpunkt Kiosk",
+      "latitude": 55.648,
+      "longitude": 12.270434
+    },
+    {
+      "name": "TT Mini Store",
+      "latitude": 55.757583,
+      "longitude": 8.928454
+    },
+    {
+      "name": "Turistkiosken",
+      "latitude": 55.708721,
+      "longitude": 9.53614
+    },
+    {
+      "name": "Tutten",
+      "latitude": 55.630906,
+      "longitude": 12.139324
+    },
+    {
+      "name": "Tutten",
+      "latitude": 56.12876,
+      "longitude": 10.194918
+    },
+    {
+      "name": "Tversted Kiosk",
+      "latitude": 57.581461,
+      "longitude": 10.184511
+    },
+    {
+      "name": "Udmirs Service Kiosk",
+      "latitude": 55.655676,
+      "longitude": 12.537359
+    },
+    {
+      "name": "UFO Kiosk",
+      "latitude": 55.663473,
+      "longitude": 12.601912
+    },
+    {
+      "name": "Ugleboden",
+      "latitude": 56.103679,
+      "longitude": 9.687702
+    },
+    {
+      "name": "Ungdomsklubben Tørring - kiosk",
+      "latitude": 55.860357,
+      "longitude": 9.487169
+    },
+    {
+      "name": "Ungdomsøen Kiosken",
+      "latitude": 55.720252,
+      "longitude": 12.66508
+    },
+    {
+      "name": "Valhalla Kiosk",
+      "latitude": 56.422816,
+      "longitude": 10.546451
+    },
+    {
+      "name": "Vammen Camping Kiosk",
+      "latitude": 56.522729,
+      "longitude": 9.595106
+    },
+    {
+      "name": "Vandvejs Kiosken",
+      "latitude": 55.0654,
+      "longitude": 10.250996
+    },
+    {
+      "name": "Varde Bio Kiosk",
+      "latitude": 55.620684,
+      "longitude": 8.481909
+    },
+    {
+      "name": "Vejlby Kiosk",
+      "latitude": 56.192736,
+      "longitude": 10.217909
+    },
+    {
+      "name": "Venø Klit Kiosk",
+      "latitude": 56.550391,
+      "longitude": 8.629414
+    },
+    {
+      "name": "Vesterbros Kiosk",
+      "latitude": 56.79368,
+      "longitude": 8.853364
+    },
+    {
+      "name": "Vestergade Kiosk og Spil",
+      "latitude": 55.456924,
+      "longitude": 12.177396
+    },
+    {
+      "name": "Vestergades Kiosk",
+      "latitude": 55.713182,
+      "longitude": 9.536638
+    },
+    {
+      "name": "Vestervang Kiosk",
+      "latitude": 56.461791,
+      "longitude": 9.395638
+    },
+    {
+      "name": "Vikingemuseet Ladby Kiosk",
+      "latitude": 55.443057,
+      "longitude": 10.618606
+    },
+    {
+      "name": "Vin & Tobak",
+      "latitude": 55.672427,
+      "longitude": 12.503538
+    },
+    {
+      "name": "Vin & Tobak",
+      "latitude": 55.719289,
+      "longitude": 12.542793
+    },
+    {
+      "name": "Vin & Tobak",
+      "latitude": 55.724785,
+      "longitude": 12.438748
+    },
+    {
+      "name": "Vin og Tobak",
+      "latitude": 55.400646,
+      "longitude": 11.347299
+    },
+    {
+      "name": "Vin Og Tobak",
+      "latitude": 55.718535,
+      "longitude": 12.357095
+    },
+    {
+      "name": "Vin og Tobaks Forretning",
+      "latitude": 55.650549,
+      "longitude": 12.536509
+    },
+    {
+      "name": "vin tobak",
+      "latitude": 55.661311,
+      "longitude": 12.623057
+    },
+    {
+      "name": "Vinbonden Kiosk og Spillehal",
+      "latitude": 55.694028,
+      "longitude": 12.531073
+    },
+    {
+      "name": "Vinderchancen",
+      "latitude": 55.719063,
+      "longitude": 9.609452
+    },
+    {
+      "name": "Vinter Sko",
+      "latitude": 55.747302,
+      "longitude": 12.588769
+    },
+    {
+      "name": "Virksund Camping Kiosk",
+      "latitude": 56.607425,
+      "longitude": 9.288231
+    },
+    {
+      "name": "VITAHAUS Butikk",
+      "latitude": 57.043519,
+      "longitude": 9.949523
+    },
+    {
+      "name": "Vridsted Idrætsforening Kiosk",
+      "latitude": 56.446932,
+      "longitude": 9.006066
+    },
+    {
+      "name": "Walthers Kiosk",
+      "latitude": 55.095742,
+      "longitude": 10.241302
+    },
+    {
+      "name": "Western Burgerhouse",
+      "latitude": 55.895766,
+      "longitude": 11.606324
+    },
+    {
+      "name": "Windsor Kiosken",
+      "latitude": 55.678871,
+      "longitude": 12.507321
+    },
+    {
+      "name": "Yasotha",
+      "latitude": 56.459482,
+      "longitude": 10.035712
+    },
+    {
+      "name": "ZE Mart",
+      "latitude": 55.778504,
+      "longitude": 12.515501
+    },
+    {
+      "name": "Zoo Kiosk 1",
+      "latitude": 55.672037,
+      "longitude": 12.520778
+    },
+    {
+      "name": "Åsvejen Markedspladsen",
+      "latitude": 55.594634,
+      "longitude": 11.85347
+    },
+    {
+      "name": "Ø-kiosk Egholm",
+      "latitude": 57.068153,
+      "longitude": 9.852329
+    },
+    {
+      "name": "Øbro Kiosken",
+      "latitude": 55.697781,
+      "longitude": 12.579169
+    },
+    {
+      "name": "Østbroens Kiosk",
+      "latitude": 55.660487,
+      "longitude": 12.404866
+    },
+    {
+      "name": "Østerbo Kiosk",
+      "latitude": 55.709534,
+      "longitude": 9.547581
+    },
+    {
+      "name": "Østerbro",
+      "latitude": 56.56444,
+      "longitude": 9.032878
+    }
+  ],
+  "meta": {
+    "title": "Kiosker i Danmark (Kiosks in Denmark) - Gratis download",
+    "description": "Kiosks in Denmark — named points of interest extracted from OpenStreetMap via the EU-POIS/DK dataset. Source tags: shop=kiosk. Indeholder 619 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Kiosker i Danmark (Kiosks in Denmark) | ListBase",
+    "seo_description": "Download Kiosker i Danmark (Kiosks in Denmark) — 619 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 619 poster / 3 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

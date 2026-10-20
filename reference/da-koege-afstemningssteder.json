@@ -1,0 +1,184 @@
+{
+  "id": "da-koege-afstemningssteder",
+  "name": "Afstemningssteder i Køge Kommune",
+  "title": "Afstemningssteder i Køge Kommune",
+  "description": "Afstemningssteder (afstemningsområder) i Køge Kommune med opstillingskreds.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "afstemningsomraade_kode",
+      "label": "Afstemningsomraade Kode",
+      "type": "number"
+    },
+    {
+      "key": "afstemningssted",
+      "label": "Afstemningssted",
+      "type": "string"
+    },
+    {
+      "key": "kommune_kode",
+      "label": "Kommune Kode",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "opstillingskreds_nummer",
+      "label": "Opstillingskreds Nummer",
+      "type": "number"
+    },
+    {
+      "key": "opstillingskreds",
+      "label": "Opstillingskreds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afstemningsomraade_kode": "01",
+      "afstemningssted": "Køge By - Midt",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "02",
+      "afstemningssted": "Køge By - Vest",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "03",
+      "afstemningssted": "Lellinge",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "04",
+      "afstemningssted": "Højelse / Lille Skensved",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "05",
+      "afstemningssted": "Ølby",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "06",
+      "afstemningssted": "Ølsemagle",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "07",
+      "afstemningssted": "Herfølge",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "08",
+      "afstemningssted": "Alkestrup",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "09",
+      "afstemningssted": "Hastrup",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "10",
+      "afstemningssted": "Køge By - Nord",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "11",
+      "afstemningssted": "Herfølge - Syd",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "12",
+      "afstemningssted": "Borup",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "13",
+      "afstemningssted": "Ejby",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "14",
+      "afstemningssted": "Gørslev",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "15",
+      "afstemningssted": "Bjæverskov",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    },
+    {
+      "afstemningsomraade_kode": "16",
+      "afstemningssted": "Vemmedrup",
+      "kommune_kode": 259,
+      "kommune": "Køge",
+      "opstillingskreds_nummer": 34,
+      "opstillingskreds": "Køge"
+    }
+  ],
+  "meta": {
+    "title": "Afstemningssteder i Køge Kommune - Gratis download",
+    "description": "Afstemningssteder (afstemningsområder) i Køge Kommune med opstillingskreds. Indeholder 16 poster. Download i Excel, CSV, PDF format.",
+    "seo_title": "Afstemningssteder i Køge Kommune | ListBase",
+    "seo_description": "Download Afstemningssteder i Køge Kommune — 16 poster. Tilgængelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Indeholder 16 poster / 6 felter",
+      "Gratis download i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}
