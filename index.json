@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:40.541Z",
-  "total_datasets": 431,
-  "total_records": 235669,
+  "generated": "2026-10-27T02:48:43.118Z",
+  "total_datasets": 432,
+  "total_records": 235724,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "environment",
@@ -1537,6 +1537,31 @@
         "xlsx": {
           "name": "da-boghandlere_DA.xlsx",
           "size": 12445
+        }
+      }
+    },
+    {
+      "id": "da-mest-sete-danske-film",
+      "name": "Mest sete danske film i biograferne",
+      "category": "entertainment",
+      "record_count": 55,
+      "columns": [
+        "placering",
+        "titel",
+        "aar",
+        "solgte_billetter"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Mest_sete_danske_film",
+      "updated": "2026-10",
+      "size": 8416,
+      "files": {
+        "csv": {
+          "name": "da-mest-sete-danske-film_DA.csv",
+          "size": 2410
+        },
+        "xlsx": {
+          "name": "da-mest-sete-danske-film_DA.xlsx",
+          "size": 8790
         }
       }
     },

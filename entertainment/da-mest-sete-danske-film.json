@@ -1,0 +1,376 @@
+{
+  "id": "da-mest-sete-danske-film",
+  "name": "Mest sete danske film i biograferne",
+  "title": "Mest sete danske film i biograferne",
+  "description": "De mest sete danske film i danske biografer målt på antal solgte billetter",
+  "category": "entertainment",
+  "source": "https://da.wikipedia.org/wiki/Mest_sete_danske_film",
+  "source_url": "https://da.wikipedia.org/wiki/Mest_sete_danske_film",
+  "updated": "2026-10",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "placering",
+      "label": "Placering",
+      "type": "number"
+    },
+    {
+      "key": "titel",
+      "label": "Titel",
+      "type": "string"
+    },
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "solgte_billetter",
+      "label": "Solgte Billetter",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "placering": 1,
+      "titel": "Olsen-banden ser rødt",
+      "aar": 1976,
+      "solgte_billetter": 1201293
+    },
+    {
+      "placering": 2,
+      "titel": "Olsen-banden deruda'",
+      "aar": 1977,
+      "solgte_billetter": 1044801
+    },
+    {
+      "placering": 3,
+      "titel": "Olsen-banden går i krig",
+      "aar": 1978,
+      "solgte_billetter": 1005759
+    },
+    {
+      "placering": 4,
+      "titel": "Walter og Carlo - op på fars hat",
+      "aar": 1985,
+      "solgte_billetter": 953743
+    },
+    {
+      "placering": 5,
+      "titel": "Olsen-banden overgiver sig aldrig",
+      "aar": 1979,
+      "solgte_billetter": 934878
+    },
+    {
+      "placering": 6,
+      "titel": "Ternet Ninja 2",
+      "aar": 2021,
+      "solgte_billetter": 930000
+    },
+    {
+      "placering": 7,
+      "titel": "Ternet Ninja",
+      "aar": 2018,
+      "solgte_billetter": 929159
+    },
+    {
+      "placering": 8,
+      "titel": "Midt om natten",
+      "aar": 1984,
+      "solgte_billetter": 922923
+    },
+    {
+      "placering": 9,
+      "titel": "Familien Gyldenkål sprænger banken",
+      "aar": 1976,
+      "solgte_billetter": 905332
+    },
+    {
+      "placering": 10,
+      "titel": "Krummerne",
+      "aar": 1991,
+      "solgte_billetter": 859383
+    },
+    {
+      "placering": 11,
+      "titel": "Den eneste ene",
+      "aar": 1999,
+      "solgte_billetter": 843472
+    },
+    {
+      "placering": 12,
+      "titel": "Klovn - The Movie",
+      "aar": 2010,
+      "solgte_billetter": 838881
+    },
+    {
+      "placering": 13,
+      "titel": "Italiensk for begyndere",
+      "aar": 2000,
+      "solgte_billetter": 828730
+    },
+    {
+      "placering": 14,
+      "titel": "Druk",
+      "aar": 2020,
+      "solgte_billetter": 823396
+    },
+    {
+      "placering": 15,
+      "titel": "Olsen-bandens flugt over plankeværket",
+      "aar": 1981,
+      "solgte_billetter": 810956
+    },
+    {
+      "placering": 16,
+      "titel": "Vinterbørn",
+      "aar": 1978,
+      "solgte_billetter": 809544
+    },
+    {
+      "placering": 17,
+      "titel": "Ternet Ninja 3",
+      "aar": 2025,
+      "solgte_billetter": 778950
+    },
+    {
+      "placering": 18,
+      "titel": "Hvidsten Gruppen",
+      "aar": 2012,
+      "solgte_billetter": 765521
+    },
+    {
+      "placering": 19,
+      "titel": "Journal 64",
+      "aar": 2018,
+      "solgte_billetter": 755808
+    },
+    {
+      "placering": 20,
+      "titel": "Fasandræberne",
+      "aar": 2014,
+      "solgte_billetter": 753837
+    },
+    {
+      "placering": 21,
+      "titel": "Julefrokosten",
+      "aar": 1976,
+      "solgte_billetter": 727358
+    },
+    {
+      "placering": 22,
+      "titel": "Kvinden i buret",
+      "aar": 2013,
+      "solgte_billetter": 724509
+    },
+    {
+      "placering": 23,
+      "titel": "Flaskepost fra P",
+      "aar": 2016,
+      "solgte_billetter": 700000
+    },
+    {
+      "placering": 24,
+      "titel": "Flammen & Citronen",
+      "aar": 2008,
+      "solgte_billetter": 673764
+    },
+    {
+      "placering": 25,
+      "titel": "Olsen-banden over alle bjerge",
+      "aar": 1981,
+      "solgte_billetter": 660867
+    },
+    {
+      "placering": 26,
+      "titel": "Jagten",
+      "aar": 2013,
+      "solgte_billetter": 652555
+    },
+    {
+      "placering": 27,
+      "titel": "Olsen-banden på sporet",
+      "aar": 1975,
+      "solgte_billetter": 648057
+    },
+    {
+      "placering": 28,
+      "titel": "Rend mig i traditionerne",
+      "aar": 1979,
+      "solgte_billetter": 639434
+    },
+    {
+      "placering": 29,
+      "titel": "Den skaldede frisør",
+      "aar": 2012,
+      "solgte_billetter": 631953
+    },
+    {
+      "placering": 30,
+      "titel": "Olsen-bandens sidste stik",
+      "aar": 1998,
+      "solgte_billetter": 628801
+    },
+    {
+      "placering": 31,
+      "titel": "Retfærdighedens ryttere",
+      "aar": 2020,
+      "solgte_billetter": 605082
+    },
+    {
+      "placering": 32,
+      "titel": "Den kroniske uskyld",
+      "aar": 1985,
+      "solgte_billetter": 604799
+    },
+    {
+      "placering": 33,
+      "titel": "Klassefesten 2 - Begravelsen",
+      "aar": 2014,
+      "solgte_billetter": 596774
+    },
+    {
+      "placering": 34,
+      "titel": "En kort en lang",
+      "aar": 2001,
+      "solgte_billetter": 584067
+    },
+    {
+      "placering": 35,
+      "titel": "Dansen med Regitze",
+      "aar": 1989,
+      "solgte_billetter": 584035
+    },
+    {
+      "placering": 36,
+      "titel": "Pelle Erobreren",
+      "aar": 1987,
+      "solgte_billetter": 581059
+    },
+    {
+      "placering": 37,
+      "titel": "Mig og Charly",
+      "aar": 1978,
+      "solgte_billetter": 579463
+    },
+    {
+      "placering": 38,
+      "titel": "Valhalla",
+      "aar": 1986,
+      "solgte_billetter": 578830
+    },
+    {
+      "placering": 39,
+      "titel": "Anja & Viktor",
+      "aar": 2001,
+      "solgte_billetter": 572052
+    },
+    {
+      "placering": 40,
+      "titel": "Kongekabale",
+      "aar": 2004,
+      "solgte_billetter": 552251
+    },
+    {
+      "placering": 41,
+      "titel": "Piger i trøjen 2",
+      "aar": 1976,
+      "solgte_billetter": 547422
+    },
+    {
+      "placering": 42,
+      "titel": "De uanstændige",
+      "aar": 1983,
+      "solgte_billetter": 544851
+    },
+    {
+      "placering": 43,
+      "titel": "Krummerne 2 - Stakkels Krumme",
+      "aar": 1992,
+      "solgte_billetter": 537429
+    },
+    {
+      "placering": 44,
+      "titel": "Walter og Carlo - yes, det er far",
+      "aar": 1986,
+      "solgte_billetter": 526493
+    },
+    {
+      "placering": 45,
+      "titel": "Min søsters børn i sneen",
+      "aar": 2002,
+      "solgte_billetter": 525951
+    },
+    {
+      "placering": 46,
+      "titel": "Klassefesten 3 - Dåben",
+      "aar": 2016,
+      "solgte_billetter": 524853
+    },
+    {
+      "placering": 47,
+      "titel": "Kærlighed ved første hik",
+      "aar": 1999,
+      "solgte_billetter": 521339
+    },
+    {
+      "placering": 48,
+      "titel": "En kongelig affære",
+      "aar": 2012,
+      "solgte_billetter": 515921
+    },
+    {
+      "placering": 49,
+      "titel": "Jydekompagniet",
+      "aar": 1988,
+      "solgte_billetter": 512472
+    },
+    {
+      "placering": 50,
+      "titel": "Klovn Forever",
+      "aar": 2015,
+      "solgte_billetter": 511452
+    },
+    {
+      "placering": 51,
+      "titel": "Flamberede hjerter",
+      "aar": 1986,
+      "solgte_billetter": 508765
+    },
+    {
+      "placering": 52,
+      "titel": "Far til fire - gi'r aldrig op!",
+      "aar": 2005,
+      "solgte_billetter": 506770
+    },
+    {
+      "placering": 53,
+      "titel": "Elsker dig for evigt",
+      "aar": 2002,
+      "solgte_billetter": 506493
+    },
+    {
+      "placering": 54,
+      "titel": "Klassefesten",
+      "aar": 2011,
+      "solgte_billetter": 505635
+    },
+    {
+      "placering": 55,
+      "titel": "Tro, håb og kærlighed",
+      "aar": 1984,
+      "solgte_billetter": 503675
+    }
+  ],
+  "meta": {
+    "title": "Mest sete danske film i biograferne - Free Download",
+    "description": "De mest sete danske film i danske biografer målt på antal solgte billetter Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mest sete danske film i biograferne | ListBase",
+    "seo_description": "Download Mest sete danske film i biograferne — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Mest_sete_danske_film"
+    ]
+  }
+}
