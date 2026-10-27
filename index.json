@@ -1,9 +1,13 @@
 {
   "lang": "da",
-  "generated": "2026-10-20T03:59:12.213Z",
-  "total_datasets": 421,
-  "total_records": 234802,
+  "generated": "2026-10-27T02:48:18.523Z",
+  "total_datasets": 422,
+  "total_records": 234833,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 20
@@ -82,6 +86,31 @@
     }
   ],
   "datasets": [
+    {
+      "id": "da-animalske-landbrugsprodukter",
+      "name": "Værdi og indeks for animalske landbrugsprodukter",
+      "category": "agriculture",
+      "record_count": 31,
+      "columns": [
+        "aar",
+        "maengdeindeks_2015",
+        "prisindeks_2015",
+        "salgsvaerdi_mio_kr"
+      ],
+      "source": "https://www.statistikbanken.dk/ANI2",
+      "updated": "2026-10",
+      "size": 5718,
+      "files": {
+        "csv": {
+          "name": "da-animalske-landbrugsprodukter_DA.csv",
+          "size": 875
+        },
+        "xlsx": {
+          "name": "da-animalske-landbrugsprodukter_DA.xlsx",
+          "size": 7481
+        }
+      }
+    },
     {
       "id": "da-arkaeologiske-steder",
       "name": "Arkæologiske steder i Danmark",

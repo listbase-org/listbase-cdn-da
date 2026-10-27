@@ -1,0 +1,232 @@
+{
+  "id": "da-animalske-landbrugsprodukter",
+  "name": "Værdi og indeks for animalske landbrugsprodukter",
+  "title": "Værdi og indeks for animalske landbrugsprodukter",
+  "description": "Samlet salgsværdi samt mængde- og prisindeks for danske animalske landbrugsprodukter pr. år siden 1995 (Danmarks Statistik, ANI2)",
+  "category": "agriculture",
+  "source": "https://www.statistikbanken.dk/ANI2",
+  "source_url": "https://www.statistikbanken.dk/ANI2",
+  "updated": "2026-10",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "maengdeindeks_2015",
+      "label": "Maengdeindeks 2015",
+      "type": "number"
+    },
+    {
+      "key": "prisindeks_2015",
+      "label": "Prisindeks 2015",
+      "type": "number"
+    },
+    {
+      "key": "salgsvaerdi_mio_kr",
+      "label": "Salgsvaerdi Mio Kr",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1995,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 32442.3
+    },
+    {
+      "aar": 1996,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 33856.9
+    },
+    {
+      "aar": 1997,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 34706.4
+    },
+    {
+      "aar": 1998,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 30516.1
+    },
+    {
+      "aar": 1999,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 28845.8
+    },
+    {
+      "aar": 2000,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 32855.2
+    },
+    {
+      "aar": 2001,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 36765.1
+    },
+    {
+      "aar": 2002,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 33038.1
+    },
+    {
+      "aar": 2003,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 30400.2
+    },
+    {
+      "aar": 2004,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 32158.2
+    },
+    {
+      "aar": 2005,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 32505.5
+    },
+    {
+      "aar": 2006,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 33339
+    },
+    {
+      "aar": 2007,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 33367.9
+    },
+    {
+      "aar": 2008,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 36876.6
+    },
+    {
+      "aar": 2009,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 32421.6
+    },
+    {
+      "aar": 2010,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 36044.9
+    },
+    {
+      "aar": 2011,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 39852.3
+    },
+    {
+      "aar": 2012,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 42556.2
+    },
+    {
+      "aar": 2013,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 44859.2
+    },
+    {
+      "aar": 2014,
+      "maengdeindeks_2015": "",
+      "prisindeks_2015": "",
+      "salgsvaerdi_mio_kr": 43548.3
+    },
+    {
+      "aar": 2015,
+      "maengdeindeks_2015": 100,
+      "prisindeks_2015": 100,
+      "salgsvaerdi_mio_kr": 38451.5
+    },
+    {
+      "aar": 2016,
+      "maengdeindeks_2015": 101.4,
+      "prisindeks_2015": 97.5,
+      "salgsvaerdi_mio_kr": 40435.2
+    },
+    {
+      "aar": 2017,
+      "maengdeindeks_2015": 100.9,
+      "prisindeks_2015": 108.9,
+      "salgsvaerdi_mio_kr": 46048.6
+    },
+    {
+      "aar": 2018,
+      "maengdeindeks_2015": 103.8,
+      "prisindeks_2015": 96.9,
+      "salgsvaerdi_mio_kr": 42665.8
+    },
+    {
+      "aar": 2019,
+      "maengdeindeks_2015": 101.9,
+      "prisindeks_2015": 106.9,
+      "salgsvaerdi_mio_kr": 47001.5
+    },
+    {
+      "aar": 2020,
+      "maengdeindeks_2015": 103.8,
+      "prisindeks_2015": 108.3,
+      "salgsvaerdi_mio_kr": 49511.8
+    },
+    {
+      "aar": 2021,
+      "maengdeindeks_2015": 106.5,
+      "prisindeks_2015": 108.9,
+      "salgsvaerdi_mio_kr": 47880.8
+    },
+    {
+      "aar": 2022,
+      "maengdeindeks_2015": 103.5,
+      "prisindeks_2015": 129.6,
+      "salgsvaerdi_mio_kr": 56900.8
+    },
+    {
+      "aar": 2023,
+      "maengdeindeks_2015": 97.6,
+      "prisindeks_2015": 132.6,
+      "salgsvaerdi_mio_kr": 57062
+    },
+    {
+      "aar": 2024,
+      "maengdeindeks_2015": 99.3,
+      "prisindeks_2015": 128.7,
+      "salgsvaerdi_mio_kr": 56541.6
+    },
+    {
+      "aar": 2025,
+      "maengdeindeks_2015": 102.9,
+      "prisindeks_2015": 140,
+      "salgsvaerdi_mio_kr": 62477
+    }
+  ],
+  "meta": {
+    "title": "Værdi og indeks for animalske landbrugsprodukter - Free Download",
+    "description": "Samlet salgsværdi samt mængde- og prisindeks for danske animalske landbrugsprodukter pr. år siden 1995 (Danmarks Statistik, ANI2) Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Værdi og indeks for animalske landbrugsprodukter | ListBase",
+    "seo_description": "Download Værdi og indeks for animalske landbrugsprodukter — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/ANI2"
+    ]
+  }
+}
