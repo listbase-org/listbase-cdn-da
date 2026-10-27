@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:52.466Z",
-  "total_datasets": 436,
-  "total_records": 236077,
+  "generated": "2026-10-27T02:48:54.851Z",
+  "total_datasets": 437,
+  "total_records": 236117,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -10755,6 +10755,29 @@
         "xlsx": {
           "name": "da-politikredse_DA.xlsx",
           "size": 7349
+        }
+      }
+    },
+    {
+      "id": "da-skilsmisseprocent",
+      "name": "Skilsmisseprocent i Danmark",
+      "category": "society",
+      "record_count": 40,
+      "columns": [
+        "aar",
+        "skilsmisseprocent"
+      ],
+      "source": "https://www.statistikbanken.dk/SKI55",
+      "updated": "2026-10",
+      "size": 3822,
+      "files": {
+        "csv": {
+          "name": "da-skilsmisseprocent_DA.csv",
+          "size": 623
+        },
+        "xlsx": {
+          "name": "da-skilsmisseprocent_DA.xlsx",
+          "size": 7268
         }
       }
     },
