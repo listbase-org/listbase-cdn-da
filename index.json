@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:54.851Z",
-  "total_datasets": 437,
-  "total_records": 236117,
+  "generated": "2026-10-27T02:48:57.455Z",
+  "total_datasets": 438,
+  "total_records": 236141,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -1384,6 +1384,30 @@
         "xlsx": {
           "name": "da-bnp-og-oekonomisk-vaekst_DA.xlsx",
           "size": 8580
+        }
+      }
+    },
+    {
+      "id": "da-statsejede-virksomheder",
+      "name": "Statsejede virksomheder i Danmark",
+      "category": "economy",
+      "record_count": 24,
+      "columns": [
+        "selskab",
+        "ressortministerium",
+        "statens_ejerandel_pct"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Statsejede_virksomheder_i_Danmark",
+      "updated": "2026-10",
+      "size": 4977,
+      "files": {
+        "csv": {
+          "name": "da-statsejede-virksomheder_DA.csv",
+          "size": 1326
+        },
+        "xlsx": {
+          "name": "da-statsejede-virksomheder_DA.xlsx",
+          "size": 7588
         }
       }
     },

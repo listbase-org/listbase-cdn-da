@@ -1,0 +1,161 @@
+{
+  "id": "da-statsejede-virksomheder",
+  "name": "Statsejede virksomheder i Danmark",
+  "title": "Statsejede virksomheder i Danmark",
+  "description": "Selskaber helt eller delvist ejet af den danske stat med ressortministerium og statens ejerandel i procent",
+  "category": "economy",
+  "source": "https://da.wikipedia.org/wiki/Statsejede_virksomheder_i_Danmark",
+  "source_url": "https://da.wikipedia.org/wiki/Statsejede_virksomheder_i_Danmark",
+  "updated": "2026-10",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "selskab",
+      "label": "Selskab",
+      "type": "string"
+    },
+    {
+      "key": "ressortministerium",
+      "label": "Ressortministerium",
+      "type": "string"
+    },
+    {
+      "key": "statens_ejerandel_pct",
+      "label": "Statens Ejerandel Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "selskab": "Danske Spil A/S",
+      "ressortministerium": "Finansministeriet",
+      "statens_ejerandel_pct": "81"
+    },
+    {
+      "selskab": "Evida Holding A/S",
+      "ressortministerium": "Finansministeriet",
+      "statens_ejerandel_pct": "100"
+    },
+    {
+      "selskab": "Jægernes Udviklingsfond af 2023 A/S",
+      "ressortministerium": "Ministeriet for Grøn Trepart",
+      "statens_ejerandel_pct": "51"
+    },
+    {
+      "selskab": "Københavns Lufthavne A/S",
+      "ressortministerium": "Finansministeriet",
+      "statens_ejerandel_pct": "99,6"
+    },
+    {
+      "selskab": "Statens og Kommunernes Indkøbsservice A/S",
+      "ressortministerium": "Finansministeriet",
+      "statens_ejerandel_pct": "55"
+    },
+    {
+      "selskab": "Statens Ejendomssalg A/S",
+      "ressortministerium": "Finansministeriet",
+      "statens_ejerandel_pct": "100"
+    },
+    {
+      "selskab": "Sund & Bælt Holding A/S",
+      "ressortministerium": "Transportministeriet",
+      "statens_ejerandel_pct": "100"
+    },
+    {
+      "selskab": "TV2 DANMARK A/S",
+      "ressortministerium": "Kulturministeriet",
+      "statens_ejerandel_pct": "100"
+    },
+    {
+      "selskab": "Ørsted A/S",
+      "ressortministerium": "Finansministeriet",
+      "statens_ejerandel_pct": "50,1"
+    },
+    {
+      "selskab": "Greenland Airports International",
+      "ressortministerium": "Finansministeriet",
+      "statens_ejerandel_pct": "33,3"
+    },
+    {
+      "selskab": "Nammo Denmark A/S",
+      "ressortministerium": "Erhvervsministeriet",
+      "statens_ejerandel_pct": "15"
+    },
+    {
+      "selskab": "NORDUnet A/S",
+      "ressortministerium": "Uddannelses- og Forskningsministeriet",
+      "statens_ejerandel_pct": "24,2"
+    },
+    {
+      "selskab": "PostNord AB",
+      "ressortministerium": "Transportministeriet",
+      "statens_ejerandel_pct": "40"
+    },
+    {
+      "selskab": "SAS AB",
+      "ressortministerium": "Finansministeriet",
+      "statens_ejerandel_pct": "26,4"
+    },
+    {
+      "selskab": "Danmarks Eksport- og Investeringsfond",
+      "ressortministerium": "Erhvervsministeriet",
+      "statens_ejerandel_pct": "100"
+    },
+    {
+      "selskab": "DanPilot",
+      "ressortministerium": "Ministeriet for Samfundssikkerhed og Beredskab",
+      "statens_ejerandel_pct": "100"
+    },
+    {
+      "selskab": "DSB",
+      "ressortministerium": "Transportministeriet",
+      "statens_ejerandel_pct": "100"
+    },
+    {
+      "selskab": "Energinet.dk",
+      "ressortministerium": "Klima-, Energi- og Forsyningsministeriet",
+      "statens_ejerandel_pct": "100"
+    },
+    {
+      "selskab": "Finansiel Stabilitet A/S",
+      "ressortministerium": "Erhvervsministeriet",
+      "statens_ejerandel_pct": "100"
+    },
+    {
+      "selskab": "Impact Fund Denmark",
+      "ressortministerium": "Udenrigsministeriet",
+      "statens_ejerandel_pct": "100"
+    },
+    {
+      "selskab": "Naviair",
+      "ressortministerium": "Transportministeriet",
+      "statens_ejerandel_pct": "100"
+    },
+    {
+      "selskab": "Nordsøenheden",
+      "ressortministerium": "Erhvervsministeriet",
+      "statens_ejerandel_pct": "100"
+    },
+    {
+      "selskab": "Metroselskabet I/S",
+      "ressortministerium": "Transportministeriet",
+      "statens_ejerandel_pct": "41,7"
+    },
+    {
+      "selskab": "Udviklingsselskabet By & Havn I/S",
+      "ressortministerium": "Transportministeriet",
+      "statens_ejerandel_pct": "5"
+    }
+  ],
+  "meta": {
+    "title": "Statsejede virksomheder i Danmark - Free Download",
+    "description": "Selskaber helt eller delvist ejet af den danske stat med ressortministerium og statens ejerandel i procent Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Statsejede virksomheder i Danmark | ListBase",
+    "seo_description": "Download Statsejede virksomheder i Danmark — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Statsejede_virksomheder_i_Danmark"
+    ]
+  }
+}
