@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:18.523Z",
-  "total_datasets": 422,
-  "total_records": 234833,
+  "generated": "2026-10-27T02:48:21.018Z",
+  "total_datasets": 423,
+  "total_records": 234893,
   "categories": [
     {
       "id": "agriculture",
@@ -11,6 +11,10 @@
     {
       "id": "culture",
       "dataset_count": 20
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -1254,6 +1258,32 @@
         "xlsx": {
           "name": "da-vindmoller_DA.xlsx",
           "size": 8109
+        }
+      }
+    },
+    {
+      "id": "da-bnp-og-oekonomisk-vaekst",
+      "name": "Bruttonationalprodukt (BNP) og økonomisk vækst i Danmark",
+      "category": "economy",
+      "record_count": 60,
+      "columns": [
+        "aar",
+        "bnp_2020_priser_mia_kr",
+        "bnp_loebende_mia_kr",
+        "bnp_pr_indbygger_1000_kr",
+        "realvaekst_pct"
+      ],
+      "source": "https://www.statistikbanken.dk/NAN1",
+      "updated": "2026-10",
+      "size": 12376,
+      "files": {
+        "csv": {
+          "name": "da-bnp-og-oekonomisk-vaekst_DA.csv",
+          "size": 2327
+        },
+        "xlsx": {
+          "name": "da-bnp-og-oekonomisk-vaekst_DA.xlsx",
+          "size": 8580
         }
       }
     },

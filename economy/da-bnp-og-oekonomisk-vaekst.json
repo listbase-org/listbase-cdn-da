@@ -1,0 +1,471 @@
+{
+  "id": "da-bnp-og-oekonomisk-vaekst",
+  "name": "Bruttonationalprodukt (BNP) og økonomisk vækst i Danmark",
+  "title": "Bruttonationalprodukt (BNP) og økonomisk vækst i Danmark",
+  "description": "Danmarks BNP i løbende og faste priser, realvækst og BNP pr. indbygger pr. år siden 1966 (Danmarks Statistik, NAN1)",
+  "category": "economy",
+  "source": "https://www.statistikbanken.dk/NAN1",
+  "source_url": "https://www.statistikbanken.dk/NAN1",
+  "updated": "2026-10",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "bnp_2020_priser_mia_kr",
+      "label": "Bnp 2020 Priser Mia Kr",
+      "type": "number"
+    },
+    {
+      "key": "bnp_loebende_mia_kr",
+      "label": "Bnp Loebende Mia Kr",
+      "type": "number"
+    },
+    {
+      "key": "bnp_pr_indbygger_1000_kr",
+      "label": "Bnp Pr Indbygger 1000 Kr",
+      "type": "number"
+    },
+    {
+      "key": "realvaekst_pct",
+      "label": "Realvaekst Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1966,
+      "bnp_2020_priser_mia_kr": 760,
+      "bnp_loebende_mia_kr": 82.4,
+      "bnp_pr_indbygger_1000_kr": 17.2,
+      "realvaekst_pct": ""
+    },
+    {
+      "aar": 1967,
+      "bnp_2020_priser_mia_kr": 804.7,
+      "bnp_loebende_mia_kr": 90.8,
+      "bnp_pr_indbygger_1000_kr": 18.8,
+      "realvaekst_pct": 5.9
+    },
+    {
+      "aar": 1968,
+      "bnp_2020_priser_mia_kr": 851.8,
+      "bnp_loebende_mia_kr": 101.3,
+      "bnp_pr_indbygger_1000_kr": 20.9,
+      "realvaekst_pct": 5.9
+    },
+    {
+      "aar": 1969,
+      "bnp_2020_priser_mia_kr": 909.7,
+      "bnp_loebende_mia_kr": 115.6,
+      "bnp_pr_indbygger_1000_kr": 23.7,
+      "realvaekst_pct": 6.8
+    },
+    {
+      "aar": 1970,
+      "bnp_2020_priser_mia_kr": 926.6,
+      "bnp_loebende_mia_kr": 128.1,
+      "bnp_pr_indbygger_1000_kr": 25.9,
+      "realvaekst_pct": 1.9
+    },
+    {
+      "aar": 1971,
+      "bnp_2020_priser_mia_kr": 956,
+      "bnp_loebende_mia_kr": 141.7,
+      "bnp_pr_indbygger_1000_kr": 28.6,
+      "realvaekst_pct": 3.2
+    },
+    {
+      "aar": 1972,
+      "bnp_2020_priser_mia_kr": 992.3,
+      "bnp_loebende_mia_kr": 161.4,
+      "bnp_pr_indbygger_1000_kr": 32.3,
+      "realvaekst_pct": 3.8
+    },
+    {
+      "aar": 1973,
+      "bnp_2020_priser_mia_kr": 1039.2,
+      "bnp_loebende_mia_kr": 185.8,
+      "bnp_pr_indbygger_1000_kr": 37,
+      "realvaekst_pct": 4.7
+    },
+    {
+      "aar": 1974,
+      "bnp_2020_priser_mia_kr": 1029.2,
+      "bnp_loebende_mia_kr": 208,
+      "bnp_pr_indbygger_1000_kr": 41.2,
+      "realvaekst_pct": -1
+    },
+    {
+      "aar": 1975,
+      "bnp_2020_priser_mia_kr": 1014.6,
+      "bnp_loebende_mia_kr": 232.3,
+      "bnp_pr_indbygger_1000_kr": 45.9,
+      "realvaekst_pct": -1.4
+    },
+    {
+      "aar": 1976,
+      "bnp_2020_priser_mia_kr": 1075.5,
+      "bnp_loebende_mia_kr": 269,
+      "bnp_pr_indbygger_1000_kr": 53,
+      "realvaekst_pct": 6
+    },
+    {
+      "aar": 1977,
+      "bnp_2020_priser_mia_kr": 1096.8,
+      "bnp_loebende_mia_kr": 298.4,
+      "bnp_pr_indbygger_1000_kr": 58.6,
+      "realvaekst_pct": 2
+    },
+    {
+      "aar": 1978,
+      "bnp_2020_priser_mia_kr": 1123.3,
+      "bnp_loebende_mia_kr": 332.6,
+      "bnp_pr_indbygger_1000_kr": 65.2,
+      "realvaekst_pct": 2.4
+    },
+    {
+      "aar": 1979,
+      "bnp_2020_priser_mia_kr": 1168.8,
+      "bnp_loebende_mia_kr": 370.3,
+      "bnp_pr_indbygger_1000_kr": 72.4,
+      "realvaekst_pct": 4.1
+    },
+    {
+      "aar": 1980,
+      "bnp_2020_priser_mia_kr": 1160.1,
+      "bnp_loebende_mia_kr": 399.1,
+      "bnp_pr_indbygger_1000_kr": 77.9,
+      "realvaekst_pct": -0.8
+    },
+    {
+      "aar": 1981,
+      "bnp_2020_priser_mia_kr": 1151.5,
+      "bnp_loebende_mia_kr": 437.8,
+      "bnp_pr_indbygger_1000_kr": 85.5,
+      "realvaekst_pct": -0.7
+    },
+    {
+      "aar": 1982,
+      "bnp_2020_priser_mia_kr": 1196.3,
+      "bnp_loebende_mia_kr": 500.6,
+      "bnp_pr_indbygger_1000_kr": 97.8,
+      "realvaekst_pct": 3.9
+    },
+    {
+      "aar": 1983,
+      "bnp_2020_priser_mia_kr": 1228,
+      "bnp_loebende_mia_kr": 551.7,
+      "bnp_pr_indbygger_1000_kr": 107.9,
+      "realvaekst_pct": 2.7
+    },
+    {
+      "aar": 1984,
+      "bnp_2020_priser_mia_kr": 1281.3,
+      "bnp_loebende_mia_kr": 609.7,
+      "bnp_pr_indbygger_1000_kr": 119.3,
+      "realvaekst_pct": 4.3
+    },
+    {
+      "aar": 1985,
+      "bnp_2020_priser_mia_kr": 1334.5,
+      "bnp_loebende_mia_kr": 661.8,
+      "bnp_pr_indbygger_1000_kr": 129.4,
+      "realvaekst_pct": 4.2
+    },
+    {
+      "aar": 1986,
+      "bnp_2020_priser_mia_kr": 1397.7,
+      "bnp_loebende_mia_kr": 710,
+      "bnp_pr_indbygger_1000_kr": 138.7,
+      "realvaekst_pct": 4.7
+    },
+    {
+      "aar": 1987,
+      "bnp_2020_priser_mia_kr": 1404.2,
+      "bnp_loebende_mia_kr": 746.8,
+      "bnp_pr_indbygger_1000_kr": 145.7,
+      "realvaekst_pct": 0.5
+    },
+    {
+      "aar": 1988,
+      "bnp_2020_priser_mia_kr": 1408,
+      "bnp_loebende_mia_kr": 777.8,
+      "bnp_pr_indbygger_1000_kr": 151.6,
+      "realvaekst_pct": 0.3
+    },
+    {
+      "aar": 1989,
+      "bnp_2020_priser_mia_kr": 1417.8,
+      "bnp_loebende_mia_kr": 821,
+      "bnp_pr_indbygger_1000_kr": 160,
+      "realvaekst_pct": 0.7
+    },
+    {
+      "aar": 1990,
+      "bnp_2020_priser_mia_kr": 1441.4,
+      "bnp_loebende_mia_kr": 855.4,
+      "bnp_pr_indbygger_1000_kr": 166.4,
+      "realvaekst_pct": 1.7
+    },
+    {
+      "aar": 1991,
+      "bnp_2020_priser_mia_kr": 1462.4,
+      "bnp_loebende_mia_kr": 890.3,
+      "bnp_pr_indbygger_1000_kr": 172.7,
+      "realvaekst_pct": 1.5
+    },
+    {
+      "aar": 1992,
+      "bnp_2020_priser_mia_kr": 1492,
+      "bnp_loebende_mia_kr": 923.3,
+      "bnp_pr_indbygger_1000_kr": 178.6,
+      "realvaekst_pct": 2
+    },
+    {
+      "aar": 1993,
+      "bnp_2020_priser_mia_kr": 1490.8,
+      "bnp_loebende_mia_kr": 927.9,
+      "bnp_pr_indbygger_1000_kr": 178.8,
+      "realvaekst_pct": -0.1
+    },
+    {
+      "aar": 1994,
+      "bnp_2020_priser_mia_kr": 1569.7,
+      "bnp_loebende_mia_kr": 992.4,
+      "bnp_pr_indbygger_1000_kr": 190.6,
+      "realvaekst_pct": 5.3
+    },
+    {
+      "aar": 1995,
+      "bnp_2020_priser_mia_kr": 1617.4,
+      "bnp_loebende_mia_kr": 1035.6,
+      "bnp_pr_indbygger_1000_kr": 198,
+      "realvaekst_pct": 3
+    },
+    {
+      "aar": 1996,
+      "bnp_2020_priser_mia_kr": 1664.3,
+      "bnp_loebende_mia_kr": 1087.1,
+      "bnp_pr_indbygger_1000_kr": 206.6,
+      "realvaekst_pct": 2.9
+    },
+    {
+      "aar": 1997,
+      "bnp_2020_priser_mia_kr": 1717,
+      "bnp_loebende_mia_kr": 1144.2,
+      "bnp_pr_indbygger_1000_kr": 216.5,
+      "realvaekst_pct": 3.2
+    },
+    {
+      "aar": 1998,
+      "bnp_2020_priser_mia_kr": 1756.9,
+      "bnp_loebende_mia_kr": 1185.2,
+      "bnp_pr_indbygger_1000_kr": 223.5,
+      "realvaekst_pct": 2.3
+    },
+    {
+      "aar": 1999,
+      "bnp_2020_priser_mia_kr": 1809.1,
+      "bnp_loebende_mia_kr": 1241,
+      "bnp_pr_indbygger_1000_kr": 233.2,
+      "realvaekst_pct": 3
+    },
+    {
+      "aar": 2000,
+      "bnp_2020_priser_mia_kr": 1876.4,
+      "bnp_loebende_mia_kr": 1326,
+      "bnp_pr_indbygger_1000_kr": 248.4,
+      "realvaekst_pct": 3.7
+    },
+    {
+      "aar": 2001,
+      "bnp_2020_priser_mia_kr": 1894.3,
+      "bnp_loebende_mia_kr": 1372.3,
+      "bnp_pr_indbygger_1000_kr": 256.2,
+      "realvaekst_pct": 1
+    },
+    {
+      "aar": 2002,
+      "bnp_2020_priser_mia_kr": 1902.9,
+      "bnp_loebende_mia_kr": 1411.5,
+      "bnp_pr_indbygger_1000_kr": 262.6,
+      "realvaekst_pct": 0.5
+    },
+    {
+      "aar": 2003,
+      "bnp_2020_priser_mia_kr": 1911.3,
+      "bnp_loebende_mia_kr": 1438.9,
+      "bnp_pr_indbygger_1000_kr": 267,
+      "realvaekst_pct": 0.4
+    },
+    {
+      "aar": 2004,
+      "bnp_2020_priser_mia_kr": 1964.4,
+      "bnp_loebende_mia_kr": 1509.7,
+      "bnp_pr_indbygger_1000_kr": 279.4,
+      "realvaekst_pct": 2.8
+    },
+    {
+      "aar": 2005,
+      "bnp_2020_priser_mia_kr": 2010.7,
+      "bnp_loebende_mia_kr": 1590.1,
+      "bnp_pr_indbygger_1000_kr": 293.5,
+      "realvaekst_pct": 2.4
+    },
+    {
+      "aar": 2006,
+      "bnp_2020_priser_mia_kr": 2087.5,
+      "bnp_loebende_mia_kr": 1685.2,
+      "bnp_pr_indbygger_1000_kr": 310,
+      "realvaekst_pct": 3.8
+    },
+    {
+      "aar": 2007,
+      "bnp_2020_priser_mia_kr": 2108.1,
+      "bnp_loebende_mia_kr": 1743.1,
+      "bnp_pr_indbygger_1000_kr": 319.2,
+      "realvaekst_pct": 1
+    },
+    {
+      "aar": 2008,
+      "bnp_2020_priser_mia_kr": 2099.3,
+      "bnp_loebende_mia_kr": 1809.7,
+      "bnp_pr_indbygger_1000_kr": 329.5,
+      "realvaekst_pct": -0.4
+    },
+    {
+      "aar": 2009,
+      "bnp_2020_priser_mia_kr": 1994.8,
+      "bnp_loebende_mia_kr": 1729.5,
+      "bnp_pr_indbygger_1000_kr": 313.2,
+      "realvaekst_pct": -5
+    },
+    {
+      "aar": 2010,
+      "bnp_2020_priser_mia_kr": 2026.4,
+      "bnp_loebende_mia_kr": 1812.9,
+      "bnp_pr_indbygger_1000_kr": 326.8,
+      "realvaekst_pct": 1.6
+    },
+    {
+      "aar": 2011,
+      "bnp_2020_priser_mia_kr": 2053,
+      "bnp_loebende_mia_kr": 1848.5,
+      "bnp_pr_indbygger_1000_kr": 331.9,
+      "realvaekst_pct": 1.3
+    },
+    {
+      "aar": 2012,
+      "bnp_2020_priser_mia_kr": 2052.9,
+      "bnp_loebende_mia_kr": 1892.9,
+      "bnp_pr_indbygger_1000_kr": 338.6,
+      "realvaekst_pct": 0
+    },
+    {
+      "aar": 2013,
+      "bnp_2020_priser_mia_kr": 2081.5,
+      "bnp_loebende_mia_kr": 1935.6,
+      "bnp_pr_indbygger_1000_kr": 344.8,
+      "realvaekst_pct": 1.4
+    },
+    {
+      "aar": 2014,
+      "bnp_2020_priser_mia_kr": 2108.1,
+      "bnp_loebende_mia_kr": 1980.3,
+      "bnp_pr_indbygger_1000_kr": 350.9,
+      "realvaekst_pct": 1.3
+    },
+    {
+      "aar": 2015,
+      "bnp_2020_priser_mia_kr": 2152.4,
+      "bnp_loebende_mia_kr": 2030.2,
+      "bnp_pr_indbygger_1000_kr": 357.3,
+      "realvaekst_pct": 2.1
+    },
+    {
+      "aar": 2016,
+      "bnp_2020_priser_mia_kr": 2218.6,
+      "bnp_loebende_mia_kr": 2101.5,
+      "bnp_pr_indbygger_1000_kr": 366.8,
+      "realvaekst_pct": 3.1
+    },
+    {
+      "aar": 2017,
+      "bnp_2020_priser_mia_kr": 2286.4,
+      "bnp_loebende_mia_kr": 2189.6,
+      "bnp_pr_indbygger_1000_kr": 379.8,
+      "realvaekst_pct": 3.1
+    },
+    {
+      "aar": 2018,
+      "bnp_2020_priser_mia_kr": 2328.9,
+      "bnp_loebende_mia_kr": 2243.5,
+      "bnp_pr_indbygger_1000_kr": 387.2,
+      "realvaekst_pct": 1.9
+    },
+    {
+      "aar": 2019,
+      "bnp_2020_priser_mia_kr": 2368.8,
+      "bnp_loebende_mia_kr": 2303.6,
+      "bnp_pr_indbygger_1000_kr": 396,
+      "realvaekst_pct": 1.7
+    },
+    {
+      "aar": 2020,
+      "bnp_2020_priser_mia_kr": 2326.6,
+      "bnp_loebende_mia_kr": 2326.6,
+      "bnp_pr_indbygger_1000_kr": 399.1,
+      "realvaekst_pct": -1.8
+    },
+    {
+      "aar": 2021,
+      "bnp_2020_priser_mia_kr": 2477.8,
+      "bnp_loebende_mia_kr": 2553.3,
+      "bnp_pr_indbygger_1000_kr": 436.1,
+      "realvaekst_pct": 6.5
+    },
+    {
+      "aar": 2022,
+      "bnp_2020_priser_mia_kr": 2488.8,
+      "bnp_loebende_mia_kr": 2831.3,
+      "bnp_pr_indbygger_1000_kr": 479.4,
+      "realvaekst_pct": 0.4
+    },
+    {
+      "aar": 2023,
+      "bnp_2020_priser_mia_kr": 2516.9,
+      "bnp_loebende_mia_kr": 2781.3,
+      "bnp_pr_indbygger_1000_kr": 467.6,
+      "realvaekst_pct": 1.1
+    },
+    {
+      "aar": 2024,
+      "bnp_2020_priser_mia_kr": 2614,
+      "bnp_loebende_mia_kr": 2985.6,
+      "bnp_pr_indbygger_1000_kr": 499.5,
+      "realvaekst_pct": 3.9
+    },
+    {
+      "aar": 2025,
+      "bnp_2020_priser_mia_kr": 2704.3,
+      "bnp_loebende_mia_kr": 3118.5,
+      "bnp_pr_indbygger_1000_kr": 519.1,
+      "realvaekst_pct": 3.5
+    }
+  ],
+  "meta": {
+    "title": "Bruttonationalprodukt (BNP) og økonomisk vækst i Danmark - Free Download",
+    "description": "Danmarks BNP i løbende og faste priser, realvækst og BNP pr. indbygger pr. år siden 1966 (Danmarks Statistik, NAN1) Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bruttonationalprodukt (BNP) og økonomisk vækst i Danmark | ListBase",
+    "seo_description": "Download Bruttonationalprodukt (BNP) og økonomisk vækst i Danmark — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/NAN1"
+    ]
+  }
+}
