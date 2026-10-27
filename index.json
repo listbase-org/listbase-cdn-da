@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:45.466Z",
-  "total_datasets": 433,
-  "total_records": 235739,
+  "generated": "2026-10-27T02:48:47.820Z",
+  "total_datasets": 434,
+  "total_records": 236033,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -3519,6 +3519,32 @@
         "xlsx": {
           "name": "da-dansk-melodi-grand-prix-vindere_DA.xlsx",
           "size": 11673
+        }
+      }
+    },
+    {
+      "id": "da-nummer-et-hits-2019-2025",
+      "name": "Nummer-et hits i Danmark 2019–2025",
+      "category": "music",
+      "record_count": 294,
+      "columns": [
+        "aar",
+        "uge",
+        "dato",
+        "sang",
+        "kunstner"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Nummer-et_hits_i_Danmark_i_2025",
+      "updated": "2026-10",
+      "size": 44280,
+      "files": {
+        "csv": {
+          "name": "da-nummer-et-hits-2019-2025_DA.csv",
+          "size": 17665
+        },
+        "xlsx": {
+          "name": "da-nummer-et-hits-2019-2025_DA.xlsx",
+          "size": 15786
         }
       }
     },
