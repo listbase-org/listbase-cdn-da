@@ -1,0 +1,170 @@
+{
+  "id": "da-robert-aarets-danske-spillefilm",
+  "name": "Robertprisen for årets danske spillefilm",
+  "title": "Robertprisen for årets danske spillefilm",
+  "description": "Vindere af Robertprisen for årets danske spillefilm med produktionsselskab, instruktør og øvrige nominerede",
+  "category": "entertainment",
+  "source": "https://da.wikipedia.org/wiki/Robert_for_årets_danske_spillefilm",
+  "source_url": "https://da.wikipedia.org/wiki/Robert_for_årets_danske_spillefilm",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "selskab",
+      "label": "Selskab",
+      "type": "string"
+    },
+    {
+      "key": "instruktoer",
+      "label": "Instruktoer",
+      "type": "string"
+    },
+    {
+      "key": "oevrige_nominerede",
+      "label": "Oevrige Nominerede",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 2010,
+      "film": "Antichrist",
+      "selskab": "Zentropa",
+      "instruktoer": "Lars von Trier",
+      "oevrige_nominerede": "Applaus Fri os fra det onde Kærestesorger Oldboys"
+    },
+    {
+      "aar": 2011,
+      "film": "R",
+      "selskab": "Nordisk Film",
+      "instruktoer": "Tobias Lindholm / Michael Noer",
+      "oevrige_nominerede": "Alting bliver godt igen Broderskab Sandheden om mænd Submarino"
+    },
+    {
+      "aar": 2012,
+      "film": "Melancholia",
+      "selskab": "Zentropa",
+      "instruktoer": "Lars von Trier",
+      "oevrige_nominerede": "Dirch En familie Rosa Morena Superclásico"
+    },
+    {
+      "aar": 2013,
+      "film": "Kapringen",
+      "selskab": "Nordisk Film",
+      "instruktoer": "Tobias Lindholm",
+      "oevrige_nominerede": "10 timer til Paradis Den skaldede frisør En kongelig affære Undskyld jeg forstyrrer"
+    },
+    {
+      "aar": 2014,
+      "film": "Jagten",
+      "selskab": "Zentropa",
+      "instruktoer": "Thomas Vinterberg",
+      "oevrige_nominerede": "Kvinden i buret Nordvest Sorg og glæde Spies & Glistrup"
+    },
+    {
+      "aar": 2015,
+      "film": "Nymphomaniac Director's Cut",
+      "selskab": "Zentropa",
+      "instruktoer": "Lars von Trier",
+      "oevrige_nominerede": "Fasandræberne Kapgang Klumpfisken Stille hjerte"
+    },
+    {
+      "aar": 2016,
+      "film": "Under sandet",
+      "selskab": "Nordisk Film",
+      "instruktoer": "Martin Zandvliet",
+      "oevrige_nominerede": "Idealisten Krigen Mænd og høns Sommeren '92"
+    },
+    {
+      "aar": 2017,
+      "film": "Der kommer en dag",
+      "selskab": "Zentropa",
+      "instruktoer": "Jesper W. Nielsen",
+      "oevrige_nominerede": "I blodet Forældre Kollektivet The Neon Demon"
+    },
+    {
+      "aar": 2018,
+      "film": "Vinterbrødre",
+      "selskab": "Masterplan Pictures",
+      "instruktoer": "Hlynur Pàlmason",
+      "oevrige_nominerede": "Den utrolige historie om den kæmpestore pære En frygtelig kvinde Mens vi lever Underverden"
+    },
+    {
+      "aar": 2019,
+      "film": "Den skyldige",
+      "selskab": "Nordisk Film Spring",
+      "instruktoer": "Gustav Möller",
+      "oevrige_nominerede": "Journal 64 Ditte & Louise Lykke-Per The House That Jack Built"
+    },
+    {
+      "aar": 2020,
+      "film": "Dronningen",
+      "selskab": "Nordisk Film",
+      "instruktoer": "May el-Toukhy",
+      "oevrige_nominerede": "Danmarks sønner Før frosten Onkel Ser du månen, Daniel"
+    },
+    {
+      "aar": 2021,
+      "film": "Druk",
+      "selskab": "Zentropa",
+      "instruktoer": "Thomas Vinterberg",
+      "oevrige_nominerede": "Shorta Retfærdighedens ryttere En helt almindelig familie Vores mand i Amerika"
+    },
+    {
+      "aar": 2022,
+      "film": "Hvor kragerne vender",
+      "selskab": "Hyæne Film",
+      "instruktoer": "Lisa Jespersen",
+      "oevrige_nominerede": "Pagten Skyggen i mit øje Margrete den Første Venuseffekten"
+    },
+    {
+      "aar": 2023,
+      "film": "Holy Spider",
+      "selskab": "Profile Pictures",
+      "instruktoer": "Ali Abbasi",
+      "oevrige_nominerede": "Speak No Evil Krysantemum Vanskabte land Du som er i himlen Rose"
+    },
+    {
+      "aar": 2024,
+      "film": "Bastarden",
+      "selskab": "Zentropa",
+      "instruktoer": "Nikolaj Arcel",
+      "oevrige_nominerede": "Ustyrlig Viften Toves værelse Den store stilhed"
+    },
+    {
+      "aar": 2025,
+      "film": "Fuld af kærlighed",
+      "selskab": "Nimbus Film",
+      "instruktoer": "Christina Rosendahl",
+      "oevrige_nominerede": "Birthday Girl Kalak Vejen hjem Vogter"
+    },
+    {
+      "aar": 2026,
+      "film": "",
+      "selskab": "",
+      "instruktoer": "",
+      "oevrige_nominerede": "Den sidste viking Det andet offer Hjem kære hjem Pigen med nålen Sauna"
+    }
+  ],
+  "meta": {
+    "title": "Robertprisen for årets danske spillefilm - Free Download",
+    "description": "Vindere af Robertprisen for årets danske spillefilm med produktionsselskab, instruktør og øvrige nominerede Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Robertprisen for årets danske spillefilm | ListBase",
+    "seo_description": "Download Robertprisen for årets danske spillefilm — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Robert_for_årets_danske_spillefilm"
+    ]
+  }
+}
