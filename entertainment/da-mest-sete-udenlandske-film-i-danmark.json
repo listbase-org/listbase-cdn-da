@@ -1,0 +1,156 @@
+{
+  "id": "da-mest-sete-udenlandske-film-i-danmark",
+  "name": "Mest sete udenlandske film i Danmark",
+  "title": "Mest sete udenlandske film i Danmark",
+  "description": "De mest sete udenlandske film i danske biografer målt på antal solgte billetter",
+  "category": "entertainment",
+  "source": "https://da.wikipedia.org/wiki/Mest_sete_danske_film",
+  "source_url": "https://da.wikipedia.org/wiki/Mest_sete_danske_film",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "placering",
+      "label": "Placering",
+      "type": "number"
+    },
+    {
+      "key": "titel",
+      "label": "Titel",
+      "type": "string"
+    },
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "produktionsland",
+      "label": "Produktionsland",
+      "type": "string"
+    },
+    {
+      "key": "solgte_billetter",
+      "label": "Solgte Billetter",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "placering": 1,
+      "titel": "Titanic",
+      "aar": 1998,
+      "produktionsland": "USA",
+      "solgte_billetter": 1430182
+    },
+    {
+      "placering": 2,
+      "titel": "Ringenes Herre - Eventyret om Ringen",
+      "aar": 2001,
+      "produktionsland": "USA",
+      "solgte_billetter": 1342519
+    },
+    {
+      "placering": 3,
+      "titel": "Ringenes Herre - Kongen vender tilbage",
+      "aar": 2003,
+      "produktionsland": "USA",
+      "solgte_billetter": 1177922
+    },
+    {
+      "placering": 4,
+      "titel": "Avatar",
+      "aar": 2009,
+      "produktionsland": "USA",
+      "solgte_billetter": 1158596
+    },
+    {
+      "placering": 5,
+      "titel": "Ringenes Herre - De to Tårne",
+      "aar": 2002,
+      "produktionsland": "USA",
+      "solgte_billetter": 1132748
+    },
+    {
+      "placering": 6,
+      "titel": "Gøgereden",
+      "aar": 1976,
+      "produktionsland": "USA",
+      "solgte_billetter": 1119769
+    },
+    {
+      "placering": 7,
+      "titel": "No Time to Die",
+      "aar": 2021,
+      "produktionsland": "Storbritannien",
+      "solgte_billetter": 1038379
+    },
+    {
+      "placering": 8,
+      "titel": "E.T. the Extra-Terrestrial",
+      "aar": 1982,
+      "produktionsland": "USA",
+      "solgte_billetter": 1018923
+    },
+    {
+      "placering": 9,
+      "titel": "Løvernes Konge",
+      "aar": 1994,
+      "produktionsland": "USA",
+      "solgte_billetter": 1016974
+    },
+    {
+      "placering": 10,
+      "titel": "Grease",
+      "aar": 1978,
+      "produktionsland": "USA",
+      "solgte_billetter": 1006102
+    },
+    {
+      "placering": 11,
+      "titel": "Mit Afrika",
+      "aar": 1986,
+      "produktionsland": "USA",
+      "solgte_billetter": 998953
+    },
+    {
+      "placering": 12,
+      "titel": "Mænd der hader kvinder",
+      "aar": 2009,
+      "produktionsland": "Sverige",
+      "solgte_billetter": 959369
+    },
+    {
+      "placering": 13,
+      "titel": "Åndernes hus",
+      "aar": 1993,
+      "produktionsland": "Tyskland",
+      "solgte_billetter": 940700
+    },
+    {
+      "placering": 14,
+      "titel": "Spectre",
+      "aar": 2015,
+      "produktionsland": "Storbritannien",
+      "solgte_billetter": 915407
+    },
+    {
+      "placering": 15,
+      "titel": "Convoy",
+      "aar": 1979,
+      "produktionsland": "USA",
+      "solgte_billetter": 890459
+    }
+  ],
+  "meta": {
+    "title": "Mest sete udenlandske film i Danmark - Free Download",
+    "description": "De mest sete udenlandske film i danske biografer målt på antal solgte billetter Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mest sete udenlandske film i Danmark | ListBase",
+    "seo_description": "Download Mest sete udenlandske film i Danmark — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Mest_sete_danske_film"
+    ]
+  }
+}
