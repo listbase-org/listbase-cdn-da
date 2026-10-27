@@ -1,0 +1,214 @@
+{
+  "id": "da-forskning-og-udvikling-pct-af-bnp",
+  "name": "Forskning og udvikling (FoU) i procent af BNP",
+  "title": "Forskning og udvikling (FoU) i procent af BNP",
+  "description": "Danmarks udgifter til forskning og udvikling i procent af BNP, i alt og fordelt på erhvervslivet og den offentlige sektor (Danmarks Statistik, CFABNP)",
+  "category": "science",
+  "source": "https://www.statistikbanken.dk/CFABNP",
+  "source_url": "https://www.statistikbanken.dk/CFABNP",
+  "updated": "2026-10",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "erhvervslivet_pct_bnp",
+      "label": "Erhvervslivet Pct Bnp",
+      "type": "number"
+    },
+    {
+      "key": "i_alt_pct_bnp",
+      "label": "I Alt Pct Bnp",
+      "type": "number"
+    },
+    {
+      "key": "offentlig_sektor_pct_bnp",
+      "label": "Offentlig Sektor Pct Bnp",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1997,
+      "erhvervslivet_pct_bnp": 1.16,
+      "i_alt_pct_bnp": 1.89,
+      "offentlig_sektor_pct_bnp": 0.73
+    },
+    {
+      "aar": 1998,
+      "erhvervslivet_pct_bnp": 1.3,
+      "i_alt_pct_bnp": 2.04,
+      "offentlig_sektor_pct_bnp": 0.74
+    },
+    {
+      "aar": 1999,
+      "erhvervslivet_pct_bnp": 1.38,
+      "i_alt_pct_bnp": 2.13,
+      "offentlig_sektor_pct_bnp": 0.75
+    },
+    {
+      "aar": 2000,
+      "erhvervslivet_pct_bnp": 1.46,
+      "i_alt_pct_bnp": 2.19,
+      "offentlig_sektor_pct_bnp": 0.73
+    },
+    {
+      "aar": 2001,
+      "erhvervslivet_pct_bnp": 1.59,
+      "i_alt_pct_bnp": 2.32,
+      "offentlig_sektor_pct_bnp": 0.73
+    },
+    {
+      "aar": 2002,
+      "erhvervslivet_pct_bnp": 1.69,
+      "i_alt_pct_bnp": 2.44,
+      "offentlig_sektor_pct_bnp": 0.76
+    },
+    {
+      "aar": 2003,
+      "erhvervslivet_pct_bnp": 1.74,
+      "i_alt_pct_bnp": 2.51,
+      "offentlig_sektor_pct_bnp": 0.78
+    },
+    {
+      "aar": 2004,
+      "erhvervslivet_pct_bnp": 1.65,
+      "i_alt_pct_bnp": 2.42,
+      "offentlig_sektor_pct_bnp": 0.77
+    },
+    {
+      "aar": 2005,
+      "erhvervslivet_pct_bnp": 1.63,
+      "i_alt_pct_bnp": 2.39,
+      "offentlig_sektor_pct_bnp": 0.76
+    },
+    {
+      "aar": 2006,
+      "erhvervslivet_pct_bnp": 1.61,
+      "i_alt_pct_bnp": 2.4,
+      "offentlig_sektor_pct_bnp": 0.79
+    },
+    {
+      "aar": 2007,
+      "erhvervslivet_pct_bnp": 1.59,
+      "i_alt_pct_bnp": 2.32,
+      "offentlig_sektor_pct_bnp": 0.74
+    },
+    {
+      "aar": 2008,
+      "erhvervslivet_pct_bnp": 1.89,
+      "i_alt_pct_bnp": 2.71,
+      "offentlig_sektor_pct_bnp": 0.82
+    },
+    {
+      "aar": 2009,
+      "erhvervslivet_pct_bnp": 2.13,
+      "i_alt_pct_bnp": 3.06,
+      "offentlig_sektor_pct_bnp": 0.92
+    },
+    {
+      "aar": 2010,
+      "erhvervslivet_pct_bnp": 1.96,
+      "i_alt_pct_bnp": 2.92,
+      "offentlig_sektor_pct_bnp": 0.96
+    },
+    {
+      "aar": 2011,
+      "erhvervslivet_pct_bnp": 1.96,
+      "i_alt_pct_bnp": 2.94,
+      "offentlig_sektor_pct_bnp": 0.98
+    },
+    {
+      "aar": 2012,
+      "erhvervslivet_pct_bnp": 1.95,
+      "i_alt_pct_bnp": 2.98,
+      "offentlig_sektor_pct_bnp": 1.03
+    },
+    {
+      "aar": 2013,
+      "erhvervslivet_pct_bnp": 1.88,
+      "i_alt_pct_bnp": 2.97,
+      "offentlig_sektor_pct_bnp": 1.09
+    },
+    {
+      "aar": 2014,
+      "erhvervslivet_pct_bnp": 1.86,
+      "i_alt_pct_bnp": 2.91,
+      "offentlig_sektor_pct_bnp": 1.06
+    },
+    {
+      "aar": 2015,
+      "erhvervslivet_pct_bnp": 1.94,
+      "i_alt_pct_bnp": 3.05,
+      "offentlig_sektor_pct_bnp": 1.12
+    },
+    {
+      "aar": 2016,
+      "erhvervslivet_pct_bnp": 2.02,
+      "i_alt_pct_bnp": 3.1,
+      "offentlig_sektor_pct_bnp": 1.08
+    },
+    {
+      "aar": 2017,
+      "erhvervslivet_pct_bnp": 1.9,
+      "i_alt_pct_bnp": 2.9,
+      "offentlig_sektor_pct_bnp": 1.1
+    },
+    {
+      "aar": 2018,
+      "erhvervslivet_pct_bnp": 1.9,
+      "i_alt_pct_bnp": 3,
+      "offentlig_sektor_pct_bnp": 1.1
+    },
+    {
+      "aar": 2019,
+      "erhvervslivet_pct_bnp": 1.8,
+      "i_alt_pct_bnp": 2.9,
+      "offentlig_sektor_pct_bnp": 1.1
+    },
+    {
+      "aar": 2020,
+      "erhvervslivet_pct_bnp": 1.83,
+      "i_alt_pct_bnp": 2.95,
+      "offentlig_sektor_pct_bnp": 1.12
+    },
+    {
+      "aar": 2021,
+      "erhvervslivet_pct_bnp": 1.75,
+      "i_alt_pct_bnp": 2.88,
+      "offentlig_sektor_pct_bnp": 1.13
+    },
+    {
+      "aar": 2022,
+      "erhvervslivet_pct_bnp": 1.73,
+      "i_alt_pct_bnp": 2.8,
+      "offentlig_sektor_pct_bnp": 1.07
+    },
+    {
+      "aar": 2023,
+      "erhvervslivet_pct_bnp": 1.92,
+      "i_alt_pct_bnp": 3.08,
+      "offentlig_sektor_pct_bnp": 1.16
+    },
+    {
+      "aar": 2024,
+      "erhvervslivet_pct_bnp": 2.01,
+      "i_alt_pct_bnp": 3.18,
+      "offentlig_sektor_pct_bnp": 1.18
+    }
+  ],
+  "meta": {
+    "title": "Forskning og udvikling (FoU) i procent af BNP - Free Download",
+    "description": "Danmarks udgifter til forskning og udvikling i procent af BNP, i alt og fordelt på erhvervslivet og den offentlige sektor (Danmarks Statistik, CFABNP) Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Forskning og udvikling (FoU) i procent af BNP | ListBase",
+    "seo_description": "Download Forskning og udvikling (FoU) i procent af BNP — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/CFABNP"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:31.028Z",
-  "total_datasets": 427,
-  "total_records": 235208,
+  "generated": "2026-10-27T02:48:33.383Z",
+  "total_datasets": 428,
+  "total_records": 235236,
   "categories": [
     {
       "id": "agriculture",
@@ -63,6 +63,10 @@
     {
       "id": "reference",
       "dataset_count": 250
+    },
+    {
+      "id": "science",
+      "dataset_count": 1
     },
     {
       "id": "society",
@@ -10455,6 +10459,31 @@
         "xlsx": {
           "name": "da-vordingborg-afstemningssteder_DA.xlsx",
           "size": 7392
+        }
+      }
+    },
+    {
+      "id": "da-forskning-og-udvikling-pct-af-bnp",
+      "name": "Forskning og udvikling (FoU) i procent af BNP",
+      "category": "science",
+      "record_count": 28,
+      "columns": [
+        "aar",
+        "erhvervslivet_pct_bnp",
+        "i_alt_pct_bnp",
+        "offentlig_sektor_pct_bnp"
+      ],
+      "source": "https://www.statistikbanken.dk/CFABNP",
+      "updated": "2026-10",
+      "size": 5529,
+      "files": {
+        "csv": {
+          "name": "da-forskning-og-udvikling-pct-af-bnp_DA.csv",
+          "size": 844
+        },
+        "xlsx": {
+          "name": "da-forskning-og-udvikling-pct-af-bnp_DA.xlsx",
+          "size": 7413
         }
       }
     },
