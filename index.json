@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:57.455Z",
-  "total_datasets": 438,
-  "total_records": 236141,
+  "generated": "2026-10-27T02:48:59.774Z",
+  "total_datasets": 439,
+  "total_records": 236152,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -1408,6 +1408,34 @@
         "xlsx": {
           "name": "da-statsejede-virksomheder_DA.xlsx",
           "size": 7588
+        }
+      }
+    },
+    {
+      "id": "da-stoerste-virksomheder",
+      "name": "Danmarks største virksomheder",
+      "category": "economy",
+      "record_count": 11,
+      "columns": [
+        "rang_forbes",
+        "navn",
+        "hovedsaede",
+        "omsaetning_mia_usd",
+        "overskud_mia_usd",
+        "ansatte",
+        "branche"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Største_virksomheder_i_Danmark",
+      "updated": "2026-10",
+      "size": 4291,
+      "files": {
+        "csv": {
+          "name": "da-stoerste-virksomheder_DA.csv",
+          "size": 828
+        },
+        "xlsx": {
+          "name": "da-stoerste-virksomheder_DA.xlsx",
+          "size": 7480
         }
       }
     },

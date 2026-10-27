@@ -1,0 +1,160 @@
+{
+  "id": "da-stoerste-virksomheder",
+  "name": "Danmarks største virksomheder",
+  "title": "Danmarks største virksomheder",
+  "description": "De største danske virksomheder på Forbes Global 2000 med hovedsæde, omsætning, overskud, antal ansatte og branche",
+  "category": "economy",
+  "source": "https://da.wikipedia.org/wiki/Største_virksomheder_i_Danmark",
+  "source_url": "https://da.wikipedia.org/wiki/Største_virksomheder_i_Danmark",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "rang_forbes",
+      "label": "Rang Forbes",
+      "type": "number"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "hovedsaede",
+      "label": "Hovedsaede",
+      "type": "string"
+    },
+    {
+      "key": "omsaetning_mia_usd",
+      "label": "Omsaetning Mia Usd",
+      "type": "number"
+    },
+    {
+      "key": "overskud_mia_usd",
+      "label": "Overskud Mia Usd",
+      "type": "number"
+    },
+    {
+      "key": "ansatte",
+      "label": "Ansatte",
+      "type": "number"
+    },
+    {
+      "key": "branche",
+      "label": "Branche",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rang_forbes": 161,
+      "navn": "A.P. Møller - Mærsk",
+      "hovedsaede": "København",
+      "omsaetning_mia_usd": 61.95,
+      "overskud_mia_usd": 18.04,
+      "ansatte": 79900,
+      "branche": "Logistik"
+    },
+    {
+      "rang_forbes": 285,
+      "navn": "Novo Nordisk",
+      "hovedsaede": "Bagsværd",
+      "omsaetning_mia_usd": 22.38,
+      "overskud_mia_usd": 7.59,
+      "ansatte": 43258,
+      "branche": "Medicin"
+    },
+    {
+      "rang_forbes": 371,
+      "navn": "Danske Bank",
+      "hovedsaede": "København",
+      "omsaetning_mia_usd": 24.8,
+      "overskud_mia_usd": 1.98,
+      "ansatte": 22006,
+      "branche": "Bank"
+    },
+    {
+      "rang_forbes": 479,
+      "navn": "DSV A/S",
+      "hovedsaede": "Hedehusene",
+      "omsaetning_mia_usd": 28.97,
+      "overskud_mia_usd": 1.78,
+      "ansatte": 61216,
+      "branche": "Transport"
+    },
+    {
+      "rang_forbes": 521,
+      "navn": "Ørsted",
+      "hovedsaede": "Fredericia",
+      "omsaetning_mia_usd": 10.99,
+      "overskud_mia_usd": 1.62,
+      "ansatte": 6526,
+      "branche": "Energi"
+    },
+    {
+      "rang_forbes": 933,
+      "navn": "Vestas Wind Systems",
+      "hovedsaede": "Aarhus",
+      "omsaetning_mia_usd": 18.42,
+      "overskud_mia_usd": 0.2,
+      "ansatte": 25541,
+      "branche": "Vindenergi"
+    },
+    {
+      "rang_forbes": 936,
+      "navn": "Carlsberg",
+      "hovedsaede": "København",
+      "omsaetning_mia_usd": 10.59,
+      "overskud_mia_usd": 1.09,
+      "ansatte": 41430,
+      "branche": "Bryggeri"
+    },
+    {
+      "rang_forbes": 1395,
+      "navn": "Coloplast",
+      "hovedsaede": "Humlebæk",
+      "omsaetning_mia_usd": 3.16,
+      "overskud_mia_usd": 0.78,
+      "ansatte": 12234,
+      "branche": "Medicin"
+    },
+    {
+      "rang_forbes": 1669,
+      "navn": "Jyske Bank",
+      "hovedsaede": "Silkeborg",
+      "omsaetning_mia_usd": 2.08,
+      "overskud_mia_usd": 0.48,
+      "ansatte": 3932,
+      "branche": "Bank"
+    },
+    {
+      "rang_forbes": 1844,
+      "navn": "Chr. Hansen Holding A/S",
+      "hovedsaede": "Hørsholm",
+      "omsaetning_mia_usd": 1.34,
+      "overskud_mia_usd": 1,
+      "ansatte": 3700,
+      "branche": "Bioteknologi"
+    },
+    {
+      "rang_forbes": 1935,
+      "navn": "Genmab",
+      "hovedsaede": "København",
+      "omsaetning_mia_usd": 1.35,
+      "overskud_mia_usd": 0.48,
+      "ansatte": 548,
+      "branche": "Bioteknologi"
+    }
+  ],
+  "meta": {
+    "title": "Danmarks største virksomheder - Free Download",
+    "description": "De største danske virksomheder på Forbes Global 2000 med hovedsæde, omsætning, overskud, antal ansatte og branche Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danmarks største virksomheder | ListBase",
+    "seo_description": "Download Danmarks største virksomheder — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Største_virksomheder_i_Danmark"
+    ]
+  }
+}
