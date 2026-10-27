@@ -1,0 +1,926 @@
+{
+  "id": "da-bryggerier",
+  "name": "Bryggerier i Danmark",
+  "title": "Bryggerier i Danmark",
+  "description": "Liste over nuværende og tidligere danske bryggerier med placering, grundlæggelsesår og eventuelt ophørsår",
+  "category": "food",
+  "source": "https://da.wikipedia.org/wiki/Bryggerier_i_Danmark",
+  "source_url": "https://da.wikipedia.org/wiki/Bryggerier_i_Danmark",
+  "updated": "2026-10",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "placering",
+      "label": "Placering",
+      "type": "string"
+    },
+    {
+      "key": "grundlagt",
+      "label": "Grundlagt",
+      "type": "number"
+    },
+    {
+      "key": "ophoert",
+      "label": "Ophoert",
+      "type": "number"
+    },
+    {
+      "key": "noter",
+      "label": "Noter",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "navn": "Abelgren & Ramvad",
+      "placering": "Ristinge",
+      "grundlagt": 2012,
+      "ophoert": 2017,
+      "noter": "Nanobryggeri"
+    },
+    {
+      "navn": "Antonii Bryggeri",
+      "placering": "Præstø",
+      "grundlagt": 1879,
+      "ophoert": 1954,
+      "noter": ""
+    },
+    {
+      "navn": "Aldersro Bryggeri",
+      "placering": "København",
+      "grundlagt": 1860,
+      "ophoert": 1884,
+      "noter": "1884 hvor det var en del af Marstrands Bryggerier, en del af De Forenede Bryggerier i 1891, overtaget af Carlsberg."
+    },
+    {
+      "navn": "Ares",
+      "placering": "Aarhus",
+      "grundlagt": 1912,
+      "ophoert": 1941,
+      "noter": ""
+    },
+    {
+      "navn": "Baggårdsbryggeriet",
+      "placering": "Holstebro",
+      "grundlagt": 2004,
+      "ophoert": 2009,
+      "noter": "Bryggeriet gik i betalingsstandsning 15. marts 2007, men oplevede en kort genoplivning i 2008-2009."
+    },
+    {
+      "navn": "HEJ. Bies Bryghus, H.I. Bie",
+      "placering": "Hobro",
+      "grundlagt": 1841,
+      "ophoert": 1980,
+      "noter": "Et nyt bryggeri er dukket op i de gamle lokaler den 19.6.2010, netop Bies Bryghus ."
+    },
+    {
+      "navn": "Boldesager",
+      "placering": "Esbjerg",
+      "grundlagt": 1896,
+      "ophoert": 1965,
+      "noter": ""
+    },
+    {
+      "navn": "Breum Bryggeri",
+      "placering": "",
+      "grundlagt": 1882,
+      "ophoert": 1971,
+      "noter": ""
+    },
+    {
+      "navn": "Bredlunds Bryghus",
+      "placering": "Slagelse",
+      "grundlagt": 2006,
+      "ophoert": 2009,
+      "noter": "Bredlunds Bryghus genopstår som Det Bette Bryghus ."
+    },
+    {
+      "navn": "Broballe Bryggeri",
+      "placering": "",
+      "grundlagt": 2009,
+      "ophoert": 2010,
+      "noter": ""
+    },
+    {
+      "navn": "Bryggeri \"f\"",
+      "placering": "",
+      "grundlagt": 1876,
+      "ophoert": 1920,
+      "noter": ""
+    },
+    {
+      "navn": "Bryggeri Hads Herred",
+      "placering": "",
+      "grundlagt": 1892,
+      "ophoert": "",
+      "noter": ""
+    },
+    {
+      "navn": "Bryggeri Heidrun",
+      "placering": "",
+      "grundlagt": 1896,
+      "ophoert": 1902,
+      "noter": ""
+    },
+    {
+      "navn": "Bryggeri Isefjorden",
+      "placering": "Frederikssund",
+      "grundlagt": 1898,
+      "ophoert": 1946,
+      "noter": ""
+    },
+    {
+      "navn": "Bryggeri Stefan",
+      "placering": "",
+      "grundlagt": 1895,
+      "ophoert": "",
+      "noter": ""
+    },
+    {
+      "navn": "Bryggeri Vejle",
+      "placering": "",
+      "grundlagt": 1858,
+      "ophoert": 1898,
+      "noter": "Del af Østjylland siden 1898."
+    },
+    {
+      "navn": "Bryggeriet Alliance",
+      "placering": "Ringsted",
+      "grundlagt": "",
+      "ophoert": 1980,
+      "noter": "Overtaget af Thor 1967, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Bryggeriet Frederiksberg",
+      "placering": "Frederiksberg",
+      "grundlagt": 1880,
+      "ophoert": 1891,
+      "noter": "Overgik til De Forenede Bryggerier i 1891/ overtaget af De Forenede Bryggerier i 1891 og lukkede samme år i 1891 og Krystalisværket 1913/1914-1964/1967."
+    },
+    {
+      "navn": "Bryggeriet Fuglsang",
+      "placering": "Haderslev",
+      "grundlagt": 1871,
+      "ophoert": 2021,
+      "noter": "Overtaget af Royal Unibrew og Mineralvandsfabrikken Frem i Ribe, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Bryggeriet Odense",
+      "placering": "Odense",
+      "grundlagt": 1876,
+      "ophoert": 1934,
+      "noter": ""
+    },
+    {
+      "navn": "Bryggeriet i Rahbeks Allé",
+      "placering": "Rahbeks Allé , Vesterbro , København",
+      "grundlagt": 1860,
+      "ophoert": 1923,
+      "noter": "I 1923 blev bryggeriet overtaget af Kongens Bryghus, i tidens løb undergik Kongens Allé på Rahbeks flere ændringer, herunder en silo blev bygget i 1956-57, senere overtaget af Carlsberg."
+    },
+    {
+      "navn": "Bryggeriet Nykøbing",
+      "placering": "Nykøbing Mors",
+      "grundlagt": 1926,
+      "ophoert": "",
+      "noter": ""
+    },
+    {
+      "navn": "Bryggeriet Rabeshave",
+      "placering": "Christianshavn , København",
+      "grundlagt": 1851,
+      "ophoert": 1905,
+      "noter": "I 1600-tallet var det Genèvebrænderi og bar for hollænderne på Amager, da de sad på hestevognene med forsyninger for at blive sejlet over til Christiansborg Slot. I midten af 1700-tallet blev Peder Rabe Holm ejer og etablerede et hvidtølsbryggeri med hans navn på."
+    },
+    {
+      "navn": "Bryggeriet Ravnsborg",
+      "placering": "Ryesgade , København",
+      "grundlagt": 1867,
+      "ophoert": 1900,
+      "noter": "Overgik til De Forenede Bryggerier i 1891. Det blev nedlagt i 1893 og solgt i 1900."
+    },
+    {
+      "navn": "Bryggeriet Slotsmøllen",
+      "placering": "Kolding",
+      "grundlagt": 1856,
+      "ophoert": 1999,
+      "noter": "Overtaget af Albani 1986, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Bryggeriet Stevns",
+      "placering": "St. Heddinge",
+      "grundlagt": 1863,
+      "ophoert": 1970,
+      "noter": "Opkøbt af Maribo Bryghus Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Bryggeriet Svanholm",
+      "placering": "Frederiksberg",
+      "grundlagt": 1853,
+      "ophoert": 1905,
+      "noter": "Bryggeriet var i 1891 en del af De forenede Bryggerier ."
+    },
+    {
+      "navn": "Bryggeriet Trekroner",
+      "placering": "Valby",
+      "grundlagt": 1899,
+      "ophoert": 1915,
+      "noter": "Hvidtølsbryggeri, maltbryggeri, overtaget af De Forenede Bryggerier ."
+    },
+    {
+      "navn": "Bryggeriet Vendia",
+      "placering": "Hjørring",
+      "grundlagt": 1883,
+      "ophoert": 1964,
+      "noter": "Overtaget af Ceres i 1964, Ceres Bryggerierne Hjørring A/S, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Brøckhouse",
+      "placering": "Hillerød",
+      "grundlagt": 2001,
+      "ophoert": "2009/2019",
+      "noter": "Igen fra 2009/2010-2011/2012"
+    },
+    {
+      "navn": "Brønderslevhus",
+      "placering": "",
+      "grundlagt": 1875,
+      "ophoert": 1988,
+      "noter": ""
+    },
+    {
+      "navn": "Carlsminde Bryggeri",
+      "placering": "Nyborg",
+      "grundlagt": 1883,
+      "ophoert": 1993,
+      "noter": "Overtaget af Albani 1986, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Coisbo Beer, Coisbo",
+      "placering": "Odense",
+      "grundlagt": 2009,
+      "ophoert": "2016/2019",
+      "noter": ""
+    },
+    {
+      "navn": "De Forenede Bryggerier",
+      "placering": "København",
+      "grundlagt": 1891,
+      "ophoert": 1969,
+      "noter": "Bestod af 11 københavnske bryggerier: Bryggeriet Alliance Bryggeriet Frederiksberg Kastrup Bryggeri Kongens Bryghus Marstrands Bryggerier ( Aldersro og Vodroffsvej) Ny Bryghus Bryggeriet Rabeshave Bryggeriet i Rahbeks Allé Bryggeriet Ravnsborg Bryggeriet Svanholm Tvedes Bryggeri"
+    },
+    {
+      "navn": "Duelund Bryggeri",
+      "placering": "",
+      "grundlagt": 2007,
+      "ophoert": 2013,
+      "noter": ""
+    },
+    {
+      "navn": "Eastcoast Brewing",
+      "placering": "",
+      "grundlagt": 2008,
+      "ophoert": 2009,
+      "noter": ""
+    },
+    {
+      "navn": "Erslev Bryggeri",
+      "placering": "",
+      "grundlagt": 1870,
+      "ophoert": 1970,
+      "noter": ""
+    },
+    {
+      "navn": "Fanø Bryggeri",
+      "placering": "Fanø",
+      "grundlagt": 1897,
+      "ophoert": 1970,
+      "noter": ""
+    },
+    {
+      "navn": "Fanø Bryghus",
+      "placering": "Fanø",
+      "grundlagt": 2006,
+      "ophoert": 2008,
+      "noter": "Lukket 2008 og genåbnet året efter med nye ejere, 2009."
+    },
+    {
+      "navn": "Fjordens Bryghus",
+      "placering": "Lyne",
+      "grundlagt": 2006,
+      "ophoert": 2012,
+      "noter": ""
+    },
+    {
+      "navn": "Fredericia Bryghus",
+      "placering": "Fredericia",
+      "grundlagt": 2008,
+      "ophoert": 2008,
+      "noter": ""
+    },
+    {
+      "navn": "Frederiksværk Bryggeri",
+      "placering": "Frederiksværk",
+      "grundlagt": 1870,
+      "ophoert": 1968,
+      "noter": ""
+    },
+    {
+      "navn": "Gislinge Bryggeri",
+      "placering": "Gislinge",
+      "grundlagt": 1899,
+      "ophoert": 1965,
+      "noter": ""
+    },
+    {
+      "navn": "Glostrup Bryggeri",
+      "placering": "Glostrup",
+      "grundlagt": 1846,
+      "ophoert": 1896,
+      "noter": "Blev i 1869 solgt til det nystiftede aktieselskab, Københavns Hvidtølsbryggerier."
+    },
+    {
+      "navn": "Graffs Bryggeri",
+      "placering": "Esbjerg",
+      "grundlagt": 1880,
+      "ophoert": 1968,
+      "noter": "Overtaget af Albani 1966, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Greenland Brewhouse",
+      "placering": "Narsaq , Grønland",
+      "grundlagt": 2004,
+      "ophoert": 2011,
+      "noter": ""
+    },
+    {
+      "navn": "Hafnia",
+      "placering": "København",
+      "grundlagt": 1898,
+      "ophoert": 1939,
+      "noter": "Bryggeriet Hafnia, hvidtølsbryggerie"
+    },
+    {
+      "navn": "Heimdal",
+      "placering": "",
+      "grundlagt": 2005,
+      "ophoert": 2007,
+      "noter": "Havde ikke eget bryggeri."
+    },
+    {
+      "navn": "Hindsholm",
+      "placering": "",
+      "grundlagt": 1900,
+      "ophoert": 1983,
+      "noter": ""
+    },
+    {
+      "navn": "Holbæk Bryghus",
+      "placering": "Holbæk",
+      "grundlagt": 2005,
+      "ophoert": 2010,
+      "noter": "Beliggende under cafeen Bryghus nr. 5."
+    },
+    {
+      "navn": "Holeby Bryggeri",
+      "placering": "Holeby",
+      "grundlagt": 1880,
+      "ophoert": 1986,
+      "noter": ""
+    },
+    {
+      "navn": "Holmegaard Bryghus",
+      "placering": "Fensmark",
+      "grundlagt": 2007,
+      "ophoert": 2008,
+      "noter": "En del af Holmegaard Glasværk ."
+    },
+    {
+      "navn": "Holtegaards Fabrikker",
+      "placering": "Vedbæk",
+      "grundlagt": 1883,
+      "ophoert": 1942,
+      "noter": ""
+    },
+    {
+      "navn": "Horsens Bajersk & Hvidtøl-Bryggeri",
+      "placering": "Horsens",
+      "grundlagt": 1858,
+      "ophoert": 1898,
+      "noter": "Horsens Bajersk & Hvidtøl-Bryggeri blev anlagt i 1858 af August Waagepetersen og fra 1874 overdraget til premierløjtnant Arnold Levy. Bryggeriet forblev i Levy familien indtil 1895, hvor den sidste Levy døde og bryggeriet blev solgt til et aktieselskab med den hidtidige brygmester Oscar Møller, som direktør. I 1898 blev bryggeriet sammenlagt med Ceres i Århus, Fæstningsbryggeriet i Fredericia og Vejle bayersk- & hvidtølsbryggeri i De Østjyske Bryggerier a/s. Horsens Bryghus eksisterer stadig og brygger bl.a. Bering Bryg, en mørk øl, tilsat c-vitamin."
+    },
+    {
+      "navn": "Horsens Bryggeri",
+      "placering": "Horsens",
+      "grundlagt": 1859,
+      "ophoert": 1993,
+      "noter": "Del af Østjylland siden 1898."
+    },
+    {
+      "navn": "Horslunde Bryggeri",
+      "placering": "",
+      "grundlagt": 1876,
+      "ophoert": 1969,
+      "noter": ""
+    },
+    {
+      "navn": "Håndbryggeriet Gjøl",
+      "placering": "Gjøl",
+      "grundlagt": 2005,
+      "ophoert": 2009,
+      "noter": "Startet i Nørresundby"
+    },
+    {
+      "navn": "Indslev Bryggeri",
+      "placering": "Nørre Aaby",
+      "grundlagt": 1897,
+      "ophoert": "2006/2018",
+      "noter": "Indslev Bryggeri blev grundlagt i 1897 og genåbnede i 2006 efter mange års lukning. Danske Ølentusiasters medlemmer kårede i 2012 Indslev Bryggeri til Årets danske bryggeri. Indslev Bryggeri (og dermed Ugly Duck Brewing Co.) gik konkurs i august 2018 grundet manglende evne til at betale kreditorer. Bryggeriet blev reddet på målstregen af en ny ejer, og efterfølgende opkøbte Bryggeriet Vestfyen aktiviteterne i 2018. Overtaget af Bryggeriet Vestfyen."
+    },
+    {
+      "navn": "Jensens Bryghus",
+      "placering": "Rårup",
+      "grundlagt": 2006,
+      "ophoert": 2009,
+      "noter": "Jensens Bryghus låg i Rårup mellem Horsens og Vejle nær Juelsminde."
+    },
+    {
+      "navn": "Jensens Bryggeri",
+      "placering": "Juelsminde",
+      "grundlagt": 2007,
+      "ophoert": 2009,
+      "noter": ""
+    },
+    {
+      "navn": "J.H. Møller",
+      "placering": "Skagen",
+      "grundlagt": 1899,
+      "ophoert": 1906,
+      "noter": ""
+    },
+    {
+      "navn": "J.H. Redeker",
+      "placering": "Fredericia",
+      "grundlagt": "",
+      "ophoert": "",
+      "noter": ""
+    },
+    {
+      "navn": "P. Kjeldgaard",
+      "placering": "Fjerritslev",
+      "grundlagt": 1887,
+      "ophoert": 1968,
+      "noter": ""
+    },
+    {
+      "navn": "Kalundborg Bryggeri",
+      "placering": "Kalundborg",
+      "grundlagt": 1853,
+      "ophoert": 1960,
+      "noter": ""
+    },
+    {
+      "navn": "Kastrup Bryggeri",
+      "placering": "Kastrup",
+      "grundlagt": 1845,
+      "ophoert": 1905,
+      "noter": "Gik 1891 til De Forenede Bryggerier."
+    },
+    {
+      "navn": "Kongens Bryghus 1452",
+      "placering": "",
+      "grundlagt": "",
+      "ophoert": "",
+      "noter": "Christian 4.s Bryghus . Indtrådt i De Forenede Bryggerier, Overtaget af Carlsberg."
+    },
+    {
+      "navn": "Københavns Bryggerier og Malterier A/S",
+      "placering": "København",
+      "grundlagt": 1898,
+      "ophoert": 1939,
+      "noter": "Senere Bryggeriet Hafnia."
+    },
+    {
+      "navn": "Lolland-Falsters Bryggeri",
+      "placering": "Nykøbing Falster",
+      "grundlagt": 1866,
+      "ophoert": 1993,
+      "noter": "Ejet af Faxe 1983-1989, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Løgstør Bryggeri",
+      "placering": "",
+      "grundlagt": 1845,
+      "ophoert": 1934,
+      "noter": ""
+    },
+    {
+      "navn": "Maribo Bryghus",
+      "placering": "Maribo",
+      "grundlagt": 1895,
+      "ophoert": 2008,
+      "noter": "Overtaget af Albani 1997, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Marstrands Bryggerier",
+      "placering": "Marstrand",
+      "grundlagt": 1865,
+      "ophoert": 1891,
+      "noter": "Marstrands Dampmølle, senere A/S Marstrands Bryggerier og Krone-Øl-Bryggeriet, hvidtølsbryggerie. Marstrands Bryggeri i 1884 købte Aldersro Bryggeri, i 1891 sluttede Marstrands Bryggeri sig til De Forenede Bryggerier og blev brugt af Vodro Kongens Bryggeriet. fra 1923, Overtaget af Carlsberg."
+    },
+    {
+      "navn": "Marrebæk Bryggeri",
+      "placering": "",
+      "grundlagt": 1911,
+      "ophoert": 1994,
+      "noter": "Opkøbt af Maribo Bryghus Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Medicibeers",
+      "placering": "",
+      "grundlagt": 2009,
+      "ophoert": 2009,
+      "noter": ""
+    },
+    {
+      "navn": "Mineralkilden Hjørring",
+      "placering": "Hjørring",
+      "grundlagt": 1938,
+      "ophoert": 1979,
+      "noter": ""
+    },
+    {
+      "navn": "Mullerup Bryggeri",
+      "placering": "Mullerup",
+      "grundlagt": 1868,
+      "ophoert": 1915,
+      "noter": "Årstal ifølge Arkiv.dk. Overtaget af Slagelse Bryghus 1911 eller 1912."
+    },
+    {
+      "navn": "Munkebo Mikrobryg",
+      "placering": "Kerteminde",
+      "grundlagt": 2013,
+      "ophoert": 2024,
+      "noter": ""
+    },
+    {
+      "navn": "Musikbryggeriet daCapo",
+      "placering": "",
+      "grundlagt": 2005,
+      "ophoert": 2009,
+      "noter": ""
+    },
+    {
+      "navn": "Neptun",
+      "placering": "Silkeborg",
+      "grundlagt": 1883,
+      "ophoert": 1990,
+      "noter": "Overtaget af De forenede Bryggerier 1973, Overtaget af Carlsberg."
+    },
+    {
+      "navn": "Nexø Bryggeri",
+      "placering": "Nexø",
+      "grundlagt": 1861,
+      "ophoert": 1978,
+      "noter": ""
+    },
+    {
+      "navn": "Nibe Bryghus",
+      "placering": "Nibe",
+      "grundlagt": 2008,
+      "ophoert": 2018,
+      "noter": "Lukket i 2015 og genåbnet i 2015."
+    },
+    {
+      "navn": "Ny Bryghus",
+      "placering": "Frederiksberg",
+      "grundlagt": 1873,
+      "ophoert": 1900,
+      "noter": "Overgik til De forenede Bryggerier i 1891."
+    },
+    {
+      "navn": "Næstved Bryggerie A/S Føniks",
+      "placering": "Næstved",
+      "grundlagt": 1889,
+      "ophoert": 1955,
+      "noter": "Navnet Føniks bruges igen fra 2006."
+    },
+    {
+      "navn": "Odder Bryggeri",
+      "placering": "Odder",
+      "grundlagt": 2006,
+      "ophoert": 2010,
+      "noter": ""
+    },
+    {
+      "navn": "Odin Bryggeriet",
+      "placering": "Viborg",
+      "grundlagt": 1832,
+      "ophoert": 1988,
+      "noter": "Overtaget af Faxe 1978, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Okkara",
+      "placering": "Velbastaður , Tórshavn , Færøerne",
+      "grundlagt": 2006,
+      "ophoert": 2020,
+      "noter": "Opkøbt og overtaget af Föroya Bjór i 2020"
+    },
+    {
+      "navn": "Otterup Bryggeri",
+      "placering": "Otterup",
+      "grundlagt": 1893,
+      "ophoert": 1940,
+      "noter": "Stoppede med at brygge ca. 1940."
+    },
+    {
+      "navn": "Pladderballe Bryghus",
+      "placering": "",
+      "grundlagt": 2012,
+      "ophoert": 2017,
+      "noter": "Baseret på Monrad & Rislunds univers."
+    },
+    {
+      "navn": "Poulsbjerg - A/S Bryggeriet Poulsbjerg",
+      "placering": "Slagelse",
+      "grundlagt": 1848,
+      "ophoert": 1963,
+      "noter": "Se note under Slagelse Bryghus."
+    },
+    {
+      "navn": "P. Holm Esbjerg",
+      "placering": "",
+      "grundlagt": 1904,
+      "ophoert": 1986,
+      "noter": "Omdøbt til Bryggeriet Rørkjær i 1936. Erhvervet af Saltum-Houlbjerg Bryggerier, Overtaget af Carlsberg."
+    },
+    {
+      "navn": "P. Nielsen",
+      "placering": "Roskilde",
+      "grundlagt": 1820,
+      "ophoert": "",
+      "noter": ""
+    },
+    {
+      "navn": "P. Pedersen",
+      "placering": "Sønderborg",
+      "grundlagt": 1852,
+      "ophoert": 1956,
+      "noter": "Købt af Albani 1956, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Pompus Fabrikkerne",
+      "placering": "Amager Landevej , Amager",
+      "grundlagt": "",
+      "ophoert": 1965,
+      "noter": "Solgt til Ceres i 1965, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Rahbeks Allé Bryggeri",
+      "placering": "",
+      "grundlagt": "",
+      "ophoert": "",
+      "noter": ""
+    },
+    {
+      "navn": "Raupach",
+      "placering": "Odder",
+      "grundlagt": 1892,
+      "ophoert": 1974,
+      "noter": ""
+    },
+    {
+      "navn": "Restorffs Bryggjarí",
+      "placering": "Thorshavn , Færøerne",
+      "grundlagt": 1849,
+      "ophoert": 2007,
+      "noter": "Nogle enkelte mærker produceredes på licens i Klaksvík af bryggeriet Föroya Bjór, der senere opkøbte mærkerne. Bryggeriet blev sat til salg i januar 2007, og ved lukningen i august 2007 bryggedes 9 forskellige øltyper. Overtaget af Föroya Bjór , Klaksvík , Færøerne ."
+    },
+    {
+      "navn": "Rosenborg Brøndanstalt",
+      "placering": "Kongens Have",
+      "grundlagt": 1831,
+      "ophoert": "1950'erne",
+      "noter": "Mineralvandsfabrik-kurbadeanstalt"
+    },
+    {
+      "navn": "Rows Mølle Bryghus",
+      "placering": "",
+      "grundlagt": 2007,
+      "ophoert": 2007,
+      "noter": ""
+    },
+    {
+      "navn": "Rønne Bryggeri",
+      "placering": "Rønne",
+      "grundlagt": 1863,
+      "ophoert": 1967,
+      "noter": ""
+    },
+    {
+      "navn": "Skovsgaard Bryggeri",
+      "placering": "",
+      "grundlagt": 1930,
+      "ophoert": 1992,
+      "noter": ""
+    },
+    {
+      "navn": "Slagelse Bryghus",
+      "placering": "Slagelse",
+      "grundlagt": 1848,
+      "ophoert": 1963,
+      "noter": "Grundlagt i 1848 som privat ejet hvidtølsbryggeri med navnet Poulsbjerg. I 1875, hvor selskabet overgår til interessentskabsform, ændres navnet til Slagelse Bryghus. I 1896 skifter bryggeriet navn til A/S Bryggeriet Poulsbjerg. I 1909/1910 ændredes navnet atter til Slagelse Bryghus. Slagelse Bryghus blev lukket i 1963."
+    },
+    {
+      "navn": "Slangerup Bryggeri",
+      "placering": "Slangerup",
+      "grundlagt": 1870,
+      "ophoert": 1914,
+      "noter": ""
+    },
+    {
+      "navn": "Slangerup Bryghus ApS",
+      "placering": "Slangerup",
+      "grundlagt": "",
+      "ophoert": 2016,
+      "noter": "Igen fra 2017 og lukket igen i 2017/2018."
+    },
+    {
+      "navn": "Slotsbryggeriet",
+      "placering": "Odense",
+      "grundlagt": 1855,
+      "ophoert": 1948,
+      "noter": "Overtaget af Albani 1948, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Small Batch Bornholm , Small Batch",
+      "placering": "Rønne",
+      "grundlagt": "",
+      "ophoert": 2026,
+      "noter": "De to lokale bryggerier Small Batch og Svaneke Bryghus slår sig nu sammen og samler kræfterne om både udvikling, drift og nye øloplevelser på Bornholm. Small Batch fusionering med Svaneke Bryghus, nyt bryggeri på Nexø-Havn i Nexø, opkøbt og overtaget af Svaneke Bryghus ."
+    },
+    {
+      "navn": "Stevns Bryggeri",
+      "placering": "",
+      "grundlagt": 2005,
+      "ophoert": 2009,
+      "noter": ""
+    },
+    {
+      "navn": "Stjernen",
+      "placering": "Frederiksberg",
+      "grundlagt": 1902,
+      "ophoert": 1964,
+      "noter": "Bryggeriet Stjernen (indtil 1920: Arbejdernes Bryggeri \"Stjernen\") eller Bryggeriarbejdernes Andelsbryggeri, I 1907 blev ejendommen på Dronning Olgas Vej helt overtaget af Arbejdernes Bryggeri, overtaget af Arbejdernes Carlsberg. Overtaget af Carlsberg."
+    },
+    {
+      "navn": "Stronzo Brewing",
+      "placering": "",
+      "grundlagt": 2011,
+      "ophoert": 2014,
+      "noter": ""
+    },
+    {
+      "navn": "Struer Bryggeri",
+      "placering": "Struer",
+      "grundlagt": 1906,
+      "ophoert": 1960,
+      "noter": ""
+    },
+    {
+      "navn": "Svendborg Bryggeri (Bryghuset Svendborg)",
+      "placering": "Svendborg",
+      "grundlagt": 1899,
+      "ophoert": 1989,
+      "noter": "Overtaget af Albani 1967, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Sønderborg Eksportbryggeri",
+      "placering": "Sønderborg",
+      "grundlagt": 1852,
+      "ophoert": 1956,
+      "noter": "Købt af Albani 1956, Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "The Man Behind",
+      "placering": "Odense",
+      "grundlagt": 2017,
+      "ophoert": 2022,
+      "noter": ""
+    },
+    {
+      "navn": "Thor",
+      "placering": "Randers",
+      "grundlagt": 1856,
+      "ophoert": 2003,
+      "noter": "Fusion med Jyske Bryggerier i 1976, Thor (bryggeri), Overtaget af Faxe bryggeri og Overtaget af Royal Unibrew i 2003."
+    },
+    {
+      "navn": "Tuborg",
+      "placering": "Hellerup",
+      "grundlagt": 1883,
+      "ophoert": 1996,
+      "noter": "Fusion med Carlsberg i 1970."
+    },
+    {
+      "navn": "Tvedes Bryggeri",
+      "placering": "Ørholm Mølle ved Kongens Lyngby",
+      "grundlagt": 1852,
+      "ophoert": 1905,
+      "noter": "Tvede i 1852 flyttede til København, indgik 1891 i De Forenede Bryggerier ."
+    },
+    {
+      "navn": "Tønder Aktie-Bryggeri",
+      "placering": "Tønder",
+      "grundlagt": 1845,
+      "ophoert": 1954,
+      "noter": ""
+    },
+    {
+      "navn": "Ugly Duck Brewing",
+      "placering": "Nørre Aaby",
+      "grundlagt": "",
+      "ophoert": 2018,
+      "noter": "Ugly Duck Brewing Co.) gik konkurs i august 2018 grundet manglende evne til at betale kreditorer. Bryggeriet blev reddet på målstregen af en ny ejer, og efterfølgende opkøbte Bryggeriet Vestfyen aktiviteterne i 2018. Overtaget af Bryggeriet Vestfyen."
+    },
+    {
+      "navn": "Urban",
+      "placering": "Aalborg",
+      "grundlagt": 1881,
+      "ophoert": 1986,
+      "noter": "Fusion med Jyske Bryggerier 1976, Urban (bryggeri), Urban – Aalborg Aktie-Bryggeri Overtaget af Faxe bryggeri og Overtaget af Royal Unibrew."
+    },
+    {
+      "navn": "Usserød Bryggeri",
+      "placering": "Usserød",
+      "grundlagt": 1859,
+      "ophoert": 1993,
+      "noter": "I 1970 stoppede produktionen af øl, mens æblemost produktionen fortsatte. I 1989 købte bryggeriet Lolland-Falster Bryghus , og bryggede derfra øl med Usserød-etiketter. I 1993 lukkede bryggeriet dog helt. Bryggeriets bygninger eksisterer endnu, men bliver benyttet til andre formål. Over taget af Royal Unibrew."
+    },
+    {
+      "navn": "Vassingerød Bryggeri",
+      "placering": "",
+      "grundlagt": 2014,
+      "ophoert": 2017,
+      "noter": ""
+    },
+    {
+      "navn": "Vejle Bryghus",
+      "placering": "Vejle",
+      "grundlagt": 2006,
+      "ophoert": 2014,
+      "noter": ""
+    },
+    {
+      "navn": "Viby Bryghus",
+      "placering": "Viby Sjælland",
+      "grundlagt": 2006,
+      "ophoert": 2008,
+      "noter": ""
+    },
+    {
+      "navn": "Wiibroe",
+      "placering": "Helsingør",
+      "grundlagt": 1840,
+      "ophoert": 1998,
+      "noter": "Overtaget af Carlsberg 1964."
+    },
+    {
+      "navn": "Ølfabrikken",
+      "placering": "Roskilde",
+      "grundlagt": 2005,
+      "ophoert": 2008,
+      "noter": "Overtaget af GourmetBryggeriet 2007/2008, Overtaget af Harboes Bryggeri ."
+    },
+    {
+      "navn": "Aabybro Bryggeri",
+      "placering": "Aabybro",
+      "grundlagt": 1904,
+      "ophoert": 1970,
+      "noter": ""
+    },
+    {
+      "navn": "Aalestrup Bryggeri",
+      "placering": "",
+      "grundlagt": 1899,
+      "ophoert": 1914,
+      "noter": "Nævnt i Krak 1910. Vestergaard."
+    }
+  ],
+  "meta": {
+    "title": "Bryggerier i Danmark - Free Download",
+    "description": "Liste over nuværende og tidligere danske bryggerier med placering, grundlæggelsesår og eventuelt ophørsår Contains 125 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bryggerier i Danmark | ListBase",
+    "seo_description": "Download Bryggerier i Danmark — 125 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 125 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Bryggerier_i_Danmark"
+    ]
+  }
+}

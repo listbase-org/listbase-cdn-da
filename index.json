@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:21.018Z",
-  "total_datasets": 423,
-  "total_records": 234893,
+  "generated": "2026-10-27T02:48:23.614Z",
+  "total_datasets": 424,
+  "total_records": 235018,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "geography",
@@ -1900,6 +1900,32 @@
         "xlsx": {
           "name": "da-bagerier_DA.xlsx",
           "size": 41701
+        }
+      }
+    },
+    {
+      "id": "da-bryggerier",
+      "name": "Bryggerier i Danmark",
+      "category": "food",
+      "record_count": 125,
+      "columns": [
+        "navn",
+        "placering",
+        "grundlagt",
+        "ophoert",
+        "noter"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Bryggerier_i_Danmark",
+      "updated": "2026-10",
+      "size": 26700,
+      "files": {
+        "csv": {
+          "name": "da-bryggerier_DA.csv",
+          "size": 13052
+        },
+        "xlsx": {
+          "name": "da-bryggerier_DA.xlsx",
+          "size": 14071
         }
       }
     },
