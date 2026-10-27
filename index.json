@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:28.654Z",
-  "total_datasets": 426,
-  "total_records": 235173,
+  "generated": "2026-10-27T02:48:31.028Z",
+  "total_datasets": 427,
+  "total_records": 235208,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -3380,6 +3380,32 @@
         "xlsx": {
           "name": "da-dansk-melodi-grand-prix-vindere_DA.xlsx",
           "size": 11673
+        }
+      }
+    },
+    {
+      "id": "da-folketingets-formaend",
+      "name": "Folketingets formænd",
+      "category": "politics",
+      "record_count": 35,
+      "columns": [
+        "fra",
+        "til",
+        "formand",
+        "parti",
+        "levetid"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Folketingets_formand",
+      "updated": "2026-10",
+      "size": 7675,
+      "files": {
+        "csv": {
+          "name": "da-folketingets-formaend_DA.csv",
+          "size": 3003
+        },
+        "xlsx": {
+          "name": "da-folketingets-formaend_DA.xlsx",
+          "size": 8627
         }
       }
     },

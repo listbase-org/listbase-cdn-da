@@ -1,0 +1,296 @@
+{
+  "id": "da-folketingets-formaend",
+  "name": "Folketingets formænd",
+  "title": "Folketingets formænd",
+  "description": "Liste over Folketingets formænd siden 1850 med tiltrædelse, fratræden, parti og levetid",
+  "category": "politics",
+  "source": "https://da.wikipedia.org/wiki/Folketingets_formand",
+  "source_url": "https://da.wikipedia.org/wiki/Folketingets_formand",
+  "updated": "2026-10",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "fra",
+      "label": "Fra",
+      "type": "string"
+    },
+    {
+      "key": "til",
+      "label": "Til",
+      "type": "string"
+    },
+    {
+      "key": "formand",
+      "label": "Formand",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "levetid",
+      "label": "Levetid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fra": "30. januar 1850",
+      "til": "3. august 1852",
+      "formand": "Carl Christoffer Georg Andræ",
+      "parti": "De Nationalliberale",
+      "levetid": "1812–1893"
+    },
+    {
+      "fra": "4. oktober 1852",
+      "til": "12. juni 1853",
+      "formand": "Johan Nicolai Madvig",
+      "parti": "De Nationalliberale",
+      "levetid": "1804–1886"
+    },
+    {
+      "fra": "13. juni 1853",
+      "til": "2. december 1859",
+      "formand": "Carl Edvard Rotwitt",
+      "parti": "Bondevennerne",
+      "levetid": "1812–1860"
+    },
+    {
+      "fra": "3. december 1859",
+      "til": "2. december 1870",
+      "formand": "Laurids Nørgaard Bregendahl",
+      "parti": "De Nationalliberale",
+      "levetid": "1811–1872"
+    },
+    {
+      "fra": "3. december 1870",
+      "til": "30. september 1883",
+      "formand": "Christopher Krabbe",
+      "parti": "Venstre",
+      "levetid": "1833–1913"
+    },
+    {
+      "fra": "1. oktober 1883",
+      "til": "2. oktober 1887",
+      "formand": "Christen Berg",
+      "parti": "Venstre",
+      "levetid": "1829–1891"
+    },
+    {
+      "fra": "3. oktober 1887",
+      "til": "16. december 1894",
+      "formand": "Sofus Høgsbro",
+      "parti": "Venstre",
+      "levetid": "1822–1902"
+    },
+    {
+      "fra": "17. december 1894",
+      "til": "16. april 1895",
+      "formand": "Rasmus Claussen",
+      "parti": "Venstre",
+      "levetid": "1835–1905"
+    },
+    {
+      "fra": "17. april 1895",
+      "til": "4. oktober 1901",
+      "formand": "Sofus Høgsbro",
+      "parti": "Venstre",
+      "levetid": "1822–1902"
+    },
+    {
+      "fra": "5. oktober 1901",
+      "til": "30. januar 1905",
+      "formand": "Herman Trier",
+      "parti": "Venstre",
+      "levetid": "1845–1925"
+    },
+    {
+      "fra": "31. januar 1905",
+      "til": "14. marts 1912",
+      "formand": "Anders Thomsen",
+      "parti": "Venstre",
+      "levetid": "1842–1920"
+    },
+    {
+      "fra": "15. marts 1912",
+      "til": "13. juni 1913",
+      "formand": "Jens Christian Christensen",
+      "parti": "Venstre",
+      "levetid": "1856–1930"
+    },
+    {
+      "fra": "14. juni 1913",
+      "til": "29. marts 1922",
+      "formand": "Niels Pedersen-Nyskov",
+      "parti": "Venstre",
+      "levetid": "1850–1922"
+    },
+    {
+      "fra": "7. april 1922",
+      "til": "10. april 1924",
+      "formand": "Jørgen Jensen-Klejs",
+      "parti": "Venstre",
+      "levetid": "1863–1947"
+    },
+    {
+      "fra": "30. april 1924",
+      "til": "24. november 1932",
+      "formand": "Hans Peter Hansen",
+      "parti": "Socialdemokratiet",
+      "levetid": "1872–1953"
+    },
+    {
+      "fra": "30. november 1932",
+      "til": "1. maj 1933",
+      "formand": "Gerhard Nielsen",
+      "parti": "Socialdemokratiet",
+      "levetid": "1871–1933"
+    },
+    {
+      "fra": "9. maj 1933",
+      "til": "30. oktober 1945",
+      "formand": "Hans Rasmussen",
+      "parti": "Socialdemokratiet",
+      "levetid": "1873–1949"
+    },
+    {
+      "fra": "22. november 1945",
+      "til": "22. februar 1950",
+      "formand": "Julius Bomholt",
+      "parti": "Socialdemokratiet",
+      "levetid": "1896–1969"
+    },
+    {
+      "fra": "23. februar 1950",
+      "til": "22. september 1964",
+      "formand": "Gustav Pedersen",
+      "parti": "Socialdemokratiet",
+      "levetid": "1893–1975"
+    },
+    {
+      "fra": "6. oktober 1964",
+      "til": "22. januar 1968",
+      "formand": "Julius Bomholt",
+      "parti": "Socialdemokratiet",
+      "levetid": "1896–1969"
+    },
+    {
+      "fra": "6. februar 1968",
+      "til": "30. september 1978",
+      "formand": "Karl Skytte",
+      "parti": "Radikale Venstre",
+      "levetid": "1908–1986"
+    },
+    {
+      "fra": "3. oktober 1978",
+      "til": "8. december 1981",
+      "formand": "Knud Børge Andersen",
+      "parti": "Socialdemokratiet",
+      "levetid": "1914–1984"
+    },
+    {
+      "fra": "22. december 1981",
+      "til": "10. januar 1989",
+      "formand": "Svend Jakobsen",
+      "parti": "Socialdemokratiet",
+      "levetid": "1935–2022"
+    },
+    {
+      "fra": "10. januar 1989",
+      "til": "3. oktober 1989",
+      "formand": "Erik Ninn-Hansen",
+      "parti": "Konservative",
+      "levetid": "1922-2014"
+    },
+    {
+      "fra": "3. oktober 1989",
+      "til": "15. januar 1993",
+      "formand": "H.P. Clausen",
+      "parti": "Konservative",
+      "levetid": "1928–1998"
+    },
+    {
+      "fra": "27. januar 1993",
+      "til": "5. oktober 1994",
+      "formand": "Henning Rasmussen",
+      "parti": "Socialdemokratiet",
+      "levetid": "1926–1997"
+    },
+    {
+      "fra": "5. oktober 1994",
+      "til": "11. marts 1998",
+      "formand": "Erling Olsen",
+      "parti": "Socialdemokratiet",
+      "levetid": "1927–2011"
+    },
+    {
+      "fra": "26. marts 1998",
+      "til": "11. marts 2003†",
+      "formand": "Ivar Hansen",
+      "parti": "Venstre",
+      "levetid": "1938–2003"
+    },
+    {
+      "fra": "18. marts 2003",
+      "til": "13. november 2007",
+      "formand": "Christian Mejdahl",
+      "parti": "Venstre",
+      "levetid": "født 1939"
+    },
+    {
+      "fra": "28. november 2007",
+      "til": "15. september 2011",
+      "formand": "Thor Pedersen",
+      "parti": "Venstre",
+      "levetid": "født 1945"
+    },
+    {
+      "fra": "4. oktober 2011",
+      "til": "18. juni 2015",
+      "formand": "Mogens Lykketoft",
+      "parti": "Socialdemokratiet",
+      "levetid": "født 1946"
+    },
+    {
+      "fra": "3. juli 2015",
+      "til": "20. juni 2019",
+      "formand": "Pia Kjærsgaard",
+      "parti": "Dansk Folkeparti",
+      "levetid": "født 1947"
+    },
+    {
+      "fra": "21. juni 2019",
+      "til": "1. november 2022",
+      "formand": "Henrik Dam Kristensen",
+      "parti": "Socialdemokratiet",
+      "levetid": "født 1957"
+    },
+    {
+      "fra": "16. november 2022",
+      "til": "6. oktober 2026",
+      "formand": "Søren Gade",
+      "parti": "Venstre",
+      "levetid": "født 1963"
+    },
+    {
+      "fra": "6. oktober 2026",
+      "til": "Nuværende",
+      "formand": "Henrik Frandsen",
+      "parti": "Moderaterne",
+      "levetid": "født 1961"
+    }
+  ],
+  "meta": {
+    "title": "Folketingets formænd - Free Download",
+    "description": "Liste over Folketingets formænd siden 1850 med tiltrædelse, fratræden, parti og levetid Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Folketingets formænd | ListBase",
+    "seo_description": "Download Folketingets formænd — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Folketingets_formand"
+    ]
+  }
+}
