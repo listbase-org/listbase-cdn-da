@@ -1,0 +1,626 @@
+{
+  "id": "da-dansk-melodi-grand-prix-vindere",
+  "name": "Vindere af Dansk Melodi Grand Prix",
+  "title": "Vindere af Dansk Melodi Grand Prix",
+  "description": "Alle vindersange i Dansk Melodi Grand Prix siden 1957 med kunstner, værtsby, placering ved Eurovision og værter",
+  "category": "music",
+  "source": "https://da.wikipedia.org/wiki/Dansk_Melodi_Grand_Prix",
+  "source_url": "https://da.wikipedia.org/wiki/Dansk_Melodi_Grand_Prix",
+  "updated": "2026-10",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "sted",
+      "label": "Sted",
+      "type": "string"
+    },
+    {
+      "key": "sang",
+      "label": "Sang",
+      "type": "string"
+    },
+    {
+      "key": "kunstner",
+      "label": "Kunstner",
+      "type": "string"
+    },
+    {
+      "key": "placering_esc",
+      "label": "Placering Esc",
+      "type": "number"
+    },
+    {
+      "key": "vaert",
+      "label": "Vaert",
+      "type": "string"
+    },
+    {
+      "key": "dato",
+      "label": "Dato",
+      "type": "string"
+    },
+    {
+      "key": "seertal",
+      "label": "Seertal",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1957,
+      "sted": "København ( Radiohuset )",
+      "sang": "Skibet skal sejle i nat",
+      "kunstner": "Gustav Winckler og Birthe Wilke",
+      "placering_esc": "3",
+      "vaert": "Volmer Sørensen",
+      "dato": "17. februar 1957",
+      "seertal": ""
+    },
+    {
+      "aar": 1958,
+      "sted": "København ( Radiohuset )",
+      "sang": "Jeg rev et blad ud af min dagbog",
+      "kunstner": "Rachel Rastenni",
+      "placering_esc": "8",
+      "vaert": "Volmer Sørensen",
+      "dato": "16. februar 1958",
+      "seertal": ""
+    },
+    {
+      "aar": 1959,
+      "sted": "København ( Radiohuset )",
+      "sang": "Uh – Jeg ville ønske jeg var dig",
+      "kunstner": "Birthe Wilke",
+      "placering_esc": "5",
+      "vaert": "Volmer Sørensen",
+      "dato": "11. februar 1959",
+      "seertal": ""
+    },
+    {
+      "aar": 1960,
+      "sted": "København ( Radiohuset )",
+      "sang": "Det var en yndig tid",
+      "kunstner": "Katy Bødtger",
+      "placering_esc": "10",
+      "vaert": "Volmer Sørensen",
+      "dato": "4. marts 1960",
+      "seertal": ""
+    },
+    {
+      "aar": 1961,
+      "sted": "Fredericia ( Fredericia Teater )",
+      "sang": "Angelique",
+      "kunstner": "Dario Campeotto",
+      "placering_esc": "5",
+      "vaert": "Volmer Sørensen",
+      "dato": "19. februar 1961",
+      "seertal": ""
+    },
+    {
+      "aar": 1962,
+      "sted": "København ( Tivolis Koncertsal )",
+      "sang": "Vuggevise",
+      "kunstner": "Ellen Winther",
+      "placering_esc": "10",
+      "vaert": "Svend Pedersen",
+      "dato": "9. februar 1962",
+      "seertal": ""
+    },
+    {
+      "aar": 1963,
+      "sted": "København ( Tivolis Koncertsal )",
+      "sang": "Dansevise",
+      "kunstner": "Grethe og Jørgen Ingmann",
+      "placering_esc": "1",
+      "vaert": "Mariane Birkelund",
+      "dato": "24. februar 1963",
+      "seertal": ""
+    },
+    {
+      "aar": 1964,
+      "sted": "København ( Tivolis Koncertsal )",
+      "sang": "Sangen om dig",
+      "kunstner": "Bjørn Tidmand",
+      "placering_esc": "9",
+      "vaert": "Bent Fabricius-Bjerre",
+      "dato": "15. februar 1964",
+      "seertal": ""
+    },
+    {
+      "aar": 1965,
+      "sted": "Lukket konkurrence",
+      "sang": "For din skyld",
+      "kunstner": "Birgit Brüel",
+      "placering_esc": "7",
+      "vaert": "Ingen værter",
+      "dato": "18. februar 1965",
+      "seertal": ""
+    },
+    {
+      "aar": 1966,
+      "sted": "København ( Tivolis Koncertsal )",
+      "sang": "Stop, mens legen er god",
+      "kunstner": "Ulla Pia",
+      "placering_esc": "14",
+      "vaert": "Anette Faaborg",
+      "dato": "6. februar 1966",
+      "seertal": ""
+    },
+    {
+      "aar": 1978,
+      "sted": "København ( Tivolis Koncertsal )",
+      "sang": "Boom Boom",
+      "kunstner": "Mabel",
+      "placering_esc": "16",
+      "vaert": "Jørgen de Mylius",
+      "dato": "25. februar 1978",
+      "seertal": ""
+    },
+    {
+      "aar": 1979,
+      "sted": "Søborg ( TV-Byen )",
+      "sang": "Disco Tango",
+      "kunstner": "Tommy Seebach",
+      "placering_esc": "6",
+      "vaert": "Jørgen de Mylius og Erling Bundgaard",
+      "dato": "3. februar 1979",
+      "seertal": ""
+    },
+    {
+      "aar": 1980,
+      "sted": "København ( Falkoner Centret )",
+      "sang": "Tænker altid på dig",
+      "kunstner": "Bamses Venner",
+      "placering_esc": "14",
+      "vaert": "Jørgen de Mylius",
+      "dato": "29. marts 1980",
+      "seertal": ""
+    },
+    {
+      "aar": 1981,
+      "sted": "København (Valencia)",
+      "sang": "Krøller eller ej",
+      "kunstner": "Tommy Seebach og Debbie Cameron",
+      "placering_esc": "11",
+      "vaert": "Jørgen de Mylius , Jarl Friis-Mikkelsen og Erling Bundgaard",
+      "dato": "28. februar 1981",
+      "seertal": ""
+    },
+    {
+      "aar": 1982,
+      "sted": "Søborg ( TV-Byen )",
+      "sang": "Video video",
+      "kunstner": "Brixx",
+      "placering_esc": "17",
+      "vaert": "Jørgen de Mylius",
+      "dato": "13. marts 1982",
+      "seertal": ""
+    },
+    {
+      "aar": 1983,
+      "sted": "Søborg ( TV-Byen )",
+      "sang": "Kloden drejer",
+      "kunstner": "Gry Johansen",
+      "placering_esc": "17",
+      "vaert": "Jørgen de Mylius",
+      "dato": "5. marts 1983",
+      "seertal": ""
+    },
+    {
+      "aar": 1984,
+      "sted": "Søborg ( TV-Byen )",
+      "sang": "Det' lige dét",
+      "kunstner": "Kirsten & Søren",
+      "placering_esc": "4",
+      "vaert": "Jørgen de Mylius",
+      "dato": "18. februar 1984",
+      "seertal": ""
+    },
+    {
+      "aar": 1985,
+      "sted": "Lyngby ( ASA Studier )",
+      "sang": "Sku' du spørg' fra no'en?",
+      "kunstner": "Hot Eyes",
+      "placering_esc": "11",
+      "vaert": "Jørgen de Mylius",
+      "dato": "9. marts 1985",
+      "seertal": ""
+    },
+    {
+      "aar": 1986,
+      "sted": "Søborg ( TV-Byen )",
+      "sang": "Du er fuld af løgn",
+      "kunstner": "Trax ( John Hatting og Lise Haavik )",
+      "placering_esc": "6",
+      "vaert": "Jørgen de Mylius",
+      "dato": "22. februar 1986",
+      "seertal": ""
+    },
+    {
+      "aar": 1987,
+      "sted": "København ( Tivolis Koncertsal )",
+      "sang": "En lille melodi",
+      "kunstner": "Anne-Cathrine Herdorff",
+      "placering_esc": "5",
+      "vaert": "Jørgen de Mylius",
+      "dato": "28. februar 1987",
+      "seertal": ""
+    },
+    {
+      "aar": 1988,
+      "sted": "Søborg ( TV-Byen )",
+      "sang": "Ka' du se hva' jeg sa'",
+      "kunstner": "Hot Eyes",
+      "placering_esc": "3",
+      "vaert": "Jørgen de Mylius",
+      "dato": "27. februar 1988",
+      "seertal": ""
+    },
+    {
+      "aar": 1989,
+      "sted": "København ( Bella Center )",
+      "sang": "Vi maler byen rød",
+      "kunstner": "Birthe Kjær",
+      "placering_esc": "3",
+      "vaert": "Jarl Friis-Mikkelsen og De Nattergale",
+      "dato": "25. marts 1989",
+      "seertal": ""
+    },
+    {
+      "aar": 1990,
+      "sted": "København ( Tivolis Koncertsal )",
+      "sang": "Hallo hallo",
+      "kunstner": "Lonnie Devantier",
+      "placering_esc": "8",
+      "vaert": "Birthe Kjær , Dario Campeotto og Zita Boye-Møller",
+      "dato": "24. marts 1990",
+      "seertal": ""
+    },
+    {
+      "aar": 1991,
+      "sted": "Århus ( Musikhuset )",
+      "sang": "Lige der hvor hjertet slår",
+      "kunstner": "Anders Frandsen",
+      "placering_esc": "19",
+      "vaert": "Mek Pek og Camilla Miehe-Renard",
+      "dato": "16. marts 1991",
+      "seertal": ""
+    },
+    {
+      "aar": 1992,
+      "sted": "Aalborg ( Aalborghallen )",
+      "sang": "Alt det, som ingen ser",
+      "kunstner": "Kenny Lübcke og Lotte Nilsson",
+      "placering_esc": "12",
+      "vaert": "Anne Herdorf og Anders Frandsen",
+      "dato": "29. februar 1992",
+      "seertal": 2506000
+    },
+    {
+      "aar": 1993,
+      "sted": "Odense ( Odense Congress Center )",
+      "sang": "Under stjernerne på himlen",
+      "kunstner": "Tommy Seebach",
+      "placering_esc": "22",
+      "vaert": "Keld Heick og Kirsten Siggaard",
+      "dato": "3. april 1993",
+      "seertal": ""
+    },
+    {
+      "aar": 1995,
+      "sted": "Søborg ( TV-Byen )",
+      "sang": "Fra Mols til Skagen",
+      "kunstner": "Aud Wilken",
+      "placering_esc": "5",
+      "vaert": "Gry de la Cour og Sidsel Agensø",
+      "dato": "25. marts 1995",
+      "seertal": ""
+    },
+    {
+      "aar": 1996,
+      "sted": "Søborg ( TV-Byen )",
+      "sang": "Kun med dig",
+      "kunstner": "Dorthe Andersen og Martin Loft",
+      "placering_esc": "(25 i semi)",
+      "vaert": "Hans Otto Bisgaard",
+      "dato": "9. marts 1996",
+      "seertal": ""
+    },
+    {
+      "aar": 1997,
+      "sted": "Søborg ( TV-Byen )",
+      "sang": "Stemmen i mit liv",
+      "kunstner": "Kølig Kaj",
+      "placering_esc": "16",
+      "vaert": "Hans Otto Bisgaard",
+      "dato": "1. marts 1997",
+      "seertal": ""
+    },
+    {
+      "aar": 1999,
+      "sted": "Søborg ( TV-Byen )",
+      "sang": "Denne gang\"/\"This Time I Mean It",
+      "kunstner": "Trine Jepsen og Michael Teschl",
+      "placering_esc": "8",
+      "vaert": "Keld Heick",
+      "dato": "13. marts 1999",
+      "seertal": 1384000
+    },
+    {
+      "aar": 2000,
+      "sted": "København ( Cirkusbygningen )",
+      "sang": "Smuk som et stjerneskud\"/\"Fly on the Wings of Love",
+      "kunstner": "Brødrene Olsen",
+      "placering_esc": "1",
+      "vaert": "Michael Carøe og Natasja Crone",
+      "dato": "19. februar 2000",
+      "seertal": 1356000
+    },
+    {
+      "aar": 2001,
+      "sted": "Herning ( Messecenter Herning )",
+      "sang": "Der står et billed' af dig på mit bord\"/\"Never Ever Let You Go",
+      "kunstner": "Rollo & King (med Signe Svendsen )",
+      "placering_esc": "2",
+      "vaert": "Keld Heick",
+      "dato": "17. februar 2001",
+      "seertal": 1998000
+    },
+    {
+      "aar": 2002,
+      "sted": "København ( Cirkusbygningen )",
+      "sang": "Vis mig, hvem du er\"/\"Tell Me Who You Are",
+      "kunstner": "Malene Winther-Mortensen",
+      "placering_esc": "24",
+      "vaert": "Michael Carøe og Signe Svendsen",
+      "dato": "9. februar 2002",
+      "seertal": 2082000
+    },
+    {
+      "aar": 2004,
+      "sted": "Århus ( Atletion )",
+      "sang": "Sig det' løgn\"/\"Shame on You",
+      "kunstner": "Tomas Thordarson",
+      "placering_esc": "(13 i semi)",
+      "vaert": "Peter Mygind og Natasja Crone",
+      "dato": "7. februar 2004",
+      "seertal": 1779000
+    },
+    {
+      "aar": 2005,
+      "sted": "Horsens ( Forum Horsens )",
+      "sang": "Tænder på dig\"/\"Talking to You",
+      "kunstner": "Jakob Sveistrup",
+      "placering_esc": "9",
+      "vaert": "Birthe Kjær og Jarl Friis-Mikkelsen",
+      "dato": "12. februar 2005",
+      "seertal": 1918000
+    },
+    {
+      "aar": 2006,
+      "sted": "Aalborg ( Gigantium )",
+      "sang": "Twist of Love",
+      "kunstner": "Sidsel Ben Semmane",
+      "placering_esc": "18",
+      "vaert": "Adam Duvå Hall og Mads Vangsø",
+      "dato": "11. februar 2006",
+      "seertal": 1652000
+    },
+    {
+      "aar": 2007,
+      "sted": "Holstebro ( Musikteatret Holstebro ) – 1.semi Aalborg ( Aalborghallen ) – 2.semi Horsens ( Forum Horsens ) – finale",
+      "sang": "Drama Queen",
+      "kunstner": "DQ",
+      "placering_esc": "(19 i semi)",
+      "vaert": "Adam Duvå Hall og Camilla Ottesen",
+      "dato": "10. februar 2007",
+      "seertal": 1492000
+    },
+    {
+      "aar": 2008,
+      "sted": "København ( DR Byen ) – 1.semi København ( DR Byen ) – 2.semi Horsens ( Forum Horsens ) – finale",
+      "sang": "All Night Long",
+      "kunstner": "Simon Mathew",
+      "placering_esc": "15",
+      "vaert": "Adam Duvå Hall og Camilla Ottesen",
+      "dato": "2. februar 2008",
+      "seertal": 1308000
+    },
+    {
+      "aar": 2009,
+      "sted": "Herning ( Messecenter Herning )",
+      "sang": "Believe Again",
+      "kunstner": "Brinck",
+      "placering_esc": "13",
+      "vaert": "Felix Smith og Birthe Kjær",
+      "dato": "31. januar 2009",
+      "seertal": 1717000
+    },
+    {
+      "aar": 2010,
+      "sted": "Aalborg ( Gigantium )",
+      "sang": "In a Moment Like This",
+      "kunstner": "Chanée & N'evergreen",
+      "placering_esc": "4",
+      "vaert": "Felix Smith og Julie Berthelsen",
+      "dato": "6. februar 2010",
+      "seertal": 1864000
+    },
+    {
+      "aar": 2011,
+      "sted": "Ballerup ( Ballerup Super Arena )",
+      "sang": "New Tomorrow",
+      "kunstner": "A Friend in London",
+      "placering_esc": "5",
+      "vaert": "Felix Smith og Lise Rønne",
+      "dato": "26. februar 2011",
+      "seertal": 1661000
+    },
+    {
+      "aar": 2012,
+      "sted": "Aalborg ( Gigantium )",
+      "sang": "Should've Known Better",
+      "kunstner": "Soluna Samay",
+      "placering_esc": "23",
+      "vaert": "Louise Wolff og Emil Thorup",
+      "dato": "21. januar 2012",
+      "seertal": 1506000
+    },
+    {
+      "aar": 2013,
+      "sted": "Herning ( Jyske Bank Boxen )",
+      "sang": "Only Teardrops",
+      "kunstner": "Emmelie de Forest",
+      "placering_esc": "1",
+      "vaert": "Louise Wolff , Lise Rønne og Sofie Lassen-Kahlke",
+      "dato": "26. januar 2013",
+      "seertal": 1704000
+    },
+    {
+      "aar": 2014,
+      "sted": "Odense ( Arena Fyn )",
+      "sang": "Cliche Love Song",
+      "kunstner": "Basim",
+      "placering_esc": "9",
+      "vaert": "Louise Wolff og Jacob Riising",
+      "dato": "8. marts 2014",
+      "seertal": 1785000
+    },
+    {
+      "aar": 2015,
+      "sted": "Aalborg ( Gigantium )",
+      "sang": "The Way You Are",
+      "kunstner": "Anti Social Media",
+      "placering_esc": "(13 i semi)",
+      "vaert": "Esben Bjerre og Jacob Riising",
+      "dato": "7. februar 2015",
+      "seertal": 1672000
+    },
+    {
+      "aar": 2016,
+      "sted": "Horsens ( Forum Horsens )",
+      "sang": "Soldiers of Love",
+      "kunstner": "Lighthouse X",
+      "placering_esc": "(17 i semi)",
+      "vaert": "Jacob Riising , Annette Heick og Hilda Heick",
+      "dato": "13. februar 2016",
+      "seertal": 1563000
+    },
+    {
+      "aar": 2017,
+      "sted": "Herning ( Jyske Bank Boxen )",
+      "sang": "Where I Am",
+      "kunstner": "Anja Nissen",
+      "placering_esc": "20",
+      "vaert": "Johannes Nymark og Annette Heick",
+      "dato": "25. februar 2017",
+      "seertal": 1443000
+    },
+    {
+      "aar": 2018,
+      "sted": "Aalborg ( Gigantium )",
+      "sang": "Higher Ground",
+      "kunstner": "Rasmussen",
+      "placering_esc": "9",
+      "vaert": "Johannes Nymark og Annette Heick",
+      "dato": "10. februar 2018",
+      "seertal": 1383000
+    },
+    {
+      "aar": 2019,
+      "sted": "Herning ( Jyske Bank Boxen )",
+      "sang": "Love is Forever",
+      "kunstner": "Leonora",
+      "placering_esc": "12",
+      "vaert": "Johannes Nymark og Kristian Gintberg",
+      "dato": "23. februar 2019",
+      "seertal": 1297000
+    },
+    {
+      "aar": 2020,
+      "sted": "København ( Royal Arena )",
+      "sang": "Yes",
+      "kunstner": "Ben & Tan",
+      "placering_esc": "—",
+      "vaert": "Rasmus Bjerg og Hella Joof",
+      "dato": "7. marts 2020",
+      "seertal": 1194000
+    },
+    {
+      "aar": 2021,
+      "sted": "København ( DR Byen )",
+      "sang": "Øve os på hinanden",
+      "kunstner": "Fyr Og Flamme",
+      "placering_esc": "(11 i semi)",
+      "vaert": "Tina Müller og Martin Brygmann",
+      "dato": "6. marts 2021",
+      "seertal": 1532000
+    },
+    {
+      "aar": 2022,
+      "sted": "Herning ( Jyske Bank Boxen )",
+      "sang": "The Show",
+      "kunstner": "Reddi",
+      "placering_esc": "(13 i semi)",
+      "vaert": "Tina Müller og Martin Brygmann",
+      "dato": "5. marts 2022",
+      "seertal": 985000
+    },
+    {
+      "aar": 2023,
+      "sted": "Næstved ( Arena Næstved )",
+      "sang": "Breaking my heart",
+      "kunstner": "Reiley",
+      "placering_esc": "(14 i semi)",
+      "vaert": "Tina Müller og Heino Hansen",
+      "dato": "11. februar 2023",
+      "seertal": 939000
+    },
+    {
+      "aar": 2024,
+      "sted": "København ( DR Koncerthuset )",
+      "sang": "Sand",
+      "kunstner": "Saba",
+      "placering_esc": "(12 i semi)",
+      "vaert": "Stéphanie Surrugue og Sara Bro",
+      "dato": "17. februar 2024",
+      "seertal": 966000
+    },
+    {
+      "aar": 2025,
+      "sted": "Herning ( Jyske Bank Boxen )",
+      "sang": "Hallucination",
+      "kunstner": "Sissal",
+      "placering_esc": "23",
+      "vaert": "Stéphanie Surrugue og Sara Bro",
+      "dato": "1. marts 2025",
+      "seertal": 810000
+    },
+    {
+      "aar": 2026,
+      "sted": "Frederikshavn ( Arena Nord )",
+      "sang": "Før vi går hjem",
+      "kunstner": "Søren Torpegaard Lund",
+      "placering_esc": "7",
+      "vaert": "Sara Bro og Alex Høgh Andersen",
+      "dato": "14. februar 2026",
+      "seertal": 784000
+    }
+  ],
+  "meta": {
+    "title": "Vindere af Dansk Melodi Grand Prix - Free Download",
+    "description": "Alle vindersange i Dansk Melodi Grand Prix siden 1957 med kunstner, værtsby, placering ved Eurovision og værter Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vindere af Dansk Melodi Grand Prix | ListBase",
+    "seo_description": "Download Vindere af Dansk Melodi Grand Prix — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Dansk_Melodi_Grand_Prix"
+    ]
+  }
+}
