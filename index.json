@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:23.614Z",
-  "total_datasets": 424,
-  "total_records": 235018,
+  "generated": "2026-10-27T02:48:26.052Z",
+  "total_datasets": 425,
+  "total_records": 235117,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tech",
@@ -10446,6 +10446,31 @@
         "xlsx": {
           "name": "da-politikredse_DA.xlsx",
           "size": 7349
+        }
+      }
+    },
+    {
+      "id": "da-danmarksmestre-i-fodbold",
+      "name": "Danmarksmestre i fodbold",
+      "category": "sports",
+      "record_count": 99,
+      "columns": [
+        "saeson",
+        "guld",
+        "soelv",
+        "bronze"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danmarksmesterskab_(fodbold)",
+      "updated": "2026-10",
+      "size": 13141,
+      "files": {
+        "csv": {
+          "name": "da-danmarksmestre-i-fodbold_DA.csv",
+          "size": 4101
+        },
+        "xlsx": {
+          "name": "da-danmarksmestre-i-fodbold_DA.xlsx",
+          "size": 9441
         }
       }
     },

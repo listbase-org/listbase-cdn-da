@@ -1,0 +1,640 @@
+{
+  "id": "da-danmarksmestre-i-fodbold",
+  "name": "Danmarksmestre i fodbold",
+  "title": "Danmarksmestre i fodbold",
+  "description": "Guld-, sølv- og bronzevindere ved Danmarksmesterskabet i fodbold for herrer gennem tiden",
+  "category": "sports",
+  "source": "https://da.wikipedia.org/wiki/Danmarksmesterskab_(fodbold)",
+  "source_url": "https://da.wikipedia.org/wiki/Danmarksmesterskab_(fodbold)",
+  "updated": "2026-10",
+  "record_count": 99,
+  "columns": [
+    {
+      "key": "saeson",
+      "label": "Saeson",
+      "type": "string"
+    },
+    {
+      "key": "guld",
+      "label": "Guld",
+      "type": "string"
+    },
+    {
+      "key": "soelv",
+      "label": "Soelv",
+      "type": "string"
+    },
+    {
+      "key": "bronze",
+      "label": "Bronze",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "saeson": "2025-26",
+      "guld": "AGF",
+      "soelv": "FC Midtjylland",
+      "bronze": "FC Nordsjælland"
+    },
+    {
+      "saeson": "2024-25",
+      "guld": "F.C. København",
+      "soelv": "FC Midtjylland",
+      "bronze": "Brøndby IF"
+    },
+    {
+      "saeson": "2023-24",
+      "guld": "FC Midtjylland",
+      "soelv": "Brøndby IF",
+      "bronze": "F.C. København"
+    },
+    {
+      "saeson": "2022-23",
+      "guld": "F.C. København",
+      "soelv": "FC Nordsjælland",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "2021-22",
+      "guld": "F.C. København",
+      "soelv": "FC Midtjylland",
+      "bronze": "Silkeborg IF"
+    },
+    {
+      "saeson": "2020-21",
+      "guld": "Brøndby IF",
+      "soelv": "FC Midtjylland",
+      "bronze": "F.C. København"
+    },
+    {
+      "saeson": "2019-20",
+      "guld": "FC Midtjylland",
+      "soelv": "F.C. København",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "2018-19",
+      "guld": "F.C. København",
+      "soelv": "FC Midtjylland",
+      "bronze": "Esbjerg fB"
+    },
+    {
+      "saeson": "2017-18",
+      "guld": "FC Midtjylland",
+      "soelv": "Brøndby IF",
+      "bronze": "FC Nordsjælland"
+    },
+    {
+      "saeson": "2016-17",
+      "guld": "F.C. København",
+      "soelv": "Brøndby IF",
+      "bronze": "Lyngby BK"
+    },
+    {
+      "saeson": "2015-16",
+      "guld": "F.C. København",
+      "soelv": "SønderjyskE",
+      "bronze": "FC Midtjylland"
+    },
+    {
+      "saeson": "2014-15",
+      "guld": "FC Midtjylland",
+      "soelv": "F.C. København",
+      "bronze": "Brøndby IF"
+    },
+    {
+      "saeson": "2013-14",
+      "guld": "AaB",
+      "soelv": "F.C. København",
+      "bronze": "FC Midtjylland"
+    },
+    {
+      "saeson": "2012-13",
+      "guld": "F.C. København",
+      "soelv": "FC Nordsjælland",
+      "bronze": "Randers FC"
+    },
+    {
+      "saeson": "2011-12",
+      "guld": "FC Nordsjælland",
+      "soelv": "F.C. København",
+      "bronze": "FC Midtjylland"
+    },
+    {
+      "saeson": "2010-11",
+      "guld": "F.C. København",
+      "soelv": "OB",
+      "bronze": "Brøndby IF"
+    },
+    {
+      "saeson": "2009-10",
+      "guld": "F.C. København",
+      "soelv": "OB",
+      "bronze": "Brøndby IF"
+    },
+    {
+      "saeson": "2008-09",
+      "guld": "F.C. København",
+      "soelv": "OB",
+      "bronze": "Brøndby IF"
+    },
+    {
+      "saeson": "2007-08",
+      "guld": "AaB",
+      "soelv": "FC Midtjylland",
+      "bronze": "F.C. København"
+    },
+    {
+      "saeson": "2006-07",
+      "guld": "F.C. København",
+      "soelv": "FC Midtjylland",
+      "bronze": "AaB"
+    },
+    {
+      "saeson": "2005-06",
+      "guld": "F.C. København",
+      "soelv": "Brøndby IF",
+      "bronze": "OB"
+    },
+    {
+      "saeson": "2004-05",
+      "guld": "Brøndby IF",
+      "soelv": "F.C. København",
+      "bronze": "FC Midtjylland"
+    },
+    {
+      "saeson": "2003-04",
+      "guld": "F.C. København",
+      "soelv": "Brøndby IF",
+      "bronze": "Esbjerg fB"
+    },
+    {
+      "saeson": "2002-03",
+      "guld": "F.C. København",
+      "soelv": "Brøndby IF",
+      "bronze": "Farum BK"
+    },
+    {
+      "saeson": "2001-02",
+      "guld": "Brøndby IF",
+      "soelv": "F.C. København",
+      "bronze": "FC Midtjylland"
+    },
+    {
+      "saeson": "2000-01",
+      "guld": "F.C. København",
+      "soelv": "Brøndby IF",
+      "bronze": "Silkeborg IF"
+    },
+    {
+      "saeson": "1999-2000",
+      "guld": "Herfølge BK",
+      "soelv": "Brøndby IF",
+      "bronze": "AB"
+    },
+    {
+      "saeson": "1998-99",
+      "guld": "AaB",
+      "soelv": "Brøndby IF",
+      "bronze": "AB"
+    },
+    {
+      "saeson": "1997-98",
+      "guld": "Brøndby IF",
+      "soelv": "Silkeborg IF",
+      "bronze": "F.C. København"
+    },
+    {
+      "saeson": "1996-97",
+      "guld": "Brøndby IF",
+      "soelv": "Vejle BK",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1995-96",
+      "guld": "Brøndby IF",
+      "soelv": "AGF",
+      "bronze": "OB"
+    },
+    {
+      "saeson": "1994-95",
+      "guld": "AaB",
+      "soelv": "Brøndby IF",
+      "bronze": "Silkeborg IF"
+    },
+    {
+      "saeson": "1993-94",
+      "guld": "Silkeborg IF",
+      "soelv": "F.C. København",
+      "bronze": "Brøndby IF"
+    },
+    {
+      "saeson": "1992-93",
+      "guld": "F.C. København",
+      "soelv": "OB",
+      "bronze": "Brøndby IF"
+    },
+    {
+      "saeson": "1991-92",
+      "guld": "Lyngby BK",
+      "soelv": "B 1903",
+      "bronze": "BK Frem"
+    },
+    {
+      "saeson": "1991",
+      "guld": "Brøndby IF",
+      "soelv": "Lyngby BK",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1990",
+      "guld": "Brøndby IF",
+      "soelv": "B 1903",
+      "bronze": "Ikast FS"
+    },
+    {
+      "saeson": "1989",
+      "guld": "OB",
+      "soelv": "Brøndby IF",
+      "bronze": "Lyngby BK"
+    },
+    {
+      "saeson": "1988",
+      "guld": "Brøndby IF",
+      "soelv": "Næstved IF",
+      "bronze": "Lyngby BK"
+    },
+    {
+      "saeson": "1987",
+      "guld": "Brøndby IF",
+      "soelv": "Ikast FS",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1986",
+      "guld": "AGF",
+      "soelv": "Brøndby IF",
+      "bronze": "Næstved IF"
+    },
+    {
+      "saeson": "1985",
+      "guld": "Brøndby IF",
+      "soelv": "Lyngby BK",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1984",
+      "guld": "Vejle BK",
+      "soelv": "AGF",
+      "bronze": "Lyngby BK"
+    },
+    {
+      "saeson": "1983",
+      "guld": "Lyngby BK",
+      "soelv": "OB",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1982",
+      "guld": "OB",
+      "soelv": "AGF",
+      "bronze": "B 1903"
+    },
+    {
+      "saeson": "1981",
+      "guld": "Hvidovre IF",
+      "soelv": "Lyngby BK",
+      "bronze": "Næstved IF"
+    },
+    {
+      "saeson": "1980",
+      "guld": "KB",
+      "soelv": "Næstved IF",
+      "bronze": "OB"
+    },
+    {
+      "saeson": "1979",
+      "guld": "Esbjerg fB",
+      "soelv": "KB",
+      "bronze": "B1903"
+    },
+    {
+      "saeson": "1978",
+      "guld": "Vejle BK",
+      "soelv": "Esbjerg fB",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1977",
+      "guld": "OB",
+      "soelv": "B 1903",
+      "bronze": "Esbjerg fB"
+    },
+    {
+      "saeson": "1976",
+      "guld": "B 1903",
+      "soelv": "BK Frem",
+      "bronze": "KB"
+    },
+    {
+      "saeson": "1975",
+      "guld": "Køge BK",
+      "soelv": "Holbæk B&I",
+      "bronze": "Næstved IF"
+    },
+    {
+      "saeson": "1974",
+      "guld": "KB",
+      "soelv": "Vejle BK",
+      "bronze": "B 1903"
+    },
+    {
+      "saeson": "1973",
+      "guld": "Hvidovre IF",
+      "soelv": "Randers Freja",
+      "bronze": "KB"
+    },
+    {
+      "saeson": "1972",
+      "guld": "Vejle BK",
+      "soelv": "B 1903",
+      "bronze": "Næstved IF"
+    },
+    {
+      "saeson": "1971",
+      "guld": "Vejle BK",
+      "soelv": "Hvidovre IF",
+      "bronze": "BK Frem"
+    },
+    {
+      "saeson": "1970",
+      "guld": "B 1903",
+      "soelv": "AB",
+      "bronze": "Hvidovre IF"
+    },
+    {
+      "saeson": "1969",
+      "guld": "B 1903",
+      "soelv": "KB",
+      "bronze": "AaB"
+    },
+    {
+      "saeson": "1968",
+      "guld": "KB",
+      "soelv": "Esbjerg fB",
+      "bronze": "BK Frem"
+    },
+    {
+      "saeson": "1967",
+      "guld": "AB",
+      "soelv": "BK Frem",
+      "bronze": "Horsens fS"
+    },
+    {
+      "saeson": "1966",
+      "guld": "Hvidovre IF",
+      "soelv": "BK Frem",
+      "bronze": "KB"
+    },
+    {
+      "saeson": "1965",
+      "guld": "Esbjerg fB",
+      "soelv": "Vejle BK",
+      "bronze": "B 1903"
+    },
+    {
+      "saeson": "1964",
+      "guld": "B 1909",
+      "soelv": "AGF",
+      "bronze": "KB"
+    },
+    {
+      "saeson": "1963",
+      "guld": "Esbjerg fB",
+      "soelv": "B 1913",
+      "bronze": "B 1903"
+    },
+    {
+      "saeson": "1962",
+      "guld": "Esbjerg fB",
+      "soelv": "B 1913",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1961",
+      "guld": "Esbjerg fB",
+      "soelv": "KB",
+      "bronze": "B 1913"
+    },
+    {
+      "saeson": "1960",
+      "guld": "AGF",
+      "soelv": "KB",
+      "bronze": "Vejle BK"
+    },
+    {
+      "saeson": "1959",
+      "guld": "B 1909",
+      "soelv": "KB",
+      "bronze": "Vejle BK"
+    },
+    {
+      "saeson": "1958",
+      "guld": "Vejle BK",
+      "soelv": "BK Frem",
+      "bronze": "OB"
+    },
+    {
+      "saeson": "1956-57",
+      "guld": "AGF",
+      "soelv": "AB",
+      "bronze": "BK Frem"
+    },
+    {
+      "saeson": "1955-56",
+      "guld": "AGF",
+      "soelv": "Esbjerg fB",
+      "bronze": "AB"
+    },
+    {
+      "saeson": "1954-55",
+      "guld": "AGF",
+      "soelv": "AB",
+      "bronze": "BK Frem"
+    },
+    {
+      "saeson": "1953-54",
+      "guld": "Køge BK",
+      "soelv": "KB",
+      "bronze": "AB"
+    },
+    {
+      "saeson": "1952-53",
+      "guld": "KB",
+      "soelv": "Skovshoved IF",
+      "bronze": "OB"
+    },
+    {
+      "saeson": "1951-52",
+      "guld": "AB",
+      "soelv": "Køge BK",
+      "bronze": "B 1909"
+    },
+    {
+      "saeson": "1950-51",
+      "guld": "AB",
+      "soelv": "OB",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1949-50",
+      "guld": "KB",
+      "soelv": "AB",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1948-49",
+      "guld": "KB",
+      "soelv": "AB",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1947-48",
+      "guld": "KB",
+      "soelv": "BK Frem",
+      "bronze": "AB"
+    },
+    {
+      "saeson": "1946-47",
+      "guld": "AB",
+      "soelv": "KB",
+      "bronze": "Fremad Amager"
+    },
+    {
+      "saeson": "1945-46",
+      "guld": "B 93",
+      "soelv": "KB",
+      "bronze": "AB"
+    },
+    {
+      "saeson": "1944-45",
+      "guld": "AB",
+      "soelv": "AGF",
+      "bronze": "BK Frem / Helsingør IF"
+    },
+    {
+      "saeson": "1943-44",
+      "guld": "BK Frem",
+      "soelv": "AB",
+      "bronze": "B 93 / B 1909"
+    },
+    {
+      "saeson": "1942-43",
+      "guld": "AB",
+      "soelv": "KB",
+      "bronze": "AGF / Esbjerg fB"
+    },
+    {
+      "saeson": "1941-42",
+      "guld": "B 93",
+      "soelv": "AB",
+      "bronze": "KB / B 1909"
+    },
+    {
+      "saeson": "1940-41",
+      "guld": "BK Frem",
+      "soelv": "Fremad Amager",
+      "bronze": "B 1903 / KFUM"
+    },
+    {
+      "saeson": "1939-40",
+      "guld": "KB",
+      "soelv": "Fremad Amager",
+      "bronze": "B 93"
+    },
+    {
+      "saeson": "1938-39",
+      "guld": "B 93",
+      "soelv": "KB",
+      "bronze": "AB"
+    },
+    {
+      "saeson": "1937-38",
+      "guld": "B 1903",
+      "soelv": "BK Frem",
+      "bronze": "KB"
+    },
+    {
+      "saeson": "1936-37",
+      "guld": "AB",
+      "soelv": "BK Frem",
+      "bronze": "B 93"
+    },
+    {
+      "saeson": "1935-36",
+      "guld": "BK Frem",
+      "soelv": "AB",
+      "bronze": "AaB"
+    },
+    {
+      "saeson": "1934-35",
+      "guld": "B 93",
+      "soelv": "BK Frem",
+      "bronze": "KB"
+    },
+    {
+      "saeson": "1933-34",
+      "guld": "B 93",
+      "soelv": "B 1903",
+      "bronze": "BK Frem"
+    },
+    {
+      "saeson": "1932-33",
+      "guld": "BK Frem",
+      "soelv": "B 1903",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1931-32",
+      "guld": "KB",
+      "soelv": "AB",
+      "bronze": "B 93"
+    },
+    {
+      "saeson": "1930-31",
+      "guld": "BK Frem",
+      "soelv": "KB",
+      "bronze": "B 93"
+    },
+    {
+      "saeson": "1929-30",
+      "guld": "B 93",
+      "soelv": "BK Frem",
+      "bronze": "B 1903"
+    },
+    {
+      "saeson": "1928-29",
+      "guld": "B 93",
+      "soelv": "KB",
+      "bronze": "AB"
+    },
+    {
+      "saeson": "1927-28",
+      "guld": "Ingen vinder",
+      "soelv": "",
+      "bronze": ""
+    }
+  ],
+  "meta": {
+    "title": "Danmarksmestre i fodbold - Free Download",
+    "description": "Guld-, sølv- og bronzevindere ved Danmarksmesterskabet i fodbold for herrer gennem tiden Contains 99 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danmarksmestre i fodbold | ListBase",
+    "seo_description": "Download Danmarksmestre i fodbold — 99 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 99 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danmarksmesterskab_(fodbold)"
+    ]
+  }
+}
