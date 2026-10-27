@@ -1,0 +1,366 @@
+{
+  "id": "da-kvaegbestanden",
+  "name": "Kvægbestanden i Danmark",
+  "title": "Kvægbestanden i Danmark",
+  "description": "Antal kvæg i Danmark fordelt på art (malkekøer, ammekøer, kalve, kvier, tyre) opgjort i 3. kvartal 2016–2026 (Danmarks Statistik, KVAEG5)",
+  "category": "agriculture",
+  "source": "https://www.statistikbanken.dk/KVAEG5",
+  "source_url": "https://www.statistikbanken.dk/KVAEG5",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "art",
+      "label": "Art",
+      "type": "string"
+    },
+    {
+      "key": "aar_2016",
+      "label": "Aar 2016",
+      "type": "number"
+    },
+    {
+      "key": "aar_2017",
+      "label": "Aar 2017",
+      "type": "number"
+    },
+    {
+      "key": "aar_2018",
+      "label": "Aar 2018",
+      "type": "number"
+    },
+    {
+      "key": "aar_2019",
+      "label": "Aar 2019",
+      "type": "number"
+    },
+    {
+      "key": "aar_2020",
+      "label": "Aar 2020",
+      "type": "number"
+    },
+    {
+      "key": "aar_2021",
+      "label": "Aar 2021",
+      "type": "number"
+    },
+    {
+      "key": "aar_2022",
+      "label": "Aar 2022",
+      "type": "number"
+    },
+    {
+      "key": "aar_2023",
+      "label": "Aar 2023",
+      "type": "number"
+    },
+    {
+      "key": "aar_2024",
+      "label": "Aar 2024",
+      "type": "number"
+    },
+    {
+      "key": "aar_2025",
+      "label": "Aar 2025",
+      "type": "number"
+    },
+    {
+      "key": "aar_2026",
+      "label": "Aar 2026",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "art": "Kvier, 1-2 år i alt",
+      "aar_2016": 271249,
+      "aar_2017": 270334,
+      "aar_2018": 259773,
+      "aar_2019": 258568,
+      "aar_2020": 255618,
+      "aar_2021": 259468,
+      "aar_2022": 263023,
+      "aar_2023": 259397,
+      "aar_2024": 250807,
+      "aar_2025": 246417,
+      "aar_2026": 238200
+    },
+    {
+      "art": "Kvier, 2 år og over, drægtige ",
+      "aar_2016": 29828,
+      "aar_2017": 29296,
+      "aar_2018": 27917,
+      "aar_2019": 25432,
+      "aar_2020": 22891,
+      "aar_2021": 21908,
+      "aar_2022": 21701,
+      "aar_2023": 21701,
+      "aar_2024": 19651,
+      "aar_2025": 18497,
+      "aar_2026": 15555
+    },
+    {
+      "art": "Kvier, 2 år og over, i alt",
+      "aar_2016": 51282,
+      "aar_2017": 51204,
+      "aar_2018": 49751,
+      "aar_2019": 46143,
+      "aar_2020": 43464,
+      "aar_2021": 41634,
+      "aar_2022": 40691,
+      "aar_2023": 40603,
+      "aar_2024": 37769,
+      "aar_2025": 36397,
+      "aar_2026": 33255
+    },
+    {
+      "art": "Kvier i alt",
+      "aar_2016": 646965,
+      "aar_2017": 639415,
+      "aar_2018": 628082,
+      "aar_2019": 621964,
+      "aar_2020": 626436,
+      "aar_2021": 633555,
+      "aar_2022": 636678,
+      "aar_2023": 627449,
+      "aar_2024": 613949,
+      "aar_2025": 602708,
+      "aar_2026": 599159
+    },
+    {
+      "art": "Malkekøer",
+      "aar_2016": 568010,
+      "aar_2017": 572804,
+      "aar_2018": 572247,
+      "aar_2019": 565739,
+      "aar_2020": 568376,
+      "aar_2021": 563527,
+      "aar_2022": 557831,
+      "aar_2023": 547467,
+      "aar_2024": 545709,
+      "aar_2025": 548752,
+      "aar_2026": 548320
+    },
+    {
+      "art": "Ammekøer",
+      "aar_2016": 97218,
+      "aar_2017": 95157,
+      "aar_2018": 89875,
+      "aar_2019": 86750,
+      "aar_2020": 84356,
+      "aar_2021": 81129,
+      "aar_2022": 74420,
+      "aar_2023": 70685,
+      "aar_2024": 66712,
+      "aar_2025": 61710,
+      "aar_2026": 62685
+    },
+    {
+      "art": "Hundyr, kvæg i alt",
+      "aar_2016": 1312193,
+      "aar_2017": 1307376,
+      "aar_2018": 1290204,
+      "aar_2019": 1274453,
+      "aar_2020": 1279168,
+      "aar_2021": 1278211,
+      "aar_2022": 1268929,
+      "aar_2023": 1245601,
+      "aar_2024": 1226370,
+      "aar_2025": 1213170,
+      "aar_2026": 1210164
+    },
+    {
+      "art": "Kvæg i alt",
+      "aar_2016": 1573406,
+      "aar_2017": 1567598,
+      "aar_2018": 1546376,
+      "aar_2019": 1515131,
+      "aar_2020": 1512196,
+      "aar_2021": 1501150,
+      "aar_2022": 1481196,
+      "aar_2023": 1447309,
+      "aar_2024": 1425321,
+      "aar_2025": 1408552,
+      "aar_2026": 1409143
+    },
+    {
+      "art": "Tyre- og studekalve, - under 1/2 år",
+      "aar_2016": 125307,
+      "aar_2017": 129623,
+      "aar_2018": 124899,
+      "aar_2019": 118015,
+      "aar_2020": 114256,
+      "aar_2021": 108415,
+      "aar_2022": 103077,
+      "aar_2023": 98980,
+      "aar_2024": 99466,
+      "aar_2025": 96918,
+      "aar_2026": 97263
+    },
+    {
+      "art": "Tyre- og studekalve, 1/2-1 år",
+      "aar_2016": 92061,
+      "aar_2017": 88573,
+      "aar_2018": 88836,
+      "aar_2019": 82408,
+      "aar_2020": 78989,
+      "aar_2021": 75962,
+      "aar_2022": 73234,
+      "aar_2023": 67300,
+      "aar_2024": 66154,
+      "aar_2025": 66848,
+      "aar_2026": 71028
+    },
+    {
+      "art": "Tyre- og studekalve i alt",
+      "aar_2016": 217368,
+      "aar_2017": 218196,
+      "aar_2018": 213735,
+      "aar_2019": 200423,
+      "aar_2020": 193245,
+      "aar_2021": 184377,
+      "aar_2022": 176311,
+      "aar_2023": 166280,
+      "aar_2024": 165620,
+      "aar_2025": 163766,
+      "aar_2026": 168291
+    },
+    {
+      "art": "Tyre og stude, 1-2 år",
+      "aar_2016": 32281,
+      "aar_2017": 30531,
+      "aar_2018": 30739,
+      "aar_2019": 28701,
+      "aar_2020": 28398,
+      "aar_2021": 26902,
+      "aar_2022": 25069,
+      "aar_2023": 24615,
+      "aar_2024": 22626,
+      "aar_2025": 21579,
+      "aar_2026": 20663
+    },
+    {
+      "art": "Tyre og stude, 2- år og over",
+      "aar_2016": 11564,
+      "aar_2017": 11495,
+      "aar_2018": 11698,
+      "aar_2019": 11554,
+      "aar_2020": 11385,
+      "aar_2021": 11660,
+      "aar_2022": 10887,
+      "aar_2023": 10813,
+      "aar_2024": 10705,
+      "aar_2025": 10037,
+      "aar_2026": 10025
+    },
+    {
+      "art": "Tyre og stude i alt",
+      "aar_2016": 43845,
+      "aar_2017": 42026,
+      "aar_2018": 42437,
+      "aar_2019": 40255,
+      "aar_2020": 39783,
+      "aar_2021": 38562,
+      "aar_2022": 35956,
+      "aar_2023": 35428,
+      "aar_2024": 33331,
+      "aar_2025": 31616,
+      "aar_2026": 30688
+    },
+    {
+      "art": "Handyr, kvæg i alt",
+      "aar_2016": 261213,
+      "aar_2017": 260222,
+      "aar_2018": 256172,
+      "aar_2019": 240678,
+      "aar_2020": 233028,
+      "aar_2021": 222939,
+      "aar_2022": 212267,
+      "aar_2023": 201708,
+      "aar_2024": 198951,
+      "aar_2025": 195382,
+      "aar_2026": 198979
+    },
+    {
+      "art": "Kviekalve, under 1/2 år",
+      "aar_2016": 166764,
+      "aar_2017": 166322,
+      "aar_2018": 167576,
+      "aar_2019": 165939,
+      "aar_2020": 171723,
+      "aar_2021": 172210,
+      "aar_2022": 174353,
+      "aar_2023": 169434,
+      "aar_2024": 168687,
+      "aar_2025": 165697,
+      "aar_2026": 170200
+    },
+    {
+      "art": "Kviekalve, 1/2-1 år",
+      "aar_2016": 157670,
+      "aar_2017": 151555,
+      "aar_2018": 150982,
+      "aar_2019": 151314,
+      "aar_2020": 155631,
+      "aar_2021": 160243,
+      "aar_2022": 158611,
+      "aar_2023": 158015,
+      "aar_2024": 156686,
+      "aar_2025": 154197,
+      "aar_2026": 157504
+    },
+    {
+      "art": "Kviekalve i alt",
+      "aar_2016": 324434,
+      "aar_2017": 317877,
+      "aar_2018": 318558,
+      "aar_2019": 317253,
+      "aar_2020": 327354,
+      "aar_2021": 332453,
+      "aar_2022": 332964,
+      "aar_2023": 327449,
+      "aar_2024": 325373,
+      "aar_2025": 319894,
+      "aar_2026": 327704
+    },
+    {
+      "art": "Kvier, 1-2 år drægtige ",
+      "aar_2016": 153201,
+      "aar_2017": 154143,
+      "aar_2018": 147578,
+      "aar_2019": 153004,
+      "aar_2020": 153580,
+      "aar_2021": 155123,
+      "aar_2022": 157350,
+      "aar_2023": 155608,
+      "aar_2024": 154398,
+      "aar_2025": 155568,
+      "aar_2026": 105811
+    },
+    {
+      "art": "Køer i alt",
+      "aar_2016": 665228,
+      "aar_2017": 667961,
+      "aar_2018": 662122,
+      "aar_2019": 652489,
+      "aar_2020": 652732,
+      "aar_2021": 644656,
+      "aar_2022": 632251,
+      "aar_2023": 618152,
+      "aar_2024": 612421,
+      "aar_2025": 610462,
+      "aar_2026": 611005
+    }
+  ],
+  "meta": {
+    "title": "Kvægbestanden i Danmark - Free Download",
+    "description": "Antal kvæg i Danmark fordelt på art (malkekøer, ammekøer, kalve, kvier, tyre) opgjort i 3. kvartal 2016–2026 (Danmarks Statistik, KVAEG5) Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kvægbestanden i Danmark | ListBase",
+    "seo_description": "Download Kvægbestanden i Danmark — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/KVAEG5"
+    ]
+  }
+}

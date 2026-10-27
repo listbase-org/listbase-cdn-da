@@ -1,12 +1,12 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:35.715Z",
-  "total_datasets": 429,
-  "total_records": 235289,
+  "generated": "2026-10-27T02:48:38.144Z",
+  "total_datasets": 430,
+  "total_records": 235309,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -120,6 +120,39 @@
         "xlsx": {
           "name": "da-animalske-landbrugsprodukter_DA.xlsx",
           "size": 7481
+        }
+      }
+    },
+    {
+      "id": "da-kvaegbestanden",
+      "name": "Kvægbestanden i Danmark",
+      "category": "agriculture",
+      "record_count": 20,
+      "columns": [
+        "art",
+        "aar_2016",
+        "aar_2017",
+        "aar_2018",
+        "aar_2019",
+        "aar_2020",
+        "aar_2021",
+        "aar_2022",
+        "aar_2023",
+        "aar_2024",
+        "aar_2025",
+        "aar_2026"
+      ],
+      "source": "https://www.statistikbanken.dk/KVAEG5",
+      "updated": "2026-10",
+      "size": 8864,
+      "files": {
+        "csv": {
+          "name": "da-kvaegbestanden_DA.csv",
+          "size": 2524
+        },
+        "xlsx": {
+          "name": "da-kvaegbestanden_DA.xlsx",
+          "size": 8491
         }
       }
     },
