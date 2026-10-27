@@ -1,0 +1,422 @@
+{
+  "id": "da-krige-med-dansk-deltagelse",
+  "name": "Krige med dansk deltagelse",
+  "title": "Krige med dansk deltagelse",
+  "description": "Krige og konflikter med dansk deltagelse eller involvering fra vikingetiden til i dag med allierede, fjender og resultat",
+  "category": "history",
+  "source": "https://da.wikipedia.org/wiki/Krige_med_dansk_deltagelse_eller_involvering",
+  "source_url": "https://da.wikipedia.org/wiki/Krige_med_dansk_deltagelse_eller_involvering",
+  "updated": "2026-10",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "allierede",
+      "label": "Allierede",
+      "type": "string"
+    },
+    {
+      "key": "fjender",
+      "label": "Fjender",
+      "type": "string"
+    },
+    {
+      "key": "resultat",
+      "label": "Resultat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "aar": "974-981",
+      "navn": "Den dansk tysk-romerske krig",
+      "allierede": "Kongeriget Danmark",
+      "fjender": "Det tysk-romerske Rige",
+      "resultat": "Tab Harald Blåtand konverterer til kristendom."
+    },
+    {
+      "aar": "Midt 980`erne",
+      "navn": "Borgerkrigen mellem Harald Blåstand og Svend Tveskæg",
+      "allierede": "Harald Blåtand",
+      "fjender": "Svend Tveskæg",
+      "resultat": "Svend Tveskæg bliver konge"
+    },
+    {
+      "aar": "999/1000",
+      "navn": "Slaget ved Svold",
+      "allierede": "Kongeriget Danmark Kongeriget Sverige",
+      "fjender": "Kongeriget Norge",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1003-1013",
+      "navn": "Svend Tveskægs hærtogter imod England",
+      "allierede": "Kongeriget Danmark",
+      "fjender": "Kongeriget England",
+      "resultat": "Sejr Svend etablere Nordsøimperiet"
+    },
+    {
+      "aar": "1014-1016",
+      "navn": "Knud den Stores invasion af England",
+      "allierede": "Kongeriget Danmark",
+      "fjender": "Kongeriget England",
+      "resultat": "Sejr Knud delvis genetablerer Nordsøimperiet"
+    },
+    {
+      "aar": "1028-1029",
+      "navn": "Knud den Stores invasion af Norge",
+      "allierede": "Kongeriget Danmark",
+      "fjender": "Norge",
+      "resultat": "Sejr Norge erobres Genetablerer Nordsøimperiet"
+    },
+    {
+      "aar": "1048-1064",
+      "navn": "Harald Hårderådes invasion af Danmark",
+      "allierede": "Kongeriget Danmark",
+      "fjender": "Kongeriget Norge",
+      "resultat": "Sejr Harald opgiver at erobre den danske krone. Danmark anerkender Harald som konge af Norge"
+    },
+    {
+      "aar": "1146-1157",
+      "navn": "Borgerkrigen mellem Svend, Knud og Valdemar",
+      "allierede": "Valdemar den Store",
+      "fjender": "Knud 5. Svend Grathe",
+      "resultat": "Valdemar blev enekonge af Danmark"
+    },
+    {
+      "aar": "1147",
+      "navn": "Vendiske korstog",
+      "allierede": "Kongeriget Danmark Kongeriget Polen Det tysk-romerske Rige",
+      "fjender": "Obotritter Lutici føderation",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1203-1290",
+      "navn": "Liviske Korstog",
+      "allierede": "Kongeriget Danmark Kongeriget Sverige Sværdbroderordenen Den Liviske Orden",
+      "fjender": "Baltiske indfødte",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1274-1275",
+      "navn": "Krigen mod Valdemar Birgersson",
+      "allierede": "Kongeriget Danmark",
+      "fjender": "Kongeriget Sverige",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1276-1278",
+      "navn": "6000-marks krigen",
+      "allierede": "Kongeriget Danmark",
+      "fjender": "Kongeriget Sverige",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1289-1295",
+      "navn": "De fredløses krig",
+      "allierede": "Kongeriget Danmark Støttet af : Mecklenburg",
+      "fjender": "Kongeriget Norge Danske fredløse",
+      "resultat": "Tab"
+    },
+    {
+      "aar": "1345",
+      "navn": "Folkeopstanden Sankt Jørgens Nat",
+      "allierede": "Kongeriget Danmark Den Liviske Orden Den Tyske Orden Øsel-Wiek bispedømme",
+      "fjender": "Revala Harria Rotalia Vironia Oeselia",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1392-1398",
+      "navn": "Krigen med Fetaljebrødre",
+      "allierede": "Kongeriget Danmark",
+      "fjender": "Fetaljebrødre",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1426-1435",
+      "navn": "Krigen om Slesvig",
+      "allierede": "Kalmarunionen Danmark Sverige Norge Støttet af : Grevskabet Pommern-Barth",
+      "fjender": "Hanseforbundet Hamburg Lübeck Lüneburg Rostock Stralsund Wismar Grevskabet Holsten-Rendsborg",
+      "resultat": "Tab"
+    },
+    {
+      "aar": "1500",
+      "navn": "Felttoget i Ditmarsken",
+      "allierede": "Kalmarunionen Danmark",
+      "fjender": "Ditmarsken",
+      "resultat": "Tab"
+    },
+    {
+      "aar": "1501-1503",
+      "navn": "Deponeringskrig mod kong Hans",
+      "allierede": "Kalmarunionen Danmark Norge",
+      "fjender": "Kongeriget Sverige",
+      "resultat": "Tab"
+    },
+    {
+      "aar": "1501-1512",
+      "navn": "Svante Nilsson Stures krig mod Danmark",
+      "allierede": "Kalmarunionen Danmark Norge",
+      "fjender": "Kongeriget Sverige Norsk oprør Lübeck",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1521-1523",
+      "navn": "Gustav Vasas oprør",
+      "allierede": "Kalmarunionen Danmark Norge",
+      "fjender": "Kongeriget Sverige",
+      "resultat": "Tab. Sverige udtræder af Kalmarunionen og Gustav Vasa bliver konge af Sverige."
+    },
+    {
+      "aar": "1534-1536",
+      "navn": "Grevens Fejde",
+      "allierede": "Christian 3. Hertugdømmet Slesvig Hertugdømmet Holsten Kongeriget Sverige Hertugdømmet Preussen Jylland",
+      "fjender": "Christian 2. Grevskabet Oldenborg Lübeck Skåne Malmø København Sjælland",
+      "resultat": "Reformationen i Danmark Borgerkrig i Danmark. Styrkerne ledet af den protestantiske Christian 3. sejrer."
+    },
+    {
+      "aar": "1558-1583",
+      "navn": "Den livlandske krig",
+      "allierede": "Livlandske konføderation Kongeriget Sverige Danmark-Norge Polen-Litauen",
+      "fjender": "Zar-Rusland Kongedømmet Livland",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1559",
+      "navn": "Den sidste fejde",
+      "allierede": "Danmark-Norge Hertugdømmerne Slesvig-Holsten-Haderslev Slesvig-Holsten-Gottorp",
+      "fjender": "Ditmarsken",
+      "resultat": "Sejr Bonderepublikken bliver erobret"
+    },
+    {
+      "aar": "1563-1570",
+      "navn": "Den Nordiske Syvårskrig",
+      "allierede": "Danmark-Norge Polen-Litauen Lübeck",
+      "fjender": "Kongeriget Sverige",
+      "resultat": "Status quo ante bellum"
+    },
+    {
+      "aar": "1571",
+      "navn": "Søslaget nær Hel",
+      "allierede": "Kongeriget Danmark",
+      "fjender": "Polen-Litauen",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1611-1613",
+      "navn": "Kalmarkrigen",
+      "allierede": "Kongeriget Danmark",
+      "fjender": "Kongeriget Sverige",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1618-1648",
+      "navn": "Trediveårskrigen",
+      "allierede": "Forenede Nederlande Kongeriget Sverige Bøhmen Danmark-Norge (1625-1629) Kongeriget Frankrig Sachsen Braunschweig-Lüneburg England Brandenburg-Preussen Transsylvanien Ungarske anti-Habsburgskske-oprører Saporoger-kosakker Osmanniske Rige",
+      "fjender": "Tysk-romerske rige Den Katolske Liga Østrig Bayern Kongeriget Ungarn Kongeriget Kroatien Spanien og dets besiddelser Danmark (1643-1645)",
+      "resultat": ""
+    },
+    {
+      "aar": "1625-1629",
+      "navn": "Kejserkrigen",
+      "allierede": "Danmark-Norge Hertugdømmerne",
+      "fjender": "Den Katolske Liga",
+      "resultat": "Tab Freden i Lübeck"
+    },
+    {
+      "aar": "1643-1645",
+      "navn": "Torstenssonfejden",
+      "allierede": "Danmark-Norge",
+      "fjender": "Kongeriget Sverige",
+      "resultat": "Tab"
+    },
+    {
+      "aar": "1657-1660",
+      "navn": "Karl Gustav-krigene",
+      "allierede": "Danmark-Norge",
+      "fjender": "Kongeriget Sverige",
+      "resultat": "Tab Danmark-Norge mister Skåne, Halland og Blekinge til Sverige."
+    },
+    {
+      "aar": "1672-1678",
+      "navn": "Den fransk-hollandske krig",
+      "allierede": "Danmark-Norge Forenede Nederlande Brandenburg Habsburgske østrig Spanien Lorraine",
+      "fjender": "Kongeriget Frankrig England Fyrstbispedømmet Münster Kurfyrstendømmet Köln Sverige",
+      "resultat": ""
+    },
+    {
+      "aar": "1675-1679",
+      "navn": "Den skånske krig",
+      "allierede": "Danmark-Norge",
+      "fjender": "Kongeriget Sverige",
+      "resultat": "Status quo ante bellum"
+    },
+    {
+      "aar": "1700-1721",
+      "navn": "Den Store Nordiske Krig",
+      "allierede": "Rusland Danmark-Norge ( 1700 , 1709 –) Polen-Litauen ( 1700 – 04 , 1709 –) Sachsen ( 1700 – 06 , 1709 –) Det kosakkiske hetmanat ( 1700 – 08 ) Preussen ( 1715 –) Hannover ( 1715 -) Storbritannien ( 1717 – 19 )",
+      "fjender": "Kongeriget Sverige Holstein-Gottorp Polen-Litauen ( 1704 – 09 ) Osmanniske rige ( 1710 – 14 ) Det kosakkiske hetmanat (1708–09) Storbritannien ( 1700 , 1719 – 21 )",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1769-1772",
+      "navn": "Den Algierske Ekspedition",
+      "allierede": "Danmark-Norge",
+      "fjender": "Algeriet",
+      "resultat": "Tab"
+    },
+    {
+      "aar": "1788",
+      "navn": "Tyttebærkrigen",
+      "allierede": "Danmark-Norge Rusland",
+      "fjender": "Kongeriget Sverige",
+      "resultat": "Status quo ante bellum"
+    },
+    {
+      "aar": "1788-1790",
+      "navn": "Den russisk-svenske krig",
+      "allierede": "Danmark-Norge Rusland",
+      "fjender": "Kongeriget Sverige",
+      "resultat": "Status quo ante bellum"
+    },
+    {
+      "aar": "1797",
+      "navn": "Søslaget ved Tripoli",
+      "allierede": "Danmark-Norge",
+      "fjender": "Tripolitania",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1799-1802",
+      "navn": "Anden koalitionskrig",
+      "allierede": "Danmark-Norge Første franske republik polske legioner Den romerske republik Bataviske Republik Cisalpinske Republik Parthenopæiske Republik Den helvetiske republik",
+      "fjender": "Det Forenede Kongerige Storbritannien Ærkehertugdømmet Østrig Det Russiske Kejserrige Kongeriget Portugal Kongeriget Napoli Storhertugdømmet Toscana Johanniterordenen Osmanniske rige Franske royalister",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1801-1814",
+      "navn": "Englandskrigene",
+      "allierede": "Kongeriget Danmark Franske Kejserdømme Spanien",
+      "fjender": "Kongeriget Sverige Det Forenede Kongerige Storbritannien",
+      "resultat": "Tab"
+    },
+    {
+      "aar": "1803-1813",
+      "navn": "Napoleonskrigene",
+      "allierede": "Franske Kejserdømme Holland Kongeriget Italien Etrurien Napoli Hertugdømmet Warszawa Rhinforbundet : Bayern Sachsen Westfalen Württemberg Danmark-Norge",
+      "fjender": "Østrig Rusland Preussen Det Forenede Kongerige Storbritannien Spanien Portugal Sicilien Sardinien Sverige Kurfyrstedømmet Braunschweig-Lüneburg",
+      "resultat": "Tab Danmark taber Norge til Sverige"
+    },
+    {
+      "aar": "1808-1809",
+      "navn": "Den Dansk-Svenske Krig",
+      "allierede": "Kongeriget Danmark Franske Kejserdømme",
+      "fjender": "Kongeriget Sverige Det Forenede Kongerige Storbritannien",
+      "resultat": "Status quo ante bellum"
+    },
+    {
+      "aar": "1848-1850",
+      "navn": "1. Slesvigske krig",
+      "allierede": "Kongeriget Danmark",
+      "fjender": "Slesvig-Holsten Det Tyske Forbund",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1864",
+      "navn": "2. Slesvigske Krig",
+      "allierede": "Kongeriget Danmark",
+      "fjender": "Preussen Kejserriget Østrig",
+      "resultat": "Tab Kongeriget Danmark mister Slesvig , Holsten og Lauenborg ."
+    },
+    {
+      "aar": "1940-1945",
+      "navn": "2. Verdenskrig",
+      "allierede": "Kongeriget Danmark (1940) Danskere imod besættelsen Modstandsbevægelsen Churchill-klubben (1940-) De frie Danske (1940-) Ringen (1941-) Danmarks Kommunistiske Parti (1941-) KOPA (1942-) Frit Danmark (1942-) Holger Danske (1943-) Hvidstengruppen (1943-1944) Dansk Samling (1943-) Danmarks Frihedsråd (1943-) Andre modstandsorganisationer Frivillige i allieret tjeneste Britiske Imperium New Zealand Australien Canada Tredje franske republik (1939-1940) Frie Frankrig (1940-) Polen USA Filippinerne Sovjetunionen Folkerepublikken Tuva Folkerepublikken Mongoliet Republikken Kina Kuomintang Kinas kommunistiske parti Kongeriget Jugoslavien Norge Nederlandene Belgien Luxembourg Grækenland Tjekkoslovakiet Brasilien Mexico Colombia Etiopien Kongeriget Italien (1943-1945)",
+      "fjender": "Danmark under samarbejdspolitikken (1940-1943) Nazi-Tyskland Rigsprotektorat Bøhmen og Mæhren Vichy-Frankrig (1940-1944) Quisling regeringen Republikken Slovakiet Den Uafhængige Stat Kroatien / Ustashe Kro atien Den russiske befrielseshær Den hellenske stat Den italienske socialrepublik (1943-) Danskere i Tysk tjenste Frikops Danmark (1941-1943) Schalburgkorpset (1943-) Petergruppen (1943-) HIPO (1944-) Kongeriget Italien (1939-1943) Kongeriget Albanien Kejserriget Japan Manchukuo Mengjiang Republikken Kinas reformerede regering Staten Burma Kongeriget Bulgarien Kongeriget Rumænien Kongeriget Ungarn Finland Kongeriget Irak Thailand Støttet af: Den spanske stat",
+      "resultat": ""
+    },
+    {
+      "aar": "1950-1953",
+      "navn": "Koreakrigen",
+      "allierede": "Republikken Korea Storbritannien USA Australien Belgien Canada Colombia Etiopien Frankrig Grækenland Nederlandene Filippinerne Sydafrika Thailand Tyrkiet Lægeligt støtte: Danmark Indien Italien Norge Sverige",
+      "fjender": "Den Demokratiske Folkerepublik Korea Folkerepublikken Kina Sovjetunionen Lægeligt støtte: Bulgarien Polen Rumænien Tjekkoslovakiet",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1990-1991",
+      "navn": "Golfkrigen",
+      "allierede": "USA Storbritannien Republikken Korea Spanien Kongeriget Sverige Kongeriget Danmark Kongeriget Norge Argentina Australien Belgien Canada Tjekkoslovakiet Eqypten Frankrig Grækenland Ungarn Italien Kuwait Marokko Holland New Zealand Niger Oman Polen Pakistan Qatar Saudi Arabien Senegal Syrien Forenede Arabiske Emirater",
+      "fjender": "Irak",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1991-1995",
+      "navn": "Krigen i Bosnien-Hercegovina",
+      "allierede": "Kroatien Bosnien-Hercegovina NATO",
+      "fjender": "Den Serbiske Republik Krajina Jugoslavien Republika Srpska",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "1998-1999",
+      "navn": "Kosovokrigen",
+      "allierede": "Albanien Kosovo NATO",
+      "fjender": "Jugoslavien",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "2001- 2021",
+      "navn": "Krigen i Afghanistan",
+      "allierede": "Afghanistan Den Nordlige Alliance Forenede Nationer :",
+      "fjender": "Taliban al-Qaeda Usbekistans islamiske bevægelse Hezbi Islami",
+      "resultat": "Tab Taliban genvinder kontrol over Afghanistan."
+    },
+    {
+      "aar": "2003-2011",
+      "navn": "Irakkrigen",
+      "allierede": "Den nye irakiske hær Kurdiske tropper USA Storbritannien Kongeriget Danmark Andre lande fra koalitionen",
+      "fjender": "Saddam Husseins Irak (Post-Saddam konflikt) Baath tilhængere Mahdi-militsen Irakisk al-Qaeda og andre oprørsgrupper",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "2009-2016",
+      "navn": "Operation Ocean Shield",
+      "allierede": "Belgien Canada Danmark Grækenland Holland Italien Norge Portugal Spanien Storbritannien Tyrkiet Tyskland USA New Zealand Ukraine",
+      "fjender": "Somaliske pirater",
+      "resultat": "Sejr"
+    },
+    {
+      "aar": "2014-2019",
+      "navn": "Krigen mod ISIL",
+      "allierede": "Combined Joint Task Force – Operation Inherent Resolve Belgien Canada Danmark Nedrelandene Italien Norge Storbritannien Tyrkiet USA Australien Saudi Arabien Forenede Arabiske Emirater Rumænien Lebanon Irak Jordan Frankrig",
+      "fjender": "Islamisk Stat i Irak og Levanten",
+      "resultat": "Sejr Islamisk stat mister dens territorium i Syrien og Irak"
+    },
+    {
+      "aar": "2023-nu",
+      "navn": "Operation Prosperity Guardian",
+      "allierede": "Australien Bahrain Canada Danmark Finland Grækenland Holland Norge Storbritannien Sri Lanka USA",
+      "fjender": "Yemen Houthierne",
+      "resultat": "Igangværende"
+    }
+  ],
+  "meta": {
+    "title": "Krige med dansk deltagelse - Free Download",
+    "description": "Krige og konflikter med dansk deltagelse eller involvering fra vikingetiden til i dag med allierede, fjender og resultat Contains 53 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Krige med dansk deltagelse | ListBase",
+    "seo_description": "Download Krige med dansk deltagelse — 53 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 53 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Krige_med_dansk_deltagelse_eller_involvering"
+    ]
+  }
+}

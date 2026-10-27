@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:33.383Z",
-  "total_datasets": 428,
-  "total_records": 235236,
+  "generated": "2026-10-27T02:48:35.715Z",
+  "total_datasets": 429,
+  "total_records": 235289,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -3059,6 +3059,32 @@
         "xlsx": {
           "name": "da-tandlaeger_DA.xlsx",
           "size": 15843
+        }
+      }
+    },
+    {
+      "id": "da-krige-med-dansk-deltagelse",
+      "name": "Krige med dansk deltagelse",
+      "category": "history",
+      "record_count": 53,
+      "columns": [
+        "aar",
+        "navn",
+        "allierede",
+        "fjender",
+        "resultat"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Krige_med_dansk_deltagelse_eller_involvering",
+      "updated": "2026-10",
+      "size": 17180,
+      "files": {
+        "csv": {
+          "name": "da-krige-med-dansk-deltagelse_DA.csv",
+          "size": 10367
+        },
+        "xlsx": {
+          "name": "da-krige-med-dansk-deltagelse_DA.xlsx",
+          "size": 11784
         }
       }
     },
