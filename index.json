@@ -1,12 +1,12 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:50.189Z",
-  "total_datasets": 435,
-  "total_records": 236050,
+  "generated": "2026-10-27T02:48:52.466Z",
+  "total_datasets": 436,
+  "total_records": 236077,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -178,6 +178,40 @@
         "xlsx": {
           "name": "da-landbrugsbedrifter-efter-stoerrelse_DA.xlsx",
           "size": 15102
+        }
+      }
+    },
+    {
+      "id": "da-salgspriser-landbrugsprodukter-2025",
+      "name": "Salgspriser på landbrugsprodukter 2025",
+      "category": "agriculture",
+      "record_count": 27,
+      "columns": [
+        "produkt",
+        "2025_01",
+        "2025_02",
+        "2025_03",
+        "2025_04",
+        "2025_05",
+        "2025_06",
+        "2025_07",
+        "2025_08",
+        "2025_09",
+        "2025_10",
+        "2025_11",
+        "2025_12"
+      ],
+      "source": "https://www.statistikbanken.dk/LPRIS10",
+      "updated": "2026-10",
+      "size": 11602,
+      "files": {
+        "csv": {
+          "name": "da-salgspriser-landbrugsprodukter-2025_DA.csv",
+          "size": 3240
+        },
+        "xlsx": {
+          "name": "da-salgspriser-landbrugsprodukter-2025_DA.xlsx",
+          "size": 8823
         }
       }
     },
