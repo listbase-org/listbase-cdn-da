@@ -1,12 +1,12 @@
 {
   "lang": "da",
-  "generated": "2026-10-27T02:48:38.144Z",
-  "total_datasets": 430,
-  "total_records": 235309,
+  "generated": "2026-10-27T02:48:40.541Z",
+  "total_datasets": 431,
+  "total_records": 235669,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -153,6 +153,31 @@
         "xlsx": {
           "name": "da-kvaegbestanden_DA.xlsx",
           "size": 8491
+        }
+      }
+    },
+    {
+      "id": "da-landbrugsbedrifter-efter-stoerrelse",
+      "name": "Landbrugsbedrifter efter størrelse",
+      "category": "agriculture",
+      "record_count": 360,
+      "columns": [
+        "aar",
+        "bedriftsstoerrelse",
+        "antal_bedrifter",
+        "dyrket_areal_ha"
+      ],
+      "source": "https://www.statistikbanken.dk/BDF52",
+      "updated": "2026-10",
+      "size": 52327,
+      "files": {
+        "csv": {
+          "name": "da-landbrugsbedrifter-efter-stoerrelse_DA.csv",
+          "size": 14433
+        },
+        "xlsx": {
+          "name": "da-landbrugsbedrifter-efter-stoerrelse_DA.xlsx",
+          "size": 15102
         }
       }
     },

@@ -1,0 +1,2206 @@
+{
+  "id": "da-landbrugsbedrifter-efter-stoerrelse",
+  "name": "Landbrugsbedrifter efter størrelse",
+  "title": "Landbrugsbedrifter efter størrelse",
+  "description": "Antal landbrugsbedrifter og samlet dyrket areal i Danmark fordelt på bedriftsstørrelse, siden 1984 (Danmarks Statistik, BDF52)",
+  "category": "agriculture",
+  "source": "https://www.statistikbanken.dk/BDF52",
+  "source_url": "https://www.statistikbanken.dk/BDF52",
+  "updated": "2026-10",
+  "record_count": 360,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "bedriftsstoerrelse",
+      "label": "Bedriftsstoerrelse",
+      "type": "string"
+    },
+    {
+      "key": "antal_bedrifter",
+      "label": "Antal Bedrifter",
+      "type": "number"
+    },
+    {
+      "key": "dyrket_areal_ha",
+      "label": "Dyrket Areal Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1984,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 19105,
+      "dyrket_areal_ha": 123909
+    },
+    {
+      "aar": 1984,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 25485,
+      "dyrket_areal_ha": 369902
+    },
+    {
+      "aar": 1984,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 513,
+      "dyrket_areal_ha": 183795
+    },
+    {
+      "aar": 1984,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 18816,
+      "dyrket_areal_ha": 716311
+    },
+    {
+      "aar": 1984,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 95346,
+      "dyrket_areal_ha": 2854773
+    },
+    {
+      "aar": 1984,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 2785,
+      "dyrket_areal_ha": 237234
+    },
+    {
+      "aar": 1984,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 2181,
+      "dyrket_areal_ha": 281919
+    },
+    {
+      "aar": 1984,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 18175,
+      "dyrket_areal_ha": 445356
+    },
+    {
+      "aar": 1984,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 8286,
+      "dyrket_areal_ha": 496348
+    },
+    {
+      "aar": 1986,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 17365,
+      "dyrket_areal_ha": 112317
+    },
+    {
+      "aar": 1986,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 22702,
+      "dyrket_areal_ha": 329204
+    },
+    {
+      "aar": 1986,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 521,
+      "dyrket_areal_ha": 183575
+    },
+    {
+      "aar": 1986,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 18338,
+      "dyrket_areal_ha": 701334
+    },
+    {
+      "aar": 1986,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 89659,
+      "dyrket_areal_ha": 2818910
+    },
+    {
+      "aar": 1986,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 2975,
+      "dyrket_areal_ha": 253725
+    },
+    {
+      "aar": 1986,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 2392,
+      "dyrket_areal_ha": 309592
+    },
+    {
+      "aar": 1986,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 16727,
+      "dyrket_areal_ha": 410854
+    },
+    {
+      "aar": 1986,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 8640,
+      "dyrket_areal_ha": 518308
+    },
+    {
+      "aar": 1988,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 15621,
+      "dyrket_areal_ha": 100509
+    },
+    {
+      "aar": 1988,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 20395,
+      "dyrket_areal_ha": 298110
+    },
+    {
+      "aar": 1988,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 542,
+      "dyrket_areal_ha": 190223
+    },
+    {
+      "aar": 1988,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 17710,
+      "dyrket_areal_ha": 681441
+    },
+    {
+      "aar": 1988,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 84093,
+      "dyrket_areal_ha": 2786603
+    },
+    {
+      "aar": 1988,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 3282,
+      "dyrket_areal_ha": 279402
+    },
+    {
+      "aar": 1988,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 2599,
+      "dyrket_areal_ha": 337820
+    },
+    {
+      "aar": 1988,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 15198,
+      "dyrket_areal_ha": 371916
+    },
+    {
+      "aar": 1988,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 8745,
+      "dyrket_areal_ha": 527181
+    },
+    {
+      "aar": 1989,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 81267,
+      "dyrket_areal_ha": 2774128
+    },
+    {
+      "aar": 1989,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 3400,
+      "dyrket_areal_ha": 290696
+    },
+    {
+      "aar": 1989,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 2829,
+      "dyrket_areal_ha": 369421
+    },
+    {
+      "aar": 1989,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 14195,
+      "dyrket_areal_ha": 348252
+    },
+    {
+      "aar": 1989,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 8762,
+      "dyrket_areal_ha": 527659
+    },
+    {
+      "aar": 1989,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 14749,
+      "dyrket_areal_ha": 95463
+    },
+    {
+      "aar": 1989,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 19605,
+      "dyrket_areal_ha": 284792
+    },
+    {
+      "aar": 1989,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 574,
+      "dyrket_areal_ha": 198242
+    },
+    {
+      "aar": 1989,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 17153,
+      "dyrket_areal_ha": 659604
+    },
+    {
+      "aar": 1990,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 79338,
+      "dyrket_areal_ha": 2788276
+    },
+    {
+      "aar": 1990,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 3406,
+      "dyrket_areal_ha": 290302
+    },
+    {
+      "aar": 1990,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 3102,
+      "dyrket_areal_ha": 407156
+    },
+    {
+      "aar": 1990,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 14407,
+      "dyrket_areal_ha": 93531
+    },
+    {
+      "aar": 1990,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 18562,
+      "dyrket_areal_ha": 269576
+    },
+    {
+      "aar": 1990,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 625,
+      "dyrket_areal_ha": 213000
+    },
+    {
+      "aar": 1990,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 13667,
+      "dyrket_areal_ha": 336162
+    },
+    {
+      "aar": 1990,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 8881,
+      "dyrket_areal_ha": 536231
+    },
+    {
+      "aar": 1990,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 16689,
+      "dyrket_areal_ha": 642318
+    },
+    {
+      "aar": 1991,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 77197,
+      "dyrket_areal_ha": 2769657
+    },
+    {
+      "aar": 1991,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 3544,
+      "dyrket_areal_ha": 302952
+    },
+    {
+      "aar": 1991,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 3211,
+      "dyrket_areal_ha": 420262
+    },
+    {
+      "aar": 1991,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 13050,
+      "dyrket_areal_ha": 321808
+    },
+    {
+      "aar": 1991,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 8725,
+      "dyrket_areal_ha": 526192
+    },
+    {
+      "aar": 1991,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 13885,
+      "dyrket_areal_ha": 89423
+    },
+    {
+      "aar": 1991,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 18091,
+      "dyrket_areal_ha": 263424
+    },
+    {
+      "aar": 1991,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 677,
+      "dyrket_areal_ha": 227750
+    },
+    {
+      "aar": 1991,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 16016,
+      "dyrket_areal_ha": 617847
+    },
+    {
+      "aar": 1992,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 16788,
+      "dyrket_areal_ha": 246536
+    },
+    {
+      "aar": 1992,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 706,
+      "dyrket_areal_ha": 238518
+    },
+    {
+      "aar": 1992,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 15705,
+      "dyrket_areal_ha": 605963
+    },
+    {
+      "aar": 1992,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 74460,
+      "dyrket_areal_ha": 2756327
+    },
+    {
+      "aar": 1992,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 3679,
+      "dyrket_areal_ha": 313924
+    },
+    {
+      "aar": 1992,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 3442,
+      "dyrket_areal_ha": 451288
+    },
+    {
+      "aar": 1992,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 11986,
+      "dyrket_areal_ha": 293793
+    },
+    {
+      "aar": 1992,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 8606,
+      "dyrket_areal_ha": 518868
+    },
+    {
+      "aar": 1992,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 13548,
+      "dyrket_areal_ha": 87437
+    },
+    {
+      "aar": 1993,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 17030,
+      "dyrket_areal_ha": 247328
+    },
+    {
+      "aar": 1993,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 773,
+      "dyrket_areal_ha": 254090
+    },
+    {
+      "aar": 1993,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 14545,
+      "dyrket_areal_ha": 562477
+    },
+    {
+      "aar": 1993,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 3532,
+      "dyrket_areal_ha": 464240
+    },
+    {
+      "aar": 1993,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 12103,
+      "dyrket_areal_ha": 297632
+    },
+    {
+      "aar": 1993,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 8486,
+      "dyrket_areal_ha": 514268
+    },
+    {
+      "aar": 1993,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 13694,
+      "dyrket_areal_ha": 88169
+    },
+    {
+      "aar": 1993,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 73784,
+      "dyrket_areal_ha": 2738559
+    },
+    {
+      "aar": 1993,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 3621,
+      "dyrket_areal_ha": 310355
+    },
+    {
+      "aar": 1994,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 3811,
+      "dyrket_areal_ha": 501642
+    },
+    {
+      "aar": 1994,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 11166,
+      "dyrket_areal_ha": 274296
+    },
+    {
+      "aar": 1994,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 8090,
+      "dyrket_areal_ha": 490014
+    },
+    {
+      "aar": 1994,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 69346,
+      "dyrket_areal_ha": 2691174
+    },
+    {
+      "aar": 1994,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 3694,
+      "dyrket_areal_ha": 317446
+    },
+    {
+      "aar": 1994,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 12377,
+      "dyrket_areal_ha": 79191
+    },
+    {
+      "aar": 1994,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 15647,
+      "dyrket_areal_ha": 224892
+    },
+    {
+      "aar": 1994,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 831,
+      "dyrket_areal_ha": 269742
+    },
+    {
+      "aar": 1994,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 13730,
+      "dyrket_areal_ha": 533952
+    },
+    {
+      "aar": 1995,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 13438,
+      "dyrket_areal_ha": 86418
+    },
+    {
+      "aar": 1995,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 14934,
+      "dyrket_areal_ha": 216343
+    },
+    {
+      "aar": 1995,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 929,
+      "dyrket_areal_ha": 295617
+    },
+    {
+      "aar": 1995,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 12906,
+      "dyrket_areal_ha": 501735
+    },
+    {
+      "aar": 1995,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 68771,
+      "dyrket_areal_ha": 2726048
+    },
+    {
+      "aar": 1995,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 3927,
+      "dyrket_areal_ha": 337566
+    },
+    {
+      "aar": 1995,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 4068,
+      "dyrket_areal_ha": 535727
+    },
+    {
+      "aar": 1995,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 10361,
+      "dyrket_areal_ha": 253919
+    },
+    {
+      "aar": 1995,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 8208,
+      "dyrket_areal_ha": 498725
+    },
+    {
+      "aar": 1996,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 64426,
+      "dyrket_areal_ha": 2716034
+    },
+    {
+      "aar": 1996,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 4118,
+      "dyrket_areal_ha": 355503
+    },
+    {
+      "aar": 1996,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 4217,
+      "dyrket_areal_ha": 560130
+    },
+    {
+      "aar": 1996,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 9080,
+      "dyrket_areal_ha": 224327
+    },
+    {
+      "aar": 1996,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 8273,
+      "dyrket_areal_ha": 503034
+    },
+    {
+      "aar": 1996,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 12118,
+      "dyrket_areal_ha": 76205
+    },
+    {
+      "aar": 1996,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 13758,
+      "dyrket_areal_ha": 201088
+    },
+    {
+      "aar": 1996,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 1057,
+      "dyrket_areal_ha": 336768
+    },
+    {
+      "aar": 1996,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 11804,
+      "dyrket_areal_ha": 458978
+    },
+    {
+      "aar": 1997,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 1074,
+      "dyrket_areal_ha": 341632
+    },
+    {
+      "aar": 1997,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 10975,
+      "dyrket_areal_ha": 427448
+    },
+    {
+      "aar": 1997,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 12549,
+      "dyrket_areal_ha": 78557
+    },
+    {
+      "aar": 1997,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 13475,
+      "dyrket_areal_ha": 196026
+    },
+    {
+      "aar": 1997,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 63151,
+      "dyrket_areal_ha": 2688014
+    },
+    {
+      "aar": 1997,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 4103,
+      "dyrket_areal_ha": 354018
+    },
+    {
+      "aar": 1997,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 4501,
+      "dyrket_areal_ha": 597608
+    },
+    {
+      "aar": 1997,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 8600,
+      "dyrket_areal_ha": 212362
+    },
+    {
+      "aar": 1997,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 7873,
+      "dyrket_areal_ha": 480363
+    },
+    {
+      "aar": 1998,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 11541,
+      "dyrket_areal_ha": 73090
+    },
+    {
+      "aar": 1998,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 12306,
+      "dyrket_areal_ha": 176923
+    },
+    {
+      "aar": 1998,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 1107,
+      "dyrket_areal_ha": 347717
+    },
+    {
+      "aar": 1998,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 10247,
+      "dyrket_areal_ha": 402709
+    },
+    {
+      "aar": 1998,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 59761,
+      "dyrket_areal_ha": 2671850
+    },
+    {
+      "aar": 1998,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 4161,
+      "dyrket_areal_ha": 360431
+    },
+    {
+      "aar": 1998,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 4810,
+      "dyrket_areal_ha": 640203
+    },
+    {
+      "aar": 1998,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 7748,
+      "dyrket_areal_ha": 191962
+    },
+    {
+      "aar": 1998,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 7840,
+      "dyrket_areal_ha": 478814
+    },
+    {
+      "aar": 1999,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 11454,
+      "dyrket_areal_ha": 72546
+    },
+    {
+      "aar": 1999,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 11545,
+      "dyrket_areal_ha": 168556
+    },
+    {
+      "aar": 1999,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 1195,
+      "dyrket_areal_ha": 368898
+    },
+    {
+      "aar": 1999,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 9611,
+      "dyrket_areal_ha": 374857
+    },
+    {
+      "aar": 1999,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 57831,
+      "dyrket_areal_ha": 2644048
+    },
+    {
+      "aar": 1999,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 4145,
+      "dyrket_areal_ha": 357881
+    },
+    {
+      "aar": 1999,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 4963,
+      "dyrket_areal_ha": 663479
+    },
+    {
+      "aar": 1999,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 7552,
+      "dyrket_areal_ha": 186365
+    },
+    {
+      "aar": 1999,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 7366,
+      "dyrket_areal_ha": 451466
+    },
+    {
+      "aar": 2000,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 6531,
+      "dyrket_areal_ha": 161146
+    },
+    {
+      "aar": 2000,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 6825,
+      "dyrket_areal_ha": 418017
+    },
+    {
+      "aar": 2000,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 10202,
+      "dyrket_areal_ha": 62946
+    },
+    {
+      "aar": 2000,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 11188,
+      "dyrket_areal_ha": 164418
+    },
+    {
+      "aar": 2000,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 54541,
+      "dyrket_areal_ha": 2646982
+    },
+    {
+      "aar": 2000,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 4066,
+      "dyrket_areal_ha": 351256
+    },
+    {
+      "aar": 2000,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 5350,
+      "dyrket_areal_ha": 715384
+    },
+    {
+      "aar": 2000,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 1361,
+      "dyrket_areal_ha": 421295
+    },
+    {
+      "aar": 2000,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 9018,
+      "dyrket_areal_ha": 352519
+    },
+    {
+      "aar": 2001,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 10421,
+      "dyrket_areal_ha": 65413
+    },
+    {
+      "aar": 2001,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 10220,
+      "dyrket_areal_ha": 145839
+    },
+    {
+      "aar": 2001,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 1546,
+      "dyrket_areal_ha": 473942
+    },
+    {
+      "aar": 2001,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 8503,
+      "dyrket_areal_ha": 333806
+    },
+    {
+      "aar": 2001,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 53489,
+      "dyrket_areal_ha": 2675566
+    },
+    {
+      "aar": 2001,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 4007,
+      "dyrket_areal_ha": 345400
+    },
+    {
+      "aar": 2001,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 5455,
+      "dyrket_areal_ha": 739109
+    },
+    {
+      "aar": 2001,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 6682,
+      "dyrket_areal_ha": 163910
+    },
+    {
+      "aar": 2001,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 6655,
+      "dyrket_areal_ha": 408147
+    },
+    {
+      "aar": 2002,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 50531,
+      "dyrket_areal_ha": 2665507
+    },
+    {
+      "aar": 2002,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 3794,
+      "dyrket_areal_ha": 328234
+    },
+    {
+      "aar": 2002,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 5903,
+      "dyrket_areal_ha": 796883
+    },
+    {
+      "aar": 2002,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 6256,
+      "dyrket_areal_ha": 154878
+    },
+    {
+      "aar": 2002,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 6086,
+      "dyrket_areal_ha": 372388
+    },
+    {
+      "aar": 2002,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 9650,
+      "dyrket_areal_ha": 59733
+    },
+    {
+      "aar": 2002,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 9752,
+      "dyrket_areal_ha": 142454
+    },
+    {
+      "aar": 2002,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 1721,
+      "dyrket_areal_ha": 525634
+    },
+    {
+      "aar": 2002,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 7369,
+      "dyrket_areal_ha": 285302
+    },
+    {
+      "aar": 2003,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 5787,
+      "dyrket_areal_ha": 791170
+    },
+    {
+      "aar": 2003,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 5603,
+      "dyrket_areal_ha": 138240
+    },
+    {
+      "aar": 2003,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 5750,
+      "dyrket_areal_ha": 353911
+    },
+    {
+      "aar": 2003,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 9829,
+      "dyrket_areal_ha": 60717
+    },
+    {
+      "aar": 2003,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 8843,
+      "dyrket_areal_ha": 128162
+    },
+    {
+      "aar": 2003,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 1895,
+      "dyrket_areal_ha": 582040
+    },
+    {
+      "aar": 2003,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 7159,
+      "dyrket_areal_ha": 278753
+    },
+    {
+      "aar": 2003,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 48613,
+      "dyrket_areal_ha": 2657706
+    },
+    {
+      "aar": 2003,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 3747,
+      "dyrket_areal_ha": 324713
+    },
+    {
+      "aar": 2004,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 8530,
+      "dyrket_areal_ha": 53393
+    },
+    {
+      "aar": 2004,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 5741,
+      "dyrket_areal_ha": 788401
+    },
+    {
+      "aar": 2004,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 5347,
+      "dyrket_areal_ha": 131489
+    },
+    {
+      "aar": 2004,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 5289,
+      "dyrket_areal_ha": 326073
+    },
+    {
+      "aar": 2004,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 8348,
+      "dyrket_areal_ha": 120873
+    },
+    {
+      "aar": 2004,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 2101,
+      "dyrket_areal_ha": 647050
+    },
+    {
+      "aar": 2004,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 6517,
+      "dyrket_areal_ha": 253408
+    },
+    {
+      "aar": 2004,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 45624,
+      "dyrket_areal_ha": 2645304
+    },
+    {
+      "aar": 2004,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 3751,
+      "dyrket_areal_ha": 324617
+    },
+    {
+      "aar": 2005,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 10816,
+      "dyrket_areal_ha": 68996
+    },
+    {
+      "aar": 2005,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 10680,
+      "dyrket_areal_ha": 155582
+    },
+    {
+      "aar": 2005,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 2027,
+      "dyrket_areal_ha": 655893
+    },
+    {
+      "aar": 2005,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 7279,
+      "dyrket_areal_ha": 283476
+    },
+    {
+      "aar": 2005,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 51676,
+      "dyrket_areal_ha": 2724180
+    },
+    {
+      "aar": 2005,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 3552,
+      "dyrket_areal_ha": 308206
+    },
+    {
+      "aar": 2005,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 5554,
+      "dyrket_areal_ha": 760242
+    },
+    {
+      "aar": 2005,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 6257,
+      "dyrket_areal_ha": 152388
+    },
+    {
+      "aar": 2005,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 5511,
+      "dyrket_areal_ha": 339397
+    },
+    {
+      "aar": 2006,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 10758,
+      "dyrket_areal_ha": 67985
+    },
+    {
+      "aar": 2006,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 9100,
+      "dyrket_areal_ha": 131245
+    },
+    {
+      "aar": 2006,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 2437,
+      "dyrket_areal_ha": 780332
+    },
+    {
+      "aar": 2006,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 6278,
+      "dyrket_areal_ha": 244769
+    },
+    {
+      "aar": 2006,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 47385,
+      "dyrket_areal_ha": 2710507
+    },
+    {
+      "aar": 2006,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 3160,
+      "dyrket_areal_ha": 273690
+    },
+    {
+      "aar": 2006,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 5817,
+      "dyrket_areal_ha": 803870
+    },
+    {
+      "aar": 2006,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 5291,
+      "dyrket_areal_ha": 130064
+    },
+    {
+      "aar": 2006,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 4544,
+      "dyrket_areal_ha": 278552
+    },
+    {
+      "aar": 2007,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 8581,
+      "dyrket_areal_ha": 123617
+    },
+    {
+      "aar": 2007,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 2625,
+      "dyrket_areal_ha": 857841
+    },
+    {
+      "aar": 2007,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 5681,
+      "dyrket_areal_ha": 220285
+    },
+    {
+      "aar": 2007,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 44618,
+      "dyrket_areal_ha": 2677284
+    },
+    {
+      "aar": 2007,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 2902,
+      "dyrket_areal_ha": 252206
+    },
+    {
+      "aar": 2007,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 5580,
+      "dyrket_areal_ha": 779962
+    },
+    {
+      "aar": 2007,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 4891,
+      "dyrket_areal_ha": 120169
+    },
+    {
+      "aar": 2007,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 4214,
+      "dyrket_areal_ha": 259012
+    },
+    {
+      "aar": 2007,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 10144,
+      "dyrket_areal_ha": 64191
+    },
+    {
+      "aar": 2008,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 43415,
+      "dyrket_areal_ha": 2684910
+    },
+    {
+      "aar": 2008,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 2714,
+      "dyrket_areal_ha": 236330
+    },
+    {
+      "aar": 2008,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 5331,
+      "dyrket_areal_ha": 750860
+    },
+    {
+      "aar": 2008,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 4991,
+      "dyrket_areal_ha": 123265
+    },
+    {
+      "aar": 2008,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 3959,
+      "dyrket_areal_ha": 244992
+    },
+    {
+      "aar": 2008,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 10016,
+      "dyrket_areal_ha": 62509
+    },
+    {
+      "aar": 2008,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 8193,
+      "dyrket_areal_ha": 118076
+    },
+    {
+      "aar": 2008,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 2807,
+      "dyrket_areal_ha": 939354
+    },
+    {
+      "aar": 2008,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 5403,
+      "dyrket_areal_ha": 209525
+    },
+    {
+      "aar": 2009,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 41384,
+      "dyrket_areal_ha": 2623975
+    },
+    {
+      "aar": 2009,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 2948,
+      "dyrket_areal_ha": 980938
+    },
+    {
+      "aar": 2009,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 5018,
+      "dyrket_areal_ha": 195332
+    },
+    {
+      "aar": 2009,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 7556,
+      "dyrket_areal_ha": 108253
+    },
+    {
+      "aar": 2009,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 10120,
+      "dyrket_areal_ha": 64738
+    },
+    {
+      "aar": 2009,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 5176,
+      "dyrket_areal_ha": 727624
+    },
+    {
+      "aar": 2009,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 4532,
+      "dyrket_areal_ha": 112150
+    },
+    {
+      "aar": 2009,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 3558,
+      "dyrket_areal_ha": 219013
+    },
+    {
+      "aar": 2009,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 2476,
+      "dyrket_areal_ha": 215928
+    },
+    {
+      "aar": 2010,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 42099,
+      "dyrket_areal_ha": 2646400
+    },
+    {
+      "aar": 2010,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 2407,
+      "dyrket_areal_ha": 209215
+    },
+    {
+      "aar": 2010,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 4981,
+      "dyrket_areal_ha": 702345
+    },
+    {
+      "aar": 2010,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 4304,
+      "dyrket_areal_ha": 105883
+    },
+    {
+      "aar": 2010,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 3518,
+      "dyrket_areal_ha": 216969
+    },
+    {
+      "aar": 2010,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 11110,
+      "dyrket_areal_ha": 61056
+    },
+    {
+      "aar": 2010,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 7785,
+      "dyrket_areal_ha": 112085
+    },
+    {
+      "aar": 2010,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3098,
+      "dyrket_areal_ha": 1048297
+    },
+    {
+      "aar": 2010,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 4896,
+      "dyrket_areal_ha": 190550
+    },
+    {
+      "aar": 2011,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 40660,
+      "dyrket_areal_ha": 2639944
+    },
+    {
+      "aar": 2011,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 2306,
+      "dyrket_areal_ha": 200019
+    },
+    {
+      "aar": 2011,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 4669,
+      "dyrket_areal_ha": 181443
+    },
+    {
+      "aar": 2011,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3191,
+      "dyrket_areal_ha": 1095427
+    },
+    {
+      "aar": 2011,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 10685,
+      "dyrket_areal_ha": 60893
+    },
+    {
+      "aar": 2011,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 7559,
+      "dyrket_areal_ha": 108826
+    },
+    {
+      "aar": 2011,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 3325,
+      "dyrket_areal_ha": 205557
+    },
+    {
+      "aar": 2011,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 4849,
+      "dyrket_areal_ha": 687483
+    },
+    {
+      "aar": 2011,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 4076,
+      "dyrket_areal_ha": 100296
+    },
+    {
+      "aar": 2012,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3349,
+      "dyrket_areal_ha": 1148553
+    },
+    {
+      "aar": 2012,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 3227,
+      "dyrket_areal_ha": 197539
+    },
+    {
+      "aar": 2012,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 10532,
+      "dyrket_areal_ha": 61315
+    },
+    {
+      "aar": 2012,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 7752,
+      "dyrket_areal_ha": 112040
+    },
+    {
+      "aar": 2012,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 4667,
+      "dyrket_areal_ha": 656973
+    },
+    {
+      "aar": 2012,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 3220,
+      "dyrket_areal_ha": 80047
+    },
+    {
+      "aar": 2012,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 39930,
+      "dyrket_areal_ha": 2644631
+    },
+    {
+      "aar": 2012,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 2289,
+      "dyrket_areal_ha": 199062
+    },
+    {
+      "aar": 2012,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 4894,
+      "dyrket_areal_ha": 189102
+    },
+    {
+      "aar": 2013,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 4616,
+      "dyrket_areal_ha": 656620
+    },
+    {
+      "aar": 2013,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 6928,
+      "dyrket_areal_ha": 99024
+    },
+    {
+      "aar": 2013,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 3974,
+      "dyrket_areal_ha": 98041
+    },
+    {
+      "aar": 2013,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 10235,
+      "dyrket_areal_ha": 58861
+    },
+    {
+      "aar": 2013,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 4391,
+      "dyrket_areal_ha": 169767
+    },
+    {
+      "aar": 2013,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 38829,
+      "dyrket_areal_ha": 2627817
+    },
+    {
+      "aar": 2013,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 2216,
+      "dyrket_areal_ha": 192426
+    },
+    {
+      "aar": 2013,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3285,
+      "dyrket_areal_ha": 1156983
+    },
+    {
+      "aar": 2013,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 3184,
+      "dyrket_areal_ha": 196095
+    },
+    {
+      "aar": 2014,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 3165,
+      "dyrket_areal_ha": 196230
+    },
+    {
+      "aar": 2014,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 9849,
+      "dyrket_areal_ha": 57464
+    },
+    {
+      "aar": 2014,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 6941,
+      "dyrket_areal_ha": 100000
+    },
+    {
+      "aar": 2014,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3315,
+      "dyrket_areal_ha": 1204165
+    },
+    {
+      "aar": 2014,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 37950,
+      "dyrket_areal_ha": 2652026
+    },
+    {
+      "aar": 2014,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 2051,
+      "dyrket_areal_ha": 178591
+    },
+    {
+      "aar": 2014,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 4567,
+      "dyrket_areal_ha": 656554
+    },
+    {
+      "aar": 2014,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 3798,
+      "dyrket_areal_ha": 93464
+    },
+    {
+      "aar": 2014,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 4264,
+      "dyrket_areal_ha": 165557
+    },
+    {
+      "aar": 2015,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 4408,
+      "dyrket_areal_ha": 635207
+    },
+    {
+      "aar": 2015,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 3535,
+      "dyrket_areal_ha": 87519
+    },
+    {
+      "aar": 2015,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 36637,
+      "dyrket_areal_ha": 2632947
+    },
+    {
+      "aar": 2015,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 2023,
+      "dyrket_areal_ha": 176675
+    },
+    {
+      "aar": 2015,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 4018,
+      "dyrket_areal_ha": 156358
+    },
+    {
+      "aar": 2015,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 6490,
+      "dyrket_areal_ha": 93237
+    },
+    {
+      "aar": 2015,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3448,
+      "dyrket_areal_ha": 1248683
+    },
+    {
+      "aar": 2015,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 9792,
+      "dyrket_areal_ha": 55591
+    },
+    {
+      "aar": 2015,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 2922,
+      "dyrket_areal_ha": 179676
+    },
+    {
+      "aar": 2016,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 6348,
+      "dyrket_areal_ha": 91526
+    },
+    {
+      "aar": 2016,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3496,
+      "dyrket_areal_ha": 1299654
+    },
+    {
+      "aar": 2016,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 3876,
+      "dyrket_areal_ha": 151345
+    },
+    {
+      "aar": 2016,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 35674,
+      "dyrket_areal_ha": 2625093
+    },
+    {
+      "aar": 2016,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 1935,
+      "dyrket_areal_ha": 168461
+    },
+    {
+      "aar": 2016,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 9534,
+      "dyrket_areal_ha": 55598
+    },
+    {
+      "aar": 2016,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 4204,
+      "dyrket_areal_ha": 601131
+    },
+    {
+      "aar": 2016,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 3492,
+      "dyrket_areal_ha": 86255
+    },
+    {
+      "aar": 2016,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 2789,
+      "dyrket_areal_ha": 171122
+    },
+    {
+      "aar": 2017,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 34731,
+      "dyrket_areal_ha": 2631289
+    },
+    {
+      "aar": 2017,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 1895,
+      "dyrket_areal_ha": 165268
+    },
+    {
+      "aar": 2017,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 3981,
+      "dyrket_areal_ha": 567194
+    },
+    {
+      "aar": 2017,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 3275,
+      "dyrket_areal_ha": 80783
+    },
+    {
+      "aar": 2017,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 2639,
+      "dyrket_areal_ha": 162369
+    },
+    {
+      "aar": 2017,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 9649,
+      "dyrket_areal_ha": 55218
+    },
+    {
+      "aar": 2017,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 5914,
+      "dyrket_areal_ha": 84807
+    },
+    {
+      "aar": 2017,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3610,
+      "dyrket_areal_ha": 1368699
+    },
+    {
+      "aar": 2017,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 3768,
+      "dyrket_areal_ha": 146953
+    },
+    {
+      "aar": 2018,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 34114,
+      "dyrket_areal_ha": 2632453
+    },
+    {
+      "aar": 2018,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 1875,
+      "dyrket_areal_ha": 164305
+    },
+    {
+      "aar": 2018,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3621,
+      "dyrket_areal_ha": 1394290
+    },
+    {
+      "aar": 2018,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 3611,
+      "dyrket_areal_ha": 140783
+    },
+    {
+      "aar": 2018,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 5823,
+      "dyrket_areal_ha": 83648
+    },
+    {
+      "aar": 2018,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 9518,
+      "dyrket_areal_ha": 53585
+    },
+    {
+      "aar": 2018,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 3871,
+      "dyrket_areal_ha": 560676
+    },
+    {
+      "aar": 2018,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 3253,
+      "dyrket_areal_ha": 79949
+    },
+    {
+      "aar": 2018,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 2542,
+      "dyrket_areal_ha": 155216
+    },
+    {
+      "aar": 2019,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 9428,
+      "dyrket_areal_ha": 54772
+    },
+    {
+      "aar": 2019,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 5880,
+      "dyrket_areal_ha": 84243
+    },
+    {
+      "aar": 2019,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3638,
+      "dyrket_areal_ha": 1422256
+    },
+    {
+      "aar": 2019,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 3471,
+      "dyrket_areal_ha": 135353
+    },
+    {
+      "aar": 2019,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 33607,
+      "dyrket_areal_ha": 2625923
+    },
+    {
+      "aar": 2019,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 1860,
+      "dyrket_areal_ha": 162580
+    },
+    {
+      "aar": 2019,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 3729,
+      "dyrket_areal_ha": 537626
+    },
+    {
+      "aar": 2019,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 3135,
+      "dyrket_areal_ha": 77401
+    },
+    {
+      "aar": 2019,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 2465,
+      "dyrket_areal_ha": 151694
+    },
+    {
+      "aar": 2020,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 33148,
+      "dyrket_areal_ha": 2619987
+    },
+    {
+      "aar": 2020,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 1750,
+      "dyrket_areal_ha": 153518
+    },
+    {
+      "aar": 2020,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 3676,
+      "dyrket_areal_ha": 524091
+    },
+    {
+      "aar": 2020,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 2970,
+      "dyrket_areal_ha": 73398
+    },
+    {
+      "aar": 2020,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 2404,
+      "dyrket_areal_ha": 148125
+    },
+    {
+      "aar": 2020,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 9899,
+      "dyrket_areal_ha": 54481
+    },
+    {
+      "aar": 2020,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 5480,
+      "dyrket_areal_ha": 78417
+    },
+    {
+      "aar": 2020,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3630,
+      "dyrket_areal_ha": 1457757
+    },
+    {
+      "aar": 2020,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 3339,
+      "dyrket_areal_ha": 130201
+    },
+    {
+      "aar": 2021,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 8776,
+      "dyrket_areal_ha": 52278
+    },
+    {
+      "aar": 2021,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 5341,
+      "dyrket_areal_ha": 76336
+    },
+    {
+      "aar": 2021,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3608,
+      "dyrket_areal_ha": 1483392
+    },
+    {
+      "aar": 2021,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 3173,
+      "dyrket_areal_ha": 123912
+    },
+    {
+      "aar": 2021,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 31395,
+      "dyrket_areal_ha": 2618399
+    },
+    {
+      "aar": 2021,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 1780,
+      "dyrket_areal_ha": 154759
+    },
+    {
+      "aar": 2021,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 3586,
+      "dyrket_areal_ha": 516730
+    },
+    {
+      "aar": 2021,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 2844,
+      "dyrket_areal_ha": 70076
+    },
+    {
+      "aar": 2021,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 2287,
+      "dyrket_areal_ha": 140917
+    },
+    {
+      "aar": 2022,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3668,
+      "dyrket_areal_ha": 1542050
+    },
+    {
+      "aar": 2022,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 3052,
+      "dyrket_areal_ha": 119097
+    },
+    {
+      "aar": 2022,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 30678,
+      "dyrket_areal_ha": 2624245
+    },
+    {
+      "aar": 2022,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 1623,
+      "dyrket_areal_ha": 142014
+    },
+    {
+      "aar": 2022,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 3408,
+      "dyrket_areal_ha": 485693
+    },
+    {
+      "aar": 2022,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 2740,
+      "dyrket_areal_ha": 67502
+    },
+    {
+      "aar": 2022,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 2289,
+      "dyrket_areal_ha": 141717
+    },
+    {
+      "aar": 2022,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 8668,
+      "dyrket_areal_ha": 51201
+    },
+    {
+      "aar": 2022,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 5229,
+      "dyrket_areal_ha": 74971
+    },
+    {
+      "aar": 2023,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 29554,
+      "dyrket_areal_ha": 2620947
+    },
+    {
+      "aar": 2023,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 1443,
+      "dyrket_areal_ha": 125440
+    },
+    {
+      "aar": 2023,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 3230,
+      "dyrket_areal_ha": 462552
+    },
+    {
+      "aar": 2023,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 2562,
+      "dyrket_areal_ha": 63123
+    },
+    {
+      "aar": 2023,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 2127,
+      "dyrket_areal_ha": 131032
+    },
+    {
+      "aar": 2023,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 8546,
+      "dyrket_areal_ha": 50733
+    },
+    {
+      "aar": 2023,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 5003,
+      "dyrket_areal_ha": 71403
+    },
+    {
+      "aar": 2023,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3707,
+      "dyrket_areal_ha": 1602553
+    },
+    {
+      "aar": 2023,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 2936,
+      "dyrket_areal_ha": 114111
+    },
+    {
+      "aar": 2024,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 3057,
+      "dyrket_areal_ha": 439102
+    },
+    {
+      "aar": 2024,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 2093,
+      "dyrket_areal_ha": 130000
+    },
+    {
+      "aar": 2024,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 8094,
+      "dyrket_areal_ha": 47803
+    },
+    {
+      "aar": 2024,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 28235,
+      "dyrket_areal_ha": 2604725
+    },
+    {
+      "aar": 2024,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 1243,
+      "dyrket_areal_ha": 108139
+    },
+    {
+      "aar": 2024,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 2493,
+      "dyrket_areal_ha": 61531
+    },
+    {
+      "aar": 2024,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 4789,
+      "dyrket_areal_ha": 68465
+    },
+    {
+      "aar": 2024,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3675,
+      "dyrket_areal_ha": 1641320
+    },
+    {
+      "aar": 2024,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 2791,
+      "dyrket_areal_ha": 108366
+    },
+    {
+      "aar": 2025,
+      "bedriftsstoerrelse": "Under 10,0 ha",
+      "antal_bedrifter": 7609,
+      "dyrket_areal_ha": 46078
+    },
+    {
+      "aar": 2025,
+      "bedriftsstoerrelse": "10,0 - 19,9 ha",
+      "antal_bedrifter": 4675,
+      "dyrket_areal_ha": 67047
+    },
+    {
+      "aar": 2025,
+      "bedriftsstoerrelse": "200,0 ha og derover",
+      "antal_bedrifter": 3630,
+      "dyrket_areal_ha": 1681853
+    },
+    {
+      "aar": 2025,
+      "bedriftsstoerrelse": "30,0 - 49,9 ha",
+      "antal_bedrifter": 2676,
+      "dyrket_areal_ha": 103936
+    },
+    {
+      "aar": 2025,
+      "bedriftsstoerrelse": "I alt",
+      "antal_bedrifter": 27024,
+      "dyrket_areal_ha": 2597327
+    },
+    {
+      "aar": 2025,
+      "bedriftsstoerrelse": "75,0 - 99,9 ha",
+      "antal_bedrifter": 1233,
+      "dyrket_areal_ha": 107721
+    },
+    {
+      "aar": 2025,
+      "bedriftsstoerrelse": "100,0 - 199,9 ha",
+      "antal_bedrifter": 2865,
+      "dyrket_areal_ha": 413941
+    },
+    {
+      "aar": 2025,
+      "bedriftsstoerrelse": "20,0 - 29,9 ha",
+      "antal_bedrifter": 2414,
+      "dyrket_areal_ha": 59396
+    },
+    {
+      "aar": 2025,
+      "bedriftsstoerrelse": "50,0 - 74,9 ha",
+      "antal_bedrifter": 1921,
+      "dyrket_areal_ha": 117356
+    }
+  ],
+  "meta": {
+    "title": "Landbrugsbedrifter efter størrelse - Free Download",
+    "description": "Antal landbrugsbedrifter og samlet dyrket areal i Danmark fordelt på bedriftsstørrelse, siden 1984 (Danmarks Statistik, BDF52) Contains 360 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Landbrugsbedrifter efter størrelse | ListBase",
+    "seo_description": "Download Landbrugsbedrifter efter størrelse — 360 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 360 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/BDF52"
+    ]
+  }
+}
