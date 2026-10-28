@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-28T02:22:16.421Z",
-  "total_datasets": 444,
-  "total_records": 236526,
+  "generated": "2026-10-28T02:22:18.860Z",
+  "total_datasets": 445,
+  "total_records": 236593,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -10869,6 +10869,29 @@
         "xlsx": {
           "name": "da-forskning-og-udvikling-pct-af-bnp_DA.xlsx",
           "size": 7413
+        }
+      }
+    },
+    {
+      "id": "da-befolkning-historisk",
+      "name": "Danmarks befolkning pr. 1. januar (historisk udvikling)",
+      "category": "society",
+      "record_count": 67,
+      "columns": [
+        "aar",
+        "befolkning_1_januar"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danmarks_demografi",
+      "updated": "2026-10",
+      "size": 6104,
+      "files": {
+        "csv": {
+          "name": "da-befolkning-historisk_DA.csv",
+          "size": 1164
+        },
+        "xlsx": {
+          "name": "da-befolkning-historisk_DA.xlsx",
+          "size": 7769
         }
       }
     },

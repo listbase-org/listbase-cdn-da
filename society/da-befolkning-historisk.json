@@ -1,0 +1,304 @@
+{
+  "id": "da-befolkning-historisk",
+  "name": "Danmarks befolkning pr. 1. januar (historisk udvikling)",
+  "title": "Danmarks befolkning pr. 1. januar (historisk udvikling)",
+  "description": "Danmarks befolkningstal fra år 800 og frem til i dag, pr. 1. januar ifølge Danmarks Statistik og historiske skøn.",
+  "category": "society",
+  "source": "https://da.wikipedia.org/wiki/Danmarks_demografi",
+  "source_url": "https://da.wikipedia.org/wiki/Danmarks_demografi",
+  "updated": "2026-10",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "befolkning_1_januar",
+      "label": "Befolkning 1 Januar",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 800,
+      "befolkning_1_januar": 500000
+    },
+    {
+      "aar": 1200,
+      "befolkning_1_januar": 1000000
+    },
+    {
+      "aar": 1769,
+      "befolkning_1_januar": 797584
+    },
+    {
+      "aar": 1787,
+      "befolkning_1_januar": 841806
+    },
+    {
+      "aar": 1801,
+      "befolkning_1_januar": 929001
+    },
+    {
+      "aar": 1834,
+      "befolkning_1_januar": 1230964
+    },
+    {
+      "aar": 1840,
+      "befolkning_1_januar": 1289075
+    },
+    {
+      "aar": 1845,
+      "befolkning_1_januar": 1356877
+    },
+    {
+      "aar": 1850,
+      "befolkning_1_januar": 1414648
+    },
+    {
+      "aar": 1855,
+      "befolkning_1_januar": 1507222
+    },
+    {
+      "aar": 1860,
+      "befolkning_1_januar": 1608362
+    },
+    {
+      "aar": 1870,
+      "befolkning_1_januar": 1784741
+    },
+    {
+      "aar": 1880,
+      "befolkning_1_januar": 1969039
+    },
+    {
+      "aar": 1890,
+      "befolkning_1_januar": 2172380
+    },
+    {
+      "aar": 1901,
+      "befolkning_1_januar": 2449540
+    },
+    {
+      "aar": 1906,
+      "befolkning_1_januar": 2588919
+    },
+    {
+      "aar": 1911,
+      "befolkning_1_januar": 2757076
+    },
+    {
+      "aar": 1916,
+      "befolkning_1_januar": 2921362
+    },
+    {
+      "aar": 1921,
+      "befolkning_1_januar": 3267831
+    },
+    {
+      "aar": 1925,
+      "befolkning_1_januar": 3434555
+    },
+    {
+      "aar": 1930,
+      "befolkning_1_januar": 3550656
+    },
+    {
+      "aar": 1935,
+      "befolkning_1_januar": 3706349
+    },
+    {
+      "aar": 1940,
+      "befolkning_1_januar": 3844312
+    },
+    {
+      "aar": 1945,
+      "befolkning_1_januar": 4045232
+    },
+    {
+      "aar": 1950,
+      "befolkning_1_januar": 4281275
+    },
+    {
+      "aar": 1955,
+      "befolkning_1_januar": 4448401
+    },
+    {
+      "aar": 1960,
+      "befolkning_1_januar": 4585256
+    },
+    {
+      "aar": 1965,
+      "befolkning_1_januar": 4767597
+    },
+    {
+      "aar": 1970,
+      "befolkning_1_januar": 4937579
+    },
+    {
+      "aar": 1971,
+      "befolkning_1_januar": 4950598
+    },
+    {
+      "aar": 1972,
+      "befolkning_1_januar": 4975653
+    },
+    {
+      "aar": 1973,
+      "befolkning_1_januar": 5007538
+    },
+    {
+      "aar": 1974,
+      "befolkning_1_januar": 5036184
+    },
+    {
+      "aar": 1975,
+      "befolkning_1_januar": 5054410
+    },
+    {
+      "aar": 1976,
+      "befolkning_1_januar": 5065313
+    },
+    {
+      "aar": 1977,
+      "befolkning_1_januar": 5079879
+    },
+    {
+      "aar": 1978,
+      "befolkning_1_januar": 5096959
+    },
+    {
+      "aar": 1979,
+      "befolkning_1_januar": 5111537
+    },
+    {
+      "aar": 1980,
+      "befolkning_1_januar": 5122065
+    },
+    {
+      "aar": 1981,
+      "befolkning_1_januar": 5123989
+    },
+    {
+      "aar": 1982,
+      "befolkning_1_januar": 5119155
+    },
+    {
+      "aar": 1983,
+      "befolkning_1_januar": 5116464
+    },
+    {
+      "aar": 1984,
+      "befolkning_1_januar": 5112130
+    },
+    {
+      "aar": 1985,
+      "befolkning_1_januar": 5111108
+    },
+    {
+      "aar": 1986,
+      "befolkning_1_januar": 5116273
+    },
+    {
+      "aar": 1987,
+      "befolkning_1_januar": 5124794
+    },
+    {
+      "aar": 1988,
+      "befolkning_1_januar": 5129254
+    },
+    {
+      "aar": 1989,
+      "befolkning_1_januar": 5129778
+    },
+    {
+      "aar": 1990,
+      "befolkning_1_januar": 5135409
+    },
+    {
+      "aar": 1991,
+      "befolkning_1_januar": 5146469
+    },
+    {
+      "aar": 1992,
+      "befolkning_1_januar": 5162126
+    },
+    {
+      "aar": 1993,
+      "befolkning_1_januar": 5180614
+    },
+    {
+      "aar": 1994,
+      "befolkning_1_januar": 5196642
+    },
+    {
+      "aar": 1995,
+      "befolkning_1_januar": 5215718
+    },
+    {
+      "aar": 1996,
+      "befolkning_1_januar": 5251027
+    },
+    {
+      "aar": 1997,
+      "befolkning_1_januar": 5275121
+    },
+    {
+      "aar": 1998,
+      "befolkning_1_januar": 5294860
+    },
+    {
+      "aar": 1999,
+      "befolkning_1_januar": 5313577
+    },
+    {
+      "aar": 2000,
+      "befolkning_1_januar": 5330020
+    },
+    {
+      "aar": 2001,
+      "befolkning_1_januar": 5349212
+    },
+    {
+      "aar": 2002,
+      "befolkning_1_januar": 5368354
+    },
+    {
+      "aar": 2003,
+      "befolkning_1_januar": 5383507
+    },
+    {
+      "aar": 2005,
+      "befolkning_1_januar": 5411405
+    },
+    {
+      "aar": 2010,
+      "befolkning_1_januar": 5534738
+    },
+    {
+      "aar": 2015,
+      "befolkning_1_januar": 5659715
+    },
+    {
+      "aar": 2020,
+      "befolkning_1_januar": 5822763
+    },
+    {
+      "aar": 2025,
+      "befolkning_1_januar": 5992734
+    }
+  ],
+  "meta": {
+    "title": "Danmarks befolkning pr. 1. januar (historisk udvikling) - Free Download",
+    "description": "Danmarks befolkningstal fra år 800 og frem til i dag, pr. 1. januar ifølge Danmarks Statistik og historiske skøn. Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danmarks befolkning pr. 1. januar (historisk udvikling) | ListBase",
+    "seo_description": "Download Danmarks befolkning pr. 1. januar (historisk udvikling) — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danmarks_demografi"
+    ]
+  }
+}
