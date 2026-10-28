@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-28T02:22:18.860Z",
-  "total_datasets": 445,
-  "total_records": 236593,
+  "generated": "2026-10-28T02:22:21.174Z",
+  "total_datasets": 446,
+  "total_records": 236854,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -10892,6 +10892,45 @@
         "xlsx": {
           "name": "da-befolkning-historisk_DA.xlsx",
           "size": 7769
+        }
+      }
+    },
+    {
+      "id": "da-byomraader-folketal-2012-2026",
+      "name": "Folketal i danske byområder 2012–2026",
+      "category": "society",
+      "record_count": 261,
+      "columns": [
+        "nr",
+        "byomraade",
+        "y2012",
+        "y2013",
+        "y2014",
+        "y2015",
+        "y2016",
+        "y2017",
+        "y2018",
+        "y2019",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025",
+        "y2026",
+        "aendring_pct"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danmarks_største_byer",
+      "updated": "2026-10",
+      "size": 109850,
+      "files": {
+        "csv": {
+          "name": "da-byomraader-folketal-2012-2026_DA.csv",
+          "size": 35207
+        },
+        "xlsx": {
+          "name": "da-byomraader-folketal-2012-2026_DA.xlsx",
+          "size": 31959
         }
       }
     },
