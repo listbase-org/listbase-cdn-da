@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-28T02:22:11.514Z",
-  "total_datasets": 442,
-  "total_records": 236421,
+  "generated": "2026-10-28T02:22:13.926Z",
+  "total_datasets": 443,
+  "total_records": 236490,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -3631,6 +3631,32 @@
         "xlsx": {
           "name": "da-sprogvarianter_DA.xlsx",
           "size": 8548
+        }
+      }
+    },
+    {
+      "id": "da-justitsministre",
+      "name": "Danmarks justitsministre",
+      "category": "law",
+      "record_count": 69,
+      "columns": [
+        "justitsminister",
+        "parti",
+        "tiltraedelse",
+        "afgang",
+        "regeringer"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Justitsminister_(Danmark)",
+      "updated": "2026-10",
+      "size": 16339,
+      "files": {
+        "csv": {
+          "name": "da-justitsministre_DA.csv",
+          "size": 6904
+        },
+        "xlsx": {
+          "name": "da-justitsministre_DA.xlsx",
+          "size": 10173
         }
       }
     },

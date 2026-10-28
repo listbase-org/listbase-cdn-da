@@ -1,0 +1,534 @@
+{
+  "id": "da-justitsministre",
+  "name": "Danmarks justitsministre",
+  "title": "Danmarks justitsministre",
+  "description": "Liste over Danmarks justitsministre siden 1848 med parti, tiltrædelse, afgang og regeringer.",
+  "category": "law",
+  "source": "https://da.wikipedia.org/wiki/Justitsminister_(Danmark)",
+  "source_url": "https://da.wikipedia.org/wiki/Justitsminister_(Danmark)",
+  "updated": "2026-10",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "justitsminister",
+      "label": "Justitsminister",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "tiltraedelse",
+      "label": "Tiltraedelse",
+      "type": "string"
+    },
+    {
+      "key": "afgang",
+      "label": "Afgang",
+      "type": "string"
+    },
+    {
+      "key": "regeringer",
+      "label": "Regeringer",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "justitsminister": "Carl Emil Bardenfleth",
+      "parti": "",
+      "tiltraedelse": "22.03.1848",
+      "afgang": "13.07.1851",
+      "regeringer": "Ministeriet Moltke I, Ministeriet Moltke II"
+    },
+    {
+      "justitsminister": "Anton Wilhelm Scheel",
+      "parti": "",
+      "tiltraedelse": "13.07.1851",
+      "afgang": "15.01.1855",
+      "regeringer": "Ministeriet Moltke III, Ministeriet Moltke IV, Ministeriet Bluhme I, Ministeriet Ørsted, Ministeriet Bang"
+    },
+    {
+      "justitsminister": "Carl Frederik Simony",
+      "parti": "De Nationalliberale",
+      "tiltraedelse": "15.01.1855",
+      "afgang": "02.12.1859",
+      "regeringer": "Ministeriet Bang, Ministeriet Andræ, Ministeriet Hall I"
+    },
+    {
+      "justitsminister": "Carl Eduard Rotwitt",
+      "parti": "?",
+      "tiltraedelse": "02.12.1859",
+      "afgang": "08.02.1860",
+      "regeringer": "Ministeriet Rotwitt"
+    },
+    {
+      "justitsminister": "Andreas Lorentz Casse",
+      "parti": "De Nationalliberale",
+      "tiltraedelse": "08.02.1860",
+      "afgang": "11.07.1864",
+      "regeringer": "Ministeriet Hall II"
+    },
+    {
+      "justitsminister": "Eugenius Sophus Ernst Heltzen",
+      "parti": "?",
+      "tiltraedelse": "11.07.1864",
+      "afgang": "30.03.1865",
+      "regeringer": "Ministeriet Hall II"
+    },
+    {
+      "justitsminister": "Cosmus Bræstrup",
+      "parti": "",
+      "tiltraedelse": "30.03.1865",
+      "afgang": "06.11.1865",
+      "regeringer": "Ministeriet Bluhme II"
+    },
+    {
+      "justitsminister": "C.P.G. Leuning",
+      "parti": "De Nationalliberale",
+      "tiltraedelse": "06.11.1865",
+      "afgang": "21.07.1867",
+      "regeringer": "Ministeriet Frijs"
+    },
+    {
+      "justitsminister": "C.P.T. Rosenørn-Teilmann",
+      "parti": "",
+      "tiltraedelse": "21.07.1867",
+      "afgang": "10.08.1868",
+      "regeringer": "Ministeriet Frijs"
+    },
+    {
+      "justitsminister": "C.L.V.R. Nutzhorn",
+      "parti": "",
+      "tiltraedelse": "10.08.1868",
+      "afgang": "28.05.1870",
+      "regeringer": "Ministeriet Frijs"
+    },
+    {
+      "justitsminister": "A.F. Krieger",
+      "parti": "De Nationalliberale",
+      "tiltraedelse": "28.05.1870",
+      "afgang": "26.06.1872",
+      "regeringer": "Ministeriet Holstein-Holsteinborg"
+    },
+    {
+      "justitsminister": "C.S. Klein",
+      "parti": "",
+      "tiltraedelse": "26.06.1872",
+      "afgang": "11.06.1875",
+      "regeringer": "Ministeriet Holstein-Holsteinborg, Ministeriet Fonnesbech"
+    },
+    {
+      "justitsminister": "Johannes Nellemann",
+      "parti": "Højre",
+      "tiltraedelse": "11.06.1875",
+      "afgang": "13.06.1896",
+      "regeringer": "Ministeriet Estrup, Ministeriet Reedtz-Thott"
+    },
+    {
+      "justitsminister": "N.R. Rump",
+      "parti": "Højre",
+      "tiltraedelse": "13.06.1896",
+      "afgang": "28.08.1899",
+      "regeringer": "Ministeriet Reedtz-Thott, Ministeriet Hørring"
+    },
+    {
+      "justitsminister": "Hugo Egmont Hørring",
+      "parti": "Højre",
+      "tiltraedelse": "28.08.1899",
+      "afgang": "27.04.1900",
+      "regeringer": "Ministeriet Hørring"
+    },
+    {
+      "justitsminister": "Carl Goos",
+      "parti": "Højre",
+      "tiltraedelse": "27.04.1900",
+      "afgang": "24.07.1901",
+      "regeringer": "Ministeriet Sehested"
+    },
+    {
+      "justitsminister": "Peter Adler Alberti",
+      "parti": "Venstrereformpartiet",
+      "tiltraedelse": "24.07.1901",
+      "afgang": "24.07.1908",
+      "regeringer": "Regeringen Deuntzer, Regeringen Christensen l"
+    },
+    {
+      "justitsminister": "Svend Høgsbro",
+      "parti": "Venstre",
+      "tiltraedelse": "24.07.1908",
+      "afgang": "28.10.1909",
+      "regeringer": "Regeringen Christensen ll, Regeringen Neergaard I, Regeringen Holstein-Ledreborg"
+    },
+    {
+      "justitsminister": "Carl Theodor Zahle",
+      "parti": "Det Radikale Venstre",
+      "tiltraedelse": "28.10.1909",
+      "afgang": "05.07.1910",
+      "regeringer": "Ministeriet Zahle I"
+    },
+    {
+      "justitsminister": "Frits Bülow",
+      "parti": "Højre senere Venstre",
+      "tiltraedelse": "05.07.1910",
+      "afgang": "21.06.1913",
+      "regeringer": "Ministeriet Klaus Berntsen"
+    },
+    {
+      "justitsminister": "Carl Theodor Zahle",
+      "parti": "Det Radikale Venstre",
+      "tiltraedelse": "21.06.1913",
+      "afgang": "30.03.1920",
+      "regeringer": "Ministeriet Zahle II"
+    },
+    {
+      "justitsminister": "Otto Liebe",
+      "parti": "u.p",
+      "tiltraedelse": "30.03.1920",
+      "afgang": "02.04.1920",
+      "regeringer": "Ministeriet Otto Liebe"
+    },
+    {
+      "justitsminister": "Kristian Sindballe",
+      "parti": "u.p",
+      "tiltraedelse": "02.04.1920",
+      "afgang": "05.04.1920",
+      "regeringer": "Ministeriet Otto Liebe"
+    },
+    {
+      "justitsminister": "F.C.G. Schrøder",
+      "parti": "u.p",
+      "tiltraedelse": "05.04.1920",
+      "afgang": "05.05.1920",
+      "regeringer": "Ministeriet M.P. Friis"
+    },
+    {
+      "justitsminister": "Svenning Rytter",
+      "parti": "Venstre",
+      "tiltraedelse": "05.05.1920",
+      "afgang": "23.04.1924",
+      "regeringer": "Ministeriet Neergaard II & III"
+    },
+    {
+      "justitsminister": "K.K. Steincke",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "23.04.1924",
+      "afgang": "14.12.1926",
+      "regeringer": "Ministeriet Thorvald Stauning I"
+    },
+    {
+      "justitsminister": "Svenning Rytter",
+      "parti": "Venstre",
+      "tiltraedelse": "14.12.1926",
+      "afgang": "30.04.1929",
+      "regeringer": "Ministeriet Madsen-Mygdal"
+    },
+    {
+      "justitsminister": "Carl Theodor Zahle",
+      "parti": "Radikale Venstre",
+      "tiltraedelse": "30.04.1929",
+      "afgang": "04.11.1935",
+      "regeringer": "Ministeriet Thorvald Stauning II"
+    },
+    {
+      "justitsminister": "K.K. Steincke",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "04.11.1935",
+      "afgang": "15.09.1939",
+      "regeringer": "Ministeriet Thorvald Stauning II"
+    },
+    {
+      "justitsminister": "Sv. Unmack Larsen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "15.09.1939",
+      "afgang": "08.07.1940",
+      "regeringer": "Ministeriet Thorvald Stauning II"
+    },
+    {
+      "justitsminister": "Harald Petersen",
+      "parti": "u.p",
+      "tiltraedelse": "08.07.1940",
+      "afgang": "09.07.1941",
+      "regeringer": "Ministeriet Thorvald Stauning III"
+    },
+    {
+      "justitsminister": "E. Thune Jacobsen",
+      "parti": "u.p",
+      "tiltraedelse": "09.07.1941",
+      "afgang": "05.05.1945",
+      "regeringer": "Ministeriet Thorvald Stauning III, Regeringen Vilhelm Buhl I, Regeringen Scavenius"
+    },
+    {
+      "justitsminister": "N. Busch-Jensen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "05.05.1945",
+      "afgang": "07.11.1945",
+      "regeringer": "Regeringen Vilhelm Buhl II"
+    },
+    {
+      "justitsminister": "A.L.H. Elmquist",
+      "parti": "Venstre",
+      "tiltraedelse": "07.11.1945",
+      "afgang": "13.11.1947",
+      "regeringer": "Regeringen Knud Kristensen"
+    },
+    {
+      "justitsminister": "N. Busch-Jensen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "13.11.1947",
+      "afgang": "25.02.1950",
+      "regeringer": "Regeringen Hans Hedtoft I"
+    },
+    {
+      "justitsminister": "Vilhelm Buhl",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "25.02.1950",
+      "afgang": "04.03.1950",
+      "regeringer": "Regeringen Hans Hedtoft I"
+    },
+    {
+      "justitsminister": "K.K. Steincke",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "04.03.1950",
+      "afgang": "30.10.1950",
+      "regeringer": "Regeringen Hans Hedtoft I"
+    },
+    {
+      "justitsminister": "Helga Pedersen",
+      "parti": "Venstre",
+      "tiltraedelse": "30.10.1950",
+      "afgang": "01.10.1953",
+      "regeringer": "Regeringen Erik Eriksen"
+    },
+    {
+      "justitsminister": "Hans Hækkerup",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "01.10.1953",
+      "afgang": "26.09.1964",
+      "regeringer": "Regeringen Hans Hedtoft II, Regeringen H.C. Hansen I & II, Regeringen Viggo Kampmann I & II, Regeringen Jens Otto Krag I"
+    },
+    {
+      "justitsminister": "K. Axel Nielsen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "26.09.1964",
+      "afgang": "02.02.1968",
+      "regeringer": "Regeringen Jens Otto Krag II"
+    },
+    {
+      "justitsminister": "Knud Thestrup",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "02.02.1968",
+      "afgang": "11.10.1971",
+      "regeringer": "Regeringen Hilmar Baunsgaard"
+    },
+    {
+      "justitsminister": "K. Axel Nielsen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "11.10.1971",
+      "afgang": "27.09.1973",
+      "regeringer": "Regeringen Jens Otto Krag III & Regeringen Anker Jørgensen I"
+    },
+    {
+      "justitsminister": "Karl Hjortnæs",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "27.09.1973",
+      "afgang": "19.12.1973",
+      "regeringer": "Regeringen Anker Jørgensen I"
+    },
+    {
+      "justitsminister": "Nathalie Lind",
+      "parti": "Venstre",
+      "tiltraedelse": "19.12.1973",
+      "afgang": "13.02.1975",
+      "regeringer": "Regeringen Poul Hartling"
+    },
+    {
+      "justitsminister": "Orla Møller",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "13.02.1975",
+      "afgang": "01.10.1977",
+      "regeringer": "Regeringen Anker Jørgensen II"
+    },
+    {
+      "justitsminister": "Erling Jensen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "01.10.1977",
+      "afgang": "30.08.1978",
+      "regeringer": "Regeringen Anker Jørgensen II"
+    },
+    {
+      "justitsminister": "Nathalie Lind",
+      "parti": "Venstre",
+      "tiltraedelse": "30.08.1978",
+      "afgang": "26.10.1979",
+      "regeringer": "Regeringen Anker Jørgensen III"
+    },
+    {
+      "justitsminister": "Henning Rasmussen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "26.10.1979",
+      "afgang": "20.01.1981",
+      "regeringer": "Regeringen Anker Jørgensen IV"
+    },
+    {
+      "justitsminister": "Ole Espersen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "20.01.1981",
+      "afgang": "10.09.1982",
+      "regeringer": "Regeringen Anker Jørgensen IV & V"
+    },
+    {
+      "justitsminister": "Erik Ninn-Hansen",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "10.09.1982",
+      "afgang": "10.01.1989",
+      "regeringer": "Regeringen Poul Schlüter I, II & III"
+    },
+    {
+      "justitsminister": "H.P. Clausen",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "10.01.1989",
+      "afgang": "03.10.1989",
+      "regeringer": "Regeringen Poul Schlüter III"
+    },
+    {
+      "justitsminister": "Poul Schlüter",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "03.10.1989",
+      "afgang": "05.10.1989",
+      "regeringer": "Regeringen Poul Schlüter III"
+    },
+    {
+      "justitsminister": "Hans Engell",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "05.10.1989",
+      "afgang": "25.01.1993",
+      "regeringer": "Regeringen Poul Schlüter III & IV"
+    },
+    {
+      "justitsminister": "Pia Gjellerup",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "25.01.1993",
+      "afgang": "29.03.1993",
+      "regeringer": "Regeringen Poul Nyrup Rasmussen I"
+    },
+    {
+      "justitsminister": "Erling Olsen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "29.03.1993",
+      "afgang": "27.09.1994",
+      "regeringer": "Regeringen Poul Nyrup Rasmussen I"
+    },
+    {
+      "justitsminister": "Bjørn Westh",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "27.09.1994",
+      "afgang": "30.12.1996",
+      "regeringer": "Regeringen Poul Nyrup Rasmussen II"
+    },
+    {
+      "justitsminister": "Frank Jensen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "30.12.1996",
+      "afgang": "27.11.2001",
+      "regeringer": "Regeringen Poul Nyrup Rasmussen III & IV"
+    },
+    {
+      "justitsminister": "Lene Espersen",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "27.11.2001",
+      "afgang": "10.09.2008",
+      "regeringer": "Regeringen Anders Fogh Rasmussen I, II & III"
+    },
+    {
+      "justitsminister": "Brian Mikkelsen",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "10.09.2008",
+      "afgang": "23.02.2010",
+      "regeringer": "Regeringen Anders Fogh Rasmussen III & Regeringen Lars Løkke Rasmussen I"
+    },
+    {
+      "justitsminister": "Lars Barfoed",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "23.02.2010",
+      "afgang": "03.10.2011",
+      "regeringer": "Regeringen Lars Løkke Rasmussen I"
+    },
+    {
+      "justitsminister": "Morten Bødskov",
+      "parti": "Socialdemokraterne",
+      "tiltraedelse": "03.10.2011",
+      "afgang": "12.12.2013",
+      "regeringer": "Regeringen Helle Thorning-Schmidt I"
+    },
+    {
+      "justitsminister": "Karen Hækkerup",
+      "parti": "Socialdemokraterne",
+      "tiltraedelse": "12.12.2013",
+      "afgang": "10.10.2014",
+      "regeringer": "Regeringen Helle Thorning-Schmidt I og II"
+    },
+    {
+      "justitsminister": "Mette Frederiksen",
+      "parti": "Socialdemokraterne",
+      "tiltraedelse": "10.10.2014",
+      "afgang": "28.06.2015",
+      "regeringer": "Regeringen Helle Thorning-Schmidt II"
+    },
+    {
+      "justitsminister": "Søren Pind",
+      "parti": "Venstre",
+      "tiltraedelse": "28.06.2015",
+      "afgang": "28.11.2016",
+      "regeringer": "Regeringen Lars Løkke Rasmussen II"
+    },
+    {
+      "justitsminister": "Søren Pape Poulsen",
+      "parti": "Konservative Folkeparti",
+      "tiltraedelse": "28.11.2016",
+      "afgang": "27.06.2019",
+      "regeringer": "Regeringen Lars Løkke Rasmussen III"
+    },
+    {
+      "justitsminister": "Nick Hækkerup",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "27.06.2019",
+      "afgang": "01.05.2022",
+      "regeringer": "Regeringen Mette Frederiksen I"
+    },
+    {
+      "justitsminister": "Mattias Tesfaye",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "02.05.2022",
+      "afgang": "15.12.2022",
+      "regeringer": "Regeringen Mette Frederiksen I"
+    },
+    {
+      "justitsminister": "Peter Hummelgaard",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "15.12.2022",
+      "afgang": "03.06.2026",
+      "regeringer": "Regeringen Mette Frederiksen II"
+    },
+    {
+      "justitsminister": "Nicolai Wammen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "03.06.2026",
+      "afgang": "Nuværende",
+      "regeringer": "Regeringen Mette Frederiksen III"
+    }
+  ],
+  "meta": {
+    "title": "Danmarks justitsministre - Free Download",
+    "description": "Liste over Danmarks justitsministre siden 1848 med parti, tiltrædelse, afgang og regeringer. Contains 69 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danmarks justitsministre | ListBase",
+    "seo_description": "Download Danmarks justitsministre — 69 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 69 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Justitsminister_(Danmark)"
+    ]
+  }
+}
