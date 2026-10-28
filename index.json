@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-28T02:22:08.957Z",
-  "total_datasets": 441,
-  "total_records": 236387,
+  "generated": "2026-10-28T02:22:11.514Z",
+  "total_datasets": 442,
+  "total_records": 236421,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -3692,6 +3692,31 @@
         "xlsx": {
           "name": "da-dansk-melodi-grand-prix-vindere_DA.xlsx",
           "size": 11673
+        }
+      }
+    },
+    {
+      "id": "da-dma-aarets-danske-album",
+      "name": "Danish Music Award for Årets danske album",
+      "category": "music",
+      "record_count": 34,
+      "columns": [
+        "aar",
+        "vinder",
+        "album",
+        "nominerede"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danish_Music_Award_for_Årets_danske_album",
+      "updated": "2026-10",
+      "size": 9409,
+      "files": {
+        "csv": {
+          "name": "da-dma-aarets-danske-album_DA.csv",
+          "size": 5209
+        },
+        "xlsx": {
+          "name": "da-dma-aarets-danske-album_DA.xlsx",
+          "size": 9991
         }
       }
     },
