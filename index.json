@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-28T02:22:13.926Z",
-  "total_datasets": 443,
-  "total_records": 236490,
+  "generated": "2026-10-28T02:22:16.421Z",
+  "total_datasets": 444,
+  "total_records": 236526,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -11018,6 +11018,30 @@
         "xlsx": {
           "name": "da-stadioner_DA.xlsx",
           "size": 9264
+        }
+      }
+    },
+    {
+      "id": "da-superligaen-topscorere",
+      "name": "Topscorere i Superligaen pr. sæson",
+      "category": "sports",
+      "record_count": 36,
+      "columns": [
+        "saeson",
+        "maal",
+        "topscorer"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Superligaen",
+      "updated": "2026-10",
+      "size": 5431,
+      "files": {
+        "csv": {
+          "name": "da-superligaen-topscorere_DA.csv",
+          "size": 1875
+        },
+        "xlsx": {
+          "name": "da-superligaen-topscorere_DA.xlsx",
+          "size": 8102
         }
       }
     },

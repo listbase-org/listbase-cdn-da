@@ -1,0 +1,221 @@
+{
+  "id": "da-superligaen-topscorere",
+  "name": "Topscorere i Superligaen pr. sæson",
+  "title": "Topscorere i Superligaen pr. sæson",
+  "description": "Topscorer(e) og antal mål i hver sæson af den danske Superliga siden 1991.",
+  "category": "sports",
+  "source": "https://da.wikipedia.org/wiki/Superligaen",
+  "source_url": "https://da.wikipedia.org/wiki/Superligaen",
+  "updated": "2026-10",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "saeson",
+      "label": "Saeson",
+      "type": "number"
+    },
+    {
+      "key": "maal",
+      "label": "Maal",
+      "type": "number"
+    },
+    {
+      "key": "topscorer",
+      "label": "Topscorer",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "saeson": "1991",
+      "maal": 11,
+      "topscorer": "Bent Christensen (Brøndby IF)"
+    },
+    {
+      "saeson": "1991-92",
+      "maal": 17,
+      "topscorer": "Peter Møller (AaB)"
+    },
+    {
+      "saeson": "1992-93",
+      "maal": 20,
+      "topscorer": "Peter Møller (AaB)"
+    },
+    {
+      "saeson": "1993-94",
+      "maal": 18,
+      "topscorer": "Søren Frederiksen (Viborg FF / Silkeborg IF)"
+    },
+    {
+      "saeson": "1994-95",
+      "maal": 24,
+      "topscorer": "Erik Bo Andersen (AaB)"
+    },
+    {
+      "saeson": "1995-96",
+      "maal": 20,
+      "topscorer": "Thomas Thorninger (AGF)"
+    },
+    {
+      "saeson": "1996-97",
+      "maal": 26,
+      "topscorer": "Miklos Molnar (Lyngby FC)"
+    },
+    {
+      "saeson": "1997-98",
+      "maal": 28,
+      "topscorer": "Ebbe Sand (Brøndby IF)"
+    },
+    {
+      "saeson": "1998-99",
+      "maal": 23,
+      "topscorer": "Heine Fernandez (Viborg FF)"
+    },
+    {
+      "saeson": "1999-00",
+      "maal": 16,
+      "topscorer": "Peter Lassen (Silkeborg IF)"
+    },
+    {
+      "saeson": "2000-01",
+      "maal": 21,
+      "topscorer": "Peter Graulund (Brøndby IF)"
+    },
+    {
+      "saeson": "2001-02",
+      "maal": 22,
+      "topscorer": "Peter Madsen (Brøndby IF) og Kaspar Dalgas (OB)"
+    },
+    {
+      "saeson": "2002-03",
+      "maal": 18,
+      "topscorer": "Søren Frederiksen (Viborg FF) og Jan Kristiansen (Esbjerg fB)"
+    },
+    {
+      "saeson": "2003-04",
+      "maal": 19,
+      "topscorer": "Steffen Højer (OB), Mwape Miti (OB), Mohamed Zidan (FC Midtjylland) og Tommy Bechmann (Esbjerg fB)"
+    },
+    {
+      "saeson": "2004-05",
+      "maal": 20,
+      "topscorer": "Steffen Højer (OB)"
+    },
+    {
+      "saeson": "2005-06",
+      "maal": 16,
+      "topscorer": "Steffen Højer (Viborg FF) og Morten Nordstrand (FC Nordsjælland)"
+    },
+    {
+      "saeson": "2006-07",
+      "maal": 19,
+      "topscorer": "Rade Prica (AaB)"
+    },
+    {
+      "saeson": "2007-08",
+      "maal": 17,
+      "topscorer": "Jeppe Curth (AaB)"
+    },
+    {
+      "saeson": "2008-09",
+      "maal": 16,
+      "topscorer": "Marc Nygaard (Randers FC) og Morten Nordstrand (F.C. København)"
+    },
+    {
+      "saeson": "2009-10",
+      "maal": 18,
+      "topscorer": "Peter Utaka (OB)"
+    },
+    {
+      "saeson": "2010-11",
+      "maal": 25,
+      "topscorer": "Dame N'Doye (F.C. København)"
+    },
+    {
+      "saeson": "2011-12",
+      "maal": 18,
+      "topscorer": "Dame N'Doye (F.C. København)"
+    },
+    {
+      "saeson": "2012-13",
+      "maal": 18,
+      "topscorer": "Andreas Cornelius (F.C. København)"
+    },
+    {
+      "saeson": "2013-14",
+      "maal": 18,
+      "topscorer": "Thomas Dalgaard (Viborg FF)"
+    },
+    {
+      "saeson": "2014-15",
+      "maal": 17,
+      "topscorer": "Martin Pušić (Esbjerg fB, FC Midtjylland)"
+    },
+    {
+      "saeson": "2015-16",
+      "maal": 18,
+      "topscorer": "Lukas Spalvis (AaB)"
+    },
+    {
+      "saeson": "2016-17",
+      "maal": 23,
+      "topscorer": "Marcus Ingvartsen (FC Nordsjælland)"
+    },
+    {
+      "saeson": "2017-18",
+      "maal": 22,
+      "topscorer": "Pål Alexander Kirkevold (Hobro IK)"
+    },
+    {
+      "saeson": "2018-19",
+      "maal": "29 (rekord)",
+      "topscorer": "Robert Skov (F.C. København)"
+    },
+    {
+      "saeson": "2019-20",
+      "maal": 18,
+      "topscorer": "Ronnie Schwartz (Silkeborg IF / FC Midtjylland)"
+    },
+    {
+      "saeson": "2020-21",
+      "maal": 19,
+      "topscorer": "Mikael Uhre (Brøndby IF)"
+    },
+    {
+      "saeson": "2021-22",
+      "maal": 17,
+      "topscorer": "Nicklas Helenius (Silkeborg IF)"
+    },
+    {
+      "saeson": "2022-23",
+      "maal": 18,
+      "topscorer": "Gustav Isaksen (FC Midtjylland)"
+    },
+    {
+      "saeson": "2023-24",
+      "maal": 15,
+      "topscorer": "German Onugkha (Vejle FC)"
+    },
+    {
+      "saeson": "2024-25",
+      "maal": 20,
+      "topscorer": "Patrick Mortensen (AGF)"
+    },
+    {
+      "saeson": "2025-26",
+      "maal": 17,
+      "topscorer": "Franculino Djú (FC Midtjylland)"
+    }
+  ],
+  "meta": {
+    "title": "Topscorere i Superligaen pr. sæson - Free Download",
+    "description": "Topscorer(e) og antal mål i hver sæson af den danske Superliga siden 1991. Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Topscorere i Superligaen pr. sæson | ListBase",
+    "seo_description": "Download Topscorere i Superligaen pr. sæson — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Superligaen"
+    ]
+  }
+}
