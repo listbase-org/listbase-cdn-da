@@ -1,0 +1,916 @@
+{
+  "id": "da-bodilprisen-bedste-danske-film",
+  "name": "Bodilprisen for bedste danske film",
+  "title": "Bodilprisen for bedste danske film",
+  "description": "Vindere af Bodilprisen for bedste danske film siden 1950 samt nominerede film fra 2010 og frem, med instruktør.",
+  "category": "entertainment",
+  "source": "https://da.wikipedia.org/wiki/Bodilprisen_for_bedste_danske_film",
+  "source_url": "https://da.wikipedia.org/wiki/Bodilprisen_for_bedste_danske_film",
+  "updated": "2026-10",
+  "record_count": 145,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "instruktoer",
+      "label": "Instruktoer",
+      "type": "string"
+    },
+    {
+      "key": "vinder",
+      "label": "Vinder",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1950,
+      "film": "Susanne",
+      "instruktoer": "Torben Anton Svendsen",
+      "vinder": true
+    },
+    {
+      "aar": 1951,
+      "film": "Café Paradis",
+      "instruktoer": "Bodil Ipsen og Lau Lauritzen Jr.",
+      "vinder": true
+    },
+    {
+      "aar": 1952,
+      "film": "Det sande ansigt",
+      "instruktoer": "Bodil Ipsen og Lau Lauritzen Jr.",
+      "vinder": true
+    },
+    {
+      "aar": 1953,
+      "film": "Adam og Eva",
+      "instruktoer": "Erik Balling",
+      "vinder": true
+    },
+    {
+      "aar": 1954,
+      "film": "Farlig ungdom",
+      "instruktoer": "Lau Lauritzen Jr.",
+      "vinder": true
+    },
+    {
+      "aar": 1955,
+      "film": "Ordet og Der kom en dag",
+      "instruktoer": "Carl Th. Dreyer og Sven Methling",
+      "vinder": true
+    },
+    {
+      "aar": 1956,
+      "film": "På tro og love",
+      "instruktoer": "Torben Anton Svendsen",
+      "vinder": true
+    },
+    {
+      "aar": 1957,
+      "film": "Ingen tid til kærtegn",
+      "instruktoer": "Annelise Hovmand",
+      "vinder": true
+    },
+    {
+      "aar": 1958,
+      "film": "Bundfald",
+      "instruktoer": "Palle Kjærulff-Schmidt og Robert Saaskin",
+      "vinder": true
+    },
+    {
+      "aar": 1959,
+      "film": "En fremmed banker på",
+      "instruktoer": "Johan Jacobsen",
+      "vinder": true
+    },
+    {
+      "aar": 1960,
+      "film": "Vi er allesammen tossede",
+      "instruktoer": "Sven Methling",
+      "vinder": true
+    },
+    {
+      "aar": 1961,
+      "film": "Den sidste vinter",
+      "instruktoer": "Edvin Tiemroth og Anker Sørensen",
+      "vinder": true
+    },
+    {
+      "aar": 1962,
+      "film": "Harry og kammertjeneren",
+      "instruktoer": "Bent Christensen",
+      "vinder": true
+    },
+    {
+      "aar": 1963,
+      "film": "Weekend",
+      "instruktoer": "Palle Kjærulff-Schmidt",
+      "vinder": true
+    },
+    {
+      "aar": 1964,
+      "film": "Gaden uden ende",
+      "instruktoer": "Mogens Vemmer",
+      "vinder": true
+    },
+    {
+      "aar": 1965,
+      "film": "Gertrud",
+      "instruktoer": "Carl Th. Dreyer",
+      "vinder": true
+    },
+    {
+      "aar": 1966,
+      "film": "Slå først, Frede",
+      "instruktoer": "Erik Balling",
+      "vinder": true
+    },
+    {
+      "aar": 1967,
+      "film": "Sult",
+      "instruktoer": "Henning Carlsen",
+      "vinder": true
+    },
+    {
+      "aar": 1968,
+      "film": "Mennesker mødes og sød musik opstår i hjertet",
+      "instruktoer": "Henning Carlsen",
+      "vinder": true
+    },
+    {
+      "aar": 1969,
+      "film": "Balladen om Carl-Henning",
+      "instruktoer": "Lene og Sven Grønlykke",
+      "vinder": true
+    },
+    {
+      "aar": 1970,
+      "film": "Midt i en jazztid",
+      "instruktoer": "Knud Leif Thomsen",
+      "vinder": true
+    },
+    {
+      "aar": 1971,
+      "film": "Ang.: Lone",
+      "instruktoer": "Franz Ernst",
+      "vinder": true
+    },
+    {
+      "aar": 1972,
+      "film": "Den forsvundne fuldmægtig",
+      "instruktoer": "Gert Fredholm",
+      "vinder": true
+    },
+    {
+      "aar": 1973,
+      "film": "Flugten",
+      "instruktoer": "Hans Kristensen",
+      "vinder": true
+    },
+    {
+      "aar": 1974,
+      "film": "",
+      "instruktoer": "",
+      "vinder": true
+    },
+    {
+      "aar": 1975,
+      "film": "Lars-Ole 5.c",
+      "instruktoer": "Nils Malmros",
+      "vinder": true
+    },
+    {
+      "aar": 1976,
+      "film": "Den korte sommer",
+      "instruktoer": "Edward Fleming",
+      "vinder": true
+    },
+    {
+      "aar": 1977,
+      "film": "Drenge",
+      "instruktoer": "Nils Malmros",
+      "vinder": true
+    },
+    {
+      "aar": 1978,
+      "film": "Mig og Charly",
+      "instruktoer": "Morten Arnfred og Henning Kristiansen",
+      "vinder": true
+    },
+    {
+      "aar": 1979,
+      "film": "Honning Måne",
+      "instruktoer": "Bille August",
+      "vinder": true
+    },
+    {
+      "aar": 1980,
+      "film": "Johnny Larsen",
+      "instruktoer": "Morten Arnfred",
+      "vinder": true
+    },
+    {
+      "aar": 1981,
+      "film": "Jeppe på bjerget",
+      "instruktoer": "Kaspar Rostrup",
+      "vinder": true
+    },
+    {
+      "aar": 1982,
+      "film": "Gummi-Tarzan",
+      "instruktoer": "Søren Kragh-Jacobsen",
+      "vinder": true
+    },
+    {
+      "aar": 1983,
+      "film": "Der er et yndigt land",
+      "instruktoer": "Morten Arnfred",
+      "vinder": true
+    },
+    {
+      "aar": 1984,
+      "film": "Skønheden og udyret",
+      "instruktoer": "Nils Malmros",
+      "vinder": true
+    },
+    {
+      "aar": 1985,
+      "film": "Forbrydelsens element",
+      "instruktoer": "Lars von Trier",
+      "vinder": true
+    },
+    {
+      "aar": 1986,
+      "film": "Manden i månen",
+      "instruktoer": "Erik Clausen",
+      "vinder": true
+    },
+    {
+      "aar": 1987,
+      "film": "Flamberede hjerter",
+      "instruktoer": "Helle Ryslinge",
+      "vinder": true
+    },
+    {
+      "aar": 1988,
+      "film": "Pelle Erobreren",
+      "instruktoer": "Bille August",
+      "vinder": true
+    },
+    {
+      "aar": 1989,
+      "film": "Skyggen af Emma",
+      "instruktoer": "Søren Kragh-Jacobsen",
+      "vinder": true
+    },
+    {
+      "aar": 1990,
+      "film": "Dansen med Regitze",
+      "instruktoer": "Kaspar Rostrup",
+      "vinder": true
+    },
+    {
+      "aar": 1991,
+      "film": "Lad isbjørnene danse",
+      "instruktoer": "Birger Larsen",
+      "vinder": true
+    },
+    {
+      "aar": 1992,
+      "film": "Europa",
+      "instruktoer": "Lars von Trier",
+      "vinder": true
+    },
+    {
+      "aar": 1993,
+      "film": "Kærlighedens smerte",
+      "instruktoer": "Nils Malmros",
+      "vinder": true
+    },
+    {
+      "aar": 1994,
+      "film": "De frigjorte",
+      "instruktoer": "Erik Clausen",
+      "vinder": true
+    },
+    {
+      "aar": 1995,
+      "film": "Riget",
+      "instruktoer": "Lars von Trier",
+      "vinder": true
+    },
+    {
+      "aar": 1996,
+      "film": "Menneskedyret",
+      "instruktoer": "Carsten Rudolf",
+      "vinder": true
+    },
+    {
+      "aar": 1997,
+      "film": "Breaking the Waves",
+      "instruktoer": "Lars von Trier",
+      "vinder": true
+    },
+    {
+      "aar": 1998,
+      "film": "Let's Get Lost",
+      "instruktoer": "Jonas Elmer",
+      "vinder": true
+    },
+    {
+      "aar": 1999,
+      "film": "Festen",
+      "instruktoer": "Thomas Vinterberg",
+      "vinder": true
+    },
+    {
+      "aar": 2000,
+      "film": "Den eneste ene",
+      "instruktoer": "Susanne Bier",
+      "vinder": true
+    },
+    {
+      "aar": 2001,
+      "film": "Bænken",
+      "instruktoer": "Per Fly",
+      "vinder": true
+    },
+    {
+      "aar": 2002,
+      "film": "En kærlighedshistorie",
+      "instruktoer": "Ole Christian Madsen",
+      "vinder": true
+    },
+    {
+      "aar": 2003,
+      "film": "Elsker dig for evigt",
+      "instruktoer": "Susanne Bier",
+      "vinder": true
+    },
+    {
+      "aar": 2004,
+      "film": "Dogville",
+      "instruktoer": "Lars von Trier",
+      "vinder": true
+    },
+    {
+      "aar": 2005,
+      "film": "Kongekabale",
+      "instruktoer": "Nikolaj Arcel",
+      "vinder": true
+    },
+    {
+      "aar": 2006,
+      "film": "Drabet",
+      "instruktoer": "Per Fly",
+      "vinder": true
+    },
+    {
+      "aar": 2007,
+      "film": "En Soap",
+      "instruktoer": "Pernille Fischer Christensen",
+      "vinder": true
+    },
+    {
+      "aar": 2008,
+      "film": "Kunsten at græde i kor",
+      "instruktoer": "Peter Schønau Fog",
+      "vinder": true
+    },
+    {
+      "aar": 2009,
+      "film": "Frygtelig lykkelig",
+      "instruktoer": "Henrik Ruben Genz",
+      "vinder": true
+    },
+    {
+      "aar": 2010,
+      "film": "Antichrist",
+      "instruktoer": "Lars von Trier",
+      "vinder": true
+    },
+    {
+      "aar": 2010,
+      "film": "Applaus",
+      "instruktoer": "Martin Zandvliet",
+      "vinder": false
+    },
+    {
+      "aar": 2010,
+      "film": "Headhunter",
+      "instruktoer": "Rumle Hammerich",
+      "vinder": false
+    },
+    {
+      "aar": 2010,
+      "film": "Kærestesorger",
+      "instruktoer": "Nils Malmros",
+      "vinder": false
+    },
+    {
+      "aar": 2010,
+      "film": "Oldboys",
+      "instruktoer": "Nikolaj Steen",
+      "vinder": false
+    },
+    {
+      "aar": 2011,
+      "film": "R",
+      "instruktoer": "Tobias Lindholm og Michael Noer",
+      "vinder": true
+    },
+    {
+      "aar": 2011,
+      "film": "Hævnen",
+      "instruktoer": "Susanne Bier",
+      "vinder": false
+    },
+    {
+      "aar": 2011,
+      "film": "Klovn",
+      "instruktoer": "Ole Christian Madsen",
+      "vinder": false
+    },
+    {
+      "aar": 2011,
+      "film": "Sandheden om mænd",
+      "instruktoer": "Nikolaj Arcel",
+      "vinder": false
+    },
+    {
+      "aar": 2011,
+      "film": "Submarino",
+      "instruktoer": "Thomas Vinterberg",
+      "vinder": false
+    },
+    {
+      "aar": 2012,
+      "film": "Melancholia",
+      "instruktoer": "Lars von Trier",
+      "vinder": true
+    },
+    {
+      "aar": 2012,
+      "film": "En familie",
+      "instruktoer": "Pernille Fischer Christensen",
+      "vinder": false
+    },
+    {
+      "aar": 2012,
+      "film": "Superclásico",
+      "instruktoer": "Ole Christian Madsen",
+      "vinder": false
+    },
+    {
+      "aar": 2012,
+      "film": "Frit fald",
+      "instruktoer": "Heidi Maria Faisst",
+      "vinder": false
+    },
+    {
+      "aar": 2012,
+      "film": "Dirch",
+      "instruktoer": "Martin Zandvliet",
+      "vinder": false
+    },
+    {
+      "aar": 2013,
+      "film": "Kapringen",
+      "instruktoer": "Tobias Lindholm",
+      "vinder": true
+    },
+    {
+      "aar": 2013,
+      "film": "10 timer til Paradis",
+      "instruktoer": "Mads Matthiesen",
+      "vinder": false
+    },
+    {
+      "aar": 2013,
+      "film": "En kongelig affære",
+      "instruktoer": "Nikolaj Arcel",
+      "vinder": false
+    },
+    {
+      "aar": 2013,
+      "film": "Undskyld jeg forstyrrer",
+      "instruktoer": "Henrik Ruben Genz",
+      "vinder": false
+    },
+    {
+      "aar": 2013,
+      "film": "You & Me Forever",
+      "instruktoer": "Kasper Munk",
+      "vinder": false
+    },
+    {
+      "aar": 2014,
+      "film": "Jagten",
+      "instruktoer": "Thomas Vinterberg",
+      "vinder": true
+    },
+    {
+      "aar": 2014,
+      "film": "Kvinden i buret",
+      "instruktoer": "Mikkel Nørgaard",
+      "vinder": false
+    },
+    {
+      "aar": 2014,
+      "film": "Nordvest",
+      "instruktoer": "Michael Noer",
+      "vinder": false
+    },
+    {
+      "aar": 2014,
+      "film": "Nymphomaniac",
+      "instruktoer": "Lars von Trier",
+      "vinder": false
+    },
+    {
+      "aar": 2014,
+      "film": "Sorg og glæde",
+      "instruktoer": "Nils Malmros",
+      "vinder": false
+    },
+    {
+      "aar": 2015,
+      "film": "Stille hjerte",
+      "instruktoer": "Bille August",
+      "vinder": true
+    },
+    {
+      "aar": 2015,
+      "film": "Når dyrene drømmer",
+      "instruktoer": "Jonas Alexander Arnby",
+      "vinder": false
+    },
+    {
+      "aar": 2015,
+      "film": "Klumpfisken",
+      "instruktoer": "Søren Balle",
+      "vinder": false
+    },
+    {
+      "aar": 2015,
+      "film": "All Inclusive",
+      "instruktoer": "Hella Joof",
+      "vinder": false
+    },
+    {
+      "aar": 2015,
+      "film": "Kapgang",
+      "instruktoer": "Niels Arden Oplev",
+      "vinder": false
+    },
+    {
+      "aar": 2016,
+      "film": "Under sandet",
+      "instruktoer": "Martin Zandvliet",
+      "vinder": true
+    },
+    {
+      "aar": 2016,
+      "film": "Idealisten",
+      "instruktoer": "Christina Rosendahl",
+      "vinder": false
+    },
+    {
+      "aar": 2016,
+      "film": "Bridegend",
+      "instruktoer": "Jeppe Rønde",
+      "vinder": false
+    },
+    {
+      "aar": 2016,
+      "film": "Krigen",
+      "instruktoer": "Tobias Lindholm",
+      "vinder": false
+    },
+    {
+      "aar": 2016,
+      "film": "Sommeren ’92",
+      "instruktoer": "Kasper Barfoed",
+      "vinder": false
+    },
+    {
+      "aar": 2017,
+      "film": "I blodet",
+      "instruktoer": "Rasmus Heisterberg",
+      "vinder": true
+    },
+    {
+      "aar": 2017,
+      "film": "Kollektivet",
+      "instruktoer": "Thomas Vinterberg",
+      "vinder": false
+    },
+    {
+      "aar": 2017,
+      "film": "Forældre",
+      "instruktoer": "Christian Tafdrup",
+      "vinder": false
+    },
+    {
+      "aar": 2017,
+      "film": "Shelley",
+      "instruktoer": "Ali Abbasi",
+      "vinder": false
+    },
+    {
+      "aar": 2017,
+      "film": "The Neon Demon",
+      "instruktoer": "Nicolas Winding Refn",
+      "vinder": false
+    },
+    {
+      "aar": 2018,
+      "film": "Vinterbrødre",
+      "instruktoer": "Hlynur Pálmason",
+      "vinder": true
+    },
+    {
+      "aar": 2018,
+      "film": "En frygtelig kvinde",
+      "instruktoer": "Christian Tafdrup",
+      "vinder": false
+    },
+    {
+      "aar": 2018,
+      "film": "Mens vi lever",
+      "instruktoer": "Mehdi Avaz",
+      "vinder": false
+    },
+    {
+      "aar": 2018,
+      "film": "Team Hurricane",
+      "instruktoer": "Annika Berg",
+      "vinder": false
+    },
+    {
+      "aar": 2018,
+      "film": "Underverden",
+      "instruktoer": "Fenar Ahmad",
+      "vinder": false
+    },
+    {
+      "aar": 2019,
+      "film": "Holiday",
+      "instruktoer": "Isabella Eklöf",
+      "vinder": true
+    },
+    {
+      "aar": 2019,
+      "film": "Den skyldige",
+      "instruktoer": "Gustav Möller",
+      "vinder": false
+    },
+    {
+      "aar": 2019,
+      "film": "Den tid på året",
+      "instruktoer": "Paprika Steen",
+      "vinder": false
+    },
+    {
+      "aar": 2019,
+      "film": "Ditte & Louise",
+      "instruktoer": "Niclas Bendixen",
+      "vinder": false
+    },
+    {
+      "aar": 2019,
+      "film": "Ternet Ninja",
+      "instruktoer": "Anders Matthesen & Thorbjørn Christoffersen",
+      "vinder": false
+    },
+    {
+      "aar": 2020,
+      "film": "Dronningen",
+      "instruktoer": "May el-Toukhy",
+      "vinder": true
+    },
+    {
+      "aar": 2020,
+      "film": "Cutterhead",
+      "instruktoer": "Rasmus Kloster Bro",
+      "vinder": false
+    },
+    {
+      "aar": 2020,
+      "film": "De frivillige",
+      "instruktoer": "Frederikke Aspöck",
+      "vinder": false
+    },
+    {
+      "aar": 2020,
+      "film": "Før frosten",
+      "instruktoer": "Michael Noer",
+      "vinder": false
+    },
+    {
+      "aar": 2020,
+      "film": "Onkel",
+      "instruktoer": "René Frelle Petersen",
+      "vinder": false
+    },
+    {
+      "aar": 2021,
+      "film": "Druk",
+      "instruktoer": "Thomas Vinterberg",
+      "vinder": true
+    },
+    {
+      "aar": 2021,
+      "film": "En helt almindelig familie",
+      "instruktoer": "Malou Reymann",
+      "vinder": false
+    },
+    {
+      "aar": 2021,
+      "film": "Retfærdighedens ryttere",
+      "instruktoer": "Anders Thomas Jensen",
+      "vinder": false
+    },
+    {
+      "aar": 2021,
+      "film": "Shorta",
+      "instruktoer": "Anders Ølholm og Frederik Louis Hviid",
+      "vinder": false
+    },
+    {
+      "aar": 2021,
+      "film": "Vores mand i Amerika",
+      "instruktoer": "Christina Rosendahl",
+      "vinder": false
+    },
+    {
+      "aar": 2022,
+      "film": "Hvor kragerne vender",
+      "instruktoer": "Lisa Jespersen",
+      "vinder": true
+    },
+    {
+      "aar": 2022,
+      "film": "Margrete den Første",
+      "instruktoer": "Charlotte Sieling",
+      "vinder": false
+    },
+    {
+      "aar": 2022,
+      "film": "Smagen af sult",
+      "instruktoer": "Christoffer Boe",
+      "vinder": false
+    },
+    {
+      "aar": 2022,
+      "film": "Ternet Ninja 2",
+      "instruktoer": "Anders Matthesen og Thorbjørn Christoffersen",
+      "vinder": false
+    },
+    {
+      "aar": 2022,
+      "film": "Venuseffekten",
+      "instruktoer": "Anna Emma Haudal Nielsen",
+      "vinder": false
+    },
+    {
+      "aar": 2023,
+      "film": "Resten af livet",
+      "instruktoer": "Frelle Petersen",
+      "vinder": true
+    },
+    {
+      "aar": 2023,
+      "film": "Du som er i himlen",
+      "instruktoer": "Tea Lindeburg",
+      "vinder": false
+    },
+    {
+      "aar": 2023,
+      "film": "Holy Spider",
+      "instruktoer": "Ali Abbasi",
+      "vinder": false
+    },
+    {
+      "aar": 2023,
+      "film": "Speak No Evil",
+      "instruktoer": "Christian Tafdrup",
+      "vinder": false
+    },
+    {
+      "aar": 2023,
+      "film": "Vanskabte land",
+      "instruktoer": "Hlynur Pálmason",
+      "vinder": false
+    },
+    {
+      "aar": 2024,
+      "film": "Bastarden",
+      "instruktoer": "Nikolaj Arcel",
+      "vinder": true
+    },
+    {
+      "aar": 2024,
+      "film": "Den store stilhed",
+      "instruktoer": "Katrine Brocks",
+      "vinder": false
+    },
+    {
+      "aar": 2024,
+      "film": "Toves værelse",
+      "instruktoer": "Martin Pieter Zandvliet",
+      "vinder": false
+    },
+    {
+      "aar": 2024,
+      "film": "Ustyrlig",
+      "instruktoer": "Malou Reymann",
+      "vinder": false
+    },
+    {
+      "aar": 2024,
+      "film": "Viften",
+      "instruktoer": "Frederikke Aspöck",
+      "vinder": false
+    },
+    {
+      "aar": 2025,
+      "film": "Vejen hjem",
+      "instruktoer": "Charlotte Sieling",
+      "vinder": true
+    },
+    {
+      "aar": 2025,
+      "film": "Birthday Girl",
+      "instruktoer": "Michael Noer",
+      "vinder": false
+    },
+    {
+      "aar": 2025,
+      "film": "Fuld af kærlighed",
+      "instruktoer": "Christina Rosendahl",
+      "vinder": false
+    },
+    {
+      "aar": 2025,
+      "film": "Kalak",
+      "instruktoer": "Isabella Eklöft",
+      "vinder": false
+    },
+    {
+      "aar": 2025,
+      "film": "Vogter",
+      "instruktoer": "Gustav Møller",
+      "vinder": false
+    },
+    {
+      "aar": 2026,
+      "film": "Det andet offer",
+      "instruktoer": "Zinnini Elkington",
+      "vinder": true
+    },
+    {
+      "aar": 2026,
+      "film": "Hjem kære hjem",
+      "instruktoer": "Frelle Petersen",
+      "vinder": false
+    },
+    {
+      "aar": 2026,
+      "film": "Honey",
+      "instruktoer": "Natasha Arthy",
+      "vinder": false
+    },
+    {
+      "aar": 2026,
+      "film": "Min evige sommer",
+      "instruktoer": "Sylvia Le Fanu",
+      "vinder": false
+    },
+    {
+      "aar": 2026,
+      "film": "Pigen med nålen",
+      "instruktoer": "Magnus von Horn",
+      "vinder": false
+    }
+  ],
+  "meta": {
+    "title": "Bodilprisen for bedste danske film - Free Download",
+    "description": "Vindere af Bodilprisen for bedste danske film siden 1950 samt nominerede film fra 2010 og frem, med instruktør. Contains 145 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bodilprisen for bedste danske film | ListBase",
+    "seo_description": "Download Bodilprisen for bedste danske film — 145 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 145 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Bodilprisen_for_bedste_danske_film"
+    ]
+  }
+}
