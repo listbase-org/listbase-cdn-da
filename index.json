@@ -1,6 +1,6 @@
 {
   "lang": "da",
-  "generated": "2026-10-29T02:10:44.594Z",
+  "generated": "2026-10-29T02:11:08.667Z",
   "total_datasets": 451,
   "total_records": 237184,
   "categories": [
@@ -3645,15 +3645,15 @@
       ],
       "source": "https://da.wikipedia.org/wiki/Danske_dialekter",
       "updated": "2026-10",
-      "size": 6610,
+      "size": 6574,
       "files": {
         "csv": {
           "name": "da-dialekter_DA.csv",
-          "size": 1971
+          "size": 1935
         },
         "xlsx": {
           "name": "da-dialekter_DA.xlsx",
-          "size": 7885
+          "size": 7883
         }
       }
     },
