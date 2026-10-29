@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-28T02:22:21.174Z",
-  "total_datasets": 446,
-  "total_records": 236854,
+  "generated": "2026-10-29T02:10:34.843Z",
+  "total_datasets": 447,
+  "total_records": 236880,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -3631,6 +3631,30 @@
         "xlsx": {
           "name": "da-sprogvarianter_DA.xlsx",
           "size": 8548
+        }
+      }
+    },
+    {
+      "id": "da-byretter",
+      "name": "Danmarks byretter",
+      "category": "law",
+      "record_count": 26,
+      "columns": [
+        "court",
+        "area",
+        "note"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Byret",
+      "updated": "2026-10",
+      "size": 3726,
+      "files": {
+        "csv": {
+          "name": "da-byretter_DA.csv",
+          "size": 945
+        },
+        "xlsx": {
+          "name": "da-byretter_DA.xlsx",
+          "size": 7322
         }
       }
     },

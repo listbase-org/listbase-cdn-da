@@ -1,0 +1,171 @@
+{
+  "id": "da-byretter",
+  "name": "Danmarks byretter",
+  "title": "Danmarks byretter",
+  "description": "Liste over de danske byretter (inkl. Retten i Grønland og Retten på Færøerne) – første instans i retssystemet.",
+  "category": "law",
+  "source": "https://da.wikipedia.org/wiki/Byret",
+  "source_url": "https://da.wikipedia.org/wiki/Byret",
+  "updated": "2026-10",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "court",
+      "label": "Court",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "court": "Københavns Byret",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Esbjerg",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Glostrup",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Helsingør",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Herning",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Hillerød",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Hjørring",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Holbæk",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Holstebro",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Horsens",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Kolding",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Lyngby",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Nykøbing F.",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Næstved",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Odense",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Randers",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Roskilde",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Svendborg",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Sønderborg",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Viborg",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Aalborg",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Aarhus",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten på Bornholm",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten på Frederiksberg",
+      "area": "Danmark",
+      "note": ""
+    },
+    {
+      "court": "Retten i Grønland",
+      "area": "Nordatlanten",
+      "note": "Grønland (desuden 4 kredsretter )"
+    },
+    {
+      "court": "Retten i Tórshavn",
+      "area": "Nordatlanten",
+      "note": "Færøerne"
+    }
+  ],
+  "meta": {
+    "title": "Danmarks byretter - Free Download",
+    "description": "Liste over de danske byretter (inkl. Retten i Grønland og Retten på Færøerne) – første instans i retssystemet. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danmarks byretter | ListBase",
+    "seo_description": "Download Danmarks byretter — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Byret"
+    ]
+  }
+}
