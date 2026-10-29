@@ -1,0 +1,286 @@
+{
+  "id": "da-dialekter",
+  "name": "Danske dialekter",
+  "title": "Danske dialekter",
+  "description": "Oversigt over danske dialekter og mål, ordnet efter hovedgruppe (jysk, ømål, østdansk m.fl.) og undergruppe.",
+  "category": "language",
+  "source": "https://da.wikipedia.org/wiki/Danske_dialekter",
+  "source_url": "https://da.wikipedia.org/wiki/Danske_dialekter",
+  "updated": "2026-10",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "dialect",
+      "label": "Dialect",
+      "type": "string"
+    },
+    {
+      "key": "parent",
+      "label": "Parent",
+      "type": "string"
+    },
+    {
+      "key": "main_group",
+      "label": "Main Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dialect": "Vestjysk",
+      "parent": "Jysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Thybomål",
+      "parent": "Vestjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Morsingmål",
+      "parent": "Vestjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Sallingmål",
+      "parent": "Vestjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Hardsysselsk",
+      "parent": "Vestjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Fjandbomål",
+      "parent": "Vestjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Sydvestjysk",
+      "parent": "Vestjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Sydøstjysk",
+      "parent": "Vestjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Østjysk",
+      "parent": "Jysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Vendelbomål",
+      "parent": "Østjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Hanherredmål",
+      "parent": "Østjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Læsøsk",
+      "parent": "Østjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Himmerlandsk",
+      "parent": "Østjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Ommersysselsk",
+      "parent": "Østjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Djurslandsk (med Samsø og Anholt )",
+      "parent": "Østjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Midøstjysk",
+      "parent": "Østjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Sønderjysk",
+      "parent": "Jysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Vestsønderjysk (med Mandø og Rømø )",
+      "parent": "Sønderjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Østsønderjysk (med Als )",
+      "parent": "Sønderjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Mellemslesvigsk (syd for grænsen )",
+      "parent": "Sønderjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Angelmål (syd for grænsen)",
+      "parent": "Sønderjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Fjoldemål (syd for grænsen)",
+      "parent": "Sønderjysk",
+      "main_group": "Jysk"
+    },
+    {
+      "dialect": "Amagermål",
+      "parent": "Ømål",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Sjællandsk",
+      "parent": "Ømål",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Nordsjællandsk",
+      "parent": "Sjællandsk",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Nordvestsjællandsk",
+      "parent": "Sjællandsk",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Sydvestsjællandsk",
+      "parent": "Sjællandsk",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Østsjællandsk",
+      "parent": "Sjællandsk",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Sydsjællandsk",
+      "parent": "Sjællandsk",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Fynsk",
+      "parent": "Ømål",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Østfynsk",
+      "parent": "Fynsk",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Vestfynsk (nordvest- og sydvestfynsk)",
+      "parent": "Fynsk",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Sydfynsk",
+      "parent": "Fynsk",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Langelandsk",
+      "parent": "Fynsk",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Tåsingsk (med Thurø )",
+      "parent": "Fynsk",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Ærøsk (med Lyø , Avernakø , Strynø , Birkholm og Drejø )",
+      "parent": "Fynsk",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Sydømål",
+      "parent": "Ømål",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Østmønsk",
+      "parent": "Sydømål",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Vestmønsk",
+      "parent": "Sydømål",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Nordfalstersk",
+      "parent": "Sydømål",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Sydfalstersk",
+      "parent": "Sydømål",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Lollandsk",
+      "parent": "Sydømål",
+      "main_group": "Ømål"
+    },
+    {
+      "dialect": "Bornholmsk",
+      "parent": "Østdansk",
+      "main_group": "Østdansk"
+    },
+    {
+      "dialect": "Skånsk",
+      "parent": "Østdansk",
+      "main_group": "Østdansk"
+    },
+    {
+      "dialect": "Listermålet i Blekinge",
+      "parent": "Østdansk",
+      "main_group": "Østdansk"
+    },
+    {
+      "dialect": "Hallandsk",
+      "parent": "Østdansk",
+      "main_group": "Østdansk"
+    },
+    {
+      "dialect": "Gøtudanskt (særlig skandinavisk udtaleform på Færøerne)",
+      "parent": "Gøtudanskt",
+      "main_group": "Gøtudanskt"
+    },
+    {
+      "dialect": "Rigsdansk",
+      "parent": "Gøtudanskt",
+      "main_group": "Gøtudanskt"
+    },
+    {
+      "dialect": "Sydslesvigdansk",
+      "parent": "Gøtudanskt",
+      "main_group": "Gøtudanskt"
+    }
+  ],
+  "meta": {
+    "title": "Danske dialekter - Free Download",
+    "description": "Oversigt over danske dialekter og mål, ordnet efter hovedgruppe (jysk, ømål, østdansk m.fl.) og undergruppe. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danske dialekter | ListBase",
+    "seo_description": "Download Danske dialekter — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danske_dialekter"
+    ]
+  }
+}

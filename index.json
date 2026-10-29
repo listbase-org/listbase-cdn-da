@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-29T02:10:34.843Z",
-  "total_datasets": 447,
-  "total_records": 236880,
+  "generated": "2026-10-29T02:10:37.353Z",
+  "total_datasets": 448,
+  "total_records": 236929,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -3580,6 +3580,30 @@
         "xlsx": {
           "name": "da-vikingeskibe_DA.xlsx",
           "size": 55152
+        }
+      }
+    },
+    {
+      "id": "da-dialekter",
+      "name": "Danske dialekter",
+      "category": "language",
+      "record_count": 49,
+      "columns": [
+        "dialect",
+        "parent",
+        "main_group"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danske_dialekter",
+      "updated": "2026-10",
+      "size": 6610,
+      "files": {
+        "csv": {
+          "name": "da-dialekter_DA.csv",
+          "size": 1971
+        },
+        "xlsx": {
+          "name": "da-dialekter_DA.xlsx",
+          "size": 7885
         }
       }
     },
