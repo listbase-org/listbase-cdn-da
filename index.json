@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-29T02:10:37.353Z",
-  "total_datasets": 448,
-  "total_records": 236929,
+  "generated": "2026-10-29T02:10:39.743Z",
+  "total_datasets": 449,
+  "total_records": 237027,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -3843,6 +3843,43 @@
         "xlsx": {
           "name": "da-folketingets-formaend_DA.xlsx",
           "size": 8627
+        }
+      }
+    },
+    {
+      "id": "da-folketingsvalget-2026-kommuner",
+      "name": "Folketingsvalget 2026 – resultater pr. kommune",
+      "category": "politics",
+      "record_count": 98,
+      "columns": [
+        "kommune",
+        "pct_A",
+        "pct_B",
+        "pct_C",
+        "pct_F",
+        "pct_H",
+        "pct_I",
+        "pct_M",
+        "pct_O",
+        "pct_V",
+        "pct_ae",
+        "pct_oe",
+        "pct_aa",
+        "pct_andre",
+        "pct_roed_blok",
+        "pct_blaa_blok"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Resultater_ved_folketingsvalget_2026",
+      "updated": "2026-10",
+      "size": 38436,
+      "files": {
+        "csv": {
+          "name": "da-folketingsvalget-2026-kommuner_DA.csv",
+          "size": 10158
+        },
+        "xlsx": {
+          "name": "da-folketingsvalget-2026-kommuner_DA.xlsx",
+          "size": 14964
         }
       }
     },
