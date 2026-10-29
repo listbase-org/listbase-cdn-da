@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-29T02:10:42.154Z",
-  "total_datasets": 450,
-  "total_records": 237150,
+  "generated": "2026-10-29T02:10:44.594Z",
+  "total_datasets": 451,
+  "total_records": 237184,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "food",
@@ -2109,6 +2109,32 @@
         "xlsx": {
           "name": "da-pengeautomater_DA.xlsx",
           "size": 8422
+        }
+      }
+    },
+    {
+      "id": "da-pengesedler-kroner",
+      "name": "Danske pengesedler (kroneserier siden 1875)",
+      "category": "finance",
+      "record_count": 34,
+      "columns": [
+        "value",
+        "size_mm",
+        "color",
+        "issued",
+        "replaced_or_updated"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danske_pengesedler",
+      "updated": "2026-10",
+      "size": 7136,
+      "files": {
+        "csv": {
+          "name": "da-pengesedler-kroner_DA.csv",
+          "size": 1831
+        },
+        "xlsx": {
+          "name": "da-pengesedler-kroner_DA.xlsx",
+          "size": 8086
         }
       }
     },

@@ -1,0 +1,289 @@
+{
+  "id": "da-pengesedler-kroner",
+  "name": "Danske pengesedler (kroneserier siden 1875)",
+  "title": "Danske pengesedler (kroneserier siden 1875)",
+  "description": "Danske kronesedler efter serie: pålydende værdi, størrelse, farve samt udgivelses- og udskiftningsår.",
+  "category": "finance",
+  "source": "https://da.wikipedia.org/wiki/Danske_pengesedler",
+  "source_url": "https://da.wikipedia.org/wiki/Danske_pengesedler",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "value",
+      "label": "Value",
+      "type": "string"
+    },
+    {
+      "key": "size_mm",
+      "label": "Size Mm",
+      "type": "string"
+    },
+    {
+      "key": "color",
+      "label": "Color",
+      "type": "string"
+    },
+    {
+      "key": "issued",
+      "label": "Issued",
+      "type": "number"
+    },
+    {
+      "key": "replaced_or_updated",
+      "label": "Replaced Or Updated",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "value": "Kr. 10",
+      "size_mm": "140 × 85",
+      "color": "",
+      "issued": "1875",
+      "replaced_or_updated": "1891"
+    },
+    {
+      "value": "Kr. 50",
+      "size_mm": "188 × 108",
+      "color": "",
+      "issued": "1875",
+      "replaced_or_updated": "1883"
+    },
+    {
+      "value": "Kr. 100",
+      "size_mm": "190 × 110",
+      "color": "",
+      "issued": "1875",
+      "replaced_or_updated": "1888"
+    },
+    {
+      "value": "Kr. 500",
+      "size_mm": "185 × 105",
+      "color": "",
+      "issued": "1875",
+      "replaced_or_updated": "1910"
+    },
+    {
+      "value": "Kr. 5",
+      "size_mm": "124 × 72",
+      "color": "",
+      "issued": "1898",
+      "replaced_or_updated": "1912"
+    },
+    {
+      "value": "Kr. 10",
+      "size_mm": "144 × 89",
+      "color": "",
+      "issued": "1891",
+      "replaced_or_updated": "1913"
+    },
+    {
+      "value": "Kr. 50",
+      "size_mm": "158 × 103",
+      "color": "",
+      "issued": "1883",
+      "replaced_or_updated": "1911"
+    },
+    {
+      "value": "Kr. 100",
+      "size_mm": "162 × 105",
+      "color": "",
+      "issued": "1888",
+      "replaced_or_updated": "1910"
+    },
+    {
+      "value": "Kr. 5",
+      "size_mm": "129 × 71",
+      "color": "Gråblå (1945: Lyseblå)",
+      "issued": "1912",
+      "replaced_or_updated": "1955"
+    },
+    {
+      "value": "Kr. 10",
+      "size_mm": "130 × 79",
+      "color": "Brun (1945: Grågrøn)",
+      "issued": "1913",
+      "replaced_or_updated": "1952"
+    },
+    {
+      "value": "Kr. 50",
+      "size_mm": "156 × 100",
+      "color": "Gråblå (1945: Rødlilla)",
+      "issued": "1911",
+      "replaced_or_updated": "1957"
+    },
+    {
+      "value": "Kr. 100",
+      "size_mm": "158 × 100",
+      "color": "Brunlig (1945: Blågrøn)",
+      "issued": "1910",
+      "replaced_or_updated": "1962"
+    },
+    {
+      "value": "Kr. 500",
+      "size_mm": "174 × 108",
+      "color": "Blå (1945: Brunrød)",
+      "issued": "1910",
+      "replaced_or_updated": "1964"
+    },
+    {
+      "value": "Kr. 5",
+      "size_mm": "125 × 65",
+      "color": "Blågrøn og mørkegrøn",
+      "issued": "1955",
+      "replaced_or_updated": "1960"
+    },
+    {
+      "value": "Kr. 10",
+      "size_mm": "125 × 65. Fra 1954: 125 x 71",
+      "color": "Rødbrun og sort",
+      "issued": "1952",
+      "replaced_or_updated": "1975"
+    },
+    {
+      "value": "Kr. 50",
+      "size_mm": "153 × 78",
+      "color": "Turkis og blå",
+      "issued": "1957",
+      "replaced_or_updated": "1975"
+    },
+    {
+      "value": "Kr. 100",
+      "size_mm": "155 × 84",
+      "color": "Gul, rosa og brun",
+      "issued": "1962",
+      "replaced_or_updated": "1974"
+    },
+    {
+      "value": "Kr. 500",
+      "size_mm": "175 × 90",
+      "color": "Grøn og blåsort",
+      "issued": "1964",
+      "replaced_or_updated": "1972"
+    },
+    {
+      "value": "Kr. 10",
+      "size_mm": "125 × 67",
+      "color": "Gul",
+      "issued": "1975",
+      "replaced_or_updated": "1980"
+    },
+    {
+      "value": "Kr. 20",
+      "size_mm": "125 × 72",
+      "color": "Brun",
+      "issued": "1980",
+      "replaced_or_updated": "1990"
+    },
+    {
+      "value": "Kr. 50",
+      "size_mm": "139 × 72",
+      "color": "Blå",
+      "issued": "1975",
+      "replaced_or_updated": "1999"
+    },
+    {
+      "value": "Kr. 100",
+      "size_mm": "150 × 78",
+      "color": "Rød",
+      "issued": "1974",
+      "replaced_or_updated": "1999"
+    },
+    {
+      "value": "Kr. 500",
+      "size_mm": "164 × 85",
+      "color": "Grøn",
+      "issued": "1972",
+      "replaced_or_updated": "1997"
+    },
+    {
+      "value": "Kr. 1.000",
+      "size_mm": "176 × 94",
+      "color": "Sort",
+      "issued": "1975",
+      "replaced_or_updated": "1998"
+    },
+    {
+      "value": "Kr. 50",
+      "size_mm": "125 × 72",
+      "color": "Lilla",
+      "issued": "7. maj 1999",
+      "replaced_or_updated": "25. august 2005"
+    },
+    {
+      "value": "Kr. 100",
+      "size_mm": "135 × 72",
+      "color": "Orange",
+      "issued": "22. november 1999",
+      "replaced_or_updated": "27. november 2002"
+    },
+    {
+      "value": "Kr. 200",
+      "size_mm": "145 × 72",
+      "color": "Grøn",
+      "issued": "10. marts 1997",
+      "replaced_or_updated": "9. april 2003"
+    },
+    {
+      "value": "Kr. 500",
+      "size_mm": "155 × 72",
+      "color": "Blå",
+      "issued": "12. september 1997",
+      "replaced_or_updated": "24. september 2003"
+    },
+    {
+      "value": "Kr. 1.000",
+      "size_mm": "165 × 72",
+      "color": "Rød",
+      "issued": "18. september 1998",
+      "replaced_or_updated": "25. november 2004"
+    },
+    {
+      "value": "Kr. 50",
+      "size_mm": "125 × 72",
+      "color": "Violet",
+      "issued": "11. august 2009",
+      "replaced_or_updated": ""
+    },
+    {
+      "value": "Kr. 100",
+      "size_mm": "135 × 72",
+      "color": "Orangegul",
+      "issued": "4. maj 2010",
+      "replaced_or_updated": ""
+    },
+    {
+      "value": "Kr. 200",
+      "size_mm": "145 × 72",
+      "color": "Grøn",
+      "issued": "19. oktober 2010",
+      "replaced_or_updated": ""
+    },
+    {
+      "value": "Kr. 500",
+      "size_mm": "155 × 72",
+      "color": "Blå",
+      "issued": "15. februar 2011",
+      "replaced_or_updated": ""
+    },
+    {
+      "value": "Kr. 1.000",
+      "size_mm": "165 × 72",
+      "color": "Rød",
+      "issued": "24. maj 2011",
+      "replaced_or_updated": ""
+    }
+  ],
+  "meta": {
+    "title": "Danske pengesedler (kroneserier siden 1875) - Free Download",
+    "description": "Danske kronesedler efter serie: pålydende værdi, størrelse, farve samt udgivelses- og udskiftningsår. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danske pengesedler (kroneserier siden 1875) | ListBase",
+    "seo_description": "Download Danske pengesedler (kroneserier siden 1875) — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danske_pengesedler"
+    ]
+  }
+}
