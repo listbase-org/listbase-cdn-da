@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-29T02:10:39.743Z",
-  "total_datasets": 449,
-  "total_records": 237027,
+  "generated": "2026-10-29T02:10:42.154Z",
+  "total_datasets": 450,
+  "total_records": 237150,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -3309,6 +3309,30 @@
         "xlsx": {
           "name": "da-tandlaeger_DA.xlsx",
           "size": 15843
+        }
+      }
+    },
+    {
+      "id": "da-koebstaeder",
+      "name": "Danske købstæder",
+      "category": "history",
+      "record_count": 123,
+      "columns": [
+        "name",
+        "modern_name",
+        "status"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danske_købstæder",
+      "updated": "2026-10",
+      "size": 15148,
+      "files": {
+        "csv": {
+          "name": "da-koebstaeder_DA.csv",
+          "size": 5728
+        },
+        "xlsx": {
+          "name": "da-koebstaeder_DA.xlsx",
+          "size": 9482
         }
       }
     },

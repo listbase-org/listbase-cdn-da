@@ -1,0 +1,656 @@
+{
+  "id": "da-koebstaeder",
+  "name": "Danske købstæder",
+  "title": "Danske købstæder",
+  "description": "Liste over nuværende og tidligere danske købstæder samt købstæder i tidligere danske landsdele.",
+  "category": "history",
+  "source": "https://da.wikipedia.org/wiki/Danske_købstæder",
+  "source_url": "https://da.wikipedia.org/wiki/Danske_købstæder",
+  "updated": "2026-10",
+  "record_count": 123,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "modern_name",
+      "label": "Modern Name",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Allinge-Sandvig",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Hasle",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Nexø",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Rønne",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Svaneke",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Aakirkeby",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Frederikssund",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Frederiksværk",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Helsingør",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Hillerød",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Haderslev",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Brønderslev",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Frederikshavn",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Hjørring",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Skagen",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Sæby",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Holbæk",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Kalundborg",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Nykøbing Sjælland",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "København",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Maribo",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Nakskov",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Nykøbing Falster",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Nysted",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Rødby",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Sakskøbing",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Stubbekøbing",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Assens",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Bogense",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Kerteminde",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Middelfart",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Odense",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Præstø",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Næstved",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Stege",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Store Heddinge",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Vordingborg",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Ebeltoft",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Grenaa",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Hobro",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Mariager",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Randers",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Esbjerg",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Ribe",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Varde",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Herning",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Holstebro",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Lemvig",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Ringkøbing",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Skjern",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Struer",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Køge",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Roskilde",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Horsens",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Silkeborg",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Skanderborg",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Korsør",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Ringsted",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Skælskør",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Slagelse",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Sorø",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Faaborg",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Nyborg",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Rudkøbing",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Svendborg",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Ærøskøbing",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Sønderborg",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Nykøbing Mors",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Thisted",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Tønder",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Fredericia",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Kolding",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Vejle",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Skive",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Viborg",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Aabenraa",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Løgstør",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Nibe",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Nørresundby",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Aalborg",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Aarhus",
+      "modern_name": "",
+      "status": "Nuværende købstæder"
+    },
+    {
+      "name": "Borre",
+      "modern_name": "Møn",
+      "status": "Tidligere købstæder"
+    },
+    {
+      "name": "Herrested",
+      "modern_name": "Østfyn",
+      "status": "Tidligere købstæder"
+    },
+    {
+      "name": "Hovsør",
+      "modern_name": " Østerild Sogn nær Thisted",
+      "status": "Tidligere købstæder"
+    },
+    {
+      "name": "Høgekøbing",
+      "modern_name": "",
+      "status": "Tidligere købstæder"
+    },
+    {
+      "name": "Hørsholm",
+      "modern_name": "",
+      "status": "Tidligere købstæder"
+    },
+    {
+      "name": "Ry",
+      "modern_name": "",
+      "status": "Tidligere købstæder"
+    },
+    {
+      "name": "Skibby",
+      "modern_name": "Nordsjælland",
+      "status": "Tidligere købstæder"
+    },
+    {
+      "name": "Slangerup",
+      "modern_name": "",
+      "status": "Tidligere købstæder"
+    },
+    {
+      "name": "Stigs Bjergby",
+      "modern_name": "Vestsjælland",
+      "status": "Tidligere købstæder"
+    },
+    {
+      "name": "Søborg",
+      "modern_name": "i Holbo Herred, Nordsjælland",
+      "status": "Tidligere købstæder"
+    },
+    {
+      "name": "Taarnborg",
+      "modern_name": "nær Korsør",
+      "status": "Tidligere købstæder"
+    },
+    {
+      "name": "Varnæs",
+      "modern_name": "Sønderjylland",
+      "status": "Tidligere købstæder"
+    },
+    {
+      "name": "Christianopel",
+      "modern_name": "Kristianopel",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Christianstad",
+      "modern_name": "Kristianstad",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Engelholm",
+      "modern_name": "Ängelholm",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Falckenbierg",
+      "modern_name": "Falkenberg",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Falsterboe",
+      "modern_name": "Falsterbo",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Flensborg",
+      "modern_name": "Flensburg",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Garding",
+      "modern_name": "",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Halmsted",
+      "modern_name": "Halmstad",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Helsingborg",
+      "modern_name": "",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Husum",
+      "modern_name": "",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Kappel",
+      "modern_name": "Kappeln",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Kongsback",
+      "modern_name": "Kungsbacka",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Lands Crone",
+      "modern_name": "Landskrona",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Lauholm",
+      "modern_name": "Laholm",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Lund",
+      "modern_name": "",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Lyksborg",
+      "modern_name": "Glücksburg",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Malmøe",
+      "modern_name": "Malmö",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Rønneby",
+      "modern_name": "Ronneby",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Simmershaffn",
+      "modern_name": "Simrishamn",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Skaanøer",
+      "modern_name": "Skanör",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Slesvig by",
+      "modern_name": "Schleswig",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Tønning",
+      "modern_name": "Tönning",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Ny-Warberg",
+      "modern_name": "Varberg",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Ysted",
+      "modern_name": "Ystad",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Ausker",
+      "modern_name": "Avaskär",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Elleholm",
+      "modern_name": "",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Lumme",
+      "modern_name": "Lomma",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Lyckå",
+      "modern_name": "",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Sølvitzborg",
+      "modern_name": "Sölvesborg",
+      "status": "Købstæder i tidligere danske landsdele"
+    },
+    {
+      "name": "Tommerup",
+      "modern_name": "Tommarp",
+      "status": "Købstæder i tidligere danske landsdele"
+    }
+  ],
+  "meta": {
+    "title": "Danske købstæder - Free Download",
+    "description": "Liste over nuværende og tidligere danske købstæder samt købstæder i tidligere danske landsdele. Contains 123 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danske købstæder | ListBase",
+    "seo_description": "Download Danske købstæder — 123 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 123 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danske_købstæder"
+    ]
+  }
+}
