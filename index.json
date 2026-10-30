@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-30T02:22:29.669Z",
-  "total_datasets": 454,
-  "total_records": 237399,
+  "generated": "2026-10-30T02:22:37.723Z",
+  "total_datasets": 455,
+  "total_records": 237423,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -3454,6 +3454,34 @@
         "xlsx": {
           "name": "da-monarki_DA.xlsx",
           "size": 20267
+        }
+      }
+    },
+    {
+      "id": "da-moselig",
+      "name": "Moselig fundet i Danmark",
+      "category": "history",
+      "record_count": 24,
+      "columns": [
+        "navn",
+        "andre_navne",
+        "sted",
+        "alder_c14",
+        "koen",
+        "fundet",
+        "beskrivelse"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Liste_over_moselig",
+      "updated": "2026-10",
+      "size": 14641,
+      "files": {
+        "csv": {
+          "name": "da-moselig_DA.csv",
+          "size": 9683
+        },
+        "xlsx": {
+          "name": "da-moselig_DA.xlsx",
+          "size": 11416
         }
       }
     },

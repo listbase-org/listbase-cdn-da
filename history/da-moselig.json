@@ -1,0 +1,277 @@
+{
+  "id": "da-moselig",
+  "name": "Moselig fundet i Danmark",
+  "title": "Moselig fundet i Danmark",
+  "description": "Moselig fundet i danske moser – navn, findested, alder (kulstof-14-datering), køn, fundår og beskrivelse.",
+  "category": "history",
+  "source": "https://da.wikipedia.org/wiki/Liste_over_moselig",
+  "source_url": "https://da.wikipedia.org/wiki/Liste_over_moselig",
+  "updated": "2026-10",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "andre_navne",
+      "label": "Andre Navne",
+      "type": "string"
+    },
+    {
+      "key": "sted",
+      "label": "Sted",
+      "type": "string"
+    },
+    {
+      "key": "alder_c14",
+      "label": "Alder C14",
+      "type": "string"
+    },
+    {
+      "key": "koen",
+      "label": "Koen",
+      "type": "string"
+    },
+    {
+      "key": "fundet",
+      "label": "Fundet",
+      "type": "number"
+    },
+    {
+      "key": "beskrivelse",
+      "label": "Beskrivelse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "navn": "Arden-kvinden",
+      "andre_navne": "Bredmosekvinden",
+      "sted": "Himmerland",
+      "alder_c14": "1400 f.v.t.",
+      "koen": "Kvinde",
+      "fundet": "1942",
+      "beskrivelse": "Arden-kvinden blev fundet i Bredmose i Hindsted Herred ved Aalborg , Nordjylland . Politiet sagde, at liget blev fundet i en stilling formet som et spørgsmålstegn. Efter at resterne var udgravet, blev de flyttet til en nærliggende lade. Hendes hår var lysebrunt, trukket ud i to rottehaler og lagt op om hendes hoved i to spiraler. Håret var dækket af et hårnet fremstillet med en teknik kaldet sprang . Til forskel fra andre moselig blev hun fundet sammen med andet tøj. Hun var 20-25 år gammel. Der er ingen tegn på vold på hendes krop. Liget er udstillet på Nationalmuseet i København ."
+    },
+    {
+      "navn": "Auning-kvinden",
+      "andre_navne": "",
+      "sted": "Midtjylland",
+      "alder_c14": "0",
+      "koen": "Kvinde",
+      "fundet": "1886",
+      "beskrivelse": "Hun blev fundet med flere stykker beklædning af uld og skind, og der lå grene oven på kroppen: Antageligt har man forsøgt at holde hende nede i mosen med pæle, for at undgå at hun flød ovenpå."
+    },
+    {
+      "navn": "Borremose-manden",
+      "andre_navne": "Borre Fen Man",
+      "sted": "Himmerland",
+      "alder_c14": "700 f.v.t.",
+      "koen": "Mand",
+      "fundet": "1946",
+      "beskrivelse": "Manden er blevet slået ihjel på en voldsom måde: Hans kranie var knust, og hans ben var brækket. Et reb blev fundet omkring hans hals, hvilket indikerer, at han blev dræbt ved enten hængning eller strangulering. Ved undersøgelser af moselig som Cashel-manden har forskere spekuleret i, om knoglerne kan være brækket efter mandens død – som følge af mosens tryk på liget. Dette moselig findes på Nationalmuseet i København."
+    },
+    {
+      "navn": "Borremose II",
+      "andre_navne": "",
+      "sted": "Himmerland",
+      "alder_c14": "400 f.v.t.",
+      "koen": "Antageligvis kvinde",
+      "fundet": "1947",
+      "beskrivelse": "Moseliget blev fundet med ansigtet nedad, i en dybde af omkring to meter. Det lå på et leje af birkebark. I den umiddelbare nærhed lå birkegrene. Direkte på kroppen lå cirka 10 centimeter lange birkegrene. Kraniet havde frakturer (brud), og hjernen var synlig. Højre ben var brækket 10 centimeter under knæet. Bruddet var forårsaget af mosens tryk på liget. Kroppen var nøgen, men underkroppen og benene var dækket af et sjal samt en kappe bestående af fire lag stof. De to klædestykker er i dag udstillet på Nationalmuseet. Det er usikkert, om liget havde tøj på ved nedlæggelsen i mosen. Tøj fremstillet af plantemateriale som hør, vil være opløst og forrådnet i den sure mosejord. Der blev fundet nogle genstande ved kvinden: En halv lerpotte ved knæene, og knoglerester fra et spædbarn. Om halsen havde liget et læderbælte med et stykke rav og en messingskive med en diameter på 2,2-2,3 centimeter."
+    },
+    {
+      "navn": "Borremose III",
+      "andre_navne": "Borremose-kvinden",
+      "sted": "Himmerland",
+      "alder_c14": "750 f.v.t.",
+      "koen": "Kvinde",
+      "fundet": "1948",
+      "beskrivelse": "Borremose-kvinden blev fundet med ansigtet nedad og hovedskallen separeret fra resten af kroppen. Kvinden er blevet beskrevet som overvægtig og var pakket ind i en ulden kappe. Borremose-kvinden er ikke udstillet, men findes i Nationalmuseets magasin. Kvinden har været 20-35 år, da hun døde. Ligesom de andre Borremose-lig bærer liget tegn på vold. Tidligere blev det antaget, at hun var blevet skalperet og havde fået hovedet knust, og at dette var dødsårsagen. Nyere forskning har påvist, at disse skader er opstået efter hendes død som følge af bevægelser i mosen. Studier af kvindens ansigt og hals viste ingen tegn på blødning, hvilket betyder, at skaderne mod ansigtet er sket efter hendes død."
+    },
+    {
+      "navn": "Elling-pigen",
+      "andre_navne": "",
+      "sted": "Silkeborg",
+      "alder_c14": "280 f.v.t.",
+      "koen": "Kvinde",
+      "fundet": "1938",
+      "beskrivelse": "Kroppen blev fundet pakket ind i en kappe af fåreskind og en læderkappe omkring pigens ben. Pigens ansigt var dårligt bevaret, og der var ingen tegn på organer inde i kroppen. -blev hængt ligesom Tollundmanden , der blev fundet i den samme mose 12 år senere. Kroppen er kendt for dens 90 centimeter lange fletning, der var bundet i en kompliceret knude. Elling-pigen antages at have været en menneskeoffer."
+    },
+    {
+      "navn": "Fræer Mose-kvinden",
+      "andre_navne": "Fræermose Woman",
+      "sted": "Danmark",
+      "alder_c14": "Ukendt",
+      "koen": "Kvinde",
+      "fundet": "1842",
+      "beskrivelse": "Kvindens fod blev fundet omkring en meter under overfladen i mosen. Man fandt et velbevaret stykke uldklæde og en sko sammen med ligresterne."
+    },
+    {
+      "navn": "Gadevang-manden",
+      "andre_navne": "",
+      "sted": "Sjælland",
+      "alder_c14": "480–60 f.v.t.",
+      "koen": "Mand",
+      "fundet": "1940",
+      "beskrivelse": "Dette moselig var fuldstændigt forrådnet, så kun skelettet var bevaret, da han blev udgravet fra mosen. Undersøgelser viser, at han har været 35-50 år gammel ved sin død. Et hul i kraniet tyder på, at han har været udsat for en primitiv operation."
+    },
+    {
+      "navn": "Grauballemanden",
+      "andre_navne": "",
+      "sted": "Jylland",
+      "alder_c14": "290 f.v.t.",
+      "koen": "Mand",
+      "fundet": "1952",
+      "beskrivelse": "Studier af Grauballemanden viser, at han sandsynligvis er blevet ofret. Hans fingre var så velbevarede i mosen, at det var muligt at tage hans fingerafftryk , ligesom med Old Croghan-manden . Mandens ansigt er blevet rekonstrueret for at give et bud på, hvordan han har set ud, da han var i live."
+    },
+    {
+      "navn": "Dronning Gunhild",
+      "andre_navne": "Haraldskær-kvinden, Moseliget fra Haraldskær",
+      "sted": "Jylland",
+      "alder_c14": "500-401 f.v.t.",
+      "koen": "Kvinde",
+      "fundet": "1835",
+      "beskrivelse": "I første omgang troede man, at Haraldskær-kvinden var liget af den norske dronning Gunhild Kulstof 14-datering har dog påvist, at hun er meget ældre: Omkring 50 år gammel og sund og rask, da hun døde. Hendes tøj var placeret oven på hendes nøgne krop."
+    },
+    {
+      "navn": "Huldremose-kvinden",
+      "andre_navne": "Huldrekvinden",
+      "sted": "Ramten , Midtjylland",
+      "alder_c14": "160 f.v.t.-340 e.v.t.",
+      "koen": "Kvinde",
+      "fundet": "1879",
+      "beskrivelse": "Huldremose-kvinden er navnet på et moselig af en kvinde fra ældre jernalder. Det blev fundet i 1879 nær Ramten i Jylland . Lige var iført en nederdel i uld og to skindkapper. Liget er dateret til mellem 160 f.v.t. og 340 e.v.t. Personen har været omkring 40 år gammel, da hun døde, hvilket har været en ældre person for perioden, hun levede i. Hendes højre arm var beskadiget, men skaderne er sandsynligvis forårsaget af spadestik under udgravningen af hende. En snor i uld var bundet omkring hendes hår og omkring halsen, men retsmedicinske undersøgelser har ikke fundet indikationer på, at hun blev stranguleret. Ifølge nyere tids isotopanalyser er dele af ulden i kvindens tøj importeret fra den nordlige del af Norge eller Sverige ."
+    },
+    {
+      "navn": "Nederfrederiks-moseliget",
+      "andre_navne": "Kragelund-manden, Frederiksdal-manden",
+      "sted": "Nordjylland",
+      "alder_c14": "Ukendt",
+      "koen": "Antageligvis mand",
+      "fundet": "1898",
+      "beskrivelse": "Det første moselig, der blev fotograferet, inden det blev flyttet fra fundstedet."
+    },
+    {
+      "navn": "Koelbjergmanden",
+      "andre_navne": "Manden fra Kølbjerg",
+      "sted": "Syddanmark",
+      "alder_c14": "8000 f.v.t.",
+      "koen": "Mand",
+      "fundet": "1941",
+      "beskrivelse": "Sandsynligvis det ældste moselig, der er fundet. Han var omkring 25 år gammel, da han døde. Der er ingen tegn på vold på hans skelet."
+    },
+    {
+      "navn": "Porsmose-manden",
+      "andre_navne": "",
+      "sted": "Sjælland",
+      "alder_c14": "2600 f.v.t.",
+      "koen": "Mand",
+      "fundet": "1946",
+      "beskrivelse": "Et moselig af en 35-40 årig mand, der var forrådnet så meget, at kun skelettet var tilbage. Fundet blev gjort i 1946. Skelettet er mest berømt for at have en pilespids , der sidder i mandens næse. Det er dog ikke denne pil, der har slået ham ihjel, men mere sandsynligt en pil, der har ramt hans aorta. Pilene er givetvis affyret på afstand og oppefra og ned."
+    },
+    {
+      "navn": "Rappendam-kvinden",
+      "andre_navne": "",
+      "sted": "Frederiksborg",
+      "alder_c14": "160 f.v.t.",
+      "koen": "Kvinde",
+      "fundet": "1941-1942",
+      "beskrivelse": "Skelettet af denne kvinde blev fundet sammen med birke- og hasselgrene og et vognhjul i træ."
+    },
+    {
+      "navn": "Roum-manden",
+      "andre_navne": "Roum-kvinden",
+      "sted": "Himmerland",
+      "alder_c14": "Jernalder",
+      "koen": "Mand",
+      "fundet": "1942",
+      "beskrivelse": "Kun et afhugget hoved af denne person blev fundet. Det stammer fra en cirka 20-årig mand. Oprindeligt blev liget kaldet \"Roum-kvinden\" indtil rester af skægstubbe blev fundet i ansigtet. Fåreskindet, som hovedet var pakket ind i, stammer fra jernalderen."
+    },
+    {
+      "navn": "Sigersdal-skeletterne",
+      "andre_navne": "",
+      "sted": "Sjælland",
+      "alder_c14": "3650–3140 f.v.t.",
+      "koen": "Antageligvis mænd",
+      "fundet": "1949",
+      "beskrivelse": "Disse to personer var omkring 16 og 19 år gamle, da de døde. Det ene kranie havde et stort hul på den venstre side."
+    },
+    {
+      "navn": "Søgård-manden",
+      "andre_navne": "",
+      "sted": "Jylland",
+      "alder_c14": "360 f.v.t. – 240 e.v.t.",
+      "koen": "Mand",
+      "fundet": "1944",
+      "beskrivelse": "Kun fødder og ben fra liget var bevaret."
+    },
+    {
+      "navn": "Sorø-skeletterne",
+      "andre_navne": "",
+      "sted": "Lolland",
+      "alder_c14": "3500 f.v.t.",
+      "koen": "Mand",
+      "fundet": "1942",
+      "beskrivelse": "Et samlet navn for to skeletter med deformiteter og tegn på operation."
+    },
+    {
+      "navn": "Stidsholt-kvinden",
+      "andre_navne": "Stidsholt-mosekvinden",
+      "sted": "Jylland",
+      "alder_c14": "Ukendt",
+      "koen": "Kvinde",
+      "fundet": "1859",
+      "beskrivelse": "Stidsholt-kvinden er det ødelagte hoved fra en kvinde, der blev opdaget i 1859. Hun var blevet halshugget af et hug mellem tredje og fjerde halshvirvel. Hendes hår var farvet mørkerødt af stofferne i tørvemosen. Hendes hår var bundet i en knude og fastgjort med et vævet bånd, der dog var forgået. Hendes hoved blev aldrig videnskabeligt dateret, og resten af kroppen blev aldrig fundet. Hendes hår var 51 centimeter langt. Det er udstillet i København."
+    },
+    {
+      "navn": "Tollundmanden",
+      "andre_navne": "",
+      "sted": "Silkeborg",
+      "alder_c14": "400 f.v.t.",
+      "koen": "Mand",
+      "fundet": "1950",
+      "beskrivelse": "Tollundmanden er berømt for at have et meget velbevaret ansigt. Liget blev fundet i begyndelsen af maj 1950, da en familie gravede tørv i en mose ved Tollund nær Silkeborg . Ved liget blev der fundet en hat af fåreskind og et bælte. Der var ikke andre stykker tøj bevaret: De må antages at være forrådnet. Liget havde en reb-løkke omkring halsen, hvilket tyder på, at han blev hængt . Kun Tollundmandens hoved er originalt, da man på fundtidspunktet ikke havde tilstrækkelig med viden til at konservere hele kroppen optimalt. Det antages, at Tollundmanden er blevet ofret i forbindelse med et ritual. Ellingpigen blev fundet 80 meter fra Tollundmanden 12 år tidligere."
+    },
+    {
+      "navn": "Taastruppigen",
+      "andre_navne": "",
+      "sted": "Høje-Taastrup Kommune",
+      "alder_c14": "Ca. 2000 år",
+      "koen": "Kvinde",
+      "fundet": "2025",
+      "beskrivelse": "Hun blev fundet i Høje-Taastrup Kommune i november 2025 i forbindelse med udvidelse af elektricitetsnettet i det østlige Danmark ."
+    },
+    {
+      "navn": "Valmose-ligene",
+      "andre_navne": "",
+      "sted": "Jylland",
+      "alder_c14": "380 f.v.t. og 225-230 f.v.t.",
+      "koen": "Kvinde",
+      "fundet": "Ukendt",
+      "beskrivelse": "Skeletter af to voksne kvinder blev fundet sammen med potteskår og dele fra yderligere to skeletter af ukendt køn. Der blev også fundet store mængder dyreknogler fra heste og okser."
+    },
+    {
+      "navn": "Vester Thorsted-manden",
+      "andre_navne": "",
+      "sted": "Vejle",
+      "alder_c14": "145 - 95 f.v.t.",
+      "koen": "Mand",
+      "fundet": "1913",
+      "beskrivelse": "Mandens lig blev fundet iført en læderkappe, med to fødder under overfladen på mosen."
+    }
+  ],
+  "meta": {
+    "title": "Moselig fundet i Danmark - Free Download",
+    "description": "Moselig fundet i danske moser – navn, findested, alder (kulstof-14-datering), køn, fundår og beskrivelse. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Moselig fundet i Danmark | ListBase",
+    "seo_description": "Download Moselig fundet i Danmark — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Liste_over_moselig"
+    ]
+  }
+}
