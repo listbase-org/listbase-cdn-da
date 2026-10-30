@@ -1,0 +1,214 @@
+{
+  "id": "da-aarets-mest-populaere-single",
+  "name": "Årets mest populære single i Danmark",
+  "title": "Årets mest populære single i Danmark",
+  "description": "Den mest populære (bedst sælgende/streamede) single i Danmark for hvert år siden 2000 med kunstner og titel.",
+  "category": "music",
+  "source": "https://da.wikipedia.org/wiki/Liste_over_mest_populære_singler_i_Danmark_efter_år",
+  "source_url": "https://da.wikipedia.org/wiki/Liste_over_mest_populære_singler_i_Danmark_efter_år",
+  "updated": "2026-10",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "titel",
+      "label": "Titel",
+      "type": "string"
+    },
+    {
+      "key": "hoejeste_placering",
+      "label": "Hoejeste Placering",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 2000,
+      "artist": "Aqua",
+      "titel": "Cartoon Heroes",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2003,
+      "artist": "Christine Milton",
+      "titel": "Superstar",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2004,
+      "artist": "Team Easy On",
+      "titel": "De skal have baghjul nede i Touren",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2005,
+      "artist": "Diverse kunstnere",
+      "titel": "Hvor små vi er",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2006,
+      "artist": "Trine Dyrholm",
+      "titel": "Mr. Nice Guy",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2007,
+      "artist": "Trine Dyrholm",
+      "titel": "Mr. Nice Guy",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2008,
+      "artist": "Lizzie",
+      "titel": "Ramt i natten",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2009,
+      "artist": "Medina",
+      "titel": "Kun for mig",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2010,
+      "artist": "Shakira featuring Freshlyground",
+      "titel": "Waka Waka (This Time for Africa)",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2011,
+      "artist": "Maroon 5 featuring Christina Aguilera",
+      "titel": "Moves Like Jagger",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2012,
+      "artist": "Gotye featuring Kimbra",
+      "titel": "Somebody That I Used to Know",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2013,
+      "artist": "Avicii",
+      "titel": "Wake Me Up",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2014,
+      "artist": "John Legend",
+      "titel": "All of Me",
+      "hoejeste_placering": "2"
+    },
+    {
+      "aar": 2015,
+      "artist": "Major Lazer og DJ Snake featuring MØ",
+      "titel": "Lean On",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2016,
+      "artist": "Blak",
+      "titel": "Nede Mette",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2017,
+      "artist": "Ed Sheeran",
+      "titel": "Shape of You",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2018,
+      "artist": "Ed Sheeran",
+      "titel": "Perfect",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2019,
+      "artist": "Gilli",
+      "titel": "Vai Amor",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2020,
+      "artist": "The Weeknd",
+      "titel": "Blinding Lights",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2021,
+      "artist": "Ed Sheeran",
+      "titel": "Bad Habits",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2022,
+      "artist": "Tobias Rahim og Andreas Odbjerg",
+      "titel": "Stor mand",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2023,
+      "artist": "Miley Cyrus",
+      "titel": "Flowers",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2024,
+      "artist": "Tobias Rahim featuring D1ma",
+      "titel": "Bellevue",
+      "hoejeste_placering": "1"
+    },
+    {
+      "aar": 2006,
+      "artist": "Basshunter",
+      "titel": "Boten Anna",
+      "hoejeste_placering": ""
+    },
+    {
+      "aar": 2007,
+      "artist": "Timbaland featuring D.O.E. & Keri Hilson",
+      "titel": "The Way I Are",
+      "hoejeste_placering": ""
+    },
+    {
+      "aar": 2011,
+      "artist": "Rihanna",
+      "titel": "We Found Love",
+      "hoejeste_placering": ""
+    },
+    {
+      "aar": 2012,
+      "artist": "Carly Rae Jepsen",
+      "titel": "Call Me Maybe",
+      "hoejeste_placering": ""
+    },
+    {
+      "aar": 2013,
+      "artist": "Passenger",
+      "titel": "Let Her Go",
+      "hoejeste_placering": ""
+    }
+  ],
+  "meta": {
+    "title": "Årets mest populære single i Danmark - Free Download",
+    "description": "Den mest populære (bedst sælgende/streamede) single i Danmark for hvert år siden 2000 med kunstner og titel. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Årets mest populære single i Danmark | ListBase",
+    "seo_description": "Download Årets mest populære single i Danmark — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Liste_over_mest_populære_singler_i_Danmark_efter_år"
+    ]
+  }
+}

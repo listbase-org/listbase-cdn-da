@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-29T02:11:08.667Z",
-  "total_datasets": 451,
-  "total_records": 237184,
+  "generated": "2026-10-30T02:22:16.371Z",
+  "total_datasets": 452,
+  "total_records": 237212,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -3787,6 +3787,31 @@
         "xlsx": {
           "name": "da-strafferetlige-afgoerelser_DA.xlsx",
           "size": 12935
+        }
+      }
+    },
+    {
+      "id": "da-aarets-mest-populaere-single",
+      "name": "Årets mest populære single i Danmark",
+      "category": "music",
+      "record_count": 28,
+      "columns": [
+        "aar",
+        "artist",
+        "titel",
+        "hoejeste_placering"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Liste_over_mest_populære_singler_i_Danmark_efter_år",
+      "updated": "2026-10",
+      "size": 5344,
+      "files": {
+        "csv": {
+          "name": "da-aarets-mest-populaere-single_DA.csv",
+          "size": 1316
+        },
+        "xlsx": {
+          "name": "da-aarets-mest-populaere-single_DA.xlsx",
+          "size": 7886
         }
       }
     },
