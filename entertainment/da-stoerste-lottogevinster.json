@@ -1,0 +1,256 @@
+{
+  "id": "da-stoerste-lottogevinster",
+  "name": "De største lottogevinster i Danmark",
+  "title": "De største lottogevinster i Danmark",
+  "description": "De største lotterigevinster vundet i Danmark (Lotto, Vikinglotto, Eurojackpot) med dato, spil, beløb og købssted.",
+  "category": "entertainment",
+  "source": "https://da.wikipedia.org/wiki/Liste_over_de_største_lottogevinster_i_Danmark",
+  "source_url": "https://da.wikipedia.org/wiki/Liste_over_de_største_lottogevinster_i_Danmark",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "dato",
+      "label": "Dato",
+      "type": "string"
+    },
+    {
+      "key": "spil",
+      "label": "Spil",
+      "type": "string"
+    },
+    {
+      "key": "gevinst",
+      "label": "Gevinst",
+      "type": "string"
+    },
+    {
+      "key": "koebt",
+      "label": "Koebt",
+      "type": "string"
+    },
+    {
+      "key": "vinder",
+      "label": "Vinder",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "dato": "4. juni 2024",
+      "spil": "Eurojackpot",
+      "gevinst": "760.818.030 mio. kr.",
+      "koebt": "Kupon købt i 7-Eleven på Trianglen i København",
+      "vinder": "Anonym person"
+    },
+    {
+      "rang": 2,
+      "dato": "22. juli 2022",
+      "spil": "Eurojackpot",
+      "gevinst": "759.318.630 mio. kr.",
+      "koebt": "Kupon købt hos Meny i Blåvand",
+      "vinder": "Anonym person"
+    },
+    {
+      "rang": 3,
+      "dato": "20. februar 2015",
+      "spil": "Eurojackpot",
+      "gevinst": "315.009.958 mio. kr.",
+      "koebt": "Kupon købt i Kvickly i Helsingør",
+      "vinder": "Jeanette Johansen"
+    },
+    {
+      "rang": 4,
+      "dato": "9. april 2021",
+      "spil": "Eurojackpot",
+      "gevinst": "310.785.127 mio. kr.",
+      "koebt": "Kupon købt via mobil",
+      "vinder": "Mand fra Roskilde Kommune"
+    },
+    {
+      "rang": 5,
+      "dato": "7. december 2018",
+      "spil": "Eurojackpot",
+      "gevinst": "210.688.619 mio. kr.",
+      "koebt": "Kupon købt online",
+      "vinder": "Mand fra Kalundborg Kommune"
+    },
+    {
+      "rang": 6,
+      "dato": "29. januar 2020",
+      "spil": "Vikinglotto",
+      "gevinst": "206.913.776 mio. kr.",
+      "koebt": "Kupon købt via PLUS abonnement",
+      "vinder": "Mand fra Helsingør Kommune"
+    },
+    {
+      "rang": 7,
+      "dato": "18. august 2021",
+      "spil": "Vikinglotto",
+      "gevinst": "158.032.030 mio. kr.",
+      "koebt": "Kupon købt i Døgnkiosken i Tårs",
+      "vinder": "Anonym person"
+    },
+    {
+      "rang": 8,
+      "dato": "2. december 2025",
+      "spil": "Eurojackpot",
+      "gevinst": "149.420.552 mio. kr.",
+      "koebt": "Kupon købt via mobil",
+      "vinder": "Mand fra Rudersdal Kommune"
+    },
+    {
+      "rang": 9,
+      "dato": "10. november 2017",
+      "spil": "Eurojackpot",
+      "gevinst": "148.183.435 mio. kr.",
+      "koebt": "Kupon købt i Spar -butikken i Hjørring",
+      "vinder": "Mand fra Hjørring Kommune"
+    },
+    {
+      "rang": 10,
+      "dato": "17. august 2016",
+      "spil": "Vikinglotto",
+      "gevinst": "140.358.416 mio. kr.",
+      "koebt": "Kupon købt på Q8 i Vejle",
+      "vinder": "Anonym person fra Vejle"
+    },
+    {
+      "rang": 11,
+      "dato": "26. november 2012",
+      "spil": "Eurojackpot",
+      "gevinst": "135.177.015 mio. kr.",
+      "koebt": "Kupon købt i Kiosken på Herlev Sygehus",
+      "vinder": "Anonym mand fra Storkøbenhavn"
+    },
+    {
+      "rang": 12,
+      "dato": "6. januar 2017",
+      "spil": "Eurojackpot",
+      "gevinst": "114.000.000 mio. kr.",
+      "koebt": "Kupon købt i Brugsen i Ølsted i Nordsjælland",
+      "vinder": "Ægtepar Leif og Aase Sommer"
+    },
+    {
+      "rang": 13,
+      "dato": "19. august 2022",
+      "spil": "Eurojackpot",
+      "gevinst": "107.000.000 mio. kr.",
+      "koebt": "Kupon købt online",
+      "vinder": "Mand fra Odense"
+    },
+    {
+      "rang": 14,
+      "dato": "20. maj 2020",
+      "spil": "Vikinglotto",
+      "gevinst": "97.333.794 mio. kr.",
+      "koebt": "Kupon købt på Circle K på Tuborgvej i København",
+      "vinder": "Anonym person"
+    },
+    {
+      "rang": 15,
+      "dato": "5. februar 2021",
+      "spil": "Eurojackpot",
+      "gevinst": "69.678.692 mio. kr.",
+      "koebt": "Kupon købt i SuperBrugsen i Dianalund",
+      "vinder": "Mandlig pensionist fra Sorø"
+    },
+    {
+      "rang": 16,
+      "dato": "3. april 2026",
+      "spil": "Eurojackpot",
+      "gevinst": "63.517.248 mio. kr.",
+      "koebt": "Kupon købt via mobil",
+      "vinder": "Anonym person fra Valby"
+    },
+    {
+      "rang": 17,
+      "dato": "21. februar 2023",
+      "spil": "Eurojackpot",
+      "gevinst": "63.287.630 mio. kr.",
+      "koebt": "Kupon købt i Lalandia Rødby",
+      "vinder": "Anonym mand"
+    },
+    {
+      "rang": 18,
+      "dato": "24. november 2017",
+      "spil": "Eurojackpot",
+      "gevinst": "63.257.880 mio. kr.",
+      "koebt": "Kupon købt i SuperBrugsen i Sakskøbing",
+      "vinder": "Anonym person"
+    },
+    {
+      "rang": 19,
+      "dato": "21. august 2013",
+      "spil": "Vikinglotto",
+      "gevinst": "56.789.170 mio. kr.",
+      "koebt": "Kupon købt via PLUS abonnement",
+      "vinder": "Mand fra København"
+    },
+    {
+      "rang": 20,
+      "dato": "4. juni 2024",
+      "spil": "Eurojackpot",
+      "gevinst": "50.002.197 mio. kr. (2 vindere)",
+      "koebt": "Kupon købt i Føtex i Svendborg Kupon købt online",
+      "vinder": "Anonym person Anonym person fra Region Hovedstaden"
+    },
+    {
+      "rang": 21,
+      "dato": "24. oktober 2015",
+      "spil": "Joker",
+      "gevinst": "50.000.000 mio. kr.",
+      "koebt": "Kupon købt i Føtex på Falkoner Allé 21 på Frederiksberg",
+      "vinder": "Anonym person"
+    },
+    {
+      "rang": 22,
+      "dato": "14. november 2012",
+      "spil": "Vikinglotto",
+      "gevinst": "49.937.681 mio. kr.",
+      "koebt": "Kupon købt i Boulevard Kiosken i Vordingborg",
+      "vinder": "Anonym person"
+    },
+    {
+      "rang": 23,
+      "dato": "14. juni 2017",
+      "spil": "Vikinglotto",
+      "gevinst": "46.935.221 mio. kr.",
+      "koebt": "Kupon købt hos GuldBageren i Vordingborg",
+      "vinder": "Anonym person"
+    },
+    {
+      "rang": 24,
+      "dato": "1. juni 2018",
+      "spil": "Eurojackpot",
+      "gevinst": "46.309.910 mio. kr.",
+      "koebt": "Kupon købt i Føtex på Vesterbrogade i København",
+      "vinder": "Anonym københavner"
+    },
+    {
+      "rang": 25,
+      "dato": "30. oktober 2013",
+      "spil": "Vikinglotto",
+      "gevinst": "45.969.062 mio. kr.",
+      "koebt": "Kupon købt via PLUS abonnement",
+      "vinder": "Anonym person"
+    }
+  ],
+  "meta": {
+    "title": "De største lottogevinster i Danmark - Free Download",
+    "description": "De største lotterigevinster vundet i Danmark (Lotto, Vikinglotto, Eurojackpot) med dato, spil, beløb og købssted. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "De største lottogevinster i Danmark | ListBase",
+    "seo_description": "Download De største lottogevinster i Danmark — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Liste_over_de_største_lottogevinster_i_Danmark"
+    ]
+  }
+}

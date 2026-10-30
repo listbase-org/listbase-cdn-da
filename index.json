@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-30T02:22:37.723Z",
-  "total_datasets": 455,
-  "total_records": 237423,
+  "generated": "2026-10-30T02:22:45.241Z",
+  "total_datasets": 456,
+  "total_records": 237448,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -1755,6 +1755,33 @@
         "xlsx": {
           "name": "da-robert-aarets-danske-spillefilm_DA.xlsx",
           "size": 8214
+        }
+      }
+    },
+    {
+      "id": "da-stoerste-lottogevinster",
+      "name": "De største lottogevinster i Danmark",
+      "category": "entertainment",
+      "record_count": 25,
+      "columns": [
+        "rang",
+        "dato",
+        "spil",
+        "gevinst",
+        "koebt",
+        "vinder"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Liste_over_de_største_lottogevinster_i_Danmark",
+      "updated": "2026-10",
+      "size": 7479,
+      "files": {
+        "csv": {
+          "name": "da-stoerste-lottogevinster_DA.csv",
+          "size": 3088
+        },
+        "xlsx": {
+          "name": "da-stoerste-lottogevinster_DA.xlsx",
+          "size": 8419
         }
       }
     },
