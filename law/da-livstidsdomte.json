@@ -1,0 +1,851 @@
+{
+  "id": "da-livstidsdomte",
+  "name": "Livstidsdømte i Danmark",
+  "title": "Livstidsdømte i Danmark",
+  "description": "Personer idømt fængsel på livstid i Danmark siden 1930, med år for dommen og evt. kendt øgenavn eller sag.",
+  "category": "law",
+  "source": "https://da.wikipedia.org/wiki/Liste_over_danske_livstidsdømte",
+  "source_url": "https://da.wikipedia.org/wiki/Liste_over_danske_livstidsdømte",
+  "updated": "2026-10",
+  "record_count": 162,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1930,
+      "navn": "Carl Jørgensen",
+      "note": "morderen fra Matthæusgade"
+    },
+    {
+      "aar": 1933,
+      "navn": "Valdemar Jensen",
+      "note": ""
+    },
+    {
+      "aar": 1933,
+      "navn": "Niels Christian Christensen",
+      "note": "Allerupdrengen"
+    },
+    {
+      "aar": 1935,
+      "navn": "Yding Nielsen",
+      "note": ""
+    },
+    {
+      "aar": 1935,
+      "navn": "Svend Aage Andersen",
+      "note": ""
+    },
+    {
+      "aar": 1935,
+      "navn": "Carl Christian Pedersen",
+      "note": ""
+    },
+    {
+      "aar": 1936,
+      "navn": "Carl Wagner",
+      "note": ""
+    },
+    {
+      "aar": 1939,
+      "navn": "Frede Munch Rasmussen",
+      "note": ""
+    },
+    {
+      "aar": 1939,
+      "navn": "Anna Marie Henriksen",
+      "note": ""
+    },
+    {
+      "aar": 1939,
+      "navn": "Volmer Olsen",
+      "note": ""
+    },
+    {
+      "aar": 1940,
+      "navn": "Poul Egon Larsen",
+      "note": ""
+    },
+    {
+      "aar": 1942,
+      "navn": "Ane Marie Vilhelmine",
+      "note": ""
+    },
+    {
+      "aar": 1942,
+      "navn": "Niels Peter Jensen",
+      "note": ""
+    },
+    {
+      "aar": 1946,
+      "navn": "William Brorson",
+      "note": ""
+    },
+    {
+      "aar": 1947,
+      "navn": "Svend Aage Berthelsen Fabricius",
+      "note": ""
+    },
+    {
+      "aar": 1947,
+      "navn": "Vagn Hendrik Rask Licht",
+      "note": ""
+    },
+    {
+      "aar": 1947,
+      "navn": "Robert Johannes Ahrnfeldt Jakobsen",
+      "note": ""
+    },
+    {
+      "aar": 1948,
+      "navn": "Jacob Emil Vilhelm Frederiksen",
+      "note": ""
+    },
+    {
+      "aar": 1949,
+      "navn": "Leif Søndergaard Jensen",
+      "note": ""
+    },
+    {
+      "aar": 1949,
+      "navn": "Anders Kristian Jørgensen",
+      "note": ""
+    },
+    {
+      "aar": 1949,
+      "navn": "Elmer Larsen",
+      "note": ""
+    },
+    {
+      "aar": 1949,
+      "navn": "Frede Olsen",
+      "note": ""
+    },
+    {
+      "aar": 1951,
+      "navn": "Peter Valdemar Larsen",
+      "note": ""
+    },
+    {
+      "aar": 1951,
+      "navn": "Helmer Egon Nielsen",
+      "note": ""
+    },
+    {
+      "aar": 1952,
+      "navn": "Gunnar Eigil Helge Amos Petterson",
+      "note": ""
+    },
+    {
+      "aar": 1953,
+      "navn": "Sigurd Vilhelm Nielsen",
+      "note": ""
+    },
+    {
+      "aar": 1954,
+      "navn": "Bjørn Schouw Nielsen",
+      "note": ""
+    },
+    {
+      "aar": 1955,
+      "navn": "Georg Valther Pedersen",
+      "note": ""
+    },
+    {
+      "aar": 1955,
+      "navn": "Knud Jørgen Eriksen",
+      "note": ""
+    },
+    {
+      "aar": 1956,
+      "navn": "Palle Ingvald Jørgensen",
+      "note": ""
+    },
+    {
+      "aar": 1956,
+      "navn": "Verner Kjeldsen Lund",
+      "note": ""
+    },
+    {
+      "aar": 1957,
+      "navn": "Ernst Fischer",
+      "note": ""
+    },
+    {
+      "aar": 1957,
+      "navn": "Johan Christian Frandsen",
+      "note": ""
+    },
+    {
+      "aar": 1958,
+      "navn": "Mogens Karlshøj Nielsen",
+      "note": ""
+    },
+    {
+      "aar": 1959,
+      "navn": "Henry Robert Frederik Alstrøm",
+      "note": ""
+    },
+    {
+      "aar": 1959,
+      "navn": "Gunnar Ingolf Sørensen",
+      "note": ""
+    },
+    {
+      "aar": 1959,
+      "navn": "Jørgen Christensen Juhl",
+      "note": ""
+    },
+    {
+      "aar": 1959,
+      "navn": "Karl Jensen",
+      "note": ""
+    },
+    {
+      "aar": 1960,
+      "navn": "Gunder Nissen Johnsen",
+      "note": ""
+    },
+    {
+      "aar": 1960,
+      "navn": "Richard Sunnen",
+      "note": ""
+    },
+    {
+      "aar": 1960,
+      "navn": "Svend Aage Jensen",
+      "note": ""
+    },
+    {
+      "aar": 1961,
+      "navn": "Billy Jensen",
+      "note": ""
+    },
+    {
+      "aar": 1961,
+      "navn": "Erik Robert Breving",
+      "note": ""
+    },
+    {
+      "aar": 1961,
+      "navn": "Arne Rudi Olsen",
+      "note": ""
+    },
+    {
+      "aar": 1961,
+      "navn": "Vagn Petersen",
+      "note": ""
+    },
+    {
+      "aar": 1963,
+      "navn": "Bent Krogh Jensen",
+      "note": ""
+    },
+    {
+      "aar": 1964,
+      "navn": "Ole Svanen",
+      "note": ""
+    },
+    {
+      "aar": 1965,
+      "navn": "Tage Pihl Rasmussen",
+      "note": ""
+    },
+    {
+      "aar": 1966,
+      "navn": "Palle Mogens Fogde Sørensen",
+      "note": ""
+    },
+    {
+      "aar": 1966,
+      "navn": "Leo Skovgård Jensen",
+      "note": ""
+    },
+    {
+      "aar": 1967,
+      "navn": "Marinus Madsen",
+      "note": ""
+    },
+    {
+      "aar": 1969,
+      "navn": "Ejner Foged Andersen",
+      "note": ""
+    },
+    {
+      "aar": 1969,
+      "navn": "George Tevsis Middelkoop",
+      "note": ""
+    },
+    {
+      "aar": 1970,
+      "navn": "Bjarne Nielsen",
+      "note": ""
+    },
+    {
+      "aar": 1971,
+      "navn": "Poul Dinesen",
+      "note": ""
+    },
+    {
+      "aar": 1972,
+      "navn": "Arne Hartvig Pedersen",
+      "note": ""
+    },
+    {
+      "aar": 1973,
+      "navn": "Holger Elenius Christensen",
+      "note": ""
+    },
+    {
+      "aar": 1973,
+      "navn": "Finn Buxbom",
+      "note": "ændret til 8 års fængsel"
+    },
+    {
+      "aar": 1976,
+      "navn": "Verner Erling Larsen",
+      "note": "ændret til forvaring"
+    },
+    {
+      "aar": 1977,
+      "navn": "Claus Berggren",
+      "note": ""
+    },
+    {
+      "aar": 1977,
+      "navn": "Finn Hauge Jensen",
+      "note": ""
+    },
+    {
+      "aar": 1977,
+      "navn": "Poul Johansen Hede",
+      "note": ""
+    },
+    {
+      "aar": 1979,
+      "navn": "Frank Hammeleff",
+      "note": ""
+    },
+    {
+      "aar": 1980,
+      "navn": "Paul Brumfitt",
+      "note": "dømt i England"
+    },
+    {
+      "aar": 1982,
+      "navn": "Jørgen Rosenbæk Jørgensen",
+      "note": ""
+    },
+    {
+      "aar": 1982,
+      "navn": "John Walther Rasch",
+      "note": ""
+    },
+    {
+      "aar": 1982,
+      "navn": "Erik Børge Jeppesen",
+      "note": ""
+    },
+    {
+      "aar": 1983,
+      "navn": "Frede Sander Jensen",
+      "note": ""
+    },
+    {
+      "aar": 1984,
+      "navn": "Ib Grundell Hansen",
+      "note": ""
+    },
+    {
+      "aar": 1984,
+      "navn": "Børge Ludvig Christoffersen",
+      "note": ""
+    },
+    {
+      "aar": 1985,
+      "navn": "Naum Conevski",
+      "note": ""
+    },
+    {
+      "aar": 1986,
+      "navn": "Hans Günther Stumpe",
+      "note": "dømt i Tyskland"
+    },
+    {
+      "aar": 1986,
+      "navn": "Seth Sethsen",
+      "note": ""
+    },
+    {
+      "aar": 1988,
+      "navn": "Nick Morten Jacobsen",
+      "note": ""
+    },
+    {
+      "aar": 1989,
+      "navn": "Mohammed Abu Talb",
+      "note": "dømt i Sverige, ændret til 30 års fængsel"
+    },
+    {
+      "aar": 1989,
+      "navn": "Marten Imandi",
+      "note": "dømt i Sverige, ændret til 30 års fængsel"
+    },
+    {
+      "aar": 1990,
+      "navn": "Peder Dinesen Fur",
+      "note": ""
+    },
+    {
+      "aar": 1992,
+      "navn": "Erik Karl Geldam",
+      "note": ""
+    },
+    {
+      "aar": 1993,
+      "navn": "Jens Hammershøi Vittrup",
+      "note": ""
+    },
+    {
+      "aar": 1996,
+      "navn": "Elisabeth Wæver",
+      "note": ""
+    },
+    {
+      "aar": 1997,
+      "navn": "Steen Viktor Christensen",
+      "note": ""
+    },
+    {
+      "aar": 1998,
+      "navn": "Jørgen \"Fehår\" Nielsen",
+      "note": ""
+    },
+    {
+      "aar": 1998,
+      "navn": "Niels Poulsen",
+      "note": ""
+    },
+    {
+      "aar": 1998,
+      "navn": "Vagn Smidt",
+      "note": ""
+    },
+    {
+      "aar": 1998,
+      "navn": "Steen Viktor Christensen",
+      "note": ""
+    },
+    {
+      "aar": 1999,
+      "navn": "Chris Riise Bundgaard",
+      "note": ""
+    },
+    {
+      "aar": 1999,
+      "navn": "Pavel Przenioslo",
+      "note": ""
+    },
+    {
+      "aar": 2000,
+      "navn": "Lars Anborg-Nielsen",
+      "note": ""
+    },
+    {
+      "aar": 2001,
+      "navn": "Peter Lundin",
+      "note": ""
+    },
+    {
+      "aar": 2001,
+      "navn": "Helle Sara Peters",
+      "note": ""
+    },
+    {
+      "aar": 2001,
+      "navn": "Sanjay Sharma",
+      "note": ""
+    },
+    {
+      "aar": 2002,
+      "navn": "Jens Christian Thorup",
+      "note": "ændret til 16 års fængsel"
+    },
+    {
+      "aar": 2003,
+      "navn": "Bente Gurli Kristensen",
+      "note": "ændret til 16 års fængsel"
+    },
+    {
+      "aar": 2003,
+      "navn": "Rasmus Jensen",
+      "note": "ændret til 16 års fængsel"
+    },
+    {
+      "aar": 2004,
+      "navn": "Jan Arno Beblein",
+      "note": ""
+    },
+    {
+      "aar": 2005,
+      "navn": "Mike Drewsen",
+      "note": ""
+    },
+    {
+      "aar": 2005,
+      "navn": "Maria Kramer",
+      "note": ""
+    },
+    {
+      "aar": 2005,
+      "navn": "Lennart Christensen",
+      "note": "ændret til 16 års fængsel"
+    },
+    {
+      "aar": 2005,
+      "navn": "Jacob Andersen",
+      "note": "ændret til 16 års fængsel"
+    },
+    {
+      "aar": 2006,
+      "navn": "Akhtar Abbas",
+      "note": ""
+    },
+    {
+      "aar": 2006,
+      "navn": "Ghulam Abbas",
+      "note": ""
+    },
+    {
+      "aar": 2006,
+      "navn": "Gunnar Jensen Grevsen",
+      "note": ""
+    },
+    {
+      "aar": 2007,
+      "navn": "Lars Irgens Petersen",
+      "note": ""
+    },
+    {
+      "aar": 2008,
+      "navn": "Martin Petersen",
+      "note": ""
+    },
+    {
+      "aar": 2010,
+      "navn": "John Knudsen",
+      "note": ""
+    },
+    {
+      "aar": 2010,
+      "navn": "Steen Lassen",
+      "note": ""
+    },
+    {
+      "aar": 2011,
+      "navn": "Morten Skipper-Pedersen",
+      "note": ""
+    },
+    {
+      "aar": 2011,
+      "navn": "Marcel Lychau Hansen",
+      "note": ""
+    },
+    {
+      "aar": 2012,
+      "navn": "Andreas Linnet",
+      "note": ""
+    },
+    {
+      "aar": 2012,
+      "navn": "Jonas Melchior Hansen",
+      "note": ""
+    },
+    {
+      "aar": 2012,
+      "navn": "Vincent Smith",
+      "note": ""
+    },
+    {
+      "aar": 2013,
+      "navn": "Faruk Rooma Alam",
+      "note": "ændret til 16 års fængsel"
+    },
+    {
+      "aar": 2015,
+      "navn": "Martin David Larsen",
+      "note": "ændret til 14 års fængsel"
+    },
+    {
+      "aar": 2015,
+      "navn": "Jørgen Saugsted",
+      "note": ""
+    },
+    {
+      "aar": 2016,
+      "navn": "Asbjørn Hellingsøe Haferbier",
+      "note": ""
+    },
+    {
+      "aar": 2016,
+      "navn": "Peter Thue Rudgaard",
+      "note": ""
+    },
+    {
+      "aar": 2016,
+      "navn": "Christina Aistrup Hansen",
+      "note": "ændret til 12 års fængsel"
+    },
+    {
+      "aar": 2017,
+      "navn": "Alexander Jensen",
+      "note": ""
+    },
+    {
+      "aar": 2017,
+      "navn": "Ian Ramm Hansen",
+      "note": ""
+    },
+    {
+      "aar": 2017,
+      "navn": "Christian Andersen",
+      "note": ""
+    },
+    {
+      "aar": 2018,
+      "navn": "Peter Madsen",
+      "note": ""
+    },
+    {
+      "aar": 2018,
+      "navn": "Hedaiatullah Mahmoud",
+      "note": ""
+    },
+    {
+      "aar": 2019,
+      "navn": "Torben Jensen",
+      "note": ""
+    },
+    {
+      "aar": 2020,
+      "navn": "Søren Elo Pedersen Livstidsdommen stadfæstet i 2023.",
+      "note": ""
+    },
+    {
+      "aar": 2020,
+      "navn": "Stefan Lawaetz Danielsen Livstidsdommen stadfæstet i 2023.",
+      "note": ""
+    },
+    {
+      "aar": 2020,
+      "navn": "Martin Binni Svanberg",
+      "note": "frifundet i 2021"
+    },
+    {
+      "aar": 2020,
+      "navn": "James Schmidt",
+      "note": ""
+    },
+    {
+      "aar": 2020,
+      "navn": "Osama Mohammad Khidhir",
+      "note": ""
+    },
+    {
+      "aar": 2020,
+      "navn": "Ibrahim Jamil Bader Merei",
+      "note": ""
+    },
+    {
+      "aar": 2020,
+      "navn": "Mansor Abdi Ismail",
+      "note": ""
+    },
+    {
+      "aar": 2020,
+      "navn": "Mohammed Abdighani Ali",
+      "note": ""
+    },
+    {
+      "aar": 2020,
+      "navn": "Benjamin Owusu Afriye",
+      "note": ""
+    },
+    {
+      "aar": 2021,
+      "navn": "Alexander Findanis",
+      "note": ""
+    },
+    {
+      "aar": 2021,
+      "navn": "Patrick Skjold Andersen",
+      "note": ""
+    },
+    {
+      "aar": 2021,
+      "navn": "Mickey Weiergang Dreier",
+      "note": ""
+    },
+    {
+      "aar": 2021,
+      "navn": "Martin Christensen Degn",
+      "note": ""
+    },
+    {
+      "aar": 2021,
+      "navn": "Jess Johnny Sohnemann Brønnum",
+      "note": ""
+    },
+    {
+      "aar": 2021,
+      "navn": "Haben Kahsai",
+      "note": "ændret til 20 års fængsel"
+    },
+    {
+      "aar": 2021,
+      "navn": "Flemming Mogensen",
+      "note": ""
+    },
+    {
+      "aar": 2022,
+      "navn": "Mark Vestergaard",
+      "note": ""
+    },
+    {
+      "aar": 2022,
+      "navn": "Ayub Abdullahi Nur",
+      "note": "ændret til 14 års fængsel"
+    },
+    {
+      "aar": 2022,
+      "navn": "Hicham Mojib",
+      "note": ""
+    },
+    {
+      "aar": 2022,
+      "navn": "Danish Nadeem",
+      "note": ""
+    },
+    {
+      "aar": 2022,
+      "navn": "Tolga Öztas",
+      "note": ""
+    },
+    {
+      "aar": 2022,
+      "navn": "Mehmet Simon Tüfekcioglu",
+      "note": ""
+    },
+    {
+      "aar": 2022,
+      "navn": "Ibrahim Mohammed Mala-Zade",
+      "note": ""
+    },
+    {
+      "aar": 2022,
+      "navn": "Delshad Ali Baker",
+      "note": ""
+    },
+    {
+      "aar": 2023,
+      "navn": "Tahir Ali Shan",
+      "note": ""
+    },
+    {
+      "aar": 2023,
+      "navn": "Mohamed Ali Adnan Seif",
+      "note": ""
+    },
+    {
+      "aar": 2023,
+      "navn": "Ahmad Salem El-Haj",
+      "note": ""
+    },
+    {
+      "aar": 2023,
+      "navn": "Sedad Hanic",
+      "note": ""
+    },
+    {
+      "aar": 2023,
+      "navn": "Youssef Bahram",
+      "note": ""
+    },
+    {
+      "aar": 2023,
+      "navn": "Sanwal Riaz Ahmad",
+      "note": ""
+    },
+    {
+      "aar": 2023,
+      "navn": "Mio Noa Jonathan Tunryd",
+      "note": ""
+    },
+    {
+      "aar": 2023,
+      "navn": "Pa Malick Scheer Faal",
+      "note": ""
+    },
+    {
+      "aar": 2024,
+      "navn": "Michael Høgh-Nielsen",
+      "note": ""
+    },
+    {
+      "aar": 2024,
+      "navn": "Philip Patrick Westh",
+      "note": ""
+    },
+    {
+      "aar": 2024,
+      "navn": "Vasko Magdelinic",
+      "note": ""
+    },
+    {
+      "aar": 2025,
+      "navn": "Elias Fredlin Skriver",
+      "note": ""
+    },
+    {
+      "aar": 2025,
+      "navn": "Alexander Toro Møllmann",
+      "note": ""
+    },
+    {
+      "aar": 2025,
+      "navn": "Lennart Mickey Elkjær",
+      "note": ""
+    },
+    {
+      "aar": 2025,
+      "navn": "Nick Wallace Ogle",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Livstidsdømte i Danmark - Free Download",
+    "description": "Personer idømt fængsel på livstid i Danmark siden 1930, med år for dommen og evt. kendt øgenavn eller sag. Contains 162 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Livstidsdømte i Danmark | ListBase",
+    "seo_description": "Download Livstidsdømte i Danmark — 162 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 162 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Liste_over_danske_livstidsdømte"
+    ]
+  }
+}

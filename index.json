@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-30T02:22:23.457Z",
-  "total_datasets": 453,
-  "total_records": 237237,
+  "generated": "2026-10-30T02:22:29.669Z",
+  "total_datasets": 454,
+  "total_records": 237399,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -3781,6 +3781,30 @@
         "xlsx": {
           "name": "da-justitsministre_DA.xlsx",
           "size": 10173
+        }
+      }
+    },
+    {
+      "id": "da-livstidsdomte",
+      "name": "Livstidsdømte i Danmark",
+      "category": "law",
+      "record_count": 162,
+      "columns": [
+        "aar",
+        "navn",
+        "note"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Liste_over_danske_livstidsdømte",
+      "updated": "2026-10",
+      "size": 15853,
+      "files": {
+        "csv": {
+          "name": "da-livstidsdomte_DA.csv",
+          "size": 5721
+        },
+        "xlsx": {
+          "name": "da-livstidsdomte_DA.xlsx",
+          "size": 11189
         }
       }
     },
