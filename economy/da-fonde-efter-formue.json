@@ -1,0 +1,226 @@
+{
+  "id": "da-fonde-efter-formue",
+  "name": "Danske fonde efter formue",
+  "title": "Danske fonde efter formue",
+  "description": "De største danske erhvervsdrivende og almennyttige fonde rangeret efter formue (mio. kr.) med opgørelsesår og stiftelsesår.",
+  "category": "economy",
+  "source": "https://da.wikipedia.org/wiki/Liste_over_danske_fonde_efter_formue",
+  "source_url": "https://da.wikipedia.org/wiki/Liste_over_danske_fonde_efter_formue",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "fond",
+      "label": "Fond",
+      "type": "string"
+    },
+    {
+      "key": "formue_mio_kr",
+      "label": "Formue Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "formue_aar",
+      "label": "Formue Aar",
+      "type": "number"
+    },
+    {
+      "key": "stiftet",
+      "label": "Stiftet",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "fond": "Novo Nordisk Fonden",
+      "formue_mio_kr": 1114000,
+      "formue_aar": 2023,
+      "stiftet": "1989"
+    },
+    {
+      "nr": 2,
+      "fond": "A.P. Møller Fonden",
+      "formue_mio_kr": 265864,
+      "formue_aar": 2022,
+      "stiftet": "1901"
+    },
+    {
+      "nr": 3,
+      "fond": "Lundbeckfonden",
+      "formue_mio_kr": 62601,
+      "formue_aar": 2017,
+      "stiftet": "1983"
+    },
+    {
+      "nr": 4,
+      "fond": "Carlsbergfondet",
+      "formue_mio_kr": 53150,
+      "formue_aar": 2022,
+      "stiftet": "1876"
+    },
+    {
+      "nr": 6,
+      "fond": "TrygFonden",
+      "formue_mio_kr": 44168,
+      "formue_aar": 2023,
+      "stiftet": "2004"
+    },
+    {
+      "nr": 5,
+      "fond": "Realdania",
+      "formue_mio_kr": 22070,
+      "formue_aar": 2018,
+      "stiftet": "2000"
+    },
+    {
+      "nr": 7,
+      "fond": "Augustinus Fonden",
+      "formue_mio_kr": 22543,
+      "formue_aar": 2017,
+      "stiftet": "1987"
+    },
+    {
+      "nr": 8,
+      "fond": "Aage og Johanne Louis-Hansens Fond",
+      "formue_mio_kr": "12,01",
+      "formue_aar": "",
+      "stiftet": "1980"
+    },
+    {
+      "nr": 9,
+      "fond": "LEGO Fonden",
+      "formue_mio_kr": "8,786",
+      "formue_aar": "",
+      "stiftet": "1986"
+    },
+    {
+      "nr": 10,
+      "fond": "Nordea-fonden",
+      "formue_mio_kr": "7,086",
+      "formue_aar": "",
+      "stiftet": "1989"
+    },
+    {
+      "nr": 11,
+      "fond": "Villum Fonden",
+      "formue_mio_kr": "7,048",
+      "formue_aar": "",
+      "stiftet": "1971"
+    },
+    {
+      "nr": 12,
+      "fond": "Oticon Fonden",
+      "formue_mio_kr": "6,482",
+      "formue_aar": "",
+      "stiftet": "1986"
+    },
+    {
+      "nr": 13,
+      "fond": "Lauritzen Fonden",
+      "formue_mio_kr": "5,958",
+      "formue_aar": "",
+      "stiftet": "1986"
+    },
+    {
+      "nr": 14,
+      "fond": "Egmont Fonden",
+      "formue_mio_kr": "5,615",
+      "formue_aar": "",
+      "stiftet": "1986"
+    },
+    {
+      "nr": 15,
+      "fond": "Hempel Fonden",
+      "formue_mio_kr": "5,198",
+      "formue_aar": "",
+      "stiftet": "1986"
+    },
+    {
+      "nr": 16,
+      "fond": "Aarhus Universitets Forskningsfond",
+      "formue_mio_kr": "4,599",
+      "formue_aar": "",
+      "stiftet": "1985"
+    },
+    {
+      "nr": 17,
+      "fond": "Knud Højgaards Fond",
+      "formue_mio_kr": "3,064",
+      "formue_aar": "",
+      "stiftet": "1986"
+    },
+    {
+      "nr": 18,
+      "fond": "Velux Fonden",
+      "formue_mio_kr": "2,343",
+      "formue_aar": "",
+      "stiftet": "1981"
+    },
+    {
+      "nr": 19,
+      "fond": "Industriens Fond",
+      "formue_mio_kr": "2,021",
+      "formue_aar": "",
+      "stiftet": "1990"
+    },
+    {
+      "nr": 20,
+      "fond": "Det Obelske Familiefond",
+      "formue_mio_kr": "2,016",
+      "formue_aar": "",
+      "stiftet": "1986"
+    },
+    {
+      "nr": 21,
+      "fond": "Bikubenfonden",
+      "formue_mio_kr": "1,03",
+      "formue_aar": "",
+      "stiftet": "1989"
+    },
+    {
+      "nr": 22,
+      "fond": "Aage V. Jensen Naturfond",
+      "formue_mio_kr": "0,884",
+      "formue_aar": "",
+      "stiftet": "2006"
+    },
+    {
+      "nr": 23,
+      "fond": "Ny Carlsbergfondet",
+      "formue_mio_kr": "0,469",
+      "formue_aar": "",
+      "stiftet": "1902"
+    },
+    {
+      "nr": 24,
+      "fond": "OJD-Fonden",
+      "formue_mio_kr": "0,279",
+      "formue_aar": "",
+      "stiftet": "2004"
+    },
+    {
+      "nr": 25,
+      "fond": "Købmand Herman Sallings Fond",
+      "formue_mio_kr": "0,164",
+      "formue_aar": "",
+      "stiftet": "1964"
+    }
+  ],
+  "meta": {
+    "title": "Danske fonde efter formue - Free Download",
+    "description": "De største danske erhvervsdrivende og almennyttige fonde rangeret efter formue (mio. kr.) med opgørelsesår og stiftelsesår. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danske fonde efter formue | ListBase",
+    "seo_description": "Download Danske fonde efter formue — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Liste_over_danske_fonde_efter_formue"
+    ]
+  }
+}

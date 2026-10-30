@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-30T02:22:16.371Z",
-  "total_datasets": 452,
-  "total_records": 237212,
+  "generated": "2026-10-30T02:22:23.457Z",
+  "total_datasets": 453,
+  "total_records": 237237,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -1388,6 +1388,32 @@
         "xlsx": {
           "name": "da-bnp-og-oekonomisk-vaekst_DA.xlsx",
           "size": 8580
+        }
+      }
+    },
+    {
+      "id": "da-fonde-efter-formue",
+      "name": "Danske fonde efter formue",
+      "category": "economy",
+      "record_count": 25,
+      "columns": [
+        "nr",
+        "fond",
+        "formue_mio_kr",
+        "formue_aar",
+        "stiftet"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Liste_over_danske_fonde_efter_formue",
+      "updated": "2026-10",
+      "size": 5250,
+      "files": {
+        "csv": {
+          "name": "da-fonde-efter-formue_DA.csv",
+          "size": 1152
+        },
+        "xlsx": {
+          "name": "da-fonde-efter-formue_DA.xlsx",
+          "size": 7811
         }
       }
     },
