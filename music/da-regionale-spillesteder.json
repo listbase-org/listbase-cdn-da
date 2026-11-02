@@ -1,0 +1,316 @@
+{
+  "id": "da-regionale-spillesteder",
+  "name": "Regionale spillesteder i Danmark",
+  "title": "Regionale spillesteder i Danmark",
+  "description": "Danske spillesteder udpeget som regionale spillesteder (rytmisk musik) af Statens Kunstfond, fordelt på aftaleperioder, med by.",
+  "category": "music",
+  "source": "https://da.wikipedia.org/wiki/Regionalt_spillested",
+  "source_url": "https://da.wikipedia.org/wiki/Regionalt_spillested",
+  "updated": "2026-11",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "spillested",
+      "label": "Spillested",
+      "type": "string"
+    },
+    {
+      "key": "by",
+      "label": "By",
+      "type": "string"
+    },
+    {
+      "key": "periode",
+      "label": "Periode",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "spillested": "Musikhuzet Bornholm",
+      "by": "Rønne",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Tobakken",
+      "by": "Esbjerg",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Det Musiske Hus",
+      "by": "Frederikshavn",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Fermaten",
+      "by": "Herning",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Klaverfabrikken",
+      "by": "Hillerød",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Godset",
+      "by": "Kolding",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Copenhagen Jazzhouse",
+      "by": "København",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Global Copenhagen",
+      "by": "København",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "VEGA",
+      "by": "København",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Posten/Dexter",
+      "by": "Odense",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Turbinen",
+      "by": "Randers",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Gimle",
+      "by": "Roskilde",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Sønderborghus",
+      "by": "Sønderborg",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Spillestedet Thy",
+      "by": "Thisted",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "STARS",
+      "by": "Vordingborg",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Studenterhuset",
+      "by": "Aalborg",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Radar",
+      "by": "Aarhus",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Train",
+      "by": "Aarhus",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "VoxHall/Atlas",
+      "by": "Aarhus",
+      "periode": "2017-2020"
+    },
+    {
+      "spillested": "Musikhuzet Bornholm",
+      "by": "Rønne",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Tobakken",
+      "by": "Esbjerg",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Det Musiske Hus",
+      "by": "Frederikshavn",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Fermaten",
+      "by": "Herning",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Klaverfabrikken",
+      "by": "Hillerød",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Godset",
+      "by": "Kolding",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Copenhagen Jazzhouse",
+      "by": "København",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Culture Box",
+      "by": "København",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Global Copenhagen",
+      "by": "København",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Loppen",
+      "by": "Christiania, København",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "VEGA",
+      "by": "København",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Posten/Dexter",
+      "by": "Odense",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Gimle",
+      "by": "Roskilde",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Sønderborghus",
+      "by": "Sønderborg",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "STARS",
+      "by": "Vordingborg",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Studenterhuset",
+      "by": "Aalborg",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Radar",
+      "by": "Aarhus",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Train",
+      "by": "Aarhus",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "VoxHall/Atlas",
+      "by": "Aarhus",
+      "periode": "2013-2016"
+    },
+    {
+      "spillested": "Musikhuzet Bornholm",
+      "by": "Rønne",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Det Musiske Hus",
+      "by": "Frederikshavn",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Fermaten",
+      "by": "Herning",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Godset",
+      "by": "Kolding",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Copenhagen Jazzhouse",
+      "by": "København",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Culture Box",
+      "by": "København",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Global Copenhagen",
+      "by": "København",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Loppen",
+      "by": "Christiania, København",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "VEGA",
+      "by": "København",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Posten/Dexter",
+      "by": "Odense",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Gimle",
+      "by": "Roskilde",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Sønderborghus",
+      "by": "Sønderborg",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "STARS",
+      "by": "Vordingborg",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Studenterhuset",
+      "by": "Aalborg",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Musikcaféen, Aarhus (Nu: Radar)",
+      "by": "",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Train",
+      "by": "Aarhus",
+      "periode": "2009-2012"
+    },
+    {
+      "spillested": "Voxhall",
+      "by": "Aarhus",
+      "periode": "2009-2012"
+    }
+  ],
+  "meta": {
+    "title": "Regionale spillesteder i Danmark - Free Download",
+    "description": "Danske spillesteder udpeget som regionale spillesteder (rytmisk musik) af Statens Kunstfond, fordelt på aftaleperioder, med by. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Regionale spillesteder i Danmark | ListBase",
+    "seo_description": "Download Regionale spillesteder i Danmark — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Regionalt_spillested"
+    ]
+  }
+}

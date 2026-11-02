@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-02T02:29:27.165Z",
-  "total_datasets": 459,
-  "total_records": 237615,
+  "generated": "2026-11-02T02:29:35.052Z",
+  "total_datasets": 460,
+  "total_records": 237670,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -4074,6 +4074,30 @@
         "xlsx": {
           "name": "da-nummer-et-hits-2019-2025_DA.xlsx",
           "size": 15786
+        }
+      }
+    },
+    {
+      "id": "da-regionale-spillesteder",
+      "name": "Regionale spillesteder i Danmark",
+      "category": "music",
+      "record_count": 55,
+      "columns": [
+        "spillested",
+        "by",
+        "periode"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Regionalt_spillested",
+      "updated": "2026-11",
+      "size": 7069,
+      "files": {
+        "csv": {
+          "name": "da-regionale-spillesteder_DA.csv",
+          "size": 2112
+        },
+        "xlsx": {
+          "name": "da-regionale-spillesteder_DA.xlsx",
+          "size": 7884
         }
       }
     },
