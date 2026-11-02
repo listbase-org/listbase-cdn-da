@@ -1,0 +1,513 @@
+{
+  "id": "da-finansministre",
+  "name": "Danmarks finansministre",
+  "title": "Danmarks finansministre",
+  "description": "Liste over Danmarks finansministre siden 1848 med parti, tiltrædelses- og afgangsdato samt regering(er).",
+  "category": "economy",
+  "source": "https://da.wikipedia.org/wiki/Finansministre_fra_Danmark",
+  "source_url": "https://da.wikipedia.org/wiki/Finansministre_fra_Danmark",
+  "updated": "2026-11",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "finansminister",
+      "label": "Finansminister",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "tiltraedelse",
+      "label": "Tiltraedelse",
+      "type": "string"
+    },
+    {
+      "key": "afgang",
+      "label": "Afgang",
+      "type": "string"
+    },
+    {
+      "key": "regeringer",
+      "label": "Regeringer",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "finansminister": "A.W. Moltke",
+      "parti": "Partiløs",
+      "tiltraedelse": "22.03.1848",
+      "afgang": "16.11.1848",
+      "regeringer": "Ministeriet Moltke I"
+    },
+    {
+      "finansminister": "W.C.E. Sponneck",
+      "parti": "Partiløs",
+      "tiltraedelse": "16.11.1848",
+      "afgang": "12.12.1854",
+      "regeringer": "Ministeriet Moltke II, Ministeriet Moltke III, Ministeriet Moltke IV, Ministeriet Bluhme I, Ministeriet Ørsted"
+    },
+    {
+      "finansminister": "C.C.G. Andræ",
+      "parti": "Bondevennernes Selskab",
+      "tiltraedelse": "12.12.1854",
+      "afgang": "10.07.1858",
+      "regeringer": "Ministeriet Bang, Ministeriet Andræ, Ministeriet Hall I"
+    },
+    {
+      "finansminister": "A.F. Krieger",
+      "parti": "De Nationalliberale",
+      "tiltraedelse": "10.07.1858",
+      "afgang": "06.05.1859",
+      "regeringer": "Ministeriet Hall I"
+    },
+    {
+      "finansminister": "C.E. Fenger",
+      "parti": "Partiløs",
+      "tiltraedelse": "06.05.1859",
+      "afgang": "02.12.1859",
+      "regeringer": "Ministeriet Hall I"
+    },
+    {
+      "finansminister": "R. Westenholz",
+      "parti": "Partiløs",
+      "tiltraedelse": "02.12.1859",
+      "afgang": "24.02.1860",
+      "regeringer": "Ministeriet Rotwitt"
+    },
+    {
+      "finansminister": "C.E. Fenger",
+      "parti": "Partiløs",
+      "tiltraedelse": "24.02.1860",
+      "afgang": "31.12.1863",
+      "regeringer": "Ministeriet Hall II"
+    },
+    {
+      "finansminister": "D.G. Monrad",
+      "parti": "De Nationalliberale",
+      "tiltraedelse": "31.12.1863",
+      "afgang": "11.07.1864",
+      "regeringer": "Ministeriet Monrad"
+    },
+    {
+      "finansminister": "Christian Georg Nathan David",
+      "parti": "Partiløs",
+      "tiltraedelse": "11.07.1864",
+      "afgang": "06.11.1865",
+      "regeringer": "Ministeriet Bluhme II"
+    },
+    {
+      "finansminister": "C.A. Fonnesbech",
+      "parti": "Partiløs",
+      "tiltraedelse": "06.11.1865",
+      "afgang": "28.05.1870",
+      "regeringer": "Ministeriet Frijs"
+    },
+    {
+      "finansminister": "C.E. Fenger",
+      "parti": "Partiløs",
+      "tiltraedelse": "28.05.1870",
+      "afgang": "25.03.1872",
+      "regeringer": "Ministeriet Holstein-Holsteinborg"
+    },
+    {
+      "finansminister": "A.F. Krieger",
+      "parti": "De Nationalliberale",
+      "tiltraedelse": "25.03.1872",
+      "afgang": "20.06.1874",
+      "regeringer": "Ministeriet Holstein-Holsteinborg"
+    },
+    {
+      "finansminister": "C.A. Fonnesbech",
+      "parti": "Partiløs",
+      "tiltraedelse": "14.07.1874",
+      "afgang": "11.06.1875",
+      "regeringer": "Ministeriet Fonnesbech"
+    },
+    {
+      "finansminister": "J.B.S. Estrup",
+      "parti": "Højre",
+      "tiltraedelse": "11.06.1875",
+      "afgang": "07.08.1894",
+      "regeringer": "Ministeriet Estrup"
+    },
+    {
+      "finansminister": "C.D. Lüttichau",
+      "parti": "Højre",
+      "tiltraedelse": "07.08.1894",
+      "afgang": "23.05.1897",
+      "regeringer": "Ministeriet Reedtz-Thott"
+    },
+    {
+      "finansminister": "Hugo Egmont Hørring",
+      "parti": "Højre",
+      "tiltraedelse": "23.05.1897",
+      "afgang": "27.04.1900",
+      "regeringer": "Ministeriet Hørring"
+    },
+    {
+      "finansminister": "H. William Scharling",
+      "parti": "Højre",
+      "tiltraedelse": "27.04.1900",
+      "afgang": "24.07.1901",
+      "regeringer": "Ministeriet Sehested"
+    },
+    {
+      "finansminister": "Christopher F. Hage",
+      "parti": "Venstre",
+      "tiltraedelse": "24.07.1901",
+      "afgang": "14.01.1905",
+      "regeringer": "Ministeriet Deuntzer"
+    },
+    {
+      "finansminister": "Vilhelm Herman Lassen",
+      "parti": "Venstre",
+      "tiltraedelse": "14.01.1905",
+      "afgang": "06.04.1908",
+      "regeringer": "Regeringen Christensen l"
+    },
+    {
+      "finansminister": "J.C. Christensen",
+      "parti": "Venstre",
+      "tiltraedelse": "06.04.1908",
+      "afgang": "24.07.1908",
+      "regeringer": "Regeringen Christensen l"
+    },
+    {
+      "finansminister": "Niels Neergaard",
+      "parti": "Venstre",
+      "tiltraedelse": "24.07.1908",
+      "afgang": "12.10.1908",
+      "regeringer": "Regeringen Christensen ll"
+    },
+    {
+      "finansminister": "Charles Brun",
+      "parti": "Partiløs",
+      "tiltraedelse": "12.10.1908",
+      "afgang": "16.08.1909",
+      "regeringer": "Ministeriet Neergaard I"
+    },
+    {
+      "finansminister": "Niels Neergaard",
+      "parti": "Venstre",
+      "tiltraedelse": "16.08.1909",
+      "afgang": "28.10.1909",
+      "regeringer": "Ministeriet Holstein-Ledreborg"
+    },
+    {
+      "finansminister": "Edvard Brandes",
+      "parti": "Det Radikale Venstre",
+      "tiltraedelse": "28.10.1909",
+      "afgang": "05.07.1910",
+      "regeringer": "Ministeriet Zahle I"
+    },
+    {
+      "finansminister": "Niels Neergaard",
+      "parti": "Venstre",
+      "tiltraedelse": "05.07.1910",
+      "afgang": "21.06.1913",
+      "regeringer": "Ministeriet Klaus Berntsen"
+    },
+    {
+      "finansminister": "Edvard Brandes",
+      "parti": "Det Radikale Venstre",
+      "tiltraedelse": "21.06.1913",
+      "afgang": "29.03.1920",
+      "regeringer": "Ministeriet Zahle II"
+    },
+    {
+      "finansminister": "H.P. Hjerl Hansen",
+      "parti": "Udenfor partierne",
+      "tiltraedelse": "30.03.1920",
+      "afgang": "05.04.1920",
+      "regeringer": "Ministeriet Otto Liebe"
+    },
+    {
+      "finansminister": "A.M. Koefoed",
+      "parti": "Udenfor partierne",
+      "tiltraedelse": "05.04.1920",
+      "afgang": "05.05.1920",
+      "regeringer": "Ministeriet M.P. Friis"
+    },
+    {
+      "finansminister": "Niels Neergaard",
+      "parti": "Venstre",
+      "tiltraedelse": "05.05.1920",
+      "afgang": "23.04.1924",
+      "regeringer": "Ministeriet Neergaard II"
+    },
+    {
+      "finansminister": "C.V. Bramsnæs",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "23.04.1924",
+      "afgang": "14.12.1926",
+      "regeringer": "Ministeriet Thorvald Stauning I"
+    },
+    {
+      "finansminister": "Niels Neergaard",
+      "parti": "Venstre",
+      "tiltraedelse": "14.12.1926",
+      "afgang": "30.04.1929",
+      "regeringer": "Ministeriet Madsen-Mygdal"
+    },
+    {
+      "finansminister": "C.V. Bramsnæs",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "30.04.1929",
+      "afgang": "31.05.1933",
+      "regeringer": "Ministeriet Thorvald Stauning II"
+    },
+    {
+      "finansminister": "H.P. Hansen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "31.05.1933",
+      "afgang": "20.07.1937",
+      "regeringer": "Ministeriet Thorvald Stauning II"
+    },
+    {
+      "finansminister": "Vilhelm Buhl",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "20.07.1937",
+      "afgang": "16.07.1942",
+      "regeringer": "Ministeriet Thorvald Stauning II & III"
+    },
+    {
+      "finansminister": "Alsing Andersen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "16.07.1942",
+      "afgang": "09.11.1942",
+      "regeringer": "Regeringen Vilhelm Buhl I"
+    },
+    {
+      "finansminister": "K.H. Kofoed ¹",
+      "parti": "Det Radikale Venstre",
+      "tiltraedelse": "09.11.1942",
+      "afgang": "05.05.1945",
+      "regeringer": "Regeringen Scavenius"
+    },
+    {
+      "finansminister": "H.C. Hansen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "05.05.1945",
+      "afgang": "07.11.1945",
+      "regeringer": "Regeringen Vilhelm Buhl II"
+    },
+    {
+      "finansminister": "Thorkil Kristensen",
+      "parti": "Venstre",
+      "tiltraedelse": "07.11.1945",
+      "afgang": "13.11.1947",
+      "regeringer": "Regeringen Knud Kristensen"
+    },
+    {
+      "finansminister": "H.C. Hansen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "13.11.1947",
+      "afgang": "16.09.1950",
+      "regeringer": "Regeringen Hans Hedtoft I"
+    },
+    {
+      "finansminister": "Viggo Kampmann",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "16.09.1950",
+      "afgang": "30.10.1950",
+      "regeringer": "Regeringen Hans Hedtoft I"
+    },
+    {
+      "finansminister": "Thorkil Kristensen",
+      "parti": "Venstre",
+      "tiltraedelse": "30.10.1950",
+      "afgang": "30.09.1953",
+      "regeringer": "Regeringen Erik Eriksen"
+    },
+    {
+      "finansminister": "Viggo Kampmann",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "30.09.1953",
+      "afgang": "31.03.1960",
+      "regeringer": "Regeringen Hans Hedtoft II, Regeringen H.C. Hansen I & II, Regeringen Viggo Kampmann I"
+    },
+    {
+      "finansminister": "Kjeld Philip",
+      "parti": "Det Radikale Venstre",
+      "tiltraedelse": "31.03.1960",
+      "afgang": "07.09.1961",
+      "regeringer": "Regeringen Viggo Kampmann I & II"
+    },
+    {
+      "finansminister": "Hans R. Knudsen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "07.09.1961",
+      "afgang": "04.11.1962",
+      "regeringer": "Regeringen Viggo Kampmann I, Regeringen Jens Otto Krag I"
+    },
+    {
+      "finansminister": "Poul Hansen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "15.11.1962",
+      "afgang": "24.08.1965",
+      "regeringer": "Regeringen Jens Otto Krag I & II"
+    },
+    {
+      "finansminister": "Henry Grünbaum",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "24.08.1965",
+      "afgang": "02.02.1968",
+      "regeringer": "Regeringen Jens Otto Krag II"
+    },
+    {
+      "finansminister": "Poul Møller",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "02.02.1968",
+      "afgang": "17.03.1971",
+      "regeringer": "Regeringen Hilmar Baunsgaard"
+    },
+    {
+      "finansminister": "Erik Ninn-Hansen",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "17.03.1971",
+      "afgang": "11.10.1971",
+      "regeringer": "Regeringen Hilmar Baunsgaard"
+    },
+    {
+      "finansminister": "Henry Grünbaum",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "11.10.1971",
+      "afgang": "19.12.1973",
+      "regeringer": "Regeringen Jens Otto Krag III & Regeringen Anker Jørgensen I"
+    },
+    {
+      "finansminister": "Anders Andersen",
+      "parti": "Venstre",
+      "tiltraedelse": "19.12.1973",
+      "afgang": "13.02.1975",
+      "regeringer": "Regeringen Poul Hartling"
+    },
+    {
+      "finansminister": "Knud Heinesen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "13.02.1975",
+      "afgang": "26.10.1979",
+      "regeringer": "Regeringen Anker Jørgensen II & III"
+    },
+    {
+      "finansminister": "Svend Jakobsen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "26.10.1979",
+      "afgang": "30.12.1981",
+      "regeringer": "Regeringen Anker Jørgensen IV"
+    },
+    {
+      "finansminister": "Knud Heinesen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "30.12.1981",
+      "afgang": "10.09.1982",
+      "regeringer": "Regeringen Anker Jørgensen V"
+    },
+    {
+      "finansminister": "Henning Christophersen",
+      "parti": "Venstre",
+      "tiltraedelse": "10.09.1982",
+      "afgang": "23.07.1984",
+      "regeringer": "Regeringen Poul Schlüter I"
+    },
+    {
+      "finansminister": "Palle Simonsen",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "23.07.1984",
+      "afgang": "31.10.1989",
+      "regeringer": "Regeringen Poul Schlüter I, II & III"
+    },
+    {
+      "finansminister": "Henning Dyremose",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "31.10.1989",
+      "afgang": "25.01.1993",
+      "regeringer": "Regeringen Poul Schlüter III & IV"
+    },
+    {
+      "finansminister": "Mogens Lykketoft",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "25.01.1993",
+      "afgang": "21.12.2000",
+      "regeringer": "Regeringen Poul Nyrup Rasmussen I, II, III & IV"
+    },
+    {
+      "finansminister": "Pia Gjellerup",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "21.12.2000",
+      "afgang": "27.11.2001",
+      "regeringer": "Regeringen Poul Nyrup Rasmussen IV"
+    },
+    {
+      "finansminister": "Thor Pedersen",
+      "parti": "Venstre",
+      "tiltraedelse": "27.11.2001",
+      "afgang": "23.11.2007",
+      "regeringer": "Regeringen Anders Fogh Rasmussen I & II"
+    },
+    {
+      "finansminister": "Lars Løkke Rasmussen",
+      "parti": "Venstre",
+      "tiltraedelse": "23.11.2007",
+      "afgang": "07.04.2009",
+      "regeringer": "Regeringen Anders Fogh Rasmussen III"
+    },
+    {
+      "finansminister": "Claus Hjort Frederiksen",
+      "parti": "Venstre",
+      "tiltraedelse": "07.04.2009",
+      "afgang": "03.10.2011",
+      "regeringer": "Regeringen Lars Løkke Rasmussen I"
+    },
+    {
+      "finansminister": "Bjarne Corydon",
+      "parti": "Socialdemokraterne",
+      "tiltraedelse": "03.10.2011",
+      "afgang": "28.06.2015",
+      "regeringer": "Regeringen Helle Thorning-Schmidt I & Regeringen Helle Thorning-Schmidt II"
+    },
+    {
+      "finansminister": "Claus Hjort Frederiksen",
+      "parti": "Venstre",
+      "tiltraedelse": "28.06.2015",
+      "afgang": "28.11.2016",
+      "regeringer": "Regeringen Lars Løkke Rasmussen II"
+    },
+    {
+      "finansminister": "Kristian Jensen",
+      "parti": "Venstre",
+      "tiltraedelse": "28.11.2016",
+      "afgang": "27.06.2019",
+      "regeringer": "Regeringen Lars Løkke Rasmussen III"
+    },
+    {
+      "finansminister": "Nicolai Wammen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "27.06.2019",
+      "afgang": "03.06.2026",
+      "regeringer": "Regeringen Mette Frederiksen & Regeringen Mette Frederiksen II"
+    },
+    {
+      "finansminister": "Peter Hummelgaard",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "03.06.2026",
+      "afgang": "Nuværende",
+      "regeringer": "Regeringen Mette Frederiksen III"
+    }
+  ],
+  "meta": {
+    "title": "Danmarks finansministre - Free Download",
+    "description": "Liste over Danmarks finansministre siden 1848 med parti, tiltrædelses- og afgangsdato samt regering(er). Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danmarks finansministre | ListBase",
+    "seo_description": "Download Danmarks finansministre — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Finansministre_fra_Danmark"
+    ]
+  }
+}

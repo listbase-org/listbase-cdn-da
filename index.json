@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-10-30T02:22:45.241Z",
-  "total_datasets": 456,
-  "total_records": 237448,
+  "generated": "2026-11-02T02:29:09.582Z",
+  "total_datasets": 457,
+  "total_records": 237514,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -1388,6 +1388,32 @@
         "xlsx": {
           "name": "da-bnp-og-oekonomisk-vaekst_DA.xlsx",
           "size": 8580
+        }
+      }
+    },
+    {
+      "id": "da-finansministre",
+      "name": "Danmarks finansministre",
+      "category": "economy",
+      "record_count": 66,
+      "columns": [
+        "finansminister",
+        "parti",
+        "tiltraedelse",
+        "afgang",
+        "regeringer"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Finansministre_fra_Danmark",
+      "updated": "2026-11",
+      "size": 15389,
+      "files": {
+        "csv": {
+          "name": "da-finansministre_DA.csv",
+          "size": 6341
+        },
+        "xlsx": {
+          "name": "da-finansministre_DA.xlsx",
+          "size": 9937
         }
       }
     },
