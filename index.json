@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-02T02:29:41.794Z",
-  "total_datasets": 461,
-  "total_records": 237691,
+  "generated": "2026-11-02T02:29:47.785Z",
+  "total_datasets": 462,
+  "total_records": 237760,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -1629,6 +1629,30 @@
         "xlsx": {
           "name": "da-skoler_DA.xlsx",
           "size": 84385
+        }
+      }
+    },
+    {
+      "id": "da-undervisningsministre",
+      "name": "Danmarks undervisningsministre siden 1848",
+      "category": "education",
+      "record_count": 69,
+      "columns": [
+        "minister",
+        "parti",
+        "tiltraedelse"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Undervisningsministre_fra_Danmark",
+      "updated": "2026-11",
+      "size": 9087,
+      "files": {
+        "csv": {
+          "name": "da-undervisningsministre_DA.csv",
+          "size": 2729
+        },
+        "xlsx": {
+          "name": "da-undervisningsministre_DA.xlsx",
+          "size": 8916
         }
       }
     },

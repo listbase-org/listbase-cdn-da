@@ -1,0 +1,386 @@
+{
+  "id": "da-undervisningsministre",
+  "name": "Danmarks undervisningsministre siden 1848",
+  "title": "Danmarks undervisningsministre siden 1848",
+  "description": "Liste over danske undervisningsministre (tidligere kultus- og undervisningsministre) siden 1848 med parti og tiltrædelsesdato.",
+  "category": "education",
+  "source": "https://da.wikipedia.org/wiki/Undervisningsministre_fra_Danmark",
+  "source_url": "https://da.wikipedia.org/wiki/Undervisningsministre_fra_Danmark",
+  "updated": "2026-11",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "minister",
+      "label": "Minister",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "tiltraedelse",
+      "label": "Tiltraedelse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "minister": "Magnus Heunicke",
+      "parti": "S",
+      "tiltraedelse": "3. juni 2026"
+    },
+    {
+      "minister": "Mattias Tesfaye",
+      "parti": "S",
+      "tiltraedelse": "15. december 2022"
+    },
+    {
+      "minister": "Pernille Rosenkrantz-Theil",
+      "parti": "S",
+      "tiltraedelse": "27. juni 2019"
+    },
+    {
+      "minister": "Merete Riisager",
+      "parti": "LA",
+      "tiltraedelse": "28. november 2016"
+    },
+    {
+      "minister": "Ellen Trane Nørby",
+      "parti": "V",
+      "tiltraedelse": "28. juni 2015"
+    },
+    {
+      "minister": "Christine Antorini",
+      "parti": "S",
+      "tiltraedelse": "3. oktober 2011"
+    },
+    {
+      "minister": "Troels Lund Poulsen",
+      "parti": "V",
+      "tiltraedelse": "8. marts 2011"
+    },
+    {
+      "minister": "Tina Nedergaard",
+      "parti": "V",
+      "tiltraedelse": "23. februar 2010"
+    },
+    {
+      "minister": "Bertel Haarder",
+      "parti": "V",
+      "tiltraedelse": "18. februar 2005"
+    },
+    {
+      "minister": "Ulla Tørnæs",
+      "parti": "V",
+      "tiltraedelse": "27. november 2001"
+    },
+    {
+      "minister": "Margrethe Vestager",
+      "parti": "B",
+      "tiltraedelse": "23. marts 1998"
+    },
+    {
+      "minister": "Ole Vig Jensen",
+      "parti": "B",
+      "tiltraedelse": "25. januar 1993"
+    },
+    {
+      "minister": "Bertel Haarder",
+      "parti": "V",
+      "tiltraedelse": "10. september 1982"
+    },
+    {
+      "minister": "Dorte Bennedsen",
+      "parti": "S",
+      "tiltraedelse": "5. januar 1979"
+    },
+    {
+      "minister": "Knud Heinesen",
+      "parti": "S",
+      "tiltraedelse": "22. december 1978"
+    },
+    {
+      "minister": "Ritt Bjerregaard",
+      "parti": "S",
+      "tiltraedelse": "13. februar 1975"
+    },
+    {
+      "minister": "Tove Nielsen",
+      "parti": "V",
+      "tiltraedelse": "19. december 1973"
+    },
+    {
+      "minister": "Ritt Bjerregaard",
+      "parti": "S",
+      "tiltraedelse": "27. september 1973"
+    },
+    {
+      "minister": "Knud Heinesen",
+      "parti": "S",
+      "tiltraedelse": "11. oktober 1971"
+    },
+    {
+      "minister": "Helge Larsen",
+      "parti": "B",
+      "tiltraedelse": "2. februar 1968"
+    },
+    {
+      "minister": "K.B. Andersen",
+      "parti": "S",
+      "tiltraedelse": "26. september 1964"
+    },
+    {
+      "minister": "K. Helveg Petersen",
+      "parti": "B",
+      "tiltraedelse": "7. september 1961"
+    },
+    {
+      "minister": "Jørgen Jørgensen",
+      "parti": "B",
+      "tiltraedelse": "28. maj 1957"
+    },
+    {
+      "minister": "Julius Bomholt",
+      "parti": "S",
+      "tiltraedelse": "30. september 1953"
+    },
+    {
+      "minister": "Flemming Hvidberg",
+      "parti": "C",
+      "tiltraedelse": "30. oktober 1950"
+    },
+    {
+      "minister": "Julius Bomholt",
+      "parti": "S",
+      "tiltraedelse": "11. februar 1950"
+    },
+    {
+      "minister": "Hartvig Frisch",
+      "parti": "",
+      "tiltraedelse": "13. november 1947"
+    },
+    {
+      "minister": "Mads R. Hartling",
+      "parti": "",
+      "tiltraedelse": "7. november 1945"
+    },
+    {
+      "minister": "A.M. Hansen",
+      "parti": "",
+      "tiltraedelse": "5. maj 1945"
+    },
+    {
+      "minister": "A.C. Højberg Christensen",
+      "parti": "",
+      "tiltraedelse": "9. november 1942"
+    },
+    {
+      "minister": "Jørgen Jørgensen",
+      "parti": "",
+      "tiltraedelse": "4. november 1935"
+    },
+    {
+      "minister": "Frederik Borgbjerg",
+      "parti": "",
+      "tiltraedelse": "30. april 1929"
+    },
+    {
+      "minister": "Jens Byskov",
+      "parti": "",
+      "tiltraedelse": "14. december 1926"
+    },
+    {
+      "minister": "Nina Bang",
+      "parti": "",
+      "tiltraedelse": "23. april 1924"
+    },
+    {
+      "minister": "Jacob Appel",
+      "parti": "",
+      "tiltraedelse": "5. maj 1920"
+    },
+    {
+      "minister": "P.J. Pedersen",
+      "parti": "",
+      "tiltraedelse": "5. april 1920"
+    },
+    {
+      "minister": "Thorkild Rovsing",
+      "parti": "",
+      "tiltraedelse": "30. marts 1920"
+    },
+    {
+      "minister": "Søren Keiser-Nielsen",
+      "parti": "",
+      "tiltraedelse": "21. juni 1913"
+    },
+    {
+      "minister": "Jacob Appel",
+      "parti": "",
+      "tiltraedelse": "5. juli 1910"
+    },
+    {
+      "minister": "M.C.B. Nielsen",
+      "parti": "",
+      "tiltraedelse": "28. oktober 1909"
+    },
+    {
+      "minister": "Enevold Sørensen",
+      "parti": "",
+      "tiltraedelse": "14. januar 1905"
+    },
+    {
+      "minister": "J.C. Christensen",
+      "parti": "",
+      "tiltraedelse": "24. juli 1901"
+    },
+    {
+      "minister": "J.J. Bjerre",
+      "parti": "",
+      "tiltraedelse": "27. april 1900"
+    },
+    {
+      "minister": "H.V. Sthyr",
+      "parti": "",
+      "tiltraedelse": "23. maj 1897"
+    },
+    {
+      "minister": "Vilhelm Bardenfleth",
+      "parti": "",
+      "tiltraedelse": "7. august 1894"
+    },
+    {
+      "minister": "Carl Goos",
+      "parti": "",
+      "tiltraedelse": "10. juli 1891"
+    },
+    {
+      "minister": "Johannes Nellemann",
+      "parti": "",
+      "tiltraedelse": "6. juli 1891"
+    },
+    {
+      "minister": "Jacob Frederik Scavenius",
+      "parti": "",
+      "tiltraedelse": "24. august 1880"
+    },
+    {
+      "minister": "J.C.H. Fischer",
+      "parti": "",
+      "tiltraedelse": "11. juni 1875"
+    },
+    {
+      "minister": "J.J.A. Worsaae",
+      "parti": "",
+      "tiltraedelse": "14. juli 1874"
+    },
+    {
+      "minister": "C.C. Hall",
+      "parti": "",
+      "tiltraedelse": "28. maj 1870"
+    },
+    {
+      "minister": "Ernst Emil Rosenørn",
+      "parti": "",
+      "tiltraedelse": "22. september 1869"
+    },
+    {
+      "minister": "A.S. Hansen",
+      "parti": "",
+      "tiltraedelse": "15. marts 1868"
+    },
+    {
+      "minister": "C.A. Fonnesbech",
+      "parti": "",
+      "tiltraedelse": "6. marts 1868"
+    },
+    {
+      "minister": "P.C. Kierkegaard",
+      "parti": "",
+      "tiltraedelse": "4. september 1867"
+    },
+    {
+      "minister": "Theodor Rosenørn-Teilmann",
+      "parti": "",
+      "tiltraedelse": "6. november 1865"
+    },
+    {
+      "minister": "Cosmus Bræstrup",
+      "parti": "",
+      "tiltraedelse": "7. april 1865"
+    },
+    {
+      "minister": "George Quaade",
+      "parti": "",
+      "tiltraedelse": "30. marts 1865"
+    },
+    {
+      "minister": "E.S.E. Heltzen",
+      "parti": "",
+      "tiltraedelse": "11. juli 1864"
+    },
+    {
+      "minister": "C.T. Engelstoft",
+      "parti": "",
+      "tiltraedelse": "31. december 1863"
+    },
+    {
+      "minister": "D.G. Monrad",
+      "parti": "",
+      "tiltraedelse": "24. februar 1860"
+    },
+    {
+      "minister": "V.A. Borgen",
+      "parti": "",
+      "tiltraedelse": "2. december 1859"
+    },
+    {
+      "minister": "D.G. Monrad",
+      "parti": "",
+      "tiltraedelse": "6. maj 1859"
+    },
+    {
+      "minister": "C.C. Hall",
+      "parti": "",
+      "tiltraedelse": "12. december 1854"
+    },
+    {
+      "minister": "A.S. Ørsted",
+      "parti": "",
+      "tiltraedelse": "21. april 1853"
+    },
+    {
+      "minister": "Carl Frederik Simony",
+      "parti": "",
+      "tiltraedelse": "3. juni 1852"
+    },
+    {
+      "minister": "P.G. Bang",
+      "parti": "",
+      "tiltraedelse": "7. december 1851"
+    },
+    {
+      "minister": "J.N. Madvig",
+      "parti": "",
+      "tiltraedelse": "16. november 1848"
+    },
+    {
+      "minister": "D.G. Monrad",
+      "parti": "",
+      "tiltraedelse": "22. marts 1848"
+    }
+  ],
+  "meta": {
+    "title": "Danmarks undervisningsministre siden 1848 - Free Download",
+    "description": "Liste over danske undervisningsministre (tidligere kultus- og undervisningsministre) siden 1848 med parti og tiltrædelsesdato. Contains 69 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danmarks undervisningsministre siden 1848 | ListBase",
+    "seo_description": "Download Danmarks undervisningsministre siden 1848 — 69 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 69 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Undervisningsministre_fra_Danmark"
+    ]
+  }
+}
