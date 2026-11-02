@@ -1,12 +1,12 @@
 {
   "lang": "da",
-  "generated": "2026-11-02T02:29:16.548Z",
-  "total_datasets": 458,
-  "total_records": 237537,
+  "generated": "2026-11-02T02:29:27.165Z",
+  "total_datasets": 459,
+  "total_records": 237615,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -157,6 +157,33 @@
         "xlsx": {
           "name": "da-kvaegbestanden_DA.xlsx",
           "size": 8491
+        }
+      }
+    },
+    {
+      "id": "da-landbrugs-og-fodevareministre",
+      "name": "Danmarks landbrugs-, fiskeri- og fødevareministre",
+      "category": "agriculture",
+      "record_count": 78,
+      "columns": [
+        "minister",
+        "ministerpost",
+        "parti",
+        "tiltraedelse",
+        "afgang",
+        "regeringer"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Fødevareministre_fra_Danmark",
+      "updated": "2026-11",
+      "size": 21367,
+      "files": {
+        "csv": {
+          "name": "da-landbrugs-og-fodevareministre_DA.csv",
+          "size": 9295
+        },
+        "xlsx": {
+          "name": "da-landbrugs-og-fodevareministre_DA.xlsx",
+          "size": 10381
         }
       }
     },
