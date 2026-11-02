@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-02T02:29:35.052Z",
-  "total_datasets": 460,
-  "total_records": 237670,
+  "generated": "2026-11-02T02:29:41.794Z",
+  "total_datasets": 461,
+  "total_records": 237691,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -3417,6 +3417,32 @@
         "xlsx": {
           "name": "da-optikere_DA.xlsx",
           "size": 16069
+        }
+      }
+    },
+    {
+      "id": "da-sundhedsministre",
+      "name": "Danmarks sundhedsministre",
+      "category": "health",
+      "record_count": 21,
+      "columns": [
+        "sundhedsminister",
+        "parti",
+        "tiltraedelse",
+        "afgang",
+        "regeringer"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danske_sundhedsministre",
+      "updated": "2026-11",
+      "size": 6099,
+      "files": {
+        "csv": {
+          "name": "da-sundhedsministre_DA.csv",
+          "size": 2169
+        },
+        "xlsx": {
+          "name": "da-sundhedsministre_DA.xlsx",
+          "size": 7917
         }
       }
     },

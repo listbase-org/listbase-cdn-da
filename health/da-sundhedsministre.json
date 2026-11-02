@@ -1,0 +1,198 @@
+{
+  "id": "da-sundhedsministre",
+  "name": "Danmarks sundhedsministre",
+  "title": "Danmarks sundhedsministre",
+  "description": "Liste over danske sundhedsministre fra 1926 med parti, tiltrædelse, afgang og regering.",
+  "category": "health",
+  "source": "https://da.wikipedia.org/wiki/Danske_sundhedsministre",
+  "source_url": "https://da.wikipedia.org/wiki/Danske_sundhedsministre",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "sundhedsminister",
+      "label": "Sundhedsminister",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "tiltraedelse",
+      "label": "Tiltraedelse",
+      "type": "string"
+    },
+    {
+      "key": "afgang",
+      "label": "Afgang",
+      "type": "string"
+    },
+    {
+      "key": "regeringer",
+      "label": "Regeringer",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sundhedsminister": "Viktor Rubow",
+      "parti": "Venstre",
+      "tiltraedelse": "14.12.1926",
+      "afgang": "30.04.1929",
+      "regeringer": "Ministeriet Madsen-Mygdal"
+    },
+    {
+      "sundhedsminister": "Johannes Kjærbøl",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "13.11.1947",
+      "afgang": "23.11.1947",
+      "regeringer": "Regeringen Hans Hedtoft I (kun i ti dage)"
+    },
+    {
+      "sundhedsminister": "Agnete Laustsen",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "10.09.1987",
+      "afgang": "03.06.1988",
+      "regeringer": "Regeringen Poul Schlüter II"
+    },
+    {
+      "sundhedsminister": "Elsebeth Kock-Petersen",
+      "parti": "Venstre",
+      "tiltraedelse": "03.06.1988",
+      "afgang": "07.12.1989",
+      "regeringer": "Regeringen Poul Schlüter III"
+    },
+    {
+      "sundhedsminister": "Ester Larsen",
+      "parti": "Venstre",
+      "tiltraedelse": "07.12.1989",
+      "afgang": "25.01.1993",
+      "regeringer": "Regeringen Poul Schlüter III & IV"
+    },
+    {
+      "sundhedsminister": "Torben Lund",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "25.01.1993",
+      "afgang": "27.09.1994",
+      "regeringer": "Regeringen Poul Nyrup Rasmussen I"
+    },
+    {
+      "sundhedsminister": "Yvonne Herløv Andersen",
+      "parti": "Centrumdemokraterne",
+      "tiltraedelse": "27.09.1994",
+      "afgang": "30.12.1996",
+      "regeringer": "Regeringen Poul Nyrup Rasmussen II"
+    },
+    {
+      "sundhedsminister": "Birte Weiss",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "30.12.1996",
+      "afgang": "23.03.1998",
+      "regeringer": "Regeringen Poul Nyrup Rasmussen III"
+    },
+    {
+      "sundhedsminister": "Carsten Koch",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "23.03.1998",
+      "afgang": "23.02.2000",
+      "regeringer": "Regeringen Poul Nyrup Rasmussen IV"
+    },
+    {
+      "sundhedsminister": "Sonja Mikkelsen",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "23.02.2000",
+      "afgang": "21.12.2000",
+      "regeringer": "Regeringen Poul Nyrup Rasmussen IV"
+    },
+    {
+      "sundhedsminister": "Arne Rolighed",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "21.12.2000",
+      "afgang": "27.11.2001",
+      "regeringer": "Regeringen Poul Nyrup Rasmussen IV"
+    },
+    {
+      "sundhedsminister": "Lars Løkke Rasmussen",
+      "parti": "Venstre",
+      "tiltraedelse": "27.11.2001",
+      "afgang": "23.11.2007",
+      "regeringer": "Regeringen Anders Fogh Rasmussen I & II"
+    },
+    {
+      "sundhedsminister": "Jakob Axel Nielsen",
+      "parti": "Det Konservative Folkeparti",
+      "tiltraedelse": "23.11.2007",
+      "afgang": "23.02.2010",
+      "regeringer": "Regeringen Anders Fogh Rasmussen III & Regeringen Lars Løkke Rasmussen I"
+    },
+    {
+      "sundhedsminister": "Bertel Haarder",
+      "parti": "Venstre",
+      "tiltraedelse": "23.02.2010",
+      "afgang": "03.10.2011",
+      "regeringer": "Regeringen Lars Løkke Rasmussen I"
+    },
+    {
+      "sundhedsminister": "Astrid Krag Kristensen",
+      "parti": "Socialistisk Folkeparti",
+      "tiltraedelse": "03.10.2011",
+      "afgang": "03.02.2014",
+      "regeringer": "Regeringen Helle Thorning-Schmidt I"
+    },
+    {
+      "sundhedsminister": "Nick Hækkerup",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "03.02.2014",
+      "afgang": "28.06.2015",
+      "regeringer": "Regeringen Helle Thorning-Schmidt II"
+    },
+    {
+      "sundhedsminister": "Sophie Løhde",
+      "parti": "Venstre",
+      "tiltraedelse": "28.06.2015",
+      "afgang": "28.11.2016",
+      "regeringer": "Regeringen Lars Løkke Rasmussen II"
+    },
+    {
+      "sundhedsminister": "Ellen Trane Nørby",
+      "parti": "Venstre",
+      "tiltraedelse": "28.11.2016",
+      "afgang": "27.06.2019",
+      "regeringer": "Regeringen Lars Løkke Rasmussen III"
+    },
+    {
+      "sundhedsminister": "Magnus Heunicke",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "27.06.2019",
+      "afgang": "15.12.2022",
+      "regeringer": "Regeringen Mette Frederiksen I"
+    },
+    {
+      "sundhedsminister": "Sophie Løhde",
+      "parti": "Venstre",
+      "tiltraedelse": "15.12.2022",
+      "afgang": "03.06.2026",
+      "regeringer": "Regeringen Mette Frederiksen II"
+    },
+    {
+      "sundhedsminister": "Ida Auken",
+      "parti": "Socialdemokratiet",
+      "tiltraedelse": "03.06.2026",
+      "afgang": "Nuværende",
+      "regeringer": "Regeringen Mette Frederiksen III"
+    }
+  ],
+  "meta": {
+    "title": "Danmarks sundhedsministre - Free Download",
+    "description": "Liste over danske sundhedsministre fra 1926 med parti, tiltrædelse, afgang og regering. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danmarks sundhedsministre | ListBase",
+    "seo_description": "Download Danmarks sundhedsministre — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danske_sundhedsministre"
+    ]
+  }
+}
