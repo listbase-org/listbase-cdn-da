@@ -1,0 +1,156 @@
+{
+  "id": "da-laaneord-efter-sprog",
+  "name": "Låneord i dansk efter oprindelsessprog",
+  "title": "Låneord i dansk efter oprindelsessprog",
+  "description": "Eksempler på danske låneord grupperet efter det sprog, de er lånt fra (tysk, fransk, latin, engelsk, japansk m.fl.), med bemærkninger.",
+  "category": "language",
+  "source": "https://da.wikipedia.org/wiki/Dansk_ordforråd",
+  "source_url": "https://da.wikipedia.org/wiki/Dansk_ordforråd",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "laan_fra",
+      "label": "Laan Fra",
+      "type": "string"
+    },
+    {
+      "key": "eksempler",
+      "label": "Eksempler",
+      "type": "string"
+    },
+    {
+      "key": "bemaerkninger",
+      "label": "Bemaerkninger",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "laan_fra": "Arabisk",
+      "eksempler": "Falafel",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Øvrige",
+      "eksempler": "Avocado (am.-engelsk, der er et lån fra spansk og aztekisk), Cowboybukser (fra am.-engelsk 'cowboy' og fra nedertysk 'bukser'), duc d'albe (sandsynligvis lån fra tysk, men navnet hentyder til en spansk grev Alba), aubergine (fransk og catalansk), Dannebrog (fra frisisk og fællesgermansk)",
+      "bemaerkninger": "Danske ord med blandet etymologi"
+    },
+    {
+      "laan_fra": "Engelsk",
+      "eksempler": "Blæk (oldengelsk), jungle, jute, lokomotiv, peber (oldengelsk), pyjamas, serve (verb.), rickshaw, shampoo (opr. fra hindi), sikh, sjal, tank, whisky",
+      "bemaerkninger": "Rickshaw er indlånt i engelsk fra japansk."
+    },
+    {
+      "laan_fra": "Inuit-aleutisk",
+      "eksempler": "Anorak, iglo, inuit, inuktitut, kajak, kamik",
+      "bemaerkninger": "Danske ord og navne, som etymologisk stammer fra den inuit-aleutiske sprogstamme – f.eks. grønlandsk og Inuktitut (canadisk eskimoisk)"
+    },
+    {
+      "laan_fra": "Fransk",
+      "eksempler": "Brysk, chance, charme, chok, ceremoni, etape, garage, jalousi, karmin, kup, kusine, lak, loyal, miljø, milli- (nydannet orddel), milliard, million, naiv, nervøs, onkel, orange, prestige, rutine, sabotage, servere, tante, terrasse, trist Personnavne: Aimée, Charlotte, Louise, René",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Græsk (oldgræsk)",
+      "eksempler": "Atom, beryl, bustrofedon, elektron (nydannet), epoke, kaos, katastrofe, krise, mani, myte, organ, orgasme, orgie, panter, problem, teori, økonomi",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Hebraisk",
+      "eksempler": "Esther (pigenavn)",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Hindi",
+      "eksempler": "Sari, Singapore (eller fra oldindisk)",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Indonesisk (malajisk)",
+      "eksempler": "Agar, amok, atol, dugong, gekko, komodo, sarong",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Italiensk",
+      "eksempler": "Diva, fiasko, ghetto, giro, pizza, risiko, spaghetti, tempo",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Japansk",
+      "eksempler": "Aikido, anime, bonsai, budo, geisha, harakiri, judo, jujutsu, kamikaze, karaoke, karate, kata, kendo, kimono manga, ninja, nori, origami, samurai, seppuku, shogun, sudoku, sumo, sake, sushi, tofu, tsunami",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Keltisk",
+      "eksempler": "Druide, ogam, vasal Personnavne: Birgit, Birgitte, Brian, Gitte, Mona. Stednavne: Celje, Cornwall, Dunedin, Neckar, Truro",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Latin",
+      "eksempler": "Algoritme, alibi, alkohol, alkymi, antenne, arena, bibel, cirka, cylinder, doktor, ego (selvet), element, faktum, ferie, historie, immun, konflikt, kontakt, motor, natur, opal, papir, person, plante, pære, rabarber, rose, safir, satellit, senil, struktur, urban, veto, via, virus",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Nederlandsk",
+      "eksempler": "Batik (opr. javansk), orangutang (opr. malajisk), orkan, provo",
+      "bemaerkninger": "Orkan er nederlandsk fra spansk. Taino-folkets stormgud hedder Juracán (spansk huracán) Denne guds navn formodes at stamme delvis fra den mayanske skabergud, Huracan."
+    },
+    {
+      "laan_fra": "Norsk",
+      "eksempler": "Bagstræb, bygd, fåmælt, gut, hems, hyggelig, langrend, pejs, slalom, trækprocent, tyvstarte",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Persisk",
+      "eksempler": "Hindu",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Portugisisk",
+      "eksempler": "Ananas, mandarin, pagode, tanga",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Russisk",
+      "eksempler": "Kulak, sovjet, trojka, vodka Personnavne: Katja, Nadia, Olga",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Sanskrit (oldindisk)",
+      "eksempler": "Buddha, chakra, guru, Kama Sutra, karma, maharaja, nirvana, sanskrit, yoga",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Spansk",
+      "eksempler": "Chili (krydderi), chokolade, guerilla, kakao, kasko, Mexico, ozelot, papaja (opr. fra indianersproget arawakisk fra Cuba og Haiti), pikaresk, silo, tango, tomat",
+      "bemaerkninger": "Chili, chokolade, kakao, Mexico, ozelot og tomat er kommet til spansk som låneord fra aztekisk."
+    },
+    {
+      "laan_fra": "Svensk",
+      "eksempler": "Arbejdsformidling, beslutsom, emne, kendis, lix, omdømme, område, ømtålelig",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Tysk (nedertysk)",
+      "eksempler": "ane, anerkende, angst, anhænger, anstrenge, arbejde, bange, begejstre, borger, bruge, digte, emsig, fatte, fare (subst.), fremmed, from, frygt, gelænder, hetz, kort (adj.), kunst, lykke, magt, maler, munter, murer, nøgtern, ris, rygte, rådhus, skøn, slagter, slank, smuk, standpunkt, stolt, straf, sukker, svag, vilkår, vits, værksted Personnavne: Ernst, Frederik, Klaus, Gertrud, Grete, Mette",
+      "bemaerkninger": ""
+    },
+    {
+      "laan_fra": "Tungusisk",
+      "eksempler": "Shaman",
+      "bemaerkninger": ""
+    }
+  ],
+  "meta": {
+    "title": "Låneord i dansk efter oprindelsessprog - Free Download",
+    "description": "Eksempler på danske låneord grupperet efter det sprog, de er lånt fra (tysk, fransk, latin, engelsk, japansk m.fl.), med bemærkninger. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Låneord i dansk efter oprindelsessprog | ListBase",
+    "seo_description": "Download Låneord i dansk efter oprindelsessprog — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Dansk_ordforråd"
+    ]
+  }
+}

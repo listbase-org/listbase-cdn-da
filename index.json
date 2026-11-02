@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-02T02:29:09.582Z",
-  "total_datasets": 457,
-  "total_records": 237514,
+  "generated": "2026-11-02T02:29:16.548Z",
+  "total_datasets": 458,
+  "total_records": 237537,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -3761,6 +3761,30 @@
         "xlsx": {
           "name": "da-dialekter_DA.xlsx",
           "size": 7883
+        }
+      }
+    },
+    {
+      "id": "da-laaneord-efter-sprog",
+      "name": "Låneord i dansk efter oprindelsessprog",
+      "category": "language",
+      "record_count": 23,
+      "columns": [
+        "laan_fra",
+        "eksempler",
+        "bemaerkninger"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Dansk_ordforråd",
+      "updated": "2026-11",
+      "size": 6818,
+      "files": {
+        "csv": {
+          "name": "da-laaneord-efter-sprog_DA.csv",
+          "size": 3601
+        },
+        "xlsx": {
+          "name": "da-laaneord-efter-sprog_DA.xlsx",
+          "size": 9014
         }
       }
     },
