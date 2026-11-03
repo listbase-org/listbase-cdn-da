@@ -1,0 +1,454 @@
+{
+  "id": "da-hoejesteretspraesidenter",
+  "name": "Højesterets præsidenter og justitiarier",
+  "title": "Højesterets præsidenter og justitiarier",
+  "description": "Danske Højesterets øverste tilforordnede (1661–1758), justitiarier (indtil 1919) og præsidenter (siden 1919) med embedsperiode.",
+  "category": "law",
+  "source": "https://da.wikipedia.org/wiki/Højesteretspræsident",
+  "source_url": "https://da.wikipedia.org/wiki/Højesteretspræsident",
+  "updated": "2026-11",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "fra",
+      "label": "Fra",
+      "type": "number"
+    },
+    {
+      "key": "til",
+      "label": "Til",
+      "type": "number"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "embede",
+      "label": "Embede",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fra": 1661,
+      "til": 1674,
+      "navn": "Peder Reedtz",
+      "embede": "Øverste tilforordnede"
+    },
+    {
+      "fra": 1674,
+      "til": 1676,
+      "navn": "Peder Schumacher Griffenfeld",
+      "embede": "Øverste tilforordnede"
+    },
+    {
+      "fra": 1676,
+      "til": 1686,
+      "navn": "Frederik Ahlefeldt",
+      "embede": "Øverste tilforordnede"
+    },
+    {
+      "fra": 1686,
+      "til": 1690,
+      "navn": "Michael Vibe",
+      "embede": "Øverste tilforordnede"
+    },
+    {
+      "fra": 1690,
+      "til": 1708,
+      "navn": "Conrad Reventlow",
+      "embede": "Øverste tilforordnede"
+    },
+    {
+      "fra": 1708,
+      "til": 1719,
+      "navn": "Caspar Schøller",
+      "embede": "Øverste tilforordnede"
+    },
+    {
+      "fra": 1720,
+      "til": 1721,
+      "navn": "Frederik Rostgaard",
+      "embede": "Øverste tilforordnede"
+    },
+    {
+      "fra": 1721,
+      "til": 1730,
+      "navn": "Ulrik Adolf Holstein",
+      "embede": "Øverste tilforordnede"
+    },
+    {
+      "fra": 1730,
+      "til": 1740,
+      "navn": "Iver Rosenkrantz",
+      "embede": "Øverste tilforordnede"
+    },
+    {
+      "fra": 1740,
+      "til": 1748,
+      "navn": "Johan Ludvig Holstein",
+      "embede": "Øverste tilforordnede"
+    },
+    {
+      "fra": 1748,
+      "til": 1758,
+      "navn": "Claus Reventlow",
+      "embede": "Øverste tilforordnede"
+    },
+    {
+      "fra": 1674,
+      "til": 1676,
+      "navn": "Otto Pogwisch",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1676,
+      "til": 1679,
+      "navn": "Ove Juul",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1679,
+      "til": 1683,
+      "navn": "Holger Vind",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1683,
+      "til": 1690,
+      "navn": "Michael Vibe",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1690,
+      "til": 1704,
+      "navn": "Willum Worm",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1705,
+      "til": 1719,
+      "navn": "Caspar Schøller",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1720,
+      "til": 1721,
+      "navn": "Frederik Rostgaard",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1721,
+      "til": 1726,
+      "navn": "Christian Scavenius",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1726,
+      "til": 1736,
+      "navn": "Christian Braem",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1736,
+      "til": 1737,
+      "navn": "Thomas Bartholin den yngste",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1737,
+      "til": 1743,
+      "navn": "Didrik Seckman",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1743,
+      "til": 1758,
+      "navn": "Oluf Borch de Schouboe",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1758,
+      "til": 1763,
+      "navn": "Hans Frederik von Levetzau",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1763,
+      "til": 1765,
+      "navn": "Caspar Christopher Bartholin (konstitueret",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1765,
+      "til": 1769,
+      "navn": "Mogens Rosenkrantz",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1769,
+      "til": 1769,
+      "navn": "Villum Berregaard",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1769,
+      "til": 1776,
+      "navn": "Jens Krag-Juel-Vind",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1776,
+      "til": 1780,
+      "navn": "Henrik Hielmstierne",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1780,
+      "til": 1782,
+      "navn": "Peder Rosenørn",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1782,
+      "til": 1788,
+      "navn": "Adolph Sigfried von der Osten",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1788,
+      "til": 1789,
+      "navn": "Jørgen Erik Skeel",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1790,
+      "til": 1794,
+      "navn": "Christian Urne",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1794,
+      "til": 1799,
+      "navn": "Stephan Hofgaard Cordsen (første borgerlige justitiarius",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1799,
+      "til": 1802,
+      "navn": "Jacob Edvard Colbiørnsen",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1802,
+      "til": 1804,
+      "navn": "Frederik Julius Kaas",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1804,
+      "til": 1814,
+      "navn": "Christian Colbiørnsen",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1815,
+      "til": 1822,
+      "navn": "Peter Feddersen",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1822,
+      "til": 1843,
+      "navn": "Anker Vilhelm Frederik Bornemann",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1843,
+      "til": 1856,
+      "navn": "Frederik von Lowzow",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1856,
+      "til": 1856,
+      "navn": "Johannes Ephraim Larsen",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1856,
+      "til": 1861,
+      "navn": "Peter Georg Bang",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1861,
+      "til": 1861,
+      "navn": "Anton Wilhelm Scheel (konstitueret",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1861,
+      "til": 1871,
+      "navn": "Christian Michael Rottbøll",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1871,
+      "til": 1880,
+      "navn": "Charles Ferdinand Léonard Mourier",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1880,
+      "til": 1897,
+      "navn": "P.C.N. Buch",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1897,
+      "til": 1907,
+      "navn": "Peter Frederik Koch",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1907,
+      "til": 1909,
+      "navn": "C.C.V. Nyholm",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1909,
+      "til": 1915,
+      "navn": "Niels Lassen",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1915,
+      "til": 1918,
+      "navn": "Edvard Hvidt",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1918,
+      "til": 1919,
+      "navn": "Richard Severin Gram (oprindelig titel var justitiarius, men blev ændret til præsident i 1919",
+      "embede": "Justitiarii"
+    },
+    {
+      "fra": 1919,
+      "til": 1928,
+      "navn": "Richard Severin Gram (oprindelig titel var justitiarius, men blev ændret til præsident i 1919",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 1928,
+      "til": 1936,
+      "navn": "Cosmus Meyer",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 1936,
+      "til": 1944,
+      "navn": "Troels G. Jørgensen",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 1944,
+      "til": 1953,
+      "navn": "Thomas Frølund",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 1953,
+      "til": 1958,
+      "navn": "Asbjørn Drachmann Bentzon",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 1958,
+      "til": 1964,
+      "navn": "Otto Irminger Kaarsberg",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 1964,
+      "til": 1971,
+      "navn": "Aage Lorenzen",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 1971,
+      "til": 1975,
+      "navn": "Jørgen Trolle",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 1975,
+      "til": 1981,
+      "navn": "Mogens Hvidt",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 1981,
+      "til": 1990,
+      "navn": "Peter Christensen",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 1990,
+      "til": 2001,
+      "navn": "Niels Pontoppidan",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 2001,
+      "til": 2004,
+      "navn": "Jacques Hermann",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 2004,
+      "til": 2010,
+      "navn": "Torben Melchior",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 2010,
+      "til": 2014,
+      "navn": "Børge Dahl",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 2014,
+      "til": 2017,
+      "navn": "Poul Søgaard",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 2017,
+      "til": 2022,
+      "navn": "Thomas Rørdam",
+      "embede": "Præsidenter"
+    },
+    {
+      "fra": 2022,
+      "til": "",
+      "navn": "Jens Peter Christensen",
+      "embede": "Præsidenter"
+    }
+  ],
+  "meta": {
+    "title": "Højesterets præsidenter og justitiarier - Free Download",
+    "description": "Danske Højesterets øverste tilforordnede (1661–1758), justitiarier (indtil 1919) og præsidenter (siden 1919) med embedsperiode. Contains 68 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Højesterets præsidenter og justitiarier | ListBase",
+    "seo_description": "Download Højesterets præsidenter og justitiarier — 68 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 68 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Højesteretspræsident"
+    ]
+  }
+}
