@@ -1,0 +1,224 @@
+{
+  "id": "da-padder-og-krybdyr",
+  "name": "Danmarks padder og krybdyr",
+  "title": "Danmarks padder og krybdyr",
+  "description": "Frøer, tudser, salamandre, skildpadder, slanger og øgler i Danmark med latinsk navn og rødlistestatus.",
+  "category": "science",
+  "source": "https://da.wikipedia.org/wiki/Danmarks_padder_og_krybdyr",
+  "source_url": "https://da.wikipedia.org/wiki/Danmarks_padder_og_krybdyr",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "latin",
+      "label": "Latin",
+      "type": "string"
+    },
+    {
+      "key": "gruppe",
+      "label": "Gruppe",
+      "type": "string"
+    },
+    {
+      "key": "klasse",
+      "label": "Klasse",
+      "type": "string"
+    },
+    {
+      "key": "roedlistestatus",
+      "label": "Roedlistestatus",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "navn": "Butsnudet frø",
+      "latin": "Rana temporaria",
+      "gruppe": "Frøer og tudser",
+      "klasse": "Padder",
+      "roedlistestatus": "NT",
+      "note": ""
+    },
+    {
+      "navn": "Grøn frø",
+      "latin": "Rana esculenta",
+      "gruppe": "Frøer og tudser",
+      "klasse": "Padder",
+      "roedlistestatus": "LC",
+      "note": ""
+    },
+    {
+      "navn": "Grønbroget tudse",
+      "latin": "Pseudepidalea viridis",
+      "gruppe": "Frøer og tudser",
+      "klasse": "Padder",
+      "roedlistestatus": "EN",
+      "note": ""
+    },
+    {
+      "navn": "Klokkefrø",
+      "latin": "Bombina bombina",
+      "gruppe": "Frøer og tudser",
+      "klasse": "Padder",
+      "roedlistestatus": "NT",
+      "note": ""
+    },
+    {
+      "navn": "Latterfrø",
+      "latin": "Rana ridibunda",
+      "gruppe": "Frøer og tudser",
+      "klasse": "Padder",
+      "roedlistestatus": "EN",
+      "note": ""
+    },
+    {
+      "navn": "Løgfrø",
+      "latin": "Pelobates fuscus",
+      "gruppe": "Frøer og tudser",
+      "klasse": "Padder",
+      "roedlistestatus": "VU",
+      "note": ""
+    },
+    {
+      "navn": "Løvfrø",
+      "latin": "Hyla arborea",
+      "gruppe": "Frøer og tudser",
+      "klasse": "Padder",
+      "roedlistestatus": "NT",
+      "note": ""
+    },
+    {
+      "navn": "Skrubtudse",
+      "latin": "Bufo bufo",
+      "gruppe": "Frøer og tudser",
+      "klasse": "Padder",
+      "roedlistestatus": "LC",
+      "note": ""
+    },
+    {
+      "navn": "Spidssnudet frø",
+      "latin": "Rana arvalis",
+      "gruppe": "Frøer og tudser",
+      "klasse": "Padder",
+      "roedlistestatus": "NT",
+      "note": ""
+    },
+    {
+      "navn": "Springfrø",
+      "latin": "Rana dalmatina",
+      "gruppe": "Frøer og tudser",
+      "klasse": "Padder",
+      "roedlistestatus": "LC",
+      "note": ""
+    },
+    {
+      "navn": "Strandtudse",
+      "latin": "Bufo calamita",
+      "gruppe": "Frøer og tudser",
+      "klasse": "Padder",
+      "roedlistestatus": "EN",
+      "note": ""
+    },
+    {
+      "navn": "Bjergsalamander",
+      "latin": "Ichthyosaura alpestris",
+      "gruppe": "Salamandre",
+      "klasse": "Padder",
+      "roedlistestatus": "LC",
+      "note": ""
+    },
+    {
+      "navn": "Lille vandsalamander",
+      "latin": "Lissotriton vulgaris",
+      "gruppe": "Salamandre",
+      "klasse": "Padder",
+      "roedlistestatus": "LC",
+      "note": ""
+    },
+    {
+      "navn": "Stor vandsalamander",
+      "latin": "Triturus cristatus",
+      "gruppe": "Salamandre",
+      "klasse": "Padder",
+      "roedlistestatus": "LC",
+      "note": ""
+    },
+    {
+      "navn": "Europæisk sumpskildpadde",
+      "latin": "Emys orbicularis",
+      "gruppe": "Skildpadder",
+      "klasse": "Krybdyr",
+      "roedlistestatus": "",
+      "note": ""
+    },
+    {
+      "navn": "Rødøret og Guløret terrapin",
+      "latin": "Trachemys scripta elegans, Trachemys scripta scripta",
+      "gruppe": "Skildpadder",
+      "klasse": "Krybdyr",
+      "roedlistestatus": "",
+      "note": "invasiv art"
+    },
+    {
+      "navn": "Skovfirben",
+      "latin": "Lacerta vivipara",
+      "gruppe": "Slanger og øgler",
+      "klasse": "Krybdyr",
+      "roedlistestatus": "",
+      "note": ""
+    },
+    {
+      "navn": "Hugorm",
+      "latin": "Vipera berus",
+      "gruppe": "Slanger og øgler",
+      "klasse": "Krybdyr",
+      "roedlistestatus": "",
+      "note": ""
+    },
+    {
+      "navn": "Markfirben",
+      "latin": "Lacerta agilis",
+      "gruppe": "Slanger og øgler",
+      "klasse": "Krybdyr",
+      "roedlistestatus": "",
+      "note": ""
+    },
+    {
+      "navn": "Snog",
+      "latin": "Natrix natrix",
+      "gruppe": "Slanger og øgler",
+      "klasse": "Krybdyr",
+      "roedlistestatus": "",
+      "note": ""
+    },
+    {
+      "navn": "Stålorm",
+      "latin": "Anguis fragilis",
+      "gruppe": "Slanger og øgler",
+      "klasse": "Krybdyr",
+      "roedlistestatus": "",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Danmarks padder og krybdyr - Free Download",
+    "description": "Frøer, tudser, salamandre, skildpadder, slanger og øgler i Danmark med latinsk navn og rødlistestatus. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danmarks padder og krybdyr | ListBase",
+    "seo_description": "Download Danmarks padder og krybdyr — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danmarks_padder_og_krybdyr"
+    ]
+  }
+}

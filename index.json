@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-03T02:19:45.787Z",
-  "total_datasets": 465,
-  "total_records": 237927,
+  "generated": "2026-11-03T02:19:53.838Z",
+  "total_datasets": 466,
+  "total_records": 237948,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -11335,6 +11335,33 @@
         "xlsx": {
           "name": "da-meteoritter_DA.xlsx",
           "size": 7090
+        }
+      }
+    },
+    {
+      "id": "da-padder-og-krybdyr",
+      "name": "Danmarks padder og krybdyr",
+      "category": "science",
+      "record_count": 21,
+      "columns": [
+        "navn",
+        "latin",
+        "gruppe",
+        "klasse",
+        "roedlistestatus",
+        "note"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danmarks_padder_og_krybdyr",
+      "updated": "2026-11",
+      "size": 5629,
+      "files": {
+        "csv": {
+          "name": "da-padder-og-krybdyr_DA.csv",
+          "size": 1547
+        },
+        "xlsx": {
+          "name": "da-padder-og-krybdyr_DA.xlsx",
+          "size": 7754
         }
       }
     },
