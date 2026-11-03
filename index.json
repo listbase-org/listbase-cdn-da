@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-03T02:19:53.838Z",
-  "total_datasets": 466,
-  "total_records": 237948,
+  "generated": "2026-11-03T02:20:00.869Z",
+  "total_datasets": 467,
+  "total_records": 238027,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -11362,6 +11362,33 @@
         "xlsx": {
           "name": "da-padder-og-krybdyr_DA.xlsx",
           "size": 7754
+        }
+      }
+    },
+    {
+      "id": "da-pattedyr",
+      "name": "Danmarks pattedyr",
+      "category": "science",
+      "record_count": 79,
+      "columns": [
+        "navn",
+        "latin",
+        "gruppe",
+        "beskyttelse",
+        "udbredelse",
+        "roedlistestatus"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danmarks_pattedyr",
+      "updated": "2026-11",
+      "size": 24063,
+      "files": {
+        "csv": {
+          "name": "da-pattedyr_DA.csv",
+          "size": 12272
+        },
+        "xlsx": {
+          "name": "da-pattedyr_DA.xlsx",
+          "size": 11572
         }
       }
     },

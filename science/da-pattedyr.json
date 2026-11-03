@@ -1,0 +1,688 @@
+{
+  "id": "da-pattedyr",
+  "name": "Danmarks pattedyr",
+  "title": "Danmarks pattedyr",
+  "description": "Vildtlevende pattedyr i Danmark og danske farvande med latinsk navn, gruppe, beskyttelse/regulering, udbredelse og rødlistestatus (2019).",
+  "category": "science",
+  "source": "https://da.wikipedia.org/wiki/Danmarks_pattedyr",
+  "source_url": "https://da.wikipedia.org/wiki/Danmarks_pattedyr",
+  "updated": "2026-11",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "latin",
+      "label": "Latin",
+      "type": "string"
+    },
+    {
+      "key": "gruppe",
+      "label": "Gruppe",
+      "type": "string"
+    },
+    {
+      "key": "beskyttelse",
+      "label": "Beskyttelse",
+      "type": "string"
+    },
+    {
+      "key": "udbredelse",
+      "label": "Udbredelse",
+      "type": "string"
+    },
+    {
+      "key": "roedlistestatus",
+      "label": "Roedlistestatus",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "navn": "Dådyr",
+      "latin": "Dama dama",
+      "gruppe": "Parrettåede hovdyr",
+      "beskyttelse": "Fredet uden for jagttid, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Hele landet",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Elg",
+      "latin": "Alces alces",
+      "gruppe": "Parrettåede hovdyr",
+      "beskyttelse": "Fredet i Danmark",
+      "udbredelse": "Udsat i Lille Vildmose i Nordjylland.",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Europæisk bison",
+      "latin": "Bison bonasus",
+      "gruppe": "Parrettåede hovdyr",
+      "beskyttelse": "Fredet, IUCN 's Rødliste",
+      "udbredelse": "Lever i indhegning i Almindingen på Bornholm, samt i Vorup Enge i midtjylland.",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Krondyr",
+      "latin": "Cervus elaphus",
+      "gruppe": "Parrettåede hovdyr",
+      "beskyttelse": "Fredet uden for jagttid, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Jylland og Sjælland",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Rådyr",
+      "latin": "Capreolus capreolus",
+      "gruppe": "Parrettåede hovdyr",
+      "beskyttelse": "Fredet uden for jagttid, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Hele landet",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Sika",
+      "latin": "Cervus nippon",
+      "gruppe": "Parrettåede hovdyr",
+      "beskyttelse": "Fredet uden for jagttid, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Nordøstlige Jylland og Sydvestsjælland",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Vildsvin",
+      "latin": "Sus scrofa",
+      "gruppe": "Parrettåede hovdyr",
+      "beskyttelse": "Fredet uden for jagttid, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Enkelte eksemplarer i Sønderjylland, største indhegnet bestand i Tofte Skov.",
+      "roedlistestatus": "CR"
+    },
+    {
+      "navn": "Hare",
+      "latin": "Lepus europaeus",
+      "gruppe": "Haredyr",
+      "beskyttelse": "Fredet uden for jagttid",
+      "udbredelse": "Hele landet",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Vildkanin",
+      "latin": "Oryctolagus cuniculus",
+      "gruppe": "Haredyr",
+      "beskyttelse": "Jagttid, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Sønderjylland, udsatte bestande på Bornholm, Lolland, Endelave, Fanø og Fyn",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Blåhval",
+      "latin": "Balaenoptera musculus",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste I, Washington-konventionens liste I.",
+      "udbredelse": "Meget sjælden gæst",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Finhval",
+      "latin": "Balaenoptera physalus",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste I+II, Washington-konventionens liste I.",
+      "udbredelse": "Regelmæssig, men fåtallig gæst i indre farvande",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Sejhval",
+      "latin": "Balaenoptera borealis",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste I+II, Washington-konventionens liste I.",
+      "udbredelse": "Sjælden gæst",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Brydeshval",
+      "latin": "Balaenoptera edeni",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste II, Washington-konventionens liste I.",
+      "udbredelse": "En enkelt kendt stranding",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Vågehval",
+      "latin": "Balaenoptera acurostrata",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Washington-konventionens liste I.",
+      "udbredelse": "Nordsøen",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Pukkelhval",
+      "latin": "Megaptera novaeangliae",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste I, Washington-konventionens liste I.",
+      "udbredelse": "Sjælden gæst",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Marsvin",
+      "latin": "Phocaena phocaena",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag II og bilag IV, Bonn-konventionens liste II, Washington-konventionens liste II",
+      "udbredelse": "Alle farvande, dog meget fåtallig i Østersøen",
+      "roedlistestatus": "LC/CR 1"
+    },
+    {
+      "navn": "Hvidhval",
+      "latin": "Delphinapterus leucas",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste II, Washington-konventionens liste II",
+      "udbredelse": "Meget sjælden gæst",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Kaskelot",
+      "latin": "Physeter macrocephalus",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste II, Washington-konventionens liste I",
+      "udbredelse": "Sjælden gæst i Nordsøen",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Almindelig næbhval",
+      "latin": "Mesoplodon bidens",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Washington-konventionens liste II",
+      "udbredelse": "Sjælden gæst",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Døgling",
+      "latin": "Hyperoodon ampullatus",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste II, Washington-konventionens liste I",
+      "udbredelse": "Sjælden gæst",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Småhovedet hval",
+      "latin": "Ziphius cavirostris",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste I, Washington-konventionens liste II",
+      "udbredelse": "Kendt fra en enkelt stranding",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Hvidnæse",
+      "latin": "Lagenorhynchus albirostris",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste II, Washington-konventionens liste II",
+      "udbredelse": "Nordsøen, ofte i Skagerrak og Kattegat, sjældnere i Østersøen",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Almindelig delfin",
+      "latin": "Delphinus delphis",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste I+II, Washington-konventionens liste II",
+      "udbredelse": "Sjælden gæst",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Stribet delfin",
+      "latin": "Sternella coeruleoalba",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste II, Washington-konventionens liste II",
+      "udbredelse": "Sjælden gæst",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Hvidside",
+      "latin": "Lagenorhynchus acutus",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste II, Washington-konventionens liste II",
+      "udbredelse": "Nordlige Nordsø",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Øresvin",
+      "latin": "Tursiops truncatus",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste II, Washington-konventionens liste II",
+      "udbredelse": "Gæst i indre farvande",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Rissosdelfin",
+      "latin": "Grampus griseus",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste II, Washington-konventionens liste II",
+      "udbredelse": "Kendt fra et enkelt fund",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Halvspækhugger",
+      "latin": "Pseudorca crassidens",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste II, Washington-konventionens liste II",
+      "udbredelse": "Sjælden gæst",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Langluffet grind",
+      "latin": "Globicephala melas",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste II, Washington-konventionens liste II",
+      "udbredelse": "Skagerrak",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Spækhugger",
+      "latin": "Orcinus orca",
+      "gruppe": "Hvaler",
+      "beskyttelse": "Habitatdirektivets bilag IV, Bonn-konventionens liste II, Washington-konventionens liste II",
+      "udbredelse": "Skagerrak, i øvrigt sjælden gæst",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Bechsteins flagermus",
+      "latin": "Myotis bechsteinii",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Sjælden i Danmark; tilflyvere fra Sverige og Polen",
+      "roedlistestatus": "EN"
+    },
+    {
+      "navn": "Brandts flagermus",
+      "latin": "Myotis brandtii",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Bornholm og Midtjylland",
+      "roedlistestatus": "NT"
+    },
+    {
+      "navn": "Bredøret flagermus",
+      "latin": "Barbastella barbastellus",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Enkelte bestande på Sjælland, Lolland og Falster; tilflyvere fra Tyskland, Polen og Sverige",
+      "roedlistestatus": "NT"
+    },
+    {
+      "navn": "Brunflagermus",
+      "latin": "Nyctalus noctula",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Østlige Jylland og på øerne, sjældnere i Sydvestjylland",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Damflagermus",
+      "latin": "Myotis dasycneme",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Enkelte bestande i Midt- og Østjylland; tilflyvere fra Sverige og Baltikum",
+      "roedlistestatus": "VU"
+    },
+    {
+      "navn": "Dværgflagermus",
+      "latin": "Pipistrellus pygmaeus",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Hele landet, bortset fra Vestjylland, Bornholm og nogle mindre øer",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Frynseflagermus",
+      "latin": "Myotis nattereri",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Bestande på Bornholm, Lolland og i Himmerland",
+      "roedlistestatus": "NT"
+    },
+    {
+      "navn": "Langøret flagermus",
+      "latin": "Plecotus auritus",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Hele landet, bortset fra Vestjylland, Vestfyn, Lolland, Langeland og nogle mindre øer.",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Pipistrelflagermus",
+      "latin": "Pipistrellus pipistrellus",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Sydøstjylland, ved Gedser; sjælden i resten af landet",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Skimmelflagermus",
+      "latin": "Vespertilio murinus",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Nordøstsjælland; vinterbestand omkring Aarhus",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Skægflagermus",
+      "latin": "Myotis mystacinus",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Bornholm",
+      "roedlistestatus": "VU"
+    },
+    {
+      "navn": "Sydflagermus",
+      "latin": "Eptesicus serotinus",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Hele landet, bortset fra Nordøstsjælland og den Nørrejyske Ø",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Troldflagermus",
+      "latin": "Pipistrellus nathusii",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Østjylland, Sjælland og Lolland, sjældnere på Bornholm.",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Vandflagermus",
+      "latin": "Myotis daubentoni",
+      "gruppe": "Flagermus",
+      "beskyttelse": "Habitatdirektivets bilag II og IV, fredet, Flagermus-aftalen",
+      "udbredelse": "Hele landet",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Almindelig spidsmus",
+      "latin": "Sorex araneus",
+      "gruppe": "Insektædere",
+      "beskyttelse": "Fredet",
+      "udbredelse": "Hele landet, bortset fra enkelte mindre øer",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Dværgspidsmus",
+      "latin": "Sorex minutus",
+      "gruppe": "Insektædere",
+      "beskyttelse": "Fredet",
+      "udbredelse": "Hele landet, bortset fra enkelte mindre øer",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Muldvarp",
+      "latin": "Talpa europaea",
+      "gruppe": "Insektædere",
+      "beskyttelse": "Fredet, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Hele landet, bortset fra enkelte mindre øer",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Pindsvin",
+      "latin": "Erinaceus europaeus",
+      "gruppe": "Insektædere",
+      "beskyttelse": "Fredet",
+      "udbredelse": "Hele landet",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Vandspidsmus",
+      "latin": "Neomys fodiens",
+      "gruppe": "Insektædere",
+      "beskyttelse": "Fredet",
+      "udbredelse": "Hele landet, bortset fra Bornholm, Lolland-Falster og nogle mindre øer",
+      "roedlistestatus": "NT"
+    },
+    {
+      "navn": "Almindelig markmus",
+      "latin": "Microtus agrestis",
+      "gruppe": "Gnavere",
+      "beskyttelse": "Fredet, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Hele landet",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Birkemus",
+      "latin": "Sicista betulina",
+      "gruppe": "Gnavere",
+      "beskyttelse": "Habitatdirektivets bilag IV, fredet",
+      "udbredelse": "Sønderjylland, vestlige limfjordsområde",
+      "roedlistestatus": "VU"
+    },
+    {
+      "navn": "Bisamrotte **",
+      "latin": "Ondatra zibethicus",
+      "gruppe": "Gnavere",
+      "beskyttelse": "Invasiv art, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Sønderjylland",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Brandmus",
+      "latin": "Apodemus agrarius",
+      "gruppe": "Gnavere",
+      "beskyttelse": "",
+      "udbredelse": "Sydsjælland, Lolland-Falster, Fejø og Femø",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Brun rotte **",
+      "latin": "Rattus norvegicus",
+      "gruppe": "Gnavere",
+      "beskyttelse": "Omfattet af Bekendtgørelse om bekæmpelse af rotter m.v.",
+      "udbredelse": "Hele landet",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Bæver",
+      "latin": "Castor fiber",
+      "gruppe": "Gnavere",
+      "beskyttelse": "Fredet, forvaltningsplan",
+      "udbredelse": "Klosterheden og Nordsjælland",
+      "roedlistestatus": "EN"
+    },
+    {
+      "navn": "Dværgmus eller havremus",
+      "latin": "Micromys minutus",
+      "gruppe": "Gnavere",
+      "beskyttelse": "Fredet, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Hele landet, bortset fra Læsø, Anholt, Bornholm og nogle mindre øer",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Egern",
+      "latin": "Sciurus vulgaris",
+      "gruppe": "Gnavere",
+      "beskyttelse": "Fredet",
+      "udbredelse": "Hele Danmark, bortset fra nogle mindre øer",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Halsbåndmus",
+      "latin": "Apodemus flavicollis",
+      "gruppe": "Gnavere",
+      "beskyttelse": "Fredet, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Hele landet, sjældnere i Vestjylland, mangler på nogle mindre øer",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Hasselmus",
+      "latin": "Muscardinus avellanarius",
+      "gruppe": "Gnavere",
+      "beskyttelse": "Habitatdirektivets bilag IV, fredet, forvaltningsplan",
+      "udbredelse": "Enkelte bestande på Sjælland, Sydfyn, Langeland, ved Vejle og Gråsten - Kliplev",
+      "roedlistestatus": "EN"
+    },
+    {
+      "navn": "Mosegris",
+      "latin": "Arvicola terrestris",
+      "gruppe": "Gnavere",
+      "beskyttelse": "Fredet, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Hele landet, bortset fra Lolland-Falster, Læsø, Bornholm og nogle mindre øer",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Rødmus",
+      "latin": "Clethrionomys glareolus",
+      "gruppe": "Gnavere",
+      "beskyttelse": "Fredet, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Hele landet, bortset nogle øer (f.eks. Bornholm)",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Skovmus",
+      "latin": "Apodemus sylvaticus",
+      "gruppe": "Gnavere",
+      "beskyttelse": "Fredet, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Hele landet",
+      "roedlistestatus": "NT"
+    },
+    {
+      "navn": "Sumpbæver *** eller bæverrotte",
+      "latin": "Myocastor coypus",
+      "gruppe": "Gnavere",
+      "beskyttelse": "Invasiv art, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Fåtallig i hele landet",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Sydmarkmus",
+      "latin": "Microtus arvalis",
+      "gruppe": "Gnavere",
+      "beskyttelse": "",
+      "udbredelse": "Jylland, Als, Rømø og Mandø",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Brud",
+      "latin": "Mustela nivalis",
+      "gruppe": "Rovdyr",
+      "beskyttelse": "Fredet",
+      "udbredelse": "Hele landet, bortset fra Bornholm, Samsø og nogle mindre øer",
+      "roedlistestatus": "NT"
+    },
+    {
+      "navn": "Grævling",
+      "latin": "Meles meles",
+      "gruppe": "Rovdyr",
+      "beskyttelse": "Fredet",
+      "udbredelse": "Hele landet, bortset fra Anholt, Bornholm, Læsø, Rømø, Samsø og nogle mindre øer",
+      "roedlistestatus": "LC"
+    },
+    {
+      "navn": "Husmår",
+      "latin": "Martes foina",
+      "gruppe": "Rovdyr",
+      "beskyttelse": "Fredet uden for jagttid, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Hele landet, bortset fra Bornholm, Anholt og nogle mindre øer",
+      "roedlistestatus": "NT"
+    },
+    {
+      "navn": "Ilder",
+      "latin": "Mustela putorius",
+      "gruppe": "Rovdyr",
+      "beskyttelse": "Fredet, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Hele landet, bortset fra Lolland-Falster, Bornholm og nogle mindre øer",
+      "roedlistestatus": "NT"
+    },
+    {
+      "navn": "Lækat eller hermelin",
+      "latin": "Mustela erminea",
+      "gruppe": "Rovdyr",
+      "beskyttelse": "Fredet, Bern-konventionen liste III",
+      "udbredelse": "Hele landet, bortset Bornholm og nogle mindre øer",
+      "roedlistestatus": "NT"
+    },
+    {
+      "navn": "Mink **",
+      "latin": "Neovison vison",
+      "gruppe": "Rovdyr",
+      "beskyttelse": "Invasiv art, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Hele landet",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Mårhund ***",
+      "latin": "Nyctereutes procyonoides",
+      "gruppe": "Rovdyr",
+      "beskyttelse": "Invasiv art, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Fåtallig i hele landet",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Odder",
+      "latin": "Lutra lutra",
+      "gruppe": "Rovdyr",
+      "beskyttelse": "Habitatdirektivets bilag II+IV, fredet, Bonn-konventionens liste I, CITES/ Washington-konventionens liste I / bilag A, forvaltningsplan",
+      "udbredelse": "Jylland og Vestsjælland",
+      "roedlistestatus": "VU"
+    },
+    {
+      "navn": "Ræv",
+      "latin": "Vulpes vulpes",
+      "gruppe": "Rovdyr",
+      "beskyttelse": "Fredet uden for jagttid, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Hele landet",
+      "roedlistestatus": "NT"
+    },
+    {
+      "navn": "Skovmår",
+      "latin": "Martes martes",
+      "gruppe": "Rovdyr",
+      "beskyttelse": "Habitatdirektivets bilag V, fredet",
+      "udbredelse": "Hele landet, bortset fra Bornholm og nogle mindre øer",
+      "roedlistestatus": "NT"
+    },
+    {
+      "navn": "Ulv",
+      "latin": "Canis lupus",
+      "gruppe": "Rovdyr",
+      "beskyttelse": "Habitatdirektivets bilag II+IV, Bern-konventionens bilag 2, CITES/ Washington-konventionens bilag A, forvaltningsplan",
+      "udbredelse": "Fåtallige i hele Jylland",
+      "roedlistestatus": "VU"
+    },
+    {
+      "navn": "Vaskebjørn ***",
+      "latin": "Procyon lotor",
+      "gruppe": "Rovdyr",
+      "beskyttelse": "Invasiv art, kan reguleres som skadevoldende vildt",
+      "udbredelse": "Fåtallig i hele landet",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Guldsjakal",
+      "latin": "Canis aureus",
+      "gruppe": "Rovdyr",
+      "beskyttelse": "Habitatdirektivets bilag V",
+      "udbredelse": "Enkelte dyr indvandret fra syd",
+      "roedlistestatus": "NA"
+    },
+    {
+      "navn": "Gråsæl",
+      "latin": "Halichoerus grypus",
+      "gruppe": "Sæler",
+      "beskyttelse": "Habitatdirektivets bilag II+V, fredet, Bonn-konventionens liste II, Forvaltningsplan for spættet sæl og gråsæl",
+      "udbredelse": "Kattegat, Østersøen og Vadehavet",
+      "roedlistestatus": "VU"
+    },
+    {
+      "navn": "Spættet sæl",
+      "latin": "Phoca vitulina",
+      "gruppe": "Sæler",
+      "beskyttelse": "Habitatdirektivets bilag II+V, fredet, Bonn-konventionens liste II, kan reguleres som skadevoldende vildt, Forvaltningsplan for spættet sæl og gråsæl",
+      "udbredelse": "Kattegat, Skagerrak, Limfjorden, Vadehavet og Østersøen",
+      "roedlistestatus": "LC"
+    }
+  ],
+  "meta": {
+    "title": "Danmarks pattedyr - Free Download",
+    "description": "Vildtlevende pattedyr i Danmark og danske farvande med latinsk navn, gruppe, beskyttelse/regulering, udbredelse og rødlistestatus (2019). Contains 79 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danmarks pattedyr | ListBase",
+    "seo_description": "Download Danmarks pattedyr — 79 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 79 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danmarks_pattedyr"
+    ]
+  }
+}
