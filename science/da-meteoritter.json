@@ -1,0 +1,94 @@
+{
+  "id": "da-meteoritter",
+  "name": "Danske meteoritter",
+  "title": "Danske meteoritter",
+  "description": "Meteoritter, der er faldet eller fundet i Danmark, med klassifikation og tidspunkt for fald/fund.",
+  "category": "science",
+  "source": "https://da.wikipedia.org/wiki/Meteorit#Danske_meteoritter",
+  "source_url": "https://da.wikipedia.org/wiki/Meteorit#Danske_meteoritter",
+  "updated": "2026-11",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "meteorit",
+      "label": "Meteorit",
+      "type": "string"
+    },
+    {
+      "key": "klassifikation",
+      "label": "Klassifikation",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "tidspunkt",
+      "label": "Tidspunkt",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "meteorit": "Fyn",
+      "klassifikation": "",
+      "type": "fald",
+      "tidspunkt": "30. marts 1654 kl. 08:00"
+    },
+    {
+      "meteorit": "Mern",
+      "klassifikation": "L6",
+      "type": "fald",
+      "tidspunkt": "29. august 1878 kl. 14:30"
+    },
+    {
+      "meteorit": "Aarhus",
+      "klassifikation": "H5",
+      "type": "fald",
+      "tidspunkt": "2. oktober 1951 kl. 18:13"
+    },
+    {
+      "meteorit": "Jerslev",
+      "klassifikation": "IIAB",
+      "type": "fund",
+      "tidspunkt": "1976 (stammer fra istiden)"
+    },
+    {
+      "meteorit": "Felsted",
+      "klassifikation": "IIIAB",
+      "type": "fund",
+      "tidspunkt": "1977 (stammer fra istiden)"
+    },
+    {
+      "meteorit": "Maribo",
+      "klassifikation": "CM2",
+      "type": "fald",
+      "tidspunkt": "17. januar 2009 kl. 20:09"
+    },
+    {
+      "meteorit": "Dueodde",
+      "klassifikation": "",
+      "type": "fald",
+      "tidspunkt": "formentlig i 2015 eller 2016"
+    },
+    {
+      "meteorit": "Ejby og Herlev",
+      "klassifikation": "",
+      "type": "fald",
+      "tidspunkt": "6. februar 2016 kl. 22.07"
+    }
+  ],
+  "meta": {
+    "title": "Danske meteoritter - Free Download",
+    "description": "Meteoritter, der er faldet eller fundet i Danmark, med klassifikation og tidspunkt for fald/fund. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danske meteoritter | ListBase",
+    "seo_description": "Download Danske meteoritter — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Meteorit#Danske_meteoritter"
+    ]
+  }
+}

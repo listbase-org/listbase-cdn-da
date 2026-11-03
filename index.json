@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-03T02:19:39.228Z",
-  "total_datasets": 464,
-  "total_records": 237919,
+  "generated": "2026-11-03T02:19:45.787Z",
+  "total_datasets": 465,
+  "total_records": 237927,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -11310,6 +11310,31 @@
         "xlsx": {
           "name": "da-forskning-og-udvikling-pct-af-bnp_DA.xlsx",
           "size": 7413
+        }
+      }
+    },
+    {
+      "id": "da-meteoritter",
+      "name": "Danske meteoritter",
+      "category": "science",
+      "record_count": 8,
+      "columns": [
+        "meteorit",
+        "klassifikation",
+        "type",
+        "tidspunkt"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Meteorit#Danske_meteoritter",
+      "updated": "2026-11",
+      "size": 2577,
+      "files": {
+        "csv": {
+          "name": "da-meteoritter_DA.csv",
+          "size": 451
+        },
+        "xlsx": {
+          "name": "da-meteoritter_DA.xlsx",
+          "size": 7090
         }
       }
     },
