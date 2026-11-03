@@ -1,0 +1,592 @@
+{
+  "id": "da-dm-haandbold-herrer-medaljevindere",
+  "name": "DM i håndbold for herrer – medaljevindere",
+  "title": "DM i håndbold for herrer – medaljevindere",
+  "description": "Guld-, sølv- og bronzevindere ved danmarksmesterskabet i håndbold for herrer pr. sæson siden 1935-36.",
+  "category": "sports",
+  "source": "https://da.wikipedia.org/wiki/DM_i_håndbold_(mænd)",
+  "source_url": "https://da.wikipedia.org/wiki/DM_i_håndbold_(mænd)",
+  "updated": "2026-11",
+  "record_count": 91,
+  "columns": [
+    {
+      "key": "saeson",
+      "label": "Saeson",
+      "type": "string"
+    },
+    {
+      "key": "guld",
+      "label": "Guld",
+      "type": "string"
+    },
+    {
+      "key": "soelv",
+      "label": "Soelv",
+      "type": "string"
+    },
+    {
+      "key": "bronze",
+      "label": "Bronze",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "saeson": "1935-1936",
+      "guld": "IF Vidar (1)",
+      "soelv": "",
+      "bronze": ""
+    },
+    {
+      "saeson": "1936-1937",
+      "guld": "IF Ajax (1)",
+      "soelv": "",
+      "bronze": ""
+    },
+    {
+      "saeson": "1937-1938",
+      "guld": "IF Vidar (2)",
+      "soelv": "",
+      "bronze": ""
+    },
+    {
+      "saeson": "1938-1939",
+      "guld": "HG (1)",
+      "soelv": "",
+      "bronze": ""
+    },
+    {
+      "saeson": "1939-1940",
+      "guld": "HG (2)",
+      "soelv": "",
+      "bronze": ""
+    },
+    {
+      "saeson": "1940-1941",
+      "guld": "HG (3)",
+      "soelv": "",
+      "bronze": ""
+    },
+    {
+      "saeson": "1941-1942",
+      "guld": "IF Ajax (2)",
+      "soelv": "",
+      "bronze": ""
+    },
+    {
+      "saeson": "1942-1943",
+      "guld": "HG (4)",
+      "soelv": "",
+      "bronze": ""
+    },
+    {
+      "saeson": "1943-1944",
+      "guld": "IF Ajax (3)",
+      "soelv": "",
+      "bronze": ""
+    },
+    {
+      "saeson": "1944-1945",
+      "guld": "Ikke afholdt",
+      "soelv": "Ikke afholdt",
+      "bronze": "Ikke afholdt"
+    },
+    {
+      "saeson": "1945-1946",
+      "guld": "HG (5)",
+      "soelv": "",
+      "bronze": ""
+    },
+    {
+      "saeson": "1946-1947",
+      "guld": "HG (6)",
+      "soelv": "IF Ajax",
+      "bronze": "Vejlby-Risskov IK"
+    },
+    {
+      "saeson": "1947-1948",
+      "guld": "IF Ajax (4)",
+      "soelv": "Helsingør IF",
+      "bronze": "HG"
+    },
+    {
+      "saeson": "1948-1949",
+      "guld": "IF Ajax (5)",
+      "soelv": "HG",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1949-1950",
+      "guld": "IF Ajax (6)",
+      "soelv": "USG",
+      "bronze": "Helsingør IF"
+    },
+    {
+      "saeson": "1950-1951",
+      "guld": "Helsingør IF (1)",
+      "soelv": "IF Ajax",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1951-1952",
+      "guld": "IF Ajax (7)",
+      "soelv": "Helsingør IF",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1952-1953",
+      "guld": "IF Ajax (8)",
+      "soelv": "Helsingør IF",
+      "bronze": "Aarhus KFUM"
+    },
+    {
+      "saeson": "1953-1954",
+      "guld": "Tarup HK (1)",
+      "soelv": "IF Ajax",
+      "bronze": "Aarhus KFUM"
+    },
+    {
+      "saeson": "1954-1955",
+      "guld": "Aarhus KFUM (1)",
+      "soelv": "Tarup HK",
+      "bronze": "Helsingør IF"
+    },
+    {
+      "saeson": "1955-1956",
+      "guld": "HG (7)",
+      "soelv": "Helsingør IF",
+      "bronze": "Aarhus KFUM"
+    },
+    {
+      "saeson": "1956-1957",
+      "guld": "AGF (1)",
+      "soelv": "Helsingør IF",
+      "bronze": "Aarhus KFUM"
+    },
+    {
+      "saeson": "1957-1958",
+      "guld": "Helsingør IF (2)",
+      "soelv": "Tarup HK",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1958-1959",
+      "guld": "AGF (2)",
+      "soelv": "Helsingør IF",
+      "bronze": "Aarhus KFUM"
+    },
+    {
+      "saeson": "1959-1960",
+      "guld": "HG (8)",
+      "soelv": "Aarhus KFUM",
+      "bronze": "Helsingør IF"
+    },
+    {
+      "saeson": "1960-1961",
+      "guld": "AGF (3)",
+      "soelv": "Aarhus KFUM",
+      "bronze": "HG"
+    },
+    {
+      "saeson": "1961-1962",
+      "guld": "IK Skovbakken (1)",
+      "soelv": "Helsingør IF",
+      "bronze": "AGF"
+    },
+    {
+      "saeson": "1962-1963",
+      "guld": "Aarhus KFUM (2)",
+      "soelv": "AGF",
+      "bronze": "IK Skovbakken"
+    },
+    {
+      "saeson": "1963-1964",
+      "guld": "IF Ajax (9)",
+      "soelv": "Aarhus KFUM",
+      "bronze": "Viby IF"
+    },
+    {
+      "saeson": "1964-1965",
+      "guld": "Aarhus KFUM (3)",
+      "soelv": "HG",
+      "bronze": "IF Ajax"
+    },
+    {
+      "saeson": "1965-1966",
+      "guld": "HG (9)",
+      "soelv": "Aarhus KFUM",
+      "bronze": "IF Ajax"
+    },
+    {
+      "saeson": "1966-1967",
+      "guld": "HG (10)",
+      "soelv": "Aarhus KFUM",
+      "bronze": "IF Stadion"
+    },
+    {
+      "saeson": "1967-1968",
+      "guld": "HG (11)",
+      "soelv": "Aarhus KFUM",
+      "bronze": "MK 31"
+    },
+    {
+      "saeson": "1968-1969",
+      "guld": "HG (12)",
+      "soelv": "Aarhus KFUM",
+      "bronze": "IF Stjernen"
+    },
+    {
+      "saeson": "1969-1970",
+      "guld": "HG (13)",
+      "soelv": "Efterslægtens BK",
+      "bronze": "Aarhus KFUM"
+    },
+    {
+      "saeson": "1970-1971",
+      "guld": "Efterslægtens BK (1)",
+      "soelv": "HG",
+      "bronze": "Helsingør IF"
+    },
+    {
+      "saeson": "1971-1972",
+      "guld": "IF Stadion (1)",
+      "soelv": "Efterslægtens BK",
+      "bronze": "Aarhus KFUM"
+    },
+    {
+      "saeson": "1972-1973",
+      "guld": "IF Stadion (2)",
+      "soelv": "Fredericia KFUM",
+      "bronze": "Aarhus KFUM"
+    },
+    {
+      "saeson": "1973-1974",
+      "guld": "Aarhus KFUM (4)",
+      "soelv": "Helsingør IF",
+      "bronze": "Fredericia KFUM"
+    },
+    {
+      "saeson": "1974-1975",
+      "guld": "Fredericia KFUM (1)",
+      "soelv": "Helsingør IF",
+      "bronze": "HG"
+    },
+    {
+      "saeson": "1975-1976",
+      "guld": "Fredericia KFUM (2)",
+      "soelv": "Helsingør IF",
+      "bronze": "IF Stjernen"
+    },
+    {
+      "saeson": "1976-1977",
+      "guld": "Fredericia KFUM (3)",
+      "soelv": "Holte IF",
+      "bronze": "SAGA"
+    },
+    {
+      "saeson": "1977-1978",
+      "guld": "Fredericia KFUM (4)",
+      "soelv": "Holte IF",
+      "bronze": "Aalborg HK"
+    },
+    {
+      "saeson": "1978-1979",
+      "guld": "Fredericia KFUM (5)",
+      "soelv": "SAGA",
+      "bronze": "Aarhus KFUM"
+    },
+    {
+      "saeson": "1979-1980",
+      "guld": "Aarhus KFUM (5)",
+      "soelv": "Fredericia KFUM",
+      "bronze": "Holte IF"
+    },
+    {
+      "saeson": "1980-1981",
+      "guld": "Helsingør IF (3)",
+      "soelv": "Holte IF",
+      "bronze": "Gladsaxe/HG"
+    },
+    {
+      "saeson": "1981-1982",
+      "guld": "IK Skovbakken (2)",
+      "soelv": "Helsingør IF",
+      "bronze": "Holte IF"
+    },
+    {
+      "saeson": "1982-1983",
+      "guld": "Aarhus KFUM (6)",
+      "soelv": "Gladsaxe/HG",
+      "bronze": "Helsingør IF"
+    },
+    {
+      "saeson": "1983-1984",
+      "guld": "Gladsaxe/HG (14)",
+      "soelv": "Helsingør IF",
+      "bronze": "HIK"
+    },
+    {
+      "saeson": "1984-1985",
+      "guld": "Helsingør IF (4)",
+      "soelv": "HIK",
+      "bronze": "Virum-Sorgenfri HK"
+    },
+    {
+      "saeson": "1985-1986",
+      "guld": "HIK (1)",
+      "soelv": "Gladsaxe/HG",
+      "bronze": "Holte IF"
+    },
+    {
+      "saeson": "1986-1987",
+      "guld": "Kolding IF (1)",
+      "soelv": "Helsingør IF",
+      "bronze": "Ribe HK"
+    },
+    {
+      "saeson": "1987-1988",
+      "guld": "Kolding IF (2)",
+      "soelv": "GOG",
+      "bronze": "HIK"
+    },
+    {
+      "saeson": "1988-1989",
+      "guld": "Helsingør IF (5)",
+      "soelv": "GOG",
+      "bronze": "Tarup-Paarup IF"
+    },
+    {
+      "saeson": "1989-1990",
+      "guld": "Kolding IF (3)",
+      "soelv": "Helsingør IF",
+      "bronze": "GOG"
+    },
+    {
+      "saeson": "1990-1991",
+      "guld": "Kolding IF (4)",
+      "soelv": "GOG",
+      "bronze": "Helsingør IF"
+    },
+    {
+      "saeson": "1991-1992",
+      "guld": "GOG (1)",
+      "soelv": "Helsingør IF",
+      "bronze": "Virum-Sorgenfri HK"
+    },
+    {
+      "saeson": "1992-1993",
+      "guld": "Kolding IF (5)",
+      "soelv": "GOG",
+      "bronze": "Helsingør IF"
+    },
+    {
+      "saeson": "1993-1994",
+      "guld": "Kolding IF (6)",
+      "soelv": "GOG",
+      "bronze": "Vejlby-Risskov IK"
+    },
+    {
+      "saeson": "1994-1995",
+      "guld": "GOG (2)",
+      "soelv": "Kolding IF",
+      "bronze": "Ajax København"
+    },
+    {
+      "saeson": "1995-1996",
+      "guld": "GOG (3)",
+      "soelv": "Virum-Sorgenfri HK",
+      "bronze": "Kolding IF"
+    },
+    {
+      "saeson": "1996-1997",
+      "guld": "Virum-Sorgenfri HK (1)",
+      "soelv": "Ajax København",
+      "bronze": "Kolding IF / GOG"
+    },
+    {
+      "saeson": "1997-1998",
+      "guld": "GOG (4)",
+      "soelv": "Team Esbjerg",
+      "bronze": "Virum-Sorgenfri HK"
+    },
+    {
+      "saeson": "1998-1999",
+      "guld": "Skjern Håndbold (1)",
+      "soelv": "Kolding IF",
+      "bronze": "FIF"
+    },
+    {
+      "saeson": "1999-2000",
+      "guld": "GOG (5)",
+      "soelv": "Virum-Sorgenfri HK",
+      "bronze": "Viborg HK"
+    },
+    {
+      "saeson": "2000-2001",
+      "guld": "Kolding IF (7)",
+      "soelv": "GOG",
+      "bronze": "FIF"
+    },
+    {
+      "saeson": "2001-2002",
+      "guld": "Kolding IF (8)",
+      "soelv": "Bjerringbro FH",
+      "bronze": "GOG"
+    },
+    {
+      "saeson": "2002-2003",
+      "guld": "Kolding IF (9)",
+      "soelv": "Skjern Håndbold",
+      "bronze": "GOG"
+    },
+    {
+      "saeson": "2003-2004",
+      "guld": "GOG (6)",
+      "soelv": "Kolding IF",
+      "bronze": "AaB Håndbold"
+    },
+    {
+      "saeson": "2004-2005",
+      "guld": "Kolding IF (10)",
+      "soelv": "Århus GF",
+      "bronze": "GOG"
+    },
+    {
+      "saeson": "2005-2006",
+      "guld": "Kolding IF (11)",
+      "soelv": "GOG Svendborg TGI",
+      "bronze": "Skjern Håndbold"
+    },
+    {
+      "saeson": "2006-2007",
+      "guld": "GOG Svendborg TGI (7)",
+      "soelv": "Viborg HK",
+      "bronze": "F.C. København"
+    },
+    {
+      "saeson": "2007-2008",
+      "guld": "FC København (1)",
+      "soelv": "GOG Svendborg TGI",
+      "bronze": "Århus GF"
+    },
+    {
+      "saeson": "2008-2009",
+      "guld": "Kolding IF (12)",
+      "soelv": "FC København",
+      "bronze": "Team Tvis Holstebro"
+    },
+    {
+      "saeson": "2009-2010",
+      "guld": "AaB Håndbold (1)",
+      "soelv": "Kolding IF",
+      "bronze": "Bjerringbro-Silkeborg"
+    },
+    {
+      "saeson": "2010-2011",
+      "guld": "AG København (1)",
+      "soelv": "Bjerringbro-Silkeborg",
+      "bronze": "Skjern Håndbold"
+    },
+    {
+      "saeson": "2011-2012",
+      "guld": "AG København (2)",
+      "soelv": "Bjerringbro-Silkeborg",
+      "bronze": "Team Tvis Holstebro"
+    },
+    {
+      "saeson": "2012-2013",
+      "guld": "Aalborg Håndbold (2)",
+      "soelv": "KIF Kolding København",
+      "bronze": "Skjern Håndbold"
+    },
+    {
+      "saeson": "2013-2014",
+      "guld": "KIF Kolding København (13)",
+      "soelv": "Aalborg Håndbold",
+      "bronze": "Team Tvis Holstebro"
+    },
+    {
+      "saeson": "2014-2015",
+      "guld": "KIF Kolding København (14)",
+      "soelv": "Skjern Håndbold",
+      "bronze": "Bjerringbro-Silkeborg"
+    },
+    {
+      "saeson": "2015-2016",
+      "guld": "Bjerringbro-Silkeborg (1)",
+      "soelv": "Team Tvis Holstebro",
+      "bronze": "GOG"
+    },
+    {
+      "saeson": "2016-2017",
+      "guld": "Aalborg Håndbold (3)",
+      "soelv": "Skjern Håndbold",
+      "bronze": "Bjerringbro-Silkeborg"
+    },
+    {
+      "saeson": "2017-2018",
+      "guld": "Skjern Håndbold (2)",
+      "soelv": "Bjerringbro-Silkeborg",
+      "bronze": "GOG"
+    },
+    {
+      "saeson": "2018-2019",
+      "guld": "Aalborg Håndbold (4)",
+      "soelv": "GOG",
+      "bronze": "Skjern Håndbold"
+    },
+    {
+      "saeson": "2019-2020",
+      "guld": "Aalborg Håndbold (5) 1",
+      "soelv": "GOG",
+      "bronze": "TTH Holstebro"
+    },
+    {
+      "saeson": "2020-2021",
+      "guld": "Aalborg Håndbold (6)",
+      "soelv": "Bjerringbro-Silkeborg",
+      "bronze": "GOG"
+    },
+    {
+      "saeson": "2021-2022",
+      "guld": "GOG (8)",
+      "soelv": "Aalborg Håndbold",
+      "bronze": "Bjerringbro-Silkeborg"
+    },
+    {
+      "saeson": "2022-2023",
+      "guld": "GOG (9)",
+      "soelv": "Aalborg Håndbold",
+      "bronze": "Fredericia HK"
+    },
+    {
+      "saeson": "2023-2024",
+      "guld": "Aalborg Håndbold (7)",
+      "soelv": "Fredericia HK",
+      "bronze": "Skjern Håndbold"
+    },
+    {
+      "saeson": "2024-2025",
+      "guld": "Aalborg Håndbold (8)",
+      "soelv": "Skjern Håndbold",
+      "bronze": "GOG"
+    },
+    {
+      "saeson": "2025-2026",
+      "guld": "Aalborg Håndbold (9)",
+      "soelv": "Skanderborg AGF Håndbold",
+      "bronze": "GOG"
+    }
+  ],
+  "meta": {
+    "title": "DM i håndbold for herrer – medaljevindere - Free Download",
+    "description": "Guld-, sølv- og bronzevindere ved danmarksmesterskabet i håndbold for herrer pr. sæson siden 1935-36. Contains 91 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "DM i håndbold for herrer – medaljevindere | ListBase",
+    "seo_description": "Download DM i håndbold for herrer – medaljevindere — 91 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 91 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/DM_i_håndbold_(mænd)"
+    ]
+  }
+}

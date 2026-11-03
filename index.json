@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-02T02:29:47.785Z",
-  "total_datasets": 462,
-  "total_records": 237760,
+  "generated": "2026-11-03T02:19:32.028Z",
+  "total_datasets": 463,
+  "total_records": 237851,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -11445,6 +11445,31 @@
         "xlsx": {
           "name": "da-danmarksmestre-i-fodbold_DA.xlsx",
           "size": 9441
+        }
+      }
+    },
+    {
+      "id": "da-dm-haandbold-herrer-medaljevindere",
+      "name": "DM i håndbold for herrer – medaljevindere",
+      "category": "sports",
+      "record_count": 91,
+      "columns": [
+        "saeson",
+        "guld",
+        "soelv",
+        "bronze"
+      ],
+      "source": "https://da.wikipedia.org/wiki/DM_i_håndbold_(mænd)",
+      "updated": "2026-11",
+      "size": 13520,
+      "files": {
+        "csv": {
+          "name": "da-dm-haandbold-herrer-medaljevindere_DA.csv",
+          "size": 4974
+        },
+        "xlsx": {
+          "name": "da-dm-haandbold-herrer-medaljevindere_DA.xlsx",
+          "size": 9753
         }
       }
     },
