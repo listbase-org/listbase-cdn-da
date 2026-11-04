@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-04T02:16:23.082Z",
-  "total_datasets": 470,
-  "total_records": 238111,
+  "generated": "2026-11-04T02:16:29.806Z",
+  "total_datasets": 471,
+  "total_records": 238146,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -3913,6 +3913,34 @@
         "xlsx": {
           "name": "da-sprogvarianter_DA.xlsx",
           "size": 8548
+        }
+      }
+    },
+    {
+      "id": "da-stednavneendelser",
+      "name": "Endelser i danske stednavne og deres betydning",
+      "category": "language",
+      "record_count": 35,
+      "columns": [
+        "type",
+        "betydning",
+        "eksempler",
+        "datering",
+        "udbredelse",
+        "bemaerkninger",
+        "typisk_forled"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danske_stednavne",
+      "updated": "2026-11",
+      "size": 13154,
+      "files": {
+        "csv": {
+          "name": "da-stednavneendelser_DA.csv",
+          "size": 5935
+        },
+        "xlsx": {
+          "name": "da-stednavneendelser_DA.xlsx",
+          "size": 10287
         }
       }
     },

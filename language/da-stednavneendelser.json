@@ -1,0 +1,376 @@
+{
+  "id": "da-stednavneendelser",
+  "name": "Endelser i danske stednavne og deres betydning",
+  "title": "Endelser i danske stednavne og deres betydning",
+  "description": "Typiske efterled i danske stednavne (-by, -torp, -lev, -inge m.fl.) med betydning, eksempler, datering og udbredelse.",
+  "category": "language",
+  "source": "https://da.wikipedia.org/wiki/Danske_stednavne",
+  "source_url": "https://da.wikipedia.org/wiki/Danske_stednavne",
+  "updated": "2026-11",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "betydning",
+      "label": "Betydning",
+      "type": "string"
+    },
+    {
+      "key": "eksempler",
+      "label": "Eksempler",
+      "type": "string"
+    },
+    {
+      "key": "datering",
+      "label": "Datering",
+      "type": "string"
+    },
+    {
+      "key": "udbredelse",
+      "label": "Udbredelse",
+      "type": "string"
+    },
+    {
+      "key": "bemaerkninger",
+      "label": "Bemaerkninger",
+      "type": "string"
+    },
+    {
+      "key": "typisk_forled",
+      "label": "Typisk Forled",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "type": "-ager",
+      "betydning": "Dyrket jord, græsgang",
+      "eksempler": "Sandager, Broager, Mariager",
+      "datering": "",
+      "udbredelse": "Norden",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-balle",
+      "betydning": "Forhøjning eller del af landsby",
+      "eksempler": "Langballe, Nørreballe, Stensballe",
+      "datering": "",
+      "udbredelse": "Danmark",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-bjerg, -borg (1)",
+      "betydning": "Bjerg, bakke",
+      "eksempler": "Fuglebjerg, Onsbjerg, Viborg (oprindelig Vibjerg)",
+      "datering": "",
+      "udbredelse": "Fællesgermansk",
+      "bemaerkninger": "Etymologisk samme ord som -borg (2)",
+      "typisk_forled": "Oftest naturbeskrivende"
+    },
+    {
+      "type": "-bo",
+      "betydning": "Bod, hytte",
+      "eksempler": "Nødebo, Asserbo",
+      "datering": "Middelalder eller sen Vikingetid",
+      "udbredelse": "Norden (inkl. Normandiet (-beuf))",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-borg (2)",
+      "betydning": "Borg, fæstning",
+      "eksempler": "Sønderborg, Fåborg, Svendborg, Ravnsborg",
+      "datering": "Middelalder",
+      "udbredelse": "Det germanske område",
+      "bemaerkninger": "Etymologisk samme ord som -bjerg, -borg (1); men betydningen og dateringen er yngre, derfor en anden type.",
+      "typisk_forled": "Natur- eller bebyggelsesbeskrivende (evt. navn på dyreart)."
+    },
+    {
+      "type": "-by",
+      "betydning": "By, landsby",
+      "eksempler": "Nordby, Toreby, Visby",
+      "datering": "Vikingetid (dannes dog af og til endnu indtil nyeste tid).",
+      "udbredelse": "Norden (inkl. Danelagen (-by) og Normandiet (-bu))",
+      "bemaerkninger": "Oprindelig betydning måske \"enkeltgård\", således endnu i Norge.",
+      "typisk_forled": "Oftest natur-, kultur- eller bebyggelsesbeskrivende."
+    },
+    {
+      "type": "-bølle, -bøl",
+      "betydning": "Enkelt udflyttergård, bolsted",
+      "eksempler": "Krogsbølle, Skallebølle, Oksbøl, Bredbøl, Dagebøl, Masbøl",
+      "datering": "Middelalder, evt. sen vikingetid",
+      "udbredelse": "Østnorden: Sverige (ikke Skåne) og Svenskfinland -böle; også i Sydslesvig, bl.a. i Nordfrisland, hvor det kan være af dansk eller nordfrisisk herkomst (tysk -büll, nordfrisisk: -bel).",
+      "bemaerkninger": "-bølle på Øerne, -bøl i Jylland.",
+      "typisk_forled": "Personnavn eller naturbeskrivende"
+    },
+    {
+      "type": "-dal, -dale",
+      "betydning": "Dal, lavning",
+      "eksempler": "Kongsdal, Årsdale",
+      "datering": "",
+      "udbredelse": "",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-holt, -holte, -lt, -lte",
+      "betydning": "Træbevoksning",
+      "eksempler": "Stavnsholt, Damsholte, Højelt, Høvelte, Högalte",
+      "datering": "",
+      "udbredelse": "Norden",
+      "bemaerkninger": "Ofte -lt, -lte i Nordsjælland og Skåne",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-høj, -høje, -øv, -øje, -ie",
+      "betydning": "Høj, bakke",
+      "eksempler": "Brønshøj, Mørkøv, Ledøje, Jersie, Oxie",
+      "datering": "Vikingetid",
+      "udbredelse": "Norden",
+      "bemaerkninger": "Formerne uden h er almindelige på Østsjælland og i Vestskåne.",
+      "typisk_forled": "Oftest naturbeskrivende"
+    },
+    {
+      "type": "-inge, -ing",
+      "betydning": "(Betegner stedet)",
+      "eksempler": "Flintinge, Gevninge, Malling, Gelting, Tønning",
+      "datering": "Jernalder",
+      "udbredelse": "Fællesgermansk",
+      "bemaerkninger": "-inge på Øerne og i Skåne, -ing i Jylland. (oprindelig også med formen * -ung). Egentlig ikke et efterled, men en afledningsendelse.",
+      "typisk_forled": "Naturbeskrivende"
+    },
+    {
+      "type": "-ker",
+      "betydning": "Kirke",
+      "eksempler": "Pedersker",
+      "datering": "Middelalder",
+      "udbredelse": "Bornholm",
+      "bemaerkninger": "",
+      "typisk_forled": "Helgennavn"
+    },
+    {
+      "type": "-køb",
+      "betydning": "Ejendom erhvervet ved køb",
+      "eksempler": "Tikøb, Høsterkøb, Svensköp",
+      "datering": "Sen Vikingetid",
+      "udbredelse": "Sjælland og Skåne",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-købing",
+      "betydning": "Handelsplads",
+      "eksempler": "Sakskøbing, Ærøskøbing, Nykøbing",
+      "datering": "Middelalder",
+      "udbredelse": "Norden",
+      "bemaerkninger": "Elementet formodentlig lånt fra oldengelsk.",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-leje",
+      "betydning": "Landingssted for både",
+      "eksempler": "Gilleleje, Träslövsläge",
+      "datering": "Middelalder",
+      "udbredelse": "Sjælland og Skåne",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-lev",
+      "betydning": "Arvelig ejendom",
+      "eksempler": "Bederslev, Harlev, Tinglev, Eslöv, Harreslev",
+      "datering": "Jernalder",
+      "udbredelse": "Danmark inkl. Skåne og Sydslesvig, samt Thüringen og Sachsen-Anhalt",
+      "bemaerkninger": "På tysk er formen -leben, fx Eisleben.",
+      "typisk_forled": "Oftest personnavn"
+    },
+    {
+      "type": "-lund, -lunde",
+      "betydning": "Lund, mindre skov",
+      "eksempler": "Ladelund, Horslunde",
+      "datering": "",
+      "udbredelse": "Norden",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-løkke, -løk",
+      "betydning": "Indhegning",
+      "eksempler": "Bramsløkke, Dageløkke, Fovlløk",
+      "datering": "",
+      "udbredelse": "Norden",
+      "bemaerkninger": "-løkke på Øerne, -løk i Jylland",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-løse, -lse",
+      "betydning": "Omstridt; de fleste hælder til en afledning af \"lys\": lysning, eng.",
+      "eksempler": "Stenløse, Sengeløse, Slagelse, Ramløse, Harlösa",
+      "datering": "Jernalder",
+      "udbredelse": "Øerne og Skåne",
+      "bemaerkninger": "-løse på Øerne, -lösa i Skåne.",
+      "typisk_forled": "Naturbeskrivende, altid substantiv"
+    },
+    {
+      "type": "-mark, -marke",
+      "betydning": "Mark, dyrket jord",
+      "eksempler": "Notmark, Stokkemarke",
+      "datering": "Middelalder",
+      "udbredelse": "Danmark inkl. Skåne",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-næs, -nse, -ns",
+      "betydning": "Næs, halvø",
+      "eksempler": "Rinkenæs, Bogense, Horsens",
+      "datering": "",
+      "udbredelse": "Norden",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-rud, -rød, -rod",
+      "betydning": "Rydning",
+      "eksempler": "Morud, Birkerød, Eskerod",
+      "datering": "Middelalder",
+      "udbredelse": "Norden",
+      "bemaerkninger": "-rud (oprindeligst) på Fyn, -rød/-röd på Sjælland og i Skåne, -rod i Jylland (-ryd i Sverige, dog -rud i Dalsland, -rud i Norge).",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-rum",
+      "betydning": "Rydning",
+      "eksempler": "Farum, Virum",
+      "datering": "Middelalder",
+      "udbredelse": "Sjælland, Skåne og Slesvig",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-skov",
+      "betydning": "(Ryddet) skov",
+      "eksempler": "Nakskov, Lunderskov",
+      "datering": "Middelalder",
+      "udbredelse": "Norden",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-sted",
+      "betydning": "bosted, bygd",
+      "eksempler": "Radsted, Thisted",
+      "datering": "Jernalder (dannes dog af og til endnu indtil nyeste tid)",
+      "udbredelse": "Fællesgermansk",
+      "bemaerkninger": "-stad, -sta i Sverige",
+      "typisk_forled": "Personnavn eller naturbeskrivende"
+    },
+    {
+      "type": "-tofte, -toft",
+      "betydning": "Jordstykke i særeje (modsat landsbyens fællesjord)",
+      "eksempler": "Gentofte, Tontoft, Örtofta",
+      "datering": "Vikingetid",
+      "udbredelse": "Norden (inkl. Danelagen (-toft) og Normandiet (-tot))",
+      "bemaerkninger": "-tofte på Øerne, -toft i Jylland, -tofta i Skåne.",
+      "typisk_forled": "Personnavn eller naturbeskrivende"
+    },
+    {
+      "type": "-torp, -trup, -drup, -rup, -rp",
+      "betydning": "Udflytterbebyggelse",
+      "eksempler": "Glostrup, Vamdrup, Sibberup, Glavendrup, Björnstorp, Skurup, Tjörnarp",
+      "datering": "Vikingetid",
+      "udbredelse": "Norden (inkl. Danelagen (-thorpe)). Også Tyskland og Nederlandene (-dorf / dorp), men med ældre datering og en anden betydning.",
+      "bemaerkninger": "Efter konsonant: -trup/-drup (sjældent -torp) i Jylland og på Øerne, -torp i Skåne og resten af Sverige. Efter vokal: -rup (på Fyn ofte -ndrup), -rup/-rp i Skåne.",
+      "typisk_forled": "Oftest personnavn. Også natur- og kulturbeskrivende."
+    },
+    {
+      "type": "-tun > -ten",
+      "betydning": "Indhegning",
+      "eksempler": "Galten, Ramten, Søften",
+      "datering": "Omkring vikingetidens begyndelse",
+      "udbredelse": "Det mellemste Østjylland",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-tved",
+      "betydning": "Rydning",
+      "eksempler": "Næstved, Bregentved, Egtved",
+      "datering": "Vikingetid",
+      "udbredelse": "Norden (inkl. Danelagen (-twaithe))",
+      "bemaerkninger": "",
+      "typisk_forled": "Naturbeskrivende"
+    },
+    {
+      "type": "-um (1) (lig med olddansk -hēm)",
+      "betydning": "Hjem, bebyggelse",
+      "eksempler": "Smørum, Brøndum",
+      "datering": "Jernalder",
+      "udbredelse": "Fællesgermansk",
+      "bemaerkninger": "Svensk -hem, norsk -heim",
+      "typisk_forled": "Naturbeskrivende"
+    },
+    {
+      "type": "-um (2)",
+      "betydning": "Dativ pluralis",
+      "eksempler": "Boddum, Hellum, Husum, Søsum",
+      "datering": "Vikingetid",
+      "udbredelse": "Norden",
+      "bemaerkninger": "Egentlig ikke et efterled, men en bøjningsendelse. Betegnede oprindelig væren på stedet, men er \"stivnet\" i navnet. Dativ pluralis har fungeret på samme måde som en lokativ.",
+      "typisk_forled": "Natur- eller bebyggelsesbeskrivende"
+    },
+    {
+      "type": "-vad",
+      "betydning": "Vadested",
+      "eksempler": "Immervad, Rådvad, Dybvad,",
+      "datering": "",
+      "udbredelse": "",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-ved",
+      "betydning": "(Ryddet) skov",
+      "eksempler": "Helved, Hanved",
+      "datering": "",
+      "udbredelse": "",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-vig -vik",
+      "betydning": "Vig",
+      "eksempler": "Lemvig,Rørvig,Sandvig,Fodevig,Madvig (Matvik),Narvik, Klaksvig,Lerwick,Mestersvig",
+      "datering": "",
+      "udbredelse": "Norden",
+      "bemaerkninger": "",
+      "typisk_forled": ""
+    },
+    {
+      "type": "-ør, -øre, -er",
+      "betydning": "Stenet strand eller pynt",
+      "eksempler": "Dragør, Avedøre, Skanör, Gedser, Palør",
+      "datering": "",
+      "udbredelse": "Norden",
+      "bemaerkninger": "Den trykstærke form -ør/-øre, svarer til den tryksvage -er.",
+      "typisk_forled": ""
+    }
+  ],
+  "meta": {
+    "title": "Endelser i danske stednavne og deres betydning - Free Download",
+    "description": "Typiske efterled i danske stednavne (-by, -torp, -lev, -inge m.fl.) med betydning, eksempler, datering og udbredelse. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Endelser i danske stednavne og deres betydning | ListBase",
+    "seo_description": "Download Endelser i danske stednavne og deres betydning — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danske_stednavne"
+    ]
+  }
+}
