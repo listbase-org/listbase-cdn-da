@@ -1,0 +1,178 @@
+{
+  "id": "da-monarkers-valgsprog",
+  "name": "Danske monarkers valgsprog",
+  "title": "Danske monarkers valgsprog",
+  "description": "De danske kongers og dronningers valgsprog fra Christian 1. til i dag med regeringstid og latinsk eller anden originalversion.",
+  "category": "history",
+  "source": "https://da.wikipedia.org/wiki/Danske_monarkers_valgsprog",
+  "source_url": "https://da.wikipedia.org/wiki/Danske_monarkers_valgsprog",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "monark",
+      "label": "Monark",
+      "type": "string"
+    },
+    {
+      "key": "regeringstid",
+      "label": "Regeringstid",
+      "type": "string"
+    },
+    {
+      "key": "valgsprog",
+      "label": "Valgsprog",
+      "type": "string"
+    },
+    {
+      "key": "latinsk_version",
+      "label": "Latinsk Version",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "monark": "Christian 1.",
+      "regeringstid": "1448-1481",
+      "valgsprog": "Dyden viser vejen",
+      "latinsk_version": "VIRTUTI MONSTRANTE VIAM"
+    },
+    {
+      "monark": "Hans",
+      "regeringstid": "1481-1513",
+      "valgsprog": "For lov og folk",
+      "latinsk_version": "PRO LEGE ET GREGE"
+    },
+    {
+      "monark": "Christian 2.",
+      "regeringstid": "1513-1523",
+      "valgsprog": "Så var det beskikket",
+      "latinsk_version": "SIC ERAT IN FATIS"
+    },
+    {
+      "monark": "Frederik 1.",
+      "regeringstid": "1523-1533",
+      "valgsprog": "Intet uden Gud",
+      "latinsk_version": "NIHIL SINE NUMINE"
+    },
+    {
+      "monark": "Christian 3.",
+      "regeringstid": "1536-1559",
+      "valgsprog": "Ske Herrens vilje",
+      "latinsk_version": "SPES MEA SOLUS DEUS Zu Gott mein Trost allein (tysk)"
+    },
+    {
+      "monark": "Frederik 2.",
+      "regeringstid": "1559-1588",
+      "valgsprog": "Mit håb er Gud alene",
+      "latinsk_version": "DEUS REFUGIUM ET FIDUCIA MEA Mein Hoffnung zu Gott allein (tysk)"
+    },
+    {
+      "monark": "Christian 4.",
+      "regeringstid": "1588-1648",
+      "valgsprog": "Fromhed styrker rigerne",
+      "latinsk_version": "REGNA FIRMAT PIETAS"
+    },
+    {
+      "monark": "Frederik 3.",
+      "regeringstid": "1648-1670",
+      "valgsprog": "Herren være mit forsyn",
+      "latinsk_version": "DOMINUS PROVIDEBIT"
+    },
+    {
+      "monark": "Christian 5.",
+      "regeringstid": "1670-1699",
+      "valgsprog": "Med fromhed og retfærdighed",
+      "latinsk_version": "PIETATE ET IUSTITIA"
+    },
+    {
+      "monark": "Frederik 4.",
+      "regeringstid": "1699-1730",
+      "valgsprog": "Herren være min hjælper",
+      "latinsk_version": "DOMINUS MIHI ADIUTOR"
+    },
+    {
+      "monark": "Christian 6.",
+      "regeringstid": "1730-1746",
+      "valgsprog": "For Gud og folket",
+      "latinsk_version": "DEO ET POPULO"
+    },
+    {
+      "monark": "Frederik 5.",
+      "regeringstid": "1746-1766",
+      "valgsprog": "Med klogskab og standhaftighed",
+      "latinsk_version": "PRUDENTIA ET CONSTANTIA"
+    },
+    {
+      "monark": "Christian 7.",
+      "regeringstid": "1766-1808",
+      "valgsprog": "Fædrelandets kærlighed er min berømmelse",
+      "latinsk_version": "GLORIA EX AMORE PATRIAE"
+    },
+    {
+      "monark": "Frederik 6.",
+      "regeringstid": "1808-1839",
+      "valgsprog": "Gud og den retfærdige Sag",
+      "latinsk_version": "DEO ET JUSTAE CAUSAE"
+    },
+    {
+      "monark": "Christian 8.",
+      "regeringstid": "1839-1848",
+      "valgsprog": "Gud og Fædrelandet",
+      "latinsk_version": "-"
+    },
+    {
+      "monark": "Frederik 7.",
+      "regeringstid": "1848-1863",
+      "valgsprog": "Folkets Kærlighed, min Styrke",
+      "latinsk_version": "-"
+    },
+    {
+      "monark": "Christian 9.",
+      "regeringstid": "1863-1906",
+      "valgsprog": "Med Gud for Ære og Ret",
+      "latinsk_version": "-"
+    },
+    {
+      "monark": "Frederik 8.",
+      "regeringstid": "1906-1912",
+      "valgsprog": "Herren er min Hjælper",
+      "latinsk_version": "-"
+    },
+    {
+      "monark": "Christian 10.",
+      "regeringstid": "1912-1947",
+      "valgsprog": "Min Gud, mit Land, min Ære",
+      "latinsk_version": "-"
+    },
+    {
+      "monark": "Frederik 9.",
+      "regeringstid": "1947-1972",
+      "valgsprog": "Med Gud for Danmark",
+      "latinsk_version": "-"
+    },
+    {
+      "monark": "Margrethe 2.",
+      "regeringstid": "1972-2024",
+      "valgsprog": "Guds hjælp, folkets kærlighed, Danmarks styrke",
+      "latinsk_version": "-"
+    },
+    {
+      "monark": "Frederik 10.",
+      "regeringstid": "2024-",
+      "valgsprog": "Forbundne, forpligtet, for kongeriget Danmark",
+      "latinsk_version": "-"
+    }
+  ],
+  "meta": {
+    "title": "Danske monarkers valgsprog - Free Download",
+    "description": "De danske kongers og dronningers valgsprog fra Christian 1. til i dag med regeringstid og latinsk eller anden originalversion. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danske monarkers valgsprog | ListBase",
+    "seo_description": "Download Danske monarkers valgsprog — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danske_monarkers_valgsprog"
+    ]
+  }
+}

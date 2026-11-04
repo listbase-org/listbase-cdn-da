@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-04T02:16:29.806Z",
-  "total_datasets": 471,
-  "total_records": 238146,
+  "generated": "2026-11-04T02:16:37.007Z",
+  "total_datasets": 472,
+  "total_records": 238168,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -3541,6 +3541,31 @@
         "xlsx": {
           "name": "da-krige-med-dansk-deltagelse_DA.xlsx",
           "size": 11784
+        }
+      }
+    },
+    {
+      "id": "da-monarkers-valgsprog",
+      "name": "Danske monarkers valgsprog",
+      "category": "history",
+      "record_count": 22,
+      "columns": [
+        "monark",
+        "regeringstid",
+        "valgsprog",
+        "latinsk_version"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danske_monarkers_valgsprog",
+      "updated": "2026-11",
+      "size": 5336,
+      "files": {
+        "csv": {
+          "name": "da-monarkers-valgsprog_DA.csv",
+          "size": 1668
+        },
+        "xlsx": {
+          "name": "da-monarkers-valgsprog_DA.xlsx",
+          "size": 8023
         }
       }
     },
