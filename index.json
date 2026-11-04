@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-04T02:16:15.885Z",
-  "total_datasets": 469,
-  "total_records": 238101,
+  "generated": "2026-11-04T02:16:23.082Z",
+  "total_datasets": 470,
+  "total_records": 238111,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -11309,6 +11309,30 @@
         "xlsx": {
           "name": "da-arter-habitatdirektivets-bilag-iv_DA.xlsx",
           "size": 8362
+        }
+      }
+    },
+    {
+      "id": "da-danske-satellitter",
+      "name": "Danske satellitter",
+      "category": "science",
+      "record_count": 10,
+      "columns": [
+        "satellit",
+        "type",
+        "opsendelse"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danske_satellitter",
+      "updated": "2026-11",
+      "size": 2584,
+      "files": {
+        "csv": {
+          "name": "da-danske-satellitter_DA.csv",
+          "size": 592
+        },
+        "xlsx": {
+          "name": "da-danske-satellitter_DA.xlsx",
+          "size": 7072
         }
       }
     },

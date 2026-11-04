@@ -1,0 +1,91 @@
+{
+  "id": "da-danske-satellitter",
+  "name": "Danske satellitter",
+  "title": "Danske satellitter",
+  "description": "Danske satellitter og CubeSats (Ørsted, AAUSAT, DTUsat m.fl.) med opsendelsesdato, inkl. aflyste projekter.",
+  "category": "science",
+  "source": "https://da.wikipedia.org/wiki/Danske_satellitter",
+  "source_url": "https://da.wikipedia.org/wiki/Danske_satellitter",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "satellit",
+      "label": "Satellit",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "opsendelse",
+      "label": "Opsendelse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "satellit": "BIFROST",
+      "type": "satellit",
+      "opsendelse": "opsendt 23. juni 2025"
+    },
+    {
+      "satellit": "Ørsted-satellitten",
+      "type": "satellit",
+      "opsendelse": "opsendt 23. februar 1999"
+    },
+    {
+      "satellit": "Rømer-satellitten",
+      "type": "aflyst",
+      "opsendelse": ""
+    },
+    {
+      "satellit": "AAU CUBESAT",
+      "type": "CubeSat",
+      "opsendelse": "opsendt 30. juni 2003"
+    },
+    {
+      "satellit": "DTUsat",
+      "type": "CubeSat",
+      "opsendelse": "opsendt 30. juni 2003"
+    },
+    {
+      "satellit": "AAUSAT-II",
+      "type": "CubeSat",
+      "opsendelse": "opsendt 28. april 2008"
+    },
+    {
+      "satellit": "AAUSAT3",
+      "type": "CubeSat",
+      "opsendelse": "opsendt 25. februar 2013"
+    },
+    {
+      "satellit": "AAUSAT4",
+      "type": "CubeSat",
+      "opsendelse": "opsendt 25. april 2016"
+    },
+    {
+      "satellit": "AAUSAT5",
+      "type": "CubeSat",
+      "opsendelse": "sendt i kredsløb den 5. oktober 2015 fra Den Internationale Rumstation"
+    },
+    {
+      "satellit": "Delphini-1",
+      "type": "CubeSat",
+      "opsendelse": "sendt i kredsløb den 31. januar 2019 fra Den Internationale Rumstation"
+    }
+  ],
+  "meta": {
+    "title": "Danske satellitter - Free Download",
+    "description": "Danske satellitter og CubeSats (Ørsted, AAUSAT, DTUsat m.fl.) med opsendelsesdato, inkl. aflyste projekter. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danske satellitter | ListBase",
+    "seo_description": "Download Danske satellitter — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danske_satellitter"
+    ]
+  }
+}
