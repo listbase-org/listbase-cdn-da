@@ -1,0 +1,286 @@
+{
+  "id": "da-arter-habitatdirektivets-bilag-iv",
+  "name": "Danske arter på habitatdirektivets bilag IV",
+  "title": "Danske arter på habitatdirektivets bilag IV",
+  "description": "Strengt beskyttede dyre- og plantearter i Danmark omfattet af EU's habitatdirektiv bilag IV, fordelt på artsgrupper.",
+  "category": "science",
+  "source": "https://da.wikipedia.org/wiki/Danske_arter_på_habitatdirektivets_bilag_IV",
+  "source_url": "https://da.wikipedia.org/wiki/Danske_arter_på_habitatdirektivets_bilag_IV",
+  "updated": "2026-11",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "dansk_navn",
+      "label": "Dansk Navn",
+      "type": "string"
+    },
+    {
+      "key": "videnskabeligt_navn",
+      "label": "Videnskabeligt Navn",
+      "type": "string"
+    },
+    {
+      "key": "gruppe",
+      "label": "Gruppe",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dansk_navn": "Vandflagermus",
+      "videnskabeligt_navn": "Myotis daubentoni",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Damflagermus",
+      "videnskabeligt_navn": "Myotis dasycneme",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Skægflagermus",
+      "videnskabeligt_navn": "Myotis mystacinus",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Brandts flagermus",
+      "videnskabeligt_navn": "Myotis brandtii",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Frynseflagermus",
+      "videnskabeligt_navn": "Myotis nattereri",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Bechsteins flagermus",
+      "videnskabeligt_navn": "Myotis bechsteini",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Skimmelflagermus",
+      "videnskabeligt_navn": "Vespertilio murinus",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Sydflagermus",
+      "videnskabeligt_navn": "Estesicus serotinus",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Brunflagermus",
+      "videnskabeligt_navn": "Nyctalus noctula",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Bredøret flagermus",
+      "videnskabeligt_navn": "Barbastella barbastellus",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Langøret flagermus",
+      "videnskabeligt_navn": "Plecotus auritus",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Dværgflagermus",
+      "videnskabeligt_navn": "Pipistrellus pygmaeus",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Troldflagermus",
+      "videnskabeligt_navn": "Pipistrellus nathusii",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Pipistrelflagermus",
+      "videnskabeligt_navn": "Pipistrellus pipistrellus",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Hasselmus",
+      "videnskabeligt_navn": "Muscardinus avellanarius",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Birkemus",
+      "videnskabeligt_navn": "Sicista betulina",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Odder",
+      "videnskabeligt_navn": "Lutra lutra",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Ulv",
+      "videnskabeligt_navn": "Canis lupus",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Marsvin",
+      "videnskabeligt_navn": "Phocoena phocoena",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Hvidnæse",
+      "videnskabeligt_navn": "Lagenorhynchus albirostris",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Vågehval",
+      "videnskabeligt_navn": "Balaenoptera acutorostrata",
+      "gruppe": "Pattedyr"
+    },
+    {
+      "dansk_navn": "Europæisk sumpskildpadde",
+      "videnskabeligt_navn": "Emys orbicularis",
+      "gruppe": "Krybdyr"
+    },
+    {
+      "dansk_navn": "Markfirben",
+      "videnskabeligt_navn": "Lacerta agilis",
+      "gruppe": "Krybdyr"
+    },
+    {
+      "dansk_navn": "Glatsnog",
+      "videnskabeligt_navn": "Coronella austriaca",
+      "gruppe": "Krybdyr"
+    },
+    {
+      "dansk_navn": "Æskulapsnog",
+      "videnskabeligt_navn": "Elaphe longissima",
+      "gruppe": "Krybdyr"
+    },
+    {
+      "dansk_navn": "Stor vandsalamander",
+      "videnskabeligt_navn": "Triturus cristatus",
+      "gruppe": "Padder"
+    },
+    {
+      "dansk_navn": "Klokkefrø",
+      "videnskabeligt_navn": "Bombina bombina",
+      "gruppe": "Padder"
+    },
+    {
+      "dansk_navn": "Løgfrø",
+      "videnskabeligt_navn": "Pelobates fuscus",
+      "gruppe": "Padder"
+    },
+    {
+      "dansk_navn": "Løvfrø",
+      "videnskabeligt_navn": "Hyla arborea",
+      "gruppe": "Padder"
+    },
+    {
+      "dansk_navn": "Spidssnudet frø",
+      "videnskabeligt_navn": "Rana arvalis",
+      "gruppe": "Padder"
+    },
+    {
+      "dansk_navn": "Springfrø",
+      "videnskabeligt_navn": "Rana dalmatina",
+      "gruppe": "Padder"
+    },
+    {
+      "dansk_navn": "Strandtudse",
+      "videnskabeligt_navn": "Bufo calamita",
+      "gruppe": "Padder"
+    },
+    {
+      "dansk_navn": "Grønbroget tudse",
+      "videnskabeligt_navn": "Bufo viridis",
+      "gruppe": "Padder"
+    },
+    {
+      "dansk_navn": "Snæbel",
+      "videnskabeligt_navn": "Coregonus oxyrhynchus",
+      "gruppe": "Fisk"
+    },
+    {
+      "dansk_navn": "Bred vandkalv",
+      "videnskabeligt_navn": "Dytiscus latissimus",
+      "gruppe": "Insekter"
+    },
+    {
+      "dansk_navn": "Lys skivevandkalv",
+      "videnskabeligt_navn": "Graphoderus bilineatus",
+      "gruppe": "Insekter"
+    },
+    {
+      "dansk_navn": "Eremit",
+      "videnskabeligt_navn": "Osmoderma eremita",
+      "gruppe": "Insekter"
+    },
+    {
+      "dansk_navn": "Sortplettet blåfugl",
+      "videnskabeligt_navn": "Maculinea arion",
+      "gruppe": "Insekter"
+    },
+    {
+      "dansk_navn": "Grøn mosaikguldsmed",
+      "videnskabeligt_navn": "Aeshna viridis",
+      "gruppe": "Insekter"
+    },
+    {
+      "dansk_navn": "Stor kærguldsmed",
+      "videnskabeligt_navn": "Leucorrhinia pectoralis",
+      "gruppe": "Insekter"
+    },
+    {
+      "dansk_navn": "Grøn kølleguldsmed",
+      "videnskabeligt_navn": "Ophiogomphus cecilia",
+      "gruppe": "Insekter"
+    },
+    {
+      "dansk_navn": "Tykskallet malermusling",
+      "videnskabeligt_navn": "Unio crassus",
+      "gruppe": "Bløddyr"
+    },
+    {
+      "dansk_navn": "Enkelt månerude",
+      "videnskabeligt_navn": "",
+      "gruppe": "Planter"
+    },
+    {
+      "dansk_navn": "Liden najade",
+      "videnskabeligt_navn": "",
+      "gruppe": "Planter"
+    },
+    {
+      "dansk_navn": "Fruesko",
+      "videnskabeligt_navn": "",
+      "gruppe": "Planter"
+    },
+    {
+      "dansk_navn": "Mygblomst",
+      "videnskabeligt_navn": "",
+      "gruppe": "Planter"
+    },
+    {
+      "dansk_navn": "Vandranke",
+      "videnskabeligt_navn": "",
+      "gruppe": "Planter"
+    },
+    {
+      "dansk_navn": "Gul stenbræk",
+      "videnskabeligt_navn": "",
+      "gruppe": "Planter"
+    },
+    {
+      "dansk_navn": "Krybende sumpskærm",
+      "videnskabeligt_navn": "",
+      "gruppe": "Planter"
+    }
+  ],
+  "meta": {
+    "title": "Danske arter på habitatdirektivets bilag IV - Free Download",
+    "description": "Strengt beskyttede dyre- og plantearter i Danmark omfattet af EU's habitatdirektiv bilag IV, fordelt på artsgrupper. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danske arter på habitatdirektivets bilag IV | ListBase",
+    "seo_description": "Download Danske arter på habitatdirektivets bilag IV — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danske_arter_på_habitatdirektivets_bilag_IV"
+    ]
+  }
+}
