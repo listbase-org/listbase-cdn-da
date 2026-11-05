@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-05T02:19:12.108Z",
-  "total_datasets": 474,
-  "total_records": 238324,
+  "generated": "2026-11-05T02:19:21.188Z",
+  "total_datasets": 475,
+  "total_records": 238344,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -11648,6 +11648,45 @@
         "xlsx": {
           "name": "da-genbrugsbutikker_DA.xlsx",
           "size": 29115
+        }
+      }
+    },
+    {
+      "id": "da-kirkelige-handlinger-folkekirken",
+      "name": "Kirkelige handlinger i folkekirken 2006–2025",
+      "category": "society",
+      "record_count": 20,
+      "columns": [
+        "aar",
+        "doebte_i_sognets_kirker",
+        "hjemmedoebte",
+        "doebte_anden_daab",
+        "fremstillede",
+        "vielser_pastoratets_praest",
+        "vielser_anden_praest",
+        "kirkelige_velsignelser",
+        "lysninger",
+        "doedsfald_registreret",
+        "begravet_pastoratets_praest_sognets_kirke",
+        "begravet_pastoratets_praest_andetsteds",
+        "begravet_anden_praest_sognets_kirke",
+        "begravet_anden_praest_andetsteds",
+        "begravet_frimenighed_andet_trossamfund",
+        "begravet_uden_gejstlig_medvirken",
+        "konfirmerede",
+        "foedte"
+      ],
+      "source": "https://www.statistikbanken.dk/KM44",
+      "updated": "2026-11",
+      "size": 17437,
+      "files": {
+        "csv": {
+          "name": "da-kirkelige-handlinger-folkekirken_DA.csv",
+          "size": 2953
+        },
+        "xlsx": {
+          "name": "da-kirkelige-handlinger-folkekirken_DA.xlsx",
+          "size": 9182
         }
       }
     },
