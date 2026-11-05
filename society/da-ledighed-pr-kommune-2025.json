@@ -1,0 +1,748 @@
+{
+  "id": "da-ledighed-pr-kommune-2025",
+  "name": "Ledighed i procent pr. kommune og region 2025",
+  "title": "Ledighed i procent pr. kommune og region 2025",
+  "description": "Fuldtidsledige i procent af arbejdsstyrken i 2025 for hele landet, regioner, landsdele og alle kommuner, i alt og fordelt på mænd og kvinder (Danmarks Statistik, AULP01).",
+  "category": "society",
+  "source": "https://www.statistikbanken.dk/AULP01",
+  "source_url": "https://www.statistikbanken.dk/AULP01",
+  "updated": "2026-11",
+  "record_count": 117,
+  "columns": [
+    {
+      "key": "omraade",
+      "label": "Omraade",
+      "type": "string"
+    },
+    {
+      "key": "ledighed_pct_i_alt",
+      "label": "Ledighed Pct I Alt",
+      "type": "number"
+    },
+    {
+      "key": "ledighed_pct_maend",
+      "label": "Ledighed Pct Maend",
+      "type": "number"
+    },
+    {
+      "key": "ledighed_pct_kvinder",
+      "label": "Ledighed Pct Kvinder",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "omraade": "Hele landet",
+      "ledighed_pct_i_alt": 2.9,
+      "ledighed_pct_maend": 2.8,
+      "ledighed_pct_kvinder": 3
+    },
+    {
+      "omraade": "Region Hovedstaden",
+      "ledighed_pct_i_alt": 3.1,
+      "ledighed_pct_maend": 2.9,
+      "ledighed_pct_kvinder": 3.2
+    },
+    {
+      "omraade": "Landsdel Byen København",
+      "ledighed_pct_i_alt": 3.5,
+      "ledighed_pct_maend": 3.3,
+      "ledighed_pct_kvinder": 3.6
+    },
+    {
+      "omraade": "København",
+      "ledighed_pct_i_alt": 3.6,
+      "ledighed_pct_maend": 3.5,
+      "ledighed_pct_kvinder": 3.8
+    },
+    {
+      "omraade": "Frederiksberg",
+      "ledighed_pct_i_alt": 3.2,
+      "ledighed_pct_maend": 3,
+      "ledighed_pct_kvinder": 3.4
+    },
+    {
+      "omraade": "Dragør",
+      "ledighed_pct_i_alt": 1.9,
+      "ledighed_pct_maend": 1.7,
+      "ledighed_pct_kvinder": 2.1
+    },
+    {
+      "omraade": "Tårnby",
+      "ledighed_pct_i_alt": 2.3,
+      "ledighed_pct_maend": 2.2,
+      "ledighed_pct_kvinder": 2.4
+    },
+    {
+      "omraade": "Landsdel Københavns omegn",
+      "ledighed_pct_i_alt": 3.1,
+      "ledighed_pct_maend": 3,
+      "ledighed_pct_kvinder": 3.2
+    },
+    {
+      "omraade": "Albertslund",
+      "ledighed_pct_i_alt": 3.9,
+      "ledighed_pct_maend": 4,
+      "ledighed_pct_kvinder": 3.8
+    },
+    {
+      "omraade": "Ballerup",
+      "ledighed_pct_i_alt": 2.8,
+      "ledighed_pct_maend": 2.8,
+      "ledighed_pct_kvinder": 2.9
+    },
+    {
+      "omraade": "Brøndby",
+      "ledighed_pct_i_alt": 4.3,
+      "ledighed_pct_maend": 4.1,
+      "ledighed_pct_kvinder": 4.5
+    },
+    {
+      "omraade": "Gentofte",
+      "ledighed_pct_i_alt": 2.5,
+      "ledighed_pct_maend": 2.3,
+      "ledighed_pct_kvinder": 2.7
+    },
+    {
+      "omraade": "Gladsaxe",
+      "ledighed_pct_i_alt": 2.6,
+      "ledighed_pct_maend": 2.6,
+      "ledighed_pct_kvinder": 2.7
+    },
+    {
+      "omraade": "Glostrup",
+      "ledighed_pct_i_alt": 3.1,
+      "ledighed_pct_maend": 3,
+      "ledighed_pct_kvinder": 3.2
+    },
+    {
+      "omraade": "Herlev",
+      "ledighed_pct_i_alt": 3,
+      "ledighed_pct_maend": 3,
+      "ledighed_pct_kvinder": 2.9
+    },
+    {
+      "omraade": "Hvidovre",
+      "ledighed_pct_i_alt": 2.8,
+      "ledighed_pct_maend": 2.8,
+      "ledighed_pct_kvinder": 2.9
+    },
+    {
+      "omraade": "Høje-Taastrup",
+      "ledighed_pct_i_alt": 3.8,
+      "ledighed_pct_maend": 3.6,
+      "ledighed_pct_kvinder": 4.1
+    },
+    {
+      "omraade": "Ishøj",
+      "ledighed_pct_i_alt": 4.7,
+      "ledighed_pct_maend": 4.6,
+      "ledighed_pct_kvinder": 4.8
+    },
+    {
+      "omraade": "Lyngby-Taarbæk",
+      "ledighed_pct_i_alt": 2.4,
+      "ledighed_pct_maend": 2.2,
+      "ledighed_pct_kvinder": 2.6
+    },
+    {
+      "omraade": "Rødovre",
+      "ledighed_pct_i_alt": 3.2,
+      "ledighed_pct_maend": 2.9,
+      "ledighed_pct_kvinder": 3.4
+    },
+    {
+      "omraade": "Vallensbæk",
+      "ledighed_pct_i_alt": 3.2,
+      "ledighed_pct_maend": 2.8,
+      "ledighed_pct_kvinder": 3.6
+    },
+    {
+      "omraade": "Landsdel Nordsjælland",
+      "ledighed_pct_i_alt": 2.2,
+      "ledighed_pct_maend": 2.2,
+      "ledighed_pct_kvinder": 2.3
+    },
+    {
+      "omraade": "Allerød",
+      "ledighed_pct_i_alt": 1.6,
+      "ledighed_pct_maend": 1.6,
+      "ledighed_pct_kvinder": 1.7
+    },
+    {
+      "omraade": "Egedal",
+      "ledighed_pct_i_alt": 2,
+      "ledighed_pct_maend": 2,
+      "ledighed_pct_kvinder": 2.1
+    },
+    {
+      "omraade": "Fredensborg",
+      "ledighed_pct_i_alt": 2.4,
+      "ledighed_pct_maend": 2.4,
+      "ledighed_pct_kvinder": 2.3
+    },
+    {
+      "omraade": "Frederikssund",
+      "ledighed_pct_i_alt": 2.2,
+      "ledighed_pct_maend": 2.1,
+      "ledighed_pct_kvinder": 2.4
+    },
+    {
+      "omraade": "Furesø",
+      "ledighed_pct_i_alt": 2.4,
+      "ledighed_pct_maend": 2.2,
+      "ledighed_pct_kvinder": 2.6
+    },
+    {
+      "omraade": "Gribskov",
+      "ledighed_pct_i_alt": 1.9,
+      "ledighed_pct_maend": 1.8,
+      "ledighed_pct_kvinder": 2.1
+    },
+    {
+      "omraade": "Halsnæs",
+      "ledighed_pct_i_alt": 2.5,
+      "ledighed_pct_maend": 2.5,
+      "ledighed_pct_kvinder": 2.6
+    },
+    {
+      "omraade": "Helsingør",
+      "ledighed_pct_i_alt": 2.6,
+      "ledighed_pct_maend": 2.6,
+      "ledighed_pct_kvinder": 2.6
+    },
+    {
+      "omraade": "Hillerød",
+      "ledighed_pct_i_alt": 2.2,
+      "ledighed_pct_maend": 2.1,
+      "ledighed_pct_kvinder": 2.3
+    },
+    {
+      "omraade": "Hørsholm",
+      "ledighed_pct_i_alt": 2.3,
+      "ledighed_pct_maend": 2.3,
+      "ledighed_pct_kvinder": 2.4
+    },
+    {
+      "omraade": "Rudersdal",
+      "ledighed_pct_i_alt": 2.2,
+      "ledighed_pct_maend": 2.2,
+      "ledighed_pct_kvinder": 2.3
+    },
+    {
+      "omraade": "Landsdel Bornholm",
+      "ledighed_pct_i_alt": 2.1,
+      "ledighed_pct_maend": 1.9,
+      "ledighed_pct_kvinder": 2.4
+    },
+    {
+      "omraade": "Bornholm",
+      "ledighed_pct_i_alt": 2.1,
+      "ledighed_pct_maend": 1.9,
+      "ledighed_pct_kvinder": 2.4
+    },
+    {
+      "omraade": "Region Sjælland",
+      "ledighed_pct_i_alt": 2.6,
+      "ledighed_pct_maend": 2.5,
+      "ledighed_pct_kvinder": 2.7
+    },
+    {
+      "omraade": "Landsdel Østsjælland",
+      "ledighed_pct_i_alt": 2.3,
+      "ledighed_pct_maend": 2.2,
+      "ledighed_pct_kvinder": 2.4
+    },
+    {
+      "omraade": "Greve",
+      "ledighed_pct_i_alt": 2.4,
+      "ledighed_pct_maend": 2.1,
+      "ledighed_pct_kvinder": 2.6
+    },
+    {
+      "omraade": "Køge",
+      "ledighed_pct_i_alt": 2.3,
+      "ledighed_pct_maend": 2.2,
+      "ledighed_pct_kvinder": 2.4
+    },
+    {
+      "omraade": "Lejre",
+      "ledighed_pct_i_alt": 2.1,
+      "ledighed_pct_maend": 2,
+      "ledighed_pct_kvinder": 2.2
+    },
+    {
+      "omraade": "Roskilde",
+      "ledighed_pct_i_alt": 2.4,
+      "ledighed_pct_maend": 2.3,
+      "ledighed_pct_kvinder": 2.5
+    },
+    {
+      "omraade": "Solrød",
+      "ledighed_pct_i_alt": 2,
+      "ledighed_pct_maend": 2,
+      "ledighed_pct_kvinder": 2
+    },
+    {
+      "omraade": "Landsdel Vest- og Sydsjælland",
+      "ledighed_pct_i_alt": 2.7,
+      "ledighed_pct_maend": 2.7,
+      "ledighed_pct_kvinder": 2.8
+    },
+    {
+      "omraade": "Faxe",
+      "ledighed_pct_i_alt": 2.7,
+      "ledighed_pct_maend": 2.4,
+      "ledighed_pct_kvinder": 3.1
+    },
+    {
+      "omraade": "Guldborgsund",
+      "ledighed_pct_i_alt": 3,
+      "ledighed_pct_maend": 3,
+      "ledighed_pct_kvinder": 3
+    },
+    {
+      "omraade": "Holbæk",
+      "ledighed_pct_i_alt": 2.2,
+      "ledighed_pct_maend": 2.1,
+      "ledighed_pct_kvinder": 2.3
+    },
+    {
+      "omraade": "Kalundborg",
+      "ledighed_pct_i_alt": 2,
+      "ledighed_pct_maend": 2,
+      "ledighed_pct_kvinder": 2.1
+    },
+    {
+      "omraade": "Lolland",
+      "ledighed_pct_i_alt": 2.8,
+      "ledighed_pct_maend": 2.8,
+      "ledighed_pct_kvinder": 2.7
+    },
+    {
+      "omraade": "Næstved",
+      "ledighed_pct_i_alt": 2.9,
+      "ledighed_pct_maend": 2.9,
+      "ledighed_pct_kvinder": 2.9
+    },
+    {
+      "omraade": "Odsherred",
+      "ledighed_pct_i_alt": 2.6,
+      "ledighed_pct_maend": 2.6,
+      "ledighed_pct_kvinder": 2.5
+    },
+    {
+      "omraade": "Ringsted",
+      "ledighed_pct_i_alt": 3,
+      "ledighed_pct_maend": 3,
+      "ledighed_pct_kvinder": 3
+    },
+    {
+      "omraade": "Slagelse",
+      "ledighed_pct_i_alt": 3.1,
+      "ledighed_pct_maend": 3.1,
+      "ledighed_pct_kvinder": 3.1
+    },
+    {
+      "omraade": "Sorø",
+      "ledighed_pct_i_alt": 2.5,
+      "ledighed_pct_maend": 2.2,
+      "ledighed_pct_kvinder": 2.8
+    },
+    {
+      "omraade": "Stevns",
+      "ledighed_pct_i_alt": 2.9,
+      "ledighed_pct_maend": 2.6,
+      "ledighed_pct_kvinder": 3.2
+    },
+    {
+      "omraade": "Vordingborg",
+      "ledighed_pct_i_alt": 2.9,
+      "ledighed_pct_maend": 2.9,
+      "ledighed_pct_kvinder": 3
+    },
+    {
+      "omraade": "Region Syddanmark",
+      "ledighed_pct_i_alt": 2.8,
+      "ledighed_pct_maend": 2.7,
+      "ledighed_pct_kvinder": 2.9
+    },
+    {
+      "omraade": "Landsdel Fyn",
+      "ledighed_pct_i_alt": 3.3,
+      "ledighed_pct_maend": 3.2,
+      "ledighed_pct_kvinder": 3.3
+    },
+    {
+      "omraade": "Assens",
+      "ledighed_pct_i_alt": 3,
+      "ledighed_pct_maend": 2.9,
+      "ledighed_pct_kvinder": 3.2
+    },
+    {
+      "omraade": "Faaborg-Midtfyn",
+      "ledighed_pct_i_alt": 2.6,
+      "ledighed_pct_maend": 2.4,
+      "ledighed_pct_kvinder": 2.7
+    },
+    {
+      "omraade": "Kerteminde",
+      "ledighed_pct_i_alt": 3,
+      "ledighed_pct_maend": 3.1,
+      "ledighed_pct_kvinder": 3
+    },
+    {
+      "omraade": "Langeland",
+      "ledighed_pct_i_alt": 3.3,
+      "ledighed_pct_maend": 3.5,
+      "ledighed_pct_kvinder": 3.2
+    },
+    {
+      "omraade": "Middelfart",
+      "ledighed_pct_i_alt": 2.3,
+      "ledighed_pct_maend": 2.2,
+      "ledighed_pct_kvinder": 2.5
+    },
+    {
+      "omraade": "Nordfyns",
+      "ledighed_pct_i_alt": 3.2,
+      "ledighed_pct_maend": 2.9,
+      "ledighed_pct_kvinder": 3.6
+    },
+    {
+      "omraade": "Nyborg",
+      "ledighed_pct_i_alt": 3.2,
+      "ledighed_pct_maend": 3.1,
+      "ledighed_pct_kvinder": 3.4
+    },
+    {
+      "omraade": "Odense",
+      "ledighed_pct_i_alt": 3.8,
+      "ledighed_pct_maend": 3.9,
+      "ledighed_pct_kvinder": 3.7
+    },
+    {
+      "omraade": "Svendborg",
+      "ledighed_pct_i_alt": 2.9,
+      "ledighed_pct_maend": 2.8,
+      "ledighed_pct_kvinder": 3.1
+    },
+    {
+      "omraade": "Ærø",
+      "ledighed_pct_i_alt": 1.8,
+      "ledighed_pct_maend": 1.9,
+      "ledighed_pct_kvinder": 1.7
+    },
+    {
+      "omraade": "Landsdel Sydjylland",
+      "ledighed_pct_i_alt": 2.5,
+      "ledighed_pct_maend": 2.4,
+      "ledighed_pct_kvinder": 2.5
+    },
+    {
+      "omraade": "Billund",
+      "ledighed_pct_i_alt": 1.6,
+      "ledighed_pct_maend": 1.4,
+      "ledighed_pct_kvinder": 1.9
+    },
+    {
+      "omraade": "Esbjerg",
+      "ledighed_pct_i_alt": 2.5,
+      "ledighed_pct_maend": 2.6,
+      "ledighed_pct_kvinder": 2.4
+    },
+    {
+      "omraade": "Fanø",
+      "ledighed_pct_i_alt": 2.3,
+      "ledighed_pct_maend": 2.3,
+      "ledighed_pct_kvinder": 2.4
+    },
+    {
+      "omraade": "Fredericia",
+      "ledighed_pct_i_alt": 3.2,
+      "ledighed_pct_maend": 3.2,
+      "ledighed_pct_kvinder": 3.3
+    },
+    {
+      "omraade": "Haderslev",
+      "ledighed_pct_i_alt": 2.7,
+      "ledighed_pct_maend": 2.6,
+      "ledighed_pct_kvinder": 2.8
+    },
+    {
+      "omraade": "Kolding",
+      "ledighed_pct_i_alt": 2.6,
+      "ledighed_pct_maend": 2.5,
+      "ledighed_pct_kvinder": 2.7
+    },
+    {
+      "omraade": "Sønderborg",
+      "ledighed_pct_i_alt": 2.8,
+      "ledighed_pct_maend": 2.8,
+      "ledighed_pct_kvinder": 2.7
+    },
+    {
+      "omraade": "Tønder",
+      "ledighed_pct_i_alt": 2,
+      "ledighed_pct_maend": 2,
+      "ledighed_pct_kvinder": 2
+    },
+    {
+      "omraade": "Varde",
+      "ledighed_pct_i_alt": 1.9,
+      "ledighed_pct_maend": 1.7,
+      "ledighed_pct_kvinder": 2.1
+    },
+    {
+      "omraade": "Vejen",
+      "ledighed_pct_i_alt": 1.9,
+      "ledighed_pct_maend": 1.6,
+      "ledighed_pct_kvinder": 2.2
+    },
+    {
+      "omraade": "Vejle",
+      "ledighed_pct_i_alt": 2.4,
+      "ledighed_pct_maend": 2.3,
+      "ledighed_pct_kvinder": 2.5
+    },
+    {
+      "omraade": "Aabenraa",
+      "ledighed_pct_i_alt": 2.5,
+      "ledighed_pct_maend": 2.7,
+      "ledighed_pct_kvinder": 2.4
+    },
+    {
+      "omraade": "Region Midtjylland",
+      "ledighed_pct_i_alt": 2.7,
+      "ledighed_pct_maend": 2.5,
+      "ledighed_pct_kvinder": 2.9
+    },
+    {
+      "omraade": "Landsdel Østjylland",
+      "ledighed_pct_i_alt": 3,
+      "ledighed_pct_maend": 2.8,
+      "ledighed_pct_kvinder": 3.1
+    },
+    {
+      "omraade": "Favrskov",
+      "ledighed_pct_i_alt": 2.3,
+      "ledighed_pct_maend": 1.9,
+      "ledighed_pct_kvinder": 2.7
+    },
+    {
+      "omraade": "Hedensted",
+      "ledighed_pct_i_alt": 2.1,
+      "ledighed_pct_maend": 1.9,
+      "ledighed_pct_kvinder": 2.3
+    },
+    {
+      "omraade": "Horsens",
+      "ledighed_pct_i_alt": 2.7,
+      "ledighed_pct_maend": 2.6,
+      "ledighed_pct_kvinder": 2.8
+    },
+    {
+      "omraade": "Norddjurs",
+      "ledighed_pct_i_alt": 2.8,
+      "ledighed_pct_maend": 2.7,
+      "ledighed_pct_kvinder": 2.8
+    },
+    {
+      "omraade": "Odder",
+      "ledighed_pct_i_alt": 2.6,
+      "ledighed_pct_maend": 2.2,
+      "ledighed_pct_kvinder": 3
+    },
+    {
+      "omraade": "Randers",
+      "ledighed_pct_i_alt": 3.1,
+      "ledighed_pct_maend": 3.2,
+      "ledighed_pct_kvinder": 3
+    },
+    {
+      "omraade": "Samsø",
+      "ledighed_pct_i_alt": 2.4,
+      "ledighed_pct_maend": 1.9,
+      "ledighed_pct_kvinder": 3
+    },
+    {
+      "omraade": "Silkeborg",
+      "ledighed_pct_i_alt": 2.4,
+      "ledighed_pct_maend": 2.2,
+      "ledighed_pct_kvinder": 2.6
+    },
+    {
+      "omraade": "Skanderborg",
+      "ledighed_pct_i_alt": 2,
+      "ledighed_pct_maend": 1.8,
+      "ledighed_pct_kvinder": 2.4
+    },
+    {
+      "omraade": "Syddjurs",
+      "ledighed_pct_i_alt": 2.7,
+      "ledighed_pct_maend": 2.6,
+      "ledighed_pct_kvinder": 2.8
+    },
+    {
+      "omraade": "Aarhus",
+      "ledighed_pct_i_alt": 3.5,
+      "ledighed_pct_maend": 3.5,
+      "ledighed_pct_kvinder": 3.6
+    },
+    {
+      "omraade": "Landsdel Vestjylland",
+      "ledighed_pct_i_alt": 2.1,
+      "ledighed_pct_maend": 1.9,
+      "ledighed_pct_kvinder": 2.3
+    },
+    {
+      "omraade": "Herning",
+      "ledighed_pct_i_alt": 2.2,
+      "ledighed_pct_maend": 1.9,
+      "ledighed_pct_kvinder": 2.6
+    },
+    {
+      "omraade": "Holstebro",
+      "ledighed_pct_i_alt": 1.7,
+      "ledighed_pct_maend": 1.5,
+      "ledighed_pct_kvinder": 2
+    },
+    {
+      "omraade": "Ikast-Brande",
+      "ledighed_pct_i_alt": 2.4,
+      "ledighed_pct_maend": 2,
+      "ledighed_pct_kvinder": 2.7
+    },
+    {
+      "omraade": "Lemvig",
+      "ledighed_pct_i_alt": 1.7,
+      "ledighed_pct_maend": 1.9,
+      "ledighed_pct_kvinder": 1.5
+    },
+    {
+      "omraade": "Ringkøbing-Skjern",
+      "ledighed_pct_i_alt": 1.6,
+      "ledighed_pct_maend": 1.4,
+      "ledighed_pct_kvinder": 1.9
+    },
+    {
+      "omraade": "Skive",
+      "ledighed_pct_i_alt": 1.8,
+      "ledighed_pct_maend": 1.8,
+      "ledighed_pct_kvinder": 1.8
+    },
+    {
+      "omraade": "Struer",
+      "ledighed_pct_i_alt": 2.5,
+      "ledighed_pct_maend": 2.5,
+      "ledighed_pct_kvinder": 2.5
+    },
+    {
+      "omraade": "Viborg",
+      "ledighed_pct_i_alt": 2.5,
+      "ledighed_pct_maend": 2.3,
+      "ledighed_pct_kvinder": 2.8
+    },
+    {
+      "omraade": "Region Nordjylland",
+      "ledighed_pct_i_alt": 3,
+      "ledighed_pct_maend": 2.9,
+      "ledighed_pct_kvinder": 3
+    },
+    {
+      "omraade": "Landsdel Nordjylland",
+      "ledighed_pct_i_alt": 3,
+      "ledighed_pct_maend": 2.9,
+      "ledighed_pct_kvinder": 3
+    },
+    {
+      "omraade": "Brønderslev",
+      "ledighed_pct_i_alt": 2.6,
+      "ledighed_pct_maend": 2.5,
+      "ledighed_pct_kvinder": 2.6
+    },
+    {
+      "omraade": "Frederikshavn",
+      "ledighed_pct_i_alt": 3.3,
+      "ledighed_pct_maend": 3.2,
+      "ledighed_pct_kvinder": 3.3
+    },
+    {
+      "omraade": "Hjørring",
+      "ledighed_pct_i_alt": 2.7,
+      "ledighed_pct_maend": 2.7,
+      "ledighed_pct_kvinder": 2.8
+    },
+    {
+      "omraade": "Jammerbugt",
+      "ledighed_pct_i_alt": 2.6,
+      "ledighed_pct_maend": 2.5,
+      "ledighed_pct_kvinder": 2.7
+    },
+    {
+      "omraade": "Læsø",
+      "ledighed_pct_i_alt": 4.6,
+      "ledighed_pct_maend": 5.4,
+      "ledighed_pct_kvinder": 3.8
+    },
+    {
+      "omraade": "Mariagerfjord",
+      "ledighed_pct_i_alt": 2.7,
+      "ledighed_pct_maend": 2.5,
+      "ledighed_pct_kvinder": 3
+    },
+    {
+      "omraade": "Morsø",
+      "ledighed_pct_i_alt": 2.2,
+      "ledighed_pct_maend": 2.1,
+      "ledighed_pct_kvinder": 2.3
+    },
+    {
+      "omraade": "Rebild",
+      "ledighed_pct_i_alt": 2.3,
+      "ledighed_pct_maend": 2,
+      "ledighed_pct_kvinder": 2.5
+    },
+    {
+      "omraade": "Thisted",
+      "ledighed_pct_i_alt": 2.1,
+      "ledighed_pct_maend": 1.9,
+      "ledighed_pct_kvinder": 2.3
+    },
+    {
+      "omraade": "Vesthimmerlands",
+      "ledighed_pct_i_alt": 2.6,
+      "ledighed_pct_maend": 2.6,
+      "ledighed_pct_kvinder": 2.7
+    },
+    {
+      "omraade": "Aalborg",
+      "ledighed_pct_i_alt": 3.4,
+      "ledighed_pct_maend": 3.4,
+      "ledighed_pct_kvinder": 3.4
+    },
+    {
+      "omraade": "Uoplyst kommune",
+      "ledighed_pct_i_alt": 0,
+      "ledighed_pct_maend": 0,
+      "ledighed_pct_kvinder": 0
+    },
+    {
+      "omraade": "Udlandet",
+      "ledighed_pct_i_alt": 0,
+      "ledighed_pct_maend": 0,
+      "ledighed_pct_kvinder": 0
+    }
+  ],
+  "meta": {
+    "title": "Ledighed i procent pr. kommune og region 2025 - Free Download",
+    "description": "Fuldtidsledige i procent af arbejdsstyrken i 2025 for hele landet, regioner, landsdele og alle kommuner, i alt og fordelt på mænd og kvinder (Danmarks Statistik, AULP01). Contains 117 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ledighed i procent pr. kommune og region 2025 | ListBase",
+    "seo_description": "Download Ledighed i procent pr. kommune og region 2025 — 117 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 117 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/AULP01"
+    ]
+  }
+}

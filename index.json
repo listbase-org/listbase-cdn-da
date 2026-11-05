@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-05T02:19:31.589Z",
-  "total_datasets": 476,
-  "total_records": 238442,
+  "generated": "2026-11-05T02:19:39.325Z",
+  "total_datasets": 477,
+  "total_records": 238559,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -11724,6 +11724,31 @@
         "xlsx": {
           "name": "da-kirkelige-handlinger-folkekirken_DA.xlsx",
           "size": 9182
+        }
+      }
+    },
+    {
+      "id": "da-ledighed-pr-kommune-2025",
+      "name": "Ledighed i procent pr. kommune og region 2025",
+      "category": "society",
+      "record_count": 117,
+      "columns": [
+        "omraade",
+        "ledighed_pct_i_alt",
+        "ledighed_pct_maend",
+        "ledighed_pct_kvinder"
+      ],
+      "source": "https://www.statistikbanken.dk/AULP01",
+      "updated": "2026-11",
+      "size": 18501,
+      "files": {
+        "csv": {
+          "name": "da-ledighed-pr-kommune-2025_DA.csv",
+          "size": 3608
+        },
+        "xlsx": {
+          "name": "da-ledighed-pr-kommune-2025_DA.xlsx",
+          "size": 9883
         }
       }
     },
