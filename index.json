@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-05T02:19:21.188Z",
-  "total_datasets": 475,
-  "total_records": 238344,
+  "generated": "2026-11-05T02:19:31.589Z",
+  "total_datasets": 476,
+  "total_records": 238442,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -4338,6 +4338,43 @@
         "xlsx": {
           "name": "da-folketingsvalget-2026-kommuner_DA.xlsx",
           "size": 14964
+        }
+      }
+    },
+    {
+      "id": "da-kommunalvalget-2025-stemmer-pr-kommune",
+      "name": "Kommunalvalget 2025 – stemmer pr. parti og kommune",
+      "category": "politics",
+      "record_count": 98,
+      "columns": [
+        "kommune",
+        "vaelgere",
+        "gyldige_stemmer",
+        "parti_a",
+        "parti_b",
+        "parti_c",
+        "parti_f",
+        "parti_i",
+        "parti_m",
+        "parti_o",
+        "parti_s",
+        "parti_v",
+        "parti_ae",
+        "parti_oe",
+        "parti_aa",
+        "andre_lister"
+      ],
+      "source": "https://www.statistikbanken.dk/KV25TOTA",
+      "updated": "2026-11",
+      "size": 42346,
+      "files": {
+        "csv": {
+          "name": "da-kommunalvalget-2025-stemmer-pr-kommune_DA.csv",
+          "size": 11491
+        },
+        "xlsx": {
+          "name": "da-kommunalvalget-2025-stemmer-pr-kommune_DA.xlsx",
+          "size": 15946
         }
       }
     },
