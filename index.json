@@ -1,12 +1,12 @@
 {
   "lang": "da",
-  "generated": "2026-11-05T02:19:02.910Z",
-  "total_datasets": 473,
-  "total_records": 238294,
+  "generated": "2026-11-05T02:19:12.108Z",
+  "total_datasets": 474,
+  "total_records": 238324,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -124,6 +124,31 @@
         "xlsx": {
           "name": "da-animalske-landbrugsprodukter_DA.xlsx",
           "size": 7481
+        }
+      }
+    },
+    {
+      "id": "da-hoestresultat-afgroeder-2024",
+      "name": "Høstresultat efter afgrøde 2024",
+      "category": "agriculture",
+      "record_count": 30,
+      "columns": [
+        "afgroede",
+        "areal_1000_ha",
+        "udbytte_hkg_pr_ha",
+        "produktion_mio_kg"
+      ],
+      "source": "https://www.statistikbanken.dk/HST77",
+      "updated": "2026-11",
+      "size": 6097,
+      "files": {
+        "csv": {
+          "name": "da-hoestresultat-afgroeder-2024_DA.csv",
+          "size": 1356
+        },
+        "xlsx": {
+          "name": "da-hoestresultat-afgroeder-2024_DA.xlsx",
+          "size": 7907
         }
       }
     },

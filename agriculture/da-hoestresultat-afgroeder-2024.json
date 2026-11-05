@@ -1,0 +1,226 @@
+{
+  "id": "da-hoestresultat-afgroeder-2024",
+  "name": "Høstresultat efter afgrøde 2024",
+  "title": "Høstresultat efter afgrøde 2024",
+  "description": "Areal, gennemsnitsudbytte og produktion for korn, raps, bælgsæd, kartofler, roer og grovfoder i Danmark i høståret 2024 ifølge Danmarks Statistik (HST77).",
+  "category": "agriculture",
+  "source": "https://www.statistikbanken.dk/HST77",
+  "source_url": "https://www.statistikbanken.dk/HST77",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "afgroede",
+      "label": "Afgroede",
+      "type": "string"
+    },
+    {
+      "key": "areal_1000_ha",
+      "label": "Areal 1000 Ha",
+      "type": "number"
+    },
+    {
+      "key": "udbytte_hkg_pr_ha",
+      "label": "Udbytte Hkg Pr Ha",
+      "type": "number"
+    },
+    {
+      "key": "produktion_mio_kg",
+      "label": "Produktion Mio Kg",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "afgroede": "KORN (KERNE) I ALT",
+      "areal_1000_ha": 1229.6,
+      "udbytte_hkg_pr_ha": 61.7,
+      "produktion_mio_kg": 7584.6
+    },
+    {
+      "afgroede": "Vinterhvede",
+      "areal_1000_ha": 464.6,
+      "udbytte_hkg_pr_ha": 72,
+      "produktion_mio_kg": 3344.4
+    },
+    {
+      "afgroede": "Vårhvede",
+      "areal_1000_ha": 11,
+      "udbytte_hkg_pr_ha": 39.3,
+      "produktion_mio_kg": 43
+    },
+    {
+      "afgroede": "Rug",
+      "areal_1000_ha": 112,
+      "udbytte_hkg_pr_ha": 58.7,
+      "produktion_mio_kg": 657.4
+    },
+    {
+      "afgroede": "Triticale",
+      "areal_1000_ha": 3.8,
+      "udbytte_hkg_pr_ha": 63.3,
+      "produktion_mio_kg": 23.9
+    },
+    {
+      "afgroede": "Vinterbyg",
+      "areal_1000_ha": 58.5,
+      "udbytte_hkg_pr_ha": 65,
+      "produktion_mio_kg": 380.3
+    },
+    {
+      "afgroede": "Vårbyg",
+      "areal_1000_ha": 512.9,
+      "udbytte_hkg_pr_ha": 54.6,
+      "produktion_mio_kg": 2797.8
+    },
+    {
+      "afgroede": "Havre, blandsæd og andet korn",
+      "areal_1000_ha": 57.7,
+      "udbytte_hkg_pr_ha": 47.5,
+      "produktion_mio_kg": 274.3
+    },
+    {
+      "afgroede": "Majs til modenhed",
+      "areal_1000_ha": 9.1,
+      "udbytte_hkg_pr_ha": 69.5,
+      "produktion_mio_kg": 63.4
+    },
+    {
+      "afgroede": "RAPS I ALT",
+      "areal_1000_ha": 180.8,
+      "udbytte_hkg_pr_ha": 38.6,
+      "produktion_mio_kg": 696.9
+    },
+    {
+      "afgroede": "Vinterraps",
+      "areal_1000_ha": "",
+      "udbytte_hkg_pr_ha": "",
+      "produktion_mio_kg": ""
+    },
+    {
+      "afgroede": "Vårraps",
+      "areal_1000_ha": "",
+      "udbytte_hkg_pr_ha": "",
+      "produktion_mio_kg": ""
+    },
+    {
+      "afgroede": "BÆLGSÆD I ALT",
+      "areal_1000_ha": 31.1,
+      "udbytte_hkg_pr_ha": 36.1,
+      "produktion_mio_kg": 112.3
+    },
+    {
+      "afgroede": "Markærter",
+      "areal_1000_ha": 12.7,
+      "udbytte_hkg_pr_ha": 30.1,
+      "produktion_mio_kg": 38.1
+    },
+    {
+      "afgroede": "Hestebønner",
+      "areal_1000_ha": 18.4,
+      "udbytte_hkg_pr_ha": 40.2,
+      "produktion_mio_kg": 74.2
+    },
+    {
+      "afgroede": "HALM I ALT, DER ER BJÆRGET",
+      "areal_1000_ha": 972.4,
+      "udbytte_hkg_pr_ha": 35.1,
+      "produktion_mio_kg": 3412.1
+    },
+    {
+      "afgroede": "Halm af korn, der er bjærget",
+      "areal_1000_ha": 926.9,
+      "udbytte_hkg_pr_ha": 35.2,
+      "produktion_mio_kg": 3264.1
+    },
+    {
+      "afgroede": "RODFRUGTER (ROD) I ALT",
+      "areal_1000_ha": 104.9,
+      "udbytte_hkg_pr_ha": 570,
+      "produktion_mio_kg": 5978.1
+    },
+    {
+      "afgroede": "Læggekartofler under kontrol",
+      "areal_1000_ha": 9.6,
+      "udbytte_hkg_pr_ha": 312.3,
+      "produktion_mio_kg": 301.1
+    },
+    {
+      "afgroede": "Kartofler til melproduktion",
+      "areal_1000_ha": 50.2,
+      "udbytte_hkg_pr_ha": 499.4,
+      "produktion_mio_kg": 2504.8
+    },
+    {
+      "afgroede": "Spisekartofler",
+      "areal_1000_ha": 5.6,
+      "udbytte_hkg_pr_ha": 339.6,
+      "produktion_mio_kg": 191.7
+    },
+    {
+      "afgroede": "Sukkerroer til fabrik",
+      "areal_1000_ha": 34.9,
+      "udbytte_hkg_pr_ha": 741.7,
+      "produktion_mio_kg": 2587
+    },
+    {
+      "afgroede": "Fodersukkerroer og anden rodfrugt til foder",
+      "areal_1000_ha": 4.6,
+      "udbytte_hkg_pr_ha": 863.2,
+      "produktion_mio_kg": 393.5
+    },
+    {
+      "afgroede": "GRÆS, GRØNTFODER OG EFTERSLÆT I ALT",
+      "areal_1000_ha": 801.8,
+      "udbytte_hkg_pr_ha": 278,
+      "produktion_mio_kg": 22287
+    },
+    {
+      "afgroede": "Lucerne",
+      "areal_1000_ha": 0.4,
+      "udbytte_hkg_pr_ha": 633.7,
+      "produktion_mio_kg": 26.5
+    },
+    {
+      "afgroede": "Majs til ensilering",
+      "areal_1000_ha": 182.7,
+      "udbytte_hkg_pr_ha": 390.7,
+      "produktion_mio_kg": 7137.6
+    },
+    {
+      "afgroede": "Korn til ensilering",
+      "areal_1000_ha": 40.7,
+      "udbytte_hkg_pr_ha": 210.7,
+      "produktion_mio_kg": 858
+    },
+    {
+      "afgroede": "Græs og kløver i omdriften",
+      "areal_1000_ha": 265.7,
+      "udbytte_hkg_pr_ha": 454.3,
+      "produktion_mio_kg": 12067.6
+    },
+    {
+      "afgroede": "Græs uden for omdriften",
+      "areal_1000_ha": 243.6,
+      "udbytte_hkg_pr_ha": 74.8,
+      "produktion_mio_kg": 1822.2
+    },
+    {
+      "afgroede": "Efterslæt efter korn og helsæd",
+      "areal_1000_ha": 68.6,
+      "udbytte_hkg_pr_ha": 54.7,
+      "produktion_mio_kg": 375.1
+    }
+  ],
+  "meta": {
+    "title": "Høstresultat efter afgrøde 2024 - Free Download",
+    "description": "Areal, gennemsnitsudbytte og produktion for korn, raps, bælgsæd, kartofler, roer og grovfoder i Danmark i høståret 2024 ifølge Danmarks Statistik (HST77). Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Høstresultat efter afgrøde 2024 | ListBase",
+    "seo_description": "Download Høstresultat efter afgrøde 2024 — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/HST77"
+    ]
+  }
+}
