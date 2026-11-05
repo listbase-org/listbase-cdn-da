@@ -1,0 +1,671 @@
+{
+  "id": "da-forbrugerprisindeks-inflation-1900",
+  "name": "Forbrugerprisindeks og årlig inflation i Danmark siden 1900",
+  "title": "Forbrugerprisindeks og årlig inflation i Danmark siden 1900",
+  "description": "Årsgennemsnit af forbrugerprisindekset (1900 = 100) og den årlige stigning i procent (inflation) i Danmark for hvert år fra 1900 ifølge Danmarks Statistik (PRIS8 og PRIS9).",
+  "category": "economy",
+  "source": "https://www.statistikbanken.dk/PRIS9",
+  "source_url": "https://www.statistikbanken.dk/PRIS9",
+  "updated": "2026-11",
+  "record_count": 126,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "forbrugerprisindeks_1900_100",
+      "label": "Forbrugerprisindeks 1900 100",
+      "type": "number"
+    },
+    {
+      "key": "aarlig_inflation_pct",
+      "label": "Aarlig Inflation Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1900,
+      "forbrugerprisindeks_1900_100": 100,
+      "aarlig_inflation_pct": ""
+    },
+    {
+      "aar": 1901,
+      "forbrugerprisindeks_1900_100": 100,
+      "aarlig_inflation_pct": -0.2
+    },
+    {
+      "aar": 1902,
+      "forbrugerprisindeks_1900_100": 101,
+      "aarlig_inflation_pct": 1.3
+    },
+    {
+      "aar": 1903,
+      "forbrugerprisindeks_1900_100": 101,
+      "aarlig_inflation_pct": -0.2
+    },
+    {
+      "aar": 1904,
+      "forbrugerprisindeks_1900_100": 102,
+      "aarlig_inflation_pct": 1.3
+    },
+    {
+      "aar": 1905,
+      "forbrugerprisindeks_1900_100": 102,
+      "aarlig_inflation_pct": -0.5
+    },
+    {
+      "aar": 1906,
+      "forbrugerprisindeks_1900_100": 103,
+      "aarlig_inflation_pct": 0.7
+    },
+    {
+      "aar": 1907,
+      "forbrugerprisindeks_1900_100": 106,
+      "aarlig_inflation_pct": 3.5
+    },
+    {
+      "aar": 1908,
+      "forbrugerprisindeks_1900_100": 107,
+      "aarlig_inflation_pct": 0.9
+    },
+    {
+      "aar": 1909,
+      "forbrugerprisindeks_1900_100": 108,
+      "aarlig_inflation_pct": 0.7
+    },
+    {
+      "aar": 1910,
+      "forbrugerprisindeks_1900_100": 109,
+      "aarlig_inflation_pct": 0.7
+    },
+    {
+      "aar": 1911,
+      "forbrugerprisindeks_1900_100": 109,
+      "aarlig_inflation_pct": 0.2
+    },
+    {
+      "aar": 1912,
+      "forbrugerprisindeks_1900_100": 113,
+      "aarlig_inflation_pct": 3.8
+    },
+    {
+      "aar": 1913,
+      "forbrugerprisindeks_1900_100": 116,
+      "aarlig_inflation_pct": 2.6
+    },
+    {
+      "aar": 1914,
+      "forbrugerprisindeks_1900_100": 119,
+      "aarlig_inflation_pct": 2.3
+    },
+    {
+      "aar": 1915,
+      "forbrugerprisindeks_1900_100": 140,
+      "aarlig_inflation_pct": 18
+    },
+    {
+      "aar": 1916,
+      "forbrugerprisindeks_1900_100": 165,
+      "aarlig_inflation_pct": 17.8
+    },
+    {
+      "aar": 1917,
+      "forbrugerprisindeks_1900_100": 191,
+      "aarlig_inflation_pct": 15.8
+    },
+    {
+      "aar": 1918,
+      "forbrugerprisindeks_1900_100": 223,
+      "aarlig_inflation_pct": 16.8
+    },
+    {
+      "aar": 1919,
+      "forbrugerprisindeks_1900_100": 264,
+      "aarlig_inflation_pct": 18.6
+    },
+    {
+      "aar": 1920,
+      "forbrugerprisindeks_1900_100": 315,
+      "aarlig_inflation_pct": 19.3
+    },
+    {
+      "aar": 1921,
+      "forbrugerprisindeks_1900_100": 268,
+      "aarlig_inflation_pct": -15
+    },
+    {
+      "aar": 1922,
+      "forbrugerprisindeks_1900_100": 228,
+      "aarlig_inflation_pct": -15
+    },
+    {
+      "aar": 1923,
+      "forbrugerprisindeks_1900_100": 237,
+      "aarlig_inflation_pct": 4.2
+    },
+    {
+      "aar": 1924,
+      "forbrugerprisindeks_1900_100": 251,
+      "aarlig_inflation_pct": 6
+    },
+    {
+      "aar": 1925,
+      "forbrugerprisindeks_1900_100": 244,
+      "aarlig_inflation_pct": -2.8
+    },
+    {
+      "aar": 1926,
+      "forbrugerprisindeks_1900_100": 207,
+      "aarlig_inflation_pct": -15
+    },
+    {
+      "aar": 1927,
+      "forbrugerprisindeks_1900_100": 200,
+      "aarlig_inflation_pct": -3.4
+    },
+    {
+      "aar": 1928,
+      "forbrugerprisindeks_1900_100": 199,
+      "aarlig_inflation_pct": -0.6
+    },
+    {
+      "aar": 1929,
+      "forbrugerprisindeks_1900_100": 198,
+      "aarlig_inflation_pct": -0.6
+    },
+    {
+      "aar": 1930,
+      "forbrugerprisindeks_1900_100": 188,
+      "aarlig_inflation_pct": -4.8
+    },
+    {
+      "aar": 1931,
+      "forbrugerprisindeks_1900_100": 178,
+      "aarlig_inflation_pct": -5.7
+    },
+    {
+      "aar": 1932,
+      "forbrugerprisindeks_1900_100": 177,
+      "aarlig_inflation_pct": -0.7
+    },
+    {
+      "aar": 1933,
+      "forbrugerprisindeks_1900_100": 181,
+      "aarlig_inflation_pct": 2.7
+    },
+    {
+      "aar": 1934,
+      "forbrugerprisindeks_1900_100": 188,
+      "aarlig_inflation_pct": 3.9
+    },
+    {
+      "aar": 1935,
+      "forbrugerprisindeks_1900_100": 196,
+      "aarlig_inflation_pct": 3.8
+    },
+    {
+      "aar": 1936,
+      "forbrugerprisindeks_1900_100": 198,
+      "aarlig_inflation_pct": 1.2
+    },
+    {
+      "aar": 1937,
+      "forbrugerprisindeks_1900_100": 205,
+      "aarlig_inflation_pct": 3.6
+    },
+    {
+      "aar": 1938,
+      "forbrugerprisindeks_1900_100": 207,
+      "aarlig_inflation_pct": 1.2
+    },
+    {
+      "aar": 1939,
+      "forbrugerprisindeks_1900_100": 213,
+      "aarlig_inflation_pct": 2.9
+    },
+    {
+      "aar": 1940,
+      "forbrugerprisindeks_1900_100": 266,
+      "aarlig_inflation_pct": 24.4
+    },
+    {
+      "aar": 1941,
+      "forbrugerprisindeks_1900_100": 305,
+      "aarlig_inflation_pct": 14.7
+    },
+    {
+      "aar": 1942,
+      "forbrugerprisindeks_1900_100": 315,
+      "aarlig_inflation_pct": 3.5
+    },
+    {
+      "aar": 1943,
+      "forbrugerprisindeks_1900_100": 318,
+      "aarlig_inflation_pct": 0.8
+    },
+    {
+      "aar": 1944,
+      "forbrugerprisindeks_1900_100": 325,
+      "aarlig_inflation_pct": 2.2
+    },
+    {
+      "aar": 1945,
+      "forbrugerprisindeks_1900_100": 328,
+      "aarlig_inflation_pct": 1.1
+    },
+    {
+      "aar": 1946,
+      "forbrugerprisindeks_1900_100": 326,
+      "aarlig_inflation_pct": -0.7
+    },
+    {
+      "aar": 1947,
+      "forbrugerprisindeks_1900_100": 335,
+      "aarlig_inflation_pct": 2.9
+    },
+    {
+      "aar": 1948,
+      "forbrugerprisindeks_1900_100": 344,
+      "aarlig_inflation_pct": 2.5
+    },
+    {
+      "aar": 1949,
+      "forbrugerprisindeks_1900_100": 352,
+      "aarlig_inflation_pct": 2.4
+    },
+    {
+      "aar": 1950,
+      "forbrugerprisindeks_1900_100": 384,
+      "aarlig_inflation_pct": 9.1
+    },
+    {
+      "aar": 1951,
+      "forbrugerprisindeks_1900_100": 429,
+      "aarlig_inflation_pct": 11.7
+    },
+    {
+      "aar": 1952,
+      "forbrugerprisindeks_1900_100": 439,
+      "aarlig_inflation_pct": 2.2
+    },
+    {
+      "aar": 1953,
+      "forbrugerprisindeks_1900_100": 436,
+      "aarlig_inflation_pct": -0.5
+    },
+    {
+      "aar": 1954,
+      "forbrugerprisindeks_1900_100": 444,
+      "aarlig_inflation_pct": 1.9
+    },
+    {
+      "aar": 1955,
+      "forbrugerprisindeks_1900_100": 474,
+      "aarlig_inflation_pct": 6.7
+    },
+    {
+      "aar": 1956,
+      "forbrugerprisindeks_1900_100": 498,
+      "aarlig_inflation_pct": 5
+    },
+    {
+      "aar": 1957,
+      "forbrugerprisindeks_1900_100": 504,
+      "aarlig_inflation_pct": 1.2
+    },
+    {
+      "aar": 1958,
+      "forbrugerprisindeks_1900_100": 509,
+      "aarlig_inflation_pct": 0.9
+    },
+    {
+      "aar": 1959,
+      "forbrugerprisindeks_1900_100": 519,
+      "aarlig_inflation_pct": 2.1
+    },
+    {
+      "aar": 1960,
+      "forbrugerprisindeks_1900_100": 531,
+      "aarlig_inflation_pct": 2.3
+    },
+    {
+      "aar": 1961,
+      "forbrugerprisindeks_1900_100": 555,
+      "aarlig_inflation_pct": 4.5
+    },
+    {
+      "aar": 1962,
+      "forbrugerprisindeks_1900_100": 591,
+      "aarlig_inflation_pct": 6.6
+    },
+    {
+      "aar": 1963,
+      "forbrugerprisindeks_1900_100": 622,
+      "aarlig_inflation_pct": 5.2
+    },
+    {
+      "aar": 1964,
+      "forbrugerprisindeks_1900_100": 645,
+      "aarlig_inflation_pct": 3.6
+    },
+    {
+      "aar": 1965,
+      "forbrugerprisindeks_1900_100": 686,
+      "aarlig_inflation_pct": 6.4
+    },
+    {
+      "aar": 1966,
+      "forbrugerprisindeks_1900_100": 733,
+      "aarlig_inflation_pct": 6.8
+    },
+    {
+      "aar": 1967,
+      "forbrugerprisindeks_1900_100": 787,
+      "aarlig_inflation_pct": 7.4
+    },
+    {
+      "aar": 1968,
+      "forbrugerprisindeks_1900_100": 850,
+      "aarlig_inflation_pct": 8
+    },
+    {
+      "aar": 1969,
+      "forbrugerprisindeks_1900_100": 880,
+      "aarlig_inflation_pct": 3.5
+    },
+    {
+      "aar": 1970,
+      "forbrugerprisindeks_1900_100": 937,
+      "aarlig_inflation_pct": 6.5
+    },
+    {
+      "aar": 1971,
+      "forbrugerprisindeks_1900_100": 992,
+      "aarlig_inflation_pct": 5.9
+    },
+    {
+      "aar": 1972,
+      "forbrugerprisindeks_1900_100": 1058,
+      "aarlig_inflation_pct": 6.6
+    },
+    {
+      "aar": 1973,
+      "forbrugerprisindeks_1900_100": 1156,
+      "aarlig_inflation_pct": 9.3
+    },
+    {
+      "aar": 1974,
+      "forbrugerprisindeks_1900_100": 1333,
+      "aarlig_inflation_pct": 15.3
+    },
+    {
+      "aar": 1975,
+      "forbrugerprisindeks_1900_100": 1461,
+      "aarlig_inflation_pct": 9.6
+    },
+    {
+      "aar": 1976,
+      "forbrugerprisindeks_1900_100": 1592,
+      "aarlig_inflation_pct": 9
+    },
+    {
+      "aar": 1977,
+      "forbrugerprisindeks_1900_100": 1769,
+      "aarlig_inflation_pct": 11.1
+    },
+    {
+      "aar": 1978,
+      "forbrugerprisindeks_1900_100": 1946,
+      "aarlig_inflation_pct": 10
+    },
+    {
+      "aar": 1979,
+      "forbrugerprisindeks_1900_100": 2133,
+      "aarlig_inflation_pct": 9.6
+    },
+    {
+      "aar": 1980,
+      "forbrugerprisindeks_1900_100": 2396,
+      "aarlig_inflation_pct": 12.3
+    },
+    {
+      "aar": 1981,
+      "forbrugerprisindeks_1900_100": 2677,
+      "aarlig_inflation_pct": 11.7
+    },
+    {
+      "aar": 1982,
+      "forbrugerprisindeks_1900_100": 2948,
+      "aarlig_inflation_pct": 10.1
+    },
+    {
+      "aar": 1983,
+      "forbrugerprisindeks_1900_100": 3152,
+      "aarlig_inflation_pct": 6.9
+    },
+    {
+      "aar": 1984,
+      "forbrugerprisindeks_1900_100": 3350,
+      "aarlig_inflation_pct": 6.3
+    },
+    {
+      "aar": 1985,
+      "forbrugerprisindeks_1900_100": 3507,
+      "aarlig_inflation_pct": 4.7
+    },
+    {
+      "aar": 1986,
+      "forbrugerprisindeks_1900_100": 3636,
+      "aarlig_inflation_pct": 3.7
+    },
+    {
+      "aar": 1987,
+      "forbrugerprisindeks_1900_100": 3782,
+      "aarlig_inflation_pct": 4
+    },
+    {
+      "aar": 1988,
+      "forbrugerprisindeks_1900_100": 3953,
+      "aarlig_inflation_pct": 4.5
+    },
+    {
+      "aar": 1989,
+      "forbrugerprisindeks_1900_100": 4142,
+      "aarlig_inflation_pct": 4.8
+    },
+    {
+      "aar": 1990,
+      "forbrugerprisindeks_1900_100": 4251,
+      "aarlig_inflation_pct": 2.6
+    },
+    {
+      "aar": 1991,
+      "forbrugerprisindeks_1900_100": 4353,
+      "aarlig_inflation_pct": 2.4
+    },
+    {
+      "aar": 1992,
+      "forbrugerprisindeks_1900_100": 4445,
+      "aarlig_inflation_pct": 2.1
+    },
+    {
+      "aar": 1993,
+      "forbrugerprisindeks_1900_100": 4500,
+      "aarlig_inflation_pct": 1.3
+    },
+    {
+      "aar": 1994,
+      "forbrugerprisindeks_1900_100": 4590,
+      "aarlig_inflation_pct": 2
+    },
+    {
+      "aar": 1995,
+      "forbrugerprisindeks_1900_100": 4686,
+      "aarlig_inflation_pct": 2.1
+    },
+    {
+      "aar": 1996,
+      "forbrugerprisindeks_1900_100": 4785,
+      "aarlig_inflation_pct": 2.1
+    },
+    {
+      "aar": 1997,
+      "forbrugerprisindeks_1900_100": 4890,
+      "aarlig_inflation_pct": 2.2
+    },
+    {
+      "aar": 1998,
+      "forbrugerprisindeks_1900_100": 4980,
+      "aarlig_inflation_pct": 1.8
+    },
+    {
+      "aar": 1999,
+      "forbrugerprisindeks_1900_100": 5104,
+      "aarlig_inflation_pct": 2.5
+    },
+    {
+      "aar": 2000,
+      "forbrugerprisindeks_1900_100": 5253,
+      "aarlig_inflation_pct": 2.9
+    },
+    {
+      "aar": 2001,
+      "forbrugerprisindeks_1900_100": 5377,
+      "aarlig_inflation_pct": 2.4
+    },
+    {
+      "aar": 2002,
+      "forbrugerprisindeks_1900_100": 5507,
+      "aarlig_inflation_pct": 2.4
+    },
+    {
+      "aar": 2003,
+      "forbrugerprisindeks_1900_100": 5622,
+      "aarlig_inflation_pct": 2.1
+    },
+    {
+      "aar": 2004,
+      "forbrugerprisindeks_1900_100": 5687,
+      "aarlig_inflation_pct": 1.2
+    },
+    {
+      "aar": 2005,
+      "forbrugerprisindeks_1900_100": 5790,
+      "aarlig_inflation_pct": 1.8
+    },
+    {
+      "aar": 2006,
+      "forbrugerprisindeks_1900_100": 5900,
+      "aarlig_inflation_pct": 1.9
+    },
+    {
+      "aar": 2007,
+      "forbrugerprisindeks_1900_100": 6001,
+      "aarlig_inflation_pct": 1.7
+    },
+    {
+      "aar": 2008,
+      "forbrugerprisindeks_1900_100": 6205,
+      "aarlig_inflation_pct": 3.4
+    },
+    {
+      "aar": 2009,
+      "forbrugerprisindeks_1900_100": 6287,
+      "aarlig_inflation_pct": 1.3
+    },
+    {
+      "aar": 2010,
+      "forbrugerprisindeks_1900_100": 6432,
+      "aarlig_inflation_pct": 2.3
+    },
+    {
+      "aar": 2011,
+      "forbrugerprisindeks_1900_100": 6609,
+      "aarlig_inflation_pct": 2.8
+    },
+    {
+      "aar": 2012,
+      "forbrugerprisindeks_1900_100": 6768,
+      "aarlig_inflation_pct": 2.4
+    },
+    {
+      "aar": 2013,
+      "forbrugerprisindeks_1900_100": 6821,
+      "aarlig_inflation_pct": 0.8
+    },
+    {
+      "aar": 2014,
+      "forbrugerprisindeks_1900_100": 6860,
+      "aarlig_inflation_pct": 0.6
+    },
+    {
+      "aar": 2015,
+      "forbrugerprisindeks_1900_100": 6891,
+      "aarlig_inflation_pct": 0.5
+    },
+    {
+      "aar": 2016,
+      "forbrugerprisindeks_1900_100": 6909,
+      "aarlig_inflation_pct": 0.3
+    },
+    {
+      "aar": 2017,
+      "forbrugerprisindeks_1900_100": 6988,
+      "aarlig_inflation_pct": 1.1
+    },
+    {
+      "aar": 2018,
+      "forbrugerprisindeks_1900_100": 7045,
+      "aarlig_inflation_pct": 0.8
+    },
+    {
+      "aar": 2019,
+      "forbrugerprisindeks_1900_100": 7098,
+      "aarlig_inflation_pct": 0.8
+    },
+    {
+      "aar": 2020,
+      "forbrugerprisindeks_1900_100": 7128,
+      "aarlig_inflation_pct": 0.4
+    },
+    {
+      "aar": 2021,
+      "forbrugerprisindeks_1900_100": 7260,
+      "aarlig_inflation_pct": 1.9
+    },
+    {
+      "aar": 2022,
+      "forbrugerprisindeks_1900_100": 7819,
+      "aarlig_inflation_pct": 7.7
+    },
+    {
+      "aar": 2023,
+      "forbrugerprisindeks_1900_100": 8077,
+      "aarlig_inflation_pct": 3.3
+    },
+    {
+      "aar": 2024,
+      "forbrugerprisindeks_1900_100": 8188,
+      "aarlig_inflation_pct": 1.4
+    },
+    {
+      "aar": 2025,
+      "forbrugerprisindeks_1900_100": 8343,
+      "aarlig_inflation_pct": 1.9
+    }
+  ],
+  "meta": {
+    "title": "Forbrugerprisindeks og årlig inflation i Danmark siden 1900 - Free Download",
+    "description": "Årsgennemsnit af forbrugerprisindekset (1900 = 100) og den årlige stigning i procent (inflation) i Danmark for hvert år fra 1900 ifølge Danmarks Statistik (PRIS8 og PRIS9). Contains 126 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Forbrugerprisindeks og årlig inflation i Danmark siden 1900 | ListBase",
+    "seo_description": "Download Forbrugerprisindeks og årlig inflation i Danmark siden 1900 — 126 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 126 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/PRIS9"
+    ]
+  }
+}

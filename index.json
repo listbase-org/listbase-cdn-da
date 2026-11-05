@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-04T02:16:37.007Z",
-  "total_datasets": 472,
-  "total_records": 238168,
+  "generated": "2026-11-05T02:19:02.910Z",
+  "total_datasets": 473,
+  "total_records": 238294,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -1467,6 +1467,30 @@
         "xlsx": {
           "name": "da-fonde-efter-formue_DA.xlsx",
           "size": 7811
+        }
+      }
+    },
+    {
+      "id": "da-forbrugerprisindeks-inflation-1900",
+      "name": "Forbrugerprisindeks og årlig inflation i Danmark siden 1900",
+      "category": "economy",
+      "record_count": 126,
+      "columns": [
+        "aar",
+        "forbrugerprisindeks_1900_100",
+        "aarlig_inflation_pct"
+      ],
+      "source": "https://www.statistikbanken.dk/PRIS9",
+      "updated": "2026-11",
+      "size": 15541,
+      "files": {
+        "csv": {
+          "name": "da-forbrugerprisindeks-inflation-1900_DA.csv",
+          "size": 2518
+        },
+        "xlsx": {
+          "name": "da-forbrugerprisindeks-inflation-1900_DA.xlsx",
+          "size": 8989
         }
       }
     },
