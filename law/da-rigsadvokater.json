@@ -1,0 +1,84 @@
+{
+  "id": "da-rigsadvokater",
+  "name": "Danmarks rigsadvokater",
+  "title": "Danmarks rigsadvokater",
+  "description": "Personer der har beklædt embedet som rigsadvokat, chef for anklagemyndigheden i Danmark, med embedsperiode.",
+  "category": "law",
+  "source": "https://da.wikipedia.org/wiki/Rigsadvokaten",
+  "source_url": "https://da.wikipedia.org/wiki/Rigsadvokaten",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "rigsadvokat",
+      "label": "Rigsadvokat",
+      "type": "string"
+    },
+    {
+      "key": "embedsperiode",
+      "label": "Embedsperiode",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rigsadvokat": "Caroline Østergaard Nielsen",
+      "embedsperiode": "2026 -"
+    },
+    {
+      "rigsadvokat": "Lasse Boje",
+      "embedsperiode": "2026 - 2026"
+    },
+    {
+      "rigsadvokat": "Jan Reckendorff",
+      "embedsperiode": "2018 - 2026"
+    },
+    {
+      "rigsadvokat": "Ole Hasselgaard",
+      "embedsperiode": "2012 - 2018"
+    },
+    {
+      "rigsadvokat": "Jørgen Steen Sørensen",
+      "embedsperiode": "2007 - 2012"
+    },
+    {
+      "rigsadvokat": "Henning Fode",
+      "embedsperiode": "1995 - 2007"
+    },
+    {
+      "rigsadvokat": "Asbjørn Jensen",
+      "embedsperiode": "1988 - 1995"
+    },
+    {
+      "rigsadvokat": "Per Lindegaard",
+      "embedsperiode": "1973 - 1988"
+    },
+    {
+      "rigsadvokat": "Halfdan Olafsson",
+      "embedsperiode": "1954 - 1973"
+    },
+    {
+      "rigsadvokat": "Frits Pihl",
+      "embedsperiode": "1936 - 1954"
+    },
+    {
+      "rigsadvokat": "Bernt August Goll",
+      "embedsperiode": "1925 - 1936"
+    },
+    {
+      "rigsadvokat": "Vilhelm Topsøe-Jensen",
+      "embedsperiode": "1919 - 1925"
+    }
+  ],
+  "meta": {
+    "title": "Danmarks rigsadvokater - Free Download",
+    "description": "Personer der har beklædt embedet som rigsadvokat, chef for anklagemyndigheden i Danmark, med embedsperiode. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danmarks rigsadvokater | ListBase",
+    "seo_description": "Download Danmarks rigsadvokater — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Rigsadvokaten"
+    ]
+  }
+}

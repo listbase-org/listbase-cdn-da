@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-09T02:45:51.082Z",
-  "total_datasets": 480,
-  "total_records": 239103,
+  "generated": "2026-11-09T02:46:00.045Z",
+  "total_datasets": 481,
+  "total_records": 239115,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -4140,6 +4140,29 @@
         "xlsx": {
           "name": "da-livstidsdomte_DA.xlsx",
           "size": 11189
+        }
+      }
+    },
+    {
+      "id": "da-rigsadvokater",
+      "name": "Danmarks rigsadvokater",
+      "category": "law",
+      "record_count": 12,
+      "columns": [
+        "rigsadvokat",
+        "embedsperiode"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Rigsadvokaten",
+      "updated": "2026-11",
+      "size": 2375,
+      "files": {
+        "csv": {
+          "name": "da-rigsadvokater_DA.csv",
+          "size": 428
+        },
+        "xlsx": {
+          "name": "da-rigsadvokater_DA.xlsx",
+          "size": 7071
         }
       }
     },
