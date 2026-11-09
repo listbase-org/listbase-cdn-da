@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-05T02:19:39.325Z",
-  "total_datasets": 477,
-  "total_records": 238559,
+  "generated": "2026-11-09T02:45:33.126Z",
+  "total_datasets": 478,
+  "total_records": 238628,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -11848,6 +11848,31 @@
         "xlsx": {
           "name": "da-dm-haandbold-herrer-medaljevindere_DA.xlsx",
           "size": 9753
+        }
+      }
+    },
+    {
+      "id": "da-dm-ishockey-medaljevindere",
+      "name": "DM i ishockey – medaljevindere",
+      "category": "sports",
+      "record_count": 69,
+      "columns": [
+        "saeson",
+        "guld",
+        "soelv",
+        "bronze"
+      ],
+      "source": "https://da.wikipedia.org/wiki/DM_i_ishockey",
+      "updated": "2026-11",
+      "size": 11031,
+      "files": {
+        "csv": {
+          "name": "da-dm-ishockey-medaljevindere_DA.csv",
+          "size": 4276
+        },
+        "xlsx": {
+          "name": "da-dm-ishockey-medaljevindere_DA.xlsx",
+          "size": 9037
         }
       }
     },

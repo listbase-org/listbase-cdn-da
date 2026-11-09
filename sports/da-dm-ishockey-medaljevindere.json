@@ -1,0 +1,460 @@
+{
+  "id": "da-dm-ishockey-medaljevindere",
+  "name": "DM i ishockey – medaljevindere",
+  "title": "DM i ishockey – medaljevindere",
+  "description": "Guld-, sølv- og bronzevindere ved Danmarksmesterskabet i ishockey for herrer pr. sæson siden 1954-55.",
+  "category": "sports",
+  "source": "https://da.wikipedia.org/wiki/DM_i_ishockey",
+  "source_url": "https://da.wikipedia.org/wiki/DM_i_ishockey",
+  "updated": "2026-11",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "saeson",
+      "label": "Saeson",
+      "type": "string"
+    },
+    {
+      "key": "guld",
+      "label": "Guld",
+      "type": "string"
+    },
+    {
+      "key": "soelv",
+      "label": "Soelv",
+      "type": "string"
+    },
+    {
+      "key": "bronze",
+      "label": "Bronze",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "saeson": "1954-55",
+      "guld": "Rungsted IK (1)",
+      "soelv": "KSF",
+      "bronze": "Silkeborg SF"
+    },
+    {
+      "saeson": "1955-56",
+      "guld": "KSF (1)",
+      "soelv": "Rungsted IK",
+      "bronze": "Ingen"
+    },
+    {
+      "saeson": "1959-60",
+      "guld": "KSF (2)",
+      "soelv": "Rungsted IK",
+      "bronze": "Silkeborg SF"
+    },
+    {
+      "saeson": "1960-61",
+      "guld": "KSF (3)",
+      "soelv": "Rungsted IK",
+      "bronze": "Esbjerg SK"
+    },
+    {
+      "saeson": "1961-62",
+      "guld": "KSF (4)",
+      "soelv": "Rungsted IK",
+      "bronze": "Furesøen"
+    },
+    {
+      "saeson": "1962-63",
+      "guld": "Rungsted IK (2)",
+      "soelv": "Esbjerg SK",
+      "bronze": "KSF"
+    },
+    {
+      "saeson": "1963-64",
+      "guld": "KSF (5)",
+      "soelv": "Rungsted IK",
+      "bronze": "Esbjerg SK"
+    },
+    {
+      "saeson": "1964-65",
+      "guld": "KSF (6)",
+      "soelv": "Esbjerg IK",
+      "bronze": "Gladsaxe SF"
+    },
+    {
+      "saeson": "1965-66",
+      "guld": "KSF (7)",
+      "soelv": "Gladsaxe SF",
+      "bronze": "Esbjerg IK"
+    },
+    {
+      "saeson": "1966-67",
+      "guld": "Gladsaxe SF (1)",
+      "soelv": "KSF",
+      "bronze": "Esbjerg IK"
+    },
+    {
+      "saeson": "1967-68",
+      "guld": "Gladsaxe SF (2)",
+      "soelv": "Esbjerg IK",
+      "bronze": "Rungsted IK"
+    },
+    {
+      "saeson": "1968-69",
+      "guld": "Esbjerg IK (1)",
+      "soelv": "Gladsaxe SF",
+      "bronze": "Vojens IK"
+    },
+    {
+      "saeson": "1969-70",
+      "guld": "KSF (8)",
+      "soelv": "Gladsaxe SF",
+      "bronze": "Esbjerg IK"
+    },
+    {
+      "saeson": "1970-71",
+      "guld": "Gladsaxe SF (3)",
+      "soelv": "Rungsted IK",
+      "bronze": "Esbjerg IK og Vojens IK"
+    },
+    {
+      "saeson": "1971-72",
+      "guld": "KSF (9)",
+      "soelv": "Esbjerg IK",
+      "bronze": "Gladsaxe SF"
+    },
+    {
+      "saeson": "1972-73",
+      "guld": "Herning IK (1)",
+      "soelv": "KSF",
+      "bronze": "Esbjerg IK"
+    },
+    {
+      "saeson": "1973-74",
+      "guld": "Gladsaxe SF (4)",
+      "soelv": "KSF",
+      "bronze": "Herning IK"
+    },
+    {
+      "saeson": "1974-75",
+      "guld": "Gladsaxe SF (5)",
+      "soelv": "KSF",
+      "bronze": "Rungsted IK"
+    },
+    {
+      "saeson": "1975-76",
+      "guld": "KSF (10)",
+      "soelv": "AaB Ishockey",
+      "bronze": "Gladsaxe SF"
+    },
+    {
+      "saeson": "1976-77",
+      "guld": "Herning IK (2)",
+      "soelv": "Gladsaxe SF",
+      "bronze": "AaB Ishockey"
+    },
+    {
+      "saeson": "1977-78",
+      "guld": "Rødovre SIK (1)",
+      "soelv": "KSF",
+      "bronze": "Vojens IK"
+    },
+    {
+      "saeson": "1978-79",
+      "guld": "Vojens IK (1)",
+      "soelv": "Rødovre SIK",
+      "bronze": "AaB Ishockey"
+    },
+    {
+      "saeson": "1979-80",
+      "guld": "Vojens IK (2)",
+      "soelv": "Rungsted IK",
+      "bronze": "AaB Ishockey"
+    },
+    {
+      "saeson": "1980-81",
+      "guld": "AaB Ishockey (1)",
+      "soelv": "Rødovre SIK",
+      "bronze": "Herning IK"
+    },
+    {
+      "saeson": "1981-82",
+      "guld": "Vojens IK (3)",
+      "soelv": "Rødovre SIK",
+      "bronze": "AaB Ishockey"
+    },
+    {
+      "saeson": "1982-83",
+      "guld": "Rødovre SIK (2)",
+      "soelv": "AaB Ishockey",
+      "bronze": "Herlev IK"
+    },
+    {
+      "saeson": "1983-84",
+      "guld": "Herlev IK (1)",
+      "soelv": "AaB Ishockey",
+      "bronze": "Rungsted IK"
+    },
+    {
+      "saeson": "1984-85",
+      "guld": "Rødovre SIK (3)",
+      "soelv": "Herning IK",
+      "bronze": "Esbjerg IK"
+    },
+    {
+      "saeson": "1985-86",
+      "guld": "Rødovre SIK (4)",
+      "soelv": "Esbjerg IK",
+      "bronze": "Frederikshavn IK"
+    },
+    {
+      "saeson": "1986-87",
+      "guld": "Herning IK (3)",
+      "soelv": "AaB Ishockey",
+      "bronze": "Rødovre SIK"
+    },
+    {
+      "saeson": "1987-88",
+      "guld": "Esbjerg IK (2)",
+      "soelv": "Herlev IK",
+      "bronze": "AaB Ishockey"
+    },
+    {
+      "saeson": "1988-89",
+      "guld": "Frederikshavn IK (1)",
+      "soelv": "AaB Ishockey",
+      "bronze": "Herning IK"
+    },
+    {
+      "saeson": "1989-90",
+      "guld": "Rødovre SIK (5)",
+      "soelv": "Herning IK",
+      "bronze": "Frederikshavn IK"
+    },
+    {
+      "saeson": "1990-91",
+      "guld": "Herning IK (4)",
+      "soelv": "Rødovre SIK",
+      "bronze": "AaB Ishockey"
+    },
+    {
+      "saeson": "1991-92",
+      "guld": "Herning IK (5)",
+      "soelv": "Esbjerg IK",
+      "bronze": "Rødovre SIK"
+    },
+    {
+      "saeson": "1992-93",
+      "guld": "Esbjerg IK (3)",
+      "soelv": "Herning IK",
+      "bronze": "Rødovre SIK"
+    },
+    {
+      "saeson": "1993-94",
+      "guld": "Herning IK (6)",
+      "soelv": "Esbjerg IK",
+      "bronze": "AaB Ishockey"
+    },
+    {
+      "saeson": "1994-95",
+      "guld": "Herning IK (7)",
+      "soelv": "Esbjerg IK",
+      "bronze": "Rungsted IK"
+    },
+    {
+      "saeson": "1995-96",
+      "guld": "Esbjerg IK (4)",
+      "soelv": "Rungsted IK",
+      "bronze": "Herning IK"
+    },
+    {
+      "saeson": "1996-97",
+      "guld": "Herning IK (8)",
+      "soelv": "Esbjerg IK",
+      "bronze": "Rungsted IK"
+    },
+    {
+      "saeson": "1997-98",
+      "guld": "Herning IK (9)",
+      "soelv": "Rungsted IK",
+      "bronze": "Frederikshavn IK"
+    },
+    {
+      "saeson": "1998-99",
+      "guld": "Rødovre SIK (6)",
+      "soelv": "Frederikshavn IK",
+      "bronze": "Esbjerg IK"
+    },
+    {
+      "saeson": "1999-2000",
+      "guld": "Frederikshavn IK (2)",
+      "soelv": "Herning Blue Fox",
+      "bronze": "Esbjerg IK"
+    },
+    {
+      "saeson": "2000-01",
+      "guld": "Herning Blue Fox (10)",
+      "soelv": "Rødovre SIK",
+      "bronze": "Esbjerg IK"
+    },
+    {
+      "saeson": "2001-02",
+      "guld": "Rungsted Cobras (3)",
+      "soelv": "Odense Bulldogs",
+      "bronze": "Herning Blue Fox"
+    },
+    {
+      "saeson": "2002-03",
+      "guld": "Herning Blue Fox (11)",
+      "soelv": "Odense Bulldogs",
+      "bronze": "Rungsted Cobras"
+    },
+    {
+      "saeson": "2003-04",
+      "guld": "Esbjerg IK (5)",
+      "soelv": "AaB Ishockey",
+      "bronze": "Odense Bulldogs"
+    },
+    {
+      "saeson": "2004-05",
+      "guld": "Herning Blue Fox (12)",
+      "soelv": "AaB Ishockey",
+      "bronze": "Frederikshavn White Hawks"
+    },
+    {
+      "saeson": "2005-06",
+      "guld": "SønderjyskE (4)",
+      "soelv": "AaB Ishockey",
+      "bronze": "Herning Blue Fox"
+    },
+    {
+      "saeson": "2006-07",
+      "guld": "Herning Blue Fox (13)",
+      "soelv": "AaB Ishockey",
+      "bronze": "SønderjyskE"
+    },
+    {
+      "saeson": "2007-08",
+      "guld": "Herning Blue Fox (14)",
+      "soelv": "Frederikshavn White Hawks",
+      "bronze": "SønderjyskE"
+    },
+    {
+      "saeson": "2008-09",
+      "guld": "SønderjyskE (5)",
+      "soelv": "Herning Blue Fox",
+      "bronze": "Rødovre Mighty Bulls"
+    },
+    {
+      "saeson": "2009-10",
+      "guld": "SønderjyskE (6)",
+      "soelv": "AaB Ishockey",
+      "bronze": "Herning Blue Fox"
+    },
+    {
+      "saeson": "2010-11",
+      "guld": "Herning Blue Fox (15)",
+      "soelv": "Frederikshavn White Hawks",
+      "bronze": "SønderjyskE"
+    },
+    {
+      "saeson": "2011-12",
+      "guld": "Herning Blue Fox (16)",
+      "soelv": "Odense Bulldogs",
+      "bronze": "SønderjyskE"
+    },
+    {
+      "saeson": "2012-13",
+      "guld": "SønderjyskE (7)",
+      "soelv": "Frederikshavn White Hawks",
+      "bronze": "Rødovre Mighty Bulls"
+    },
+    {
+      "saeson": "2013-14",
+      "guld": "SønderjyskE (8)",
+      "soelv": "Herning Blue Fox",
+      "bronze": "Frederikshavn White Hawks"
+    },
+    {
+      "saeson": "2014-15",
+      "guld": "SønderjyskE (9)",
+      "soelv": "Esbjerg Energy",
+      "bronze": "Frederikshavn White Hawks"
+    },
+    {
+      "saeson": "2015-16",
+      "guld": "Esbjerg Energy (6)",
+      "soelv": "Herning Blue Fox",
+      "bronze": "Frederikshavn White Hawks"
+    },
+    {
+      "saeson": "2016-17",
+      "guld": "Esbjerg Energy (7)",
+      "soelv": "Gentofte Stars",
+      "bronze": "Frederikshavn White Hawks"
+    },
+    {
+      "saeson": "2017-18",
+      "guld": "Aalborg Pirates (2)",
+      "soelv": "Herning Blue Fox",
+      "bronze": "Rungsted Seier Capital"
+    },
+    {
+      "saeson": "2018-19",
+      "guld": "Rungsted Seier Capital (4)",
+      "soelv": "SønderjyskE",
+      "bronze": "Frederikshavn White Hawks"
+    },
+    {
+      "saeson": "2019-20",
+      "guld": "Ikke færdigspillet pga. COVID-19-pandemien",
+      "soelv": "Ikke færdigspillet pga. COVID-19-pandemien",
+      "bronze": "Ikke færdigspillet pga. COVID-19-pandemien"
+    },
+    {
+      "saeson": "2020-21",
+      "guld": "Rungsted Seier Capital (5)",
+      "soelv": "Aalborg Pirates",
+      "bronze": "Esbjerg Energy og SønderjyskE"
+    },
+    {
+      "saeson": "2021-22",
+      "guld": "Aalborg Pirates (3)",
+      "soelv": "Rungsted Seier Capital",
+      "bronze": "Odense Bulldogs"
+    },
+    {
+      "saeson": "2022-23",
+      "guld": "Aalborg Pirates (4)",
+      "soelv": "Herning Blue Fox",
+      "bronze": "Herlev Eagles"
+    },
+    {
+      "saeson": "2023-24",
+      "guld": "SønderjyskE (10)",
+      "soelv": "Esbjerg Energy",
+      "bronze": "Aalborg Pirates"
+    },
+    {
+      "saeson": "2024-25",
+      "guld": "Odense Bulldogs (1)",
+      "soelv": "Herning Blue Fox",
+      "bronze": "Aalborg Pirates"
+    },
+    {
+      "saeson": "2025-26",
+      "guld": "Herning Blue Fox (17)",
+      "soelv": "Herlev Eagles",
+      "bronze": "Rungsted Seier Capital"
+    }
+  ],
+  "meta": {
+    "title": "DM i ishockey – medaljevindere - Free Download",
+    "description": "Guld-, sølv- og bronzevindere ved Danmarksmesterskabet i ishockey for herrer pr. sæson siden 1954-55. Contains 69 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "DM i ishockey – medaljevindere | ListBase",
+    "seo_description": "Download DM i ishockey – medaljevindere — 69 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 69 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/DM_i_ishockey"
+    ]
+  }
+}
