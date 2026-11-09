@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-09T02:45:43.155Z",
-  "total_datasets": 479,
-  "total_records": 239062,
+  "generated": "2026-11-09T02:45:51.082Z",
+  "total_datasets": 480,
+  "total_records": 239103,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -4251,6 +4251,31 @@
         "xlsx": {
           "name": "da-dma-aarets-danske-album_DA.xlsx",
           "size": 9991
+        }
+      }
+    },
+    {
+      "id": "da-mest-solgte-album-efter-aar",
+      "name": "Mest solgte album i Danmark efter år",
+      "category": "music",
+      "record_count": 41,
+      "columns": [
+        "aar",
+        "album",
+        "artist",
+        "solgte_eksemplarer"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Liste_over_mest_solgte_album_i_Danmark_efter_år",
+      "updated": "2026-11",
+      "size": 7013,
+      "files": {
+        "csv": {
+          "name": "da-mest-solgte-album-efter-aar_DA.csv",
+          "size": 1924
+        },
+        "xlsx": {
+          "name": "da-mest-solgte-album-efter-aar_DA.xlsx",
+          "size": 8340
         }
       }
     },

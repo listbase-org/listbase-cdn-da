@@ -1,0 +1,292 @@
+{
+  "id": "da-mest-solgte-album-efter-aar",
+  "name": "Mest solgte album i Danmark efter år",
+  "title": "Mest solgte album i Danmark efter år",
+  "description": "Det mest solgte album i Danmark for hvert år siden 1979, med kunstner og (hvor kendt) antal solgte eksemplarer.",
+  "category": "music",
+  "source": "https://da.wikipedia.org/wiki/Liste_over_mest_solgte_album_i_Danmark_efter_år",
+  "source_url": "https://da.wikipedia.org/wiki/Liste_over_mest_solgte_album_i_Danmark_efter_år",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "album",
+      "label": "Album",
+      "type": "string"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "solgte_eksemplarer",
+      "label": "Solgte Eksemplarer",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1979,
+      "album": "Shu-bi-dua 6",
+      "artist": "Shu-bi-dua",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 1982,
+      "album": "Shu-bi-dua 8",
+      "artist": "Shu-bi-dua",
+      "solgte_eksemplarer": ">100.000"
+    },
+    {
+      "aar": 1985,
+      "album": "Rigtige mænd - gider ikke høre mere vrøvl",
+      "artist": "tv·2",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 1986,
+      "album": "Forklædt som voksen",
+      "artist": "Kim Larsen & Bellami",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 1989,
+      "album": "Sanne",
+      "artist": "Sanne Salomonsen",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 1990,
+      "album": "Dark Passion",
+      "artist": "Hanne Boel",
+      "solgte_eksemplarer": 250000
+    },
+    {
+      "aar": 1991,
+      "album": "Joyride",
+      "artist": "Roxette",
+      "solgte_eksemplarer": 156753
+    },
+    {
+      "aar": 1992,
+      "album": "Shu-bi-dua 13",
+      "artist": "Shu-bi-dua",
+      "solgte_eksemplarer": 240000
+    },
+    {
+      "aar": 1993,
+      "album": "So Far So Good",
+      "artist": "Bryan Adams",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 1994,
+      "album": "Language of the Heart",
+      "artist": "Sanne Salomonsen",
+      "solgte_eksemplarer": 170000
+    },
+    {
+      "aar": 1995,
+      "album": "HIStory",
+      "artist": "Michael Jackson",
+      "solgte_eksemplarer": 133000
+    },
+    {
+      "aar": 1996,
+      "album": "Jagged Little Pill",
+      "artist": "Alanis Morissette",
+      "solgte_eksemplarer": 161000
+    },
+    {
+      "aar": 1997,
+      "album": "Aquarium",
+      "artist": "Aqua",
+      "solgte_eksemplarer": 250000
+    },
+    {
+      "aar": 1998,
+      "album": "Titanic soundtrack",
+      "artist": "James Horner",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 1999,
+      "album": "Creamy",
+      "artist": "Creamy",
+      "solgte_eksemplarer": 190000
+    },
+    {
+      "aar": 2000,
+      "album": "Wings of Love",
+      "artist": "Brødrene Olsen",
+      "solgte_eksemplarer": 187015
+    },
+    {
+      "aar": 2001,
+      "album": "Episode II",
+      "artist": "Safri Duo",
+      "solgte_eksemplarer": 90165
+    },
+    {
+      "aar": 2002,
+      "album": "The Second You Sleep",
+      "artist": "Saybia",
+      "solgte_eksemplarer": 114000
+    },
+    {
+      "aar": 2003,
+      "album": "7-9-13",
+      "artist": "Kim Larsen & Kjukken",
+      "solgte_eksemplarer": 143189
+    },
+    {
+      "aar": 2004,
+      "album": "Glemmebogen - Jul & nytår",
+      "artist": "Kim Larsen & Kjukken",
+      "solgte_eksemplarer": 130000
+    },
+    {
+      "aar": 2005,
+      "album": "De første kærester på månen",
+      "artist": "tv·2",
+      "solgte_eksemplarer": 116500
+    },
+    {
+      "aar": 2006,
+      "album": "Gammel hankat",
+      "artist": "Kim Larsen & Kjukken",
+      "solgte_eksemplarer": 160000
+    },
+    {
+      "aar": 2007,
+      "album": "One Chance",
+      "artist": "Paul Potts",
+      "solgte_eksemplarer": 116000
+    },
+    {
+      "aar": 2008,
+      "album": "Rockferry",
+      "artist": "Duffy",
+      "solgte_eksemplarer": 73000
+    },
+    {
+      "aar": 2009,
+      "album": "The Collection",
+      "artist": "Michael Jackson",
+      "solgte_eksemplarer": 90000
+    },
+    {
+      "aar": 2010,
+      "album": "Rasmus Seebach",
+      "artist": "Rasmus Seebach",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2011,
+      "album": "Mer' end kærlighed",
+      "artist": "Rasmus Seebach",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2012,
+      "album": "Lukas Graham",
+      "artist": "Lukas Graham",
+      "solgte_eksemplarer": 75140
+    },
+    {
+      "aar": 2013,
+      "album": "Ingen kan love dig i morgen",
+      "artist": "Rasmus Seebach",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2014,
+      "album": "Ingen kan love dig i morgen",
+      "artist": "Rasmus Seebach",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2015,
+      "album": "Verden ka' vente",
+      "artist": "Rasmus Seebach",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2016,
+      "album": "Purpose",
+      "artist": "Justin Bieber",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2017,
+      "album": "÷",
+      "artist": "Ed Sheeran",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2018,
+      "album": "Beerbongs & Bentleys",
+      "artist": "Post Malone",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2019,
+      "album": "A Star Is Born soundtrack",
+      "artist": "Lady Gaga og Bradley Cooper",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2020,
+      "album": "Euro Connection",
+      "artist": "Branco og Gilli",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2021,
+      "album": "Justice",
+      "artist": "Justin Bieber",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2022,
+      "album": "Carnival",
+      "artist": "Gilli",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2023,
+      "album": "Når sjælen kaster op",
+      "artist": "Tobias Rahim",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2024,
+      "album": "Kenny",
+      "artist": "Benny Jamz og Gilli",
+      "solgte_eksemplarer": ""
+    },
+    {
+      "aar": 2025,
+      "album": "AW",
+      "artist": "Annika",
+      "solgte_eksemplarer": ""
+    }
+  ],
+  "meta": {
+    "title": "Mest solgte album i Danmark efter år - Free Download",
+    "description": "Det mest solgte album i Danmark for hvert år siden 1979, med kunstner og (hvor kendt) antal solgte eksemplarer. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mest solgte album i Danmark efter år | ListBase",
+    "seo_description": "Download Mest solgte album i Danmark efter år — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Liste_over_mest_solgte_album_i_Danmark_efter_år"
+    ]
+  }
+}
