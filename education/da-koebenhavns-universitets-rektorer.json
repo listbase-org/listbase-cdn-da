@@ -1,0 +1,3089 @@
+{
+  "id": "da-koebenhavns-universitets-rektorer",
+  "name": "Københavns Universitets rektorer",
+  "title": "Københavns Universitets rektorer",
+  "description": "Rektorer ved Københavns Universitet fra grundlæggelsen i 1479 til i dag, med periode og fakultet.",
+  "category": "education",
+  "source": "https://da.wikipedia.org/wiki/Københavns_Universitets_rektorer",
+  "source_url": "https://da.wikipedia.org/wiki/Københavns_Universitets_rektorer",
+  "updated": "2026-11",
+  "record_count": 434,
+  "columns": [
+    {
+      "key": "fra",
+      "label": "Fra",
+      "type": "number"
+    },
+    {
+      "key": "til",
+      "label": "Til",
+      "type": "number"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "fakultet",
+      "label": "Fakultet",
+      "type": "string"
+    },
+    {
+      "key": "noter",
+      "label": "Noter",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fra": 1479,
+      "til": 1479,
+      "navn": "Jesper Henriksen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1480,
+      "til": 1480,
+      "navn": "Erik Nielsen Rosenkrantz",
+      "fakultet": "Jura",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1480,
+      "til": 1480,
+      "navn": "Tilemann Schlecht",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1481,
+      "til": 1481,
+      "navn": "Jørgen Hvid",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1482,
+      "til": 1482,
+      "navn": "Peder David Skotte",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1482,
+      "til": 1483,
+      "navn": "Jesper Henriksen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1484,
+      "til": 1487,
+      "navn": "Erik Nielsen Rosenkrantz",
+      "fakultet": "Jura",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1488,
+      "til": 1489,
+      "navn": "Peder David Skotte",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1489,
+      "til": 1490,
+      "navn": "Arnold Lauridsen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1490,
+      "til": 1491,
+      "navn": "Jørgen Hvid",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1491,
+      "til": 1492,
+      "navn": "Peder Albertsen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1492,
+      "til": 1493,
+      "navn": "Erik Nielsen Rosenkrantz",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1493,
+      "til": 1494,
+      "navn": "Jørgen Hvid",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1494,
+      "til": 1495,
+      "navn": "Peder David Skotte",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1495,
+      "til": 1496,
+      "navn": "Erik Nielsen Rosenkrantz",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1496,
+      "til": 1497,
+      "navn": "Jørgen Hvid",
+      "fakultet": "",
+      "noter": "3. periode som rektor. Dør i rektoratet"
+    },
+    {
+      "fra": 1496,
+      "til": 1497,
+      "navn": "Erik Nielsen Rosenkrantz",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1497,
+      "til": 1499,
+      "navn": "Hans Albertsen (kannik)",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1499,
+      "til": 1500,
+      "navn": "Peder David Skotte",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1500,
+      "til": 1501,
+      "navn": "Anders Friis",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1501,
+      "til": 1502,
+      "navn": "Erik Nielsen Rosenkrantz",
+      "fakultet": "",
+      "noter": "5. periode som rektor"
+    },
+    {
+      "fra": 1502,
+      "til": 1503,
+      "navn": "Paul Andersen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1503,
+      "til": 1504,
+      "navn": "Peder David Skotte",
+      "fakultet": "",
+      "noter": "5. periode som rektor"
+    },
+    {
+      "fra": 1504,
+      "til": 1505,
+      "navn": "Anders Friis",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1505,
+      "til": 1507,
+      "navn": "Peter Petersen (rektor)",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1507,
+      "til": 1508,
+      "navn": "Johannes Luche",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1508,
+      "til": 1509,
+      "navn": "Poul Reff",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1509,
+      "til": 1510,
+      "navn": "Peder David Skotte",
+      "fakultet": "",
+      "noter": "6. periode som rektor"
+    },
+    {
+      "fra": 1510,
+      "til": 1511,
+      "navn": "Matthias Pedersen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1511,
+      "til": 1513,
+      "navn": "Anders Friis",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1513,
+      "til": 1514,
+      "navn": "Ditlev Smyther",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1514,
+      "til": 1515,
+      "navn": "Peder Albertsen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1515,
+      "til": 1516,
+      "navn": "Anders Friis",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1516,
+      "til": 1517,
+      "navn": "Knud Valkendorf",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1517,
+      "til": 1518,
+      "navn": "Alexander Kinghorn",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1518,
+      "til": 1519,
+      "navn": "Christoffer Jacobsen Ravensberg",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1519,
+      "til": 1520,
+      "navn": "Paul Andersen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1520,
+      "til": 1521,
+      "navn": "Amelung Amelungsen",
+      "fakultet": "",
+      "noter": "nedlagde rektoratet"
+    },
+    {
+      "fra": 1520,
+      "til": 1521,
+      "navn": "Paul Andersen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1521,
+      "til": 1522,
+      "navn": "Vincens Lunge",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1522,
+      "til": 1524,
+      "navn": "Christen Torkelsen Morsing",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1524,
+      "til": 1525,
+      "navn": "Ditlev Smyther",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1525,
+      "til": 1526,
+      "navn": "Christoffer Jacobsen Ravensberg",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1526,
+      "til": 1529,
+      "navn": "Claus Rosengaard",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1529,
+      "til": 1531,
+      "navn": "Claus Urne",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1531,
+      "til": 1532,
+      "navn": "Peder Svave",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1537,
+      "til": 1538,
+      "navn": "Christen Torkelsen Morsing",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1538,
+      "til": 1538,
+      "navn": "Peder Palladius",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1538,
+      "til": 1539,
+      "navn": "Johan Bugenhagen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1539,
+      "til": 1539,
+      "navn": "Christen Torkelsen Morsing",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1539,
+      "til": 1541,
+      "navn": "Tileman von Hussen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1541,
+      "til": 1542,
+      "navn": "Peder Povlsen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1542,
+      "til": 1543,
+      "navn": "Oluf Chrysostomus",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1543,
+      "til": 1544,
+      "navn": "Peder Svave",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1544,
+      "til": 1545,
+      "navn": "Johannes Machabæus",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1545,
+      "til": 1546,
+      "navn": "Jens Andersen Sinning",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1546,
+      "til": 1547,
+      "navn": "Christen Torkelsen Morsing",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1547,
+      "til": 1548,
+      "navn": "Peter Capteyn",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1548,
+      "til": 1549,
+      "navn": "Rembert Gilsheim",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1549,
+      "til": 1550,
+      "navn": "Johannes Machabæus",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1550,
+      "til": 1551,
+      "navn": "Niels Hemmingsen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1551,
+      "til": 1552,
+      "navn": "Peter Capteyn",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1552,
+      "til": 1553,
+      "navn": "Albret Knoppert",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1553,
+      "til": 1555,
+      "navn": "Peder Palladius",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1555,
+      "til": 1556,
+      "navn": "Hans Albertsen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1556,
+      "til": 1557,
+      "navn": "Christian Torkelsen Morsing",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1557,
+      "til": 1558,
+      "navn": "Albret Knoppert",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1558,
+      "til": 1559,
+      "navn": "Niels Hemmingsen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1559,
+      "til": 1560,
+      "navn": "Jacob Bording",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1560,
+      "til": 1561,
+      "navn": "Poul Madsen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1561,
+      "til": 1562,
+      "navn": "Erasmus Lætus",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1562,
+      "til": 1564,
+      "navn": "Albret Knoppert",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1564,
+      "til": 1565,
+      "navn": "Niels Hemmingsen",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1565,
+      "til": 1566,
+      "navn": "Hans Frandsen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1566,
+      "til": 1567,
+      "navn": "Klaus Lauritsen Scavenius",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1567,
+      "til": 1569,
+      "navn": "Hans Albertsen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1569,
+      "til": 1570,
+      "navn": "Albret Knoppert",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1570,
+      "til": 1571,
+      "navn": "Johannes Sascerides",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1571,
+      "til": 1573,
+      "navn": "Niels Hemmingsen",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1573,
+      "til": 1575,
+      "navn": "Hans Frandsen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1575,
+      "til": 1577,
+      "navn": "Hans Thomesen Aurifaber",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1577,
+      "til": 1578,
+      "navn": "Poul Madsen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1578,
+      "til": 1580,
+      "navn": "Anders Lemvig",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1580,
+      "til": 1581,
+      "navn": "Klaus Hammer",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1581,
+      "til": 1582,
+      "navn": "Anders Lauritzen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1582,
+      "til": 1584,
+      "navn": "Klaus Theophilius",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1584,
+      "til": 1585,
+      "navn": "Klaus Lauritsen Scavenius",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1585,
+      "til": 1586,
+      "navn": "Jakob Madsen Aarhus",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1586,
+      "til": 1588,
+      "navn": "Anders Lemvig",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1588,
+      "til": 1589,
+      "navn": "Hans Thomesen Aurifaber",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1589,
+      "til": 1590,
+      "navn": "Poul Madsen",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1590,
+      "til": 1592,
+      "navn": "Anders Christensen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1592,
+      "til": 1593,
+      "navn": "Johannes Sascerides",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1593,
+      "til": 1594,
+      "navn": "Hans Olufsen Slangerup",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1594,
+      "til": 1595,
+      "navn": "Klaus Theophilius",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1595,
+      "til": 1596,
+      "navn": "Anders Krag",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1596,
+      "til": 1597,
+      "navn": "Jørgen Christoffersen Dybvad",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1597,
+      "til": 1598,
+      "navn": "Anders Lemvig",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1598,
+      "til": 1599,
+      "navn": "Thomas Fincke",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1599,
+      "til": 1600,
+      "navn": "Peder Jensen Winstrup",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1600,
+      "til": 1601,
+      "navn": "Anders Christensen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1601,
+      "til": 1602,
+      "navn": "Niels Krag",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1602,
+      "til": 1603,
+      "navn": "Hans Poulsen Resen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1603,
+      "til": 1604,
+      "navn": "Klaus Theophilius",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1604,
+      "til": 1605,
+      "navn": "Ivar Stub",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1605,
+      "til": 1606,
+      "navn": "Jørgen Christoffersen Dybvad",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1606,
+      "til": 1607,
+      "navn": "Thomas Fincke",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1607,
+      "til": 1608,
+      "navn": "Johannes Stephanius",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1608,
+      "til": 1609,
+      "navn": "Peder Jensen Winstrup",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1609,
+      "til": 1610,
+      "navn": "Gellius Sascerides",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1610,
+      "til": 1611,
+      "navn": "Hans Rasmussen Skomager",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1611,
+      "til": 1612,
+      "navn": "Hans Poulsen Resen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1612,
+      "til": 1613,
+      "navn": "Leonhard Metzner",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1613,
+      "til": 1614,
+      "navn": "Hans Jensen Alanus",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1614,
+      "til": 1615,
+      "navn": "Cort Aslaksen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1615,
+      "til": 1616,
+      "navn": "Thomas Fincke",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1616,
+      "til": 1617,
+      "navn": "Christen Sørensen Longomontanus",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1617,
+      "til": 1618,
+      "navn": "Hans Poulsen Resen",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1618,
+      "til": 1619,
+      "navn": "Caspar Bartholin den ældre",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1619,
+      "til": 1620,
+      "navn": "Wolfgang Rhuman",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1620,
+      "til": 1621,
+      "navn": "Cort Aslaksen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1621,
+      "til": 1622,
+      "navn": "Claus Plum",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1622,
+      "til": 1623,
+      "navn": "Hans Jensen Alanus",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1623,
+      "til": 1624,
+      "navn": "Jesper Rasmussen Brochmand",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1624,
+      "til": 1625,
+      "navn": "Thomas Fincke",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1625,
+      "til": 1626,
+      "navn": "Christen Sørensen Longomontanus",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1626,
+      "til": 1627,
+      "navn": "Hans Poulsen Resen",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1627,
+      "til": 1628,
+      "navn": "Ole Worm",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1628,
+      "til": 1629,
+      "navn": "Wolfgang Rhuman",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1629,
+      "til": 1629,
+      "navn": "Caspar Bartholin den ældre",
+      "fakultet": "",
+      "noter": "2. periode som rektor, dør i rektoratet"
+    },
+    {
+      "fra": 1629,
+      "til": 1630,
+      "navn": "Jesper Rasmussen Brochmand",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1630,
+      "til": 1631,
+      "navn": "Claus Plum",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1631,
+      "til": 1632,
+      "navn": "Hans Rasmussen Brochmand",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1632,
+      "til": 1633,
+      "navn": "Niels Pedersen Aurilesius",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1633,
+      "til": 1634,
+      "navn": "Thomas Fincke",
+      "fakultet": "",
+      "noter": "5. periode som rektor"
+    },
+    {
+      "fra": 1634,
+      "til": 1635,
+      "navn": "Christen Sørensen Longomontanus",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1635,
+      "til": 1636,
+      "navn": "Jesper Rasmussen Brochmand",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1636,
+      "til": 1637,
+      "navn": "Ole Worm",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1637,
+      "til": 1637,
+      "navn": "Wolfgang Rhuman",
+      "fakultet": "",
+      "noter": "3. periode som rektor, dør i rektoratet"
+    },
+    {
+      "fra": 1637,
+      "til": 1638,
+      "navn": "Jacob Fincke",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1638,
+      "til": 1638,
+      "navn": "Hans Rasmussen Brochmand",
+      "fakultet": "",
+      "noter": "2. periode som rektor, dør i rektoratet"
+    },
+    {
+      "fra": 1638,
+      "til": 1639,
+      "navn": "Jacob Fincke",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1639,
+      "til": 1640,
+      "navn": "Claus Plum",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1640,
+      "til": 1641,
+      "navn": "Christen Sørensen Longomontanus",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1641,
+      "til": 1642,
+      "navn": "Hans Hansen Resen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1642,
+      "til": 1643,
+      "navn": "Ole Worm",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1643,
+      "til": 1644,
+      "navn": "Jacob Fincke",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1644,
+      "til": 1645,
+      "navn": "Niels Poulsen Schandorph",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1645,
+      "til": 1646,
+      "navn": "Claus Plum",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1646,
+      "til": 1647,
+      "navn": "Thomas Bang",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1647,
+      "til": 1648,
+      "navn": "Laurits Mortensen Scavenius",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1648,
+      "til": 1649,
+      "navn": "Ole Worm",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1649,
+      "til": 1650,
+      "navn": "Peder Spormand",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1650,
+      "til": 1651,
+      "navn": "Hans Hansen Svane",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1651,
+      "til": 1652,
+      "navn": "Johan Müller",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1652,
+      "til": 1653,
+      "navn": "Jacob Fincke",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1653,
+      "til": 1654,
+      "navn": "Thomas Bang",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1654,
+      "til": 1654,
+      "navn": "Ole Worm",
+      "fakultet": "",
+      "noter": "5. periode som rektor, dør i rektoratet"
+    },
+    {
+      "fra": 1654,
+      "til": 1654,
+      "navn": "Thomas Bartholin den ældre",
+      "fakultet": "",
+      "noter": "1. periode som rektor, resignerer rektoratet"
+    },
+    {
+      "fra": 1654,
+      "til": 1656,
+      "navn": "Peder Spormand",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1656,
+      "til": 1657,
+      "navn": "Jacob Knudsen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1657,
+      "til": 1658,
+      "navn": "Christen Ostenfeld",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1658,
+      "til": 1659,
+      "navn": "Rasmus Enevoldsen Brochmand",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1658,
+      "til": 1659,
+      "navn": "Jacob Knudsen",
+      "fakultet": "",
+      "noter": "prorektor (fungerende rektor)"
+    },
+    {
+      "fra": 1659,
+      "til": 1661,
+      "navn": "Hans Wandal",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1661,
+      "til": 1661,
+      "navn": "Johan Müller",
+      "fakultet": "",
+      "noter": "2. periode som rektor, afgår fra universitetet i rektoratet"
+    },
+    {
+      "fra": 1661,
+      "til": 1662,
+      "navn": "Peder Lauritsen Scavenius",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1662,
+      "til": 1664,
+      "navn": "Bertel Casparsen Bartholin",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1664,
+      "til": 1664,
+      "navn": "Rasmus Hansen Brochmand",
+      "fakultet": "",
+      "noter": "dør i rektoratet"
+    },
+    {
+      "fra": 1664,
+      "til": 1665,
+      "navn": "Christian Nold",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1665,
+      "til": 1666,
+      "navn": "Thomas Bartholin den ældre",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1666,
+      "til": 1667,
+      "navn": "Rasmus Bartholin",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1667,
+      "til": 1668,
+      "navn": "Matthias Foss",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1668,
+      "til": 1669,
+      "navn": "Christen Ostenfeld",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1669,
+      "til": 1670,
+      "navn": "Bertel Bartholin",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1670,
+      "til": 1671,
+      "navn": "Jørgen Witzleben",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1671,
+      "til": 1672,
+      "navn": "Thomas Bartholin den ældre",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1672,
+      "til": 1673,
+      "navn": "Jørgen Eilersen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1673,
+      "til": 1674,
+      "navn": "Jens Jensen Bircherod",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1674,
+      "til": 1675,
+      "navn": "Rasmus Bartholin",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1675,
+      "til": 1676,
+      "navn": "Ole Borch",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1676,
+      "til": 1677,
+      "navn": "Christoffer Hansen Schletter",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1677,
+      "til": 1679,
+      "navn": "Willum Worm",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1679,
+      "til": 1680,
+      "navn": "Hans Bagger",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1680,
+      "til": 1680,
+      "navn": "Thomas Bartholin den ældre",
+      "fakultet": "",
+      "noter": "4. periode som rektor, dør i rektoratet"
+    },
+    {
+      "fra": 1680,
+      "til": 1681,
+      "navn": "Christian Nold",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1681,
+      "til": 1682,
+      "navn": "Ole Borch",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1682,
+      "til": 1683,
+      "navn": "Christian Nold",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1683,
+      "til": 1684,
+      "navn": "Rasmus Bartholin",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1684,
+      "til": 1685,
+      "navn": "Cosmus Bornemann",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1685,
+      "til": 1686,
+      "navn": "Jens Jensen Bircherod",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1686,
+      "til": 1687,
+      "navn": "Willum Worm",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1687,
+      "til": 1688,
+      "navn": "Caspar Thomsen Bartholin",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1688,
+      "til": 1689,
+      "navn": "Hans Vandal",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1689,
+      "til": 1690,
+      "navn": "Cosmus Bornemann",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1690,
+      "til": 1691,
+      "navn": "Holger Jacobsen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1691,
+      "til": 1692,
+      "navn": "Hector Gottfried Masius",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1692,
+      "til": 1693,
+      "navn": "Caspar Thomsen Bartholin",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1693,
+      "til": 1694,
+      "navn": "Ole Christensen Rømer",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1694,
+      "til": 1695,
+      "navn": "Heinrich Bornemann",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1695,
+      "til": 1697,
+      "navn": "Holger Jacobsen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1697,
+      "til": 1698,
+      "navn": "Hans Vandal",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1698,
+      "til": 1699,
+      "navn": "Christian Reitzer",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1699,
+      "til": 1700,
+      "navn": "Ole Christensen Rømer",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1700,
+      "til": 1701,
+      "navn": "Hector Gottfried Masius",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1701,
+      "til": 1703,
+      "navn": "Caspar Thomsen Bartholin",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1703,
+      "til": 1704,
+      "navn": "Hans Thomsen Bartholin",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1704,
+      "til": 1706,
+      "navn": "Hans Mikkelsen Mule",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1706,
+      "til": 1708,
+      "navn": "Hans Vandal",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1708,
+      "til": 1711,
+      "navn": "Christian Reitzer",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1711,
+      "til": 1714,
+      "navn": "Hans Jensen Bircherod",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1714,
+      "til": 1717,
+      "navn": "Hans Steenbuch",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1717,
+      "til": 1720,
+      "navn": "Georg Frederik Franck de Franckenau",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1720,
+      "til": 1722,
+      "navn": "Heinrich Weghorst",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1722,
+      "til": 1723,
+      "navn": "Hans Thomsen Bartholin",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1723,
+      "til": 1726,
+      "navn": "Johannes de Buchwald",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1726,
+      "til": 1729,
+      "navn": "Anders Frølund",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1729,
+      "til": 1731,
+      "navn": "Søren Lintrup",
+      "fakultet": "",
+      "noter": "dør i rektoratet"
+    },
+    {
+      "fra": 1731,
+      "til": 1731,
+      "navn": "Johannes de Buchwald",
+      "fakultet": "",
+      "noter": "prorektor (fungerende rektor)"
+    },
+    {
+      "fra": 1731,
+      "til": 1732,
+      "navn": "Christian Bagger",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1732,
+      "til": 1733,
+      "navn": "Hans Gram",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1733,
+      "til": 1734,
+      "navn": "Hans Stenbuch",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1734,
+      "til": 1735,
+      "navn": "Georg Detharding",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1735,
+      "til": 1736,
+      "navn": "Ludvig Holberg",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1736,
+      "til": 1737,
+      "navn": "Marcus Wöldike",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1737,
+      "til": 1738,
+      "navn": "Andreas Hojer",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1738,
+      "til": 1739,
+      "navn": "Peder Nielsen Horrebow",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1739,
+      "til": 1740,
+      "navn": "Jeremias Friedrich Reuss",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1740,
+      "til": 1741,
+      "navn": "Balthazar Johannes de Buchwald",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1741,
+      "til": 1742,
+      "navn": "Christian Thestrup",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1742,
+      "til": 1743,
+      "navn": "Marcus Wöldike",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1743,
+      "til": 1744,
+      "navn": "Georg Detharding",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1744,
+      "til": 1745,
+      "navn": "Hans Gram",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1745,
+      "til": 1746,
+      "navn": "Søren Bloch",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1746,
+      "til": 1747,
+      "navn": "Christian Ludvig Scheidt",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1747,
+      "til": 1748,
+      "navn": "Peder Nielsen Horrebow",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1748,
+      "til": 1749,
+      "navn": "Jeremias Friedrich Reuss",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1749,
+      "til": 1750,
+      "navn": "Balthazar Johannes de Buchwald",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1750,
+      "til": 1751,
+      "navn": "Peder Holm",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1751,
+      "til": 1752,
+      "navn": "Hans Peter Anchersen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1752,
+      "til": 1753,
+      "navn": "Peder Kofoed Ancher",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1753,
+      "til": 1754,
+      "navn": "Johan Christian Kall",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1754,
+      "til": 1755,
+      "navn": "Peder Rosenstand-Goiske",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1755,
+      "til": 1756,
+      "navn": "Christen Lodberg Friis",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1756,
+      "til": 1757,
+      "navn": "Bernhard Møllmann",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1757,
+      "til": 1758,
+      "navn": "Hans Otto Bang",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1758,
+      "til": 1759,
+      "navn": "Balthazar Johan de Buchwald",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1759,
+      "til": 1760,
+      "navn": "Hans Peter Anchersen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1760,
+      "til": 1761,
+      "navn": "Peder Holm",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1761,
+      "til": 1762,
+      "navn": "Johan Christian Kall",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1762,
+      "til": 1763,
+      "navn": "Peder Kofoed Ancher",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1763,
+      "til": 1764,
+      "navn": "Peder Rosenstand-Goiske",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1764,
+      "til": 1765,
+      "navn": "Bernhard Møllmann",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1765,
+      "til": 1766,
+      "navn": "Christian Gottlieb Kratzenstein",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1766,
+      "til": 1767,
+      "navn": "Johan Andreas Cramer",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1767,
+      "til": 1768,
+      "navn": "Peder Kofoed Ancher",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1768,
+      "til": 1769,
+      "navn": "Christen Horrebow",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1769,
+      "til": 1770,
+      "navn": "Peder Holm",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1770,
+      "til": 1771,
+      "navn": "Johan Christian Kall",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1771,
+      "til": 1772,
+      "navn": "Christian Gottlieb Kratzenstein",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1772,
+      "til": 1773,
+      "navn": "Martin Hübner",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1773,
+      "til": 1774,
+      "navn": "Nicolai Edinger Balle",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1774,
+      "til": 1775,
+      "navn": "Peder Kofoed Ancher",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1775,
+      "til": 1776,
+      "navn": "Hector Frederik Janson",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1776,
+      "til": 1777,
+      "navn": "Christen Friis Rottbøll",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1777,
+      "til": 1778,
+      "navn": "Balthasar Gebhard von Obelitz",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1778,
+      "til": 1779,
+      "navn": "Claus Frees Hornemann",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1779,
+      "til": 1780,
+      "navn": "Christian Gottlieb Kratzenstein",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1780,
+      "til": 1780,
+      "navn": "Johan Heinrich Schlegel",
+      "fakultet": "",
+      "noter": "dør i rektoratet"
+    },
+    {
+      "fra": 1780,
+      "til": 1782,
+      "navn": "Nicolai Edinger Balle",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1782,
+      "til": 1783,
+      "navn": "Jacob Edvard Colbiørnsen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1783,
+      "til": 1784,
+      "navn": "Abraham Kall",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1784,
+      "til": 1785,
+      "navn": "Hector Frederik Janson",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1785,
+      "til": 1786,
+      "navn": "Christian Gottlieb Kratzenstein",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1786,
+      "til": 1787,
+      "navn": "Børge Riisbrigh",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1787,
+      "til": 1788,
+      "navn": "Claus Frees Hornemann",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1788,
+      "til": 1789,
+      "navn": "Jacob Edvard Colbiørnsen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1789,
+      "til": 1790,
+      "navn": "Thomas Bugge",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1790,
+      "til": 1791,
+      "navn": "Daniel Gotthilf Moldenhawer",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1791,
+      "til": 1792,
+      "navn": "Lauritz Nørregaard",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1792,
+      "til": 1793,
+      "navn": "Nicolai Christoffer Kall",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1793,
+      "til": 1794,
+      "navn": "Claus Frees Hornemann",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1794,
+      "til": 1795,
+      "navn": "Jacob Baden",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1795,
+      "til": 1796,
+      "navn": "Mathias Saxtorph",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1796,
+      "til": 1797,
+      "navn": "Friederich Münter",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1797,
+      "til": 1798,
+      "navn": "Mathias Saxtorph",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1798,
+      "til": 1799,
+      "navn": "Abraham Kall",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1799,
+      "til": 1800,
+      "navn": "Daniel Gotthilf Moldenhawer",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1800,
+      "til": 1801,
+      "navn": "Johan Clemens Tode",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1801,
+      "til": 1802,
+      "navn": "Thomas Bugge",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1802,
+      "til": 1803,
+      "navn": "Friederich Münter",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1803,
+      "til": 1804,
+      "navn": "Johan Frederik Vilhelm Schlegel",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1804,
+      "til": 1805,
+      "navn": "Nicolai Christoffer Kall",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1805,
+      "til": 1806,
+      "navn": "Claus Frees Hornemann",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1806,
+      "til": 1807,
+      "navn": "Frederik Ludvig Bang",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1807,
+      "til": 1808,
+      "navn": "Niels Treschow",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1808,
+      "til": 1809,
+      "navn": "Peter Erasmus Müller",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1809,
+      "til": 1810,
+      "navn": "Frederik Theodor Hurtigkarl",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1810,
+      "til": 1811,
+      "navn": "Thomas Bugge",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1811,
+      "til": 1812,
+      "navn": "Claus Frees Hornemann",
+      "fakultet": "",
+      "noter": "5. periode som rektor"
+    },
+    {
+      "fra": 1812,
+      "til": 1813,
+      "navn": "Johan Frederik Vilhelm Schlegel",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1813,
+      "til": 1814,
+      "navn": "Børge Thorlacius",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1814,
+      "til": 1815,
+      "navn": "Peter Erasmus Müller",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1815,
+      "til": 1816,
+      "navn": "Johan Sylvester Saxtorph",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1816,
+      "til": 1817,
+      "navn": "Jacob Andreas Wolf",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1817,
+      "til": 1818,
+      "navn": "Claus Frees Hornemann",
+      "fakultet": "",
+      "noter": "6. periode som rektor"
+    },
+    {
+      "fra": 1818,
+      "til": 1819,
+      "navn": "Frederik Theodor Hurtigkarl",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1819,
+      "til": 1820,
+      "navn": "Johan David Herholdt",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1820,
+      "til": 1821,
+      "navn": "Niels Schow",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1821,
+      "til": 1822,
+      "navn": "Gregers Wad",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1822,
+      "til": 1823,
+      "navn": "Jens Møller",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1823,
+      "til": 1824,
+      "navn": "Matthias Hastrup Bornemann",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1824,
+      "til": 1825,
+      "navn": "Ole Bang",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1825,
+      "til": 1826,
+      "navn": "Hans Christian Ørsted",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1826,
+      "til": 1827,
+      "navn": "Knud Lyne Rahbek",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1827,
+      "til": 1828,
+      "navn": "Peter Erasmus Müller",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1828,
+      "til": 1829,
+      "navn": "Johan Frederik Vilhelm Schlegel",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1829,
+      "til": 1830,
+      "navn": "Johan Sylvester Saxtorph",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1830,
+      "til": 1831,
+      "navn": "Jens Wilken Hornemann",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1831,
+      "til": 1832,
+      "navn": "Adam Oehlenschläger",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1832,
+      "til": 1833,
+      "navn": "Jens Møller",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1833,
+      "til": 1834,
+      "navn": "Janus Lauritz Andreas Kolderup-Rosenvinge",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1834,
+      "til": 1835,
+      "navn": "Johan David Herholdt",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1835,
+      "til": 1836,
+      "navn": "Christian Thorning Engelstoft",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1836,
+      "til": 1837,
+      "navn": "Erich Christian Werlauff",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1837,
+      "til": 1838,
+      "navn": "Henrik Nicolai Clausen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1838,
+      "til": 1839,
+      "navn": "Johannes Ephraim Larsen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1839,
+      "til": 1840,
+      "navn": "Ole Bang",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1840,
+      "til": 1841,
+      "navn": "Hans Christian Ørsted",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1841,
+      "til": 1842,
+      "navn": "Peter Oluf Brøndsted",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1842,
+      "til": 1843,
+      "navn": "Carl Emil Scharling",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1843,
+      "til": 1844,
+      "navn": "Anton Wilhelm Scheel",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1844,
+      "til": 1845,
+      "navn": "Daniel Frederik Esricht",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1845,
+      "til": 1846,
+      "navn": "Frederik Christian Sibbern",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1846,
+      "til": 1847,
+      "navn": "Adam Oehlenschläger",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1847,
+      "til": 1848,
+      "navn": "Christian Thorning Engelstoft",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1848,
+      "til": 1849,
+      "navn": "Frederik Christian Bornemann",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1849,
+      "til": 1850,
+      "navn": "Sophus August Vilhelm Stein",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1850,
+      "til": 1851,
+      "navn": "Hans Christian Ørsted",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1851,
+      "til": 1853,
+      "navn": "Henrik Nicolai Clausen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1853,
+      "til": 1855,
+      "navn": "Johannes Ephraim Larsen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1855,
+      "til": 1857,
+      "navn": "Johan Nicolai Madvig",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1857,
+      "til": 1859,
+      "navn": "Johan Georg Forchhammer",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1859,
+      "til": 1861,
+      "navn": "Frederik Christian Bornemann",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1861,
+      "til": 1862,
+      "navn": "Carl Emil Scharling",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1862,
+      "til": 1863,
+      "navn": "Henrik Nicolai Clausen",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1863,
+      "til": 1864,
+      "navn": "Johan Nicolai Madvig",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1864,
+      "til": 1865,
+      "navn": "Henrik Nicolai Clausen",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1865,
+      "til": 1866,
+      "navn": "Frederik Terkel Julius Gram",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1866,
+      "til": 1867,
+      "navn": "Johan Nicolai Madvig",
+      "fakultet": "",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1867,
+      "til": 1868,
+      "navn": "Niels Ludvig Westergaard",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1868,
+      "til": 1869,
+      "navn": "Andreas Buntzen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1869,
+      "til": 1870,
+      "navn": "Henrik Nicolai Clausen",
+      "fakultet": "",
+      "noter": "5. periode som rektor"
+    },
+    {
+      "fra": 1870,
+      "til": 1871,
+      "navn": "Johan Nicolai Madvig",
+      "fakultet": "",
+      "noter": "4. periode som rektor"
+    },
+    {
+      "fra": 1871,
+      "til": 1872,
+      "navn": "Andreas Aagesen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1872,
+      "til": 1873,
+      "navn": "Adolph Steen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1873,
+      "til": 1874,
+      "navn": "Christen Hermansen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1874,
+      "til": 1875,
+      "navn": "Johannes Magnus Valdemar Nellemann",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1875,
+      "til": 1876,
+      "navn": "Johan Louis Ussing",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1876,
+      "til": 1877,
+      "navn": "Peter Ludvig Panum",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1877,
+      "til": 1878,
+      "navn": "Carl Valentin Holten",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1878,
+      "til": 1879,
+      "navn": "Johan Nicolai Madvig",
+      "fakultet": "",
+      "noter": "5. periode som rektor"
+    },
+    {
+      "fra": 1879,
+      "til": 1880,
+      "navn": "August Herman Ferdinand Carl Goos",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1880,
+      "til": 1881,
+      "navn": "Rasmus Nielsen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1881,
+      "til": 1882,
+      "navn": "Johannes Frederik Johnstrup",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1882,
+      "til": 1883,
+      "navn": "Peter Edvard Holm",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1833,
+      "til": 1834,
+      "navn": "Carl Marinus Reisz",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1884,
+      "til": 1885,
+      "navn": "Carl Henrik Scharling",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1885,
+      "til": 1886,
+      "navn": "Johan Louis Ussing",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1886,
+      "til": 1887,
+      "navn": "Hans Peter Jürgen Julius Thomsen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1887,
+      "til": 1888,
+      "navn": "H. William Scharling",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1888,
+      "til": 1889,
+      "navn": "Carl Edward With",
+      "fakultet": "Lægevidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1889,
+      "til": 1890,
+      "navn": "Peder Madsen",
+      "fakultet": "Teologi",
+      "noter": ""
+    },
+    {
+      "fra": 1890,
+      "til": 1891,
+      "navn": "Peter Edvard Holm",
+      "fakultet": "Humaniora",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1891,
+      "til": 1892,
+      "navn": "Hans Peter Jürgen Julius Thomsen",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1892,
+      "til": 1893,
+      "navn": "Henning Matzen",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1893,
+      "til": 1894,
+      "navn": "Carl Marinus Reisz",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1894,
+      "til": 1895,
+      "navn": "Ludvig Wimmer",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1895,
+      "til": 1896,
+      "navn": "Hieronymus Georg Zeuthen",
+      "fakultet": "",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1896,
+      "til": 1897,
+      "navn": "Carl Henrik Scharling",
+      "fakultet": "",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1897,
+      "til": 1898,
+      "navn": "Johan Henrik Deuntzer",
+      "fakultet": "",
+      "noter": ""
+    },
+    {
+      "fra": 1898,
+      "til": 1899,
+      "navn": "Carl Marinus Reisz",
+      "fakultet": "Lægevidenskab",
+      "noter": "3. periode som rektor"
+    },
+    {
+      "fra": 1899,
+      "til": 1900,
+      "navn": "Johannes Steenstrup",
+      "fakultet": "Humaniora",
+      "noter": ""
+    },
+    {
+      "fra": 1900,
+      "til": 1901,
+      "navn": "Thorvald Nicolai Thiele",
+      "fakultet": "Naturvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1901,
+      "til": 1902,
+      "navn": "Vilhelm Thomsen",
+      "fakultet": "Humaniora",
+      "noter": ""
+    },
+    {
+      "fra": 1902,
+      "til": 1903,
+      "navn": "Harald Høffding",
+      "fakultet": "Humaniora",
+      "noter": ""
+    },
+    {
+      "fra": 1903,
+      "til": 1904,
+      "navn": "Peder Madsen",
+      "fakultet": "Teologi",
+      "noter": ""
+    },
+    {
+      "fra": 1904,
+      "til": 1905,
+      "navn": "Julius Lassen",
+      "fakultet": "Jura",
+      "noter": ""
+    },
+    {
+      "fra": 1905,
+      "til": 1906,
+      "navn": "Christian Bohr",
+      "fakultet": "Lægevidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1906,
+      "til": 1907,
+      "navn": "Hieronymus Georg Zeuthen",
+      "fakultet": "Naturvidenskab",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1907,
+      "til": 1908,
+      "navn": "Martin Clarentius Gertz",
+      "fakultet": "Humaniora",
+      "noter": ""
+    },
+    {
+      "fra": 1908,
+      "til": 1909,
+      "navn": "Carl Torp",
+      "fakultet": "Jura",
+      "noter": ""
+    },
+    {
+      "fra": 1909,
+      "til": 1910,
+      "navn": "Carl Julius Salomonsen",
+      "fakultet": "Lægevidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1910,
+      "til": 1911,
+      "navn": "Kristian Erslev",
+      "fakultet": "Humaniora",
+      "noter": ""
+    },
+    {
+      "fra": 1911,
+      "til": 1912,
+      "navn": "Frants Buhl",
+      "fakultet": "Teologi",
+      "noter": ""
+    },
+    {
+      "fra": 1912,
+      "til": 1913,
+      "navn": "Hector Jungersen",
+      "fakultet": "Humaniora",
+      "noter": ""
+    },
+    {
+      "fra": 1913,
+      "til": 1914,
+      "navn": "J.C. Jacobsen (teolog)",
+      "fakultet": "Teologi",
+      "noter": ""
+    },
+    {
+      "fra": 1914,
+      "til": 1915,
+      "navn": "Harald Westergaard",
+      "fakultet": "Rets- og Statsvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1915,
+      "til": 1916,
+      "navn": "Johan Ludvig Heiberg (filolog)",
+      "fakultet": "Humaniora",
+      "noter": ""
+    },
+    {
+      "fra": 1916,
+      "til": 1917,
+      "navn": "Knud Faber",
+      "fakultet": "Lægevidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1917,
+      "til": 1918,
+      "navn": "Wilhelm Johannsen",
+      "fakultet": "Naturvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1918,
+      "til": 1919,
+      "navn": "Viggo Bentzon (jurist)",
+      "fakultet": "Jura",
+      "noter": ""
+    },
+    {
+      "fra": 1919,
+      "til": 1920,
+      "navn": "Thorkild Rovsing",
+      "fakultet": "Lægevidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1920,
+      "til": 1921,
+      "navn": "Otto Jespersen",
+      "fakultet": "Humaniora",
+      "noter": ""
+    },
+    {
+      "fra": 1921,
+      "til": 1922,
+      "navn": "Einar Biilmann",
+      "fakultet": "Naturvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1922,
+      "til": 1923,
+      "navn": "Johannes Bock",
+      "fakultet": "Lægevidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1923,
+      "til": 1924,
+      "navn": "Hans Vilhelm Munch-Petersen",
+      "fakultet": "Jura",
+      "noter": ""
+    },
+    {
+      "fra": 1924,
+      "til": 1925,
+      "navn": "Frederik Torm",
+      "fakultet": "Teologi",
+      "noter": ""
+    },
+    {
+      "fra": 1925,
+      "til": 1926,
+      "navn": "Johannes Fibiger",
+      "fakultet": "Lægevidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1926,
+      "til": 1927,
+      "navn": "Holger Pedersen",
+      "fakultet": "Humaniora",
+      "noter": ""
+    },
+    {
+      "fra": 1927,
+      "til": 1928,
+      "navn": "Martin Knudsen",
+      "fakultet": "Naturvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1928,
+      "til": 1929,
+      "navn": "Johannes Hjelmslev",
+      "fakultet": "Naturvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1929,
+      "til": 1930,
+      "navn": "Johannes Oskar Andersen",
+      "fakultet": "Teologi",
+      "noter": ""
+    },
+    {
+      "fra": 1930,
+      "til": 1931,
+      "navn": "Lauritz Vilhelm Birck",
+      "fakultet": "Rets- og Statsvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1931,
+      "til": 1932,
+      "navn": "Carl Bloch (læge)",
+      "fakultet": "Lægevidenskab",
+      "noter": "1. periode som rektor"
+    },
+    {
+      "fra": 1932,
+      "til": 1933,
+      "navn": "Aage Friis",
+      "fakultet": "Humaniora",
+      "noter": ""
+    },
+    {
+      "fra": 1933,
+      "til": 1934,
+      "navn": "N.E. Nørlund",
+      "fakultet": "Naturvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1934,
+      "til": 1935,
+      "navn": "Johannes Østrup",
+      "fakultet": "Humaniora",
+      "noter": ""
+    },
+    {
+      "fra": 1935,
+      "til": 1936,
+      "navn": "Axel Nielsen",
+      "fakultet": "Rets- og Statsvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1936,
+      "til": 1942,
+      "navn": "Carl Bloch (læge)",
+      "fakultet": "Sundhedsvidenskab",
+      "noter": "2. periode som rektor"
+    },
+    {
+      "fra": 1942,
+      "til": 1948,
+      "navn": "Jens Nørregaard",
+      "fakultet": "Teologi",
+      "noter": ""
+    },
+    {
+      "fra": 1948,
+      "til": 1956,
+      "navn": "Hans Marinus Hansen",
+      "fakultet": "Naturvidenskab",
+      "noter": "dør i rektoratet"
+    },
+    {
+      "fra": 1956,
+      "til": 1958,
+      "navn": "Erik Warburg",
+      "fakultet": "Sundhedsvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1958,
+      "til": 1966,
+      "navn": "Carl Iversen",
+      "fakultet": "Rets- og Statsvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1966,
+      "til": 1972,
+      "navn": "Mogens Fog",
+      "fakultet": "Sundhedsvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1972,
+      "til": 1976,
+      "navn": "Thor A. Bak",
+      "fakultet": "Naturvidenskabelig",
+      "noter": ""
+    },
+    {
+      "fra": 1976,
+      "til": 1979,
+      "navn": "Morten Lange",
+      "fakultet": "Naturvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1979,
+      "til": 1982,
+      "navn": "Erik Skinhøj",
+      "fakultet": "Sundhedsvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1982,
+      "til": 1994,
+      "navn": "Ove Nathan",
+      "fakultet": "Naturvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 1994,
+      "til": 2002,
+      "navn": "Kjeld Møllgård",
+      "fakultet": "Sundhedsvidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 2002,
+      "til": 2005,
+      "navn": "Linda Nielsen",
+      "fakultet": "Jura",
+      "noter": "første kvindelige rektor"
+    },
+    {
+      "fra": 2005,
+      "til": 2017,
+      "navn": "Ralf Hemmingsen",
+      "fakultet": "Sundhedsvidenskab",
+      "noter": "første ikke-medarbejdervalgte rektor"
+    },
+    {
+      "fra": 2017,
+      "til": 2025,
+      "navn": "Henrik C. Wegener",
+      "fakultet": "Fødevarevidenskab",
+      "noter": ""
+    },
+    {
+      "fra": 2025,
+      "til": "siddende",
+      "navn": "David Dreyer Lassen",
+      "fakultet": "Økonomi",
+      "noter": ""
+    }
+  ],
+  "meta": {
+    "title": "Københavns Universitets rektorer - Free Download",
+    "description": "Rektorer ved Københavns Universitet fra grundlæggelsen i 1479 til i dag, med periode og fakultet. Contains 434 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Københavns Universitets rektorer | ListBase",
+    "seo_description": "Download Københavns Universitets rektorer — 434 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 434 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Københavns_Universitets_rektorer"
+    ]
+  }
+}

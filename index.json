@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-09T02:45:33.126Z",
-  "total_datasets": 478,
-  "total_records": 238628,
+  "generated": "2026-11-09T02:45:43.155Z",
+  "total_datasets": 479,
+  "total_records": 239062,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -1654,6 +1654,32 @@
         "xlsx": {
           "name": "da-gymnasier_DA.xlsx",
           "size": 39363
+        }
+      }
+    },
+    {
+      "id": "da-koebenhavns-universitets-rektorer",
+      "name": "Københavns Universitets rektorer",
+      "category": "education",
+      "record_count": 434,
+      "columns": [
+        "fra",
+        "til",
+        "navn",
+        "fakultet",
+        "noter"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Københavns_Universitets_rektorer",
+      "updated": "2026-11",
+      "size": 63527,
+      "files": {
+        "csv": {
+          "name": "da-koebenhavns-universitets-rektorer_DA.csv",
+          "size": 24617
+        },
+        "xlsx": {
+          "name": "da-koebenhavns-universitets-rektorer_DA.xlsx",
+          "size": 19559
         }
       }
     },
