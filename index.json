@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-10T02:23:23.640Z",
-  "total_datasets": 484,
-  "total_records": 239267,
+  "generated": "2026-11-10T02:23:31.000Z",
+  "total_datasets": 485,
+  "total_records": 239297,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "food",
@@ -2414,6 +2414,31 @@
         "xlsx": {
           "name": "da-swift-koder_DA.xlsx",
           "size": 25181
+        }
+      }
+    },
+    {
+      "id": "da-temamoenter",
+      "name": "Danske temamønter (20-kroner)",
+      "category": "finance",
+      "record_count": 30,
+      "columns": [
+        "serie",
+        "dato",
+        "motiv",
+        "kunstner"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danske_temamønter",
+      "updated": "2026-11",
+      "size": 6025,
+      "files": {
+        "csv": {
+          "name": "da-temamoenter_DA.csv",
+          "size": 2161
+        },
+        "xlsx": {
+          "name": "da-temamoenter_DA.xlsx",
+          "size": 8008
         }
       }
     },

@@ -1,0 +1,226 @@
+{
+  "id": "da-temamoenter",
+  "name": "Danske temamønter (20-kroner)",
+  "title": "Danske temamønter (20-kroner)",
+  "description": "Danmarks Nationalbanks serier af temamønter (tårnmønter, eventyrmønter, polarmønter, skibsmønter m.fl.) med udgivelsesdato, motiv og kunstner.",
+  "category": "finance",
+  "source": "https://da.wikipedia.org/wiki/Danske_temamønter",
+  "source_url": "https://da.wikipedia.org/wiki/Danske_temamønter",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "serie",
+      "label": "Serie",
+      "type": "string"
+    },
+    {
+      "key": "dato",
+      "label": "Dato",
+      "type": "string"
+    },
+    {
+      "key": "motiv",
+      "label": "Motiv",
+      "type": "string"
+    },
+    {
+      "key": "kunstner",
+      "label": "Kunstner",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "serie": "Tårnmønterne",
+      "dato": "2. december 2002",
+      "motiv": "Århus Rådhustårn",
+      "kunstner": "Lis Nogel"
+    },
+    {
+      "serie": "Tårnmønterne",
+      "dato": "1. maj 2003",
+      "motiv": "Børsens Dragetårn",
+      "kunstner": "Karin Lorentzen"
+    },
+    {
+      "serie": "Tårnmønterne",
+      "dato": "20. november 2003",
+      "motiv": "Christiansborgs Slotstårn",
+      "kunstner": "Hans Pauli Olsen"
+    },
+    {
+      "serie": "Tårnmønterne",
+      "dato": "31. marts 2004",
+      "motiv": "Gåsetårnet",
+      "kunstner": "Tina Maria Nielsen"
+    },
+    {
+      "serie": "Tårnmønterne",
+      "dato": "2. august 2004",
+      "motiv": "Svaneke Vandtårn",
+      "kunstner": "Morten Stræde"
+    },
+    {
+      "serie": "Tårnmønterne",
+      "dato": "28. januar 2005",
+      "motiv": "Landet Kirke",
+      "kunstner": "Øivind Nygård"
+    },
+    {
+      "serie": "Tårnmønterne",
+      "dato": "15. september 2005",
+      "motiv": "Nólsoy Fyr",
+      "kunstner": "Hans Pauli Olsen"
+    },
+    {
+      "serie": "Tårnmønterne",
+      "dato": "15. februar 2006",
+      "motiv": "Gråsten Slot",
+      "kunstner": "Sys Hindsbo"
+    },
+    {
+      "serie": "Tårnmønterne",
+      "dato": "27. september 2006",
+      "motiv": "Tre Brødre",
+      "kunstner": "Niels Motzfeldt"
+    },
+    {
+      "serie": "Tårnmønterne",
+      "dato": "20. juni 2007",
+      "motiv": "Københavns Rådhustårn",
+      "kunstner": "Lis Nogel"
+    },
+    {
+      "serie": "Eventyrmønterne",
+      "dato": "31. marts 2005",
+      "motiv": "Den grimme ælling",
+      "kunstner": "Hans Pauli Olsen"
+    },
+    {
+      "serie": "Eventyrmønterne",
+      "dato": "20. oktober 2005",
+      "motiv": "Den lille Havfrue",
+      "kunstner": "Tina Maria Nielsen"
+    },
+    {
+      "serie": "Eventyrmønterne",
+      "dato": "24. april 2006",
+      "motiv": "Skyggen",
+      "kunstner": "Bjørn Nørgaard"
+    },
+    {
+      "serie": "Eventyrmønterne",
+      "dato": "30. august 2006",
+      "motiv": "Snedronningen",
+      "kunstner": "Øivind Nygård"
+    },
+    {
+      "serie": "Eventyrmønterne",
+      "dato": "25. oktober 2007",
+      "motiv": "Nattergalen",
+      "kunstner": "Torben Ebbesen"
+    },
+    {
+      "serie": "Polarmønterne",
+      "dato": "26. marts 2007",
+      "motiv": "En isbjørn",
+      "kunstner": "Niels Motzfeldt"
+    },
+    {
+      "serie": "Polarmønterne",
+      "dato": "26. februar 2008",
+      "motiv": "Motiv inspireret af Slædepatruljen Sirius",
+      "kunstner": "Margrete Sørensen"
+    },
+    {
+      "serie": "Polarmønterne",
+      "dato": "23. februar 2009",
+      "motiv": "Nordlys",
+      "kunstner": "Morten Stræde"
+    },
+    {
+      "serie": "Skibsmønterne",
+      "dato": "25. april 2007",
+      "motiv": "Vædderen",
+      "kunstner": "Øivind Nygård"
+    },
+    {
+      "serie": "Skibsmønterne",
+      "dato": "10. september 2007",
+      "motiv": "Fregatten Jylland",
+      "kunstner": "Hans Pauli Olsen"
+    },
+    {
+      "serie": "Skibsmønterne",
+      "dato": "17. april 2008",
+      "motiv": "Selandia",
+      "kunstner": "Torben Ebbesen"
+    },
+    {
+      "serie": "Skibsmønterne",
+      "dato": "8. august 2008",
+      "motiv": "Havhingsten",
+      "kunstner": "Erik Varming"
+    },
+    {
+      "serie": "Skibsmønterne",
+      "dato": "22. september 2008",
+      "motiv": "Kongeskibet Dannebrog",
+      "kunstner": "Henrik Wiberg"
+    },
+    {
+      "serie": "Skibsmønterne",
+      "dato": "27. maj 2009",
+      "motiv": "Fyrskib XVII",
+      "kunstner": "Karin Lorentzen"
+    },
+    {
+      "serie": "Skibsmønterne",
+      "dato": "2. november 2009",
+      "motiv": "Færøbåd",
+      "kunstner": "Hans Pauli Olsen"
+    },
+    {
+      "serie": "Skibsmønterne",
+      "dato": "29. november 2010",
+      "motiv": "Kajak - Konebåd",
+      "kunstner": "Niels Motzfeldt"
+    },
+    {
+      "serie": "Skibsmønterne",
+      "dato": "18. marts 2011",
+      "motiv": "Emma Mærsk",
+      "kunstner": "Torben Ebbesen"
+    },
+    {
+      "serie": "Skibsmønterne",
+      "dato": "8. juni 2011",
+      "motiv": "Hjejlen",
+      "kunstner": "Henrik Wiberg"
+    },
+    {
+      "serie": "Skibsmønterne",
+      "dato": "29. maj 2012",
+      "motiv": "M/F Kong Frederik IX",
+      "kunstner": "Elisabeth Toubro"
+    },
+    {
+      "serie": "Skibsmønterne",
+      "dato": "11. december 2012",
+      "motiv": "Fiskekutter",
+      "kunstner": "Margrete Sørensen"
+    }
+  ],
+  "meta": {
+    "title": "Danske temamønter (20-kroner) - Free Download",
+    "description": "Danmarks Nationalbanks serier af temamønter (tårnmønter, eventyrmønter, polarmønter, skibsmønter m.fl.) med udgivelsesdato, motiv og kunstner. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danske temamønter (20-kroner) | ListBase",
+    "seo_description": "Download Danske temamønter (20-kroner) — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danske_temamønter"
+    ]
+  }
+}
