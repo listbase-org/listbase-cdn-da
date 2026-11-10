@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-09T02:46:00.045Z",
-  "total_datasets": 481,
-  "total_records": 239115,
+  "generated": "2026-11-10T02:23:09.384Z",
+  "total_datasets": 482,
+  "total_records": 239135,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -3914,6 +3914,30 @@
         "xlsx": {
           "name": "da-vikingeskibe_DA.xlsx",
           "size": 55152
+        }
+      }
+    },
+    {
+      "id": "da-aarets-ord",
+      "name": "Årets ord i Danmark (fra 2006)",
+      "category": "language",
+      "record_count": 20,
+      "columns": [
+        "aar",
+        "aarets_ord",
+        "note"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Årets_ord",
+      "updated": "2026-11",
+      "size": 3704,
+      "files": {
+        "csv": {
+          "name": "da-aarets-ord_DA.csv",
+          "size": 1127
+        },
+        "xlsx": {
+          "name": "da-aarets-ord_DA.xlsx",
+          "size": 7616
         }
       }
     },
