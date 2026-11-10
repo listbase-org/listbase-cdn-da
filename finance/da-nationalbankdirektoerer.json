@@ -1,0 +1,424 @@
+{
+  "id": "da-nationalbankdirektoerer",
+  "name": "Danmarks Nationalbanks direktører siden 1818",
+  "title": "Danmarks Nationalbanks direktører siden 1818",
+  "description": "Direktører i Danmarks Nationalbank fra 1818 til i dag, med embedsperiode og om de var kongeligt udnævnt eller valgt af repræsentantskabet.",
+  "category": "finance",
+  "source": "https://da.wikipedia.org/wiki/Danmarks_Nationalbank",
+  "source_url": "https://da.wikipedia.org/wiki/Danmarks_Nationalbank",
+  "updated": "2026-11",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "fra",
+      "label": "Fra",
+      "type": "number"
+    },
+    {
+      "key": "til",
+      "label": "Til",
+      "type": "number"
+    },
+    {
+      "key": "udnaevnelse",
+      "label": "Udnaevnelse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "navn": "Christian Thomsen",
+      "fra": 1818,
+      "til": 1833,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Daniel Koefoed",
+      "fra": 1818,
+      "til": 1835,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Jacob Thomsen",
+      "fra": 1818,
+      "til": 1836,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Ole Warberg",
+      "fra": 1818,
+      "til": 1821,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Peder Møller",
+      "fra": 1818,
+      "til": 1821,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Nicolai Aagesen",
+      "fra": 1821,
+      "til": 1838,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Peder Møller",
+      "fra": 1821,
+      "til": 1838,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Hans Georg Christensen",
+      "fra": 1833,
+      "til": 1846,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "L.N. Hvidt",
+      "fra": 1835,
+      "til": 1856,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Peter Georg Bang",
+      "fra": 1836,
+      "til": 1845,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "C.W. Haagen",
+      "fra": 1838,
+      "til": 1869,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Nicolai Aagesen",
+      "fra": 1838,
+      "til": 1861,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Christian Ferdinand Wilse",
+      "fra": 1845,
+      "til": 1858,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Hans Peter Hansen",
+      "fra": 1846,
+      "til": 1861,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "H.L. Frøhlich",
+      "fra": 1856,
+      "til": 1867,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "C.N. David",
+      "fra": 1859,
+      "til": 1874,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Carl Liebenberg",
+      "fra": 1861,
+      "til": 1865,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Moritz Levy",
+      "fra": 1861,
+      "til": 1892,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "S.F.C. Nyholm",
+      "fra": 1865,
+      "til": 1868,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "C.W. Henrichsen",
+      "fra": 1867,
+      "til": 1870,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "W.C.E. Sponneck",
+      "fra": 1868,
+      "til": 1873,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "S. Linnemann",
+      "fra": 1869,
+      "til": 1892,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "A.E. Reimann",
+      "fra": 1870,
+      "til": 1873,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "F.C. Smidt",
+      "fra": 1873,
+      "til": 1896,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "W.J.A. Ussing",
+      "fra": 1873,
+      "til": 1887,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Rasmus Strøm",
+      "fra": 1888,
+      "til": 1913,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Rudolf Tvermose",
+      "fra": 1892,
+      "til": 1912,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "S. Linnemann",
+      "fra": 1892,
+      "til": 1896,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Johannes Nellemann",
+      "fra": 1896,
+      "til": 1906,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Søren Christian Knudtzon",
+      "fra": 1896,
+      "til": 1913,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "J. Winther",
+      "fra": 1907,
+      "til": 1924,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Johannes Lauridsen",
+      "fra": 1909,
+      "til": 1920,
+      "udnaevnelse": "Kgl. udnævnt (landbrugskyndig)"
+    },
+    {
+      "navn": "Emil Meyer",
+      "fra": 1912,
+      "til": 1913,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Marcus Rubin",
+      "fra": 1913,
+      "til": 1923,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Westy Stephensen",
+      "fra": 1913,
+      "til": 1939,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Carl Ussing",
+      "fra": 1914,
+      "til": 1924,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Jens Peter Dalsgaard",
+      "fra": 1920,
+      "til": 1923,
+      "udnaevnelse": "Kgl. udnævnt (landbrugskyndig)"
+    },
+    {
+      "navn": "Hans Rosenkrantz",
+      "fra": 1923,
+      "til": 1935,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Holmer Green",
+      "fra": 1923,
+      "til": 1931,
+      "udnaevnelse": "Kgl. udnævnt (landbrugskyndig)"
+    },
+    {
+      "navn": "J. Kr. Lindberg",
+      "fra": 1924,
+      "til": 1932,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Frits Schrøder",
+      "fra": 1925,
+      "til": 1936,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "C.V. Bramsnæs",
+      "fra": 1933,
+      "til": 1949,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Ove Jepsen",
+      "fra": 1935,
+      "til": 1955,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "H. Haugen-Johansen",
+      "fra": 1939,
+      "til": 1957,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Holger Koed",
+      "fra": 1949,
+      "til": 1950,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Svend Nielsen",
+      "fra": 1950,
+      "til": 1964,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "S. Hartogsohn",
+      "fra": 1956,
+      "til": 1963,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Frede Sunesen",
+      "fra": 1957,
+      "til": 1979,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Svend Andersen",
+      "fra": 1963,
+      "til": 1982,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Erik Hoffmeyer",
+      "fra": 1965,
+      "til": 1994,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Ole Thomasen",
+      "fra": 1980,
+      "til": 1996,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Richard Mikkelsen",
+      "fra": 1982,
+      "til": 1990,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Bodil Nyboe Andersen",
+      "fra": 1990,
+      "til": 1995,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Bodil Nyboe Andersen",
+      "fra": 1995,
+      "til": 2005,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Jens Thomsen",
+      "fra": 1995,
+      "til": 2011,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Torben Nielsen",
+      "fra": 1996,
+      "til": 2011,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Nils Bernstein",
+      "fra": 2005,
+      "til": 2013,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Hugo Frey Jensen",
+      "fra": 2011,
+      "til": 2020,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Per Callesen",
+      "fra": 2011,
+      "til": 2024,
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Lars Rohde",
+      "fra": 2013,
+      "til": 2023,
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Signe Krogstrup",
+      "fra": 2020,
+      "til": "",
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    },
+    {
+      "navn": "Christian Kettel Thomsen",
+      "fra": 2023,
+      "til": "",
+      "udnaevnelse": "Kgl. udnævnt / Ordningen af 1818"
+    },
+    {
+      "navn": "Ulrik Nødgaard",
+      "fra": 2024,
+      "til": "",
+      "udnaevnelse": "Valgt af repræsentantskabet"
+    }
+  ],
+  "meta": {
+    "title": "Danmarks Nationalbanks direktører siden 1818 - Free Download",
+    "description": "Direktører i Danmarks Nationalbank fra 1818 til i dag, med embedsperiode og om de var kongeligt udnævnt eller valgt af repræsentantskabet. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danmarks Nationalbanks direktører siden 1818 | ListBase",
+    "seo_description": "Download Danmarks Nationalbanks direktører siden 1818 — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danmarks_Nationalbank"
+    ]
+  }
+}

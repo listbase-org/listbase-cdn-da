@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-10T02:23:09.384Z",
-  "total_datasets": 482,
-  "total_records": 239135,
+  "generated": "2026-11-10T02:23:16.124Z",
+  "total_datasets": 483,
+  "total_records": 239198,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "food",
@@ -2250,6 +2250,31 @@
         "xlsx": {
           "name": "da-cafeer_DA.xlsx",
           "size": 114387
+        }
+      }
+    },
+    {
+      "id": "da-nationalbankdirektoerer",
+      "name": "Danmarks Nationalbanks direktører siden 1818",
+      "category": "finance",
+      "record_count": 63,
+      "columns": [
+        "navn",
+        "fra",
+        "til",
+        "udnaevnelse"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danmarks_Nationalbank",
+      "updated": "2026-11",
+      "size": 10257,
+      "files": {
+        "csv": {
+          "name": "da-nationalbankdirektoerer_DA.csv",
+          "size": 4047
+        },
+        "xlsx": {
+          "name": "da-nationalbankdirektoerer_DA.xlsx",
+          "size": 8655
         }
       }
     },
