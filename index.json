@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-10T02:23:16.124Z",
-  "total_datasets": 483,
-  "total_records": 239198,
+  "generated": "2026-11-10T02:23:23.640Z",
+  "total_datasets": 484,
+  "total_records": 239267,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "food",
@@ -2339,6 +2339,30 @@
         "xlsx": {
           "name": "da-pengeautomater_DA.xlsx",
           "size": 8422
+        }
+      }
+    },
+    {
+      "id": "da-pengeinstitutter-efter-stoerrelse",
+      "name": "Danske pengeinstitutter efter størrelse",
+      "category": "finance",
+      "record_count": 69,
+      "columns": [
+        "pengeinstitut",
+        "gruppe",
+        "note"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danske_pengeinstitutter_efter_størrelse",
+      "updated": "2026-11",
+      "size": 12330,
+      "files": {
+        "csv": {
+          "name": "da-pengeinstitutter-efter-stoerrelse_DA.csv",
+          "size": 5998
+        },
+        "xlsx": {
+          "name": "da-pengeinstitutter-efter-stoerrelse_DA.xlsx",
+          "size": 8721
         }
       }
     },

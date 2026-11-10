@@ -1,0 +1,386 @@
+{
+  "id": "da-pengeinstitutter-efter-stoerrelse",
+  "name": "Danske pengeinstitutter efter størrelse",
+  "title": "Danske pengeinstitutter efter størrelse",
+  "description": "Danske banker, sparekasser, andelskasser og realkreditinstitutter inddelt i Finanstilsynets størrelsesgrupper (SIFI, gruppe 2–4 og filialer af udenlandske institutter).",
+  "category": "finance",
+  "source": "https://da.wikipedia.org/wiki/Danske_pengeinstitutter_efter_størrelse",
+  "source_url": "https://da.wikipedia.org/wiki/Danske_pengeinstitutter_efter_størrelse",
+  "updated": "2026-11",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "pengeinstitut",
+      "label": "Pengeinstitut",
+      "type": "string"
+    },
+    {
+      "key": "gruppe",
+      "label": "Gruppe",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pengeinstitut": "Nykredit Realkredit A/S",
+      "gruppe": "Gruppe 1: Systemiske Vigtige institutter (SIFI)",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Nykredit Bank A/S",
+      "gruppe": "Gruppe 1: Systemiske Vigtige institutter (SIFI)",
+      "note": "en del af Nykredit-koncernen"
+    },
+    {
+      "pengeinstitut": "Spar Nord Bank A/S",
+      "gruppe": "Gruppe 1: Systemiske Vigtige institutter (SIFI)",
+      "note": "en del af Nykredit-koncernen"
+    },
+    {
+      "pengeinstitut": "Totalkredit A/S",
+      "gruppe": "Gruppe 1: Systemiske Vigtige institutter (SIFI)",
+      "note": "en del af Nykredit-koncernen"
+    },
+    {
+      "pengeinstitut": "Danske Bank A/S",
+      "gruppe": "Gruppe 1: Systemiske Vigtige institutter (SIFI)",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Realkredit Danmark A/S",
+      "gruppe": "Gruppe 1: Systemiske Vigtige institutter (SIFI)",
+      "note": "en del af Danske Bank-koncernen"
+    },
+    {
+      "pengeinstitut": "Nordea Kredit Realkreditaktieselskab",
+      "gruppe": "Gruppe 1: Systemiske Vigtige institutter (SIFI)",
+      "note": "en del af Nordea -koncernen"
+    },
+    {
+      "pengeinstitut": "Jyske Bank A/S",
+      "gruppe": "Gruppe 1: Systemiske Vigtige institutter (SIFI)",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Jyske Realkredit A/S",
+      "gruppe": "Gruppe 1: Systemiske Vigtige institutter (SIFI)",
+      "note": "en del af Jyske Bank-koncernen"
+    },
+    {
+      "pengeinstitut": "DLR Kredit A/S",
+      "gruppe": "Gruppe 1: Systemiske Vigtige institutter (SIFI)",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "AL Sydbank A/S",
+      "gruppe": "Gruppe 1: Systemiske Vigtige institutter (SIFI)",
+      "note": "fusion 8. december 2025 af Sydbank (også Coop Bank), Arbejdernes Landsbank og Vestjysk Bank"
+    },
+    {
+      "pengeinstitut": "Coop Bank A/S",
+      "gruppe": "Gruppe 1: Systemiske Vigtige institutter (SIFI)",
+      "note": "ejet af AL Sydbank"
+    },
+    {
+      "pengeinstitut": "Saxo Bank A/S",
+      "gruppe": "Gruppe 1: Systemiske Vigtige institutter (SIFI)",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Ringkjøbing Landbobank, A/S",
+      "gruppe": "Gruppe 2: Arbejdende kapital over 15 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Sparekassen Danmark",
+      "gruppe": "Gruppe 2: Arbejdende kapital over 15 mia. kr.",
+      "note": "Fusion med Sparekassen Djursland 2025"
+    },
+    {
+      "pengeinstitut": "Danmarks Skibskredit A/S",
+      "gruppe": "Gruppe 2: Arbejdende kapital over 15 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Sparekassen Kronjylland",
+      "gruppe": "Gruppe 2: Arbejdende kapital over 15 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Lån & Spar Bank A/S",
+      "gruppe": "Gruppe 2: Arbejdende kapital over 15 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Sparekassen Sjælland-Fyn A/S",
+      "gruppe": "Gruppe 2: Arbejdende kapital over 15 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Middelfart Sparekasse",
+      "gruppe": "Gruppe 2: Arbejdende kapital over 15 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Danske Andelskassers Bank A/S",
+      "gruppe": "Gruppe 2: Arbejdende kapital over 15 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Djurslands Bank A/S",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Sparekassen Thy",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Sydjysk Sparekasse",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Skjern Bank A/S",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Lunar Bank A/S",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Lægernes Bank A/S",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Fynske Bank A/S",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Ekspres Bank A/S",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Kreditbanken A/S",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Lollands Bank A/S",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Nordfyns Bank, Aktieselskabet",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Merkur Andelskasse",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Møns Bank A/S",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Sparekassen Bredebro",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Sparekassen for Nr. Nebel og Omegn",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Dragsholm Sparekasse",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Hvidbjerg Bank. A/S",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Facit Bank A/S",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Kompasbank A/S",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "PenSam Bank A/S",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": "Fusion med Arbejdernes Landsbank 2025"
+    },
+    {
+      "pengeinstitut": "Rise Sparekasse",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Frørup Andelskasse",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Balling Sparekasse",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Frøslev-Mollerup Sparekasse",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Rønde Sparekasse",
+      "gruppe": "Gruppe 3: Arbejdende kapital over 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Maj Bank A/S",
+      "gruppe": "Gruppe 4: Arbejdende kapital under 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Sønderhå-Hørsted Sparekasse",
+      "gruppe": "Gruppe 4: Arbejdende kapital under 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Andelskassen Fælleskassen",
+      "gruppe": "Gruppe 4: Arbejdende kapital under 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Faster Andelskasse",
+      "gruppe": "Gruppe 4: Arbejdende kapital under 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Borbjerg Sparekasse",
+      "gruppe": "Gruppe 4: Arbejdende kapital under 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Klim Sparekasse",
+      "gruppe": "Gruppe 4: Arbejdende kapital under 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Stadil Sparekasse",
+      "gruppe": "Gruppe 4: Arbejdende kapital under 1 mia. kr.",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Leasing Fyn Bank A/S",
+      "gruppe": "Gruppe 4: Arbejdende kapital under 1 mia. kr.",
+      "note": "banklicens inddraget 16. December 2024"
+    },
+    {
+      "pengeinstitut": "Siemens Financial Services Danmark",
+      "gruppe": "Gruppe 5: Filialer af udenlandske institutter i Danmark",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Ikano Bank",
+      "gruppe": "Gruppe 5: Filialer af udenlandske institutter i Danmark",
+      "note": "Ikano Bank AB, Sverige"
+    },
+    {
+      "pengeinstitut": "Nordea",
+      "gruppe": "Gruppe 5: Filialer af udenlandske institutter i Danmark",
+      "note": "Nordea Bank Abp, Finland"
+    },
+    {
+      "pengeinstitut": "SEB Kort Bank",
+      "gruppe": "Gruppe 5: Filialer af udenlandske institutter i Danmark",
+      "note": "SEB Kort Bank AB, Sverige"
+    },
+    {
+      "pengeinstitut": "Santander Consumer Bank",
+      "gruppe": "Gruppe 5: Filialer af udenlandske institutter i Danmark",
+      "note": "Santander Consumer Bank AS, Norge"
+    },
+    {
+      "pengeinstitut": "DNB Bank",
+      "gruppe": "Gruppe 5: Filialer af udenlandske institutter i Danmark",
+      "note": "DNB Bank ASA, Norge"
+    },
+    {
+      "pengeinstitut": "Skandinaviska Enskilda Banken, Danmark, filial af Skandinaviska Enskilda Banken AB",
+      "gruppe": "Gruppe 5: Filialer af udenlandske institutter i Danmark",
+      "note": "PUBL.), Sverige"
+    },
+    {
+      "pengeinstitut": "De Lage Landen Finans Danmark filial af De Lage Landen Finans AB, Sverige",
+      "gruppe": "Gruppe 5: Filialer af udenlandske institutter i Danmark",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Nordnet Bank, filial af Nordnet Bank AB, Sverige",
+      "gruppe": "Gruppe 5: Filialer af udenlandske institutter i Danmark",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Telia Finance Danmark, Filial af Telia Finance AB, Sverige",
+      "gruppe": "Gruppe 5: Filialer af udenlandske institutter i Danmark",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Føroya Banki",
+      "gruppe": "Gruppe 6: Pengeinstitutter med hjemsted på Færøerne og Grønland",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "P/F Betri Bank",
+      "gruppe": "Gruppe 6: Pengeinstitutter med hjemsted på Færøerne og Grønland",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Grønlandsbanken, Aktieselskab",
+      "gruppe": "Gruppe 6: Pengeinstitutter med hjemsted på Færøerne og Grønland",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Nordoya Sparikassi",
+      "gruppe": "Gruppe 6: Pengeinstitutter med hjemsted på Færøerne og Grønland",
+      "note": ""
+    },
+    {
+      "pengeinstitut": "Suduroyar Sparikassi P/F",
+      "gruppe": "Gruppe 6: Pengeinstitutter med hjemsted på Færøerne og Grønland",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Danske pengeinstitutter efter størrelse - Free Download",
+    "description": "Danske banker, sparekasser, andelskasser og realkreditinstitutter inddelt i Finanstilsynets størrelsesgrupper (SIFI, gruppe 2–4 og filialer af udenlandske institutter). Contains 69 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danske pengeinstitutter efter størrelse | ListBase",
+    "seo_description": "Download Danske pengeinstitutter efter størrelse — 69 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 69 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danske_pengeinstitutter_efter_størrelse"
+    ]
+  }
+}
