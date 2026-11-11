@@ -1,0 +1,806 @@
+{
+  "id": "da-sagnkonger",
+  "name": "Danske sagnkonger efter kilde",
+  "title": "Danske sagnkonger efter kilde",
+  "description": "Sagnkonger og tidlige konger i Danmark som de nævnes i de forskellige kilder (Beovulfkvadet, Chronicon Lethrense, Saxo m.fl.).",
+  "category": "history",
+  "source": "https://da.wikipedia.org/wiki/Danske_sagnkonger",
+  "source_url": "https://da.wikipedia.org/wiki/Danske_sagnkonger",
+  "updated": "2026-11",
+  "record_count": 153,
+  "columns": [
+    {
+      "key": "kilde",
+      "label": "Kilde",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "beskrivelse",
+      "label": "Beskrivelse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kilde": "Ældste nordiske sagn",
+      "navn": "Halvdan den Gamle",
+      "beskrivelse": "Halvdan den Gamle sagnkonge, stamfar. (Identisk med Kong Dan?)"
+    },
+    {
+      "kilde": "Ældste nordiske sagn",
+      "navn": "Gram",
+      "beskrivelse": "Gram"
+    },
+    {
+      "kilde": "Angelsaksiske kilder",
+      "navn": "Siger",
+      "beskrivelse": "Siger, nævnt i England 700-tallet."
+    },
+    {
+      "kilde": "Angelsaksiske kilder",
+      "navn": "levede 710 – 728 Angantyr",
+      "beskrivelse": "levede 710 – 728 Angantyr"
+    },
+    {
+      "kilde": "Beovulfkvadet",
+      "navn": "Healfdene",
+      "beskrivelse": "Healfdene (Halvdan)"
+    },
+    {
+      "kilde": "Beovulfkvadet",
+      "navn": "Hroðgar",
+      "beskrivelse": "Hroðgar (også stavet som Roar eller Ro)"
+    },
+    {
+      "kilde": "Beovulfkvadet",
+      "navn": "Hygelac",
+      "beskrivelse": "Hygelac (Hugleik/Chlochilaicus)"
+    },
+    {
+      "kilde": "Beovulfkvadet",
+      "navn": "Helge",
+      "beskrivelse": "Helge"
+    },
+    {
+      "kilde": "Beovulfkvadet",
+      "navn": "Hrodwulf / Hroðulf / Roðulf / Rolf",
+      "beskrivelse": "Hrodwulf / Hroðulf / Roðulf / Rolf (Rolf Krake)"
+    },
+    {
+      "kilde": "Beovulfkvadet",
+      "navn": "Hrørik",
+      "beskrivelse": "Hrørik (Rørik)"
+    },
+    {
+      "kilde": "Beovulfkvadet",
+      "navn": "Hnæf",
+      "beskrivelse": "Hnæf"
+    },
+    {
+      "kilde": "Nordiske sagn",
+      "navn": "Frode Fredegod",
+      "beskrivelse": "Frode Fredegod sagnkonge, stamfar til alle senere konger."
+    },
+    {
+      "kilde": "Nordiske sagn",
+      "navn": "Ingjald",
+      "beskrivelse": "Ingjald sagnkonge"
+    },
+    {
+      "kilde": "Nordiske sagn",
+      "navn": "Angantyr",
+      "beskrivelse": "Angantyr (dødsåret kunne eventuelt være 728 som én blandt flere muligheder)"
+    },
+    {
+      "kilde": "Nordiske sagn",
+      "navn": "Helge",
+      "beskrivelse": "Helge sagnkonge"
+    },
+    {
+      "kilde": "Nordiske sagn",
+      "navn": "Ubbe o. 873. Kun konge i en kort tid",
+      "beskrivelse": "Ubbe o. 873. Kun konge i en kort tid"
+    },
+    {
+      "kilde": "Chronicon Roskildense",
+      "navn": "Harald",
+      "beskrivelse": "Harald, døbt 826 i Mainz"
+    },
+    {
+      "kilde": "Chronicon Roskildense",
+      "navn": "Erik",
+      "beskrivelse": "Erik (Horik 1.), Haralds bror, regerede 849 (efter Ansgars udnævnelse til ærkebiskop), byggede en kirke i Hedeby."
+    },
+    {
+      "kilde": "Chronicon Roskildense",
+      "navn": "Erik Barn",
+      "beskrivelse": "Erik Barn (Horik 2.), byggede en kirke i Ribe."
+    },
+    {
+      "kilde": "Chronicon Roskildense",
+      "navn": "Frode",
+      "beskrivelse": "Frode, regerede på et tidspunkt mellem 918 og 936, da Unni var ærkebiskop, byggede en kirke i Aarhus."
+    },
+    {
+      "kilde": "Chronicon Roskildense",
+      "navn": "Gorm",
+      "beskrivelse": "Gorm, regerede også i Unnis tid."
+    },
+    {
+      "kilde": "Chronicon Roskildense",
+      "navn": "Harald Blåtand/Klak-Harald",
+      "beskrivelse": "Harald Blåtand/Klak-Harald, søn af Gorm, regerede 15 år med faderen Gorm, derefter 50 år alene."
+    },
+    {
+      "kilde": "Chronicon Roskildense",
+      "navn": "Halvdan",
+      "beskrivelse": "Halvdan"
+    },
+    {
+      "kilde": "Chronicon Roskildense",
+      "navn": "Gorm",
+      "beskrivelse": "Gorm, søn af Svend, bror til Hardeknud."
+    },
+    {
+      "kilde": "Chronicon Roskildense",
+      "navn": "Harald",
+      "beskrivelse": "Harald, søn af Gorm, herskede 50 år."
+    },
+    {
+      "kilde": "Chronicon Roskildense",
+      "navn": "Svend Tveskæg",
+      "beskrivelse": "Svend Tveskæg, søn af Harald."
+    },
+    {
+      "kilde": "Chronicon Roskildense",
+      "navn": "Knud den Store",
+      "beskrivelse": "Knud den Store, søn af Svend."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Dan",
+      "beskrivelse": "Dan, konge i tre år. Søn af Ypper (konge af Uppsala), bror til Nori og Østen. Gift med Dania, grundlagde kongesædet i Lejre. Regerede på \"Davids tid\", mellem 1005 f.Kr. og 965 f.Kr."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Dan",
+      "beskrivelse": "Dan, konge i tre år (igen). Regerede på Augustus ' tid, mellem 31 f.Kr. og 14 e.Kr."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Roar",
+      "beskrivelse": "Roar, født i Dans tredje regeringsår, søn af Dan, grundlagde Roskilde."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Halvdan",
+      "beskrivelse": "Halvdan, søn af Roar, far til Sivard den Hvide. Helge, søn af Roar."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Rakke",
+      "beskrivelse": "Rakke, en hund, indsat af svenskernes konge Adisl (eller Adils)."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Snjo",
+      "beskrivelse": "Snjo, tidl. hyrdedreng for jætten Læ, indsat af kong Adisl (eller Adils) efter en ordstrid."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Rolf Krake",
+      "beskrivelse": "Rolf Krake, søn af Helge og Yrsa (der var datter af Helge og Thora Rolfsdatter (der senere blev gift med Adisl (eller Adils), med hvem hun fik datteren Skuld (som blev gift med Hjartvar))."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Hjarvard",
+      "beskrivelse": "Hjarvard, gift med Skuld. Konge af sjællænderne og skåningerne"
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Hake",
+      "beskrivelse": "Hake, søn af Hamund, bror til Hagbard."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Fridlev",
+      "beskrivelse": "Fridlev, gift med Rolfs datter."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Frode den Gavmilde",
+      "beskrivelse": "Frode den Gavmilde, søn af Fridlev."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Ingjald",
+      "beskrivelse": "Ingjald, søn af Frode."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Olav",
+      "beskrivelse": "Olav, Ingjalds søn."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Åsa",
+      "beskrivelse": "Åsa (dronning), Olavs datter."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Harald Hildetand",
+      "beskrivelse": "Harald Hildetand, erobrede alle lande ned til Middelhavet."
+    },
+    {
+      "kilde": "Chronicon Lethrense",
+      "navn": "Hed",
+      "beskrivelse": "Hed (dronning), grundlagde Hedeby."
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Skjold",
+      "beskrivelse": "Skjold, gav kongerne navnet Skjoldungerne."
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Frode",
+      "beskrivelse": "Frode, søn af Skjold"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Halvdan",
+      "beskrivelse": "Halvdan, søn af Skjold, dræbte Frode"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Helge Søkonge",
+      "beskrivelse": "Helge Søkonge, søn af Halvdan"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Rolf Krake",
+      "beskrivelse": "Rolf Krake, søn af Helge"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Rørik Slyngebånd",
+      "beskrivelse": "Rørik Slyngebånd (Rokil Slagenback), søn af Rolf"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Frode den Frækne",
+      "beskrivelse": "Frode den Frækne"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Vermund den Vise",
+      "beskrivelse": "Vermund den Vise, søn af Frode"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Vermund den Vise",
+      "beskrivelse": "Vermund den Vise, søn af Frode"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Uffe den Spage",
+      "beskrivelse": "Uffe den Spage, søn af Vermund"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Dan den Stolte",
+      "beskrivelse": "Dan den Stolte, søn af Uffe"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Frode den Gamle",
+      "beskrivelse": "Frode den Gamle, søn af Dan"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Fridlev",
+      "beskrivelse": "Fridlev, søn af Frode"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Frode Fredegod / Frode den Gavmilde",
+      "beskrivelse": "Frode Fredegod / Frode den Gavmilde, søn af Fridlev, regerede på Jesu tid"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Ingjald",
+      "beskrivelse": "Ingjald, søn af Frode"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Ole",
+      "beskrivelse": "Ole, tilhørte en sidelinje"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Sigurd",
+      "beskrivelse": "Sigurd, søn af Regnar Lodbrog."
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Knud 1.",
+      "beskrivelse": "Knud 1., søn af Sigurd, var mindreårig og havde derfor bonden Ennignup som rigsforstander."
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Frode",
+      "beskrivelse": "Frode, søn af Knud"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Harald",
+      "beskrivelse": "Harald, søn af Frode"
+    },
+    {
+      "kilde": "Brevis Historia Regum Dacie",
+      "navn": "Gorm den Løge",
+      "beskrivelse": "Gorm den Løge, gift med Thyra Dannebod."
+    },
+    {
+      "kilde": "Sögubrot",
+      "navn": "Helge",
+      "beskrivelse": "Helge, (med)konge? af Sjælland"
+    },
+    {
+      "kilde": "Sögubrot",
+      "navn": "Rørek",
+      "beskrivelse": "Rørek (bror til Helge), konge/(medkonge) af Sjælland"
+    },
+    {
+      "kilde": "Sögubrot",
+      "navn": "Ivar Vidfadme",
+      "beskrivelse": "Ivar Vidfadme (svigerfar til Rørek), konge af Skåne – senere konge af Danmark, Sverige, dele af Norge samt en række tilliggende lande."
+    },
+    {
+      "kilde": "Sögubrot",
+      "navn": "Harald Hildetand",
+      "beskrivelse": "Harald Hildetand (dattersøn af Ivar), konge efter Ivar Vidfadme (muligvis identisk med den \"tidligere\" kong Harald, der nævnes i frankiske kilder (se afsnittet \" Frankiske kilder \"))."
+    },
+    {
+      "kilde": "Sögubrot",
+      "navn": "Ring eller Sigurd Ring",
+      "beskrivelse": "Ring eller Sigurd Ring (nevø til Harald Hildetand), først konge over Sveariget, siden også konge af Danmark (muligvis identisk med kong Sigfred)."
+    },
+    {
+      "kilde": "Sögubrot",
+      "navn": "endvidere nævnes i slutningen af Sögubrot Regnar",
+      "beskrivelse": "endvidere nævnes i slutningen af Sögubrot Regnar (Ragnarr) som en søn af Sigurd Ring. Fra andre kendte kilder må det sluttes, at der er tale om den senere så navnkundige vikingekonge Regnar Lodbrog."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Skjold",
+      "beskrivelse": "Skjold, søn af Odin. Konge i Danmark, boede i Lejre."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Frode Fredegode",
+      "beskrivelse": "Frode Fredegode, konge i Lejre, Danmark"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Dan den Stolte eller Storladne",
+      "beskrivelse": "Dan den Stolte eller Storladne (også kaldet Dan Mykilati), konge af Danmark"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Frode hin Fredegode",
+      "beskrivelse": "Frode hin Fredegode, søn af Dan"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Haldan",
+      "beskrivelse": "Haldan, søn af Frode, blev konge i Upsal"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Fredeleff eller Fridleff",
+      "beskrivelse": "Fredeleff eller Fridleff, søn af Frode, konge af Danmark"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Oli den Raske",
+      "beskrivelse": "Oli den Raske, søn af Fridleff, konge af Danmark. Blev tillige konge i Upsal"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Frode hin Fracke",
+      "beskrivelse": "Frode hin Fracke, konge af Sjælland og Danmark. Samtidig med kong Egil Anisøn i Sveariget (Upsal) Vatter (kaldes også Vætte), kong Frodes jarl og statholder i Danmark Faste, kong Frodes jarl og statholder i Danmark."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Haldan",
+      "beskrivelse": "Haldan, konge i Danmark"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Helge",
+      "beskrivelse": "Helge, Haldans søn. Konge af Danmark (boede i Lejre), gift med Yrsa som egentlig var gift med sveakongen Adels, men som Helge røvede/bortførte fra denne (det viste sig senere, at Yrsa var hans egen datter)."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Rolff Kragge",
+      "beskrivelse": "Rolff Kragge, søn af Helge og Yrsa. Konge i Lejre efter sin far (blev fældet i kamp mod sin egen svoger)."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Solvi",
+      "beskrivelse": "Solvi, søkonge, søn af Hogne udi Marsø, havde land i Jylland, blev siden konge i Sverige"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "(Sigtryg",
+      "beskrivelse": "(Sigtryg, levede måske primo/medio 7. århundrede, konge af Vetteland (Vendsyssel?))."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Godraad",
+      "beskrivelse": "Godraad, måske medio/ultimo 7. århundrede, konge i Skåne. Gift med Aasa, en datter af kong Ingiald Ildraade i Sverige. Hun forledte Godraad til at dræbe sin broder Haldan, og tog selv siden livet af Godraad"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Iwer Vidfadme",
+      "beskrivelse": "Iwer Vidfadme, Iffuer Vidfadme eller Ifuer den Vijdfadme (søn af Haldan, nevø til Godraad). Konge af Skåne efter sin farbror. Erobrede Sverige fra Ingiald Ildraade (\"fick ocsaa alt Danmarck, og vant en stor part i Saxen, met mange Lande der Østen fore. Der efter vandt han femte parten aff Engeland \")."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Harald Hyldetand",
+      "beskrivelse": "Harald Hyldetand (Iwers efterfølger)"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Sigurd Ring",
+      "beskrivelse": "Sigurd Ring (Harald Hyldetands efterfølger), konge i Sverige og Danmark (måske identisk med Sigfred)."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Godfred",
+      "beskrivelse": "Godfred, Godefred eller Gøttrick, konge i Kejser Karl den Stores tid. Konge i Danmark, gjorde friserne skatskyldige, dræbt af en af sine egne mænd."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Hemming",
+      "beskrivelse": "Hemming (bror til Godfred)"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Sigurd eller Sigrod",
+      "beskrivelse": "Sigurd eller Sigrod (Godfreds dattersøn), konge af Siæland og Skaane (eller af Jutland?). Faldt i slag mod Ring Anulo"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Ring Anulo",
+      "beskrivelse": "Ring Anulo, konge af Jutland. Faldt i slag mod Sigurd"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Harald",
+      "beskrivelse": "Harald, konge i flere perioder – mest over Jylland"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Regner Lodbrog",
+      "beskrivelse": "Regner Lodbrog (Sigurd Rings søn), konge, søkonge og/eller overkonge i Danmark og Sverige"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Hareck /Erick",
+      "beskrivelse": "Hareck /Erick (Haralds broder), konge i Jylland. Krøniken lader ham falde i strid mod Guttorm (en morbroder til Hareck [den første] (eller til Erick [den anden], Sigurd Orm i Øjes søn)). Lod bygge kirke i Hedeby eller Slesvig."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Erick /Hareck",
+      "beskrivelse": "Erick /Hareck (Sigurd Orm i Øjes søn), lod bygge kirke i Ribe og lod sig muligvis døbe. Tog alt riget, efter at alle andre kongsemner var faldet i kamp [var søkongerne Lodbrog og hans sønner stadig aktive udenlands??]. Guttorm (morbroder til Hareck [den første] (eller Erick [den anden])), faldt i strid mod Hareck [den første] sammen med det meste af kongeslægten."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Frode",
+      "beskrivelse": "Frode, konge over Jylland. Blev døbt i sin alderdom."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Helge",
+      "beskrivelse": "Helge, konge af Danmark. Blev slagen i krig mod Olaff, konge i Sverige."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Olaff",
+      "beskrivelse": "Olaff (der slog Helge), var nu konge over både Danmark og Sverige."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Giurd og Knud",
+      "beskrivelse": "Giurd og Knud (måske en fejlskrivning for Knupa? – eller måske en antydning af, at Hardeknud var konge samtidig med Giurd?). Efterfulgte Olaff. Skatkonger i Danmark under Gorm den gamli."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Siggeir",
+      "beskrivelse": "Siggeir (efterfulgte Giurd og Knupa(?)). Skatkonge i Danmark under Gorm den gamli"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Sigurd Omriiøje eller Sigurd Orm i Øje",
+      "beskrivelse": "Sigurd Omriiøje eller Sigurd Orm i Øje (Regner Lodbrogs søn) \"fick Jutland oc Øerne met Skaane oc Halland\". Han var gift med Bleja. Hvor mange af de forud omtalte konger, han skulle have været samtidig med, er svært at gennemskue"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Knud",
+      "beskrivelse": "Knud, Hardeknud, Hordeknud, Horda Knud eller Knud Haardbo (søn af Sigurd Ormiøje), født i Hardsyssel. Konge efter sin fader."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Gorm Hardeknuds Søn også kaldet Gorm hin gamle",
+      "beskrivelse": "Gorm Hardeknuds Søn også kaldet Gorm hin gamle (søn af Hardeknud). Han overvandt kong Knupa og en mængde andre konger. Gift med Thyri Daneboed, datter af Harald Klack, jarl udi Jylland"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Harald Gormsøn",
+      "beskrivelse": "Harald Gormsøn (søn af Gorm hin gamle). Havde en bror Knud Daneaast, der blev dræbt i England. Foruden at blive konge af Dammark vandt Harald også Norge, hvor han indsatte Hagen Jarl og Harald Grenske som sine statholdere."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Suend Haraldsøn også kaldet Suend Tyfueskieg.",
+      "beskrivelse": "Suend Haraldsøn også kaldet Suend Tyfueskieg."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Oli den Engelske",
+      "beskrivelse": "Oli den Engelske (angivet som søn af Kirick, Moeld hin digres bror), først Sigurd Rings skatkonge over Northumbria siden over Jylland."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Grim den graa",
+      "beskrivelse": "Grim den graa (søn af Oli), skatkonge over Jylland efter faderen"
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Gorm den hiæmske",
+      "beskrivelse": "Gorm den hiæmske (søn af Audolff)."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Knud den fundne eller Træle Knud",
+      "beskrivelse": "Knud den fundne eller Træle Knud (adoptivsøn af Gorm – barn af et incestuøst forhold mellem jarl Arnfind af Holsterland og dennes søster)."
+    },
+    {
+      "kilde": "Norske Kongers Chronica",
+      "navn": "Gorm",
+      "beskrivelse": "Gorm (søn af Træle Knud), opfostrede kong Sigurd Orm i Øjes og dronning Blejas søn Knud, angiveligt navngivet efter Gorms fosterfader, Knud. Gorm \"hafde været en mectig oc rig Konge, oc haft alt Danmarck at forestaa af Lodbrogs Sønner, naar de vaare udenLands i Krig\"."
+    },
+    {
+      "kilde": "Gregor af Tours",
+      "navn": "Chlochilaicus",
+      "beskrivelse": "Chlochilaicus"
+    },
+    {
+      "kilde": "Willibrords levned",
+      "navn": "Ongendus",
+      "beskrivelse": "Ongendus (det nordiske navn (eller tilnavn?) kan måske være Ongentheow eller Angantyr), nævnt før 714 / mellem 714 og 719 (Sankt Willibrords besøg) / ca. 730"
+    },
+    {
+      "kilde": "Frankiske rigsannaler",
+      "navn": "Harald 1.",
+      "beskrivelse": "Harald 1., ingen sikre årstal (en \"tidligere\" konge – nævnt som stamfar eller slægtning til nogle af de senere konger eller prætendenter)"
+    },
+    {
+      "kilde": "Frankiske rigsannaler",
+      "navn": "Sigfred",
+      "beskrivelse": "Sigfred, nævnt 777, 782 og 798"
+    },
+    {
+      "kilde": "Frankiske rigsannaler",
+      "navn": "Godfred",
+      "beskrivelse": "Godfred (Guthfridus), nævnt 804, død 810 / 11"
+    },
+    {
+      "kilde": "Frankiske rigsannaler",
+      "navn": "Hemming",
+      "beskrivelse": "Hemming, 810- 812"
+    },
+    {
+      "kilde": "Frankiske rigsannaler",
+      "navn": "Borgerkrig: Anulo",
+      "beskrivelse": "Borgerkrig: Anulo (Ring), død 812 (tronprætendent) Sigfred, død 812 (tronprætendent) Harald Klak, 812- 813, 819 - 823, 826 - 827 Reginfred, 812-813, død 814, konge over Jylland og Vestfold"
+    },
+    {
+      "kilde": "Frankiske rigsannaler",
+      "navn": "Flere af Godfreds sønner",
+      "beskrivelse": "Flere af Godfreds sønner, 813-827 Ældste Godfredsøn, 813-814 2 Godfredsønner, 813-819 Godfredsøn, 813-828 Horik 1., 813 – 854 Guthorm (tronprætendent), 854"
+    },
+    {
+      "kilde": "Frankiske rigsannaler",
+      "navn": "Horik 2. 854 – sidst nævnt 864",
+      "beskrivelse": "Horik 2. 854 – sidst nævnt 864, død før 873"
+    },
+    {
+      "kilde": "Frankiske rigsannaler",
+      "navn": "Halvdan",
+      "beskrivelse": "Halvdan, nævnt 873"
+    },
+    {
+      "kilde": "Frankiske rigsannaler",
+      "navn": "Sigfred",
+      "beskrivelse": "Sigfred, nævnt 873, måske død 891"
+    },
+    {
+      "kilde": "Frankiske rigsannaler",
+      "navn": "Godfred",
+      "beskrivelse": "Godfred, død 891"
+    },
+    {
+      "kilde": "Angelsaksiske Krønike",
+      "navn": "Bagsecg",
+      "beskrivelse": "Bagsecg, død i England d. 8. januar 871"
+    },
+    {
+      "kilde": "Runesten",
+      "navn": "Gnupa/Knud",
+      "beskrivelse": "Gnupa/Knud (Chnob) (død før 938/43) (Haddeby-stenen 2 og Haddeby-stenen 4)"
+    },
+    {
+      "kilde": "Runesten",
+      "navn": "Sigtryg",
+      "beskrivelse": "Sigtryg (Sigerich) (død før 935) (Haddeby-stenen 2 og Haddeby-stenen 4)"
+    },
+    {
+      "kilde": "Runesten",
+      "navn": "Gorm",
+      "beskrivelse": "Gorm (den Gamle) (Jellingstenene, Sønder Vissing-stenen 1 og Hällestad-sten 1 (sv) i Skåne og endvidere muligvis (med en del større usikkerhed) Haddeby-stenen 4 og Sønder Vilstrup-stenen)"
+    },
+    {
+      "kilde": "Runesten",
+      "navn": "Harald",
+      "beskrivelse": "Harald (Blåtand) (Den Store Jellingsten og Sønder Vissing-stenen 1 samt sandsynligvis Tunastenen (sv) (også kaldet Haraldstenen) endvidere muligvis også (med en del større usikkerhed) Sønder Vilstrup-stenen)"
+    },
+    {
+      "kilde": "Runesten",
+      "navn": "Toke",
+      "beskrivelse": "Toke (Gormsen) [ kilde mangler ] (Hällestad-sten 1 (sv), Hällestad-sten 2 (sv) og Hällestad-sten 3 (sv) i Skåne og muligvis tillige Lund-sten 2 (sv) (eller Bispegården-sten) og Sjørupstenen og endvidere muligvis (med en del større usikkerhed) Års-stenen og Västra Nöbbelövstenen (sv))"
+    },
+    {
+      "kilde": "Runesten",
+      "navn": "Svend",
+      "beskrivelse": "Svend (Tveskæg) (Haddeby-stenen 1 og Haddeby-stenen 3)"
+    },
+    {
+      "kilde": "Runesten med danske dronninger",
+      "navn": "Asfrid Odinkarsdatter",
+      "beskrivelse": "Asfrid Odinkarsdatter (Haddeby-stenen 2 og Haddeby-stenen 4) (nævnt på stenene som gift med Gnupa og mor til Sigtryg)"
+    },
+    {
+      "kilde": "Runesten med danske dronninger",
+      "navn": "Thyra Dannebod",
+      "beskrivelse": "Thyra Dannebod (Jellingstenene, Læborg-stenen & Bække-stenen 1 og endvidere muligvis (med en del større usikkerhed) på Horne-stenen) (nævnt på stenene som gift med Gorm den Gamle og mor til Harald Blåtand (tillige mor til Knud Danaást - ej nævnt på kendte runesten))"
+    },
+    {
+      "kilde": "Runesten med danske dronninger",
+      "navn": "Tove",
+      "beskrivelse": "Tove, Mistivis datter (Sønder Vissing-stenen 1) (nævnt på stenen som gift med Harald Blåtand (her kaldet \"den Gode\") og svigerdatter til Gorm den Gamle)"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Godfred",
+      "beskrivelse": "Godfred (Gotafridus), efter 730 – før 837"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Hemming",
+      "beskrivelse": "Hemming (Hemmingus), efter 730 – før 814 (Karl den Stores død) Sigfred (Sigafrid) & Anulo ca. 814 (tronprætendenter)"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Reginfred",
+      "beskrivelse": "Reginfred (Reginfridus) ca. 814 – før 823 (Ebbos besøg i Danmark)"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Harald Klak",
+      "beskrivelse": "Harald Klak (Haraldus), ca. 814 – 823, 826 (Haralds dåb) – efter 827 (\"et par år senere\")"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Godfreds sønner",
+      "beskrivelse": "Godfreds sønner, nævnt 823"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Horik 1.",
+      "beskrivelse": "Horik 1. (Horicus), nævnt 848 (Ansgars bygning af kirken i Hedeby) Guthorm (tronprætendent) (Gudurm)"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Horik 2.",
+      "beskrivelse": "Horik 2. (Horicus), nævnt 858"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Sigfred & Halvdan",
+      "beskrivelse": "Sigfred & Halvdan (Sigafrid et Halpdani) efter 865 – før 888"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Sigfred & Godfred",
+      "beskrivelse": "Sigfred & Godfred (Gotafrid et Sigafrid), efter 865 – 891 (normannernes nederlag) Tronprætendenter: Rorik af Dorestad, Orvig, Godfred, Rudolf og Ingvar (Horich, Orwig, Gotafrid, Rudolf et Inguar)"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Helge",
+      "beskrivelse": "Helge (Heiligo), 891 (efter normannernes nederlag) – før 909"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Olaf",
+      "beskrivelse": "Olaf (Olaph), efter 891 – før 909"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Gurd",
+      "beskrivelse": "Gurd, efter 891 – før 916"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Gnupa",
+      "beskrivelse": "Gnupa (Chnob), efter 891 – før 916"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Sigtryg",
+      "beskrivelse": "Sigtryg (Sigerich), efter 909 – før 916, (kort regeringstid)"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Hardegon Svendsen",
+      "beskrivelse": "Hardegon Svendsen (Hardegon, filius Suein), ca. 915 (sidst i biskop Hogers levetid) –?"
+    },
+    {
+      "kilde": "Første bog (788 – 936)",
+      "navn": "Gorm den Gamle",
+      "beskrivelse": "Gorm den Gamle (Hardecnudth [ukendt ord] Worm), nævnt 936 (før 17. september) (Unnis rejse til Sverige og Unnis død)"
+    },
+    {
+      "kilde": "Anden bog (936 – 1043)",
+      "navn": "Harald Blåtand",
+      "beskrivelse": "Harald Blåtand, 937 – senest 987, (død Allehelgensdag 987 (50 års regering)) Nævnt 948 (Ottos kamp mod danskerne (en misforståelse af Adam)) (bispesæderne i Norden), 966 (Kristendommens antagelse), 981 (biskop Adelberts død), i eksil ca. 987 (ærkebiskop Adeldags sidste levetid)"
+    },
+    {
+      "kilde": "Anden bog (936 – 1043)",
+      "navn": "Svend Tveskæg",
+      "beskrivelse": "Svend Tveskæg (dåbsnavn: Otto), senest 987 – 1014 Nævnt i 990'erne, ca. 995 (Erik Sejrsæls død), 1000 (Olav Tryggvasons død), 1013 / 1014 (Englands erobring og Svend Tveskægs død)"
+    },
+    {
+      "kilde": "Anden bog (936 – 1043)",
+      "navn": "Knud den Store",
+      "beskrivelse": "Knud den Store (dåbsnavn: Lambert), ca. 1019 – 1035 Nævnt 1016 (Englands erobring), mellem 1015 og 1028 (krig mod kong Olav den Hellige), 1028 (Olav den Helliges død), ca. 1030 (kort efter ærkebiskop Libentius 2.s tiltrædelse)"
+    },
+    {
+      "kilde": "Anden bog (936 – 1043)",
+      "navn": "Hardeknud",
+      "beskrivelse": "Hardeknud, 1035 (efterfulgte Knud den Stores ved hans død) – Nævnt ca. 1040 (erobringen af England), ca. 1042 (Magnus' angreb på Danmark og Hardeknuds død)"
+    },
+    {
+      "kilde": "Anden bog (936 – 1043)",
+      "navn": "Magnus den Gode Nævnt ca. 1042",
+      "beskrivelse": "Magnus den Gode Nævnt ca. 1042 (angreb på Danmark og Ulvhilds forlovelse til Ordulf af Sachsen), ca. 1043 (sejren over venderne)"
+    }
+  ],
+  "meta": {
+    "title": "Danske sagnkonger efter kilde - Free Download",
+    "description": "Sagnkonger og tidlige konger i Danmark som de nævnes i de forskellige kilder (Beovulfkvadet, Chronicon Lethrense, Saxo m.fl.). Contains 153 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danske sagnkonger efter kilde | ListBase",
+    "seo_description": "Download Danske sagnkonger efter kilde — 153 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 153 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Danske_sagnkonger"
+    ]
+  }
+}

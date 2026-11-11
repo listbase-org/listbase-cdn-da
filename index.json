@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-11T02:22:45.007Z",
-  "total_datasets": 487,
-  "total_records": 240007,
+  "generated": "2026-11-11T02:22:55.464Z",
+  "total_datasets": 488,
+  "total_records": 240160,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -3786,6 +3786,30 @@
         "xlsx": {
           "name": "da-moselig_DA.xlsx",
           "size": 11416
+        }
+      }
+    },
+    {
+      "id": "da-sagnkonger",
+      "name": "Danske sagnkonger efter kilde",
+      "category": "history",
+      "record_count": 153,
+      "columns": [
+        "kilde",
+        "navn",
+        "beskrivelse"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danske_sagnkonger",
+      "updated": "2026-11",
+      "size": 30828,
+      "files": {
+        "csv": {
+          "name": "da-sagnkonger_DA.csv",
+          "size": 19477
+        },
+        "xlsx": {
+          "name": "da-sagnkonger_DA.xlsx",
+          "size": 14993
         }
       }
     },
