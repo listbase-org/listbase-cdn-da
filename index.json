@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-10T02:23:31.000Z",
-  "total_datasets": 485,
-  "total_records": 239297,
+  "generated": "2026-11-11T02:22:32.496Z",
+  "total_datasets": 486,
+  "total_records": 239990,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -4318,6 +4318,32 @@
         "xlsx": {
           "name": "da-aarets-mest-populaere-single_DA.xlsx",
           "size": 7886
+        }
+      }
+    },
+    {
+      "id": "da-danish-music-awards-vindere",
+      "name": "Danish Music Awards – vindere i alle kategorier",
+      "category": "music",
+      "record_count": 693,
+      "columns": [
+        "aar",
+        "uddeling",
+        "kategori",
+        "vinder",
+        "nominerede"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Danish_Music_Awards",
+      "updated": "2026-11",
+      "size": 167650,
+      "files": {
+        "csv": {
+          "name": "da-danish-music-awards-vindere_DA.csv",
+          "size": 96642
+        },
+        "xlsx": {
+          "name": "da-danish-music-awards-vindere_DA.xlsx",
+          "size": 45844
         }
       }
     },
