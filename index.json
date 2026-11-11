@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-11T02:22:32.496Z",
-  "total_datasets": 486,
-  "total_records": 239990,
+  "generated": "2026-11-11T02:22:45.007Z",
+  "total_datasets": 487,
+  "total_records": 240007,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -4499,6 +4499,33 @@
         "xlsx": {
           "name": "da-folketingets-formaend_DA.xlsx",
           "size": 8627
+        }
+      }
+    },
+    {
+      "id": "da-folketingets-partier-mandater",
+      "name": "Partierne i Folketinget – mandater og ledere",
+      "category": "politics",
+      "record_count": 17,
+      "columns": [
+        "liste",
+        "parti",
+        "mandater",
+        "partiformand",
+        "politisk_ordforer",
+        "gruppeformand"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Folketinget",
+      "updated": "2026-11",
+      "size": 5560,
+      "files": {
+        "csv": {
+          "name": "da-folketingets-partier-mandater_DA.csv",
+          "size": 1478
+        },
+        "xlsx": {
+          "name": "da-folketingets-partier-mandater_DA.xlsx",
+          "size": 7948
         }
       }
     },

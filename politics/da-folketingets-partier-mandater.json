@@ -1,0 +1,192 @@
+{
+  "id": "da-folketingets-partier-mandater",
+  "name": "Partierne i Folketinget – mandater og ledere",
+  "title": "Partierne i Folketinget – mandater og ledere",
+  "description": "De partier og grupper, der er repræsenteret i Folketinget, med listebogstav, antal mandater, partiformand, politisk ordfører og gruppeformand.",
+  "category": "politics",
+  "source": "https://da.wikipedia.org/wiki/Folketinget",
+  "source_url": "https://da.wikipedia.org/wiki/Folketinget",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "liste",
+      "label": "Liste",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "mandater",
+      "label": "Mandater",
+      "type": "number"
+    },
+    {
+      "key": "partiformand",
+      "label": "Partiformand",
+      "type": "string"
+    },
+    {
+      "key": "politisk_ordforer",
+      "label": "Politisk Ordforer",
+      "type": "string"
+    },
+    {
+      "key": "gruppeformand",
+      "label": "Gruppeformand",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "liste": "A",
+      "parti": "Socialdemokratiet",
+      "mandater": 38,
+      "partiformand": "Mette Frederiksen",
+      "politisk_ordforer": "Christian Rabjerg Madsen",
+      "gruppeformand": "Leif Lahn Jensen"
+    },
+    {
+      "liste": "B",
+      "parti": "Radikale Venstre",
+      "mandater": 10,
+      "partiformand": "Martin Lidegaard",
+      "politisk_ordforer": "",
+      "gruppeformand": "Martin Lidegaard"
+    },
+    {
+      "liste": "C",
+      "parti": "Det Konservative Folkeparti",
+      "mandater": 13,
+      "partiformand": "Mona Juul",
+      "politisk_ordforer": "Mette Abildgaard",
+      "gruppeformand": "Mette Abildgaard"
+    },
+    {
+      "liste": "F",
+      "parti": "Socialistisk Folkeparti",
+      "mandater": 20,
+      "partiformand": "Pia Olsen Dyhr",
+      "politisk_ordforer": "Signe Munk",
+      "gruppeformand": "Theresa Berg Andersen"
+    },
+    {
+      "liste": "H",
+      "parti": "Borgernes Parti - Lars Boje Mathiesen",
+      "mandater": 1,
+      "partiformand": "Lars Boje Mathiesen",
+      "politisk_ordforer": "",
+      "gruppeformand": ""
+    },
+    {
+      "liste": "I",
+      "parti": "Liberal Alliance",
+      "mandater": 15,
+      "partiformand": "Alex Vanopslagh",
+      "politisk_ordforer": "Sólbjørg Jakobsen",
+      "gruppeformand": "Ole Birk Olesen"
+    },
+    {
+      "liste": "O",
+      "parti": "Dansk Folkeparti",
+      "mandater": 16,
+      "partiformand": "Morten Messerschmidt",
+      "politisk_ordforer": "Peter Kofod",
+      "gruppeformand": "Peter Kofod"
+    },
+    {
+      "liste": "M",
+      "parti": "Moderaterne",
+      "mandater": 14,
+      "partiformand": "Lars Løkke Rasmussen",
+      "politisk_ordforer": "Monika Rubin",
+      "gruppeformand": "Mohammad Rona"
+    },
+    {
+      "liste": "V",
+      "parti": "Venstre, Danmarks Liberale Parti",
+      "mandater": 18,
+      "partiformand": "Troels Lund Poulsen",
+      "politisk_ordforer": "Sophie Løhde",
+      "gruppeformand": "Morten Dahlin"
+    },
+    {
+      "liste": "Æ",
+      "parti": "Danmarksdemokraterne - Inger Støjberg",
+      "mandater": 10,
+      "partiformand": "Inger Støjberg",
+      "politisk_ordforer": "Susie Jessen",
+      "gruppeformand": "Jens Henrik Thulesen Dahl"
+    },
+    {
+      "liste": "Ø",
+      "parti": "Enhedslisten - De Rød-Grønne",
+      "mandater": 11,
+      "partiformand": "Kollektiv ledelse De Facto: Pelle Dragsted",
+      "politisk_ordforer": "Kollektiv ledelse De Facto: Pelle Dragsted",
+      "gruppeformand": "Peder Hvelplund"
+    },
+    {
+      "liste": "Å",
+      "parti": "Alternativet",
+      "mandater": 5,
+      "partiformand": "Franciska Rosenkilde",
+      "politisk_ordforer": "",
+      "gruppeformand": "Anna Bjerre"
+    },
+    {
+      "liste": "B",
+      "parti": "Sambandsflokkurin",
+      "mandater": 1,
+      "partiformand": "Bárður á Steig Nielsen",
+      "politisk_ordforer": "Anna Falkenberg",
+      "gruppeformand": ""
+    },
+    {
+      "liste": "C",
+      "parti": "Javnaðarflokkurin",
+      "mandater": 1,
+      "partiformand": "Aksel V. Johannesen",
+      "politisk_ordforer": "Sjúrður Skaale",
+      "gruppeformand": ""
+    },
+    {
+      "liste": "N",
+      "parti": "Naleraq",
+      "mandater": 1,
+      "partiformand": "Pele Broberg",
+      "politisk_ordforer": "Qarsoq Høegh-Dam",
+      "gruppeformand": ""
+    },
+    {
+      "liste": "IA",
+      "parti": "Inuit Ataqatigiit",
+      "mandater": 1,
+      "partiformand": "Mute Bourup Egede",
+      "politisk_ordforer": "Naaja H. Nathanielsen",
+      "gruppeformand": ""
+    },
+    {
+      "liste": "",
+      "parti": "Løsgænger",
+      "mandater": 4,
+      "partiformand": "",
+      "politisk_ordforer": "",
+      "gruppeformand": ""
+    }
+  ],
+  "meta": {
+    "title": "Partierne i Folketinget – mandater og ledere - Free Download",
+    "description": "De partier og grupper, der er repræsenteret i Folketinget, med listebogstav, antal mandater, partiformand, politisk ordfører og gruppeformand. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Partierne i Folketinget – mandater og ledere | ListBase",
+    "seo_description": "Download Partierne i Folketinget – mandater og ledere — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Folketinget"
+    ]
+  }
+}
