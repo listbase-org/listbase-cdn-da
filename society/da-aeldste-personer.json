@@ -1,0 +1,246 @@
+{
+  "id": "da-aeldste-personer",
+  "name": "Ældste personer fra Danmark (110 år eller derover)",
+  "title": "Ældste personer fra Danmark (110 år eller derover)",
+  "description": "Danskere der er blevet 110 år eller ældre, med fødselsdag, dødsdag, alder og fødested.",
+  "category": "society",
+  "source": "https://da.wikipedia.org/wiki/Liste_over_ældste_personer_fra_Danmark_-_110_år_eller_derover",
+  "source_url": "https://da.wikipedia.org/wiki/Liste_over_ældste_personer_fra_Danmark_-_110_år_eller_derover",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "sex",
+      "label": "Sex",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "string"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "string"
+    },
+    {
+      "key": "age",
+      "label": "Age",
+      "type": "string"
+    },
+    {
+      "key": "birthplace",
+      "label": "Birthplace",
+      "type": "string"
+    },
+    {
+      "key": "place_of_death",
+      "label": "Place Of Death",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "name": "Christian Mortensen",
+      "sex": "M",
+      "born": "16. august 1882",
+      "died": "25. april 1998",
+      "age": "115 år, 252 dage",
+      "birthplace": "Midtjylland",
+      "place_of_death": "USA"
+    },
+    {
+      "rank": 2,
+      "name": "Ursula Krigger",
+      "sex": "K",
+      "born": "22. april 1902",
+      "died": "10. september 2015",
+      "age": "113 år, 141 dage",
+      "birthplace": "Dansk Vestindien",
+      "place_of_death": "Amerikanske Jomfruøer"
+    },
+    {
+      "rank": 3,
+      "name": "Kirsten Schwalbe",
+      "sex": "K",
+      "born": "10. marts 1914",
+      "died": "",
+      "age": "112 år, 218 dage",
+      "birthplace": "Holstebro (Lem i Salling)",
+      "place_of_death": ""
+    },
+    {
+      "rank": 4,
+      "name": "Karla Lindholm Jensen",
+      "sex": "K",
+      "born": "7. maj 1908",
+      "died": "10. december 2020",
+      "age": "112 år, 217 dage",
+      "birthplace": "Midtjylland",
+      "place_of_death": "Midtjylland"
+    },
+    {
+      "rank": 5,
+      "name": "Ellen Adelaide Brandenborg",
+      "sex": "K",
+      "born": "7. januar 1906",
+      "died": "22. juli 2017",
+      "age": "111 år, 196 dage",
+      "birthplace": "Nordjylland",
+      "place_of_death": "Midtjylland"
+    },
+    {
+      "rank": 6,
+      "name": "Johanne Svensson",
+      "sex": "K",
+      "born": "24. januar 1892",
+      "died": "29. maj 2003",
+      "age": "111 år, 125 dage",
+      "birthplace": "Midtjylland",
+      "place_of_death": "Sverige"
+    },
+    {
+      "rank": 7,
+      "name": "Anne Matthiesen",
+      "sex": "K",
+      "born": "26. november 1884",
+      "died": "19. marts 1996",
+      "age": "111 år, 114 dage",
+      "birthplace": "Nordslesvig, Preussen",
+      "place_of_death": "Syddanmark"
+    },
+    {
+      "rank": 8,
+      "name": "Karen Jespersen",
+      "sex": "K",
+      "born": "5. maj 1889",
+      "died": "4. august 2000",
+      "age": "111 år, 91 dage",
+      "birthplace": "Midtjylland",
+      "place_of_death": "Midtjylland"
+    },
+    {
+      "rank": 9,
+      "name": "Anna Nielsen",
+      "sex": "K",
+      "born": "2. april 1904",
+      "died": "19. juni 2015",
+      "age": "111 år, 78 dage",
+      "birthplace": "Nordjylland",
+      "place_of_death": "Canada"
+    },
+    {
+      "rank": 10,
+      "name": "Marie Jensen",
+      "sex": "K",
+      "born": "5. juni 1904",
+      "died": "30. januar 2015",
+      "age": "110 år, 239 dage",
+      "birthplace": "Midtjylland",
+      "place_of_death": "Midtjylland"
+    },
+    {
+      "rank": 11,
+      "name": "Karen Faurschou Egestad",
+      "sex": "K",
+      "born": "14. september 1908",
+      "died": "16. maj 2019",
+      "age": "110 år, 224 dage",
+      "birthplace": "Midtjylland",
+      "place_of_death": "Midtjylland"
+    },
+    {
+      "rank": 12,
+      "name": "Bertha Wallin",
+      "sex": "K",
+      "born": "13. januar 1874",
+      "died": "5. august 1984",
+      "age": "110 år, 205 dage",
+      "birthplace": "Midtjylland",
+      "place_of_death": "USA"
+    },
+    {
+      "rank": 13,
+      "name": "Signe Højer",
+      "sex": "K",
+      "born": "1. november 1905",
+      "died": "18. marts 2016",
+      "age": "110 år, 138 dage",
+      "birthplace": "Nordjylland",
+      "place_of_death": "Midtjylland"
+    },
+    {
+      "rank": 14,
+      "name": "Lise Bødker Jensen",
+      "sex": "K",
+      "born": "8. april 1916",
+      "died": "29. juli 2026",
+      "age": "110 år, 112 dage",
+      "birthplace": "Nordjylland",
+      "place_of_death": "Nordjylland"
+    },
+    {
+      "rank": 15,
+      "name": "Agnes Steenstrup",
+      "sex": "K",
+      "born": "24. november 1903",
+      "died": "1. marts 2014",
+      "age": "110 år, 97 dage",
+      "birthplace": "Hovedstadsregionen",
+      "place_of_death": "Hovedstadsregionen"
+    },
+    {
+      "rank": 16,
+      "name": "Jens Peter Westergaard",
+      "sex": "M",
+      "born": "26. april 1914",
+      "died": "23. juli 2024",
+      "age": "110 år, 88 dage",
+      "birthplace": "Odense",
+      "place_of_death": "Fredericia, Syddanmark"
+    },
+    {
+      "rank": 17,
+      "name": "Gerda Muff",
+      "sex": "K",
+      "born": "16. marts 1906",
+      "died": "29. april 2016",
+      "age": "110 år, 44 dage",
+      "birthplace": "Sjælland",
+      "place_of_death": "Sjælland"
+    },
+    {
+      "rank": 18,
+      "name": "Ulla Lund",
+      "sex": "K",
+      "born": "25. juli 1907",
+      "died": "23. august 2017",
+      "age": "110 år, 29 dage",
+      "birthplace": "Midtjylland",
+      "place_of_death": "USA"
+    }
+  ],
+  "meta": {
+    "title": "Ældste personer fra Danmark (110 år eller derover) - Free Download",
+    "description": "Danskere der er blevet 110 år eller ældre, med fødselsdag, dødsdag, alder og fødested. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ældste personer fra Danmark (110 år eller derover) | ListBase",
+    "seo_description": "Download Ældste personer fra Danmark (110 år eller derover) — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Liste_over_ældste_personer_fra_Danmark_-_110_år_eller_derover"
+    ]
+  }
+}

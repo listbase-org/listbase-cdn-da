@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-12T02:09:55.983Z",
-  "total_datasets": 489,
-  "total_records": 240306,
+  "generated": "2026-11-12T02:10:04.478Z",
+  "total_datasets": 490,
+  "total_records": 240324,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -11848,6 +11848,35 @@
         "xlsx": {
           "name": "da-pattedyr_DA.xlsx",
           "size": 11572
+        }
+      }
+    },
+    {
+      "id": "da-aeldste-personer",
+      "name": "Ældste personer fra Danmark (110 år eller derover)",
+      "category": "society",
+      "record_count": 18,
+      "columns": [
+        "rank",
+        "name",
+        "sex",
+        "born",
+        "died",
+        "age",
+        "birthplace",
+        "place_of_death"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Liste_over_ældste_personer_fra_Danmark_-_110_år_eller_derover",
+      "updated": "2026-11",
+      "size": 6592,
+      "files": {
+        "csv": {
+          "name": "da-aeldste-personer_DA.csv",
+          "size": 2040
+        },
+        "xlsx": {
+          "name": "da-aeldste-personer_DA.xlsx",
+          "size": 8171
         }
       }
     },
