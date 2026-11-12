@@ -1,0 +1,922 @@
+{
+  "id": "da-aarets-talenter-herrefodbold",
+  "name": "Årets talenter i dansk herrefodbold",
+  "title": "Årets talenter i dansk herrefodbold",
+  "description": "Vindere af DBU's Talentpris, Spillerforeningens Årets Talent og Årets fund i dansk herrefodbold.",
+  "category": "sports",
+  "source": "https://da.wikipedia.org/wiki/Årets_talenter_i_dansk_herrefodbold",
+  "source_url": "https://da.wikipedia.org/wiki/Årets_talenter_i_dansk_herrefodbold",
+  "updated": "2026-11",
+  "record_count": 146,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "award",
+      "label": "Award",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "player",
+      "label": "Player",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2016,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Victor Jensen (FC København)"
+    },
+    {
+      "year": 2016,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Jacob Bruun Larsen (Borussia Dortmund)"
+    },
+    {
+      "year": 2016,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Marcus Ingvartsen (FC Nordsjælland)"
+    },
+    {
+      "year": 2015,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Nicklas Strunck Jakobsen (FC Nordsjælland)"
+    },
+    {
+      "year": 2015,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Mikkel Duelund (FC Midtjylland)"
+    },
+    {
+      "year": 2015,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Jeppe Højbjerg (Esbjerg fB)"
+    },
+    {
+      "year": 2014,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Mark Brink (Esbjerg fB)"
+    },
+    {
+      "year": 2014,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Joachim Christian Andersen (FC Twente)"
+    },
+    {
+      "year": 2014,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Yussuf Poulsen (RB Leipzig)"
+    },
+    {
+      "year": 2013,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Daniel Iversen (Esbjerg fB)"
+    },
+    {
+      "year": 2013,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Andrew Hjulsager (Brøndby IF)"
+    },
+    {
+      "year": 2013,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Andreas Cornelius (F.C. København)"
+    },
+    {
+      "year": 2012,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Andreas Christensen (Chelsea F.C.)"
+    },
+    {
+      "year": 2012,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Viktor Fischer (Ajax Amsterdam)"
+    },
+    {
+      "year": 2012,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Jores Okore (FC Nordsjælland)"
+    },
+    {
+      "year": 2011,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Pierre Emile Højbjerg (Brøndby IF)"
+    },
+    {
+      "year": 2011,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Uffe Manich Bech (Lyngby BK)"
+    },
+    {
+      "year": 2011,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Nicolai Boilesen (Ajax Amsterdam)"
+    },
+    {
+      "year": 2010,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Kenneth Zohore (FC København)"
+    },
+    {
+      "year": 2010,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Jannik Vestergaard (Hoffenheim)"
+    },
+    {
+      "year": 2010,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Jonas Lössl (FC Midtjylland)"
+    },
+    {
+      "year": 2009,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Niels Bisp Rasmussen (Vejle)"
+    },
+    {
+      "year": 2009,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Thomas Delaney (FC København)"
+    },
+    {
+      "year": 2009,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Anders Randrup (Brøndby IF)"
+    },
+    {
+      "year": 2008,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Christian Eriksen (OB / Ajax Amsterdam)"
+    },
+    {
+      "year": 2008,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Mathias \"Zanka\" Jørgensen (FC København)"
+    },
+    {
+      "year": 2008,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Michael Lumb (AGF)"
+    },
+    {
+      "year": 2007,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Nikola Saric (Herfølge BK)"
+    },
+    {
+      "year": 2007,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Simon Kjær (FC Midtjylland)"
+    },
+    {
+      "year": 2007,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Kasper Schmeichel (Manchester City)"
+    },
+    {
+      "year": 2006,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Mads Albæk (FC Midtjylland)"
+    },
+    {
+      "year": 2006,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Mike Jensen (Brøndby IF)"
+    },
+    {
+      "year": 2006,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Niki Zimling (Esbjerg fB)"
+    },
+    {
+      "year": 2005,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Rasmus S. Christiansen (Lyngby)"
+    },
+    {
+      "year": 2005,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Magnus Troest (FC Midtjylland)"
+    },
+    {
+      "year": 2005,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Daniel Agger (Liverpool F.C.)"
+    },
+    {
+      "year": 2004,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Nicklas Bendter (Arsenal F.C.)"
+    },
+    {
+      "year": 2004,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Søren Christensen (Nykøbing FA)"
+    },
+    {
+      "year": 2004,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Thomas Kahlenberg (Brøndby IF)"
+    },
+    {
+      "year": 2003,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Lasse Qvist (Lyngby)"
+    },
+    {
+      "year": 2003,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Morten \"Duncan\" Rasmussen (AGF)"
+    },
+    {
+      "year": 2003,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Stephan Andersen (AB)"
+    },
+    {
+      "year": 2002,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Michael Jakobsen (B.93)"
+    },
+    {
+      "year": 2002,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Jeppe Curth (Feyenoord)"
+    },
+    {
+      "year": 2002,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Jan Kristiansen (Esbjerg fB)"
+    },
+    {
+      "year": 2001,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Kasper Lorentzen (Brøndby IF)"
+    },
+    {
+      "year": 2001,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Rasmus Würtz (Skive IK)"
+    },
+    {
+      "year": 2001,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Christian Poulsen (FC København)"
+    },
+    {
+      "year": 2000,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Martin Bergvold (FC København)"
+    },
+    {
+      "year": 2000,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Allan Olesen (Brøndby IF)"
+    },
+    {
+      "year": 2000,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Martin Albrechtsen (AB)"
+    },
+    {
+      "year": 1999,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Claus Pedersen (OB)"
+    },
+    {
+      "year": 1999,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Hjalte Bo Nørregaard (FC København)"
+    },
+    {
+      "year": 1999,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Christian Magleby (Lyngby)"
+    },
+    {
+      "year": 1998,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Tom Christensen (AGF)"
+    },
+    {
+      "year": 1998,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Peter Løvenkrands (AB)"
+    },
+    {
+      "year": 1998,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Mikkel Jensen (Brøndby IF)"
+    },
+    {
+      "year": 1997,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Jesper Håkansson (Frem)"
+    },
+    {
+      "year": 1997,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Lars Jacobsen (OB)"
+    },
+    {
+      "year": 1997,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Ole Tobiasen (Ajax)"
+    },
+    {
+      "year": 1996,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Kasper Bøgelund (OB)"
+    },
+    {
+      "year": 1996,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Stefan K. Hansen (FC København)"
+    },
+    {
+      "year": 1996,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Martin Jørgensen (AGF)"
+    },
+    {
+      "year": 1995,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Dan Anton Johansen (Brøndby IF)"
+    },
+    {
+      "year": 1995,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Jesper Grønkjær (AaB)"
+    },
+    {
+      "year": 1995,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Niclas Jensen (Lyngby)"
+    },
+    {
+      "year": 1994,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Carsten Lektonen (OB)"
+    },
+    {
+      "year": 1994,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Jon Dahl Tomasson (Køge)"
+    },
+    {
+      "year": 1994,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Thomas Rytter (Lyngby)"
+    },
+    {
+      "year": 1993,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Michael Kremer (Brøndby IF)"
+    },
+    {
+      "year": 1993,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Ulrik Laursen (OB)"
+    },
+    {
+      "year": 1993,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Jesper Kristensen (Brøndby IF)"
+    },
+    {
+      "year": 1992,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Simon Karkov (Esbjerg fB)"
+    },
+    {
+      "year": 1992,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Thomas Jensen (AaB)"
+    },
+    {
+      "year": 1992,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Jakob Kjeldbjerg (Silkeborg IF)"
+    },
+    {
+      "year": 1991,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Jesper Søgaard (Vejle)"
+    },
+    {
+      "year": 1991,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Christian Duus Petersen (Silkeborg IF)"
+    },
+    {
+      "year": 1991,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Miklos Molnar (Servette Genève)"
+    },
+    {
+      "year": 1990,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Kenni Sommer (Silkeborg)"
+    },
+    {
+      "year": 1990,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Martin Johansen og Michael Johansen (KB)"
+    },
+    {
+      "year": 1990,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Steen Nedergaard (OB)"
+    },
+    {
+      "year": 1989,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Jeppe Tengbjerg (KB)"
+    },
+    {
+      "year": 1989,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Jacob Laursen (Vejle)"
+    },
+    {
+      "year": 1989,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Brian Steen Nielsen (AB)"
+    },
+    {
+      "year": 1988,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Ronnie Ekelund (Brøndby IF)"
+    },
+    {
+      "year": 1988,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Jens Madsen (Brøndby IF)"
+    },
+    {
+      "year": 1988,
+      "award": "DBU's Talentpris",
+      "category": "U/21",
+      "player": "Henrik Risom (Vejle)"
+    },
+    {
+      "year": 1987,
+      "award": "DBU's Talentpris",
+      "category": "U/17 (U/16)",
+      "player": "Diego Tur (B 1903)"
+    },
+    {
+      "year": 1987,
+      "award": "DBU's Talentpris",
+      "category": "U/19 (U/18)",
+      "player": "Anders Maibom (B1909)"
+    },
+    {
+      "year": 2025,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Victor Froholdt (FC Porto)"
+    },
+    {
+      "year": 2024,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Patrick Dorgu (U.S. Lecce)"
+    },
+    {
+      "year": 2023,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Rasmus Højlund (Manchester United)"
+    },
+    {
+      "year": 2022,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Maurits Kjærgaard (FC Red Bull Salzburg)"
+    },
+    {
+      "year": 2021,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Mikkel Damsgaard (U.C. Sampdoria)"
+    },
+    {
+      "year": 2020,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Jonas Wind (F.C. København)"
+    },
+    {
+      "year": 2019,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Andreas Skov Olsen (Bologna F.C. 1909)"
+    },
+    {
+      "year": 2018,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Jacob Bruun Larsen (Borussia Dortmund)"
+    },
+    {
+      "year": 2017,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Andreas Christensen (Borussia Mönchengladbach)"
+    },
+    {
+      "year": 2016,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Andreas Christensen (Borussia Mönchengladbach)"
+    },
+    {
+      "year": 2015,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Andreas Christensen (Borussia Mönchengladbach)"
+    },
+    {
+      "year": 2014,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Pierre Emile Højbjerg (FC Bayern München)"
+    },
+    {
+      "year": 2013,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Pierre Emile Højbjerg (FC Bayern München)"
+    },
+    {
+      "year": 2012,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Jores Okore (FC Nordsjælland)"
+    },
+    {
+      "year": 2011,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Christian Eriksen (Ajax Amsterdam)"
+    },
+    {
+      "year": 2010,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Christian Eriksen (Ajax Amsterdam)"
+    },
+    {
+      "year": 2009,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Simon Kjær (Palermo)"
+    },
+    {
+      "year": 2008,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Mathias \"Zanka\" Jørgensen (FC København)"
+    },
+    {
+      "year": 2007,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Nicklas Bendtner (Arsenal)"
+    },
+    {
+      "year": 2006,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Mikkel Thygesen (FC Midtjylland)"
+    },
+    {
+      "year": 2005,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Daniel Agger (Brøndby IF)"
+    },
+    {
+      "year": 2004,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Daniel Agger (Brøndby IF)"
+    },
+    {
+      "year": 2003,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Thomas Kahlenberg (Brøndby IF)"
+    },
+    {
+      "year": 2002,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Thomas Kahlenberg (Brøndby IF)"
+    },
+    {
+      "year": 2001,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Christian Poulsen (FC København)"
+    },
+    {
+      "year": 2000,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Peter Løvenkrands (AB)"
+    },
+    {
+      "year": 1999,
+      "award": "Årets Talent",
+      "category": "Spillerforeningen",
+      "player": "Peter Madsen (Brøndby IF)"
+    },
+    {
+      "year": 1988,
+      "award": "Årets fund",
+      "category": "1. division",
+      "player": "Mark Strudal (Næstved IF)"
+    },
+    {
+      "year": 1988,
+      "award": "Årets fund",
+      "category": "2. division",
+      "player": "Miklos Molnar (Hvidovre IF)"
+    },
+    {
+      "year": 1988,
+      "award": "Årets fund",
+      "category": "3. division øst",
+      "player": "Jan Knudsen (B1909)"
+    },
+    {
+      "year": 1988,
+      "award": "Årets fund",
+      "category": "3. division vest",
+      "player": "Tommy Haddaoui (Albertslund)"
+    },
+    {
+      "year": 1987,
+      "award": "Årets fund",
+      "category": "1. division",
+      "player": "Brian Laudrup (Brøndby IF)"
+    },
+    {
+      "year": 1987,
+      "award": "Årets fund",
+      "category": "2. division",
+      "player": "Leif Nielsen (Randers Freja)"
+    },
+    {
+      "year": 1987,
+      "award": "Årets fund",
+      "category": "3. division øst",
+      "player": "Peter Nielsen (Fremad Amager)"
+    },
+    {
+      "year": 1987,
+      "award": "Årets fund",
+      "category": "3. division vest",
+      "player": "Jacob Harder (OKS)"
+    },
+    {
+      "year": 1986,
+      "award": "Årets fund",
+      "category": "1. division",
+      "player": "Allan Reese (AGF)"
+    },
+    {
+      "year": 1986,
+      "award": "Årets fund",
+      "category": "2. division",
+      "player": "Kim Rasmussen (Hvidovre IF)"
+    },
+    {
+      "year": 1986,
+      "award": "Årets fund",
+      "category": "3. division øst",
+      "player": "Peter Rasmussen (B.1901)"
+    },
+    {
+      "year": 1986,
+      "award": "Årets fund",
+      "category": "3. division vest",
+      "player": "Kenn Madsen (Slagelse)"
+    },
+    {
+      "year": 1985,
+      "award": "Årets fund",
+      "category": "1. division",
+      "player": "Flemming Povlsen (AGF)"
+    },
+    {
+      "year": 1985,
+      "award": "Årets fund",
+      "category": "2. division",
+      "player": "Lars Elstrup (Randers Freja)"
+    },
+    {
+      "year": 1985,
+      "award": "Årets fund",
+      "category": "3. division",
+      "player": "Jan Sørensen (Fremad Amager)"
+    },
+    {
+      "year": 1984,
+      "award": "Årets fund",
+      "category": "1. division",
+      "player": "Henrik Mortensen (AGF)"
+    },
+    {
+      "year": 1984,
+      "award": "Årets fund",
+      "category": "2. division",
+      "player": "Jakob Friis-Hansen (B 1903)"
+    },
+    {
+      "year": 1984,
+      "award": "Årets fund",
+      "category": "3. division",
+      "player": "Ole Bach Jensen (AaB)"
+    },
+    {
+      "year": 1983,
+      "award": "Årets fund",
+      "category": "1. division",
+      "player": "Lars Lunde (Brøndby IF)"
+    },
+    {
+      "year": 1983,
+      "award": "Årets fund",
+      "category": "2. division",
+      "player": "Frank Løndal (Herfølge)"
+    },
+    {
+      "year": 1983,
+      "award": "Årets fund",
+      "category": "3. division",
+      "player": "Jesper Hansen (Jyderup)"
+    },
+    {
+      "year": 1982,
+      "award": "Årets fund",
+      "category": "1. division",
+      "player": "Keld Bordinggaard (OB)"
+    },
+    {
+      "year": 1982,
+      "award": "Årets fund",
+      "category": "2. division",
+      "player": "Kim Vilfort (Frem)"
+    },
+    {
+      "year": 1982,
+      "award": "Årets fund",
+      "category": "3. division",
+      "player": "Jan Krause (Vanløse IF)"
+    },
+    {
+      "year": 1981,
+      "award": "Årets fund",
+      "category": "1. division",
+      "player": "Michael Laudrup (KB)"
+    },
+    {
+      "year": 1981,
+      "award": "Årets fund",
+      "category": "2. division",
+      "player": "Jan Mølby (Kolding)"
+    },
+    {
+      "year": 1981,
+      "award": "Årets fund",
+      "category": "3. division",
+      "player": "John Jakobsen (Avarta)"
+    },
+    {
+      "year": 1980,
+      "award": "Årets fund",
+      "category": "1. division",
+      "player": "Tommy Madsen (B.93)"
+    },
+    {
+      "year": 1980,
+      "award": "Årets fund",
+      "category": "2. division",
+      "player": "Mikael Jensen (B.1901)"
+    },
+    {
+      "year": 1980,
+      "award": "Årets fund",
+      "category": "3. division",
+      "player": "Jan Sørensen (OKS)"
+    }
+  ],
+  "meta": {
+    "title": "Årets talenter i dansk herrefodbold - Free Download",
+    "description": "Vindere af DBU's Talentpris, Spillerforeningens Årets Talent og Årets fund i dansk herrefodbold. Contains 146 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Årets talenter i dansk herrefodbold | ListBase",
+    "seo_description": "Download Årets talenter i dansk herrefodbold — 146 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 146 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Årets_talenter_i_dansk_herrefodbold"
+    ]
+  }
+}

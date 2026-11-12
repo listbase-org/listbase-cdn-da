@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-11T02:22:55.464Z",
-  "total_datasets": 488,
-  "total_records": 240160,
+  "generated": "2026-11-12T02:09:55.983Z",
+  "total_datasets": 489,
+  "total_records": 240306,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -12047,6 +12047,31 @@
         "xlsx": {
           "name": "da-skilsmisseprocent_DA.xlsx",
           "size": 7268
+        }
+      }
+    },
+    {
+      "id": "da-aarets-talenter-herrefodbold",
+      "name": "Årets talenter i dansk herrefodbold",
+      "category": "sports",
+      "record_count": 146,
+      "columns": [
+        "year",
+        "award",
+        "category",
+        "player"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Årets_talenter_i_dansk_herrefodbold",
+      "updated": "2026-11",
+      "size": 22915,
+      "files": {
+        "csv": {
+          "name": "da-aarets-talenter-herrefodbold_DA.csv",
+          "size": 10144
+        },
+        "xlsx": {
+          "name": "da-aarets-talenter-herrefodbold_DA.xlsx",
+          "size": 11149
         }
       }
     },
