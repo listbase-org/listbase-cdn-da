@@ -1,0 +1,648 @@
+{
+  "id": "da-herreder",
+  "name": "Herreder i Danmark",
+  "title": "Herreder i Danmark",
+  "description": "Danmarks historiske herreder fordelt på de amter, de hørte under.",
+  "category": "history",
+  "source": "https://da.wikipedia.org/wiki/Liste_over_herreder_i_Danmark",
+  "source_url": "https://da.wikipedia.org/wiki/Liste_over_herreder_i_Danmark",
+  "updated": "2026-11",
+  "record_count": 153,
+  "columns": [
+    {
+      "key": "herred",
+      "label": "Herred",
+      "type": "string"
+    },
+    {
+      "key": "amt",
+      "label": "Amt",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "herred": "Nørre Herred",
+      "amt": "Bornholm Amt"
+    },
+    {
+      "herred": "Sønder Herred",
+      "amt": "Bornholm Amt"
+    },
+    {
+      "herred": "Vester Herred",
+      "amt": "Bornholm Amt"
+    },
+    {
+      "herred": "Øster Herred",
+      "amt": "Bornholm Amt"
+    },
+    {
+      "herred": "Holbo Herred",
+      "amt": "Frederiksborg Amt (før 1970)"
+    },
+    {
+      "herred": "Horns Herred",
+      "amt": "Frederiksborg Amt (før 1970)"
+    },
+    {
+      "herred": "Lynge-Frederiksborg Herred",
+      "amt": "Frederiksborg Amt (før 1970)"
+    },
+    {
+      "herred": "Lynge-Kronborg Herred",
+      "amt": "Frederiksborg Amt (før 1970)"
+    },
+    {
+      "herred": "Strø Herred",
+      "amt": "Frederiksborg Amt (før 1970)"
+    },
+    {
+      "herred": "Ølstykke Herred",
+      "amt": "Frederiksborg Amt (før 1970)"
+    },
+    {
+      "herred": "Frøs Herred",
+      "amt": "Haderslev Amt"
+    },
+    {
+      "herred": "Gram Herred",
+      "amt": "Haderslev Amt"
+    },
+    {
+      "herred": "Haderslev Herred",
+      "amt": "Haderslev Amt"
+    },
+    {
+      "herred": "Nørre Rangstrup Herred",
+      "amt": "Haderslev Amt"
+    },
+    {
+      "herred": "Sønder Tyrstrup Herred",
+      "amt": "Haderslev Amt"
+    },
+    {
+      "herred": "Børglum Herred",
+      "amt": "Hjørring Amt"
+    },
+    {
+      "herred": "Dronninglund Herred",
+      "amt": "Hjørring Amt"
+    },
+    {
+      "herred": "Horns Herred",
+      "amt": "Hjørring Amt"
+    },
+    {
+      "herred": "Hvetbo Herred",
+      "amt": "Hjørring Amt"
+    },
+    {
+      "herred": "Læsø Herred",
+      "amt": "Hjørring Amt"
+    },
+    {
+      "herred": "Vennebjerg Herred",
+      "amt": "Hjørring Amt"
+    },
+    {
+      "herred": "Øster Han Herred",
+      "amt": "Hjørring Amt"
+    },
+    {
+      "herred": "Ars Herred",
+      "amt": "Holbæk Amt"
+    },
+    {
+      "herred": "Løve Herred",
+      "amt": "Holbæk Amt"
+    },
+    {
+      "herred": "Merløse Herred",
+      "amt": "Holbæk Amt"
+    },
+    {
+      "herred": "Ods Herred",
+      "amt": "Holbæk Amt"
+    },
+    {
+      "herred": "Samsø Herred",
+      "amt": "Holbæk Amt"
+    },
+    {
+      "herred": "Skippinge Herred",
+      "amt": "Holbæk Amt"
+    },
+    {
+      "herred": "Tuse Herred",
+      "amt": "Holbæk Amt"
+    },
+    {
+      "herred": "Smørum Herred",
+      "amt": "Københavns Amt (før 1970)"
+    },
+    {
+      "herred": "Sokkelund Herred",
+      "amt": "Københavns Amt (før 1970)"
+    },
+    {
+      "herred": "Falsters Nørre Herred",
+      "amt": "Maribo Amt"
+    },
+    {
+      "herred": "Falsters Sønder Herred",
+      "amt": "Maribo Amt"
+    },
+    {
+      "herred": "Fuglse Herred",
+      "amt": "Maribo Amt"
+    },
+    {
+      "herred": "Lollands Nørre Herred",
+      "amt": "Maribo Amt"
+    },
+    {
+      "herred": "Lollands Sønder Herred",
+      "amt": "Maribo Amt"
+    },
+    {
+      "herred": "Musse Herred",
+      "amt": "Maribo Amt"
+    },
+    {
+      "herred": "Bjerge Herred",
+      "amt": "Odense Amt"
+    },
+    {
+      "herred": "Båg Herred",
+      "amt": "Odense Amt"
+    },
+    {
+      "herred": "Lunde Herred",
+      "amt": "Odense Amt"
+    },
+    {
+      "herred": "Odense Herred",
+      "amt": "Odense Amt"
+    },
+    {
+      "herred": "Skam Herred",
+      "amt": "Odense Amt"
+    },
+    {
+      "herred": "Skovby Herred",
+      "amt": "Odense Amt"
+    },
+    {
+      "herred": "Vends Herred",
+      "amt": "Odense Amt"
+    },
+    {
+      "herred": "Åsum Herred",
+      "amt": "Odense Amt"
+    },
+    {
+      "herred": "Bjæverskov Herred",
+      "amt": "Præstø Amt"
+    },
+    {
+      "herred": "Bårse Herred",
+      "amt": "Præstø Amt"
+    },
+    {
+      "herred": "Fakse Herred",
+      "amt": "Præstø Amt"
+    },
+    {
+      "herred": "Hammer Herred",
+      "amt": "Præstø Amt"
+    },
+    {
+      "herred": "Mønbo Herred",
+      "amt": "Præstø Amt"
+    },
+    {
+      "herred": "Stevns Herred",
+      "amt": "Præstø Amt"
+    },
+    {
+      "herred": "Tybjerg Herred",
+      "amt": "Præstø Amt"
+    },
+    {
+      "herred": "Djurs Nørre Herred",
+      "amt": "Randers Amt"
+    },
+    {
+      "herred": "Djurs Sønder Herred",
+      "amt": "Randers Amt"
+    },
+    {
+      "herred": "Galten Herred",
+      "amt": "Randers Amt"
+    },
+    {
+      "herred": "Gjerlev Herred",
+      "amt": "Randers Amt"
+    },
+    {
+      "herred": "Mols Herred",
+      "amt": "Randers Amt"
+    },
+    {
+      "herred": "Nørhald Herred",
+      "amt": "Randers Amt"
+    },
+    {
+      "herred": "Onsild Herred",
+      "amt": "Randers Amt"
+    },
+    {
+      "herred": "Rougsø Herred",
+      "amt": "Randers Amt"
+    },
+    {
+      "herred": "Støvring Herred",
+      "amt": "Randers Amt"
+    },
+    {
+      "herred": "Sønderhald Herred",
+      "amt": "Randers Amt"
+    },
+    {
+      "herred": "Øster Lisbjerg Herred",
+      "amt": "Randers Amt"
+    },
+    {
+      "herred": "Anst Herred",
+      "amt": "Ribe Amt (før 1970)"
+    },
+    {
+      "herred": "Gørding Herred",
+      "amt": "Ribe Amt (før 1970)"
+    },
+    {
+      "herred": "Malt Herred",
+      "amt": "Ribe Amt (før 1970)"
+    },
+    {
+      "herred": "Ribe Herred",
+      "amt": "Ribe Amt (før 1970)"
+    },
+    {
+      "herred": "Skast Herred",
+      "amt": "Ribe Amt (før 1970)"
+    },
+    {
+      "herred": "Slavs Herred",
+      "amt": "Ribe Amt (før 1970)"
+    },
+    {
+      "herred": "Vester Horne Herred",
+      "amt": "Ribe Amt (før 1970)"
+    },
+    {
+      "herred": "Øster Horne Herred",
+      "amt": "Ribe Amt (før 1970)"
+    },
+    {
+      "herred": "Bølling Herred",
+      "amt": "Ringkøbing Amt (før 1970)"
+    },
+    {
+      "herred": "Ginding Herred",
+      "amt": "Ringkøbing Amt (før 1970)"
+    },
+    {
+      "herred": "Hammerum Herred",
+      "amt": "Ringkøbing Amt (før 1970)"
+    },
+    {
+      "herred": "Hind Herred",
+      "amt": "Ringkøbing Amt (før 1970)"
+    },
+    {
+      "herred": "Hjerm Herred",
+      "amt": "Ringkøbing Amt (før 1970)"
+    },
+    {
+      "herred": "Nørre Horne Herred",
+      "amt": "Ringkøbing Amt (før 1970)"
+    },
+    {
+      "herred": "Skodborg Herred",
+      "amt": "Ringkøbing Amt (før 1970)"
+    },
+    {
+      "herred": "Ulfborg Herred",
+      "amt": "Ringkøbing Amt (før 1970)"
+    },
+    {
+      "herred": "Vandfuld Herred",
+      "amt": "Ringkøbing Amt (før 1970)"
+    },
+    {
+      "herred": "Ramsø Herred",
+      "amt": "Roskilde Amt (før 1970)"
+    },
+    {
+      "herred": "Sømme Herred",
+      "amt": "Roskilde Amt (før 1970)"
+    },
+    {
+      "herred": "Tune Herred",
+      "amt": "Roskilde Amt (før 1970)"
+    },
+    {
+      "herred": "Voldborg Herred",
+      "amt": "Roskilde Amt (før 1970)"
+    },
+    {
+      "herred": "Gjern Herred",
+      "amt": "Skanderborg Amt"
+    },
+    {
+      "herred": "Hjelmslev Herred",
+      "amt": "Skanderborg Amt"
+    },
+    {
+      "herred": "Nim Herred",
+      "amt": "Skanderborg Amt"
+    },
+    {
+      "herred": "Tyrsting Herred",
+      "amt": "Skanderborg Amt"
+    },
+    {
+      "herred": "Voer Herred",
+      "amt": "Skanderborg Amt"
+    },
+    {
+      "herred": "Vrads Herred",
+      "amt": "Skanderborg Amt"
+    },
+    {
+      "herred": "Alsted Herred",
+      "amt": "Sorø Amt"
+    },
+    {
+      "herred": "Ringsted Herred",
+      "amt": "Sorø Amt"
+    },
+    {
+      "herred": "Slagelse Herred",
+      "amt": "Sorø Amt"
+    },
+    {
+      "herred": "Vester Flakkebjerg Herred",
+      "amt": "Sorø Amt"
+    },
+    {
+      "herred": "Øster Flakkebjerg Herred",
+      "amt": "Sorø Amt"
+    },
+    {
+      "herred": "Gudme Herred",
+      "amt": "Svendborg Amt"
+    },
+    {
+      "herred": "Langelands Nørre Herred",
+      "amt": "Svendborg Amt"
+    },
+    {
+      "herred": "Langelands Sønder Herred",
+      "amt": "Svendborg Amt"
+    },
+    {
+      "herred": "Sallinge Herred",
+      "amt": "Svendborg Amt"
+    },
+    {
+      "herred": "Sunds Herred",
+      "amt": "Svendborg Amt"
+    },
+    {
+      "herred": "Vindinge Herred",
+      "amt": "Svendborg Amt"
+    },
+    {
+      "herred": "Ærø Herred",
+      "amt": "Svendborg Amt"
+    },
+    {
+      "herred": "Als Nørre Herred",
+      "amt": "Sønderborg Amt"
+    },
+    {
+      "herred": "Als Sønder Herred",
+      "amt": "Sønderborg Amt"
+    },
+    {
+      "herred": "Nybøl Herred",
+      "amt": "Sønderborg Amt"
+    },
+    {
+      "herred": "Hassing Herred",
+      "amt": "Thisted Amt"
+    },
+    {
+      "herred": "Hillerslev Herred",
+      "amt": "Thisted Amt"
+    },
+    {
+      "herred": "Hundborg Herred",
+      "amt": "Thisted Amt"
+    },
+    {
+      "herred": "Morsø Nørre Herred",
+      "amt": "Thisted Amt"
+    },
+    {
+      "herred": "Morsø Sønder Herred",
+      "amt": "Thisted Amt"
+    },
+    {
+      "herred": "Refs Herred",
+      "amt": "Thisted Amt"
+    },
+    {
+      "herred": "Vester Han Herred",
+      "amt": "Thisted Amt"
+    },
+    {
+      "herred": "Hviding Herred",
+      "amt": "Tønder Amt"
+    },
+    {
+      "herred": "Slogs Herred",
+      "amt": "Tønder Amt"
+    },
+    {
+      "herred": "Tønder, Højer og Lø Herred",
+      "amt": "Tønder Amt"
+    },
+    {
+      "herred": "Bjerre Herred",
+      "amt": "Vejle Amt (før 1970)"
+    },
+    {
+      "herred": "Brusk Herred",
+      "amt": "Vejle Amt (før 1970)"
+    },
+    {
+      "herred": "Elbo Herred",
+      "amt": "Vejle Amt (før 1970)"
+    },
+    {
+      "herred": "Hatting Herred",
+      "amt": "Vejle Amt (før 1970)"
+    },
+    {
+      "herred": "Holmans Herred",
+      "amt": "Vejle Amt (før 1970)"
+    },
+    {
+      "herred": "Jerlev Herred",
+      "amt": "Vejle Amt (før 1970)"
+    },
+    {
+      "herred": "Nørre Tyrstrup Herred",
+      "amt": "Vejle Amt (før 1970)"
+    },
+    {
+      "herred": "Nørvang Herred",
+      "amt": "Vejle Amt (før 1970)"
+    },
+    {
+      "herred": "Tørrild Herred",
+      "amt": "Vejle Amt (før 1970)"
+    },
+    {
+      "herred": "Fjends Herred",
+      "amt": "Viborg Amt (før 1970)"
+    },
+    {
+      "herred": "Harre Herred",
+      "amt": "Viborg Amt (før 1970)"
+    },
+    {
+      "herred": "Hids Herred",
+      "amt": "Viborg Amt (før 1970)"
+    },
+    {
+      "herred": "Hindborg Herred",
+      "amt": "Viborg Amt (før 1970)"
+    },
+    {
+      "herred": "Houlbjerg Herred",
+      "amt": "Viborg Amt (før 1970)"
+    },
+    {
+      "herred": "Lysgård Herred",
+      "amt": "Viborg Amt (før 1970)"
+    },
+    {
+      "herred": "Middelsom Herred",
+      "amt": "Viborg Amt (før 1970)"
+    },
+    {
+      "herred": "Nørlyng Herred",
+      "amt": "Viborg Amt (før 1970)"
+    },
+    {
+      "herred": "Nørre Herred",
+      "amt": "Viborg Amt (før 1970)"
+    },
+    {
+      "herred": "Rinds Herred",
+      "amt": "Viborg Amt (før 1970)"
+    },
+    {
+      "herred": "Rødding Herred",
+      "amt": "Viborg Amt (før 1970)"
+    },
+    {
+      "herred": "Sønderlyng Herred",
+      "amt": "Viborg Amt (før 1970)"
+    },
+    {
+      "herred": "Lundtoft Herred",
+      "amt": "Åbenrå Amt"
+    },
+    {
+      "herred": "Rise Herred",
+      "amt": "Åbenrå Amt"
+    },
+    {
+      "herred": "Sønder Rangstrup Herred",
+      "amt": "Åbenrå Amt"
+    },
+    {
+      "herred": "Fleskum Herred",
+      "amt": "Ålborg Amt"
+    },
+    {
+      "herred": "Gislum Herred",
+      "amt": "Ålborg Amt"
+    },
+    {
+      "herred": "Hellum Herred",
+      "amt": "Ålborg Amt"
+    },
+    {
+      "herred": "Hindsted Herred",
+      "amt": "Ålborg Amt"
+    },
+    {
+      "herred": "Hornum Herred",
+      "amt": "Ålborg Amt"
+    },
+    {
+      "herred": "Kær Herred",
+      "amt": "Ålborg Amt"
+    },
+    {
+      "herred": "Slet Herred",
+      "amt": "Ålborg Amt"
+    },
+    {
+      "herred": "Års Herred",
+      "amt": "Ålborg Amt"
+    },
+    {
+      "herred": "Framlev Herred",
+      "amt": "Århus Amt (før 1970)"
+    },
+    {
+      "herred": "Hads Herred",
+      "amt": "Århus Amt (før 1970)"
+    },
+    {
+      "herred": "Hasle Herred",
+      "amt": "Århus Amt (før 1970)"
+    },
+    {
+      "herred": "Ning Herred",
+      "amt": "Århus Amt (før 1970)"
+    },
+    {
+      "herred": "Sabro Herred",
+      "amt": "Århus Amt (før 1970)"
+    },
+    {
+      "herred": "Vester Lisbjerg Herred",
+      "amt": "Århus Amt (før 1970)"
+    }
+  ],
+  "meta": {
+    "title": "Herreder i Danmark - Free Download",
+    "description": "Danmarks historiske herreder fordelt på de amter, de hørte under. Contains 153 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Herreder i Danmark | ListBase",
+    "seo_description": "Download Herreder i Danmark — 153 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 153 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Liste_over_herreder_i_Danmark"
+    ]
+  }
+}

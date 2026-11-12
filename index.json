@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-12T02:10:04.478Z",
-  "total_datasets": 490,
-  "total_records": 240324,
+  "generated": "2026-11-12T02:10:14.749Z",
+  "total_datasets": 491,
+  "total_records": 240477,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -3640,6 +3640,29 @@
         "xlsx": {
           "name": "da-tandlaeger_DA.xlsx",
           "size": 15843
+        }
+      }
+    },
+    {
+      "id": "da-herreder",
+      "name": "Herreder i Danmark",
+      "category": "history",
+      "record_count": 153,
+      "columns": [
+        "herred",
+        "amt"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Liste_over_herreder_i_Danmark",
+      "updated": "2026-11",
+      "size": 13412,
+      "files": {
+        "csv": {
+          "name": "da-herreder_DA.csv",
+          "size": 5648
+        },
+        "xlsx": {
+          "name": "da-herreder_DA.xlsx",
+          "size": 9408
         }
       }
     },
