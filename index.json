@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-12T02:10:14.749Z",
-  "total_datasets": 491,
-  "total_records": 240477,
+  "generated": "2026-11-12T02:10:23.396Z",
+  "total_datasets": 492,
+  "total_records": 240490,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -1680,6 +1680,30 @@
         "xlsx": {
           "name": "da-koebenhavns-universitets-rektorer_DA.xlsx",
           "size": 19559
+        }
+      }
+    },
+    {
+      "id": "da-professionshoejskoler-erhvervsakademier",
+      "name": "Professionshøjskoler og erhvervsakademier i Danmark",
+      "category": "education",
+      "record_count": 13,
+      "columns": [
+        "name",
+        "type",
+        "note"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Videregående_uddannelser_i_Danmark",
+      "updated": "2026-11",
+      "size": 3249,
+      "files": {
+        "csv": {
+          "name": "da-professionshoejskoler-erhvervsakademier_DA.csv",
+          "size": 1024
+        },
+        "xlsx": {
+          "name": "da-professionshoejskoler-erhvervsakademier_DA.xlsx",
+          "size": 7180
         }
       }
     },

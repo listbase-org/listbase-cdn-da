@@ -1,0 +1,106 @@
+{
+  "id": "da-professionshoejskoler-erhvervsakademier",
+  "name": "Professionshøjskoler og erhvervsakademier i Danmark",
+  "title": "Professionshøjskoler og erhvervsakademier i Danmark",
+  "description": "Danske professionshøjskoler (University Colleges) og erhvervsakademier.",
+  "category": "education",
+  "source": "https://da.wikipedia.org/wiki/Videregående_uddannelser_i_Danmark",
+  "source_url": "https://da.wikipedia.org/wiki/Videregående_uddannelser_i_Danmark",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Københavns Professionshøjskole",
+      "type": "Professionshøjskoler",
+      "note": "opstod i 2018 ved fusion mellem de to professionshøjskoler Metropolitan, Metropol, og Capital, UCC"
+    },
+    {
+      "name": "Professionshøjskolen Absalon",
+      "type": "Professionshøjskoler",
+      "note": "Det tidligere navn var University College Sjælland"
+    },
+    {
+      "name": "UCL Erhvervsakademi og Professionshøjskole",
+      "type": "Professionshøjskoler",
+      "note": ""
+    },
+    {
+      "name": "University College Syddanmark i Sønderjylland og dele af Sydjylland",
+      "type": "Professionshøjskoler",
+      "note": ""
+    },
+    {
+      "name": "VIA University College i Midtjylland",
+      "type": "Professionshøjskoler",
+      "note": ""
+    },
+    {
+      "name": "University College Nordjylland",
+      "type": "Professionshøjskoler",
+      "note": ""
+    },
+    {
+      "name": "Erhvervsakademi København",
+      "type": "Erhvervsakademier",
+      "note": ""
+    },
+    {
+      "name": "Erhvervsakademi Aarhus",
+      "type": "Erhvervsakademier",
+      "note": ""
+    },
+    {
+      "name": "Erhvervsakademi Dania i Midt- og Østjylland",
+      "type": "Erhvervsakademier",
+      "note": ""
+    },
+    {
+      "name": "IBA Erhvervsakademi Kolding",
+      "type": "Erhvervsakademier",
+      "note": ""
+    },
+    {
+      "name": "Erhvervsakademi MidtVest i Herning og Holstebro",
+      "type": "Erhvervsakademier",
+      "note": ""
+    },
+    {
+      "name": "Zealand - Sjællands Erhvervsakademi",
+      "type": "Erhvervsakademier",
+      "note": ""
+    },
+    {
+      "name": "Syddansk Erhvervsakademi i Esbjerg og Sønderborg",
+      "type": "Erhvervsakademier",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Professionshøjskoler og erhvervsakademier i Danmark - Free Download",
+    "description": "Danske professionshøjskoler (University Colleges) og erhvervsakademier. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Professionshøjskoler og erhvervsakademier i Danmark | ListBase",
+    "seo_description": "Download Professionshøjskoler og erhvervsakademier i Danmark — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Videregående_uddannelser_i_Danmark"
+    ]
+  }
+}
