@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-12T02:10:23.396Z",
-  "total_datasets": 492,
-  "total_records": 240490,
+  "generated": "2026-11-12T02:10:33.544Z",
+  "total_datasets": 493,
+  "total_records": 240572,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -4309,6 +4309,31 @@
         "xlsx": {
           "name": "da-livstidsdomte_DA.xlsx",
           "size": 11189
+        }
+      }
+    },
+    {
+      "id": "da-retskredse-1972-2006",
+      "name": "Retskredse i Danmark 1972–2006",
+      "category": "law",
+      "record_count": 82,
+      "columns": [
+        "name",
+        "number",
+        "municipalities",
+        "new_court_district_2007"
+      ],
+      "source": "https://da.wikipedia.org/wiki/Retskredse_i_Danmark",
+      "updated": "2026-11",
+      "size": 16114,
+      "files": {
+        "csv": {
+          "name": "da-retskredse-1972-2006_DA.csv",
+          "size": 6360
+        },
+        "xlsx": {
+          "name": "da-retskredse-1972-2006_DA.xlsx",
+          "size": 10761
         }
       }
     },

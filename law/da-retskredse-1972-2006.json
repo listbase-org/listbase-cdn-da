@@ -1,0 +1,538 @@
+{
+  "id": "da-retskredse-1972-2006",
+  "name": "Retskredse i Danmark 1972–2006",
+  "title": "Retskredse i Danmark 1972–2006",
+  "description": "De 82 danske retskredse før domstolsreformen i 2007 med nummer, kommuner og ny retskreds fra 2007.",
+  "category": "law",
+  "source": "https://da.wikipedia.org/wiki/Retskredse_i_Danmark",
+  "source_url": "https://da.wikipedia.org/wiki/Retskredse_i_Danmark",
+  "updated": "2026-11",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "municipalities",
+      "label": "Municipalities",
+      "type": "string"
+    },
+    {
+      "key": "new_court_district_2007",
+      "label": "New Court District 2007",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Assens",
+      "number": 39,
+      "municipalities": "Assens, Glamsbjerg, Haarby, Aarup",
+      "new_court_district_2007": "Nr. 12: Odense"
+    },
+    {
+      "name": "Ballerup",
+      "number": 6,
+      "municipalities": "Ballerup, Herlev, Ledøje-Smørum, Værløse",
+      "new_court_district_2007": "Nr. 21: Glostrup (72%) Nr. 20: Lyngby (18%) Nr. 18: Hillerød (10%)."
+    },
+    {
+      "name": "Brædstrup",
+      "number": 56,
+      "municipalities": "Brædstrup, Nørre-Snede, Tørring-Uldum",
+      "new_court_district_2007": "Nr. 8: Horsens (74%) Nr. 7: Herning (25%)"
+    },
+    {
+      "name": "Brøndbyerne",
+      "number": 10,
+      "municipalities": "Brøndby, Vallensbæk",
+      "new_court_district_2007": "Nr. 21: Glostrup"
+    },
+    {
+      "name": "Brønderslev",
+      "number": 82,
+      "municipalities": "Brønderslev, Pandrup",
+      "new_court_district_2007": "Nr. 1: Hjørring"
+    },
+    {
+      "name": "Esbjerg",
+      "number": 49,
+      "municipalities": "Esbjerg, Fanø",
+      "new_court_district_2007": "Nr. 10: Esbjerg"
+    },
+    {
+      "name": "Faaborg",
+      "number": 38,
+      "municipalities": "Broby, Faaborg",
+      "new_court_district_2007": "Nr. 13: Svendborg"
+    },
+    {
+      "name": "Fjerritslev",
+      "number": 74,
+      "municipalities": "Brovst, Fjerritslev, Løgstør",
+      "new_court_district_2007": "Nr. 1: Hjørring (62%) Nr. 2: Aalborg (38%)"
+    },
+    {
+      "name": "Fredericia",
+      "number": 54,
+      "municipalities": "Børkop, Fredericia",
+      "new_court_district_2007": "Nr. 9: Kolding"
+    },
+    {
+      "name": "Frederiksberg",
+      "number": 2,
+      "municipalities": "Frederiksberg",
+      "new_court_district_2007": "Nr. 22: Frederiksberg"
+    },
+    {
+      "name": "Frederikshavn",
+      "number": 80,
+      "municipalities": "Frederikshavn, Læsø, Skagen",
+      "new_court_district_2007": "Nr. 1: Hjørring"
+    },
+    {
+      "name": "Frederikssund",
+      "number": 17,
+      "municipalities": "Frederikssund, Frederiksværk, Hundested, Jægerspris, Skibby, Stenløse, Ølstykke",
+      "new_court_district_2007": "Nr. 18. Hillerød"
+    },
+    {
+      "name": "Gentofte",
+      "number": 3,
+      "municipalities": "Gentofte",
+      "new_court_district_2007": "Nr. 20: Lyngby"
+    },
+    {
+      "name": "Gladsaxe",
+      "number": 5,
+      "municipalities": "Gladsaxe",
+      "new_court_district_2007": "Nr. 21: Glostrup"
+    },
+    {
+      "name": "Glostrup",
+      "number": 9,
+      "municipalities": "Albertslund, Glostrup",
+      "new_court_district_2007": "Nr. 21: Glostrup"
+    },
+    {
+      "name": "Grenaa",
+      "number": 66,
+      "municipalities": "Ebeltoft, Grenaa, Midtdjurs, Nørre Djurs",
+      "new_court_district_2007": "Nr. 3: Randers"
+    },
+    {
+      "name": "Grindsted",
+      "number": 51,
+      "municipalities": "Billund, Give, Grindsted",
+      "new_court_district_2007": "Nr. 9: Kolding"
+    },
+    {
+      "name": "Gråsten",
+      "number": 44,
+      "municipalities": "Bov, Gråsten, Lundtoft",
+      "new_court_district_2007": "Nr. 11. Sønderborg"
+    },
+    {
+      "name": "Haderslev",
+      "number": 41,
+      "municipalities": "Christiansfeld, Haderslev, Vojens",
+      "new_court_district_2007": "Nr. 11: Sønderborg (84) Nr. 9: Kolding (16%)"
+    },
+    {
+      "name": "Helsinge",
+      "number": 16,
+      "municipalities": "Græsted-Gilleleje, Helsinge",
+      "new_court_district_2007": "Nr. 19: Helsingør"
+    },
+    {
+      "name": "Helsingør",
+      "number": 13,
+      "municipalities": "Fredensborg-Humlebæk, Helsingør",
+      "new_court_district_2007": "Nr. 19: Helsingør"
+    },
+    {
+      "name": "Herning",
+      "number": 57,
+      "municipalities": "Aulum-Haderup, Brande, Herning, Ikast, Trehøje, Aaskov",
+      "new_court_district_2007": "Nr. 7: Herning"
+    },
+    {
+      "name": "Hillerød",
+      "number": 15,
+      "municipalities": "Allerød, Farum, Hillerød, Skævinge, Slangerup",
+      "new_court_district_2007": "Nr. 18: Hillerød (80%) Nr. 20: Lyngby (20%)"
+    },
+    {
+      "name": "Hjørring",
+      "number": 81,
+      "municipalities": "Hirtshals, Hjørring, Løkken-Vrå, Sindal",
+      "new_court_district_2007": "Nr. 1: Hjørring"
+    },
+    {
+      "name": "Hobro",
+      "number": 78,
+      "municipalities": "Hobro, Nørager, Aalestrup",
+      "new_court_district_2007": "Nr. 2: Aalborg"
+    },
+    {
+      "name": "Holbæk",
+      "number": 21,
+      "municipalities": "Holbæk, Jernløse, Svinninge, Tornved, Tølløse",
+      "new_court_district_2007": "Nr. 16: Holbæk"
+    },
+    {
+      "name": "Holstebro",
+      "number": 60,
+      "municipalities": "Holstebro",
+      "new_court_district_2007": "Nr. 6: Holstebro"
+    },
+    {
+      "name": "Holsted",
+      "number": 48,
+      "municipalities": "Brørup, Holsted, Vejen",
+      "new_court_district_2007": "Nr. 10: Esbjerg"
+    },
+    {
+      "name": "Horsens",
+      "number": 55,
+      "municipalities": "Gedved, Hedensted, Horsens, Juelsminde",
+      "new_court_district_2007": "Nr. 8: Horsens"
+    },
+    {
+      "name": "Hvidovre",
+      "number": 7,
+      "municipalities": "Hvidovre",
+      "new_court_district_2007": "Nr. 21 Glostrup"
+    },
+    {
+      "name": "Hørsholm",
+      "number": 14,
+      "municipalities": "Birkerød, Hørsholm, Karlebo",
+      "new_court_district_2007": "Nr. 19: Helsingør"
+    },
+    {
+      "name": "Kalundborg",
+      "number": 22,
+      "municipalities": "Bjergsted, Hvidebæk, Kalundborg",
+      "new_court_district_2007": "Nr. 16: Holbæk"
+    },
+    {
+      "name": "Kjellerup",
+      "number": 70,
+      "municipalities": "Bjerringbro, Hvorslev, Karup, Kjellerup",
+      "new_court_district_2007": "Nr. 3: Randers"
+    },
+    {
+      "name": "Kolding",
+      "number": 53,
+      "municipalities": "Kolding, Lunderskov, Vamdrup",
+      "new_court_district_2007": "Nr. 9: Kolding"
+    },
+    {
+      "name": "Korsør",
+      "number": 24,
+      "municipalities": "Korsør, Skælskør",
+      "new_court_district_2007": "Nr. 15: Næstved"
+    },
+    {
+      "name": "København",
+      "number": 1,
+      "municipalities": "København",
+      "new_court_district_2007": "Nr. 23: København (59%) Nr. 22: Frederiksberg (41%)"
+    },
+    {
+      "name": "Køge",
+      "number": 19,
+      "municipalities": "Køge, Skovbo, Vallø",
+      "new_court_district_2007": "Nr. 17: Roskilde"
+    },
+    {
+      "name": "Lemvig",
+      "number": 62,
+      "municipalities": "Lemvig, Thyborøn-Harboøre",
+      "new_court_district_2007": "Nr. 6: Holstebro"
+    },
+    {
+      "name": "Lyngby",
+      "number": 4,
+      "municipalities": "Lyngby-Taarbæk, Søllerød",
+      "new_court_district_2007": "Nr. 20: Lyngby"
+    },
+    {
+      "name": "Mariager",
+      "number": 68,
+      "municipalities": "Mariager, Nørhald, Purhus",
+      "new_court_district_2007": "Nr. 2: Aalborg"
+    },
+    {
+      "name": "Maribo",
+      "number": 31,
+      "municipalities": "Holeby, Maribo, Rødby, Sakskøbing",
+      "new_court_district_2007": "Nr. 14: Nykøbing Falster"
+    },
+    {
+      "name": "Middelfart",
+      "number": 40,
+      "municipalities": "Ejby, Middelfart, Nørre Aaby",
+      "new_court_district_2007": "Nr. 12: Odense"
+    },
+    {
+      "name": "Nakskov",
+      "number": 32,
+      "municipalities": "Højreby, Nakskov, Ravnsborg, Rudbjerg",
+      "new_court_district_2007": "Nr. 14: Nykøbing Falster"
+    },
+    {
+      "name": "Nibe",
+      "number": 75,
+      "municipalities": "Farsø, Nibe, Aars",
+      "new_court_district_2007": "Nr. 2: Aalborg"
+    },
+    {
+      "name": "Nyborg",
+      "number": 35,
+      "municipalities": "Kerteminde, Nyborg, Ullerslev, Ørbæk",
+      "new_court_district_2007": "Nr. 13: Svendborg (74%) Nr. 12: Odense (26%)"
+    },
+    {
+      "name": "Nykøbing Falster",
+      "number": 30,
+      "municipalities": "Nykøbing Falster, Nysted, Nørre Alslev, Stubbekøbing, Sydfalster",
+      "new_court_district_2007": "Nr. 14: Nykøbing Falster"
+    },
+    {
+      "name": "Nykøbing Mors",
+      "number": 72,
+      "municipalities": "Morsø",
+      "new_court_district_2007": "Nr. 6: Holstebro"
+    },
+    {
+      "name": "Nykøbing Sjælland",
+      "number": 20,
+      "municipalities": "Dragsholm, Nykøbing-Rørvig, Trundholm",
+      "new_court_district_2007": "Nr. 16: Holbæk"
+    },
+    {
+      "name": "Næstved",
+      "number": 28,
+      "municipalities": "Fladså, Holmegaard, Næstved, Præstø, Suså",
+      "new_court_district_2007": "Nr. 15: Næstved (90%) Nr. 14: Nykøbing Falster (10%)"
+    },
+    {
+      "name": "Odense",
+      "number": 34,
+      "municipalities": "Bogense, Langeskov, Munkebo, Odense, Otterup, Søndersø, Tommerup, Vissenbjerg, Årslev",
+      "new_court_district_2007": "Nr. 12: Odense (96%) Nr. 13: Svendborg (4%)"
+    },
+    {
+      "name": "Randers",
+      "number": 67,
+      "municipalities": "Hadsten, Langå, Randers, Rougsø, Sønderhald",
+      "new_court_district_2007": "Nr. 3: Randers"
+    },
+    {
+      "name": "Ribe",
+      "number": 47,
+      "municipalities": "Bramming, Ribe",
+      "new_court_district_2007": "Nr. 10: Esbjerg"
+    },
+    {
+      "name": "Ringkøbing",
+      "number": 58,
+      "municipalities": "Holmsland, Ringkøbing, Ulfborg-Vemb",
+      "new_court_district_2007": "Nr. 7: Herning (77%) Nr. 6: Holstebro (23%)"
+    },
+    {
+      "name": "Ringsted",
+      "number": 26,
+      "municipalities": "Haslev, Ringsted",
+      "new_court_district_2007": "Nr. 17: Roskilde (68%) Nr. 15: Næstved (32%)"
+    },
+    {
+      "name": "Roskilde",
+      "number": 18,
+      "municipalities": "Bramsnæs, Greve, Gundsø, Hvalsø, Lejre, Ramsø, Roskilde, Solrød",
+      "new_court_district_2007": "Nr. 17: Roskilde"
+    },
+    {
+      "name": "Rudkøbing",
+      "number": 37,
+      "municipalities": "Marstal, Rudkøbing, Sydlangeland, Tranekær, Ærøskøbing",
+      "new_court_district_2007": "Nr. 13: Svendborg"
+    },
+    {
+      "name": "Rødding",
+      "number": 42,
+      "municipalities": "Gram, Nørre-Rangstrup, Rødding",
+      "new_court_district_2007": "Nr. 11: Sønderborg (57%) Nr. 10: Esbjerg (43%)"
+    },
+    {
+      "name": "Rødovre",
+      "number": 8,
+      "municipalities": "Rødovre",
+      "new_court_district_2007": "Nr. 21: Glostrup"
+    },
+    {
+      "name": "Rønne",
+      "number": 33,
+      "municipalities": "Bornholm, Ertholmene (uden for kommuner)",
+      "new_court_district_2007": "Nr. 24: Bornholm"
+    },
+    {
+      "name": "Silkeborg",
+      "number": 65,
+      "municipalities": "Gjern, Hammel, Silkeborg, Them",
+      "new_court_district_2007": "Nr. 5: Viborg (87%) Nr. 3: Randers (13%)"
+    },
+    {
+      "name": "Skanderborg",
+      "number": 64,
+      "municipalities": "Hørning, Odder, Ry, Samsø, Skanderborg",
+      "new_court_district_2007": "Nr. 8: Horsens (63%) Nr. 4: Aarhus (37%)"
+    },
+    {
+      "name": "Skive",
+      "number": 71,
+      "municipalities": "Sallingsund, Skive, Spøttrup, Sundsøre",
+      "new_court_district_2007": "Nr. 5: Viborg"
+    },
+    {
+      "name": "Skjern",
+      "number": 59,
+      "municipalities": "Egvad, Skjern, Videbæk",
+      "new_court_district_2007": "Nr. 7: Herning"
+    },
+    {
+      "name": "Slagelse",
+      "number": 23,
+      "municipalities": "Fuglebjerg, Gørlev, Hashøj, Høng, Slagelse",
+      "new_court_district_2007": "Nr. 15: Næstved (77%) Nr. 16 Holbæk (23%)"
+    },
+    {
+      "name": "Sorø",
+      "number": 25,
+      "municipalities": "Dianalund, Sorø, Stenlille",
+      "new_court_district_2007": "Nr. 15: Næstved"
+    },
+    {
+      "name": "Store Heddinge",
+      "number": 27,
+      "municipalities": "Fakse, Rønnede, Stevns",
+      "new_court_district_2007": "Nr. 15: Næstved (63%) Nr. 17: Roskilde (37%)"
+    },
+    {
+      "name": "Struer",
+      "number": 61,
+      "municipalities": "Struer, Thyholm, Vinderup",
+      "new_court_district_2007": "Nr. 6: Holstebro"
+    },
+    {
+      "name": "Svendborg",
+      "number": 36,
+      "municipalities": "Egebjerg, Gudme, Ringe, Ryslinge, Svendborg",
+      "new_court_district_2007": "Nr. 13: Svendborg"
+    },
+    {
+      "name": "Sæby",
+      "number": 79,
+      "municipalities": "Sæby",
+      "new_court_district_2007": "Nr. 1: Hjørring"
+    },
+    {
+      "name": "Sønderborg",
+      "number": 45,
+      "municipalities": "Augustenborg, Broager, Nordborg, Sundeved, Sydals, Sønderborg",
+      "new_court_district_2007": "Nr. 11: Sønderborg"
+    },
+    {
+      "name": "Terndrup",
+      "number": 77,
+      "municipalities": "Arden, Hadsund, Skørping",
+      "new_court_district_2007": "Nr. 2: Aalborg"
+    },
+    {
+      "name": "Thisted",
+      "number": 73,
+      "municipalities": "Hanstholm, Sydthy, Thisted",
+      "new_court_district_2007": "Nr. 6: Holstebro"
+    },
+    {
+      "name": "Tårnby",
+      "number": 12,
+      "municipalities": "Dragør, Tårnby",
+      "new_court_district_2007": "Nr. 23: København"
+    },
+    {
+      "name": "Taastrup",
+      "number": 11,
+      "municipalities": "Høje-Taastrup, Ishøj",
+      "new_court_district_2007": "Nr. 21: Glostrup"
+    },
+    {
+      "name": "Tønder",
+      "number": 46,
+      "municipalities": "Bredebro, Højer, Løgumkloster, Skærbæk, Tinglev, Tønder",
+      "new_court_district_2007": "Nr. 11: Sønderborg"
+    },
+    {
+      "name": "Varde",
+      "number": 50,
+      "municipalities": "Blaabjerg, Blåvandshuk, Helle, Varde, Ølgod",
+      "new_court_district_2007": "Nr. 10: Esbjerg"
+    },
+    {
+      "name": "Vejle",
+      "number": 52,
+      "municipalities": "Egtved, Jelling, Vejle",
+      "new_court_district_2007": "Nr. 9: Kolding"
+    },
+    {
+      "name": "Viborg",
+      "number": 69,
+      "municipalities": "Fjends, Møldrup, Tjele, Viborg",
+      "new_court_district_2007": "Nr. 5: Viborg"
+    },
+    {
+      "name": "Vordingborg",
+      "number": 29,
+      "municipalities": "Langebæk, Møn, Vordingborg",
+      "new_court_district_2007": "Nr. 14: Nykøbing Falster"
+    },
+    {
+      "name": "Aabenraa",
+      "number": 43,
+      "municipalities": "Rødekro, Aabenraa",
+      "new_court_district_2007": "Nr. 11: Sønderborg"
+    },
+    {
+      "name": "Aalborg",
+      "number": 76,
+      "municipalities": "Hals, Sejlflod, Støvring, Aabybro, Aalborg",
+      "new_court_district_2007": "Nr. 2: Aalborg (95%) Nr. 1: Hjørring (5%)"
+    },
+    {
+      "name": "Århus",
+      "number": 63,
+      "municipalities": "Galten, Hinnerup, Rosenholm, Rønde, Århus",
+      "new_court_district_2007": "Nr. 4: Aarhus (89%) Nr. 3: Randers (8%) Nr. 8: Horsens (3%)"
+    }
+  ],
+  "meta": {
+    "title": "Retskredse i Danmark 1972–2006 - Free Download",
+    "description": "De 82 danske retskredse før domstolsreformen i 2007 med nummer, kommuner og ny retskreds fra 2007. Contains 82 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Retskredse i Danmark 1972–2006 | ListBase",
+    "seo_description": "Download Retskredse i Danmark 1972–2006 — 82 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 82 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/Retskredse_i_Danmark"
+    ]
+  }
+}
