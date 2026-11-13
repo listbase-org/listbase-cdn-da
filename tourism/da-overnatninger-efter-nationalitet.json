@@ -1,0 +1,9221 @@
+{
+  "id": "da-overnatninger-efter-nationalitet",
+  "name": "Turisters overnatninger i Danmark efter nationalitet",
+  "title": "Turisters overnatninger i Danmark efter nationalitet",
+  "description": "Årligt antal overnatninger (alle overnatningsformer) i Danmark fordelt på gæsternes nationalitet, fra 1992.",
+  "category": "tourism",
+  "source": "https://www.statistikbanken.dk/TURIST",
+  "source_url": "https://www.statistikbanken.dk/TURIST",
+  "updated": "2026-11",
+  "record_count": 1836,
+  "columns": [
+    {
+      "key": "nationalitet",
+      "label": "Nationalitet",
+      "type": "string"
+    },
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "overnatninger",
+      "label": "Overnatninger",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nationalitet": "I alt",
+      "aar": 1992,
+      "overnatninger": 41649621
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 1992,
+      "overnatninger": 26303183
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 1992,
+      "overnatninger": 18128012
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 1992,
+      "overnatninger": 15346438
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 1992,
+      "overnatninger": 3038262
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 1992,
+      "overnatninger": 1557092
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 1992,
+      "overnatninger": 1275478
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 1992,
+      "overnatninger": 555850
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 1992,
+      "overnatninger": 391402
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 1992,
+      "overnatninger": 368968
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 1992,
+      "overnatninger": 310229
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 1992,
+      "overnatninger": 213172
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 1992,
+      "overnatninger": 177317
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 1992,
+      "overnatninger": 138251
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 1992,
+      "overnatninger": 110924
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 1992,
+      "overnatninger": 36074
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 1992,
+      "overnatninger": 1033
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 1992,
+      "overnatninger": 643
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 1992,
+      "overnatninger": 224
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 1992,
+      "overnatninger": 159
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 1992,
+      "overnatninger": 56
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 1992,
+      "overnatninger": 22
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 1992,
+      "overnatninger": 6
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 1992,
+      "overnatninger": 3
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 1992,
+      "overnatninger": 3
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 1992,
+      "overnatninger": 3
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 1992,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 1993,
+      "overnatninger": 42277015
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 1993,
+      "overnatninger": 26946597
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 1993,
+      "overnatninger": 19814481
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 1993,
+      "overnatninger": 15330418
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 1993,
+      "overnatninger": 2276078
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 1993,
+      "overnatninger": 1651075
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 1993,
+      "overnatninger": 988851
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 1993,
+      "overnatninger": 580233
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 1993,
+      "overnatninger": 425644
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 1993,
+      "overnatninger": 361297
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 1993,
+      "overnatninger": 296629
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 1993,
+      "overnatninger": 167243
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 1993,
+      "overnatninger": 129612
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 1993,
+      "overnatninger": 119236
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 1993,
+      "overnatninger": 99960
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 1993,
+      "overnatninger": 33158
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 1993,
+      "overnatninger": 1452
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 1993,
+      "overnatninger": 993
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 1993,
+      "overnatninger": 208
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 1993,
+      "overnatninger": 102
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 1993,
+      "overnatninger": 97
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 1993,
+      "overnatninger": 77
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 1993,
+      "overnatninger": 58
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 1993,
+      "overnatninger": 48
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 1993,
+      "overnatninger": 35
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 1993,
+      "overnatninger": 33
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 1993,
+      "overnatninger": 3
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 1993,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 1994,
+      "overnatninger": 42651078
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 1994,
+      "overnatninger": 26556495
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 1994,
+      "overnatninger": 19351882
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 1994,
+      "overnatninger": 16094583
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 1994,
+      "overnatninger": 2193737
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 1994,
+      "overnatninger": 1661645
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 1994,
+      "overnatninger": 1044004
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 1994,
+      "overnatninger": 578240
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 1994,
+      "overnatninger": 439974
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 1994,
+      "overnatninger": 407339
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 1994,
+      "overnatninger": 309796
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 1994,
+      "overnatninger": 180496
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 1994,
+      "overnatninger": 125899
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 1994,
+      "overnatninger": 124791
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 1994,
+      "overnatninger": 103263
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 1994,
+      "overnatninger": 31854
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 1994,
+      "overnatninger": 2443
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 1994,
+      "overnatninger": 444
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 1994,
+      "overnatninger": 367
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 1994,
+      "overnatninger": 102
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 1994,
+      "overnatninger": 79
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 1994,
+      "overnatninger": 45
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 1994,
+      "overnatninger": 36
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 1994,
+      "overnatninger": 28
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 1994,
+      "overnatninger": 16
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 1994,
+      "overnatninger": 6
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 1994,
+      "overnatninger": 6
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 1994,
+      "overnatninger": 3
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 1994,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 1995,
+      "overnatninger": 43124035
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 1995,
+      "overnatninger": 26693336
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 1995,
+      "overnatninger": 19794759
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 1995,
+      "overnatninger": 16430699
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 1995,
+      "overnatninger": 1955260
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 1995,
+      "overnatninger": 1482748
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 1995,
+      "overnatninger": 1171302
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 1995,
+      "overnatninger": 606832
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 1995,
+      "overnatninger": 463202
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 1995,
+      "overnatninger": 389924
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 1995,
+      "overnatninger": 289083
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 1995,
+      "overnatninger": 164349
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 1995,
+      "overnatninger": 119348
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 1995,
+      "overnatninger": 119187
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 1995,
+      "overnatninger": 99202
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 1995,
+      "overnatninger": 34666
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 1995,
+      "overnatninger": 2002
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 1995,
+      "overnatninger": 688
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 1995,
+      "overnatninger": 243
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 1995,
+      "overnatninger": 199
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 1995,
+      "overnatninger": 128
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 1995,
+      "overnatninger": 61
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 1995,
+      "overnatninger": 57
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 1995,
+      "overnatninger": 35
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 1995,
+      "overnatninger": 31
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 1995,
+      "overnatninger": 24
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 1995,
+      "overnatninger": 3
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 1995,
+      "overnatninger": 3
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 1995,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 1996,
+      "overnatninger": 42884720
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 1996,
+      "overnatninger": 26542267
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 1996,
+      "overnatninger": 19199514
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 1996,
+      "overnatninger": 16342453
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 1996,
+      "overnatninger": 2086984
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 1996,
+      "overnatninger": 1707104
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 1996,
+      "overnatninger": 1121585
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 1996,
+      "overnatninger": 549241
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 1996,
+      "overnatninger": 384067
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 1996,
+      "overnatninger": 276846
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 1996,
+      "overnatninger": 258542
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 1996,
+      "overnatninger": 200305
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 1996,
+      "overnatninger": 128554
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 1996,
+      "overnatninger": 115237
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 1996,
+      "overnatninger": 113166
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 1996,
+      "overnatninger": 89038
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 1996,
+      "overnatninger": 75007
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 1996,
+      "overnatninger": 72127
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 1996,
+      "overnatninger": 48921
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 1996,
+      "overnatninger": 44334
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 1996,
+      "overnatninger": 33718
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 1996,
+      "overnatninger": 24247
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 1996,
+      "overnatninger": 13132
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 1996,
+      "overnatninger": 195
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 1996,
+      "overnatninger": 120
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 1996,
+      "overnatninger": 100
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 1996,
+      "overnatninger": 62
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 1996,
+      "overnatninger": 57
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 1996,
+      "overnatninger": 46
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 1996,
+      "overnatninger": 18
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 1996,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 1997,
+      "overnatninger": 42832670
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 1997,
+      "overnatninger": 26106910
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 1997,
+      "overnatninger": 18443939
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 1997,
+      "overnatninger": 16725760
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 1997,
+      "overnatninger": 2220779
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 1997,
+      "overnatninger": 1884710
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 1997,
+      "overnatninger": 1087017
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 1997,
+      "overnatninger": 565273
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 1997,
+      "overnatninger": 383426
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 1997,
+      "overnatninger": 282177
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 1997,
+      "overnatninger": 280413
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 1997,
+      "overnatninger": 195137
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 1997,
+      "overnatninger": 132280
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 1997,
+      "overnatninger": 132048
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 1997,
+      "overnatninger": 106953
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 1997,
+      "overnatninger": 80856
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 1997,
+      "overnatninger": 78638
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 1997,
+      "overnatninger": 66330
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 1997,
+      "overnatninger": 55994
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 1997,
+      "overnatninger": 42095
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 1997,
+      "overnatninger": 32473
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 1997,
+      "overnatninger": 21562
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 1997,
+      "overnatninger": 14441
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 1997,
+      "overnatninger": 135
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 1997,
+      "overnatninger": 120
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 1997,
+      "overnatninger": 51
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 1997,
+      "overnatninger": 51
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 1997,
+      "overnatninger": 6
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 1997,
+      "overnatninger": 6
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 1997,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 1998,
+      "overnatninger": 43121521
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 1998,
+      "overnatninger": 25437034
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 1998,
+      "overnatninger": 17882341
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 1998,
+      "overnatninger": 17684487
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 1998,
+      "overnatninger": 2183957
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 1998,
+      "overnatninger": 1990024
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 1998,
+      "overnatninger": 1006153
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 1998,
+      "overnatninger": 474540
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 1998,
+      "overnatninger": 380647
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 1998,
+      "overnatninger": 297597
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 1998,
+      "overnatninger": 270254
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 1998,
+      "overnatninger": 196669
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 1998,
+      "overnatninger": 124549
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 1998,
+      "overnatninger": 118533
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 1998,
+      "overnatninger": 104736
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 1998,
+      "overnatninger": 80991
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 1998,
+      "overnatninger": 70620
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 1998,
+      "overnatninger": 64168
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 1998,
+      "overnatninger": 59132
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 1998,
+      "overnatninger": 58275
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 1998,
+      "overnatninger": 33113
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 1998,
+      "overnatninger": 25936
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 1998,
+      "overnatninger": 14433
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 1998,
+      "overnatninger": 147
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 1998,
+      "overnatninger": 132
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 1998,
+      "overnatninger": 27
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 1998,
+      "overnatninger": 24
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 1998,
+      "overnatninger": 18
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 1998,
+      "overnatninger": 18
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 1998,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 1999,
+      "overnatninger": 42018453
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 1999,
+      "overnatninger": 23700661
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 1999,
+      "overnatninger": 18317792
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 1999,
+      "overnatninger": 16112795
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 1999,
+      "overnatninger": 2284986
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 1999,
+      "overnatninger": 1952288
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 1999,
+      "overnatninger": 968978
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 1999,
+      "overnatninger": 430440
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 1999,
+      "overnatninger": 413441
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 1999,
+      "overnatninger": 292573
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 1999,
+      "overnatninger": 277187
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 1999,
+      "overnatninger": 194860
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 1999,
+      "overnatninger": 132740
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 1999,
+      "overnatninger": 110662
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 1999,
+      "overnatninger": 109737
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 1999,
+      "overnatninger": 82453
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 1999,
+      "overnatninger": 69018
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 1999,
+      "overnatninger": 67709
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 1999,
+      "overnatninger": 59267
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 1999,
+      "overnatninger": 59234
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 1999,
+      "overnatninger": 36094
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 1999,
+      "overnatninger": 26795
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 1999,
+      "overnatninger": 19065
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 1999,
+      "overnatninger": 162
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 1999,
+      "overnatninger": 129
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 1999,
+      "overnatninger": 21
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 1999,
+      "overnatninger": 12
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 1999,
+      "overnatninger": 6
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 1999,
+      "overnatninger": 3
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 1999,
+      "overnatninger": 3
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 1999,
+      "overnatninger": 3
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 1999,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2000,
+      "overnatninger": 41678859
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2000,
+      "overnatninger": 23928477
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2000,
+      "overnatninger": 17750382
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2000,
+      "overnatninger": 15665787
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2000,
+      "overnatninger": 2577709
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2000,
+      "overnatninger": 2091732
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2000,
+      "overnatninger": 946526
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2000,
+      "overnatninger": 493159
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2000,
+      "overnatninger": 465041
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2000,
+      "overnatninger": 335915
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2000,
+      "overnatninger": 280046
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2000,
+      "overnatninger": 196395
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2000,
+      "overnatninger": 156845
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2000,
+      "overnatninger": 116261
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2000,
+      "overnatninger": 112375
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2000,
+      "overnatninger": 91877
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2000,
+      "overnatninger": 74721
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2000,
+      "overnatninger": 73633
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2000,
+      "overnatninger": 68515
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2000,
+      "overnatninger": 33508
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2000,
+      "overnatninger": 29650
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2000,
+      "overnatninger": 26344
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2000,
+      "overnatninger": 24480
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2000,
+      "overnatninger": 4058
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2000,
+      "overnatninger": 3533
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2000,
+      "overnatninger": 2377
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2000,
+      "overnatninger": 1893
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2000,
+      "overnatninger": 1413
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2000,
+      "overnatninger": 1336
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2000,
+      "overnatninger": 1123
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2000,
+      "overnatninger": 1063
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2000,
+      "overnatninger": 1012
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2000,
+      "overnatninger": 889
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2000,
+      "overnatninger": 758
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2000,
+      "overnatninger": 717
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2000,
+      "overnatninger": 645
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2000,
+      "overnatninger": 582
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2000,
+      "overnatninger": 339
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2000,
+      "overnatninger": 258
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2000,
+      "overnatninger": 252
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2000,
+      "overnatninger": 204
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2000,
+      "overnatninger": 42
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2000,
+      "overnatninger": 6
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2000,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2000,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2000,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2000,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2000,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2000,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2000,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2000,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2000,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2000,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2000,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2001,
+      "overnatninger": 41371150
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2001,
+      "overnatninger": 23115051
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2001,
+      "overnatninger": 18256099
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2001,
+      "overnatninger": 15001762
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2001,
+      "overnatninger": 2309639
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2001,
+      "overnatninger": 2055563
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2001,
+      "overnatninger": 970897
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2001,
+      "overnatninger": 561812
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2001,
+      "overnatninger": 466000
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2001,
+      "overnatninger": 348320
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2001,
+      "overnatninger": 330850
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2001,
+      "overnatninger": 192671
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2001,
+      "overnatninger": 147957
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2001,
+      "overnatninger": 115779
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2001,
+      "overnatninger": 100934
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2001,
+      "overnatninger": 96401
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2001,
+      "overnatninger": 85852
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2001,
+      "overnatninger": 69248
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2001,
+      "overnatninger": 68750
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2001,
+      "overnatninger": 66912
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2001,
+      "overnatninger": 35916
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2001,
+      "overnatninger": 35615
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2001,
+      "overnatninger": 30527
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2001,
+      "overnatninger": 4413
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2001,
+      "overnatninger": 2849
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2001,
+      "overnatninger": 2714
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2001,
+      "overnatninger": 2702
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2001,
+      "overnatninger": 2228
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2001,
+      "overnatninger": 1188
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2001,
+      "overnatninger": 1054
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2001,
+      "overnatninger": 1038
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2001,
+      "overnatninger": 846
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2001,
+      "overnatninger": 829
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2001,
+      "overnatninger": 776
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2001,
+      "overnatninger": 751
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2001,
+      "overnatninger": 670
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2001,
+      "overnatninger": 538
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2001,
+      "overnatninger": 322
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2001,
+      "overnatninger": 285
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2001,
+      "overnatninger": 266
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2001,
+      "overnatninger": 160
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2001,
+      "overnatninger": 14
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2001,
+      "overnatninger": 3
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2001,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2001,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2001,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2001,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2001,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2001,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2001,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2001,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2001,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2001,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2001,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2002,
+      "overnatninger": 42350684
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2002,
+      "overnatninger": 23301552
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2002,
+      "overnatninger": 19049132
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2002,
+      "overnatninger": 15111464
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2002,
+      "overnatninger": 2300662
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2002,
+      "overnatninger": 2243705
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2002,
+      "overnatninger": 956839
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2002,
+      "overnatninger": 530452
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2002,
+      "overnatninger": 441042
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2002,
+      "overnatninger": 314015
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2002,
+      "overnatninger": 308625
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2002,
+      "overnatninger": 187694
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2002,
+      "overnatninger": 139090
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2002,
+      "overnatninger": 123252
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2002,
+      "overnatninger": 101065
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2002,
+      "overnatninger": 100484
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2002,
+      "overnatninger": 89975
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2002,
+      "overnatninger": 82613
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2002,
+      "overnatninger": 79224
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2002,
+      "overnatninger": 36512
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2002,
+      "overnatninger": 31077
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2002,
+      "overnatninger": 28539
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2002,
+      "overnatninger": 21549
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2002,
+      "overnatninger": 3307
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2002,
+      "overnatninger": 3062
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2002,
+      "overnatninger": 2295
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2002,
+      "overnatninger": 2103
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2002,
+      "overnatninger": 1427
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2002,
+      "overnatninger": 1376
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2002,
+      "overnatninger": 947
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2002,
+      "overnatninger": 847
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2002,
+      "overnatninger": 683
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2002,
+      "overnatninger": 651
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2002,
+      "overnatninger": 620
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2002,
+      "overnatninger": 598
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2002,
+      "overnatninger": 547
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2002,
+      "overnatninger": 473
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2002,
+      "overnatninger": 388
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2002,
+      "overnatninger": 203
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2002,
+      "overnatninger": 165
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2002,
+      "overnatninger": 135
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2002,
+      "overnatninger": 9
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2002,
+      "overnatninger": 8
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2002,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2002,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2002,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2002,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2002,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2002,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2002,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2002,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2002,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2002,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2002,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2003,
+      "overnatninger": 43405865
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2003,
+      "overnatninger": 23761823
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2003,
+      "overnatninger": 19644042
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2003,
+      "overnatninger": 15342041
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2003,
+      "overnatninger": 2394809
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2003,
+      "overnatninger": 2233658
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2003,
+      "overnatninger": 1101480
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2003,
+      "overnatninger": 513044
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2003,
+      "overnatninger": 497576
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2003,
+      "overnatninger": 312033
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2003,
+      "overnatninger": 310022
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2003,
+      "overnatninger": 195500
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2003,
+      "overnatninger": 140125
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2003,
+      "overnatninger": 125359
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2003,
+      "overnatninger": 96848
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2003,
+      "overnatninger": 92031
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2003,
+      "overnatninger": 86420
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2003,
+      "overnatninger": 77711
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2003,
+      "overnatninger": 70805
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2003,
+      "overnatninger": 66007
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2003,
+      "overnatninger": 33858
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2003,
+      "overnatninger": 29545
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2003,
+      "overnatninger": 24361
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2003,
+      "overnatninger": 5151
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2003,
+      "overnatninger": 3702
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2003,
+      "overnatninger": 2125
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2003,
+      "overnatninger": 1463
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2003,
+      "overnatninger": 1228
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2003,
+      "overnatninger": 1051
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2003,
+      "overnatninger": 837
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2003,
+      "overnatninger": 647
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2003,
+      "overnatninger": 624
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2003,
+      "overnatninger": 610
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2003,
+      "overnatninger": 536
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2003,
+      "overnatninger": 393
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2003,
+      "overnatninger": 385
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2003,
+      "overnatninger": 234
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2003,
+      "overnatninger": 166
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2003,
+      "overnatninger": 138
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2003,
+      "overnatninger": 136
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2003,
+      "overnatninger": 131
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2003,
+      "overnatninger": 24
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2003,
+      "overnatninger": 9
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2003,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2003,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2003,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2003,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2003,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2003,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2003,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2003,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2003,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2003,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2003,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2004,
+      "overnatninger": 42315409
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2004,
+      "overnatninger": 22478994
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2004,
+      "overnatninger": 19836415
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2004,
+      "overnatninger": 13936327
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2004,
+      "overnatninger": 2296020
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2004,
+      "overnatninger": 2162910
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2004,
+      "overnatninger": 1151416
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2004,
+      "overnatninger": 590439
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2004,
+      "overnatninger": 580512
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2004,
+      "overnatninger": 349345
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2004,
+      "overnatninger": 326194
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2004,
+      "overnatninger": 206755
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2004,
+      "overnatninger": 136474
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2004,
+      "overnatninger": 125766
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2004,
+      "overnatninger": 102174
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2004,
+      "overnatninger": 99442
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2004,
+      "overnatninger": 94103
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2004,
+      "overnatninger": 85820
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2004,
+      "overnatninger": 68549
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2004,
+      "overnatninger": 63818
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2004,
+      "overnatninger": 32520
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2004,
+      "overnatninger": 26183
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2004,
+      "overnatninger": 24534
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2004,
+      "overnatninger": 4182
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2004,
+      "overnatninger": 3532
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2004,
+      "overnatninger": 2192
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2004,
+      "overnatninger": 1979
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2004,
+      "overnatninger": 1443
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2004,
+      "overnatninger": 1256
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2004,
+      "overnatninger": 869
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2004,
+      "overnatninger": 831
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2004,
+      "overnatninger": 798
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2004,
+      "overnatninger": 763
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2004,
+      "overnatninger": 556
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2004,
+      "overnatninger": 407
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2004,
+      "overnatninger": 277
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2004,
+      "overnatninger": 242
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2004,
+      "overnatninger": 180
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2004,
+      "overnatninger": 78
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2004,
+      "overnatninger": 72
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2004,
+      "overnatninger": 21
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2004,
+      "overnatninger": 12
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2004,
+      "overnatninger": 3
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2004,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2004,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2004,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2004,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2004,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2004,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2004,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2004,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2004,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2004,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2004,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2005,
+      "overnatninger": 41985120
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2005,
+      "overnatninger": 21641926
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2005,
+      "overnatninger": 20343194
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2005,
+      "overnatninger": 13183914
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2005,
+      "overnatninger": 2200654
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2005,
+      "overnatninger": 2013126
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2005,
+      "overnatninger": 1102407
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2005,
+      "overnatninger": 591297
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2005,
+      "overnatninger": 377101
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2005,
+      "overnatninger": 323075
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2005,
+      "overnatninger": 208034
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2005,
+      "overnatninger": 185615
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2005,
+      "overnatninger": 143970
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2005,
+      "overnatninger": 136364
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2005,
+      "overnatninger": 121180
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2005,
+      "overnatninger": 103657
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2005,
+      "overnatninger": 100856
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2005,
+      "overnatninger": 96834
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2005,
+      "overnatninger": 91562
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2005,
+      "overnatninger": 72978
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2005,
+      "overnatninger": 62076
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2005,
+      "overnatninger": 57780
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2005,
+      "overnatninger": 42266
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2005,
+      "overnatninger": 40844
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2005,
+      "overnatninger": 38474
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2005,
+      "overnatninger": 37388
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2005,
+      "overnatninger": 32299
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2005,
+      "overnatninger": 29770
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2005,
+      "overnatninger": 27473
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2005,
+      "overnatninger": 26961
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2005,
+      "overnatninger": 26890
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2005,
+      "overnatninger": 21755
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2005,
+      "overnatninger": 16184
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2005,
+      "overnatninger": 14671
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2005,
+      "overnatninger": 13527
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2005,
+      "overnatninger": 12705
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2005,
+      "overnatninger": 12585
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2005,
+      "overnatninger": 12460
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2005,
+      "overnatninger": 10875
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2005,
+      "overnatninger": 7689
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2005,
+      "overnatninger": 7399
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2005,
+      "overnatninger": 7380
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2005,
+      "overnatninger": 7186
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2005,
+      "overnatninger": 5386
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2005,
+      "overnatninger": 4757
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2005,
+      "overnatninger": 4706
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2005,
+      "overnatninger": 3287
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2005,
+      "overnatninger": 3179
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2005,
+      "overnatninger": 1350
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2005,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2005,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2005,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2005,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2005,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2006,
+      "overnatninger": 44333421
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2006,
+      "overnatninger": 22271830
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2006,
+      "overnatninger": 22061591
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2006,
+      "overnatninger": 13524079
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2006,
+      "overnatninger": 2285723
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2006,
+      "overnatninger": 2019178
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2006,
+      "overnatninger": 1175604
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2006,
+      "overnatninger": 590737
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2006,
+      "overnatninger": 412925
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2006,
+      "overnatninger": 344445
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2006,
+      "overnatninger": 199690
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2006,
+      "overnatninger": 143707
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2006,
+      "overnatninger": 140279
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2006,
+      "overnatninger": 136352
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2006,
+      "overnatninger": 124436
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2006,
+      "overnatninger": 121218
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2006,
+      "overnatninger": 103528
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2006,
+      "overnatninger": 102887
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2006,
+      "overnatninger": 93749
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2006,
+      "overnatninger": 93009
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2006,
+      "overnatninger": 63127
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2006,
+      "overnatninger": 63117
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2006,
+      "overnatninger": 53905
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2006,
+      "overnatninger": 53138
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2006,
+      "overnatninger": 36687
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2006,
+      "overnatninger": 35245
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2006,
+      "overnatninger": 34912
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2006,
+      "overnatninger": 33053
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2006,
+      "overnatninger": 29261
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2006,
+      "overnatninger": 28222
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2006,
+      "overnatninger": 23866
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2006,
+      "overnatninger": 22025
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2006,
+      "overnatninger": 20434
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2006,
+      "overnatninger": 17421
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2006,
+      "overnatninger": 16437
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2006,
+      "overnatninger": 15436
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2006,
+      "overnatninger": 14556
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2006,
+      "overnatninger": 14441
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2006,
+      "overnatninger": 12540
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2006,
+      "overnatninger": 11417
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2006,
+      "overnatninger": 8887
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2006,
+      "overnatninger": 8765
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2006,
+      "overnatninger": 8692
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2006,
+      "overnatninger": 8679
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2006,
+      "overnatninger": 7432
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2006,
+      "overnatninger": 7175
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2006,
+      "overnatninger": 5619
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2006,
+      "overnatninger": 3126
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2006,
+      "overnatninger": 2843
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2006,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2006,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2006,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2006,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2006,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2007,
+      "overnatninger": 45629418
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2007,
+      "overnatninger": 23179392
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2007,
+      "overnatninger": 22450026
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2007,
+      "overnatninger": 13747320
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2007,
+      "overnatninger": 2473788
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2007,
+      "overnatninger": 1956623
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2007,
+      "overnatninger": 1212486
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2007,
+      "overnatninger": 588805
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2007,
+      "overnatninger": 357745
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2007,
+      "overnatninger": 214568
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2007,
+      "overnatninger": 191026
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2007,
+      "overnatninger": 149183
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2007,
+      "overnatninger": 138969
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2007,
+      "overnatninger": 136223
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2007,
+      "overnatninger": 133023
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2007,
+      "overnatninger": 129551
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2007,
+      "overnatninger": 111958
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2007,
+      "overnatninger": 102739
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2007,
+      "overnatninger": 96722
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2007,
+      "overnatninger": 84922
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2007,
+      "overnatninger": 62459
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2007,
+      "overnatninger": 54090
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2007,
+      "overnatninger": 50919
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2007,
+      "overnatninger": 50782
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2007,
+      "overnatninger": 36465
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2007,
+      "overnatninger": 32820
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2007,
+      "overnatninger": 31174
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2007,
+      "overnatninger": 29225
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2007,
+      "overnatninger": 28077
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2007,
+      "overnatninger": 24397
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2007,
+      "overnatninger": 23596
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2007,
+      "overnatninger": 22715
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2007,
+      "overnatninger": 22369
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2007,
+      "overnatninger": 20942
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2007,
+      "overnatninger": 17357
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2007,
+      "overnatninger": 15743
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2007,
+      "overnatninger": 14674
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2007,
+      "overnatninger": 14116
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2007,
+      "overnatninger": 11892
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2007,
+      "overnatninger": 9800
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2007,
+      "overnatninger": 8247
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2007,
+      "overnatninger": 7853
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2007,
+      "overnatninger": 7822
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2007,
+      "overnatninger": 6432
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2007,
+      "overnatninger": 5786
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2007,
+      "overnatninger": 5647
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2007,
+      "overnatninger": 4783
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2007,
+      "overnatninger": 2528
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2007,
+      "overnatninger": 1678
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2007,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2007,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2007,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2007,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2007,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2008,
+      "overnatninger": 44798887
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2008,
+      "overnatninger": 23559967
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2008,
+      "overnatninger": 21238920
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2008,
+      "overnatninger": 12828560
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2008,
+      "overnatninger": 2310292
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2008,
+      "overnatninger": 1830515
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2008,
+      "overnatninger": 1198728
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2008,
+      "overnatninger": 539724
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2008,
+      "overnatninger": 347473
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2008,
+      "overnatninger": 268573
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2008,
+      "overnatninger": 185013
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2008,
+      "overnatninger": 140119
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2008,
+      "overnatninger": 134593
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2008,
+      "overnatninger": 131471
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2008,
+      "overnatninger": 131324
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2008,
+      "overnatninger": 114515
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2008,
+      "overnatninger": 111138
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2008,
+      "overnatninger": 110178
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2008,
+      "overnatninger": 81310
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2008,
+      "overnatninger": 64109
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2008,
+      "overnatninger": 63459
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2008,
+      "overnatninger": 56106
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2008,
+      "overnatninger": 55387
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2008,
+      "overnatninger": 50453
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2008,
+      "overnatninger": 38420
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2008,
+      "overnatninger": 37339
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2008,
+      "overnatninger": 33976
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2008,
+      "overnatninger": 33494
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2008,
+      "overnatninger": 29899
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2008,
+      "overnatninger": 29061
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2008,
+      "overnatninger": 27911
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2008,
+      "overnatninger": 26497
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2008,
+      "overnatninger": 26190
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2008,
+      "overnatninger": 23887
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2008,
+      "overnatninger": 23407
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2008,
+      "overnatninger": 20773
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2008,
+      "overnatninger": 18623
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2008,
+      "overnatninger": 18612
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2008,
+      "overnatninger": 13400
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2008,
+      "overnatninger": 10056
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2008,
+      "overnatninger": 9563
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2008,
+      "overnatninger": 9406
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2008,
+      "overnatninger": 9347
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2008,
+      "overnatninger": 8449
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2008,
+      "overnatninger": 8109
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2008,
+      "overnatninger": 6831
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2008,
+      "overnatninger": 6613
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2008,
+      "overnatninger": 5823
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2008,
+      "overnatninger": 5169
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2008,
+      "overnatninger": 3012
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2008,
+      "overnatninger": 2013
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2008,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2008,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2008,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2009,
+      "overnatninger": 42327335
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2009,
+      "overnatninger": 22282057
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2009,
+      "overnatninger": 20045278
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2009,
+      "overnatninger": 12448882
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2009,
+      "overnatninger": 2116026
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2009,
+      "overnatninger": 1419246
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2009,
+      "overnatninger": 1109922
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2009,
+      "overnatninger": 478902
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2009,
+      "overnatninger": 360352
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2009,
+      "overnatninger": 251907
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2009,
+      "overnatninger": 201730
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2009,
+      "overnatninger": 150942
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2009,
+      "overnatninger": 141109
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2009,
+      "overnatninger": 132467
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2009,
+      "overnatninger": 122834
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2009,
+      "overnatninger": 115300
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2009,
+      "overnatninger": 107543
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2009,
+      "overnatninger": 103305
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2009,
+      "overnatninger": 84352
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2009,
+      "overnatninger": 72199
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2009,
+      "overnatninger": 54443
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2009,
+      "overnatninger": 53734
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2009,
+      "overnatninger": 46745
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2009,
+      "overnatninger": 40262
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2009,
+      "overnatninger": 37574
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2009,
+      "overnatninger": 35136
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2009,
+      "overnatninger": 29834
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2009,
+      "overnatninger": 27565
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2009,
+      "overnatninger": 25235
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2009,
+      "overnatninger": 24593
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2009,
+      "overnatninger": 24346
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2009,
+      "overnatninger": 24066
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2009,
+      "overnatninger": 20461
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2009,
+      "overnatninger": 19835
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2009,
+      "overnatninger": 19754
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2009,
+      "overnatninger": 18851
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2009,
+      "overnatninger": 18817
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2009,
+      "overnatninger": 16253
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2009,
+      "overnatninger": 12836
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2009,
+      "overnatninger": 10254
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2009,
+      "overnatninger": 9850
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2009,
+      "overnatninger": 8973
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2009,
+      "overnatninger": 8854
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2009,
+      "overnatninger": 7971
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2009,
+      "overnatninger": 6961
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2009,
+      "overnatninger": 6815
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2009,
+      "overnatninger": 6775
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2009,
+      "overnatninger": 5170
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2009,
+      "overnatninger": 2757
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2009,
+      "overnatninger": 2747
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2009,
+      "overnatninger": 1698
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2009,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2009,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2009,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2010,
+      "overnatninger": 43336067
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2010,
+      "overnatninger": 22274412
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2010,
+      "overnatninger": 21061655
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2010,
+      "overnatninger": 12731836
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2010,
+      "overnatninger": 2260235
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2010,
+      "overnatninger": 1615452
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2010,
+      "overnatninger": 1121447
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2010,
+      "overnatninger": 529800
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2010,
+      "overnatninger": 381516
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2010,
+      "overnatninger": 297805
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2010,
+      "overnatninger": 217996
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2010,
+      "overnatninger": 173540
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2010,
+      "overnatninger": 157126
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2010,
+      "overnatninger": 156883
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2010,
+      "overnatninger": 152343
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2010,
+      "overnatninger": 134163
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2010,
+      "overnatninger": 123635
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2010,
+      "overnatninger": 115429
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2010,
+      "overnatninger": 92100
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2010,
+      "overnatninger": 81476
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2010,
+      "overnatninger": 70816
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2010,
+      "overnatninger": 64545
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2010,
+      "overnatninger": 50870
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2010,
+      "overnatninger": 48231
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2010,
+      "overnatninger": 45382
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2010,
+      "overnatninger": 43752
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2010,
+      "overnatninger": 32381
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2010,
+      "overnatninger": 31692
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2010,
+      "overnatninger": 31331
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2010,
+      "overnatninger": 30068
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2010,
+      "overnatninger": 26291
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2010,
+      "overnatninger": 26208
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2010,
+      "overnatninger": 23394
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2010,
+      "overnatninger": 22447
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2010,
+      "overnatninger": 21732
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2010,
+      "overnatninger": 20607
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2010,
+      "overnatninger": 19836
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2010,
+      "overnatninger": 15472
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2010,
+      "overnatninger": 12607
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2010,
+      "overnatninger": 11360
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2010,
+      "overnatninger": 11245
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2010,
+      "overnatninger": 9556
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2010,
+      "overnatninger": 8452
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2010,
+      "overnatninger": 7656
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2010,
+      "overnatninger": 7069
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2010,
+      "overnatninger": 6032
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2010,
+      "overnatninger": 5979
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2010,
+      "overnatninger": 5905
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2010,
+      "overnatninger": 3668
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2010,
+      "overnatninger": 2745
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2010,
+      "overnatninger": 2142
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2010,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2010,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2010,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2011,
+      "overnatninger": 44898154
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2011,
+      "overnatninger": 22835273
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2011,
+      "overnatninger": 22062881
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2011,
+      "overnatninger": 13093631
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2011,
+      "overnatninger": 2420895
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2011,
+      "overnatninger": 1790358
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2011,
+      "overnatninger": 1049672
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2011,
+      "overnatninger": 594662
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2011,
+      "overnatninger": 408289
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2011,
+      "overnatninger": 340297
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2011,
+      "overnatninger": 216766
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2011,
+      "overnatninger": 199279
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2011,
+      "overnatninger": 181724
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2011,
+      "overnatninger": 176550
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2011,
+      "overnatninger": 171506
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2011,
+      "overnatninger": 154962
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2011,
+      "overnatninger": 133563
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2011,
+      "overnatninger": 112987
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2011,
+      "overnatninger": 99968
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2011,
+      "overnatninger": 92686
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2011,
+      "overnatninger": 85110
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2011,
+      "overnatninger": 76666
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2011,
+      "overnatninger": 58280
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2011,
+      "overnatninger": 57354
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2011,
+      "overnatninger": 54409
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2011,
+      "overnatninger": 50859
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2011,
+      "overnatninger": 44271
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2011,
+      "overnatninger": 37574
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2011,
+      "overnatninger": 32720
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2011,
+      "overnatninger": 29672
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2011,
+      "overnatninger": 27669
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2011,
+      "overnatninger": 27422
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2011,
+      "overnatninger": 27418
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2011,
+      "overnatninger": 24319
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2011,
+      "overnatninger": 24311
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2011,
+      "overnatninger": 21803
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2011,
+      "overnatninger": 20785
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2011,
+      "overnatninger": 18729
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2011,
+      "overnatninger": 14673
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2011,
+      "overnatninger": 12752
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2011,
+      "overnatninger": 11240
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2011,
+      "overnatninger": 11199
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2011,
+      "overnatninger": 10929
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2011,
+      "overnatninger": 8325
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2011,
+      "overnatninger": 7935
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2011,
+      "overnatninger": 7866
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2011,
+      "overnatninger": 6039
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2011,
+      "overnatninger": 6002
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2011,
+      "overnatninger": 4556
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2011,
+      "overnatninger": 2549
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2011,
+      "overnatninger": 2246
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2011,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2011,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2011,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2012,
+      "overnatninger": 44725729
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2012,
+      "overnatninger": 22715645
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2012,
+      "overnatninger": 22010084
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2012,
+      "overnatninger": 12727253
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2012,
+      "overnatninger": 2463853
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2012,
+      "overnatninger": 1821574
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2012,
+      "overnatninger": 933754
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2012,
+      "overnatninger": 614315
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2012,
+      "overnatninger": 424575
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2012,
+      "overnatninger": 410255
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2012,
+      "overnatninger": 255421
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2012,
+      "overnatninger": 223991
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2012,
+      "overnatninger": 215006
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2012,
+      "overnatninger": 206817
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2012,
+      "overnatninger": 184291
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2012,
+      "overnatninger": 155165
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2012,
+      "overnatninger": 135890
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2012,
+      "overnatninger": 114103
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2012,
+      "overnatninger": 107980
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2012,
+      "overnatninger": 97894
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2012,
+      "overnatninger": 95895
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2012,
+      "overnatninger": 93114
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2012,
+      "overnatninger": 68986
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2012,
+      "overnatninger": 62192
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2012,
+      "overnatninger": 58698
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2012,
+      "overnatninger": 53442
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2012,
+      "overnatninger": 43978
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2012,
+      "overnatninger": 40193
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2012,
+      "overnatninger": 39175
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2012,
+      "overnatninger": 34981
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2012,
+      "overnatninger": 30599
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2012,
+      "overnatninger": 28184
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2012,
+      "overnatninger": 27524
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2012,
+      "overnatninger": 26213
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2012,
+      "overnatninger": 24407
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2012,
+      "overnatninger": 22753
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2012,
+      "overnatninger": 21173
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2012,
+      "overnatninger": 18460
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2012,
+      "overnatninger": 17725
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2012,
+      "overnatninger": 16374
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2012,
+      "overnatninger": 13780
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2012,
+      "overnatninger": 13377
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2012,
+      "overnatninger": 12067
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2012,
+      "overnatninger": 9899
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2012,
+      "overnatninger": 8952
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2012,
+      "overnatninger": 8044
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2012,
+      "overnatninger": 7534
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2012,
+      "overnatninger": 7530
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2012,
+      "overnatninger": 7292
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2012,
+      "overnatninger": 2772
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2012,
+      "overnatninger": 2634
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2012,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2012,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2012,
+      "overnatninger": 0
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2013,
+      "overnatninger": 44881038
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2013,
+      "overnatninger": 22872537
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2013,
+      "overnatninger": 22008502
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2013,
+      "overnatninger": 12352986
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2013,
+      "overnatninger": 2477241
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2013,
+      "overnatninger": 1912204
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2013,
+      "overnatninger": 929480
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2013,
+      "overnatninger": 673264
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2013,
+      "overnatninger": 452333
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2013,
+      "overnatninger": 396424
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2013,
+      "overnatninger": 262661
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2013,
+      "overnatninger": 248926
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2013,
+      "overnatninger": 207673
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2013,
+      "overnatninger": 202044
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2013,
+      "overnatninger": 185195
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2013,
+      "overnatninger": 151749
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2013,
+      "overnatninger": 134334
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2013,
+      "overnatninger": 122076
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2013,
+      "overnatninger": 121994
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2013,
+      "overnatninger": 111777
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2013,
+      "overnatninger": 104418
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2013,
+      "overnatninger": 87947
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2013,
+      "overnatninger": 74199
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2013,
+      "overnatninger": 68350
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2013,
+      "overnatninger": 64561
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2013,
+      "overnatninger": 58620
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2013,
+      "overnatninger": 56803
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2013,
+      "overnatninger": 42466
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2013,
+      "overnatninger": 39461
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2013,
+      "overnatninger": 39015
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2013,
+      "overnatninger": 37768
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2013,
+      "overnatninger": 37174
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2013,
+      "overnatninger": 33563
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2013,
+      "overnatninger": 33004
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2013,
+      "overnatninger": 29336
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2013,
+      "overnatninger": 24773
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2013,
+      "overnatninger": 23778
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2013,
+      "overnatninger": 21011
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2013,
+      "overnatninger": 20586
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2013,
+      "overnatninger": 19328
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2013,
+      "overnatninger": 19040
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2013,
+      "overnatninger": 18513
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2013,
+      "overnatninger": 14411
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2013,
+      "overnatninger": 13151
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2013,
+      "overnatninger": 12386
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2013,
+      "overnatninger": 11346
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2013,
+      "overnatninger": 10576
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2013,
+      "overnatninger": 9870
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2013,
+      "overnatninger": 9560
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2013,
+      "overnatninger": 9201
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2013,
+      "overnatninger": 8142
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2013,
+      "overnatninger": 6458
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2013,
+      "overnatninger": 5010
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2013,
+      "overnatninger": 2316
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2014,
+      "overnatninger": 47155813
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2014,
+      "overnatninger": 23736871
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2014,
+      "overnatninger": 23418942
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2014,
+      "overnatninger": 13130416
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2014,
+      "overnatninger": 2532262
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2014,
+      "overnatninger": 1926639
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2014,
+      "overnatninger": 984839
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2014,
+      "overnatninger": 723109
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2014,
+      "overnatninger": 483282
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2014,
+      "overnatninger": 470270
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2014,
+      "overnatninger": 358027
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2014,
+      "overnatninger": 279928
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2014,
+      "overnatninger": 219820
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2014,
+      "overnatninger": 208220
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2014,
+      "overnatninger": 195599
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2014,
+      "overnatninger": 160650
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2014,
+      "overnatninger": 160172
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2014,
+      "overnatninger": 140304
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2014,
+      "overnatninger": 137432
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2014,
+      "overnatninger": 113570
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2014,
+      "overnatninger": 105782
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2014,
+      "overnatninger": 83241
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2014,
+      "overnatninger": 81139
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2014,
+      "overnatninger": 71594
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2014,
+      "overnatninger": 67708
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2014,
+      "overnatninger": 62424
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2014,
+      "overnatninger": 56898
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2014,
+      "overnatninger": 53910
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2014,
+      "overnatninger": 53753
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2014,
+      "overnatninger": 47089
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2014,
+      "overnatninger": 44709
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2014,
+      "overnatninger": 42104
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2014,
+      "overnatninger": 40525
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2014,
+      "overnatninger": 37257
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2014,
+      "overnatninger": 33704
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2014,
+      "overnatninger": 33042
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2014,
+      "overnatninger": 30517
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2014,
+      "overnatninger": 30132
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2014,
+      "overnatninger": 29003
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2014,
+      "overnatninger": 23697
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2014,
+      "overnatninger": 23615
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2014,
+      "overnatninger": 22211
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2014,
+      "overnatninger": 20192
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2014,
+      "overnatninger": 14094
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2014,
+      "overnatninger": 13768
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2014,
+      "overnatninger": 13457
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2014,
+      "overnatninger": 12432
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2014,
+      "overnatninger": 10353
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2014,
+      "overnatninger": 8924
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2014,
+      "overnatninger": 8161
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2014,
+      "overnatninger": 7282
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2014,
+      "overnatninger": 4505
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2014,
+      "overnatninger": 4290
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2014,
+      "overnatninger": 2891
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2015,
+      "overnatninger": 49787644
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2015,
+      "overnatninger": 25080277
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2015,
+      "overnatninger": 24707368
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2015,
+      "overnatninger": 14047352
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2015,
+      "overnatninger": 2651802
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2015,
+      "overnatninger": 1899784
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2015,
+      "overnatninger": 1113704
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2015,
+      "overnatninger": 819616
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2015,
+      "overnatninger": 576031
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2015,
+      "overnatninger": 523700
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2015,
+      "overnatninger": 488052
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2015,
+      "overnatninger": 281628
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2015,
+      "overnatninger": 226086
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2015,
+      "overnatninger": 212936
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2015,
+      "overnatninger": 198030
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2015,
+      "overnatninger": 187943
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2015,
+      "overnatninger": 180619
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2015,
+      "overnatninger": 154717
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2015,
+      "overnatninger": 149518
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2015,
+      "overnatninger": 122903
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2015,
+      "overnatninger": 83187
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2015,
+      "overnatninger": 79335
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2015,
+      "overnatninger": 72654
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2015,
+      "overnatninger": 72429
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2015,
+      "overnatninger": 70979
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2015,
+      "overnatninger": 68385
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2015,
+      "overnatninger": 66461
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2015,
+      "overnatninger": 63718
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2015,
+      "overnatninger": 55711
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2015,
+      "overnatninger": 48903
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2015,
+      "overnatninger": 48605
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2015,
+      "overnatninger": 46229
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2015,
+      "overnatninger": 44378
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2015,
+      "overnatninger": 39716
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2015,
+      "overnatninger": 39371
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2015,
+      "overnatninger": 39024
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2015,
+      "overnatninger": 37670
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2015,
+      "overnatninger": 32362
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2015,
+      "overnatninger": 31147
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2015,
+      "overnatninger": 26267
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2015,
+      "overnatninger": 25838
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2015,
+      "overnatninger": 25110
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2015,
+      "overnatninger": 22812
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2015,
+      "overnatninger": 14933
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2015,
+      "overnatninger": 12123
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2015,
+      "overnatninger": 12105
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2015,
+      "overnatninger": 12061
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2015,
+      "overnatninger": 11977
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2015,
+      "overnatninger": 10886
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2015,
+      "overnatninger": 9349
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2015,
+      "overnatninger": 7285
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2015,
+      "overnatninger": 7156
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2015,
+      "overnatninger": 4618
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2015,
+      "overnatninger": 3071
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2016,
+      "overnatninger": 52125493
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2016,
+      "overnatninger": 26464102
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2016,
+      "overnatninger": 25661391
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2016,
+      "overnatninger": 15018365
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2016,
+      "overnatninger": 2557408
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2016,
+      "overnatninger": 1891691
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2016,
+      "overnatninger": 1265834
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2016,
+      "overnatninger": 905737
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2016,
+      "overnatninger": 632378
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2016,
+      "overnatninger": 533734
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2016,
+      "overnatninger": 377095
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2016,
+      "overnatninger": 341453
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2016,
+      "overnatninger": 246013
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2016,
+      "overnatninger": 234405
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2016,
+      "overnatninger": 229117
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2016,
+      "overnatninger": 221467
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2016,
+      "overnatninger": 191409
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2016,
+      "overnatninger": 183871
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2016,
+      "overnatninger": 181576
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2016,
+      "overnatninger": 152109
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2016,
+      "overnatninger": 88669
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2016,
+      "overnatninger": 84504
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2016,
+      "overnatninger": 81397
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2016,
+      "overnatninger": 79703
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2016,
+      "overnatninger": 69857
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2016,
+      "overnatninger": 64734
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2016,
+      "overnatninger": 64222
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2016,
+      "overnatninger": 57965
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2016,
+      "overnatninger": 57551
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2016,
+      "overnatninger": 52445
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2016,
+      "overnatninger": 52052
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2016,
+      "overnatninger": 52011
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2016,
+      "overnatninger": 51099
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2016,
+      "overnatninger": 41164
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2016,
+      "overnatninger": 37544
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2016,
+      "overnatninger": 36921
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2016,
+      "overnatninger": 34553
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2016,
+      "overnatninger": 32517
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2016,
+      "overnatninger": 31684
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2016,
+      "overnatninger": 30315
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2016,
+      "overnatninger": 29804
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2016,
+      "overnatninger": 28786
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2016,
+      "overnatninger": 28187
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2016,
+      "overnatninger": 14721
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2016,
+      "overnatninger": 13792
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2016,
+      "overnatninger": 13587
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2016,
+      "overnatninger": 13583
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2016,
+      "overnatninger": 12981
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2016,
+      "overnatninger": 9601
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2016,
+      "overnatninger": 9359
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2016,
+      "overnatninger": 8805
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2016,
+      "overnatninger": 7968
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2016,
+      "overnatninger": 4406
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2016,
+      "overnatninger": 3887
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2017,
+      "overnatninger": 53186705
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2017,
+      "overnatninger": 27105155
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2017,
+      "overnatninger": 26081551
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2017,
+      "overnatninger": 15419821
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2017,
+      "overnatninger": 2440032
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2017,
+      "overnatninger": 1905009
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2017,
+      "overnatninger": 1347689
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2017,
+      "overnatninger": 898842
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2017,
+      "overnatninger": 709594
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2017,
+      "overnatninger": 584774
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2017,
+      "overnatninger": 343809
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2017,
+      "overnatninger": 306272
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2017,
+      "overnatninger": 267544
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2017,
+      "overnatninger": 254419
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2017,
+      "overnatninger": 248409
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2017,
+      "overnatninger": 229040
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2017,
+      "overnatninger": 208212
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2017,
+      "overnatninger": 197985
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2017,
+      "overnatninger": 175888
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2017,
+      "overnatninger": 162275
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2017,
+      "overnatninger": 100862
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2017,
+      "overnatninger": 84734
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2017,
+      "overnatninger": 82123
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2017,
+      "overnatninger": 81661
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2017,
+      "overnatninger": 81488
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2017,
+      "overnatninger": 79813
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2017,
+      "overnatninger": 73062
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2017,
+      "overnatninger": 66457
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2017,
+      "overnatninger": 61857
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2017,
+      "overnatninger": 55694
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2017,
+      "overnatninger": 52038
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2017,
+      "overnatninger": 49072
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2017,
+      "overnatninger": 45673
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2017,
+      "overnatninger": 44992
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2017,
+      "overnatninger": 41617
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2017,
+      "overnatninger": 38619
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2017,
+      "overnatninger": 37783
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2017,
+      "overnatninger": 37044
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2017,
+      "overnatninger": 36936
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2017,
+      "overnatninger": 31688
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2017,
+      "overnatninger": 31081
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2017,
+      "overnatninger": 27392
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2017,
+      "overnatninger": 26452
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2017,
+      "overnatninger": 19940
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2017,
+      "overnatninger": 18595
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2017,
+      "overnatninger": 16457
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2017,
+      "overnatninger": 15145
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2017,
+      "overnatninger": 14454
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2017,
+      "overnatninger": 10708
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2017,
+      "overnatninger": 10696
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2017,
+      "overnatninger": 10564
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2017,
+      "overnatninger": 9978
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2017,
+      "overnatninger": 5602
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2017,
+      "overnatninger": 5229
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2018,
+      "overnatninger": 54661933
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2018,
+      "overnatninger": 27958382
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2018,
+      "overnatninger": 26703550
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2018,
+      "overnatninger": 15933441
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2018,
+      "overnatninger": 2356065
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2018,
+      "overnatninger": 1881466
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2018,
+      "overnatninger": 1379457
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2018,
+      "overnatninger": 886975
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2018,
+      "overnatninger": 787206
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2018,
+      "overnatninger": 682299
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2018,
+      "overnatninger": 375841
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2018,
+      "overnatninger": 309961
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2018,
+      "overnatninger": 295418
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2018,
+      "overnatninger": 286057
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2018,
+      "overnatninger": 244062
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2018,
+      "overnatninger": 234939
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2018,
+      "overnatninger": 218571
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2018,
+      "overnatninger": 192223
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2018,
+      "overnatninger": 189488
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2018,
+      "overnatninger": 137872
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2018,
+      "overnatninger": 112506
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2018,
+      "overnatninger": 103507
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2018,
+      "overnatninger": 98453
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2018,
+      "overnatninger": 96519
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2018,
+      "overnatninger": 92550
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2018,
+      "overnatninger": 88459
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2018,
+      "overnatninger": 78060
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2018,
+      "overnatninger": 68205
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2018,
+      "overnatninger": 67668
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2018,
+      "overnatninger": 60697
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2018,
+      "overnatninger": 54208
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2018,
+      "overnatninger": 47387
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2018,
+      "overnatninger": 46199
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2018,
+      "overnatninger": 45222
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2018,
+      "overnatninger": 42257
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2018,
+      "overnatninger": 41602
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2018,
+      "overnatninger": 41356
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2018,
+      "overnatninger": 40033
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2018,
+      "overnatninger": 38435
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2018,
+      "overnatninger": 38404
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2018,
+      "overnatninger": 36403
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2018,
+      "overnatninger": 34229
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2018,
+      "overnatninger": 32563
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2018,
+      "overnatninger": 27990
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2018,
+      "overnatninger": 18977
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2018,
+      "overnatninger": 17272
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2018,
+      "overnatninger": 16899
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2018,
+      "overnatninger": 16148
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2018,
+      "overnatninger": 14857
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2018,
+      "overnatninger": 12799
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2018,
+      "overnatninger": 12100
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2018,
+      "overnatninger": 11878
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2018,
+      "overnatninger": 7008
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2018,
+      "overnatninger": 6186
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2019,
+      "overnatninger": 56954745
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2019,
+      "overnatninger": 29278500
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2019,
+      "overnatninger": 27676246
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2019,
+      "overnatninger": 17045661
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2019,
+      "overnatninger": 2350990
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2019,
+      "overnatninger": 1775033
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2019,
+      "overnatninger": 1464601
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2019,
+      "overnatninger": 913932
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2019,
+      "overnatninger": 836536
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2019,
+      "overnatninger": 683155
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2019,
+      "overnatninger": 386729
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2019,
+      "overnatninger": 359981
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2019,
+      "overnatninger": 297740
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2019,
+      "overnatninger": 296477
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2019,
+      "overnatninger": 274334
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2019,
+      "overnatninger": 223964
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2019,
+      "overnatninger": 212806
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2019,
+      "overnatninger": 202636
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2019,
+      "overnatninger": 167828
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2019,
+      "overnatninger": 113439
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2019,
+      "overnatninger": 108121
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2019,
+      "overnatninger": 99630
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2019,
+      "overnatninger": 99042
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2019,
+      "overnatninger": 98415
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2019,
+      "overnatninger": 96706
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2019,
+      "overnatninger": 93583
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2019,
+      "overnatninger": 87578
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2019,
+      "overnatninger": 70669
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2019,
+      "overnatninger": 69277
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2019,
+      "overnatninger": 65824
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2019,
+      "overnatninger": 56888
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2019,
+      "overnatninger": 56339
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2019,
+      "overnatninger": 56045
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2019,
+      "overnatninger": 54384
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2019,
+      "overnatninger": 52466
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2019,
+      "overnatninger": 49108
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2019,
+      "overnatninger": 46971
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2019,
+      "overnatninger": 43954
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2019,
+      "overnatninger": 39730
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2019,
+      "overnatninger": 39551
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2019,
+      "overnatninger": 38578
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2019,
+      "overnatninger": 37506
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2019,
+      "overnatninger": 29103
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2019,
+      "overnatninger": 28209
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2019,
+      "overnatninger": 20964
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2019,
+      "overnatninger": 20018
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2019,
+      "overnatninger": 18820
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2019,
+      "overnatninger": 17949
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2019,
+      "overnatninger": 17783
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2019,
+      "overnatninger": 15905
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2019,
+      "overnatninger": 15195
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2019,
+      "overnatninger": 14648
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2019,
+      "overnatninger": 6959
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2019,
+      "overnatninger": 6718
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2020,
+      "overnatninger": 45440492
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2020,
+      "overnatninger": 29027709
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2020,
+      "overnatninger": 16412783
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2020,
+      "overnatninger": 13137718
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2020,
+      "overnatninger": 691742
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2020,
+      "overnatninger": 451635
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2020,
+      "overnatninger": 428992
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2020,
+      "overnatninger": 322203
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2020,
+      "overnatninger": 255533
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2020,
+      "overnatninger": 139782
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2020,
+      "overnatninger": 89181
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2020,
+      "overnatninger": 87858
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2020,
+      "overnatninger": 80605
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2020,
+      "overnatninger": 79218
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2020,
+      "overnatninger": 61107
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2020,
+      "overnatninger": 49238
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2020,
+      "overnatninger": 35626
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2020,
+      "overnatninger": 34240
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2020,
+      "overnatninger": 32888
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2020,
+      "overnatninger": 28991
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2020,
+      "overnatninger": 26312
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2020,
+      "overnatninger": 25577
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2020,
+      "overnatninger": 24402
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2020,
+      "overnatninger": 23969
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2020,
+      "overnatninger": 21469
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2020,
+      "overnatninger": 20085
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2020,
+      "overnatninger": 18222
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2020,
+      "overnatninger": 17756
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2020,
+      "overnatninger": 17228
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2020,
+      "overnatninger": 17198
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2020,
+      "overnatninger": 16208
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2020,
+      "overnatninger": 14906
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2020,
+      "overnatninger": 13956
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2020,
+      "overnatninger": 13082
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2020,
+      "overnatninger": 12530
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2020,
+      "overnatninger": 12321
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2020,
+      "overnatninger": 12182
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2020,
+      "overnatninger": 10510
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2020,
+      "overnatninger": 10071
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2020,
+      "overnatninger": 9215
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2020,
+      "overnatninger": 7478
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2020,
+      "overnatninger": 7346
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2020,
+      "overnatninger": 7081
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2020,
+      "overnatninger": 6558
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2020,
+      "overnatninger": 6042
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2020,
+      "overnatninger": 5652
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2020,
+      "overnatninger": 5016
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2020,
+      "overnatninger": 4740
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2020,
+      "overnatninger": 4549
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2020,
+      "overnatninger": 4218
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2020,
+      "overnatninger": 4034
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2020,
+      "overnatninger": 2896
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2020,
+      "overnatninger": 1922
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2020,
+      "overnatninger": 1495
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2021,
+      "overnatninger": 52367698
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2021,
+      "overnatninger": 34859500
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2021,
+      "overnatninger": 17508198
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2021,
+      "overnatninger": 13442287
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2021,
+      "overnatninger": 740760
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2021,
+      "overnatninger": 640470
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2021,
+      "overnatninger": 422416
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2021,
+      "overnatninger": 327903
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2021,
+      "overnatninger": 212218
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2021,
+      "overnatninger": 199874
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2021,
+      "overnatninger": 165303
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2021,
+      "overnatninger": 161564
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2021,
+      "overnatninger": 139494
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2021,
+      "overnatninger": 136092
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2021,
+      "overnatninger": 114655
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2021,
+      "overnatninger": 105117
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2021,
+      "overnatninger": 52187
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2021,
+      "overnatninger": 50148
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2021,
+      "overnatninger": 44770
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2021,
+      "overnatninger": 43492
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2021,
+      "overnatninger": 43294
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2021,
+      "overnatninger": 35636
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2021,
+      "overnatninger": 35562
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2021,
+      "overnatninger": 30585
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2021,
+      "overnatninger": 28678
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2021,
+      "overnatninger": 27818
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2021,
+      "overnatninger": 25518
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2021,
+      "overnatninger": 24757
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2021,
+      "overnatninger": 24528
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2021,
+      "overnatninger": 19132
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2021,
+      "overnatninger": 18076
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2021,
+      "overnatninger": 14661
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2021,
+      "overnatninger": 14501
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2021,
+      "overnatninger": 13551
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2021,
+      "overnatninger": 12322
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2021,
+      "overnatninger": 11654
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2021,
+      "overnatninger": 11488
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2021,
+      "overnatninger": 11376
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2021,
+      "overnatninger": 10790
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2021,
+      "overnatninger": 10372
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2021,
+      "overnatninger": 10023
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2021,
+      "overnatninger": 9459
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2021,
+      "overnatninger": 9186
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2021,
+      "overnatninger": 8182
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2021,
+      "overnatninger": 7528
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2021,
+      "overnatninger": 6434
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2021,
+      "overnatninger": 6431
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2021,
+      "overnatninger": 6246
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2021,
+      "overnatninger": 5481
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2021,
+      "overnatninger": 4483
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2021,
+      "overnatninger": 3774
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2021,
+      "overnatninger": 2690
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2021,
+      "overnatninger": 2632
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2021,
+      "overnatninger": 2600
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2022,
+      "overnatninger": 63728730
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2022,
+      "overnatninger": 32462948
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2022,
+      "overnatninger": 31265782
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2022,
+      "overnatninger": 19731518
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2022,
+      "overnatninger": 2273726
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2022,
+      "overnatninger": 1751555
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2022,
+      "overnatninger": 1725309
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2022,
+      "overnatninger": 790073
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2022,
+      "overnatninger": 722571
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2022,
+      "overnatninger": 622214
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2022,
+      "overnatninger": 371939
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2022,
+      "overnatninger": 337401
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2022,
+      "overnatninger": 311813
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2022,
+      "overnatninger": 283433
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2022,
+      "overnatninger": 276858
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2022,
+      "overnatninger": 250639
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2022,
+      "overnatninger": 176539
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2022,
+      "overnatninger": 149324
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2022,
+      "overnatninger": 106625
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2022,
+      "overnatninger": 97648
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2022,
+      "overnatninger": 85665
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2022,
+      "overnatninger": 82956
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2022,
+      "overnatninger": 80114
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2022,
+      "overnatninger": 73734
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2022,
+      "overnatninger": 67896
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2022,
+      "overnatninger": 63197
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2022,
+      "overnatninger": 58732
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2022,
+      "overnatninger": 58009
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2022,
+      "overnatninger": 56151
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2022,
+      "overnatninger": 55558
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2022,
+      "overnatninger": 52177
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2022,
+      "overnatninger": 50945
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2022,
+      "overnatninger": 43238
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2022,
+      "overnatninger": 39988
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2022,
+      "overnatninger": 33647
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2022,
+      "overnatninger": 32576
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2022,
+      "overnatninger": 31811
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2022,
+      "overnatninger": 31260
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2022,
+      "overnatninger": 29872
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2022,
+      "overnatninger": 25557
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2022,
+      "overnatninger": 24228
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2022,
+      "overnatninger": 23922
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2022,
+      "overnatninger": 21938
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2022,
+      "overnatninger": 21706
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2022,
+      "overnatninger": 21521
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2022,
+      "overnatninger": 19218
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2022,
+      "overnatninger": 18554
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2022,
+      "overnatninger": 15772
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2022,
+      "overnatninger": 15331
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2022,
+      "overnatninger": 13946
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2022,
+      "overnatninger": 12532
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2022,
+      "overnatninger": 9739
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2022,
+      "overnatninger": 8939
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2022,
+      "overnatninger": 6168
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2023,
+      "overnatninger": 63873545
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2023,
+      "overnatninger": 32585955
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2023,
+      "overnatninger": 31287590
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2023,
+      "overnatninger": 20305375
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2023,
+      "overnatninger": 1817296
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2023,
+      "overnatninger": 1810031
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2023,
+      "overnatninger": 1486348
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2023,
+      "overnatninger": 1004771
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2023,
+      "overnatninger": 969963
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2023,
+      "overnatninger": 668694
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2023,
+      "overnatninger": 471195
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2023,
+      "overnatninger": 410658
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2023,
+      "overnatninger": 367731
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2023,
+      "overnatninger": 333856
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2023,
+      "overnatninger": 296627
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2023,
+      "overnatninger": 283969
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2023,
+      "overnatninger": 200907
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2023,
+      "overnatninger": 182077
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2023,
+      "overnatninger": 149444
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2023,
+      "overnatninger": 123238
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2023,
+      "overnatninger": 111224
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2023,
+      "overnatninger": 97538
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2023,
+      "overnatninger": 94757
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2023,
+      "overnatninger": 94694
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2023,
+      "overnatninger": 91704
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2023,
+      "overnatninger": 86139
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2023,
+      "overnatninger": 79588
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2023,
+      "overnatninger": 74225
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2023,
+      "overnatninger": 73716
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2023,
+      "overnatninger": 73166
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2023,
+      "overnatninger": 71392
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2023,
+      "overnatninger": 63951
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2023,
+      "overnatninger": 61357
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2023,
+      "overnatninger": 60552
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2023,
+      "overnatninger": 54678
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2023,
+      "overnatninger": 50519
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2023,
+      "overnatninger": 45597
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2023,
+      "overnatninger": 43081
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2023,
+      "overnatninger": 42400
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2023,
+      "overnatninger": 37461
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2023,
+      "overnatninger": 33885
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2023,
+      "overnatninger": 32708
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2023,
+      "overnatninger": 30961
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2023,
+      "overnatninger": 27431
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2023,
+      "overnatninger": 25105
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2023,
+      "overnatninger": 23402
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2023,
+      "overnatninger": 22850
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2023,
+      "overnatninger": 21271
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2023,
+      "overnatninger": 16781
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2023,
+      "overnatninger": 16750
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2023,
+      "overnatninger": 13560
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2023,
+      "overnatninger": 12544
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2023,
+      "overnatninger": 10335
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2023,
+      "overnatninger": 8325
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2024,
+      "overnatninger": 65287344
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2024,
+      "overnatninger": 34266171
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2024,
+      "overnatninger": 31021173
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2024,
+      "overnatninger": 21218674
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2024,
+      "overnatninger": 1830033
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2024,
+      "overnatninger": 1602577
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2024,
+      "overnatninger": 1428187
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2024,
+      "overnatninger": 1156069
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2024,
+      "overnatninger": 1140410
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2024,
+      "overnatninger": 803657
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2024,
+      "overnatninger": 498989
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2024,
+      "overnatninger": 484394
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2024,
+      "overnatninger": 399043
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2024,
+      "overnatninger": 385045
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2024,
+      "overnatninger": 371954
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2024,
+      "overnatninger": 264587
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2024,
+      "overnatninger": 207546
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2024,
+      "overnatninger": 192552
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2024,
+      "overnatninger": 172918
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2024,
+      "overnatninger": 158373
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2024,
+      "overnatninger": 131996
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2024,
+      "overnatninger": 122800
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2024,
+      "overnatninger": 111637
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2024,
+      "overnatninger": 101377
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2024,
+      "overnatninger": 95184
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2024,
+      "overnatninger": 95011
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2024,
+      "overnatninger": 93445
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2024,
+      "overnatninger": 90599
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2024,
+      "overnatninger": 89439
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2024,
+      "overnatninger": 87275
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2024,
+      "overnatninger": 80660
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2024,
+      "overnatninger": 64934
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2024,
+      "overnatninger": 64762
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2024,
+      "overnatninger": 60645
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2024,
+      "overnatninger": 56895
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2024,
+      "overnatninger": 52759
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2024,
+      "overnatninger": 52339
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2024,
+      "overnatninger": 51788
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2024,
+      "overnatninger": 50642
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2024,
+      "overnatninger": 46079
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2024,
+      "overnatninger": 44323
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2024,
+      "overnatninger": 40254
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2024,
+      "overnatninger": 31801
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2024,
+      "overnatninger": 30647
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2024,
+      "overnatninger": 29797
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2024,
+      "overnatninger": 29457
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2024,
+      "overnatninger": 28085
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2024,
+      "overnatninger": 21668
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2024,
+      "overnatninger": 21068
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2024,
+      "overnatninger": 20607
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2024,
+      "overnatninger": 17512
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2024,
+      "overnatninger": 15359
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2024,
+      "overnatninger": 11112
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2024,
+      "overnatninger": 8993
+    },
+    {
+      "nationalitet": "I alt",
+      "aar": 2025,
+      "overnatninger": 66572459
+    },
+    {
+      "nationalitet": "Verden udenfor Danmark",
+      "aar": 2025,
+      "overnatninger": 35610763
+    },
+    {
+      "nationalitet": "Danmark",
+      "aar": 2025,
+      "overnatninger": 30961697
+    },
+    {
+      "nationalitet": "Tyskland",
+      "aar": 2025,
+      "overnatninger": 21860129
+    },
+    {
+      "nationalitet": "Nederlandene",
+      "aar": 2025,
+      "overnatninger": 1848616
+    },
+    {
+      "nationalitet": "Norge",
+      "aar": 2025,
+      "overnatninger": 1546656
+    },
+    {
+      "nationalitet": "Sverige",
+      "aar": 2025,
+      "overnatninger": 1488146
+    },
+    {
+      "nationalitet": "USA",
+      "aar": 2025,
+      "overnatninger": 1236740
+    },
+    {
+      "nationalitet": "Storbritannien",
+      "aar": 2025,
+      "overnatninger": 1125092
+    },
+    {
+      "nationalitet": "Ukendt land",
+      "aar": 2025,
+      "overnatninger": 784683
+    },
+    {
+      "nationalitet": "Frankrig",
+      "aar": 2025,
+      "overnatninger": 519905
+    },
+    {
+      "nationalitet": "Italien",
+      "aar": 2025,
+      "overnatninger": 481960
+    },
+    {
+      "nationalitet": "Schweiz",
+      "aar": 2025,
+      "overnatninger": 445605
+    },
+    {
+      "nationalitet": "Spanien",
+      "aar": 2025,
+      "overnatninger": 399408
+    },
+    {
+      "nationalitet": "Polen",
+      "aar": 2025,
+      "overnatninger": 397775
+    },
+    {
+      "nationalitet": "Belgien",
+      "aar": 2025,
+      "overnatninger": 292598
+    },
+    {
+      "nationalitet": "Asien uden Kina, Japan, Sydkorea, Indien og Thailand",
+      "aar": 2025,
+      "overnatninger": 237354
+    },
+    {
+      "nationalitet": "Finland",
+      "aar": 2025,
+      "overnatninger": 227627
+    },
+    {
+      "nationalitet": "Østrig",
+      "aar": 2025,
+      "overnatninger": 205680
+    },
+    {
+      "nationalitet": "Kina",
+      "aar": 2025,
+      "overnatninger": 202307
+    },
+    {
+      "nationalitet": "Australien",
+      "aar": 2025,
+      "overnatninger": 151326
+    },
+    {
+      "nationalitet": "Tyrkiet",
+      "aar": 2025,
+      "overnatninger": 143574
+    },
+    {
+      "nationalitet": "Irland",
+      "aar": 2025,
+      "overnatninger": 135030
+    },
+    {
+      "nationalitet": "Canada",
+      "aar": 2025,
+      "overnatninger": 129890
+    },
+    {
+      "nationalitet": "Syd- og Mellemamerika uden Brasilien",
+      "aar": 2025,
+      "overnatninger": 116556
+    },
+    {
+      "nationalitet": "Tjekkiet",
+      "aar": 2025,
+      "overnatninger": 110604
+    },
+    {
+      "nationalitet": "Island",
+      "aar": 2025,
+      "overnatninger": 106661
+    },
+    {
+      "nationalitet": "Indien",
+      "aar": 2025,
+      "overnatninger": 103153
+    },
+    {
+      "nationalitet": "Portugal",
+      "aar": 2025,
+      "overnatninger": 102127
+    },
+    {
+      "nationalitet": "Rumænien",
+      "aar": 2025,
+      "overnatninger": 95826
+    },
+    {
+      "nationalitet": "Europa i øvrigt",
+      "aar": 2025,
+      "overnatninger": 91071
+    },
+    {
+      "nationalitet": "Grækenland",
+      "aar": 2025,
+      "overnatninger": 87450
+    },
+    {
+      "nationalitet": "Ukraine",
+      "aar": 2025,
+      "overnatninger": 86352
+    },
+    {
+      "nationalitet": "Japan",
+      "aar": 2025,
+      "overnatninger": 69540
+    },
+    {
+      "nationalitet": "Brasilien",
+      "aar": 2025,
+      "overnatninger": 69012
+    },
+    {
+      "nationalitet": "Færøerne",
+      "aar": 2025,
+      "overnatninger": 65277
+    },
+    {
+      "nationalitet": "Litauen",
+      "aar": 2025,
+      "overnatninger": 64451
+    },
+    {
+      "nationalitet": "Grønland",
+      "aar": 2025,
+      "overnatninger": 60101
+    },
+    {
+      "nationalitet": "Afrika uden Sydafrika",
+      "aar": 2025,
+      "overnatninger": 57671
+    },
+    {
+      "nationalitet": "Ungarn",
+      "aar": 2025,
+      "overnatninger": 52735
+    },
+    {
+      "nationalitet": "Thailand",
+      "aar": 2025,
+      "overnatninger": 50520
+    },
+    {
+      "nationalitet": "Estland",
+      "aar": 2025,
+      "overnatninger": 45876
+    },
+    {
+      "nationalitet": "Sydkorea",
+      "aar": 2025,
+      "overnatninger": 41469
+    },
+    {
+      "nationalitet": "Oceanien uden Australien",
+      "aar": 2025,
+      "overnatninger": 38182
+    },
+    {
+      "nationalitet": "Letland",
+      "aar": 2025,
+      "overnatninger": 34202
+    },
+    {
+      "nationalitet": "Slovakiet",
+      "aar": 2025,
+      "overnatninger": 33928
+    },
+    {
+      "nationalitet": "Kroatien",
+      "aar": 2025,
+      "overnatninger": 32423
+    },
+    {
+      "nationalitet": "Bulgarien",
+      "aar": 2025,
+      "overnatninger": 30452
+    },
+    {
+      "nationalitet": "Luxembourg",
+      "aar": 2025,
+      "overnatninger": 26446
+    },
+    {
+      "nationalitet": "Slovenien",
+      "aar": 2025,
+      "overnatninger": 22988
+    },
+    {
+      "nationalitet": "Sydafrika",
+      "aar": 2025,
+      "overnatninger": 16202
+    },
+    {
+      "nationalitet": "Rusland",
+      "aar": 2025,
+      "overnatninger": 16011
+    },
+    {
+      "nationalitet": "Cypern",
+      "aar": 2025,
+      "overnatninger": 12505
+    },
+    {
+      "nationalitet": "Malta",
+      "aar": 2025,
+      "overnatninger": 10865
+    }
+  ],
+  "meta": {
+    "title": "Turisters overnatninger i Danmark efter nationalitet - Free Download",
+    "description": "Årligt antal overnatninger (alle overnatningsformer) i Danmark fordelt på gæsternes nationalitet, fra 1992. Contains 1836 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Turisters overnatninger i Danmark efter nationalitet | ListBase",
+    "seo_description": "Download Turisters overnatninger i Danmark efter nationalitet — 1836 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1836 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/TURIST"
+    ]
+  }
+}

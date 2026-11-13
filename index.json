@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-13T02:24:28.516Z",
-  "total_datasets": 496,
-  "total_records": 241336,
+  "generated": "2026-11-13T02:24:38.827Z",
+  "total_datasets": 497,
+  "total_records": 243172,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "transport",
@@ -13978,6 +13978,30 @@
         "xlsx": {
           "name": "da-hoteller_DA.xlsx",
           "size": 31987
+        }
+      }
+    },
+    {
+      "id": "da-overnatninger-efter-nationalitet",
+      "name": "Turisters overnatninger i Danmark efter nationalitet",
+      "category": "tourism",
+      "record_count": 1836,
+      "columns": [
+        "nationalitet",
+        "aar",
+        "overnatninger"
+      ],
+      "source": "https://www.statistikbanken.dk/TURIST",
+      "updated": "2026-11",
+      "size": 178702,
+      "files": {
+        "csv": {
+          "name": "da-overnatninger-efter-nationalitet_DA.csv",
+          "size": 50527
+        },
+        "xlsx": {
+          "name": "da-overnatninger-efter-nationalitet_DA.xlsx",
+          "size": 38186
         }
       }
     },
