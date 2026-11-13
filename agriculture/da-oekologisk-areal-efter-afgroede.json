@@ -1,0 +1,320 @@
+{
+  "id": "da-oekologisk-areal-efter-afgroede",
+  "name": "Økologisk landbrugsareal efter afgrøde",
+  "title": "Økologisk landbrugsareal efter afgrøde",
+  "description": "Samlet areal (ha) på økologiske landbrugsbedrifter i Danmark fordelt på afgrødegrupper som korn, bælgsæd, græs og grøntfoder, gartneri m.m., årligt fra 2012.",
+  "category": "agriculture",
+  "source": "https://www.statistikbanken.dk/OEKO11",
+  "source_url": "https://www.statistikbanken.dk/OEKO11",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "bedrifter_antal",
+      "label": "Bedrifter Antal",
+      "type": "number"
+    },
+    {
+      "key": "areal_i_alt_ha",
+      "label": "Areal I Alt Ha",
+      "type": "number"
+    },
+    {
+      "key": "landbrugsafgroeder_i_alt_ha",
+      "label": "Landbrugsafgroeder I Alt Ha",
+      "type": "number"
+    },
+    {
+      "key": "korn_ha",
+      "label": "Korn Ha",
+      "type": "number"
+    },
+    {
+      "key": "baelgsaed_ha",
+      "label": "Baelgsaed Ha",
+      "type": "number"
+    },
+    {
+      "key": "rodfrugter_ha",
+      "label": "Rodfrugter Ha",
+      "type": "number"
+    },
+    {
+      "key": "industrifroe_ha",
+      "label": "Industrifroe Ha",
+      "type": "number"
+    },
+    {
+      "key": "froe_til_udsaed_ha",
+      "label": "Froe Til Udsaed Ha",
+      "type": "number"
+    },
+    {
+      "key": "graes_og_groentfoder_ha",
+      "label": "Graes Og Groentfoder Ha",
+      "type": "number"
+    },
+    {
+      "key": "gartneri_ha",
+      "label": "Gartneri Ha",
+      "type": "number"
+    },
+    {
+      "key": "braklaegning_ha",
+      "label": "Braklaegning Ha",
+      "type": "number"
+    },
+    {
+      "key": "andre_afgroeder_ha",
+      "label": "Andre Afgroeder Ha",
+      "type": "number"
+    },
+    {
+      "key": "skov_ha",
+      "label": "Skov Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 2012,
+      "bedrifter_antal": 2603,
+      "areal_i_alt_ha": 182930,
+      "landbrugsafgroeder_i_alt_ha": 179688,
+      "korn_ha": 57188,
+      "baelgsaed_ha": 3064,
+      "rodfrugter_ha": 1431,
+      "industrifroe_ha": 512,
+      "froe_til_udsaed_ha": 3976,
+      "graes_og_groentfoder_ha": 109275,
+      "gartneri_ha": 2598,
+      "braklaegning_ha": 472,
+      "andre_afgroeder_ha": 1172,
+      "skov_ha": 3242
+    },
+    {
+      "aar": 2013,
+      "bedrifter_antal": 2526,
+      "areal_i_alt_ha": 181717,
+      "landbrugsafgroeder_i_alt_ha": 178610,
+      "korn_ha": 56156,
+      "baelgsaed_ha": 3309,
+      "rodfrugter_ha": 1488,
+      "industrifroe_ha": 827,
+      "froe_til_udsaed_ha": 4263,
+      "graes_og_groentfoder_ha": 108171,
+      "gartneri_ha": 2554,
+      "braklaegning_ha": 458,
+      "andre_afgroeder_ha": 1384,
+      "skov_ha": 3107
+    },
+    {
+      "aar": 2014,
+      "bedrifter_antal": 2497,
+      "areal_i_alt_ha": 176323,
+      "landbrugsafgroeder_i_alt_ha": 173185,
+      "korn_ha": 52049,
+      "baelgsaed_ha": 3822,
+      "rodfrugter_ha": 1488,
+      "industrifroe_ha": 879,
+      "froe_til_udsaed_ha": 3926,
+      "graes_og_groentfoder_ha": 106518,
+      "gartneri_ha": 2778,
+      "braklaegning_ha": 434,
+      "andre_afgroeder_ha": 1291,
+      "skov_ha": 3136
+    },
+    {
+      "aar": 2015,
+      "bedrifter_antal": 2546,
+      "areal_i_alt_ha": 179808,
+      "landbrugsafgroeder_i_alt_ha": 176433,
+      "korn_ha": 53187,
+      "baelgsaed_ha": 4965,
+      "rodfrugter_ha": 1596,
+      "industrifroe_ha": 1593,
+      "froe_til_udsaed_ha": 2727,
+      "graes_og_groentfoder_ha": 107204,
+      "gartneri_ha": 3444,
+      "braklaegning_ha": 253,
+      "andre_afgroeder_ha": 1464,
+      "skov_ha": 3374
+    },
+    {
+      "aar": 2016,
+      "bedrifter_antal": 3165,
+      "areal_i_alt_ha": 216794,
+      "landbrugsafgroeder_i_alt_ha": 213022,
+      "korn_ha": 63084,
+      "baelgsaed_ha": 6331,
+      "rodfrugter_ha": 1850,
+      "industrifroe_ha": 2076,
+      "froe_til_udsaed_ha": 1592,
+      "graes_og_groentfoder_ha": 130896,
+      "gartneri_ha": 4191,
+      "braklaegning_ha": 295,
+      "andre_afgroeder_ha": 2707,
+      "skov_ha": 3772
+    },
+    {
+      "aar": 2017,
+      "bedrifter_antal": 3469,
+      "areal_i_alt_ha": 245159,
+      "landbrugsafgroeder_i_alt_ha": 241014,
+      "korn_ha": 74598,
+      "baelgsaed_ha": 8101,
+      "rodfrugter_ha": 2655,
+      "industrifroe_ha": 2851,
+      "froe_til_udsaed_ha": 2694,
+      "graes_og_groentfoder_ha": 141557,
+      "gartneri_ha": 4971,
+      "braklaegning_ha": 306,
+      "andre_afgroeder_ha": 3281,
+      "skov_ha": 4145
+    },
+    {
+      "aar": 2018,
+      "bedrifter_antal": 3794,
+      "areal_i_alt_ha": 279299,
+      "landbrugsafgroeder_i_alt_ha": 275004,
+      "korn_ha": 92285,
+      "baelgsaed_ha": 12021,
+      "rodfrugter_ha": 2436,
+      "industrifroe_ha": 3285,
+      "froe_til_udsaed_ha": 4759,
+      "graes_og_groentfoder_ha": 150648,
+      "gartneri_ha": 5380,
+      "braklaegning_ha": 316,
+      "andre_afgroeder_ha": 3874,
+      "skov_ha": 4295
+    },
+    {
+      "aar": 2019,
+      "bedrifter_antal": 4016,
+      "areal_i_alt_ha": 301481,
+      "landbrugsafgroeder_i_alt_ha": 297696,
+      "korn_ha": 104408,
+      "baelgsaed_ha": 10694,
+      "rodfrugter_ha": 2893,
+      "industrifroe_ha": 3756,
+      "froe_til_udsaed_ha": 4932,
+      "graes_og_groentfoder_ha": 162622,
+      "gartneri_ha": 5669,
+      "braklaegning_ha": 198,
+      "andre_afgroeder_ha": 2524,
+      "skov_ha": 3783
+    },
+    {
+      "aar": 2020,
+      "bedrifter_antal": 4121,
+      "areal_i_alt_ha": 310210,
+      "landbrugsafgroeder_i_alt_ha": 306300,
+      "korn_ha": 100331,
+      "baelgsaed_ha": 14204,
+      "rodfrugter_ha": 3464,
+      "industrifroe_ha": 4019,
+      "froe_til_udsaed_ha": 8617,
+      "graes_og_groentfoder_ha": 166408,
+      "gartneri_ha": 6266,
+      "braklaegning_ha": 231,
+      "andre_afgroeder_ha": 2760,
+      "skov_ha": 3910
+    },
+    {
+      "aar": 2021,
+      "bedrifter_antal": 4151,
+      "areal_i_alt_ha": 313111,
+      "landbrugsafgroeder_i_alt_ha": 308988,
+      "korn_ha": 94225,
+      "baelgsaed_ha": 19039,
+      "rodfrugter_ha": 3305,
+      "industrifroe_ha": 5894,
+      "froe_til_udsaed_ha": 9594,
+      "graes_og_groentfoder_ha": 167333,
+      "gartneri_ha": 6577,
+      "braklaegning_ha": 219,
+      "andre_afgroeder_ha": 2802,
+      "skov_ha": 4122
+    },
+    {
+      "aar": 2022,
+      "bedrifter_antal": 4095,
+      "areal_i_alt_ha": 310001,
+      "landbrugsafgroeder_i_alt_ha": 305725,
+      "korn_ha": 91711,
+      "baelgsaed_ha": 19000,
+      "rodfrugter_ha": 2788,
+      "industrifroe_ha": 8065,
+      "froe_til_udsaed_ha": 8845,
+      "graes_og_groentfoder_ha": 165573,
+      "gartneri_ha": 6563,
+      "braklaegning_ha": 179,
+      "andre_afgroeder_ha": 3001,
+      "skov_ha": 4275
+    },
+    {
+      "aar": 2023,
+      "bedrifter_antal": 3960,
+      "areal_i_alt_ha": 303563,
+      "landbrugsafgroeder_i_alt_ha": 299071,
+      "korn_ha": 86138,
+      "baelgsaed_ha": 17118,
+      "rodfrugter_ha": 2944,
+      "industrifroe_ha": 5371,
+      "froe_til_udsaed_ha": 5731,
+      "graes_og_groentfoder_ha": 161495,
+      "gartneri_ha": 5807,
+      "braklaegning_ha": 11312,
+      "andre_afgroeder_ha": 3155,
+      "skov_ha": 4491
+    },
+    {
+      "aar": 2024,
+      "bedrifter_antal": 3930,
+      "areal_i_alt_ha": 295145,
+      "landbrugsafgroeder_i_alt_ha": 290418,
+      "korn_ha": 76584,
+      "baelgsaed_ha": 12995,
+      "rodfrugter_ha": 2925,
+      "industrifroe_ha": 3852,
+      "froe_til_udsaed_ha": 3487,
+      "graes_og_groentfoder_ha": 166417,
+      "gartneri_ha": 6196,
+      "braklaegning_ha": 14691,
+      "andre_afgroeder_ha": 3271,
+      "skov_ha": 4727
+    },
+    {
+      "aar": 2025,
+      "bedrifter_antal": 3912,
+      "areal_i_alt_ha": 279877,
+      "landbrugsafgroeder_i_alt_ha": 274991,
+      "korn_ha": 75058,
+      "baelgsaed_ha": 10843,
+      "rodfrugter_ha": 3197,
+      "industrifroe_ha": 2519,
+      "froe_til_udsaed_ha": 3025,
+      "graes_og_groentfoder_ha": 157058,
+      "gartneri_ha": 6134,
+      "braklaegning_ha": 13988,
+      "andre_afgroeder_ha": 3169,
+      "skov_ha": 4888
+    }
+  ],
+  "meta": {
+    "title": "Økologisk landbrugsareal efter afgrøde - Free Download",
+    "description": "Samlet areal (ha) på økologiske landbrugsbedrifter i Danmark fordelt på afgrødegrupper som korn, bælgsæd, græs og grøntfoder, gartneri m.m., årligt fra 2012. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Økologisk landbrugsareal efter afgrøde | ListBase",
+    "seo_description": "Download Økologisk landbrugsareal efter afgrøde — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 14 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/OEKO11"
+    ]
+  }
+}

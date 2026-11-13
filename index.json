@@ -1,12 +1,12 @@
 {
   "lang": "da",
-  "generated": "2026-11-13T02:24:16.811Z",
-  "total_datasets": 495,
-  "total_records": 241322,
+  "generated": "2026-11-13T02:24:28.516Z",
+  "total_datasets": 496,
+  "total_records": 241336,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -234,6 +234,41 @@
         "xlsx": {
           "name": "da-landbrugsbedrifter-efter-stoerrelse_DA.xlsx",
           "size": 15102
+        }
+      }
+    },
+    {
+      "id": "da-oekologisk-areal-efter-afgroede",
+      "name": "Økologisk landbrugsareal efter afgrøde",
+      "category": "agriculture",
+      "record_count": 14,
+      "columns": [
+        "aar",
+        "bedrifter_antal",
+        "areal_i_alt_ha",
+        "landbrugsafgroeder_i_alt_ha",
+        "korn_ha",
+        "baelgsaed_ha",
+        "rodfrugter_ha",
+        "industrifroe_ha",
+        "froe_til_udsaed_ha",
+        "graes_og_groentfoder_ha",
+        "gartneri_ha",
+        "braklaegning_ha",
+        "andre_afgroeder_ha",
+        "skov_ha"
+      ],
+      "source": "https://www.statistikbanken.dk/OEKO11",
+      "updated": "2026-11",
+      "size": 8883,
+      "files": {
+        "csv": {
+          "name": "da-oekologisk-areal-efter-afgroede_DA.csv",
+          "size": 1711
+        },
+        "xlsx": {
+          "name": "da-oekologisk-areal-efter-afgroede_DA.xlsx",
+          "size": 8201
         }
       }
     },
