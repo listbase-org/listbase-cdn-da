@@ -1,0 +1,1102 @@
+{
+  "id": "da-enkelt-og-flerfoedsler",
+  "name": "Enkelt- og flerfødsler i Danmark siden 1850",
+  "title": "Enkelt- og flerfødsler i Danmark siden 1850",
+  "description": "Årligt antal enkeltfødsler, tvillingefødsler samt trillinge- og firlingefødsler i Danmark fra 1850.",
+  "category": "society",
+  "source": "https://www.statistikbanken.dk/FOD8",
+  "source_url": "https://www.statistikbanken.dk/FOD8",
+  "updated": "2026-11",
+  "record_count": 176,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "enkeltfoedsler",
+      "label": "Enkeltfoedsler",
+      "type": "number"
+    },
+    {
+      "key": "tvillingefoedsler",
+      "label": "Tvillingefoedsler",
+      "type": "number"
+    },
+    {
+      "key": "trillinge_og_firlingefoedsler",
+      "label": "Trillinge Og Firlingefoedsler",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1850,
+      "enkeltfoedsler": 45598,
+      "tvillingefoedsler": 625,
+      "trillinge_og_firlingefoedsler": 11
+    },
+    {
+      "aar": 1851,
+      "enkeltfoedsler": 44161,
+      "tvillingefoedsler": 585,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1852,
+      "enkeltfoedsler": 49108,
+      "tvillingefoedsler": 754,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 1853,
+      "enkeltfoedsler": 47442,
+      "tvillingefoedsler": 682,
+      "trillinge_og_firlingefoedsler": 17
+    },
+    {
+      "aar": 1854,
+      "enkeltfoedsler": 49541,
+      "tvillingefoedsler": 724,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1855,
+      "enkeltfoedsler": 48981,
+      "tvillingefoedsler": 736,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1856,
+      "enkeltfoedsler": 50255,
+      "tvillingefoedsler": 785,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1857,
+      "enkeltfoedsler": 51818,
+      "tvillingefoedsler": 766,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1858,
+      "enkeltfoedsler": 52835,
+      "tvillingefoedsler": 784,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1859,
+      "enkeltfoedsler": 54189,
+      "tvillingefoedsler": 779,
+      "trillinge_og_firlingefoedsler": 15
+    },
+    {
+      "aar": 1860,
+      "enkeltfoedsler": 53265,
+      "tvillingefoedsler": 754,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1861,
+      "enkeltfoedsler": 52233,
+      "tvillingefoedsler": 742,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1862,
+      "enkeltfoedsler": 51539,
+      "tvillingefoedsler": 724,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1863,
+      "enkeltfoedsler": 52249,
+      "tvillingefoedsler": 827,
+      "trillinge_og_firlingefoedsler": 12
+    },
+    {
+      "aar": 1864,
+      "enkeltfoedsler": 51349,
+      "tvillingefoedsler": 754,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1865,
+      "enkeltfoedsler": 53736,
+      "tvillingefoedsler": 840,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1866,
+      "enkeltfoedsler": 55727,
+      "tvillingefoedsler": 793,
+      "trillinge_og_firlingefoedsler": 13
+    },
+    {
+      "aar": 1867,
+      "enkeltfoedsler": 53246,
+      "tvillingefoedsler": 748,
+      "trillinge_og_firlingefoedsler": 7
+    },
+    {
+      "aar": 1868,
+      "enkeltfoedsler": 55036,
+      "tvillingefoedsler": 743,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1869,
+      "enkeltfoedsler": 52595,
+      "tvillingefoedsler": 723,
+      "trillinge_og_firlingefoedsler": 5
+    },
+    {
+      "aar": 1870,
+      "enkeltfoedsler": 54914,
+      "tvillingefoedsler": 770,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1871,
+      "enkeltfoedsler": 54908,
+      "tvillingefoedsler": 736,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1872,
+      "enkeltfoedsler": 55724,
+      "tvillingefoedsler": 772,
+      "trillinge_og_firlingefoedsler": 2
+    },
+    {
+      "aar": 1873,
+      "enkeltfoedsler": 56925,
+      "tvillingefoedsler": 829,
+      "trillinge_og_firlingefoedsler": 11
+    },
+    {
+      "aar": 1874,
+      "enkeltfoedsler": 57757,
+      "tvillingefoedsler": 761,
+      "trillinge_og_firlingefoedsler": 15
+    },
+    {
+      "aar": 1875,
+      "enkeltfoedsler": 60144,
+      "tvillingefoedsler": 804,
+      "trillinge_og_firlingefoedsler": 13
+    },
+    {
+      "aar": 1876,
+      "enkeltfoedsler": 62318,
+      "tvillingefoedsler": 814,
+      "trillinge_og_firlingefoedsler": 7
+    },
+    {
+      "aar": 1877,
+      "enkeltfoedsler": 62161,
+      "tvillingefoedsler": 787,
+      "trillinge_og_firlingefoedsler": 12
+    },
+    {
+      "aar": 1878,
+      "enkeltfoedsler": 61536,
+      "tvillingefoedsler": 783,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 1879,
+      "enkeltfoedsler": 62659,
+      "tvillingefoedsler": 837,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1880,
+      "enkeltfoedsler": 62748,
+      "tvillingefoedsler": 876,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1881,
+      "enkeltfoedsler": 64436,
+      "tvillingefoedsler": 831,
+      "trillinge_og_firlingefoedsler": 13
+    },
+    {
+      "aar": 1882,
+      "enkeltfoedsler": 65292,
+      "tvillingefoedsler": 834,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1883,
+      "enkeltfoedsler": 64495,
+      "tvillingefoedsler": 937,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1884,
+      "enkeltfoedsler": 68349,
+      "tvillingefoedsler": 948,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1885,
+      "enkeltfoedsler": 67715,
+      "tvillingefoedsler": 880,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 1886,
+      "enkeltfoedsler": 68107,
+      "tvillingefoedsler": 951,
+      "trillinge_og_firlingefoedsler": 7
+    },
+    {
+      "aar": 1887,
+      "enkeltfoedsler": 67659,
+      "tvillingefoedsler": 864,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1888,
+      "enkeltfoedsler": 67277,
+      "tvillingefoedsler": 955,
+      "trillinge_og_firlingefoedsler": 11
+    },
+    {
+      "aar": 1889,
+      "enkeltfoedsler": 67394,
+      "tvillingefoedsler": 906,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1890,
+      "enkeltfoedsler": 66214,
+      "tvillingefoedsler": 932,
+      "trillinge_og_firlingefoedsler": 11
+    },
+    {
+      "aar": 1891,
+      "enkeltfoedsler": 67690,
+      "tvillingefoedsler": 969,
+      "trillinge_og_firlingefoedsler": 12
+    },
+    {
+      "aar": 1892,
+      "enkeltfoedsler": 65243,
+      "tvillingefoedsler": 934,
+      "trillinge_og_firlingefoedsler": 17
+    },
+    {
+      "aar": 1893,
+      "enkeltfoedsler": 68278,
+      "tvillingefoedsler": 980,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 1894,
+      "enkeltfoedsler": 68047,
+      "tvillingefoedsler": 948,
+      "trillinge_og_firlingefoedsler": 11
+    },
+    {
+      "aar": 1895,
+      "enkeltfoedsler": 68614,
+      "tvillingefoedsler": 976,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1896,
+      "enkeltfoedsler": 70082,
+      "tvillingefoedsler": 940,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1897,
+      "enkeltfoedsler": 69466,
+      "tvillingefoedsler": 946,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1898,
+      "enkeltfoedsler": 71511,
+      "tvillingefoedsler": 975,
+      "trillinge_og_firlingefoedsler": 16
+    },
+    {
+      "aar": 1899,
+      "enkeltfoedsler": 71253,
+      "tvillingefoedsler": 920,
+      "trillinge_og_firlingefoedsler": 11
+    },
+    {
+      "aar": 1900,
+      "enkeltfoedsler": 71841,
+      "tvillingefoedsler": 1003,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1901,
+      "enkeltfoedsler": 72990,
+      "tvillingefoedsler": 1006,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1902,
+      "enkeltfoedsler": 72710,
+      "tvillingefoedsler": 933,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1903,
+      "enkeltfoedsler": 72070,
+      "tvillingefoedsler": 991,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 1904,
+      "enkeltfoedsler": 73350,
+      "tvillingefoedsler": 1042,
+      "trillinge_og_firlingefoedsler": 11
+    },
+    {
+      "aar": 1905,
+      "enkeltfoedsler": 72767,
+      "tvillingefoedsler": 1030,
+      "trillinge_og_firlingefoedsler": 12
+    },
+    {
+      "aar": 1906,
+      "enkeltfoedsler": 73747,
+      "tvillingefoedsler": 1073,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 1907,
+      "enkeltfoedsler": 73921,
+      "tvillingefoedsler": 1101,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1908,
+      "enkeltfoedsler": 75931,
+      "tvillingefoedsler": 1060,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1909,
+      "enkeltfoedsler": 75776,
+      "tvillingefoedsler": 1152,
+      "trillinge_og_firlingefoedsler": 12
+    },
+    {
+      "aar": 1910,
+      "enkeltfoedsler": 74810,
+      "tvillingefoedsler": 1128,
+      "trillinge_og_firlingefoedsler": 5
+    },
+    {
+      "aar": 1911,
+      "enkeltfoedsler": 73371,
+      "tvillingefoedsler": 1131,
+      "trillinge_og_firlingefoedsler": 17
+    },
+    {
+      "aar": 1912,
+      "enkeltfoedsler": 74073,
+      "tvillingefoedsler": 1161,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1913,
+      "enkeltfoedsler": 71826,
+      "tvillingefoedsler": 1177,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1914,
+      "enkeltfoedsler": 72736,
+      "tvillingefoedsler": 1133,
+      "trillinge_og_firlingefoedsler": 7
+    },
+    {
+      "aar": 1915,
+      "enkeltfoedsler": 69731,
+      "tvillingefoedsler": 1094,
+      "trillinge_og_firlingefoedsler": 16
+    },
+    {
+      "aar": 1916,
+      "enkeltfoedsler": 71131,
+      "tvillingefoedsler": 1099,
+      "trillinge_og_firlingefoedsler": 13
+    },
+    {
+      "aar": 1917,
+      "enkeltfoedsler": 69849,
+      "tvillingefoedsler": 1109,
+      "trillinge_og_firlingefoedsler": 11
+    },
+    {
+      "aar": 1918,
+      "enkeltfoedsler": 72093,
+      "tvillingefoedsler": 1131,
+      "trillinge_og_firlingefoedsler": 11
+    },
+    {
+      "aar": 1919,
+      "enkeltfoedsler": 68303,
+      "tvillingefoedsler": 1045,
+      "trillinge_og_firlingefoedsler": 15
+    },
+    {
+      "aar": 1920,
+      "enkeltfoedsler": 77666,
+      "tvillingefoedsler": 1261,
+      "trillinge_og_firlingefoedsler": 13
+    },
+    {
+      "aar": 1921,
+      "enkeltfoedsler": 78154,
+      "tvillingefoedsler": 1309,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 1922,
+      "enkeltfoedsler": 73392,
+      "tvillingefoedsler": 1135,
+      "trillinge_og_firlingefoedsler": 18
+    },
+    {
+      "aar": 1923,
+      "enkeltfoedsler": 74229,
+      "tvillingefoedsler": 1196,
+      "trillinge_og_firlingefoedsler": 15
+    },
+    {
+      "aar": 1924,
+      "enkeltfoedsler": 73239,
+      "tvillingefoedsler": 1176,
+      "trillinge_og_firlingefoedsler": 16
+    },
+    {
+      "aar": 1925,
+      "enkeltfoedsler": 71502,
+      "tvillingefoedsler": 1051,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1926,
+      "enkeltfoedsler": 70043,
+      "tvillingefoedsler": 1146,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 1927,
+      "enkeltfoedsler": 67394,
+      "tvillingefoedsler": 1099,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1928,
+      "enkeltfoedsler": 67980,
+      "tvillingefoedsler": 1071,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1929,
+      "enkeltfoedsler": 64703,
+      "tvillingefoedsler": 1093,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1930,
+      "enkeltfoedsler": 65701,
+      "tvillingefoedsler": 1083,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1931,
+      "enkeltfoedsler": 63854,
+      "tvillingefoedsler": 975,
+      "trillinge_og_firlingefoedsler": 12
+    },
+    {
+      "aar": 1932,
+      "enkeltfoedsler": 64095,
+      "tvillingefoedsler": 1022,
+      "trillinge_og_firlingefoedsler": 11
+    },
+    {
+      "aar": 1933,
+      "enkeltfoedsler": 62523,
+      "tvillingefoedsler": 951,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1934,
+      "enkeltfoedsler": 64734,
+      "tvillingefoedsler": 1027,
+      "trillinge_og_firlingefoedsler": 11
+    },
+    {
+      "aar": 1935,
+      "enkeltfoedsler": 64746,
+      "tvillingefoedsler": 1058,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 1936,
+      "enkeltfoedsler": 66180,
+      "tvillingefoedsler": 976,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 1937,
+      "enkeltfoedsler": 67070,
+      "tvillingefoedsler": 1045,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 1938,
+      "enkeltfoedsler": 68225,
+      "tvillingefoedsler": 981,
+      "trillinge_og_firlingefoedsler": 13
+    },
+    {
+      "aar": 1939,
+      "enkeltfoedsler": 67704,
+      "tvillingefoedsler": 1002,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1940,
+      "enkeltfoedsler": 69725,
+      "tvillingefoedsler": 1090,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1941,
+      "enkeltfoedsler": 70903,
+      "tvillingefoedsler": 1025,
+      "trillinge_og_firlingefoedsler": 11
+    },
+    {
+      "aar": 1942,
+      "enkeltfoedsler": 78913,
+      "tvillingefoedsler": 1147,
+      "trillinge_og_firlingefoedsler": 12
+    },
+    {
+      "aar": 1943,
+      "enkeltfoedsler": 83514,
+      "tvillingefoedsler": 1300,
+      "trillinge_og_firlingefoedsler": 12
+    },
+    {
+      "aar": 1944,
+      "enkeltfoedsler": 89776,
+      "tvillingefoedsler": 1314,
+      "trillinge_og_firlingefoedsler": 16
+    },
+    {
+      "aar": 1945,
+      "enkeltfoedsler": 94021,
+      "tvillingefoedsler": 1439,
+      "trillinge_og_firlingefoedsler": 15
+    },
+    {
+      "aar": 1946,
+      "enkeltfoedsler": 95099,
+      "tvillingefoedsler": 1397,
+      "trillinge_og_firlingefoedsler": 17
+    },
+    {
+      "aar": 1947,
+      "enkeltfoedsler": 90579,
+      "tvillingefoedsler": 1353,
+      "trillinge_og_firlingefoedsler": 19
+    },
+    {
+      "aar": 1948,
+      "enkeltfoedsler": 83954,
+      "tvillingefoedsler": 1251,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1949,
+      "enkeltfoedsler": 79049,
+      "tvillingefoedsler": 1099,
+      "trillinge_og_firlingefoedsler": 13
+    },
+    {
+      "aar": 1950,
+      "enkeltfoedsler": 78885,
+      "tvillingefoedsler": 1068,
+      "trillinge_og_firlingefoedsler": 12
+    },
+    {
+      "aar": 1951,
+      "enkeltfoedsler": 75940,
+      "tvillingefoedsler": 1008,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1952,
+      "enkeltfoedsler": 76196,
+      "tvillingefoedsler": 1046,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1953,
+      "enkeltfoedsler": 77627,
+      "tvillingefoedsler": 1061,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1954,
+      "enkeltfoedsler": 75837,
+      "tvillingefoedsler": 1006,
+      "trillinge_og_firlingefoedsler": 5
+    },
+    {
+      "aar": 1955,
+      "enkeltfoedsler": 76158,
+      "tvillingefoedsler": 1031,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1956,
+      "enkeltfoedsler": 76172,
+      "tvillingefoedsler": 953,
+      "trillinge_og_firlingefoedsler": 3
+    },
+    {
+      "aar": 1957,
+      "enkeltfoedsler": 74499,
+      "tvillingefoedsler": 945,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 1958,
+      "enkeltfoedsler": 73921,
+      "tvillingefoedsler": 958,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1959,
+      "enkeltfoedsler": 73134,
+      "tvillingefoedsler": 922,
+      "trillinge_og_firlingefoedsler": 15
+    },
+    {
+      "aar": 1960,
+      "enkeltfoedsler": 75209,
+      "tvillingefoedsler": 901,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1961,
+      "enkeltfoedsler": 75518,
+      "tvillingefoedsler": 931,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1962,
+      "enkeltfoedsler": 76838,
+      "tvillingefoedsler": 937,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1963,
+      "enkeltfoedsler": 81525,
+      "tvillingefoedsler": 909,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1964,
+      "enkeltfoedsler": 82235,
+      "tvillingefoedsler": 997,
+      "trillinge_og_firlingefoedsler": 11
+    },
+    {
+      "aar": 1965,
+      "enkeltfoedsler": 84761,
+      "tvillingefoedsler": 970,
+      "trillinge_og_firlingefoedsler": 12
+    },
+    {
+      "aar": 1966,
+      "enkeltfoedsler": 87289,
+      "tvillingefoedsler": 947,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1967,
+      "enkeltfoedsler": 80366,
+      "tvillingefoedsler": 864,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 1968,
+      "enkeltfoedsler": 73537,
+      "tvillingefoedsler": 812,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1969,
+      "enkeltfoedsler": 70414,
+      "tvillingefoedsler": 740,
+      "trillinge_og_firlingefoedsler": 5
+    },
+    {
+      "aar": 1970,
+      "enkeltfoedsler": 70053,
+      "tvillingefoedsler": 666,
+      "trillinge_og_firlingefoedsler": 7
+    },
+    {
+      "aar": 1971,
+      "enkeltfoedsler": 74408,
+      "tvillingefoedsler": 764,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 1972,
+      "enkeltfoedsler": 74669,
+      "tvillingefoedsler": 684,
+      "trillinge_og_firlingefoedsler": 15
+    },
+    {
+      "aar": 1973,
+      "enkeltfoedsler": 70998,
+      "tvillingefoedsler": 702,
+      "trillinge_og_firlingefoedsler": 5
+    },
+    {
+      "aar": 1974,
+      "enkeltfoedsler": 70350,
+      "tvillingefoedsler": 700,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1975,
+      "enkeltfoedsler": 71127,
+      "tvillingefoedsler": 691,
+      "trillinge_og_firlingefoedsler": 15
+    },
+    {
+      "aar": 1976,
+      "enkeltfoedsler": 64434,
+      "tvillingefoedsler": 623,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1977,
+      "enkeltfoedsler": 61036,
+      "tvillingefoedsler": 593,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1978,
+      "enkeltfoedsler": 61129,
+      "tvillingefoedsler": 622,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 1979,
+      "enkeltfoedsler": 58509,
+      "tvillingefoedsler": 626,
+      "trillinge_og_firlingefoedsler": 4
+    },
+    {
+      "aar": 1980,
+      "enkeltfoedsler": 56364,
+      "tvillingefoedsler": 582,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1981,
+      "enkeltfoedsler": 52311,
+      "tvillingefoedsler": 519,
+      "trillinge_og_firlingefoedsler": 7
+    },
+    {
+      "aar": 1982,
+      "enkeltfoedsler": 51845,
+      "tvillingefoedsler": 532,
+      "trillinge_og_firlingefoedsler": 6
+    },
+    {
+      "aar": 1983,
+      "enkeltfoedsler": 50026,
+      "tvillingefoedsler": 518,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1984,
+      "enkeltfoedsler": 50875,
+      "tvillingefoedsler": 567,
+      "trillinge_og_firlingefoedsler": 7
+    },
+    {
+      "aar": 1985,
+      "enkeltfoedsler": 52794,
+      "tvillingefoedsler": 587,
+      "trillinge_og_firlingefoedsler": 7
+    },
+    {
+      "aar": 1986,
+      "enkeltfoedsler": 54376,
+      "tvillingefoedsler": 577,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1987,
+      "enkeltfoedsler": 55251,
+      "tvillingefoedsler": 617,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 1988,
+      "enkeltfoedsler": 57776,
+      "tvillingefoedsler": 662,
+      "trillinge_og_firlingefoedsler": 12
+    },
+    {
+      "aar": 1989,
+      "enkeltfoedsler": 60232,
+      "tvillingefoedsler": 690,
+      "trillinge_og_firlingefoedsler": 18
+    },
+    {
+      "aar": 1990,
+      "enkeltfoedsler": 62252,
+      "tvillingefoedsler": 712,
+      "trillinge_og_firlingefoedsler": 18
+    },
+    {
+      "aar": 1991,
+      "enkeltfoedsler": 62907,
+      "tvillingefoedsler": 840,
+      "trillinge_og_firlingefoedsler": 22
+    },
+    {
+      "aar": 1992,
+      "enkeltfoedsler": 66121,
+      "tvillingefoedsler": 923,
+      "trillinge_og_firlingefoedsler": 32
+    },
+    {
+      "aar": 1993,
+      "enkeltfoedsler": 65544,
+      "tvillingefoedsler": 1022,
+      "trillinge_og_firlingefoedsler": 29
+    },
+    {
+      "aar": 1994,
+      "enkeltfoedsler": 67589,
+      "tvillingefoedsler": 1137,
+      "trillinge_og_firlingefoedsler": 37
+    },
+    {
+      "aar": 1995,
+      "enkeltfoedsler": 67726,
+      "tvillingefoedsler": 1123,
+      "trillinge_og_firlingefoedsler": 39
+    },
+    {
+      "aar": 1996,
+      "enkeltfoedsler": 65430,
+      "tvillingefoedsler": 1207,
+      "trillinge_og_firlingefoedsler": 39
+    },
+    {
+      "aar": 1997,
+      "enkeltfoedsler": 65443,
+      "tvillingefoedsler": 1222,
+      "trillinge_og_firlingefoedsler": 28
+    },
+    {
+      "aar": 1998,
+      "enkeltfoedsler": 63863,
+      "tvillingefoedsler": 1252,
+      "trillinge_og_firlingefoedsler": 27
+    },
+    {
+      "aar": 1999,
+      "enkeltfoedsler": 63943,
+      "tvillingefoedsler": 1256,
+      "trillinge_og_firlingefoedsler": 25
+    },
+    {
+      "aar": 2000,
+      "enkeltfoedsler": 64692,
+      "tvillingefoedsler": 1286,
+      "trillinge_og_firlingefoedsler": 20
+    },
+    {
+      "aar": 2001,
+      "enkeltfoedsler": 62751,
+      "tvillingefoedsler": 1390,
+      "trillinge_og_firlingefoedsler": 22
+    },
+    {
+      "aar": 2002,
+      "enkeltfoedsler": 61457,
+      "tvillingefoedsler": 1356,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 2003,
+      "enkeltfoedsler": 61978,
+      "tvillingefoedsler": 1368,
+      "trillinge_og_firlingefoedsler": 23
+    },
+    {
+      "aar": 2004,
+      "enkeltfoedsler": 61996,
+      "tvillingefoedsler": 1400,
+      "trillinge_og_firlingefoedsler": 31
+    },
+    {
+      "aar": 2005,
+      "enkeltfoedsler": 61653,
+      "tvillingefoedsler": 1404,
+      "trillinge_og_firlingefoedsler": 28
+    },
+    {
+      "aar": 2006,
+      "enkeltfoedsler": 62353,
+      "tvillingefoedsler": 1415,
+      "trillinge_og_firlingefoedsler": 15
+    },
+    {
+      "aar": 2007,
+      "enkeltfoedsler": 61586,
+      "tvillingefoedsler": 1372,
+      "trillinge_og_firlingefoedsler": 18
+    },
+    {
+      "aar": 2008,
+      "enkeltfoedsler": 62411,
+      "tvillingefoedsler": 1431,
+      "trillinge_og_firlingefoedsler": 14
+    },
+    {
+      "aar": 2009,
+      "enkeltfoedsler": 60328,
+      "tvillingefoedsler": 1345,
+      "trillinge_og_firlingefoedsler": 15
+    },
+    {
+      "aar": 2010,
+      "enkeltfoedsler": 60982,
+      "tvillingefoedsler": 1330,
+      "trillinge_og_firlingefoedsler": 5
+    },
+    {
+      "aar": 2011,
+      "enkeltfoedsler": 56715,
+      "tvillingefoedsler": 1237,
+      "trillinge_og_firlingefoedsler": 18
+    },
+    {
+      "aar": 2012,
+      "enkeltfoedsler": 55669,
+      "tvillingefoedsler": 1219,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 2013,
+      "enkeltfoedsler": 53718,
+      "tvillingefoedsler": 1163,
+      "trillinge_og_firlingefoedsler": 13
+    },
+    {
+      "aar": 2014,
+      "enkeltfoedsler": 54949,
+      "tvillingefoedsler": 1058,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 2015,
+      "enkeltfoedsler": 56443,
+      "tvillingefoedsler": 961,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 2016,
+      "enkeltfoedsler": 59739,
+      "tvillingefoedsler": 1042,
+      "trillinge_og_firlingefoedsler": 9
+    },
+    {
+      "aar": 2017,
+      "enkeltfoedsler": 59544,
+      "tvillingefoedsler": 1037,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 2018,
+      "enkeltfoedsler": 59810,
+      "tvillingefoedsler": 928,
+      "trillinge_og_firlingefoedsler": 4
+    },
+    {
+      "aar": 2019,
+      "enkeltfoedsler": 59491,
+      "tvillingefoedsler": 839,
+      "trillinge_og_firlingefoedsler": 8
+    },
+    {
+      "aar": 2020,
+      "enkeltfoedsler": 59228,
+      "tvillingefoedsler": 856,
+      "trillinge_og_firlingefoedsler": 4
+    },
+    {
+      "aar": 2021,
+      "enkeltfoedsler": 61667,
+      "tvillingefoedsler": 907,
+      "trillinge_og_firlingefoedsler": 5
+    },
+    {
+      "aar": 2022,
+      "enkeltfoedsler": 56807,
+      "tvillingefoedsler": 800,
+      "trillinge_og_firlingefoedsler": 10
+    },
+    {
+      "aar": 2023,
+      "enkeltfoedsler": 55864,
+      "tvillingefoedsler": 808,
+      "trillinge_og_firlingefoedsler": 4
+    },
+    {
+      "aar": 2024,
+      "enkeltfoedsler": 55550,
+      "tvillingefoedsler": 767,
+      "trillinge_og_firlingefoedsler": 4
+    },
+    {
+      "aar": 2025,
+      "enkeltfoedsler": 57883,
+      "tvillingefoedsler": 773,
+      "trillinge_og_firlingefoedsler": 10
+    }
+  ],
+  "meta": {
+    "title": "Enkelt- og flerfødsler i Danmark siden 1850 - Free Download",
+    "description": "Årligt antal enkeltfødsler, tvillingefødsler samt trillinge- og firlingefødsler i Danmark fra 1850. Contains 176 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Enkelt- og flerfødsler i Danmark siden 1850 | ListBase",
+    "seo_description": "Download Enkelt- og flerfødsler i Danmark siden 1850 — 176 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 176 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/FOD8"
+    ]
+  }
+}

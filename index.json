@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-12T02:10:33.544Z",
-  "total_datasets": 493,
-  "total_records": 240572,
+  "generated": "2026-11-13T02:24:06.056Z",
+  "total_datasets": 494,
+  "total_records": 240748,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -12011,6 +12011,31 @@
         "xlsx": {
           "name": "da-byomraader-folketal-2012-2026_DA.xlsx",
           "size": 31959
+        }
+      }
+    },
+    {
+      "id": "da-enkelt-og-flerfoedsler",
+      "name": "Enkelt- og flerfødsler i Danmark siden 1850",
+      "category": "society",
+      "record_count": 176,
+      "columns": [
+        "aar",
+        "enkeltfoedsler",
+        "tvillingefoedsler",
+        "trillinge_og_firlingefoedsler"
+      ],
+      "source": "https://www.statistikbanken.dk/FOD8",
+      "updated": "2026-11",
+      "size": 25716,
+      "files": {
+        "csv": {
+          "name": "da-enkelt-og-flerfoedsler_DA.csv",
+          "size": 4659
+        },
+        "xlsx": {
+          "name": "da-enkelt-og-flerfoedsler_DA.xlsx",
+          "size": 10888
         }
       }
     },
