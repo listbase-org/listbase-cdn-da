@@ -1,0 +1,3490 @@
+{
+  "id": "da-erklaerede-konkurser-maanedlig",
+  "name": "Erklærede konkurser i Danmark pr. måned siden 1979",
+  "title": "Erklærede konkurser i Danmark pr. måned siden 1979",
+  "description": "Antal erklærede konkurser i Danmark pr. måned fra 1979, både faktiske tal og sæsonkorrigerede tal (historisk sammendrag).",
+  "category": "economy",
+  "source": "https://www.statistikbanken.dk/KONK9",
+  "source_url": "https://www.statistikbanken.dk/KONK9",
+  "updated": "2026-11",
+  "record_count": 574,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "maaned",
+      "label": "Maaned",
+      "type": "number"
+    },
+    {
+      "key": "konkurser",
+      "label": "Konkurser",
+      "type": "number"
+    },
+    {
+      "key": "konkurser_saesonkorrigeret",
+      "label": "Konkurser Saesonkorrigeret",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1979,
+      "maaned": 1,
+      "konkurser": 112,
+      "konkurser_saesonkorrigeret": 127
+    },
+    {
+      "aar": 1979,
+      "maaned": 2,
+      "konkurser": 79,
+      "konkurser_saesonkorrigeret": 73
+    },
+    {
+      "aar": 1979,
+      "maaned": 3,
+      "konkurser": 98,
+      "konkurser_saesonkorrigeret": 88
+    },
+    {
+      "aar": 1979,
+      "maaned": 4,
+      "konkurser": 69,
+      "konkurser_saesonkorrigeret": 69
+    },
+    {
+      "aar": 1979,
+      "maaned": 5,
+      "konkurser": 90,
+      "konkurser_saesonkorrigeret": 97
+    },
+    {
+      "aar": 1979,
+      "maaned": 6,
+      "konkurser": 92,
+      "konkurser_saesonkorrigeret": 99
+    },
+    {
+      "aar": 1979,
+      "maaned": 7,
+      "konkurser": 101,
+      "konkurser_saesonkorrigeret": 111
+    },
+    {
+      "aar": 1979,
+      "maaned": 8,
+      "konkurser": 106,
+      "konkurser_saesonkorrigeret": 110
+    },
+    {
+      "aar": 1979,
+      "maaned": 9,
+      "konkurser": 116,
+      "konkurser_saesonkorrigeret": 105
+    },
+    {
+      "aar": 1979,
+      "maaned": 10,
+      "konkurser": 108,
+      "konkurser_saesonkorrigeret": 106
+    },
+    {
+      "aar": 1979,
+      "maaned": 11,
+      "konkurser": 118,
+      "konkurser_saesonkorrigeret": 110
+    },
+    {
+      "aar": 1979,
+      "maaned": 12,
+      "konkurser": 86,
+      "konkurser_saesonkorrigeret": 87
+    },
+    {
+      "aar": 1980,
+      "maaned": 1,
+      "konkurser": 110,
+      "konkurser_saesonkorrigeret": 125
+    },
+    {
+      "aar": 1980,
+      "maaned": 2,
+      "konkurser": 139,
+      "konkurser_saesonkorrigeret": 128
+    },
+    {
+      "aar": 1980,
+      "maaned": 3,
+      "konkurser": 138,
+      "konkurser_saesonkorrigeret": 128
+    },
+    {
+      "aar": 1980,
+      "maaned": 4,
+      "konkurser": 139,
+      "konkurser_saesonkorrigeret": 135
+    },
+    {
+      "aar": 1980,
+      "maaned": 5,
+      "konkurser": 122,
+      "konkurser_saesonkorrigeret": 131
+    },
+    {
+      "aar": 1980,
+      "maaned": 6,
+      "konkurser": 128,
+      "konkurser_saesonkorrigeret": 137
+    },
+    {
+      "aar": 1980,
+      "maaned": 7,
+      "konkurser": 134,
+      "konkurser_saesonkorrigeret": 149
+    },
+    {
+      "aar": 1980,
+      "maaned": 8,
+      "konkurser": 194,
+      "konkurser_saesonkorrigeret": 203
+    },
+    {
+      "aar": 1980,
+      "maaned": 9,
+      "konkurser": 213,
+      "konkurser_saesonkorrigeret": 193
+    },
+    {
+      "aar": 1980,
+      "maaned": 10,
+      "konkurser": 187,
+      "konkurser_saesonkorrigeret": 182
+    },
+    {
+      "aar": 1980,
+      "maaned": 11,
+      "konkurser": 238,
+      "konkurser_saesonkorrigeret": 220
+    },
+    {
+      "aar": 1980,
+      "maaned": 12,
+      "konkurser": 193,
+      "konkurser_saesonkorrigeret": 195
+    },
+    {
+      "aar": 1981,
+      "maaned": 1,
+      "konkurser": 189,
+      "konkurser_saesonkorrigeret": 216
+    },
+    {
+      "aar": 1981,
+      "maaned": 2,
+      "konkurser": 212,
+      "konkurser_saesonkorrigeret": 195
+    },
+    {
+      "aar": 1981,
+      "maaned": 3,
+      "konkurser": 229,
+      "konkurser_saesonkorrigeret": 208
+    },
+    {
+      "aar": 1981,
+      "maaned": 4,
+      "konkurser": 210,
+      "konkurser_saesonkorrigeret": 210
+    },
+    {
+      "aar": 1981,
+      "maaned": 5,
+      "konkurser": 204,
+      "konkurser_saesonkorrigeret": 217
+    },
+    {
+      "aar": 1981,
+      "maaned": 6,
+      "konkurser": 222,
+      "konkurser_saesonkorrigeret": 237
+    },
+    {
+      "aar": 1981,
+      "maaned": 7,
+      "konkurser": 224,
+      "konkurser_saesonkorrigeret": 254
+    },
+    {
+      "aar": 1981,
+      "maaned": 8,
+      "konkurser": 199,
+      "konkurser_saesonkorrigeret": 208
+    },
+    {
+      "aar": 1981,
+      "maaned": 9,
+      "konkurser": 226,
+      "konkurser_saesonkorrigeret": 206
+    },
+    {
+      "aar": 1981,
+      "maaned": 10,
+      "konkurser": 212,
+      "konkurser_saesonkorrigeret": 203
+    },
+    {
+      "aar": 1981,
+      "maaned": 11,
+      "konkurser": 185,
+      "konkurser_saesonkorrigeret": 169
+    },
+    {
+      "aar": 1981,
+      "maaned": 12,
+      "konkurser": 203,
+      "konkurser_saesonkorrigeret": 205
+    },
+    {
+      "aar": 1982,
+      "maaned": 1,
+      "konkurser": 159,
+      "konkurser_saesonkorrigeret": 182
+    },
+    {
+      "aar": 1982,
+      "maaned": 2,
+      "konkurser": 239,
+      "konkurser_saesonkorrigeret": 219
+    },
+    {
+      "aar": 1982,
+      "maaned": 3,
+      "konkurser": 236,
+      "konkurser_saesonkorrigeret": 215
+    },
+    {
+      "aar": 1982,
+      "maaned": 4,
+      "konkurser": 217,
+      "konkurser_saesonkorrigeret": 217
+    },
+    {
+      "aar": 1982,
+      "maaned": 5,
+      "konkurser": 219,
+      "konkurser_saesonkorrigeret": 230
+    },
+    {
+      "aar": 1982,
+      "maaned": 6,
+      "konkurser": 187,
+      "konkurser_saesonkorrigeret": 199
+    },
+    {
+      "aar": 1982,
+      "maaned": 7,
+      "konkurser": 182,
+      "konkurser_saesonkorrigeret": 209
+    },
+    {
+      "aar": 1982,
+      "maaned": 8,
+      "konkurser": 200,
+      "konkurser_saesonkorrigeret": 210
+    },
+    {
+      "aar": 1982,
+      "maaned": 9,
+      "konkurser": 234,
+      "konkurser_saesonkorrigeret": 215
+    },
+    {
+      "aar": 1982,
+      "maaned": 10,
+      "konkurser": 217,
+      "konkurser_saesonkorrigeret": 206
+    },
+    {
+      "aar": 1982,
+      "maaned": 11,
+      "konkurser": 192,
+      "konkurser_saesonkorrigeret": 174
+    },
+    {
+      "aar": 1982,
+      "maaned": 12,
+      "konkurser": 183,
+      "konkurser_saesonkorrigeret": 184
+    },
+    {
+      "aar": 1983,
+      "maaned": 1,
+      "konkurser": 182,
+      "konkurser_saesonkorrigeret": 210
+    },
+    {
+      "aar": 1983,
+      "maaned": 2,
+      "konkurser": 172,
+      "konkurser_saesonkorrigeret": 158
+    },
+    {
+      "aar": 1983,
+      "maaned": 3,
+      "konkurser": 164,
+      "konkurser_saesonkorrigeret": 165
+    },
+    {
+      "aar": 1983,
+      "maaned": 4,
+      "konkurser": 190,
+      "konkurser_saesonkorrigeret": 173
+    },
+    {
+      "aar": 1983,
+      "maaned": 5,
+      "konkurser": 134,
+      "konkurser_saesonkorrigeret": 140
+    },
+    {
+      "aar": 1983,
+      "maaned": 6,
+      "konkurser": 174,
+      "konkurser_saesonkorrigeret": 184
+    },
+    {
+      "aar": 1983,
+      "maaned": 7,
+      "konkurser": 153,
+      "konkurser_saesonkorrigeret": 178
+    },
+    {
+      "aar": 1983,
+      "maaned": 8,
+      "konkurser": 117,
+      "konkurser_saesonkorrigeret": 124
+    },
+    {
+      "aar": 1983,
+      "maaned": 9,
+      "konkurser": 144,
+      "konkurser_saesonkorrigeret": 133
+    },
+    {
+      "aar": 1983,
+      "maaned": 10,
+      "konkurser": 132,
+      "konkurser_saesonkorrigeret": 125
+    },
+    {
+      "aar": 1983,
+      "maaned": 11,
+      "konkurser": 168,
+      "konkurser_saesonkorrigeret": 150
+    },
+    {
+      "aar": 1983,
+      "maaned": 12,
+      "konkurser": 134,
+      "konkurser_saesonkorrigeret": 133
+    },
+    {
+      "aar": 1984,
+      "maaned": 1,
+      "konkurser": 114,
+      "konkurser_saesonkorrigeret": 133
+    },
+    {
+      "aar": 1984,
+      "maaned": 2,
+      "konkurser": 149,
+      "konkurser_saesonkorrigeret": 137
+    },
+    {
+      "aar": 1984,
+      "maaned": 3,
+      "konkurser": 133,
+      "konkurser_saesonkorrigeret": 122
+    },
+    {
+      "aar": 1984,
+      "maaned": 4,
+      "konkurser": 92,
+      "konkurser_saesonkorrigeret": 93
+    },
+    {
+      "aar": 1984,
+      "maaned": 5,
+      "konkurser": 121,
+      "konkurser_saesonkorrigeret": 126
+    },
+    {
+      "aar": 1984,
+      "maaned": 6,
+      "konkurser": 124,
+      "konkurser_saesonkorrigeret": 129
+    },
+    {
+      "aar": 1984,
+      "maaned": 7,
+      "konkurser": 93,
+      "konkurser_saesonkorrigeret": 109
+    },
+    {
+      "aar": 1984,
+      "maaned": 8,
+      "konkurser": 119,
+      "konkurser_saesonkorrigeret": 128
+    },
+    {
+      "aar": 1984,
+      "maaned": 9,
+      "konkurser": 142,
+      "konkurser_saesonkorrigeret": 131
+    },
+    {
+      "aar": 1984,
+      "maaned": 10,
+      "konkurser": 147,
+      "konkurser_saesonkorrigeret": 137
+    },
+    {
+      "aar": 1984,
+      "maaned": 11,
+      "konkurser": 124,
+      "konkurser_saesonkorrigeret": 111
+    },
+    {
+      "aar": 1984,
+      "maaned": 12,
+      "konkurser": 140,
+      "konkurser_saesonkorrigeret": 138
+    },
+    {
+      "aar": 1985,
+      "maaned": 1,
+      "konkurser": 119,
+      "konkurser_saesonkorrigeret": 140
+    },
+    {
+      "aar": 1985,
+      "maaned": 2,
+      "konkurser": 145,
+      "konkurser_saesonkorrigeret": 133
+    },
+    {
+      "aar": 1985,
+      "maaned": 3,
+      "konkurser": 144,
+      "konkurser_saesonkorrigeret": 133
+    },
+    {
+      "aar": 1985,
+      "maaned": 4,
+      "konkurser": 123,
+      "konkurser_saesonkorrigeret": 125
+    },
+    {
+      "aar": 1985,
+      "maaned": 5,
+      "konkurser": 123,
+      "konkurser_saesonkorrigeret": 128
+    },
+    {
+      "aar": 1985,
+      "maaned": 6,
+      "konkurser": 111,
+      "konkurser_saesonkorrigeret": 114
+    },
+    {
+      "aar": 1985,
+      "maaned": 7,
+      "konkurser": 93,
+      "konkurser_saesonkorrigeret": 111
+    },
+    {
+      "aar": 1985,
+      "maaned": 8,
+      "konkurser": 117,
+      "konkurser_saesonkorrigeret": 128
+    },
+    {
+      "aar": 1985,
+      "maaned": 9,
+      "konkurser": 125,
+      "konkurser_saesonkorrigeret": 115
+    },
+    {
+      "aar": 1985,
+      "maaned": 10,
+      "konkurser": 142,
+      "konkurser_saesonkorrigeret": 130
+    },
+    {
+      "aar": 1985,
+      "maaned": 11,
+      "konkurser": 156,
+      "konkurser_saesonkorrigeret": 139
+    },
+    {
+      "aar": 1985,
+      "maaned": 12,
+      "konkurser": 106,
+      "konkurser_saesonkorrigeret": 105
+    },
+    {
+      "aar": 1986,
+      "maaned": 1,
+      "konkurser": 87,
+      "konkurser_saesonkorrigeret": 102
+    },
+    {
+      "aar": 1986,
+      "maaned": 2,
+      "konkurser": 118,
+      "konkurser_saesonkorrigeret": 108
+    },
+    {
+      "aar": 1986,
+      "maaned": 3,
+      "konkurser": 104,
+      "konkurser_saesonkorrigeret": 110
+    },
+    {
+      "aar": 1986,
+      "maaned": 4,
+      "konkurser": 134,
+      "konkurser_saesonkorrigeret": 120
+    },
+    {
+      "aar": 1986,
+      "maaned": 5,
+      "konkurser": 128,
+      "konkurser_saesonkorrigeret": 133
+    },
+    {
+      "aar": 1986,
+      "maaned": 6,
+      "konkurser": 103,
+      "konkurser_saesonkorrigeret": 105
+    },
+    {
+      "aar": 1986,
+      "maaned": 7,
+      "konkurser": 94,
+      "konkurser_saesonkorrigeret": 113
+    },
+    {
+      "aar": 1986,
+      "maaned": 8,
+      "konkurser": 114,
+      "konkurser_saesonkorrigeret": 126
+    },
+    {
+      "aar": 1986,
+      "maaned": 9,
+      "konkurser": 123,
+      "konkurser_saesonkorrigeret": 114
+    },
+    {
+      "aar": 1986,
+      "maaned": 10,
+      "konkurser": 128,
+      "konkurser_saesonkorrigeret": 116
+    },
+    {
+      "aar": 1986,
+      "maaned": 11,
+      "konkurser": 161,
+      "konkurser_saesonkorrigeret": 143
+    },
+    {
+      "aar": 1986,
+      "maaned": 12,
+      "konkurser": 132,
+      "konkurser_saesonkorrigeret": 131
+    },
+    {
+      "aar": 1987,
+      "maaned": 1,
+      "konkurser": 109,
+      "konkurser_saesonkorrigeret": 128
+    },
+    {
+      "aar": 1987,
+      "maaned": 2,
+      "konkurser": 147,
+      "konkurser_saesonkorrigeret": 134
+    },
+    {
+      "aar": 1987,
+      "maaned": 3,
+      "konkurser": 123,
+      "konkurser_saesonkorrigeret": 113
+    },
+    {
+      "aar": 1987,
+      "maaned": 4,
+      "konkurser": 128,
+      "konkurser_saesonkorrigeret": 134
+    },
+    {
+      "aar": 1987,
+      "maaned": 5,
+      "konkurser": 131,
+      "konkurser_saesonkorrigeret": 136
+    },
+    {
+      "aar": 1987,
+      "maaned": 6,
+      "konkurser": 145,
+      "konkurser_saesonkorrigeret": 148
+    },
+    {
+      "aar": 1987,
+      "maaned": 7,
+      "konkurser": 133,
+      "konkurser_saesonkorrigeret": 162
+    },
+    {
+      "aar": 1987,
+      "maaned": 8,
+      "konkurser": 131,
+      "konkurser_saesonkorrigeret": 145
+    },
+    {
+      "aar": 1987,
+      "maaned": 9,
+      "konkurser": 169,
+      "konkurser_saesonkorrigeret": 156
+    },
+    {
+      "aar": 1987,
+      "maaned": 10,
+      "konkurser": 182,
+      "konkurser_saesonkorrigeret": 163
+    },
+    {
+      "aar": 1987,
+      "maaned": 11,
+      "konkurser": 163,
+      "konkurser_saesonkorrigeret": 145
+    },
+    {
+      "aar": 1987,
+      "maaned": 12,
+      "konkurser": 203,
+      "konkurser_saesonkorrigeret": 201
+    },
+    {
+      "aar": 1988,
+      "maaned": 1,
+      "konkurser": 175,
+      "konkurser_saesonkorrigeret": 205
+    },
+    {
+      "aar": 1988,
+      "maaned": 2,
+      "konkurser": 195,
+      "konkurser_saesonkorrigeret": 178
+    },
+    {
+      "aar": 1988,
+      "maaned": 3,
+      "konkurser": 248,
+      "konkurser_saesonkorrigeret": 249
+    },
+    {
+      "aar": 1988,
+      "maaned": 4,
+      "konkurser": 221,
+      "konkurser_saesonkorrigeret": 212
+    },
+    {
+      "aar": 1988,
+      "maaned": 5,
+      "konkurser": 183,
+      "konkurser_saesonkorrigeret": 190
+    },
+    {
+      "aar": 1988,
+      "maaned": 6,
+      "konkurser": 220,
+      "konkurser_saesonkorrigeret": 224
+    },
+    {
+      "aar": 1988,
+      "maaned": 7,
+      "konkurser": 168,
+      "konkurser_saesonkorrigeret": 205
+    },
+    {
+      "aar": 1988,
+      "maaned": 8,
+      "konkurser": 193,
+      "konkurser_saesonkorrigeret": 216
+    },
+    {
+      "aar": 1988,
+      "maaned": 9,
+      "konkurser": 251,
+      "konkurser_saesonkorrigeret": 232
+    },
+    {
+      "aar": 1988,
+      "maaned": 10,
+      "konkurser": 211,
+      "konkurser_saesonkorrigeret": 186
+    },
+    {
+      "aar": 1988,
+      "maaned": 11,
+      "konkurser": 261,
+      "konkurser_saesonkorrigeret": 232
+    },
+    {
+      "aar": 1988,
+      "maaned": 12,
+      "konkurser": 236,
+      "konkurser_saesonkorrigeret": 235
+    },
+    {
+      "aar": 1989,
+      "maaned": 1,
+      "konkurser": 201,
+      "konkurser_saesonkorrigeret": 234
+    },
+    {
+      "aar": 1989,
+      "maaned": 2,
+      "konkurser": 253,
+      "konkurser_saesonkorrigeret": 232
+    },
+    {
+      "aar": 1989,
+      "maaned": 3,
+      "konkurser": 221,
+      "konkurser_saesonkorrigeret": 232
+    },
+    {
+      "aar": 1989,
+      "maaned": 4,
+      "konkurser": 249,
+      "konkurser_saesonkorrigeret": 230
+    },
+    {
+      "aar": 1989,
+      "maaned": 5,
+      "konkurser": 221,
+      "konkurser_saesonkorrigeret": 230
+    },
+    {
+      "aar": 1989,
+      "maaned": 6,
+      "konkurser": 240,
+      "konkurser_saesonkorrigeret": 244
+    },
+    {
+      "aar": 1989,
+      "maaned": 7,
+      "konkurser": 199,
+      "konkurser_saesonkorrigeret": 241
+    },
+    {
+      "aar": 1989,
+      "maaned": 8,
+      "konkurser": 198,
+      "konkurser_saesonkorrigeret": 224
+    },
+    {
+      "aar": 1989,
+      "maaned": 9,
+      "konkurser": 250,
+      "konkurser_saesonkorrigeret": 230
+    },
+    {
+      "aar": 1989,
+      "maaned": 10,
+      "konkurser": 270,
+      "konkurser_saesonkorrigeret": 235
+    },
+    {
+      "aar": 1989,
+      "maaned": 11,
+      "konkurser": 244,
+      "konkurser_saesonkorrigeret": 218
+    },
+    {
+      "aar": 1989,
+      "maaned": 12,
+      "konkurser": 223,
+      "konkurser_saesonkorrigeret": 221
+    },
+    {
+      "aar": 1990,
+      "maaned": 1,
+      "konkurser": 191,
+      "konkurser_saesonkorrigeret": 220
+    },
+    {
+      "aar": 1990,
+      "maaned": 2,
+      "konkurser": 269,
+      "konkurser_saesonkorrigeret": 248
+    },
+    {
+      "aar": 1990,
+      "maaned": 3,
+      "konkurser": 260,
+      "konkurser_saesonkorrigeret": 235
+    },
+    {
+      "aar": 1990,
+      "maaned": 4,
+      "konkurser": 186,
+      "konkurser_saesonkorrigeret": 200
+    },
+    {
+      "aar": 1990,
+      "maaned": 5,
+      "konkurser": 222,
+      "konkurser_saesonkorrigeret": 233
+    },
+    {
+      "aar": 1990,
+      "maaned": 6,
+      "konkurser": 225,
+      "konkurser_saesonkorrigeret": 227
+    },
+    {
+      "aar": 1990,
+      "maaned": 7,
+      "konkurser": 174,
+      "konkurser_saesonkorrigeret": 208
+    },
+    {
+      "aar": 1990,
+      "maaned": 8,
+      "konkurser": 180,
+      "konkurser_saesonkorrigeret": 207
+    },
+    {
+      "aar": 1990,
+      "maaned": 9,
+      "konkurser": 249,
+      "konkurser_saesonkorrigeret": 227
+    },
+    {
+      "aar": 1990,
+      "maaned": 10,
+      "konkurser": 238,
+      "konkurser_saesonkorrigeret": 206
+    },
+    {
+      "aar": 1990,
+      "maaned": 11,
+      "konkurser": 244,
+      "konkurser_saesonkorrigeret": 220
+    },
+    {
+      "aar": 1990,
+      "maaned": 12,
+      "konkurser": 214,
+      "konkurser_saesonkorrigeret": 213
+    },
+    {
+      "aar": 1991,
+      "maaned": 1,
+      "konkurser": 190,
+      "konkurser_saesonkorrigeret": 216
+    },
+    {
+      "aar": 1991,
+      "maaned": 2,
+      "konkurser": 271,
+      "konkurser_saesonkorrigeret": 250
+    },
+    {
+      "aar": 1991,
+      "maaned": 3,
+      "konkurser": 246,
+      "konkurser_saesonkorrigeret": 255
+    },
+    {
+      "aar": 1991,
+      "maaned": 4,
+      "konkurser": 213,
+      "konkurser_saesonkorrigeret": 201
+    },
+    {
+      "aar": 1991,
+      "maaned": 5,
+      "konkurser": 233,
+      "konkurser_saesonkorrigeret": 247
+    },
+    {
+      "aar": 1991,
+      "maaned": 6,
+      "konkurser": 228,
+      "konkurser_saesonkorrigeret": 230
+    },
+    {
+      "aar": 1991,
+      "maaned": 7,
+      "konkurser": 190,
+      "konkurser_saesonkorrigeret": 226
+    },
+    {
+      "aar": 1991,
+      "maaned": 8,
+      "konkurser": 217,
+      "konkurser_saesonkorrigeret": 251
+    },
+    {
+      "aar": 1991,
+      "maaned": 9,
+      "konkurser": 243,
+      "konkurser_saesonkorrigeret": 220
+    },
+    {
+      "aar": 1991,
+      "maaned": 10,
+      "konkurser": 270,
+      "konkurser_saesonkorrigeret": 232
+    },
+    {
+      "aar": 1991,
+      "maaned": 11,
+      "konkurser": 211,
+      "konkurser_saesonkorrigeret": 192
+    },
+    {
+      "aar": 1991,
+      "maaned": 12,
+      "konkurser": 222,
+      "konkurser_saesonkorrigeret": 221
+    },
+    {
+      "aar": 1992,
+      "maaned": 1,
+      "konkurser": 206,
+      "konkurser_saesonkorrigeret": 233
+    },
+    {
+      "aar": 1992,
+      "maaned": 2,
+      "konkurser": 224,
+      "konkurser_saesonkorrigeret": 207
+    },
+    {
+      "aar": 1992,
+      "maaned": 3,
+      "konkurser": 235,
+      "konkurser_saesonkorrigeret": 210
+    },
+    {
+      "aar": 1992,
+      "maaned": 4,
+      "konkurser": 212,
+      "konkurser_saesonkorrigeret": 233
+    },
+    {
+      "aar": 1992,
+      "maaned": 5,
+      "konkurser": 210,
+      "konkurser_saesonkorrigeret": 223
+    },
+    {
+      "aar": 1992,
+      "maaned": 6,
+      "konkurser": 207,
+      "konkurser_saesonkorrigeret": 208
+    },
+    {
+      "aar": 1992,
+      "maaned": 7,
+      "konkurser": 238,
+      "konkurser_saesonkorrigeret": 282
+    },
+    {
+      "aar": 1992,
+      "maaned": 8,
+      "konkurser": 222,
+      "konkurser_saesonkorrigeret": 258
+    },
+    {
+      "aar": 1992,
+      "maaned": 9,
+      "konkurser": 299,
+      "konkurser_saesonkorrigeret": 270
+    },
+    {
+      "aar": 1992,
+      "maaned": 10,
+      "konkurser": 336,
+      "konkurser_saesonkorrigeret": 286
+    },
+    {
+      "aar": 1992,
+      "maaned": 11,
+      "konkurser": 239,
+      "konkurser_saesonkorrigeret": 219
+    },
+    {
+      "aar": 1992,
+      "maaned": 12,
+      "konkurser": 267,
+      "konkurser_saesonkorrigeret": 267
+    },
+    {
+      "aar": 1993,
+      "maaned": 1,
+      "konkurser": 240,
+      "konkurser_saesonkorrigeret": 270
+    },
+    {
+      "aar": 1993,
+      "maaned": 2,
+      "konkurser": 261,
+      "konkurser_saesonkorrigeret": 262
+    },
+    {
+      "aar": 1993,
+      "maaned": 3,
+      "konkurser": 305,
+      "konkurser_saesonkorrigeret": 268
+    },
+    {
+      "aar": 1993,
+      "maaned": 4,
+      "konkurser": 243,
+      "konkurser_saesonkorrigeret": 278
+    },
+    {
+      "aar": 1993,
+      "maaned": 5,
+      "konkurser": 264,
+      "konkurser_saesonkorrigeret": 295
+    },
+    {
+      "aar": 1993,
+      "maaned": 6,
+      "konkurser": 289,
+      "konkurser_saesonkorrigeret": 272
+    },
+    {
+      "aar": 1993,
+      "maaned": 7,
+      "konkurser": 267,
+      "konkurser_saesonkorrigeret": 297
+    },
+    {
+      "aar": 1993,
+      "maaned": 8,
+      "konkurser": 242,
+      "konkurser_saesonkorrigeret": 278
+    },
+    {
+      "aar": 1993,
+      "maaned": 9,
+      "konkurser": 344,
+      "konkurser_saesonkorrigeret": 302
+    },
+    {
+      "aar": 1993,
+      "maaned": 10,
+      "konkurser": 382,
+      "konkurser_saesonkorrigeret": 326
+    },
+    {
+      "aar": 1993,
+      "maaned": 11,
+      "konkurser": 350,
+      "konkurser_saesonkorrigeret": 350
+    },
+    {
+      "aar": 1993,
+      "maaned": 12,
+      "konkurser": 322,
+      "konkurser_saesonkorrigeret": 310
+    },
+    {
+      "aar": 1994,
+      "maaned": 1,
+      "konkurser": 240,
+      "konkurser_saesonkorrigeret": 276
+    },
+    {
+      "aar": 1994,
+      "maaned": 2,
+      "konkurser": 264,
+      "konkurser_saesonkorrigeret": 272
+    },
+    {
+      "aar": 1994,
+      "maaned": 3,
+      "konkurser": 344,
+      "konkurser_saesonkorrigeret": 276
+    },
+    {
+      "aar": 1994,
+      "maaned": 4,
+      "konkurser": 223,
+      "konkurser_saesonkorrigeret": 245
+    },
+    {
+      "aar": 1994,
+      "maaned": 5,
+      "konkurser": 217,
+      "konkurser_saesonkorrigeret": 241
+    },
+    {
+      "aar": 1994,
+      "maaned": 6,
+      "konkurser": 265,
+      "konkurser_saesonkorrigeret": 222
+    },
+    {
+      "aar": 1994,
+      "maaned": 7,
+      "konkurser": 189,
+      "konkurser_saesonkorrigeret": 213
+    },
+    {
+      "aar": 1994,
+      "maaned": 8,
+      "konkurser": 199,
+      "konkurser_saesonkorrigeret": 226
+    },
+    {
+      "aar": 1994,
+      "maaned": 9,
+      "konkurser": 240,
+      "konkurser_saesonkorrigeret": 223
+    },
+    {
+      "aar": 1994,
+      "maaned": 10,
+      "konkurser": 223,
+      "konkurser_saesonkorrigeret": 226
+    },
+    {
+      "aar": 1994,
+      "maaned": 11,
+      "konkurser": 212,
+      "konkurser_saesonkorrigeret": 215
+    },
+    {
+      "aar": 1994,
+      "maaned": 12,
+      "konkurser": 284,
+      "konkurser_saesonkorrigeret": 265
+    },
+    {
+      "aar": 1995,
+      "maaned": 1,
+      "konkurser": 190,
+      "konkurser_saesonkorrigeret": 214
+    },
+    {
+      "aar": 1995,
+      "maaned": 2,
+      "konkurser": 199,
+      "konkurser_saesonkorrigeret": 205
+    },
+    {
+      "aar": 1995,
+      "maaned": 3,
+      "konkurser": 248,
+      "konkurser_saesonkorrigeret": 199
+    },
+    {
+      "aar": 1995,
+      "maaned": 4,
+      "konkurser": 161,
+      "konkurser_saesonkorrigeret": 181
+    },
+    {
+      "aar": 1995,
+      "maaned": 5,
+      "konkurser": 165,
+      "konkurser_saesonkorrigeret": 167
+    },
+    {
+      "aar": 1995,
+      "maaned": 6,
+      "konkurser": 207,
+      "konkurser_saesonkorrigeret": 179
+    },
+    {
+      "aar": 1995,
+      "maaned": 7,
+      "konkurser": 157,
+      "konkurser_saesonkorrigeret": 186
+    },
+    {
+      "aar": 1995,
+      "maaned": 8,
+      "konkurser": 178,
+      "konkurser_saesonkorrigeret": 186
+    },
+    {
+      "aar": 1995,
+      "maaned": 9,
+      "konkurser": 201,
+      "konkurser_saesonkorrigeret": 192
+    },
+    {
+      "aar": 1995,
+      "maaned": 10,
+      "konkurser": 172,
+      "konkurser_saesonkorrigeret": 173
+    },
+    {
+      "aar": 1995,
+      "maaned": 11,
+      "konkurser": 212,
+      "konkurser_saesonkorrigeret": 209
+    },
+    {
+      "aar": 1995,
+      "maaned": 12,
+      "konkurser": 169,
+      "konkurser_saesonkorrigeret": 169
+    },
+    {
+      "aar": 1996,
+      "maaned": 1,
+      "konkurser": 146,
+      "konkurser_saesonkorrigeret": 150
+    },
+    {
+      "aar": 1996,
+      "maaned": 2,
+      "konkurser": 154,
+      "konkurser_saesonkorrigeret": 144
+    },
+    {
+      "aar": 1996,
+      "maaned": 3,
+      "konkurser": 169,
+      "konkurser_saesonkorrigeret": 151
+    },
+    {
+      "aar": 1996,
+      "maaned": 4,
+      "konkurser": 132,
+      "konkurser_saesonkorrigeret": 147
+    },
+    {
+      "aar": 1996,
+      "maaned": 5,
+      "konkurser": 172,
+      "konkurser_saesonkorrigeret": 163
+    },
+    {
+      "aar": 1996,
+      "maaned": 6,
+      "konkurser": 169,
+      "konkurser_saesonkorrigeret": 158
+    },
+    {
+      "aar": 1996,
+      "maaned": 7,
+      "konkurser": 180,
+      "konkurser_saesonkorrigeret": 194
+    },
+    {
+      "aar": 1996,
+      "maaned": 8,
+      "konkurser": 106,
+      "konkurser_saesonkorrigeret": 116
+    },
+    {
+      "aar": 1996,
+      "maaned": 9,
+      "konkurser": 103,
+      "konkurser_saesonkorrigeret": 111
+    },
+    {
+      "aar": 1996,
+      "maaned": 10,
+      "konkurser": 164,
+      "konkurser_saesonkorrigeret": 145
+    },
+    {
+      "aar": 1996,
+      "maaned": 11,
+      "konkurser": 126,
+      "konkurser_saesonkorrigeret": 130
+    },
+    {
+      "aar": 1996,
+      "maaned": 12,
+      "konkurser": 142,
+      "konkurser_saesonkorrigeret": 153
+    },
+    {
+      "aar": 1997,
+      "maaned": 1,
+      "konkurser": 151,
+      "konkurser_saesonkorrigeret": 145
+    },
+    {
+      "aar": 1997,
+      "maaned": 2,
+      "konkurser": 158,
+      "konkurser_saesonkorrigeret": 163
+    },
+    {
+      "aar": 1997,
+      "maaned": 3,
+      "konkurser": 140,
+      "konkurser_saesonkorrigeret": 133
+    },
+    {
+      "aar": 1997,
+      "maaned": 4,
+      "konkurser": 160,
+      "konkurser_saesonkorrigeret": 159
+    },
+    {
+      "aar": 1997,
+      "maaned": 5,
+      "konkurser": 155,
+      "konkurser_saesonkorrigeret": 151
+    },
+    {
+      "aar": 1997,
+      "maaned": 6,
+      "konkurser": 159,
+      "konkurser_saesonkorrigeret": 158
+    },
+    {
+      "aar": 1997,
+      "maaned": 7,
+      "konkurser": 157,
+      "konkurser_saesonkorrigeret": 155
+    },
+    {
+      "aar": 1997,
+      "maaned": 8,
+      "konkurser": 119,
+      "konkurser_saesonkorrigeret": 137
+    },
+    {
+      "aar": 1997,
+      "maaned": 9,
+      "konkurser": 130,
+      "konkurser_saesonkorrigeret": 136
+    },
+    {
+      "aar": 1997,
+      "maaned": 10,
+      "konkurser": 162,
+      "konkurser_saesonkorrigeret": 147
+    },
+    {
+      "aar": 1997,
+      "maaned": 11,
+      "konkurser": 133,
+      "konkurser_saesonkorrigeret": 140
+    },
+    {
+      "aar": 1997,
+      "maaned": 12,
+      "konkurser": 135,
+      "konkurser_saesonkorrigeret": 135
+    },
+    {
+      "aar": 1998,
+      "maaned": 1,
+      "konkurser": 154,
+      "konkurser_saesonkorrigeret": 152
+    },
+    {
+      "aar": 1998,
+      "maaned": 2,
+      "konkurser": 121,
+      "konkurser_saesonkorrigeret": 123
+    },
+    {
+      "aar": 1998,
+      "maaned": 3,
+      "konkurser": 169,
+      "konkurser_saesonkorrigeret": 161
+    },
+    {
+      "aar": 1998,
+      "maaned": 4,
+      "konkurser": 159,
+      "konkurser_saesonkorrigeret": 153
+    },
+    {
+      "aar": 1998,
+      "maaned": 5,
+      "konkurser": 133,
+      "konkurser_saesonkorrigeret": 137
+    },
+    {
+      "aar": 1998,
+      "maaned": 6,
+      "konkurser": 136,
+      "konkurser_saesonkorrigeret": 130
+    },
+    {
+      "aar": 1998,
+      "maaned": 7,
+      "konkurser": 132,
+      "konkurser_saesonkorrigeret": 128
+    },
+    {
+      "aar": 1998,
+      "maaned": 8,
+      "konkurser": 119,
+      "konkurser_saesonkorrigeret": 145
+    },
+    {
+      "aar": 1998,
+      "maaned": 9,
+      "konkurser": 137,
+      "konkurser_saesonkorrigeret": 133
+    },
+    {
+      "aar": 1998,
+      "maaned": 10,
+      "konkurser": 112,
+      "konkurser_saesonkorrigeret": 108
+    },
+    {
+      "aar": 1998,
+      "maaned": 11,
+      "konkurser": 140,
+      "konkurser_saesonkorrigeret": 152
+    },
+    {
+      "aar": 1998,
+      "maaned": 12,
+      "konkurser": 140,
+      "konkurser_saesonkorrigeret": 130
+    },
+    {
+      "aar": 1999,
+      "maaned": 1,
+      "konkurser": 129,
+      "konkurser_saesonkorrigeret": 135
+    },
+    {
+      "aar": 1999,
+      "maaned": 2,
+      "konkurser": 139,
+      "konkurser_saesonkorrigeret": 140
+    },
+    {
+      "aar": 1999,
+      "maaned": 3,
+      "konkurser": 161,
+      "konkurser_saesonkorrigeret": 142
+    },
+    {
+      "aar": 1999,
+      "maaned": 4,
+      "konkurser": 123,
+      "konkurser_saesonkorrigeret": 121
+    },
+    {
+      "aar": 1999,
+      "maaned": 5,
+      "konkurser": 116,
+      "konkurser_saesonkorrigeret": 125
+    },
+    {
+      "aar": 1999,
+      "maaned": 6,
+      "konkurser": 150,
+      "konkurser_saesonkorrigeret": 134
+    },
+    {
+      "aar": 1999,
+      "maaned": 7,
+      "konkurser": 133,
+      "konkurser_saesonkorrigeret": 134
+    },
+    {
+      "aar": 1999,
+      "maaned": 8,
+      "konkurser": 123,
+      "konkurser_saesonkorrigeret": 148
+    },
+    {
+      "aar": 1999,
+      "maaned": 9,
+      "konkurser": 153,
+      "konkurser_saesonkorrigeret": 149
+    },
+    {
+      "aar": 1999,
+      "maaned": 10,
+      "konkurser": 127,
+      "konkurser_saesonkorrigeret": 133
+    },
+    {
+      "aar": 1999,
+      "maaned": 11,
+      "konkurser": 141,
+      "konkurser_saesonkorrigeret": 143
+    },
+    {
+      "aar": 1999,
+      "maaned": 12,
+      "konkurser": 141,
+      "konkurser_saesonkorrigeret": 131
+    },
+    {
+      "aar": 2000,
+      "maaned": 1,
+      "konkurser": 124,
+      "konkurser_saesonkorrigeret": 139
+    },
+    {
+      "aar": 2000,
+      "maaned": 2,
+      "konkurser": 174,
+      "konkurser_saesonkorrigeret": 158
+    },
+    {
+      "aar": 2000,
+      "maaned": 3,
+      "konkurser": 174,
+      "konkurser_saesonkorrigeret": 145
+    },
+    {
+      "aar": 2000,
+      "maaned": 4,
+      "konkurser": 111,
+      "konkurser_saesonkorrigeret": 119
+    },
+    {
+      "aar": 2000,
+      "maaned": 5,
+      "konkurser": 169,
+      "konkurser_saesonkorrigeret": 168
+    },
+    {
+      "aar": 2000,
+      "maaned": 6,
+      "konkurser": 99,
+      "konkurser_saesonkorrigeret": 93
+    },
+    {
+      "aar": 2000,
+      "maaned": 7,
+      "konkurser": 153,
+      "konkurser_saesonkorrigeret": 174
+    },
+    {
+      "aar": 2000,
+      "maaned": 8,
+      "konkurser": 145,
+      "konkurser_saesonkorrigeret": 149
+    },
+    {
+      "aar": 2000,
+      "maaned": 9,
+      "konkurser": 139,
+      "konkurser_saesonkorrigeret": 143
+    },
+    {
+      "aar": 2000,
+      "maaned": 10,
+      "konkurser": 149,
+      "konkurser_saesonkorrigeret": 164
+    },
+    {
+      "aar": 2000,
+      "maaned": 11,
+      "konkurser": 161,
+      "konkurser_saesonkorrigeret": 144
+    },
+    {
+      "aar": 2000,
+      "maaned": 12,
+      "konkurser": 173,
+      "konkurser_saesonkorrigeret": 176
+    },
+    {
+      "aar": 2001,
+      "maaned": 1,
+      "konkurser": 185,
+      "konkurser_saesonkorrigeret": 191
+    },
+    {
+      "aar": 2001,
+      "maaned": 2,
+      "konkurser": 157,
+      "konkurser_saesonkorrigeret": 155
+    },
+    {
+      "aar": 2001,
+      "maaned": 3,
+      "konkurser": 178,
+      "konkurser_saesonkorrigeret": 155
+    },
+    {
+      "aar": 2001,
+      "maaned": 4,
+      "konkurser": 178,
+      "konkurser_saesonkorrigeret": 201
+    },
+    {
+      "aar": 2001,
+      "maaned": 5,
+      "konkurser": 183,
+      "konkurser_saesonkorrigeret": 166
+    },
+    {
+      "aar": 2001,
+      "maaned": 6,
+      "konkurser": 186,
+      "konkurser_saesonkorrigeret": 179
+    },
+    {
+      "aar": 2001,
+      "maaned": 7,
+      "konkurser": 162,
+      "konkurser_saesonkorrigeret": 181
+    },
+    {
+      "aar": 2001,
+      "maaned": 8,
+      "konkurser": 165,
+      "konkurser_saesonkorrigeret": 169
+    },
+    {
+      "aar": 2001,
+      "maaned": 9,
+      "konkurser": 230,
+      "konkurser_saesonkorrigeret": 248
+    },
+    {
+      "aar": 2001,
+      "maaned": 10,
+      "konkurser": 200,
+      "konkurser_saesonkorrigeret": 199
+    },
+    {
+      "aar": 2001,
+      "maaned": 11,
+      "konkurser": 307,
+      "konkurser_saesonkorrigeret": 278
+    },
+    {
+      "aar": 2001,
+      "maaned": 12,
+      "konkurser": 198,
+      "konkurser_saesonkorrigeret": 206
+    },
+    {
+      "aar": 2002,
+      "maaned": 1,
+      "konkurser": 197,
+      "konkurser_saesonkorrigeret": 220
+    },
+    {
+      "aar": 2002,
+      "maaned": 2,
+      "konkurser": 223,
+      "konkurser_saesonkorrigeret": 230
+    },
+    {
+      "aar": 2002,
+      "maaned": 3,
+      "konkurser": 227,
+      "konkurser_saesonkorrigeret": 213
+    },
+    {
+      "aar": 2002,
+      "maaned": 4,
+      "konkurser": 196,
+      "konkurser_saesonkorrigeret": 221
+    },
+    {
+      "aar": 2002,
+      "maaned": 5,
+      "konkurser": 232,
+      "konkurser_saesonkorrigeret": 212
+    },
+    {
+      "aar": 2002,
+      "maaned": 6,
+      "konkurser": 199,
+      "konkurser_saesonkorrigeret": 201
+    },
+    {
+      "aar": 2002,
+      "maaned": 7,
+      "konkurser": 189,
+      "konkurser_saesonkorrigeret": 197
+    },
+    {
+      "aar": 2002,
+      "maaned": 8,
+      "konkurser": 206,
+      "konkurser_saesonkorrigeret": 217
+    },
+    {
+      "aar": 2002,
+      "maaned": 9,
+      "konkurser": 187,
+      "konkurser_saesonkorrigeret": 228
+    },
+    {
+      "aar": 2002,
+      "maaned": 10,
+      "konkurser": 204,
+      "konkurser_saesonkorrigeret": 180
+    },
+    {
+      "aar": 2002,
+      "maaned": 11,
+      "konkurser": 225,
+      "konkurser_saesonkorrigeret": 184
+    },
+    {
+      "aar": 2002,
+      "maaned": 12,
+      "konkurser": 184,
+      "konkurser_saesonkorrigeret": 177
+    },
+    {
+      "aar": 2003,
+      "maaned": 1,
+      "konkurser": 212,
+      "konkurser_saesonkorrigeret": 235
+    },
+    {
+      "aar": 2003,
+      "maaned": 2,
+      "konkurser": 206,
+      "konkurser_saesonkorrigeret": 215
+    },
+    {
+      "aar": 2003,
+      "maaned": 3,
+      "konkurser": 197,
+      "konkurser_saesonkorrigeret": 200
+    },
+    {
+      "aar": 2003,
+      "maaned": 4,
+      "konkurser": 204,
+      "konkurser_saesonkorrigeret": 204
+    },
+    {
+      "aar": 2003,
+      "maaned": 5,
+      "konkurser": 221,
+      "konkurser_saesonkorrigeret": 204
+    },
+    {
+      "aar": 2003,
+      "maaned": 6,
+      "konkurser": 159,
+      "konkurser_saesonkorrigeret": 178
+    },
+    {
+      "aar": 2003,
+      "maaned": 7,
+      "konkurser": 229,
+      "konkurser_saesonkorrigeret": 225
+    },
+    {
+      "aar": 2003,
+      "maaned": 8,
+      "konkurser": 192,
+      "konkurser_saesonkorrigeret": 223
+    },
+    {
+      "aar": 2003,
+      "maaned": 9,
+      "konkurser": 179,
+      "konkurser_saesonkorrigeret": 198
+    },
+    {
+      "aar": 2003,
+      "maaned": 10,
+      "konkurser": 245,
+      "konkurser_saesonkorrigeret": 214
+    },
+    {
+      "aar": 2003,
+      "maaned": 11,
+      "konkurser": 216,
+      "konkurser_saesonkorrigeret": 196
+    },
+    {
+      "aar": 2003,
+      "maaned": 12,
+      "konkurser": 246,
+      "konkurser_saesonkorrigeret": 205
+    },
+    {
+      "aar": 2004,
+      "maaned": 1,
+      "konkurser": 194,
+      "konkurser_saesonkorrigeret": 214
+    },
+    {
+      "aar": 2004,
+      "maaned": 2,
+      "konkurser": 207,
+      "konkurser_saesonkorrigeret": 222
+    },
+    {
+      "aar": 2004,
+      "maaned": 3,
+      "konkurser": 254,
+      "konkurser_saesonkorrigeret": 231
+    },
+    {
+      "aar": 2004,
+      "maaned": 4,
+      "konkurser": 203,
+      "konkurser_saesonkorrigeret": 215
+    },
+    {
+      "aar": 2004,
+      "maaned": 5,
+      "konkurser": 203,
+      "konkurser_saesonkorrigeret": 222
+    },
+    {
+      "aar": 2004,
+      "maaned": 6,
+      "konkurser": 248,
+      "konkurser_saesonkorrigeret": 223
+    },
+    {
+      "aar": 2004,
+      "maaned": 7,
+      "konkurser": 205,
+      "konkurser_saesonkorrigeret": 200
+    },
+    {
+      "aar": 2004,
+      "maaned": 8,
+      "konkurser": 157,
+      "konkurser_saesonkorrigeret": 213
+    },
+    {
+      "aar": 2004,
+      "maaned": 9,
+      "konkurser": 223,
+      "konkurser_saesonkorrigeret": 225
+    },
+    {
+      "aar": 2004,
+      "maaned": 10,
+      "konkurser": 222,
+      "konkurser_saesonkorrigeret": 209
+    },
+    {
+      "aar": 2004,
+      "maaned": 11,
+      "konkurser": 243,
+      "konkurser_saesonkorrigeret": 218
+    },
+    {
+      "aar": 2004,
+      "maaned": 12,
+      "konkurser": 261,
+      "konkurser_saesonkorrigeret": 203
+    },
+    {
+      "aar": 2005,
+      "maaned": 1,
+      "konkurser": 152,
+      "konkurser_saesonkorrigeret": 189
+    },
+    {
+      "aar": 2005,
+      "maaned": 2,
+      "konkurser": 166,
+      "konkurser_saesonkorrigeret": 179
+    },
+    {
+      "aar": 2005,
+      "maaned": 3,
+      "konkurser": 226,
+      "konkurser_saesonkorrigeret": 185
+    },
+    {
+      "aar": 2005,
+      "maaned": 4,
+      "konkurser": 194,
+      "konkurser_saesonkorrigeret": 183
+    },
+    {
+      "aar": 2005,
+      "maaned": 5,
+      "konkurser": 208,
+      "konkurser_saesonkorrigeret": 240
+    },
+    {
+      "aar": 2005,
+      "maaned": 6,
+      "konkurser": 236,
+      "konkurser_saesonkorrigeret": 222
+    },
+    {
+      "aar": 2005,
+      "maaned": 7,
+      "konkurser": 197,
+      "konkurser_saesonkorrigeret": 221
+    },
+    {
+      "aar": 2005,
+      "maaned": 8,
+      "konkurser": 165,
+      "konkurser_saesonkorrigeret": 220
+    },
+    {
+      "aar": 2005,
+      "maaned": 9,
+      "konkurser": 192,
+      "konkurser_saesonkorrigeret": 200
+    },
+    {
+      "aar": 2005,
+      "maaned": 10,
+      "konkurser": 244,
+      "konkurser_saesonkorrigeret": 249
+    },
+    {
+      "aar": 2005,
+      "maaned": 11,
+      "konkurser": 251,
+      "konkurser_saesonkorrigeret": 193
+    },
+    {
+      "aar": 2005,
+      "maaned": 12,
+      "konkurser": 264,
+      "konkurser_saesonkorrigeret": 208
+    },
+    {
+      "aar": 2006,
+      "maaned": 1,
+      "konkurser": 139,
+      "konkurser_saesonkorrigeret": 175
+    },
+    {
+      "aar": 2006,
+      "maaned": 2,
+      "konkurser": 148,
+      "konkurser_saesonkorrigeret": 159
+    },
+    {
+      "aar": 2006,
+      "maaned": 3,
+      "konkurser": 212,
+      "konkurser_saesonkorrigeret": 178
+    },
+    {
+      "aar": 2006,
+      "maaned": 4,
+      "konkurser": 177,
+      "konkurser_saesonkorrigeret": 179
+    },
+    {
+      "aar": 2006,
+      "maaned": 5,
+      "konkurser": 144,
+      "konkurser_saesonkorrigeret": 149
+    },
+    {
+      "aar": 2006,
+      "maaned": 6,
+      "konkurser": 159,
+      "konkurser_saesonkorrigeret": 154
+    },
+    {
+      "aar": 2006,
+      "maaned": 7,
+      "konkurser": 140,
+      "konkurser_saesonkorrigeret": 164
+    },
+    {
+      "aar": 2006,
+      "maaned": 8,
+      "konkurser": 118,
+      "konkurser_saesonkorrigeret": 149
+    },
+    {
+      "aar": 2006,
+      "maaned": 9,
+      "konkurser": 155,
+      "konkurser_saesonkorrigeret": 157
+    },
+    {
+      "aar": 2006,
+      "maaned": 10,
+      "konkurser": 163,
+      "konkurser_saesonkorrigeret": 171
+    },
+    {
+      "aar": 2006,
+      "maaned": 11,
+      "konkurser": 215,
+      "konkurser_saesonkorrigeret": 165
+    },
+    {
+      "aar": 2006,
+      "maaned": 12,
+      "konkurser": 217,
+      "konkurser_saesonkorrigeret": 189
+    },
+    {
+      "aar": 2007,
+      "maaned": 1,
+      "konkurser": 180,
+      "konkurser_saesonkorrigeret": 205
+    },
+    {
+      "aar": 2007,
+      "maaned": 2,
+      "konkurser": 186,
+      "konkurser_saesonkorrigeret": 203
+    },
+    {
+      "aar": 2007,
+      "maaned": 3,
+      "konkurser": 246,
+      "konkurser_saesonkorrigeret": 209
+    },
+    {
+      "aar": 2007,
+      "maaned": 4,
+      "konkurser": 147,
+      "konkurser_saesonkorrigeret": 163
+    },
+    {
+      "aar": 2007,
+      "maaned": 5,
+      "konkurser": 187,
+      "konkurser_saesonkorrigeret": 192
+    },
+    {
+      "aar": 2007,
+      "maaned": 6,
+      "konkurser": 210,
+      "konkurser_saesonkorrigeret": 206
+    },
+    {
+      "aar": 2007,
+      "maaned": 7,
+      "konkurser": 166,
+      "konkurser_saesonkorrigeret": 184
+    },
+    {
+      "aar": 2007,
+      "maaned": 8,
+      "konkurser": 152,
+      "konkurser_saesonkorrigeret": 206
+    },
+    {
+      "aar": 2007,
+      "maaned": 9,
+      "konkurser": 192,
+      "konkurser_saesonkorrigeret": 201
+    },
+    {
+      "aar": 2007,
+      "maaned": 10,
+      "konkurser": 228,
+      "konkurser_saesonkorrigeret": 216
+    },
+    {
+      "aar": 2007,
+      "maaned": 11,
+      "konkurser": 288,
+      "konkurser_saesonkorrigeret": 229
+    },
+    {
+      "aar": 2007,
+      "maaned": 12,
+      "konkurser": 219,
+      "konkurser_saesonkorrigeret": 183
+    },
+    {
+      "aar": 2008,
+      "maaned": 1,
+      "konkurser": 240,
+      "konkurser_saesonkorrigeret": 269
+    },
+    {
+      "aar": 2008,
+      "maaned": 2,
+      "konkurser": 213,
+      "konkurser_saesonkorrigeret": 225
+    },
+    {
+      "aar": 2008,
+      "maaned": 3,
+      "konkurser": 205,
+      "konkurser_saesonkorrigeret": 197
+    },
+    {
+      "aar": 2008,
+      "maaned": 4,
+      "konkurser": 253,
+      "konkurser_saesonkorrigeret": 249
+    },
+    {
+      "aar": 2008,
+      "maaned": 5,
+      "konkurser": 275,
+      "konkurser_saesonkorrigeret": 280
+    },
+    {
+      "aar": 2008,
+      "maaned": 6,
+      "konkurser": 256,
+      "konkurser_saesonkorrigeret": 253
+    },
+    {
+      "aar": 2008,
+      "maaned": 7,
+      "konkurser": 278,
+      "konkurser_saesonkorrigeret": 308
+    },
+    {
+      "aar": 2008,
+      "maaned": 8,
+      "konkurser": 230,
+      "konkurser_saesonkorrigeret": 309
+    },
+    {
+      "aar": 2008,
+      "maaned": 9,
+      "konkurser": 334,
+      "konkurser_saesonkorrigeret": 349
+    },
+    {
+      "aar": 2008,
+      "maaned": 10,
+      "konkurser": 391,
+      "konkurser_saesonkorrigeret": 375
+    },
+    {
+      "aar": 2008,
+      "maaned": 11,
+      "konkurser": 490,
+      "konkurser_saesonkorrigeret": 384
+    },
+    {
+      "aar": 2008,
+      "maaned": 12,
+      "konkurser": 544,
+      "konkurser_saesonkorrigeret": 474
+    },
+    {
+      "aar": 2009,
+      "maaned": 1,
+      "konkurser": 417,
+      "konkurser_saesonkorrigeret": 466
+    },
+    {
+      "aar": 2009,
+      "maaned": 2,
+      "konkurser": 444,
+      "konkurser_saesonkorrigeret": 443
+    },
+    {
+      "aar": 2009,
+      "maaned": 3,
+      "konkurser": 477,
+      "konkurser_saesonkorrigeret": 453
+    },
+    {
+      "aar": 2009,
+      "maaned": 4,
+      "konkurser": 445,
+      "konkurser_saesonkorrigeret": 477
+    },
+    {
+      "aar": 2009,
+      "maaned": 5,
+      "konkurser": 498,
+      "konkurser_saesonkorrigeret": 507
+    },
+    {
+      "aar": 2009,
+      "maaned": 6,
+      "konkurser": 494,
+      "konkurser_saesonkorrigeret": 476
+    },
+    {
+      "aar": 2009,
+      "maaned": 7,
+      "konkurser": 456,
+      "konkurser_saesonkorrigeret": 499
+    },
+    {
+      "aar": 2009,
+      "maaned": 8,
+      "konkurser": 354,
+      "konkurser_saesonkorrigeret": 449
+    },
+    {
+      "aar": 2009,
+      "maaned": 9,
+      "konkurser": 458,
+      "konkurser_saesonkorrigeret": 471
+    },
+    {
+      "aar": 2009,
+      "maaned": 10,
+      "konkurser": 555,
+      "konkurser_saesonkorrigeret": 547
+    },
+    {
+      "aar": 2009,
+      "maaned": 11,
+      "konkurser": 556,
+      "konkurser_saesonkorrigeret": 418
+    },
+    {
+      "aar": 2009,
+      "maaned": 12,
+      "konkurser": 556,
+      "konkurser_saesonkorrigeret": 518
+    },
+    {
+      "aar": 2010,
+      "maaned": 1,
+      "konkurser": 458,
+      "konkurser_saesonkorrigeret": 507
+    },
+    {
+      "aar": 2010,
+      "maaned": 2,
+      "konkurser": 550,
+      "konkurser_saesonkorrigeret": 546
+    },
+    {
+      "aar": 2010,
+      "maaned": 3,
+      "konkurser": 606,
+      "konkurser_saesonkorrigeret": 575
+    },
+    {
+      "aar": 2010,
+      "maaned": 4,
+      "konkurser": 534,
+      "konkurser_saesonkorrigeret": 581
+    },
+    {
+      "aar": 2010,
+      "maaned": 5,
+      "konkurser": 534,
+      "konkurser_saesonkorrigeret": 542
+    },
+    {
+      "aar": 2010,
+      "maaned": 6,
+      "konkurser": 569,
+      "konkurser_saesonkorrigeret": 551
+    },
+    {
+      "aar": 2010,
+      "maaned": 7,
+      "konkurser": 513,
+      "konkurser_saesonkorrigeret": 567
+    },
+    {
+      "aar": 2010,
+      "maaned": 8,
+      "konkurser": 415,
+      "konkurser_saesonkorrigeret": 522
+    },
+    {
+      "aar": 2010,
+      "maaned": 9,
+      "konkurser": 570,
+      "konkurser_saesonkorrigeret": 591
+    },
+    {
+      "aar": 2010,
+      "maaned": 10,
+      "konkurser": 519,
+      "konkurser_saesonkorrigeret": 508
+    },
+    {
+      "aar": 2010,
+      "maaned": 11,
+      "konkurser": 698,
+      "konkurser_saesonkorrigeret": 519
+    },
+    {
+      "aar": 2010,
+      "maaned": 12,
+      "konkurser": 495,
+      "konkurser_saesonkorrigeret": 460
+    },
+    {
+      "aar": 2011,
+      "maaned": 1,
+      "konkurser": 403,
+      "konkurser_saesonkorrigeret": 437
+    },
+    {
+      "aar": 2011,
+      "maaned": 2,
+      "konkurser": 492,
+      "konkurser_saesonkorrigeret": 491
+    },
+    {
+      "aar": 2011,
+      "maaned": 3,
+      "konkurser": 497,
+      "konkurser_saesonkorrigeret": 473
+    },
+    {
+      "aar": 2011,
+      "maaned": 4,
+      "konkurser": 453,
+      "konkurser_saesonkorrigeret": 502
+    },
+    {
+      "aar": 2011,
+      "maaned": 5,
+      "konkurser": 427,
+      "konkurser_saesonkorrigeret": 429
+    },
+    {
+      "aar": 2011,
+      "maaned": 6,
+      "konkurser": 480,
+      "konkurser_saesonkorrigeret": 475
+    },
+    {
+      "aar": 2011,
+      "maaned": 7,
+      "konkurser": 402,
+      "konkurser_saesonkorrigeret": 451
+    },
+    {
+      "aar": 2011,
+      "maaned": 8,
+      "konkurser": 368,
+      "konkurser_saesonkorrigeret": 463
+    },
+    {
+      "aar": 2011,
+      "maaned": 9,
+      "konkurser": 426,
+      "konkurser_saesonkorrigeret": 445
+    },
+    {
+      "aar": 2011,
+      "maaned": 10,
+      "konkurser": 414,
+      "konkurser_saesonkorrigeret": 401
+    },
+    {
+      "aar": 2011,
+      "maaned": 11,
+      "konkurser": 631,
+      "konkurser_saesonkorrigeret": 455
+    },
+    {
+      "aar": 2011,
+      "maaned": 12,
+      "konkurser": 475,
+      "konkurser_saesonkorrigeret": 444
+    },
+    {
+      "aar": 2012,
+      "maaned": 1,
+      "konkurser": 462,
+      "konkurser_saesonkorrigeret": 493
+    },
+    {
+      "aar": 2012,
+      "maaned": 2,
+      "konkurser": 439,
+      "konkurser_saesonkorrigeret": 447
+    },
+    {
+      "aar": 2012,
+      "maaned": 3,
+      "konkurser": 441,
+      "konkurser_saesonkorrigeret": 420
+    },
+    {
+      "aar": 2012,
+      "maaned": 4,
+      "konkurser": 337,
+      "konkurser_saesonkorrigeret": 373
+    },
+    {
+      "aar": 2012,
+      "maaned": 5,
+      "konkurser": 440,
+      "konkurser_saesonkorrigeret": 437
+    },
+    {
+      "aar": 2012,
+      "maaned": 6,
+      "konkurser": 465,
+      "konkurser_saesonkorrigeret": 471
+    },
+    {
+      "aar": 2012,
+      "maaned": 7,
+      "konkurser": 387,
+      "konkurser_saesonkorrigeret": 445
+    },
+    {
+      "aar": 2012,
+      "maaned": 8,
+      "konkurser": 403,
+      "konkurser_saesonkorrigeret": 515
+    },
+    {
+      "aar": 2012,
+      "maaned": 9,
+      "konkurser": 415,
+      "konkurser_saesonkorrigeret": 445
+    },
+    {
+      "aar": 2012,
+      "maaned": 10,
+      "konkurser": 470,
+      "konkurser_saesonkorrigeret": 449
+    },
+    {
+      "aar": 2012,
+      "maaned": 11,
+      "konkurser": 576,
+      "konkurser_saesonkorrigeret": 401
+    },
+    {
+      "aar": 2012,
+      "maaned": 12,
+      "konkurser": 621,
+      "konkurser_saesonkorrigeret": 577
+    },
+    {
+      "aar": 2013,
+      "maaned": 1,
+      "konkurser": 387,
+      "konkurser_saesonkorrigeret": 398
+    },
+    {
+      "aar": 2013,
+      "maaned": 2,
+      "konkurser": 471,
+      "konkurser_saesonkorrigeret": 497
+    },
+    {
+      "aar": 2013,
+      "maaned": 3,
+      "konkurser": 471,
+      "konkurser_saesonkorrigeret": 454
+    },
+    {
+      "aar": 2013,
+      "maaned": 4,
+      "konkurser": 310,
+      "konkurser_saesonkorrigeret": 332
+    },
+    {
+      "aar": 2013,
+      "maaned": 5,
+      "konkurser": 439,
+      "konkurser_saesonkorrigeret": 434
+    },
+    {
+      "aar": 2013,
+      "maaned": 6,
+      "konkurser": 403,
+      "konkurser_saesonkorrigeret": 418
+    },
+    {
+      "aar": 2013,
+      "maaned": 7,
+      "konkurser": 349,
+      "konkurser_saesonkorrigeret": 414
+    },
+    {
+      "aar": 2013,
+      "maaned": 8,
+      "konkurser": 334,
+      "konkurser_saesonkorrigeret": 442
+    },
+    {
+      "aar": 2013,
+      "maaned": 9,
+      "konkurser": 355,
+      "konkurser_saesonkorrigeret": 393
+    },
+    {
+      "aar": 2013,
+      "maaned": 10,
+      "konkurser": 530,
+      "konkurser_saesonkorrigeret": 503
+    },
+    {
+      "aar": 2013,
+      "maaned": 11,
+      "konkurser": 595,
+      "konkurser_saesonkorrigeret": 398
+    },
+    {
+      "aar": 2013,
+      "maaned": 12,
+      "konkurser": 349,
+      "konkurser_saesonkorrigeret": 313
+    },
+    {
+      "aar": 2014,
+      "maaned": 1,
+      "konkurser": 379,
+      "konkurser_saesonkorrigeret": 382
+    },
+    {
+      "aar": 2014,
+      "maaned": 2,
+      "konkurser": 263,
+      "konkurser_saesonkorrigeret": 291
+    },
+    {
+      "aar": 2014,
+      "maaned": 3,
+      "konkurser": 318,
+      "konkurser_saesonkorrigeret": 309
+    },
+    {
+      "aar": 2014,
+      "maaned": 4,
+      "konkurser": 288,
+      "konkurser_saesonkorrigeret": 293
+    },
+    {
+      "aar": 2014,
+      "maaned": 5,
+      "konkurser": 365,
+      "konkurser_saesonkorrigeret": 366
+    },
+    {
+      "aar": 2014,
+      "maaned": 6,
+      "konkurser": 228,
+      "konkurser_saesonkorrigeret": 239
+    },
+    {
+      "aar": 2014,
+      "maaned": 7,
+      "konkurser": 283,
+      "konkurser_saesonkorrigeret": 347
+    },
+    {
+      "aar": 2014,
+      "maaned": 8,
+      "konkurser": 186,
+      "konkurser_saesonkorrigeret": 256
+    },
+    {
+      "aar": 2014,
+      "maaned": 9,
+      "konkurser": 324,
+      "konkurser_saesonkorrigeret": 373
+    },
+    {
+      "aar": 2014,
+      "maaned": 10,
+      "konkurser": 482,
+      "konkurser_saesonkorrigeret": 453
+    },
+    {
+      "aar": 2014,
+      "maaned": 11,
+      "konkurser": 590,
+      "konkurser_saesonkorrigeret": 383
+    },
+    {
+      "aar": 2014,
+      "maaned": 12,
+      "konkurser": 343,
+      "konkurser_saesonkorrigeret": 295
+    },
+    {
+      "aar": 2015,
+      "maaned": 1,
+      "konkurser": 347,
+      "konkurser_saesonkorrigeret": 347
+    },
+    {
+      "aar": 2015,
+      "maaned": 2,
+      "konkurser": 300,
+      "konkurser_saesonkorrigeret": 349
+    },
+    {
+      "aar": 2015,
+      "maaned": 3,
+      "konkurser": 395,
+      "konkurser_saesonkorrigeret": 387
+    },
+    {
+      "aar": 2015,
+      "maaned": 4,
+      "konkurser": 380,
+      "konkurser_saesonkorrigeret": 370
+    },
+    {
+      "aar": 2015,
+      "maaned": 5,
+      "konkurser": 334,
+      "konkurser_saesonkorrigeret": 342
+    },
+    {
+      "aar": 2015,
+      "maaned": 6,
+      "konkurser": 308,
+      "konkurser_saesonkorrigeret": 321
+    },
+    {
+      "aar": 2015,
+      "maaned": 7,
+      "konkurser": 239,
+      "konkurser_saesonkorrigeret": 295
+    },
+    {
+      "aar": 2015,
+      "maaned": 8,
+      "konkurser": 212,
+      "konkurser_saesonkorrigeret": 308
+    },
+    {
+      "aar": 2015,
+      "maaned": 9,
+      "konkurser": 220,
+      "konkurser_saesonkorrigeret": 261
+    },
+    {
+      "aar": 2015,
+      "maaned": 10,
+      "konkurser": 316,
+      "konkurser_saesonkorrigeret": 299
+    },
+    {
+      "aar": 2015,
+      "maaned": 11,
+      "konkurser": 427,
+      "konkurser_saesonkorrigeret": 269
+    },
+    {
+      "aar": 2015,
+      "maaned": 12,
+      "konkurser": 551,
+      "konkurser_saesonkorrigeret": 458
+    },
+    {
+      "aar": 2016,
+      "maaned": 1,
+      "konkurser": 852,
+      "konkurser_saesonkorrigeret": 866
+    },
+    {
+      "aar": 2016,
+      "maaned": 2,
+      "konkurser": 580,
+      "konkurser_saesonkorrigeret": 708
+    },
+    {
+      "aar": 2016,
+      "maaned": 3,
+      "konkurser": 490,
+      "konkurser_saesonkorrigeret": 470
+    },
+    {
+      "aar": 2016,
+      "maaned": 4,
+      "konkurser": 681,
+      "konkurser_saesonkorrigeret": 635
+    },
+    {
+      "aar": 2016,
+      "maaned": 5,
+      "konkurser": 432,
+      "konkurser_saesonkorrigeret": 458
+    },
+    {
+      "aar": 2016,
+      "maaned": 6,
+      "konkurser": 509,
+      "konkurser_saesonkorrigeret": 526
+    },
+    {
+      "aar": 2016,
+      "maaned": 7,
+      "konkurser": 378,
+      "konkurser_saesonkorrigeret": 462
+    },
+    {
+      "aar": 2016,
+      "maaned": 8,
+      "konkurser": 304,
+      "konkurser_saesonkorrigeret": 460
+    },
+    {
+      "aar": 2016,
+      "maaned": 9,
+      "konkurser": 412,
+      "konkurser_saesonkorrigeret": 511
+    },
+    {
+      "aar": 2016,
+      "maaned": 10,
+      "konkurser": 392,
+      "konkurser_saesonkorrigeret": 368
+    },
+    {
+      "aar": 2016,
+      "maaned": 11,
+      "konkurser": 940,
+      "konkurser_saesonkorrigeret": 589
+    },
+    {
+      "aar": 2016,
+      "maaned": 12,
+      "konkurser": 704,
+      "konkurser_saesonkorrigeret": 568
+    },
+    {
+      "aar": 2017,
+      "maaned": 1,
+      "konkurser": 510,
+      "konkurser_saesonkorrigeret": 528
+    },
+    {
+      "aar": 2017,
+      "maaned": 2,
+      "konkurser": 307,
+      "konkurser_saesonkorrigeret": 383
+    },
+    {
+      "aar": 2017,
+      "maaned": 3,
+      "konkurser": 471,
+      "konkurser_saesonkorrigeret": 441
+    },
+    {
+      "aar": 2017,
+      "maaned": 4,
+      "konkurser": 480,
+      "konkurser_saesonkorrigeret": 443
+    },
+    {
+      "aar": 2017,
+      "maaned": 5,
+      "konkurser": 365,
+      "konkurser_saesonkorrigeret": 393
+    },
+    {
+      "aar": 2017,
+      "maaned": 6,
+      "konkurser": 447,
+      "konkurser_saesonkorrigeret": 460
+    },
+    {
+      "aar": 2017,
+      "maaned": 7,
+      "konkurser": 338,
+      "konkurser_saesonkorrigeret": 401
+    },
+    {
+      "aar": 2017,
+      "maaned": 8,
+      "konkurser": 317,
+      "konkurser_saesonkorrigeret": 494
+    },
+    {
+      "aar": 2017,
+      "maaned": 9,
+      "konkurser": 398,
+      "konkurser_saesonkorrigeret": 511
+    },
+    {
+      "aar": 2017,
+      "maaned": 10,
+      "konkurser": 526,
+      "konkurser_saesonkorrigeret": 496
+    },
+    {
+      "aar": 2017,
+      "maaned": 11,
+      "konkurser": 699,
+      "konkurser_saesonkorrigeret": 442
+    },
+    {
+      "aar": 2017,
+      "maaned": 12,
+      "konkurser": 1524,
+      "konkurser_saesonkorrigeret": 1183
+    },
+    {
+      "aar": 2018,
+      "maaned": 1,
+      "konkurser": 349,
+      "konkurser_saesonkorrigeret": 372
+    },
+    {
+      "aar": 2018,
+      "maaned": 2,
+      "konkurser": 452,
+      "konkurser_saesonkorrigeret": 569
+    },
+    {
+      "aar": 2018,
+      "maaned": 3,
+      "konkurser": 600,
+      "konkurser_saesonkorrigeret": 542
+    },
+    {
+      "aar": 2018,
+      "maaned": 4,
+      "konkurser": 441,
+      "konkurser_saesonkorrigeret": 411
+    },
+    {
+      "aar": 2018,
+      "maaned": 5,
+      "konkurser": 855,
+      "konkurser_saesonkorrigeret": 926
+    },
+    {
+      "aar": 2018,
+      "maaned": 6,
+      "konkurser": 624,
+      "konkurser_saesonkorrigeret": 649
+    },
+    {
+      "aar": 2018,
+      "maaned": 7,
+      "konkurser": 564,
+      "konkurser_saesonkorrigeret": 648
+    },
+    {
+      "aar": 2018,
+      "maaned": 8,
+      "konkurser": 380,
+      "konkurser_saesonkorrigeret": 609
+    },
+    {
+      "aar": 2018,
+      "maaned": 9,
+      "konkurser": 413,
+      "konkurser_saesonkorrigeret": 540
+    },
+    {
+      "aar": 2018,
+      "maaned": 10,
+      "konkurser": 601,
+      "konkurser_saesonkorrigeret": 544
+    },
+    {
+      "aar": 2018,
+      "maaned": 11,
+      "konkurser": 1081,
+      "konkurser_saesonkorrigeret": 705
+    },
+    {
+      "aar": 2018,
+      "maaned": 12,
+      "konkurser": 793,
+      "konkurser_saesonkorrigeret": 604
+    },
+    {
+      "aar": 2019,
+      "maaned": 1,
+      "konkurser": 686,
+      "konkurser_saesonkorrigeret": 767
+    },
+    {
+      "aar": 2019,
+      "maaned": 2,
+      "konkurser": 508,
+      "konkurser_saesonkorrigeret": 631
+    },
+    {
+      "aar": 2019,
+      "maaned": 3,
+      "konkurser": 1191,
+      "konkurser_saesonkorrigeret": 1029
+    },
+    {
+      "aar": 2019,
+      "maaned": 4,
+      "konkurser": 966,
+      "konkurser_saesonkorrigeret": 934
+    },
+    {
+      "aar": 2019,
+      "maaned": 5,
+      "konkurser": 637,
+      "konkurser_saesonkorrigeret": 667
+    },
+    {
+      "aar": 2019,
+      "maaned": 6,
+      "konkurser": 461,
+      "konkurser_saesonkorrigeret": 488
+    },
+    {
+      "aar": 2019,
+      "maaned": 7,
+      "konkurser": 635,
+      "konkurser_saesonkorrigeret": 715
+    },
+    {
+      "aar": 2019,
+      "maaned": 8,
+      "konkurser": 394,
+      "konkurser_saesonkorrigeret": 668
+    },
+    {
+      "aar": 2019,
+      "maaned": 9,
+      "konkurser": 440,
+      "konkurser_saesonkorrigeret": 576
+    },
+    {
+      "aar": 2019,
+      "maaned": 10,
+      "konkurser": 845,
+      "konkurser_saesonkorrigeret": 730
+    },
+    {
+      "aar": 2019,
+      "maaned": 11,
+      "konkurser": 932,
+      "konkurser_saesonkorrigeret": 621
+    },
+    {
+      "aar": 2019,
+      "maaned": 12,
+      "konkurser": 775,
+      "konkurser_saesonkorrigeret": 591
+    },
+    {
+      "aar": 2020,
+      "maaned": 1,
+      "konkurser": 543,
+      "konkurser_saesonkorrigeret": 628
+    },
+    {
+      "aar": 2020,
+      "maaned": 2,
+      "konkurser": 466,
+      "konkurser_saesonkorrigeret": 567
+    },
+    {
+      "aar": 2020,
+      "maaned": 3,
+      "konkurser": 293,
+      "konkurser_saesonkorrigeret": 244
+    },
+    {
+      "aar": 2020,
+      "maaned": 4,
+      "konkurser": 491,
+      "konkurser_saesonkorrigeret": 491
+    },
+    {
+      "aar": 2020,
+      "maaned": 5,
+      "konkurser": 589,
+      "konkurser_saesonkorrigeret": 609
+    },
+    {
+      "aar": 2020,
+      "maaned": 6,
+      "konkurser": 455,
+      "konkurser_saesonkorrigeret": 494
+    },
+    {
+      "aar": 2020,
+      "maaned": 7,
+      "konkurser": 479,
+      "konkurser_saesonkorrigeret": 546
+    },
+    {
+      "aar": 2020,
+      "maaned": 8,
+      "konkurser": 303,
+      "konkurser_saesonkorrigeret": 545
+    },
+    {
+      "aar": 2020,
+      "maaned": 9,
+      "konkurser": 409,
+      "konkurser_saesonkorrigeret": 523
+    },
+    {
+      "aar": 2020,
+      "maaned": 10,
+      "konkurser": 412,
+      "konkurser_saesonkorrigeret": 327
+    },
+    {
+      "aar": 2020,
+      "maaned": 11,
+      "konkurser": 448,
+      "konkurser_saesonkorrigeret": 299
+    },
+    {
+      "aar": 2020,
+      "maaned": 12,
+      "konkurser": 713,
+      "konkurser_saesonkorrigeret": 559
+    },
+    {
+      "aar": 2021,
+      "maaned": 1,
+      "konkurser": 1111,
+      "konkurser_saesonkorrigeret": 1330
+    },
+    {
+      "aar": 2021,
+      "maaned": 2,
+      "konkurser": 1194,
+      "konkurser_saesonkorrigeret": 1407
+    },
+    {
+      "aar": 2021,
+      "maaned": 3,
+      "konkurser": 861,
+      "konkurser_saesonkorrigeret": 712
+    },
+    {
+      "aar": 2021,
+      "maaned": 4,
+      "konkurser": 589,
+      "konkurser_saesonkorrigeret": 612
+    },
+    {
+      "aar": 2021,
+      "maaned": 5,
+      "konkurser": 508,
+      "konkurser_saesonkorrigeret": 525
+    },
+    {
+      "aar": 2021,
+      "maaned": 6,
+      "konkurser": 486,
+      "konkurser_saesonkorrigeret": 540
+    },
+    {
+      "aar": 2021,
+      "maaned": 7,
+      "konkurser": 454,
+      "konkurser_saesonkorrigeret": 536
+    },
+    {
+      "aar": 2021,
+      "maaned": 8,
+      "konkurser": 194,
+      "konkurser_saesonkorrigeret": 360
+    },
+    {
+      "aar": 2021,
+      "maaned": 9,
+      "konkurser": 383,
+      "konkurser_saesonkorrigeret": 459
+    },
+    {
+      "aar": 2021,
+      "maaned": 10,
+      "konkurser": 774,
+      "konkurser_saesonkorrigeret": 574
+    },
+    {
+      "aar": 2021,
+      "maaned": 11,
+      "konkurser": 795,
+      "konkurser_saesonkorrigeret": 517
+    },
+    {
+      "aar": 2021,
+      "maaned": 12,
+      "konkurser": 980,
+      "konkurser_saesonkorrigeret": 801
+    },
+    {
+      "aar": 2022,
+      "maaned": 1,
+      "konkurser": 447,
+      "konkurser_saesonkorrigeret": 543
+    },
+    {
+      "aar": 2022,
+      "maaned": 2,
+      "konkurser": 362,
+      "konkurser_saesonkorrigeret": 421
+    },
+    {
+      "aar": 2022,
+      "maaned": 3,
+      "konkurser": 967,
+      "konkurser_saesonkorrigeret": 817
+    },
+    {
+      "aar": 2022,
+      "maaned": 4,
+      "konkurser": 729,
+      "konkurser_saesonkorrigeret": 790
+    },
+    {
+      "aar": 2022,
+      "maaned": 5,
+      "konkurser": 830,
+      "konkurser_saesonkorrigeret": 881
+    },
+    {
+      "aar": 2022,
+      "maaned": 6,
+      "konkurser": 629,
+      "konkurser_saesonkorrigeret": 717
+    },
+    {
+      "aar": 2022,
+      "maaned": 7,
+      "konkurser": 476,
+      "konkurser_saesonkorrigeret": 587
+    },
+    {
+      "aar": 2022,
+      "maaned": 8,
+      "konkurser": 311,
+      "konkurser_saesonkorrigeret": 578
+    },
+    {
+      "aar": 2022,
+      "maaned": 9,
+      "konkurser": 529,
+      "konkurser_saesonkorrigeret": 580
+    },
+    {
+      "aar": 2022,
+      "maaned": 10,
+      "konkurser": 906,
+      "konkurser_saesonkorrigeret": 619
+    },
+    {
+      "aar": 2022,
+      "maaned": 11,
+      "konkurser": 956,
+      "konkurser_saesonkorrigeret": 597
+    },
+    {
+      "aar": 2022,
+      "maaned": 12,
+      "konkurser": 654,
+      "konkurser_saesonkorrigeret": 572
+    },
+    {
+      "aar": 2023,
+      "maaned": 1,
+      "konkurser": 493,
+      "konkurser_saesonkorrigeret": 620
+    },
+    {
+      "aar": 2023,
+      "maaned": 2,
+      "konkurser": 504,
+      "konkurser_saesonkorrigeret": 584
+    },
+    {
+      "aar": 2023,
+      "maaned": 3,
+      "konkurser": 612,
+      "konkurser_saesonkorrigeret": 535
+    },
+    {
+      "aar": 2023,
+      "maaned": 4,
+      "konkurser": 405,
+      "konkurser_saesonkorrigeret": 459
+    },
+    {
+      "aar": 2023,
+      "maaned": 5,
+      "konkurser": 430,
+      "konkurser_saesonkorrigeret": 465
+    },
+    {
+      "aar": 2023,
+      "maaned": 6,
+      "konkurser": 588,
+      "konkurser_saesonkorrigeret": 688
+    },
+    {
+      "aar": 2023,
+      "maaned": 7,
+      "konkurser": 415,
+      "konkurser_saesonkorrigeret": 537
+    },
+    {
+      "aar": 2023,
+      "maaned": 8,
+      "konkurser": 326,
+      "konkurser_saesonkorrigeret": 590
+    },
+    {
+      "aar": 2023,
+      "maaned": 9,
+      "konkurser": 611,
+      "konkurser_saesonkorrigeret": 612
+    },
+    {
+      "aar": 2023,
+      "maaned": 10,
+      "konkurser": 921,
+      "konkurser_saesonkorrigeret": 592
+    },
+    {
+      "aar": 2023,
+      "maaned": 11,
+      "konkurser": 1098,
+      "konkurser_saesonkorrigeret": 659
+    },
+    {
+      "aar": 2023,
+      "maaned": 12,
+      "konkurser": 519,
+      "konkurser_saesonkorrigeret": 489
+    },
+    {
+      "aar": 2024,
+      "maaned": 1,
+      "konkurser": 414,
+      "konkurser_saesonkorrigeret": 524
+    },
+    {
+      "aar": 2024,
+      "maaned": 2,
+      "konkurser": 477,
+      "konkurser_saesonkorrigeret": 560
+    },
+    {
+      "aar": 2024,
+      "maaned": 3,
+      "konkurser": 438,
+      "konkurser_saesonkorrigeret": 400
+    },
+    {
+      "aar": 2024,
+      "maaned": 4,
+      "konkurser": 471,
+      "konkurser_saesonkorrigeret": 551
+    },
+    {
+      "aar": 2024,
+      "maaned": 5,
+      "konkurser": 432,
+      "konkurser_saesonkorrigeret": 482
+    },
+    {
+      "aar": 2024,
+      "maaned": 6,
+      "konkurser": 414,
+      "konkurser_saesonkorrigeret": 499
+    },
+    {
+      "aar": 2024,
+      "maaned": 7,
+      "konkurser": 421,
+      "konkurser_saesonkorrigeret": 565
+    },
+    {
+      "aar": 2024,
+      "maaned": 8,
+      "konkurser": 350,
+      "konkurser_saesonkorrigeret": 613
+    },
+    {
+      "aar": 2024,
+      "maaned": 9,
+      "konkurser": 593,
+      "konkurser_saesonkorrigeret": 552
+    },
+    {
+      "aar": 2024,
+      "maaned": 10,
+      "konkurser": 861,
+      "konkurser_saesonkorrigeret": 526
+    },
+    {
+      "aar": 2024,
+      "maaned": 11,
+      "konkurser": 844,
+      "konkurser_saesonkorrigeret": 488
+    },
+    {
+      "aar": 2024,
+      "maaned": 12,
+      "konkurser": 440,
+      "konkurser_saesonkorrigeret": 443
+    },
+    {
+      "aar": 2025,
+      "maaned": 1,
+      "konkurser": 414,
+      "konkurser_saesonkorrigeret": 529
+    },
+    {
+      "aar": 2025,
+      "maaned": 2,
+      "konkurser": 405,
+      "konkurser_saesonkorrigeret": 486
+    },
+    {
+      "aar": 2025,
+      "maaned": 3,
+      "konkurser": 548,
+      "konkurser_saesonkorrigeret": 524
+    },
+    {
+      "aar": 2025,
+      "maaned": 4,
+      "konkurser": 453,
+      "konkurser_saesonkorrigeret": 541
+    },
+    {
+      "aar": 2025,
+      "maaned": 5,
+      "konkurser": 562,
+      "konkurser_saesonkorrigeret": 635
+    },
+    {
+      "aar": 2025,
+      "maaned": 6,
+      "konkurser": 390,
+      "konkurser_saesonkorrigeret": 486
+    },
+    {
+      "aar": 2025,
+      "maaned": 7,
+      "konkurser": 423,
+      "konkurser_saesonkorrigeret": 580
+    },
+    {
+      "aar": 2025,
+      "maaned": 8,
+      "konkurser": 311,
+      "konkurser_saesonkorrigeret": 523
+    },
+    {
+      "aar": 2025,
+      "maaned": 9,
+      "konkurser": 600,
+      "konkurser_saesonkorrigeret": 526
+    },
+    {
+      "aar": 2025,
+      "maaned": 10,
+      "konkurser": 896,
+      "konkurser_saesonkorrigeret": 534
+    },
+    {
+      "aar": 2025,
+      "maaned": 11,
+      "konkurser": 928,
+      "konkurser_saesonkorrigeret": 531
+    },
+    {
+      "aar": 2025,
+      "maaned": 12,
+      "konkurser": 492,
+      "konkurser_saesonkorrigeret": 510
+    },
+    {
+      "aar": 2026,
+      "maaned": 1,
+      "konkurser": 372,
+      "konkurser_saesonkorrigeret": 477
+    },
+    {
+      "aar": 2026,
+      "maaned": 2,
+      "konkurser": 388,
+      "konkurser_saesonkorrigeret": 476
+    },
+    {
+      "aar": 2026,
+      "maaned": 3,
+      "konkurser": 469,
+      "konkurser_saesonkorrigeret": 463
+    },
+    {
+      "aar": 2026,
+      "maaned": 4,
+      "konkurser": 377,
+      "konkurser_saesonkorrigeret": 454
+    },
+    {
+      "aar": 2026,
+      "maaned": 5,
+      "konkurser": 391,
+      "konkurser_saesonkorrigeret": 442
+    },
+    {
+      "aar": 2026,
+      "maaned": 6,
+      "konkurser": 370,
+      "konkurser_saesonkorrigeret": 470
+    },
+    {
+      "aar": 2026,
+      "maaned": 7,
+      "konkurser": 292,
+      "konkurser_saesonkorrigeret": 400
+    },
+    {
+      "aar": 2026,
+      "maaned": 8,
+      "konkurser": 290,
+      "konkurser_saesonkorrigeret": 480
+    },
+    {
+      "aar": 2026,
+      "maaned": 9,
+      "konkurser": 641,
+      "konkurser_saesonkorrigeret": 546
+    },
+    {
+      "aar": 2026,
+      "maaned": 10,
+      "konkurser": 877,
+      "konkurser_saesonkorrigeret": 515
+    }
+  ],
+  "meta": {
+    "title": "Erklærede konkurser i Danmark pr. måned siden 1979 - Free Download",
+    "description": "Antal erklærede konkurser i Danmark pr. måned fra 1979, både faktiske tal og sæsonkorrigerede tal (historisk sammendrag). Contains 574 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Erklærede konkurser i Danmark pr. måned siden 1979 | ListBase",
+    "seo_description": "Download Erklærede konkurser i Danmark pr. måned siden 1979 — 574 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 574 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/KONK9"
+    ]
+  }
+}

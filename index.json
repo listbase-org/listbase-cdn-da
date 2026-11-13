@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-13T02:24:06.056Z",
-  "total_datasets": 494,
-  "total_records": 240748,
+  "generated": "2026-11-13T02:24:16.811Z",
+  "total_datasets": 495,
+  "total_records": 241322,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -1440,6 +1440,31 @@
         "xlsx": {
           "name": "da-bnp-og-oekonomisk-vaekst_DA.xlsx",
           "size": 8580
+        }
+      }
+    },
+    {
+      "id": "da-erklaerede-konkurser-maanedlig",
+      "name": "Erklærede konkurser i Danmark pr. måned siden 1979",
+      "category": "economy",
+      "record_count": 574,
+      "columns": [
+        "aar",
+        "maaned",
+        "konkurser",
+        "konkurser_saesonkorrigeret"
+      ],
+      "source": "https://www.statistikbanken.dk/KONK9",
+      "updated": "2026-11",
+      "size": 67797,
+      "files": {
+        "csv": {
+          "name": "da-erklaerede-konkurser-maanedlig_DA.csv",
+          "size": 13392
+        },
+        "xlsx": {
+          "name": "da-erklaerede-konkurser-maanedlig_DA.xlsx",
+          "size": 17554
         }
       }
     },
