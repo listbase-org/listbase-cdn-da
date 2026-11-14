@@ -1,12 +1,12 @@
 {
   "lang": "da",
-  "generated": "2026-11-14T02:21:54.171Z",
-  "total_datasets": 500,
-  "total_records": 244770,
+  "generated": "2026-11-14T02:22:06.505Z",
+  "total_datasets": 501,
+  "total_records": 244886,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -303,6 +303,41 @@
         "xlsx": {
           "name": "da-salgspriser-landbrugsprodukter-2025_DA.xlsx",
           "size": 8823
+        }
+      }
+    },
+    {
+      "id": "da-svinebestanden-kvartalsvis",
+      "name": "Svinebestanden i Danmark pr. kvartal",
+      "category": "agriculture",
+      "record_count": 116,
+      "columns": [
+        "kvartal",
+        "avlsorner",
+        "soeer_i_alt",
+        "gylte_1_gangs_draegtige",
+        "draegtige_soeer_andre",
+        "diegivende_soeer",
+        "pattegrise_hos_soeer",
+        "fravaennede_svin_under_50_kg",
+        "goldsoeer",
+        "sopolte_50_kg_til_avl",
+        "slagtesvin_50_kg",
+        "orner_og_soeer_til_slagtning",
+        "svin_i_alt",
+        "saesonkorrigerede_tal_svin_i_alt"
+      ],
+      "source": "https://www.statistikbanken.dk/SVIN",
+      "updated": "2026-11",
+      "size": 58616,
+      "files": {
+        "csv": {
+          "name": "da-svinebestanden-kvartalsvis_DA.csv",
+          "size": 10710
+        },
+        "xlsx": {
+          "name": "da-svinebestanden-kvartalsvis_DA.xlsx",
+          "size": 15530
         }
       }
     },
