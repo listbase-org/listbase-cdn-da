@@ -1,0 +1,303 @@
+{
+  "id": "da-drivhusgasudledning-efter-erhverv",
+  "name": "Erhvervenes udledning af drivhusgasser i Danmark",
+  "title": "Erhvervenes udledning af drivhusgasser i Danmark",
+  "description": "Årlig udledning af drivhusgasser (1.000 ton CO2-ækvivalenter) fra landbrug/skovbrug/fiskeri, industri, forsyningsvirksomhed og øvrige virksomheder i Danmark siden 1990 (Danmarks Statistik, TEMA9005).",
+  "category": "environment",
+  "source": "https://www.statistikbanken.dk/TEMA9005",
+  "source_url": "https://www.statistikbanken.dk/TEMA9005",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "landbrug_skovbrug_fiskeri_1000_ton",
+      "label": "Landbrug Skovbrug Fiskeri 1000 Ton",
+      "type": "number"
+    },
+    {
+      "key": "industri_1000_ton",
+      "label": "Industri 1000 Ton",
+      "type": "number"
+    },
+    {
+      "key": "forsyningsvirksomhed_1000_ton",
+      "label": "Forsyningsvirksomhed 1000 Ton",
+      "type": "number"
+    },
+    {
+      "key": "oevrige_virksomheder_1000_ton",
+      "label": "Oevrige Virksomheder 1000 Ton",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1990,
+      "landbrug_skovbrug_fiskeri_1000_ton": 17004,
+      "industri_1000_ton": 8228,
+      "forsyningsvirksomhed_1000_ton": 27500,
+      "oevrige_virksomheder_1000_ton": 11077
+    },
+    {
+      "aar": 1991,
+      "landbrug_skovbrug_fiskeri_1000_ton": 16992,
+      "industri_1000_ton": 8785,
+      "forsyningsvirksomhed_1000_ton": 36396,
+      "oevrige_virksomheder_1000_ton": 11681
+    },
+    {
+      "aar": 1992,
+      "landbrug_skovbrug_fiskeri_1000_ton": 16729,
+      "industri_1000_ton": 8874,
+      "forsyningsvirksomhed_1000_ton": 31026,
+      "oevrige_virksomheder_1000_ton": 11511
+    },
+    {
+      "aar": 1993,
+      "landbrug_skovbrug_fiskeri_1000_ton": 16698,
+      "industri_1000_ton": 8863,
+      "forsyningsvirksomhed_1000_ton": 32640,
+      "oevrige_virksomheder_1000_ton": 11772
+    },
+    {
+      "aar": 1994,
+      "landbrug_skovbrug_fiskeri_1000_ton": 16531,
+      "industri_1000_ton": 9026,
+      "forsyningsvirksomhed_1000_ton": 36769,
+      "oevrige_virksomheder_1000_ton": 11853
+    },
+    {
+      "aar": 1995,
+      "landbrug_skovbrug_fiskeri_1000_ton": 16636,
+      "industri_1000_ton": 9837,
+      "forsyningsvirksomhed_1000_ton": 33024,
+      "oevrige_virksomheder_1000_ton": 11621
+    },
+    {
+      "aar": 1996,
+      "landbrug_skovbrug_fiskeri_1000_ton": 16285,
+      "industri_1000_ton": 9931,
+      "forsyningsvirksomhed_1000_ton": 45494,
+      "oevrige_virksomheder_1000_ton": 12248
+    },
+    {
+      "aar": 1997,
+      "landbrug_skovbrug_fiskeri_1000_ton": 16156,
+      "industri_1000_ton": 9503,
+      "forsyningsvirksomhed_1000_ton": 36312,
+      "oevrige_virksomheder_1000_ton": 12998
+    },
+    {
+      "aar": 1998,
+      "landbrug_skovbrug_fiskeri_1000_ton": 16128,
+      "industri_1000_ton": 9329,
+      "forsyningsvirksomhed_1000_ton": 32726,
+      "oevrige_virksomheder_1000_ton": 12591
+    },
+    {
+      "aar": 1999,
+      "landbrug_skovbrug_fiskeri_1000_ton": 15742,
+      "industri_1000_ton": 9373,
+      "forsyningsvirksomhed_1000_ton": 29512,
+      "oevrige_virksomheder_1000_ton": 13188
+    },
+    {
+      "aar": 2000,
+      "landbrug_skovbrug_fiskeri_1000_ton": 15870,
+      "industri_1000_ton": 9184,
+      "forsyningsvirksomhed_1000_ton": 26257,
+      "oevrige_virksomheder_1000_ton": 12519
+    },
+    {
+      "aar": 2001,
+      "landbrug_skovbrug_fiskeri_1000_ton": 15911,
+      "industri_1000_ton": 9171,
+      "forsyningsvirksomhed_1000_ton": 27531,
+      "oevrige_virksomheder_1000_ton": 12745
+    },
+    {
+      "aar": 2002,
+      "landbrug_skovbrug_fiskeri_1000_ton": 15842,
+      "industri_1000_ton": 8667,
+      "forsyningsvirksomhed_1000_ton": 27595,
+      "oevrige_virksomheder_1000_ton": 12304
+    },
+    {
+      "aar": 2003,
+      "landbrug_skovbrug_fiskeri_1000_ton": 15589,
+      "industri_1000_ton": 8673,
+      "forsyningsvirksomhed_1000_ton": 32351,
+      "oevrige_virksomheder_1000_ton": 12935
+    },
+    {
+      "aar": 2004,
+      "landbrug_skovbrug_fiskeri_1000_ton": 15467,
+      "industri_1000_ton": 8600,
+      "forsyningsvirksomhed_1000_ton": 26183,
+      "oevrige_virksomheder_1000_ton": 13114
+    },
+    {
+      "aar": 2005,
+      "landbrug_skovbrug_fiskeri_1000_ton": 15319,
+      "industri_1000_ton": 7732,
+      "forsyningsvirksomhed_1000_ton": 22802,
+      "oevrige_virksomheder_1000_ton": 12912
+    },
+    {
+      "aar": 2006,
+      "landbrug_skovbrug_fiskeri_1000_ton": 15012,
+      "industri_1000_ton": 8008,
+      "forsyningsvirksomhed_1000_ton": 30578,
+      "oevrige_virksomheder_1000_ton": 13061
+    },
+    {
+      "aar": 2007,
+      "landbrug_skovbrug_fiskeri_1000_ton": 15094,
+      "industri_1000_ton": 7800,
+      "forsyningsvirksomhed_1000_ton": 25805,
+      "oevrige_virksomheder_1000_ton": 13307
+    },
+    {
+      "aar": 2008,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14956,
+      "industri_1000_ton": 6951,
+      "forsyningsvirksomhed_1000_ton": 23675,
+      "oevrige_virksomheder_1000_ton": 12711
+    },
+    {
+      "aar": 2009,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14778,
+      "industri_1000_ton": 5812,
+      "forsyningsvirksomhed_1000_ton": 23584,
+      "oevrige_virksomheder_1000_ton": 11472
+    },
+    {
+      "aar": 2010,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14755,
+      "industri_1000_ton": 5828,
+      "forsyningsvirksomhed_1000_ton": 23668,
+      "oevrige_virksomheder_1000_ton": 11886
+    },
+    {
+      "aar": 2011,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14740,
+      "industri_1000_ton": 6102,
+      "forsyningsvirksomhed_1000_ton": 20684,
+      "oevrige_virksomheder_1000_ton": 10914
+    },
+    {
+      "aar": 2012,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14564,
+      "industri_1000_ton": 5876,
+      "forsyningsvirksomhed_1000_ton": 17147,
+      "oevrige_virksomheder_1000_ton": 10454
+    },
+    {
+      "aar": 2013,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14610,
+      "industri_1000_ton": 5581,
+      "forsyningsvirksomhed_1000_ton": 20096,
+      "oevrige_virksomheder_1000_ton": 10299
+    },
+    {
+      "aar": 2014,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14574,
+      "industri_1000_ton": 5550,
+      "forsyningsvirksomhed_1000_ton": 15579,
+      "oevrige_virksomheder_1000_ton": 10044
+    },
+    {
+      "aar": 2015,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14495,
+      "industri_1000_ton": 5557,
+      "forsyningsvirksomhed_1000_ton": 12698,
+      "oevrige_virksomheder_1000_ton": 10368
+    },
+    {
+      "aar": 2016,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14684,
+      "industri_1000_ton": 5728,
+      "forsyningsvirksomhed_1000_ton": 14078,
+      "oevrige_virksomheder_1000_ton": 10445
+    },
+    {
+      "aar": 2017,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14591,
+      "industri_1000_ton": 6018,
+      "forsyningsvirksomhed_1000_ton": 12118,
+      "oevrige_virksomheder_1000_ton": 10589
+    },
+    {
+      "aar": 2018,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14468,
+      "industri_1000_ton": 5842,
+      "forsyningsvirksomhed_1000_ton": 11251,
+      "oevrige_virksomheder_1000_ton": 10816
+    },
+    {
+      "aar": 2019,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14223,
+      "industri_1000_ton": 5676,
+      "forsyningsvirksomhed_1000_ton": 8094,
+      "oevrige_virksomheder_1000_ton": 10293
+    },
+    {
+      "aar": 2020,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14365,
+      "industri_1000_ton": 5686,
+      "forsyningsvirksomhed_1000_ton": 7196,
+      "oevrige_virksomheder_1000_ton": 8766
+    },
+    {
+      "aar": 2021,
+      "landbrug_skovbrug_fiskeri_1000_ton": 14188,
+      "industri_1000_ton": 5898,
+      "forsyningsvirksomhed_1000_ton": 8073,
+      "oevrige_virksomheder_1000_ton": 9056
+    },
+    {
+      "aar": 2022,
+      "landbrug_skovbrug_fiskeri_1000_ton": 13949,
+      "industri_1000_ton": 5397,
+      "forsyningsvirksomhed_1000_ton": 7873,
+      "oevrige_virksomheder_1000_ton": 9385
+    },
+    {
+      "aar": 2023,
+      "landbrug_skovbrug_fiskeri_1000_ton": 12909,
+      "industri_1000_ton": 4707,
+      "forsyningsvirksomhed_1000_ton": 6341,
+      "oevrige_virksomheder_1000_ton": 9512
+    },
+    {
+      "aar": 2024,
+      "landbrug_skovbrug_fiskeri_1000_ton": 12899,
+      "industri_1000_ton": 4333,
+      "forsyningsvirksomhed_1000_ton": 5623,
+      "oevrige_virksomheder_1000_ton": 9777
+    },
+    {
+      "aar": 2025,
+      "landbrug_skovbrug_fiskeri_1000_ton": 12723,
+      "industri_1000_ton": 4024,
+      "forsyningsvirksomhed_1000_ton": 4490,
+      "oevrige_virksomheder_1000_ton": 9050
+    }
+  ],
+  "meta": {
+    "title": "Erhvervenes udledning af drivhusgasser i Danmark - Free Download",
+    "description": "Årlig udledning af drivhusgasser (1.000 ton CO2-ækvivalenter) fra landbrug/skovbrug/fiskeri, industri, forsyningsvirksomhed og øvrige virksomheder i Danmark siden 1990 (Danmarks Statistik, TEMA9005). Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Erhvervenes udledning af drivhusgasser i Danmark | ListBase",
+    "seo_description": "Download Erhvervenes udledning af drivhusgasser i Danmark — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/TEMA9005"
+    ]
+  }
+}

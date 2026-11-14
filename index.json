@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-13T02:24:38.827Z",
-  "total_datasets": 497,
-  "total_records": 243172,
+  "generated": "2026-11-14T02:21:30.171Z",
+  "total_datasets": 498,
+  "total_records": 243208,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -2132,6 +2132,32 @@
         "xlsx": {
           "name": "da-biokraftvaerker_DA.xlsx",
           "size": 8078
+        }
+      }
+    },
+    {
+      "id": "da-drivhusgasudledning-efter-erhverv",
+      "name": "Erhvervenes udledning af drivhusgasser i Danmark",
+      "category": "environment",
+      "record_count": 36,
+      "columns": [
+        "aar",
+        "landbrug_skovbrug_fiskeri_1000_ton",
+        "industri_1000_ton",
+        "forsyningsvirksomhed_1000_ton",
+        "oevrige_virksomheder_1000_ton"
+      ],
+      "source": "https://www.statistikbanken.dk/TEMA9005",
+      "updated": "2026-11",
+      "size": 9448,
+      "files": {
+        "csv": {
+          "name": "da-drivhusgasudledning-efter-erhverv_DA.csv",
+          "size": 1484
+        },
+        "xlsx": {
+          "name": "da-drivhusgasudledning-efter-erhverv_DA.xlsx",
+          "size": 7957
         }
       }
     },
