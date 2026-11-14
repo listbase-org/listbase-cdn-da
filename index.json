@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-14T02:21:30.171Z",
-  "total_datasets": 498,
-  "total_records": 243208,
+  "generated": "2026-11-14T02:21:41.587Z",
+  "total_datasets": 499,
+  "total_records": 243310,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -11904,6 +11904,34 @@
         "xlsx": {
           "name": "da-forskning-og-udvikling-pct-af-bnp_DA.xlsx",
           "size": 7413
+        }
+      }
+    },
+    {
+      "id": "da-fou-udgifter-efter-videnskabeligt-omraade",
+      "name": "Udgifter til forskning og udvikling efter videnskabeligt hovedområde",
+      "category": "science",
+      "record_count": 102,
+      "columns": [
+        "aar",
+        "videnskabeligt_hovedomraade",
+        "i_alt_mio_kr",
+        "private_erhverv_mio_kr",
+        "offentlige_myndigheder_mio_kr",
+        "hoejere_laereanstalter_mio_kr",
+        "private_nonprofit_mio_kr"
+      ],
+      "source": "https://www.statistikbanken.dk/RDCE05",
+      "updated": "2026-11",
+      "size": 30848,
+      "files": {
+        "csv": {
+          "name": "da-fou-udgifter-efter-videnskabeligt-omraade_DA.csv",
+          "size": 5571
+        },
+        "xlsx": {
+          "name": "da-fou-udgifter-efter-videnskabeligt-omraade_DA.xlsx",
+          "size": 10069
         }
       }
     },

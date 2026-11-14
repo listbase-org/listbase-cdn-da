@@ -1,0 +1,979 @@
+{
+  "id": "da-fou-udgifter-efter-videnskabeligt-omraade",
+  "name": "Udgifter til forskning og udvikling efter videnskabeligt hovedområde",
+  "title": "Udgifter til forskning og udvikling efter videnskabeligt hovedområde",
+  "description": "Danmarks udgifter til forskning og udvikling (FoU) i mio. kr. fordelt på naturvidenskab, teknisk videnskab, sundhedsvidenskab, jordbrugsvidenskab, samfundsvidenskab og humaniora samt sektor siden 2008 (Danmarks Statistik, RDCE05).",
+  "category": "science",
+  "source": "https://www.statistikbanken.dk/RDCE05",
+  "source_url": "https://www.statistikbanken.dk/RDCE05",
+  "updated": "2026-11",
+  "record_count": 102,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "videnskabeligt_hovedomraade",
+      "label": "Videnskabeligt Hovedomraade",
+      "type": "string"
+    },
+    {
+      "key": "i_alt_mio_kr",
+      "label": "I Alt Mio Kr",
+      "type": "string"
+    },
+    {
+      "key": "private_erhverv_mio_kr",
+      "label": "Private Erhverv Mio Kr",
+      "type": "string"
+    },
+    {
+      "key": "offentlige_myndigheder_mio_kr",
+      "label": "Offentlige Myndigheder Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "hoejere_laereanstalter_mio_kr",
+      "label": "Hoejere Laereanstalter Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "private_nonprofit_mio_kr",
+      "label": "Private Nonprofit Mio Kr",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 2008,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 171,
+      "hoejere_laereanstalter_mio_kr": 1119,
+      "private_nonprofit_mio_kr": 1
+    },
+    {
+      "aar": 2008,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 0,
+      "hoejere_laereanstalter_mio_kr": 1266,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2008,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 235,
+      "hoejere_laereanstalter_mio_kr": 3115,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2008,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 274,
+      "hoejere_laereanstalter_mio_kr": 1837,
+      "private_nonprofit_mio_kr": 25
+    },
+    {
+      "aar": 2008,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 294,
+      "hoejere_laereanstalter_mio_kr": 4169,
+      "private_nonprofit_mio_kr": 175
+    },
+    {
+      "aar": 2008,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 17,
+      "hoejere_laereanstalter_mio_kr": 2010,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2009,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 172,
+      "hoejere_laereanstalter_mio_kr": 1139,
+      "private_nonprofit_mio_kr": 1
+    },
+    {
+      "aar": 2009,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 4,
+      "hoejere_laereanstalter_mio_kr": 1528,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2009,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 241,
+      "hoejere_laereanstalter_mio_kr": 3199,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2009,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 264,
+      "hoejere_laereanstalter_mio_kr": 2065,
+      "private_nonprofit_mio_kr": 47
+    },
+    {
+      "aar": 2009,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 394,
+      "hoejere_laereanstalter_mio_kr": 4399,
+      "private_nonprofit_mio_kr": 172
+    },
+    {
+      "aar": 2009,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 15,
+      "hoejere_laereanstalter_mio_kr": 2257,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2010,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 148,
+      "hoejere_laereanstalter_mio_kr": 1285,
+      "private_nonprofit_mio_kr": 1
+    },
+    {
+      "aar": 2010,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 0,
+      "hoejere_laereanstalter_mio_kr": 1513,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2010,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 223,
+      "hoejere_laereanstalter_mio_kr": 3515,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2010,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 467,
+      "hoejere_laereanstalter_mio_kr": 2373,
+      "private_nonprofit_mio_kr": 39
+    },
+    {
+      "aar": 2010,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 303,
+      "hoejere_laereanstalter_mio_kr": 4860,
+      "private_nonprofit_mio_kr": 192
+    },
+    {
+      "aar": 2010,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 25,
+      "hoejere_laereanstalter_mio_kr": 2469,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2011,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 145,
+      "hoejere_laereanstalter_mio_kr": 1090,
+      "private_nonprofit_mio_kr": 1
+    },
+    {
+      "aar": 2011,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 0,
+      "hoejere_laereanstalter_mio_kr": 1393,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2011,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 228,
+      "hoejere_laereanstalter_mio_kr": 3552,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2011,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 435,
+      "hoejere_laereanstalter_mio_kr": 2555,
+      "private_nonprofit_mio_kr": 34
+    },
+    {
+      "aar": 2011,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 279,
+      "hoejere_laereanstalter_mio_kr": 5702,
+      "private_nonprofit_mio_kr": 165
+    },
+    {
+      "aar": 2011,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 17,
+      "hoejere_laereanstalter_mio_kr": 2501,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2012,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 165,
+      "hoejere_laereanstalter_mio_kr": 1338,
+      "private_nonprofit_mio_kr": 1
+    },
+    {
+      "aar": 2012,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 9,
+      "hoejere_laereanstalter_mio_kr": 1424,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2012,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 293,
+      "hoejere_laereanstalter_mio_kr": 3637,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2012,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 527,
+      "hoejere_laereanstalter_mio_kr": 2421,
+      "private_nonprofit_mio_kr": 44
+    },
+    {
+      "aar": 2012,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 331,
+      "hoejere_laereanstalter_mio_kr": 6176,
+      "private_nonprofit_mio_kr": 188
+    },
+    {
+      "aar": 2012,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 17,
+      "hoejere_laereanstalter_mio_kr": 2879,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2013,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 188,
+      "hoejere_laereanstalter_mio_kr": 1327,
+      "private_nonprofit_mio_kr": 2
+    },
+    {
+      "aar": 2013,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 0,
+      "hoejere_laereanstalter_mio_kr": 1282,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2013,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 241,
+      "hoejere_laereanstalter_mio_kr": 3808,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2013,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 468,
+      "hoejere_laereanstalter_mio_kr": 2864,
+      "private_nonprofit_mio_kr": 42
+    },
+    {
+      "aar": 2013,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 436,
+      "hoejere_laereanstalter_mio_kr": 7141,
+      "private_nonprofit_mio_kr": 194
+    },
+    {
+      "aar": 2013,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 17,
+      "hoejere_laereanstalter_mio_kr": 3002,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2014,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 203,
+      "hoejere_laereanstalter_mio_kr": 1236,
+      "private_nonprofit_mio_kr": 1
+    },
+    {
+      "aar": 2014,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": "",
+      "hoejere_laereanstalter_mio_kr": 1366,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2014,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 228,
+      "hoejere_laereanstalter_mio_kr": 3696,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2014,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 438,
+      "hoejere_laereanstalter_mio_kr": 3066,
+      "private_nonprofit_mio_kr": 26
+    },
+    {
+      "aar": 2014,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 437,
+      "hoejere_laereanstalter_mio_kr": 7078,
+      "private_nonprofit_mio_kr": 209
+    },
+    {
+      "aar": 2014,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 17,
+      "hoejere_laereanstalter_mio_kr": 2915,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2015,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 204,
+      "hoejere_laereanstalter_mio_kr": 1387,
+      "private_nonprofit_mio_kr": 2
+    },
+    {
+      "aar": 2015,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 0,
+      "hoejere_laereanstalter_mio_kr": 1500,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2015,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 197,
+      "hoejere_laereanstalter_mio_kr": 4402,
+      "private_nonprofit_mio_kr": 2
+    },
+    {
+      "aar": 2015,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 406,
+      "hoejere_laereanstalter_mio_kr": 3147,
+      "private_nonprofit_mio_kr": 25
+    },
+    {
+      "aar": 2015,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 571,
+      "hoejere_laereanstalter_mio_kr": 6788,
+      "private_nonprofit_mio_kr": 190
+    },
+    {
+      "aar": 2015,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 10,
+      "hoejere_laereanstalter_mio_kr": 3892,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2016,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 261,
+      "hoejere_laereanstalter_mio_kr": 1410,
+      "private_nonprofit_mio_kr": 1
+    },
+    {
+      "aar": 2016,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 0,
+      "hoejere_laereanstalter_mio_kr": 1203,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2016,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 199,
+      "hoejere_laereanstalter_mio_kr": 4444,
+      "private_nonprofit_mio_kr": 2
+    },
+    {
+      "aar": 2016,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 352,
+      "hoejere_laereanstalter_mio_kr": 3071,
+      "private_nonprofit_mio_kr": 21
+    },
+    {
+      "aar": 2016,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 618,
+      "hoejere_laereanstalter_mio_kr": 7151,
+      "private_nonprofit_mio_kr": 206
+    },
+    {
+      "aar": 2016,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 14,
+      "hoejere_laereanstalter_mio_kr": 3821,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2017,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": 2039,
+      "private_erhverv_mio_kr": 263,
+      "offentlige_myndigheder_mio_kr": 252,
+      "hoejere_laereanstalter_mio_kr": 1523,
+      "private_nonprofit_mio_kr": 1
+    },
+    {
+      "aar": 2017,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": 1747,
+      "private_erhverv_mio_kr": 510,
+      "offentlige_myndigheder_mio_kr": 0,
+      "hoejere_laereanstalter_mio_kr": 1237,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2017,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": 11033,
+      "private_erhverv_mio_kr": 6015,
+      "offentlige_myndigheder_mio_kr": 219,
+      "hoejere_laereanstalter_mio_kr": 4798,
+      "private_nonprofit_mio_kr": 1
+    },
+    {
+      "aar": 2017,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": 3397,
+      "private_erhverv_mio_kr": 296,
+      "offentlige_myndigheder_mio_kr": 448,
+      "hoejere_laereanstalter_mio_kr": 2630,
+      "private_nonprofit_mio_kr": 23
+    },
+    {
+      "aar": 2017,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": 20416,
+      "private_erhverv_mio_kr": 12128,
+      "offentlige_myndigheder_mio_kr": 1020,
+      "hoejere_laereanstalter_mio_kr": 7095,
+      "private_nonprofit_mio_kr": 173
+    },
+    {
+      "aar": 2017,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": 25651,
+      "private_erhverv_mio_kr": 21545,
+      "offentlige_myndigheder_mio_kr": 34,
+      "hoejere_laereanstalter_mio_kr": 4072,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2018,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 270,
+      "hoejere_laereanstalter_mio_kr": 1429,
+      "private_nonprofit_mio_kr": 2
+    },
+    {
+      "aar": 2018,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 0,
+      "hoejere_laereanstalter_mio_kr": 1176,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2018,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 218,
+      "hoejere_laereanstalter_mio_kr": 5136,
+      "private_nonprofit_mio_kr": 1
+    },
+    {
+      "aar": 2018,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 315,
+      "hoejere_laereanstalter_mio_kr": 3100,
+      "private_nonprofit_mio_kr": 37
+    },
+    {
+      "aar": 2018,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 1115,
+      "hoejere_laereanstalter_mio_kr": 7375,
+      "private_nonprofit_mio_kr": 193
+    },
+    {
+      "aar": 2018,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 24,
+      "hoejere_laereanstalter_mio_kr": 4257,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2019,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": 1722,
+      "private_erhverv_mio_kr": 113,
+      "offentlige_myndigheder_mio_kr": 266,
+      "hoejere_laereanstalter_mio_kr": 1341,
+      "private_nonprofit_mio_kr": 2
+    },
+    {
+      "aar": 2019,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": 1773,
+      "private_erhverv_mio_kr": 534,
+      "offentlige_myndigheder_mio_kr": 0,
+      "hoejere_laereanstalter_mio_kr": 1239,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2019,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": 13724,
+      "private_erhverv_mio_kr": 7845,
+      "offentlige_myndigheder_mio_kr": 245,
+      "hoejere_laereanstalter_mio_kr": 5633,
+      "private_nonprofit_mio_kr": 1
+    },
+    {
+      "aar": 2019,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": 3835,
+      "private_erhverv_mio_kr": 291,
+      "offentlige_myndigheder_mio_kr": 368,
+      "hoejere_laereanstalter_mio_kr": 3142,
+      "private_nonprofit_mio_kr": 33
+    },
+    {
+      "aar": 2019,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": 21020,
+      "private_erhverv_mio_kr": 12135,
+      "offentlige_myndigheder_mio_kr": 1072,
+      "hoejere_laereanstalter_mio_kr": 7574,
+      "private_nonprofit_mio_kr": 239
+    },
+    {
+      "aar": 2019,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": 24870,
+      "private_erhverv_mio_kr": 20652,
+      "offentlige_myndigheder_mio_kr": 27,
+      "hoejere_laereanstalter_mio_kr": 4192,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2020,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 258,
+      "hoejere_laereanstalter_mio_kr": 1358,
+      "private_nonprofit_mio_kr": 3
+    },
+    {
+      "aar": 2020,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 55,
+      "hoejere_laereanstalter_mio_kr": 1108,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2020,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 286,
+      "hoejere_laereanstalter_mio_kr": 5095,
+      "private_nonprofit_mio_kr": 1
+    },
+    {
+      "aar": 2020,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 297,
+      "hoejere_laereanstalter_mio_kr": 3221,
+      "private_nonprofit_mio_kr": 34
+    },
+    {
+      "aar": 2020,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 994,
+      "hoejere_laereanstalter_mio_kr": 8683,
+      "private_nonprofit_mio_kr": 210
+    },
+    {
+      "aar": 2020,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 37,
+      "hoejere_laereanstalter_mio_kr": 4404,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2021,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": 1820,
+      "private_erhverv_mio_kr": 138,
+      "offentlige_myndigheder_mio_kr": 241,
+      "hoejere_laereanstalter_mio_kr": 1437,
+      "private_nonprofit_mio_kr": 4
+    },
+    {
+      "aar": 2021,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": 1668,
+      "private_erhverv_mio_kr": 278,
+      "offentlige_myndigheder_mio_kr": 60,
+      "hoejere_laereanstalter_mio_kr": 1330,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2021,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": 12669,
+      "private_erhverv_mio_kr": 6922,
+      "offentlige_myndigheder_mio_kr": 239,
+      "hoejere_laereanstalter_mio_kr": 5508,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2021,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": 4260,
+      "private_erhverv_mio_kr": 272,
+      "offentlige_myndigheder_mio_kr": 308,
+      "hoejere_laereanstalter_mio_kr": 3646,
+      "private_nonprofit_mio_kr": 34
+    },
+    {
+      "aar": 2021,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": 25766,
+      "private_erhverv_mio_kr": 14561,
+      "offentlige_myndigheder_mio_kr": 1088,
+      "hoejere_laereanstalter_mio_kr": 9895,
+      "private_nonprofit_mio_kr": 223
+    },
+    {
+      "aar": 2021,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": 27158,
+      "private_erhverv_mio_kr": 22431,
+      "offentlige_myndigheder_mio_kr": 63,
+      "hoejere_laereanstalter_mio_kr": 4665,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2022,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 251,
+      "hoejere_laereanstalter_mio_kr": 1590,
+      "private_nonprofit_mio_kr": 2
+    },
+    {
+      "aar": 2022,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 61,
+      "hoejere_laereanstalter_mio_kr": 1437,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2022,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 291,
+      "hoejere_laereanstalter_mio_kr": 6029,
+      "private_nonprofit_mio_kr": 13
+    },
+    {
+      "aar": 2022,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 332,
+      "hoejere_laereanstalter_mio_kr": 3897,
+      "private_nonprofit_mio_kr": 41
+    },
+    {
+      "aar": 2022,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 1088,
+      "hoejere_laereanstalter_mio_kr": 10390,
+      "private_nonprofit_mio_kr": 160
+    },
+    {
+      "aar": 2022,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 76,
+      "hoejere_laereanstalter_mio_kr": 4778,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2023,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": 1968,
+      "private_erhverv_mio_kr": 96,
+      "offentlige_myndigheder_mio_kr": 258,
+      "hoejere_laereanstalter_mio_kr": 1612,
+      "private_nonprofit_mio_kr": 2
+    },
+    {
+      "aar": 2023,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": 2967,
+      "private_erhverv_mio_kr": 1309,
+      "offentlige_myndigheder_mio_kr": 61,
+      "hoejere_laereanstalter_mio_kr": 1597,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2023,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": 14505,
+      "private_erhverv_mio_kr": 7494,
+      "offentlige_myndigheder_mio_kr": 306,
+      "hoejere_laereanstalter_mio_kr": 6705,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2023,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": 4524,
+      "private_erhverv_mio_kr": 133,
+      "offentlige_myndigheder_mio_kr": 297,
+      "hoejere_laereanstalter_mio_kr": 4015,
+      "private_nonprofit_mio_kr": 79
+    },
+    {
+      "aar": 2023,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": 34233,
+      "private_erhverv_mio_kr": 21827,
+      "offentlige_myndigheder_mio_kr": 1053,
+      "hoejere_laereanstalter_mio_kr": 11109,
+      "private_nonprofit_mio_kr": 244
+    },
+    {
+      "aar": 2023,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": 27461,
+      "private_erhverv_mio_kr": 22557,
+      "offentlige_myndigheder_mio_kr": 101,
+      "hoejere_laereanstalter_mio_kr": 4803,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2024,
+      "videnskabeligt_hovedomraade": "Humaniora",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 285,
+      "hoejere_laereanstalter_mio_kr": 1695,
+      "private_nonprofit_mio_kr": 2
+    },
+    {
+      "aar": 2024,
+      "videnskabeligt_hovedomraade": "Jordbrugs- og veterinærvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 63,
+      "hoejere_laereanstalter_mio_kr": 1723,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2024,
+      "videnskabeligt_hovedomraade": "Naturvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 329,
+      "hoejere_laereanstalter_mio_kr": 7461,
+      "private_nonprofit_mio_kr": 0
+    },
+    {
+      "aar": 2024,
+      "videnskabeligt_hovedomraade": "Samfundsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 259,
+      "hoejere_laereanstalter_mio_kr": 4304,
+      "private_nonprofit_mio_kr": 80
+    },
+    {
+      "aar": 2024,
+      "videnskabeligt_hovedomraade": "Sundhedsvidenskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 1166,
+      "hoejere_laereanstalter_mio_kr": 11860,
+      "private_nonprofit_mio_kr": 248
+    },
+    {
+      "aar": 2024,
+      "videnskabeligt_hovedomraade": "Teknisk videnskab",
+      "i_alt_mio_kr": "",
+      "private_erhverv_mio_kr": "",
+      "offentlige_myndigheder_mio_kr": 106,
+      "hoejere_laereanstalter_mio_kr": 5231,
+      "private_nonprofit_mio_kr": 0
+    }
+  ],
+  "meta": {
+    "title": "Udgifter til forskning og udvikling efter videnskabeligt hovedområde - Free Download",
+    "description": "Danmarks udgifter til forskning og udvikling (FoU) i mio. kr. fordelt på naturvidenskab, teknisk videnskab, sundhedsvidenskab, jordbrugsvidenskab, samfundsvidenskab og humaniora samt sektor siden 2008 (Danmarks Statistik, RDCE05). Contains 102 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Udgifter til forskning og udvikling efter videnskabeligt hovedområde | ListBase",
+    "seo_description": "Download Udgifter til forskning og udvikling efter videnskabeligt hovedområde — 102 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 102 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/RDCE05"
+    ]
+  }
+}
