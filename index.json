@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-14T02:21:41.587Z",
-  "total_datasets": 499,
-  "total_records": 243310,
+  "generated": "2026-11-14T02:21:54.171Z",
+  "total_datasets": 500,
+  "total_records": 244770,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -12387,6 +12387,34 @@
         "xlsx": {
           "name": "da-dm-ishockey-medaljevindere_DA.xlsx",
           "size": 9037
+        }
+      }
+    },
+    {
+      "id": "da-internationale-sportsmedaljer-efter-idraet",
+      "name": "Danske vindere af internationale sportsmedaljer efter idrætsgren",
+      "category": "sports",
+      "record_count": 1460,
+      "columns": [
+        "aar",
+        "idraetsgren",
+        "mesterskab",
+        "guld",
+        "soelv",
+        "bronze",
+        "i_alt"
+      ],
+      "source": "https://www.statistikbanken.dk/MEDALJE1",
+      "updated": "2026-11",
+      "size": 265688,
+      "files": {
+        "csv": {
+          "name": "da-internationale-sportsmedaljer-efter-idraet_DA.csv",
+          "size": 84109
+        },
+        "xlsx": {
+          "name": "da-internationale-sportsmedaljer-efter-idraet_DA.xlsx",
+          "size": 46365
         }
       }
     },
