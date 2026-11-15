@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-15T02:48:17.679Z",
-  "total_datasets": 503,
-  "total_records": 245014,
+  "generated": "2026-11-15T02:52:41.798Z",
+  "total_datasets": 504,
+  "total_records": 245041,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -3643,6 +3643,47 @@
         "xlsx": {
           "name": "da-apoteker_DA.xlsx",
           "size": 11273
+        }
+      }
+    },
+    {
+      "id": "da-doede-efter-doedsaarsag",
+      "name": "Døde i Danmark efter dødsårsag",
+      "category": "health",
+      "record_count": 27,
+      "columns": [
+        "kode",
+        "doedsaarsag",
+        "doede_2007",
+        "doede_2008",
+        "doede_2009",
+        "doede_2010",
+        "doede_2011",
+        "doede_2012",
+        "doede_2013",
+        "doede_2014",
+        "doede_2015",
+        "doede_2016",
+        "doede_2017",
+        "doede_2018",
+        "doede_2019",
+        "doede_2020",
+        "doede_2021",
+        "doede_2022",
+        "doede_2023",
+        "doede_2024"
+      ],
+      "source": "https://www.statistikbanken.dk/DODA1",
+      "updated": "2026-11",
+      "size": 17914,
+      "files": {
+        "csv": {
+          "name": "da-doede-efter-doedsaarsag_DA.csv",
+          "size": 4453
+        },
+        "xlsx": {
+          "name": "da-doede-efter-doedsaarsag_DA.xlsx",
+          "size": 10097
         }
       }
     },
