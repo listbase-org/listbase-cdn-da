@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-15T02:48:06.512Z",
-  "total_datasets": 502,
-  "total_records": 244967,
+  "generated": "2026-11-15T02:48:17.679Z",
+  "total_datasets": 503,
+  "total_records": 245014,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -1611,6 +1611,34 @@
         "xlsx": {
           "name": "da-forbrugerprisindeks-inflation-1900_DA.xlsx",
           "size": 8989
+        }
+      }
+    },
+    {
+      "id": "da-fuldtidsledige-aarlig-siden-1979",
+      "name": "Fuldtidsledige i Danmark pr. år siden 1979",
+      "category": "economy",
+      "record_count": 47,
+      "columns": [
+        "aar",
+        "ledige_i_alt_1000_personer",
+        "ledige_maend_1000_personer",
+        "ledige_kvinder_1000_personer",
+        "ledige_i_alt_pct",
+        "ledige_maend_pct",
+        "ledige_kvinder_pct"
+      ],
+      "source": "https://www.statistikbanken.dk/AULAAR",
+      "updated": "2026-11",
+      "size": 14062,
+      "files": {
+        "csv": {
+          "name": "da-fuldtidsledige-aarlig-siden-1979_DA.csv",
+          "size": 2353
+        },
+        "xlsx": {
+          "name": "da-fuldtidsledige-aarlig-siden-1979_DA.xlsx",
+          "size": 8552
         }
       }
     },

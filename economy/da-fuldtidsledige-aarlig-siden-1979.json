@@ -1,0 +1,484 @@
+{
+  "id": "da-fuldtidsledige-aarlig-siden-1979",
+  "name": "Fuldtidsledige i Danmark pr. år siden 1979",
+  "title": "Fuldtidsledige i Danmark pr. år siden 1979",
+  "description": "Antal fuldtidsledige (netto, 1.000 personer) og ledighed i procent af arbejdsstyrken i Danmark pr. år siden 1979, fordelt på køn. Kilde: Danmarks Statistik, AULAAR.",
+  "category": "economy",
+  "source": "https://www.statistikbanken.dk/AULAAR",
+  "source_url": "https://www.statistikbanken.dk/AULAAR",
+  "updated": "2026-11",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "ledige_i_alt_1000_personer",
+      "label": "Ledige I Alt 1000 Personer",
+      "type": "number"
+    },
+    {
+      "key": "ledige_maend_1000_personer",
+      "label": "Ledige Maend 1000 Personer",
+      "type": "number"
+    },
+    {
+      "key": "ledige_kvinder_1000_personer",
+      "label": "Ledige Kvinder 1000 Personer",
+      "type": "number"
+    },
+    {
+      "key": "ledige_i_alt_pct",
+      "label": "Ledige I Alt Pct",
+      "type": "number"
+    },
+    {
+      "key": "ledige_maend_pct",
+      "label": "Ledige Maend Pct",
+      "type": "number"
+    },
+    {
+      "key": "ledige_kvinder_pct",
+      "label": "Ledige Kvinder Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1979,
+      "ledige_i_alt_1000_personer": 160.2,
+      "ledige_maend_1000_personer": 76.7,
+      "ledige_kvinder_1000_personer": 83.5,
+      "ledige_i_alt_pct": 6.1,
+      "ledige_maend_pct": 5.3,
+      "ledige_kvinder_pct": 7.1
+    },
+    {
+      "aar": 1980,
+      "ledige_i_alt_1000_personer": 181.8,
+      "ledige_maend_1000_personer": 93.4,
+      "ledige_kvinder_1000_personer": 88.6,
+      "ledige_i_alt_pct": 6.9,
+      "ledige_maend_pct": 6.4,
+      "ledige_kvinder_pct": 7.5
+    },
+    {
+      "aar": 1981,
+      "ledige_i_alt_1000_personer": 236.2,
+      "ledige_maend_1000_personer": 130.2,
+      "ledige_kvinder_1000_personer": 106,
+      "ledige_i_alt_pct": 8.9,
+      "ledige_maend_pct": 9,
+      "ledige_kvinder_pct": 8.9
+    },
+    {
+      "aar": 1982,
+      "ledige_i_alt_1000_personer": 253,
+      "ledige_maend_1000_personer": 136.6,
+      "ledige_kvinder_1000_personer": 116.4,
+      "ledige_i_alt_pct": 9.5,
+      "ledige_maend_pct": 9.4,
+      "ledige_kvinder_pct": 9.6
+    },
+    {
+      "aar": 1983,
+      "ledige_i_alt_1000_personer": 268.8,
+      "ledige_maend_1000_personer": 137,
+      "ledige_kvinder_1000_personer": 131.8,
+      "ledige_i_alt_pct": 10,
+      "ledige_maend_pct": 9.3,
+      "ledige_kvinder_pct": 10.7
+    },
+    {
+      "aar": 1984,
+      "ledige_i_alt_1000_personer": 261.9,
+      "ledige_maend_1000_personer": 123.6,
+      "ledige_kvinder_1000_personer": 138.3,
+      "ledige_i_alt_pct": 9.6,
+      "ledige_maend_pct": 8.4,
+      "ledige_kvinder_pct": 11
+    },
+    {
+      "aar": 1985,
+      "ledige_i_alt_1000_personer": 238.7,
+      "ledige_maend_1000_personer": 105.6,
+      "ledige_kvinder_1000_personer": 133.1,
+      "ledige_i_alt_pct": 8.6,
+      "ledige_maend_pct": 7.1,
+      "ledige_kvinder_pct": 10.4
+    },
+    {
+      "aar": 1986,
+      "ledige_i_alt_1000_personer": 208.2,
+      "ledige_maend_1000_personer": 86.1,
+      "ledige_kvinder_1000_personer": 122.1,
+      "ledige_i_alt_pct": 7.5,
+      "ledige_maend_pct": 5.8,
+      "ledige_kvinder_pct": 9.4
+    },
+    {
+      "aar": 1987,
+      "ledige_i_alt_1000_personer": 210.8,
+      "ledige_maend_1000_personer": 91.9,
+      "ledige_kvinder_1000_personer": 118.9,
+      "ledige_i_alt_pct": 7.5,
+      "ledige_maend_pct": 6.1,
+      "ledige_kvinder_pct": 9.1
+    },
+    {
+      "aar": 1988,
+      "ledige_i_alt_1000_personer": 232.8,
+      "ledige_maend_1000_personer": 104.6,
+      "ledige_kvinder_1000_personer": 128.2,
+      "ledige_i_alt_pct": 8.3,
+      "ledige_maend_pct": 7,
+      "ledige_kvinder_pct": 9.8
+    },
+    {
+      "aar": 1989,
+      "ledige_i_alt_1000_personer": 253.4,
+      "ledige_maend_1000_personer": 115.4,
+      "ledige_kvinder_1000_personer": 138,
+      "ledige_i_alt_pct": 9.1,
+      "ledige_maend_pct": 7.8,
+      "ledige_kvinder_pct": 10.6
+    },
+    {
+      "aar": 1990,
+      "ledige_i_alt_1000_personer": 259.8,
+      "ledige_maend_1000_personer": 119,
+      "ledige_kvinder_1000_personer": 140.7,
+      "ledige_i_alt_pct": 9.3,
+      "ledige_maend_pct": 8,
+      "ledige_kvinder_pct": 10.8
+    },
+    {
+      "aar": 1991,
+      "ledige_i_alt_1000_personer": 284.3,
+      "ledige_maend_1000_personer": 132.3,
+      "ledige_kvinder_1000_personer": 152.1,
+      "ledige_i_alt_pct": 10.1,
+      "ledige_maend_pct": 8.9,
+      "ledige_kvinder_pct": 11.6
+    },
+    {
+      "aar": 1992,
+      "ledige_i_alt_1000_personer": 305.6,
+      "ledige_maend_1000_personer": 143.3,
+      "ledige_kvinder_1000_personer": 162.3,
+      "ledige_i_alt_pct": 10.9,
+      "ledige_maend_pct": 9.6,
+      "ledige_kvinder_pct": 12.3
+    },
+    {
+      "aar": 1993,
+      "ledige_i_alt_1000_personer": 335.2,
+      "ledige_maend_1000_personer": 162.5,
+      "ledige_kvinder_1000_personer": 172.7,
+      "ledige_i_alt_pct": 11.9,
+      "ledige_maend_pct": 10.9,
+      "ledige_kvinder_pct": 13.1
+    },
+    {
+      "aar": 1994,
+      "ledige_i_alt_1000_personer": 329,
+      "ledige_maend_1000_personer": 157.1,
+      "ledige_kvinder_1000_personer": 171.9,
+      "ledige_i_alt_pct": 11.8,
+      "ledige_maend_pct": 10.5,
+      "ledige_kvinder_pct": 13.2
+    },
+    {
+      "aar": 1995,
+      "ledige_i_alt_1000_personer": 271.4,
+      "ledige_maend_1000_personer": 126.3,
+      "ledige_kvinder_1000_personer": 145.1,
+      "ledige_i_alt_pct": 9.8,
+      "ledige_maend_pct": 8.5,
+      "ledige_kvinder_pct": 11.3
+    },
+    {
+      "aar": 1996,
+      "ledige_i_alt_1000_personer": 227.7,
+      "ledige_maend_1000_personer": 107.9,
+      "ledige_kvinder_1000_personer": 119.8,
+      "ledige_i_alt_pct": 8.2,
+      "ledige_maend_pct": 7.3,
+      "ledige_kvinder_pct": 9.3
+    },
+    {
+      "aar": 1997,
+      "ledige_i_alt_1000_personer": 202.2,
+      "ledige_maend_1000_personer": 91.5,
+      "ledige_kvinder_1000_personer": 110.7,
+      "ledige_i_alt_pct": 7.3,
+      "ledige_maend_pct": 6.2,
+      "ledige_kvinder_pct": 8.5
+    },
+    {
+      "aar": 1998,
+      "ledige_i_alt_1000_personer": 166,
+      "ledige_maend_1000_personer": 73.6,
+      "ledige_kvinder_1000_personer": 92.3,
+      "ledige_i_alt_pct": 6,
+      "ledige_maend_pct": 5,
+      "ledige_kvinder_pct": 7.1
+    },
+    {
+      "aar": 1999,
+      "ledige_i_alt_1000_personer": 144.3,
+      "ledige_maend_1000_personer": 66.8,
+      "ledige_kvinder_1000_personer": 77.5,
+      "ledige_i_alt_pct": 5.2,
+      "ledige_maend_pct": 4.5,
+      "ledige_kvinder_pct": 5.9
+    },
+    {
+      "aar": 2000,
+      "ledige_i_alt_1000_personer": 138.6,
+      "ledige_maend_1000_personer": 63.3,
+      "ledige_kvinder_1000_personer": 75.3,
+      "ledige_i_alt_pct": 4.9,
+      "ledige_maend_pct": 4.3,
+      "ledige_kvinder_pct": 5.7
+    },
+    {
+      "aar": 2001,
+      "ledige_i_alt_1000_personer": 130.6,
+      "ledige_maend_1000_personer": 61.1,
+      "ledige_kvinder_1000_personer": 69.5,
+      "ledige_i_alt_pct": 4.7,
+      "ledige_maend_pct": 4.1,
+      "ledige_kvinder_pct": 5.2
+    },
+    {
+      "aar": 2002,
+      "ledige_i_alt_1000_personer": 133,
+      "ledige_maend_1000_personer": 64.4,
+      "ledige_kvinder_1000_personer": 68.6,
+      "ledige_i_alt_pct": 4.8,
+      "ledige_maend_pct": 4.4,
+      "ledige_kvinder_pct": 5.2
+    },
+    {
+      "aar": 2003,
+      "ledige_i_alt_1000_personer": 159.1,
+      "ledige_maend_1000_personer": 78.6,
+      "ledige_kvinder_1000_personer": 80.5,
+      "ledige_i_alt_pct": 5.8,
+      "ledige_maend_pct": 5.4,
+      "ledige_kvinder_pct": 6.1
+    },
+    {
+      "aar": 2004,
+      "ledige_i_alt_1000_personer": 160.4,
+      "ledige_maend_1000_personer": 77.6,
+      "ledige_kvinder_1000_personer": 82.8,
+      "ledige_i_alt_pct": 5.8,
+      "ledige_maend_pct": 5.4,
+      "ledige_kvinder_pct": 6.3
+    },
+    {
+      "aar": 2005,
+      "ledige_i_alt_1000_personer": 140.2,
+      "ledige_maend_1000_personer": 65.6,
+      "ledige_kvinder_1000_personer": 74.6,
+      "ledige_i_alt_pct": 5.1,
+      "ledige_maend_pct": 4.5,
+      "ledige_kvinder_pct": 5.7
+    },
+    {
+      "aar": 2006,
+      "ledige_i_alt_1000_personer": 108.4,
+      "ledige_maend_1000_personer": 48.3,
+      "ledige_kvinder_1000_personer": 60.1,
+      "ledige_i_alt_pct": 3.9,
+      "ledige_maend_pct": 3.3,
+      "ledige_kvinder_pct": 4.5
+    },
+    {
+      "aar": 2007,
+      "ledige_i_alt_1000_personer": 76.7,
+      "ledige_maend_1000_personer": 33.5,
+      "ledige_kvinder_1000_personer": 43.2,
+      "ledige_i_alt_pct": 2.7,
+      "ledige_maend_pct": 2.3,
+      "ledige_kvinder_pct": 3.2
+    },
+    {
+      "aar": 2008,
+      "ledige_i_alt_1000_personer": 51.2,
+      "ledige_maend_1000_personer": 25.5,
+      "ledige_kvinder_1000_personer": 25.7,
+      "ledige_i_alt_pct": 1.9,
+      "ledige_maend_pct": 1.8,
+      "ledige_kvinder_pct": 1.9
+    },
+    {
+      "aar": 2009,
+      "ledige_i_alt_1000_personer": 98.3,
+      "ledige_maend_1000_personer": 59.4,
+      "ledige_kvinder_1000_personer": 38.9,
+      "ledige_i_alt_pct": 3.6,
+      "ledige_maend_pct": 4.2,
+      "ledige_kvinder_pct": 3
+    },
+    {
+      "aar": 2010,
+      "ledige_i_alt_1000_personer": 113.9,
+      "ledige_maend_1000_personer": 67.8,
+      "ledige_kvinder_1000_personer": 46.1,
+      "ledige_i_alt_pct": 4.2,
+      "ledige_maend_pct": 4.9,
+      "ledige_kvinder_pct": 3.5
+    },
+    {
+      "aar": 2011,
+      "ledige_i_alt_1000_personer": 108.3,
+      "ledige_maend_1000_personer": 58.8,
+      "ledige_kvinder_1000_personer": 49.5,
+      "ledige_i_alt_pct": 4,
+      "ledige_maend_pct": 4.2,
+      "ledige_kvinder_pct": 3.8
+    },
+    {
+      "aar": 2012,
+      "ledige_i_alt_1000_personer": 118.8,
+      "ledige_maend_1000_personer": 62.2,
+      "ledige_kvinder_1000_personer": 56.6,
+      "ledige_i_alt_pct": 4.5,
+      "ledige_maend_pct": 4.5,
+      "ledige_kvinder_pct": 4.4
+    },
+    {
+      "aar": 2013,
+      "ledige_i_alt_1000_personer": 117.5,
+      "ledige_maend_1000_personer": 61.3,
+      "ledige_kvinder_1000_personer": 56.2,
+      "ledige_i_alt_pct": 4.4,
+      "ledige_maend_pct": 4.5,
+      "ledige_kvinder_pct": 4.4
+    },
+    {
+      "aar": 2014,
+      "ledige_i_alt_1000_personer": 106.4,
+      "ledige_maend_1000_personer": 53.6,
+      "ledige_kvinder_1000_personer": 52.8,
+      "ledige_i_alt_pct": 4,
+      "ledige_maend_pct": 3.9,
+      "ledige_kvinder_pct": 4.1
+    },
+    {
+      "aar": 2015,
+      "ledige_i_alt_1000_personer": 101.7,
+      "ledige_maend_1000_personer": 50.2,
+      "ledige_kvinder_1000_personer": 51.5,
+      "ledige_i_alt_pct": 3.8,
+      "ledige_maend_pct": 3.6,
+      "ledige_kvinder_pct": 4
+    },
+    {
+      "aar": 2016,
+      "ledige_i_alt_1000_personer": 91.5,
+      "ledige_maend_1000_personer": 44.3,
+      "ledige_kvinder_1000_personer": 47.3,
+      "ledige_i_alt_pct": 3.3,
+      "ledige_maend_pct": 3.1,
+      "ledige_kvinder_pct": 3.6
+    },
+    {
+      "aar": 2017,
+      "ledige_i_alt_1000_personer": 91.5,
+      "ledige_maend_1000_personer": 44.4,
+      "ledige_kvinder_1000_personer": 47.1,
+      "ledige_i_alt_pct": 3.3,
+      "ledige_maend_pct": 3.1,
+      "ledige_kvinder_pct": 3.5
+    },
+    {
+      "aar": 2018,
+      "ledige_i_alt_1000_personer": 86.7,
+      "ledige_maend_1000_personer": 41.9,
+      "ledige_kvinder_1000_personer": 44.8,
+      "ledige_i_alt_pct": 3.1,
+      "ledige_maend_pct": 2.9,
+      "ledige_kvinder_pct": 3.3
+    },
+    {
+      "aar": 2019,
+      "ledige_i_alt_1000_personer": 86.1,
+      "ledige_maend_1000_personer": 41.8,
+      "ledige_kvinder_1000_personer": 44.3,
+      "ledige_i_alt_pct": 3,
+      "ledige_maend_pct": 2.8,
+      "ledige_kvinder_pct": 3.2
+    },
+    {
+      "aar": 2020,
+      "ledige_i_alt_1000_personer": 118.9,
+      "ledige_maend_1000_personer": 60,
+      "ledige_kvinder_1000_personer": 58.8,
+      "ledige_i_alt_pct": 4.2,
+      "ledige_maend_pct": 4.1,
+      "ledige_kvinder_pct": 4.3
+    },
+    {
+      "aar": 2021,
+      "ledige_i_alt_1000_personer": 94,
+      "ledige_maend_1000_personer": 47.5,
+      "ledige_kvinder_1000_personer": 46.5,
+      "ledige_i_alt_pct": 3.2,
+      "ledige_maend_pct": 3.1,
+      "ledige_kvinder_pct": 3.3
+    },
+    {
+      "aar": 2022,
+      "ledige_i_alt_1000_personer": 65.1,
+      "ledige_maend_1000_personer": 31.3,
+      "ledige_kvinder_1000_personer": 33.8,
+      "ledige_i_alt_pct": 2.2,
+      "ledige_maend_pct": 2,
+      "ledige_kvinder_pct": 2.3
+    },
+    {
+      "aar": 2023,
+      "ledige_i_alt_1000_personer": 72.2,
+      "ledige_maend_1000_personer": 35.6,
+      "ledige_kvinder_1000_personer": 36.6,
+      "ledige_i_alt_pct": 2.4,
+      "ledige_maend_pct": 2.3,
+      "ledige_kvinder_pct": 2.5
+    },
+    {
+      "aar": 2024,
+      "ledige_i_alt_1000_personer": 76.6,
+      "ledige_maend_1000_personer": 38.1,
+      "ledige_kvinder_1000_personer": 38.5,
+      "ledige_i_alt_pct": 2.5,
+      "ledige_maend_pct": 2.4,
+      "ledige_kvinder_pct": 2.6
+    },
+    {
+      "aar": 2025,
+      "ledige_i_alt_1000_personer": 77,
+      "ledige_maend_1000_personer": 38.4,
+      "ledige_kvinder_1000_personer": 38.6,
+      "ledige_i_alt_pct": 2.5,
+      "ledige_maend_pct": 2.4,
+      "ledige_kvinder_pct": 2.6
+    }
+  ],
+  "meta": {
+    "title": "Fuldtidsledige i Danmark pr. år siden 1979 - Free Download",
+    "description": "Antal fuldtidsledige (netto, 1.000 personer) og ledighed i procent af arbejdsstyrken i Danmark pr. år siden 1979, fordelt på køn. Kilde: Danmarks Statistik, AULAAR. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fuldtidsledige i Danmark pr. år siden 1979 | ListBase",
+    "seo_description": "Download Fuldtidsledige i Danmark pr. år siden 1979 — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/AULAAR"
+    ]
+  }
+}
