@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-14T02:22:06.505Z",
-  "total_datasets": 501,
-  "total_records": 244886,
+  "generated": "2026-11-15T02:48:06.512Z",
+  "total_datasets": 502,
+  "total_records": 244967,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -4331,6 +4331,38 @@
         "xlsx": {
           "name": "da-stednavneendelser_DA.xlsx",
           "size": 10287
+        }
+      }
+    },
+    {
+      "id": "da-anmeldte-forbrydelser-efter-art",
+      "name": "Anmeldte forbrydelser i Danmark efter overtrædelsens art",
+      "category": "law",
+      "record_count": 81,
+      "columns": [
+        "overtraedelsens_art",
+        "anmeldte_2016",
+        "anmeldte_2017",
+        "anmeldte_2018",
+        "anmeldte_2019",
+        "anmeldte_2020",
+        "anmeldte_2021",
+        "anmeldte_2022",
+        "anmeldte_2023",
+        "anmeldte_2024",
+        "anmeldte_2025"
+      ],
+      "source": "https://www.statistikbanken.dk/STRAF10",
+      "updated": "2026-11",
+      "size": 31372,
+      "files": {
+        "csv": {
+          "name": "da-anmeldte-forbrydelser-efter-art_DA.csv",
+          "size": 7820
+        },
+        "xlsx": {
+          "name": "da-anmeldte-forbrydelser-efter-art_DA.xlsx",
+          "size": 12632
         }
       }
     },
