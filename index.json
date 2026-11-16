@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-16T02:23:54.725Z",
-  "total_datasets": 505,
-  "total_records": 245141,
+  "generated": "2026-11-16T02:24:06.936Z",
+  "total_datasets": 506,
+  "total_records": 245159,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -4877,6 +4877,35 @@
         "xlsx": {
           "name": "da-folketingets-partier-mandater_DA.xlsx",
           "size": 7948
+        }
+      }
+    },
+    {
+      "id": "da-folketingsvalg-stemmeandel-partier-2007-2026",
+      "name": "Partiernes stemmeandel ved folketingsvalg 2007–2026",
+      "category": "politics",
+      "record_count": 18,
+      "columns": [
+        "listebogstav",
+        "parti",
+        "pct_2007",
+        "pct_2011",
+        "pct_2015",
+        "pct_2019",
+        "pct_2022",
+        "pct_2026"
+      ],
+      "source": "https://www.statistikbanken.dk/FVPANDEL",
+      "updated": "2026-11",
+      "size": 5988,
+      "files": {
+        "csv": {
+          "name": "da-folketingsvalg-stemmeandel-partier-2007-2026_DA.csv",
+          "size": 1183
+        },
+        "xlsx": {
+          "name": "da-folketingsvalg-stemmeandel-partier-2007-2026_DA.xlsx",
+          "size": 7769
         }
       }
     },

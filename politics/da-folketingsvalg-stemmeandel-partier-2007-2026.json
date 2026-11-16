@@ -1,0 +1,246 @@
+{
+  "id": "da-folketingsvalg-stemmeandel-partier-2007-2026",
+  "name": "Partiernes stemmeandel ved folketingsvalg 2007–2026",
+  "title": "Partiernes stemmeandel ved folketingsvalg 2007–2026",
+  "description": "Partiernes andel af de gyldige stemmer (pct.) på landsplan ved folketingsvalgene 2007, 2011, 2015, 2019, 2022 og 2026. Kilde: Danmarks Statistik, FVPANDEL.",
+  "category": "politics",
+  "source": "https://www.statistikbanken.dk/FVPANDEL",
+  "source_url": "https://www.statistikbanken.dk/FVPANDEL",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "listebogstav",
+      "label": "Listebogstav",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "pct_2007",
+      "label": "Pct 2007",
+      "type": "number"
+    },
+    {
+      "key": "pct_2011",
+      "label": "Pct 2011",
+      "type": "number"
+    },
+    {
+      "key": "pct_2015",
+      "label": "Pct 2015",
+      "type": "number"
+    },
+    {
+      "key": "pct_2019",
+      "label": "Pct 2019",
+      "type": "number"
+    },
+    {
+      "key": "pct_2022",
+      "label": "Pct 2022",
+      "type": "number"
+    },
+    {
+      "key": "pct_2026",
+      "label": "Pct 2026",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "listebogstav": "E",
+      "parti": "Klaus Riskær Pedersen",
+      "pct_2007": "",
+      "pct_2011": "",
+      "pct_2015": "",
+      "pct_2019": 0.8,
+      "pct_2022": "",
+      "pct_2026": ""
+    },
+    {
+      "listebogstav": "M",
+      "parti": "Moderaterne",
+      "pct_2007": "",
+      "pct_2011": "",
+      "pct_2015": "",
+      "pct_2019": "",
+      "pct_2022": 9.3,
+      "pct_2026": 7.7
+    },
+    {
+      "listebogstav": "Æ",
+      "parti": "Danmarksdemokraterne - Inger Støjberg",
+      "pct_2007": "",
+      "pct_2011": "",
+      "pct_2015": "",
+      "pct_2019": "",
+      "pct_2022": 8.1,
+      "pct_2026": 5.8
+    },
+    {
+      "listebogstav": "A",
+      "parti": "Socialdemokratiet",
+      "pct_2007": 25.5,
+      "pct_2011": 24.8,
+      "pct_2015": 26.3,
+      "pct_2019": 25.9,
+      "pct_2022": 27.5,
+      "pct_2026": 21.8
+    },
+    {
+      "listebogstav": "B",
+      "parti": "Radikale Venstre",
+      "pct_2007": 5.1,
+      "pct_2011": 9.5,
+      "pct_2015": 4.6,
+      "pct_2019": 8.6,
+      "pct_2022": 3.8,
+      "pct_2026": 5.8
+    },
+    {
+      "listebogstav": "C",
+      "parti": "Det Konservative Folkeparti",
+      "pct_2007": 10.4,
+      "pct_2011": 4.9,
+      "pct_2015": 3.4,
+      "pct_2019": 6.6,
+      "pct_2022": 5.5,
+      "pct_2026": 7.6
+    },
+    {
+      "listebogstav": "F",
+      "parti": "SF - Socialistisk Folkeparti",
+      "pct_2007": 13,
+      "pct_2011": 9.2,
+      "pct_2015": 4.2,
+      "pct_2019": 7.7,
+      "pct_2022": 8.3,
+      "pct_2026": 11.6
+    },
+    {
+      "listebogstav": "O",
+      "parti": "Dansk Folkeparti",
+      "pct_2007": 13.9,
+      "pct_2011": 12.3,
+      "pct_2015": 21.1,
+      "pct_2019": 8.7,
+      "pct_2022": 2.6,
+      "pct_2026": 9.1
+    },
+    {
+      "listebogstav": "K",
+      "parti": "Kristendemokraterne",
+      "pct_2007": 0.9,
+      "pct_2011": 0.8,
+      "pct_2015": 0.8,
+      "pct_2019": 1.7,
+      "pct_2022": 0.5,
+      "pct_2026": ""
+    },
+    {
+      "listebogstav": "Ø",
+      "parti": "Enhedslisten - De Rød-Grønne",
+      "pct_2007": 2.2,
+      "pct_2011": 6.7,
+      "pct_2015": 7.8,
+      "pct_2019": 6.9,
+      "pct_2022": 5.1,
+      "pct_2026": 6.3
+    },
+    {
+      "listebogstav": "V",
+      "parti": "Venstre, Danmarks Liberale Parti",
+      "pct_2007": 26.3,
+      "pct_2011": 26.7,
+      "pct_2015": 19.5,
+      "pct_2019": 23.4,
+      "pct_2022": 13.3,
+      "pct_2026": 10.1
+    },
+    {
+      "listebogstav": "I",
+      "parti": "Liberal Alliance",
+      "pct_2007": 2.8,
+      "pct_2011": 5,
+      "pct_2015": 7.5,
+      "pct_2019": 2.3,
+      "pct_2022": 7.9,
+      "pct_2026": 9.4
+    },
+    {
+      "listebogstav": "Å",
+      "parti": "Alternativet",
+      "pct_2007": "",
+      "pct_2011": "",
+      "pct_2015": 4.8,
+      "pct_2019": 3,
+      "pct_2022": 3.3,
+      "pct_2026": 2.6
+    },
+    {
+      "listebogstav": "D",
+      "parti": "Nye Borgerlige",
+      "pct_2007": "",
+      "pct_2011": "",
+      "pct_2015": "",
+      "pct_2019": 2.4,
+      "pct_2022": 3.7,
+      "pct_2026": ""
+    },
+    {
+      "listebogstav": "Q",
+      "parti": "Frie Grønne, Danmarks Nye Venstrefløjsparti",
+      "pct_2007": "",
+      "pct_2011": "",
+      "pct_2015": "",
+      "pct_2019": "",
+      "pct_2022": 0.9,
+      "pct_2026": ""
+    },
+    {
+      "listebogstav": "P",
+      "parti": "Stram Kurs",
+      "pct_2007": "",
+      "pct_2011": "",
+      "pct_2015": "",
+      "pct_2019": 1.8,
+      "pct_2022": "",
+      "pct_2026": ""
+    },
+    {
+      "listebogstav": "H",
+      "parti": "Borgernes Parti - Lars Boje Mathiesen",
+      "pct_2007": "",
+      "pct_2011": "",
+      "pct_2015": "",
+      "pct_2019": "",
+      "pct_2022": "",
+      "pct_2026": 2.1
+    },
+    {
+      "listebogstav": "",
+      "parti": "Udenfor for partierne",
+      "pct_2007": 0,
+      "pct_2011": 0.1,
+      "pct_2015": 0.1,
+      "pct_2019": 0.1,
+      "pct_2022": 0.1,
+      "pct_2026": 0.1
+    }
+  ],
+  "meta": {
+    "title": "Partiernes stemmeandel ved folketingsvalg 2007–2026 - Free Download",
+    "description": "Partiernes andel af de gyldige stemmer (pct.) på landsplan ved folketingsvalgene 2007, 2011, 2015, 2019, 2022 og 2026. Kilde: Danmarks Statistik, FVPANDEL. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Partiernes stemmeandel ved folketingsvalg 2007–2026 | ListBase",
+    "seo_description": "Download Partiernes stemmeandel ved folketingsvalg 2007–2026 — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/FVPANDEL"
+    ]
+  }
+}
