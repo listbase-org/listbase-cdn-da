@@ -1,0 +1,361 @@
+{
+  "id": "da-salg-af-indspillet-musik",
+  "name": "Salg af indspillet musik i Danmark efter format",
+  "title": "Salg af indspillet musik i Danmark efter format",
+  "description": "Omsætning (mio. kr.) ved salg af indspillet musik i Danmark pr. år fordelt på fysiske medier, streaming, downloads og andre digitale produkter samt dansk og udenlandsk musik. Kilde: Danmarks Statistik, MUSIK1.",
+  "category": "music",
+  "source": "https://www.statistikbanken.dk/MUSIK1",
+  "source_url": "https://www.statistikbanken.dk/MUSIK1",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "i_alt_fysisk_mio_kr",
+      "label": "I Alt Fysisk Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "i_alt_streaming_mio_kr",
+      "label": "I Alt Streaming Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "i_alt_downloads_mio_kr",
+      "label": "I Alt Downloads Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "i_alt_andre_digitale_mio_kr",
+      "label": "I Alt Andre Digitale Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "dansk_fysisk_mio_kr",
+      "label": "Dansk Fysisk Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "dansk_streaming_mio_kr",
+      "label": "Dansk Streaming Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "dansk_downloads_mio_kr",
+      "label": "Dansk Downloads Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "dansk_andre_digitale_mio_kr",
+      "label": "Dansk Andre Digitale Mio Kr",
+      "type": "string"
+    },
+    {
+      "key": "udenlandsk_fysisk_mio_kr",
+      "label": "Udenlandsk Fysisk Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "udenlandsk_streaming_mio_kr",
+      "label": "Udenlandsk Streaming Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "udenlandsk_downloads_mio_kr",
+      "label": "Udenlandsk Downloads Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "udenlandsk_andre_digitale_mio_kr",
+      "label": "Udenlandsk Andre Digitale Mio Kr",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 2008,
+      "i_alt_fysisk_mio_kr": 453,
+      "i_alt_streaming_mio_kr": "",
+      "i_alt_downloads_mio_kr": 104,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": 217,
+      "dansk_streaming_mio_kr": "",
+      "dansk_downloads_mio_kr": 34,
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": 236,
+      "udenlandsk_streaming_mio_kr": "",
+      "udenlandsk_downloads_mio_kr": 70,
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2009,
+      "i_alt_fysisk_mio_kr": 412,
+      "i_alt_streaming_mio_kr": "",
+      "i_alt_downloads_mio_kr": 123,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": 202,
+      "dansk_streaming_mio_kr": "",
+      "dansk_downloads_mio_kr": 44,
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": 210,
+      "udenlandsk_streaming_mio_kr": "",
+      "udenlandsk_downloads_mio_kr": 79,
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2010,
+      "i_alt_fysisk_mio_kr": 328,
+      "i_alt_streaming_mio_kr": "",
+      "i_alt_downloads_mio_kr": 139,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": 185,
+      "dansk_streaming_mio_kr": "",
+      "dansk_downloads_mio_kr": 55,
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": 143,
+      "udenlandsk_streaming_mio_kr": "",
+      "udenlandsk_downloads_mio_kr": 84,
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2011,
+      "i_alt_fysisk_mio_kr": 256,
+      "i_alt_streaming_mio_kr": "",
+      "i_alt_downloads_mio_kr": 164,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": 168,
+      "dansk_streaming_mio_kr": "",
+      "dansk_downloads_mio_kr": 71,
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": 88,
+      "udenlandsk_streaming_mio_kr": "",
+      "udenlandsk_downloads_mio_kr": 93,
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2012,
+      "i_alt_fysisk_mio_kr": 187,
+      "i_alt_streaming_mio_kr": 105,
+      "i_alt_downloads_mio_kr": 116,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": 104,
+      "dansk_streaming_mio_kr": 48,
+      "dansk_downloads_mio_kr": 47,
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": 83,
+      "udenlandsk_streaming_mio_kr": 57,
+      "udenlandsk_downloads_mio_kr": 69,
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2013,
+      "i_alt_fysisk_mio_kr": 152,
+      "i_alt_streaming_mio_kr": 170,
+      "i_alt_downloads_mio_kr": 108,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": 98,
+      "dansk_streaming_mio_kr": 70,
+      "dansk_downloads_mio_kr": 40,
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": 53,
+      "udenlandsk_streaming_mio_kr": 100,
+      "udenlandsk_downloads_mio_kr": 68,
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2014,
+      "i_alt_fysisk_mio_kr": 112,
+      "i_alt_streaming_mio_kr": 256,
+      "i_alt_downloads_mio_kr": 69,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": 65,
+      "dansk_streaming_mio_kr": 93,
+      "dansk_downloads_mio_kr": 28,
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": 47,
+      "udenlandsk_streaming_mio_kr": 162,
+      "udenlandsk_downloads_mio_kr": 41,
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2015,
+      "i_alt_fysisk_mio_kr": 75,
+      "i_alt_streaming_mio_kr": 323,
+      "i_alt_downloads_mio_kr": 55,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": 39,
+      "dansk_streaming_mio_kr": 115,
+      "dansk_downloads_mio_kr": 20,
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": 36,
+      "udenlandsk_streaming_mio_kr": 208,
+      "udenlandsk_downloads_mio_kr": 34,
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2016,
+      "i_alt_fysisk_mio_kr": 55,
+      "i_alt_streaming_mio_kr": 392,
+      "i_alt_downloads_mio_kr": 46,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": 20,
+      "dansk_streaming_mio_kr": 131,
+      "dansk_downloads_mio_kr": 17,
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": 36,
+      "udenlandsk_streaming_mio_kr": 262,
+      "udenlandsk_downloads_mio_kr": 30,
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2017,
+      "i_alt_fysisk_mio_kr": 59,
+      "i_alt_streaming_mio_kr": 466,
+      "i_alt_downloads_mio_kr": 23,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": 27,
+      "dansk_streaming_mio_kr": 141,
+      "dansk_downloads_mio_kr": 7,
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": 32,
+      "udenlandsk_streaming_mio_kr": 325,
+      "udenlandsk_downloads_mio_kr": 16,
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2018,
+      "i_alt_fysisk_mio_kr": 51,
+      "i_alt_streaming_mio_kr": 510,
+      "i_alt_downloads_mio_kr": 21,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": 23,
+      "dansk_streaming_mio_kr": 175,
+      "dansk_downloads_mio_kr": 5,
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": 28,
+      "udenlandsk_streaming_mio_kr": 335,
+      "udenlandsk_downloads_mio_kr": 16,
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2019,
+      "i_alt_fysisk_mio_kr": 50,
+      "i_alt_streaming_mio_kr": 539,
+      "i_alt_downloads_mio_kr": 14,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": 23,
+      "dansk_streaming_mio_kr": 180,
+      "dansk_downloads_mio_kr": 4,
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": 28,
+      "udenlandsk_streaming_mio_kr": 359,
+      "udenlandsk_downloads_mio_kr": 10,
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2020,
+      "i_alt_fysisk_mio_kr": 46,
+      "i_alt_streaming_mio_kr": 575,
+      "i_alt_downloads_mio_kr": 11,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": 23,
+      "dansk_streaming_mio_kr": 244,
+      "dansk_downloads_mio_kr": 4,
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": 23,
+      "udenlandsk_streaming_mio_kr": 331,
+      "udenlandsk_downloads_mio_kr": 7,
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2021,
+      "i_alt_fysisk_mio_kr": 54,
+      "i_alt_streaming_mio_kr": 599,
+      "i_alt_downloads_mio_kr": 12,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": "",
+      "dansk_streaming_mio_kr": "",
+      "dansk_downloads_mio_kr": "",
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": "",
+      "udenlandsk_streaming_mio_kr": "",
+      "udenlandsk_downloads_mio_kr": "",
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2022,
+      "i_alt_fysisk_mio_kr": 58,
+      "i_alt_streaming_mio_kr": 631,
+      "i_alt_downloads_mio_kr": 12,
+      "i_alt_andre_digitale_mio_kr": "",
+      "dansk_fysisk_mio_kr": "",
+      "dansk_streaming_mio_kr": "",
+      "dansk_downloads_mio_kr": "",
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": "",
+      "udenlandsk_streaming_mio_kr": "",
+      "udenlandsk_downloads_mio_kr": "",
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2023,
+      "i_alt_fysisk_mio_kr": 68,
+      "i_alt_streaming_mio_kr": 646,
+      "i_alt_downloads_mio_kr": 8,
+      "i_alt_andre_digitale_mio_kr": 7,
+      "dansk_fysisk_mio_kr": "",
+      "dansk_streaming_mio_kr": "",
+      "dansk_downloads_mio_kr": "",
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": "",
+      "udenlandsk_streaming_mio_kr": "",
+      "udenlandsk_downloads_mio_kr": "",
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2024,
+      "i_alt_fysisk_mio_kr": 79,
+      "i_alt_streaming_mio_kr": 711,
+      "i_alt_downloads_mio_kr": 5,
+      "i_alt_andre_digitale_mio_kr": 1,
+      "dansk_fysisk_mio_kr": "",
+      "dansk_streaming_mio_kr": "",
+      "dansk_downloads_mio_kr": "",
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": "",
+      "udenlandsk_streaming_mio_kr": "",
+      "udenlandsk_downloads_mio_kr": "",
+      "udenlandsk_andre_digitale_mio_kr": ""
+    },
+    {
+      "aar": 2025,
+      "i_alt_fysisk_mio_kr": 97,
+      "i_alt_streaming_mio_kr": 700,
+      "i_alt_downloads_mio_kr": 5,
+      "i_alt_andre_digitale_mio_kr": 9,
+      "dansk_fysisk_mio_kr": "",
+      "dansk_streaming_mio_kr": "",
+      "dansk_downloads_mio_kr": "",
+      "dansk_andre_digitale_mio_kr": "",
+      "udenlandsk_fysisk_mio_kr": "",
+      "udenlandsk_streaming_mio_kr": "",
+      "udenlandsk_downloads_mio_kr": "",
+      "udenlandsk_andre_digitale_mio_kr": ""
+    }
+  ],
+  "meta": {
+    "title": "Salg af indspillet musik i Danmark efter format - Free Download",
+    "description": "Omsætning (mio. kr.) ved salg af indspillet musik i Danmark pr. år fordelt på fysiske medier, streaming, downloads og andre digitale produkter samt dansk og udenlandsk musik. Kilde: Danmarks Statistik, MUSIK1. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Salg af indspillet musik i Danmark efter format | ListBase",
+    "seo_description": "Download Salg af indspillet musik i Danmark efter format — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/MUSIK1"
+    ]
+  }
+}

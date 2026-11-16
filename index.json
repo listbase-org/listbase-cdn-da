@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-16T02:24:18.052Z",
-  "total_datasets": 507,
-  "total_records": 245168,
+  "generated": "2026-11-16T02:24:29.020Z",
+  "total_datasets": 508,
+  "total_records": 245186,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "politics",
@@ -4820,6 +4820,40 @@
         "xlsx": {
           "name": "da-regionale-spillesteder_DA.xlsx",
           "size": 7884
+        }
+      }
+    },
+    {
+      "id": "da-salg-af-indspillet-musik",
+      "name": "Salg af indspillet musik i Danmark efter format",
+      "category": "music",
+      "record_count": 18,
+      "columns": [
+        "aar",
+        "i_alt_fysisk_mio_kr",
+        "i_alt_streaming_mio_kr",
+        "i_alt_downloads_mio_kr",
+        "i_alt_andre_digitale_mio_kr",
+        "dansk_fysisk_mio_kr",
+        "dansk_streaming_mio_kr",
+        "dansk_downloads_mio_kr",
+        "dansk_andre_digitale_mio_kr",
+        "udenlandsk_fysisk_mio_kr",
+        "udenlandsk_streaming_mio_kr",
+        "udenlandsk_downloads_mio_kr",
+        "udenlandsk_andre_digitale_mio_kr"
+      ],
+      "source": "https://www.statistikbanken.dk/MUSIK1",
+      "updated": "2026-11",
+      "size": 11782,
+      "files": {
+        "csv": {
+          "name": "da-salg-af-indspillet-musik_DA.csv",
+          "size": 1392
+        },
+        "xlsx": {
+          "name": "da-salg-af-indspillet-musik_DA.xlsx",
+          "size": 7916
         }
       }
     },
