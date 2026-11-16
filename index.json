@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-15T02:52:41.798Z",
-  "total_datasets": 504,
-  "total_records": 245041,
+  "generated": "2026-11-16T02:23:54.725Z",
+  "total_datasets": 505,
+  "total_records": 245141,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -4791,6 +4791,39 @@
         "xlsx": {
           "name": "da-regionale-spillesteder_DA.xlsx",
           "size": 7884
+        }
+      }
+    },
+    {
+      "id": "da-europaparlamentsvalg-2024-stemmeandel-kommuner",
+      "name": "Europa-Parlamentsvalget 2024 – partiernes stemmeandel pr. kommune",
+      "category": "politics",
+      "record_count": 100,
+      "columns": [
+        "omraade",
+        "pct_aa",
+        "pct_m",
+        "pct_ae",
+        "pct_a",
+        "pct_b",
+        "pct_c",
+        "pct_f",
+        "pct_o",
+        "pct_v",
+        "pct_oe",
+        "pct_i"
+      ],
+      "source": "https://www.statistikbanken.dk/EVPANDEL",
+      "updated": "2026-11",
+      "size": 29709,
+      "files": {
+        "csv": {
+          "name": "da-europaparlamentsvalg-2024-stemmeandel-kommuner_DA.csv",
+          "size": 8005
+        },
+        "xlsx": {
+          "name": "da-europaparlamentsvalg-2024-stemmeandel-kommuner_DA.xlsx",
+          "size": 13297
         }
       }
     },
