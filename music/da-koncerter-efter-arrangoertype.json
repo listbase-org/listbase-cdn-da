@@ -1,0 +1,156 @@
+{
+  "id": "da-koncerter-efter-arrangoertype",
+  "name": "Antal koncerter i Danmark efter type af koncertarrangør (2018–2024)",
+  "title": "Antal koncerter i Danmark efter type af koncertarrangør (2018–2024)",
+  "description": "Antal afholdte koncerter i Danmark pr. år efter type af koncertarrangør (spillesteder, festivaler, folkekirken, landsdelsorkestre m.fl.). Kilde: Danmarks Statistik, LIVMUS02.",
+  "category": "music",
+  "source": "https://www.statistikbanken.dk/LIVMUS02",
+  "source_url": "https://www.statistikbanken.dk/LIVMUS02",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "koncertarrangoer",
+      "label": "Koncertarrangoer",
+      "type": "string"
+    },
+    {
+      "key": "koncerter_2018",
+      "label": "Koncerter 2018",
+      "type": "number"
+    },
+    {
+      "key": "koncerter_2019",
+      "label": "Koncerter 2019",
+      "type": "number"
+    },
+    {
+      "key": "koncerter_2020",
+      "label": "Koncerter 2020",
+      "type": "number"
+    },
+    {
+      "key": "koncerter_2021",
+      "label": "Koncerter 2021",
+      "type": "number"
+    },
+    {
+      "key": "koncerter_2022",
+      "label": "Koncerter 2022",
+      "type": "number"
+    },
+    {
+      "key": "koncerter_2023",
+      "label": "Koncerter 2023",
+      "type": "number"
+    },
+    {
+      "key": "koncerter_2024",
+      "label": "Koncerter 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "koncertarrangoer": "Folkekirke",
+      "koncerter_2018": 5500,
+      "koncerter_2019": 5300,
+      "koncerter_2020": 5200,
+      "koncerter_2021": 5200,
+      "koncerter_2022": 5300,
+      "koncerter_2023": 5400,
+      "koncerter_2024": 5300
+    },
+    {
+      "koncertarrangoer": "Kulturhus",
+      "koncerter_2018": 1900,
+      "koncerter_2019": 1900,
+      "koncerter_2020": 1200,
+      "koncerter_2021": 1500,
+      "koncerter_2022": 1900,
+      "koncerter_2023": 1600,
+      "koncerter_2024": 1800
+    },
+    {
+      "koncertarrangoer": "Landsdelsorkester",
+      "koncerter_2018": 400,
+      "koncerter_2019": 400,
+      "koncerter_2020": 200,
+      "koncerter_2021": 200,
+      "koncerter_2022": 300,
+      "koncerter_2023": 300,
+      "koncerter_2024": 400
+    },
+    {
+      "koncertarrangoer": "Musikfestival",
+      "koncerter_2018": 2300,
+      "koncerter_2019": 2400,
+      "koncerter_2020": 200,
+      "koncerter_2021": 1400,
+      "koncerter_2022": 3500,
+      "koncerter_2023": 3400,
+      "koncerter_2024": 3400
+    },
+    {
+      "koncertarrangoer": "Musikforening",
+      "koncerter_2018": 2100,
+      "koncerter_2019": 1900,
+      "koncerter_2020": 1400,
+      "koncerter_2021": 1500,
+      "koncerter_2022": 1900,
+      "koncerter_2023": 1900,
+      "koncerter_2024": 2000
+    },
+    {
+      "koncertarrangoer": "Regionalt spillested",
+      "koncerter_2018": 4600,
+      "koncerter_2019": 4600,
+      "koncerter_2020": 2200,
+      "koncerter_2021": 2700,
+      "koncerter_2022": 3900,
+      "koncerter_2023": 3800,
+      "koncerter_2024": 4300
+    },
+    {
+      "koncertarrangoer": "Spillested",
+      "koncerter_2018": 7100,
+      "koncerter_2019": 6900,
+      "koncerter_2020": 3000,
+      "koncerter_2021": 2100,
+      "koncerter_2022": 4500,
+      "koncerter_2023": 4700,
+      "koncerter_2024": 5300
+    },
+    {
+      "koncertarrangoer": "Øvrig koncertarrangør",
+      "koncerter_2018": 10900,
+      "koncerter_2019": 11400,
+      "koncerter_2020": 7700,
+      "koncerter_2021": 4500,
+      "koncerter_2022": 11300,
+      "koncerter_2023": 11800,
+      "koncerter_2024": 10200
+    },
+    {
+      "koncertarrangoer": "Professionel koncertarrangør",
+      "koncerter_2018": 1400,
+      "koncerter_2019": 1300,
+      "koncerter_2020": 1200,
+      "koncerter_2021": 1100,
+      "koncerter_2022": 1400,
+      "koncerter_2023": 1400,
+      "koncerter_2024": 1500
+    }
+  ],
+  "meta": {
+    "title": "Antal koncerter i Danmark efter type af koncertarrangør (2018–2024) - Free Download",
+    "description": "Antal afholdte koncerter i Danmark pr. år efter type af koncertarrangør (spillesteder, festivaler, folkekirken, landsdelsorkestre m.fl.). Kilde: Danmarks Statistik, LIVMUS02. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antal koncerter i Danmark efter type af koncertarrangør (2018–2024) | ListBase",
+    "seo_description": "Download Antal koncerter i Danmark efter type af koncertarrangør (2018–2024) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/LIVMUS02"
+    ]
+  }
+}

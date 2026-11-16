@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-16T02:24:06.936Z",
-  "total_datasets": 506,
-  "total_records": 245159,
+  "generated": "2026-11-16T02:24:18.052Z",
+  "total_datasets": 507,
+  "total_records": 245168,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -4716,6 +4716,35 @@
         "xlsx": {
           "name": "da-dma-aarets-danske-album_DA.xlsx",
           "size": 9991
+        }
+      }
+    },
+    {
+      "id": "da-koncerter-efter-arrangoertype",
+      "name": "Antal koncerter i Danmark efter type af koncertarrangør (2018–2024)",
+      "category": "music",
+      "record_count": 9,
+      "columns": [
+        "koncertarrangoer",
+        "koncerter_2018",
+        "koncerter_2019",
+        "koncerter_2020",
+        "koncerter_2021",
+        "koncerter_2022",
+        "koncerter_2023",
+        "koncerter_2024"
+      ],
+      "source": "https://www.statistikbanken.dk/LIVMUS02",
+      "updated": "2026-11",
+      "size": 4682,
+      "files": {
+        "csv": {
+          "name": "da-koncerter-efter-arrangoertype_DA.csv",
+          "size": 749
+        },
+        "xlsx": {
+          "name": "da-koncerter-efter-arrangoertype_DA.xlsx",
+          "size": 7176
         }
       }
     },
