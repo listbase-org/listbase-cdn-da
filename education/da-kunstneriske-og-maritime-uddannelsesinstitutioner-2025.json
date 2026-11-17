@@ -1,0 +1,248 @@
+{
+  "id": "da-kunstneriske-og-maritime-uddannelsesinstitutioner-2025",
+  "name": "Kunstneriske, kulturelle og maritime uddannelsesinstitutioner i Danmark — elever, tilgang og fuldførte (opgørelsesår 2025)",
+  "title": "Kunstneriske, kulturelle og maritime uddannelsesinstitutioner i Danmark — elever, tilgang og fuldførte (opgørelsesår 2025)",
+  "description": "Danske kunstneriske og kulturelle samt maritime uddannelsesinstitutioner med antal elever pr. 1. oktober, tilgang og fuldførte i opgørelsesåret 2025. Kilde: Danmarks Statistik, INST25 og INST18.",
+  "category": "education",
+  "source": "https://www.statistikbanken.dk/INST25",
+  "source_url": "https://www.statistikbanken.dk/INST25",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "institution",
+      "label": "Institution",
+      "type": "string"
+    },
+    {
+      "key": "institutionsnummer",
+      "label": "Institutionsnummer",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "elever_pr_1_oktober",
+      "label": "Elever Pr 1 Oktober",
+      "type": "number"
+    },
+    {
+      "key": "tilgang",
+      "label": "Tilgang",
+      "type": "number"
+    },
+    {
+      "key": "fuldfoert",
+      "label": "Fuldfoert",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "institution": "Det Kongelige Danske Kunstakademis Skoler for Arkitektur, Design og Konservering",
+      "institutionsnummer": "280299",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 1428,
+      "tilgang": 586,
+      "fuldfoert": 451
+    },
+    {
+      "institution": "Arkitektskolen Aarhus",
+      "institutionsnummer": "751426",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 567,
+      "tilgang": 195,
+      "fuldfoert": 201
+    },
+    {
+      "institution": "Det Kgl. Danske Musikkonservatorium",
+      "institutionsnummer": "101447",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 476,
+      "tilgang": 157,
+      "fuldfoert": 104
+    },
+    {
+      "institution": "Det Jyske Musikkonservatorium",
+      "institutionsnummer": "280852",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 427,
+      "tilgang": 158,
+      "fuldfoert": 115
+    },
+    {
+      "institution": "Designskolen Kolding",
+      "institutionsnummer": "621408",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 373,
+      "tilgang": 150,
+      "fuldfoert": 119
+    },
+    {
+      "institution": "Syddansk Musikkonservatorium",
+      "institutionsnummer": "461414",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 232,
+      "tilgang": 65,
+      "fuldfoert": 85
+    },
+    {
+      "institution": "Rytmisk Musikkonservatorium",
+      "institutionsnummer": "101514",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 179,
+      "tilgang": 67,
+      "fuldfoert": 66
+    },
+    {
+      "institution": "Den Danske Scenekunstskole",
+      "institutionsnummer": "101518",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 179,
+      "tilgang": 59,
+      "fuldfoert": 56
+    },
+    {
+      "institution": "Det Kongelige Danske Kunstakademi - Billedkunstskolerne",
+      "institutionsnummer": "101456",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 164,
+      "tilgang": 60,
+      "fuldfoert": 53
+    },
+    {
+      "institution": "Kaospiloterne",
+      "institutionsnummer": "751454",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 110,
+      "tilgang": 39,
+      "fuldfoert": 37
+    },
+    {
+      "institution": "Den Danske Filmskole",
+      "institutionsnummer": "101458",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 108,
+      "tilgang": 54,
+      "fuldfoert": 48
+    },
+    {
+      "institution": "Folkekirkens Uddannelses- og Videnscenter",
+      "institutionsnummer": "280974",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 75,
+      "tilgang": 116,
+      "fuldfoert": 104
+    },
+    {
+      "institution": "Det Fynske Kunstakademi",
+      "institutionsnummer": "461428",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 64,
+      "tilgang": 28,
+      "fuldfoert": 11
+    },
+    {
+      "institution": "Det Jyske Kunstakademi",
+      "institutionsnummer": "751449",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 33,
+      "tilgang": 0,
+      "fuldfoert": 6
+    },
+    {
+      "institution": "Sjællands Kirkemusikskole",
+      "institutionsnummer": "265411",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 19,
+      "tilgang": 17,
+      "fuldfoert": 5
+    },
+    {
+      "institution": "Vestervig Kirkemusikskole",
+      "institutionsnummer": "785401",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 18,
+      "tilgang": 8,
+      "fuldfoert": 7
+    },
+    {
+      "institution": "Forfatterskolen",
+      "institutionsnummer": "101598",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 15,
+      "tilgang": 7,
+      "fuldfoert": 7
+    },
+    {
+      "institution": "Løgumkloster Kirkemusikskole",
+      "institutionsnummer": "521401",
+      "type": "Kunstnerisk/kulturel",
+      "elever_pr_1_oktober": 15,
+      "tilgang": 11,
+      "fuldfoert": 9
+    },
+    {
+      "institution": "Aarhus Maskinmesterskole",
+      "institutionsnummer": "751405",
+      "type": "Maritim",
+      "elever_pr_1_oktober": 1066,
+      "tilgang": 331,
+      "fuldfoert": 244
+    },
+    {
+      "institution": "Teknika - Copenhagen College of Technology Management and Marine Engineering",
+      "institutionsnummer": "101408",
+      "type": "Maritim",
+      "elever_pr_1_oktober": 1037,
+      "tilgang": 347,
+      "fuldfoert": 180
+    },
+    {
+      "institution": "Svendborg International Maritime Academy, SIMAC",
+      "institutionsnummer": "479412",
+      "type": "Maritim",
+      "elever_pr_1_oktober": 727,
+      "tilgang": 245,
+      "fuldfoert": 196
+    },
+    {
+      "institution": "MARTEC - Maritime and Polytechnic College",
+      "institutionsnummer": "280938",
+      "type": "Maritim",
+      "elever_pr_1_oktober": 612,
+      "tilgang": 215,
+      "fuldfoert": 146
+    },
+    {
+      "institution": "Fredericia Maskinmesterskole",
+      "institutionsnummer": "607403",
+      "type": "Maritim",
+      "elever_pr_1_oktober": 449,
+      "tilgang": 164,
+      "fuldfoert": 100
+    },
+    {
+      "institution": "Marstal Navigationsskole",
+      "institutionsnummer": "443401",
+      "type": "Maritim",
+      "elever_pr_1_oktober": 65,
+      "tilgang": 36,
+      "fuldfoert": 20
+    }
+  ],
+  "meta": {
+    "title": "Kunstneriske, kulturelle og maritime uddannelsesinstitutioner i Danmark — elever, tilgang og fuldførte (opgørelsesår 2025) - Free Download",
+    "description": "Danske kunstneriske og kulturelle samt maritime uddannelsesinstitutioner med antal elever pr. 1. oktober, tilgang og fuldførte i opgørelsesåret 2025. Kilde: Danmarks Statistik, INST25 og INST18. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kunstneriske, kulturelle og maritime uddannelsesinstitutioner i Danmark — elever, tilgang og fuldførte (opgørelsesår 2025) | ListBase",
+    "seo_description": "Download Kunstneriske, kulturelle og maritime uddannelsesinstitutioner i Danmark — elever, tilgang og fuldførte (opgørelsesår 2025) — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/INST25"
+    ]
+  }
+}

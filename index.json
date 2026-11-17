@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-16T02:24:29.020Z",
-  "total_datasets": 508,
-  "total_records": 245186,
+  "generated": "2026-11-17T02:27:51.735Z",
+  "total_datasets": 509,
+  "total_records": 245210,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -1803,6 +1803,33 @@
         "xlsx": {
           "name": "da-koebenhavns-universitets-rektorer_DA.xlsx",
           "size": 19559
+        }
+      }
+    },
+    {
+      "id": "da-kunstneriske-og-maritime-uddannelsesinstitutioner-2025",
+      "name": "Kunstneriske, kulturelle og maritime uddannelsesinstitutioner i Danmark — elever, tilgang og fuldførte (opgørelsesår 2025)",
+      "category": "education",
+      "record_count": 24,
+      "columns": [
+        "institution",
+        "institutionsnummer",
+        "type",
+        "elever_pr_1_oktober",
+        "tilgang",
+        "fuldfoert"
+      ],
+      "source": "https://www.statistikbanken.dk/INST25",
+      "updated": "2026-11",
+      "size": 7681,
+      "files": {
+        "csv": {
+          "name": "da-kunstneriske-og-maritime-uddannelsesinstitutioner-2025_DA.csv",
+          "size": 2018
+        },
+        "xlsx": {
+          "name": "da-kunstneriske-og-maritime-uddannelsesinstitutioner-2025_DA.xlsx",
+          "size": 8073
         }
       }
     },
