@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-17T02:27:51.735Z",
-  "total_datasets": 509,
-  "total_records": 245210,
+  "generated": "2026-11-17T02:28:02.411Z",
+  "total_datasets": 510,
+  "total_records": 245226,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -1691,6 +1691,34 @@
         "xlsx": {
           "name": "da-stoerste-virksomheder_DA.xlsx",
           "size": 7480
+        }
+      }
+    },
+    {
+      "id": "da-udenrigshandel-varer-tjenester-aarlig",
+      "name": "Danmarks udenrigshandel med varer og tjenester pr. år (2010–2025)",
+      "category": "economy",
+      "record_count": 16,
+      "columns": [
+        "aar",
+        "vareeksport_mio_kr",
+        "vareimport_mio_kr",
+        "varebalance_mio_kr",
+        "tjenesteeksport_mio_kr",
+        "tjenesteimport_mio_kr",
+        "tjenestebalance_mio_kr"
+      ],
+      "source": "https://www.statistikbanken.dk/UHM",
+      "updated": "2026-11",
+      "size": 6552,
+      "files": {
+        "csv": {
+          "name": "da-udenrigshandel-varer-tjenester-aarlig_DA.csv",
+          "size": 1278
+        },
+        "xlsx": {
+          "name": "da-udenrigshandel-varer-tjenester-aarlig_DA.xlsx",
+          "size": 7679
         }
       }
     },

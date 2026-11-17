@@ -1,0 +1,205 @@
+{
+  "id": "da-udenrigshandel-varer-tjenester-aarlig",
+  "name": "Danmarks udenrigshandel med varer og tjenester pr. år (2010–2025)",
+  "title": "Danmarks udenrigshandel med varer og tjenester pr. år (2010–2025)",
+  "description": "Danmarks samlede eksport og import af varer og tjenester samt vare- og tjenestebalance (mio. kr.) pr. år 2010–2025, summeret fra månedlige tal (ikke sæsonkorrigeret, alle lande). Kilde: Danmarks Statistik, UHM.",
+  "category": "economy",
+  "source": "https://www.statistikbanken.dk/UHM",
+  "source_url": "https://www.statistikbanken.dk/UHM",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "vareeksport_mio_kr",
+      "label": "Vareeksport Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "vareimport_mio_kr",
+      "label": "Vareimport Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "varebalance_mio_kr",
+      "label": "Varebalance Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "tjenesteeksport_mio_kr",
+      "label": "Tjenesteeksport Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "tjenesteimport_mio_kr",
+      "label": "Tjenesteimport Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "tjenestebalance_mio_kr",
+      "label": "Tjenestebalance Mio Kr",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 2010,
+      "vareeksport_mio_kr": 569024.4,
+      "vareimport_mio_kr": 481656.7,
+      "varebalance_mio_kr": 87367.7,
+      "tjenesteeksport_mio_kr": 348133.7,
+      "tjenesteimport_mio_kr": 312336.6,
+      "tjenestebalance_mio_kr": 35797.1
+    },
+    {
+      "aar": 2011,
+      "vareeksport_mio_kr": 636593.8,
+      "vareimport_mio_kr": 547549.4,
+      "varebalance_mio_kr": 89044.4,
+      "tjenesteeksport_mio_kr": 363158.8,
+      "tjenesteimport_mio_kr": 338438.5,
+      "tjenestebalance_mio_kr": 24720.3
+    },
+    {
+      "aar": 2012,
+      "vareeksport_mio_kr": 650495.4,
+      "vareimport_mio_kr": 565475.2,
+      "varebalance_mio_kr": 85020.2,
+      "tjenesteeksport_mio_kr": 392151.1,
+      "tjenesteimport_mio_kr": 367392,
+      "tjenestebalance_mio_kr": 24759.1
+    },
+    {
+      "aar": 2013,
+      "vareeksport_mio_kr": 660055.9,
+      "vareimport_mio_kr": 573213.5,
+      "varebalance_mio_kr": 86842.4,
+      "tjenesteeksport_mio_kr": 402968.7,
+      "tjenesteimport_mio_kr": 369245,
+      "tjenestebalance_mio_kr": 33723.7
+    },
+    {
+      "aar": 2014,
+      "vareeksport_mio_kr": 672104.8,
+      "vareimport_mio_kr": 583338.5,
+      "varebalance_mio_kr": 88766.3,
+      "tjenesteeksport_mio_kr": 413740,
+      "tjenesteimport_mio_kr": 374661.4,
+      "tjenestebalance_mio_kr": 39078.6
+    },
+    {
+      "aar": 2015,
+      "vareeksport_mio_kr": 697676.5,
+      "vareimport_mio_kr": 601522.6,
+      "varebalance_mio_kr": 96153.9,
+      "tjenesteeksport_mio_kr": 435469,
+      "tjenesteimport_mio_kr": 399694.6,
+      "tjenestebalance_mio_kr": 35774.4
+    },
+    {
+      "aar": 2016,
+      "vareeksport_mio_kr": 699470.4,
+      "vareimport_mio_kr": 586999.6,
+      "varebalance_mio_kr": 112470.8,
+      "tjenesteeksport_mio_kr": 429968.9,
+      "tjenesteimport_mio_kr": 415611.5,
+      "tjenestebalance_mio_kr": 14357.4
+    },
+    {
+      "aar": 2017,
+      "vareeksport_mio_kr": 734953.1,
+      "vareimport_mio_kr": 636543.5,
+      "varebalance_mio_kr": 98409.6,
+      "tjenesteeksport_mio_kr": 476896.1,
+      "tjenesteimport_mio_kr": 433502.7,
+      "tjenestebalance_mio_kr": 43393.4
+    },
+    {
+      "aar": 2018,
+      "vareeksport_mio_kr": 754641.6,
+      "vareimport_mio_kr": 675080,
+      "varebalance_mio_kr": 79561.6,
+      "tjenesteeksport_mio_kr": 523804.2,
+      "tjenesteimport_mio_kr": 487761.8,
+      "tjenestebalance_mio_kr": 36042.4
+    },
+    {
+      "aar": 2019,
+      "vareeksport_mio_kr": 800256.8,
+      "vareimport_mio_kr": 685915.7,
+      "varebalance_mio_kr": 114341.1,
+      "tjenesteeksport_mio_kr": 557752,
+      "tjenesteimport_mio_kr": 533649.4,
+      "tjenestebalance_mio_kr": 24102.6
+    },
+    {
+      "aar": 2020,
+      "vareeksport_mio_kr": 780517.1,
+      "vareimport_mio_kr": 663400.4,
+      "varebalance_mio_kr": 117116.7,
+      "tjenesteeksport_mio_kr": 499970.4,
+      "tjenesteimport_mio_kr": 485855.7,
+      "tjenestebalance_mio_kr": 14114.7
+    },
+    {
+      "aar": 2021,
+      "vareeksport_mio_kr": 880594.2,
+      "vareimport_mio_kr": 808009.5,
+      "varebalance_mio_kr": 72584.7,
+      "tjenesteeksport_mio_kr": 631181.1,
+      "tjenesteimport_mio_kr": 548191.3,
+      "tjenestebalance_mio_kr": 82989.8
+    },
+    {
+      "aar": 2022,
+      "vareeksport_mio_kr": 1043455.3,
+      "vareimport_mio_kr": 978249.5,
+      "varebalance_mio_kr": 65205.8,
+      "tjenesteeksport_mio_kr": 959815.5,
+      "tjenesteimport_mio_kr": 755636.8,
+      "tjenestebalance_mio_kr": 204178.7
+    },
+    {
+      "aar": 2023,
+      "vareeksport_mio_kr": 1095655.9,
+      "vareimport_mio_kr": 890232.6,
+      "varebalance_mio_kr": 205423.3,
+      "tjenesteeksport_mio_kr": 813974.9,
+      "tjenesteimport_mio_kr": 791365.5,
+      "tjenestebalance_mio_kr": 22609.4
+    },
+    {
+      "aar": 2024,
+      "vareeksport_mio_kr": 1196247.6,
+      "vareimport_mio_kr": 918749.7,
+      "varebalance_mio_kr": 277497.9,
+      "tjenesteeksport_mio_kr": 884790.7,
+      "tjenesteimport_mio_kr": 875806.3,
+      "tjenestebalance_mio_kr": 8984.4
+    },
+    {
+      "aar": 2025,
+      "vareeksport_mio_kr": 1287703.9,
+      "vareimport_mio_kr": 963290.1,
+      "varebalance_mio_kr": 324413.8,
+      "tjenesteeksport_mio_kr": 870479.3,
+      "tjenesteimport_mio_kr": 857039.2,
+      "tjenestebalance_mio_kr": 13440.1
+    }
+  ],
+  "meta": {
+    "title": "Danmarks udenrigshandel med varer og tjenester pr. år (2010–2025) - Free Download",
+    "description": "Danmarks samlede eksport og import af varer og tjenester samt vare- og tjenestebalance (mio. kr.) pr. år 2010–2025, summeret fra månedlige tal (ikke sæsonkorrigeret, alle lande). Kilde: Danmarks Statistik, UHM. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danmarks udenrigshandel med varer og tjenester pr. år (2010–2025) | ListBase",
+    "seo_description": "Download Danmarks udenrigshandel med varer og tjenester pr. år (2010–2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/UHM"
+    ]
+  }
+}
