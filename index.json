@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-18T02:32:56.884Z",
-  "total_datasets": 512,
-  "total_records": 245302,
+  "generated": "2026-11-18T02:33:08.452Z",
+  "total_datasets": 513,
+  "total_records": 245512,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "finance",
@@ -2170,6 +2170,33 @@
         "xlsx": {
           "name": "da-tv-kanaler_DA.xlsx",
           "size": 12998
+        }
+      }
+    },
+    {
+      "id": "da-affaldsproduktion-efter-fraktion-og-behandling",
+      "name": "Affaldsproduktion i Danmark efter fraktion og behandling (2011–2024)",
+      "category": "environment",
+      "record_count": 210,
+      "columns": [
+        "aar",
+        "affaldsfraktion",
+        "i_alt_ton",
+        "genanvendelse_ton",
+        "forbraending_ton",
+        "deponering_ton"
+      ],
+      "source": "https://www.statbank.dk/AFFALD",
+      "updated": "2026-11",
+      "size": 45435,
+      "files": {
+        "csv": {
+          "name": "da-affaldsproduktion-efter-fraktion-og-behandling_DA.csv",
+          "size": 13378
+        },
+        "xlsx": {
+          "name": "da-affaldsproduktion-efter-fraktion-og-behandling_DA.xlsx",
+          "size": 14238
         }
       }
     },

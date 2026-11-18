@@ -1,0 +1,1736 @@
+{
+  "id": "da-affaldsproduktion-efter-fraktion-og-behandling",
+  "name": "Affaldsproduktion i Danmark efter fraktion og behandling (2011–2024)",
+  "title": "Affaldsproduktion i Danmark efter fraktion og behandling (2011–2024)",
+  "description": "Den samlede affaldsproduktion fra brancher og husholdninger i Danmark (ton) fordelt på affaldsfraktion og behandlingsform: genanvendelse, forbrænding og deponering (diskretionerede værdier er tomme). Kilde: Danmarks Statistik, tabel AFFALD.",
+  "category": "environment",
+  "source": "https://www.statbank.dk/AFFALD",
+  "source_url": "https://www.statbank.dk/AFFALD",
+  "updated": "2026-11",
+  "record_count": 210,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "affaldsfraktion",
+      "label": "Affaldsfraktion",
+      "type": "string"
+    },
+    {
+      "key": "i_alt_ton",
+      "label": "I Alt Ton",
+      "type": "number"
+    },
+    {
+      "key": "genanvendelse_ton",
+      "label": "Genanvendelse Ton",
+      "type": "number"
+    },
+    {
+      "key": "forbraending_ton",
+      "label": "Forbraending Ton",
+      "type": "number"
+    },
+    {
+      "key": "deponering_ton",
+      "label": "Deponering Ton",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 14622655,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 3468778,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 11192655,
+      "genanvendelse_ton": 6966240,
+      "forbraending_ton": 3468778,
+      "deponering_ton": 757636
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 1518632,
+      "genanvendelse_ton": 34,
+      "forbraending_ton": 1518541,
+      "deponering_ton": 58
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 1056713,
+      "genanvendelse_ton": 1001241,
+      "forbraending_ton": 43512,
+      "deponering_ton": 11960
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1658291,
+      "genanvendelse_ton": 25857,
+      "forbraending_ton": 1622154,
+      "deponering_ton": 10280
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 694201,
+      "genanvendelse_ton": 690419,
+      "forbraending_ton": 1523,
+      "deponering_ton": 2259
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 248233,
+      "genanvendelse_ton": 217910,
+      "forbraending_ton": 24155,
+      "deponering_ton": 6168
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 187670,
+      "genanvendelse_ton": 185467,
+      "forbraending_ton": 2155,
+      "deponering_ton": 48
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 1036478,
+      "genanvendelse_ton": 1036310,
+      "forbraending_ton": 22,
+      "deponering_ton": 147
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 108474,
+      "genanvendelse_ton": 106909,
+      "forbraending_ton": 563,
+      "deponering_ton": 1002
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 100132,
+      "genanvendelse_ton": 99192,
+      "forbraending_ton": 2,
+      "deponering_ton": 938
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 2339853,
+      "genanvendelse_ton": 2198806,
+      "forbraending_ton": 28415,
+      "deponering_ton": 112631
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 284952,
+      "genanvendelse_ton": 191327,
+      "forbraending_ton": 61535,
+      "deponering_ton": 32090
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 3430000,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2011,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 1959026,
+      "genanvendelse_ton": 1212768,
+      "forbraending_ton": 166201,
+      "deponering_ton": 580056
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 14210493,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 3141919,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 10291493,
+      "genanvendelse_ton": 6688732,
+      "forbraending_ton": 3141919,
+      "deponering_ton": 460842
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 1438839,
+      "genanvendelse_ton": 185,
+      "forbraending_ton": 1438528,
+      "deponering_ton": 126
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 1020500,
+      "genanvendelse_ton": 962220,
+      "forbraending_ton": 50643,
+      "deponering_ton": 7638
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1473124,
+      "genanvendelse_ton": 18722,
+      "forbraending_ton": 1441069,
+      "deponering_ton": 13333
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 645185,
+      "genanvendelse_ton": 641397,
+      "forbraending_ton": 3761,
+      "deponering_ton": 27
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 252084,
+      "genanvendelse_ton": 201735,
+      "forbraending_ton": 47616,
+      "deponering_ton": 2733
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 170799,
+      "genanvendelse_ton": 170485,
+      "forbraending_ton": 73,
+      "deponering_ton": 241
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 984766,
+      "genanvendelse_ton": 984444,
+      "forbraending_ton": 32,
+      "deponering_ton": 290
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 122518,
+      "genanvendelse_ton": 111769,
+      "forbraending_ton": 5214,
+      "deponering_ton": 5536
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 84031,
+      "genanvendelse_ton": 83721,
+      "forbraending_ton": 107,
+      "deponering_ton": 203
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 2630344,
+      "genanvendelse_ton": 2504472,
+      "forbraending_ton": 11230,
+      "deponering_ton": 114642
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 155590,
+      "genanvendelse_ton": 114499,
+      "forbraending_ton": 36093,
+      "deponering_ton": 4997
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 3919000,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2012,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 1313713,
+      "genanvendelse_ton": 895082,
+      "forbraending_ton": 107554,
+      "deponering_ton": 311077
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 16158727,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 3152658,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 10433396,
+      "genanvendelse_ton": 6892316,
+      "forbraending_ton": 3152658,
+      "deponering_ton": 388422
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 1478652,
+      "genanvendelse_ton": 836,
+      "forbraending_ton": 1477762,
+      "deponering_ton": 54
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 949605,
+      "genanvendelse_ton": 879084,
+      "forbraending_ton": 63645,
+      "deponering_ton": 6875
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1417369,
+      "genanvendelse_ton": 19813,
+      "forbraending_ton": 1385791,
+      "deponering_ton": 11765
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 647345,
+      "genanvendelse_ton": 646852,
+      "forbraending_ton": 475,
+      "deponering_ton": 18
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 305926,
+      "genanvendelse_ton": 229743,
+      "forbraending_ton": 74707,
+      "deponering_ton": 1477
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 165035,
+      "genanvendelse_ton": 164833,
+      "forbraending_ton": 49,
+      "deponering_ton": 153
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 937141,
+      "genanvendelse_ton": 936815,
+      "forbraending_ton": 13,
+      "deponering_ton": 312
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 109659,
+      "genanvendelse_ton": 108293,
+      "forbraending_ton": 802,
+      "deponering_ton": 565
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 99182,
+      "genanvendelse_ton": 98803,
+      "forbraending_ton": 70,
+      "deponering_ton": 309
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 2721958,
+      "genanvendelse_ton": 2629566,
+      "forbraending_ton": 13052,
+      "deponering_ton": 79340
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 148188,
+      "genanvendelse_ton": 114410,
+      "forbraending_ton": 29950,
+      "deponering_ton": 3827
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 5725331,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2013,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 1453336,
+      "genanvendelse_ton": 1063267,
+      "forbraending_ton": 106344,
+      "deponering_ton": 283724
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 18250792,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 3150330,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 10987979,
+      "genanvendelse_ton": 7424504,
+      "forbraending_ton": 3150330,
+      "deponering_ton": 413145
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 1499006,
+      "genanvendelse_ton": 1516,
+      "forbraending_ton": 1495787,
+      "deponering_ton": 1703
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 1041414,
+      "genanvendelse_ton": 1013813,
+      "forbraending_ton": 23066,
+      "deponering_ton": 4535
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1383734,
+      "genanvendelse_ton": 19886,
+      "forbraending_ton": 1358993,
+      "deponering_ton": 4854
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 679158,
+      "genanvendelse_ton": 678637,
+      "forbraending_ton": 506,
+      "deponering_ton": 14
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 411258,
+      "genanvendelse_ton": 315979,
+      "forbraending_ton": 92947,
+      "deponering_ton": 2332
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 175730,
+      "genanvendelse_ton": 175583,
+      "forbraending_ton": 1,
+      "deponering_ton": 146
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 870220,
+      "genanvendelse_ton": 869968,
+      "forbraending_ton": 0,
+      "deponering_ton": 252
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 124225,
+      "genanvendelse_ton": 121848,
+      "forbraending_ton": 2184,
+      "deponering_ton": 193
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 57187,
+      "genanvendelse_ton": 57073,
+      "forbraending_ton": 64,
+      "deponering_ton": 50
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 3120623,
+      "genanvendelse_ton": 2981725,
+      "forbraending_ton": 21614,
+      "deponering_ton": 117284
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 161964,
+      "genanvendelse_ton": 129780,
+      "forbraending_ton": 29023,
+      "deponering_ton": 3161
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 7262814,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2014,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 1463461,
+      "genanvendelse_ton": 1058696,
+      "forbraending_ton": 126144,
+      "deponering_ton": 278621
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 16635109,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 3048198,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 11022446,
+      "genanvendelse_ton": 7561523,
+      "forbraending_ton": 3048198,
+      "deponering_ton": 412725
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 1458658,
+      "genanvendelse_ton": 3117,
+      "forbraending_ton": 1454069,
+      "deponering_ton": 1472
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 1153831,
+      "genanvendelse_ton": 1115128,
+      "forbraending_ton": 31307,
+      "deponering_ton": 7396
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1360366,
+      "genanvendelse_ton": 11308,
+      "forbraending_ton": 1345719,
+      "deponering_ton": 3339
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 680121,
+      "genanvendelse_ton": 678181,
+      "forbraending_ton": 1939,
+      "deponering_ton": 0
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 412685,
+      "genanvendelse_ton": 343541,
+      "forbraending_ton": 65125,
+      "deponering_ton": 4020
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 176916,
+      "genanvendelse_ton": 176607,
+      "forbraending_ton": 171,
+      "deponering_ton": 138
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 873587,
+      "genanvendelse_ton": 872854,
+      "forbraending_ton": 388,
+      "deponering_ton": 346
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 126971,
+      "genanvendelse_ton": 125756,
+      "forbraending_ton": 753,
+      "deponering_ton": 462
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 75301,
+      "genanvendelse_ton": 75189,
+      "forbraending_ton": 24,
+      "deponering_ton": 87
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 3209723,
+      "genanvendelse_ton": 3064613,
+      "forbraending_ton": 25676,
+      "deponering_ton": 119433
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 162805,
+      "genanvendelse_ton": 133827,
+      "forbraending_ton": 23243,
+      "deponering_ton": 5735
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 5612664,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2015,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 1331483,
+      "genanvendelse_ton": 961403,
+      "forbraending_ton": 99782,
+      "deponering_ton": 270298
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 17730308,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 3047538,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 11147922,
+      "genanvendelse_ton": 7714320,
+      "forbraending_ton": 3047538,
+      "deponering_ton": 386064
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 1350434,
+      "genanvendelse_ton": 1042,
+      "forbraending_ton": 1349379,
+      "deponering_ton": 13
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 1187728,
+      "genanvendelse_ton": 1130438,
+      "forbraending_ton": 54876,
+      "deponering_ton": 2414
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1395472,
+      "genanvendelse_ton": 11512,
+      "forbraending_ton": 1383465,
+      "deponering_ton": 495
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 671709,
+      "genanvendelse_ton": 671033,
+      "forbraending_ton": 671,
+      "deponering_ton": 6
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 439636,
+      "genanvendelse_ton": 363260,
+      "forbraending_ton": 63588,
+      "deponering_ton": 12788
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 176407,
+      "genanvendelse_ton": 176224,
+      "forbraending_ton": 45,
+      "deponering_ton": 137
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 1006909,
+      "genanvendelse_ton": 1006182,
+      "forbraending_ton": 209,
+      "deponering_ton": 518
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 135180,
+      "genanvendelse_ton": 133580,
+      "forbraending_ton": 991,
+      "deponering_ton": 608
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 94648,
+      "genanvendelse_ton": 94572,
+      "forbraending_ton": 19,
+      "deponering_ton": 57
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 3277797,
+      "genanvendelse_ton": 3104326,
+      "forbraending_ton": 49628,
+      "deponering_ton": 123842
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 179383,
+      "genanvendelse_ton": 146676,
+      "forbraending_ton": 24411,
+      "deponering_ton": 8296
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 6582386,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2016,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 1232618,
+      "genanvendelse_ton": 875473,
+      "forbraending_ton": 120256,
+      "deponering_ton": 236890
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 17376998,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 3234120,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 11203080,
+      "genanvendelse_ton": 7578572,
+      "forbraending_ton": 3234120,
+      "deponering_ton": 390388
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 1330800,
+      "genanvendelse_ton": 698,
+      "forbraending_ton": 1329735,
+      "deponering_ton": 366
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 1251838,
+      "genanvendelse_ton": 1143810,
+      "forbraending_ton": 105503,
+      "deponering_ton": 2525
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1418716,
+      "genanvendelse_ton": 10718,
+      "forbraending_ton": 1406269,
+      "deponering_ton": 1729
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 625605,
+      "genanvendelse_ton": 624884,
+      "forbraending_ton": 721,
+      "deponering_ton": 1
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 448904,
+      "genanvendelse_ton": 360902,
+      "forbraending_ton": 85499,
+      "deponering_ton": 2503
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 169374,
+      "genanvendelse_ton": 169227,
+      "forbraending_ton": 31,
+      "deponering_ton": 117
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 1018025,
+      "genanvendelse_ton": 1010437,
+      "forbraending_ton": 7280,
+      "deponering_ton": 308
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 139489,
+      "genanvendelse_ton": 137383,
+      "forbraending_ton": 1651,
+      "deponering_ton": 454
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 82961,
+      "genanvendelse_ton": 82641,
+      "forbraending_ton": 295,
+      "deponering_ton": 25
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 3155351,
+      "genanvendelse_ton": 2885705,
+      "forbraending_ton": 135212,
+      "deponering_ton": 134433
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 181161,
+      "genanvendelse_ton": 150953,
+      "forbraending_ton": 24914,
+      "deponering_ton": 5294
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 6173919,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2017,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 1380856,
+      "genanvendelse_ton": 1001214,
+      "forbraending_ton": 137010,
+      "deponering_ton": 242633
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 19202131,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 3015476,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 12449824,
+      "genanvendelse_ton": 8988157,
+      "forbraending_ton": 3015476,
+      "deponering_ton": 446191
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 1263255,
+      "genanvendelse_ton": 250,
+      "forbraending_ton": 1262939,
+      "deponering_ton": 66
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 2080041,
+      "genanvendelse_ton": 1976454,
+      "forbraending_ton": 102072,
+      "deponering_ton": 1515
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1350194,
+      "genanvendelse_ton": 14981,
+      "forbraending_ton": 1334892,
+      "deponering_ton": 321
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 636894,
+      "genanvendelse_ton": 636180,
+      "forbraending_ton": 714,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 467297,
+      "genanvendelse_ton": 358168,
+      "forbraending_ton": 106478,
+      "deponering_ton": 2652
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 187412,
+      "genanvendelse_ton": 187318,
+      "forbraending_ton": 10,
+      "deponering_ton": 84
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 1012834,
+      "genanvendelse_ton": 1011475,
+      "forbraending_ton": 1292,
+      "deponering_ton": 67
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 159857,
+      "genanvendelse_ton": 157146,
+      "forbraending_ton": 2364,
+      "deponering_ton": 347
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 88739,
+      "genanvendelse_ton": 88495,
+      "forbraending_ton": 232,
+      "deponering_ton": 12
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 3808038,
+      "genanvendelse_ton": 3510382,
+      "forbraending_ton": 103609,
+      "deponering_ton": 194047
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 155784,
+      "genanvendelse_ton": 138683,
+      "forbraending_ton": 4692,
+      "deponering_ton": 12409
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 6752308,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2018,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 1239477,
+      "genanvendelse_ton": 908625,
+      "forbraending_ton": 96181,
+      "deponering_ton": 234671
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 21109200,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 3022462,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 12204879,
+      "genanvendelse_ton": 8773080,
+      "forbraending_ton": 3022462,
+      "deponering_ton": 409337
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 1198611,
+      "genanvendelse_ton": 655,
+      "forbraending_ton": 1197953,
+      "deponering_ton": 3
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 2215291,
+      "genanvendelse_ton": 2093852,
+      "forbraending_ton": 119706,
+      "deponering_ton": 1732
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1395077,
+      "genanvendelse_ton": 14354,
+      "forbraending_ton": 1380654,
+      "deponering_ton": 70
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 645112,
+      "genanvendelse_ton": 639549,
+      "forbraending_ton": 5563,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 510865,
+      "genanvendelse_ton": 390441,
+      "forbraending_ton": 119233,
+      "deponering_ton": 1191
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 173238,
+      "genanvendelse_ton": 171558,
+      "forbraending_ton": 1675,
+      "deponering_ton": 5
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 1022687,
+      "genanvendelse_ton": 1022552,
+      "forbraending_ton": 34,
+      "deponering_ton": 101
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 155849,
+      "genanvendelse_ton": 150871,
+      "forbraending_ton": 4459,
+      "deponering_ton": 519
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 100533,
+      "genanvendelse_ton": 100371,
+      "forbraending_ton": 101,
+      "deponering_ton": 61
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 3542963,
+      "genanvendelse_ton": 3272713,
+      "forbraending_ton": 102143,
+      "deponering_ton": 168107
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 152329,
+      "genanvendelse_ton": 146509,
+      "forbraending_ton": 2238,
+      "deponering_ton": 3582
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 8904321,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2019,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 1092323,
+      "genanvendelse_ton": 769654,
+      "forbraending_ton": 88703,
+      "deponering_ton": 233966
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 18398692,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 2988039,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 11969370,
+      "genanvendelse_ton": 8569669,
+      "forbraending_ton": 2988039,
+      "deponering_ton": 411663
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 1221431,
+      "genanvendelse_ton": 1641,
+      "forbraending_ton": 1219731,
+      "deponering_ton": 59
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 1784124,
+      "genanvendelse_ton": 1667177,
+      "forbraending_ton": 116378,
+      "deponering_ton": 568
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1329374,
+      "genanvendelse_ton": 10438,
+      "forbraending_ton": 1318883,
+      "deponering_ton": 52
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 639494,
+      "genanvendelse_ton": 639234,
+      "forbraending_ton": 260,
+      "deponering_ton": 0
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 512647,
+      "genanvendelse_ton": 386565,
+      "forbraending_ton": 121686,
+      "deponering_ton": 4396
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 197073,
+      "genanvendelse_ton": 195000,
+      "forbraending_ton": 2037,
+      "deponering_ton": 36
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 1144818,
+      "genanvendelse_ton": 1144677,
+      "forbraending_ton": 65,
+      "deponering_ton": 76
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 180967,
+      "genanvendelse_ton": 177434,
+      "forbraending_ton": 3058,
+      "deponering_ton": 475
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 115458,
+      "genanvendelse_ton": 115271,
+      "forbraending_ton": 157,
+      "deponering_ton": 30
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 3619290,
+      "genanvendelse_ton": 3347633,
+      "forbraending_ton": 111335,
+      "deponering_ton": 160322
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 177856,
+      "genanvendelse_ton": 159459,
+      "forbraending_ton": 15140,
+      "deponering_ton": 3257
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 6429322,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2020,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 1046838,
+      "genanvendelse_ton": 725138,
+      "forbraending_ton": 79307,
+      "deponering_ton": 242393
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 20286192,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 2997501,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 12319611,
+      "genanvendelse_ton": 8924254,
+      "forbraending_ton": 2997501,
+      "deponering_ton": 397856
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 1150432,
+      "genanvendelse_ton": 4541,
+      "forbraending_ton": 1145851,
+      "deponering_ton": 40
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 1993469,
+      "genanvendelse_ton": 1844257,
+      "forbraending_ton": 148668,
+      "deponering_ton": 544
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1358849,
+      "genanvendelse_ton": 27683,
+      "forbraending_ton": 1330358,
+      "deponering_ton": 808
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 619791,
+      "genanvendelse_ton": 619444,
+      "forbraending_ton": 211,
+      "deponering_ton": 136
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 511602,
+      "genanvendelse_ton": 359644,
+      "forbraending_ton": 149933,
+      "deponering_ton": 2024
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 204828,
+      "genanvendelse_ton": 201736,
+      "forbraending_ton": 2979,
+      "deponering_ton": 113
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 1207683,
+      "genanvendelse_ton": 1207318,
+      "forbraending_ton": 239,
+      "deponering_ton": 126
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 174836,
+      "genanvendelse_ton": 170000,
+      "forbraending_ton": 3888,
+      "deponering_ton": 948
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 111534,
+      "genanvendelse_ton": 111074,
+      "forbraending_ton": 167,
+      "deponering_ton": 293
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 3605523,
+      "genanvendelse_ton": 3341006,
+      "forbraending_ton": 110812,
+      "deponering_ton": 153705
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 162143,
+      "genanvendelse_ton": 147934,
+      "forbraending_ton": 12030,
+      "deponering_ton": 2179
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 7966581,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2021,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 1218922,
+      "genanvendelse_ton": 889618,
+      "forbraending_ton": 92364,
+      "deponering_ton": 236940
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 22000299,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 2797141,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 12063171,
+      "genanvendelse_ton": 8849014,
+      "forbraending_ton": 2797141,
+      "deponering_ton": 417017
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 1062955,
+      "genanvendelse_ton": 6213,
+      "forbraending_ton": 1056704,
+      "deponering_ton": 38
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 1935533,
+      "genanvendelse_ton": 1804071,
+      "forbraending_ton": 131161,
+      "deponering_ton": 301
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1324975,
+      "genanvendelse_ton": 41739,
+      "forbraending_ton": 1282492,
+      "deponering_ton": 744
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 593664,
+      "genanvendelse_ton": 593425,
+      "forbraending_ton": 96,
+      "deponering_ton": 143
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 492614,
+      "genanvendelse_ton": 355406,
+      "forbraending_ton": 135632,
+      "deponering_ton": 1576
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 197816,
+      "genanvendelse_ton": 195934,
+      "forbraending_ton": 1832,
+      "deponering_ton": 50
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 1003018,
+      "genanvendelse_ton": 1002960,
+      "forbraending_ton": 58,
+      "deponering_ton": 0
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 193554,
+      "genanvendelse_ton": 192440,
+      "forbraending_ton": 755,
+      "deponering_ton": 359
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 91557,
+      "genanvendelse_ton": 91001,
+      "forbraending_ton": 333,
+      "deponering_ton": 223
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 3971138,
+      "genanvendelse_ton": 3741079,
+      "forbraending_ton": 72124,
+      "deponering_ton": 157935
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 170558,
+      "genanvendelse_ton": 152302,
+      "forbraending_ton": 14446,
+      "deponering_ton": 3811
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 9937128,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2022,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 1025788,
+      "genanvendelse_ton": 672443,
+      "forbraending_ton": 101508,
+      "deponering_ton": 251837
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 21176023,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 2827543,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 12465528,
+      "genanvendelse_ton": 9216622,
+      "forbraending_ton": 2827543,
+      "deponering_ton": 421364
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 1036857,
+      "genanvendelse_ton": 7563,
+      "forbraending_ton": 1029243,
+      "deponering_ton": 51
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 2359346,
+      "genanvendelse_ton": 2208359,
+      "forbraending_ton": 149769,
+      "deponering_ton": 1219
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1328573,
+      "genanvendelse_ton": 26159,
+      "forbraending_ton": 1302107,
+      "deponering_ton": 307
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 586237,
+      "genanvendelse_ton": 586028,
+      "forbraending_ton": 93,
+      "deponering_ton": 116
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 510940,
+      "genanvendelse_ton": 378045,
+      "forbraending_ton": 130533,
+      "deponering_ton": 2362
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 204881,
+      "genanvendelse_ton": 203116,
+      "forbraending_ton": 1654,
+      "deponering_ton": 111
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 989559,
+      "genanvendelse_ton": 989428,
+      "forbraending_ton": 72,
+      "deponering_ton": 59
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 221795,
+      "genanvendelse_ton": 218910,
+      "forbraending_ton": 1721,
+      "deponering_ton": 1164
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 108311,
+      "genanvendelse_ton": 107684,
+      "forbraending_ton": 408,
+      "deponering_ton": 219
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 3967274,
+      "genanvendelse_ton": 3708790,
+      "forbraending_ton": 92512,
+      "deponering_ton": 165972
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 198975,
+      "genanvendelse_ton": 177866,
+      "forbraending_ton": 17745,
+      "deponering_ton": 3364
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 8710495,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2023,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 952781,
+      "genanvendelse_ton": 604674,
+      "forbraending_ton": 101686,
+      "deponering_ton": 246420
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Affald i alt (inkl. jord)",
+      "i_alt_ton": 20857664,
+      "genanvendelse_ton": "",
+      "forbraending_ton": 2795031,
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Affald i alt (ekskl. jord)",
+      "i_alt_ton": 12958492,
+      "genanvendelse_ton": 9630467,
+      "forbraending_ton": 2795031,
+      "deponering_ton": 532994
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Dagrenovation og lignende",
+      "i_alt_ton": 927980,
+      "genanvendelse_ton": 12967,
+      "forbraending_ton": 913108,
+      "deponering_ton": 1905
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Organisk affald, inkl. haveaffald",
+      "i_alt_ton": 2574984,
+      "genanvendelse_ton": 2365611,
+      "forbraending_ton": 209206,
+      "deponering_ton": 167
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Forbrændingsegnet affald",
+      "i_alt_ton": 1267172,
+      "genanvendelse_ton": 37322,
+      "forbraending_ton": 1228083,
+      "deponering_ton": 1768
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Papir og pap",
+      "i_alt_ton": 581815,
+      "genanvendelse_ton": 580866,
+      "forbraending_ton": 789,
+      "deponering_ton": 160
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Træ, inkl emballage og imprægneret",
+      "i_alt_ton": 601082,
+      "genanvendelse_ton": 430176,
+      "forbraending_ton": 168444,
+      "deponering_ton": 2462
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Glas, inkl emballage",
+      "i_alt_ton": 213767,
+      "genanvendelse_ton": 211770,
+      "forbraending_ton": 1921,
+      "deponering_ton": 76
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Jern og metal, inkl emballage",
+      "i_alt_ton": 1138533,
+      "genanvendelse_ton": 1137986,
+      "forbraending_ton": 23,
+      "deponering_ton": 524
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Plast og dæk",
+      "i_alt_ton": 258635,
+      "genanvendelse_ton": 257360,
+      "forbraending_ton": 551,
+      "deponering_ton": 724
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Elektronik, batterier, mv.",
+      "i_alt_ton": 109876,
+      "genanvendelse_ton": 109165,
+      "forbraending_ton": 698,
+      "deponering_ton": 13
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Blandet bygge- og anlægsaffald",
+      "i_alt_ton": 3980926,
+      "genanvendelse_ton": 3595294,
+      "forbraending_ton": 143328,
+      "deponering_ton": 242304
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Slam",
+      "i_alt_ton": 241679,
+      "genanvendelse_ton": 214425,
+      "forbraending_ton": 26058,
+      "deponering_ton": 1196
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Jord",
+      "i_alt_ton": 7899172,
+      "genanvendelse_ton": "",
+      "forbraending_ton": "",
+      "deponering_ton": ""
+    },
+    {
+      "aar": 2024,
+      "affaldsfraktion": "Øvrigt affald",
+      "i_alt_ton": 1062042,
+      "genanvendelse_ton": 677526,
+      "forbraending_ton": 102821,
+      "deponering_ton": 281695
+    }
+  ],
+  "meta": {
+    "title": "Affaldsproduktion i Danmark efter fraktion og behandling (2011–2024) - Free Download",
+    "description": "Den samlede affaldsproduktion fra brancher og husholdninger i Danmark (ton) fordelt på affaldsfraktion og behandlingsform: genanvendelse, forbrænding og deponering (diskretionerede værdier er tomme). Kilde: Danmarks Statistik, tabel AFFALD. Contains 210 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Affaldsproduktion i Danmark efter fraktion og behandling (2011–2024) | ListBase",
+    "seo_description": "Download Affaldsproduktion i Danmark efter fraktion og behandling (2011–2024) — 210 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 210 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statbank.dk/AFFALD"
+    ]
+  }
+}
