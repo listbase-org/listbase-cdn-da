@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-17T02:28:02.411Z",
-  "total_datasets": 510,
-  "total_records": 245226,
+  "generated": "2026-11-18T02:32:42.957Z",
+  "total_datasets": 511,
+  "total_records": 245268,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -4376,6 +4376,31 @@
         "xlsx": {
           "name": "da-laaneord-efter-sprog_DA.xlsx",
           "size": 9014
+        }
+      }
+    },
+    {
+      "id": "da-nato-stavealfabet",
+      "name": "NATO's fonetiske alfabet (stavealfabet) med danske tilføjelser",
+      "category": "language",
+      "record_count": 42,
+      "columns": [
+        "tegn",
+        "kodeord",
+        "udtale_ipa",
+        "type"
+      ],
+      "source": "https://da.wikipedia.org/wiki/NATO's_fonetiske_alfabet",
+      "updated": "2026-11",
+      "size": 6505,
+      "files": {
+        "csv": {
+          "name": "da-nato-stavealfabet_DA.csv",
+          "size": 1438
+        },
+        "xlsx": {
+          "name": "da-nato-stavealfabet_DA.xlsx",
+          "size": 8117
         }
       }
     },

@@ -1,0 +1,298 @@
+{
+  "id": "da-nato-stavealfabet",
+  "name": "NATO's fonetiske alfabet (stavealfabet) med danske tilføjelser",
+  "title": "NATO's fonetiske alfabet (stavealfabet) med danske tilføjelser",
+  "description": "Kodeordene i NATO's fonetiske alfabet for bogstaver, tal og tegn med udtale (IPA) samt de danske kodeord for Æ, Ø og Å.",
+  "category": "language",
+  "source": "https://da.wikipedia.org/wiki/NATO's_fonetiske_alfabet",
+  "source_url": "https://da.wikipedia.org/wiki/NATO's_fonetiske_alfabet",
+  "updated": "2026-11",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "tegn",
+      "label": "Tegn",
+      "type": "string"
+    },
+    {
+      "key": "kodeord",
+      "label": "Kodeord",
+      "type": "string"
+    },
+    {
+      "key": "udtale_ipa",
+      "label": "Udtale Ipa",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tegn": "A",
+      "kodeord": "Alfa",
+      "udtale_ipa": "ˈalfa",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "B",
+      "kodeord": "Bravo",
+      "udtale_ipa": "ˈbravo",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "C",
+      "kodeord": "Charlie",
+      "udtale_ipa": "ˈtʃali eller ˈʃali",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "D",
+      "kodeord": "Delta",
+      "udtale_ipa": "ˈdɛlta",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "E",
+      "kodeord": "Echo",
+      "udtale_ipa": "ˈɛko",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "F",
+      "kodeord": "Foxtrot",
+      "udtale_ipa": "ˈfɔkstrɔt",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "G",
+      "kodeord": "Golf",
+      "udtale_ipa": "ˈɡɔlf",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "H",
+      "kodeord": "Hotel",
+      "udtale_ipa": "hoˈtɛl",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "I",
+      "kodeord": "India",
+      "udtale_ipa": "ˈɪndia",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "J",
+      "kodeord": "Juliett",
+      "udtale_ipa": "ˈdʒuliˈɛt",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "K",
+      "kodeord": "Kilo",
+      "udtale_ipa": "ˈkilo",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "L",
+      "kodeord": "Lima",
+      "udtale_ipa": "ˈlima",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "M",
+      "kodeord": "Mike",
+      "udtale_ipa": "ˈmai̯k",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "N",
+      "kodeord": "November",
+      "udtale_ipa": "noˈvɛmba",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "O",
+      "kodeord": "Oscar",
+      "udtale_ipa": "ˈɔska",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "P",
+      "kodeord": "Papa",
+      "udtale_ipa": "paˈpa",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "Q",
+      "kodeord": "Quebec",
+      "udtale_ipa": "keˈbɛk",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "R",
+      "kodeord": "Romeo",
+      "udtale_ipa": "ˈromio",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "S",
+      "kodeord": "Sierra",
+      "udtale_ipa": "siˈɛra",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "T",
+      "kodeord": "Tango",
+      "udtale_ipa": "ˈtaŋɡo",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "U",
+      "kodeord": "Uniform",
+      "udtale_ipa": "ˈjunifɔm eller ˈunifɔm",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "V",
+      "kodeord": "Victor",
+      "udtale_ipa": "ˈvɪkta",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "W",
+      "kodeord": "Whiskey",
+      "udtale_ipa": "ˈwɪski",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "X",
+      "kodeord": "X-Ray",
+      "udtale_ipa": "ˈɛksrei̯",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "Y",
+      "kodeord": "Yankee",
+      "udtale_ipa": "ˈjaŋki",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "Z",
+      "kodeord": "Zulu",
+      "udtale_ipa": "ˈzulu",
+      "type": "bogstav"
+    },
+    {
+      "tegn": "1",
+      "kodeord": "one",
+      "udtale_ipa": "ˈwan",
+      "type": "tal"
+    },
+    {
+      "tegn": "2",
+      "kodeord": "two",
+      "udtale_ipa": "ˈtu",
+      "type": "tal"
+    },
+    {
+      "tegn": "3",
+      "kodeord": "three",
+      "udtale_ipa": "ˈtri",
+      "type": "tal"
+    },
+    {
+      "tegn": "4",
+      "kodeord": "four",
+      "udtale_ipa": "ˈfoa",
+      "type": "tal"
+    },
+    {
+      "tegn": "5",
+      "kodeord": "five",
+      "udtale_ipa": "ˈfai̯f",
+      "type": "tal"
+    },
+    {
+      "tegn": "6",
+      "kodeord": "six",
+      "udtale_ipa": "ˈsɪks",
+      "type": "tal"
+    },
+    {
+      "tegn": "7",
+      "kodeord": "seven",
+      "udtale_ipa": "ˈsɛvn",
+      "type": "tal"
+    },
+    {
+      "tegn": "8",
+      "kodeord": "eight",
+      "udtale_ipa": "ˈei̯t",
+      "type": "tal"
+    },
+    {
+      "tegn": "9",
+      "kodeord": "nine",
+      "udtale_ipa": "ˈnai̯na",
+      "type": "tal"
+    },
+    {
+      "tegn": "0",
+      "kodeord": "zero",
+      "udtale_ipa": "ˈziro",
+      "type": "tal"
+    },
+    {
+      "tegn": "00",
+      "kodeord": "hundred",
+      "udtale_ipa": "ˈhandrɛd",
+      "type": "tal"
+    },
+    {
+      "tegn": "000",
+      "kodeord": "thousand",
+      "udtale_ipa": "ˈtau̯zand",
+      "type": "tal"
+    },
+    {
+      "tegn": ",",
+      "kodeord": "decimal",
+      "udtale_ipa": "ˈdeˈsiˈmal",
+      "type": "tegn"
+    },
+    {
+      "tegn": "Æ / Ä",
+      "kodeord": "Ægir",
+      "udtale_ipa": "",
+      "type": "dansk/nordisk bogstav"
+    },
+    {
+      "tegn": "Ø / Ö",
+      "kodeord": "Ødis",
+      "udtale_ipa": "",
+      "type": "dansk/nordisk bogstav"
+    },
+    {
+      "tegn": "Å",
+      "kodeord": "Åse",
+      "udtale_ipa": "",
+      "type": "dansk/nordisk bogstav"
+    }
+  ],
+  "meta": {
+    "title": "NATO's fonetiske alfabet (stavealfabet) med danske tilføjelser - Free Download",
+    "description": "Kodeordene i NATO's fonetiske alfabet for bogstaver, tal og tegn med udtale (IPA) samt de danske kodeord for Æ, Ø og Å. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "NATO's fonetiske alfabet (stavealfabet) med danske tilføjelser | ListBase",
+    "seo_description": "Download NATO's fonetiske alfabet (stavealfabet) med danske tilføjelser — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://da.wikipedia.org/wiki/NATO's_fonetiske_alfabet"
+    ]
+  }
+}
