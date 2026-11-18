@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-18T02:32:42.957Z",
-  "total_datasets": 511,
-  "total_records": 245268,
+  "generated": "2026-11-18T02:32:56.884Z",
+  "total_datasets": 512,
+  "total_records": 245302,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "units",
@@ -14711,6 +14711,38 @@
         "xlsx": {
           "name": "da-nordjylland-lufthavne_DA.xlsx",
           "size": 7540
+        }
+      }
+    },
+    {
+      "id": "da-personbiler-bestand-efter-drivmiddel",
+      "name": "Bestanden af personbiler efter drivmiddel (1993–2026)",
+      "category": "transport",
+      "record_count": 34,
+      "columns": [
+        "aar",
+        "drivmidler_i_alt",
+        "benzin",
+        "diesel",
+        "f_gas",
+        "n_gas",
+        "el",
+        "petroleum",
+        "brint",
+        "pluginhybrid",
+        "oevrige_drivmidler"
+      ],
+      "source": "https://www.statbank.dk/BIL10",
+      "updated": "2026-11",
+      "size": 11511,
+      "files": {
+        "csv": {
+          "name": "da-personbiler-bestand-efter-drivmiddel_DA.csv",
+          "size": 2407
+        },
+        "xlsx": {
+          "name": "da-personbiler-bestand-efter-drivmiddel_DA.xlsx",
+          "size": 8839
         }
       }
     },
