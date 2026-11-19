@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-18T02:33:08.452Z",
-  "total_datasets": 513,
-  "total_records": 245512,
+  "generated": "2026-11-19T02:31:09.376Z",
+  "total_datasets": 514,
+  "total_records": 245688,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "history",
@@ -3766,6 +3766,31 @@
         "xlsx": {
           "name": "da-doede-efter-doedsaarsag_DA.xlsx",
           "size": 10097
+        }
+      }
+    },
+    {
+      "id": "da-enkelt-og-flerfoedsler-1850-2025",
+      "name": "Enkelt- og flerfødsler i Danmark 1850–2025",
+      "category": "health",
+      "record_count": 176,
+      "columns": [
+        "aar",
+        "enkeltfoedsler",
+        "tvillingefoedsler",
+        "trillinge_og_firlingefoedsler"
+      ],
+      "source": "https://www.statbank.dk/FOD8",
+      "updated": "2026-11",
+      "size": 25779,
+      "files": {
+        "csv": {
+          "name": "da-enkelt-og-flerfoedsler-1850-2025_DA.csv",
+          "size": 4659
+        },
+        "xlsx": {
+          "name": "da-enkelt-og-flerfoedsler-1850-2025_DA.xlsx",
+          "size": 10888
         }
       }
     },
