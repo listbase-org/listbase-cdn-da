@@ -1,0 +1,310 @@
+{
+  "id": "da-vielser-efter-type-aarlig",
+  "name": "Vielser i Danmark pr. år efter type (1989–2025)",
+  "title": "Vielser i Danmark pr. år efter type (1989–2025)",
+  "description": "Antal vielser i Danmark pr. år i alt og fordelt på vielser mellem en mand og en kvinde, mellem to mænd og mellem to kvinder (Danmarks Statistik, tabel VIE7).",
+  "category": "society",
+  "source": "https://www.statbank.dk/VIE7",
+  "source_url": "https://www.statbank.dk/VIE7",
+  "updated": "2026-11",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "vielser_i_alt",
+      "label": "Vielser I Alt",
+      "type": "number"
+    },
+    {
+      "key": "mand_og_kvinde",
+      "label": "Mand Og Kvinde",
+      "type": "number"
+    },
+    {
+      "key": "to_maend",
+      "label": "To Maend",
+      "type": "number"
+    },
+    {
+      "key": "to_kvinder",
+      "label": "To Kvinder",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1989,
+      "vielser_i_alt": 31223,
+      "mand_og_kvinde": 30894,
+      "to_maend": 267,
+      "to_kvinder": 62
+    },
+    {
+      "aar": 1990,
+      "vielser_i_alt": 31974,
+      "mand_og_kvinde": 31513,
+      "to_maend": 346,
+      "to_kvinder": 115
+    },
+    {
+      "aar": 1991,
+      "vielser_i_alt": 31380,
+      "mand_og_kvinde": 31099,
+      "to_maend": 192,
+      "to_kvinder": 89
+    },
+    {
+      "aar": 1992,
+      "vielser_i_alt": 32468,
+      "mand_og_kvinde": 32188,
+      "to_maend": 190,
+      "to_kvinder": 90
+    },
+    {
+      "aar": 1993,
+      "vielser_i_alt": 31877,
+      "mand_og_kvinde": 31638,
+      "to_maend": 175,
+      "to_kvinder": 64
+    },
+    {
+      "aar": 1994,
+      "vielser_i_alt": 35606,
+      "mand_og_kvinde": 35321,
+      "to_maend": 184,
+      "to_kvinder": 101
+    },
+    {
+      "aar": 1995,
+      "vielser_i_alt": 35003,
+      "mand_og_kvinde": 34736,
+      "to_maend": 182,
+      "to_kvinder": 85
+    },
+    {
+      "aar": 1996,
+      "vielser_i_alt": 36216,
+      "mand_og_kvinde": 35953,
+      "to_maend": 155,
+      "to_kvinder": 108
+    },
+    {
+      "aar": 1997,
+      "vielser_i_alt": 34518,
+      "mand_og_kvinde": 34244,
+      "to_maend": 128,
+      "to_kvinder": 146
+    },
+    {
+      "aar": 1998,
+      "vielser_i_alt": 34997,
+      "mand_og_kvinde": 34733,
+      "to_maend": 133,
+      "to_kvinder": 131
+    },
+    {
+      "aar": 1999,
+      "vielser_i_alt": 35743,
+      "mand_og_kvinde": 35439,
+      "to_maend": 167,
+      "to_kvinder": 137
+    },
+    {
+      "aar": 2000,
+      "vielser_i_alt": 38699,
+      "mand_og_kvinde": 38388,
+      "to_maend": 179,
+      "to_kvinder": 132
+    },
+    {
+      "aar": 2001,
+      "vielser_i_alt": 36909,
+      "mand_og_kvinde": 36567,
+      "to_maend": 176,
+      "to_kvinder": 166
+    },
+    {
+      "aar": 2002,
+      "vielser_i_alt": 37508,
+      "mand_og_kvinde": 37210,
+      "to_maend": 136,
+      "to_kvinder": 162
+    },
+    {
+      "aar": 2003,
+      "vielser_i_alt": 35357,
+      "mand_og_kvinde": 35041,
+      "to_maend": 145,
+      "to_kvinder": 171
+    },
+    {
+      "aar": 2004,
+      "vielser_i_alt": 38046,
+      "mand_og_kvinde": 37711,
+      "to_maend": 134,
+      "to_kvinder": 201
+    },
+    {
+      "aar": 2005,
+      "vielser_i_alt": 36538,
+      "mand_og_kvinde": 36148,
+      "to_maend": 173,
+      "to_kvinder": 217
+    },
+    {
+      "aar": 2006,
+      "vielser_i_alt": 36843,
+      "mand_og_kvinde": 36452,
+      "to_maend": 173,
+      "to_kvinder": 218
+    },
+    {
+      "aar": 2007,
+      "vielser_i_alt": 37000,
+      "mand_og_kvinde": 36576,
+      "to_maend": 189,
+      "to_kvinder": 235
+    },
+    {
+      "aar": 2008,
+      "vielser_i_alt": 37812,
+      "mand_og_kvinde": 37376,
+      "to_maend": 183,
+      "to_kvinder": 253
+    },
+    {
+      "aar": 2009,
+      "vielser_i_alt": 33322,
+      "mand_og_kvinde": 32934,
+      "to_maend": 145,
+      "to_kvinder": 243
+    },
+    {
+      "aar": 2010,
+      "vielser_i_alt": 31359,
+      "mand_og_kvinde": 30949,
+      "to_maend": 163,
+      "to_kvinder": 247
+    },
+    {
+      "aar": 2011,
+      "vielser_i_alt": 27403,
+      "mand_og_kvinde": 27057,
+      "to_maend": 124,
+      "to_kvinder": 222
+    },
+    {
+      "aar": 2012,
+      "vielser_i_alt": 28621,
+      "mand_og_kvinde": 28235,
+      "to_maend": 160,
+      "to_kvinder": 226
+    },
+    {
+      "aar": 2013,
+      "vielser_i_alt": 27505,
+      "mand_og_kvinde": 27140,
+      "to_maend": 129,
+      "to_kvinder": 236
+    },
+    {
+      "aar": 2014,
+      "vielser_i_alt": 28337,
+      "mand_og_kvinde": 27967,
+      "to_maend": 158,
+      "to_kvinder": 212
+    },
+    {
+      "aar": 2015,
+      "vielser_i_alt": 28854,
+      "mand_og_kvinde": 28482,
+      "to_maend": 163,
+      "to_kvinder": 209
+    },
+    {
+      "aar": 2016,
+      "vielser_i_alt": 30768,
+      "mand_og_kvinde": 30389,
+      "to_maend": 160,
+      "to_kvinder": 219
+    },
+    {
+      "aar": 2017,
+      "vielser_i_alt": 31778,
+      "mand_og_kvinde": 31341,
+      "to_maend": 190,
+      "to_kvinder": 247
+    },
+    {
+      "aar": 2018,
+      "vielser_i_alt": 32533,
+      "mand_og_kvinde": 32045,
+      "to_maend": 192,
+      "to_kvinder": 296
+    },
+    {
+      "aar": 2019,
+      "vielser_i_alt": 30645,
+      "mand_og_kvinde": 30230,
+      "to_maend": 175,
+      "to_kvinder": 240
+    },
+    {
+      "aar": 2020,
+      "vielser_i_alt": 28549,
+      "mand_og_kvinde": 28106,
+      "to_maend": 164,
+      "to_kvinder": 279
+    },
+    {
+      "aar": 2021,
+      "vielser_i_alt": 27662,
+      "mand_og_kvinde": 27215,
+      "to_maend": 180,
+      "to_kvinder": 267
+    },
+    {
+      "aar": 2022,
+      "vielser_i_alt": 33059,
+      "mand_og_kvinde": 32544,
+      "to_maend": 217,
+      "to_kvinder": 298
+    },
+    {
+      "aar": 2023,
+      "vielser_i_alt": 31582,
+      "mand_og_kvinde": 31068,
+      "to_maend": 220,
+      "to_kvinder": 294
+    },
+    {
+      "aar": 2024,
+      "vielser_i_alt": 32861,
+      "mand_og_kvinde": 32267,
+      "to_maend": 235,
+      "to_kvinder": 359
+    },
+    {
+      "aar": 2025,
+      "vielser_i_alt": 32624,
+      "mand_og_kvinde": 32031,
+      "to_maend": 249,
+      "to_kvinder": 344
+    }
+  ],
+  "meta": {
+    "title": "Vielser i Danmark pr. år efter type (1989–2025) - Free Download",
+    "description": "Antal vielser i Danmark pr. år i alt og fordelt på vielser mellem en mand og en kvinde, mellem to mænd og mellem to kvinder (Danmarks Statistik, tabel VIE7). Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vielser i Danmark pr. år efter type (1989–2025) | ListBase",
+    "seo_description": "Download Vielser i Danmark pr. år efter type (1989–2025) — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statbank.dk/VIE7"
+    ]
+  }
+}

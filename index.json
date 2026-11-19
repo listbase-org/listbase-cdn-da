@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-19T02:31:20.098Z",
-  "total_datasets": 515,
-  "total_records": 245724,
+  "generated": "2026-11-19T02:31:31.284Z",
+  "total_datasets": 516,
+  "total_records": 245761,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "sports",
@@ -12703,6 +12703,32 @@
         "xlsx": {
           "name": "da-skilsmisseprocent_DA.xlsx",
           "size": 7268
+        }
+      }
+    },
+    {
+      "id": "da-vielser-efter-type-aarlig",
+      "name": "Vielser i Danmark pr. år efter type (1989–2025)",
+      "category": "society",
+      "record_count": 37,
+      "columns": [
+        "aar",
+        "vielser_i_alt",
+        "mand_og_kvinde",
+        "to_maend",
+        "to_kvinder"
+      ],
+      "source": "https://www.statbank.dk/VIE7",
+      "updated": "2026-11",
+      "size": 6937,
+      "files": {
+        "csv": {
+          "name": "da-vielser-efter-type-aarlig_DA.csv",
+          "size": 1355
+        },
+        "xlsx": {
+          "name": "da-vielser-efter-type-aarlig_DA.xlsx",
+          "size": 7874
         }
       }
     },
