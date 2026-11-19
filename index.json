@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-19T02:31:09.376Z",
-  "total_datasets": 514,
-  "total_records": 245688,
+  "generated": "2026-11-19T02:31:20.098Z",
+  "total_datasets": 515,
+  "total_records": 245724,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "finance",
@@ -2481,6 +2481,29 @@
         "xlsx": {
           "name": "da-solkraftvaerker_DA.xlsx",
           "size": 24312
+        }
+      }
+    },
+    {
+      "id": "da-vedvarende-energi-andel-af-bruttoenergiforbrug",
+      "name": "Vedvarende energis andel af bruttoenergiforbruget i Danmark (1990–2025)",
+      "category": "environment",
+      "record_count": 36,
+      "columns": [
+        "aar",
+        "vedvarende_energi_andel_pct"
+      ],
+      "source": "https://www.statbank.dk/SDG07021",
+      "updated": "2026-11",
+      "size": 4277,
+      "files": {
+        "csv": {
+          "name": "da-vedvarende-energi-andel-af-bruttoenergiforbrug_DA.csv",
+          "size": 523
+        },
+        "xlsx": {
+          "name": "da-vedvarende-energi-andel-af-bruttoenergiforbrug_DA.xlsx",
+          "size": 7174
         }
       }
     },
