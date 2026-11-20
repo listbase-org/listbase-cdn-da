@@ -1,12 +1,12 @@
 {
   "lang": "da",
-  "generated": "2026-11-20T02:18:39.633Z",
-  "total_datasets": 517,
-  "total_records": 246271,
+  "generated": "2026-11-20T02:18:47.656Z",
+  "total_datasets": 518,
+  "total_records": 246314,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "culture",
@@ -294,6 +294,31 @@
         "xlsx": {
           "name": "da-oekologisk-areal-efter-afgroede_DA.xlsx",
           "size": 8201
+        }
+      }
+    },
+    {
+      "id": "da-produktion-frugt-groent-2025",
+      "name": "Produktion af frugt og grønt i Danmark 2025",
+      "category": "agriculture",
+      "record_count": 43,
+      "columns": [
+        "afgroede",
+        "type",
+        "hoestet_areal_ha",
+        "produktion_tons"
+      ],
+      "source": "https://www.statistikbanken.dk/PFG1",
+      "updated": "2026-11",
+      "size": 7603,
+      "files": {
+        "csv": {
+          "name": "da-produktion-frugt-groent-2025_DA.csv",
+          "size": 1919
+        },
+        "xlsx": {
+          "name": "da-produktion-frugt-groent-2025_DA.xlsx",
+          "size": 8160
         }
       }
     },

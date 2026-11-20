@@ -1,0 +1,304 @@
+{
+  "id": "da-produktion-frugt-groent-2025",
+  "name": "Produktion af frugt og grønt i Danmark 2025",
+  "title": "Produktion af frugt og grønt i Danmark 2025",
+  "description": "Høstet areal (hektar) og produktion (tons) af frugt, bær og grøntsager i Danmark i 2025 fordelt på afgrøde, fra Danmarks Statistik (tabel PFG1).",
+  "category": "agriculture",
+  "source": "https://www.statistikbanken.dk/PFG1",
+  "source_url": "https://www.statistikbanken.dk/PFG1",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "afgroede",
+      "label": "Afgroede",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "hoestet_areal_ha",
+      "label": "Hoestet Areal Ha",
+      "type": "number"
+    },
+    {
+      "key": "produktion_tons",
+      "label": "Produktion Tons",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "afgroede": "Æbler",
+      "type": "frugt/bær",
+      "hoestet_areal_ha": 1167.7,
+      "produktion_tons": 21506.2
+    },
+    {
+      "afgroede": "Pærer",
+      "type": "frugt/bær",
+      "hoestet_areal_ha": 261.4,
+      "produktion_tons": 5800
+    },
+    {
+      "afgroede": "Sødkirsebær",
+      "type": "frugt/bær",
+      "hoestet_areal_ha": 108.7,
+      "produktion_tons": 414.5
+    },
+    {
+      "afgroede": "Surkirsebær",
+      "type": "frugt/bær",
+      "hoestet_areal_ha": 230.6,
+      "produktion_tons": 1415.2
+    },
+    {
+      "afgroede": "Blommer",
+      "type": "frugt/bær",
+      "hoestet_areal_ha": 70.2,
+      "produktion_tons": 437.8
+    },
+    {
+      "afgroede": "Solbær",
+      "type": "frugt/bær",
+      "hoestet_areal_ha": 201,
+      "produktion_tons": 416.7
+    },
+    {
+      "afgroede": "Ribs",
+      "type": "frugt/bær",
+      "hoestet_areal_ha": 68.3,
+      "produktion_tons": 291.6
+    },
+    {
+      "afgroede": "Hindbær",
+      "type": "frugt/bær",
+      "hoestet_areal_ha": 18.6,
+      "produktion_tons": 224.4
+    },
+    {
+      "afgroede": "Blåbær",
+      "type": "frugt/bær",
+      "hoestet_areal_ha": 80.1,
+      "produktion_tons": 206.9
+    },
+    {
+      "afgroede": "Andre bær",
+      "type": "frugt/bær",
+      "hoestet_areal_ha": 279.8,
+      "produktion_tons": 314.9
+    },
+    {
+      "afgroede": "Jordbær, væksthus",
+      "type": "frugt/bær",
+      "hoestet_areal_ha": 16.1,
+      "produktion_tons": 1105.5
+    },
+    {
+      "afgroede": "Jordbær, friland",
+      "type": "frugt/bær",
+      "hoestet_areal_ha": 557.8,
+      "produktion_tons": 6699.9
+    },
+    {
+      "afgroede": "Blomkål",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 479.5,
+      "produktion_tons": 7057.9
+    },
+    {
+      "afgroede": "Broccoli",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 381.9,
+      "produktion_tons": 2927.8
+    },
+    {
+      "afgroede": "Hvidkål",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 125.9,
+      "produktion_tons": 4766.6
+    },
+    {
+      "afgroede": "Spidskål",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 517.4,
+      "produktion_tons": 9963.2
+    },
+    {
+      "afgroede": "Rødkål",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 173.6,
+      "produktion_tons": 9017.6
+    },
+    {
+      "afgroede": "Savoykål",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 10.6,
+      "produktion_tons": 104
+    },
+    {
+      "afgroede": "Grønkål",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 109.7,
+      "produktion_tons": 771.2
+    },
+    {
+      "afgroede": "Anden kål",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 5.9,
+      "produktion_tons": 59.2
+    },
+    {
+      "afgroede": "Kinakål",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 28.2,
+      "produktion_tons": 1.9
+    },
+    {
+      "afgroede": "Porrer",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 268.9,
+      "produktion_tons": 6582.5
+    },
+    {
+      "afgroede": "Salat, væksthus",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 2.2,
+      "produktion_tons": 728.2
+    },
+    {
+      "afgroede": "Salat",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 690.4,
+      "produktion_tons": 10300.7
+    },
+    {
+      "afgroede": "Spinat",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 11.6,
+      "produktion_tons": 15.9
+    },
+    {
+      "afgroede": "Asparges",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 158.2,
+      "produktion_tons": 417.9
+    },
+    {
+      "afgroede": "Tomater, væksthus",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 29.1,
+      "produktion_tons": 8635.8
+    },
+    {
+      "afgroede": "Agurker og asieagurker, væksthus",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 38.9,
+      "produktion_tons": 14301
+    },
+    {
+      "afgroede": "Squash",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 37.2,
+      "produktion_tons": 1085
+    },
+    {
+      "afgroede": "Græskar",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 414.7,
+      "produktion_tons": 5083.5
+    },
+    {
+      "afgroede": "Peberfrugt og chili, væksthus",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 1.6,
+      "produktion_tons": 259.9
+    },
+    {
+      "afgroede": "Sukkermajs",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 327.6,
+      "produktion_tons": 2531.7
+    },
+    {
+      "afgroede": "Gulerødder",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 2106.5,
+      "produktion_tons": 94280
+    },
+    {
+      "afgroede": "Løg (kepa) og skalotteløg",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 1288.4,
+      "produktion_tons": 60536.4
+    },
+    {
+      "afgroede": "Rødbeder",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 277.4,
+      "produktion_tons": 11072.2
+    },
+    {
+      "afgroede": "Knoldselleri",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 112.4,
+      "produktion_tons": 3574.7
+    },
+    {
+      "afgroede": "Jordskok",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 88,
+      "produktion_tons": 1086.5
+    },
+    {
+      "afgroede": "Pastinak",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 84.1,
+      "produktion_tons": 1411.2
+    },
+    {
+      "afgroede": "Persillerod",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 59.7,
+      "produktion_tons": 1024.8
+    },
+    {
+      "afgroede": "Ærter, friske til konsum",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 998.3,
+      "produktion_tons": 3444.4
+    },
+    {
+      "afgroede": "Bønner, friske til konsum",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 71.5,
+      "produktion_tons": 124.1
+    },
+    {
+      "afgroede": "Andre grøntsager",
+      "type": "grøntsag",
+      "hoestet_areal_ha": 602.1,
+      "produktion_tons": 3766.1
+    },
+    {
+      "afgroede": "Druer til fremstilling af vin",
+      "type": "vindruer",
+      "hoestet_areal_ha": 85.6,
+      "produktion_tons": 181.6
+    }
+  ],
+  "meta": {
+    "title": "Produktion af frugt og grønt i Danmark 2025 - Free Download",
+    "description": "Høstet areal (hektar) og produktion (tons) af frugt, bær og grøntsager i Danmark i 2025 fordelt på afgrøde, fra Danmarks Statistik (tabel PFG1). Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Produktion af frugt og grønt i Danmark 2025 | ListBase",
+    "seo_description": "Download Produktion af frugt og grønt i Danmark 2025 — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/PFG1"
+    ]
+  }
+}
