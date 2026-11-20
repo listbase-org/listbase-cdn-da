@@ -1,0 +1,3106 @@
+{
+  "id": "da-landinger-af-fisk-efter-art",
+  "name": "Landinger af fisk i Danmark efter fiskeart (1996–2025)",
+  "title": "Landinger af fisk i Danmark efter fiskeart (1996–2025)",
+  "description": "Landet vægt (tons) og landet værdi (1.000 kr.) af fisk og skaldyr landet i Danmark fordelt på fiskeart og år 1996–2025, alle farvande og landingssteder i alt, fra Danmarks Statistik (tabel FISK3).",
+  "category": "agriculture",
+  "source": "https://www.statistikbanken.dk/FISK3",
+  "source_url": "https://www.statistikbanken.dk/FISK3",
+  "updated": "2026-11",
+  "record_count": 510,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "fiskeart",
+      "label": "Fiskeart",
+      "type": "string"
+    },
+    {
+      "key": "landet_vaegt_tons",
+      "label": "Landet Vaegt Tons",
+      "type": "number"
+    },
+    {
+      "key": "landet_vaerdi_1000_kr",
+      "label": "Landet Vaerdi 1000 Kr",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1996,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1933406,
+      "landet_vaerdi_1000_kr": 3591161
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 130016,
+      "landet_vaerdi_1000_kr": 1004893
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 102469,
+      "landet_vaerdi_1000_kr": 841767
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 27547,
+      "landet_vaerdi_1000_kr": 163126
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 37111,
+      "landet_vaerdi_1000_kr": 542095
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 22340,
+      "landet_vaerdi_1000_kr": 283389
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 1450,
+      "landet_vaerdi_1000_kr": 88580
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 13320,
+      "landet_vaerdi_1000_kr": 170127
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 251212,
+      "landet_vaerdi_1000_kr": 433543
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 36671,
+      "landet_vaerdi_1000_kr": 183142
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 1353095,
+      "landet_vaerdi_1000_kr": 834864
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 101104,
+      "landet_vaerdi_1000_kr": 425628
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 8896,
+      "landet_vaerdi_1000_kr": 126505
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 3832,
+      "landet_vaerdi_1000_kr": 183060
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 84966,
+      "landet_vaerdi_1000_kr": 53737
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 3410,
+      "landet_vaerdi_1000_kr": 62325
+    },
+    {
+      "aar": 1996,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 24197,
+      "landet_vaerdi_1000_kr": 166997
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 2137283,
+      "landet_vaerdi_1000_kr": 4034487
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 117120,
+      "landet_vaerdi_1000_kr": 1083869
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 90713,
+      "landet_vaerdi_1000_kr": 906680
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 26406,
+      "landet_vaerdi_1000_kr": 177189
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 37776,
+      "landet_vaerdi_1000_kr": 559820
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 23885,
+      "landet_vaerdi_1000_kr": 309013
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 1091,
+      "landet_vaerdi_1000_kr": 85139
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 12800,
+      "landet_vaerdi_1000_kr": 165668
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 218024,
+      "landet_vaerdi_1000_kr": 381828
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 35163,
+      "landet_vaerdi_1000_kr": 210323
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 1606891,
+      "landet_vaerdi_1000_kr": 1178355
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 110941,
+      "landet_vaerdi_1000_kr": 456426
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 7924,
+      "landet_vaerdi_1000_kr": 98960
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 3962,
+      "landet_vaerdi_1000_kr": 217266
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 90579,
+      "landet_vaerdi_1000_kr": 60159
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 8476,
+      "landet_vaerdi_1000_kr": 80041
+    },
+    {
+      "aar": 1997,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 11368,
+      "landet_vaerdi_1000_kr": 163867
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1905831,
+      "landet_vaerdi_1000_kr": 4230897
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 98509,
+      "landet_vaerdi_1000_kr": 1195374
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 73353,
+      "landet_vaerdi_1000_kr": 976403
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 25155,
+      "landet_vaerdi_1000_kr": 218971
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 32639,
+      "landet_vaerdi_1000_kr": 478612
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 19548,
+      "landet_vaerdi_1000_kr": 260396
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 752,
+      "landet_vaerdi_1000_kr": 55622
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 12339,
+      "landet_vaerdi_1000_kr": 162594
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 286859,
+      "landet_vaerdi_1000_kr": 504480
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 43586,
+      "landet_vaerdi_1000_kr": 189716
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 1291118,
+      "landet_vaerdi_1000_kr": 1149250
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 129386,
+      "landet_vaerdi_1000_kr": 568488
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 9646,
+      "landet_vaerdi_1000_kr": 141603
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4681,
+      "landet_vaerdi_1000_kr": 267898
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 108166,
+      "landet_vaerdi_1000_kr": 79677
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 6893,
+      "landet_vaerdi_1000_kr": 79310
+    },
+    {
+      "aar": 1998,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 23735,
+      "landet_vaerdi_1000_kr": 144976
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1812459,
+      "landet_vaerdi_1000_kr": 3932307
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 97677,
+      "landet_vaerdi_1000_kr": 1236075
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 73653,
+      "landet_vaerdi_1000_kr": 1041243
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 24025,
+      "landet_vaerdi_1000_kr": 194832
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 35348,
+      "landet_vaerdi_1000_kr": 563574
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 23111,
+      "landet_vaerdi_1000_kr": 320278
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 1136,
+      "landet_vaerdi_1000_kr": 72161
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 11101,
+      "landet_vaerdi_1000_kr": 171135
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 272123,
+      "landet_vaerdi_1000_kr": 403791
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 37950,
+      "landet_vaerdi_1000_kr": 126965
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 1230669,
+      "landet_vaerdi_1000_kr": 758656
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 113636,
+      "landet_vaerdi_1000_kr": 679513
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 6732,
+      "landet_vaerdi_1000_kr": 119758
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 5173,
+      "landet_vaerdi_1000_kr": 350150
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 96971,
+      "landet_vaerdi_1000_kr": 88480
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 4759,
+      "landet_vaerdi_1000_kr": 121125
+    },
+    {
+      "aar": 1999,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 25055,
+      "landet_vaerdi_1000_kr": 163732
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1926516,
+      "landet_vaerdi_1000_kr": 3887186
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 79542,
+      "landet_vaerdi_1000_kr": 1098924
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 58720,
+      "landet_vaerdi_1000_kr": 925199
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 20822,
+      "landet_vaerdi_1000_kr": 173725
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 37644,
+      "landet_vaerdi_1000_kr": 582720
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 22988,
+      "landet_vaerdi_1000_kr": 278623
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 1311,
+      "landet_vaerdi_1000_kr": 81744
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 13344,
+      "landet_vaerdi_1000_kr": 222353
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 295257,
+      "landet_vaerdi_1000_kr": 413334
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 36205,
+      "landet_vaerdi_1000_kr": 148813
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 1330003,
+      "landet_vaerdi_1000_kr": 839526
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 132093,
+      "landet_vaerdi_1000_kr": 652014
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 6304,
+      "landet_vaerdi_1000_kr": 106481
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4853,
+      "landet_vaerdi_1000_kr": 333265
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 110560,
+      "landet_vaerdi_1000_kr": 120918
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 10376,
+      "landet_vaerdi_1000_kr": 91350
+    },
+    {
+      "aar": 2000,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 15772,
+      "landet_vaerdi_1000_kr": 151855
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1892135,
+      "landet_vaerdi_1000_kr": 4389182
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 76563,
+      "landet_vaerdi_1000_kr": 1069327
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 51262,
+      "landet_vaerdi_1000_kr": 846449
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 25301,
+      "landet_vaerdi_1000_kr": 222878
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 40185,
+      "landet_vaerdi_1000_kr": 620606
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 25734,
+      "landet_vaerdi_1000_kr": 331402
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 1132,
+      "landet_vaerdi_1000_kr": 83888
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 13319,
+      "landet_vaerdi_1000_kr": 205317
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 262622,
+      "landet_vaerdi_1000_kr": 691841
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 36984,
+      "landet_vaerdi_1000_kr": 225002
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 1326210,
+      "landet_vaerdi_1000_kr": 941480
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 140814,
+      "landet_vaerdi_1000_kr": 681580
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 5559,
+      "landet_vaerdi_1000_kr": 83384
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4521,
+      "landet_vaerdi_1000_kr": 343514
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 122487,
+      "landet_vaerdi_1000_kr": 146543
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 8247,
+      "landet_vaerdi_1000_kr": 108139
+    },
+    {
+      "aar": 2001,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 8757,
+      "landet_vaerdi_1000_kr": 159347
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1833693,
+      "landet_vaerdi_1000_kr": 4519435
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 80058,
+      "landet_vaerdi_1000_kr": 1010135
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 40499,
+      "landet_vaerdi_1000_kr": 718139
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 39559,
+      "landet_vaerdi_1000_kr": 291996
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 36652,
+      "landet_vaerdi_1000_kr": 578498
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 22609,
+      "landet_vaerdi_1000_kr": 287958
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 1178,
+      "landet_vaerdi_1000_kr": 80197
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 12865,
+      "landet_vaerdi_1000_kr": 210343
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 194572,
+      "landet_vaerdi_1000_kr": 511166
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 35243,
+      "landet_vaerdi_1000_kr": 238875
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 1343628,
+      "landet_vaerdi_1000_kr": 1237291
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 133595,
+      "landet_vaerdi_1000_kr": 801337
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 5982,
+      "landet_vaerdi_1000_kr": 77327
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 5239,
+      "landet_vaerdi_1000_kr": 416972
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 110873,
+      "landet_vaerdi_1000_kr": 140171
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 11500,
+      "landet_vaerdi_1000_kr": 166868
+    },
+    {
+      "aar": 2002,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 9945,
+      "landet_vaerdi_1000_kr": 142132
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1500075,
+      "landet_vaerdi_1000_kr": 3515258
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 70069,
+      "landet_vaerdi_1000_kr": 755499
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 33416,
+      "landet_vaerdi_1000_kr": 526101
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 36653,
+      "landet_vaerdi_1000_kr": 229399
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 36196,
+      "landet_vaerdi_1000_kr": 572454
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 23475,
+      "landet_vaerdi_1000_kr": 317190
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 850,
+      "landet_vaerdi_1000_kr": 61133
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 11871,
+      "landet_vaerdi_1000_kr": 194132
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 210067,
+      "landet_vaerdi_1000_kr": 394209
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 30369,
+      "landet_vaerdi_1000_kr": 153937
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 1031967,
+      "landet_vaerdi_1000_kr": 902975
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 112917,
+      "landet_vaerdi_1000_kr": 591714
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 6193,
+      "landet_vaerdi_1000_kr": 74923
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4620,
+      "landet_vaerdi_1000_kr": 268326
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 92523,
+      "landet_vaerdi_1000_kr": 101840
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 9582,
+      "landet_vaerdi_1000_kr": 146624
+    },
+    {
+      "aar": 2003,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 8490,
+      "landet_vaerdi_1000_kr": 144469
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1508925,
+      "landet_vaerdi_1000_kr": 3274624
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 65256,
+      "landet_vaerdi_1000_kr": 749965
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 35100,
+      "landet_vaerdi_1000_kr": 548960
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 30157,
+      "landet_vaerdi_1000_kr": 201005
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 32953,
+      "landet_vaerdi_1000_kr": 511502
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 20727,
+      "landet_vaerdi_1000_kr": 270782
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 902,
+      "landet_vaerdi_1000_kr": 65666
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 11324,
+      "landet_vaerdi_1000_kr": 175054
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 219262,
+      "landet_vaerdi_1000_kr": 387991
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 23174,
+      "landet_vaerdi_1000_kr": 180123
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 1034056,
+      "landet_vaerdi_1000_kr": 775581
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 120658,
+      "landet_vaerdi_1000_kr": 528401
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 3894,
+      "landet_vaerdi_1000_kr": 41278
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4863,
+      "landet_vaerdi_1000_kr": 251207
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 99500,
+      "landet_vaerdi_1000_kr": 100733
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 12401,
+      "landet_vaerdi_1000_kr": 135182
+    },
+    {
+      "aar": 2004,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 13566,
+      "landet_vaerdi_1000_kr": 141062
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1348424,
+      "landet_vaerdi_1000_kr": 3741988
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 65623,
+      "landet_vaerdi_1000_kr": 869445
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 37009,
+      "landet_vaerdi_1000_kr": 644490
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 28614,
+      "landet_vaerdi_1000_kr": 224956
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 30573,
+      "landet_vaerdi_1000_kr": 547276
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 17952,
+      "landet_vaerdi_1000_kr": 254801
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 1170,
+      "landet_vaerdi_1000_kr": 90626
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 11452,
+      "landet_vaerdi_1000_kr": 201848
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 254465,
+      "landet_vaerdi_1000_kr": 559179
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 25339,
+      "landet_vaerdi_1000_kr": 305611
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 874836,
+      "landet_vaerdi_1000_kr": 666225
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 92162,
+      "landet_vaerdi_1000_kr": 662170
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 6987,
+      "landet_vaerdi_1000_kr": 63208
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4844,
+      "landet_vaerdi_1000_kr": 310880
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 69170,
+      "landet_vaerdi_1000_kr": 67979
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 11161,
+      "landet_vaerdi_1000_kr": 220104
+    },
+    {
+      "aar": 2005,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 5425,
+      "landet_vaerdi_1000_kr": 132082
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1235164,
+      "landet_vaerdi_1000_kr": 3939205
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 58386,
+      "landet_vaerdi_1000_kr": 834298
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 31714,
+      "landet_vaerdi_1000_kr": 588454
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 26672,
+      "landet_vaerdi_1000_kr": 245844
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 34650,
+      "landet_vaerdi_1000_kr": 638246
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 23929,
+      "landet_vaerdi_1000_kr": 343156
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 1008,
+      "landet_vaerdi_1000_kr": 94243
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 9713,
+      "landet_vaerdi_1000_kr": 200847
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 241453,
+      "landet_vaerdi_1000_kr": 620278
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 25689,
+      "landet_vaerdi_1000_kr": 220053
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 796255,
+      "landet_vaerdi_1000_kr": 864778
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 72313,
+      "landet_vaerdi_1000_kr": 620891
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 3690,
+      "landet_vaerdi_1000_kr": 43456
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4141,
+      "landet_vaerdi_1000_kr": 333889
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 54808,
+      "landet_vaerdi_1000_kr": 69704
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 9673,
+      "landet_vaerdi_1000_kr": 173842
+    },
+    {
+      "aar": 2006,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 6418,
+      "landet_vaerdi_1000_kr": 140661
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1046271,
+      "landet_vaerdi_1000_kr": 3743471
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 50850,
+      "landet_vaerdi_1000_kr": 780860
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 26560,
+      "landet_vaerdi_1000_kr": 549271
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 24290,
+      "landet_vaerdi_1000_kr": 231589
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 29253,
+      "landet_vaerdi_1000_kr": 541872
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 19543,
+      "landet_vaerdi_1000_kr": 275486
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 817,
+      "landet_vaerdi_1000_kr": 79993
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 8893,
+      "landet_vaerdi_1000_kr": 186393
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 236644,
+      "landet_vaerdi_1000_kr": 581320
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 18209,
+      "landet_vaerdi_1000_kr": 136053
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 630322,
+      "landet_vaerdi_1000_kr": 823267
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 76806,
+      "landet_vaerdi_1000_kr": 757091
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 3357,
+      "landet_vaerdi_1000_kr": 41996
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4180,
+      "landet_vaerdi_1000_kr": 322338
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 57407,
+      "landet_vaerdi_1000_kr": 91249
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 11862,
+      "landet_vaerdi_1000_kr": 301508
+    },
+    {
+      "aar": 2007,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 4187,
+      "landet_vaerdi_1000_kr": 123008
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 989538,
+      "landet_vaerdi_1000_kr": 3224431
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 56532,
+      "landet_vaerdi_1000_kr": 768033
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 25313,
+      "landet_vaerdi_1000_kr": 493813
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 31219,
+      "landet_vaerdi_1000_kr": 274220
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 27146,
+      "landet_vaerdi_1000_kr": 480733
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 18676,
+      "landet_vaerdi_1000_kr": 248092
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 905,
+      "landet_vaerdi_1000_kr": 73719
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 7565,
+      "landet_vaerdi_1000_kr": 158922
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 204214,
+      "landet_vaerdi_1000_kr": 515263
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 15444,
+      "landet_vaerdi_1000_kr": 148900
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 626911,
+      "landet_vaerdi_1000_kr": 626733
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 55481,
+      "landet_vaerdi_1000_kr": 578898
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 3087,
+      "landet_vaerdi_1000_kr": 47875
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4270,
+      "landet_vaerdi_1000_kr": 254817
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 39603,
+      "landet_vaerdi_1000_kr": 43059
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 8521,
+      "landet_vaerdi_1000_kr": 233147
+    },
+    {
+      "aar": 2008,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 3809,
+      "landet_vaerdi_1000_kr": 105871
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1056084,
+      "landet_vaerdi_1000_kr": 2683187
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 57438,
+      "landet_vaerdi_1000_kr": 658998
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 24628,
+      "landet_vaerdi_1000_kr": 369684
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 32810,
+      "landet_vaerdi_1000_kr": 289315
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 24423,
+      "landet_vaerdi_1000_kr": 365970
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 16873,
+      "landet_vaerdi_1000_kr": 166917
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 818,
+      "landet_vaerdi_1000_kr": 60348
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 6732,
+      "landet_vaerdi_1000_kr": 138705
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 176596,
+      "landet_vaerdi_1000_kr": 400455
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 15208,
+      "landet_vaerdi_1000_kr": 101846
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 725531,
+      "landet_vaerdi_1000_kr": 661586
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 52392,
+      "landet_vaerdi_1000_kr": 389946
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 1882,
+      "landet_vaerdi_1000_kr": 36714
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4336,
+      "landet_vaerdi_1000_kr": 202147
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 38611,
+      "landet_vaerdi_1000_kr": 35411
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 7562,
+      "landet_vaerdi_1000_kr": 115674
+    },
+    {
+      "aar": 2009,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 4497,
+      "landet_vaerdi_1000_kr": 104385
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1066530,
+      "landet_vaerdi_1000_kr": 3435501
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 55177,
+      "landet_vaerdi_1000_kr": 746663
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 25111,
+      "landet_vaerdi_1000_kr": 418591
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 30066,
+      "landet_vaerdi_1000_kr": 328072
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 28237,
+      "landet_vaerdi_1000_kr": 404103
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 20018,
+      "landet_vaerdi_1000_kr": 184357
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 628,
+      "landet_vaerdi_1000_kr": 55032
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 7590,
+      "landet_vaerdi_1000_kr": 164714
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 139425,
+      "landet_vaerdi_1000_kr": 375286
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 23092,
+      "landet_vaerdi_1000_kr": 188871
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 777047,
+      "landet_vaerdi_1000_kr": 1181458
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 40003,
+      "landet_vaerdi_1000_kr": 428512
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 1740,
+      "landet_vaerdi_1000_kr": 42716
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4176,
+      "landet_vaerdi_1000_kr": 242701
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 27872,
+      "landet_vaerdi_1000_kr": 28379
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 6216,
+      "landet_vaerdi_1000_kr": 114717
+    },
+    {
+      "aar": 2010,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 3551,
+      "landet_vaerdi_1000_kr": 110608
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 911624,
+      "landet_vaerdi_1000_kr": 3668685
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 49476,
+      "landet_vaerdi_1000_kr": 741515
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 23367,
+      "landet_vaerdi_1000_kr": 416829
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 26109,
+      "landet_vaerdi_1000_kr": 324686
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 30420,
+      "landet_vaerdi_1000_kr": 458395
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 22765,
+      "landet_vaerdi_1000_kr": 231867
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 559,
+      "landet_vaerdi_1000_kr": 50951
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 7096,
+      "landet_vaerdi_1000_kr": 175577
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 109776,
+      "landet_vaerdi_1000_kr": 452716
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 28296,
+      "landet_vaerdi_1000_kr": 347208
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 642928,
+      "landet_vaerdi_1000_kr": 1098970
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 46571,
+      "landet_vaerdi_1000_kr": 461119
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 1683,
+      "landet_vaerdi_1000_kr": 54672
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 3644,
+      "landet_vaerdi_1000_kr": 274607
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 34443,
+      "landet_vaerdi_1000_kr": 38116
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 6801,
+      "landet_vaerdi_1000_kr": 93724
+    },
+    {
+      "aar": 2011,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 4157,
+      "landet_vaerdi_1000_kr": 108761
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 614576,
+      "landet_vaerdi_1000_kr": 3117583
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 47083,
+      "landet_vaerdi_1000_kr": 688447
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 24180,
+      "landet_vaerdi_1000_kr": 407823
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 22903,
+      "landet_vaerdi_1000_kr": 280624
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 31554,
+      "landet_vaerdi_1000_kr": 420265
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 23574,
+      "landet_vaerdi_1000_kr": 220468
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 423,
+      "landet_vaerdi_1000_kr": 37587
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 7558,
+      "landet_vaerdi_1000_kr": 162210
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 121082,
+      "landet_vaerdi_1000_kr": 591128
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 24833,
+      "landet_vaerdi_1000_kr": 191652
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 336420,
+      "landet_vaerdi_1000_kr": 671505
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 49580,
+      "landet_vaerdi_1000_kr": 450239
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 1437,
+      "landet_vaerdi_1000_kr": 48953
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 3530,
+      "landet_vaerdi_1000_kr": 214840
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 39430,
+      "landet_vaerdi_1000_kr": 47774
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 5182,
+      "landet_vaerdi_1000_kr": 138671
+    },
+    {
+      "aar": 2012,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 4026,
+      "landet_vaerdi_1000_kr": 104348
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 849229,
+      "landet_vaerdi_1000_kr": 3423606
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 45791,
+      "landet_vaerdi_1000_kr": 655255
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 18441,
+      "landet_vaerdi_1000_kr": 342759
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 27351,
+      "landet_vaerdi_1000_kr": 312496
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 29460,
+      "landet_vaerdi_1000_kr": 390748
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 21646,
+      "landet_vaerdi_1000_kr": 209410
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 379,
+      "landet_vaerdi_1000_kr": 28485
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 7434,
+      "landet_vaerdi_1000_kr": 152853
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 142903,
+      "landet_vaerdi_1000_kr": 533348
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 14032,
+      "landet_vaerdi_1000_kr": 127250
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 558122,
+      "landet_vaerdi_1000_kr": 1153072
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 53941,
+      "landet_vaerdi_1000_kr": 448186
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 3177,
+      "landet_vaerdi_1000_kr": 70175
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 2874,
+      "landet_vaerdi_1000_kr": 187887
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 37491,
+      "landet_vaerdi_1000_kr": 51344
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 10399,
+      "landet_vaerdi_1000_kr": 138779
+    },
+    {
+      "aar": 2013,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 4981,
+      "landet_vaerdi_1000_kr": 115747
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 993598,
+      "landet_vaerdi_1000_kr": 3320350
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 45476,
+      "landet_vaerdi_1000_kr": 698673
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 20848,
+      "landet_vaerdi_1000_kr": 381443
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 24627,
+      "landet_vaerdi_1000_kr": 317230
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 31578,
+      "landet_vaerdi_1000_kr": 409062
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 24545,
+      "landet_vaerdi_1000_kr": 236996
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 402,
+      "landet_vaerdi_1000_kr": 30021
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 6631,
+      "landet_vaerdi_1000_kr": 142045
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 149398,
+      "landet_vaerdi_1000_kr": 467553
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 21092,
+      "landet_vaerdi_1000_kr": 143182
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 680548,
+      "landet_vaerdi_1000_kr": 1016641
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 58503,
+      "landet_vaerdi_1000_kr": 473198
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 3181,
+      "landet_vaerdi_1000_kr": 71645
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 3276,
+      "landet_vaerdi_1000_kr": 209922
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 41363,
+      "landet_vaerdi_1000_kr": 55438
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 10682,
+      "landet_vaerdi_1000_kr": 136192
+    },
+    {
+      "aar": 2014,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 7004,
+      "landet_vaerdi_1000_kr": 112041
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1159481,
+      "landet_vaerdi_1000_kr": 3934674
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 50786,
+      "landet_vaerdi_1000_kr": 811508
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 22818,
+      "landet_vaerdi_1000_kr": 422410
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 27968,
+      "landet_vaerdi_1000_kr": 389098
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 29946,
+      "landet_vaerdi_1000_kr": 441474
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 24216,
+      "landet_vaerdi_1000_kr": 270064
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 386,
+      "landet_vaerdi_1000_kr": 30389
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 5343,
+      "landet_vaerdi_1000_kr": 141021
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 156250,
+      "landet_vaerdi_1000_kr": 550918
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 21818,
+      "landet_vaerdi_1000_kr": 138235
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 827812,
+      "landet_vaerdi_1000_kr": 1435729
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 61877,
+      "landet_vaerdi_1000_kr": 435814
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 2081,
+      "landet_vaerdi_1000_kr": 58864
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 2652,
+      "landet_vaerdi_1000_kr": 189562
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 45300,
+      "landet_vaerdi_1000_kr": 62809
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 11844,
+      "landet_vaerdi_1000_kr": 124578
+    },
+    {
+      "aar": 2015,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 10992,
+      "landet_vaerdi_1000_kr": 120996
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 897268,
+      "landet_vaerdi_1000_kr": 4092196
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 46236,
+      "landet_vaerdi_1000_kr": 782000
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 20392,
+      "landet_vaerdi_1000_kr": 412484
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 25845,
+      "landet_vaerdi_1000_kr": 369516
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 34498,
+      "landet_vaerdi_1000_kr": 542683
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 27012,
+      "landet_vaerdi_1000_kr": 324749
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 694,
+      "landet_vaerdi_1000_kr": 52648
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 6793,
+      "landet_vaerdi_1000_kr": 165286
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 184751,
+      "landet_vaerdi_1000_kr": 776019
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 16904,
+      "landet_vaerdi_1000_kr": 141998
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 547344,
+      "landet_vaerdi_1000_kr": 1138704
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 57910,
+      "landet_vaerdi_1000_kr": 568650
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 1719,
+      "landet_vaerdi_1000_kr": 59437
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4047,
+      "landet_vaerdi_1000_kr": 284713
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 42909,
+      "landet_vaerdi_1000_kr": 57695
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 9234,
+      "landet_vaerdi_1000_kr": 166804
+    },
+    {
+      "aar": 2016,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 9626,
+      "landet_vaerdi_1000_kr": 142142
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1200774,
+      "landet_vaerdi_1000_kr": 3757028
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 43535,
+      "landet_vaerdi_1000_kr": 772363
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 16628,
+      "landet_vaerdi_1000_kr": 393349
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 26907,
+      "landet_vaerdi_1000_kr": 379014
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 29614,
+      "landet_vaerdi_1000_kr": 535220
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 21680,
+      "landet_vaerdi_1000_kr": 294623
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 873,
+      "landet_vaerdi_1000_kr": 67200
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 7061,
+      "landet_vaerdi_1000_kr": 173398
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 187886,
+      "landet_vaerdi_1000_kr": 581022
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 13818,
+      "landet_vaerdi_1000_kr": 93092
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 853824,
+      "landet_vaerdi_1000_kr": 1044852
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 60870,
+      "landet_vaerdi_1000_kr": 569096
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 2160,
+      "landet_vaerdi_1000_kr": 71265
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4101,
+      "landet_vaerdi_1000_kr": 249784
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 40644,
+      "landet_vaerdi_1000_kr": 56342
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 13965,
+      "landet_vaerdi_1000_kr": 191706
+    },
+    {
+      "aar": 2017,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 11227,
+      "landet_vaerdi_1000_kr": 161381
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 1143510,
+      "landet_vaerdi_1000_kr": 4204442
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 43745,
+      "landet_vaerdi_1000_kr": 724631
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 14656,
+      "landet_vaerdi_1000_kr": 360133
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 29088,
+      "landet_vaerdi_1000_kr": 364498
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 26805,
+      "landet_vaerdi_1000_kr": 569906
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 16948,
+      "landet_vaerdi_1000_kr": 317042
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 741,
+      "landet_vaerdi_1000_kr": 63211
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 9117,
+      "landet_vaerdi_1000_kr": 189653
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 227011,
+      "landet_vaerdi_1000_kr": 638520
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 23353,
+      "landet_vaerdi_1000_kr": 218393
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 758071,
+      "landet_vaerdi_1000_kr": 1282067
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 56876,
+      "landet_vaerdi_1000_kr": 607810
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 3041,
+      "landet_vaerdi_1000_kr": 99865
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4963,
+      "landet_vaerdi_1000_kr": 270520
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 39381,
+      "landet_vaerdi_1000_kr": 52156
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 9490,
+      "landet_vaerdi_1000_kr": 185269
+    },
+    {
+      "aar": 2018,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 7649,
+      "landet_vaerdi_1000_kr": 163114
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 942811,
+      "landet_vaerdi_1000_kr": 3892697
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 36092,
+      "landet_vaerdi_1000_kr": 658912
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 11507,
+      "landet_vaerdi_1000_kr": 311286
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 24585,
+      "landet_vaerdi_1000_kr": 347627
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 24629,
+      "landet_vaerdi_1000_kr": 462893
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 14673,
+      "landet_vaerdi_1000_kr": 265104
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 391,
+      "landet_vaerdi_1000_kr": 38011
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 9565,
+      "landet_vaerdi_1000_kr": 159778
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 192338,
+      "landet_vaerdi_1000_kr": 624695
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 27019,
+      "landet_vaerdi_1000_kr": 288270
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 593276,
+      "landet_vaerdi_1000_kr": 1138026
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 60989,
+      "landet_vaerdi_1000_kr": 556976
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 2114,
+      "landet_vaerdi_1000_kr": 75449
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 5756,
+      "landet_vaerdi_1000_kr": 303448
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 37032,
+      "landet_vaerdi_1000_kr": 42321
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 16088,
+      "landet_vaerdi_1000_kr": 135757
+    },
+    {
+      "aar": 2019,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 8468,
+      "landet_vaerdi_1000_kr": 162925
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 945937,
+      "landet_vaerdi_1000_kr": 3560312
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 29160,
+      "landet_vaerdi_1000_kr": 447261
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 7054,
+      "landet_vaerdi_1000_kr": 205120
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 22107,
+      "landet_vaerdi_1000_kr": 242141
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 23512,
+      "landet_vaerdi_1000_kr": 430766
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 15565,
+      "landet_vaerdi_1000_kr": 260318
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 471,
+      "landet_vaerdi_1000_kr": 37821
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 7477,
+      "landet_vaerdi_1000_kr": 132627
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 160883,
+      "landet_vaerdi_1000_kr": 603302
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 23677,
+      "landet_vaerdi_1000_kr": 193706
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 661824,
+      "landet_vaerdi_1000_kr": 1341149
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 38198,
+      "landet_vaerdi_1000_kr": 417129
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 3241,
+      "landet_vaerdi_1000_kr": 94018
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4209,
+      "landet_vaerdi_1000_kr": 200532
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 22625,
+      "landet_vaerdi_1000_kr": 30909
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 8123,
+      "landet_vaerdi_1000_kr": 91669
+    },
+    {
+      "aar": 2020,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 8683,
+      "landet_vaerdi_1000_kr": 126999
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 711176,
+      "landet_vaerdi_1000_kr": 3388019
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 26590,
+      "landet_vaerdi_1000_kr": 445240
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 5225,
+      "landet_vaerdi_1000_kr": 164239
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 21364,
+      "landet_vaerdi_1000_kr": 281001
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 20990,
+      "landet_vaerdi_1000_kr": 492865
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 14683,
+      "landet_vaerdi_1000_kr": 275344
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 547,
+      "landet_vaerdi_1000_kr": 51868
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 5760,
+      "landet_vaerdi_1000_kr": 165653
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 143106,
+      "landet_vaerdi_1000_kr": 595153
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 15550,
+      "landet_vaerdi_1000_kr": 165612
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 450857,
+      "landet_vaerdi_1000_kr": 965588
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 49166,
+      "landet_vaerdi_1000_kr": 578415
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 3168,
+      "landet_vaerdi_1000_kr": 91255
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 5296,
+      "landet_vaerdi_1000_kr": 301965
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 24811,
+      "landet_vaerdi_1000_kr": 40007
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 15890,
+      "landet_vaerdi_1000_kr": 145188
+    },
+    {
+      "aar": 2021,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 4918,
+      "landet_vaerdi_1000_kr": 145146
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 640961,
+      "landet_vaerdi_1000_kr": 3584334
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 26415,
+      "landet_vaerdi_1000_kr": 552764
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 4543,
+      "landet_vaerdi_1000_kr": 172204
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 21873,
+      "landet_vaerdi_1000_kr": 380559
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 16364,
+      "landet_vaerdi_1000_kr": 489594
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 11424,
+      "landet_vaerdi_1000_kr": 283791
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 362,
+      "landet_vaerdi_1000_kr": 45478
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 4578,
+      "landet_vaerdi_1000_kr": 160325
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 130976,
+      "landet_vaerdi_1000_kr": 680864
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 16274,
+      "landet_vaerdi_1000_kr": 160605
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 395530,
+      "landet_vaerdi_1000_kr": 898628
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 46570,
+      "landet_vaerdi_1000_kr": 644258
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 2352,
+      "landet_vaerdi_1000_kr": 68758
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4926,
+      "landet_vaerdi_1000_kr": 342691
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 23982,
+      "landet_vaerdi_1000_kr": 33363
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 15310,
+      "landet_vaerdi_1000_kr": 199447
+    },
+    {
+      "aar": 2022,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 8832,
+      "landet_vaerdi_1000_kr": 157623
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 749313,
+      "landet_vaerdi_1000_kr": 4157411
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 32947,
+      "landet_vaerdi_1000_kr": 614386
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 6944,
+      "landet_vaerdi_1000_kr": 241337
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 26003,
+      "landet_vaerdi_1000_kr": 373049
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 13180,
+      "landet_vaerdi_1000_kr": 398043
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 9321,
+      "landet_vaerdi_1000_kr": 227927
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 254,
+      "landet_vaerdi_1000_kr": 33234
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 3604,
+      "landet_vaerdi_1000_kr": 136882
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 150956,
+      "landet_vaerdi_1000_kr": 909480
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 20771,
+      "landet_vaerdi_1000_kr": 193944
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 493040,
+      "landet_vaerdi_1000_kr": 1339342
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 33365,
+      "landet_vaerdi_1000_kr": 572155
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 2142,
+      "landet_vaerdi_1000_kr": 70608
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4659,
+      "landet_vaerdi_1000_kr": 303835
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 17622,
+      "landet_vaerdi_1000_kr": 30409
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 8942,
+      "landet_vaerdi_1000_kr": 167302
+    },
+    {
+      "aar": 2023,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 5056,
+      "landet_vaerdi_1000_kr": 130062
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 696356,
+      "landet_vaerdi_1000_kr": 3858308
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 32282,
+      "landet_vaerdi_1000_kr": 619699
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 6152,
+      "landet_vaerdi_1000_kr": 243036
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 26131,
+      "landet_vaerdi_1000_kr": 376663
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 12829,
+      "landet_vaerdi_1000_kr": 350715
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 9426,
+      "landet_vaerdi_1000_kr": 194617
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 220,
+      "landet_vaerdi_1000_kr": 29670
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 3183,
+      "landet_vaerdi_1000_kr": 126428
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 118900,
+      "landet_vaerdi_1000_kr": 730431
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 19467,
+      "landet_vaerdi_1000_kr": 259855
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 482933,
+      "landet_vaerdi_1000_kr": 1219734
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 24658,
+      "landet_vaerdi_1000_kr": 539243
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 1005,
+      "landet_vaerdi_1000_kr": 45030
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 4845,
+      "landet_vaerdi_1000_kr": 320309
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 12510,
+      "landet_vaerdi_1000_kr": 21777
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 6297,
+      "landet_vaerdi_1000_kr": 152127
+    },
+    {
+      "aar": 2024,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 5287,
+      "landet_vaerdi_1000_kr": 138630
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "ALLE FISKEARTER",
+      "landet_vaegt_tons": 683579,
+      "landet_vaerdi_1000_kr": 4048570
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "1. TORSKEFISK",
+      "landet_vaegt_tons": 31511,
+      "landet_vaerdi_1000_kr": 695931
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "1.1. Torsk",
+      "landet_vaegt_tons": 4656,
+      "landet_vaerdi_1000_kr": 226001
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "1.2. Torskefisk i øvrigt",
+      "landet_vaegt_tons": 26855,
+      "landet_vaerdi_1000_kr": 469930
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "2. FLADFISK",
+      "landet_vaegt_tons": 11603,
+      "landet_vaerdi_1000_kr": 335069
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "2.1. Rødspætte",
+      "landet_vaegt_tons": 7813,
+      "landet_vaerdi_1000_kr": 147367
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "2.2. Tunge",
+      "landet_vaegt_tons": 151,
+      "landet_vaerdi_1000_kr": 20004
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "2.3. Fladfisk i øvrigt",
+      "landet_vaegt_tons": 3639,
+      "landet_vaerdi_1000_kr": 167698
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "3. Sild",
+      "landet_vaegt_tons": 108785,
+      "landet_vaerdi_1000_kr": 636900
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "4. Makrel",
+      "landet_vaegt_tons": 11677,
+      "landet_vaerdi_1000_kr": 260441
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "5. Industrifisk",
+      "landet_vaegt_tons": 492154,
+      "landet_vaerdi_1000_kr": 1463473
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "6. KREBS OG BLØDDYR",
+      "landet_vaegt_tons": 22788,
+      "landet_vaerdi_1000_kr": 509517
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "6.1. Dybvandsrejer",
+      "landet_vaegt_tons": 557,
+      "landet_vaerdi_1000_kr": 34032
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "6.2. Jomfruhummer",
+      "landet_vaegt_tons": 5310,
+      "landet_vaerdi_1000_kr": 314330
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "6.3. Blåmusling",
+      "landet_vaegt_tons": 10431,
+      "landet_vaerdi_1000_kr": 15617
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "6.4. Krebs- og bløddyr i øvrigt",
+      "landet_vaegt_tons": 6490,
+      "landet_vaerdi_1000_kr": 145538
+    },
+    {
+      "aar": 2025,
+      "fiskeart": "7. FISK I ØVRIGT",
+      "landet_vaegt_tons": 5062,
+      "landet_vaerdi_1000_kr": 147239
+    }
+  ],
+  "meta": {
+    "title": "Landinger af fisk i Danmark efter fiskeart (1996–2025) - Free Download",
+    "description": "Landet vægt (tons) og landet værdi (1.000 kr.) af fisk og skaldyr landet i Danmark fordelt på fiskeart og år 1996–2025, alle farvande og landingssteder i alt, fra Danmarks Statistik (tabel FISK3). Contains 510 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Landinger af fisk i Danmark efter fiskeart (1996–2025) | ListBase",
+    "seo_description": "Download Landinger af fisk i Danmark efter fiskeart (1996–2025) — 510 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 510 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/FISK3"
+    ]
+  }
+}

@@ -1,12 +1,12 @@
 {
   "lang": "da",
-  "generated": "2026-11-19T02:31:31.284Z",
-  "total_datasets": 516,
-  "total_records": 245761,
+  "generated": "2026-11-20T02:18:39.633Z",
+  "total_datasets": 517,
+  "total_records": 246271,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -234,6 +234,31 @@
         "xlsx": {
           "name": "da-landbrugsbedrifter-efter-stoerrelse_DA.xlsx",
           "size": 15102
+        }
+      }
+    },
+    {
+      "id": "da-landinger-af-fisk-efter-art",
+      "name": "Landinger af fisk i Danmark efter fiskeart (1996–2025)",
+      "category": "agriculture",
+      "record_count": 510,
+      "columns": [
+        "aar",
+        "fiskeart",
+        "landet_vaegt_tons",
+        "landet_vaerdi_1000_kr"
+      ],
+      "source": "https://www.statistikbanken.dk/FISK3",
+      "updated": "2026-11",
+      "size": 74266,
+      "files": {
+        "csv": {
+          "name": "da-landinger-af-fisk-efter-art_DA.csv",
+          "size": 21999
+        },
+        "xlsx": {
+          "name": "da-landinger-af-fisk-efter-art_DA.xlsx",
+          "size": 19145
         }
       }
     },
