@@ -1,0 +1,604 @@
+{
+  "id": "da-idraetsorganisationernes-medlemmer-efter-idraet",
+  "name": "Medlemmer af idrætsorganisationer efter idrætsgren (2020 og 2025)",
+  "title": "Medlemmer af idrætsorganisationer efter idrætsgren (2020 og 2025)",
+  "description": "Antal medlemmer i danske idrætsforeninger (DIF, DGI og Firmaidræt) fordelt på idrætsaktivitet, med fordeling på mænd og kvinder i 2025 og sammenligning med 2020 (Danmarks Statistik, IDRAKT01).",
+  "category": "sports",
+  "source": "https://www.statbank.dk/IDRAKT01",
+  "source_url": "https://www.statbank.dk/IDRAKT01",
+  "updated": "2026-11",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "idraetsaktivitet",
+      "label": "Idraetsaktivitet",
+      "type": "string"
+    },
+    {
+      "key": "medlemmer_2025",
+      "label": "Medlemmer 2025",
+      "type": "number"
+    },
+    {
+      "key": "maend_2025",
+      "label": "Maend 2025",
+      "type": "number"
+    },
+    {
+      "key": "kvinder_2025",
+      "label": "Kvinder 2025",
+      "type": "number"
+    },
+    {
+      "key": "medlemmer_2020",
+      "label": "Medlemmer 2020",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "idraetsaktivitet": "Alle idrætsaktiviteter",
+      "medlemmer_2025": 2810760,
+      "maend_2025": 1565210,
+      "kvinder_2025": 1243720,
+      "medlemmer_2020": 2505100
+    },
+    {
+      "idraetsaktivitet": "Fodbold",
+      "medlemmer_2025": 399390,
+      "maend_2025": 316080,
+      "kvinder_2025": 83110,
+      "medlemmer_2020": 334960
+    },
+    {
+      "idraetsaktivitet": "Gymnastik",
+      "medlemmer_2025": 326060,
+      "maend_2025": 84560,
+      "kvinder_2025": 241390,
+      "medlemmer_2020": 280110
+    },
+    {
+      "idraetsaktivitet": "Fitness",
+      "medlemmer_2025": 284800,
+      "maend_2025": 135540,
+      "kvinder_2025": 149140,
+      "medlemmer_2020": 222050
+    },
+    {
+      "idraetsaktivitet": "Svømning",
+      "medlemmer_2025": 276340,
+      "maend_2025": 117970,
+      "kvinder_2025": 158180,
+      "medlemmer_2020": 232990
+    },
+    {
+      "idraetsaktivitet": "Golf",
+      "medlemmer_2025": 174770,
+      "maend_2025": 126880,
+      "kvinder_2025": 47880,
+      "medlemmer_2020": 162830
+    },
+    {
+      "idraetsaktivitet": "Motion på arbejdspladsen",
+      "medlemmer_2025": 122120,
+      "maend_2025": 55340,
+      "kvinder_2025": 66780,
+      "medlemmer_2020": 50310
+    },
+    {
+      "idraetsaktivitet": "Håndbold",
+      "medlemmer_2025": 120490,
+      "maend_2025": 58640,
+      "kvinder_2025": 61800,
+      "medlemmer_2020": 106680
+    },
+    {
+      "idraetsaktivitet": "Badminton",
+      "medlemmer_2025": 113920,
+      "maend_2025": 78270,
+      "kvinder_2025": 35600,
+      "medlemmer_2020": 125650
+    },
+    {
+      "idraetsaktivitet": "Tennis",
+      "medlemmer_2025": 81680,
+      "maend_2025": 51410,
+      "kvinder_2025": 30260,
+      "medlemmer_2020": 88210
+    },
+    {
+      "idraetsaktivitet": "Ridning",
+      "medlemmer_2025": 61770,
+      "maend_2025": 5490,
+      "kvinder_2025": 56250,
+      "medlemmer_2020": 63730
+    },
+    {
+      "idraetsaktivitet": "Skydning",
+      "medlemmer_2025": 60540,
+      "maend_2025": 51320,
+      "kvinder_2025": 9160,
+      "medlemmer_2020": 58230
+    },
+    {
+      "idraetsaktivitet": "Sejlsport",
+      "medlemmer_2025": 54770,
+      "maend_2025": 40430,
+      "kvinder_2025": 14320,
+      "medlemmer_2020": 58440
+    },
+    {
+      "idraetsaktivitet": "Løb",
+      "medlemmer_2025": 52260,
+      "maend_2025": 27000,
+      "kvinder_2025": 25230,
+      "medlemmer_2020": 62210
+    },
+    {
+      "idraetsaktivitet": "Cykling",
+      "medlemmer_2025": 43560,
+      "maend_2025": 35220,
+      "kvinder_2025": 8070,
+      "medlemmer_2020": 51510
+    },
+    {
+      "idraetsaktivitet": "Idræt for Seniorer",
+      "medlemmer_2025": 42140,
+      "maend_2025": 14510,
+      "kvinder_2025": 27630,
+      "medlemmer_2020": 32820
+    },
+    {
+      "idraetsaktivitet": "Erhvervsskole - tværidrætslig",
+      "medlemmer_2025": 40660,
+      "maend_2025": 24930,
+      "kvinder_2025": 15730,
+      "medlemmer_2020": 88350
+    },
+    {
+      "idraetsaktivitet": "Dans",
+      "medlemmer_2025": 38000,
+      "maend_2025": 8390,
+      "kvinder_2025": 29550,
+      "medlemmer_2020": 33970
+    },
+    {
+      "idraetsaktivitet": "Kano/Kajak",
+      "medlemmer_2025": 30990,
+      "maend_2025": 16680,
+      "kvinder_2025": 14300,
+      "medlemmer_2020": 31890
+    },
+    {
+      "idraetsaktivitet": "Familieidræt - tværidrætslig",
+      "medlemmer_2025": 24440,
+      "maend_2025": 14800,
+      "kvinder_2025": 9640,
+      "medlemmer_2020": 18320
+    },
+    {
+      "idraetsaktivitet": "Volleyball",
+      "medlemmer_2025": 21870,
+      "maend_2025": 11080,
+      "kvinder_2025": 10790,
+      "medlemmer_2020": 18430
+    },
+    {
+      "idraetsaktivitet": "Basketball",
+      "medlemmer_2025": 21780,
+      "maend_2025": 16230,
+      "kvinder_2025": 5550,
+      "medlemmer_2020": 18130
+    },
+    {
+      "idraetsaktivitet": "Roning",
+      "medlemmer_2025": 15990,
+      "maend_2025": 8040,
+      "kvinder_2025": 7950,
+      "medlemmer_2020": 15060
+    },
+    {
+      "idraetsaktivitet": "Bordtennis",
+      "medlemmer_2025": 15470,
+      "maend_2025": 12810,
+      "kvinder_2025": 2650,
+      "medlemmer_2020": 11600
+    },
+    {
+      "idraetsaktivitet": "Øvrige Idrætslige aktiviteter",
+      "medlemmer_2025": 15270,
+      "maend_2025": 10780,
+      "kvinder_2025": 4410,
+      "medlemmer_2020": 20470
+    },
+    {
+      "idraetsaktivitet": "Boksning",
+      "medlemmer_2025": 14810,
+      "maend_2025": 10800,
+      "kvinder_2025": 3990,
+      "medlemmer_2020": 10350
+    },
+    {
+      "idraetsaktivitet": "Karate",
+      "medlemmer_2025": 14680,
+      "maend_2025": 9350,
+      "kvinder_2025": 5330,
+      "medlemmer_2020": 14600
+    },
+    {
+      "idraetsaktivitet": "Skiløb",
+      "medlemmer_2025": 14660,
+      "maend_2025": 8340,
+      "kvinder_2025": 6310,
+      "medlemmer_2020": 13190
+    },
+    {
+      "idraetsaktivitet": "Billard",
+      "medlemmer_2025": 14560,
+      "maend_2025": 12570,
+      "kvinder_2025": 1950,
+      "medlemmer_2020": 10530
+    },
+    {
+      "idraetsaktivitet": "Klatring",
+      "medlemmer_2025": 14550,
+      "maend_2025": 9490,
+      "kvinder_2025": 4960,
+      "medlemmer_2020": 10160
+    },
+    {
+      "idraetsaktivitet": "Floorball",
+      "medlemmer_2025": 14440,
+      "maend_2025": 10630,
+      "kvinder_2025": 3800,
+      "medlemmer_2020": 12440
+    },
+    {
+      "idraetsaktivitet": "Gang",
+      "medlemmer_2025": 12100,
+      "maend_2025": 4570,
+      "kvinder_2025": 7530,
+      "medlemmer_2020": 12880
+    },
+    {
+      "idraetsaktivitet": "Vægtløftning",
+      "medlemmer_2025": 12020,
+      "maend_2025": 6630,
+      "kvinder_2025": 5280,
+      "medlemmer_2020": 11040
+    },
+    {
+      "idraetsaktivitet": "Hundesport",
+      "medlemmer_2025": 11010,
+      "maend_2025": 3070,
+      "kvinder_2025": 7940,
+      "medlemmer_2020": 10620
+    },
+    {
+      "idraetsaktivitet": "Petanque",
+      "medlemmer_2025": 10970,
+      "maend_2025": 5770,
+      "kvinder_2025": 5200,
+      "medlemmer_2020": 11770
+    },
+    {
+      "idraetsaktivitet": "Automobilsport (4 hjul)",
+      "medlemmer_2025": 10270,
+      "maend_2025": 9200,
+      "kvinder_2025": 1070,
+      "medlemmer_2020": 10390
+    },
+    {
+      "idraetsaktivitet": "Atletik",
+      "medlemmer_2025": 9860,
+      "maend_2025": 5260,
+      "kvinder_2025": 4590,
+      "medlemmer_2020": 9260
+    },
+    {
+      "idraetsaktivitet": "Rullesport",
+      "medlemmer_2025": 8820,
+      "maend_2025": 5950,
+      "kvinder_2025": 2820,
+      "medlemmer_2020": 9290
+    },
+    {
+      "idraetsaktivitet": "Taekwondo",
+      "medlemmer_2025": 8640,
+      "maend_2025": 5220,
+      "kvinder_2025": 3420,
+      "medlemmer_2020": 8170
+    },
+    {
+      "idraetsaktivitet": "Bowling",
+      "medlemmer_2025": 8070,
+      "maend_2025": 5550,
+      "kvinder_2025": 2490,
+      "medlemmer_2020": 12890
+    },
+    {
+      "idraetsaktivitet": "Motorsport (2 hjul)",
+      "medlemmer_2025": 7890,
+      "maend_2025": 6890,
+      "kvinder_2025": 980,
+      "medlemmer_2020": 7780
+    },
+    {
+      "idraetsaktivitet": "Orienteringsløb",
+      "medlemmer_2025": 7790,
+      "maend_2025": 4780,
+      "kvinder_2025": 3010,
+      "medlemmer_2020": 7880
+    },
+    {
+      "idraetsaktivitet": "Judo, ju-jitsu",
+      "medlemmer_2025": 7610,
+      "maend_2025": 5590,
+      "kvinder_2025": 2020,
+      "medlemmer_2020": 6210
+    },
+    {
+      "idraetsaktivitet": "Krolf",
+      "medlemmer_2025": 7300,
+      "maend_2025": 3520,
+      "kvinder_2025": 3780,
+      "medlemmer_2020": 6470
+    },
+    {
+      "idraetsaktivitet": "Styrkeløft",
+      "medlemmer_2025": 7240,
+      "maend_2025": 5040,
+      "kvinder_2025": 2190,
+      "medlemmer_2020": 7100
+    },
+    {
+      "idraetsaktivitet": "Kampsport, øvrige",
+      "medlemmer_2025": 7070,
+      "maend_2025": 4900,
+      "kvinder_2025": 2170,
+      "medlemmer_2020": 5450
+    },
+    {
+      "idraetsaktivitet": "Esport",
+      "medlemmer_2025": 7070,
+      "maend_2025": 6290,
+      "kvinder_2025": 760,
+      "medlemmer_2020": 8860
+    },
+    {
+      "idraetsaktivitet": "Sportsdykning",
+      "medlemmer_2025": 7000,
+      "maend_2025": 5490,
+      "kvinder_2025": 1500,
+      "medlemmer_2020": 7950
+    },
+    {
+      "idraetsaktivitet": "Ishockey",
+      "medlemmer_2025": 6990,
+      "maend_2025": 5830,
+      "kvinder_2025": 1160,
+      "medlemmer_2020": 6410
+    },
+    {
+      "idraetsaktivitet": "Parasport",
+      "medlemmer_2025": 6860,
+      "maend_2025": 3660,
+      "kvinder_2025": 3190,
+      "medlemmer_2020": 8750
+    },
+    {
+      "idraetsaktivitet": "Dart",
+      "medlemmer_2025": 6240,
+      "maend_2025": 5190,
+      "kvinder_2025": 1040,
+      "medlemmer_2020": 5250
+    },
+    {
+      "idraetsaktivitet": "Triathlon",
+      "medlemmer_2025": 4790,
+      "maend_2025": 3240,
+      "kvinder_2025": 1550,
+      "medlemmer_2020": 6500
+    },
+    {
+      "idraetsaktivitet": "Børneidræt - tværidrætslig",
+      "medlemmer_2025": 4690,
+      "maend_2025": 2270,
+      "kvinder_2025": 2420,
+      "medlemmer_2020": 3020
+    },
+    {
+      "idraetsaktivitet": "Kick- og Thaiboxing",
+      "medlemmer_2025": 4480,
+      "maend_2025": 3390,
+      "kvinder_2025": 1100,
+      "medlemmer_2020": 2510
+    },
+    {
+      "idraetsaktivitet": "Bueskydning",
+      "medlemmer_2025": 4460,
+      "maend_2025": 3010,
+      "kvinder_2025": 1440,
+      "medlemmer_2020": 3730
+    },
+    {
+      "idraetsaktivitet": "Squash",
+      "medlemmer_2025": 4280,
+      "maend_2025": 3400,
+      "kvinder_2025": 880,
+      "medlemmer_2020": 5820
+    },
+    {
+      "idraetsaktivitet": "Amerikansk fodbold",
+      "medlemmer_2025": 4200,
+      "maend_2025": 1940,
+      "kvinder_2025": 2250,
+      "medlemmer_2020": 4630
+    },
+    {
+      "idraetsaktivitet": "Surf og rafting",
+      "medlemmer_2025": 4140,
+      "maend_2025": 2150,
+      "kvinder_2025": 2000,
+      "medlemmer_2020": 3880
+    },
+    {
+      "idraetsaktivitet": "Friluftsliv",
+      "medlemmer_2025": 4020,
+      "maend_2025": 1780,
+      "kvinder_2025": 2240,
+      "medlemmer_2020": 3910
+    },
+    {
+      "idraetsaktivitet": "Skøjteløb",
+      "medlemmer_2025": 3680,
+      "maend_2025": 200,
+      "kvinder_2025": 3480,
+      "medlemmer_2020": 2730
+    },
+    {
+      "idraetsaktivitet": "Streetsport - gadeidræt",
+      "medlemmer_2025": 2860,
+      "maend_2025": 1870,
+      "kvinder_2025": 990,
+      "medlemmer_2020": 2210
+    },
+    {
+      "idraetsaktivitet": "Kegler",
+      "medlemmer_2025": 2800,
+      "maend_2025": 1560,
+      "kvinder_2025": 1230,
+      "medlemmer_2020": 4290
+    },
+    {
+      "idraetsaktivitet": "Vandski/Wakeboard",
+      "medlemmer_2025": 2610,
+      "maend_2025": 1780,
+      "kvinder_2025": 830,
+      "medlemmer_2020": 2680
+    },
+    {
+      "idraetsaktivitet": "Faldskærmsudspring",
+      "medlemmer_2025": 2510,
+      "maend_2025": 1970,
+      "kvinder_2025": 540,
+      "medlemmer_2020": 2660
+    },
+    {
+      "idraetsaktivitet": "Cricket",
+      "medlemmer_2025": 2480,
+      "maend_2025": 2300,
+      "kvinder_2025": 180,
+      "medlemmer_2020": 2040
+    },
+    {
+      "idraetsaktivitet": "Rugby",
+      "medlemmer_2025": 2440,
+      "maend_2025": 1850,
+      "kvinder_2025": 590,
+      "medlemmer_2020": 2030
+    },
+    {
+      "idraetsaktivitet": "Brydning",
+      "medlemmer_2025": 2290,
+      "maend_2025": 1920,
+      "kvinder_2025": 370,
+      "medlemmer_2020": 1370
+    },
+    {
+      "idraetsaktivitet": "Krocket",
+      "medlemmer_2025": 2280,
+      "maend_2025": 1340,
+      "kvinder_2025": 940,
+      "medlemmer_2020": 2970
+    },
+    {
+      "idraetsaktivitet": "Svæveflyvning",
+      "medlemmer_2025": 2080,
+      "maend_2025": 1920,
+      "kvinder_2025": 160,
+      "medlemmer_2020": 1920
+    },
+    {
+      "idraetsaktivitet": "Minigolf",
+      "medlemmer_2025": 1880,
+      "maend_2025": 1150,
+      "kvinder_2025": 730,
+      "medlemmer_2020": 2070
+    },
+    {
+      "idraetsaktivitet": "Fiskeri",
+      "medlemmer_2025": 1640,
+      "maend_2025": 1430,
+      "kvinder_2025": 210,
+      "medlemmer_2020": 2180
+    },
+    {
+      "idraetsaktivitet": "Fægtning",
+      "medlemmer_2025": 1570,
+      "maend_2025": 1090,
+      "kvinder_2025": 470,
+      "medlemmer_2020": 1580
+    },
+    {
+      "idraetsaktivitet": "Tankesport",
+      "medlemmer_2025": 1500,
+      "maend_2025": 750,
+      "kvinder_2025": 750,
+      "medlemmer_2020": 2080
+    },
+    {
+      "idraetsaktivitet": "Modelflyvning",
+      "medlemmer_2025": 1340,
+      "maend_2025": 1310,
+      "kvinder_2025": 30,
+      "medlemmer_2020": 1690
+    },
+    {
+      "idraetsaktivitet": "Hockey",
+      "medlemmer_2025": 1170,
+      "maend_2025": 810,
+      "kvinder_2025": 370,
+      "medlemmer_2020": 1280
+    },
+    {
+      "idraetsaktivitet": "Softball",
+      "medlemmer_2025": 1070,
+      "maend_2025": 770,
+      "kvinder_2025": 310,
+      "medlemmer_2020": 980
+    },
+    {
+      "idraetsaktivitet": "Curling",
+      "medlemmer_2025": 730,
+      "maend_2025": 410,
+      "kvinder_2025": 320,
+      "medlemmer_2020": 850
+    },
+    {
+      "idraetsaktivitet": "Hanggliding/Paragliding",
+      "medlemmer_2025": 620,
+      "maend_2025": 550,
+      "kvinder_2025": 70,
+      "medlemmer_2020": 740
+    },
+    {
+      "idraetsaktivitet": "Moderne femkamp",
+      "medlemmer_2025": 130,
+      "maend_2025": 80,
+      "kvinder_2025": 50,
+      "medlemmer_2020": 100
+    }
+  ],
+  "meta": {
+    "title": "Medlemmer af idrætsorganisationer efter idrætsgren (2020 og 2025) - Free Download",
+    "description": "Antal medlemmer i danske idrætsforeninger (DIF, DGI og Firmaidræt) fordelt på idrætsaktivitet, med fordeling på mænd og kvinder i 2025 og sammenligning med 2020 (Danmarks Statistik, IDRAKT01). Contains 79 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Medlemmer af idrætsorganisationer efter idrætsgren (2020 og 2025) | ListBase",
+    "seo_description": "Download Medlemmer af idrætsorganisationer efter idrætsgren (2020 og 2025) — 79 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 79 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statbank.dk/IDRAKT01"
+    ]
+  }
+}

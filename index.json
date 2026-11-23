@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-23T02:28:31.394Z",
-  "total_datasets": 519,
-  "total_records": 246415,
+  "generated": "2026-11-23T02:28:40.316Z",
+  "total_datasets": 520,
+  "total_records": 246494,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -12904,6 +12904,32 @@
         "xlsx": {
           "name": "da-dm-ishockey-medaljevindere_DA.xlsx",
           "size": 9037
+        }
+      }
+    },
+    {
+      "id": "da-idraetsorganisationernes-medlemmer-efter-idraet",
+      "name": "Medlemmer af idrætsorganisationer efter idrætsgren (2020 og 2025)",
+      "category": "sports",
+      "record_count": 79,
+      "columns": [
+        "idraetsaktivitet",
+        "medlemmer_2025",
+        "maend_2025",
+        "kvinder_2025",
+        "medlemmer_2020"
+      ],
+      "source": "https://www.statbank.dk/IDRAKT01",
+      "updated": "2026-11",
+      "size": 15331,
+      "files": {
+        "csv": {
+          "name": "da-idraetsorganisationernes-medlemmer-efter-idraet_DA.csv",
+          "size": 3547
+        },
+        "xlsx": {
+          "name": "da-idraetsorganisationernes-medlemmer-efter-idraet_DA.xlsx",
+          "size": 9736
         }
       }
     },
