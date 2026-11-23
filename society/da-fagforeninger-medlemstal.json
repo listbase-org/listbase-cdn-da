@@ -1,0 +1,652 @@
+{
+  "id": "da-fagforeninger-medlemstal",
+  "name": "Fagforeninger og lønmodtagerorganisationer efter medlemstal (2025)",
+  "title": "Fagforeninger og lønmodtagerorganisationer efter medlemstal (2025)",
+  "description": "Medlemstal pr. 31.12.2025 for de enkelte danske lønmodtagerorganisationer (fagforeninger, a-kasse-tilknyttede organisationer m.fl.) fordelt på mænd og kvinder, (Danmarks Statistik, LONMED3).",
+  "category": "society",
+  "source": "https://www.statbank.dk/LONMED3",
+  "source_url": "https://www.statbank.dk/LONMED3",
+  "updated": "2026-11",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "organisation",
+      "label": "Organisation",
+      "type": "string"
+    },
+    {
+      "key": "medlemmer_2025",
+      "label": "Medlemmer 2025",
+      "type": "number"
+    },
+    {
+      "key": "maend_2025",
+      "label": "Maend 2025",
+      "type": "number"
+    },
+    {
+      "key": "kvinder_2025",
+      "label": "Kvinder 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "organisation": "Fagligt Fælles Forbund",
+      "medlemmer_2025": 197626,
+      "maend_2025": 148755,
+      "kvinder_2025": 48871
+    },
+    {
+      "organisation": "HK/Danmark",
+      "medlemmer_2025": 163355,
+      "maend_2025": 40709,
+      "kvinder_2025": 122646
+    },
+    {
+      "organisation": "FOA - Fag og Arbejde",
+      "medlemmer_2025": 138387,
+      "maend_2025": 22854,
+      "kvinder_2025": 115533
+    },
+    {
+      "organisation": "2B - Bedst og Billigst - Det Faglige Hus (2009 -)",
+      "medlemmer_2025": 135408,
+      "maend_2025": 70415,
+      "kvinder_2025": 64993
+    },
+    {
+      "organisation": "Ingeniørforeningen i Danmark",
+      "medlemmer_2025": 122539,
+      "maend_2025": 84407,
+      "kvinder_2025": 38132
+    },
+    {
+      "organisation": "Lederne",
+      "medlemmer_2025": 107359,
+      "maend_2025": 72793,
+      "kvinder_2025": 34566
+    },
+    {
+      "organisation": "Krifa - Kristelig Fagforening",
+      "medlemmer_2025": 105451,
+      "maend_2025": 50901,
+      "kvinder_2025": 54550
+    },
+    {
+      "organisation": "ASE Lønmodtagere (2011 -)",
+      "medlemmer_2025": 76245,
+      "maend_2025": 45187,
+      "kvinder_2025": 31058
+    },
+    {
+      "organisation": "Jurist- og Økonomforbundet",
+      "medlemmer_2025": 76016,
+      "maend_2025": 31746,
+      "kvinder_2025": 44270
+    },
+    {
+      "organisation": "Dansk Metal",
+      "medlemmer_2025": 69742,
+      "maend_2025": 65738,
+      "kvinder_2025": 4004
+    },
+    {
+      "organisation": "Dansk Sygeplejeråd",
+      "medlemmer_2025": 66090,
+      "maend_2025": 2698,
+      "kvinder_2025": 63392
+    },
+    {
+      "organisation": "Dansk Magisterforening",
+      "medlemmer_2025": 55459,
+      "maend_2025": 17473,
+      "kvinder_2025": 37986
+    },
+    {
+      "organisation": "Børne- og Ungdoms Pædagogernes Landsorganisation",
+      "medlemmer_2025": 53855,
+      "maend_2025": 9155,
+      "kvinder_2025": 44700
+    },
+    {
+      "organisation": "Danmarks Lærerforening",
+      "medlemmer_2025": 53330,
+      "maend_2025": 15049,
+      "kvinder_2025": 38281
+    },
+    {
+      "organisation": "Fagforeningen Danmark - Det Faglige Hus",
+      "medlemmer_2025": 52628,
+      "maend_2025": 33519,
+      "kvinder_2025": 19109
+    },
+    {
+      "organisation": "Finansforbundet",
+      "medlemmer_2025": 42363,
+      "maend_2025": 21955,
+      "kvinder_2025": 20408
+    },
+    {
+      "organisation": "Socialpædagogerne",
+      "medlemmer_2025": 33194,
+      "maend_2025": 8477,
+      "kvinder_2025": 24717
+    },
+    {
+      "organisation": "FRIE Funktionærer (2011 -)",
+      "medlemmer_2025": 30675,
+      "maend_2025": 16194,
+      "kvinder_2025": 14481
+    },
+    {
+      "organisation": "Lægeforeningen",
+      "medlemmer_2025": 24974,
+      "maend_2025": 10202,
+      "kvinder_2025": 14772
+    },
+    {
+      "organisation": "Business Danmark",
+      "medlemmer_2025": 24248,
+      "maend_2025": 16454,
+      "kvinder_2025": 7794
+    },
+    {
+      "organisation": "Dansk EL-Forbund",
+      "medlemmer_2025": 23786,
+      "maend_2025": 23216,
+      "kvinder_2025": 570
+    },
+    {
+      "organisation": "Funktionærkartellet/Teknikersammenslutningen - Det Faglige Hus",
+      "medlemmer_2025": 19351,
+      "maend_2025": 8805,
+      "kvinder_2025": 10546
+    },
+    {
+      "organisation": "Teknisk Landsforbund",
+      "medlemmer_2025": 18417,
+      "maend_2025": 10638,
+      "kvinder_2025": 7779
+    },
+    {
+      "organisation": "Dansk Socialrådgiverforening",
+      "medlemmer_2025": 16433,
+      "maend_2025": 1692,
+      "kvinder_2025": 14741
+    },
+    {
+      "organisation": "Fødevareforbundet NNF",
+      "medlemmer_2025": 16127,
+      "maend_2025": 11248,
+      "kvinder_2025": 4879
+    },
+    {
+      "organisation": "Politiforbundet i Danmark",
+      "medlemmer_2025": 12275,
+      "maend_2025": 9411,
+      "kvinder_2025": 2864
+    },
+    {
+      "organisation": "Serviceforbundet",
+      "medlemmer_2025": 12264,
+      "maend_2025": 5725,
+      "kvinder_2025": 6539
+    },
+    {
+      "organisation": "Frie Skolers Lærerforening",
+      "medlemmer_2025": 11993,
+      "maend_2025": 4259,
+      "kvinder_2025": 7734
+    },
+    {
+      "organisation": "Gymnasielærerne",
+      "medlemmer_2025": 11863,
+      "maend_2025": 5268,
+      "kvinder_2025": 6595
+    },
+    {
+      "organisation": "Dansk Journalistforbund",
+      "medlemmer_2025": 11705,
+      "maend_2025": 5710,
+      "kvinder_2025": 5995
+    },
+    {
+      "organisation": "Maskinmestrenes Forening",
+      "medlemmer_2025": 11128,
+      "maend_2025": 10976,
+      "kvinder_2025": 152
+    },
+    {
+      "organisation": "PROSA - EDB-fagets fagforening",
+      "medlemmer_2025": 10904,
+      "maend_2025": 9317,
+      "kvinder_2025": 1587
+    },
+    {
+      "organisation": "Forsikringsforbundet (Tidligere Danske Forsikringsfunktionæreres Landsforening)",
+      "medlemmer_2025": 9444,
+      "maend_2025": 4357,
+      "kvinder_2025": 5087
+    },
+    {
+      "organisation": "Danske Fysioterapeuter",
+      "medlemmer_2025": 9340,
+      "maend_2025": 2347,
+      "kvinder_2025": 6993
+    },
+    {
+      "organisation": "Blik og Rørarbejderforbundet i Danmark",
+      "medlemmer_2025": 9258,
+      "maend_2025": 9174,
+      "kvinder_2025": 84
+    },
+    {
+      "organisation": "Centralforeningen for Stampersonel",
+      "medlemmer_2025": 8555,
+      "maend_2025": 7631,
+      "kvinder_2025": 924
+    },
+    {
+      "organisation": "Konstruktørforeningen",
+      "medlemmer_2025": 8086,
+      "maend_2025": 6566,
+      "kvinder_2025": 1520
+    },
+    {
+      "organisation": "Ergoterapeutforeningen",
+      "medlemmer_2025": 7838,
+      "maend_2025": 582,
+      "kvinder_2025": 7256
+    },
+    {
+      "organisation": "Psykologforeningen",
+      "medlemmer_2025": 7423,
+      "maend_2025": 1264,
+      "kvinder_2025": 6159
+    },
+    {
+      "organisation": "Uddannelsesforbundet",
+      "medlemmer_2025": 7364,
+      "maend_2025": 3811,
+      "kvinder_2025": 3553
+    },
+    {
+      "organisation": "Spring (2016-)",
+      "medlemmer_2025": 6691,
+      "maend_2025": 3430,
+      "kvinder_2025": 3261
+    },
+    {
+      "organisation": "Pharma-Danmark",
+      "medlemmer_2025": 6508,
+      "maend_2025": 1793,
+      "kvinder_2025": 4715
+    },
+    {
+      "organisation": "Luftfart og Jernbane",
+      "medlemmer_2025": 6340,
+      "maend_2025": 5145,
+      "kvinder_2025": 1195
+    },
+    {
+      "organisation": "Kost og Ernæringsforbundet",
+      "medlemmer_2025": 6302,
+      "maend_2025": 733,
+      "kvinder_2025": 5569
+    },
+    {
+      "organisation": "Malerforbundet i Danmark",
+      "medlemmer_2025": 5271,
+      "maend_2025": 2895,
+      "kvinder_2025": 2376
+    },
+    {
+      "organisation": "Danske Bioanalytikere",
+      "medlemmer_2025": 4859,
+      "maend_2025": 411,
+      "kvinder_2025": 4448
+    },
+    {
+      "organisation": "Arkitektforbundet",
+      "medlemmer_2025": 4824,
+      "maend_2025": 1807,
+      "kvinder_2025": 3017
+    },
+    {
+      "organisation": "Ejendoms- og Servicefunktionærernes Landsforbund (ESL)",
+      "medlemmer_2025": 4714,
+      "maend_2025": 4344,
+      "kvinder_2025": 370
+    },
+    {
+      "organisation": "Hærens Konstabel- og Korporalforening",
+      "medlemmer_2025": 4591,
+      "maend_2025": 4124,
+      "kvinder_2025": 467
+    },
+    {
+      "organisation": "Dansk Musiker Forbund",
+      "medlemmer_2025": 4409,
+      "maend_2025": 3111,
+      "kvinder_2025": 1298
+    },
+    {
+      "organisation": "Farmakonomforeningen",
+      "medlemmer_2025": 3948,
+      "maend_2025": 163,
+      "kvinder_2025": 3785
+    },
+    {
+      "organisation": "Dansk Journalistforbund under AC (2008 -)",
+      "medlemmer_2025": 3772,
+      "maend_2025": 1465,
+      "kvinder_2025": 2307
+    },
+    {
+      "organisation": "Forsvarsgruppen i AC",
+      "medlemmer_2025": 3340,
+      "maend_2025": 3086,
+      "kvinder_2025": 254
+    },
+    {
+      "organisation": "Deltidsansatte Brandfolks Faglige Organisation (2025-)",
+      "medlemmer_2025": 3068,
+      "maend_2025": 2895,
+      "kvinder_2025": 173
+    },
+    {
+      "organisation": "Fængselsforbundet i Danmark",
+      "medlemmer_2025": 2851,
+      "maend_2025": 1821,
+      "kvinder_2025": 1030
+    },
+    {
+      "organisation": "Dansk Told- og Skatteforbund",
+      "medlemmer_2025": 2601,
+      "maend_2025": 961,
+      "kvinder_2025": 1640
+    },
+    {
+      "organisation": "Jordemoderforening",
+      "medlemmer_2025": 2385,
+      "maend_2025": 1,
+      "kvinder_2025": 2384
+    },
+    {
+      "organisation": "Præsteforeningen",
+      "medlemmer_2025": 2296,
+      "maend_2025": 939,
+      "kvinder_2025": 1357
+    },
+    {
+      "organisation": "Radiograf Rådet i Danmark",
+      "medlemmer_2025": 2184,
+      "maend_2025": 542,
+      "kvinder_2025": 1642
+    },
+    {
+      "organisation": "Tandlægeforeningen",
+      "medlemmer_2025": 2154,
+      "maend_2025": 469,
+      "kvinder_2025": 1685
+    },
+    {
+      "organisation": "Dansk Skuespillerforbund",
+      "medlemmer_2025": 2122,
+      "maend_2025": 1167,
+      "kvinder_2025": 955
+    },
+    {
+      "organisation": "Dansk Tandplejerforening",
+      "medlemmer_2025": 1872,
+      "maend_2025": 68,
+      "kvinder_2025": 1804
+    },
+    {
+      "organisation": "Den Danske Dyrlægeforening",
+      "medlemmer_2025": 1862,
+      "maend_2025": 353,
+      "kvinder_2025": 1509
+    },
+    {
+      "organisation": "Danske Fodterapeuter",
+      "medlemmer_2025": 1861,
+      "maend_2025": 104,
+      "kvinder_2025": 1757
+    },
+    {
+      "organisation": "Dansk Artistforbund",
+      "medlemmer_2025": 1190,
+      "maend_2025": 679,
+      "kvinder_2025": 511
+    },
+    {
+      "organisation": "Spillerforeningen",
+      "medlemmer_2025": 969,
+      "maend_2025": 803,
+      "kvinder_2025": 166
+    },
+    {
+      "organisation": "Foreningen af Mejeriledere og Funktionærer",
+      "medlemmer_2025": 967,
+      "maend_2025": 720,
+      "kvinder_2025": 247
+    },
+    {
+      "organisation": "SAFU Sammenslutningen af Funktionærer",
+      "medlemmer_2025": 932,
+      "maend_2025": 433,
+      "kvinder_2025": 499
+    },
+    {
+      "organisation": "Danske Skov- og Landskabsingeniører",
+      "medlemmer_2025": 926,
+      "maend_2025": 640,
+      "kvinder_2025": 286
+    },
+    {
+      "organisation": "Danske psykomotoriske Terapeuter",
+      "medlemmer_2025": 899,
+      "maend_2025": 67,
+      "kvinder_2025": 832
+    },
+    {
+      "organisation": "Den Danske Landinspektørforening - LSP (tidl. DdL)",
+      "medlemmer_2025": 897,
+      "maend_2025": 592,
+      "kvinder_2025": 305
+    },
+    {
+      "organisation": "FAF - Film- og TV-arbejderforeningen",
+      "medlemmer_2025": 879,
+      "maend_2025": 557,
+      "kvinder_2025": 322
+    },
+    {
+      "organisation": "JID",
+      "medlemmer_2025": 814,
+      "maend_2025": 471,
+      "kvinder_2025": 343
+    },
+    {
+      "organisation": "Håndbold Spillerforeningen (2011 -)",
+      "medlemmer_2025": 751,
+      "maend_2025": 417,
+      "kvinder_2025": 334
+    },
+    {
+      "organisation": "Trafikforbundet",
+      "medlemmer_2025": 683,
+      "maend_2025": 508,
+      "kvinder_2025": 175
+    },
+    {
+      "organisation": "De offentlige tandlæger",
+      "medlemmer_2025": 673,
+      "maend_2025": 82,
+      "kvinder_2025": 591
+    },
+    {
+      "organisation": "Kort- og Landmålingsteknikernes Forening",
+      "medlemmer_2025": 655,
+      "maend_2025": 508,
+      "kvinder_2025": 147
+    },
+    {
+      "organisation": "Danmarks Kordegneforening",
+      "medlemmer_2025": 639,
+      "maend_2025": 148,
+      "kvinder_2025": 491
+    },
+    {
+      "organisation": "Fagforeningen Musiker og Musikunderviser",
+      "medlemmer_2025": 621,
+      "maend_2025": 248,
+      "kvinder_2025": 373
+    },
+    {
+      "organisation": "Merkonomernes Hovedorganisation",
+      "medlemmer_2025": 604,
+      "maend_2025": 241,
+      "kvinder_2025": 363
+    },
+    {
+      "organisation": "Funktionærforeningen Carlsberg",
+      "medlemmer_2025": 558,
+      "maend_2025": 364,
+      "kvinder_2025": 194
+    },
+    {
+      "organisation": "Dansk Formands Forening",
+      "medlemmer_2025": 551,
+      "maend_2025": 532,
+      "kvinder_2025": 19
+    },
+    {
+      "organisation": "Organistforeningen",
+      "medlemmer_2025": 541,
+      "maend_2025": 237,
+      "kvinder_2025": 304
+    },
+    {
+      "organisation": "Dansk Organist og Kantor Samfund",
+      "medlemmer_2025": 412,
+      "maend_2025": 241,
+      "kvinder_2025": 171
+    },
+    {
+      "organisation": "Det Offentlige Beredskabspersonales Landsforbund",
+      "medlemmer_2025": 406,
+      "maend_2025": 372,
+      "kvinder_2025": 34
+    },
+    {
+      "organisation": "Kirkekultur.nu",
+      "medlemmer_2025": 406,
+      "maend_2025": 28,
+      "kvinder_2025": 378
+    },
+    {
+      "organisation": "Frederiksberg Kommunalforening",
+      "medlemmer_2025": 376,
+      "maend_2025": 103,
+      "kvinder_2025": 273
+    },
+    {
+      "organisation": "Dansk Kirkemusiker Forening",
+      "medlemmer_2025": 365,
+      "maend_2025": 130,
+      "kvinder_2025": 235
+    },
+    {
+      "organisation": "Dansk Kiropraktor Forening",
+      "medlemmer_2025": 355,
+      "maend_2025": 144,
+      "kvinder_2025": 211
+    },
+    {
+      "organisation": "Gentofte Kommunalforening",
+      "medlemmer_2025": 318,
+      "maend_2025": 78,
+      "kvinder_2025": 240
+    },
+    {
+      "organisation": "Mejeriingeniørforeningen",
+      "medlemmer_2025": 313,
+      "maend_2025": 153,
+      "kvinder_2025": 160
+    },
+    {
+      "organisation": "Danske Scenografer",
+      "medlemmer_2025": 282,
+      "maend_2025": 103,
+      "kvinder_2025": 179
+    },
+    {
+      "organisation": "Medieforbundet i Danmarks Radio",
+      "medlemmer_2025": 250,
+      "maend_2025": 122,
+      "kvinder_2025": 128
+    },
+    {
+      "organisation": "Hi - Organisation for ledende medarbejdere i idræt-kultur-fritid",
+      "medlemmer_2025": 249,
+      "maend_2025": 215,
+      "kvinder_2025": 34
+    },
+    {
+      "organisation": "Dansk Billedkunstneres Forbund - BKF (2022-)",
+      "medlemmer_2025": 241,
+      "maend_2025": 81,
+      "kvinder_2025": 160
+    },
+    {
+      "organisation": "Cabin Union Denmark",
+      "medlemmer_2025": 232,
+      "maend_2025": 56,
+      "kvinder_2025": 176
+    },
+    {
+      "organisation": "Foreningen af danske inseminører",
+      "medlemmer_2025": 161,
+      "maend_2025": 132,
+      "kvinder_2025": 29
+    },
+    {
+      "organisation": "Foreningen af danske Sceneinstruktører",
+      "medlemmer_2025": 141,
+      "maend_2025": 72,
+      "kvinder_2025": 69
+    },
+    {
+      "organisation": "Foreningen af Danske Kirkegårdsledere",
+      "medlemmer_2025": 127,
+      "maend_2025": 85,
+      "kvinder_2025": 42
+    },
+    {
+      "organisation": "Dansk Elitesportsudøveres Forening (DEF-Sport) (2015-)",
+      "medlemmer_2025": 71,
+      "maend_2025": 56,
+      "kvinder_2025": 15
+    },
+    {
+      "organisation": "Hoffunktionærforeningen",
+      "medlemmer_2025": 47,
+      "maend_2025": 25,
+      "kvinder_2025": 22
+    }
+  ],
+  "meta": {
+    "title": "Fagforeninger og lønmodtagerorganisationer efter medlemstal (2025) - Free Download",
+    "description": "Medlemstal pr. 31.12.2025 for de enkelte danske lønmodtagerorganisationer (fagforeninger, a-kasse-tilknyttede organisationer m.fl.) fordelt på mænd og kvinder, (Danmarks Statistik, LONMED3). Contains 101 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fagforeninger og lønmodtagerorganisationer efter medlemstal (2025) | ListBase",
+    "seo_description": "Download Fagforeninger og lønmodtagerorganisationer efter medlemstal (2025) — 101 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 101 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statbank.dk/LONMED3"
+    ]
+  }
+}

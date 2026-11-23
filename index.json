@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-20T02:18:47.656Z",
-  "total_datasets": 518,
-  "total_records": 246314,
+  "generated": "2026-11-23T02:28:31.394Z",
+  "total_datasets": 519,
+  "total_records": 246415,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "sports",
@@ -12616,6 +12616,31 @@
         "xlsx": {
           "name": "da-enkelt-og-flerfoedsler_DA.xlsx",
           "size": 10888
+        }
+      }
+    },
+    {
+      "id": "da-fagforeninger-medlemstal",
+      "name": "Fagforeninger og lønmodtagerorganisationer efter medlemstal (2025)",
+      "category": "society",
+      "record_count": 101,
+      "columns": [
+        "organisation",
+        "medlemmer_2025",
+        "maend_2025",
+        "kvinder_2025"
+      ],
+      "source": "https://www.statbank.dk/LONMED3",
+      "updated": "2026-11",
+      "size": 16915,
+      "files": {
+        "csv": {
+          "name": "da-fagforeninger-medlemstal_DA.csv",
+          "size": 5226
+        },
+        "xlsx": {
+          "name": "da-fagforeninger-medlemstal_DA.xlsx",
+          "size": 10648
         }
       }
     },
