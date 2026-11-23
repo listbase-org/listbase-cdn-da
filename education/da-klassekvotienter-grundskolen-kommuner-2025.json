@@ -1,0 +1,779 @@
+{
+  "id": "da-klassekvotienter-grundskolen-kommuner-2025",
+  "name": "Klassekvotienter i grundskolen efter kommune og region (2025)",
+  "title": "Klassekvotienter i grundskolen efter kommune og region (2025)",
+  "description": "Gennemsnitligt antal elever pr. klasse (klassekvotient) i grundskolen i 2025 for hele landet, regioner og kommuner, i alt og opdelt på folkeskoler og frie grundskoler (tom hvor kommunen ikke har frie grundskoler) (Danmarks Statistik, KVOTIEN).",
+  "category": "education",
+  "source": "https://www.statbank.dk/KVOTIEN",
+  "source_url": "https://www.statbank.dk/KVOTIEN",
+  "updated": "2026-11",
+  "record_count": 104,
+  "columns": [
+    {
+      "key": "omraade",
+      "label": "Omraade",
+      "type": "string"
+    },
+    {
+      "key": "niveau",
+      "label": "Niveau",
+      "type": "string"
+    },
+    {
+      "key": "klassekvotient_i_alt",
+      "label": "Klassekvotient I Alt",
+      "type": "number"
+    },
+    {
+      "key": "klassekvotient_folkeskoler",
+      "label": "Klassekvotient Folkeskoler",
+      "type": "number"
+    },
+    {
+      "key": "klassekvotient_frie_grundskoler",
+      "label": "Klassekvotient Frie Grundskoler",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "omraade": "Hele landet",
+      "niveau": "land",
+      "klassekvotient_i_alt": 20.2,
+      "klassekvotient_folkeskoler": 20.7,
+      "klassekvotient_frie_grundskoler": 18.5
+    },
+    {
+      "omraade": "Region Nordjylland",
+      "niveau": "region",
+      "klassekvotient_i_alt": 18.9,
+      "klassekvotient_folkeskoler": 19.9,
+      "klassekvotient_frie_grundskoler": 14.7
+    },
+    {
+      "omraade": "Region Midtjylland",
+      "niveau": "region",
+      "klassekvotient_i_alt": 20.1,
+      "klassekvotient_folkeskoler": 20.4,
+      "klassekvotient_frie_grundskoler": 18.3
+    },
+    {
+      "omraade": "Region Syddanmark",
+      "niveau": "region",
+      "klassekvotient_i_alt": 19.7,
+      "klassekvotient_folkeskoler": 20.3,
+      "klassekvotient_frie_grundskoler": 17.9
+    },
+    {
+      "omraade": "Region Hovedstaden",
+      "niveau": "region",
+      "klassekvotient_i_alt": 21.4,
+      "klassekvotient_folkeskoler": 21.7,
+      "klassekvotient_frie_grundskoler": 20.1
+    },
+    {
+      "omraade": "Region Sjælland",
+      "niveau": "region",
+      "klassekvotient_i_alt": 19.8,
+      "klassekvotient_folkeskoler": 20.1,
+      "klassekvotient_frie_grundskoler": 18.9
+    },
+    {
+      "omraade": "København",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.6,
+      "klassekvotient_folkeskoler": 22.6,
+      "klassekvotient_frie_grundskoler": 19.1
+    },
+    {
+      "omraade": "Frederiksberg",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.5,
+      "klassekvotient_folkeskoler": 22,
+      "klassekvotient_frie_grundskoler": 20
+    },
+    {
+      "omraade": "Ballerup",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.9,
+      "klassekvotient_folkeskoler": 22.2,
+      "klassekvotient_frie_grundskoler": 20.6
+    },
+    {
+      "omraade": "Brøndby",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.2,
+      "klassekvotient_folkeskoler": 20.9,
+      "klassekvotient_frie_grundskoler": 23.9
+    },
+    {
+      "omraade": "Dragør",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 22.2,
+      "klassekvotient_folkeskoler": 22.2,
+      "klassekvotient_frie_grundskoler": ""
+    },
+    {
+      "omraade": "Gentofte",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 22.4,
+      "klassekvotient_folkeskoler": 22.5,
+      "klassekvotient_frie_grundskoler": 22.3
+    },
+    {
+      "omraade": "Gladsaxe",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.9,
+      "klassekvotient_folkeskoler": 22.3,
+      "klassekvotient_frie_grundskoler": 20.9
+    },
+    {
+      "omraade": "Glostrup",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.9,
+      "klassekvotient_folkeskoler": 20.2,
+      "klassekvotient_frie_grundskoler": 17.2
+    },
+    {
+      "omraade": "Herlev",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.3,
+      "klassekvotient_folkeskoler": 20,
+      "klassekvotient_frie_grundskoler": 23.9
+    },
+    {
+      "omraade": "Albertslund",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.4,
+      "klassekvotient_folkeskoler": 21.3,
+      "klassekvotient_frie_grundskoler": 22.6
+    },
+    {
+      "omraade": "Hvidovre",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.8,
+      "klassekvotient_folkeskoler": 21.7,
+      "klassekvotient_frie_grundskoler": 21.9
+    },
+    {
+      "omraade": "Høje-Taastrup",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.8,
+      "klassekvotient_folkeskoler": 20.3,
+      "klassekvotient_frie_grundskoler": 22.1
+    },
+    {
+      "omraade": "Lyngby-Taarbæk",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.4,
+      "klassekvotient_folkeskoler": 21.8,
+      "klassekvotient_frie_grundskoler": 19.7
+    },
+    {
+      "omraade": "Rødovre",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.9,
+      "klassekvotient_folkeskoler": 21.3,
+      "klassekvotient_frie_grundskoler": 17.1
+    },
+    {
+      "omraade": "Ishøj",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.4,
+      "klassekvotient_folkeskoler": 21.2,
+      "klassekvotient_frie_grundskoler": 22.5
+    },
+    {
+      "omraade": "Tårnby",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.1,
+      "klassekvotient_folkeskoler": 21.1,
+      "klassekvotient_frie_grundskoler": 22.2
+    },
+    {
+      "omraade": "Vallensbæk",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 22.3,
+      "klassekvotient_folkeskoler": 22.4,
+      "klassekvotient_frie_grundskoler": 21.3
+    },
+    {
+      "omraade": "Furesø",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 22.8,
+      "klassekvotient_folkeskoler": 22.5,
+      "klassekvotient_frie_grundskoler": 24.3
+    },
+    {
+      "omraade": "Allerød",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.7,
+      "klassekvotient_folkeskoler": 21.3,
+      "klassekvotient_frie_grundskoler": 23.9
+    },
+    {
+      "omraade": "Fredensborg",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.4,
+      "klassekvotient_folkeskoler": 21.9,
+      "klassekvotient_frie_grundskoler": 18
+    },
+    {
+      "omraade": "Helsingør",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.1,
+      "klassekvotient_folkeskoler": 21.4,
+      "klassekvotient_frie_grundskoler": 19.7
+    },
+    {
+      "omraade": "Hillerød",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.8,
+      "klassekvotient_folkeskoler": 20.3,
+      "klassekvotient_frie_grundskoler": 22.2
+    },
+    {
+      "omraade": "Hørsholm",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.3,
+      "klassekvotient_folkeskoler": 21.6,
+      "klassekvotient_frie_grundskoler": 20.9
+    },
+    {
+      "omraade": "Rudersdal",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.1,
+      "klassekvotient_folkeskoler": 21.9,
+      "klassekvotient_frie_grundskoler": 15.6
+    },
+    {
+      "omraade": "Egedal",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 22.6,
+      "klassekvotient_folkeskoler": 22.8,
+      "klassekvotient_frie_grundskoler": 21.4
+    },
+    {
+      "omraade": "Frederikssund",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.9,
+      "klassekvotient_folkeskoler": 19.4,
+      "klassekvotient_frie_grundskoler": 21.7
+    },
+    {
+      "omraade": "Greve",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.9,
+      "klassekvotient_folkeskoler": 22,
+      "klassekvotient_frie_grundskoler": 21.1
+    },
+    {
+      "omraade": "Køge",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.9,
+      "klassekvotient_folkeskoler": 21.4,
+      "klassekvotient_frie_grundskoler": 19.1
+    },
+    {
+      "omraade": "Halsnæs",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.8,
+      "klassekvotient_folkeskoler": 19.9,
+      "klassekvotient_frie_grundskoler": 19.7
+    },
+    {
+      "omraade": "Roskilde",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.3,
+      "klassekvotient_folkeskoler": 20.6,
+      "klassekvotient_frie_grundskoler": 19.2
+    },
+    {
+      "omraade": "Solrød",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 23,
+      "klassekvotient_folkeskoler": 23.1,
+      "klassekvotient_frie_grundskoler": 22.3
+    },
+    {
+      "omraade": "Gribskov",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 18.8,
+      "klassekvotient_folkeskoler": 19.8,
+      "klassekvotient_frie_grundskoler": 17
+    },
+    {
+      "omraade": "Odsherred",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 16.6,
+      "klassekvotient_folkeskoler": 17,
+      "klassekvotient_frie_grundskoler": 15.6
+    },
+    {
+      "omraade": "Holbæk",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.4,
+      "klassekvotient_folkeskoler": 19.2,
+      "klassekvotient_frie_grundskoler": 19.8
+    },
+    {
+      "omraade": "Faxe",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 18.9,
+      "klassekvotient_folkeskoler": 19.1,
+      "klassekvotient_frie_grundskoler": 18.1
+    },
+    {
+      "omraade": "Kalundborg",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 16.6,
+      "klassekvotient_folkeskoler": 16.3,
+      "klassekvotient_frie_grundskoler": 17.1
+    },
+    {
+      "omraade": "Ringsted",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.2,
+      "klassekvotient_folkeskoler": 19.4,
+      "klassekvotient_frie_grundskoler": 18.7
+    },
+    {
+      "omraade": "Slagelse",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.8,
+      "klassekvotient_folkeskoler": 21,
+      "klassekvotient_frie_grundskoler": 20.1
+    },
+    {
+      "omraade": "Stevns",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.5,
+      "klassekvotient_folkeskoler": 20.4,
+      "klassekvotient_frie_grundskoler": 17.7
+    },
+    {
+      "omraade": "Sorø",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.9,
+      "klassekvotient_folkeskoler": 19.2,
+      "klassekvotient_frie_grundskoler": 22.7
+    },
+    {
+      "omraade": "Lejre",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.8,
+      "klassekvotient_folkeskoler": 20.6,
+      "klassekvotient_frie_grundskoler": 21.8
+    },
+    {
+      "omraade": "Lolland",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.1,
+      "klassekvotient_folkeskoler": 18.6,
+      "klassekvotient_frie_grundskoler": 22.9
+    },
+    {
+      "omraade": "Næstved",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.8,
+      "klassekvotient_folkeskoler": 20.4,
+      "klassekvotient_frie_grundskoler": 17
+    },
+    {
+      "omraade": "Guldborgsund",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.3,
+      "klassekvotient_folkeskoler": 19.3,
+      "klassekvotient_frie_grundskoler": 19.5
+    },
+    {
+      "omraade": "Vordingborg",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 17.7,
+      "klassekvotient_folkeskoler": 19.8,
+      "klassekvotient_frie_grundskoler": 14.2
+    },
+    {
+      "omraade": "Bornholm",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 18.8,
+      "klassekvotient_folkeskoler": 18.7,
+      "klassekvotient_frie_grundskoler": 19
+    },
+    {
+      "omraade": "Middelfart",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.2,
+      "klassekvotient_folkeskoler": 20.7,
+      "klassekvotient_frie_grundskoler": 19.1
+    },
+    {
+      "omraade": "Assens",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19,
+      "klassekvotient_folkeskoler": 19,
+      "klassekvotient_frie_grundskoler": 19.1
+    },
+    {
+      "omraade": "Faaborg-Midtfyn",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 17.4,
+      "klassekvotient_folkeskoler": 18.5,
+      "klassekvotient_frie_grundskoler": 15.6
+    },
+    {
+      "omraade": "Kerteminde",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.2,
+      "klassekvotient_folkeskoler": 20.1,
+      "klassekvotient_frie_grundskoler": 20.5
+    },
+    {
+      "omraade": "Nyborg",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.6,
+      "klassekvotient_folkeskoler": 19.9,
+      "klassekvotient_frie_grundskoler": 19
+    },
+    {
+      "omraade": "Odense",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.4,
+      "klassekvotient_folkeskoler": 21.7,
+      "klassekvotient_frie_grundskoler": 20.5
+    },
+    {
+      "omraade": "Svendborg",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.4,
+      "klassekvotient_folkeskoler": 21.6,
+      "klassekvotient_frie_grundskoler": 20.9
+    },
+    {
+      "omraade": "Nordfyns",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.4,
+      "klassekvotient_folkeskoler": 19.6,
+      "klassekvotient_frie_grundskoler": 16.4
+    },
+    {
+      "omraade": "Langeland",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 18.4,
+      "klassekvotient_folkeskoler": 18.8,
+      "klassekvotient_frie_grundskoler": 12.7
+    },
+    {
+      "omraade": "Ærø",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 16.8,
+      "klassekvotient_folkeskoler": 18.1,
+      "klassekvotient_frie_grundskoler": 11.2
+    },
+    {
+      "omraade": "Haderslev",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 18.8,
+      "klassekvotient_folkeskoler": 19,
+      "klassekvotient_frie_grundskoler": 18.1
+    },
+    {
+      "omraade": "Billund",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.3,
+      "klassekvotient_folkeskoler": 19.8,
+      "klassekvotient_frie_grundskoler": 17.9
+    },
+    {
+      "omraade": "Sønderborg",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 18.5,
+      "klassekvotient_folkeskoler": 19.7,
+      "klassekvotient_frie_grundskoler": 15.5
+    },
+    {
+      "omraade": "Tønder",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 16.8,
+      "klassekvotient_folkeskoler": 18.3,
+      "klassekvotient_frie_grundskoler": 14.4
+    },
+    {
+      "omraade": "Esbjerg",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.6,
+      "klassekvotient_folkeskoler": 20.8,
+      "klassekvotient_frie_grundskoler": 19.3
+    },
+    {
+      "omraade": "Fanø",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 17.8,
+      "klassekvotient_folkeskoler": 17.8,
+      "klassekvotient_frie_grundskoler": ""
+    },
+    {
+      "omraade": "Varde",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.6,
+      "klassekvotient_folkeskoler": 21,
+      "klassekvotient_frie_grundskoler": 10.8
+    },
+    {
+      "omraade": "Vejen",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 18.8,
+      "klassekvotient_folkeskoler": 19.4,
+      "klassekvotient_frie_grundskoler": 16
+    },
+    {
+      "omraade": "Aabenraa",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 17.1,
+      "klassekvotient_folkeskoler": 18.9,
+      "klassekvotient_frie_grundskoler": 12
+    },
+    {
+      "omraade": "Fredericia",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.6,
+      "klassekvotient_folkeskoler": 20.6,
+      "klassekvotient_frie_grundskoler": 20.7
+    },
+    {
+      "omraade": "Horsens",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 22.3,
+      "klassekvotient_folkeskoler": 22.7,
+      "klassekvotient_frie_grundskoler": 20
+    },
+    {
+      "omraade": "Kolding",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.3,
+      "klassekvotient_folkeskoler": 20.6,
+      "klassekvotient_frie_grundskoler": 18.9
+    },
+    {
+      "omraade": "Vejle",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.5,
+      "klassekvotient_folkeskoler": 20.7,
+      "klassekvotient_frie_grundskoler": 19.7
+    },
+    {
+      "omraade": "Herning",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19,
+      "klassekvotient_folkeskoler": 18.9,
+      "klassekvotient_frie_grundskoler": 19.7
+    },
+    {
+      "omraade": "Holstebro",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.7,
+      "klassekvotient_folkeskoler": 19.8,
+      "klassekvotient_frie_grundskoler": 19.1
+    },
+    {
+      "omraade": "Lemvig",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 15.8,
+      "klassekvotient_folkeskoler": 17.7,
+      "klassekvotient_frie_grundskoler": 6.2
+    },
+    {
+      "omraade": "Struer",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 17.1,
+      "klassekvotient_folkeskoler": 18.3,
+      "klassekvotient_frie_grundskoler": 8.5
+    },
+    {
+      "omraade": "Syddjurs",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.8,
+      "klassekvotient_folkeskoler": 20.3,
+      "klassekvotient_frie_grundskoler": 18.2
+    },
+    {
+      "omraade": "Norddjurs",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 18.8,
+      "klassekvotient_folkeskoler": 19.8,
+      "klassekvotient_frie_grundskoler": 15.1
+    },
+    {
+      "omraade": "Favrskov",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.1,
+      "klassekvotient_folkeskoler": 20.9,
+      "klassekvotient_frie_grundskoler": 10.9
+    },
+    {
+      "omraade": "Odder",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.6,
+      "klassekvotient_folkeskoler": 21.1,
+      "klassekvotient_frie_grundskoler": 16.7
+    },
+    {
+      "omraade": "Randers",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.9,
+      "klassekvotient_folkeskoler": 20.3,
+      "klassekvotient_frie_grundskoler": 22.9
+    },
+    {
+      "omraade": "Silkeborg",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21,
+      "klassekvotient_folkeskoler": 21,
+      "klassekvotient_frie_grundskoler": 21.4
+    },
+    {
+      "omraade": "Samsø",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 12.6,
+      "klassekvotient_folkeskoler": 17.1,
+      "klassekvotient_frie_grundskoler": 8.1
+    },
+    {
+      "omraade": "Skanderborg",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.3,
+      "klassekvotient_folkeskoler": 20.4,
+      "klassekvotient_frie_grundskoler": 19.6
+    },
+    {
+      "omraade": "Aarhus",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 21.4,
+      "klassekvotient_folkeskoler": 21.8,
+      "klassekvotient_frie_grundskoler": 19.9
+    },
+    {
+      "omraade": "Ikast-Brande",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.3,
+      "klassekvotient_folkeskoler": 20.5,
+      "klassekvotient_frie_grundskoler": 13.2
+    },
+    {
+      "omraade": "Ringkøbing-Skjern",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 17.4,
+      "klassekvotient_folkeskoler": 17.9,
+      "klassekvotient_frie_grundskoler": 15.8
+    },
+    {
+      "omraade": "Hedensted",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 17.9,
+      "klassekvotient_folkeskoler": 18.4,
+      "klassekvotient_frie_grundskoler": 14.5
+    },
+    {
+      "omraade": "Morsø",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 18.4,
+      "klassekvotient_folkeskoler": 20.9,
+      "klassekvotient_frie_grundskoler": 14.1
+    },
+    {
+      "omraade": "Skive",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 16.9,
+      "klassekvotient_folkeskoler": 17.5,
+      "klassekvotient_frie_grundskoler": 10.9
+    },
+    {
+      "omraade": "Thisted",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 15.9,
+      "klassekvotient_folkeskoler": 18.6,
+      "klassekvotient_frie_grundskoler": 8.9
+    },
+    {
+      "omraade": "Viborg",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.3,
+      "klassekvotient_folkeskoler": 20.5,
+      "klassekvotient_frie_grundskoler": 19.4
+    },
+    {
+      "omraade": "Brønderslev",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19,
+      "klassekvotient_folkeskoler": 19.6,
+      "klassekvotient_frie_grundskoler": 15.5
+    },
+    {
+      "omraade": "Frederikshavn",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 18.7,
+      "klassekvotient_folkeskoler": 19.6,
+      "klassekvotient_frie_grundskoler": 16.4
+    },
+    {
+      "omraade": "Vesthimmerlands",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 17.5,
+      "klassekvotient_folkeskoler": 20.4,
+      "klassekvotient_frie_grundskoler": 9
+    },
+    {
+      "omraade": "Læsø",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 13,
+      "klassekvotient_folkeskoler": 13,
+      "klassekvotient_frie_grundskoler": ""
+    },
+    {
+      "omraade": "Rebild",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.4,
+      "klassekvotient_folkeskoler": 21,
+      "klassekvotient_frie_grundskoler": 8.7
+    },
+    {
+      "omraade": "Mariagerfjord",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 19.2,
+      "klassekvotient_folkeskoler": 20.4,
+      "klassekvotient_frie_grundskoler": 15.2
+    },
+    {
+      "omraade": "Jammerbugt",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 16.7,
+      "klassekvotient_folkeskoler": 18.1,
+      "klassekvotient_frie_grundskoler": 10
+    },
+    {
+      "omraade": "Aalborg",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 20.3,
+      "klassekvotient_folkeskoler": 20.4,
+      "klassekvotient_frie_grundskoler": 20.2
+    },
+    {
+      "omraade": "Hjørring",
+      "niveau": "kommune",
+      "klassekvotient_i_alt": 18.5,
+      "klassekvotient_folkeskoler": 19.9,
+      "klassekvotient_frie_grundskoler": 14.9
+    }
+  ],
+  "meta": {
+    "title": "Klassekvotienter i grundskolen efter kommune og region (2025) - Free Download",
+    "description": "Gennemsnitligt antal elever pr. klasse (klassekvotient) i grundskolen i 2025 for hele landet, regioner og kommuner, i alt og opdelt på folkeskoler og frie grundskoler (tom hvor kommunen ikke har frie grundskoler) (Danmarks Statistik, KVOTIEN). Contains 104 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Klassekvotienter i grundskolen efter kommune og region (2025) | ListBase",
+    "seo_description": "Download Klassekvotienter i grundskolen efter kommune og region (2025) — 104 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 104 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statbank.dk/KVOTIEN"
+    ]
+  }
+}

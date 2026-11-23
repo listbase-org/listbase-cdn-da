@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-23T02:28:40.316Z",
-  "total_datasets": 520,
-  "total_records": 246494,
+  "generated": "2026-11-23T02:28:48.417Z",
+  "total_datasets": 521,
+  "total_records": 246598,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "entertainment",
@@ -1855,6 +1855,32 @@
         "xlsx": {
           "name": "da-gymnasier_DA.xlsx",
           "size": 39363
+        }
+      }
+    },
+    {
+      "id": "da-klassekvotienter-grundskolen-kommuner-2025",
+      "name": "Klassekvotienter i grundskolen efter kommune og region (2025)",
+      "category": "education",
+      "record_count": 104,
+      "columns": [
+        "omraade",
+        "niveau",
+        "klassekvotient_i_alt",
+        "klassekvotient_folkeskoler",
+        "klassekvotient_frie_grundskoler"
+      ],
+      "source": "https://www.statbank.dk/KVOTIEN",
+      "updated": "2026-11",
+      "size": 22178,
+      "files": {
+        "csv": {
+          "name": "da-klassekvotienter-grundskolen-kommuner-2025_DA.csv",
+          "size": 4474
+        },
+        "xlsx": {
+          "name": "da-klassekvotienter-grundskolen-kommuner-2025_DA.xlsx",
+          "size": 10059
         }
       }
     },
