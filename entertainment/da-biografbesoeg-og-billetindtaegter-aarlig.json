@@ -1,0 +1,526 @@
+{
+  "id": "da-biografbesoeg-og-billetindtaegter-aarlig",
+  "name": "Biografbesøg og billetindtægter i Danmark (1980–2025)",
+  "title": "Biografbesøg og billetindtægter i Danmark (1980–2025)",
+  "description": "Årlig aktivitet i danske biografer: antal foreviste film og premierefilm, solgte billetter i alt og fordelt på danske, amerikanske og øvrige europæiske film samt billetindtægt ekskl. moms (Danmarks Statistik, BIO2).",
+  "category": "entertainment",
+  "source": "https://www.statbank.dk/BIO2",
+  "source_url": "https://www.statbank.dk/BIO2",
+  "updated": "2026-11",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "foreviste_film",
+      "label": "Foreviste Film",
+      "type": "number"
+    },
+    {
+      "key": "premierefilm",
+      "label": "Premierefilm",
+      "type": "number"
+    },
+    {
+      "key": "solgte_billetter_1000",
+      "label": "Solgte Billetter 1000",
+      "type": "number"
+    },
+    {
+      "key": "billetter_danske_film_1000",
+      "label": "Billetter Danske Film 1000",
+      "type": "number"
+    },
+    {
+      "key": "billetter_amerikanske_film_1000",
+      "label": "Billetter Amerikanske Film 1000",
+      "type": "number"
+    },
+    {
+      "key": "billetter_oevrige_europaeiske_film_1000",
+      "label": "Billetter Oevrige Europaeiske Film 1000",
+      "type": "number"
+    },
+    {
+      "key": "billetindtaegt_1000_kr",
+      "label": "Billetindtaegt 1000 Kr",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1980,
+      "foreviste_film": 2154,
+      "premierefilm": 263,
+      "solgte_billetter_1000": 15943,
+      "billetter_danske_film_1000": 3720,
+      "billetter_amerikanske_film_1000": 7103,
+      "billetter_oevrige_europaeiske_film_1000": 4135,
+      "billetindtaegt_1000_kr": 261465
+    },
+    {
+      "aar": 1981,
+      "foreviste_film": 2174,
+      "premierefilm": 263,
+      "solgte_billetter_1000": 16208,
+      "billetter_danske_film_1000": 4101,
+      "billetter_amerikanske_film_1000": 7903,
+      "billetter_oevrige_europaeiske_film_1000": 3549,
+      "billetindtaegt_1000_kr": 284619
+    },
+    {
+      "aar": 1982,
+      "foreviste_film": 2125,
+      "premierefilm": 267,
+      "solgte_billetter_1000": 14272,
+      "billetter_danske_film_1000": 2995,
+      "billetter_amerikanske_film_1000": 7191,
+      "billetter_oevrige_europaeiske_film_1000": 3480,
+      "billetindtaegt_1000_kr": 272243
+    },
+    {
+      "aar": 1983,
+      "foreviste_film": 2009,
+      "premierefilm": 244,
+      "solgte_billetter_1000": 13825,
+      "billetter_danske_film_1000": 2830,
+      "billetter_amerikanske_film_1000": 7332,
+      "billetter_oevrige_europaeiske_film_1000": 3234,
+      "billetindtaegt_1000_kr": 286808
+    },
+    {
+      "aar": 1984,
+      "foreviste_film": 1625,
+      "premierefilm": 209,
+      "solgte_billetter_1000": 11787,
+      "billetter_danske_film_1000": 2754,
+      "billetter_amerikanske_film_1000": 6590,
+      "billetter_oevrige_europaeiske_film_1000": 2229,
+      "billetindtaegt_1000_kr": 251259
+    },
+    {
+      "aar": 1985,
+      "foreviste_film": 1566,
+      "premierefilm": 227,
+      "solgte_billetter_1000": 11278,
+      "billetter_danske_film_1000": 2193,
+      "billetter_amerikanske_film_1000": 6590,
+      "billetter_oevrige_europaeiske_film_1000": 2265,
+      "billetindtaegt_1000_kr": 252583
+    },
+    {
+      "aar": 1986,
+      "foreviste_film": 1377,
+      "premierefilm": 220,
+      "solgte_billetter_1000": 11355,
+      "billetter_danske_film_1000": 2867,
+      "billetter_amerikanske_film_1000": 6884,
+      "billetter_oevrige_europaeiske_film_1000": 1479,
+      "billetindtaegt_1000_kr": 279924
+    },
+    {
+      "aar": 1987,
+      "foreviste_film": 1182,
+      "premierefilm": 219,
+      "solgte_billetter_1000": 11448,
+      "billetter_danske_film_1000": 2441,
+      "billetter_amerikanske_film_1000": 6334,
+      "billetter_oevrige_europaeiske_film_1000": 1796,
+      "billetindtaegt_1000_kr": 293004
+    },
+    {
+      "aar": 1988,
+      "foreviste_film": 1216,
+      "premierefilm": 241,
+      "solgte_billetter_1000": 9962,
+      "billetter_danske_film_1000": 1906,
+      "billetter_amerikanske_film_1000": 5994,
+      "billetter_oevrige_europaeiske_film_1000": 1340,
+      "billetindtaegt_1000_kr": 270880
+    },
+    {
+      "aar": 1989,
+      "foreviste_film": 1027,
+      "premierefilm": 201,
+      "solgte_billetter_1000": 10255,
+      "billetter_danske_film_1000": 1704,
+      "billetter_amerikanske_film_1000": 6393,
+      "billetter_oevrige_europaeiske_film_1000": 1987,
+      "billetindtaegt_1000_kr": 288967
+    },
+    {
+      "aar": 1990,
+      "foreviste_film": 841,
+      "premierefilm": 173,
+      "solgte_billetter_1000": 9624,
+      "billetter_danske_film_1000": 1639,
+      "billetter_amerikanske_film_1000": 7110,
+      "billetter_oevrige_europaeiske_film_1000": 803,
+      "billetindtaegt_1000_kr": 266575
+    },
+    {
+      "aar": 1991,
+      "foreviste_film": 771,
+      "premierefilm": 147,
+      "solgte_billetter_1000": 9218,
+      "billetter_danske_film_1000": 1193,
+      "billetter_amerikanske_film_1000": 7430,
+      "billetter_oevrige_europaeiske_film_1000": 547,
+      "billetindtaegt_1000_kr": 270662
+    },
+    {
+      "aar": 1992,
+      "foreviste_film": 696,
+      "premierefilm": 134,
+      "solgte_billetter_1000": 8648,
+      "billetter_danske_film_1000": 1577,
+      "billetter_amerikanske_film_1000": 6521,
+      "billetter_oevrige_europaeiske_film_1000": 508,
+      "billetindtaegt_1000_kr": 253271
+    },
+    {
+      "aar": 1993,
+      "foreviste_film": 611,
+      "premierefilm": 152,
+      "solgte_billetter_1000": 10222,
+      "billetter_danske_film_1000": 1761,
+      "billetter_amerikanske_film_1000": 7370,
+      "billetter_oevrige_europaeiske_film_1000": 752,
+      "billetindtaegt_1000_kr": 311962
+    },
+    {
+      "aar": 1994,
+      "foreviste_film": 540,
+      "premierefilm": 151,
+      "solgte_billetter_1000": 10298,
+      "billetter_danske_film_1000": 2318,
+      "billetter_amerikanske_film_1000": 6675,
+      "billetter_oevrige_europaeiske_film_1000": 1033,
+      "billetindtaegt_1000_kr": 324789
+    },
+    {
+      "aar": 1995,
+      "foreviste_film": 524,
+      "premierefilm": 150,
+      "solgte_billetter_1000": 8817,
+      "billetter_danske_film_1000": 776,
+      "billetter_amerikanske_film_1000": 7057,
+      "billetter_oevrige_europaeiske_film_1000": 699,
+      "billetindtaegt_1000_kr": 289203
+    },
+    {
+      "aar": 1996,
+      "foreviste_film": 558,
+      "premierefilm": 183,
+      "solgte_billetter_1000": 9894,
+      "billetter_danske_film_1000": 1660,
+      "billetter_amerikanske_film_1000": 6607,
+      "billetter_oevrige_europaeiske_film_1000": 1568,
+      "billetindtaegt_1000_kr": 352227
+    },
+    {
+      "aar": 1997,
+      "foreviste_film": 583,
+      "premierefilm": 170,
+      "solgte_billetter_1000": 10843,
+      "billetter_danske_film_1000": 2239,
+      "billetter_amerikanske_film_1000": 6961,
+      "billetter_oevrige_europaeiske_film_1000": 1453,
+      "billetindtaegt_1000_kr": 389622
+    },
+    {
+      "aar": 1998,
+      "foreviste_film": 561,
+      "premierefilm": 176,
+      "solgte_billetter_1000": 11011,
+      "billetter_danske_film_1000": 1589,
+      "billetter_amerikanske_film_1000": 8159,
+      "billetter_oevrige_europaeiske_film_1000": 1203,
+      "billetindtaegt_1000_kr": 429657
+    },
+    {
+      "aar": 1999,
+      "foreviste_film": 620,
+      "premierefilm": 176,
+      "solgte_billetter_1000": 11020,
+      "billetter_danske_film_1000": 3111,
+      "billetter_amerikanske_film_1000": 6228,
+      "billetter_oevrige_europaeiske_film_1000": 1644,
+      "billetindtaegt_1000_kr": 432293
+    },
+    {
+      "aar": 2000,
+      "foreviste_film": 621,
+      "premierefilm": 192,
+      "solgte_billetter_1000": 10691,
+      "billetter_danske_film_1000": 2050,
+      "billetter_amerikanske_film_1000": 7573,
+      "billetter_oevrige_europaeiske_film_1000": 918,
+      "billetindtaegt_1000_kr": 443692
+    },
+    {
+      "aar": 2001,
+      "foreviste_film": 661,
+      "premierefilm": 172,
+      "solgte_billetter_1000": 11973,
+      "billetter_danske_film_1000": 3652,
+      "billetter_amerikanske_film_1000": 6003,
+      "billetter_oevrige_europaeiske_film_1000": 1814,
+      "billetindtaegt_1000_kr": 519468
+    },
+    {
+      "aar": 2002,
+      "foreviste_film": 616,
+      "premierefilm": 207,
+      "solgte_billetter_1000": 12911,
+      "billetter_danske_film_1000": 3242,
+      "billetter_amerikanske_film_1000": 7328,
+      "billetter_oevrige_europaeiske_film_1000": 2213,
+      "billetindtaegt_1000_kr": 591802
+    },
+    {
+      "aar": 2003,
+      "foreviste_film": 629,
+      "premierefilm": 209,
+      "solgte_billetter_1000": 12296,
+      "billetter_danske_film_1000": 3167,
+      "billetter_amerikanske_film_1000": 7430,
+      "billetter_oevrige_europaeiske_film_1000": 1406,
+      "billetindtaegt_1000_kr": 582108
+    },
+    {
+      "aar": 2004,
+      "foreviste_film": 650,
+      "premierefilm": 237,
+      "solgte_billetter_1000": 12787,
+      "billetter_danske_film_1000": 3025,
+      "billetter_amerikanske_film_1000": 8162,
+      "billetter_oevrige_europaeiske_film_1000": 1499,
+      "billetindtaegt_1000_kr": 626277
+    },
+    {
+      "aar": 2005,
+      "foreviste_film": 653,
+      "premierefilm": 233,
+      "solgte_billetter_1000": 12187,
+      "billetter_danske_film_1000": 3953,
+      "billetter_amerikanske_film_1000": 6230,
+      "billetter_oevrige_europaeiske_film_1000": 1894,
+      "billetindtaegt_1000_kr": 629566
+    },
+    {
+      "aar": 2006,
+      "foreviste_film": 674,
+      "premierefilm": 233,
+      "solgte_billetter_1000": 12604,
+      "billetter_danske_film_1000": 3127,
+      "billetter_amerikanske_film_1000": 7270,
+      "billetter_oevrige_europaeiske_film_1000": 2019,
+      "billetindtaegt_1000_kr": 674487
+    },
+    {
+      "aar": 2007,
+      "foreviste_film": 676,
+      "premierefilm": 235,
+      "solgte_billetter_1000": 12106,
+      "billetter_danske_film_1000": 3101,
+      "billetter_amerikanske_film_1000": 6397,
+      "billetter_oevrige_europaeiske_film_1000": 2374,
+      "billetindtaegt_1000_kr": 658011
+    },
+    {
+      "aar": 2008,
+      "foreviste_film": 625,
+      "premierefilm": 213,
+      "solgte_billetter_1000": 13246,
+      "billetter_danske_film_1000": 4275,
+      "billetter_amerikanske_film_1000": 6880,
+      "billetter_oevrige_europaeiske_film_1000": 1912,
+      "billetindtaegt_1000_kr": 733653
+    },
+    {
+      "aar": 2009,
+      "foreviste_film": 665,
+      "premierefilm": 216,
+      "solgte_billetter_1000": 14081,
+      "billetter_danske_film_1000": 2434,
+      "billetter_amerikanske_film_1000": 7110,
+      "billetter_oevrige_europaeiske_film_1000": 3899,
+      "billetindtaegt_1000_kr": 837288
+    },
+    {
+      "aar": 2010,
+      "foreviste_film": 641,
+      "premierefilm": 222,
+      "solgte_billetter_1000": 12952,
+      "billetter_danske_film_1000": 2882,
+      "billetter_amerikanske_film_1000": 7744,
+      "billetter_oevrige_europaeiske_film_1000": 1959,
+      "billetindtaegt_1000_kr": 795677
+    },
+    {
+      "aar": 2011,
+      "foreviste_film": 656,
+      "premierefilm": 256,
+      "solgte_billetter_1000": 12433,
+      "billetter_danske_film_1000": 3363,
+      "billetter_amerikanske_film_1000": 6985,
+      "billetter_oevrige_europaeiske_film_1000": 1899,
+      "billetindtaegt_1000_kr": 749802
+    },
+    {
+      "aar": 2012,
+      "foreviste_film": 541,
+      "premierefilm": 231,
+      "solgte_billetter_1000": 13591,
+      "billetter_danske_film_1000": 3898,
+      "billetter_amerikanske_film_1000": 6943,
+      "billetter_oevrige_europaeiske_film_1000": 2585,
+      "billetindtaegt_1000_kr": 842725
+    },
+    {
+      "aar": 2013,
+      "foreviste_film": 500,
+      "premierefilm": 228,
+      "solgte_billetter_1000": 12866,
+      "billetter_danske_film_1000": 3884,
+      "billetter_amerikanske_film_1000": 7091,
+      "billetter_oevrige_europaeiske_film_1000": 1634,
+      "billetindtaegt_1000_kr": 820070
+    },
+    {
+      "aar": 2014,
+      "foreviste_film": 457,
+      "premierefilm": 237,
+      "solgte_billetter_1000": 11916,
+      "billetter_danske_film_1000": 3261,
+      "billetter_amerikanske_film_1000": 6937,
+      "billetter_oevrige_europaeiske_film_1000": 1343,
+      "billetindtaegt_1000_kr": 795059
+    },
+    {
+      "aar": 2015,
+      "foreviste_film": 487,
+      "premierefilm": 257,
+      "solgte_billetter_1000": 13789,
+      "billetter_danske_film_1000": 4112,
+      "billetter_amerikanske_film_1000": 6957,
+      "billetter_oevrige_europaeiske_film_1000": 2510,
+      "billetindtaegt_1000_kr": 940385
+    },
+    {
+      "aar": 2016,
+      "foreviste_film": 512,
+      "premierefilm": 253,
+      "solgte_billetter_1000": 12994,
+      "billetter_danske_film_1000": 2731,
+      "billetter_amerikanske_film_1000": 7759,
+      "billetter_oevrige_europaeiske_film_1000": 1754,
+      "billetindtaegt_1000_kr": 895526
+    },
+    {
+      "aar": 2017,
+      "foreviste_film": 526,
+      "premierefilm": 246,
+      "solgte_billetter_1000": 11927,
+      "billetter_danske_film_1000": 2531,
+      "billetter_amerikanske_film_1000": 7249,
+      "billetter_oevrige_europaeiske_film_1000": 1743,
+      "billetindtaegt_1000_kr": 854278
+    },
+    {
+      "aar": 2018,
+      "foreviste_film": 507,
+      "premierefilm": 231,
+      "solgte_billetter_1000": 12486,
+      "billetter_danske_film_1000": 3700,
+      "billetter_amerikanske_film_1000": 6507,
+      "billetter_oevrige_europaeiske_film_1000": 1994,
+      "billetindtaegt_1000_kr": 900801
+    },
+    {
+      "aar": 2019,
+      "foreviste_film": 506,
+      "premierefilm": 218,
+      "solgte_billetter_1000": 12808,
+      "billetter_danske_film_1000": 3417,
+      "billetter_amerikanske_film_1000": 7465,
+      "billetter_oevrige_europaeiske_film_1000": 1559,
+      "billetindtaegt_1000_kr": 942601
+    },
+    {
+      "aar": 2020,
+      "foreviste_film": 435,
+      "premierefilm": 131,
+      "solgte_billetter_1000": 6990,
+      "billetter_danske_film_1000": 3507,
+      "billetter_amerikanske_film_1000": 2580,
+      "billetter_oevrige_europaeiske_film_1000": 636,
+      "billetindtaegt_1000_kr": 501562
+    },
+    {
+      "aar": 2021,
+      "foreviste_film": 406,
+      "premierefilm": 169,
+      "solgte_billetter_1000": 6625,
+      "billetter_danske_film_1000": 2759,
+      "billetter_amerikanske_film_1000": 2457,
+      "billetter_oevrige_europaeiske_film_1000": 1336,
+      "billetindtaegt_1000_kr": 518954
+    },
+    {
+      "aar": 2022,
+      "foreviste_film": 494,
+      "premierefilm": 203,
+      "solgte_billetter_1000": 9890,
+      "billetter_danske_film_1000": 2971,
+      "billetter_amerikanske_film_1000": 5822,
+      "billetter_oevrige_europaeiske_film_1000": 1042,
+      "billetindtaegt_1000_kr": 790809
+    },
+    {
+      "aar": 2023,
+      "foreviste_film": 555,
+      "premierefilm": 223,
+      "solgte_billetter_1000": 9703,
+      "billetter_danske_film_1000": 2415,
+      "billetter_amerikanske_film_1000": 6056,
+      "billetter_oevrige_europaeiske_film_1000": 1155,
+      "billetindtaegt_1000_kr": 798679
+    },
+    {
+      "aar": 2024,
+      "foreviste_film": 490,
+      "premierefilm": 191,
+      "solgte_billetter_1000": 9400,
+      "billetter_danske_film_1000": 2225,
+      "billetter_amerikanske_film_1000": 5694,
+      "billetter_oevrige_europaeiske_film_1000": 1251,
+      "billetindtaegt_1000_kr": 761835
+    },
+    {
+      "aar": 2025,
+      "foreviste_film": 587,
+      "premierefilm": 220,
+      "solgte_billetter_1000": 9854,
+      "billetter_danske_film_1000": 3674,
+      "billetter_amerikanske_film_1000": 4596,
+      "billetter_oevrige_europaeiske_film_1000": 1371,
+      "billetindtaegt_1000_kr": 835017
+    }
+  ],
+  "meta": {
+    "title": "Biografbesøg og billetindtægter i Danmark (1980–2025) - Free Download",
+    "description": "Årlig aktivitet i danske biografer: antal foreviste film og premierefilm, solgte billetter i alt og fordelt på danske, amerikanske og øvrige europæiske film samt billetindtægt ekskl. moms (Danmarks Statistik, BIO2). Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Biografbesøg og billetindtægter i Danmark (1980–2025) | ListBase",
+    "seo_description": "Download Biografbesøg og billetindtægter i Danmark (1980–2025) — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statbank.dk/BIO2"
+    ]
+  }
+}
