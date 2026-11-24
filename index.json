@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-24T02:20:22.874Z",
-  "total_datasets": 523,
-  "total_records": 246683,
+  "generated": "2026-11-24T02:20:36.409Z",
+  "total_datasets": 524,
+  "total_records": 246712,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 20
+      "dataset_count": 21
     },
     {
       "id": "economy",
@@ -1218,6 +1218,34 @@
         "xlsx": {
           "name": "da-slotte_DA.xlsx",
           "size": 78778
+        }
+      }
+    },
+    {
+      "id": "da-solgte-boeger-efter-genre-2025",
+      "name": "Solgte bøger efter genre og format (2024–2025)",
+      "category": "culture",
+      "record_count": 29,
+      "columns": [
+        "genre",
+        "niveau",
+        "solgte_boeger_2025",
+        "fysiske_boeger_2025",
+        "e_boeger_2025",
+        "lydboeger_2025",
+        "solgte_boeger_2024"
+      ],
+      "source": "https://www.statbank.dk/BOGS01",
+      "updated": "2026-11",
+      "size": 9582,
+      "files": {
+        "csv": {
+          "name": "da-solgte-boeger-efter-genre-2025_DA.csv",
+          "size": 2488
+        },
+        "xlsx": {
+          "name": "da-solgte-boeger-efter-genre-2025_DA.xlsx",
+          "size": 8530
         }
       }
     },

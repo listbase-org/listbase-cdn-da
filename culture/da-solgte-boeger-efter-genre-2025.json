@@ -1,0 +1,322 @@
+{
+  "id": "da-solgte-boeger-efter-genre-2025",
+  "name": "Solgte bøger efter genre og format (2024–2025)",
+  "title": "Solgte bøger efter genre og format (2024–2025)",
+  "description": "Antal solgte bøger i Danmark i 2025 fordelt på genre (børne- og ungdomsbøger, faglitteratur, skønlitteratur og undergenrer) og format (fysiske bøger, e-bøger og lydbøger) med sammenligning til 2024; årstal er summen af kvartalerne (Danmarks Statistik, BOGS01).",
+  "category": "culture",
+  "source": "https://www.statbank.dk/BOGS01",
+  "source_url": "https://www.statbank.dk/BOGS01",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "genre",
+      "label": "Genre",
+      "type": "string"
+    },
+    {
+      "key": "niveau",
+      "label": "Niveau",
+      "type": "string"
+    },
+    {
+      "key": "solgte_boeger_2025",
+      "label": "Solgte Boeger 2025",
+      "type": "number"
+    },
+    {
+      "key": "fysiske_boeger_2025",
+      "label": "Fysiske Boeger 2025",
+      "type": "number"
+    },
+    {
+      "key": "e_boeger_2025",
+      "label": "E Boeger 2025",
+      "type": "number"
+    },
+    {
+      "key": "lydboeger_2025",
+      "label": "Lydboeger 2025",
+      "type": "number"
+    },
+    {
+      "key": "solgte_boeger_2024",
+      "label": "Solgte Boeger 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "genre": "Genre i alt",
+      "niveau": "hovedgruppe",
+      "solgte_boeger_2025": 9011467,
+      "fysiske_boeger_2025": 8875604,
+      "e_boeger_2025": 106799,
+      "lydboeger_2025": 29064,
+      "solgte_boeger_2024": 8685216
+    },
+    {
+      "genre": "Børne- og ungelitteratur i alt",
+      "niveau": "hovedgruppe",
+      "solgte_boeger_2025": 2788498,
+      "fysiske_boeger_2025": 2780645,
+      "e_boeger_2025": 4432,
+      "lydboeger_2025": 3421,
+      "solgte_boeger_2024": 2492778
+    },
+    {
+      "genre": "Bøger for de helt små, billedbøger, aktivitetsbøger mv.",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 1497594,
+      "fysiske_boeger_2025": 1496706,
+      "e_boeger_2025": 413,
+      "lydboeger_2025": 475,
+      "solgte_boeger_2024": 1207521
+    },
+    {
+      "genre": "Fagbøger til børn og unge",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 243882,
+      "fysiske_boeger_2025": 243325,
+      "e_boeger_2025": 299,
+      "lydboeger_2025": 258,
+      "solgte_boeger_2024": 228129
+    },
+    {
+      "genre": "Skønlitteratur for børn og unge",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 597745,
+      "fysiske_boeger_2025": 592734,
+      "e_boeger_2025": 2625,
+      "lydboeger_2025": 2386,
+      "solgte_boeger_2024": 620552
+    },
+    {
+      "genre": "Undervisningsmateriale til børn og unge",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 229676,
+      "fysiske_boeger_2025": 229155,
+      "e_boeger_2025": 411,
+      "lydboeger_2025": 110,
+      "solgte_boeger_2024": 232904
+    },
+    {
+      "genre": "Børn og unge, øvrige",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 219601,
+      "fysiske_boeger_2025": 218725,
+      "e_boeger_2025": 684,
+      "lydboeger_2025": 192,
+      "solgte_boeger_2024": 203672
+    },
+    {
+      "genre": "Faglitteratur i alt",
+      "niveau": "hovedgruppe",
+      "solgte_boeger_2025": 2637781,
+      "fysiske_boeger_2025": 2598519,
+      "e_boeger_2025": 26534,
+      "lydboeger_2025": 12728,
+      "solgte_boeger_2024": 2728613
+    },
+    {
+      "genre": "Biografier, sande fortællinger og ikke-fiktiv prosa",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 446637,
+      "fysiske_boeger_2025": 437030,
+      "e_boeger_2025": 6246,
+      "lydboeger_2025": 3361,
+      "solgte_boeger_2024": 537394
+    },
+    {
+      "genre": "Historie",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 130055,
+      "fysiske_boeger_2025": 128588,
+      "e_boeger_2025": 1157,
+      "lydboeger_2025": 310,
+      "solgte_boeger_2024": 112671
+    },
+    {
+      "genre": "Kunst og kultur",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 141533,
+      "fysiske_boeger_2025": 140541,
+      "e_boeger_2025": 775,
+      "lydboeger_2025": 217,
+      "solgte_boeger_2024": 135676
+    },
+    {
+      "genre": "Mad og drikke",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 419086,
+      "fysiske_boeger_2025": 417913,
+      "e_boeger_2025": 1141,
+      "lydboeger_2025": 32,
+      "solgte_boeger_2024": 440583
+    },
+    {
+      "genre": "Natur, miljø og geofag",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 94300,
+      "fysiske_boeger_2025": 93956,
+      "e_boeger_2025": 230,
+      "lydboeger_2025": 114,
+      "solgte_boeger_2024": 109066
+    },
+    {
+      "genre": "Personlig udvikling, relationer og sundhed",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 301640,
+      "fysiske_boeger_2025": 295329,
+      "e_boeger_2025": 3738,
+      "lydboeger_2025": 2573,
+      "solgte_boeger_2024": 327343
+    },
+    {
+      "genre": "Rejsebøger",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 121180,
+      "fysiske_boeger_2025": 120515,
+      "e_boeger_2025": 651,
+      "lydboeger_2025": 14,
+      "solgte_boeger_2024": 118795
+    },
+    {
+      "genre": "Religion, spiritualitet og filosofi",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 103123,
+      "fysiske_boeger_2025": 101244,
+      "e_boeger_2025": 1377,
+      "lydboeger_2025": 502,
+      "solgte_boeger_2024": 108342
+    },
+    {
+      "genre": "Samfund, samfundsvidenskab og debat",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 322174,
+      "fysiske_boeger_2025": 312522,
+      "e_boeger_2025": 5341,
+      "lydboeger_2025": 4311,
+      "solgte_boeger_2024": 292084
+    },
+    {
+      "genre": "Økonomi og business",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 111906,
+      "fysiske_boeger_2025": 108350,
+      "e_boeger_2025": 2473,
+      "lydboeger_2025": 1083,
+      "solgte_boeger_2024": 100510
+    },
+    {
+      "genre": "Hobby og livstil, øvrige",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 300779,
+      "fysiske_boeger_2025": 300366,
+      "e_boeger_2025": 401,
+      "lydboeger_2025": 12,
+      "solgte_boeger_2024": 289146
+    },
+    {
+      "genre": "Faglitteratur, øvrige",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 145368,
+      "fysiske_boeger_2025": 142165,
+      "e_boeger_2025": 3004,
+      "lydboeger_2025": 199,
+      "solgte_boeger_2024": 157003
+    },
+    {
+      "genre": "Skønlitteratur i alt",
+      "niveau": "hovedgruppe",
+      "solgte_boeger_2025": 2493795,
+      "fysiske_boeger_2025": 2425976,
+      "e_boeger_2025": 58127,
+      "lydboeger_2025": 9692,
+      "solgte_boeger_2024": 2515455
+    },
+    {
+      "genre": "Digte",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 34417,
+      "fysiske_boeger_2025": 33724,
+      "e_boeger_2025": 590,
+      "lydboeger_2025": 103,
+      "solgte_boeger_2024": 30057
+    },
+    {
+      "genre": "Grafiske noveller",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 134324,
+      "fysiske_boeger_2025": 134296,
+      "e_boeger_2025": 28,
+      "lydboeger_2025": "",
+      "solgte_boeger_2024": 130430
+    },
+    {
+      "genre": "Historiske romaner",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 239513,
+      "fysiske_boeger_2025": 233903,
+      "e_boeger_2025": 4744,
+      "lydboeger_2025": 866,
+      "solgte_boeger_2024": 214834
+    },
+    {
+      "genre": "Krimier, thrillere og spændingsromaner",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 916975,
+      "fysiske_boeger_2025": 880325,
+      "e_boeger_2025": 31473,
+      "lydboeger_2025": 5177,
+      "solgte_boeger_2024": 966026
+    },
+    {
+      "genre": "Romantik og erotik",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 423283,
+      "fysiske_boeger_2025": 414517,
+      "e_boeger_2025": 7823,
+      "lydboeger_2025": 943,
+      "solgte_boeger_2024": 462507
+    },
+    {
+      "genre": "Science fiction, fantasy o.l.",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 194604,
+      "fysiske_boeger_2025": 191946,
+      "e_boeger_2025": 2125,
+      "lydboeger_2025": 533,
+      "solgte_boeger_2024": 165308
+    },
+    {
+      "genre": "Skønlitteratur, øvrige",
+      "niveau": "undergenre",
+      "solgte_boeger_2025": 550679,
+      "fysiske_boeger_2025": 537265,
+      "e_boeger_2025": 11344,
+      "lydboeger_2025": 2070,
+      "solgte_boeger_2024": 546293
+    },
+    {
+      "genre": "Uoplyst genre",
+      "niveau": "hovedgruppe",
+      "solgte_boeger_2025": 1091393,
+      "fysiske_boeger_2025": 1070464,
+      "e_boeger_2025": 17706,
+      "lydboeger_2025": 3223,
+      "solgte_boeger_2024": 948370
+    }
+  ],
+  "meta": {
+    "title": "Solgte bøger efter genre og format (2024–2025) - Free Download",
+    "description": "Antal solgte bøger i Danmark i 2025 fordelt på genre (børne- og ungdomsbøger, faglitteratur, skønlitteratur og undergenrer) og format (fysiske bøger, e-bøger og lydbøger) med sammenligning til 2024; årstal er summen af kvartalerne (Danmarks Statistik, BOGS01). Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Solgte bøger efter genre og format (2024–2025) | ListBase",
+    "seo_description": "Download Solgte bøger efter genre og format (2024–2025) — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statbank.dk/BOGS01"
+    ]
+  }
+}
