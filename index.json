@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-24T02:20:12.952Z",
-  "total_datasets": 522,
-  "total_records": 246644,
+  "generated": "2026-11-24T02:20:22.874Z",
+  "total_datasets": 523,
+  "total_records": 246683,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "food",
@@ -2658,6 +2658,32 @@
         "xlsx": {
           "name": "da-nationalbankdirektoerer_DA.xlsx",
           "size": 8655
+        }
+      }
+    },
+    {
+      "id": "da-nationalbankens-rentesatser-aarlig",
+      "name": "Nationalbankens officielle rentesatser, årsgennemsnit (1987–2025)",
+      "category": "finance",
+      "record_count": 39,
+      "columns": [
+        "aar",
+        "diskonto_pct",
+        "udlaansrente_pct",
+        "indskudsbevisrente_pct",
+        "foliorente_pct"
+      ],
+      "source": "https://www.statbank.dk/DNRENTA",
+      "updated": "2026-11",
+      "size": 8380,
+      "files": {
+        "csv": {
+          "name": "da-nationalbankens-rentesatser-aarlig_DA.csv",
+          "size": 1540
+        },
+        "xlsx": {
+          "name": "da-nationalbankens-rentesatser-aarlig_DA.xlsx",
+          "size": 7840
         }
       }
     },

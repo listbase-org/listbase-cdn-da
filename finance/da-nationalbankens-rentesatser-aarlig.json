@@ -1,0 +1,324 @@
+{
+  "id": "da-nationalbankens-rentesatser-aarlig",
+  "name": "Nationalbankens officielle rentesatser, årsgennemsnit (1987–2025)",
+  "title": "Nationalbankens officielle rentesatser, årsgennemsnit (1987–2025)",
+  "description": "Årsgennemsnit af Danmarks Nationalbanks officielle renter: diskontoen, udlånsrenten, renten på indskudsbeviser og foliorenten i procent p.a. (Danmarks Statistik / Nationalbanken, DNRENTA). Udlåns- og indskudsbevisrenten findes fra 1992.",
+  "category": "finance",
+  "source": "https://www.statbank.dk/DNRENTA",
+  "source_url": "https://www.statbank.dk/DNRENTA",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "diskonto_pct",
+      "label": "Diskonto Pct",
+      "type": "number"
+    },
+    {
+      "key": "udlaansrente_pct",
+      "label": "Udlaansrente Pct",
+      "type": "number"
+    },
+    {
+      "key": "indskudsbevisrente_pct",
+      "label": "Indskudsbevisrente Pct",
+      "type": "number"
+    },
+    {
+      "key": "foliorente_pct",
+      "label": "Foliorente Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1987,
+      "diskonto_pct": 7,
+      "udlaansrente_pct": "",
+      "indskudsbevisrente_pct": "",
+      "foliorente_pct": 8.6799
+    },
+    {
+      "aar": 1988,
+      "diskonto_pct": 7,
+      "udlaansrente_pct": "",
+      "indskudsbevisrente_pct": "",
+      "foliorente_pct": 7.9872
+    },
+    {
+      "aar": 1989,
+      "diskonto_pct": 7,
+      "udlaansrente_pct": "",
+      "indskudsbevisrente_pct": "",
+      "foliorente_pct": 8.9442
+    },
+    {
+      "aar": 1990,
+      "diskonto_pct": 8.036,
+      "udlaansrente_pct": "",
+      "indskudsbevisrente_pct": "",
+      "foliorente_pct": 10.008
+    },
+    {
+      "aar": 1991,
+      "diskonto_pct": 9.29,
+      "udlaansrente_pct": "",
+      "indskudsbevisrente_pct": "",
+      "foliorente_pct": 9.29
+    },
+    {
+      "aar": 1992,
+      "diskonto_pct": 9.5,
+      "udlaansrente_pct": 10.9721,
+      "indskudsbevisrente_pct": 10.9721,
+      "foliorente_pct": 9.5
+    },
+    {
+      "aar": 1993,
+      "diskonto_pct": 8.6621,
+      "udlaansrente_pct": 9.7387,
+      "indskudsbevisrente_pct": 9.7387,
+      "foliorente_pct": 8.6621
+    },
+    {
+      "aar": 1994,
+      "diskonto_pct": 5.2065,
+      "udlaansrente_pct": 5.7302,
+      "indskudsbevisrente_pct": 5.7302,
+      "foliorente_pct": 5.2065
+    },
+    {
+      "aar": 1995,
+      "diskonto_pct": 5.3562,
+      "udlaansrente_pct": 5.8393,
+      "indskudsbevisrente_pct": 5.8393,
+      "foliorente_pct": 5.3562
+    },
+    {
+      "aar": 1996,
+      "diskonto_pct": 3.4631,
+      "udlaansrente_pct": 3.8,
+      "indskudsbevisrente_pct": 3.8,
+      "foliorente_pct": 3.4631
+    },
+    {
+      "aar": 1997,
+      "diskonto_pct": 3.306,
+      "udlaansrente_pct": 3.556,
+      "indskudsbevisrente_pct": 3.556,
+      "foliorente_pct": 3.306
+    },
+    {
+      "aar": 1998,
+      "diskonto_pct": 3.749,
+      "udlaansrente_pct": 4.0641,
+      "indskudsbevisrente_pct": 4.0641,
+      "foliorente_pct": 3.749
+    },
+    {
+      "aar": 1999,
+      "diskonto_pct": 2.9427,
+      "udlaansrente_pct": 3.1146,
+      "indskudsbevisrente_pct": 3.1146,
+      "foliorente_pct": 2.9427
+    },
+    {
+      "aar": 2000,
+      "diskonto_pct": 4.0189,
+      "udlaansrente_pct": 4.5022,
+      "indskudsbevisrente_pct": 4.5022,
+      "foliorente_pct": 4.0189
+    },
+    {
+      "aar": 2001,
+      "diskonto_pct": 4.294,
+      "udlaansrente_pct": 4.7698,
+      "indskudsbevisrente_pct": 4.7698,
+      "foliorente_pct": 4.294
+    },
+    {
+      "aar": 2002,
+      "diskonto_pct": 3.22,
+      "udlaansrente_pct": 3.4874,
+      "indskudsbevisrente_pct": 3.4874,
+      "foliorente_pct": 3.22
+    },
+    {
+      "aar": 2003,
+      "diskonto_pct": 2.257,
+      "udlaansrente_pct": 2.4265,
+      "indskudsbevisrente_pct": 2.4265,
+      "foliorente_pct": 2.257
+    },
+    {
+      "aar": 2004,
+      "diskonto_pct": 2,
+      "udlaansrente_pct": 2.15,
+      "indskudsbevisrente_pct": 2.15,
+      "foliorente_pct": 2
+    },
+    {
+      "aar": 2005,
+      "diskonto_pct": 2.0198,
+      "udlaansrente_pct": 2.1698,
+      "indskudsbevisrente_pct": 2.1698,
+      "foliorente_pct": 2.0198
+    },
+    {
+      "aar": 2006,
+      "diskonto_pct": 2.7748,
+      "udlaansrente_pct": 3.0113,
+      "indskudsbevisrente_pct": 3.0113,
+      "foliorente_pct": 2.7748
+    },
+    {
+      "aar": 2007,
+      "diskonto_pct": 3.8464,
+      "udlaansrente_pct": 4.0964,
+      "indskudsbevisrente_pct": 4.0964,
+      "foliorente_pct": 3.8464
+    },
+    {
+      "aar": 2008,
+      "diskonto_pct": 4.082,
+      "udlaansrente_pct": 4.4948,
+      "indskudsbevisrente_pct": 4.4948,
+      "foliorente_pct": 4.082
+    },
+    {
+      "aar": 2009,
+      "diskonto_pct": 1.562,
+      "udlaansrente_pct": 1.8414,
+      "indskudsbevisrente_pct": 1.7436,
+      "foliorente_pct": 1.5335
+    },
+    {
+      "aar": 2010,
+      "diskonto_pct": 0.759,
+      "udlaansrente_pct": 1.0544,
+      "indskudsbevisrente_pct": 0.6418,
+      "foliorente_pct": 0.5418
+    },
+    {
+      "aar": 2011,
+      "diskonto_pct": 1.001,
+      "udlaansrente_pct": 1.2722,
+      "indskudsbevisrente_pct": 0.8657,
+      "foliorente_pct": 0.7677
+    },
+    {
+      "aar": 2012,
+      "diskonto_pct": 0.3313,
+      "udlaansrente_pct": 0.4273,
+      "indskudsbevisrente_pct": 0.0273,
+      "foliorente_pct": 0.1008
+    },
+    {
+      "aar": 2013,
+      "diskonto_pct": 0,
+      "udlaansrente_pct": 0.2266,
+      "indskudsbevisrente_pct": -0.1069,
+      "foliorente_pct": 0
+    },
+    {
+      "aar": 2014,
+      "diskonto_pct": 0,
+      "udlaansrente_pct": 0.2,
+      "indskudsbevisrente_pct": -0.0294,
+      "foliorente_pct": 0
+    },
+    {
+      "aar": 2015,
+      "diskonto_pct": 0,
+      "udlaansrente_pct": 0.0572,
+      "indskudsbevisrente_pct": -0.6966,
+      "foliorente_pct": 0
+    },
+    {
+      "aar": 2016,
+      "diskonto_pct": 0,
+      "udlaansrente_pct": 0.05,
+      "indskudsbevisrente_pct": -0.6516,
+      "foliorente_pct": 0
+    },
+    {
+      "aar": 2017,
+      "diskonto_pct": 0,
+      "udlaansrente_pct": 0.05,
+      "indskudsbevisrente_pct": -0.65,
+      "foliorente_pct": 0
+    },
+    {
+      "aar": 2018,
+      "diskonto_pct": 0,
+      "udlaansrente_pct": 0.05,
+      "indskudsbevisrente_pct": -0.65,
+      "foliorente_pct": 0
+    },
+    {
+      "aar": 2019,
+      "diskonto_pct": 0,
+      "udlaansrente_pct": 0.05,
+      "indskudsbevisrente_pct": -0.6798,
+      "foliorente_pct": 0
+    },
+    {
+      "aar": 2020,
+      "diskonto_pct": 0,
+      "udlaansrente_pct": 0.05,
+      "indskudsbevisrente_pct": -0.6336,
+      "foliorente_pct": 0
+    },
+    {
+      "aar": 2021,
+      "diskonto_pct": 0,
+      "udlaansrente_pct": -0.2894,
+      "indskudsbevisrente_pct": -0.547,
+      "foliorente_pct": -0.4179
+    },
+    {
+      "aar": 2022,
+      "diskonto_pct": 0.3333,
+      "udlaansrente_pct": 0.1433,
+      "indskudsbevisrente_pct": -0.0067,
+      "foliorente_pct": -0.0067
+    },
+    {
+      "aar": 2023,
+      "diskonto_pct": 2.9444,
+      "udlaansrente_pct": 3.0944,
+      "indskudsbevisrente_pct": 2.9444,
+      "foliorente_pct": 2.9444
+    },
+    {
+      "aar": 2024,
+      "diskonto_pct": 3.324,
+      "udlaansrente_pct": 3.474,
+      "indskudsbevisrente_pct": 3.324,
+      "foliorente_pct": 3.324
+    },
+    {
+      "aar": 2025,
+      "diskonto_pct": 1.848,
+      "udlaansrente_pct": 1.998,
+      "indskudsbevisrente_pct": 1.848,
+      "foliorente_pct": 1.848
+    }
+  ],
+  "meta": {
+    "title": "Nationalbankens officielle rentesatser, årsgennemsnit (1987–2025) - Free Download",
+    "description": "Årsgennemsnit af Danmarks Nationalbanks officielle renter: diskontoen, udlånsrenten, renten på indskudsbeviser og foliorenten i procent p.a. (Danmarks Statistik / Nationalbanken, DNRENTA). Udlåns- og indskudsbevisrenten findes fra 1992. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nationalbankens officielle rentesatser, årsgennemsnit (1987–2025) | ListBase",
+    "seo_description": "Download Nationalbankens officielle rentesatser, årsgennemsnit (1987–2025) — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statbank.dk/DNRENTA"
+    ]
+  }
+}
