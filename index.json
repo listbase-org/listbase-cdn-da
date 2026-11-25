@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-25T02:20:00.783Z",
-  "total_datasets": 525,
-  "total_records": 246795,
+  "generated": "2026-11-25T02:20:09.317Z",
+  "total_datasets": 526,
+  "total_records": 246811,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -4616,6 +4616,36 @@
         "xlsx": {
           "name": "da-dialekter_DA.xlsx",
           "size": 7883
+        }
+      }
+    },
+    {
+      "id": "da-kommercielt-udkomne-boeger-efter-sprog",
+      "name": "Kommercielt udkomne bøger efter sprog (2009–2024)",
+      "category": "language",
+      "record_count": 16,
+      "columns": [
+        "aar",
+        "alle_sprog",
+        "dansk",
+        "svensk",
+        "norsk",
+        "engelsk_amerikansk",
+        "tysk",
+        "fransk",
+        "andre_sprog"
+      ],
+      "source": "https://www.statistikbanken.dk/BOG06",
+      "updated": "2026-11",
+      "size": 5734,
+      "files": {
+        "csv": {
+          "name": "da-kommercielt-udkomne-boeger-efter-sprog_DA.csv",
+          "size": 1021
+        },
+        "xlsx": {
+          "name": "da-kommercielt-udkomne-boeger-efter-sprog_DA.xlsx",
+          "size": 7595
         }
       }
     },

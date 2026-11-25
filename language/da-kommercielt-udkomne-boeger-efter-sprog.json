@@ -1,0 +1,247 @@
+{
+  "id": "da-kommercielt-udkomne-boeger-efter-sprog",
+  "name": "Kommercielt udkomne bøger efter sprog (2009–2024)",
+  "title": "Kommercielt udkomne bøger efter sprog (2009–2024)",
+  "description": "Antal kommercielt udkomne bøger (over 48 sider, alle udgaver og medier) i Danmark pr. år fordelt på sprog: dansk, svensk, norsk, engelsk/amerikansk, tysk, fransk og andre sprog (Danmarks Statistik, BOG06).",
+  "category": "language",
+  "source": "https://www.statistikbanken.dk/BOG06",
+  "source_url": "https://www.statistikbanken.dk/BOG06",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "alle_sprog",
+      "label": "Alle Sprog",
+      "type": "number"
+    },
+    {
+      "key": "dansk",
+      "label": "Dansk",
+      "type": "number"
+    },
+    {
+      "key": "svensk",
+      "label": "Svensk",
+      "type": "number"
+    },
+    {
+      "key": "norsk",
+      "label": "Norsk",
+      "type": "number"
+    },
+    {
+      "key": "engelsk_amerikansk",
+      "label": "Engelsk Amerikansk",
+      "type": "number"
+    },
+    {
+      "key": "tysk",
+      "label": "Tysk",
+      "type": "number"
+    },
+    {
+      "key": "fransk",
+      "label": "Fransk",
+      "type": "number"
+    },
+    {
+      "key": "andre_sprog",
+      "label": "Andre Sprog",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 2009,
+      "alle_sprog": 5754,
+      "dansk": 3478,
+      "svensk": 269,
+      "norsk": 104,
+      "engelsk_amerikansk": 1463,
+      "tysk": 97,
+      "fransk": 75,
+      "andre_sprog": 268
+    },
+    {
+      "aar": 2010,
+      "alle_sprog": 5741,
+      "dansk": 3520,
+      "svensk": 252,
+      "norsk": 125,
+      "engelsk_amerikansk": 1409,
+      "tysk": 117,
+      "fransk": 73,
+      "andre_sprog": 245
+    },
+    {
+      "aar": 2011,
+      "alle_sprog": 6083,
+      "dansk": 4040,
+      "svensk": 248,
+      "norsk": 139,
+      "engelsk_amerikansk": 1199,
+      "tysk": 112,
+      "fransk": 104,
+      "andre_sprog": 241
+    },
+    {
+      "aar": 2012,
+      "alle_sprog": 6331,
+      "dansk": 3790,
+      "svensk": 274,
+      "norsk": 114,
+      "engelsk_amerikansk": 1720,
+      "tysk": 102,
+      "fransk": 89,
+      "andre_sprog": 242
+    },
+    {
+      "aar": 2013,
+      "alle_sprog": 5920,
+      "dansk": 3766,
+      "svensk": 218,
+      "norsk": 149,
+      "engelsk_amerikansk": 1352,
+      "tysk": 105,
+      "fransk": 125,
+      "andre_sprog": 205
+    },
+    {
+      "aar": 2014,
+      "alle_sprog": 6063,
+      "dansk": 3741,
+      "svensk": 269,
+      "norsk": 122,
+      "engelsk_amerikansk": 1455,
+      "tysk": 119,
+      "fransk": 133,
+      "andre_sprog": 224
+    },
+    {
+      "aar": 2015,
+      "alle_sprog": 6380,
+      "dansk": 3869,
+      "svensk": 287,
+      "norsk": 143,
+      "engelsk_amerikansk": 1590,
+      "tysk": 132,
+      "fransk": 119,
+      "andre_sprog": 240
+    },
+    {
+      "aar": 2016,
+      "alle_sprog": 6514,
+      "dansk": 4066,
+      "svensk": 266,
+      "norsk": 159,
+      "engelsk_amerikansk": 1491,
+      "tysk": 122,
+      "fransk": 130,
+      "andre_sprog": 280
+    },
+    {
+      "aar": 2017,
+      "alle_sprog": 6880,
+      "dansk": 4410,
+      "svensk": 237,
+      "norsk": 190,
+      "engelsk_amerikansk": 1488,
+      "tysk": 131,
+      "fransk": 131,
+      "andre_sprog": 293
+    },
+    {
+      "aar": 2018,
+      "alle_sprog": 6772,
+      "dansk": 4297,
+      "svensk": 275,
+      "norsk": 145,
+      "engelsk_amerikansk": 1480,
+      "tysk": 139,
+      "fransk": 136,
+      "andre_sprog": 300
+    },
+    {
+      "aar": 2019,
+      "alle_sprog": 6424,
+      "dansk": 4294,
+      "svensk": 256,
+      "norsk": 151,
+      "engelsk_amerikansk": 1169,
+      "tysk": 134,
+      "fransk": 155,
+      "andre_sprog": 265
+    },
+    {
+      "aar": 2020,
+      "alle_sprog": 6394,
+      "dansk": 4331,
+      "svensk": 275,
+      "norsk": 188,
+      "engelsk_amerikansk": 1062,
+      "tysk": 114,
+      "fransk": 142,
+      "andre_sprog": 282
+    },
+    {
+      "aar": 2021,
+      "alle_sprog": 6693,
+      "dansk": 4512,
+      "svensk": 270,
+      "norsk": 149,
+      "engelsk_amerikansk": 1148,
+      "tysk": 157,
+      "fransk": 159,
+      "andre_sprog": 298
+    },
+    {
+      "aar": 2022,
+      "alle_sprog": 6640,
+      "dansk": 4237,
+      "svensk": 311,
+      "norsk": 224,
+      "engelsk_amerikansk": 1246,
+      "tysk": 162,
+      "fransk": 168,
+      "andre_sprog": 292
+    },
+    {
+      "aar": 2023,
+      "alle_sprog": 6438,
+      "dansk": 4114,
+      "svensk": 261,
+      "norsk": 188,
+      "engelsk_amerikansk": 1271,
+      "tysk": 134,
+      "fransk": 171,
+      "andre_sprog": 299
+    },
+    {
+      "aar": 2024,
+      "alle_sprog": 6534,
+      "dansk": 4187,
+      "svensk": 261,
+      "norsk": 234,
+      "engelsk_amerikansk": 1261,
+      "tysk": 153,
+      "fransk": 153,
+      "andre_sprog": 285
+    }
+  ],
+  "meta": {
+    "title": "Kommercielt udkomne bøger efter sprog (2009–2024) - Free Download",
+    "description": "Antal kommercielt udkomne bøger (over 48 sider, alle udgaver og medier) i Danmark pr. år fordelt på sprog: dansk, svensk, norsk, engelsk/amerikansk, tysk, fransk og andre sprog (Danmarks Statistik, BOG06). Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kommercielt udkomne bøger efter sprog (2009–2024) | ListBase",
+    "seo_description": "Download Kommercielt udkomne bøger efter sprog (2009–2024) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/BOG06"
+    ]
+  }
+}
