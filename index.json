@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-25T02:20:09.317Z",
-  "total_datasets": 526,
-  "total_records": 246811,
+  "generated": "2026-11-25T02:20:17.956Z",
+  "total_datasets": 527,
+  "total_records": 246977,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "transport",
@@ -14772,6 +14772,33 @@
         "xlsx": {
           "name": "da-hoteller_DA.xlsx",
           "size": 31987
+        }
+      }
+    },
+    {
+      "id": "da-krydstogtskibe-paa-danske-havne",
+      "name": "Krydstogtskibe og krydstogtpassagerer på danske havne (2002–2025)",
+      "category": "tourism",
+      "record_count": 166,
+      "columns": [
+        "havn",
+        "aar",
+        "anloeb",
+        "paastigende_passagerer_1000",
+        "afstigende_passagerer_1000",
+        "gennemgaaende_passagerer_1000"
+      ],
+      "source": "https://www.statistikbanken.dk/SKIB35",
+      "updated": "2026-11",
+      "size": 36161,
+      "files": {
+        "csv": {
+          "name": "da-krydstogtskibe-paa-danske-havne_DA.csv",
+          "size": 6965
+        },
+        "xlsx": {
+          "name": "da-krydstogtskibe-paa-danske-havne_DA.xlsx",
+          "size": 11306
         }
       }
     },

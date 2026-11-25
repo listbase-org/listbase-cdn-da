@@ -1,0 +1,1384 @@
+{
+  "id": "da-krydstogtskibe-paa-danske-havne",
+  "name": "Krydstogtskibe og krydstogtpassagerer på danske havne (2002–2025)",
+  "title": "Krydstogtskibe og krydstogtpassagerer på danske havne (2002–2025)",
+  "description": "Antal anløb af krydstogtskibe samt på-, af- og gennemgående krydstogtpassagerer (1.000) pr. år på København, Aarhus, Skagen, Rønne og andre danske havne (Danmarks Statistik, SKIB35).",
+  "category": "tourism",
+  "source": "https://www.statistikbanken.dk/SKIB35",
+  "source_url": "https://www.statistikbanken.dk/SKIB35",
+  "updated": "2026-11",
+  "record_count": 166,
+  "columns": [
+    {
+      "key": "havn",
+      "label": "Havn",
+      "type": "string"
+    },
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "anloeb",
+      "label": "Anloeb",
+      "type": "number"
+    },
+    {
+      "key": "paastigende_passagerer_1000",
+      "label": "Paastigende Passagerer 1000",
+      "type": "number"
+    },
+    {
+      "key": "afstigende_passagerer_1000",
+      "label": "Afstigende Passagerer 1000",
+      "type": "number"
+    },
+    {
+      "key": "gennemgaaende_passagerer_1000",
+      "label": "Gennemgaaende Passagerer 1000",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "havn": "Havne i alt",
+      "aar": 2002,
+      "anloeb": 225,
+      "paastigende_passagerer_1000": 47,
+      "afstigende_passagerer_1000": 48,
+      "gennemgaaende_passagerer_1000": 126
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2003,
+      "anloeb": 309,
+      "paastigende_passagerer_1000": 54,
+      "afstigende_passagerer_1000": 57,
+      "gennemgaaende_passagerer_1000": 192
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2004,
+      "anloeb": 354,
+      "paastigende_passagerer_1000": 102,
+      "afstigende_passagerer_1000": 104,
+      "gennemgaaende_passagerer_1000": 188
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2005,
+      "anloeb": 354,
+      "paastigende_passagerer_1000": 122,
+      "afstigende_passagerer_1000": 124,
+      "gennemgaaende_passagerer_1000": 228
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2006,
+      "anloeb": 335,
+      "paastigende_passagerer_1000": 131,
+      "afstigende_passagerer_1000": 132,
+      "gennemgaaende_passagerer_1000": 232
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2007,
+      "anloeb": 348,
+      "paastigende_passagerer_1000": 144,
+      "afstigende_passagerer_1000": 145,
+      "gennemgaaende_passagerer_1000": 258
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2008,
+      "anloeb": 366,
+      "paastigende_passagerer_1000": 157,
+      "afstigende_passagerer_1000": 158,
+      "gennemgaaende_passagerer_1000": 294
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2009,
+      "anloeb": 374,
+      "paastigende_passagerer_1000": 199,
+      "afstigende_passagerer_1000": 209,
+      "gennemgaaende_passagerer_1000": 309
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2010,
+      "anloeb": 351,
+      "paastigende_passagerer_1000": 172,
+      "afstigende_passagerer_1000": 170,
+      "gennemgaaende_passagerer_1000": 338
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2011,
+      "anloeb": 424,
+      "paastigende_passagerer_1000": 216,
+      "afstigende_passagerer_1000": 219,
+      "gennemgaaende_passagerer_1000": 438
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2012,
+      "anloeb": 438,
+      "paastigende_passagerer_1000": 212,
+      "afstigende_passagerer_1000": 210,
+      "gennemgaaende_passagerer_1000": 403
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2013,
+      "anloeb": 410,
+      "paastigende_passagerer_1000": 209,
+      "afstigende_passagerer_1000": 211,
+      "gennemgaaende_passagerer_1000": 562
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2014,
+      "anloeb": 371,
+      "paastigende_passagerer_1000": 209,
+      "afstigende_passagerer_1000": 209,
+      "gennemgaaende_passagerer_1000": 392
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2015,
+      "anloeb": 347,
+      "paastigende_passagerer_1000": 189,
+      "afstigende_passagerer_1000": 183,
+      "gennemgaaende_passagerer_1000": 397
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2016,
+      "anloeb": 406,
+      "paastigende_passagerer_1000": 173,
+      "afstigende_passagerer_1000": 170,
+      "gennemgaaende_passagerer_1000": 499
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2017,
+      "anloeb": 477,
+      "paastigende_passagerer_1000": 215,
+      "afstigende_passagerer_1000": 211,
+      "gennemgaaende_passagerer_1000": 600
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2018,
+      "anloeb": 528,
+      "paastigende_passagerer_1000": 207,
+      "afstigende_passagerer_1000": 204,
+      "gennemgaaende_passagerer_1000": 681
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2019,
+      "anloeb": 529,
+      "paastigende_passagerer_1000": 217,
+      "afstigende_passagerer_1000": 209,
+      "gennemgaaende_passagerer_1000": 673
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2020,
+      "anloeb": 1,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 0
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2021,
+      "anloeb": 63,
+      "paastigende_passagerer_1000": 2,
+      "afstigende_passagerer_1000": 1,
+      "gennemgaaende_passagerer_1000": 38
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2022,
+      "anloeb": 532,
+      "paastigende_passagerer_1000": 81,
+      "afstigende_passagerer_1000": 81,
+      "gennemgaaende_passagerer_1000": 637
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2023,
+      "anloeb": 511,
+      "paastigende_passagerer_1000": 111,
+      "afstigende_passagerer_1000": 111,
+      "gennemgaaende_passagerer_1000": 944
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2024,
+      "anloeb": 481,
+      "paastigende_passagerer_1000": 102,
+      "afstigende_passagerer_1000": 105,
+      "gennemgaaende_passagerer_1000": 1033
+    },
+    {
+      "havn": "Havne i alt",
+      "aar": 2025,
+      "anloeb": 560,
+      "paastigende_passagerer_1000": 104,
+      "afstigende_passagerer_1000": 101,
+      "gennemgaaende_passagerer_1000": 1089
+    },
+    {
+      "havn": "Aalborg Havn",
+      "aar": 2014,
+      "anloeb": 2,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Aalborg Havn",
+      "aar": 2015,
+      "anloeb": 14,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 11
+    },
+    {
+      "havn": "Aalborg Havn",
+      "aar": 2016,
+      "anloeb": 21,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 18
+    },
+    {
+      "havn": "Aalborg Havn",
+      "aar": 2017,
+      "anloeb": 35,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 30
+    },
+    {
+      "havn": "Aalborg Havn",
+      "aar": 2018,
+      "anloeb": 33,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 27
+    },
+    {
+      "havn": "Aalborg Havn",
+      "aar": 2019,
+      "anloeb": 19,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 15
+    },
+    {
+      "havn": "Aalborg Havn",
+      "aar": 2020,
+      "anloeb": 1,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 0
+    },
+    {
+      "havn": "Aalborg Havn",
+      "aar": 2021,
+      "anloeb": 1,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 0
+    },
+    {
+      "havn": "Aalborg Havn",
+      "aar": 2022,
+      "anloeb": 25,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 14
+    },
+    {
+      "havn": "Aalborg Havn",
+      "aar": 2023,
+      "anloeb": 14,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 11
+    },
+    {
+      "havn": "Aalborg Havn",
+      "aar": 2024,
+      "anloeb": 15,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 1,
+      "gennemgaaende_passagerer_1000": 9
+    },
+    {
+      "havn": "Aalborg Havn",
+      "aar": 2025,
+      "anloeb": 22,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 14
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2002,
+      "anloeb": 15,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 15
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2003,
+      "anloeb": 23,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 25
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2004,
+      "anloeb": 15,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 17
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2005,
+      "anloeb": 20,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 30
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2006,
+      "anloeb": 17,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 21
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2007,
+      "anloeb": 16,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 18
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2008,
+      "anloeb": 21,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 26
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2009,
+      "anloeb": 14,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 22
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2010,
+      "anloeb": 5,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 6
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2011,
+      "anloeb": 17,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 39
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2012,
+      "anloeb": 18,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 38
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2013,
+      "anloeb": 13,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 34
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2014,
+      "anloeb": 11,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 25
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2015,
+      "anloeb": 11,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 29
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2016,
+      "anloeb": 30,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 66
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2017,
+      "anloeb": 36,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 83
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2018,
+      "anloeb": 41,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 89
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2019,
+      "anloeb": 32,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 63
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2021,
+      "anloeb": 1,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 0
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2022,
+      "anloeb": 64,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 90
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2023,
+      "anloeb": 66,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 141
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2024,
+      "anloeb": 61,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 194
+    },
+    {
+      "havn": "Aarhus Havn",
+      "aar": 2025,
+      "anloeb": 62,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 194
+    },
+    {
+      "havn": "Fredericia Havn",
+      "aar": 2015,
+      "anloeb": 2,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 3
+    },
+    {
+      "havn": "Fredericia Havn",
+      "aar": 2016,
+      "anloeb": 4,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 6
+    },
+    {
+      "havn": "Fredericia Havn",
+      "aar": 2017,
+      "anloeb": 8,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 11
+    },
+    {
+      "havn": "Fredericia Havn",
+      "aar": 2018,
+      "anloeb": 8,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 10
+    },
+    {
+      "havn": "Fredericia Havn",
+      "aar": 2019,
+      "anloeb": 18,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 21
+    },
+    {
+      "havn": "Fredericia Havn",
+      "aar": 2021,
+      "anloeb": 4,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 1,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Fredericia Havn",
+      "aar": 2022,
+      "anloeb": 10,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 11
+    },
+    {
+      "havn": "Fredericia Havn",
+      "aar": 2023,
+      "anloeb": 10,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 17
+    },
+    {
+      "havn": "Fredericia Havn",
+      "aar": 2024,
+      "anloeb": 4,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 2
+    },
+    {
+      "havn": "Fredericia Havn",
+      "aar": 2025,
+      "anloeb": 6,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 3
+    },
+    {
+      "havn": "Helsingør Havn",
+      "aar": 2014,
+      "anloeb": 2,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Helsingør Havn",
+      "aar": 2015,
+      "anloeb": 2,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 0
+    },
+    {
+      "havn": "Helsingør Havn",
+      "aar": 2016,
+      "anloeb": 2,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Helsingør Havn",
+      "aar": 2017,
+      "anloeb": 6,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 3
+    },
+    {
+      "havn": "Helsingør Havn",
+      "aar": 2018,
+      "anloeb": 6,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 4
+    },
+    {
+      "havn": "Helsingør Havn",
+      "aar": 2019,
+      "anloeb": 3,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Helsingør Havn",
+      "aar": 2023,
+      "anloeb": 3,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 0
+    },
+    {
+      "havn": "Helsingør Havn",
+      "aar": 2024,
+      "anloeb": 2,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Helsingør Havn",
+      "aar": 2025,
+      "anloeb": 3,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 0
+    },
+    {
+      "havn": "Kalundborg Havn",
+      "aar": 2014,
+      "anloeb": 5,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 7
+    },
+    {
+      "havn": "Kalundborg Havn",
+      "aar": 2016,
+      "anloeb": 1,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Kalundborg Havn",
+      "aar": 2017,
+      "anloeb": 6,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 7
+    },
+    {
+      "havn": "Kalundborg Havn",
+      "aar": 2018,
+      "anloeb": 1,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Kalundborg Havn",
+      "aar": 2019,
+      "anloeb": 3,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Kalundborg Havn",
+      "aar": 2022,
+      "anloeb": 3,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 14
+    },
+    {
+      "havn": "Kalundborg Havn",
+      "aar": 2023,
+      "anloeb": 4,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 15
+    },
+    {
+      "havn": "Kalundborg Havn",
+      "aar": 2025,
+      "anloeb": 3,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2002,
+      "anloeb": 174,
+      "paastigende_passagerer_1000": 47,
+      "afstigende_passagerer_1000": 48,
+      "gennemgaaende_passagerer_1000": 102
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2003,
+      "anloeb": 238,
+      "paastigende_passagerer_1000": 54,
+      "afstigende_passagerer_1000": 57,
+      "gennemgaaende_passagerer_1000": 156
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2004,
+      "anloeb": 259,
+      "paastigende_passagerer_1000": 102,
+      "afstigende_passagerer_1000": 104,
+      "gennemgaaende_passagerer_1000": 150
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2005,
+      "anloeb": 289,
+      "paastigende_passagerer_1000": 122,
+      "afstigende_passagerer_1000": 124,
+      "gennemgaaende_passagerer_1000": 181
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2006,
+      "anloeb": 278,
+      "paastigende_passagerer_1000": 131,
+      "afstigende_passagerer_1000": 132,
+      "gennemgaaende_passagerer_1000": 198
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2007,
+      "anloeb": 288,
+      "paastigende_passagerer_1000": 144,
+      "afstigende_passagerer_1000": 145,
+      "gennemgaaende_passagerer_1000": 218
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2008,
+      "anloeb": 300,
+      "paastigende_passagerer_1000": 157,
+      "afstigende_passagerer_1000": 158,
+      "gennemgaaende_passagerer_1000": 245
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2009,
+      "anloeb": 332,
+      "paastigende_passagerer_1000": 199,
+      "afstigende_passagerer_1000": 209,
+      "gennemgaaende_passagerer_1000": 272
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2010,
+      "anloeb": 303,
+      "paastigende_passagerer_1000": 172,
+      "afstigende_passagerer_1000": 170,
+      "gennemgaaende_passagerer_1000": 314
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2011,
+      "anloeb": 368,
+      "paastigende_passagerer_1000": 216,
+      "afstigende_passagerer_1000": 219,
+      "gennemgaaende_passagerer_1000": 381
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2012,
+      "anloeb": 357,
+      "paastigende_passagerer_1000": 212,
+      "afstigende_passagerer_1000": 210,
+      "gennemgaaende_passagerer_1000": 318
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2013,
+      "anloeb": 343,
+      "paastigende_passagerer_1000": 209,
+      "afstigende_passagerer_1000": 211,
+      "gennemgaaende_passagerer_1000": 479
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2014,
+      "anloeb": 313,
+      "paastigende_passagerer_1000": 209,
+      "afstigende_passagerer_1000": 209,
+      "gennemgaaende_passagerer_1000": 319
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2015,
+      "anloeb": 283,
+      "paastigende_passagerer_1000": 189,
+      "afstigende_passagerer_1000": 183,
+      "gennemgaaende_passagerer_1000": 323
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2016,
+      "anloeb": 311,
+      "paastigende_passagerer_1000": 173,
+      "afstigende_passagerer_1000": 170,
+      "gennemgaaende_passagerer_1000": 387
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2017,
+      "anloeb": 325,
+      "paastigende_passagerer_1000": 215,
+      "afstigende_passagerer_1000": 211,
+      "gennemgaaende_passagerer_1000": 422
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2018,
+      "anloeb": 345,
+      "paastigende_passagerer_1000": 207,
+      "afstigende_passagerer_1000": 204,
+      "gennemgaaende_passagerer_1000": 463
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2019,
+      "anloeb": 351,
+      "paastigende_passagerer_1000": 217,
+      "afstigende_passagerer_1000": 209,
+      "gennemgaaende_passagerer_1000": 509
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2021,
+      "anloeb": 42,
+      "paastigende_passagerer_1000": 2,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 31
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2022,
+      "anloeb": 319,
+      "paastigende_passagerer_1000": 81,
+      "afstigende_passagerer_1000": 81,
+      "gennemgaaende_passagerer_1000": 395
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2023,
+      "anloeb": 284,
+      "paastigende_passagerer_1000": 111,
+      "afstigende_passagerer_1000": 111,
+      "gennemgaaende_passagerer_1000": 547
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2024,
+      "anloeb": 280,
+      "paastigende_passagerer_1000": 102,
+      "afstigende_passagerer_1000": 104,
+      "gennemgaaende_passagerer_1000": 612
+    },
+    {
+      "havn": "Københavns Havn",
+      "aar": 2025,
+      "anloeb": 316,
+      "paastigende_passagerer_1000": 104,
+      "afstigende_passagerer_1000": 101,
+      "gennemgaaende_passagerer_1000": 663
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2002,
+      "anloeb": 28,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 7
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2003,
+      "anloeb": 32,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 6
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2004,
+      "anloeb": 48,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 11
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2005,
+      "anloeb": 28,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 8
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2006,
+      "anloeb": 25,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 7
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2007,
+      "anloeb": 27,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 10
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2008,
+      "anloeb": 28,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 10
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2009,
+      "anloeb": 15,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 5
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2010,
+      "anloeb": 19,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 8
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2011,
+      "anloeb": 27,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 15
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2012,
+      "anloeb": 41,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 25
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2013,
+      "anloeb": 25,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 22
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2014,
+      "anloeb": 27,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 25
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2015,
+      "anloeb": 17,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 8
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2016,
+      "anloeb": 18,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 8
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2017,
+      "anloeb": 26,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 12
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2018,
+      "anloeb": 42,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 18
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2019,
+      "anloeb": 46,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 20
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2021,
+      "anloeb": 8,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 3
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2022,
+      "anloeb": 59,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 31
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2023,
+      "anloeb": 44,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 56
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2024,
+      "anloeb": 56,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 69
+    },
+    {
+      "havn": "Rønne Havn",
+      "aar": 2025,
+      "anloeb": 54,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 38
+    },
+    {
+      "havn": "Skagen Havn",
+      "aar": 2014,
+      "anloeb": 5,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 8
+    },
+    {
+      "havn": "Skagen Havn",
+      "aar": 2015,
+      "anloeb": 14,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 22
+    },
+    {
+      "havn": "Skagen Havn",
+      "aar": 2016,
+      "anloeb": 17,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 11
+    },
+    {
+      "havn": "Skagen Havn",
+      "aar": 2017,
+      "anloeb": 31,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 31
+    },
+    {
+      "havn": "Skagen Havn",
+      "aar": 2018,
+      "anloeb": 43,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 64
+    },
+    {
+      "havn": "Skagen Havn",
+      "aar": 2019,
+      "anloeb": 43,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 37
+    },
+    {
+      "havn": "Skagen Havn",
+      "aar": 2021,
+      "anloeb": 5,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 2
+    },
+    {
+      "havn": "Skagen Havn",
+      "aar": 2022,
+      "anloeb": 49,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 81
+    },
+    {
+      "havn": "Skagen Havn",
+      "aar": 2023,
+      "anloeb": 61,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 148
+    },
+    {
+      "havn": "Skagen Havn",
+      "aar": 2024,
+      "anloeb": 50,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 142
+    },
+    {
+      "havn": "Skagen Havn",
+      "aar": 2025,
+      "anloeb": 82,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 174
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2002,
+      "anloeb": 8,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 2
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2003,
+      "anloeb": 16,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 5
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2004,
+      "anloeb": 32,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 10
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2005,
+      "anloeb": 17,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 8
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2006,
+      "anloeb": 15,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 6
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2007,
+      "anloeb": 17,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 12
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2008,
+      "anloeb": 17,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 14
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2009,
+      "anloeb": 13,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 10
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2010,
+      "anloeb": 24,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 10
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2011,
+      "anloeb": 12,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 3
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2012,
+      "anloeb": 22,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 22
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2013,
+      "anloeb": 29,
+      "paastigende_passagerer_1000": "",
+      "afstigende_passagerer_1000": "",
+      "gennemgaaende_passagerer_1000": 27
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2014,
+      "anloeb": 6,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 6
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2015,
+      "anloeb": 4,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2016,
+      "anloeb": 2,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2017,
+      "anloeb": 4,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2018,
+      "anloeb": 9,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 5
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2019,
+      "anloeb": 14,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 6
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2021,
+      "anloeb": 2,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2022,
+      "anloeb": 3,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 1
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2023,
+      "anloeb": 25,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 9
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2024,
+      "anloeb": 13,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 4
+    },
+    {
+      "havn": "Øvrige havne",
+      "aar": 2025,
+      "anloeb": 12,
+      "paastigende_passagerer_1000": 0,
+      "afstigende_passagerer_1000": 0,
+      "gennemgaaende_passagerer_1000": 2
+    }
+  ],
+  "meta": {
+    "title": "Krydstogtskibe og krydstogtpassagerer på danske havne (2002–2025) - Free Download",
+    "description": "Antal anløb af krydstogtskibe samt på-, af- og gennemgående krydstogtpassagerer (1.000) pr. år på København, Aarhus, Skagen, Rønne og andre danske havne (Danmarks Statistik, SKIB35). Contains 166 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Krydstogtskibe og krydstogtpassagerer på danske havne (2002–2025) | ListBase",
+    "seo_description": "Download Krydstogtskibe og krydstogtpassagerer på danske havne (2002–2025) — 166 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 166 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/SKIB35"
+    ]
+  }
+}
