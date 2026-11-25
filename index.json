@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-24T02:20:36.409Z",
-  "total_datasets": 524,
-  "total_records": 246712,
+  "generated": "2026-11-25T02:20:00.783Z",
+  "total_datasets": 525,
+  "total_records": 246795,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -4143,6 +4143,36 @@
         "xlsx": {
           "name": "da-tandlaeger_DA.xlsx",
           "size": 15843
+        }
+      }
+    },
+    {
+      "id": "da-befolkningen-ved-folketaellinger-1769-2026",
+      "name": "Befolkningen ved folketællinger 1769–2026",
+      "category": "history",
+      "record_count": 83,
+      "columns": [
+        "aar",
+        "hele_landet",
+        "hovedstaden",
+        "koebenhavn",
+        "frederiksberg",
+        "gentofte",
+        "oeerne",
+        "oeerne_uden_hovedstaden",
+        "jylland"
+      ],
+      "source": "https://www.statistikbanken.dk/FT",
+      "updated": "2026-11",
+      "size": 24244,
+      "files": {
+        "csv": {
+          "name": "da-befolkningen-ved-folketaellinger-1769-2026_DA.csv",
+          "size": 6806
+        },
+        "xlsx": {
+          "name": "da-befolkningen-ved-folketaellinger-1769-2026_DA.xlsx",
+          "size": 12170
         }
       }
     },
