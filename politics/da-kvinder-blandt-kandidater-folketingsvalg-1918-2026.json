@@ -1,0 +1,317 @@
+{
+  "id": "da-kvinder-blandt-kandidater-folketingsvalg-1918-2026",
+  "name": "Kvinder og mænd blandt opstillede og valgte kandidater til folketingsvalg (1918–2026)",
+  "title": "Kvinder og mænd blandt opstillede og valgte kandidater til folketingsvalg (1918–2026)",
+  "description": "Andel kvinder og mænd (pct.) blandt opstillede og valgte kandidater ved hvert folketingsvalg siden 1918 (Danmarks Statistik, ligestillingsindikator LIGEDI0).",
+  "category": "politics",
+  "source": "https://www.statistikbanken.dk/LIGEDI0",
+  "source_url": "https://www.statistikbanken.dk/LIGEDI0",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "valgaar",
+      "label": "Valgaar",
+      "type": "number"
+    },
+    {
+      "key": "opstillede_kvinder_pct",
+      "label": "Opstillede Kvinder Pct",
+      "type": "number"
+    },
+    {
+      "key": "opstillede_maend_pct",
+      "label": "Opstillede Maend Pct",
+      "type": "number"
+    },
+    {
+      "key": "valgte_kvinder_pct",
+      "label": "Valgte Kvinder Pct",
+      "type": "number"
+    },
+    {
+      "key": "valgte_maend_pct",
+      "label": "Valgte Maend Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "valgaar": 1918,
+      "opstillede_kvinder_pct": 10.2,
+      "opstillede_maend_pct": 89.8,
+      "valgte_kvinder_pct": 2.9,
+      "valgte_maend_pct": 97.1
+    },
+    {
+      "valgaar": 1920,
+      "opstillede_kvinder_pct": 4,
+      "opstillede_maend_pct": 96,
+      "valgte_kvinder_pct": 2.1,
+      "valgte_maend_pct": 97.9
+    },
+    {
+      "valgaar": 1924,
+      "opstillede_kvinder_pct": 3.2,
+      "opstillede_maend_pct": 96.8,
+      "valgte_kvinder_pct": 2,
+      "valgte_maend_pct": 98
+    },
+    {
+      "valgaar": 1926,
+      "opstillede_kvinder_pct": 3.3,
+      "opstillede_maend_pct": 96.7,
+      "valgte_kvinder_pct": 2,
+      "valgte_maend_pct": 98
+    },
+    {
+      "valgaar": 1929,
+      "opstillede_kvinder_pct": 3.2,
+      "opstillede_maend_pct": 96.8,
+      "valgte_kvinder_pct": 2.7,
+      "valgte_maend_pct": 97.3
+    },
+    {
+      "valgaar": 1932,
+      "opstillede_kvinder_pct": 2.9,
+      "opstillede_maend_pct": 97.1,
+      "valgte_kvinder_pct": 2.7,
+      "valgte_maend_pct": 97.3
+    },
+    {
+      "valgaar": 1935,
+      "opstillede_kvinder_pct": 2.8,
+      "opstillede_maend_pct": 97.2,
+      "valgte_kvinder_pct": 2,
+      "valgte_maend_pct": 98
+    },
+    {
+      "valgaar": 1939,
+      "opstillede_kvinder_pct": 3.6,
+      "opstillede_maend_pct": 96.4,
+      "valgte_kvinder_pct": 2,
+      "valgte_maend_pct": 98
+    },
+    {
+      "valgaar": 1943,
+      "opstillede_kvinder_pct": 3.6,
+      "opstillede_maend_pct": 96.4,
+      "valgte_kvinder_pct": 1.4,
+      "valgte_maend_pct": 98.6
+    },
+    {
+      "valgaar": 1945,
+      "opstillede_kvinder_pct": 10.6,
+      "opstillede_maend_pct": 89.4,
+      "valgte_kvinder_pct": 5.4,
+      "valgte_maend_pct": 94.6
+    },
+    {
+      "valgaar": 1947,
+      "opstillede_kvinder_pct": 11.3,
+      "opstillede_maend_pct": 88.7,
+      "valgte_kvinder_pct": 8.8,
+      "valgte_maend_pct": 91.2
+    },
+    {
+      "valgaar": 1950,
+      "opstillede_kvinder_pct": 11.8,
+      "opstillede_maend_pct": 88.2,
+      "valgte_kvinder_pct": 8.1,
+      "valgte_maend_pct": 91.9
+    },
+    {
+      "valgaar": 1953,
+      "opstillede_kvinder_pct": 11,
+      "opstillede_maend_pct": 89,
+      "valgte_kvinder_pct": 9.6,
+      "valgte_maend_pct": 90.4
+    },
+    {
+      "valgaar": 1957,
+      "opstillede_kvinder_pct": 10.3,
+      "opstillede_maend_pct": 89.7,
+      "valgte_kvinder_pct": 8.6,
+      "valgte_maend_pct": 91.4
+    },
+    {
+      "valgaar": 1960,
+      "opstillede_kvinder_pct": 11.9,
+      "opstillede_maend_pct": 88.1,
+      "valgte_kvinder_pct": 9.7,
+      "valgte_maend_pct": 90.3
+    },
+    {
+      "valgaar": 1964,
+      "opstillede_kvinder_pct": 13.1,
+      "opstillede_maend_pct": 86.9,
+      "valgte_kvinder_pct": 9.7,
+      "valgte_maend_pct": 90.3
+    },
+    {
+      "valgaar": 1966,
+      "opstillede_kvinder_pct": 13.4,
+      "opstillede_maend_pct": 86.6,
+      "valgte_kvinder_pct": 10.9,
+      "valgte_maend_pct": 89.1
+    },
+    {
+      "valgaar": 1968,
+      "opstillede_kvinder_pct": 14.2,
+      "opstillede_maend_pct": 85.8,
+      "valgte_kvinder_pct": 10.9,
+      "valgte_maend_pct": 89.1
+    },
+    {
+      "valgaar": 1971,
+      "opstillede_kvinder_pct": 16.3,
+      "opstillede_maend_pct": 83.7,
+      "valgte_kvinder_pct": 17.1,
+      "valgte_maend_pct": 82.9
+    },
+    {
+      "valgaar": 1973,
+      "opstillede_kvinder_pct": 15.7,
+      "opstillede_maend_pct": 84.3,
+      "valgte_kvinder_pct": 15.4,
+      "valgte_maend_pct": 84.6
+    },
+    {
+      "valgaar": 1975,
+      "opstillede_kvinder_pct": 17.8,
+      "opstillede_maend_pct": 82.2,
+      "valgte_kvinder_pct": 16,
+      "valgte_maend_pct": 84
+    },
+    {
+      "valgaar": 1977,
+      "opstillede_kvinder_pct": 19.7,
+      "opstillede_maend_pct": 80.3,
+      "valgte_kvinder_pct": 17.1,
+      "valgte_maend_pct": 82.9
+    },
+    {
+      "valgaar": 1979,
+      "opstillede_kvinder_pct": 21.9,
+      "opstillede_maend_pct": 78.1,
+      "valgte_kvinder_pct": 24,
+      "valgte_maend_pct": 76
+    },
+    {
+      "valgaar": 1981,
+      "opstillede_kvinder_pct": 25.3,
+      "opstillede_maend_pct": 74.7,
+      "valgte_kvinder_pct": 24,
+      "valgte_maend_pct": 76
+    },
+    {
+      "valgaar": 1984,
+      "opstillede_kvinder_pct": 26.3,
+      "opstillede_maend_pct": 73.7,
+      "valgte_kvinder_pct": 26.9,
+      "valgte_maend_pct": 73.1
+    },
+    {
+      "valgaar": 1987,
+      "opstillede_kvinder_pct": 31,
+      "opstillede_maend_pct": 69,
+      "valgte_kvinder_pct": 29.7,
+      "valgte_maend_pct": 70.3
+    },
+    {
+      "valgaar": 1988,
+      "opstillede_kvinder_pct": 30.7,
+      "opstillede_maend_pct": 69.3,
+      "valgte_kvinder_pct": 31.4,
+      "valgte_maend_pct": 68.6
+    },
+    {
+      "valgaar": 1990,
+      "opstillede_kvinder_pct": 31.2,
+      "opstillede_maend_pct": 68.8,
+      "valgte_kvinder_pct": 33.7,
+      "valgte_maend_pct": 66.3
+    },
+    {
+      "valgaar": 1994,
+      "opstillede_kvinder_pct": 29.6,
+      "opstillede_maend_pct": 70.4,
+      "valgte_kvinder_pct": 33.7,
+      "valgte_maend_pct": 66.3
+    },
+    {
+      "valgaar": 1998,
+      "opstillede_kvinder_pct": 27.6,
+      "opstillede_maend_pct": 72.4,
+      "valgte_kvinder_pct": 37.7,
+      "valgte_maend_pct": 62.3
+    },
+    {
+      "valgaar": 2001,
+      "opstillede_kvinder_pct": 29.4,
+      "opstillede_maend_pct": 70.6,
+      "valgte_kvinder_pct": 38.3,
+      "valgte_maend_pct": 61.7
+    },
+    {
+      "valgaar": 2005,
+      "opstillede_kvinder_pct": 31.6,
+      "opstillede_maend_pct": 68.4,
+      "valgte_kvinder_pct": 37.7,
+      "valgte_maend_pct": 62.3
+    },
+    {
+      "valgaar": 2007,
+      "opstillede_kvinder_pct": 32.2,
+      "opstillede_maend_pct": 67.8,
+      "valgte_kvinder_pct": 37.7,
+      "valgte_maend_pct": 62.3
+    },
+    {
+      "valgaar": 2011,
+      "opstillede_kvinder_pct": 33.2,
+      "opstillede_maend_pct": 66.8,
+      "valgte_kvinder_pct": 38.9,
+      "valgte_maend_pct": 61.1
+    },
+    {
+      "valgaar": 2015,
+      "opstillede_kvinder_pct": 31.3,
+      "opstillede_maend_pct": 68.7,
+      "valgte_kvinder_pct": 37.1,
+      "valgte_maend_pct": 62.9
+    },
+    {
+      "valgaar": 2019,
+      "opstillede_kvinder_pct": 34.3,
+      "opstillede_maend_pct": 65.7,
+      "valgte_kvinder_pct": 38.9,
+      "valgte_maend_pct": 61.1
+    },
+    {
+      "valgaar": 2022,
+      "opstillede_kvinder_pct": 38.4,
+      "opstillede_maend_pct": 61.6,
+      "valgte_kvinder_pct": 43.4,
+      "valgte_maend_pct": 56.6
+    },
+    {
+      "valgaar": 2026,
+      "opstillede_kvinder_pct": 39.4,
+      "opstillede_maend_pct": 60.6,
+      "valgte_kvinder_pct": 48,
+      "valgte_maend_pct": 52
+    }
+  ],
+  "meta": {
+    "title": "Kvinder og mænd blandt opstillede og valgte kandidater til folketingsvalg (1918–2026) - Free Download",
+    "description": "Andel kvinder og mænd (pct.) blandt opstillede og valgte kandidater ved hvert folketingsvalg siden 1918 (Danmarks Statistik, ligestillingsindikator LIGEDI0). Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kvinder og mænd blandt opstillede og valgte kandidater til folketingsvalg (1918–2026) | ListBase",
+    "seo_description": "Download Kvinder og mænd blandt opstillede og valgte kandidater til folketingsvalg (1918–2026) — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/LIGEDI0"
+    ]
+  }
+}

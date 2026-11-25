@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-25T02:20:17.956Z",
-  "total_datasets": 527,
-  "total_records": 246977,
+  "generated": "2026-11-25T02:20:27.018Z",
+  "total_datasets": 528,
+  "total_records": 247015,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "reference",
@@ -5417,6 +5417,32 @@
         "xlsx": {
           "name": "da-kommunalvalget-2025-stemmer-pr-kommune_DA.xlsx",
           "size": 15946
+        }
+      }
+    },
+    {
+      "id": "da-kvinder-blandt-kandidater-folketingsvalg-1918-2026",
+      "name": "Kvinder og mænd blandt opstillede og valgte kandidater til folketingsvalg (1918–2026)",
+      "category": "politics",
+      "record_count": 38,
+      "columns": [
+        "valgaar",
+        "opstillede_kvinder_pct",
+        "opstillede_maend_pct",
+        "valgte_kvinder_pct",
+        "valgte_maend_pct"
+      ],
+      "source": "https://www.statistikbanken.dk/LIGEDI0",
+      "updated": "2026-11",
+      "size": 8656,
+      "files": {
+        "csv": {
+          "name": "da-kvinder-blandt-kandidater-folketingsvalg-1918-2026_DA.csv",
+          "size": 1362
+        },
+        "xlsx": {
+          "name": "da-kvinder-blandt-kandidater-folketingsvalg-1918-2026_DA.xlsx",
+          "size": 7805
         }
       }
     },
