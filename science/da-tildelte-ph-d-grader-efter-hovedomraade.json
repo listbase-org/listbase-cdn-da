@@ -1,0 +1,436 @@
+{
+  "id": "da-tildelte-ph-d-grader-efter-hovedomraade",
+  "name": "Tildelte ph.d.-grader efter hovedområde og køn (1996–2025)",
+  "title": "Tildelte ph.d.-grader efter hovedområde og køn (1996–2025)",
+  "description": "Antal tildelte ph.d.-grader i Danmark pr. år fordelt på naturvidenskab, teknisk videnskab, sundhedsvidenskab, jordbrugs- og veterinærvidenskab, samfundsvidenskab og humaniora samt på mænd og kvinder (Danmarks Statistik, PHD2).",
+  "category": "science",
+  "source": "https://www.statistikbanken.dk/PHD2",
+  "source_url": "https://www.statistikbanken.dk/PHD2",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "i_alt",
+      "label": "I Alt",
+      "type": "number"
+    },
+    {
+      "key": "humaniora",
+      "label": "Humaniora",
+      "type": "number"
+    },
+    {
+      "key": "naturvidenskab",
+      "label": "Naturvidenskab",
+      "type": "number"
+    },
+    {
+      "key": "sundhedsvidenskab",
+      "label": "Sundhedsvidenskab",
+      "type": "number"
+    },
+    {
+      "key": "samfundsvidenskab",
+      "label": "Samfundsvidenskab",
+      "type": "number"
+    },
+    {
+      "key": "teknisk_videnskab",
+      "label": "Teknisk Videnskab",
+      "type": "number"
+    },
+    {
+      "key": "jordbrugs_og_veterinaervidenskab",
+      "label": "Jordbrugs Og Veterinaervidenskab",
+      "type": "number"
+    },
+    {
+      "key": "maend",
+      "label": "Maend",
+      "type": "number"
+    },
+    {
+      "key": "kvinder",
+      "label": "Kvinder",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1996,
+      "i_alt": 696,
+      "humaniora": 85,
+      "naturvidenskab": 177,
+      "sundhedsvidenskab": 177,
+      "samfundsvidenskab": 65,
+      "teknisk_videnskab": 150,
+      "jordbrugs_og_veterinaervidenskab": 42,
+      "maend": 474,
+      "kvinder": 222
+    },
+    {
+      "aar": 1997,
+      "i_alt": 857,
+      "humaniora": 89,
+      "naturvidenskab": 221,
+      "sundhedsvidenskab": 199,
+      "samfundsvidenskab": 66,
+      "teknisk_videnskab": 205,
+      "jordbrugs_og_veterinaervidenskab": 77,
+      "maend": 562,
+      "kvinder": 295
+    },
+    {
+      "aar": 1998,
+      "i_alt": 848,
+      "humaniora": 105,
+      "naturvidenskab": 202,
+      "sundhedsvidenskab": 225,
+      "samfundsvidenskab": 83,
+      "teknisk_videnskab": 180,
+      "jordbrugs_og_veterinaervidenskab": 53,
+      "maend": 555,
+      "kvinder": 293
+    },
+    {
+      "aar": 1999,
+      "i_alt": 895,
+      "humaniora": 121,
+      "naturvidenskab": 207,
+      "sundhedsvidenskab": 224,
+      "samfundsvidenskab": 96,
+      "teknisk_videnskab": 177,
+      "jordbrugs_og_veterinaervidenskab": 70,
+      "maend": 566,
+      "kvinder": 329
+    },
+    {
+      "aar": 2000,
+      "i_alt": 909,
+      "humaniora": 104,
+      "naturvidenskab": 207,
+      "sundhedsvidenskab": 251,
+      "samfundsvidenskab": 97,
+      "teknisk_videnskab": 179,
+      "jordbrugs_og_veterinaervidenskab": 71,
+      "maend": 564,
+      "kvinder": 345
+    },
+    {
+      "aar": 2001,
+      "i_alt": 954,
+      "humaniora": 105,
+      "naturvidenskab": 204,
+      "sundhedsvidenskab": 263,
+      "samfundsvidenskab": 103,
+      "teknisk_videnskab": 184,
+      "jordbrugs_og_veterinaervidenskab": 95,
+      "maend": 588,
+      "kvinder": 366
+    },
+    {
+      "aar": 2002,
+      "i_alt": 966,
+      "humaniora": 123,
+      "naturvidenskab": 202,
+      "sundhedsvidenskab": 250,
+      "samfundsvidenskab": 109,
+      "teknisk_videnskab": 200,
+      "jordbrugs_og_veterinaervidenskab": 82,
+      "maend": 600,
+      "kvinder": 366
+    },
+    {
+      "aar": 2003,
+      "i_alt": 1021,
+      "humaniora": 132,
+      "naturvidenskab": 201,
+      "sundhedsvidenskab": 269,
+      "samfundsvidenskab": 110,
+      "teknisk_videnskab": 220,
+      "jordbrugs_og_veterinaervidenskab": 89,
+      "maend": 601,
+      "kvinder": 420
+    },
+    {
+      "aar": 2004,
+      "i_alt": 982,
+      "humaniora": 133,
+      "naturvidenskab": 208,
+      "sundhedsvidenskab": 260,
+      "samfundsvidenskab": 118,
+      "teknisk_videnskab": 175,
+      "jordbrugs_og_veterinaervidenskab": 88,
+      "maend": 562,
+      "kvinder": 420
+    },
+    {
+      "aar": 2005,
+      "i_alt": 956,
+      "humaniora": 132,
+      "naturvidenskab": 188,
+      "sundhedsvidenskab": 243,
+      "samfundsvidenskab": 121,
+      "teknisk_videnskab": 199,
+      "jordbrugs_og_veterinaervidenskab": 73,
+      "maend": 548,
+      "kvinder": 408
+    },
+    {
+      "aar": 2006,
+      "i_alt": 921,
+      "humaniora": 115,
+      "naturvidenskab": 177,
+      "sundhedsvidenskab": 241,
+      "samfundsvidenskab": 120,
+      "teknisk_videnskab": 200,
+      "jordbrugs_og_veterinaervidenskab": 68,
+      "maend": 533,
+      "kvinder": 388
+    },
+    {
+      "aar": 2007,
+      "i_alt": 1090,
+      "humaniora": 136,
+      "naturvidenskab": 191,
+      "sundhedsvidenskab": 278,
+      "samfundsvidenskab": 145,
+      "teknisk_videnskab": 244,
+      "jordbrugs_og_veterinaervidenskab": 96,
+      "maend": 626,
+      "kvinder": 464
+    },
+    {
+      "aar": 2008,
+      "i_alt": 1165,
+      "humaniora": 134,
+      "naturvidenskab": 199,
+      "sundhedsvidenskab": 344,
+      "samfundsvidenskab": 131,
+      "teknisk_videnskab": 276,
+      "jordbrugs_og_veterinaervidenskab": 81,
+      "maend": 677,
+      "kvinder": 488
+    },
+    {
+      "aar": 2009,
+      "i_alt": 1248,
+      "humaniora": 127,
+      "naturvidenskab": 209,
+      "sundhedsvidenskab": 413,
+      "samfundsvidenskab": 156,
+      "teknisk_videnskab": 243,
+      "jordbrugs_og_veterinaervidenskab": 100,
+      "maend": 677,
+      "kvinder": 571
+    },
+    {
+      "aar": 2010,
+      "i_alt": 1489,
+      "humaniora": 156,
+      "naturvidenskab": 280,
+      "sundhedsvidenskab": 455,
+      "samfundsvidenskab": 191,
+      "teknisk_videnskab": 326,
+      "jordbrugs_og_veterinaervidenskab": 81,
+      "maend": 830,
+      "kvinder": 659
+    },
+    {
+      "aar": 2011,
+      "i_alt": 1608,
+      "humaniora": 135,
+      "naturvidenskab": 316,
+      "sundhedsvidenskab": 452,
+      "samfundsvidenskab": 204,
+      "teknisk_videnskab": 382,
+      "jordbrugs_og_veterinaervidenskab": 119,
+      "maend": 873,
+      "kvinder": 735
+    },
+    {
+      "aar": 2012,
+      "i_alt": 1646,
+      "humaniora": 136,
+      "naturvidenskab": 292,
+      "sundhedsvidenskab": 432,
+      "samfundsvidenskab": 171,
+      "teknisk_videnskab": 452,
+      "jordbrugs_og_veterinaervidenskab": 163,
+      "maend": 883,
+      "kvinder": 763
+    },
+    {
+      "aar": 2013,
+      "i_alt": 1978,
+      "humaniora": 141,
+      "naturvidenskab": 365,
+      "sundhedsvidenskab": 557,
+      "samfundsvidenskab": 229,
+      "teknisk_videnskab": 473,
+      "jordbrugs_og_veterinaervidenskab": 213,
+      "maend": 1068,
+      "kvinder": 910
+    },
+    {
+      "aar": 2014,
+      "i_alt": 2200,
+      "humaniora": 183,
+      "naturvidenskab": 387,
+      "sundhedsvidenskab": 676,
+      "samfundsvidenskab": 207,
+      "teknisk_videnskab": 504,
+      "jordbrugs_og_veterinaervidenskab": 243,
+      "maend": 1169,
+      "kvinder": 1031
+    },
+    {
+      "aar": 2015,
+      "i_alt": 2126,
+      "humaniora": 150,
+      "naturvidenskab": 393,
+      "sundhedsvidenskab": 631,
+      "samfundsvidenskab": 248,
+      "teknisk_videnskab": 516,
+      "jordbrugs_og_veterinaervidenskab": 188,
+      "maend": 1087,
+      "kvinder": 1039
+    },
+    {
+      "aar": 2016,
+      "i_alt": 2293,
+      "humaniora": 174,
+      "naturvidenskab": 395,
+      "sundhedsvidenskab": 685,
+      "samfundsvidenskab": 298,
+      "teknisk_videnskab": 577,
+      "jordbrugs_og_veterinaervidenskab": 164,
+      "maend": 1195,
+      "kvinder": 1098
+    },
+    {
+      "aar": 2017,
+      "i_alt": 2148,
+      "humaniora": 164,
+      "naturvidenskab": 360,
+      "sundhedsvidenskab": 703,
+      "samfundsvidenskab": 248,
+      "teknisk_videnskab": 519,
+      "jordbrugs_og_veterinaervidenskab": 154,
+      "maend": 1098,
+      "kvinder": 1050
+    },
+    {
+      "aar": 2018,
+      "i_alt": 2106,
+      "humaniora": 137,
+      "naturvidenskab": 364,
+      "sundhedsvidenskab": 702,
+      "samfundsvidenskab": 243,
+      "teknisk_videnskab": 512,
+      "jordbrugs_og_veterinaervidenskab": 148,
+      "maend": 1045,
+      "kvinder": 1061
+    },
+    {
+      "aar": 2019,
+      "i_alt": 2105,
+      "humaniora": 157,
+      "naturvidenskab": 365,
+      "sundhedsvidenskab": 702,
+      "samfundsvidenskab": 196,
+      "teknisk_videnskab": 540,
+      "jordbrugs_og_veterinaervidenskab": 145,
+      "maend": 1069,
+      "kvinder": 1036
+    },
+    {
+      "aar": 2020,
+      "i_alt": 1911,
+      "humaniora": 122,
+      "naturvidenskab": 315,
+      "sundhedsvidenskab": 678,
+      "samfundsvidenskab": 205,
+      "teknisk_videnskab": 477,
+      "jordbrugs_og_veterinaervidenskab": 114,
+      "maend": 971,
+      "kvinder": 940
+    },
+    {
+      "aar": 2021,
+      "i_alt": 1931,
+      "humaniora": 137,
+      "naturvidenskab": 324,
+      "sundhedsvidenskab": 644,
+      "samfundsvidenskab": 190,
+      "teknisk_videnskab": 519,
+      "jordbrugs_og_veterinaervidenskab": 117,
+      "maend": 969,
+      "kvinder": 962
+    },
+    {
+      "aar": 2022,
+      "i_alt": 1944,
+      "humaniora": 133,
+      "naturvidenskab": 318,
+      "sundhedsvidenskab": 713,
+      "samfundsvidenskab": 189,
+      "teknisk_videnskab": 471,
+      "jordbrugs_og_veterinaervidenskab": 120,
+      "maend": 954,
+      "kvinder": 990
+    },
+    {
+      "aar": 2023,
+      "i_alt": 2137,
+      "humaniora": 134,
+      "naturvidenskab": 444,
+      "sundhedsvidenskab": 770,
+      "samfundsvidenskab": 209,
+      "teknisk_videnskab": 513,
+      "jordbrugs_og_veterinaervidenskab": 67,
+      "maend": 1053,
+      "kvinder": 1084
+    },
+    {
+      "aar": 2024,
+      "i_alt": 2403,
+      "humaniora": 121,
+      "naturvidenskab": 451,
+      "sundhedsvidenskab": 858,
+      "samfundsvidenskab": 215,
+      "teknisk_videnskab": 706,
+      "jordbrugs_og_veterinaervidenskab": 52,
+      "maend": 1208,
+      "kvinder": 1195
+    },
+    {
+      "aar": 2025,
+      "i_alt": 2434,
+      "humaniora": 111,
+      "naturvidenskab": 446,
+      "sundhedsvidenskab": 939,
+      "samfundsvidenskab": 235,
+      "teknisk_videnskab": 665,
+      "jordbrugs_og_veterinaervidenskab": 38,
+      "maend": 1182,
+      "kvinder": 1252
+    }
+  ],
+  "meta": {
+    "title": "Tildelte ph.d.-grader efter hovedområde og køn (1996–2025) - Free Download",
+    "description": "Antal tildelte ph.d.-grader i Danmark pr. år fordelt på naturvidenskab, teknisk videnskab, sundhedsvidenskab, jordbrugs- og veterinærvidenskab, samfundsvidenskab og humaniora samt på mænd og kvinder (Danmarks Statistik, PHD2). Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tildelte ph.d.-grader efter hovedområde og køn (1996–2025) | ListBase",
+    "seo_description": "Download Tildelte ph.d.-grader efter hovedområde og køn (1996–2025) — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/PHD2"
+    ]
+  }
+}

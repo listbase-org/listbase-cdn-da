@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-26T02:07:03.896Z",
-  "total_datasets": 530,
-  "total_records": 247122,
+  "generated": "2026-11-26T02:07:13.043Z",
+  "total_datasets": 531,
+  "total_records": 247152,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "society",
@@ -12748,6 +12748,37 @@
         "xlsx": {
           "name": "da-pattedyr_DA.xlsx",
           "size": 11572
+        }
+      }
+    },
+    {
+      "id": "da-tildelte-ph-d-grader-efter-hovedomraade",
+      "name": "Tildelte ph.d.-grader efter hovedområde og køn (1996–2025)",
+      "category": "science",
+      "record_count": 30,
+      "columns": [
+        "aar",
+        "i_alt",
+        "humaniora",
+        "naturvidenskab",
+        "sundhedsvidenskab",
+        "samfundsvidenskab",
+        "teknisk_videnskab",
+        "jordbrugs_og_veterinaervidenskab",
+        "maend",
+        "kvinder"
+      ],
+      "source": "https://www.statistikbanken.dk/PHD2",
+      "updated": "2026-11",
+      "size": 11201,
+      "files": {
+        "csv": {
+          "name": "da-tildelte-ph-d-grader-efter-hovedomraade_DA.csv",
+          "size": 2003
+        },
+        "xlsx": {
+          "name": "da-tildelte-ph-d-grader-efter-hovedomraade_DA.xlsx",
+          "size": 8437
         }
       }
     },
