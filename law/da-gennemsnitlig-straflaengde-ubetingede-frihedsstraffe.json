@@ -1,0 +1,576 @@
+{
+  "id": "da-gennemsnitlig-straflaengde-ubetingede-frihedsstraffe",
+  "name": "Gennemsnitlig straflængde for ubetingede frihedsstraffe efter overtrædelse (2010–2025)",
+  "title": "Gennemsnitlig straflængde for ubetingede frihedsstraffe efter overtrædelse (2010–2025)",
+  "description": "Gennemsnitlig længde i måneder af ubetingede frihedsstraffe i Danmark efter overtrædelsens art (straffelov, færdselslov, særlove) i 2010, 2015, 2020 og 2025 (Danmarks Statistik, STRAF49). Tom værdi = ingen afgørelser det år.",
+  "category": "law",
+  "source": "https://www.statistikbanken.dk/STRAF49",
+  "source_url": "https://www.statistikbanken.dk/STRAF49",
+  "updated": "2026-11",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "overtraedelse",
+      "label": "Overtraedelse",
+      "type": "string"
+    },
+    {
+      "key": "mdr_2010",
+      "label": "Mdr 2010",
+      "type": "number"
+    },
+    {
+      "key": "mdr_2015",
+      "label": "Mdr 2015",
+      "type": "number"
+    },
+    {
+      "key": "mdr_2020",
+      "label": "Mdr 2020",
+      "type": "number"
+    },
+    {
+      "key": "mdr_2025",
+      "label": "Mdr 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "overtraedelse": "Straffelov i alt",
+      "mdr_2010": 8.1,
+      "mdr_2015": 8.9,
+      "mdr_2020": 11.1,
+      "mdr_2025": 11.4
+    },
+    {
+      "overtraedelse": "Seksualforbrydelser i alt",
+      "mdr_2010": 13.7,
+      "mdr_2015": 15.6,
+      "mdr_2020": 21.4,
+      "mdr_2025": 16.4
+    },
+    {
+      "overtraedelse": "Blodskam mv.",
+      "mdr_2010": 18.7,
+      "mdr_2015": 14.1,
+      "mdr_2020": 17.3,
+      "mdr_2025": 12.8
+    },
+    {
+      "overtraedelse": "Voldtægt mv.",
+      "mdr_2010": 19.6,
+      "mdr_2015": 21.5,
+      "mdr_2020": 34.4,
+      "mdr_2025": 27.8
+    },
+    {
+      "overtraedelse": "Blufærdighedskrænkelse ved beføling",
+      "mdr_2010": 2.5,
+      "mdr_2015": 4.9,
+      "mdr_2020": 2.9,
+      "mdr_2025": 5.1
+    },
+    {
+      "overtraedelse": "Blufærdighedskrænkelse ved blotteri",
+      "mdr_2010": 1.9,
+      "mdr_2015": 7.1,
+      "mdr_2020": 1.3,
+      "mdr_2025": 1.6
+    },
+    {
+      "overtraedelse": "Blufærdighedskrænkelse i øvrigt",
+      "mdr_2010": 2.3,
+      "mdr_2015": 3.5,
+      "mdr_2020": 7.6,
+      "mdr_2025": 7.7
+    },
+    {
+      "overtraedelse": "Utugt mv.",
+      "mdr_2010": 5.2,
+      "mdr_2015": 5.6,
+      "mdr_2020": 10.7,
+      "mdr_2025": 3
+    },
+    {
+      "overtraedelse": "Voldsforbrydelser i alt",
+      "mdr_2010": 6.9,
+      "mdr_2015": 7.6,
+      "mdr_2020": 7.3,
+      "mdr_2025": 7.4
+    },
+    {
+      "overtraedelse": "Vold og lignende mod offentlig myndighed",
+      "mdr_2010": 2.6,
+      "mdr_2015": 2.9,
+      "mdr_2020": 3,
+      "mdr_2025": 2.6
+    },
+    {
+      "overtraedelse": "Opløb/forstyrrelse af offentlig orden",
+      "mdr_2010": 0.8,
+      "mdr_2015": 1.4,
+      "mdr_2020": 5.6,
+      "mdr_2025": 11
+    },
+    {
+      "overtraedelse": "Manddrab",
+      "mdr_2010": 147.5,
+      "mdr_2015": 145.4,
+      "mdr_2020": 158.9,
+      "mdr_2025": 144.9
+    },
+    {
+      "overtraedelse": "Forsøg på manddrab",
+      "mdr_2010": 84.3,
+      "mdr_2015": 77.2,
+      "mdr_2020": 79.9,
+      "mdr_2025": 90.5
+    },
+    {
+      "overtraedelse": "Simpel vold",
+      "mdr_2010": 3,
+      "mdr_2015": 3.3,
+      "mdr_2020": 3.2,
+      "mdr_2025": 3.5
+    },
+    {
+      "overtraedelse": "Alvorligere vold",
+      "mdr_2010": 7.4,
+      "mdr_2015": 8.7,
+      "mdr_2020": 9.4,
+      "mdr_2025": 9.4
+    },
+    {
+      "overtraedelse": "Særlig alvorlig vold",
+      "mdr_2010": 44.9,
+      "mdr_2015": 42.8,
+      "mdr_2020": 78,
+      "mdr_2025": 59.4
+    },
+    {
+      "overtraedelse": "Uagtsomt manddrab/legemsbeskadigelse",
+      "mdr_2010": 9.9,
+      "mdr_2015": 30,
+      "mdr_2020": 3,
+      "mdr_2025": 51
+    },
+    {
+      "overtraedelse": "Forbrydelse mod liv og legeme",
+      "mdr_2010": 7.2,
+      "mdr_2015": 7.4,
+      "mdr_2020": 8.2,
+      "mdr_2025": 8.2
+    },
+    {
+      "overtraedelse": "Forbrydelse mod den personlige frihed",
+      "mdr_2010": 11.6,
+      "mdr_2015": 9.1,
+      "mdr_2020": 12.1,
+      "mdr_2025": 12.6
+    },
+    {
+      "overtraedelse": "Trusler",
+      "mdr_2010": 4.9,
+      "mdr_2015": 4.8,
+      "mdr_2020": 4.2,
+      "mdr_2025": 3.9
+    },
+    {
+      "overtraedelse": "Ejendomsforbrydelser i alt",
+      "mdr_2010": 7,
+      "mdr_2015": 6.2,
+      "mdr_2020": 7.7,
+      "mdr_2025": 6.9
+    },
+    {
+      "overtraedelse": "Dokumentfalsk",
+      "mdr_2010": 3.2,
+      "mdr_2015": 2.5,
+      "mdr_2020": 2.2,
+      "mdr_2025": 3.2
+    },
+    {
+      "overtraedelse": "Brandstiftelse",
+      "mdr_2010": 14,
+      "mdr_2015": 17.1,
+      "mdr_2020": 15.7,
+      "mdr_2025": 13.7
+    },
+    {
+      "overtraedelse": "Indbrud i forretning, virksomhed mv.",
+      "mdr_2010": 4.7,
+      "mdr_2015": 5.4,
+      "mdr_2020": 6.5,
+      "mdr_2025": 7
+    },
+    {
+      "overtraedelse": "Indbrud i beboelser",
+      "mdr_2010": 5,
+      "mdr_2015": 6.2,
+      "mdr_2020": 8,
+      "mdr_2025": 4.9
+    },
+    {
+      "overtraedelse": "Indbrud i ubeboede bebyggelser",
+      "mdr_2010": 3.7,
+      "mdr_2015": 4.3,
+      "mdr_2020": 5.4,
+      "mdr_2025": 4.6
+    },
+    {
+      "overtraedelse": "Tyveri fra bil, båd mv.",
+      "mdr_2010": 3.7,
+      "mdr_2015": 4.1,
+      "mdr_2020": 6,
+      "mdr_2025": 7.5
+    },
+    {
+      "overtraedelse": "Tyveri/brugstyveri af knallert",
+      "mdr_2010": 1.2,
+      "mdr_2015": 1.9,
+      "mdr_2020": "",
+      "mdr_2025": 3.1
+    },
+    {
+      "overtraedelse": "Butikstyverier mv.",
+      "mdr_2010": 2.3,
+      "mdr_2015": 2.2,
+      "mdr_2020": 3,
+      "mdr_2025": 3
+    },
+    {
+      "overtraedelse": "Andre tyverier",
+      "mdr_2010": 3.1,
+      "mdr_2015": 3.5,
+      "mdr_2020": 4.9,
+      "mdr_2025": 4.1
+    },
+    {
+      "overtraedelse": "Tyveri/brugstyveri af køretøj",
+      "mdr_2010": 3.5,
+      "mdr_2015": 3.8,
+      "mdr_2020": 4.3,
+      "mdr_2025": 3.9
+    },
+    {
+      "overtraedelse": "Tyveri/brugstyveri af cykel",
+      "mdr_2010": 3.3,
+      "mdr_2015": 2.2,
+      "mdr_2020": 4.1,
+      "mdr_2025": 4.6
+    },
+    {
+      "overtraedelse": "Tyveri/brugstyveri af andet",
+      "mdr_2010": 3.2,
+      "mdr_2015": 3.5,
+      "mdr_2020": 7.4,
+      "mdr_2025": 6.9
+    },
+    {
+      "overtraedelse": "Ulovlig omgang med hittegods",
+      "mdr_2010": 2.4,
+      "mdr_2015": 3.3,
+      "mdr_2020": 3.8,
+      "mdr_2025": 2.9
+    },
+    {
+      "overtraedelse": "Underslæb",
+      "mdr_2010": 9.7,
+      "mdr_2015": 10.6,
+      "mdr_2020": 7,
+      "mdr_2025": 12.6
+    },
+    {
+      "overtraedelse": "Bedrageri",
+      "mdr_2010": 7.7,
+      "mdr_2015": 7.7,
+      "mdr_2020": 10.6,
+      "mdr_2025": 9.2
+    },
+    {
+      "overtraedelse": "Mandatsvig",
+      "mdr_2010": 2.6,
+      "mdr_2015": 14.8,
+      "mdr_2020": 3.3,
+      "mdr_2025": 12.6
+    },
+    {
+      "overtraedelse": "Afpresning og åger",
+      "mdr_2010": 13.4,
+      "mdr_2015": 8.7,
+      "mdr_2020": 10.5,
+      "mdr_2025": 15.1
+    },
+    {
+      "overtraedelse": "Skyldnersvig",
+      "mdr_2010": 5.6,
+      "mdr_2015": 12.4,
+      "mdr_2020": 24,
+      "mdr_2025": 8
+    },
+    {
+      "overtraedelse": "Hæleri",
+      "mdr_2010": 3.9,
+      "mdr_2015": 5.3,
+      "mdr_2020": 7.7,
+      "mdr_2025": 6.8
+    },
+    {
+      "overtraedelse": "Røveri",
+      "mdr_2010": 18.1,
+      "mdr_2015": 17,
+      "mdr_2020": 15,
+      "mdr_2025": 14.6
+    },
+    {
+      "overtraedelse": "Grov skattesvig mv.",
+      "mdr_2010": 14.7,
+      "mdr_2015": 14.9,
+      "mdr_2020": 17.1,
+      "mdr_2025": 17.9
+    },
+    {
+      "overtraedelse": "Hærværk",
+      "mdr_2010": 3.1,
+      "mdr_2015": 1.9,
+      "mdr_2020": 3.5,
+      "mdr_2025": 2.7
+    },
+    {
+      "overtraedelse": "Berigelsesforbrydelse og formuekrænkelse",
+      "mdr_2010": 3.2,
+      "mdr_2015": 14.6,
+      "mdr_2020": 5.2,
+      "mdr_2025": 6.3
+    },
+    {
+      "overtraedelse": "Andre straffelovsforbrydelser i alt",
+      "mdr_2010": 13.1,
+      "mdr_2015": 15.8,
+      "mdr_2020": 23.5,
+      "mdr_2025": 27.5
+    },
+    {
+      "overtraedelse": "Forbrydelse mod offentlig myndighed mv.",
+      "mdr_2010": 2,
+      "mdr_2015": 2.6,
+      "mdr_2020": 5.5,
+      "mdr_2025": 3.7
+    },
+    {
+      "overtraedelse": "Falsk forklaring for retten",
+      "mdr_2010": 2.2,
+      "mdr_2015": 1.9,
+      "mdr_2020": 2.3,
+      "mdr_2025": 1.9
+    },
+    {
+      "overtraedelse": "Falsk forklaring i øvrigt",
+      "mdr_2010": 2.1,
+      "mdr_2015": 2.6,
+      "mdr_2020": 2.4,
+      "mdr_2025": 2.6
+    },
+    {
+      "overtraedelse": "Forbrydelse vedrørende penge og bevismateriale",
+      "mdr_2010": 1.6,
+      "mdr_2015": 2.2,
+      "mdr_2020": 1.7,
+      "mdr_2025": 2
+    },
+    {
+      "overtraedelse": "Salg af narkotika mv.",
+      "mdr_2010": 20.1,
+      "mdr_2015": 23.1,
+      "mdr_2020": 25.8,
+      "mdr_2025": 30.5
+    },
+    {
+      "overtraedelse": "Smugling mv. af narkotika",
+      "mdr_2010": 31.5,
+      "mdr_2015": 57.1,
+      "mdr_2020": 50.3,
+      "mdr_2025": 55.7
+    },
+    {
+      "overtraedelse": "Almenskadelige forbrydelser mv.",
+      "mdr_2010": 15.5,
+      "mdr_2015": 16.8,
+      "mdr_2020": 35,
+      "mdr_2025": 46.4
+    },
+    {
+      "overtraedelse": "Ulovligt erhverv mv.",
+      "mdr_2010": 0.2,
+      "mdr_2015": "",
+      "mdr_2020": 0.7,
+      "mdr_2025": 0.5
+    },
+    {
+      "overtraedelse": "Forbrydelser i familieforhold",
+      "mdr_2010": 9.6,
+      "mdr_2015": 13.5,
+      "mdr_2020": 5.6,
+      "mdr_2025": 8.1
+    },
+    {
+      "overtraedelse": "Uagtsomt manddrab mv. i forbindelse med færdselsuheld",
+      "mdr_2010": 9.6,
+      "mdr_2015": 11.2,
+      "mdr_2020": 13.7,
+      "mdr_2025": 25.2
+    },
+    {
+      "overtraedelse": "Freds- og ærekrænkelser",
+      "mdr_2010": 4.4,
+      "mdr_2015": 2.6,
+      "mdr_2020": 2.5,
+      "mdr_2025": 4.3
+    },
+    {
+      "overtraedelse": "Færdselslov i alt",
+      "mdr_2010": 1.5,
+      "mdr_2015": 1.6,
+      "mdr_2020": 1.5,
+      "mdr_2025": 1.3
+    },
+    {
+      "overtraedelse": "Færdselsuheld med spiritus",
+      "mdr_2010": 1.5,
+      "mdr_2015": 1.5,
+      "mdr_2020": 1.2,
+      "mdr_2025": 1.1
+    },
+    {
+      "overtraedelse": "Spirituskørsel",
+      "mdr_2010": 1.7,
+      "mdr_2015": 1.8,
+      "mdr_2020": 1.8,
+      "mdr_2025": 1.6
+    },
+    {
+      "overtraedelse": "Færdselslovsovertrædelser i øvrigt",
+      "mdr_2010": 1.2,
+      "mdr_2015": 1.3,
+      "mdr_2020": 1.2,
+      "mdr_2025": 1.1
+    },
+    {
+      "overtraedelse": "Særlove i alt",
+      "mdr_2010": 1.6,
+      "mdr_2015": 1.9,
+      "mdr_2020": 3.2,
+      "mdr_2025": 2.8
+    },
+    {
+      "overtraedelse": "Lov om euforiserende stoffer",
+      "mdr_2010": 2.1,
+      "mdr_2015": 2.2,
+      "mdr_2020": 3.2,
+      "mdr_2025": 2.4
+    },
+    {
+      "overtraedelse": "Våbenloven",
+      "mdr_2010": 0.8,
+      "mdr_2015": 1.3,
+      "mdr_2020": 2.3,
+      "mdr_2025": 1.8
+    },
+    {
+      "overtraedelse": "Skatte- og afgiftslove mv.",
+      "mdr_2010": 2.5,
+      "mdr_2015": 1.5,
+      "mdr_2020": 2.2,
+      "mdr_2025": 2.3
+    },
+    {
+      "overtraedelse": "Andre strafferetlige særlove",
+      "mdr_2010": 1.2,
+      "mdr_2015": 1.4,
+      "mdr_2020": 3.7,
+      "mdr_2025": 5
+    },
+    {
+      "overtraedelse": "Sundheds- og sociallove",
+      "mdr_2010": 0.6,
+      "mdr_2015": 0.2,
+      "mdr_2020": 1,
+      "mdr_2025": 2.2
+    },
+    {
+      "overtraedelse": "Love vedrørende dyr, jagt mv.",
+      "mdr_2010": 1,
+      "mdr_2015": 1,
+      "mdr_2020": 1.5,
+      "mdr_2025": 4.6
+    },
+    {
+      "overtraedelse": "Selskabs- og firmalovgivningen mv.",
+      "mdr_2010": 3.3,
+      "mdr_2015": "",
+      "mdr_2020": 2,
+      "mdr_2025": 2
+    },
+    {
+      "overtraedelse": "Overtrædelsens art i alt",
+      "mdr_2010": 6.6,
+      "mdr_2015": 7.3,
+      "mdr_2020": 9.1,
+      "mdr_2025": 9.1
+    },
+    {
+      "overtraedelse": "Seksualforbrydelse mod barn under 12 år (Ny fra 2013)",
+      "mdr_2010": "",
+      "mdr_2015": 26.2,
+      "mdr_2020": 25.5,
+      "mdr_2025": 31.4
+    },
+    {
+      "overtraedelse": "Seksualforbrydelse mod barn under 15 år (Ny fra 2013)",
+      "mdr_2010": "",
+      "mdr_2015": 17.2,
+      "mdr_2020": 14.4,
+      "mdr_2025": 22.2
+    },
+    {
+      "overtraedelse": "Seksualforbrydelse i øvrigt (Ny fra 2013)",
+      "mdr_2010": "",
+      "mdr_2015": 9,
+      "mdr_2020": 12.5,
+      "mdr_2025": 10.7
+    },
+    {
+      "overtraedelse": "Psykisk vold mv.",
+      "mdr_2010": "",
+      "mdr_2015": "",
+      "mdr_2020": 10,
+      "mdr_2025": 6.1
+    },
+    {
+      "overtraedelse": "Grooming",
+      "mdr_2010": "",
+      "mdr_2015": "",
+      "mdr_2020": "",
+      "mdr_2025": 11.5
+    },
+    {
+      "overtraedelse": "Miljøloven",
+      "mdr_2010": "",
+      "mdr_2015": "",
+      "mdr_2020": "",
+      "mdr_2025": 6
+    }
+  ],
+  "meta": {
+    "title": "Gennemsnitlig straflængde for ubetingede frihedsstraffe efter overtrædelse (2010–2025) - Free Download",
+    "description": "Gennemsnitlig længde i måneder af ubetingede frihedsstraffe i Danmark efter overtrædelsens art (straffelov, færdselslov, særlove) i 2010, 2015, 2020 og 2025 (Danmarks Statistik, STRAF49). Tom værdi = ingen afgørelser det år. Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gennemsnitlig straflængde for ubetingede frihedsstraffe efter overtrædelse (2010–2025) | ListBase",
+    "seo_description": "Download Gennemsnitlig straflængde for ubetingede frihedsstraffe efter overtrædelse (2010–2025) — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/STRAF49"
+    ]
+  }
+}

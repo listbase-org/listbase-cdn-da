@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-26T02:06:54.721Z",
-  "total_datasets": 529,
-  "total_records": 247047,
+  "generated": "2026-11-26T02:07:03.896Z",
+  "total_datasets": 530,
+  "total_records": 247122,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "music",
@@ -4830,6 +4830,32 @@
         "xlsx": {
           "name": "da-byretter_DA.xlsx",
           "size": 7322
+        }
+      }
+    },
+    {
+      "id": "da-gennemsnitlig-straflaengde-ubetingede-frihedsstraffe",
+      "name": "Gennemsnitlig straflængde for ubetingede frihedsstraffe efter overtrædelse (2010–2025)",
+      "category": "law",
+      "record_count": 75,
+      "columns": [
+        "overtraedelse",
+        "mdr_2010",
+        "mdr_2015",
+        "mdr_2020",
+        "mdr_2025"
+      ],
+      "source": "https://www.statistikbanken.dk/STRAF49",
+      "updated": "2026-11",
+      "size": 13819,
+      "files": {
+        "csv": {
+          "name": "da-gennemsnitlig-straflaengde-ubetingede-frihedsstraffe_DA.csv",
+          "size": 3900
+        },
+        "xlsx": {
+          "name": "da-gennemsnitlig-straflaengde-ubetingede-frihedsstraffe_DA.xlsx",
+          "size": 9634
         }
       }
     },
