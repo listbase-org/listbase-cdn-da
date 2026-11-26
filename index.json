@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-25T02:20:27.018Z",
-  "total_datasets": 528,
-  "total_records": 247015,
+  "generated": "2026-11-26T02:06:54.721Z",
+  "total_datasets": 529,
+  "total_records": 247047,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -12540,6 +12540,33 @@
         "xlsx": {
           "name": "da-danske-satellitter_DA.xlsx",
           "size": 7072
+        }
+      }
+    },
+    {
+      "id": "da-fondsmidler-til-forskning-efter-fagomraade",
+      "name": "Bevilgede fondsmidler til forskning efter fagområde (2022–2025)",
+      "category": "science",
+      "record_count": 32,
+      "columns": [
+        "fagomraade",
+        "aar",
+        "alle_fonde_mio_kr",
+        "erhvervsdrivende_fonde_mio_kr",
+        "almene_fonde_mio_kr",
+        "konkurrenceudsatte_mio_kr"
+      ],
+      "source": "https://www.statistikbanken.dk/FOND20",
+      "updated": "2026-11",
+      "size": 9389,
+      "files": {
+        "csv": {
+          "name": "da-fondsmidler-til-forskning-efter-fagomraade_DA.csv",
+          "size": 1798
+        },
+        "xlsx": {
+          "name": "da-fondsmidler-til-forskning-efter-fagomraade_DA.xlsx",
+          "size": 7899
         }
       }
     },

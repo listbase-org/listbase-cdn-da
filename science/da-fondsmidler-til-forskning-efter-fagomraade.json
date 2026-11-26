@@ -1,0 +1,312 @@
+{
+  "id": "da-fondsmidler-til-forskning-efter-fagomraade",
+  "name": "Bevilgede fondsmidler til forskning efter fagområde (2022–2025)",
+  "title": "Bevilgede fondsmidler til forskning efter fagområde (2022–2025)",
+  "description": "Danske fondes bevillinger til forskning i mio. kr. pr. år fordelt på fagområde (naturvidenskab, sundhedsvidenskab, teknisk videnskab, samfundsvidenskab, humaniora m.fl.) og fondstype, samt konkurrenceudsatte midler (Danmarks Statistik, FOND20).",
+  "category": "science",
+  "source": "https://www.statistikbanken.dk/FOND20",
+  "source_url": "https://www.statistikbanken.dk/FOND20",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "fagomraade",
+      "label": "Fagomraade",
+      "type": "string"
+    },
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "alle_fonde_mio_kr",
+      "label": "Alle Fonde Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "erhvervsdrivende_fonde_mio_kr",
+      "label": "Erhvervsdrivende Fonde Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "almene_fonde_mio_kr",
+      "label": "Almene Fonde Mio Kr",
+      "type": "number"
+    },
+    {
+      "key": "konkurrenceudsatte_mio_kr",
+      "label": "Konkurrenceudsatte Mio Kr",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "fagomraade": "Forskning i alt",
+      "aar": 2022,
+      "alle_fonde_mio_kr": 11410,
+      "erhvervsdrivende_fonde_mio_kr": 9580,
+      "almene_fonde_mio_kr": 1830,
+      "konkurrenceudsatte_mio_kr": 4007
+    },
+    {
+      "fagomraade": "Naturvidenskab",
+      "aar": 2022,
+      "alle_fonde_mio_kr": 2477,
+      "erhvervsdrivende_fonde_mio_kr": 2116,
+      "almene_fonde_mio_kr": 361,
+      "konkurrenceudsatte_mio_kr": 877
+    },
+    {
+      "fagomraade": "Sundhedsvidenskab",
+      "aar": 2022,
+      "alle_fonde_mio_kr": 5478,
+      "erhvervsdrivende_fonde_mio_kr": 4774,
+      "almene_fonde_mio_kr": 704,
+      "konkurrenceudsatte_mio_kr": 1789
+    },
+    {
+      "fagomraade": "Teknisk videnskab",
+      "aar": 2022,
+      "alle_fonde_mio_kr": 1281,
+      "erhvervsdrivende_fonde_mio_kr": 1091,
+      "almene_fonde_mio_kr": 190,
+      "konkurrenceudsatte_mio_kr": 375
+    },
+    {
+      "fagomraade": "Samfundsvidenskab",
+      "aar": 2022,
+      "alle_fonde_mio_kr": 1073,
+      "erhvervsdrivende_fonde_mio_kr": 731,
+      "almene_fonde_mio_kr": 341,
+      "konkurrenceudsatte_mio_kr": 446
+    },
+    {
+      "fagomraade": "Humaniora",
+      "aar": 2022,
+      "alle_fonde_mio_kr": 343,
+      "erhvervsdrivende_fonde_mio_kr": 216,
+      "almene_fonde_mio_kr": 127,
+      "konkurrenceudsatte_mio_kr": 188
+    },
+    {
+      "fagomraade": "Jordbrugs- og veterinærvidenskab",
+      "aar": 2022,
+      "alle_fonde_mio_kr": 492,
+      "erhvervsdrivende_fonde_mio_kr": 415,
+      "almene_fonde_mio_kr": 78,
+      "konkurrenceudsatte_mio_kr": 150
+    },
+    {
+      "fagomraade": "Tværvidenskab",
+      "aar": 2022,
+      "alle_fonde_mio_kr": 266,
+      "erhvervsdrivende_fonde_mio_kr": 237,
+      "almene_fonde_mio_kr": 29,
+      "konkurrenceudsatte_mio_kr": 183
+    },
+    {
+      "fagomraade": "Forskning i alt",
+      "aar": 2023,
+      "alle_fonde_mio_kr": 10580,
+      "erhvervsdrivende_fonde_mio_kr": 8285,
+      "almene_fonde_mio_kr": 2295,
+      "konkurrenceudsatte_mio_kr": 4879
+    },
+    {
+      "fagomraade": "Naturvidenskab",
+      "aar": 2023,
+      "alle_fonde_mio_kr": 1431,
+      "erhvervsdrivende_fonde_mio_kr": 733,
+      "almene_fonde_mio_kr": 698,
+      "konkurrenceudsatte_mio_kr": 1145
+    },
+    {
+      "fagomraade": "Sundhedsvidenskab",
+      "aar": 2023,
+      "alle_fonde_mio_kr": 6221,
+      "erhvervsdrivende_fonde_mio_kr": 5405,
+      "almene_fonde_mio_kr": 816,
+      "konkurrenceudsatte_mio_kr": 1876
+    },
+    {
+      "fagomraade": "Teknisk videnskab",
+      "aar": 2023,
+      "alle_fonde_mio_kr": 800,
+      "erhvervsdrivende_fonde_mio_kr": 580,
+      "almene_fonde_mio_kr": 219,
+      "konkurrenceudsatte_mio_kr": 477
+    },
+    {
+      "fagomraade": "Samfundsvidenskab",
+      "aar": 2023,
+      "alle_fonde_mio_kr": 1044,
+      "erhvervsdrivende_fonde_mio_kr": 737,
+      "almene_fonde_mio_kr": 307,
+      "konkurrenceudsatte_mio_kr": 565
+    },
+    {
+      "fagomraade": "Humaniora",
+      "aar": 2023,
+      "alle_fonde_mio_kr": 330,
+      "erhvervsdrivende_fonde_mio_kr": 218,
+      "almene_fonde_mio_kr": 112,
+      "konkurrenceudsatte_mio_kr": 255
+    },
+    {
+      "fagomraade": "Jordbrugs- og veterinærvidenskab",
+      "aar": 2023,
+      "alle_fonde_mio_kr": 406,
+      "erhvervsdrivende_fonde_mio_kr": 380,
+      "almene_fonde_mio_kr": 26,
+      "konkurrenceudsatte_mio_kr": 338
+    },
+    {
+      "fagomraade": "Tværvidenskab",
+      "aar": 2023,
+      "alle_fonde_mio_kr": 349,
+      "erhvervsdrivende_fonde_mio_kr": 232,
+      "almene_fonde_mio_kr": 116,
+      "konkurrenceudsatte_mio_kr": 223
+    },
+    {
+      "fagomraade": "Forskning i alt",
+      "aar": 2024,
+      "alle_fonde_mio_kr": 10765,
+      "erhvervsdrivende_fonde_mio_kr": 9066,
+      "almene_fonde_mio_kr": 1698,
+      "konkurrenceudsatte_mio_kr": 5148
+    },
+    {
+      "fagomraade": "Naturvidenskab",
+      "aar": 2024,
+      "alle_fonde_mio_kr": 1380,
+      "erhvervsdrivende_fonde_mio_kr": 1047,
+      "almene_fonde_mio_kr": 334,
+      "konkurrenceudsatte_mio_kr": 1122
+    },
+    {
+      "fagomraade": "Sundhedsvidenskab",
+      "aar": 2024,
+      "alle_fonde_mio_kr": 4414,
+      "erhvervsdrivende_fonde_mio_kr": 3686,
+      "almene_fonde_mio_kr": 728,
+      "konkurrenceudsatte_mio_kr": 2243
+    },
+    {
+      "fagomraade": "Teknisk videnskab",
+      "aar": 2024,
+      "alle_fonde_mio_kr": 570,
+      "erhvervsdrivende_fonde_mio_kr": 437,
+      "almene_fonde_mio_kr": 134,
+      "konkurrenceudsatte_mio_kr": 373
+    },
+    {
+      "fagomraade": "Samfundsvidenskab",
+      "aar": 2024,
+      "alle_fonde_mio_kr": 802,
+      "erhvervsdrivende_fonde_mio_kr": 413,
+      "almene_fonde_mio_kr": 390,
+      "konkurrenceudsatte_mio_kr": 419
+    },
+    {
+      "fagomraade": "Humaniora",
+      "aar": 2024,
+      "alle_fonde_mio_kr": 398,
+      "erhvervsdrivende_fonde_mio_kr": 333,
+      "almene_fonde_mio_kr": 65,
+      "konkurrenceudsatte_mio_kr": 360
+    },
+    {
+      "fagomraade": "Jordbrugs- og veterinærvidenskab",
+      "aar": 2024,
+      "alle_fonde_mio_kr": 2350,
+      "erhvervsdrivende_fonde_mio_kr": 2341,
+      "almene_fonde_mio_kr": 9,
+      "konkurrenceudsatte_mio_kr": 515
+    },
+    {
+      "fagomraade": "Tværvidenskab",
+      "aar": 2024,
+      "alle_fonde_mio_kr": 850,
+      "erhvervsdrivende_fonde_mio_kr": 811,
+      "almene_fonde_mio_kr": 39,
+      "konkurrenceudsatte_mio_kr": 115
+    },
+    {
+      "fagomraade": "Forskning i alt",
+      "aar": 2025,
+      "alle_fonde_mio_kr": 13501,
+      "erhvervsdrivende_fonde_mio_kr": 10490,
+      "almene_fonde_mio_kr": 3011,
+      "konkurrenceudsatte_mio_kr": 7057
+    },
+    {
+      "fagomraade": "Naturvidenskab",
+      "aar": 2025,
+      "alle_fonde_mio_kr": 2851,
+      "erhvervsdrivende_fonde_mio_kr": 2163,
+      "almene_fonde_mio_kr": 688,
+      "konkurrenceudsatte_mio_kr": 1588
+    },
+    {
+      "fagomraade": "Sundhedsvidenskab",
+      "aar": 2025,
+      "alle_fonde_mio_kr": 5980,
+      "erhvervsdrivende_fonde_mio_kr": 5093,
+      "almene_fonde_mio_kr": 887,
+      "konkurrenceudsatte_mio_kr": 2910
+    },
+    {
+      "fagomraade": "Teknisk videnskab",
+      "aar": 2025,
+      "alle_fonde_mio_kr": 1327,
+      "erhvervsdrivende_fonde_mio_kr": 657,
+      "almene_fonde_mio_kr": 670,
+      "konkurrenceudsatte_mio_kr": 1005
+    },
+    {
+      "fagomraade": "Samfundsvidenskab",
+      "aar": 2025,
+      "alle_fonde_mio_kr": 1462,
+      "erhvervsdrivende_fonde_mio_kr": 924,
+      "almene_fonde_mio_kr": 538,
+      "konkurrenceudsatte_mio_kr": 416
+    },
+    {
+      "fagomraade": "Humaniora",
+      "aar": 2025,
+      "alle_fonde_mio_kr": 343,
+      "erhvervsdrivende_fonde_mio_kr": 299,
+      "almene_fonde_mio_kr": 44,
+      "konkurrenceudsatte_mio_kr": 324
+    },
+    {
+      "fagomraade": "Jordbrugs- og veterinærvidenskab",
+      "aar": 2025,
+      "alle_fonde_mio_kr": 878,
+      "erhvervsdrivende_fonde_mio_kr": 849,
+      "almene_fonde_mio_kr": 29,
+      "konkurrenceudsatte_mio_kr": 365
+    },
+    {
+      "fagomraade": "Tværvidenskab",
+      "aar": 2025,
+      "alle_fonde_mio_kr": 660,
+      "erhvervsdrivende_fonde_mio_kr": 505,
+      "almene_fonde_mio_kr": 155,
+      "konkurrenceudsatte_mio_kr": 449
+    }
+  ],
+  "meta": {
+    "title": "Bevilgede fondsmidler til forskning efter fagområde (2022–2025) - Free Download",
+    "description": "Danske fondes bevillinger til forskning i mio. kr. pr. år fordelt på fagområde (naturvidenskab, sundhedsvidenskab, teknisk videnskab, samfundsvidenskab, humaniora m.fl.) og fondstype, samt konkurrenceudsatte midler (Danmarks Statistik, FOND20). Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bevilgede fondsmidler til forskning efter fagområde (2022–2025) | ListBase",
+    "seo_description": "Download Bevilgede fondsmidler til forskning efter fagområde (2022–2025) — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/FOND20"
+    ]
+  }
+}
