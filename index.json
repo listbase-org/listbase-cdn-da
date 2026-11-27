@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-27T02:10:11.989Z",
-  "total_datasets": 532,
-  "total_records": 247169,
+  "generated": "2026-11-27T02:10:20.892Z",
+  "total_datasets": 533,
+  "total_records": 247547,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "education",
@@ -1717,6 +1717,33 @@
         "xlsx": {
           "name": "da-fuldtidsledige-aarlig-siden-1979_DA.xlsx",
           "size": 8552
+        }
+      }
+    },
+    {
+      "id": "da-gennemsnitsloen-efter-arbejdsfunktion-2025",
+      "name": "Gennemsnitlig månedsløn efter arbejdsfunktion (stilling) 2025",
+      "category": "economy",
+      "record_count": 378,
+      "columns": [
+        "disco_kode",
+        "arbejdsfunktion",
+        "maanedsloen_kr",
+        "maanedsloen_maend_kr",
+        "maanedsloen_kvinder_kr",
+        "antal_fuldtid"
+      ],
+      "source": "https://www.statistikbanken.dk/LONS20",
+      "updated": "2026-11",
+      "size": 97495,
+      "files": {
+        "csv": {
+          "name": "da-gennemsnitsloen-efter-arbejdsfunktion-2025_DA.csv",
+          "size": 33154
+        },
+        "xlsx": {
+          "name": "da-gennemsnitsloen-efter-arbejdsfunktion-2025_DA.xlsx",
+          "size": 27998
         }
       }
     },

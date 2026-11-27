@@ -1,0 +1,3080 @@
+{
+  "id": "da-gennemsnitsloen-efter-arbejdsfunktion-2025",
+  "name": "Gennemsnitlig månedsløn efter arbejdsfunktion (stilling) 2025",
+  "title": "Gennemsnitlig månedsløn efter arbejdsfunktion (stilling) 2025",
+  "description": "Standardberegnet månedsfortjeneste i kr. for fuldtidsansatte i alle sektorer i 2025 fordelt på arbejdsfunktion (DISCO-08, 4-cifret), i alt og for mænd og kvinder, samt antal fuldtidsbeskæftigede i lønstatistikken (Danmarks Statistik, LONS20). Tom værdi = ikke offentliggjort.",
+  "category": "economy",
+  "source": "https://www.statistikbanken.dk/LONS20",
+  "source_url": "https://www.statistikbanken.dk/LONS20",
+  "updated": "2026-11",
+  "record_count": 378,
+  "columns": [
+    {
+      "key": "disco_kode",
+      "label": "Disco Kode",
+      "type": "number"
+    },
+    {
+      "key": "arbejdsfunktion",
+      "label": "Arbejdsfunktion",
+      "type": "string"
+    },
+    {
+      "key": "maanedsloen_kr",
+      "label": "Maanedsloen Kr",
+      "type": "number"
+    },
+    {
+      "key": "maanedsloen_maend_kr",
+      "label": "Maanedsloen Maend Kr",
+      "type": "number"
+    },
+    {
+      "key": "maanedsloen_kvinder_kr",
+      "label": "Maanedsloen Kvinder Kr",
+      "type": "number"
+    },
+    {
+      "key": "antal_fuldtid",
+      "label": "Antal Fuldtid",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "disco_kode": "0110",
+      "arbejdsfunktion": "Militært arbejde på officersniveau",
+      "maanedsloen_kr": 64967.82,
+      "maanedsloen_maend_kr": 65879.51,
+      "maanedsloen_kvinder_kr": 55021.61,
+      "antal_fuldtid": 4270
+    },
+    {
+      "disco_kode": "0210",
+      "arbejdsfunktion": "Militært arbejde på befalingsmandsniveau (underofficersarbejde)",
+      "maanedsloen_kr": 46888.36,
+      "maanedsloen_maend_kr": 47500.54,
+      "maanedsloen_kvinder_kr": 40412.16,
+      "antal_fuldtid": 4438
+    },
+    {
+      "disco_kode": "0310",
+      "arbejdsfunktion": "Militært arbejde, øvrige rangordener",
+      "maanedsloen_kr": 38334.24,
+      "maanedsloen_maend_kr": 38794.64,
+      "maanedsloen_kvinder_kr": 35000.38,
+      "antal_fuldtid": 7753
+    },
+    {
+      "disco_kode": "1111",
+      "arbejdsfunktion": "Øverste ledelse i lovgivende myndigheder",
+      "maanedsloen_kr": 105997.82,
+      "maanedsloen_maend_kr": 111366.36,
+      "maanedsloen_kvinder_kr": 94815.94,
+      "antal_fuldtid": 156
+    },
+    {
+      "disco_kode": "1112",
+      "arbejdsfunktion": "Øverste ledelse i offentlige virksomheder",
+      "maanedsloen_kr": 127342.95,
+      "maanedsloen_maend_kr": 131874.12,
+      "maanedsloen_kvinder_kr": 119877.02,
+      "antal_fuldtid": 851
+    },
+    {
+      "disco_kode": "1114",
+      "arbejdsfunktion": "Øverste ledelse i interesseorganisationer",
+      "maanedsloen_kr": 84447.77,
+      "maanedsloen_maend_kr": 85742.37,
+      "maanedsloen_kvinder_kr": 82608.33,
+      "antal_fuldtid": 670
+    },
+    {
+      "disco_kode": "1120",
+      "arbejdsfunktion": "Øverste virksomhedsledelse",
+      "maanedsloen_kr": 126860.16,
+      "maanedsloen_maend_kr": 129448.03,
+      "maanedsloen_kvinder_kr": 115640.93,
+      "antal_fuldtid": 16040
+    },
+    {
+      "disco_kode": "1211",
+      "arbejdsfunktion": "Ledelse inden for økonomifunktioner",
+      "maanedsloen_kr": 96460.2,
+      "maanedsloen_maend_kr": 103429.78,
+      "maanedsloen_kvinder_kr": 84490.61,
+      "antal_fuldtid": 5481
+    },
+    {
+      "disco_kode": "1212",
+      "arbejdsfunktion": "Ledelse inden for HR-funktioner",
+      "maanedsloen_kr": 88759.73,
+      "maanedsloen_maend_kr": 91033.83,
+      "maanedsloen_kvinder_kr": 87590.27,
+      "antal_fuldtid": 2704
+    },
+    {
+      "disco_kode": "1213",
+      "arbejdsfunktion": "Ledelse inden for offentlig administration og virksomhedsstrategi/policy området",
+      "maanedsloen_kr": 95070.68,
+      "maanedsloen_maend_kr": 98049.79,
+      "maanedsloen_kvinder_kr": 91990.85,
+      "antal_fuldtid": 6369
+    },
+    {
+      "disco_kode": "1219",
+      "arbejdsfunktion": "Ledelse inden for anden forretningsservice og andre administrative funktioner",
+      "maanedsloen_kr": 80625.68,
+      "maanedsloen_maend_kr": 83488.69,
+      "maanedsloen_kvinder_kr": 75115.48,
+      "antal_fuldtid": 10400
+    },
+    {
+      "disco_kode": "1221",
+      "arbejdsfunktion": "Ledelse af salg og marketing",
+      "maanedsloen_kr": 91244.06,
+      "maanedsloen_maend_kr": 94508.97,
+      "maanedsloen_kvinder_kr": 81919.28,
+      "antal_fuldtid": 9936
+    },
+    {
+      "disco_kode": "1222",
+      "arbejdsfunktion": "Ledelse af reklame og PR",
+      "maanedsloen_kr": 94633,
+      "maanedsloen_maend_kr": 98688.74,
+      "maanedsloen_kvinder_kr": 90331.15,
+      "antal_fuldtid": 620
+    },
+    {
+      "disco_kode": "1223",
+      "arbejdsfunktion": "Ledelse af kommerciel forskning og udvikling",
+      "maanedsloen_kr": 106490.39,
+      "maanedsloen_maend_kr": 106819.58,
+      "maanedsloen_kvinder_kr": 105621.04,
+      "antal_fuldtid": 2220
+    },
+    {
+      "disco_kode": "1311",
+      "arbejdsfunktion": "Ledelse af produktion i landbrug og skovbrug",
+      "maanedsloen_kr": 75571.18,
+      "maanedsloen_maend_kr": 76548.77,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 112
+    },
+    {
+      "disco_kode": "1312",
+      "arbejdsfunktion": "Ledelse af produktion inden for akvakultur og fiskeri",
+      "maanedsloen_kr": 89037.02,
+      "maanedsloen_maend_kr": 87869.04,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 54
+    },
+    {
+      "disco_kode": "1321",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for fremstillingsvirksomhed (undtagen landbrug, skovbrug og fiskeri)",
+      "maanedsloen_kr": 84936.84,
+      "maanedsloen_maend_kr": 84061.46,
+      "maanedsloen_kvinder_kr": 90148.52,
+      "antal_fuldtid": 5574
+    },
+    {
+      "disco_kode": "1322",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for råstofudvinding",
+      "maanedsloen_kr": 127538.34,
+      "maanedsloen_maend_kr": 128159.34,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 96
+    },
+    {
+      "disco_kode": "1323",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for bygge- og anlægsvirksomhed",
+      "maanedsloen_kr": 78394.63,
+      "maanedsloen_maend_kr": 78560.44,
+      "maanedsloen_kvinder_kr": 76095.87,
+      "antal_fuldtid": 3237
+    },
+    {
+      "disco_kode": "1324",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for forsyning, distribution o.l.",
+      "maanedsloen_kr": 79195.73,
+      "maanedsloen_maend_kr": 78609.15,
+      "maanedsloen_kvinder_kr": 81446.3,
+      "antal_fuldtid": 2972
+    },
+    {
+      "disco_kode": "1330",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for informations- og kommunikationsteknologi",
+      "maanedsloen_kr": 98959.5,
+      "maanedsloen_maend_kr": 99342.6,
+      "maanedsloen_kvinder_kr": 97337.18,
+      "antal_fuldtid": 3685
+    },
+    {
+      "disco_kode": "1341",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for pædagogisk arbejde med og omsorg for børn",
+      "maanedsloen_kr": 61534.69,
+      "maanedsloen_maend_kr": 63599.01,
+      "maanedsloen_kvinder_kr": 60849.21,
+      "antal_fuldtid": 4409
+    },
+    {
+      "disco_kode": "1342",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for sundhedsområdet",
+      "maanedsloen_kr": 84787.22,
+      "maanedsloen_maend_kr": 94287.45,
+      "maanedsloen_kvinder_kr": 78698,
+      "antal_fuldtid": 213
+    },
+    {
+      "disco_kode": "1343",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for ældreplejen",
+      "maanedsloen_kr": 59984.72,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 59902.09,
+      "antal_fuldtid": 258
+    },
+    {
+      "disco_kode": "1344",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for det sociale område",
+      "maanedsloen_kr": 66240.63,
+      "maanedsloen_maend_kr": 67912.56,
+      "maanedsloen_kvinder_kr": 65379.45,
+      "antal_fuldtid": 471
+    },
+    {
+      "disco_kode": "1345",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for undervisningsområdet",
+      "maanedsloen_kr": 73746.28,
+      "maanedsloen_maend_kr": 74408.26,
+      "maanedsloen_kvinder_kr": 73053.39,
+      "antal_fuldtid": 5376
+    },
+    {
+      "disco_kode": "1346",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for finans-, pension- og forsikringsområdet",
+      "maanedsloen_kr": 114642.11,
+      "maanedsloen_maend_kr": 118344.08,
+      "maanedsloen_kvinder_kr": 106191.88,
+      "antal_fuldtid": 1128
+    },
+    {
+      "disco_kode": "1349",
+      "arbejdsfunktion": "Anden ledelse af hovedaktiviteten inden for servicefag",
+      "maanedsloen_kr": 90021.95,
+      "maanedsloen_maend_kr": 90980.74,
+      "maanedsloen_kvinder_kr": 87560.81,
+      "antal_fuldtid": 1190
+    },
+    {
+      "disco_kode": "1411",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten af hoteller",
+      "maanedsloen_kr": 69948.22,
+      "maanedsloen_maend_kr": 74835.6,
+      "maanedsloen_kvinder_kr": 64932.5,
+      "antal_fuldtid": 325
+    },
+    {
+      "disco_kode": "1412",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for restauration",
+      "maanedsloen_kr": 47758.44,
+      "maanedsloen_maend_kr": 50337.94,
+      "maanedsloen_kvinder_kr": 43667.53,
+      "antal_fuldtid": 829
+    },
+    {
+      "disco_kode": "1420",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for detail- og engroshandel",
+      "maanedsloen_kr": 51993.27,
+      "maanedsloen_maend_kr": 56205.18,
+      "maanedsloen_kvinder_kr": 45207.44,
+      "antal_fuldtid": 6699
+    },
+    {
+      "disco_kode": "1431",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for sport, forlystelse og kultur",
+      "maanedsloen_kr": 60261.88,
+      "maanedsloen_maend_kr": 64610.57,
+      "maanedsloen_kvinder_kr": 54941.6,
+      "antal_fuldtid": 490
+    },
+    {
+      "disco_kode": "1439",
+      "arbejdsfunktion": "Ledelse af hovedaktiviteten inden for andre serviceområder",
+      "maanedsloen_kr": 73135.77,
+      "maanedsloen_maend_kr": 75307.68,
+      "maanedsloen_kvinder_kr": 67829.41,
+      "antal_fuldtid": 1547
+    },
+    {
+      "disco_kode": "2111",
+      "arbejdsfunktion": "Arbejde inden for fysik og astronomi",
+      "maanedsloen_kr": 69095.71,
+      "maanedsloen_maend_kr": 70292.86,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 206
+    },
+    {
+      "disco_kode": "2112",
+      "arbejdsfunktion": "Arbejde inden for meteorologi",
+      "maanedsloen_kr": 56878.54,
+      "maanedsloen_maend_kr": 58598.46,
+      "maanedsloen_kvinder_kr": 53571.6,
+      "antal_fuldtid": 229
+    },
+    {
+      "disco_kode": "2113",
+      "arbejdsfunktion": "Arbejde inden for kemi",
+      "maanedsloen_kr": 72206.77,
+      "maanedsloen_maend_kr": 75315.73,
+      "maanedsloen_kvinder_kr": 69094.08,
+      "antal_fuldtid": 1277
+    },
+    {
+      "disco_kode": "2114",
+      "arbejdsfunktion": "Arbejde inden for geologi og geofysik",
+      "maanedsloen_kr": 69911.72,
+      "maanedsloen_maend_kr": 72584.51,
+      "maanedsloen_kvinder_kr": 65124.97,
+      "antal_fuldtid": 511
+    },
+    {
+      "disco_kode": "2120",
+      "arbejdsfunktion": "Arbejde med matematiske, aktuariske og statistiske metoder og teorier",
+      "maanedsloen_kr": 78685.93,
+      "maanedsloen_maend_kr": 80247.41,
+      "maanedsloen_kvinder_kr": 76001.72,
+      "antal_fuldtid": 1842
+    },
+    {
+      "disco_kode": "2131",
+      "arbejdsfunktion": "Arbejde inden for biokemi, biologi, botanik, zoologi og beslægtede områder",
+      "maanedsloen_kr": 71021.57,
+      "maanedsloen_maend_kr": 72485.13,
+      "maanedsloen_kvinder_kr": 69999.45,
+      "antal_fuldtid": 4822
+    },
+    {
+      "disco_kode": "2132",
+      "arbejdsfunktion": "Rådgivning inden for landbrug, skovbrug og fiskeri",
+      "maanedsloen_kr": 56393.93,
+      "maanedsloen_maend_kr": 57999.9,
+      "maanedsloen_kvinder_kr": 54126.79,
+      "antal_fuldtid": 1812
+    },
+    {
+      "disco_kode": "2133",
+      "arbejdsfunktion": "Arbejde inden for miljøbeskyttelse",
+      "maanedsloen_kr": 55963.03,
+      "maanedsloen_maend_kr": 57379.21,
+      "maanedsloen_kvinder_kr": 54988.93,
+      "antal_fuldtid": 769
+    },
+    {
+      "disco_kode": "2141",
+      "arbejdsfunktion": "Ingeniørarbejde i industri og produktion",
+      "maanedsloen_kr": 70227.95,
+      "maanedsloen_maend_kr": 70719.7,
+      "maanedsloen_kvinder_kr": 67978.8,
+      "antal_fuldtid": 10579
+    },
+    {
+      "disco_kode": "2142",
+      "arbejdsfunktion": "Ingeniørarbejde vedrørende bygninger og anlæg",
+      "maanedsloen_kr": 68240.92,
+      "maanedsloen_maend_kr": 70040.68,
+      "maanedsloen_kvinder_kr": 62370.97,
+      "antal_fuldtid": 15637
+    },
+    {
+      "disco_kode": "2143",
+      "arbejdsfunktion": "Ingeniørarbejde inden for miljø",
+      "maanedsloen_kr": 62309.91,
+      "maanedsloen_maend_kr": 63599.29,
+      "maanedsloen_kvinder_kr": 59963.73,
+      "antal_fuldtid": 3340
+    },
+    {
+      "disco_kode": "2144",
+      "arbejdsfunktion": "Ingeniørarbejde inden for mekaniske systemer",
+      "maanedsloen_kr": 68837.05,
+      "maanedsloen_maend_kr": 69493.47,
+      "maanedsloen_kvinder_kr": 63474.23,
+      "antal_fuldtid": 6473
+    },
+    {
+      "disco_kode": "2145",
+      "arbejdsfunktion": "Ingeniørarbejde inden for kemi",
+      "maanedsloen_kr": 78047.25,
+      "maanedsloen_maend_kr": 79588.02,
+      "maanedsloen_kvinder_kr": 76224.56,
+      "antal_fuldtid": 10077
+    },
+    {
+      "disco_kode": "2146",
+      "arbejdsfunktion": "Ingeniørarbejde inden for minedrift, metallurgi og beslægtede områder",
+      "maanedsloen_kr": 83303.28,
+      "maanedsloen_maend_kr": 86449.31,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 68
+    },
+    {
+      "disco_kode": "2149",
+      "arbejdsfunktion": "Andet ingeniørarbejde (undtagen elektroteknologi)",
+      "maanedsloen_kr": 70708.15,
+      "maanedsloen_maend_kr": 72985.58,
+      "maanedsloen_kvinder_kr": 65604.97,
+      "antal_fuldtid": 11288
+    },
+    {
+      "disco_kode": "2151",
+      "arbejdsfunktion": "Ingeniørarbejde inden for elektricitet",
+      "maanedsloen_kr": 70948.56,
+      "maanedsloen_maend_kr": 71674.09,
+      "maanedsloen_kvinder_kr": 65931.83,
+      "antal_fuldtid": 2338
+    },
+    {
+      "disco_kode": "2152",
+      "arbejdsfunktion": "Ingeniørarbejde inden for elektronik",
+      "maanedsloen_kr": 71198.33,
+      "maanedsloen_maend_kr": 71890.03,
+      "maanedsloen_kvinder_kr": 64828.75,
+      "antal_fuldtid": 4421
+    },
+    {
+      "disco_kode": "2153",
+      "arbejdsfunktion": "Ingeniørarbejde inden for telekommunikation",
+      "maanedsloen_kr": 74110.43,
+      "maanedsloen_maend_kr": 74776.47,
+      "maanedsloen_kvinder_kr": 67438.9,
+      "antal_fuldtid": 788
+    },
+    {
+      "disco_kode": "2161",
+      "arbejdsfunktion": "Arbejde med bygningsarkitektur",
+      "maanedsloen_kr": 60803.43,
+      "maanedsloen_maend_kr": 62340.13,
+      "maanedsloen_kvinder_kr": 59098.03,
+      "antal_fuldtid": 4126
+    },
+    {
+      "disco_kode": "2162",
+      "arbejdsfunktion": "Arbejde med landskabsarkitektur",
+      "maanedsloen_kr": 57061.08,
+      "maanedsloen_maend_kr": 57780.96,
+      "maanedsloen_kvinder_kr": 56509.34,
+      "antal_fuldtid": 1064
+    },
+    {
+      "disco_kode": "2163",
+      "arbejdsfunktion": "Arbejde med produkt- og tøjdesign",
+      "maanedsloen_kr": 53439.67,
+      "maanedsloen_maend_kr": 61020.07,
+      "maanedsloen_kvinder_kr": 49877.16,
+      "antal_fuldtid": 2533
+    },
+    {
+      "disco_kode": "2164",
+      "arbejdsfunktion": "Arbejde med by- og trafikplanlægning",
+      "maanedsloen_kr": 62173.49,
+      "maanedsloen_maend_kr": 63615,
+      "maanedsloen_kvinder_kr": 59281.91,
+      "antal_fuldtid": 471
+    },
+    {
+      "disco_kode": "2165",
+      "arbejdsfunktion": "Arbejde med kartografi og landinspektørarbejde",
+      "maanedsloen_kr": 63967.11,
+      "maanedsloen_maend_kr": 65227.3,
+      "maanedsloen_kvinder_kr": 60936.63,
+      "antal_fuldtid": 684
+    },
+    {
+      "disco_kode": "2166",
+      "arbejdsfunktion": "Arbejde med grafisk og multimediedesign",
+      "maanedsloen_kr": 48485.61,
+      "maanedsloen_maend_kr": 50973.93,
+      "maanedsloen_kvinder_kr": 46142.67,
+      "antal_fuldtid": 1694
+    },
+    {
+      "disco_kode": "2211",
+      "arbejdsfunktion": "Almindeligt lægearbejde",
+      "maanedsloen_kr": 82193.18,
+      "maanedsloen_maend_kr": 86518.26,
+      "maanedsloen_kvinder_kr": 78824.49,
+      "antal_fuldtid": 19848
+    },
+    {
+      "disco_kode": "2212",
+      "arbejdsfunktion": "Speciallægearbejde",
+      "maanedsloen_kr": 103070.42,
+      "maanedsloen_maend_kr": 105619.52,
+      "maanedsloen_kvinder_kr": 100268.35,
+      "antal_fuldtid": 769
+    },
+    {
+      "disco_kode": "2221",
+      "arbejdsfunktion": "Sygeplejerskearbejde",
+      "maanedsloen_kr": 51753.53,
+      "maanedsloen_maend_kr": 54443.2,
+      "maanedsloen_kvinder_kr": 51605.42,
+      "antal_fuldtid": 54985
+    },
+    {
+      "disco_kode": "2222",
+      "arbejdsfunktion": "Jordemoderarbejde",
+      "maanedsloen_kr": 50763.57,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 50766.09,
+      "antal_fuldtid": 2022
+    },
+    {
+      "disco_kode": "2240",
+      "arbejdsfunktion": "Paramedicinsk arbejde",
+      "maanedsloen_kr": 51831.6,
+      "maanedsloen_maend_kr": 51423.98,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 221
+    },
+    {
+      "disco_kode": "2250",
+      "arbejdsfunktion": "Dyrlægearbejde",
+      "maanedsloen_kr": 62984,
+      "maanedsloen_maend_kr": 70507.59,
+      "maanedsloen_kvinder_kr": 60611.66,
+      "antal_fuldtid": 1019
+    },
+    {
+      "disco_kode": "2261",
+      "arbejdsfunktion": "Tandlægearbejde",
+      "maanedsloen_kr": 74078.38,
+      "maanedsloen_maend_kr": 84227.29,
+      "maanedsloen_kvinder_kr": 71262.82,
+      "antal_fuldtid": 1294
+    },
+    {
+      "disco_kode": "2262",
+      "arbejdsfunktion": "Farmaceutarbejde",
+      "maanedsloen_kr": 82411.76,
+      "maanedsloen_maend_kr": 87046.79,
+      "maanedsloen_kvinder_kr": 79741.38,
+      "antal_fuldtid": 5131
+    },
+    {
+      "disco_kode": "2263",
+      "arbejdsfunktion": "Arbejde inden for arbejdsmiljø og hygiejne",
+      "maanedsloen_kr": 63957.3,
+      "maanedsloen_maend_kr": 66356.65,
+      "maanedsloen_kvinder_kr": 61959.84,
+      "antal_fuldtid": 1055
+    },
+    {
+      "disco_kode": "2264",
+      "arbejdsfunktion": "Fysioterapeut- og afspændingspædagogarbejde",
+      "maanedsloen_kr": 46073.79,
+      "maanedsloen_maend_kr": 45180.56,
+      "maanedsloen_kvinder_kr": 46377.67,
+      "antal_fuldtid": 8246
+    },
+    {
+      "disco_kode": "2265",
+      "arbejdsfunktion": "Kost- og ernæringsarbejde",
+      "maanedsloen_kr": 41758.44,
+      "maanedsloen_maend_kr": 42812.29,
+      "maanedsloen_kvinder_kr": 41639.63,
+      "antal_fuldtid": 3357
+    },
+    {
+      "disco_kode": "2266",
+      "arbejdsfunktion": "Arbejde inden for audiologi og logopædi",
+      "maanedsloen_kr": 54171.54,
+      "maanedsloen_maend_kr": 59728.93,
+      "maanedsloen_kvinder_kr": 51802.93,
+      "antal_fuldtid": 382
+    },
+    {
+      "disco_kode": "2267",
+      "arbejdsfunktion": "Optiker/optometristarbejde",
+      "maanedsloen_kr": 49633.23,
+      "maanedsloen_maend_kr": 51859.08,
+      "maanedsloen_kvinder_kr": 48819.25,
+      "antal_fuldtid": 887
+    },
+    {
+      "disco_kode": "2269",
+      "arbejdsfunktion": "Sundhedsarbejde ikke klassificeret andetsteds",
+      "maanedsloen_kr": 47611.85,
+      "maanedsloen_maend_kr": 47104.5,
+      "maanedsloen_kvinder_kr": 47684.94,
+      "antal_fuldtid": 8238
+    },
+    {
+      "disco_kode": "2310",
+      "arbejdsfunktion": "Undervisning og forskning på universiteter og højere læreanstalter",
+      "maanedsloen_kr": 57221.1,
+      "maanedsloen_maend_kr": 59092.85,
+      "maanedsloen_kvinder_kr": 55147.3,
+      "antal_fuldtid": 28199
+    },
+    {
+      "disco_kode": "2320",
+      "arbejdsfunktion": "Undervisning ved erhvervsuddannelser",
+      "maanedsloen_kr": 49754.31,
+      "maanedsloen_maend_kr": 50236.53,
+      "maanedsloen_kvinder_kr": 49116.94,
+      "antal_fuldtid": 8992
+    },
+    {
+      "disco_kode": "2330",
+      "arbejdsfunktion": "Almen undervisning efter grundskoleniveau",
+      "maanedsloen_kr": 57789.28,
+      "maanedsloen_maend_kr": 58194.36,
+      "maanedsloen_kvinder_kr": 57434.64,
+      "antal_fuldtid": 12876
+    },
+    {
+      "disco_kode": "2341",
+      "arbejdsfunktion": "Undervisning på grundskoleniveau (inkl. 10. klasse)",
+      "maanedsloen_kr": 51799.46,
+      "maanedsloen_maend_kr": 51586.81,
+      "maanedsloen_kvinder_kr": 51912.3,
+      "antal_fuldtid": 59499
+    },
+    {
+      "disco_kode": "2342",
+      "arbejdsfunktion": "Undervisning før grundskoleniveau",
+      "maanedsloen_kr": 44658.86,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 43683.71,
+      "antal_fuldtid": 94
+    },
+    {
+      "disco_kode": "2343",
+      "arbejdsfunktion": "Pædagogisk arbejde",
+      "maanedsloen_kr": 42894.83,
+      "maanedsloen_maend_kr": 43037.53,
+      "maanedsloen_kvinder_kr": 42849.51,
+      "antal_fuldtid": 60606
+    },
+    {
+      "disco_kode": "2351",
+      "arbejdsfunktion": "Forskning, udvikling og rådgivning inden for undervisningsmetoder",
+      "maanedsloen_kr": 59098.58,
+      "maanedsloen_maend_kr": 61577.7,
+      "maanedsloen_kvinder_kr": 58145.23,
+      "antal_fuldtid": 4678
+    },
+    {
+      "disco_kode": "2352",
+      "arbejdsfunktion": "Specialundervisning",
+      "maanedsloen_kr": 55014.88,
+      "maanedsloen_maend_kr": 54710.01,
+      "maanedsloen_kvinder_kr": 55209.42,
+      "antal_fuldtid": 4035
+    },
+    {
+      "disco_kode": "2353",
+      "arbejdsfunktion": "Anden sprogundervisning",
+      "maanedsloen_kr": 55431.78,
+      "maanedsloen_maend_kr": 54652.58,
+      "maanedsloen_kvinder_kr": 55689.1,
+      "antal_fuldtid": 878
+    },
+    {
+      "disco_kode": "2354",
+      "arbejdsfunktion": "Anden musik- og sangundervisning",
+      "maanedsloen_kr": 47429.09,
+      "maanedsloen_maend_kr": 47492.27,
+      "maanedsloen_kvinder_kr": 47358.23,
+      "antal_fuldtid": 1300
+    },
+    {
+      "disco_kode": "2355",
+      "arbejdsfunktion": "Anden undervisning inden for kreative fag",
+      "maanedsloen_kr": 48209.47,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 62
+    },
+    {
+      "disco_kode": "2356",
+      "arbejdsfunktion": "Anden undervisning inden for informationsteknologi",
+      "maanedsloen_kr": 52959.19,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 62
+    },
+    {
+      "disco_kode": "2357",
+      "arbejdsfunktion": "Specialpædagogisk arbejde",
+      "maanedsloen_kr": 45563.16,
+      "maanedsloen_maend_kr": 45543.4,
+      "maanedsloen_kvinder_kr": 45572.56,
+      "antal_fuldtid": 29983
+    },
+    {
+      "disco_kode": "2359",
+      "arbejdsfunktion": "Undervisnings- og pædagogisk arbejde ikke klassificeret andetsteds",
+      "maanedsloen_kr": 49623.44,
+      "maanedsloen_maend_kr": 52098.7,
+      "maanedsloen_kvinder_kr": 47837.73,
+      "antal_fuldtid": 1397
+    },
+    {
+      "disco_kode": "2411",
+      "arbejdsfunktion": "Revisions- og regnskabscontrollerarbejde",
+      "maanedsloen_kr": 68112.33,
+      "maanedsloen_maend_kr": 71631.98,
+      "maanedsloen_kvinder_kr": 63986.22,
+      "antal_fuldtid": 14888
+    },
+    {
+      "disco_kode": "2412",
+      "arbejdsfunktion": "Rådgivning inden for finans, pension, forsikring og investering",
+      "maanedsloen_kr": 68575.11,
+      "maanedsloen_maend_kr": 72098.47,
+      "maanedsloen_kvinder_kr": 64107.52,
+      "antal_fuldtid": 17241
+    },
+    {
+      "disco_kode": "2413",
+      "arbejdsfunktion": "Arbejde med analyse, produktudvikling og vedligeholdelse inden for finans, pension og forsikring",
+      "maanedsloen_kr": 79647.1,
+      "maanedsloen_maend_kr": 81898.69,
+      "maanedsloen_kvinder_kr": 76270.11,
+      "antal_fuldtid": 8195
+    },
+    {
+      "disco_kode": "2421",
+      "arbejdsfunktion": "Analytikerarbejde inden for ledelse og virksomhedsorganisation",
+      "maanedsloen_kr": 80306.37,
+      "maanedsloen_maend_kr": 82475.94,
+      "maanedsloen_kvinder_kr": 77887.86,
+      "antal_fuldtid": 13631
+    },
+    {
+      "disco_kode": "2422",
+      "arbejdsfunktion": "Arbejde med virksomhedsstrategi/policy",
+      "maanedsloen_kr": 73526.1,
+      "maanedsloen_maend_kr": 76925.3,
+      "maanedsloen_kvinder_kr": 69910.11,
+      "antal_fuldtid": 6814
+    },
+    {
+      "disco_kode": "2423",
+      "arbejdsfunktion": "Arbejde med analyse og rådgivning inden for HR",
+      "maanedsloen_kr": 71026.45,
+      "maanedsloen_maend_kr": 74656.41,
+      "maanedsloen_kvinder_kr": 69295.46,
+      "antal_fuldtid": 5576
+    },
+    {
+      "disco_kode": "2424",
+      "arbejdsfunktion": "Arbejde med personaleudvikling og -oplæring",
+      "maanedsloen_kr": 68431.85,
+      "maanedsloen_maend_kr": 71565.42,
+      "maanedsloen_kvinder_kr": 67095.43,
+      "antal_fuldtid": 2411
+    },
+    {
+      "disco_kode": "2431",
+      "arbejdsfunktion": "Arbejde inden for reklame og marketing",
+      "maanedsloen_kr": 59985.14,
+      "maanedsloen_maend_kr": 64405.39,
+      "maanedsloen_kvinder_kr": 56880.73,
+      "antal_fuldtid": 12544
+    },
+    {
+      "disco_kode": "2432",
+      "arbejdsfunktion": "Arbejde inden for PR",
+      "maanedsloen_kr": 60091.78,
+      "maanedsloen_maend_kr": 64658.71,
+      "maanedsloen_kvinder_kr": 57176.77,
+      "antal_fuldtid": 2630
+    },
+    {
+      "disco_kode": "2433",
+      "arbejdsfunktion": "Arbejde inden for teknisk og medicinsk salg (undtagen informations- og kommunikationsteknologi)",
+      "maanedsloen_kr": 75438.6,
+      "maanedsloen_maend_kr": 76749.24,
+      "maanedsloen_kvinder_kr": 72878.34,
+      "antal_fuldtid": 5443
+    },
+    {
+      "disco_kode": "2434",
+      "arbejdsfunktion": "Arbejde inden for salg af informations- og kommunikationsteknologi",
+      "maanedsloen_kr": 79336.5,
+      "maanedsloen_maend_kr": 83135.29,
+      "maanedsloen_kvinder_kr": 70244.35,
+      "antal_fuldtid": 4102
+    },
+    {
+      "disco_kode": "2511",
+      "arbejdsfunktion": "Systemanalytikerarbejde",
+      "maanedsloen_kr": 71961.02,
+      "maanedsloen_maend_kr": 73357.46,
+      "maanedsloen_kvinder_kr": 67705.97,
+      "antal_fuldtid": 19038
+    },
+    {
+      "disco_kode": "2512",
+      "arbejdsfunktion": "Softwareudvikling",
+      "maanedsloen_kr": 69686.37,
+      "maanedsloen_maend_kr": 70678.51,
+      "maanedsloen_kvinder_kr": 66483.61,
+      "antal_fuldtid": 33423
+    },
+    {
+      "disco_kode": "2513",
+      "arbejdsfunktion": "Web- og multimedieudvikling",
+      "maanedsloen_kr": 57237.62,
+      "maanedsloen_maend_kr": 58751.6,
+      "maanedsloen_kvinder_kr": 53727.65,
+      "antal_fuldtid": 3341
+    },
+    {
+      "disco_kode": "2514",
+      "arbejdsfunktion": "Vedligeholdelse og dokumentation af software",
+      "maanedsloen_kr": 70917.69,
+      "maanedsloen_maend_kr": 71526.21,
+      "maanedsloen_kvinder_kr": 68166.72,
+      "antal_fuldtid": 2608
+    },
+    {
+      "disco_kode": "2519",
+      "arbejdsfunktion": "Andet arbejde med software, herunder test og kvalitetssikring",
+      "maanedsloen_kr": 64897.65,
+      "maanedsloen_maend_kr": 65939.14,
+      "maanedsloen_kvinder_kr": 62377.74,
+      "antal_fuldtid": 5431
+    },
+    {
+      "disco_kode": "2521",
+      "arbejdsfunktion": "Design og administration af databaser",
+      "maanedsloen_kr": 67113.11,
+      "maanedsloen_maend_kr": 68992.18,
+      "maanedsloen_kvinder_kr": 61606.69,
+      "antal_fuldtid": 1665
+    },
+    {
+      "disco_kode": "2522",
+      "arbejdsfunktion": "Systemadministration",
+      "maanedsloen_kr": 62749.91,
+      "maanedsloen_maend_kr": 63257.7,
+      "maanedsloen_kvinder_kr": 60258.77,
+      "antal_fuldtid": 4071
+    },
+    {
+      "disco_kode": "2523",
+      "arbejdsfunktion": "Arbejde med computernetværk",
+      "maanedsloen_kr": 62873.71,
+      "maanedsloen_maend_kr": 62955.85,
+      "maanedsloen_kvinder_kr": 62340.45,
+      "antal_fuldtid": 1169
+    },
+    {
+      "disco_kode": "2529",
+      "arbejdsfunktion": "Andet arbejde med databaser og netværk",
+      "maanedsloen_kr": 64917.26,
+      "maanedsloen_maend_kr": 65778.69,
+      "maanedsloen_kvinder_kr": 62045.99,
+      "antal_fuldtid": 3274
+    },
+    {
+      "disco_kode": "2611",
+      "arbejdsfunktion": "Advokatarbejde",
+      "maanedsloen_kr": 80926.1,
+      "maanedsloen_maend_kr": 83636.04,
+      "maanedsloen_kvinder_kr": 78243.66,
+      "antal_fuldtid": 4558
+    },
+    {
+      "disco_kode": "2612",
+      "arbejdsfunktion": "Dommerarbejde",
+      "maanedsloen_kr": 90694.95,
+      "maanedsloen_maend_kr": 94079.19,
+      "maanedsloen_kvinder_kr": 88405.25,
+      "antal_fuldtid": 692
+    },
+    {
+      "disco_kode": "2619",
+      "arbejdsfunktion": "Andet juridisk arbejde",
+      "maanedsloen_kr": 64573.23,
+      "maanedsloen_maend_kr": 67128.99,
+      "maanedsloen_kvinder_kr": 62982.71,
+      "antal_fuldtid": 18233
+    },
+    {
+      "disco_kode": "2621",
+      "arbejdsfunktion": "Arkivar- og museumsinspektørarbejde",
+      "maanedsloen_kr": 51743.92,
+      "maanedsloen_maend_kr": 52699.44,
+      "maanedsloen_kvinder_kr": 51095.87,
+      "antal_fuldtid": 514
+    },
+    {
+      "disco_kode": "2622",
+      "arbejdsfunktion": "Bibliotekararbejde og andet informationsarbejde",
+      "maanedsloen_kr": 53793.01,
+      "maanedsloen_maend_kr": 54513.33,
+      "maanedsloen_kvinder_kr": 53519.31,
+      "antal_fuldtid": 1902
+    },
+    {
+      "disco_kode": "2631",
+      "arbejdsfunktion": "Arbejde inden for samfundsøkonomi",
+      "maanedsloen_kr": 62400.62,
+      "maanedsloen_maend_kr": 64375.35,
+      "maanedsloen_kvinder_kr": 60369.19,
+      "antal_fuldtid": 5947
+    },
+    {
+      "disco_kode": "2632",
+      "arbejdsfunktion": "Arbejde inden for sociologi, antropologi og beslægtede områder",
+      "maanedsloen_kr": 56095.71,
+      "maanedsloen_maend_kr": 57633.75,
+      "maanedsloen_kvinder_kr": 55327.82,
+      "antal_fuldtid": 1458
+    },
+    {
+      "disco_kode": "2633",
+      "arbejdsfunktion": "Arbejde inden for filosofi, historie og statskundskab",
+      "maanedsloen_kr": 58687.63,
+      "maanedsloen_maend_kr": 61605.99,
+      "maanedsloen_kvinder_kr": 56785.21,
+      "antal_fuldtid": 2695
+    },
+    {
+      "disco_kode": "2634",
+      "arbejdsfunktion": "Arbejde inden for psykologi",
+      "maanedsloen_kr": 55474.94,
+      "maanedsloen_maend_kr": 57026.42,
+      "maanedsloen_kvinder_kr": 55049.79,
+      "antal_fuldtid": 7502
+    },
+    {
+      "disco_kode": "2635",
+      "arbejdsfunktion": "Socialrådgivningsarbejde",
+      "maanedsloen_kr": 47100.8,
+      "maanedsloen_maend_kr": 47968.06,
+      "maanedsloen_kvinder_kr": 46986.52,
+      "antal_fuldtid": 16943
+    },
+    {
+      "disco_kode": "2636",
+      "arbejdsfunktion": "Arbejde inden for religion",
+      "maanedsloen_kr": 53176.8,
+      "maanedsloen_maend_kr": 53019.28,
+      "maanedsloen_kvinder_kr": 53298.32,
+      "antal_fuldtid": 2390
+    },
+    {
+      "disco_kode": "2641",
+      "arbejdsfunktion": "Forfatterarbejde",
+      "maanedsloen_kr": 50789.61,
+      "maanedsloen_maend_kr": 56798.23,
+      "maanedsloen_kvinder_kr": 46135.7,
+      "antal_fuldtid": 184
+    },
+    {
+      "disco_kode": "2642",
+      "arbejdsfunktion": "Journalistisk arbejde",
+      "maanedsloen_kr": 57516.93,
+      "maanedsloen_maend_kr": 58438.25,
+      "maanedsloen_kvinder_kr": 56616.59,
+      "antal_fuldtid": 8006
+    },
+    {
+      "disco_kode": "2643",
+      "arbejdsfunktion": "Translatørarbejde og andet sprogvidenskabeligt arbejde",
+      "maanedsloen_kr": 47707.76,
+      "maanedsloen_maend_kr": 50046.1,
+      "maanedsloen_kvinder_kr": 46846.48,
+      "antal_fuldtid": 533
+    },
+    {
+      "disco_kode": "2651",
+      "arbejdsfunktion": "Kunstnerisk arbejde inden for visuelle kunstarter",
+      "maanedsloen_kr": 49030.51,
+      "maanedsloen_maend_kr": 51988.96,
+      "maanedsloen_kvinder_kr": 45395.73,
+      "antal_fuldtid": 180
+    },
+    {
+      "disco_kode": "2652",
+      "arbejdsfunktion": "Kunstnerisk arbejde inden for musik og sang",
+      "maanedsloen_kr": 47375.03,
+      "maanedsloen_maend_kr": 48889.18,
+      "maanedsloen_kvinder_kr": 46204.62,
+      "antal_fuldtid": 2905
+    },
+    {
+      "disco_kode": "2653",
+      "arbejdsfunktion": "Kunstnerisk arbejde inden for dans og koreografi",
+      "maanedsloen_kr": 39616.09,
+      "maanedsloen_maend_kr": 40613.02,
+      "maanedsloen_kvinder_kr": 38674.45,
+      "antal_fuldtid": 126
+    },
+    {
+      "disco_kode": "2654",
+      "arbejdsfunktion": "Arbejde med instruktion og produktion af film, teater og beslægtede funktioner",
+      "maanedsloen_kr": 47941.77,
+      "maanedsloen_maend_kr": 49439.58,
+      "maanedsloen_kvinder_kr": 46375.26,
+      "antal_fuldtid": 898
+    },
+    {
+      "disco_kode": "2655",
+      "arbejdsfunktion": "Skuespilarbejde",
+      "maanedsloen_kr": 46279.54,
+      "maanedsloen_maend_kr": 47004.35,
+      "maanedsloen_kvinder_kr": 45399.24,
+      "antal_fuldtid": 219
+    },
+    {
+      "disco_kode": "2659",
+      "arbejdsfunktion": "Andet arbejde med kunst og kreative fag",
+      "maanedsloen_kr": 75321.13,
+      "maanedsloen_maend_kr": 81734.49,
+      "maanedsloen_kvinder_kr": 66642.74,
+      "antal_fuldtid": 535
+    },
+    {
+      "disco_kode": "3111",
+      "arbejdsfunktion": "Teknikerarbejde inden for kemisk, fysisk, biologisk og bioteknologisk videnskab",
+      "maanedsloen_kr": 52745.04,
+      "maanedsloen_maend_kr": 53859.06,
+      "maanedsloen_kvinder_kr": 52296.61,
+      "antal_fuldtid": 8488
+    },
+    {
+      "disco_kode": "3112",
+      "arbejdsfunktion": "Teknikerarbejde inden for byggeri- og anlæg",
+      "maanedsloen_kr": 58428.81,
+      "maanedsloen_maend_kr": 59365.41,
+      "maanedsloen_kvinder_kr": 53358.33,
+      "antal_fuldtid": 12341
+    },
+    {
+      "disco_kode": "3113",
+      "arbejdsfunktion": "Teknikerarbejde inden for det elektriske område",
+      "maanedsloen_kr": 62231.26,
+      "maanedsloen_maend_kr": 62639.02,
+      "maanedsloen_kvinder_kr": 55309.64,
+      "antal_fuldtid": 4966
+    },
+    {
+      "disco_kode": "3114",
+      "arbejdsfunktion": "Teknikerarbejde inden for det elektroniske område",
+      "maanedsloen_kr": 59041.34,
+      "maanedsloen_maend_kr": 59705.62,
+      "maanedsloen_kvinder_kr": 52866.87,
+      "antal_fuldtid": 3566
+    },
+    {
+      "disco_kode": "3115",
+      "arbejdsfunktion": "Teknikerarbejde inden for det mekaniske område",
+      "maanedsloen_kr": 59674.92,
+      "maanedsloen_maend_kr": 60162.46,
+      "maanedsloen_kvinder_kr": 52693.55,
+      "antal_fuldtid": 6377
+    },
+    {
+      "disco_kode": "3116",
+      "arbejdsfunktion": "Teknikerarbejde inden for det kemiske område",
+      "maanedsloen_kr": 62216.73,
+      "maanedsloen_maend_kr": 62664.07,
+      "maanedsloen_kvinder_kr": 60583.28,
+      "antal_fuldtid": 650
+    },
+    {
+      "disco_kode": "3117",
+      "arbejdsfunktion": "Teknikerarbejde inden for minedrift og metallurgi",
+      "maanedsloen_kr": 75176.65,
+      "maanedsloen_maend_kr": 75340.1,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 243
+    },
+    {
+      "disco_kode": "3118",
+      "arbejdsfunktion": "Teknisk tegnearbejde",
+      "maanedsloen_kr": 51949.01,
+      "maanedsloen_maend_kr": 54066.75,
+      "maanedsloen_kvinder_kr": 49411.29,
+      "antal_fuldtid": 4917
+    },
+    {
+      "disco_kode": "3119",
+      "arbejdsfunktion": "Andet teknikerarbejde inden for fysisk videnskab og ingeniørvirksomhed",
+      "maanedsloen_kr": 59979.6,
+      "maanedsloen_maend_kr": 61483.9,
+      "maanedsloen_kvinder_kr": 55399.31,
+      "antal_fuldtid": 8605
+    },
+    {
+      "disco_kode": "3131",
+      "arbejdsfunktion": "Teknisk kontrolarbejde på kraftværker",
+      "maanedsloen_kr": 67225.43,
+      "maanedsloen_maend_kr": 67485.86,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 156
+    },
+    {
+      "disco_kode": "3132",
+      "arbejdsfunktion": "Teknisk kontrolarbejde på forbrændings- og vandrensningsanlæg",
+      "maanedsloen_kr": 58554.67,
+      "maanedsloen_maend_kr": 59122.53,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 157
+    },
+    {
+      "disco_kode": "3134",
+      "arbejdsfunktion": "Teknisk kontrolarbejde på olie- og naturgasraffinaderier",
+      "maanedsloen_kr": 71852.69,
+      "maanedsloen_maend_kr": 72888.73,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 84
+    },
+    {
+      "disco_kode": "3135",
+      "arbejdsfunktion": "Teknisk kontrolarbejde ved metalproduktion",
+      "maanedsloen_kr": 59144.01,
+      "maanedsloen_maend_kr": 60434.57,
+      "maanedsloen_kvinder_kr": 54111.62,
+      "antal_fuldtid": 306
+    },
+    {
+      "disco_kode": "3139",
+      "arbejdsfunktion": "Andet teknisk kontrolarbejde inden for processtyring",
+      "maanedsloen_kr": 63575.83,
+      "maanedsloen_maend_kr": 65462.09,
+      "maanedsloen_kvinder_kr": 59505.32,
+      "antal_fuldtid": 3060
+    },
+    {
+      "disco_kode": "3141",
+      "arbejdsfunktion": "Teknikerarbejde inden for biovidenskab (undtagen medicinsk område)",
+      "maanedsloen_kr": 54886.38,
+      "maanedsloen_maend_kr": 58022.95,
+      "maanedsloen_kvinder_kr": 52106.3,
+      "antal_fuldtid": 270
+    },
+    {
+      "disco_kode": "3142",
+      "arbejdsfunktion": "Landbrugsteknikerarbejde",
+      "maanedsloen_kr": 49850.53,
+      "maanedsloen_maend_kr": 51060.62,
+      "maanedsloen_kvinder_kr": 47295.68,
+      "antal_fuldtid": 502
+    },
+    {
+      "disco_kode": "3143",
+      "arbejdsfunktion": "Skovbrugsteknikerarbejde",
+      "maanedsloen_kr": 53262.19,
+      "maanedsloen_maend_kr": 54534.78,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 104
+    },
+    {
+      "disco_kode": "3151",
+      "arbejdsfunktion": "Teknikerarbejde inden for skibsfart",
+      "maanedsloen_kr": 73129.99,
+      "maanedsloen_maend_kr": 73326.93,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 647
+    },
+    {
+      "disco_kode": "3152",
+      "arbejdsfunktion": "Skibsførerarbejde",
+      "maanedsloen_kr": 59764.52,
+      "maanedsloen_maend_kr": 59995.83,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 911
+    },
+    {
+      "disco_kode": "3153",
+      "arbejdsfunktion": "Flypilotarbejde",
+      "maanedsloen_kr": 102858.82,
+      "maanedsloen_maend_kr": 103792.47,
+      "maanedsloen_kvinder_kr": 82786.38,
+      "antal_fuldtid": 1595
+    },
+    {
+      "disco_kode": "3154",
+      "arbejdsfunktion": "Flyvelederarbejde",
+      "maanedsloen_kr": 67936.74,
+      "maanedsloen_maend_kr": 68522.2,
+      "maanedsloen_kvinder_kr": 66391.55,
+      "antal_fuldtid": 451
+    },
+    {
+      "disco_kode": "3155",
+      "arbejdsfunktion": "Teknikerarbejde inden for luftfartssikkerhed",
+      "maanedsloen_kr": 56917.37,
+      "maanedsloen_maend_kr": 57358.98,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 314
+    },
+    {
+      "disco_kode": "3211",
+      "arbejdsfunktion": "Teknikerarbejde inden for brug af medicinsk røntgen- og behandlingsudstyr",
+      "maanedsloen_kr": 47745.65,
+      "maanedsloen_maend_kr": 51871.21,
+      "maanedsloen_kvinder_kr": 45873.7,
+      "antal_fuldtid": 2759
+    },
+    {
+      "disco_kode": "3212",
+      "arbejdsfunktion": "Teknikerarbejde i medicinske og patologiske laboratorier",
+      "maanedsloen_kr": 45163.57,
+      "maanedsloen_maend_kr": 46494.49,
+      "maanedsloen_kvinder_kr": 44969.99,
+      "antal_fuldtid": 5895
+    },
+    {
+      "disco_kode": "3213",
+      "arbejdsfunktion": "Arbejde inden for farmaci",
+      "maanedsloen_kr": 46776.05,
+      "maanedsloen_maend_kr": 54762.66,
+      "maanedsloen_kvinder_kr": 46139.1,
+      "antal_fuldtid": 3235
+    },
+    {
+      "disco_kode": "3214",
+      "arbejdsfunktion": "Teknikerarbejde inden for fremstilling af proteser",
+      "maanedsloen_kr": 48645.05,
+      "maanedsloen_maend_kr": 51047.61,
+      "maanedsloen_kvinder_kr": 46823.11,
+      "antal_fuldtid": 243
+    },
+    {
+      "disco_kode": "3221",
+      "arbejdsfunktion": "Assisterende arbejde inden for sygepleje",
+      "maanedsloen_kr": 41753.9,
+      "maanedsloen_maend_kr": 40874.53,
+      "maanedsloen_kvinder_kr": 42191.69,
+      "antal_fuldtid": 220
+    },
+    {
+      "disco_kode": "3222",
+      "arbejdsfunktion": "Assisterende arbejde inden for fødselshjælp",
+      "maanedsloen_kr": 56162.11,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 52
+    },
+    {
+      "disco_kode": "3240",
+      "arbejdsfunktion": "Assisterende veterinærarbejde og veterinærteknisk arbejde",
+      "maanedsloen_kr": 35696.66,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 35753.77,
+      "antal_fuldtid": 741
+    },
+    {
+      "disco_kode": "3251",
+      "arbejdsfunktion": "Arbejde med tandpleje",
+      "maanedsloen_kr": 43419.55,
+      "maanedsloen_maend_kr": 48053.86,
+      "maanedsloen_kvinder_kr": 43328.13,
+      "antal_fuldtid": 4837
+    },
+    {
+      "disco_kode": "3252",
+      "arbejdsfunktion": "Teknikerarbejde inden for medicinsk registrering og sundhedsinformation",
+      "maanedsloen_kr": 68744.74,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 66578.48,
+      "antal_fuldtid": 195
+    },
+    {
+      "disco_kode": "3256",
+      "arbejdsfunktion": "Assisterende arbejde inden for sundhedsområdet",
+      "maanedsloen_kr": 49742.58,
+      "maanedsloen_maend_kr": 48275.39,
+      "maanedsloen_kvinder_kr": 50722.12,
+      "antal_fuldtid": 155
+    },
+    {
+      "disco_kode": "3257",
+      "arbejdsfunktion": "Arbejde med kontrol af arbejdsmiljø og sikkerhed",
+      "maanedsloen_kr": 60487.32,
+      "maanedsloen_maend_kr": 61333.06,
+      "maanedsloen_kvinder_kr": 58626.64,
+      "antal_fuldtid": 2001
+    },
+    {
+      "disco_kode": "3258",
+      "arbejdsfunktion": "Redningsarbejde (Ambulancebehandler)",
+      "maanedsloen_kr": 44904.14,
+      "maanedsloen_maend_kr": 46025.06,
+      "maanedsloen_kvinder_kr": 40052.63,
+      "antal_fuldtid": 2066
+    },
+    {
+      "disco_kode": "3259",
+      "arbejdsfunktion": "Tekniker- og assistentarbejde inden for sundhedsområdet ikke klassificeret andetsteds",
+      "maanedsloen_kr": 59304.91,
+      "maanedsloen_maend_kr": 61251.54,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 109
+    },
+    {
+      "disco_kode": "3311",
+      "arbejdsfunktion": "Arbejde med omsætning af værdipapirer og valuta",
+      "maanedsloen_kr": 77872.18,
+      "maanedsloen_maend_kr": 81277.69,
+      "maanedsloen_kvinder_kr": 69740.46,
+      "antal_fuldtid": 1330
+    },
+    {
+      "disco_kode": "3312",
+      "arbejdsfunktion": "Arbejde med kredit- og långivning",
+      "maanedsloen_kr": 57954.98,
+      "maanedsloen_maend_kr": 60401.24,
+      "maanedsloen_kvinder_kr": 55591.57,
+      "antal_fuldtid": 6234
+    },
+    {
+      "disco_kode": "3313",
+      "arbejdsfunktion": "Regnskabsarbejde",
+      "maanedsloen_kr": 53551.16,
+      "maanedsloen_maend_kr": 57390.56,
+      "maanedsloen_kvinder_kr": 51487.66,
+      "antal_fuldtid": 16752
+    },
+    {
+      "disco_kode": "3314",
+      "arbejdsfunktion": "Arbejde med statistik og matematik",
+      "maanedsloen_kr": 65942.21,
+      "maanedsloen_maend_kr": 68317.35,
+      "maanedsloen_kvinder_kr": 61468.03,
+      "antal_fuldtid": 591
+    },
+    {
+      "disco_kode": "3315",
+      "arbejdsfunktion": "Vurderings- og takseringsarbejde",
+      "maanedsloen_kr": 62018.76,
+      "maanedsloen_maend_kr": 66736.02,
+      "maanedsloen_kvinder_kr": 50640.09,
+      "antal_fuldtid": 1787
+    },
+    {
+      "disco_kode": "3321",
+      "arbejdsfunktion": "Forsikringsarbejde",
+      "maanedsloen_kr": 66605.19,
+      "maanedsloen_maend_kr": 69627.19,
+      "maanedsloen_kvinder_kr": 60430.31,
+      "antal_fuldtid": 2428
+    },
+    {
+      "disco_kode": "3322",
+      "arbejdsfunktion": "Salgsarbejde (agenter)",
+      "maanedsloen_kr": 58892.39,
+      "maanedsloen_maend_kr": 62720.79,
+      "maanedsloen_kvinder_kr": 52248.6,
+      "antal_fuldtid": 29989
+    },
+    {
+      "disco_kode": "3323",
+      "arbejdsfunktion": "Indkøbsarbejde (agenter)",
+      "maanedsloen_kr": 56509.51,
+      "maanedsloen_maend_kr": 60825.19,
+      "maanedsloen_kvinder_kr": 52277.03,
+      "antal_fuldtid": 10774
+    },
+    {
+      "disco_kode": "3324",
+      "arbejdsfunktion": "Erhvervsmæglerarbejde",
+      "maanedsloen_kr": 68850.27,
+      "maanedsloen_maend_kr": 73061.23,
+      "maanedsloen_kvinder_kr": 62552.83,
+      "antal_fuldtid": 440
+    },
+    {
+      "disco_kode": "3331",
+      "arbejdsfunktion": "Speditørarbejde",
+      "maanedsloen_kr": 54529.58,
+      "maanedsloen_maend_kr": 56957.6,
+      "maanedsloen_kvinder_kr": 50140.72,
+      "antal_fuldtid": 6938
+    },
+    {
+      "disco_kode": "3332",
+      "arbejdsfunktion": "Konference- og eventplanlægning",
+      "maanedsloen_kr": 47813.19,
+      "maanedsloen_maend_kr": 49536.8,
+      "maanedsloen_kvinder_kr": 47087.5,
+      "antal_fuldtid": 1000
+    },
+    {
+      "disco_kode": "3333",
+      "arbejdsfunktion": "Jobformidling",
+      "maanedsloen_kr": 48335.05,
+      "maanedsloen_maend_kr": 49346.33,
+      "maanedsloen_kvinder_kr": 47800.5,
+      "antal_fuldtid": 3691
+    },
+    {
+      "disco_kode": "3334",
+      "arbejdsfunktion": "Ejendomsmægler- og ejendomsadministratorarbejde",
+      "maanedsloen_kr": 55160.45,
+      "maanedsloen_maend_kr": 58903.38,
+      "maanedsloen_kvinder_kr": 52054.25,
+      "antal_fuldtid": 2426
+    },
+    {
+      "disco_kode": "3339",
+      "arbejdsfunktion": "Andet arbejde inden for forretningsservice",
+      "maanedsloen_kr": 63353.01,
+      "maanedsloen_maend_kr": 66976.27,
+      "maanedsloen_kvinder_kr": 59564.75,
+      "antal_fuldtid": 3887
+    },
+    {
+      "disco_kode": "3342",
+      "arbejdsfunktion": "Advokatsekretærarbejde",
+      "maanedsloen_kr": 48941.57,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 48958.72,
+      "antal_fuldtid": 1315
+    },
+    {
+      "disco_kode": "3343",
+      "arbejdsfunktion": "Chef- og direktionssekretærarbejde",
+      "maanedsloen_kr": 54297.42,
+      "maanedsloen_maend_kr": 58062.73,
+      "maanedsloen_kvinder_kr": 53100.08,
+      "antal_fuldtid": 15113
+    },
+    {
+      "disco_kode": "3344",
+      "arbejdsfunktion": "Lægesekretærarbejde",
+      "maanedsloen_kr": 42591.44,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 42613.93,
+      "antal_fuldtid": 6926
+    },
+    {
+      "disco_kode": "3351",
+      "arbejdsfunktion": "Told- og grænsebetjentarbejde",
+      "maanedsloen_kr": 48546.03,
+      "maanedsloen_maend_kr": 49397.37,
+      "maanedsloen_kvinder_kr": 47772.91,
+      "antal_fuldtid": 272
+    },
+    {
+      "disco_kode": "3352",
+      "arbejdsfunktion": "Administration af skatte- og afgiftslovgivning",
+      "maanedsloen_kr": 57577.8,
+      "maanedsloen_maend_kr": 60446.76,
+      "maanedsloen_kvinder_kr": 56009.45,
+      "antal_fuldtid": 2953
+    },
+    {
+      "disco_kode": "3353",
+      "arbejdsfunktion": "Formidling af offentlige ydelser",
+      "maanedsloen_kr": 50892.02,
+      "maanedsloen_maend_kr": 51637.65,
+      "maanedsloen_kvinder_kr": 50780.29,
+      "antal_fuldtid": 1215
+    },
+    {
+      "disco_kode": "3354",
+      "arbejdsfunktion": "Udstedelse af pas, kørekort o.l.",
+      "maanedsloen_kr": 41823.36,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 41560.62,
+      "antal_fuldtid": 95
+    },
+    {
+      "disco_kode": "3355",
+      "arbejdsfunktion": "Politimæssigt undersøgelsesarbejde",
+      "maanedsloen_kr": 67432.9,
+      "maanedsloen_maend_kr": 67626.65,
+      "maanedsloen_kvinder_kr": 65242.6,
+      "antal_fuldtid": 1046
+    },
+    {
+      "disco_kode": "3359",
+      "arbejdsfunktion": "Andet arbejde med forvaltning og udøvelse af lovgivning",
+      "maanedsloen_kr": 54795.66,
+      "maanedsloen_maend_kr": 55997.18,
+      "maanedsloen_kvinder_kr": 54035.73,
+      "antal_fuldtid": 4186
+    },
+    {
+      "disco_kode": "3411",
+      "arbejdsfunktion": "Juridisk arbejde på mellemniveau",
+      "maanedsloen_kr": 54276.64,
+      "maanedsloen_maend_kr": 58935.7,
+      "maanedsloen_kvinder_kr": 52607,
+      "antal_fuldtid": 2233
+    },
+    {
+      "disco_kode": "3412",
+      "arbejdsfunktion": "Social rådgivningsarbejde på mellemniveau",
+      "maanedsloen_kr": 48449.53,
+      "maanedsloen_maend_kr": 49811.51,
+      "maanedsloen_kvinder_kr": 47933.51,
+      "antal_fuldtid": 2949
+    },
+    {
+      "disco_kode": "3413",
+      "arbejdsfunktion": "Arbejde med tilknytning til religion på mellemniveau",
+      "maanedsloen_kr": 45154.95,
+      "maanedsloen_maend_kr": 46248.62,
+      "maanedsloen_kvinder_kr": 44668.61,
+      "antal_fuldtid": 1000
+    },
+    {
+      "disco_kode": "3421",
+      "arbejdsfunktion": "Sportsudøvere",
+      "maanedsloen_kr": 47669.64,
+      "maanedsloen_maend_kr": 48880.61,
+      "maanedsloen_kvinder_kr": 40504.85,
+      "antal_fuldtid": 976
+    },
+    {
+      "disco_kode": "3422",
+      "arbejdsfunktion": "Træner-, instruktør- og dommerarbejde inden for sport",
+      "maanedsloen_kr": 40830.65,
+      "maanedsloen_maend_kr": 42659.75,
+      "maanedsloen_kvinder_kr": 33037.91,
+      "antal_fuldtid": 838
+    },
+    {
+      "disco_kode": "3423",
+      "arbejdsfunktion": "Instruktørarbejde inden for fitness og beslægtede områder",
+      "maanedsloen_kr": 37360.37,
+      "maanedsloen_maend_kr": 37254.68,
+      "maanedsloen_kvinder_kr": 37418.26,
+      "antal_fuldtid": 488
+    },
+    {
+      "disco_kode": "3431",
+      "arbejdsfunktion": "Fotografarbejde",
+      "maanedsloen_kr": 42472.77,
+      "maanedsloen_maend_kr": 44487.29,
+      "maanedsloen_kvinder_kr": 38996.31,
+      "antal_fuldtid": 551
+    },
+    {
+      "disco_kode": "3432",
+      "arbejdsfunktion": "Indretningsarkitekt- og dekoratørarbejde",
+      "maanedsloen_kr": 44125.54,
+      "maanedsloen_maend_kr": 44631.82,
+      "maanedsloen_kvinder_kr": 43873.98,
+      "antal_fuldtid": 1014
+    },
+    {
+      "disco_kode": "3433",
+      "arbejdsfunktion": "Galleri-, museums- og biblioteksteknikerarbejde",
+      "maanedsloen_kr": 48344.59,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 49659.86,
+      "antal_fuldtid": 133
+    },
+    {
+      "disco_kode": "3434",
+      "arbejdsfunktion": "Køkkenchefarbejde",
+      "maanedsloen_kr": 45124.93,
+      "maanedsloen_maend_kr": 46454.93,
+      "maanedsloen_kvinder_kr": 43422.34,
+      "antal_fuldtid": 2824
+    },
+    {
+      "disco_kode": "3435",
+      "arbejdsfunktion": "Andet arbejde inden for kunstneriske, kulturelle og kulinariske områder",
+      "maanedsloen_kr": 54851.56,
+      "maanedsloen_maend_kr": 55623.96,
+      "maanedsloen_kvinder_kr": 54156.89,
+      "antal_fuldtid": 639
+    },
+    {
+      "disco_kode": "3511",
+      "arbejdsfunktion": "Driftsteknikerarbejde inden for informations- og kommunikationsteknologi",
+      "maanedsloen_kr": 60446.52,
+      "maanedsloen_maend_kr": 60504.81,
+      "maanedsloen_kvinder_kr": 60116.19,
+      "antal_fuldtid": 1551
+    },
+    {
+      "disco_kode": "3512",
+      "arbejdsfunktion": "Brugersupportarbejde inden for informations- og kommunikationsteknologi",
+      "maanedsloen_kr": 51769.91,
+      "maanedsloen_maend_kr": 52098.36,
+      "maanedsloen_kvinder_kr": 50685.69,
+      "antal_fuldtid": 10265
+    },
+    {
+      "disco_kode": "3513",
+      "arbejdsfunktion": "Netværks- og systemteknikerarbejde inden for informations- og kommunikationsteknologi",
+      "maanedsloen_kr": 62119.75,
+      "maanedsloen_maend_kr": 62623.83,
+      "maanedsloen_kvinder_kr": 58046.63,
+      "antal_fuldtid": 2491
+    },
+    {
+      "disco_kode": "3514",
+      "arbejdsfunktion": "Internetteknikerarbejde",
+      "maanedsloen_kr": 50018.01,
+      "maanedsloen_maend_kr": 50630.22,
+      "maanedsloen_kvinder_kr": 48460.48,
+      "antal_fuldtid": 378
+    },
+    {
+      "disco_kode": "3521",
+      "arbejdsfunktion": "Teknikerarbejde inden for audiovisuelle medier",
+      "maanedsloen_kr": 47256.32,
+      "maanedsloen_maend_kr": 47917.24,
+      "maanedsloen_kvinder_kr": 45233.97,
+      "antal_fuldtid": 1060
+    },
+    {
+      "disco_kode": "3522",
+      "arbejdsfunktion": "Teknikerarbejde inden for telekommunikation",
+      "maanedsloen_kr": 54607.54,
+      "maanedsloen_maend_kr": 53947.37,
+      "maanedsloen_kvinder_kr": 58043.85,
+      "antal_fuldtid": 1595
+    },
+    {
+      "disco_kode": "4110",
+      "arbejdsfunktion": "Almindeligt kontorarbejde",
+      "maanedsloen_kr": 47469.33,
+      "maanedsloen_maend_kr": 51791.04,
+      "maanedsloen_kvinder_kr": 45619.25,
+      "antal_fuldtid": 82883
+    },
+    {
+      "disco_kode": "4120",
+      "arbejdsfunktion": "Almindeligt sekretærarbejde",
+      "maanedsloen_kr": 48679.23,
+      "maanedsloen_maend_kr": 50086.48,
+      "maanedsloen_kvinder_kr": 48520.04,
+      "antal_fuldtid": 5419
+    },
+    {
+      "disco_kode": "4131",
+      "arbejdsfunktion": "Tekstbehandlingsarbejde",
+      "maanedsloen_kr": 51017.9,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 46811.09,
+      "antal_fuldtid": 113
+    },
+    {
+      "disco_kode": "4132",
+      "arbejdsfunktion": "Dataregistreringsarbejde",
+      "maanedsloen_kr": 49333.69,
+      "maanedsloen_maend_kr": 51964.3,
+      "maanedsloen_kvinder_kr": 47047.92,
+      "antal_fuldtid": 1179
+    },
+    {
+      "disco_kode": "4211",
+      "arbejdsfunktion": "Kundebetjening og kassererarbejde i finansvirksomheder",
+      "maanedsloen_kr": 46211.24,
+      "maanedsloen_maend_kr": 44585.33,
+      "maanedsloen_kvinder_kr": 47182.06,
+      "antal_fuldtid": 1200
+    },
+    {
+      "disco_kode": "4212",
+      "arbejdsfunktion": "Bookmaker- og croupierarbejde samt beslægtede funktioner",
+      "maanedsloen_kr": 46537.19,
+      "maanedsloen_maend_kr": 48220.18,
+      "maanedsloen_kvinder_kr": 42112.45,
+      "antal_fuldtid": 188
+    },
+    {
+      "disco_kode": "4214",
+      "arbejdsfunktion": "Inkassatorarbejde og beslægtede funktioner",
+      "maanedsloen_kr": 48450.31,
+      "maanedsloen_maend_kr": 50266.69,
+      "maanedsloen_kvinder_kr": 47657.1,
+      "antal_fuldtid": 433
+    },
+    {
+      "disco_kode": "4221",
+      "arbejdsfunktion": "Rejsebureauarbejde",
+      "maanedsloen_kr": 42685.55,
+      "maanedsloen_maend_kr": 44740.75,
+      "maanedsloen_kvinder_kr": 41614.74,
+      "antal_fuldtid": 2463
+    },
+    {
+      "disco_kode": "4222",
+      "arbejdsfunktion": "Informationsarbejde på kundekontaktcentre",
+      "maanedsloen_kr": 40021.83,
+      "maanedsloen_maend_kr": 38641.8,
+      "maanedsloen_kvinder_kr": 41351.93,
+      "antal_fuldtid": 3688
+    },
+    {
+      "disco_kode": "4223",
+      "arbejdsfunktion": "Telefonomstillingsarbejde",
+      "maanedsloen_kr": 41161.04,
+      "maanedsloen_maend_kr": 41474.03,
+      "maanedsloen_kvinder_kr": 41094.39,
+      "antal_fuldtid": 705
+    },
+    {
+      "disco_kode": "4224",
+      "arbejdsfunktion": "Hotelreceptionistarbejde",
+      "maanedsloen_kr": 37976.92,
+      "maanedsloen_maend_kr": 38140.72,
+      "maanedsloen_kvinder_kr": 37880.27,
+      "antal_fuldtid": 1977
+    },
+    {
+      "disco_kode": "4225",
+      "arbejdsfunktion": "Oplysnings- og forespørgselsarbejde",
+      "maanedsloen_kr": 51659.9,
+      "maanedsloen_maend_kr": 54178.8,
+      "maanedsloen_kvinder_kr": 49437.15,
+      "antal_fuldtid": 304
+    },
+    {
+      "disco_kode": "4226",
+      "arbejdsfunktion": "Almindeligt receptionistarbejde, ekskl. hotelreceptionistarbejde",
+      "maanedsloen_kr": 36829.42,
+      "maanedsloen_maend_kr": 34527.42,
+      "maanedsloen_kvinder_kr": 37291.2,
+      "antal_fuldtid": 2626
+    },
+    {
+      "disco_kode": "4227",
+      "arbejdsfunktion": "Interviewarbejde inden for markedsundersøgelse",
+      "maanedsloen_kr": 34667.7,
+      "maanedsloen_maend_kr": 35095.84,
+      "maanedsloen_kvinder_kr": 34354.6,
+      "antal_fuldtid": 509
+    },
+    {
+      "disco_kode": "4229",
+      "arbejdsfunktion": "Andet kundeinformationsarbejde",
+      "maanedsloen_kr": 47240.63,
+      "maanedsloen_maend_kr": 49479.76,
+      "maanedsloen_kvinder_kr": 45830.28,
+      "antal_fuldtid": 1296
+    },
+    {
+      "disco_kode": "4311",
+      "arbejdsfunktion": "Almindeligt regnskabs- og bogføringsarbejde",
+      "maanedsloen_kr": 47261.19,
+      "maanedsloen_maend_kr": 47265.68,
+      "maanedsloen_kvinder_kr": 47259.78,
+      "antal_fuldtid": 9217
+    },
+    {
+      "disco_kode": "4312",
+      "arbejdsfunktion": "Almindeligt kontorarbejde vedrørende statistik, finansielle transaktioner og forsikringer",
+      "maanedsloen_kr": 53877.77,
+      "maanedsloen_maend_kr": 55784.35,
+      "maanedsloen_kvinder_kr": 52887.76,
+      "antal_fuldtid": 8140
+    },
+    {
+      "disco_kode": "4313",
+      "arbejdsfunktion": "Almindeligt kontorarbejde inden for lønbehandling",
+      "maanedsloen_kr": 52406.45,
+      "maanedsloen_maend_kr": 55180.86,
+      "maanedsloen_kvinder_kr": 51789.86,
+      "antal_fuldtid": 2079
+    },
+    {
+      "disco_kode": "4321",
+      "arbejdsfunktion": "Lagerekspeditionsarbejde",
+      "maanedsloen_kr": 39926.12,
+      "maanedsloen_maend_kr": 40816.27,
+      "maanedsloen_kvinder_kr": 36971.58,
+      "antal_fuldtid": 14019
+    },
+    {
+      "disco_kode": "4322",
+      "arbejdsfunktion": "Registreringsarbejde inden for produktion",
+      "maanedsloen_kr": 40992.57,
+      "maanedsloen_maend_kr": 41120.52,
+      "maanedsloen_kvinder_kr": 40724.77,
+      "antal_fuldtid": 8056
+    },
+    {
+      "disco_kode": "4323",
+      "arbejdsfunktion": "Registreringsarbejde inden for transport- og trafikstyring",
+      "maanedsloen_kr": 51263.95,
+      "maanedsloen_maend_kr": 52852.73,
+      "maanedsloen_kvinder_kr": 48009.09,
+      "antal_fuldtid": 3227
+    },
+    {
+      "disco_kode": "4411",
+      "arbejdsfunktion": "Biblioteksservicearbejde",
+      "maanedsloen_kr": 45698.51,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 43951.16,
+      "antal_fuldtid": 103
+    },
+    {
+      "disco_kode": "4412",
+      "arbejdsfunktion": "Postbud- og betjentarbejde samt postsorteringsarbejde",
+      "maanedsloen_kr": 41385.26,
+      "maanedsloen_maend_kr": 41450.18,
+      "maanedsloen_kvinder_kr": 41172.49,
+      "antal_fuldtid": 4179
+    },
+    {
+      "disco_kode": "4413",
+      "arbejdsfunktion": "Korrekturlæsning og beslægtede funktioner",
+      "maanedsloen_kr": 46458.39,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 48234.19,
+      "antal_fuldtid": 91
+    },
+    {
+      "disco_kode": "4415",
+      "arbejdsfunktion": "Arbejde med arkivering og kopiering",
+      "maanedsloen_kr": 34286.93,
+      "maanedsloen_maend_kr": 35857.57,
+      "maanedsloen_kvinder_kr": 33518.54,
+      "antal_fuldtid": 278
+    },
+    {
+      "disco_kode": "4416",
+      "arbejdsfunktion": "Almindeligt kontorarbejde inden for HR",
+      "maanedsloen_kr": 54721.99,
+      "maanedsloen_maend_kr": 57963.6,
+      "maanedsloen_kvinder_kr": 53939.56,
+      "antal_fuldtid": 2903
+    },
+    {
+      "disco_kode": "4419",
+      "arbejdsfunktion": "Almindeligt kontor- og kundeservicearbejde ikke klassificeret andetsteds",
+      "maanedsloen_kr": 45051.02,
+      "maanedsloen_maend_kr": 47992.72,
+      "maanedsloen_kvinder_kr": 43400.25,
+      "antal_fuldtid": 12529
+    },
+    {
+      "disco_kode": "5111",
+      "arbejdsfunktion": "Servicearbejde af passagerer i forbindelse med rejser",
+      "maanedsloen_kr": 46564.31,
+      "maanedsloen_maend_kr": 48606.04,
+      "maanedsloen_kvinder_kr": 45353.41,
+      "antal_fuldtid": 3529
+    },
+    {
+      "disco_kode": "5112",
+      "arbejdsfunktion": "Kontrolarbejde under rejser",
+      "maanedsloen_kr": 50329.94,
+      "maanedsloen_maend_kr": 50629.31,
+      "maanedsloen_kvinder_kr": 49742.16,
+      "antal_fuldtid": 648
+    },
+    {
+      "disco_kode": "5113",
+      "arbejdsfunktion": "Turist- og rejselederarbejde",
+      "maanedsloen_kr": 33127.11,
+      "maanedsloen_maend_kr": 32794.86,
+      "maanedsloen_kvinder_kr": 33512.87,
+      "antal_fuldtid": 222
+    },
+    {
+      "disco_kode": "5120",
+      "arbejdsfunktion": "Kokkearbejde (ekskl. køkkenchefarbejde)",
+      "maanedsloen_kr": 36404.82,
+      "maanedsloen_maend_kr": 36420.83,
+      "maanedsloen_kvinder_kr": 36374.31,
+      "antal_fuldtid": 9559
+    },
+    {
+      "disco_kode": "5131",
+      "arbejdsfunktion": "Tjenerarbejde",
+      "maanedsloen_kr": 31273.29,
+      "maanedsloen_maend_kr": 32361.96,
+      "maanedsloen_kvinder_kr": 30308.22,
+      "antal_fuldtid": 6834
+    },
+    {
+      "disco_kode": "5132",
+      "arbejdsfunktion": "Bartenderarbejde",
+      "maanedsloen_kr": 27833.21,
+      "maanedsloen_maend_kr": 28954.5,
+      "maanedsloen_kvinder_kr": 26265.65,
+      "antal_fuldtid": 806
+    },
+    {
+      "disco_kode": "5141",
+      "arbejdsfunktion": "Frisørarbejde",
+      "maanedsloen_kr": 33955.54,
+      "maanedsloen_maend_kr": 35702.01,
+      "maanedsloen_kvinder_kr": 33693.63,
+      "antal_fuldtid": 475
+    },
+    {
+      "disco_kode": "5142",
+      "arbejdsfunktion": "Kosmetologarbejde og beslægtede funktioner",
+      "maanedsloen_kr": 36022.13,
+      "maanedsloen_maend_kr": 37117.14,
+      "maanedsloen_kvinder_kr": 35695,
+      "antal_fuldtid": 275
+    },
+    {
+      "disco_kode": "5151",
+      "arbejdsfunktion": "Rengøringsinspektørarbejde",
+      "maanedsloen_kr": 44587.47,
+      "maanedsloen_maend_kr": 46306.94,
+      "maanedsloen_kvinder_kr": 43589.28,
+      "antal_fuldtid": 1372
+    },
+    {
+      "disco_kode": "5152",
+      "arbejdsfunktion": "Husbestyrerarbejde",
+      "maanedsloen_kr": 37898.81,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 38003.3,
+      "antal_fuldtid": 74
+    },
+    {
+      "disco_kode": "5153",
+      "arbejdsfunktion": "Ejendomsinspektørarbejde",
+      "maanedsloen_kr": 43202.07,
+      "maanedsloen_maend_kr": 43381.79,
+      "maanedsloen_kvinder_kr": 41397.28,
+      "antal_fuldtid": 14962
+    },
+    {
+      "disco_kode": "5163",
+      "arbejdsfunktion": "Bedemandsarbejde",
+      "maanedsloen_kr": 40041.76,
+      "maanedsloen_maend_kr": 40277.5,
+      "maanedsloen_kvinder_kr": 39720.67,
+      "antal_fuldtid": 126
+    },
+    {
+      "disco_kode": "5164",
+      "arbejdsfunktion": "Arbejde med kæledyr",
+      "maanedsloen_kr": 35100.3,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 34812.67,
+      "antal_fuldtid": 110
+    },
+    {
+      "disco_kode": "5165",
+      "arbejdsfunktion": "Kørelærerarbejde",
+      "maanedsloen_kr": 44801.03,
+      "maanedsloen_maend_kr": 45426.7,
+      "maanedsloen_kvinder_kr": 42209.63,
+      "antal_fuldtid": 265
+    },
+    {
+      "disco_kode": "5169",
+      "arbejdsfunktion": "Servicearbejde ikke klassificeret andetsteds",
+      "maanedsloen_kr": 35123.45,
+      "maanedsloen_maend_kr": 36551.39,
+      "maanedsloen_kvinder_kr": 32878.85,
+      "antal_fuldtid": 5311
+    },
+    {
+      "disco_kode": "5223",
+      "arbejdsfunktion": "Salgsarbejde i butik",
+      "maanedsloen_kr": 32259.6,
+      "maanedsloen_maend_kr": 34240.82,
+      "maanedsloen_kvinder_kr": 30653.73,
+      "antal_fuldtid": 46887
+    },
+    {
+      "disco_kode": "5230",
+      "arbejdsfunktion": "Kasseassistentarbejde og beslægtet kundebetjening",
+      "maanedsloen_kr": 27801.37,
+      "maanedsloen_maend_kr": 26887.46,
+      "maanedsloen_kvinder_kr": 28558.55,
+      "antal_fuldtid": 13190
+    },
+    {
+      "disco_kode": "5242",
+      "arbejdsfunktion": "Demonstrationsarbejde",
+      "maanedsloen_kr": 37682.06,
+      "maanedsloen_maend_kr": 40777.35,
+      "maanedsloen_kvinder_kr": 32836.75,
+      "antal_fuldtid": 152
+    },
+    {
+      "disco_kode": "5244",
+      "arbejdsfunktion": "Salgsarbejde i kundekontaktcentre",
+      "maanedsloen_kr": 43189.11,
+      "maanedsloen_maend_kr": 43822.75,
+      "maanedsloen_kvinder_kr": 42468.24,
+      "antal_fuldtid": 4254
+    },
+    {
+      "disco_kode": "5245",
+      "arbejdsfunktion": "Salgsarbejde på servicestationer",
+      "maanedsloen_kr": 37173.9,
+      "maanedsloen_maend_kr": 37528.56,
+      "maanedsloen_kvinder_kr": 36831.24,
+      "antal_fuldtid": 1408
+    },
+    {
+      "disco_kode": "5246",
+      "arbejdsfunktion": "Kasseassistentarbejde inden for catering og fastfood",
+      "maanedsloen_kr": 29423.07,
+      "maanedsloen_maend_kr": 29214.37,
+      "maanedsloen_kvinder_kr": 29589.38,
+      "antal_fuldtid": 2671
+    },
+    {
+      "disco_kode": "5249",
+      "arbejdsfunktion": "Salgsarbejde ikke klassificeret andetsteds",
+      "maanedsloen_kr": 52575.12,
+      "maanedsloen_maend_kr": 54281.26,
+      "maanedsloen_kvinder_kr": 48377.31,
+      "antal_fuldtid": 6016
+    },
+    {
+      "disco_kode": "5311",
+      "arbejdsfunktion": "Børneomsorgsarbejde",
+      "maanedsloen_kr": 32686,
+      "maanedsloen_maend_kr": 32519.9,
+      "maanedsloen_kvinder_kr": 32732.66,
+      "antal_fuldtid": 42784
+    },
+    {
+      "disco_kode": "5312",
+      "arbejdsfunktion": "Hjælpelærerarbejde",
+      "maanedsloen_kr": 41110.29,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 95
+    },
+    {
+      "disco_kode": "5321",
+      "arbejdsfunktion": "Omsorgsarbejde på institutioner og hospitaler (ekskl. plejehjem)",
+      "maanedsloen_kr": 42476.82,
+      "maanedsloen_maend_kr": 41205.06,
+      "maanedsloen_kvinder_kr": 43080.43,
+      "antal_fuldtid": 25950
+    },
+    {
+      "disco_kode": "5322",
+      "arbejdsfunktion": "Social- og sundhedsarbejde i private hjem (inkl. plejehjem)",
+      "maanedsloen_kr": 39292.43,
+      "maanedsloen_maend_kr": 37925.33,
+      "maanedsloen_kvinder_kr": 39488.2,
+      "antal_fuldtid": 82606
+    },
+    {
+      "disco_kode": "5329",
+      "arbejdsfunktion": "Andet omsorgsarbejde inden for sundhedsområdet",
+      "maanedsloen_kr": 37600.7,
+      "maanedsloen_maend_kr": 36203.64,
+      "maanedsloen_kvinder_kr": 38096.94,
+      "antal_fuldtid": 1911
+    },
+    {
+      "disco_kode": "5411",
+      "arbejdsfunktion": "Brandslukningsarbejde",
+      "maanedsloen_kr": 49891.14,
+      "maanedsloen_maend_kr": 50248.51,
+      "maanedsloen_kvinder_kr": 45377.91,
+      "antal_fuldtid": 1577
+    },
+    {
+      "disco_kode": "5412",
+      "arbejdsfunktion": "Politiarbejde",
+      "maanedsloen_kr": 48125.25,
+      "maanedsloen_maend_kr": 48654.95,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 9898
+    },
+    {
+      "disco_kode": "5413",
+      "arbejdsfunktion": "Fængselsbetjentarbejde",
+      "maanedsloen_kr": 45095.18,
+      "maanedsloen_maend_kr": 45546.33,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 2492
+    },
+    {
+      "disco_kode": "5414",
+      "arbejdsfunktion": "Sikkerhedsvagtarbejde",
+      "maanedsloen_kr": 42406.88,
+      "maanedsloen_maend_kr": 42814.05,
+      "maanedsloen_kvinder_kr": 41060.34,
+      "antal_fuldtid": 5306
+    },
+    {
+      "disco_kode": "5419",
+      "arbejdsfunktion": "Andet rednings- og overvågningsarbejde (ekskl. ambulancebehandlere)",
+      "maanedsloen_kr": 39332.21,
+      "maanedsloen_maend_kr": 40098.84,
+      "maanedsloen_kvinder_kr": 36517.75,
+      "antal_fuldtid": 1662
+    },
+    {
+      "disco_kode": "6111",
+      "arbejdsfunktion": "Dyrkning af markafgrøder inden for jordbrug",
+      "maanedsloen_kr": 39658.77,
+      "maanedsloen_maend_kr": 40412.5,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 121
+    },
+    {
+      "disco_kode": "6113",
+      "arbejdsfunktion": "Væksthus- og anlægsgartnerarbejde",
+      "maanedsloen_kr": 40657.28,
+      "maanedsloen_maend_kr": 41526.49,
+      "maanedsloen_kvinder_kr": 38358.22,
+      "antal_fuldtid": 3856
+    },
+    {
+      "disco_kode": "6121",
+      "arbejdsfunktion": "Arbejde med opdræt af husdyr, ekskl. fjerkræ",
+      "maanedsloen_kr": 39486.79,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 36941.13,
+      "antal_fuldtid": 97
+    },
+    {
+      "disco_kode": "6129",
+      "arbejdsfunktion": "Andet arbejde med dyreopdræt",
+      "maanedsloen_kr": 41239.5,
+      "maanedsloen_maend_kr": 41540.7,
+      "maanedsloen_kvinder_kr": 41057.53,
+      "antal_fuldtid": 382
+    },
+    {
+      "disco_kode": "6130",
+      "arbejdsfunktion": "Arbejde med dyrkning af plantevækst og opdræt af dyr",
+      "maanedsloen_kr": 34839.6,
+      "maanedsloen_maend_kr": 34292.26,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 153
+    },
+    {
+      "disco_kode": "6210",
+      "arbejdsfunktion": "Skovbrugsarbejde",
+      "maanedsloen_kr": 39662.73,
+      "maanedsloen_maend_kr": 40005.17,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 210
+    },
+    {
+      "disco_kode": "7112",
+      "arbejdsfunktion": "Murer- og brolægningsarbejde",
+      "maanedsloen_kr": 49887.68,
+      "maanedsloen_maend_kr": 50028.62,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 4215
+    },
+    {
+      "disco_kode": "7113",
+      "arbejdsfunktion": "Stenhuggerarbejde",
+      "maanedsloen_kr": 43619.77,
+      "maanedsloen_maend_kr": 43372.08,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 131
+    },
+    {
+      "disco_kode": "7114",
+      "arbejdsfunktion": "Arbejde med opførelse af betonkonstruktioner",
+      "maanedsloen_kr": 48767.32,
+      "maanedsloen_maend_kr": 48806.41,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 2930
+    },
+    {
+      "disco_kode": "7115",
+      "arbejdsfunktion": "Tømrer- og bygningssnedkerarbejde",
+      "maanedsloen_kr": 46670.64,
+      "maanedsloen_maend_kr": 46789,
+      "maanedsloen_kvinder_kr": 40122.67,
+      "antal_fuldtid": 16914
+    },
+    {
+      "disco_kode": "7119",
+      "arbejdsfunktion": "Andet bygningsarbejde - basis",
+      "maanedsloen_kr": 44721.23,
+      "maanedsloen_maend_kr": 44851.16,
+      "maanedsloen_kvinder_kr": 40913.58,
+      "antal_fuldtid": 4213
+    },
+    {
+      "disco_kode": "7121",
+      "arbejdsfunktion": "Arbejde med tagdækning",
+      "maanedsloen_kr": 52304.36,
+      "maanedsloen_maend_kr": 52366.15,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 832
+    },
+    {
+      "disco_kode": "7122",
+      "arbejdsfunktion": "Arbejde med gulv- og klinkelægning",
+      "maanedsloen_kr": 46213.37,
+      "maanedsloen_maend_kr": 46276.58,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 951
+    },
+    {
+      "disco_kode": "7123",
+      "arbejdsfunktion": "Stukkatørarbejde",
+      "maanedsloen_kr": 40692.89,
+      "maanedsloen_maend_kr": 40509.22,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 91
+    },
+    {
+      "disco_kode": "7124",
+      "arbejdsfunktion": "Arbejde med isolering af bygninger",
+      "maanedsloen_kr": 47049.7,
+      "maanedsloen_maend_kr": 47206.32,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 1040
+    },
+    {
+      "disco_kode": "7125",
+      "arbejdsfunktion": "Glarmesterarbejde",
+      "maanedsloen_kr": 46743.49,
+      "maanedsloen_maend_kr": 47118.84,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 98
+    },
+    {
+      "disco_kode": "7126",
+      "arbejdsfunktion": "VVS-arbejde",
+      "maanedsloen_kr": 52554.84,
+      "maanedsloen_maend_kr": 52647.32,
+      "maanedsloen_kvinder_kr": 41998.91,
+      "antal_fuldtid": 7764
+    },
+    {
+      "disco_kode": "7127",
+      "arbejdsfunktion": "Montørarbejde inden for klima- og køleteknik",
+      "maanedsloen_kr": 54086.39,
+      "maanedsloen_maend_kr": 54266.47,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 1425
+    },
+    {
+      "disco_kode": "7131",
+      "arbejdsfunktion": "Malerarbejde",
+      "maanedsloen_kr": 42132.99,
+      "maanedsloen_maend_kr": 42954.58,
+      "maanedsloen_kvinder_kr": 40028.91,
+      "antal_fuldtid": 4839
+    },
+    {
+      "disco_kode": "7132",
+      "arbejdsfunktion": "Sprøjtelakererarbejde",
+      "maanedsloen_kr": 43955.3,
+      "maanedsloen_maend_kr": 44638.99,
+      "maanedsloen_kvinder_kr": 35534.17,
+      "antal_fuldtid": 1165
+    },
+    {
+      "disco_kode": "7133",
+      "arbejdsfunktion": "Rensning af bygninger",
+      "maanedsloen_kr": 43968.59,
+      "maanedsloen_maend_kr": 44110.47,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 227
+    },
+    {
+      "disco_kode": "7211",
+      "arbejdsfunktion": "Formning og støbning af emner i metal",
+      "maanedsloen_kr": 46313.17,
+      "maanedsloen_maend_kr": 46551.12,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 156
+    },
+    {
+      "disco_kode": "7212",
+      "arbejdsfunktion": "Svejsearbejde og skærebrænding",
+      "maanedsloen_kr": 49717.96,
+      "maanedsloen_maend_kr": 49862.69,
+      "maanedsloen_kvinder_kr": 43230.23,
+      "antal_fuldtid": 4629
+    },
+    {
+      "disco_kode": "7213",
+      "arbejdsfunktion": "Pladesmedarbejde",
+      "maanedsloen_kr": 43819.85,
+      "maanedsloen_maend_kr": 43998.38,
+      "maanedsloen_kvinder_kr": 38845.27,
+      "antal_fuldtid": 2287
+    },
+    {
+      "disco_kode": "7214",
+      "arbejdsfunktion": "Stålkonstruktionsarbejde",
+      "maanedsloen_kr": 46549.29,
+      "maanedsloen_maend_kr": 46676.85,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 1961
+    },
+    {
+      "disco_kode": "7221",
+      "arbejdsfunktion": "Smedearbejde",
+      "maanedsloen_kr": 49088.05,
+      "maanedsloen_maend_kr": 49137.09,
+      "maanedsloen_kvinder_kr": 47459.73,
+      "antal_fuldtid": 8861
+    },
+    {
+      "disco_kode": "7222",
+      "arbejdsfunktion": "Værktøjsmagerarbejde",
+      "maanedsloen_kr": 45744.4,
+      "maanedsloen_maend_kr": 45970.51,
+      "maanedsloen_kvinder_kr": 37883.2,
+      "antal_fuldtid": 3412
+    },
+    {
+      "disco_kode": "7223",
+      "arbejdsfunktion": "Operatør- og opstillingsarbejde af metalforarbejdningsmaskiner",
+      "maanedsloen_kr": 48947.28,
+      "maanedsloen_maend_kr": 49406.28,
+      "maanedsloen_kvinder_kr": 43706.83,
+      "antal_fuldtid": 10493
+    },
+    {
+      "disco_kode": "7224",
+      "arbejdsfunktion": "Arbejde med polering og slibning af emner i metal",
+      "maanedsloen_kr": 46578.93,
+      "maanedsloen_maend_kr": 46755.98,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 650
+    },
+    {
+      "disco_kode": "7231",
+      "arbejdsfunktion": "Mekanikerarbejde inden for motorkøretøjer",
+      "maanedsloen_kr": 44497.85,
+      "maanedsloen_maend_kr": 44634.86,
+      "maanedsloen_kvinder_kr": 37975.75,
+      "antal_fuldtid": 12854
+    },
+    {
+      "disco_kode": "7232",
+      "arbejdsfunktion": "Flymekanikerarbejde",
+      "maanedsloen_kr": 65664.81,
+      "maanedsloen_maend_kr": 66130.87,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 598
+    },
+    {
+      "disco_kode": "7233",
+      "arbejdsfunktion": "Mekanikerarbejde, landbrugs- og industrimaskiner",
+      "maanedsloen_kr": 48914.67,
+      "maanedsloen_maend_kr": 49000.46,
+      "maanedsloen_kvinder_kr": 42491.01,
+      "antal_fuldtid": 4359
+    },
+    {
+      "disco_kode": "7234",
+      "arbejdsfunktion": "Mekanikerarbejde, cykler og tilsvarende køretøjer",
+      "maanedsloen_kr": 35984.86,
+      "maanedsloen_maend_kr": 36043.76,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 245
+    },
+    {
+      "disco_kode": "7311",
+      "arbejdsfunktion": "Finmekanikerarbejde",
+      "maanedsloen_kr": 46901.97,
+      "maanedsloen_maend_kr": 47188.4,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 249
+    },
+    {
+      "disco_kode": "7313",
+      "arbejdsfunktion": "Juveler-, guld- og sølvsmedearbejde",
+      "maanedsloen_kr": 44126.96,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 81
+    },
+    {
+      "disco_kode": "7316",
+      "arbejdsfunktion": "Skiltemaler-, dekoratør- og gravørarbejde",
+      "maanedsloen_kr": 37809.35,
+      "maanedsloen_maend_kr": 39140.12,
+      "maanedsloen_kvinder_kr": 36217.46,
+      "antal_fuldtid": 182
+    },
+    {
+      "disco_kode": "7317",
+      "arbejdsfunktion": "Håndfremstilling af produkter i træ og tilsvarende materialer",
+      "maanedsloen_kr": 40012.39,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 55
+    },
+    {
+      "disco_kode": "7319",
+      "arbejdsfunktion": "Andet præcisionshåndværk",
+      "maanedsloen_kr": 44332.85,
+      "maanedsloen_maend_kr": 48430.19,
+      "maanedsloen_kvinder_kr": 41129.35,
+      "antal_fuldtid": 400
+    },
+    {
+      "disco_kode": "7321",
+      "arbejdsfunktion": "Prepressarbejde og grafisk formfremstilling",
+      "maanedsloen_kr": 46921.15,
+      "maanedsloen_maend_kr": 49234.12,
+      "maanedsloen_kvinder_kr": 43322.97,
+      "antal_fuldtid": 1144
+    },
+    {
+      "disco_kode": "7322",
+      "arbejdsfunktion": "Trykkerarbejde",
+      "maanedsloen_kr": 49634.33,
+      "maanedsloen_maend_kr": 52648.53,
+      "maanedsloen_kvinder_kr": 36826.31,
+      "antal_fuldtid": 543
+    },
+    {
+      "disco_kode": "7323",
+      "arbejdsfunktion": "Arbejde med færdiggørelse og indbinding af trykte produkter",
+      "maanedsloen_kr": 40901.45,
+      "maanedsloen_maend_kr": 42610.88,
+      "maanedsloen_kvinder_kr": 37180.22,
+      "antal_fuldtid": 477
+    },
+    {
+      "disco_kode": "7411",
+      "arbejdsfunktion": "Elektrikerarbejde",
+      "maanedsloen_kr": 48682.09,
+      "maanedsloen_maend_kr": 48861.59,
+      "maanedsloen_kvinder_kr": 39784.7,
+      "antal_fuldtid": 19493
+    },
+    {
+      "disco_kode": "7412",
+      "arbejdsfunktion": "Elektromekanikerarbejde",
+      "maanedsloen_kr": 53850.42,
+      "maanedsloen_maend_kr": 54190.53,
+      "maanedsloen_kvinder_kr": 44077.03,
+      "antal_fuldtid": 2456
+    },
+    {
+      "disco_kode": "7413",
+      "arbejdsfunktion": "Installation og reparation af elektrisk ledningsføring inden for forsyningsvirksomhed",
+      "maanedsloen_kr": 54552.53,
+      "maanedsloen_maend_kr": 54604.59,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 393
+    },
+    {
+      "disco_kode": "7421",
+      "arbejdsfunktion": "Elektronikmekanikerarbejde",
+      "maanedsloen_kr": 50811.54,
+      "maanedsloen_maend_kr": 51154.62,
+      "maanedsloen_kvinder_kr": 43539.03,
+      "antal_fuldtid": 1180
+    },
+    {
+      "disco_kode": "7422",
+      "arbejdsfunktion": "Installation og service inden for informations- og kommunikationsteknologi",
+      "maanedsloen_kr": 46629.47,
+      "maanedsloen_maend_kr": 46568.69,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 764
+    },
+    {
+      "disco_kode": "7511",
+      "arbejdsfunktion": "Slagterarbejde, fiskehandel og beslægtet arbejde inden for fødevarefremstilling",
+      "maanedsloen_kr": 38138.97,
+      "maanedsloen_maend_kr": 40214.72,
+      "maanedsloen_kvinder_kr": 34931.87,
+      "antal_fuldtid": 3034
+    },
+    {
+      "disco_kode": "7512",
+      "arbejdsfunktion": "Bager- og konditorarbejde, ekskl. industri",
+      "maanedsloen_kr": 38235.13,
+      "maanedsloen_maend_kr": 40799.48,
+      "maanedsloen_kvinder_kr": 34128.05,
+      "antal_fuldtid": 2584
+    },
+    {
+      "disco_kode": "7513",
+      "arbejdsfunktion": "Fremstilling af mejeriprodukter",
+      "maanedsloen_kr": 51220.11,
+      "maanedsloen_maend_kr": 52007.07,
+      "maanedsloen_kvinder_kr": 48759.69,
+      "antal_fuldtid": 3778
+    },
+    {
+      "disco_kode": "7514",
+      "arbejdsfunktion": "Fremstilling og konservering af frugt, grøntsager og tilsvarende produkter",
+      "maanedsloen_kr": 45103.54,
+      "maanedsloen_maend_kr": 46043.03,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 210
+    },
+    {
+      "disco_kode": "7516",
+      "arbejdsfunktion": "Fremstilling af tobaksprodukter",
+      "maanedsloen_kr": 37872.89,
+      "maanedsloen_maend_kr": 37887.22,
+      "maanedsloen_kvinder_kr": 37861.12,
+      "antal_fuldtid": 147
+    },
+    {
+      "disco_kode": "7522",
+      "arbejdsfunktion": "Møbelsnedkerarbejde",
+      "maanedsloen_kr": 38215.89,
+      "maanedsloen_maend_kr": 38645.08,
+      "maanedsloen_kvinder_kr": 35485.25,
+      "antal_fuldtid": 388
+    },
+    {
+      "disco_kode": "7523",
+      "arbejdsfunktion": "Operatør- og opstillingsarbejde af træbearbejdningsmaskiner",
+      "maanedsloen_kr": 40574.17,
+      "maanedsloen_maend_kr": 41202.31,
+      "maanedsloen_kvinder_kr": 35997.58,
+      "antal_fuldtid": 878
+    },
+    {
+      "disco_kode": "7531",
+      "arbejdsfunktion": "Skrædderarbejde og beslægtet arbejde",
+      "maanedsloen_kr": 38768.28,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 38535.28,
+      "antal_fuldtid": 123
+    },
+    {
+      "disco_kode": "7533",
+      "arbejdsfunktion": "Syarbejde og beslægtet arbejde",
+      "maanedsloen_kr": 36446.38,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 34255.9,
+      "antal_fuldtid": 137
+    },
+    {
+      "disco_kode": "7534",
+      "arbejdsfunktion": "Møbelpolstrerarbejde",
+      "maanedsloen_kr": 38358.11,
+      "maanedsloen_maend_kr": 39286.79,
+      "maanedsloen_kvinder_kr": 37453.4,
+      "antal_fuldtid": 149
+    },
+    {
+      "disco_kode": "7543",
+      "arbejdsfunktion": "Kvalitetskontrol og testarbejde af produkter (undtagen nærings- og nydelsesmidler)",
+      "maanedsloen_kr": 53276.27,
+      "maanedsloen_maend_kr": 54883.29,
+      "maanedsloen_kvinder_kr": 51604.69,
+      "antal_fuldtid": 1458
+    },
+    {
+      "disco_kode": "7544",
+      "arbejdsfunktion": "Desinfektionsarbejde og skadedyrsbekæmpelse",
+      "maanedsloen_kr": 44141.4,
+      "maanedsloen_maend_kr": 44351.58,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 251
+    },
+    {
+      "disco_kode": "7549",
+      "arbejdsfunktion": "Håndværkspræget arbejde ikke klassificeret andetsteds",
+      "maanedsloen_kr": 45598.59,
+      "maanedsloen_maend_kr": 45903.01,
+      "maanedsloen_kvinder_kr": 43152.97,
+      "antal_fuldtid": 1311
+    },
+    {
+      "disco_kode": "8112",
+      "arbejdsfunktion": "Operatørarbejde ved anlæg til råstofudvinding",
+      "maanedsloen_kr": 57164.49,
+      "maanedsloen_maend_kr": 57267.16,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 306
+    },
+    {
+      "disco_kode": "8113",
+      "arbejdsfunktion": "Boreanlægsarbejde",
+      "maanedsloen_kr": 59055.85,
+      "maanedsloen_maend_kr": 59253.74,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 580
+    },
+    {
+      "disco_kode": "8114",
+      "arbejdsfunktion": "Operatørarbejde ved fremstilling af cement-, sten- og andre råstofprodukter",
+      "maanedsloen_kr": 50021.53,
+      "maanedsloen_maend_kr": 49814.52,
+      "maanedsloen_kvinder_kr": 52152.39,
+      "antal_fuldtid": 1040
+    },
+    {
+      "disco_kode": "8121",
+      "arbejdsfunktion": "Operatørarbejde ved forarbejdning af metal",
+      "maanedsloen_kr": 44897,
+      "maanedsloen_maend_kr": 45553.7,
+      "maanedsloen_kvinder_kr": 41034.37,
+      "antal_fuldtid": 4451
+    },
+    {
+      "disco_kode": "8122",
+      "arbejdsfunktion": "Operatørarbejde ved overfladebehandling af metal",
+      "maanedsloen_kr": 43049.53,
+      "maanedsloen_maend_kr": 43471.75,
+      "maanedsloen_kvinder_kr": 39186.78,
+      "antal_fuldtid": 715
+    },
+    {
+      "disco_kode": "8131",
+      "arbejdsfunktion": "Operatørarbejde ved fremstilling af kemiske produkter",
+      "maanedsloen_kr": 60043.85,
+      "maanedsloen_maend_kr": 60228.45,
+      "maanedsloen_kvinder_kr": 59535.3,
+      "antal_fuldtid": 5714
+    },
+    {
+      "disco_kode": "8132",
+      "arbejdsfunktion": "Operatørarbejde ved fremstilling af fotografiske produkter",
+      "maanedsloen_kr": 43423.68,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 66
+    },
+    {
+      "disco_kode": "8141",
+      "arbejdsfunktion": "Operatørarbejde ved fremstilling af gummiprodukter",
+      "maanedsloen_kr": 43408.18,
+      "maanedsloen_maend_kr": 43197.12,
+      "maanedsloen_kvinder_kr": 43927.98,
+      "antal_fuldtid": 302
+    },
+    {
+      "disco_kode": "8142",
+      "arbejdsfunktion": "Operatørarbejde ved fremstilling af plast",
+      "maanedsloen_kr": 45669.05,
+      "maanedsloen_maend_kr": 46809.36,
+      "maanedsloen_kvinder_kr": 43023.8,
+      "antal_fuldtid": 4229
+    },
+    {
+      "disco_kode": "8143",
+      "arbejdsfunktion": "Operatørarbejde ved fremstilling af papirprodukter",
+      "maanedsloen_kr": 45604.45,
+      "maanedsloen_maend_kr": 46237.27,
+      "maanedsloen_kvinder_kr": 41822.96,
+      "antal_fuldtid": 1505
+    },
+    {
+      "disco_kode": "8151",
+      "arbejdsfunktion": "Operatørarbejde ved forarbejdning af materialer i fiber og tekstil",
+      "maanedsloen_kr": 52560.22,
+      "maanedsloen_maend_kr": 54369.18,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 243
+    },
+    {
+      "disco_kode": "8152",
+      "arbejdsfunktion": "Operatørarbejde ved vævning og strikning",
+      "maanedsloen_kr": 43465.24,
+      "maanedsloen_maend_kr": 45045.95,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 115
+    },
+    {
+      "disco_kode": "8153",
+      "arbejdsfunktion": "Operatørarbejde af symaskiner",
+      "maanedsloen_kr": 37977.3,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 35962.75,
+      "antal_fuldtid": 177
+    },
+    {
+      "disco_kode": "8154",
+      "arbejdsfunktion": "Operatørarbejde ved blegning, farvning og rensning af tekstiler",
+      "maanedsloen_kr": 45722.56,
+      "maanedsloen_maend_kr": 46658.95,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 73
+    },
+    {
+      "disco_kode": "8159",
+      "arbejdsfunktion": "Andet operatørarbejde ved fremstilling af tekstil-, pels- og læderprodukter",
+      "maanedsloen_kr": 44894.59,
+      "maanedsloen_maend_kr": 46877.47,
+      "maanedsloen_kvinder_kr": 41103.48,
+      "antal_fuldtid": 268
+    },
+    {
+      "disco_kode": "8160",
+      "arbejdsfunktion": "Operatørarbejde ved fremstilling af nærings- og nydelsesmidler",
+      "maanedsloen_kr": 43374.87,
+      "maanedsloen_maend_kr": 44742.67,
+      "maanedsloen_kvinder_kr": 40271.52,
+      "antal_fuldtid": 9093
+    },
+    {
+      "disco_kode": "8171",
+      "arbejdsfunktion": "Operatørarbejde ved fremstilling af papirmasse og papirprodukter",
+      "maanedsloen_kr": 48031.39,
+      "maanedsloen_maend_kr": 48894.87,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 452
+    },
+    {
+      "disco_kode": "8172",
+      "arbejdsfunktion": "Operatørarbejde ved træforarbejdning",
+      "maanedsloen_kr": 40667.2,
+      "maanedsloen_maend_kr": 41098.67,
+      "maanedsloen_kvinder_kr": 38730.37,
+      "antal_fuldtid": 2780
+    },
+    {
+      "disco_kode": "8181",
+      "arbejdsfunktion": "Operatørarbejde ved fremstilling af glas og keramik",
+      "maanedsloen_kr": 45155.94,
+      "maanedsloen_maend_kr": 45216.86,
+      "maanedsloen_kvinder_kr": 44813.07,
+      "antal_fuldtid": 376
+    },
+    {
+      "disco_kode": "8182",
+      "arbejdsfunktion": "Operatørarbejde ved dampmaskine- og kedelanlæg",
+      "maanedsloen_kr": 58114.9,
+      "maanedsloen_maend_kr": 58332.77,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 684
+    },
+    {
+      "disco_kode": "8183",
+      "arbejdsfunktion": "Operatørarbejde af maskiner til pakning, påfyldning og mærkning",
+      "maanedsloen_kr": 50260.88,
+      "maanedsloen_maend_kr": 51836.32,
+      "maanedsloen_kvinder_kr": 48308.23,
+      "antal_fuldtid": 1522
+    },
+    {
+      "disco_kode": "8189",
+      "arbejdsfunktion": "Andet operatørarbejde ved stationære anlæg og maskiner",
+      "maanedsloen_kr": 49846.4,
+      "maanedsloen_maend_kr": 50775.56,
+      "maanedsloen_kvinder_kr": 43973.39,
+      "antal_fuldtid": 6951
+    },
+    {
+      "disco_kode": "8211",
+      "arbejdsfunktion": "Monteringsarbejde af mekaniske maskiner",
+      "maanedsloen_kr": 44574.6,
+      "maanedsloen_maend_kr": 45424.16,
+      "maanedsloen_kvinder_kr": 40114.32,
+      "antal_fuldtid": 2427
+    },
+    {
+      "disco_kode": "8212",
+      "arbejdsfunktion": "Monteringsarbejde af elektrisk og elektronisk udstyr",
+      "maanedsloen_kr": 43205.59,
+      "maanedsloen_maend_kr": 45514,
+      "maanedsloen_kvinder_kr": 39579.62,
+      "antal_fuldtid": 3300
+    },
+    {
+      "disco_kode": "8219",
+      "arbejdsfunktion": "Andet monteringsarbejde",
+      "maanedsloen_kr": 44255.69,
+      "maanedsloen_maend_kr": 45360.73,
+      "maanedsloen_kvinder_kr": 41471.33,
+      "antal_fuldtid": 5211
+    },
+    {
+      "disco_kode": "8311",
+      "arbejdsfunktion": "Lokomotivførerarbejde",
+      "maanedsloen_kr": 55257.95,
+      "maanedsloen_maend_kr": 55816,
+      "maanedsloen_kvinder_kr": 50046.13,
+      "antal_fuldtid": 2360
+    },
+    {
+      "disco_kode": "8312",
+      "arbejdsfunktion": "Tograngering",
+      "maanedsloen_kr": 48597.62,
+      "maanedsloen_maend_kr": 48992.44,
+      "maanedsloen_kvinder_kr": 44912.55,
+      "antal_fuldtid": 659
+    },
+    {
+      "disco_kode": "8322",
+      "arbejdsfunktion": "Chauffører af biler, taxier og varevogne",
+      "maanedsloen_kr": 35844.39,
+      "maanedsloen_maend_kr": 35912.16,
+      "maanedsloen_kvinder_kr": 34854.86,
+      "antal_fuldtid": 4700
+    },
+    {
+      "disco_kode": "8331",
+      "arbejdsfunktion": "Buschauffører",
+      "maanedsloen_kr": 40545.99,
+      "maanedsloen_maend_kr": 40838.78,
+      "maanedsloen_kvinder_kr": 38787.66,
+      "antal_fuldtid": 7152
+    },
+    {
+      "disco_kode": "8332",
+      "arbejdsfunktion": "Lastbilchauffører",
+      "maanedsloen_kr": 44114.76,
+      "maanedsloen_maend_kr": 44171.42,
+      "maanedsloen_kvinder_kr": 41554.39,
+      "antal_fuldtid": 17320
+    },
+    {
+      "disco_kode": "8342",
+      "arbejdsfunktion": "Entreprenørmaskinførerarbejde",
+      "maanedsloen_kr": 45961.86,
+      "maanedsloen_maend_kr": 45988.23,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 3031
+    },
+    {
+      "disco_kode": "8343",
+      "arbejdsfunktion": "Kran- og liftførerarbejde",
+      "maanedsloen_kr": 50070.28,
+      "maanedsloen_maend_kr": 50216.87,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 805
+    },
+    {
+      "disco_kode": "8344",
+      "arbejdsfunktion": "Truckførerarbejde",
+      "maanedsloen_kr": 46522.46,
+      "maanedsloen_maend_kr": 46919.21,
+      "maanedsloen_kvinder_kr": 42523.81,
+      "antal_fuldtid": 2026
+    },
+    {
+      "disco_kode": "8350",
+      "arbejdsfunktion": "Dæksarbejde og medhjælp om bord på skibe",
+      "maanedsloen_kr": 45768.49,
+      "maanedsloen_maend_kr": 46270.66,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 262
+    },
+    {
+      "disco_kode": "9111",
+      "arbejdsfunktion": "Rengøringsarbejde i private hjem",
+      "maanedsloen_kr": 30307.76,
+      "maanedsloen_maend_kr": 29062.37,
+      "maanedsloen_kvinder_kr": 30660.59,
+      "antal_fuldtid": 784
+    },
+    {
+      "disco_kode": "9112",
+      "arbejdsfunktion": "Rengøringsarbejde undtagen i private hjem",
+      "maanedsloen_kr": 35251.9,
+      "maanedsloen_maend_kr": 37028.02,
+      "maanedsloen_kvinder_kr": 34343.84,
+      "antal_fuldtid": 41292
+    },
+    {
+      "disco_kode": "9121",
+      "arbejdsfunktion": "Manuel vask og presning af tøj",
+      "maanedsloen_kr": 37305.46,
+      "maanedsloen_maend_kr": 37859.97,
+      "maanedsloen_kvinder_kr": 36996.64,
+      "antal_fuldtid": 297
+    },
+    {
+      "disco_kode": "9122",
+      "arbejdsfunktion": "Rengøring af transportmidler",
+      "maanedsloen_kr": 35889.07,
+      "maanedsloen_maend_kr": 36075.44,
+      "maanedsloen_kvinder_kr": 34559.49,
+      "antal_fuldtid": 935
+    },
+    {
+      "disco_kode": "9123",
+      "arbejdsfunktion": "Vinduespudsning",
+      "maanedsloen_kr": 41077.79,
+      "maanedsloen_maend_kr": 41094.63,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 289
+    },
+    {
+      "disco_kode": "9129",
+      "arbejdsfunktion": "Andet rengøringsarbejde",
+      "maanedsloen_kr": 37695.16,
+      "maanedsloen_maend_kr": 40570.91,
+      "maanedsloen_kvinder_kr": 34845.03,
+      "antal_fuldtid": 2821
+    },
+    {
+      "disco_kode": "9212",
+      "arbejdsfunktion": "Manuelt arbejde inden for husdyravl",
+      "maanedsloen_kr": 39395.54,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": 39045.46,
+      "antal_fuldtid": 163
+    },
+    {
+      "disco_kode": "9214",
+      "arbejdsfunktion": "Manuelt arbejde inden for havebrug og væksthusgartneri",
+      "maanedsloen_kr": 35223.39,
+      "maanedsloen_maend_kr": 36226.61,
+      "maanedsloen_kvinder_kr": 33253.12,
+      "antal_fuldtid": 811
+    },
+    {
+      "disco_kode": "9215",
+      "arbejdsfunktion": "Manuelt skovarbejde",
+      "maanedsloen_kr": 41556.75,
+      "maanedsloen_maend_kr": "",
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 56
+    },
+    {
+      "disco_kode": "9216",
+      "arbejdsfunktion": "Manuelt arbejde inden for fiskeri og akvakultur",
+      "maanedsloen_kr": 39652.82,
+      "maanedsloen_maend_kr": 41705.12,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 79
+    },
+    {
+      "disco_kode": "9311",
+      "arbejdsfunktion": "Manuelt arbejde inden for råstofudvinding",
+      "maanedsloen_kr": 46708.26,
+      "maanedsloen_maend_kr": 46572.99,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 79
+    },
+    {
+      "disco_kode": "9312",
+      "arbejdsfunktion": "Manuelt arbejde inden for anlægssektoren",
+      "maanedsloen_kr": 43661.69,
+      "maanedsloen_maend_kr": 44289.74,
+      "maanedsloen_kvinder_kr": 38092.65,
+      "antal_fuldtid": 22107
+    },
+    {
+      "disco_kode": "9313",
+      "arbejdsfunktion": "Manuelt arbejde inden for byggesektoren",
+      "maanedsloen_kr": 47118.96,
+      "maanedsloen_maend_kr": 47355.7,
+      "maanedsloen_kvinder_kr": 38109.3,
+      "antal_fuldtid": 9820
+    },
+    {
+      "disco_kode": "9321",
+      "arbejdsfunktion": "Pakkeriarbejde",
+      "maanedsloen_kr": 39963.79,
+      "maanedsloen_maend_kr": 41738.63,
+      "maanedsloen_kvinder_kr": 37661.88,
+      "antal_fuldtid": 5460
+    },
+    {
+      "disco_kode": "9329",
+      "arbejdsfunktion": "Andet manuelt produktionsarbejde",
+      "maanedsloen_kr": 40126.81,
+      "maanedsloen_maend_kr": 40979.34,
+      "maanedsloen_kvinder_kr": 37391.1,
+      "antal_fuldtid": 7105
+    },
+    {
+      "disco_kode": "9333",
+      "arbejdsfunktion": "Arbejde med lastning og losning",
+      "maanedsloen_kr": 49423.13,
+      "maanedsloen_maend_kr": 49550.8,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 1348
+    },
+    {
+      "disco_kode": "9334",
+      "arbejdsfunktion": "Arbejde med opfyldning af lager og butik",
+      "maanedsloen_kr": 40897.56,
+      "maanedsloen_maend_kr": 41819.02,
+      "maanedsloen_kvinder_kr": 37064.74,
+      "antal_fuldtid": 28077
+    },
+    {
+      "disco_kode": "9411",
+      "arbejdsfunktion": "Tilberedning af fastfood",
+      "maanedsloen_kr": 32425.18,
+      "maanedsloen_maend_kr": 29379.76,
+      "maanedsloen_kvinder_kr": 33777.53,
+      "antal_fuldtid": 6968
+    },
+    {
+      "disco_kode": "9412",
+      "arbejdsfunktion": "Køkkenhjælp mv.",
+      "maanedsloen_kr": 31720.53,
+      "maanedsloen_maend_kr": 31190.48,
+      "maanedsloen_kvinder_kr": 32046.48,
+      "antal_fuldtid": 12049
+    },
+    {
+      "disco_kode": "9510",
+      "arbejdsfunktion": "Servicearbejde på gaden",
+      "maanedsloen_kr": 34785.46,
+      "maanedsloen_maend_kr": 35403.2,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 86
+    },
+    {
+      "disco_kode": "9611",
+      "arbejdsfunktion": "Indsamling af skrald og genbrugsartikler",
+      "maanedsloen_kr": 51374.9,
+      "maanedsloen_maend_kr": 51788.97,
+      "maanedsloen_kvinder_kr": "",
+      "antal_fuldtid": 1007
+    },
+    {
+      "disco_kode": "9612",
+      "arbejdsfunktion": "Arbejde med affaldssortering",
+      "maanedsloen_kr": 41368.56,
+      "maanedsloen_maend_kr": 41813.13,
+      "maanedsloen_kvinder_kr": 39093.09,
+      "antal_fuldtid": 996
+    },
+    {
+      "disco_kode": "9613",
+      "arbejdsfunktion": "Gadefejning og beslægtet arbejde",
+      "maanedsloen_kr": 42373.67,
+      "maanedsloen_maend_kr": 42760.03,
+      "maanedsloen_kvinder_kr": 37875.21,
+      "antal_fuldtid": 1150
+    },
+    {
+      "disco_kode": "9621",
+      "arbejdsfunktion": "Kurérarbejde og transport af bagage",
+      "maanedsloen_kr": 41880.73,
+      "maanedsloen_maend_kr": 45034.84,
+      "maanedsloen_kvinder_kr": 28855.65,
+      "antal_fuldtid": 2024
+    },
+    {
+      "disco_kode": "9622",
+      "arbejdsfunktion": "Forefaldende arbejde",
+      "maanedsloen_kr": 35898.38,
+      "maanedsloen_maend_kr": 37449.87,
+      "maanedsloen_kvinder_kr": 30577.16,
+      "antal_fuldtid": 1106
+    },
+    {
+      "disco_kode": "9629",
+      "arbejdsfunktion": "Andet manuelt arbejde",
+      "maanedsloen_kr": 48221.6,
+      "maanedsloen_maend_kr": 48707.95,
+      "maanedsloen_kvinder_kr": 46704.2,
+      "antal_fuldtid": 4966
+    }
+  ],
+  "meta": {
+    "title": "Gennemsnitlig månedsløn efter arbejdsfunktion (stilling) 2025 - Free Download",
+    "description": "Standardberegnet månedsfortjeneste i kr. for fuldtidsansatte i alle sektorer i 2025 fordelt på arbejdsfunktion (DISCO-08, 4-cifret), i alt og for mænd og kvinder, samt antal fuldtidsbeskæftigede i lønstatistikken (Danmarks Statistik, LONS20). Tom værdi = ikke offentliggjort. Contains 378 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gennemsnitlig månedsløn efter arbejdsfunktion (stilling) 2025 | ListBase",
+    "seo_description": "Download Gennemsnitlig månedsløn efter arbejdsfunktion (stilling) 2025 — 378 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 378 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/LONS20"
+    ]
+  }
+}
