@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-26T02:07:13.043Z",
-  "total_datasets": 531,
-  "total_records": 247152,
+  "generated": "2026-11-27T02:10:11.989Z",
+  "total_datasets": 532,
+  "total_records": 247169,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "food",
@@ -2661,6 +2661,34 @@
         "xlsx": {
           "name": "da-cafeer_DA.xlsx",
           "size": 114387
+        }
+      }
+    },
+    {
+      "id": "da-ejendomspriser-efter-landsdel-2025",
+      "name": "Gennemsnitlige ejendomspriser efter region og landsdel (2025)",
+      "category": "finance",
+      "record_count": 17,
+      "columns": [
+        "omraade",
+        "enfamiliehuse_antal_salg",
+        "enfamiliehuse_gns_pris_1000_kr",
+        "sommerhuse_antal_salg",
+        "sommerhuse_gns_pris_1000_kr",
+        "ejerlejligheder_antal_salg",
+        "ejerlejligheder_gns_pris_1000_kr"
+      ],
+      "source": "https://www.statistikbanken.dk/EJEN88",
+      "updated": "2026-11",
+      "size": 7459,
+      "files": {
+        "csv": {
+          "name": "da-ejendomspriser-efter-landsdel-2025_DA.csv",
+          "size": 1174
+        },
+        "xlsx": {
+          "name": "da-ejendomspriser-efter-landsdel-2025_DA.xlsx",
+          "size": 7688
         }
       }
     },

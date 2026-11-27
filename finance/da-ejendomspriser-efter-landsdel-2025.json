@@ -1,0 +1,214 @@
+{
+  "id": "da-ejendomspriser-efter-landsdel-2025",
+  "name": "Gennemsnitlige ejendomspriser efter region og landsdel (2025)",
+  "title": "Gennemsnitlige ejendomspriser efter region og landsdel (2025)",
+  "description": "Gennemsnitlig salgspris (1.000 kr.) og antal salg i almindelig fri handel for enfamiliehuse, ejerlejligheder og sommerhuse i 2025 fordelt på hele landet, regioner og landsdele (Danmarks Statistik, EJEN88).",
+  "category": "finance",
+  "source": "https://www.statistikbanken.dk/EJEN88",
+  "source_url": "https://www.statistikbanken.dk/EJEN88",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "omraade",
+      "label": "Omraade",
+      "type": "string"
+    },
+    {
+      "key": "enfamiliehuse_antal_salg",
+      "label": "Enfamiliehuse Antal Salg",
+      "type": "number"
+    },
+    {
+      "key": "enfamiliehuse_gns_pris_1000_kr",
+      "label": "Enfamiliehuse Gns Pris 1000 Kr",
+      "type": "number"
+    },
+    {
+      "key": "sommerhuse_antal_salg",
+      "label": "Sommerhuse Antal Salg",
+      "type": "number"
+    },
+    {
+      "key": "sommerhuse_gns_pris_1000_kr",
+      "label": "Sommerhuse Gns Pris 1000 Kr",
+      "type": "number"
+    },
+    {
+      "key": "ejerlejligheder_antal_salg",
+      "label": "Ejerlejligheder Antal Salg",
+      "type": "number"
+    },
+    {
+      "key": "ejerlejligheder_gns_pris_1000_kr",
+      "label": "Ejerlejligheder Gns Pris 1000 Kr",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "omraade": "Hele landet",
+      "enfamiliehuse_antal_salg": 52023,
+      "enfamiliehuse_gns_pris_1000_kr": 3059,
+      "sommerhuse_antal_salg": 9851,
+      "sommerhuse_gns_pris_1000_kr": 1996,
+      "ejerlejligheder_antal_salg": 17827,
+      "ejerlejligheder_gns_pris_1000_kr": 3689
+    },
+    {
+      "omraade": "Byen København",
+      "enfamiliehuse_antal_salg": 1476,
+      "enfamiliehuse_gns_pris_1000_kr": 7881,
+      "sommerhuse_antal_salg": 6,
+      "sommerhuse_gns_pris_1000_kr": 2075,
+      "ejerlejligheder_antal_salg": 7255,
+      "ejerlejligheder_gns_pris_1000_kr": 5369
+    },
+    {
+      "omraade": "Københavns omegn",
+      "enfamiliehuse_antal_salg": 3945,
+      "enfamiliehuse_gns_pris_1000_kr": 6591,
+      "sommerhuse_antal_salg": 18,
+      "sommerhuse_gns_pris_1000_kr": 1935,
+      "ejerlejligheder_antal_salg": 2559,
+      "ejerlejligheder_gns_pris_1000_kr": 3237
+    },
+    {
+      "omraade": "Nordsjælland",
+      "enfamiliehuse_antal_salg": 5450,
+      "enfamiliehuse_gns_pris_1000_kr": 4906,
+      "sommerhuse_antal_salg": 1531,
+      "sommerhuse_gns_pris_1000_kr": 2822,
+      "ejerlejligheder_antal_salg": 1397,
+      "ejerlejligheder_gns_pris_1000_kr": 2851
+    },
+    {
+      "omraade": "Bornholm",
+      "enfamiliehuse_antal_salg": 582,
+      "enfamiliehuse_gns_pris_1000_kr": 1497,
+      "sommerhuse_antal_salg": 115,
+      "sommerhuse_gns_pris_1000_kr": 2319,
+      "ejerlejligheder_antal_salg": 17,
+      "ejerlejligheder_gns_pris_1000_kr": 1147
+    },
+    {
+      "omraade": "Østsjælland",
+      "enfamiliehuse_antal_salg": 3046,
+      "enfamiliehuse_gns_pris_1000_kr": 4183,
+      "sommerhuse_antal_salg": 135,
+      "sommerhuse_gns_pris_1000_kr": 1778,
+      "ejerlejligheder_antal_salg": 663,
+      "ejerlejligheder_gns_pris_1000_kr": 2609
+    },
+    {
+      "omraade": "Vest- og Sydsjælland",
+      "enfamiliehuse_antal_salg": 6819,
+      "enfamiliehuse_gns_pris_1000_kr": 1851,
+      "sommerhuse_antal_salg": 2587,
+      "sommerhuse_gns_pris_1000_kr": 1751,
+      "ejerlejligheder_antal_salg": 605,
+      "ejerlejligheder_gns_pris_1000_kr": 1430
+    },
+    {
+      "omraade": "Fyn",
+      "enfamiliehuse_antal_salg": 5228,
+      "enfamiliehuse_gns_pris_1000_kr": 2194,
+      "sommerhuse_antal_salg": 406,
+      "sommerhuse_gns_pris_1000_kr": 2022,
+      "ejerlejligheder_antal_salg": 641,
+      "ejerlejligheder_gns_pris_1000_kr": 1983
+    },
+    {
+      "omraade": "Sydjylland",
+      "enfamiliehuse_antal_salg": 7379,
+      "enfamiliehuse_gns_pris_1000_kr": 1896,
+      "sommerhuse_antal_salg": 1173,
+      "sommerhuse_gns_pris_1000_kr": 2243,
+      "ejerlejligheder_antal_salg": 762,
+      "ejerlejligheder_gns_pris_1000_kr": 1659
+    },
+    {
+      "omraade": "Region Nordjylland",
+      "enfamiliehuse_antal_salg": 5590,
+      "enfamiliehuse_gns_pris_1000_kr": 1851,
+      "sommerhuse_antal_salg": 1561,
+      "sommerhuse_gns_pris_1000_kr": 1595,
+      "ejerlejligheder_antal_salg": 852,
+      "ejerlejligheder_gns_pris_1000_kr": 1714
+    },
+    {
+      "omraade": "Region Midtjylland",
+      "enfamiliehuse_antal_salg": 12508,
+      "enfamiliehuse_gns_pris_1000_kr": 2618,
+      "sommerhuse_antal_salg": 2319,
+      "sommerhuse_gns_pris_1000_kr": 1860,
+      "ejerlejligheder_antal_salg": 3076,
+      "ejerlejligheder_gns_pris_1000_kr": 2578
+    },
+    {
+      "omraade": "Region Syddanmark",
+      "enfamiliehuse_antal_salg": 12607,
+      "enfamiliehuse_gns_pris_1000_kr": 2020,
+      "sommerhuse_antal_salg": 1579,
+      "sommerhuse_gns_pris_1000_kr": 2186,
+      "ejerlejligheder_antal_salg": 1403,
+      "ejerlejligheder_gns_pris_1000_kr": 1807
+    },
+    {
+      "omraade": "Region Hovedstaden",
+      "enfamiliehuse_antal_salg": 11453,
+      "enfamiliehuse_gns_pris_1000_kr": 5697,
+      "sommerhuse_antal_salg": 1670,
+      "sommerhuse_gns_pris_1000_kr": 2775,
+      "ejerlejligheder_antal_salg": 11228,
+      "ejerlejligheder_gns_pris_1000_kr": 4563
+    },
+    {
+      "omraade": "Region Sjælland",
+      "enfamiliehuse_antal_salg": 9865,
+      "enfamiliehuse_gns_pris_1000_kr": 2571,
+      "sommerhuse_antal_salg": 2722,
+      "sommerhuse_gns_pris_1000_kr": 1752,
+      "ejerlejligheder_antal_salg": 1268,
+      "ejerlejligheder_gns_pris_1000_kr": 2046
+    },
+    {
+      "omraade": "Østjylland",
+      "enfamiliehuse_antal_salg": 8468,
+      "enfamiliehuse_gns_pris_1000_kr": 3073,
+      "sommerhuse_antal_salg": 1117,
+      "sommerhuse_gns_pris_1000_kr": 2096,
+      "ejerlejligheder_antal_salg": 2773,
+      "ejerlejligheder_gns_pris_1000_kr": 2707
+    },
+    {
+      "omraade": "Vestjylland",
+      "enfamiliehuse_antal_salg": 4040,
+      "enfamiliehuse_gns_pris_1000_kr": 1664,
+      "sommerhuse_antal_salg": 1202,
+      "sommerhuse_gns_pris_1000_kr": 1641,
+      "ejerlejligheder_antal_salg": 303,
+      "ejerlejligheder_gns_pris_1000_kr": 1392
+    },
+    {
+      "omraade": "Nordjylland",
+      "enfamiliehuse_antal_salg": 5590,
+      "enfamiliehuse_gns_pris_1000_kr": 1851,
+      "sommerhuse_antal_salg": 1561,
+      "sommerhuse_gns_pris_1000_kr": 1595,
+      "ejerlejligheder_antal_salg": 852,
+      "ejerlejligheder_gns_pris_1000_kr": 1714
+    }
+  ],
+  "meta": {
+    "title": "Gennemsnitlige ejendomspriser efter region og landsdel (2025) - Free Download",
+    "description": "Gennemsnitlig salgspris (1.000 kr.) og antal salg i almindelig fri handel for enfamiliehuse, ejerlejligheder og sommerhuse i 2025 fordelt på hele landet, regioner og landsdele (Danmarks Statistik, EJEN88). Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gennemsnitlige ejendomspriser efter region og landsdel (2025) | ListBase",
+    "seo_description": "Download Gennemsnitlige ejendomspriser efter region og landsdel (2025) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/EJEN88"
+    ]
+  }
+}
