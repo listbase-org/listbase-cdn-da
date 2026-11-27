@@ -1,0 +1,152 @@
+{
+  "id": "da-teatertilskuere-efter-genre",
+  "name": "Tilskuere på danske teatre efter genre (sæson 2020/21–2024/25)",
+  "title": "Tilskuere på danske teatre efter genre (sæson 2020/21–2024/25)",
+  "description": "Antal tilskuere på danske teatres egen scene pr. sæson fordelt på genre (skuespil, musical og operette, opera, ballet, dans, nycirkus, revy/stand-up m.fl.) for alle teatre i alt (Danmarks Statistik, SCENE01B).",
+  "category": "entertainment",
+  "source": "https://www.statistikbanken.dk/SCENE01B",
+  "source_url": "https://www.statistikbanken.dk/SCENE01B",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "genre",
+      "label": "Genre",
+      "type": "string"
+    },
+    {
+      "key": "tilskuere_2020_2021",
+      "label": "Tilskuere 2020 2021",
+      "type": "number"
+    },
+    {
+      "key": "tilskuere_2021_2022",
+      "label": "Tilskuere 2021 2022",
+      "type": "number"
+    },
+    {
+      "key": "tilskuere_2022_2023",
+      "label": "Tilskuere 2022 2023",
+      "type": "number"
+    },
+    {
+      "key": "tilskuere_2023_2024",
+      "label": "Tilskuere 2023 2024",
+      "type": "number"
+    },
+    {
+      "key": "tilskuere_2024_2025",
+      "label": "Tilskuere 2024 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "genre": "Genrer i alt",
+      "tilskuere_2020_2021": 564970,
+      "tilskuere_2021_2022": 1804267,
+      "tilskuere_2022_2023": 1912917,
+      "tilskuere_2023_2024": 2008952,
+      "tilskuere_2024_2025": 2001703
+    },
+    {
+      "genre": "Skuespil",
+      "tilskuere_2020_2021": 341116,
+      "tilskuere_2021_2022": 867027,
+      "tilskuere_2022_2023": 828640,
+      "tilskuere_2023_2024": 868721,
+      "tilskuere_2024_2025": 835010
+    },
+    {
+      "genre": "Musical og Operette",
+      "tilskuere_2020_2021": 38740,
+      "tilskuere_2021_2022": 365706,
+      "tilskuere_2022_2023": 267883,
+      "tilskuere_2023_2024": 283319,
+      "tilskuere_2024_2025": 347489
+    },
+    {
+      "genre": "Opera",
+      "tilskuere_2020_2021": 24978,
+      "tilskuere_2021_2022": 138285,
+      "tilskuere_2022_2023": 154407,
+      "tilskuere_2023_2024": 155409,
+      "tilskuere_2024_2025": 127800
+    },
+    {
+      "genre": "Musikteater og Teaterkoncert",
+      "tilskuere_2020_2021": 76166,
+      "tilskuere_2021_2022": 128344,
+      "tilskuere_2022_2023": 240540,
+      "tilskuere_2023_2024": 214759,
+      "tilskuere_2024_2025": 198496
+    },
+    {
+      "genre": "Dans",
+      "tilskuere_2020_2021": 10136,
+      "tilskuere_2021_2022": 27891,
+      "tilskuere_2022_2023": 34348,
+      "tilskuere_2023_2024": 41850,
+      "tilskuere_2024_2025": 35639
+    },
+    {
+      "genre": "Ballet",
+      "tilskuere_2020_2021": 32941,
+      "tilskuere_2021_2022": 153703,
+      "tilskuere_2022_2023": 189649,
+      "tilskuere_2023_2024": 188299,
+      "tilskuere_2024_2025": 195880
+    },
+    {
+      "genre": "Animation og Dukketeater",
+      "tilskuere_2020_2021": 3948,
+      "tilskuere_2021_2022": 15172,
+      "tilskuere_2022_2023": 14553,
+      "tilskuere_2023_2024": 28569,
+      "tilskuere_2024_2025": 13730
+    },
+    {
+      "genre": "Performance",
+      "tilskuere_2020_2021": 12686,
+      "tilskuere_2021_2022": 30615,
+      "tilskuere_2022_2023": 31186,
+      "tilskuere_2023_2024": 27422,
+      "tilskuere_2024_2025": 18727
+    },
+    {
+      "genre": "Nycirkus",
+      "tilskuere_2020_2021": 529,
+      "tilskuere_2021_2022": 2984,
+      "tilskuere_2022_2023": 761,
+      "tilskuere_2023_2024": 15009,
+      "tilskuere_2024_2025": 27033
+    },
+    {
+      "genre": "Show, Revy, Stand-up og Cabaret",
+      "tilskuere_2020_2021": 11063,
+      "tilskuere_2021_2022": 50084,
+      "tilskuere_2022_2023": 124104,
+      "tilskuere_2023_2024": 134075,
+      "tilskuere_2024_2025": 138937
+    },
+    {
+      "genre": "Anden genre",
+      "tilskuere_2020_2021": 12667,
+      "tilskuere_2021_2022": 24456,
+      "tilskuere_2022_2023": 26846,
+      "tilskuere_2023_2024": 51520,
+      "tilskuere_2024_2025": 62962
+    }
+  ],
+  "meta": {
+    "title": "Tilskuere på danske teatre efter genre (sæson 2020/21–2024/25) - Free Download",
+    "description": "Antal tilskuere på danske teatres egen scene pr. sæson fordelt på genre (skuespil, musical og operette, opera, ballet, dans, nycirkus, revy/stand-up m.fl.) for alle teatre i alt (Danmarks Statistik, SCENE01B). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tilskuere på danske teatre efter genre (sæson 2020/21–2024/25) | ListBase",
+    "seo_description": "Download Tilskuere på danske teatre efter genre (sæson 2020/21–2024/25) — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/SCENE01B"
+    ]
+  }
+}
