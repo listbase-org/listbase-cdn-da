@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-28T02:17:20.893Z",
-  "total_datasets": 536,
-  "total_records": 247763,
+  "generated": "2026-11-28T02:17:30.258Z",
+  "total_datasets": 537,
+  "total_records": 247887,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "sports",
@@ -13155,6 +13155,31 @@
         "xlsx": {
           "name": "da-ledighed-pr-kommune-2025_DA.xlsx",
           "size": 9883
+        }
+      }
+    },
+    {
+      "id": "da-nye-statsborgere-efter-tidligere-statsborgerskab-2025",
+      "name": "Personer, der fik dansk statsborgerskab i 2025, efter tidligere statsborgerskab",
+      "category": "society",
+      "record_count": 124,
+      "columns": [
+        "tidligere_statsborgerskab",
+        "i_alt",
+        "maend",
+        "kvinder"
+      ],
+      "source": "https://www.statistikbanken.dk/DKSTAT",
+      "updated": "2026-11",
+      "size": 16327,
+      "files": {
+        "csv": {
+          "name": "da-nye-statsborgere-efter-tidligere-statsborgerskab-2025_DA.csv",
+          "size": 3115
+        },
+        "xlsx": {
+          "name": "da-nye-statsborgere-efter-tidligere-statsborgerskab-2025_DA.xlsx",
+          "size": 10052
         }
       }
     },

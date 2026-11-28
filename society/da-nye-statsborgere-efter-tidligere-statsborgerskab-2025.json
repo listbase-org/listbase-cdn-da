@@ -1,0 +1,790 @@
+{
+  "id": "da-nye-statsborgere-efter-tidligere-statsborgerskab-2025",
+  "name": "Personer, der fik dansk statsborgerskab i 2025, efter tidligere statsborgerskab",
+  "title": "Personer, der fik dansk statsborgerskab i 2025, efter tidligere statsborgerskab",
+  "description": "Antal personer, der i 2025 fik dansk statsborgerskab (indfødsret), fordelt på tidligere statsborgerskab og køn. Kilde: Danmarks Statistik, DKSTAT.",
+  "category": "society",
+  "source": "https://www.statistikbanken.dk/DKSTAT",
+  "source_url": "https://www.statistikbanken.dk/DKSTAT",
+  "updated": "2026-11",
+  "record_count": 124,
+  "columns": [
+    {
+      "key": "tidligere_statsborgerskab",
+      "label": "Tidligere Statsborgerskab",
+      "type": "string"
+    },
+    {
+      "key": "i_alt",
+      "label": "I Alt",
+      "type": "number"
+    },
+    {
+      "key": "maend",
+      "label": "Maend",
+      "type": "number"
+    },
+    {
+      "key": "kvinder",
+      "label": "Kvinder",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tidligere_statsborgerskab": "Pakistan",
+      "i_alt": 315,
+      "maend": 215,
+      "kvinder": 100
+    },
+    {
+      "tidligere_statsborgerskab": "Syrien",
+      "i_alt": 302,
+      "maend": 211,
+      "kvinder": 91
+    },
+    {
+      "tidligere_statsborgerskab": "Tyskland",
+      "i_alt": 265,
+      "maend": 132,
+      "kvinder": 133
+    },
+    {
+      "tidligere_statsborgerskab": "Ukraine",
+      "i_alt": 261,
+      "maend": 138,
+      "kvinder": 123
+    },
+    {
+      "tidligere_statsborgerskab": "Iran",
+      "i_alt": 256,
+      "maend": 135,
+      "kvinder": 121
+    },
+    {
+      "tidligere_statsborgerskab": "Indien",
+      "i_alt": 229,
+      "maend": 131,
+      "kvinder": 98
+    },
+    {
+      "tidligere_statsborgerskab": "Statsløs",
+      "i_alt": 182,
+      "maend": 106,
+      "kvinder": 76
+    },
+    {
+      "tidligere_statsborgerskab": "Storbritannien",
+      "i_alt": 173,
+      "maend": 109,
+      "kvinder": 64
+    },
+    {
+      "tidligere_statsborgerskab": "Polen",
+      "i_alt": 159,
+      "maend": 65,
+      "kvinder": 94
+    },
+    {
+      "tidligere_statsborgerskab": "Afghanistan",
+      "i_alt": 132,
+      "maend": 79,
+      "kvinder": 53
+    },
+    {
+      "tidligere_statsborgerskab": "Rumænien",
+      "i_alt": 128,
+      "maend": 47,
+      "kvinder": 81
+    },
+    {
+      "tidligere_statsborgerskab": "Rusland",
+      "i_alt": 118,
+      "maend": 34,
+      "kvinder": 84
+    },
+    {
+      "tidligere_statsborgerskab": "USA",
+      "i_alt": 95,
+      "maend": 42,
+      "kvinder": 53
+    },
+    {
+      "tidligere_statsborgerskab": "Nepal",
+      "i_alt": 94,
+      "maend": 66,
+      "kvinder": 28
+    },
+    {
+      "tidligere_statsborgerskab": "Sverige",
+      "i_alt": 90,
+      "maend": 39,
+      "kvinder": 51
+    },
+    {
+      "tidligere_statsborgerskab": "Tyrkiet",
+      "i_alt": 83,
+      "maend": 37,
+      "kvinder": 46
+    },
+    {
+      "tidligere_statsborgerskab": "Filippinerne",
+      "i_alt": 83,
+      "maend": 13,
+      "kvinder": 70
+    },
+    {
+      "tidligere_statsborgerskab": "Bangladesh",
+      "i_alt": 74,
+      "maend": 46,
+      "kvinder": 28
+    },
+    {
+      "tidligere_statsborgerskab": "Irak",
+      "i_alt": 68,
+      "maend": 36,
+      "kvinder": 32
+    },
+    {
+      "tidligere_statsborgerskab": "Bulgarien",
+      "i_alt": 67,
+      "maend": 21,
+      "kvinder": 46
+    },
+    {
+      "tidligere_statsborgerskab": "Thailand",
+      "i_alt": 66,
+      "maend": 13,
+      "kvinder": 53
+    },
+    {
+      "tidligere_statsborgerskab": "Bosnien-Hercegovina",
+      "i_alt": 62,
+      "maend": 31,
+      "kvinder": 31
+    },
+    {
+      "tidligere_statsborgerskab": "Kina",
+      "i_alt": 61,
+      "maend": 26,
+      "kvinder": 35
+    },
+    {
+      "tidligere_statsborgerskab": "Frankrig",
+      "i_alt": 55,
+      "maend": 23,
+      "kvinder": 32
+    },
+    {
+      "tidligere_statsborgerskab": "Litauen",
+      "i_alt": 53,
+      "maend": 28,
+      "kvinder": 25
+    },
+    {
+      "tidligere_statsborgerskab": "Somalia",
+      "i_alt": 51,
+      "maend": 26,
+      "kvinder": 25
+    },
+    {
+      "tidligere_statsborgerskab": "Spanien",
+      "i_alt": 47,
+      "maend": 24,
+      "kvinder": 23
+    },
+    {
+      "tidligere_statsborgerskab": "Ungarn",
+      "i_alt": 46,
+      "maend": 12,
+      "kvinder": 34
+    },
+    {
+      "tidligere_statsborgerskab": "Norge",
+      "i_alt": 42,
+      "maend": 20,
+      "kvinder": 22
+    },
+    {
+      "tidligere_statsborgerskab": "Letland",
+      "i_alt": 41,
+      "maend": 10,
+      "kvinder": 31
+    },
+    {
+      "tidligere_statsborgerskab": "Vietnam",
+      "i_alt": 41,
+      "maend": 13,
+      "kvinder": 28
+    },
+    {
+      "tidligere_statsborgerskab": "Italien",
+      "i_alt": 38,
+      "maend": 17,
+      "kvinder": 21
+    },
+    {
+      "tidligere_statsborgerskab": "Nederlandene",
+      "i_alt": 37,
+      "maend": 18,
+      "kvinder": 19
+    },
+    {
+      "tidligere_statsborgerskab": "Nordmakedonien",
+      "i_alt": 36,
+      "maend": 12,
+      "kvinder": 24
+    },
+    {
+      "tidligere_statsborgerskab": "Serbien",
+      "i_alt": 31,
+      "maend": 10,
+      "kvinder": 21
+    },
+    {
+      "tidligere_statsborgerskab": "Cameroun",
+      "i_alt": 29,
+      "maend": 16,
+      "kvinder": 13
+    },
+    {
+      "tidligere_statsborgerskab": "Nigeria",
+      "i_alt": 26,
+      "maend": 18,
+      "kvinder": 8
+    },
+    {
+      "tidligere_statsborgerskab": "Grækenland",
+      "i_alt": 24,
+      "maend": 14,
+      "kvinder": 10
+    },
+    {
+      "tidligere_statsborgerskab": "Israel",
+      "i_alt": 24,
+      "maend": 14,
+      "kvinder": 10
+    },
+    {
+      "tidligere_statsborgerskab": "Egypten",
+      "i_alt": 23,
+      "maend": 16,
+      "kvinder": 7
+    },
+    {
+      "tidligere_statsborgerskab": "Island",
+      "i_alt": 22,
+      "maend": 13,
+      "kvinder": 9
+    },
+    {
+      "tidligere_statsborgerskab": "Canada",
+      "i_alt": 20,
+      "maend": 11,
+      "kvinder": 9
+    },
+    {
+      "tidligere_statsborgerskab": "Kosovo",
+      "i_alt": 19,
+      "maend": 10,
+      "kvinder": 9
+    },
+    {
+      "tidligere_statsborgerskab": "Sri Lanka",
+      "i_alt": 18,
+      "maend": 9,
+      "kvinder": 9
+    },
+    {
+      "tidligere_statsborgerskab": "Marokko",
+      "i_alt": 17,
+      "maend": 8,
+      "kvinder": 9
+    },
+    {
+      "tidligere_statsborgerskab": "Finland",
+      "i_alt": 16,
+      "maend": 4,
+      "kvinder": 12
+    },
+    {
+      "tidligere_statsborgerskab": "Montenegro",
+      "i_alt": 15,
+      "maend": 6,
+      "kvinder": 9
+    },
+    {
+      "tidligere_statsborgerskab": "Ghana",
+      "i_alt": 14,
+      "maend": 7,
+      "kvinder": 7
+    },
+    {
+      "tidligere_statsborgerskab": "Brasilien",
+      "i_alt": 14,
+      "maend": 3,
+      "kvinder": 11
+    },
+    {
+      "tidligere_statsborgerskab": "Mexico",
+      "i_alt": 14,
+      "maend": 9,
+      "kvinder": 5
+    },
+    {
+      "tidligere_statsborgerskab": "Myanmar",
+      "i_alt": 14,
+      "maend": 5,
+      "kvinder": 9
+    },
+    {
+      "tidligere_statsborgerskab": "Australien",
+      "i_alt": 14,
+      "maend": 5,
+      "kvinder": 9
+    },
+    {
+      "tidligere_statsborgerskab": "Slovakiet",
+      "i_alt": 13,
+      "maend": 2,
+      "kvinder": 11
+    },
+    {
+      "tidligere_statsborgerskab": "Tjekkiet",
+      "i_alt": 13,
+      "maend": 4,
+      "kvinder": 9
+    },
+    {
+      "tidligere_statsborgerskab": "Uganda",
+      "i_alt": 12,
+      "maend": 3,
+      "kvinder": 9
+    },
+    {
+      "tidligere_statsborgerskab": "Libanon",
+      "i_alt": 12,
+      "maend": 6,
+      "kvinder": 6
+    },
+    {
+      "tidligere_statsborgerskab": "Belarus",
+      "i_alt": 10,
+      "maend": 0,
+      "kvinder": 10
+    },
+    {
+      "tidligere_statsborgerskab": "Estland",
+      "i_alt": 10,
+      "maend": 2,
+      "kvinder": 8
+    },
+    {
+      "tidligere_statsborgerskab": "Irland",
+      "i_alt": 10,
+      "maend": 8,
+      "kvinder": 2
+    },
+    {
+      "tidligere_statsborgerskab": "Kroatien",
+      "i_alt": 10,
+      "maend": 2,
+      "kvinder": 8
+    },
+    {
+      "tidligere_statsborgerskab": "Congo, Demokratiske Republik",
+      "i_alt": 10,
+      "maend": 6,
+      "kvinder": 4
+    },
+    {
+      "tidligere_statsborgerskab": "Schweiz",
+      "i_alt": 9,
+      "maend": 5,
+      "kvinder": 4
+    },
+    {
+      "tidligere_statsborgerskab": "Eritrea",
+      "i_alt": 9,
+      "maend": 6,
+      "kvinder": 3
+    },
+    {
+      "tidligere_statsborgerskab": "Kenya",
+      "i_alt": 9,
+      "maend": 1,
+      "kvinder": 8
+    },
+    {
+      "tidligere_statsborgerskab": "Venezuela",
+      "i_alt": 9,
+      "maend": 3,
+      "kvinder": 6
+    },
+    {
+      "tidligere_statsborgerskab": "Rwanda",
+      "i_alt": 8,
+      "maend": 4,
+      "kvinder": 4
+    },
+    {
+      "tidligere_statsborgerskab": "Sudan",
+      "i_alt": 8,
+      "maend": 4,
+      "kvinder": 4
+    },
+    {
+      "tidligere_statsborgerskab": "Kasakhstan",
+      "i_alt": 8,
+      "maend": 3,
+      "kvinder": 5
+    },
+    {
+      "tidligere_statsborgerskab": "Burundi",
+      "i_alt": 7,
+      "maend": 2,
+      "kvinder": 5
+    },
+    {
+      "tidligere_statsborgerskab": "Etiopien",
+      "i_alt": 7,
+      "maend": 3,
+      "kvinder": 4
+    },
+    {
+      "tidligere_statsborgerskab": "Tunesien",
+      "i_alt": 7,
+      "maend": 7,
+      "kvinder": 0
+    },
+    {
+      "tidligere_statsborgerskab": "Portugal",
+      "i_alt": 6,
+      "maend": 4,
+      "kvinder": 2
+    },
+    {
+      "tidligere_statsborgerskab": "Argentina",
+      "i_alt": 6,
+      "maend": 4,
+      "kvinder": 2
+    },
+    {
+      "tidligere_statsborgerskab": "Colombia",
+      "i_alt": 6,
+      "maend": 1,
+      "kvinder": 5
+    },
+    {
+      "tidligere_statsborgerskab": "Honduras",
+      "i_alt": 6,
+      "maend": 2,
+      "kvinder": 4
+    },
+    {
+      "tidligere_statsborgerskab": "Usbekistan",
+      "i_alt": 6,
+      "maend": 4,
+      "kvinder": 2
+    },
+    {
+      "tidligere_statsborgerskab": "Albanien",
+      "i_alt": 5,
+      "maend": 3,
+      "kvinder": 2
+    },
+    {
+      "tidligere_statsborgerskab": "Slovenien",
+      "i_alt": 5,
+      "maend": 3,
+      "kvinder": 2
+    },
+    {
+      "tidligere_statsborgerskab": "Gambia",
+      "i_alt": 5,
+      "maend": 2,
+      "kvinder": 3
+    },
+    {
+      "tidligere_statsborgerskab": "Østrig",
+      "i_alt": 4,
+      "maend": 1,
+      "kvinder": 3
+    },
+    {
+      "tidligere_statsborgerskab": "Chile",
+      "i_alt": 4,
+      "maend": 1,
+      "kvinder": 3
+    },
+    {
+      "tidligere_statsborgerskab": "Cuba",
+      "i_alt": 4,
+      "maend": 3,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Armenien",
+      "i_alt": 4,
+      "maend": 2,
+      "kvinder": 2
+    },
+    {
+      "tidligere_statsborgerskab": "Cambodja",
+      "i_alt": 4,
+      "maend": 1,
+      "kvinder": 3
+    },
+    {
+      "tidligere_statsborgerskab": "Jordan",
+      "i_alt": 4,
+      "maend": 1,
+      "kvinder": 3
+    },
+    {
+      "tidligere_statsborgerskab": "Malaysia",
+      "i_alt": 4,
+      "maend": 1,
+      "kvinder": 3
+    },
+    {
+      "tidligere_statsborgerskab": "New Zealand",
+      "i_alt": 4,
+      "maend": 3,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Belgien",
+      "i_alt": 3,
+      "maend": 1,
+      "kvinder": 2
+    },
+    {
+      "tidligere_statsborgerskab": "Moldova",
+      "i_alt": 3,
+      "maend": 2,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Algeriet",
+      "i_alt": 3,
+      "maend": 1,
+      "kvinder": 2
+    },
+    {
+      "tidligere_statsborgerskab": "Sydafrika",
+      "i_alt": 3,
+      "maend": 2,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Tanzania",
+      "i_alt": 3,
+      "maend": 1,
+      "kvinder": 2
+    },
+    {
+      "tidligere_statsborgerskab": "Peru",
+      "i_alt": 3,
+      "maend": 0,
+      "kvinder": 3
+    },
+    {
+      "tidligere_statsborgerskab": "Aserbajdsjan",
+      "i_alt": 3,
+      "maend": 1,
+      "kvinder": 2
+    },
+    {
+      "tidligere_statsborgerskab": "Indonesien",
+      "i_alt": 3,
+      "maend": 1,
+      "kvinder": 2
+    },
+    {
+      "tidligere_statsborgerskab": "Djibouti",
+      "i_alt": 2,
+      "maend": 1,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Ecuador",
+      "i_alt": 2,
+      "maend": 1,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Japan",
+      "i_alt": 2,
+      "maend": 0,
+      "kvinder": 2
+    },
+    {
+      "tidligere_statsborgerskab": "Jugoslavien",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Jugoslavien, Forbundsrepublikken",
+      "i_alt": 1,
+      "maend": 1,
+      "kvinder": 0
+    },
+    {
+      "tidligere_statsborgerskab": "Malta",
+      "i_alt": 1,
+      "maend": 1,
+      "kvinder": 0
+    },
+    {
+      "tidligere_statsborgerskab": "Tjekkoslovakiet",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Angola",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Burkina Faso",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Congo, Republikken",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Elfenbenskysten",
+      "i_alt": 1,
+      "maend": 1,
+      "kvinder": 0
+    },
+    {
+      "tidligere_statsborgerskab": "Kap Verde",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Libyen",
+      "i_alt": 1,
+      "maend": 1,
+      "kvinder": 0
+    },
+    {
+      "tidligere_statsborgerskab": "Togo",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Zambia",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Zimbabwe",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Bahamas",
+      "i_alt": 1,
+      "maend": 1,
+      "kvinder": 0
+    },
+    {
+      "tidligere_statsborgerskab": "Barbados",
+      "i_alt": 1,
+      "maend": 1,
+      "kvinder": 0
+    },
+    {
+      "tidligere_statsborgerskab": "Bolivia",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Costa Rica",
+      "i_alt": 1,
+      "maend": 1,
+      "kvinder": 0
+    },
+    {
+      "tidligere_statsborgerskab": "Trinidad og Tobago",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Bhutan",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Georgien",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Mongoliet",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Singapore",
+      "i_alt": 1,
+      "maend": 1,
+      "kvinder": 0
+    },
+    {
+      "tidligere_statsborgerskab": "Sydkorea",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Tadsjikistan",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Taiwan",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    },
+    {
+      "tidligere_statsborgerskab": "Yemen",
+      "i_alt": 1,
+      "maend": 0,
+      "kvinder": 1
+    }
+  ],
+  "meta": {
+    "title": "Personer, der fik dansk statsborgerskab i 2025, efter tidligere statsborgerskab - Free Download",
+    "description": "Antal personer, der i 2025 fik dansk statsborgerskab (indfødsret), fordelt på tidligere statsborgerskab og køn. Kilde: Danmarks Statistik, DKSTAT. Contains 124 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Personer, der fik dansk statsborgerskab i 2025, efter tidligere statsborgerskab | ListBase",
+    "seo_description": "Download Personer, der fik dansk statsborgerskab i 2025, efter tidligere statsborgerskab — 124 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 124 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikbanken.dk/DKSTAT"
+    ]
+  }
+}
