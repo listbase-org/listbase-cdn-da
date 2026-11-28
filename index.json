@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-28T02:17:11.861Z",
-  "total_datasets": 535,
-  "total_records": 247666,
+  "generated": "2026-11-28T02:17:20.893Z",
+  "total_datasets": 536,
+  "total_records": 247763,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "politics",
@@ -5282,6 +5282,41 @@
         "xlsx": {
           "name": "da-mest-solgte-album-efter-aar_DA.xlsx",
           "size": 8340
+        }
+      }
+    },
+    {
+      "id": "da-musikskoleelever-efter-fag-kommuner",
+      "name": "Elevers aktiviteter på musikskoler efter fag og kommune (2024/25)",
+      "category": "music",
+      "record_count": 97,
+      "columns": [
+        "kommune",
+        "i_alt",
+        "sang",
+        "strygeinstrument",
+        "traeblaeser",
+        "messingblaeser",
+        "slagtoej",
+        "tasteinstrument",
+        "strengeinstrument",
+        "oevrige_musikfag",
+        "oevrige_kunstfag",
+        "sammenspil",
+        "forskole",
+        "uoplyst"
+      ],
+      "source": "https://www.statistikbanken.dk/SKOLM02A",
+      "updated": "2026-11",
+      "size": 39003,
+      "files": {
+        "csv": {
+          "name": "da-musikskoleelever-efter-fag-kommuner_DA.csv",
+          "size": 7821
+        },
+        "xlsx": {
+          "name": "da-musikskoleelever-efter-fag-kommuner_DA.xlsx",
+          "size": 13898
         }
       }
     },
