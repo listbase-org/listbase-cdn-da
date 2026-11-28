@@ -1,8 +1,8 @@
 {
   "lang": "da",
-  "generated": "2026-11-27T02:10:29.242Z",
-  "total_datasets": 534,
-  "total_records": 247559,
+  "generated": "2026-11-28T02:17:11.861Z",
+  "total_datasets": 535,
+  "total_records": 247666,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "entertainment",
@@ -1848,6 +1848,36 @@
         "xlsx": {
           "name": "da-boernehaver_DA.xlsx",
           "size": 56971
+        }
+      }
+    },
+    {
+      "id": "da-grundskoleelever-efter-skoletype-kommuner-2025",
+      "name": "Elever i grundskolen efter skoletype og bopælskommune (2025)",
+      "category": "education",
+      "record_count": 107,
+      "columns": [
+        "omraade",
+        "elever_i_alt",
+        "folkeskoler",
+        "friskoler_og_private_grundskoler",
+        "efterskoler",
+        "specialskoler",
+        "ungdomsskoler",
+        "dagbehandling_og_behandlingshjem",
+        "andre_skoler"
+      ],
+      "source": "https://www.statistikbanken.dk/UDDAKT20",
+      "updated": "2026-11",
+      "size": 34174,
+      "files": {
+        "csv": {
+          "name": "da-grundskoleelever-efter-skoletype-kommuner-2025_DA.csv",
+          "size": 6365
+        },
+        "xlsx": {
+          "name": "da-grundskoleelever-efter-skoletype-kommuner-2025_DA.xlsx",
+          "size": 12664
         }
       }
     },
